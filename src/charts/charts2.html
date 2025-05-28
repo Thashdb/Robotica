@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Home</title>
+
+    <!-- style -->
+
+    <link href="/style/style.css" rel="stylesheet">
+    <link href="/style/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Incluindo jQuery localmente -->
+	<script src="/JS/jquery-3.4.1.min.js"></script> 
+
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript" src="/JS/jquery.csv.js"></script>
+
+	<!-- Google Charts -->
+
+	<script type="text/javascript" >
+
+        google.charts.load('45.2', {'packages':['corechart']});
+		google.charts.load('45.2', {'packages':['table']});
+
+		google.charts.setOnLoadCallback(drawChartConfs);		//conferencias
+		google.charts.setOnLoadCallback(drawChartDepts);		//departamentos
+		//	google.charts.setOnLoadCallback(drawChartProfs);
+		google.charts.setOnLoadCallback(drawTableProfsList);	//professores
+		google.charts.setOnLoadCallback(drawTablePapers);		//artigos
+		google.charts.setOnLoadCallback(drawTableStats);		//estatisticas
+
+        corebr_area_prefix= sessionStorage.getItem('corebr_area_prefix');
+		// ga('send', 'event', 'Research Area Click', corebr_area_prefix); 
+		var corebr_confs_file  = "/data/" + corebr_area_prefix + "-out-confs.csv";
+		var corebr_depts_file  = "/data/" + corebr_area_prefix + "-out-scores.csv";
+	//	var corebr_profs_file  = "data/" + corebr_area_prefix + "-out-profs.csv";
+		var corebr_profs_list_file  = "/data/" + corebr_area_prefix + "-out-profs-list.csv";
+		var corebr_papers_file = "/data/" + corebr_area_prefix + "-out-papers.csv";
+		var corebr_stats_file  = "/data/" + corebr_area_prefix + "-out-stats.csv";
+
+		// conferencias -> grafico de colunas
+			// número de artigos completos publicados por professores brasileiros em conferências monitoradas
+        function drawChartConfs() {
+			$.get(corebr_confs_file, function(csvString) {
+				var arrayData = $.csv.toArrays(csvString, {onParseValue: $.csv.hooks.castToScalar});
+				var data= new google.visualization.DataTable();
+				data.addColumn('string', 'Conferences');
+				data.addColumn('number', 'Papers');
+				data.addRows(arrayData);
+				var view = new google.visualization.DataView(data);
+				view.setColumns([0, 1,
+							{ calc: "stringify",
+								sourceColumn: 1,
+								type: "string",
+								role: "annotation" },
+							]);
+				var options = { 'width': 800,
+							'height': 500,
+							'fontSize': 12,
+							'legend': { position: "none" },
+							'chartArea': {left:40, top:40, right:30,  width:'80%',height:'65%'},
+							'hAxis': { slantedText:true, slantedTextAngle:45 },
+							'vAxis': { gridlines: { counts: -1} },
+							'annotations': { alwaysOutside:true },
+							'titleTextStyle': { bold: false },
+							'title': 'Number of full papers by Brazilian professors in tracked conferences'
+							};
+					var chart = new google.visualization.ColumnChart(document.getElementById('chart_confs'));
+					chart.draw(view, options);
+			});
+		}
+
+		// departamentos
+			//  gráfico de colunas para exibir o desempenho dos departamentos baseado em um cálculo de pontuação
+        function drawChartDepts() {
+			$.get(corebr_depts_file, function(csvString) {
+				var arrayData = $.csv.toArrays(csvString, {onParseValue: $.csv.hooks.castToScalar});
+			if (arrayData.length > 16) {
+				arrayData = arrayData.slice(0,16);
+			}
+				var data= new google.visualization.DataTable();
+				data.addColumn('string', 'Departments');
+				data.addColumn('number', 'Score');
+				data.addRows(arrayData);
+				var view = new google.visualization.DataView(data);
+				view.setColumns([0, 1,
+							{ calc: "stringify",
+								sourceColumn: 1,
+								type: "string",
+								role: "annotation" },
+							]);
+				var options = { 'width': 800,
+							'height': 500,
+							'fontSize': 12,
+							'legend': { position: "none" },
+							'chartArea': {left:40, top:40, right:30,  width:'80%',height:'65%'},
+							'hAxis': { slantedText:true, slantedTextAngle:45 },
+							'annotations': { alwaysOutside:true },
+							'titleTextStyle': { bold: false },
+				'title': "Score= A + (0.40 * B) + (0.33 * C), where A= papers in top-venues; B= papers in journals; C= papers in conferences or in \"other\" journals"
+						};
+						// A = Artigos em top venues (melhores conferências ou revistas).
+						// B = Artigos em jornais.
+						// C = Artigos em conferências ou outros jornais.
+				var chart = new google.visualization.ColumnChart(document.getElementById('chart_depts'));
+				chart.draw(view, options);
+			});
+		}
+
+		// 
+        function drawChartProfs() {
+			$.get(corebr_profs_file, function(csvString) {
+				var arrayData = $.csv.toArrays(csvString, {onParseValue: $.csv.hooks.castToScalar});
+				var data= new google.visualization.DataTable();
+				data.addColumn('string', 'Departments');
+				data.addColumn('number', 'Profs');
+				data.addRows(arrayData);
+				var view = new google.visualization.DataView(data);
+				view.setColumns([0, 1,
+							{ calc: "stringify",
+								sourceColumn: 1,
+								type: "string",
+								role: "annotation" },
+							]);
+				var options = { 'width': 800,
+							'height': 500,
+							'fontSize': 12,
+							'legend': { position: "none" },
+							'chartArea': {left:40, top:30, right:30,  width:'80%',height:'65%'},
+							'hAxis': { slantedText:true, slantedTextAngle:45 },
+							'annotations': { alwaysOutside:true },
+							'titleTextStyle': { bold: false },
+							'title': 'Number of faculty members co-authoring papers in tracked conferences'
+							};
+					var chart = new google.visualization.ColumnChart(document.getElementById('chart_profs'));
+					chart.draw(view, options);
+			});
+		}
+
+		//  lista de professores brasileiros com artigos indexados
+			// gera links para as páginas de cada professor, onde os usuários podem visualizar os artigos associados a ele
+        function drawTableProfsList() {
+			$.get(corebr_profs_list_file, function(csvString) {
+				var arrayData = $.csv.toArrays(csvString, {onParseValue: $.csv.hooks.castToScalar});
+				for (var i = 0; i < arrayData.length; i++) {
+					prof = arrayData[i][0];
+					prof2 = prof.split(" ").join("-");
+					// url = '<small> <a href="https://csindexbr.org/authors.html?p=';
+					// url = url + prof2 + '" target="_blank">[papers]</a> </small>';
+					// arrayData[i][0] = prof + url;
+					url = '<a href="https://csindexbr.org/authors.html?p=';
+					url = url + prof2 + '" target="_blank">' +  prof + '</a>';
+					arrayData[i][0] = url;
+				}
+				var data= new google.visualization.DataTable();
+				data.addColumn('string', 'Brazilian Professors with Indexed Papers'); // 0
+				data.addColumn('string', 'Department');  // 1
+				data.addRows(arrayData);
+
+				var table = new google.visualization.Table(document.getElementById('chart_profs2'));
+				table.draw(data, {allowHtml: true, showRowNumber: true, width: '100%', height: '100%'});
+			});
+		}
+
+		// lista de artigos acadêmicos -> tabela
+        function drawTablePapers() {
+			$.get(corebr_papers_file, function(csvString) {
+				var arrayData = $.csv.toArrays(csvString, {onParseValue: $.csv.hooks.castToScalar});
+				arrayData2 = [];
+				for (var i = 0; i < arrayData.length; i++) {
+					if (arrayData[i][8] == "no_arxiv") {
+						arrayData[i][8] = "";
+					} else {
+						arrayData[i][8] = "<a href=\"" + arrayData[i][8] + "\" target=\"_blank\" onclick=\"trackOutboundLink(this.href); return false;\">[arxiv]</a>";
+					// "<a href=\"" + arrayData[i][8] + "\" target=\"_blank\">[arxiv]</a>";
+					}
+					arrayData2.push(arrayData[i]);
+				}
+				var data= new google.visualization.DataTable();
+				data.addColumn('number', 'Year');  // 0
+				data.addColumn('string', 'Venue');  // 1 Local da publicação
+				data.addColumn('string', 'Title');  // 2
+				data.addColumn('string', 'Depts'); // 3 Departamentos
+				data.addColumn('string', 'Authors');  // 4
+				data.addColumn('string', 'DOI'); // 5 Digital Object Identifier
+				data.addColumn('string', 'top'); // 6 Informação sobre a classificação do artigo
+				data.addColumn('string', 'Type'); // 7 Tipo de artigo
+				data.addColumn('string', 'arxiv'); // 8 - type={no_arxiv,arxiv_url}
+				data.addColumn('number', 'Citations'); // 9 - citations
+
+				data.addRows(arrayData2);
+
+				var table = new google.visualization.Table(document.getElementById('chart_papers'));
+
+				var formatter = new google.visualization.NumberFormat( {pattern: '####'} );
+			formatter.format(data, 0); // format year
+
+			var formatter = new google.visualization.PatternFormat(
+				'{0} <a href="{1}" onclick="trackOutboundLink(this.href); return false;">[doi]</a> {2}');
+			formatter.format(data, [2, 5, 8]);
+
+			var formatter2 = new google.visualization.PatternFormat('<img src="figs/{1}.gif">{0}');
+			formatter2.format(data, [2, 6]);
+
+			var view = new google.visualization.DataView(data);
+
+			// view.setColumns([0,1,2,3,4,9]);
+			view.setColumns([0,1,2,3,4]); // citações foram removidas (i=9)
+
+			var table2 = view.toDataTable();
+			table2.sort({column: 1, desc: false});
+			table2.sort({column: 0, desc: true});
+
+				table.draw(table2, {allowHtml: true, showRowNumber: true, width: '100%', height: '550'});
+			});
+		}
+
+		// conferencias e estatisticas -> tabela
+			// número de submissões, aceitação, taxa de aceitação, h5-index, e outras métricas
+		function drawTableStats() {
+			$.get(corebr_stats_file, function(csvString) {
+				var arrayData = $.csv.toArrays(csvString, {onParseValue: $.csv.hooks.castToScalar});
+				var data= new google.visualization.DataTable();
+				data.addColumn('string', 'Conference'); // 0 nome
+				data.addColumn('string', 'Sponsor');  // 1 patrocinador
+				data.addColumn('number', 'Submitted'); // 2 n de submissoes
+				data.addColumn('number', 'Accepted'); // 3 n de artigos aceitos
+				data.addColumn('number', 'Rate'); // 4 taxa de aceitação
+				data.addColumn('number', 'h5-index'); // 5 índice de impacto de citações
+				data.addColumn('string', 'Rank'); // 6 classificacao
+				data.addColumn('number', 'Pages'); //7 n de paginas
+				data.addRows(arrayData);
+
+			var table = new google.visualization.Table(document.getElementById('chart_stats'));
+
+			var formatter1 = new google.visualization.ColorFormat();
+			formatter1.addRange(50, 90, 'black', 'LemonChiffon');
+			formatter1.addRange(0, 50, 'black', 'Khaki');
+			formatter1.format(data, 2); // Apply formatter to submitted papers
+
+
+			var formatter2 = new google.visualization.ColorFormat();
+			formatter2.addRange(31, 40, 'black', 'LemonChiffon');
+			formatter2.addRange(40, 100, 'black', 'Khaki');
+			formatter2.format(data, 4);
+
+				var formatter3 = new google.visualization.ColorFormat();
+			formatter3.addRange(15, 19, 'black', 'LemonChiffon');
+			formatter3.addRange(0, 15, 'black', 'Khaki');
+			formatter3.format(data, 5);
+
+				var formatter4 = new google.visualization.ColorFormat();
+			formatter4.addRange(0, 9, 'black', 'LemonChiffon');
+			formatter4.format(data, 7);
+
+				var view = new google.visualization.DataView(data);
+			view.setColumns([
+				0,1,2,3,4,5,
+				{ type: 'number',
+					label: 'Norm h5',
+					calc: function(dataTable, rowNum){
+							r = dataTable.getValue(rowNum, 5) / dataTable.getValue(rowNum, 3);
+							return Math.round(r * 100) / 100;
+						}
+				},6,7]);
+
+			var table2 = view.toDataTable();
+
+			var formatter5 = new google.visualization.ColorFormat();
+			formatter5.addRange(0, 0.25, 'black', 'LemonChiffon');
+			formatter5.format(table2, 6);
+
+			table.draw(table2, {allowHtml: true, showRowNumber: true, width: '100%', height: '100%'});
+			});
+		}
+
+    </script>
+
+</head>
+
+<body>
+
+    <ul class="nav nav-tabs" role="tablist">
+
+		<li class="nav-item">
+			<a class="nav-link small active" data-toggle="tab" href="#confs" role="tab">Conferences</a>
+		</li>
+
+		<li class="nav-item">
+			<a class="nav-link small" data-toggle="tab" href="#journals" role="tab">Journals</a>
+		</li>
+
+		<li class="nav-item">
+			<a class="nav-link small"  data-toggle="tab" href="#depts" role="tab">Departments</a>
+		</li>
+
+		<li class="nav-item">
+			<a class="nav-link small"  data-toggle="tab" href="#profs2" role="tab">Faculty</a>
+		</li>
+
+		<li class="nav-item">
+			<a class="nav-link small"  data-toggle="tab" href="#papers" role="tab">Papers (C)</a>
+		</li>
+
+		<li class="nav-item">
+			<a class="nav-link small"  data-toggle="tab" href="#papersjournal" role="tab">Papers (J)</a>
+		</li>
+
+		<li class="nav-item">
+			<a class="nav-link small"  data-toggle="tab" href="#stats" role="tab">Stats (C)</a>
+		</li>
+
+		<li class="nav-item">
+			<a class="nav-link small"  data-toggle="tab" href="#stats_journals" role="tab">Stats (J)</a>
+		</li>
+
+	</ul>
+
+	<div class="tab-content">
+
+		<div class="tab-pane active" id="confs" role="tabpanel">
+			<div id="chart_confs"></div>
+		</div>
+
+		<div class="tab-pane" id="journals" role="tabpanel">
+			<div id="chart_journals"></div>
+		</div>
+
+		<div class="tab-pane" id="depts" role="tabpanel">
+			<div id="chart_depts"></div>
+		</div>
+
+		<div class="tab-pane" id="profs2" role="tabpanel">
+			<div id="chart_profs2"></div>
+		</div>
+
+		<div class="tab-pane" id="papers" role="tabpanel">
+			<div id="chart_papers_conf"></div>
+		</div>
+
+		<div class="tab-pane" id="papersjournal" role="tabpanel">
+			<div id="chart_papers_journal"></div>
+		</div>
+
+		<div class="tab-pane" id="stats" role="tabpanel">
+			<div id="chart_stats"></div>
+		</div>
+
+		<div class="tab-pane" id="stats_journals" role="tabpanel">
+			<div id="chart_stats_journals"></div>
+		</div>
+
+	</div>
+
+	<script src="/JS/popper.min.js"> </script>
+	<script src="/JS/bootstrap.min.js"> </script>
+
+
+</body>
+</html>

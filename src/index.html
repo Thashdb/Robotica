@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Home</title>
+
+    <!-- favcon -->
+        <!-- Favicon principal -->
+        <link rel="icon" href="../images/" type="image/x-icon">
+
+        <!-- Favicon para diferentes tamanhos e dispositivos -->
+        <link rel="icon" href="../images/favicon-16x16.png" sizes="16x16" type="image/png">
+        <link rel="icon" href="../images/favicon-32x32.png" sizes="32x32" type="image/png">
+        <link rel="icon" href="../images/android-chrome-192x192.png" sizes="192x192" type="image/png">
+        <link rel="icon" href="../images/android-chrome-512x512.png" sizes="512x512" type="image/png">
+
+        <!-- Apple Touch Icon (para dispositivos Apple) -->
+        <link rel="apple-touch-icon" href="../images/apple-touch-icon.png">
+
+    <!-- style -->
+
+    <link href="../style/style.css" rel="stylesheet">
+    <link href="../style/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Incluindo jQuery localmente -->
+    <script src="/JS/jquery-3.4.1.min.js"></script> 
+
+
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $("input[type=radio][name=research_area_btn]").click(function() {
+                // Pega o valor da área de pesquisa selecionada
+                var corebr_area_prefix = $("input[type=radio][name=research_area_btn]:checked").val();
+                
+                // Armazena a área de pesquisa selecionada no sessionStorage
+                sessionStorage.setItem('corebr_area_prefix', corebr_area_prefix);
+                
+                // Recarrega o conteúdo do iframe
+                document.getElementById('charts-frame').contentWindow.location.reload(true);
+                
+                // Condicionais para carregar páginas diferentes dependendo da área de pesquisa
+                if (corebr_area_prefix === "mech" || 
+                    corebr_area_prefix === "control" ||
+                    // corebr_area_prefix === "cs" ||
+                    corebr_area_prefix === "robotics in education" || 
+                    corebr_area_prefix === "robotics") {
+                    document.getElementById('charts-frame').contentWindow.location.replace("charts/charts2.html");
+                } else if(corebr_area_prefix === "cs"){
+                    document.getElementById('charts-frame').contentWindow.location.replace("charts/charts3.html");
+                } else {
+                    document.getElementById('charts-frame').contentWindow.location.replace("charts/charts.html");
+            }
+            });
+        })
+    </script>
+
+    <script type="text/javascript">
+        sessionStorage.setItem('corebr_area_prefix', "cs");
+    </script>
+
+
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+
+            <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <a class="navbar-brand" href="index.html">RoboIndex <font size="1">BETA</font></a>
+
+            <!-- <a class="navbar-brand" href="index.html">
+                <img src="../images/logo-fundo.png" alt="RoboIndex" height="40">
+                <small class="text-muted" style="font-size: 0.6em;">BETA</small>
+            </a> -->
+
+            <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link" href="authors2.html">Faculty</a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link" href="depts2.html">Departments</a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link" href="statistics.html">Statistics</a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link" href="faq.html">FAQ</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    
+    <div class="container">
+
+        <div class="row">
+            <div class="col-sm">
+                <p>
+                    RoboIndexBR is a system that provides transparent and meaningful data about Brazilian scientific production in the field of robotics.
+                    <b>We index full papers published in the last five years by Brazilian researchers in selected conferences and journals.</b>
+                    <!-- <br>
+                    The data is retrieved from the DBLP database, ensuring consistent and internationally recognized coverage.
+                    To report missing papers, missing authors, or other issues, please use this form.
+                    <br>
+                    The data is retrieved from the DBLP database, ensuring consistent and internationally recognized coverage.
+                    To report missing papers, missing authors, or other issues, please use this form. -->
+                </p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-3" style="background-color:WhiteSmoke;">
+
+                <div class="radio">
+                    <label><input type="radio" name="research_area_btn" value="mech"> Mechanical Design & Mechatronics</label>
+                </div>
+
+                <div class="radio">
+                    <label><input type="radio" name="research_area_btn" value="control"> Electrical & Control Systems</label>
+                </div>
+
+                <div class="radio">
+                    <label><input type="radio" name="research_area_btn" value="cs"> Computer Science</label>
+                </div>
+
+                <div class="radio">
+                    <label><input type="radio" name="research_area_btn" value="edu"> Robotics in Education</label>
+                </div>
+
+                <div class="radio">
+                    <label><input type="radio" name="research_area_btn" value="robotics"> Robotics (General)</label>
+                </div>
+                
+            </div>
+            
+            <div class="col-sm-9">
+                <iframe name="frame-results" id="charts-frame" height=600 width=820 src="/src/charts/charts2.html">
+                </iframe>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="/JS/popper.min.js"></script>
+    <script src="/JS/bootstrap.min.js"></script>
+
+
+</body>
+</html>
