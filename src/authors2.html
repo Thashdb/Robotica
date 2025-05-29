@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>RoboIndex: Faculty</title>
+
+    <!-- favcon -->
+        <!-- Favicon principal -->
+        <link rel="icon" href="../images/" type="image/x-icon">
+
+        <!-- Favicon para diferentes tamanhos e dispositivos -->
+        <link rel="icon" href="../images/favicon-16x16.png" sizes="16x16" type="image/png">
+        <link rel="icon" href="../images/favicon-32x32.png" sizes="32x32" type="image/png">
+        <link rel="icon" href="../images/android-chrome-192x192.png" sizes="192x192" type="image/png">
+        <link rel="icon" href="../images/android-chrome-512x512.png" sizes="512x512" type="image/png">
+
+        <!-- Apple Touch Icon (para dispositivos Apple) -->
+        <link rel="apple-touch-icon" href="../images/apple-touch-icon.png">
+
+    <!-- style -->
+
+        <link href="../style/style.css" rel="stylesheet">
+        <link href="../style/bootstrap.min.css" rel="stylesheet">
+
+        
+        <link href="./css/bootstrap.min.css" rel="stylesheet">
+        <link href="./css/dashboard.css" rel="stylesheet">
+
+    <!-- Incluindo jQuery localmente -->
+        <script src="/JS/jquery-3.4.1.min.js"></script> 
+
+    <style media="screen">
+        body,html { height: 80%; }
+        .icon { margin-right: 5px; }
+        .autocomplete-suggestions {
+            text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+            position: absolute; display: none; z-index: 9999; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+        }
+        .autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+        .autocomplete-suggestion b { font-weight: normal; color: #1f8dd6; }
+        .autocomplete-suggestion.selected { background: #f0f0f0; }
+    </style>
+
+    <script type="text/javascript" src="libs/jquery.csv.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/JavaScript-autoComplete/1.0.4/auto-complete.min.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function(){
+
+        var file = '../data/configs/profs/all-authors.csv';
+
+        $.get(file, function(data) {
+            var list = data.split('\n').map(function(c){ return c.trim(); });
+            new autoComplete({
+                selector: '#app-input',
+                minChars: 4,
+                source: function(term, suggest) {
+                var suggestions = list.filter(function(city) {
+                        return (city.toLowerCase().indexOf(term.toLowerCase().trim()) >= 0);
+                    });
+                suggest(suggestions);
+                },
+                onSelect: function(event, term, item) {
+                term2 = term.split(" ").join("-");
+                window.open("authors.html?p=" + term2, "_self");
+            }
+            });
+        });
+
+        });
+    </script>
+
+
+</head>
+
+    <body>
+
+    <header>
+        <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+
+            <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <a class="navbar-brand" href="index.html">RoboIndex <font size="1">BETA</font></a>
+
+            <!-- <a class="navbar-brand" href="index.html">
+                <img src="../images/logo-fundo.png" alt="RoboIndex" height="40">
+                <small class="text-muted" style="font-size: 0.6em;">BETA</small>
+            </a> -->
+
+            <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>  
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="authors2.html">Faculty <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="depts2.html">Departments</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="statistics.html">Statistics</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="faq.html">FAQ</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+
+    <div class="container">
+
+    <div class="row">
+    <div class="col-sm">
+
+    <p></p>
+
+    <p>
+        <b>Only Brazilian professors with papers in conferences and journals
+        indexed by RoboIndexBR have pages.</b> Faculty pages have a permanent URL; so
+        you can link to them (copy the URL in the address bar of the browser).
+        See also the <b><a href="profs.html">full list</a></b>
+        of Brazilian CS professors with indexed papers.
+    </p>
+
+    </div>
+    </div>
+
+    <div class="row">
+    <div class="col-sm-8">
+
+    <div class="input-group h-20 border-primary justify-content-center">
+        <input id="app-input" type="text" class="form-control"
+        placeholder="Enter the name of a Brazilian faculty" aria-label="Author" aria-describedby="basic-addon2">
+    </div>
+
+    </div>
+
+    <script src="/JS/popper.min.js"></script>
+    <script src="/JS/bootstrap.min.js"></script>
+
+    </body>
+</html>
