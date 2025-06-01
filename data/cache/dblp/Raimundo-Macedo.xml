@@ -1,0 +1,625 @@
+<?xml version="1.0"?>
+<dblpperson name="Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do" pid="m/RJdAMacedo" n="42">
+<person key="homepages/m/RJdAMacedo" mdate="2024-07-25">
+<author pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<author pid="m/RJdAMacedo">Raimundo A. Mac&#234;do 0001</author>
+<note type="affiliation">Federal University of Bahia, Distributed Systems Laboratory, Salvador, Brazil</note>
+<url>http://www.macedo.ufba.br/</url>
+<url>https://orcid.org/0000-0002-7672-2208</url>
+</person>
+<homonyms n="1">
+<h f="m/Mac=ecirc=do:Raimundo_A="><name>Raimundo A. Mac&#234;do</name>
+</h>
+</homonyms>
+<r><article key="journals/computing/HerculanoPGCSAMG24" mdate="2024-07-26">
+<author pid="335/3506">Jorge F. Herculano</author>
+<author pid="335/2918">Willians de P. Pereira</author>
+<author pid="381/5631">Marcelo Guimar&#227;es</author>
+<author pid="381/5711">Reinaldo Cotrim</author>
+<author pid="93/8069">Alirio Santos de S&#225;</author>
+<author pid="49/9862">Fl&#225;vio Assis 0001</author>
+<author pid="m/RJdAMacedo">Raimundo A. Mac&#234;do 0001</author>
+<author pid="60/6856">S&#233;rgio Gorender</author>
+<title>MAC approaches to communication efficiency and reliability under dynamic network traffic in wireless body area networks: a review.</title>
+<pages>2785-2809</pages>
+<year>2024</year>
+<month>August</month>
+<volume>106</volume>
+<journal>Computing</journal>
+<number>8</number>
+<ee>https://doi.org/10.1007/s00607-024-01307-9</ee>
+<url>db/journals/computing/computing106.html#HerculanoPGCSAMG24</url>
+<stream>streams/journals/computing</stream>
+</article>
+</r>
+<r><inproceedings key="conf/sbesc/GuimaraesM24" mdate="2024-12-18">
+<author pid="392/7986">Marcelo Alves Guimar&#227;es</author>
+<author pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<title>Energy-Efficient eHealth Monitoring with LPWAN.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC65055.2024.10771908</ee>
+<crossref>conf/sbesc/2024</crossref>
+<url>db/conf/sbesc/sbesc2024.html#GuimaraesM24</url>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/DuarteMMR20" mdate="2024-08-04">
+<author pid="02/3940">Elias P. Duarte Jr.</author>
+<author orcid="0000-0002-7672-2208" pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<author pid="35/5134">Eliane Martins</author>
+<author pid="r/SRajsbaum">Sergio Rajsbaum</author>
+<title>A tour of dependable computing research in Latin America.</title>
+<pages>96-101</pages>
+<year>2020</year>
+<volume>63</volume>
+<journal>Commun. ACM</journal>
+<number>11</number>
+<ee>https://doi.org/10.1145/3416979</ee>
+<url>db/journals/cacm/cacm63.html#DuarteMMR20</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbesc/SilvaRM18" mdate="2024-02-05">
+<author pid="239/6759">Wellington Lacerda Silveira da Silva</author>
+<author pid="160/5695">Marco Antonio Dantas Ramos</author>
+<author orcid="0000-0002-7672-2208" pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<title>Byzantine Fault Tolerance in the Partitioned Synchronous System Model.</title>
+<pages>106-113</pages>
+<year>2018</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2018.00024</ee>
+<crossref>conf/sbesc/2018</crossref>
+<url>db/conf/sbesc/sbesc2018.html#SilvaRM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iciot/KumarBMM17" mdate="2024-08-04">
+<author pid="185/1470">Sathish A. P. Kumar</author>
+<author pid="b/BKBhargava">Bharat K. Bhargava</author>
+<author orcid="0000-0002-7672-2208" pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<author orcid="0000-0002-8934-6424" pid="131/7985">Ganapathy Mani</author>
+<title>Securing IoT-Based Cyber-Physical Human Systems against Collaborative Attacks.</title>
+<pages>9-16</pages>
+<year>2017</year>
+<booktitle>ICIOT</booktitle>
+<ee>https://doi.org/10.1109/IEEE.ICIOT.2017.11</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IEEE.ICIOT.2017.11</ee>
+<crossref>conf/iciot/2017</crossref>
+<url>db/conf/iciot/iciot2017.html#KumarBMM17</url>
+</inproceedings>
+</r>
+<r><article key="journals/itsr/CambruzziFKM16" mdate="2024-07-25">
+<author pid="46/11205">Eduardo Cambruzzi</author>
+<author pid="37/5635">Jean-Marie Farines</author>
+<author orcid="0000-0002-1050-2309" pid="16/4380">Werner Kraus Jr.</author>
+<author orcid="0000-0002-7672-2208" pid="m/RJdAMacedo">Raimundo A. Mac&#234;do 0001</author>
+<title>A Cluster Management System for VANETs.</title>
+<pages>115-126</pages>
+<year>2016</year>
+<volume>14</volume>
+<journal>Int. J. Intell. Transp. Syst. Res.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s13177-014-0107-y</ee>
+<url>db/journals/itsr/itsr14.html#CambruzziFKM16</url>
+</article>
+</r>
+<r><article key="journals/jserd/AndradeM15" mdate="2020-05-18">
+<author pid="49/1877">Sandro Santos Andrade</author>
+<author pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<title>Assessing the benefits of search-based approaches when designing self-adaptive systems: a controlled experiment.</title>
+<pages>2</pages>
+<year>2015</year>
+<volume>3</volume>
+<journal>J. Softw. Eng. Res. Dev.</journal>
+<ee type="oa">https://doi.org/10.1186/s40411-015-0016-z</ee>
+<ee>https://www.wikidata.org/entity/Q59413491</ee>
+<url>db/journals/jserd/jserd3.html#AndradeM15</url>
+</article>
+</r>
+<r><article key="journals/sigops/FreitasM14" mdate="2020-07-14">
+<author pid="04/4915">Allan Edgard Silva Freitas</author>
+<author pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<title>A performance evaluation tool for hybrid and dynamic distributed systems.</title>
+<pages>11-18</pages>
+<year>2014</year>
+<volume>48</volume>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2626401.2626404</ee>
+<url>db/journals/sigops/sigops48.html#FreitasM14</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbes/AndradeM14" mdate="2024-02-05">
+<author pid="49/1877">Sandro Santos Andrade</author>
+<author orcid="0000-0002-7672-2208" pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<title>Do Search-Based Approaches Improve the Design of Self-Adaptive Systems? A Controlled Experiment.</title>
+<pages>101-110</pages>
+<year>2014</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1109/SBES.2014.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBES.2014.17</ee>
+<crossref>conf/sbes/2014</crossref>
+<url>db/conf/sbes/sbes2014.html#AndradeM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/FigueiredoCMA14" mdate="2024-09-11">
+<author pid="312/2634">Roberto de Cerqueira Figueiredo</author>
+<author pid="86/2938">Daniela Barreiro Claro</author>
+<author pid="m/RJdAMacedo">Raimundo A. Mac&#234;do 0001</author>
+<author pid="50/915">Aline Andrade</author>
+<title>Intera&#231;&#227;o de caracter&#237;sticas na composi&#231;&#227;o de servi&#231;os web: prevenindo a viola&#231;&#227;o dos requisitos do usu&#225;rio.</title>
+<pages>554-565</pages>
+<year>2014</year>
+<booktitle>SBSI</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbsi.2014.6144</ee>
+<crossref>conf/sbsi/2014</crossref>
+<url>db/conf/sbsi/sbsi2014.html#FigueiredoCMA14</url>
+</inproceedings>
+</r>
+<r><article key="journals/jpdc/MacedoFS13" mdate="2024-02-05">
+<author orcid="0000-0002-7672-2208" pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<author pid="04/4915">Allan Edgard Silva Freitas</author>
+<author pid="93/8069">Alirio Santos de S&#225;</author>
+<title>Enhancing group communication with self-manageable behavior.</title>
+<pages>420-433</pages>
+<year>2013</year>
+<volume>73</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.jpdc.2012.12.005</ee>
+<url>db/journals/jpdc/jpdc73.html#MacedoFS13</url>
+</article>
+</r>
+<r><article key="journals/sigops/SaFM13" mdate="2020-07-14">
+<author pid="93/8069">Alirio Santos de S&#225;</author>
+<author pid="04/4915">Allan Edgard Silva Freitas</author>
+<author pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<title>Adaptive request batching for byzantine replication.</title>
+<pages>35-42</pages>
+<year>2013</year>
+<volume>47</volume>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2433140.2433149</ee>
+<url>db/journals/sigops/sigops47.html#SaFM13</url>
+</article>
+</r>
+<r><inproceedings key="conf/saso/AndradeM13a" mdate="2024-02-05">
+<author pid="49/1877">Sandro Santos Andrade</author>
+<author orcid="0000-0002-7672-2208" pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<title>Toward Systematic Conveying of Architecture Design Knowledge for Self-Adaptive Systems.</title>
+<pages>23-24</pages>
+<year>2013</year>
+<booktitle>SASO Workshops</booktitle>
+<ee>https://doi.org/10.1109/SASOW.2013.13</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SASOW.2013.13</ee>
+<crossref>conf/saso/2013w</crossref>
+<url>db/conf/saso/saso2013w.html#AndradeM13a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/saso/AndradeM13" mdate="2023-03-24">
+<author pid="49/1877">Sandro Santos Andrade</author>
+<author pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<title>A Search-Based Approach for Architectural Design of Feedback Control Concerns in Self-Adaptive Systems.</title>
+<pages>61-70</pages>
+<year>2013</year>
+<booktitle>SASO</booktitle>
+<ee>https://doi.org/10.1109/SASO.2013.42</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SASO.2013.42</ee>
+<crossref>conf/saso/2013</crossref>
+<url>db/conf/saso/saso2013.html#AndradeM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/FreitasM13" mdate="2024-02-05">
+<author pid="04/4915">Allan Edgard Silva Freitas</author>
+<author orcid="0000-0002-7672-2208" pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<title>Performance Evaluation in Hybrid and Dynamic Distributed Systems.</title>
+<pages>17-22</pages>
+<year>2013</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2013.20</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2013.20</ee>
+<crossref>conf/sbesc/2013</crossref>
+<url>db/conf/sbesc/sbesc2013.html#FreitasM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/AndradeM13a" mdate="2015-01-05">
+<author pid="49/1877">Sandro Santos Andrade</author>
+<author pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<title>DuSE-MT: From Design Spaces to Automated Software Architecture Design.</title>
+<pages>-A-6</pages>
+<year>2013</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2013</crossref>
+<url>db/conf/seke/seke2013.html#AndradeM13a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/AndradeM13" mdate="2015-01-05">
+<author pid="49/1877">Sandro Santos Andrade</author>
+<author pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<title>Architectural Design Spaces for Feedback Control Concerns in Self-Adaptive Systems (S).</title>
+<pages>741-746</pages>
+<year>2013</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2013</crossref>
+<url>db/conf/seke/seke2013.html#AndradeM13</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijccbs/MacedoG12" mdate="2024-02-05">
+<author orcid="0000-0002-7672-2208" pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<author pid="60/6856">S&#233;rgio Gorender</author>
+<title>Exploiting partitioned synchrony to implement accurate failure detectors.</title>
+<pages>168-186</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>Int. J. Crit. Comput. Based Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1504/IJCCBS.2012.050303</ee>
+<url>db/journals/ijccbs/ijccbs3.html#MacedoG12</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbesc/SaFM12" mdate="2024-02-05">
+<author pid="93/8069">Alirio Santos de S&#225;</author>
+<author pid="04/4915">Allan Edgard Silva Freitas</author>
+<author orcid="0000-0002-7672-2208" pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<title>Request Batching Self-Configuration in Byzantine Fault-Tolerant Replication.</title>
+<pages>125-130</pages>
+<year>2012</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2012.32</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2012.32</ee>
+<crossref>conf/sbesc/2012</crossref>
+<url>db/conf/sbesc/sbesc2012.html#SaFM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/RamosMB12" mdate="2024-02-05">
+<author pid="160/5695">Marco Antonio Dantas Ramos</author>
+<author orcid="0000-0002-7672-2208" pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<author pid="160/5647">Anne Blagojevic</author>
+<title>An Efficient Mutual Exclusion Algorithm for Redundant Resources in Distributed Operating Systems.</title>
+<pages>208-213</pages>
+<year>2012</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2012.49</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2012.49</ee>
+<crossref>conf/sbesc/2012</crossref>
+<url>db/conf/sbesc/sbesc2012.html#RamosMB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ladc/MacedoFS11" mdate="2024-02-05">
+<author orcid="0000-0002-7672-2208" pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<author pid="04/4915">Allan Edgard Silva Freitas</author>
+<author pid="93/8069">Alirio Santos de S&#225;</author>
+<title>A Self-Manageable Group Communication Protocol for Partially Synchronous Distributed Systems.</title>
+<pages>146-155</pages>
+<year>2011</year>
+<booktitle>LADC</booktitle>
+<ee>https://doi.org/10.1109/LADC.2011.24</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LADC.2011.24</ee>
+<crossref>conf/ladc/2011</crossref>
+<url>db/conf/ladc/ladc2011.html#MacedoFS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dais/SaM10" mdate="2024-02-05">
+<author pid="93/8069">Alirio Santos de S&#225;</author>
+<author orcid="0000-0002-7672-2208" pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<title>QoS Self-configuring Failure Detectors for Distributed Systems.</title>
+<pages>126-140</pages>
+<year>2010</year>
+<booktitle>DAIS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-13645-0_10</ee>
+<crossref>conf/dais/2010</crossref>
+<url>db/conf/dais/dais2010.html#SaM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ivs/CambruzziFMK10" mdate="2023-09-30">
+<author pid="46/11205">Eduardo Cambruzzi</author>
+<author pid="37/5635">Jean-Marie Farines</author>
+<author orcid="0000-0002-7672-2208" pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<author orcid="0000-0002-1050-2309" pid="16/4380">Werner Kraus Jr.</author>
+<title>An adaptive failure detection system for Vehicular Ad-hoc Networks.</title>
+<pages>603-608</pages>
+<year>2010</year>
+<booktitle>Intelligent Vehicles Symposium</booktitle>
+<ee>https://doi.org/10.1109/IVS.2010.5548015</ee>
+<crossref>conf/ivs/2010</crossref>
+<url>db/conf/ivs/ivs2010.html#CambruzziFMK10</url>
+</inproceedings>
+</r>
+<r><article key="journals/jucs/PerroneMLL09" mdate="2024-07-25">
+<author pid="67/7849">Ricardo Perrone</author>
+<author pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<author orcid="0000-0002-8468-5224" pid="07/2481">George Lima 0001</author>
+<author pid="95/7849">Veronica Lima</author>
+<title>An Approach for Estimating Execution Time Probability Distributions of Component-based Real-Time Systems.</title>
+<pages>2142-2165</pages>
+<year>2009</year>
+<volume>15</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>11</number>
+<ee type="oa">https://doi.org/10.3217/jucs-015-11-2142</ee>
+<url>db/journals/jucs/jucs15.html#PerroneMLL09</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEares/MacedoG09" mdate="2024-02-05">
+<author orcid="0000-0002-7672-2208" pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<author pid="60/6856">S&#233;rgio Gorender</author>
+<title>Perfect Failure Detection in the Partitioned Synchronous Distributed System Model.</title>
+<pages>273-280</pages>
+<year>2009</year>
+<booktitle>ARES</booktitle>
+<ee>https://doi.org/10.1109/ARES.2009.165</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ARES.2009.165</ee>
+<crossref>conf/IEEEares/2009</crossref>
+<url>db/conf/IEEEares/ares2009.html#MacedoG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dais/MacedoF09" mdate="2024-02-05">
+<author orcid="0000-0002-7672-2208" pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<author pid="04/4915">Allan Edgard Silva Freitas</author>
+<title>A Generic Group Communication Approach for Hybrid Distributed Systems.</title>
+<pages>102-115</pages>
+<year>2009</year>
+<booktitle>DAIS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-02164-0_8</ee>
+<crossref>conf/dais/2009</crossref>
+<url>db/conf/dais/dais2009.html#MacedoF09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/AndradeM09" mdate="2024-02-05">
+<author pid="49/1877">Sandro Santos Andrade</author>
+<author orcid="0000-0002-7672-2208" pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<title>A non-intrusive component-based approach for deploying unanticipated self-management behaviour.</title>
+<pages>152-161</pages>
+<year>2009</year>
+<booktitle>SEAMS</booktitle>
+<ee>https://doi.org/10.1109/SEAMS.2009.5069084</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SEAMS.2009.5069084</ee>
+<crossref>conf/icse/2009seams</crossref>
+<url>db/conf/icse/seams2009.html#AndradeM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcars/PerroneMLL08" mdate="2024-11-27">
+<author pid="67/7849">Ricardo Perrone</author>
+<author pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<author pid="07/2481">George Lima 0001</author>
+<author pid="95/7849">Veronica Lima</author>
+<title>Uma Abordagem para Estimar Tempos de Execu&#231;&#227;o em Sistemas de Tempo Real baseados em Componentes.</title>
+<pages>82-95</pages>
+<year>2008</year>
+<booktitle>SBCARS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbcars.2008.46203</ee>
+<crossref>conf/sbcars/2008</crossref>
+<url>db/conf/sbcars/sbcars2008.html#PerroneMLL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wonto/ClaroLAM08" mdate="2023-03-10">
+<author pid="86/2938">Daniela Barreiro Claro</author>
+<author pid="l/OrianaLicchelli">Oriana Licchelli</author>
+<author pid="90/1357">Patrick Albers</author>
+<author pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<title>Personalized Reliable Web service Compositions.</title>
+<year>2008</year>
+<booktitle>WONTO</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-427/paper5.pdf</ee>
+<crossref>conf/wonto/2008</crossref>
+<url>db/conf/wonto/wonto2008.html#ClaroLAM08</url>
+</inproceedings>
+</r>
+<r><article key="journals/tdsc/GorenderMR07" mdate="2023-09-30">
+<author pid="60/6856">S&#233;rgio Gorender</author>
+<author orcid="0000-0002-7672-2208" pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<author pid="r/MichelRaynal">Michel Raynal</author>
+<title>An Adaptive Programming Model for Fault-Tolerant Distributed Computing.</title>
+<pages>18-31</pages>
+<year>2007</year>
+<volume>4</volume>
+<journal>IEEE Trans. Dependable Secur. Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TDSC.2007.3</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TDSC.2007.3</ee>
+<url>db/journals/tdsc/tdsc4.html#GorenderMR07</url>
+</article>
+</r>
+<r><inproceedings key="conf/etfa/AndradeM07" mdate="2023-09-30">
+<author pid="49/1877">Sandro Santos Andrade</author>
+<author orcid="0000-0002-7672-2208" pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<title>Engineering components for flexible and interoperable real-time distributed supervision and control systems.</title>
+<pages>376-383</pages>
+<year>2007</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/EFTA.2007.4416792</ee>
+<crossref>conf/etfa/2007</crossref>
+<url>db/conf/etfa/etfa2007.html#AndradeM07</url>
+</inproceedings>
+</r>
+<r><article key="journals/jpdc/MacedoS05" mdate="2024-02-05">
+<author orcid="0000-0002-7672-2208" pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<author pid="49/9862">Fl&#225;vio Morais de Assis Silva</author>
+<title>The mobile groups approach for the coordination of mobile agents.</title>
+<pages>275-288</pages>
+<year>2005</year>
+<volume>65</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.jpdc.2004.10.001</ee>
+<url>db/journals/jpdc/jpdc65.html#MacedoS05</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsn/GorenderMR05" mdate="2024-07-25">
+<author pid="60/6856">S&#233;rgio Gorender</author>
+<author orcid="0000-0002-7672-2208" pid="m/RJdAMacedo">Raimundo A. Mac&#234;do 0001</author>
+<author pid="r/MichelRaynal">Michel Raynal</author>
+<title>A Hybrid and Adaptive Model for Fault-Tolerant Distributed Computing.</title>
+<pages>412-421</pages>
+<year>2005</year>
+<crossref>conf/dsn/2005</crossref>
+<booktitle>DSN</booktitle>
+<ee>https://doi.org/10.1109/DSN.2005.8</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DSN.2005.8</ee>
+<url>db/conf/dsn/dsn2005.html#GorenderMR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etfa/AndradeM05" mdate="2017-05-23">
+<author pid="49/1877">Sandro Santos Andrade</author>
+<author pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<title>A component-based real-time architecture for distributed supervision and control applications.</title>
+<year>2005</year>
+<crossref>conf/etfa/2005</crossref>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2005.1612497</ee>
+<url>db/conf/etfa/etfa2005.html#AndradeM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ladc/LimaM05" mdate="2024-07-25">
+<author pid="96/4395">F&#225;bio Lima</author>
+<author orcid="0000-0002-7672-2208" pid="m/RJdAMacedo">Raimundo A. Mac&#234;do 0001</author>
+<title>Adapting Failure Detectors to Communication Network Load Fluctuations Using SNMP and Artificial Neural Nets.</title>
+<pages>191-205</pages>
+<year>2005</year>
+<crossref>conf/ladc/2005</crossref>
+<booktitle>LADC</booktitle>
+<ee>https://doi.org/10.1007/11572329_16</ee>
+<url>db/conf/ladc/ladc2005.html#LimaM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsn/MacedoS02" mdate="2023-03-24">
+<author pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<author pid="49/9862">Fl&#225;vio Morais de Assis Silva</author>
+<title>Coordination of Mobile Processes with Mobile Groups.</title>
+<pages>177-186</pages>
+<year>2002</year>
+<crossref>conf/dsn/2002</crossref>
+<booktitle>DSN</booktitle>
+<ee>https://doi.org/10.1109/DSN.2002.1028898</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DSN.2002.1028898</ee>
+<url>db/conf/dsn/dsn2002.html#MacedoS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/HurfinMRM01" mdate="2024-07-25">
+<author pid="53/2930">Michel Hurfin</author>
+<author pid="m/AchourMostefaoui">Achour Most&#233;faoui</author>
+<author pid="r/MichelRaynal">Michel Raynal</author>
+<author orcid="0000-0002-7672-2208" pid="m/RJdAMacedo">Raimundo A. Mac&#234;do 0001</author>
+<title>A Consensus Protocol Based on a Weak FailureDetector and a Sliding Round Window.</title>
+<pages>120-129</pages>
+<year>2001</year>
+<crossref>conf/srds/2001</crossref>
+<booktitle>SRDS</booktitle>
+<ee>https://doi.org/10.1109/RELDIS.2001.969766</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RELDIS.2001.969766</ee>
+<url>db/conf/srds/srds2001.html#HurfinMRM01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/GreveHMR00" mdate="2024-07-25">
+<author pid="16/2607">Fab&#237;ola Greve</author>
+<author pid="53/2930">Michel Hurfin</author>
+<author orcid="0000-0002-7672-2208" pid="m/RJdAMacedo">Raimundo A. Mac&#234;do 0001</author>
+<author pid="r/MichelRaynal">Michel Raynal</author>
+<title>Consensus Based on Strong Failure Detectors: A Time and Message-Efficient Protocol.</title>
+<pages>1258-1265</pages>
+<year>2000</year>
+<crossref>conf/ipps/2000w</crossref>
+<booktitle>IPDPS Workshops</booktitle>
+<ee>https://doi.org/10.1007/3-540-45591-4_172</ee>
+<url>db/conf/ipps/ipdpsW2000.html#GreveHMR00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/GreveHMR00" mdate="2024-07-25">
+<author pid="16/2607">Fab&#237;ola Greve</author>
+<author pid="53/2930">Michel Hurfin</author>
+<author pid="m/RJdAMacedo">Raimundo A. Mac&#234;do 0001</author>
+<author pid="r/MichelRaynal">Michel Raynal</author>
+<title>Time and message-efficient S-based consensus (brief announcement).</title>
+<pages>332</pages>
+<year>2000</year>
+<crossref>conf/podc/2000</crossref>
+<booktitle>PODC</booktitle>
+<ee>https://doi.org/10.1145/343477.362067</ee>
+<url>db/conf/podc/podc2000.html#GreveHMR00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipccc/BadacheHM99" mdate="2024-02-05">
+<author pid="60/842">Nadjib Badache</author>
+<author pid="53/2930">Michel Hurfin</author>
+<author orcid="0000-0002-7672-2208" pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<title>Solving the consensus problem in a mobile environment.</title>
+<pages>29-35</pages>
+<year>1999</year>
+<crossref>conf/ipccc/1999</crossref>
+<booktitle>IPCCC</booktitle>
+<ee>https://doi.org/10.1109/PCCC.1999.749417</ee>
+<url>db/conf/ipccc/ipccc1999.html#BadacheHM99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/HurfinMRT99" mdate="2024-07-25">
+<author pid="53/2930">Michel Hurfin</author>
+<author pid="m/RJdAMacedo">Raimundo A. Mac&#234;do 0001</author>
+<author pid="r/MichelRaynal">Michel Raynal</author>
+<author orcid="0000-0002-2420-6105" pid="t/FredericTronel">Frederic Tronel</author>
+<title>A General Framework to Solve Agreement Problems.</title>
+<pages>56-65</pages>
+<year>1999</year>
+<crossref>conf/srds/1999</crossref>
+<booktitle>SRDS</booktitle>
+<ee>https://doi.org/10.1109/RELDIS.1999.805083</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RELDIS.1999.805083</ee>
+<url>db/conf/srds/srds99.html#HurfinMRT99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/EzhilchelvanMS95" mdate="2024-07-25">
+<author pid="50/2453">Paul D. Ezhilchelvan</author>
+<author orcid="0000-0002-7672-2208" pid="m/RJdAMacedo">Raimundo A. Mac&#234;do 0001</author>
+<author pid="37/5945">Santosh K. Shrivastava</author>
+<title>Newtop: A Fault-Tolerant Group Communication Protocol.</title>
+<pages>296-306</pages>
+<year>1995</year>
+<crossref>conf/icdcs/1995</crossref>
+<booktitle>ICDCS</booktitle>
+<url>db/conf/icdcs/icdcs95.html#EzhilchelvanMS95</url>
+<ee>https://doi.org/10.1109/ICDCS.1995.500032</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDCS.1995.500032</ee>
+</inproceedings>
+</r>
+<coauthors n="39" nc="4">
+<co c="0"><na f="a/Albers:Patrick" pid="90/1357">Patrick Albers</na></co>
+<co c="0"><na f="a/Andrade:Aline" pid="50/915">Aline Andrade</na></co>
+<co c="-1"><na f="a/Andrade:Sandro_Santos" pid="49/1877">Sandro Santos Andrade</na></co>
+<co c="0" n="2"><na f="a/Assis_0001:Fl=aacute=vio" pid="49/9862">Fl&#225;vio Assis 0001</na><na>Fl&#225;vio Morais de Assis Silva</na></co>
+<co c="0"><na f="b/Badache:Nadjib" pid="60/842">Nadjib Badache</na></co>
+<co c="2"><na f="b/Bhargava:Bharat_K=" pid="b/BKBhargava">Bharat K. Bhargava</na></co>
+<co c="1"><na f="b/Blagojevic:Anne" pid="160/5647">Anne Blagojevic</na></co>
+<co c="3"><na f="c/Cambruzzi:Eduardo" pid="46/11205">Eduardo Cambruzzi</na></co>
+<co c="0"><na f="c/Claro:Daniela_Barreiro" pid="86/2938">Daniela Barreiro Claro</na></co>
+<co c="0"><na f="c/Cotrim:Reinaldo" pid="381/5711">Reinaldo Cotrim</na></co>
+<co c="0"><na f="d/Duarte_Jr=:Elias_P=" pid="02/3940">Elias P. Duarte Jr.</na></co>
+<co c="0"><na f="e/Ezhilchelvan:Paul_D=" pid="50/2453">Paul D. Ezhilchelvan</na></co>
+<co c="3"><na f="f/Farines:Jean=Marie" pid="37/5635">Jean-Marie Farines</na></co>
+<co c="0"><na f="f/Figueiredo:Roberto_de_Cerqueira" pid="312/2634">Roberto de Cerqueira Figueiredo</na></co>
+<co c="0" n="2"><na f="f/Freitas:Allan_E=_S=" pid="04/4915">Allan E. S. Freitas</na><na>Allan Edgard Silva Freitas</na></co>
+<co c="0"><na f="g/Gorender:S=eacute=rgio" pid="60/6856">S&#233;rgio Gorender</na></co>
+<co c="0"><na f="g/Greve:Fab=iacute=ola" pid="16/2607">Fab&#237;ola Greve</na></co>
+<co c="0"><na f="g/Guimar=atilde=es:Marcelo" pid="381/5631">Marcelo Guimar&#227;es</na></co>
+<co c="-1"><na f="g/Guimar=atilde=es:Marcelo_Alves" pid="392/7986">Marcelo Alves Guimar&#227;es</na></co>
+<co c="0"><na f="h/Herculano:Jorge_F=" pid="335/3506">Jorge F. Herculano</na></co>
+<co c="0"><na f="h/Hurfin:Michel" pid="53/2930">Michel Hurfin</na></co>
+<co c="3"><na f="k/Kraus_Jr=:Werner" pid="16/4380">Werner Kraus Jr.</na></co>
+<co c="2"><na f="k/Kumar:Sathish_A=_P=" pid="185/1470">Sathish A. P. Kumar</na></co>
+<co c="0"><na f="l/Licchelli:Oriana" pid="l/OrianaLicchelli">Oriana Licchelli</na></co>
+<co c="-1"><na f="l/Lima:F=aacute=bio" pid="96/4395">F&#225;bio Lima</na></co>
+<co c="0"><na f="l/Lima_0001:George" pid="07/2481">George Lima 0001</na></co>
+<co c="0"><na f="l/Lima:Veronica" pid="95/7849">Veronica Lima</na></co>
+<co c="2"><na f="m/Mani:Ganapathy" pid="131/7985">Ganapathy Mani</na></co>
+<co c="0"><na f="m/Martins:Eliane" pid="35/5134">Eliane Martins</na></co>
+<co c="0"><na f="m/Most=eacute=faoui:Achour" pid="m/AchourMostefaoui">Achour Most&#233;faoui</na></co>
+<co c="0"><na f="p/Pereira:Willians_de_P=" pid="335/2918">Willians de P. Pereira</na></co>
+<co c="0"><na f="p/Perrone:Ricardo" pid="67/7849">Ricardo Perrone</na></co>
+<co c="0"><na f="r/Rajsbaum:Sergio" pid="r/SRajsbaum">Sergio Rajsbaum</na></co>
+<co c="1"><na f="r/Ramos:Marco_Antonio_Dantas" pid="160/5695">Marco Antonio Dantas Ramos</na></co>
+<co c="0"><na f="r/Raynal:Michel" pid="r/MichelRaynal">Michel Raynal</na></co>
+<co c="0"><na f="s/S=aacute=:Alirio_Santos_de" pid="93/8069">Alirio Santos de S&#225;</na></co>
+<co c="0"><na f="s/Shrivastava:Santosh_K=" pid="37/5945">Santosh K. Shrivastava</na></co>
+<co c="1"><na f="s/Silva:Wellington_Lacerda_Silveira_da" pid="239/6759">Wellington Lacerda Silveira da Silva</na></co>
+<co c="0" n="2"><na f="t/Tronel:Fr=eacute=d=eacute=ric" pid="t/FredericTronel">Fr&#233;d&#233;ric Tronel</na><na>Frederic Tronel</na></co>
+</coauthors>
+</dblpperson>
+

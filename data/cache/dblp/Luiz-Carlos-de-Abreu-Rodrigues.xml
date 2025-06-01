@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<dblpperson name="Luiz Carlos de Abreu Rodrigues" pid="03/2348" n="2">
+<person key="homepages/03/2348" mdate="2009-06-09">
+<author pid="03/2348">Luiz Carlos de Abreu Rodrigues</author>
+</person>
+<r><article key="journals/rcim/WellerWRV21" mdate="2021-09-16">
+<author pid="22/3783">Tiago Rodrigues Weller</author>
+<author orcid="0000-0001-6633-401X" pid="297/1606">Daniel Rodrigues Weller</author>
+<author pid="03/2348">Luiz Carlos de Abreu Rodrigues</author>
+<author pid="156/6305">Neri Volpato</author>
+<title>A framework for tool-path airtime optimization in material extrusion additive manufacturing.</title>
+<pages>101999</pages>
+<year>2021</year>
+<volume>67</volume>
+<journal>Robotics Comput. Integr. Manuf.</journal>
+<ee>https://doi.org/10.1016/j.rcim.2020.101999</ee>
+<url>db/journals/rcim/rcim67.html#WellerWRV21</url>
+</article>
+</r>
+<r><inproceedings key="conf/geoinfo/RodriguesS04" mdate="2023-01-04">
+<author pid="03/2348">Luiz Carlos de Abreu Rodrigues</author>
+<author pid="09/4743">Hideson Alves da Silva</author>
+<title>Otimiza&#231;&#227;o do Projeto de Redes Urbanas Baseado no Problema de Steiner.</title>
+<pages>143-153</pages>
+<year>2004</year>
+<crossref>conf/geoinfo/2004</crossref>
+<booktitle>GEOINFO</booktitle>
+<ee>http://www.geoinfo.info/geoinfo2004/papers/5922.pdf</ee>
+<url>db/conf/geoinfo/geoinfo2004.html#RodriguesS04</url>
+</inproceedings>
+</r>
+<coauthors n="4" nc="1">
+<co c="-1"><na f="s/Silva:Hideson_Alves_da" pid="09/4743">Hideson Alves da Silva</na></co>
+<co c="0"><na f="v/Volpato:Neri" pid="156/6305">Neri Volpato</na></co>
+<co c="0"><na f="w/Weller:Daniel_Rodrigues" pid="297/1606">Daniel Rodrigues Weller</na></co>
+<co c="0"><na f="w/Weller:Tiago_Rodrigues" pid="22/3783">Tiago Rodrigues Weller</na></co>
+</coauthors>
+</dblpperson>
+

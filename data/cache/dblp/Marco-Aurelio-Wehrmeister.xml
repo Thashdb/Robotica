@@ -1,0 +1,971 @@
+<?xml version="1.0"?>
+<dblpperson name="Marco A. Wehrmeister" pid="60/2173" n="60">
+<person key="homepages/60/2173" mdate="2021-07-24">
+<author pid="60/2173">Marco A. Wehrmeister</author>
+<author pid="60/2173">Marco Aur&#233;lio Wehrmeister</author>
+<url>https://dl.acm.org/profile/81100070406</url>
+<url>https://orcid.org/0000-0002-1415-5527</url>
+<url>https://www.wikidata.org/entity/Q56929542</url>
+</person>
+<r><article key="journals/sensors/OliveiraNW23" mdate="2023-03-11">
+<author orcid="0000-0002-2888-6208" pid="330/4632">Diulhio Candido de Oliveira</author>
+<author orcid="0000-0001-6441-8543" pid="82/4341">Bogdan Tomoyuki Nassu</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco Aur&#233;lio Wehrmeister</author>
+<title>Image-Based Detection of Modifications in Assembled PCBs with Deep Convolutional Autoencoders.</title>
+<pages>1353</pages>
+<year>2023</year>
+<month>February</month>
+<volume>23</volume>
+<journal>Sensors</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.3390/s23031353</ee>
+<url>db/journals/sensors/sensors23.html#OliveiraNW23</url>
+</article>
+</r>
+<r><inproceedings key="conf/ol2a/JuniorBJBWP023" mdate="2025-05-01">
+<author pid="334/0059">Luciano Bonzatto Junior</author>
+<author pid="321/9267">Guido S. Berger</author>
+<author pid="321/9253">Alexandre Oliveira J&#250;nior</author>
+<author pid="249/0200">Jo&#227;o Braun</author>
+<author pid="60/2173">Marco A. Wehrmeister</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author pid="254/0340">Jos&#233; Lima 0001</author>
+<title>A Comparison of Fiducial Markers Pose Estimation for UAVs Indoor Precision Landing.</title>
+<pages>18-33</pages>
+<year>2023</year>
+<booktitle>OL2A (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-53025-8_2</ee>
+<crossref>conf/ol2a/2023-1</crossref>
+<url>db/conf/ol2a/ol2a2023-1.html#JuniorBJBWP023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robot/JuniorBBPSJNCW023" mdate="2025-05-01">
+<author pid="334/0059">Luciano Bonzatto Junior</author>
+<author pid="321/9267">Guido S. Berger</author>
+<author orcid="0000-0003-0276-4314" pid="249/0200">Jo&#227;o Braun</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author pid="283/2953">Murillo Ferreira dos Santos</author>
+<author pid="321/9253">Alexandre Oliveira J&#250;nior</author>
+<author orcid="0000-0003-3864-076X" pid="328/9042">Marek Nowakowski</author>
+<author pid="54/4477">Paulo Gomes Costa</author>
+<author pid="60/2173">Marco A. Wehrmeister</author>
+<author pid="254/0340">Jos&#233; Lima 0001</author>
+<title>A Comparison of PID Controller Architectures Applied in Autonomous UAV Follow up of UGV.</title>
+<pages>26-37</pages>
+<year>2023</year>
+<booktitle>ROBOT (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-59167-9_3</ee>
+<crossref>conf/robot/2023-2</crossref>
+<url>db/conf/robot/robot2023-2.html#JuniorBBPSJNCW023</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/iess/2019" mdate="2023-02-20">
+<editor orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</editor>
+<editor orcid="0000-0002-5684-7310" pid="94/2009">M&#225;rcio Eduardo Kreutz</editor>
+<editor orcid="0000-0001-6003-9247" pid="20/4612">Marcelo G&#246;tz</editor>
+<editor pid="45/3189">Stefan Henkler</editor>
+<editor pid="p/AndyDPimentel">Andy D. Pimentel</editor>
+<editor pid="56/6293">Achim Rettberg</editor>
+<title>Analysis, Estimations, and Applications of Embedded Systems - 6th IFIP TC 10 International Embedded Systems Symposium, IESS 2019, Friedrichshafen, Germany, September 9-11, 2019, Revised Selected Papers</title>
+<booktitle>IESS</booktitle>
+<publisher>Springer</publisher>
+<year>2023</year>
+<series href="db/series/ifip/index.html">IFIP Advances in Information and Communication Technology</series>
+<volume>576</volume>
+<isbn>978-3-031-26499-3</isbn>
+<isbn>978-3-031-26500-6</isbn>
+<ee>https://doi.org/10.1007/978-3-031-26500-6</ee>
+<url>db/conf/iess/iess2019.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/iess/2022" mdate="2023-06-13">
+<editor pid="45/3189">Stefan Henkler</editor>
+<editor orcid="0000-0002-5684-7310" pid="94/2009">M&#225;rcio Eduardo Kreutz</editor>
+<editor orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</editor>
+<editor orcid="0000-0001-6003-9247" pid="20/4612">Marcelo G&#246;tz</editor>
+<editor pid="56/6293">Achim Rettberg</editor>
+<title>Designing Modern Embedded Systems: Software, Hardware, and Applications - 7th IFIP TC 10 International Embedded Systems Symposium, IESS 2022, Lippstadt, Germany, November 3-4, 2022, Proceedings</title>
+<booktitle>IESS</booktitle>
+<publisher>Springer</publisher>
+<year>2023</year>
+<series href="db/series/ifip/index.html">IFIP Advances in Information and Communication Technology</series>
+<volume>669</volume>
+<isbn>978-3-031-34213-4</isbn>
+<isbn>978-3-031-34214-1</isbn>
+<ee>https://doi.org/10.1007/978-3-031-34214-1</ee>
+<url>db/conf/iess/iess2022.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/iess/WehrmeisterOR22" mdate="2023-06-13">
+<author pid="60/2173">Marco A. Wehrmeister</author>
+<author pid="348/9772">Rodrigo S. C. Oliveira</author>
+<author pid="348/9935">Douglas B. Renaux</author>
+<title>Evaluating the Perceptual Properties of Crosscutting Concerns Occurrence Points Specifications in Embedded Software.</title>
+<pages>3-15</pages>
+<year>2022</year>
+<booktitle>IESS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-34214-1_1</ee>
+<crossref>conf/iess/2022</crossref>
+<url>db/conf/iess/iess2022.html#WehrmeisterOR22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ol2a/BergerBJ0PPVSRC22" mdate="2025-05-01">
+<author orcid="0000-0002-4100-1494" pid="321/9267">Guido S. Berger</author>
+<author orcid="0000-0003-0276-4314" pid="249/0200">Jo&#227;o Braun</author>
+<author orcid="0000-0002-7009-3965" pid="321/9253">Alexandre Oliveira J&#250;nior</author>
+<author orcid="0000-0001-7902-1207" pid="254/0340">Jos&#233; Lima 0001</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author orcid="0000-0003-3803-2043" pid="46/9765">Ana I. Pereira</author>
+<author orcid="0000-0002-5798-1298" pid="92/9958">Ant&#243;nio Valente</author>
+<author orcid="0000-0001-5862-5706" pid="03/1494">Salviano F. S. P. Soares</author>
+<author pid="333/9542">Lucas Coradin Rech</author>
+<author pid="211/8353">Alvaro Rog&#233;rio Cantieri</author>
+<author pid="60/2173">Marco A. Wehrmeister</author>
+<title>Sensor Architecture Model for Unmanned Aerial Vehicles Dedicated to Electrical Tower Inspections.</title>
+<pages>35-50</pages>
+<year>2022</year>
+<booktitle>OL2A</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-23236-7_3</ee>
+<crossref>conf/ol2a/2022</crossref>
+<url>db/conf/ol2a/ol2a2022.html#BergerBJ0PPVSRC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robot/BergerJB0PVPCW22" mdate="2025-03-03">
+<author orcid="0000-0002-4100-1494" pid="321/9267">Guido S. Berger</author>
+<author orcid="0000-0002-7009-3965" pid="321/9253">Alexandre Oliveira J&#250;nior</author>
+<author orcid="0000-0003-0276-4314" pid="249/0200">Jo&#227;o Braun</author>
+<author orcid="0000-0001-7902-1207" pid="254/0340">Jos&#233; Lima 0001</author>
+<author orcid="0000-0001-6916-700X" pid="218/9057">Milena F. Pinto</author>
+<author orcid="0000-0002-5798-1298" pid="92/9958">Ant&#243;nio Valente</author>
+<author orcid="0000-0003-3803-2043" pid="46/9765">Ana I. Pereira</author>
+<author pid="211/8353">&#193;lvaro Rog&#233;rio Cantieri</author>
+<author pid="60/2173">Marco A. Wehrmeister</author>
+<title>Sensorial Testbed for High-Voltage Tower Inspection with UAVs.</title>
+<pages>353-364</pages>
+<year>2022</year>
+<booktitle>ROBOT (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-21062-4_29</ee>
+<crossref>conf/robot/2022-2</crossref>
+<url>db/conf/robot/robot2022-2.html#BergerJB0PVPCW22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robot/RechJB0CW22" mdate="2023-06-26">
+<author pid="333/9542">Lucas Coradin Rech</author>
+<author pid="334/0059">Luciano Bonzatto Junior</author>
+<author pid="321/9267">Guido S. Berger</author>
+<author orcid="0000-0001-7902-1207" pid="254/0340">Jos&#233; Lima 0001</author>
+<author pid="211/8353">Alvaro Rog&#233;rio Cantieri</author>
+<author pid="60/2173">Marco Aur&#233;lio Wehrmeister</author>
+<title>Proposal of a Visual Positioning Architecture for Master-Slave Autonomous UAV Applications.</title>
+<pages>365-375</pages>
+<year>2022</year>
+<booktitle>ROBOT (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-21062-4_30</ee>
+<crossref>conf/robot/2022-2</crossref>
+<url>db/conf/robot/robot2022-2.html#RechJB0CW22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-00100" mdate="2022-10-07">
+<author pid="330/4632">Diulhio Candido de Oliveira</author>
+<author pid="82/4341">Bogdan Tomoyuki Nassu</author>
+<author pid="60/2173">Marco Aur&#233;lio Wehrmeister</author>
+<title>Image-Based Detection of Modifications in Gas Pump PCBs with Deep Convolutional Autoencoders.</title>
+<year>2022</year>
+<volume>abs/2210.00100</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.00100</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-00100</url>
+</article>
+</r>
+<r><article key="journals/jirs/PintoWO21" mdate="2021-04-09">
+<author orcid="0000-0003-3571-222X" pid="258/1604">Matheus Leitzke Pinto</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco Aur&#233;lio Wehrmeister</author>
+<author pid="160/1451">Andr&#233; Schneider de Oliveira</author>
+<title>Real-Time Performance Evaluation for Robotics.</title>
+<pages>37</pages>
+<year>2021</year>
+<volume>101</volume>
+<journal>J. Intell. Robotic Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10846-020-01301-1</ee>
+<url>db/journals/jirs/jirs101.html#PintoWO21</url>
+</article>
+</r>
+<r><inproceedings key="conf/ol2a/FerrazJKRSBC0W21" mdate="2023-02-12">
+<author orcid="0000-0002-4917-316X" pid="338/5364">Matheus F. Ferraz</author>
+<author pid="334/0059">Luciano Bonzatto Junior</author>
+<author pid="338/5231">Aroldo S. K. Komori</author>
+<author pid="333/9542">Lucas Coradin Rech</author>
+<author pid="338/5370">Guilherme H. T. Schneider</author>
+<author orcid="0000-0002-4100-1494" pid="321/9267">Guido S. Berger</author>
+<author pid="211/8353">&#193;lvaro Rog&#233;rio Cantieri</author>
+<author orcid="0000-0001-7902-1207" pid="254/0340">Jos&#233; Lima 0001</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<title>Artificial Intelligence Architecture Based on Planar LiDAR Scan Data to Detect Energy Pylon Structures in a UAV Autonomous Detailed Inspection Process.</title>
+<pages>430-443</pages>
+<year>2021</year>
+<booktitle>OL2A</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-91885-9_32</ee>
+<crossref>conf/ol2a/2021</crossref>
+<url>db/conf/ol2a/ol2a2021.html#FerrazJKRSBC0W21</url>
+</inproceedings>
+</r>
+<r><article key="journals/sensors/RosaWBLP20" mdate="2020-05-30">
+<author orcid="0000-0002-5400-8652" pid="259/1623">Ricardo da Rosa</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco Aur&#233;lio Wehrmeister</author>
+<author orcid="0000-0002-5962-0517" pid="217/4363">Thadeu Brito</author>
+<author orcid="0000-0001-7902-1207" pid="254/0340">Jos&#233; Lu&#237;s Lima</author>
+<author orcid="0000-0003-3803-2043" pid="46/9765">Ana I. Pereira</author>
+<title>Honeycomb Map: A Bioinspired Topological Map for Indoor Search and Rescue Unmanned Aerial Vehicles.</title>
+<pages>907</pages>
+<year>2020</year>
+<volume>20</volume>
+<journal>Sensors</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.3390/s20030907</ee>
+<ee>https://www.wikidata.org/entity/Q89659531</ee>
+<url>db/journals/sensors/sensors20.html#RosaWBLP20</url>
+</article>
+</r>
+<r><article key="journals/sensors/CantieriFSTLOW20" mdate="2023-03-21">
+<author pid="211/8353">Alvaro Rog&#233;rio Cantieri</author>
+<author pid="338/5364">Matheus F. Ferraz</author>
+<author orcid="0000-0002-4100-1494" pid="321/9267">Guido Szekir</author>
+<author orcid="0000-0002-0372-312X" pid="210/3781">Marco Ant&#244;nio Sim&#245;es Teixeira</author>
+<author orcid="0000-0001-7902-1207" pid="254/0340">Jos&#233; Lima 0001</author>
+<author orcid="0000-0002-8295-366X" pid="160/1451">Andr&#233; Schneider de Oliveira</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco Aur&#233;lio Wehrmeister</author>
+<title>Cooperative UAV-UGV Autonomous Power Pylon Inspection: An Investigation of Cooperative Outdoor Vehicle Positioning Architecture.</title>
+<pages>6384</pages>
+<year>2020</year>
+<volume>20</volume>
+<journal>Sensors</journal>
+<number>21</number>
+<ee type="oa">https://doi.org/10.3390/s20216384</ee>
+<ee>https://www.wikidata.org/entity/Q102051096</ee>
+<url>db/journals/sensors/sensors20.html#CantieriFSTLOW20</url>
+</article>
+</r>
+<r><inproceedings key="conf/etfa/Wehrmeister20" mdate="2021-10-14">
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco Aur&#233;lio Wehrmeister</author>
+<title>Generating ROS-based Software for Industrial Cyber-Physical Systems from UML/MARTE.</title>
+<pages>313-320</pages>
+<year>2020</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA46521.2020.9212077</ee>
+<crossref>conf/etfa/2020</crossref>
+<url>db/conf/etfa/etfa2020.html#Wehrmeister20</url>
+</inproceedings>
+</r>
+<r><article key="journals/access/NeisWM19" mdate="2025-01-19">
+<author orcid="0000-0003-1701-8760" pid="255/8343">Paulo Neis</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<author orcid="0000-0003-0197-8062" pid="171/6246">Marcos Fonseca Mendes</author>
+<title>Model Driven Software Engineering of Power Systems Applications: Literature Review and Trends.</title>
+<pages>177761-177773</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2019.2958275</ee>
+<ee>https://www.wikidata.org/entity/Q125858896</ee>
+<url>db/journals/access/access7.html#NeisWM19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icar/PintoOW19" mdate="2020-06-15">
+<author pid="258/1604">Matheus Leitzke Pinto</author>
+<author pid="160/1451">Andr&#233; Schneider de Oliveira</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco Aur&#233;lio Wehrmeister</author>
+<title>Real-Time Systems Evaluation for Robotics Using the Hart-ROS Benchmark.</title>
+<pages>290-295</pages>
+<year>2019</year>
+<booktitle>ICAR</booktitle>
+<ee>https://doi.org/10.1109/ICAR46387.2019.8981645</ee>
+<crossref>conf/icar/2019</crossref>
+<url>db/conf/icar/icar2019.html#PintoOW19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iess/OliveiraWO19" mdate="2023-02-25">
+<author pid="210/3802">Leonardo Presoto de Oliveira</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<author pid="160/1451">Andr&#233; Schneider de Oliveira</author>
+<title>Using Data Mining and Mobile Devices to Assist the Interactive Automotive Diagnostics.</title>
+<pages>101-113</pages>
+<year>2019</year>
+<booktitle>IESS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-26500-6_9</ee>
+<crossref>conf/iess/2019</crossref>
+<url>db/conf/iess/iess2019.html#OliveiraWO19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iess/BergerFCW19" mdate="2023-02-25">
+<author pid="321/9267">Guido Szekir Berger</author>
+<author pid="338/5364">Matheus Fellype Ferraz</author>
+<author pid="211/8353">&#193;lvaro Rog&#233;rio Cantieri</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco Aur&#233;lio Wehrmeister</author>
+<title>Analysis of Low Cost Sensors Applied to the Detection of Obstacles in High Voltage Towers.</title>
+<pages>155-166</pages>
+<year>2019</year>
+<booktitle>IESS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-26500-6_13</ee>
+<crossref>conf/iess/2019</crossref>
+<url>db/conf/iess/iess2019.html#BergerFCW19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robot/CantieriWOLFS19" mdate="2023-01-25">
+<author pid="211/8353">Alvaro Rog&#233;rio Cantieri</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco Aur&#233;lio Wehrmeister</author>
+<author pid="160/1451">Andr&#233; Schneider de Oliveira</author>
+<author orcid="0000-0001-7902-1207" pid="254/0340">Jos&#233; Lima 0001</author>
+<author pid="338/5364">Matheus F. Ferraz</author>
+<author pid="321/9267">Guido Szekir</author>
+<title>Proposal of an Augmented Reality Tag UAV Positioning System for Power Line Tower Inspection.</title>
+<pages>87-98</pages>
+<year>2019</year>
+<booktitle>ROBOT (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-35990-4_8</ee>
+<crossref>conf/robot/2019-1</crossref>
+<url>db/conf/robot/robot2019-1.html#CantieriWOLFS19</url>
+</inproceedings>
+</r>
+<r><article key="journals/sensors/OliveiraW18" mdate="2022-10-10">
+<author orcid="0000-0002-2888-6208" pid="330/4632">Diulhio Candido de Oliveira</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<title>Using Deep Learning and Low-Cost RGB and Thermal Cameras to Detect Pedestrians in Aerial Images Captured by Multirotor UAV.</title>
+<pages>2244</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Sensors</journal>
+<number>7</number>
+<ee type="oa">https://doi.org/10.3390/s18072244</ee>
+<ee>https://www.wikidata.org/entity/Q90009353</ee>
+<url>db/journals/sensors/sensors18.html#OliveiraW18</url>
+</article>
+</r>
+<r><inproceedings key="conf/larc/CantieriROFW17" mdate="2024-01-24">
+<author pid="211/8353">Alvaro Rog&#233;rio Cantieri</author>
+<author orcid="0000-0002-4523-8536" pid="254/0324">Ronnier Frates Rohrich</author>
+<author pid="160/1451">Andr&#233; Schneider de Oliveira</author>
+<author orcid="0000-0001-8975-0323" pid="02/6407">Jo&#227;o Alberto Fabro</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<title>Collaborative quadricopter-mobile robots ground scan using ARTAGS visual pose estimation.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>LARS/SBR</booktitle>
+<ee>https://doi.org/10.1109/SBR-LARS-R.2017.8215327</ee>
+<crossref>conf/larc/2017</crossref>
+<url>db/conf/larc/lars-sbr2017.html#CantieriROFW17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/OliveiraWO17" mdate="2023-03-23">
+<author pid="210/3802">Leonardo Presoto de Oliveira</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco Aur&#233;lio Wehrmeister</author>
+<author orcid="0000-0002-8295-366X" pid="160/1451">Andr&#233; Schneider de Oliveira</author>
+<title>Systematic Literature Review on Automotive Diagnostics.</title>
+<pages>1-8</pages>
+<year>2017</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2017.7</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2017.7</ee>
+<crossref>conf/sbesc/2017</crossref>
+<url>db/conf/sbesc/sbesc2017.html#OliveiraWO17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/OliveiraWN17" mdate="2023-03-24">
+<author pid="208/7439">Thomas Jose Mazon De Oliveira</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco Aur&#233;lio Wehrmeister</author>
+<author pid="82/4341">Bogdan Tomoyuki Nassu</author>
+<title>Detecting Modifications in Printed Circuit Boards from Fuel Pump Controllers.</title>
+<pages>87-94</pages>
+<year>2017</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2017.18</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRAPI.2017.18</ee>
+<crossref>conf/sibgrapi/2017</crossref>
+<url>db/conf/sibgrapi/sibgrapi2017.html#OliveiraWN17</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/iess/2015" mdate="2022-06-23">
+<editor orcid="0000-0001-6003-9247" pid="20/4612">Marcelo G&#246;tz</editor>
+<editor pid="88/4231">Gunar Schirner</editor>
+<editor orcid="0000-0002-1415-5527" pid="60/2173">Marco Aur&#233;lio Wehrmeister</editor>
+<editor pid="06/1521">Mohammad Abdullah Al Faruque</editor>
+<editor pid="56/6293">Achim Rettberg</editor>
+<title>System Level Design from HW/SW to Memory for Embedded Systems - 5th IFIP TC 10 International Embedded Systems Symposium, IESS 2015, Foz do Igua&#231;u, Brazil, November 3-6, 2015, Proceedings</title>
+<booktitle>IESS</booktitle>
+<publisher>Springer</publisher>
+<year>2017</year>
+<series href="db/series/ifip/index.html">IFIP Advances in Information and Communication Technology</series>
+<volume>523</volume>
+<isbn>978-3-319-90022-3</isbn>
+<isbn>978-3-319-90023-0</isbn>
+<ee>https://doi.org/10.1007/978-3-319-90023-0</ee>
+<url>db/conf/iess/iess2015.html</url>
+</proceedings>
+</r>
+<r><article key="journals/dafes/WehrmeisterF16" mdate="2022-11-04">
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco Aur&#233;lio Wehrmeister</author>
+<author pid="12/10030">Ricardo Santos Ferreira 0001</author>
+<title>SBESC 2014 guest editors' introduction.</title>
+<pages>93-94</pages>
+<year>2016</year>
+<volume>20</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s10617-016-9175-3</ee>
+<url>db/journals/dafes/dafes20.html#WehrmeisterF16</url>
+</article>
+</r>
+<r><article key="journals/dafes/LeiteW16" mdate="2020-10-02">
+<author pid="151/3369">Marcela Leite</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco Aur&#233;lio Wehrmeister</author>
+<title>System-level design based on UML/MARTE for FPGA-based embedded real-time systems.</title>
+<pages>127-153</pages>
+<year>2016</year>
+<volume>20</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10617-016-9172-6</ee>
+<url>db/journals/dafes/dafes20.html#LeiteW16</url>
+</article>
+</r>
+<r><inproceedings key="conf/isorc/OliveiraW16" mdate="2023-03-24">
+<author orcid="0000-0002-2888-6208" pid="330/4632">Diulhio Candido de Oliveira</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco Aur&#233;lio Wehrmeister</author>
+<title>Towards Real-Time People Recognition on Aerial Imagery Using Convolutional Neural Networks.</title>
+<pages>27-34</pages>
+<year>2016</year>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC.2016.14</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISORC.2016.14</ee>
+<crossref>conf/isorc/2016</crossref>
+<url>db/conf/isorc/isorc2016.html#OliveiraW16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/FontouraMW16" mdate="2023-03-23">
+<author pid="193/9990">Felipe Michels Fontoura</author>
+<author pid="m/CarlosMaziero">Carlos Alberto Maziero</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco Aur&#233;lio Wehrmeister</author>
+<title>Cryptographic API for Embedded Applications.</title>
+<pages>174-179</pages>
+<year>2016</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2016.034</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2016.034</ee>
+<crossref>conf/sbesc/2016</crossref>
+<url>db/conf/sbesc/sbesc2016.html#FontouraMW16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indin/LeiteVW14" mdate="2017-06-04">
+<author pid="151/3369">Marcela Leite</author>
+<author orcid="0000-0001-7581-4146" pid="154/5102">Cristiano D. Vasconcellos</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco Aur&#233;lio Wehrmeister</author>
+<title>Enhancing automatic generation of VHDL descriptions from UML/MARTE models.</title>
+<pages>152-157</pages>
+<year>2014</year>
+<booktitle>INDIN</booktitle>
+<ee>https://doi.org/10.1109/INDIN.2014.6945500</ee>
+<crossref>conf/indin/2014</crossref>
+<url>db/conf/indin/indin2014.html#LeiteVW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/LeiteW14" mdate="2023-03-24">
+<author pid="151/3369">Marcela Leite</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco Aur&#233;lio Wehrmeister</author>
+<title>Aspect-Oriented Model-Driven Engineering for FPGA/VHDL Based Embedded Real-Time Systems.</title>
+<pages>261-268</pages>
+<year>2014</year>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC.2014.45</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISORC.2014.45</ee>
+<crossref>conf/isorc/2014</crossref>
+<url>db/conf/isorc/isorc2014.html#LeiteW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/WehrmeisterL14" mdate="2023-03-23">
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco Aur&#233;lio Wehrmeister</author>
+<author pid="151/3369">Marcela Leite</author>
+<title>On Generating VHDL Descriptions from Aspect-Oriented UML/MARTE Models.</title>
+<pages>67-72</pages>
+<year>2014</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2014.12</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2014.12</ee>
+<crossref>conf/sbesc/2014</crossref>
+<url>db/conf/sbesc/sbesc2014.html#WehrmeisterL14</url>
+</inproceedings>
+</r>
+<r><article key="journals/tii/WehrmeisterPR13" mdate="2020-05-21">
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<author pid="r/FranzJosefRammig">Franz J. Rammig</author>
+<title>Aspect-Oriented Model-Driven Engineering for Embedded Systems Applied to Automation Systems.</title>
+<pages>2373-2386</pages>
+<year>2013</year>
+<volume>9</volume>
+<journal>IEEE Trans. Ind. Informatics</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TII.2013.2240308</ee>
+<url>db/journals/tii/tii9.html#WehrmeisterPR13</url>
+</article>
+</r>
+<r><inproceedings key="conf/iess/WehrmeisterB13" mdate="2020-01-04">
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<author orcid="0000-0001-8071-1723" pid="13/7379">Gian Ricardo Berkenbrock</author>
+<title>Automatic Execution of Test Cases on UML Models of Embedded Systems.</title>
+<pages>39-48</pages>
+<year>2013</year>
+<booktitle>IESS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-38853-8_4</ee>
+<crossref>conf/iess/2013</crossref>
+<url>db/conf/iess/iess2013.html#WehrmeisterB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/WehrmeisterB13" mdate="2023-03-24">
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<author orcid="0000-0001-8071-1723" pid="13/7379">Gian Ricardo Berkenbrock</author>
+<title>AMoDE-RT: Advancing Model-Driven Engineering for embedded real-time systems.</title>
+<pages>1-7</pages>
+<year>2013</year>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC.2013.6913233</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISORC.2013.6913233</ee>
+<crossref>conf/isorc/2013</crossref>
+<url>db/conf/isorc/isorc2013.html#WehrmeisterB13</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigops/WehrmeisterPC12" mdate="2020-07-14">
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<author pid="78/11063">Joao G. Packer</author>
+<author pid="70/11063">Luis M. Ceron</author>
+<title>Support for early verification of embedded real-time systems through UML models simulation.</title>
+<pages>73-81</pages>
+<year>2012</year>
+<volume>46</volume>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2146382.2146396</ee>
+<url>db/journals/sigops/sigops46.html#WehrmeisterPC12</url>
+</article>
+</r>
+<r><inproceedings key="conf/cescit/WehrmeisterP12" mdate="2017-09-16">
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco Aur&#233;lio Wehrmeister</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<title>Towards Early Verification of UML Models for Embedded and Real-Time Systems.</title>
+<pages>25-30</pages>
+<year>2012</year>
+<booktitle>CESCIT</booktitle>
+<ee>https://doi.org/10.3182/20120403-3-DE-3010.00030</ee>
+<crossref>conf/cescit/2012</crossref>
+<url>db/conf/cescit/cescit2012.html#WehrmeisterP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/WehrmeisterCS12" mdate="2023-03-23">
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<author pid="70/11063">Luis M. Ceron</author>
+<author pid="160/5703">Johnny L. da Silva</author>
+<title>Early Verification of Embedded Systems: Testing Automation for UML Models.</title>
+<pages>119-124</pages>
+<year>2012</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2012.31</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2012.31</ee>
+<crossref>conf/sbesc/2012</crossref>
+<url>db/conf/sbesc/sbesc2012.html#WehrmeisterCS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/WehrmeisterPC11" mdate="2023-03-23">
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<author pid="78/11063">Joao G. Packer</author>
+<author pid="70/11063">Luis M. Ceron</author>
+<title>Framework to Simulate the Behavior of Embedded Real-Time Systems Specified in UML Models.</title>
+<pages>1-7</pages>
+<year>2011</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2011.47</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2011.47</ee>
+<crossref>conf/sbesc/2011</crossref>
+<url>db/conf/sbesc/sbesc2011.html#WehrmeisterPC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip10-3/MoreiraWPPL10" mdate="2018-11-02">
+<author pid="79/9539">Tom&#225;s G. Moreira</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<author pid="00/2206">Carlos Eduardo Pereira</author>
+<author pid="32/979">Jean-Fran&#231;ois P&#233;tin</author>
+<author pid="25/1285">Eric Levrat</author>
+<title>Generating VHDL Source Code from UML Models of Embedded Systems.</title>
+<pages>125-136</pages>
+<year>2010</year>
+<booktitle>DIPES/BICC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-15234-4_13</ee>
+<crossref>conf/ifip10-3/2010dipes</crossref>
+<url>db/conf/ifip10-3/dipes2010.html#MoreiraWPPL10</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/de/Wehrmeister2009" mdate="2022-05-04">
+<author pid="60/2173">Marco Aur&#233;lio Wehrmeister</author>
+<title>An aspect-oriented model-driven engineering approach for distributed embedded real-time systems.</title>
+<year>2009</year>
+<school>University of Paderborn, Germany</school>
+<pages>1-210</pages>
+<isbn>978-3-939350-86-6</isbn>
+<ee>http://ubdok.uni-paderborn.de/servlets/DerivateServlet/Derivate-11784/Wehrmeister_Thesis_Paderborn_final.pdf</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:hbz:466-20091215016</ee>
+<ee>https://d-nb.info/999989227</ee>
+<ee>https://d-nb.info/1000007405</ee>
+<ee>https://d-nb.info/1007549483</ee>
+<ee>https://hdl.handle.net/10183/17792</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:agregador.ibict.br.BDTD_UFRGS:oai:www.lume.ufrgs.br:10183/17792</ee>
+</phdthesis>
+</r>
+<r><article key="journals/scpe/BinottoFWPSL09" mdate="2021-02-17">
+<author pid="03/5912">Al&#233;cio Pedro Delazari Binotto</author>
+<author pid="96/3201">Edison Pignaton de Freitas</author>
+<author pid="60/2173">Marco A. Wehrmeister</author>
+<author pid="00/2206">Carlos Eduardo Pereira</author>
+<author pid="24/6301">Andr&#233; Stork</author>
+<author pid="30/3548">Tony Larsson</author>
+<title>Towards Task Dynamic Reconfiguration over Asymmetric Computing Platforms for UAVs Surveillance Systems.</title>
+<year>2009</year>
+<volume>10</volume>
+<journal>Scalable Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee type="oa">http://www.scpe.org/index.php/scpe/article/view/619</ee>
+<url>db/journals/scpe/scpe10.html#BinottoFWPSL09</url>
+</article>
+</r>
+<r><inproceedings key="conf/iess/WehrmeisterFP09" mdate="2022-06-23">
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<author orcid="0000-0003-4655-8889" pid="96/3201">Edison Pignaton de Freitas</author>
+<author pid="00/2206">Carlos Eduardo Pereira</author>
+<title>An Infrastructure for UML-Based Code Generation Tools.</title>
+<pages>32-43</pages>
+<year>2009</year>
+<booktitle>IESS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-04284-3_4</ee>
+<crossref>conf/iess/2009</crossref>
+<url>db/conf/iess/iess2009.html#WehrmeisterFP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sersc-isa/FreitasHWWFPL09" mdate="2022-06-23">
+<author orcid="0000-0003-4655-8889" pid="96/3201">Edison Pignaton de Freitas</author>
+<author pid="32/967">Tales Heimfarth</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<author pid="r/FlavioRechWagner">Fl&#225;vio Rech Wagner</author>
+<author pid="51/7081">Armando Morado Ferreira</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<author pid="30/3548">Tony Larsson</author>
+<title>Using a Link Metric to Improve Communication Mechanisms and Real-Time Properties in an Adaptive Middleware for Heterogeneous Sensor Networks.</title>
+<pages>422-431</pages>
+<year>2009</year>
+<booktitle>ISA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02617-1_43</ee>
+<crossref>conf/sersc-isa/2009</crossref>
+<url>db/conf/sersc-isa/isa2009.html#FreitasHWWFPL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/imcsit/FreitasWPL08" mdate="2022-06-23">
+<author orcid="0000-0003-4655-8889" pid="96/3201">Edison Pignaton de Freitas</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<author pid="30/3548">Tony Larsson</author>
+<title>Real-time support in adaptable middleware for heterogeneous sensor networks.</title>
+<pages>593-600</pages>
+<year>2008</year>
+<booktitle>IMCSIT</booktitle>
+<ee>https://doi.org/10.1109/IMCSIT.2008.4747304</ee>
+<crossref>conf/imcsit/2008</crossref>
+<url>db/conf/imcsit/imcsit2008.html#FreitasWPL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/WehrmeisterFPR08" mdate="2023-03-24">
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<author orcid="0000-0003-4655-8889" pid="96/3201">Edison Pignaton de Freitas</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<author pid="r/FranzJosefRammig">Franz-Josef Rammig</author>
+<title>GenERTiCA: A Tool for Code Generation and Aspects Weaving.</title>
+<pages>234-238</pages>
+<year>2008</year>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC.2008.67</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISORC.2008.67</ee>
+<crossref>conf/isorc/2008</crossref>
+<url>db/conf/isorc/isorc2008.html#WehrmeisterFPR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/FreitasWPL08" mdate="2022-06-23">
+<author orcid="0000-0003-4655-8889" pid="96/3201">Edison Pignaton de Freitas</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<author pid="30/3548">Tony Larsson</author>
+<title>Reflective middleware for heterogeneous sensor networks.</title>
+<pages>49-50</pages>
+<year>2008</year>
+<booktitle>ARM</booktitle>
+<ee>https://doi.org/10.1145/1462716.1462725</ee>
+<crossref>conf/middleware/2008arm</crossref>
+<url>db/conf/middleware/arm2008.html#FreitasWPL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mompes/WehrmeisterFOPR08" mdate="2023-03-23">
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<author orcid="0000-0003-4655-8889" pid="96/3201">Edison Pignaton de Freitas</author>
+<author pid="92/5472">Dalimir Orfanus</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<author pid="r/FranzJosefRammig">Franz-Josef Rammig</author>
+<title>A Case Study to Evaluate Pros/Cons of Aspect- and Object-Oriented Paradigms to Model Distributed Embedded Real-Time Systems.</title>
+<pages>44-54</pages>
+<year>2008</year>
+<booktitle>MOMPES</booktitle>
+<ee>https://doi.org/10.1109/MOMPES.2008.9</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MOMPES.2008.9</ee>
+<crossref>conf/mompes/2008</crossref>
+<url>db/conf/mompes/mompes2008.html#WehrmeisterFOPR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/splc/FreitasWPL08" mdate="2009-06-25">
+<author pid="96/3201">Edison Pignaton de Freitas</author>
+<author pid="60/2173">Marco A. Wehrmeister</author>
+<author pid="00/2206">Carlos Eduardo Pereira</author>
+<author pid="30/3548">Tony Larsson</author>
+<title>Using Aspects and Component Concepts to Improve Reuse of Software for Embedded Systems Product Lines.</title>
+<pages>105-112</pages>
+<year>2008</year>
+<booktitle>SPLC (2)</booktitle>
+<crossref>conf/splc/2008w</crossref>
+<url>db/conf/splc/splc2008w.html#FreitasWPL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aosd/FreitasWSCPW07" mdate="2022-06-23">
+<author orcid="0000-0003-4655-8889" pid="96/3201">Edison Pignaton de Freitas</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco Aur&#233;lio Wehrmeister</author>
+<author orcid="0000-0001-6695-9685" pid="s/EliasTeodoroSilvaJr">Elias Teodoro Silva Jr.</author>
+<author pid="22/3770">Fabiano Costa Carvalho</author>
+<author pid="00/2206">Carlos Eduardo Pereira</author>
+<author pid="r/FlavioRechWagner">Fl&#225;vio Rech Wagner</author>
+<title>DERAF: A High-Level Aspects Framework for Distributed Embedded Real-Time Systems Design.</title>
+<pages>55-74</pages>
+<year>2007</year>
+<booktitle>EA@AOSD</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-76811-1_4</ee>
+<crossref>conf/aosd/2007ea</crossref>
+<url>db/conf/aosd/ea2007.html#FreitasWSCPW07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iess/FreitasWPWSC07" mdate="2022-06-23">
+<author orcid="0000-0003-4655-8889" pid="96/3201">Edison Pignaton de Freitas</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<author pid="r/FlavioRechWagner">Fl&#225;vio Rech Wagner</author>
+<author orcid="0000-0001-6695-9685" pid="s/EliasTeodoroSilvaJr">Elias Teodoro Silva Jr.</author>
+<author pid="22/3770">Fabiano Costa Carvalho</author>
+<title>Using Aspect-Oriented Concepts in the Requirements Analysis of Distributed Real-Time Embedded Systems.</title>
+<pages>221-230</pages>
+<year>2007</year>
+<crossref>conf/iess/2007</crossref>
+<booktitle>IESS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-0-387-72258-0_19</ee>
+<url>db/conf/iess/iess2007.html#FreitasWPWSC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/WehrmeisterFPW07" mdate="2023-03-24">
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<author orcid="0000-0003-4655-8889" pid="96/3201">Edison Pignaton de Freitas</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<author orcid="0000-0003-2199-2785" pid="r/FlavioRechWagner">Fl&#225;vio Rech Wagner</author>
+<title>An Aspect-Oriented Approach for Dealing with Non-Functional Requirements in a Model-Driven Development of Distributed Embedded Real-Time Systems.</title>
+<pages>428-432</pages>
+<year>2007</year>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC.2007.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISORC.2007.17</ee>
+<crossref>conf/isorc/2007</crossref>
+<url>db/conf/isorc/isorc2007.html#WehrmeisterFPW07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jtres/SilvaWWP07" mdate="2018-11-06">
+<author pid="s/EliasTeodoroSilvaJr">Elias Teodoro Silva Jr.</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<author pid="r/FlavioRechWagner">Fl&#225;vio Rech Wagner</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<title>An approach to improve predictability in communication services in distributed real-time embedded systems.</title>
+<pages>121-126</pages>
+<year>2007</year>
+<booktitle>JTRES</booktitle>
+<ee>https://doi.org/10.1145/1288940.1288958</ee>
+<crossref>conf/jtres/2007</crossref>
+<url>db/conf/jtres/jtres2007.html#SilvaWWP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/WehrmeisterPB06" mdate="2023-03-24">
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<author pid="00/2206">Carlos Eduardo Pereira</author>
+<author orcid="0000-0003-1872-4771" pid="24/3796">Leandro Buss Becker</author>
+<title>Optimizing the generation of object-oriented real-time embedded applications based on the real-time specification for Java.</title>
+<pages>806-811</pages>
+<year>2006</year>
+<crossref>conf/date/2006p</crossref>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2006.244147</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DATE.2006.244147</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1131710</ee>
+<url>db/conf/date/date2006p.html#WehrmeisterPB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/NascimentoOWPW06" mdate="2024-08-02">
+<author pid="22/2539">Francisco Assis Moreira do Nascimento</author>
+<author pid="178/8404">Marcio Ferreira da Silva Oliveira</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<author pid="00/2206">Carlos Eduardo Pereira</author>
+<author pid="r/FlavioRechWagner">Fl&#225;vio Rech Wagner</author>
+<title>MDA-based approach for embedded software generation from a UML/MOF repository.</title>
+<pages>143-148</pages>
+<year>2006</year>
+<crossref>conf/sbcci/2006</crossref>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1145/1150343.1150383</ee>
+<url>db/conf/sbcci/sbcci2006.html#NascimentoOWPW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iess/WehrmeisterACP05" mdate="2018-11-02">
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<author pid="148/9542">Fernando H. Athaide</author>
+<author pid="22/3770">Fabiano Costa Carvalho</author>
+<author pid="00/2206">Carlos Eduardo Pereira</author>
+<title>Assessing the Use of RT-Java in Automotive Time-Triggered Applications.</title>
+<pages>223-234</pages>
+<year>2005</year>
+<booktitle>IESS</booktitle>
+<ee type="oa">https://doi.org/10.1007/11523277_22</ee>
+<crossref>conf/iess/2005</crossref>
+<url>db/conf/iess/iess2005.html#WehrmeisterACP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/WehrmeisterBWP05" mdate="2023-03-24">
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<author orcid="0000-0003-1872-4771" pid="24/3796">Leandro Buss Becker</author>
+<author pid="r/FlavioRechWagner">Fl&#225;vio Rech Wagner</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<title>An Object-Oriented Platform-based Design Process for Embedded Real-Time Systems.</title>
+<pages>125-128</pages>
+<year>2005</year>
+<crossref>conf/isorc/2005</crossref>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC.2005.13</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISORC.2005.13</ee>
+<url>db/conf/isorc/isorc2005.html#WehrmeisterBWP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/words/SilvaWBWP05" mdate="2023-03-24">
+<author orcid="0000-0001-6695-9685" pid="s/EliasTeodoroSilvaJr">Elias Teodoro Silva Jr.</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<author orcid="0000-0003-1872-4771" pid="24/3796">Leandro Buss Becker</author>
+<author pid="r/FlavioRechWagner">Fl&#225;vio Rech Wagner</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<title>Design Exploration in Hw/Sw Co-design of Real-Time Object-oriented Embedded Systems: the Scheduler Object.</title>
+<pages>378-388</pages>
+<year>2005</year>
+<crossref>conf/words/2005</crossref>
+<booktitle>WORDS</booktitle>
+<ee>https://doi.org/10.1109/WORDS.2005.25</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WORDS.2005.25</ee>
+<url>db/conf/words/words2005.html#SilvaWBWP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/WehrmeisterBP04" mdate="2022-01-03">
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<author orcid="0000-0003-1872-4771" pid="24/3796">Leandro Buss Becker</author>
+<author pid="00/2206">Carlos Eduardo Pereira</author>
+<title>Optimizing Real-Time Embedded Systems Development Using a RTSJ-Based API.</title>
+<pages>292-302</pages>
+<ee>https://doi.org/10.1007/978-3-540-30470-8_46</ee>
+<year>2004</year>
+<crossref>conf/otm/2004</crossref>
+<booktitle>OTM Workshops</booktitle>
+<url>db/conf/otm/otm2004.html#WehrmeisterBP04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/BeckerWP04" mdate="2022-01-03">
+<author orcid="0000-0003-1872-4771" pid="24/3796">Leandro Buss Becker</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco A. Wehrmeister</author>
+<author pid="00/2206">Carlos Eduardo Pereira</author>
+<title>Power and performance tuning in the synthesis of real-time scheduling algorithms for embedded applications.</title>
+<pages>169-174</pages>
+<year>2004</year>
+<crossref>conf/sbcci/2004</crossref>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1145/1016568.1016616</ee>
+<url>db/conf/sbcci/sbcci2004.html#BeckerWP04</url>
+</inproceedings>
+</r>
+<coauthors n="67" nc="8">
+<co c="0"><na f="a/Athaide:Fernando_H=" pid="148/9542">Fernando H. Athaide</na></co>
+<co c="0"><na f="b/Becker:Leandro_Buss" pid="24/3796">Leandro Buss Becker</na></co>
+<co c="1" n="3"><na f="b/Berger:Guido_S=" pid="321/9267">Guido S. Berger</na><na>Guido Szekir Berger</na><na>Guido Szekir</na></co>
+<co c="-1"><na f="b/Berkenbrock:Gian_Ricardo" pid="13/7379">Gian Ricardo Berkenbrock</na></co>
+<co c="0"><na f="b/Binotto:Al=eacute=cio_Pedro_Delazari" pid="03/5912">Al&#233;cio Pedro Delazari Binotto</na></co>
+<co c="1"><na f="b/Braun:Jo=atilde=o" pid="249/0200">Jo&#227;o Braun</na></co>
+<co c="1"><na f="b/Brito:Thadeu" pid="217/4363">Thadeu Brito</na></co>
+<co c="1" n="2"><na f="c/Cantieri:Alvaro_Rog=eacute=rio" pid="211/8353">Alvaro Rog&#233;rio Cantieri</na><na>&#193;lvaro Rog&#233;rio Cantieri</na></co>
+<co c="0"><na f="c/Carvalho:Fabiano_Costa" pid="22/3770">Fabiano Costa Carvalho</na></co>
+<co c="2"><na f="c/Ceron:Luis_M=" pid="70/11063">Luis M. Ceron</na></co>
+<co c="1"><na f="c/Costa:Paulo_Gomes" pid="54/4477">Paulo Gomes Costa</na></co>
+<co c="1"><na f="f/Fabro:Jo=atilde=o_Alberto" pid="02/6407">Jo&#227;o Alberto Fabro</na></co>
+<co c="0"><na f="f/Faruque:Mohammad_Abdullah_Al" pid="06/1521">Mohammad Abdullah Al Faruque</na></co>
+<co c="1" n="2"><na f="f/Ferraz:Matheus_F=" pid="338/5364">Matheus F. Ferraz</na><na>Matheus Fellype Ferraz</na></co>
+<co c="0"><na f="f/Ferreira:Armando_Morado" pid="51/7081">Armando Morado Ferreira</na></co>
+<co c="-1" n="2"><na f="f/Ferreira_0001:Ricardo_S=" pid="12/10030">Ricardo S. Ferreira 0001</na><na>Ricardo Santos Ferreira 0001</na></co>
+<co c="4"><na f="f/Fontoura:Felipe_Michels" pid="193/9990">Felipe Michels Fontoura</na></co>
+<co c="0"><na f="f/Freitas:Edison_Pignaton_de" pid="96/3201">Edison Pignaton de Freitas</na></co>
+<co c="0"><na f="g/G=ouml=tz:Marcelo" pid="20/4612">Marcelo G&#246;tz</na></co>
+<co c="0"><na f="h/Heimfarth:Tales" pid="32/967">Tales Heimfarth</na></co>
+<co c="0"><na f="h/Henkler:Stefan" pid="45/3189">Stefan Henkler</na></co>
+<co c="1"><na f="j/J=uacute=nior:Alexandre_Oliveira" pid="321/9253">Alexandre Oliveira J&#250;nior</na></co>
+<co c="1"><na f="j/Junior:Luciano_Bonzatto" pid="334/0059">Luciano Bonzatto Junior</na></co>
+<co c="1"><na f="k/Komori:Aroldo_S=_K=" pid="338/5231">Aroldo S. K. Komori</na></co>
+<co c="0"><na f="k/Kreutz:M=aacute=rcio_Eduardo" pid="94/2009">M&#225;rcio Eduardo Kreutz</na></co>
+<co c="0"><na f="l/Larsson:Tony" pid="30/3548">Tony Larsson</na></co>
+<co c="7"><na f="l/Leite:Marcela" pid="151/3369">Marcela Leite</na></co>
+<co c="0"><na f="l/Levrat:Eric" pid="25/1285">Eric Levrat</na></co>
+<co c="1" n="2"><na f="l/Lima_0001:Jos=eacute=" pid="254/0340">Jos&#233; Lima 0001</na><na>Jos&#233; Lu&#237;s Lima</na></co>
+<co c="4" n="2"><na f="m/Maziero:Carlos" pid="m/CarlosMaziero">Carlos Maziero</na><na>Carlos Alberto Maziero</na></co>
+<co c="6"><na f="m/Mendes:Marcos_Fonseca" pid="171/6246">Marcos Fonseca Mendes</na></co>
+<co c="0"><na f="m/Moreira:Tom=aacute=s_G=" pid="79/9539">Tom&#225;s G. Moreira</na></co>
+<co c="0" n="2"><na f="n/Nascimento:Francisco_Assis_M=_do" pid="22/2539">Francisco Assis M. do Nascimento</na><na>Francisco Assis Moreira do Nascimento</na></co>
+<co c="3"><na f="n/Nassu:Bogdan_Tomoyuki" pid="82/4341">Bogdan Tomoyuki Nassu</na></co>
+<co c="6"><na f="n/Neis:Paulo" pid="255/8343">Paulo Neis</na></co>
+<co c="1"><na f="n/Nowakowski:Marek" pid="328/9042">Marek Nowakowski</na></co>
+<co c="1"><na f="o/Oliveira:Andr=eacute=_Schneider_de" pid="160/1451">Andr&#233; Schneider de Oliveira</na></co>
+<co c="3"><na f="o/Oliveira:Diulhio_Candido_de" pid="330/4632">Diulhio Candido de Oliveira</na></co>
+<co c="1"><na f="o/Oliveira:Leonardo_Presoto_de" pid="210/3802">Leonardo Presoto de Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Marcio_Ferreira_da_Silva" pid="178/8404">Marcio Ferreira da Silva Oliveira</na></co>
+<co c="5"><na f="o/Oliveira:Rodrigo_S=_C=" pid="348/9772">Rodrigo S. C. Oliveira</na></co>
+<co c="3"><na f="o/Oliveira:Thomas_Jose_Mazon_De" pid="208/7439">Thomas Jose Mazon De Oliveira</na></co>
+<co c="0"><na f="o/Orfanus:Dalimir" pid="92/5472">Dalimir Orfanus</na></co>
+<co c="2"><na f="p/Packer:Joao_G=" pid="78/11063">Joao G. Packer</na></co>
+<co c="1"><na f="p/Pereira:Ana_I=" pid="46/9765">Ana I. Pereira</na></co>
+<co c="0"><na f="p/Pereira:Carlos_Eduardo" pid="00/2206">Carlos Eduardo Pereira</na></co>
+<co c="0"><na f="p/P=eacute=tin:Jean=Fran=ccedil=ois" pid="32/979">Jean-Fran&#231;ois P&#233;tin</na></co>
+<co c="0"><na f="p/Pimentel:Andy_D=" pid="p/AndyDPimentel">Andy D. Pimentel</na></co>
+<co c="1"><na f="p/Pinto:Matheus_Leitzke" pid="258/1604">Matheus Leitzke Pinto</na></co>
+<co c="1"><na f="p/Pinto:Milena_F=" pid="218/9057">Milena F. Pinto</na></co>
+<co c="0" n="2"><na f="r/Rammig:Franz=Josef" pid="r/FranzJosefRammig">Franz-Josef Rammig</na><na>Franz J. Rammig</na></co>
+<co c="1"><na f="r/Rech:Lucas_Coradin" pid="333/9542">Lucas Coradin Rech</na></co>
+<co c="5"><na f="r/Renaux:Douglas_B=" pid="348/9935">Douglas B. Renaux</na></co>
+<co c="0"><na f="r/Rettberg:Achim" pid="56/6293">Achim Rettberg</na></co>
+<co c="1"><na f="r/Rohrich:Ronnier_Frates" pid="254/0324">Ronnier Frates Rohrich</na></co>
+<co c="1"><na f="r/Rosa:Ricardo_da" pid="259/1623">Ricardo da Rosa</na></co>
+<co c="1"><na f="s/Santos:Murillo_Ferreira_dos" pid="283/2953">Murillo Ferreira dos Santos</na></co>
+<co c="0"><na f="s/Schirner:Gunar" pid="88/4231">Gunar Schirner</na></co>
+<co c="1"><na f="s/Schneider:Guilherme_H=_T=" pid="338/5370">Guilherme H. T. Schneider</na></co>
+<co c="2"><na f="s/Silva:Johnny_L=_da" pid="160/5703">Johnny L. da Silva</na></co>
+<co c="0"><na f="s/Silva_Jr=:Elias_Teodoro" pid="s/EliasTeodoroSilvaJr">Elias Teodoro Silva Jr.</na></co>
+<co c="1"><na f="s/Soares:Salviano_F=_S=_P=" pid="03/1494">Salviano F. S. P. Soares</na></co>
+<co c="0"><na f="s/Stork:Andr=eacute=" pid="24/6301">Andr&#233; Stork</na></co>
+<co c="1" n="2"><na f="t/Teixeira:Marco_Antonio_Simoes" pid="210/3781">Marco Antonio Simoes Teixeira</na><na>Marco Ant&#244;nio Sim&#245;es Teixeira</na></co>
+<co c="1"><na f="v/Valente:Ant=oacute=nio" pid="92/9958">Ant&#243;nio Valente</na></co>
+<co c="7"><na f="v/Vasconcellos:Cristiano_D=" pid="154/5102">Cristiano D. Vasconcellos</na></co>
+<co c="0"><na f="w/Wagner:Fl=aacute=vio_Rech" pid="r/FlavioRechWagner">Fl&#225;vio Rech Wagner</na></co>
+</coauthors>
+</dblpperson>
+
