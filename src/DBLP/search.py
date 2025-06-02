@@ -31,15 +31,15 @@ class Global:
     pid_papers = []             # Lista de artigos processados
     area_prefix = sys.argv[1]  # Prefixo da área de pesquisa (como 'cs' para Ciência da Computação)
     multi_area_journal_list = []  # Lista de jornais multi-área
-    mc_failed_file = open('manual-classification-failed.csv', 'a')  # Arquivo para registrar falhas de classificação manual
+    mc_failed_file = open('../../data/configs/manual-classification-failed.csv', 'a')  # Arquivo para registrar falhas de classificação manual
 
 # Funções para lidar com jornais classificados manualmente
 
 def init_manual_files():
     # Lê arquivos de classificação manual de jornais e armazena as informações
-    with open('manual-journals.txt') as mf:
+    with open('../../data/configs/manual-journals.txt') as mf:
         Global.manual_journals = mf.read().splitlines()  # Carrega os jornais manualmente classificados
-    reader = csv.reader(open('manual-classification.csv', 'r'))
+    reader = csv.reader(open('../../data/configs/manual-classification.csv', 'r'))
     for row in reader:
         m_area, _, _, _, m_url = row  # Extrai a área e a URL do jornal
         Global.manual_classification[m_url] = m_area  # Associa a URL à área correspondente
@@ -71,7 +71,7 @@ def outuput_multi_area_journal():
 
 def init_arxiv_cache():
     # Inicializa o cache de URLs do arXiv a partir de um arquivo CSV
-    fname = '../cache/arxiv/' + Global.area_prefix + '-arxiv-cache.csv'
+    fname = '../../data/cache/arxiv/' + Global.area_prefix + '-arxiv-cache.csv'
     if os.path.exists(fname):
         reader = csv.reader(open(fname, 'r'))
         for line in reader:
@@ -80,7 +80,7 @@ def init_arxiv_cache():
 def output_arxiv_cache():
     # Salva o cache do arXiv em um arquivo CSV
     if Global.arxiv_cache:
-        f = open('../cache/arxiv/' + Global.area_prefix + '-arxiv-cache.csv', 'w')
+        f = open('../../data/cache/arxiv/' + Global.area_prefix + '-arxiv-cache.csv', 'w')
         for doi in Global.arxiv_cache:
             f.write(doi)
             f.write(',')
@@ -131,7 +131,7 @@ def outuput_everything():
 def output_venues_confs(result):
     # Exibe as conferências em um arquivo CSV
     if len(result) > 0:
-        f = open(Global.area_prefix + '-out-confs.csv', 'w')
+        f = open("../../data/" + Global.area_prefix + '-out-confs.csv', 'w')
         for conf in result:
             f.write(conf[0])
             f.write(',')
@@ -142,7 +142,7 @@ def output_venues_confs(result):
 def output_venues_journals(result):
     # Exibe os jornais em um arquivo CSV
     if len(result) > 0:
-        f = open(Global.area_prefix + '-out-journals.csv', 'w')
+        f = open("../../data/" + Global.area_prefix + '-out-journals.csv', 'w')
         for journal in result:
             f.write(journal[0])
             f.write(',')
@@ -207,7 +207,7 @@ def output_papers():
     sorted_papers = sorted(out2, key=lambda x: x[1][0], reverse=True)
 
     # Abre um arquivo CSV para salvar os artigos processados
-    f = open(Global.area_prefix + '-out-papers.csv', 'w')
+    f = open("../../data/" + Global.area_prefix + '-out-papers.csv', 'w')
     for i in range(0, len(sorted_papers)):
         paper = sorted_papers[i][1]
         write_paper(f, True, paper)
@@ -218,7 +218,7 @@ def output_prof_papers(prof):
     prof = prof.replace(" ", "-")
 
     # Abre um arquivo CSV específico para armazenar os artigos do professor
-    f = open("../cache/profs/" + Global.area_prefix + "-" + prof + '-papers.csv', 'w')
+    f = open("../../data/configs/profs/papers/" + Global.area_prefix + "-" + prof + '-papers.csv', 'w')
 
     # Escreve todos os artigos do professor usando o identificador 'pid_papers' armazenado em Global
     for url in Global.pid_papers:
@@ -228,7 +228,7 @@ def output_prof_papers(prof):
 
 def write_scores(sorted_scores):
     # Abre um arquivo CSV para salvar as pontuações dos departamentos
-    f = open(Global.area_prefix + '-out-scores.csv', 'w')
+    f = open("../../data/" + Global.area_prefix + '-out-scores.csv', 'w')
 
     # Escreve as pontuações dos departamentos no arquivo
     for i in range(0, len(sorted_scores)):
@@ -257,7 +257,7 @@ def output_scores():
 
 def write_profs(sorted_profs):
     # Abre um arquivo CSV para salvar a lista de professores e suas pontuações
-    f = open(Global.area_prefix + '-out-profs.csv', 'w')
+    f = open("../../data/" + Global.area_prefix + '-out-profs.csv', 'w')
 
     # Escreve o nome do departamento e a pontuação dos professores no arquivo
     for i in range(0, len(sorted_profs)):
@@ -295,7 +295,7 @@ def output_profs_list():
     profs = sorted(profs, key=lambda x: x[0])
 
     # Abre um arquivo CSV para salvar a lista de professores
-    f = open(Global.area_prefix + '-out-profs-list.csv', 'w')
+    f = open("../../data/" + Global.area_prefix + '-out-profs-list.csv', 'w')
     for i in range(0, len(profs)):
         f.write(str(profs[i][0]))   # Nome do professor
         f.write(',')
@@ -305,7 +305,7 @@ def output_profs_list():
 
 def merge_output_prof_papers(prof):
     # Muda o diretório para o local onde estão armazenados os artigos dos professores
-    os.chdir("../cache/profs")
+    os.chdir("../../data/configs/profs/search/")
 
     # Cria uma lista
     filenames = []
@@ -321,17 +321,16 @@ def merge_output_prof_papers(prof):
     filenames.sort()
 
     # Abre um arquivo de saída para armazenar os artigos unidos
-    outfile = open("../../data/profs/search/" + prof + ".csv", 'w')
-
+    outfile = open( prof + ".csv", 'w')
 
     for fname in filenames:
         with open(fname) as infile:
             outfile.write(infile.read())
-    os.chdir("../../data")
+    os.chdir("../../")
 
 def output_search_box_list():
     # Muda o diretório para a pasta onde os arquivos de pesquisa dos professores estão localizados
-    os.chdir("./profs/search")
+    os.chdir("../../data/configs/profs/search/")
 
     # Cria uma lista para armazenar os nomes dos professores
     profs = []
@@ -343,12 +342,12 @@ def output_search_box_list():
         profs.append(file)
 
     # Remove o item "empty" da lista, se existir
-    profs.remove("empty")
+    # profs.remove("empty")
 
     # Ordena os professores em ordem alfabética
     profs.sort()
 
-    f = open("../all-authors.csv", 'w')
+    f = open("all-authors.csv", 'w')
     for p in profs:
         f.write(p)
         f.write('\n')
@@ -450,7 +449,7 @@ def get_paper_size(url, dblp, dblp_venue):
     if 'pages' in dblp:  # Se o campo 'pages' estiver no artigo, chama a função para calcular o tamanho da página
         return parse_paper_size(dblp['pages'])
     
-    if (dblp_venue == "Briefings Bioinform.") or \
+    if (dblp_venue == "CoRR") or \
         (dblp_venue == "J. Intell. Robotic Syst.") or \
         (dblp_venue == "NeurIPS"):  # Para conferências específicas, o tamanho é fixo de 10
         return 10  # Devido à falta de campos de página em alguns artigos
@@ -586,14 +585,14 @@ def parse_dblp(_, dblp):
 
 def init_black_list():
     # Lê a lista negra de artigos que não devem ser contados
-    black_list_file = Global.area_prefix + "-black-list.txt"
+    black_list_file = "../../data/" + Global.area_prefix + "-black-list.txt"
     if os.path.exists(black_list_file):
         with open(black_list_file) as blf:
             Global.black_list = blf.read().splitlines()  # Armazena os URLs dos artigos na lista negra
 
 def init_white_list():
     # Lê a lista branca de artigos que devem ser contados
-    white_list_file = Global.area_prefix + "-white-list.txt"
+    white_list_file = "../../data/" + Global.area_prefix + "-white-list.txt"
     if os.path.exists(white_list_file):
         with open(white_list_file) as wlf:
             Global.white_list = wlf.read().splitlines()  # Armazena os URLs dos artigos na lista branca
@@ -606,7 +605,7 @@ def init_prof_cache():
 
 def init_confs():
     # Lê os dados das conferências e jornais a partir de um arquivo CSV
-    reader = csv.reader(open(Global.area_prefix + "-confs.csv", 'r'))
+    reader = csv.reader(open("../../data/"+ Global.area_prefix + "-confs.csv", 'r'))
     for conf_row in reader:
         conf_dblp, conf_name, conf_weight = conf_row
         Global.confdata[conf_dblp] = conf_name, int(conf_weight)  # Armazena o nome e peso da conferência
@@ -617,7 +616,7 @@ def init_confs():
 
 def init_min_paper_size():
     # Abre o arquivo "research-areas-config.csv" para ler as configurações da área de pesquisa
-    reader = csv.reader(open("research-areas-config.csv", 'r'))
+    reader = csv.reader(open("../../data/configs/research-areas-config.csv", 'r'))
     
     # Itera sobre cada linha do arquivo CSV
     for area_tuple in reader:
@@ -644,7 +643,7 @@ def read_dblp_file(pid, prof):
     prof = prof.replace(" ", "-")
     
     # Define o caminho do arquivo XML no cache para o professor
-    file = '../cache/dblp/' + prof + '.xml'
+    file = '../../data/cache/dblp/' + prof + '.xml'
     
     # Se o arquivo XML já existe no cache, abre e lê seu conteúdo
     if os.path.exists(file):
@@ -689,7 +688,7 @@ def process_all_researchers():
     global global_department, global_found_paper
     
     # Lê o arquivo com todos os pesquisadores
-    all_researchers = csv.reader(open("all-researchers.csv", 'r'))
+    all_researchers = csv.reader(open("../../data/configs/all-researchers.csv", 'r'))
     count = 1
     print("Research Area: " + Global.area_prefix)  # Exibe a área de pesquisa
     
