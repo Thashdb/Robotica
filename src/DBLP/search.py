@@ -347,7 +347,7 @@ def output_search_box_list():
     # Ordena os professores em ordem alfabética
     profs.sort()
 
-    f = open("all-authors.csv", 'w')
+    f = open("../all-authors.csv", 'w')
     for p in profs:
         f.write(p)
         f.write('\n')
