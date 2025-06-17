@@ -1,0 +1,1139 @@
+<?xml version="1.0"?>
+<dblpperson name="Jamilson Dantas" pid="123/2647" n="67">
+<person key="homepages/123/2647" mdate="2012-12-18">
+<author pid="123/2647">Jamilson Dantas</author>
+</person>
+<r><article key="journals/ijguc/MeloADPOM25" mdate="2025-05-29">
+<author pid="194/9276">Carlos Melo</author>
+<author pid="59/10512">Jean Araujo 0001</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="23/4827">Paulo Pereira</author>
+<author pid="143/5609">Felipe Oliveira</author>
+<author pid="m/PRMartinsMaciel">Paulo Maciel 0001</author>
+<title>Cloud infrastructure planning considering the impact of maintenance and self-healing routines over cost and dependability attributes.</title>
+<pages>211-223</pages>
+<year>2025</year>
+<volume>16</volume>
+<journal>Int. J. Grid Util. Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1504/IJGUC.2025.146279</ee>
+<url>db/journals/ijguc/ijguc16.html#MeloADPOM25</url>
+<stream>streams/journals/ijguc</stream>
+</article>
+</r>
+<r><article key="journals/jrie/AssisDA25" mdate="2024-12-10">
+<author pid="368/8099">Andr&#233; Assis</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="78/2745">Ermeson C. Andrade</author>
+<title>The performance-interpretability trade-off: a comparative study of machine learning models.</title>
+<pages>1</pages>
+<year>2025</year>
+<month>March</month>
+<volume>11</volume>
+<journal>J. Reliab. Intell. Environ.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s40860-024-00240-0</ee>
+<url>db/journals/jrie/jrie11.html#AssisDA25</url>
+<stream>streams/journals/jrie</stream>
+</article>
+</r>
+<r><inproceedings key="conf/aina/BermudezDM25" mdate="2025-05-07">
+<author pid="286/3005">Esau Bermudez</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<title>LoRa Signal Performance in Satellite-Assisted LPWANs Using Graham's Algorithm.</title>
+<pages>172-183</pages>
+<year>2025</year>
+<booktitle>AINA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-87763-6_16</ee>
+<crossref>conf/aina/2025-1</crossref>
+<url>db/conf/aina/aina2025-1.html#BermudezDM25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/BermudezDM25a" mdate="2025-05-07">
+<author pid="286/3005">Esau Bermudez</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<title>Analysis of Satellite Aging and Its Impact on PDOP and Orbital Availability.</title>
+<pages>184-194</pages>
+<year>2025</year>
+<booktitle>AINA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-87763-6_17</ee>
+<crossref>conf/aina/2025-1</crossref>
+<url>db/conf/aina/aina2025-1.html#BermudezDM25a</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-10515" mdate="2025-03-17">
+<author pid="194/9276">Carlos Melo</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="23/4827">Paulo Pereira</author>
+<author pid="m/PRMartinsMaciel">Paulo Maciel 0001</author>
+<title>Distributed Application Provisioning over Ethereum based private and permissioned Blockchain: Availability modeling, capacity, and costs planning.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.10515</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.10515</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-10515</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2503-07391" mdate="2025-04-13">
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="39/6329">Paulo Silva</author>
+<author pid="92/1152">Lance Fiondella</author>
+<author pid="194/9276">Carlos Melo</author>
+<author pid="m/PRMartinsMaciel">Paulo Maciel 0001</author>
+<title>Availability Modeling for Blockchain Provisioning in Private Clouds.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.07391</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.07391</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-07391</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/tii/OliveiraPDAM24" mdate="2024-02-29">
+<author orcid="0000-0002-0282-6717" pid="143/5609">Felipe Oliveira</author>
+<author orcid="0000-0002-7415-1640" pid="23/4827">Paulo Pereira</author>
+<author orcid="0000-0001-9009-7659" pid="123/2647">Jamilson Dantas</author>
+<author orcid="0000-0002-1688-4782" pid="59/10512">Jean Araujo 0001</author>
+<author orcid="0000-0003-4021-9069" pid="m/PRMartinsMaciel">Paulo Maciel 0001</author>
+<title>Dependability Evaluation of a Smart Poultry House: Addressing Availability Issues Through the Edge, Fog, and Cloud Computing.</title>
+<pages>1304-1312</pages>
+<year>2024</year>
+<month>February</month>
+<volume>20</volume>
+<journal>IEEE Trans. Ind. Informatics</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TII.2023.3275656</ee>
+<url>db/journals/tii/tii20.html#OliveiraPDAM24</url>
+</article>
+</r>
+<r><inproceedings key="conf/ladc/NascimentoTDM24" mdate="2024-12-22">
+<author orcid="0000-0002-6721-237X" pid="168/4841">Erick Nascimento</author>
+<author orcid="0000-0001-6778-299X" pid="t/EduardoTavares">Eduardo Antonio Guimar&#227;es Tavares</author>
+<author orcid="0000-0001-9009-7659" pid="123/2647">Jamilson Dantas</author>
+<author orcid="0000-0003-4021-9069" pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<title>Modeling Availability in Softwarized MEC: Integrating a Fault Injection Tool for Effective Validation.</title>
+<pages>38-48</pages>
+<year>2024</year>
+<booktitle>LADC</booktitle>
+<ee>https://doi.org/10.1145/3697090.3697097</ee>
+<crossref>conf/ladc/2024</crossref>
+<url>db/conf/ladc/ladc2024.html#NascimentoTDM24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ladc/LinsND0M24" mdate="2024-12-22">
+<author orcid="0009-0002-0830-0684" pid="282/3275">Luan Lins</author>
+<author orcid="0000-0002-6721-237X" pid="168/4841">Erick Nascimento</author>
+<author orcid="0000-0001-9009-7659" pid="123/2647">Jamilson Dantas</author>
+<author orcid="0000-0002-1688-4782" pid="59/10512">Jean Araujo 0001</author>
+<author orcid="0000-0003-4021-9069" pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<title>Stochastic Petri Nets for Drone Surveillance: Modeling Availability and Reliability.</title>
+<pages>65-74</pages>
+<year>2024</year>
+<booktitle>LADC</booktitle>
+<ee>https://doi.org/10.1145/3697090.3697099</ee>
+<crossref>conf/ladc/2024</crossref>
+<url>db/conf/ladc/ladc2024.html#LinsND0M24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/OliveiraBBD24" mdate="2025-03-03">
+<author pid="392/7977">Gabriel Vanderlei de Oliveira</author>
+<author orcid="0000-0002-1827-665X" pid="140/1381">Andson M. Balieiro</author>
+<author pid="203/0297">Gilmar Brito</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<title>Landslide Risk Estimation Based on 5G Network RSSI.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC65055.2024.10771919</ee>
+<crossref>conf/sbesc/2024</crossref>
+<url>db/conf/sbesc/sbesc2024.html#OliveiraBBD24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/syscon/LinsND0M24" mdate="2024-06-24">
+<author pid="282/3275">Luan Lins</author>
+<author pid="168/4841">Erick Nascimento</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="59/10512">Jean Araujo 0001</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<title>Stochastic Modeling for Assessing the Reliability and Availability of Drone-Based Surveillance Systems.</title>
+<pages>1-8</pages>
+<year>2024</year>
+<booktitle>SysCon</booktitle>
+<ee>https://doi.org/10.1109/SysCon61195.2024.10553470</ee>
+<crossref>conf/syscon/2024</crossref>
+<url>db/conf/syscon/syscon2024.html#LinsND0M24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/syscon/MontenegroBMMD24" mdate="2024-06-24">
+<author pid="378/4808">Artur Montenegro</author>
+<author pid="214/4332">Erick Barros</author>
+<author pid="378/4745">Rubens Matos</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<title>Availability Modeling and Sensitivity Analysis of CELERY Airflow Service in a Node-Based Computing Environment.</title>
+<pages>1-7</pages>
+<year>2024</year>
+<booktitle>SysCon</booktitle>
+<ee>https://doi.org/10.1109/SysCon61195.2024.10553613</ee>
+<crossref>conf/syscon/2024</crossref>
+<url>db/conf/syscon/syscon2024.html#MontenegroBMMD24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/syscon/NascimentoDTM24" mdate="2024-06-24">
+<author pid="168/4841">Erick Nascimento</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="t/EduardoTavares">Eduardo Tavares</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<title>Availability Evaluation of a Softwarized MEC.</title>
+<pages>1-7</pages>
+<year>2024</year>
+<booktitle>SysCon</booktitle>
+<ee>https://doi.org/10.1109/SysCon61195.2024.10553421</ee>
+<crossref>conf/syscon/2024</crossref>
+<url>db/conf/syscon/syscon2024.html#NascimentoDTM24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/syscon/PinheiroMPLSDM24" mdate="2024-11-06">
+<author pid="224/7707">Thiago Felipe da Silva Pinheiro</author>
+<author pid="281/8483">Marco Mialaret</author>
+<author pid="23/4827">Paulo Pereira</author>
+<author pid="282/3275">Luan Lins</author>
+<author pid="131/9457">Daliton Silva</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<title>Performance Modeling of Microservices with Circuit Breakers using Stochastic Petri Nets.</title>
+<pages>1-8</pages>
+<year>2024</year>
+<booktitle>SysCon</booktitle>
+<ee>https://doi.org/10.1109/SysCon61195.2024.10553490</ee>
+<crossref>conf/syscon/2024</crossref>
+<url>db/conf/syscon/syscon2024.html#PinheiroMPLSDM24</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijguc/DantasMMJ23" mdate="2023-09-03">
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="194/9276">Carlos Melo</author>
+<author pid="m/PRMartinsMaciel">Paulo Maciel 0001</author>
+<author pid="122/3584">R&#250;bens de Souza Matos J&#250;nior</author>
+<title>Cloud infrastructure planning: models considering an optimisation method, cost and performance requirements.</title>
+<pages>297-310</pages>
+<year>2023</year>
+<volume>14</volume>
+<journal>Int. J. Grid Util. Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1504/IJGUC.2023.132613</ee>
+<url>db/journals/ijguc/ijguc14.html#DantasMMJ23</url>
+</article>
+</r>
+<r><article key="journals/tjs/CorreiaDS23" mdate="2025-01-19">
+<author pid="310/3961">Leonel Feitosa Correia</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="165/3596">Francisco Airton Silva</author>
+<title>Blockchain as a service environment: a dependability evaluation.</title>
+<pages>17919-17943</pages>
+<year>2023</year>
+<month>November</month>
+<volume>79</volume>
+<journal>J. Supercomput.</journal>
+<number>16</number>
+<ee>https://doi.org/10.1007/s11227-023-05342-9</ee>
+<ee>https://www.wikidata.org/entity/Q123149955</ee>
+<url>db/journals/tjs/tjs79.html#CorreiaDS23</url>
+</article>
+</r>
+<r><inproceedings key="conf/syscon/ServioODSC23" mdate="2023-06-09">
+<author pid="348/8445">Arthur S&#233;rvio</author>
+<author pid="143/5609">Felipe Oliveira</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="131/9457">Daliton Silva</author>
+<author pid="319/3177">Danilo Clemente</author>
+<title>Dependability Issues on an Internet Service Provider and availability study of autonomous systems.</title>
+<pages>1-7</pages>
+<year>2023</year>
+<booktitle>SysCon</booktitle>
+<ee>https://doi.org/10.1109/SysCon53073.2023.10131183</ee>
+<crossref>conf/syscon/2023</crossref>
+<url>db/conf/syscon/syscon2023.html#ServioODSC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wetice/DantasNFMD23" mdate="2024-04-24">
+<author pid="372/3505">Camila Dantas</author>
+<author pid="309/9196">Pablo Pessoa do Nascimento</author>
+<author pid="62/1526-2">Jo&#227;o Ferreira 0002</author>
+<author pid="m/PRMartinsMaciel">Paulo Maciel 0001</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<title>DDoS Detection Based on Hardware Performance Counters Selection.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>WETICE</booktitle>
+<ee>https://doi.org/10.1109/WETICE57085.2023.10501947</ee>
+<crossref>conf/wetice/2023</crossref>
+<url>db/conf/wetice/wetice2023.html#DantasNFMD23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wetice/MeloGDBA23" mdate="2024-04-08">
+<author pid="34/7401">Pedro Melo</author>
+<author pid="372/3121">Lucas Gama</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="166/8810">David Beserra</author>
+<author pid="59/10512">Jean Araujo 0001</author>
+<title>Performance Evaluation of Container Management Tasks in OS-Level Virtualization Platforms.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>WETICE</booktitle>
+<ee>https://doi.org/10.1109/WETICE57085.2023.10477783</ee>
+<crossref>conf/wetice/2023</crossref>
+<url>db/conf/wetice/wetice2023.html#MeloGDBA23</url>
+</inproceedings>
+</r>
+<r><article key="journals/computing/MeloADPM22" mdate="2022-08-10">
+<author orcid="0000-0001-5611-4793" pid="194/9276">Carlos Melo</author>
+<author orcid="0000-0002-1688-4782" pid="59/10512">Jean Araujo 0001</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="23/4827">Paulo Pereira</author>
+<author pid="m/PRMartinsMaciel">Paulo Maciel 0001</author>
+<title>A model-based approach for planning blockchain service provisioning.</title>
+<pages>315-337</pages>
+<year>2022</year>
+<volume>104</volume>
+<journal>Computing</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00607-021-00956-4</ee>
+<url>db/journals/computing/computing104.html#MeloADPM22</url>
+</article>
+</r>
+<r><article key="journals/jrie/MacielDMPOAJ22" mdate="2022-10-02">
+<author orcid="0000-0003-4021-9069" pid="m/PRMartinsMaciel">Paulo Maciel 0001</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="194/9276">Carlos Melo</author>
+<author pid="23/4827">Paulo Pereira</author>
+<author pid="143/5609">Felipe Oliveira</author>
+<author orcid="0000-0002-1688-4782" pid="59/10512">Jean Araujo 0001</author>
+<author pid="122/3584">R&#250;bens de Souza Matos J&#250;nior</author>
+<title>A survey on reliability and availability modeling of edge, fog, and cloud computing.</title>
+<pages>227-245</pages>
+<year>2022</year>
+<volume>8</volume>
+<journal>J. Reliab. Intell. Environ.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s40860-021-00154-1</ee>
+<url>db/journals/jrie/jrie8.html#MacielDMPOAJ22</url>
+</article>
+</r>
+<r><article key="journals/sensors/FeJDMNMCSM22" mdate="2022-02-23">
+<author pid="199/7006">Iure F&#233;</author>
+<author pid="122/3584">R&#250;bens de Souza Matos J&#250;nior</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="194/9276">Carlos Melo</author>
+<author orcid="0000-0002-9123-3584" pid="26/11188-2">Tuan Anh Nguyen 0002</author>
+<author pid="22/5769">Dugki Min</author>
+<author pid="70/673">Eunmi Choi</author>
+<author orcid="0000-0002-8211-6060" pid="165/3596">Francisco Airton Silva</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<title>Performance-Cost Trade-Off in Auto-Scaling Mechanisms for Cloud Computing.</title>
+<pages>1221</pages>
+<year>2022</year>
+<volume>22</volume>
+<journal>Sensors</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.3390/s22031221</ee>
+<url>db/journals/sensors/sensors22.html#FeJDMNMCSM22</url>
+</article>
+</r>
+<r><article key="journals/tjs/PereiraMADSM22" mdate="2022-08-10">
+<author orcid="0000-0002-7415-1640" pid="23/4827">Paulo Pereira</author>
+<author pid="194/9276">Carlos Melo</author>
+<author orcid="0000-0002-1688-4782" pid="59/10512">Jean Araujo 0001</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="242/2632">Vin&#237;cius Santos</author>
+<author pid="m/PRMartinsMaciel">Paulo Maciel 0001</author>
+<title>Availability model for edge-fog-cloud continuum: an evaluation of an end-to-end infrastructure of intelligent traffic management service.</title>
+<pages>4421-4448</pages>
+<year>2022</year>
+<volume>78</volume>
+<journal>J. Supercomput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11227-021-04033-7</ee>
+<url>db/journals/tjs/tjs78.html#PereiraMADSM22</url>
+</article>
+</r>
+<r><article key="journals/tjs/ClementePDM22" mdate="2022-05-18">
+<author orcid="0000-0003-3807-3208" pid="319/3177">Danilo Clemente</author>
+<author pid="23/4827">Paulo Pereira</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<title>Availability evaluation of system service hosted in private cloud computing through hierarchical modeling process.</title>
+<pages>9985-10024</pages>
+<year>2022</year>
+<volume>78</volume>
+<journal>J. Supercomput.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1007/s11227-021-04217-1</ee>
+<url>db/journals/tjs/tjs78.html#ClementePDM22</url>
+</article>
+</r>
+<r><article key="journals/tjs/MeloODAPMM22" mdate="2022-08-10">
+<author orcid="0000-0001-5611-4793" pid="194/9276">Carlos Melo</author>
+<author pid="143/5609">Felipe Oliveira</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author orcid="0000-0002-1688-4782" pid="59/10512">Jean Araujo 0001</author>
+<author pid="23/4827">Paulo Pereira</author>
+<author pid="199/7124">Ronierison Maciel</author>
+<author pid="m/PRMartinsMaciel">Paulo Maciel 0001</author>
+<title>Performance and availability evaluation of the blockchain platform hyperledger fabric.</title>
+<pages>12505-12527</pages>
+<year>2022</year>
+<volume>78</volume>
+<journal>J. Supercomput.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1007/s11227-022-04361-2</ee>
+<url>db/journals/tjs/tjs78.html#MeloODAPMM22</url>
+</article>
+</r>
+<r><inproceedings key="conf/iiwas/VieiraRPVAD22" mdate="2023-09-30">
+<author orcid="0000-0001-6584-9468" pid="12/4781">Jos&#233; Vieira</author>
+<author orcid="0000-0003-1993-5044" pid="229/9168">Rodrigo Rocha</author>
+<author orcid="0000-0002-4624-6714" pid="333/9524">Luis Filipe Alves Pereira</author>
+<author orcid="0000-0002-1939-6979" pid="329/8442">Igor Medeiros Vanderlei</author>
+<author orcid="0000-0002-1688-4782" pid="59/10512">Jean Araujo 0001</author>
+<author orcid="0000-0001-9009-7659" pid="123/2647">Jamilson Dantas</author>
+<title>bNaming: An Intelligent Application to Assist Brand Names Definition.</title>
+<pages>75-89</pages>
+<year>2022</year>
+<booktitle>iiWAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-21047-1_6</ee>
+<crossref>conf/iiwas/2022</crossref>
+<url>db/conf/iiwas/iiwas2022.html#VieiraRPVAD22</url>
+</inproceedings>
+</r>
+<r><article key="journals/tjs/MeloDPM21" mdate="2021-09-01">
+<author orcid="0000-0001-5611-4793" pid="194/9276">Carlos Melo</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="23/4827">Paulo Pereira</author>
+<author pid="m/PRMartinsMaciel">Paulo R. M. Maciel</author>
+<title>Distributed application provisioning over Ethereum-based private and permissioned blockchain: availability modeling, capacity, and costs planning.</title>
+<pages>9615-9641</pages>
+<year>2021</year>
+<volume>77</volume>
+<journal>J. Supercomput.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1007/s11227-020-03617-z</ee>
+<url>db/journals/tjs/tjs77.html#MeloDPM21</url>
+</article>
+</r>
+<r><inproceedings key="conf/intenv/PinheiroOJ0PMOT21" mdate="2024-11-06">
+<author pid="224/7707">Thiago Felipe da Silva Pinheiro</author>
+<author pid="141/7845">Danilo Oliveira</author>
+<author pid="122/3584">R&#250;bens de Souza Matos J&#250;nior</author>
+<author pid="92/7568">Bruno Silva 0001</author>
+<author pid="23/4827">Paulo Pereira</author>
+<author pid="194/9276">Carlos Melo</author>
+<author pid="143/5609">Felipe Oliveira</author>
+<author pid="t/EduardoTavares">Eduardo Tavares</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<title>The Mercury Environment: A Modeling Tool for Performance and Dependability Evaluation.</title>
+<pages>16-25</pages>
+<year>2021</year>
+<booktitle>Intelligent Environments (Workshops)</booktitle>
+<ee>https://doi.org/10.3233/AISE210075</ee>
+<crossref>conf/intenv/2021w</crossref>
+<url>db/conf/intenv/intenv2021w.html#PinheiroOJ0PMOT21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/syscon/MacielAMPDMM21" mdate="2023-06-26">
+<author pid="199/7124">Ronierison Maciel</author>
+<author orcid="0000-0002-1688-4782" pid="59/10512">Jean Araujo 0001</author>
+<author pid="194/9276">Carlos Melo</author>
+<author pid="23/4827">Paulo Pereira</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author orcid="0000-0002-1432-1169" pid="174/3553">J&#250;lio Mendon&#231;a</author>
+<author pid="m/PRMartinsMaciel">Paulo Maciel 0001</author>
+<title>Impact Evaluation of DDoS Attacks Using IoT Devices.</title>
+<pages>1-8</pages>
+<year>2021</year>
+<booktitle>SysCon</booktitle>
+<ee>https://doi.org/10.1109/SysCon48628.2021.9447145</ee>
+<crossref>conf/syscon/2021</crossref>
+<url>db/conf/syscon/syscon2021.html#MacielAMPDMM21</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijcse/DantasAMJT20" mdate="2023-08-25">
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="254/5674">Eltton Araujo</author>
+<author pid="m/PRMartinsMaciel">Paulo R. M. Maciel</author>
+<author pid="122/3584">R&#250;bens de Souza Matos J&#250;nior</author>
+<author orcid="0000-0002-1688-4782" pid="59/10512">Jean Teixeira 0001</author>
+<title>Estimating capacity-oriented availability in cloud systems.</title>
+<pages>466-476</pages>
+<year>2020</year>
+<volume>22</volume>
+<journal>Int. J. Comput. Sci. Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1504/IJCSE.2020.109409</ee>
+<url>db/journals/ijcse/ijcse22.html#DantasAMJT20</url>
+</article>
+</r>
+<r><article key="journals/ijguc/MeloDMOAMF20" mdate="2022-08-10">
+<author pid="194/9276">Carlos Melo</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="m/PRMartinsMaciel">Paulo R. M. Maciel</author>
+<author pid="120/4427">Danilo Mendon&#231;a Oliveira</author>
+<author orcid="0000-0002-1688-4782" pid="59/10512">Jean Araujo 0001</author>
+<author pid="122/3584">R&#250;bens de Souza Matos J&#250;nior</author>
+<author pid="199/7006">Iure F&#233;</author>
+<title>Models for hyper-converged cloud computing infrastructures planning.</title>
+<pages>196-208</pages>
+<year>2020</year>
+<volume>11</volume>
+<journal>Int. J. Grid Util. Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1504/IJGUC.2020.105533</ee>
+<url>db/journals/ijguc/ijguc11.html#MeloDMOAMF20</url>
+</article>
+</r>
+<r><article key="journals/jnsm/MatosDAM20" mdate="2020-10-28">
+<author orcid="0000-0002-9535-632X" pid="122/3584">R&#250;bens de Souza Matos J&#250;nior</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="254/5674">Eltton Araujo</author>
+<author pid="m/PRMartinsMaciel">Paulo R. M. Maciel</author>
+<title>Bottleneck Detection in Cloud Computing Performance and Dependability: Sensitivity Rankings for Hierarchical Models.</title>
+<pages>1839-1871</pages>
+<year>2020</year>
+<volume>28</volume>
+<journal>J. Netw. Syst. Manag.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10922-020-09562-9</ee>
+<url>db/journals/jnsm/jnsm28.html#MatosDAM20</url>
+</article>
+</r>
+<r><article key="journals/tjs/PereiraATDMM20" mdate="2024-02-05">
+<author orcid="0000-0002-7415-1640" pid="23/4827">Paulo Pereira</author>
+<author orcid="0000-0002-1688-4782" pid="59/10512">Jean Araujo 0001</author>
+<author orcid="0000-0003-3211-7951" pid="151/4104">Matheus Torquato 0001</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="194/9276">Carlos Melo</author>
+<author pid="m/PRMartinsMaciel">Paulo R. M. Maciel</author>
+<title>Stochastic performance model for web server capacity planning in fog computing.</title>
+<pages>9533-9557</pages>
+<year>2020</year>
+<volume>76</volume>
+<journal>J. Supercomput.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1007/s11227-020-03218-w</ee>
+<url>db/journals/tjs/tjs76.html#PereiraATDMM20</url>
+</article>
+</r>
+<r><article key="journals/ijdmmm/DantasDAM19" mdate="2025-03-03">
+<author pid="174/3529">Renata Dantas</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author orcid="0000-0002-2249-7818" pid="83/83">Gabriel Alves</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<title>Analysis of a performability model for the BRT system.</title>
+<pages>64-86</pages>
+<year>2019</year>
+<volume>11</volume>
+<journal>Int. J. Data Min. Model. Manag.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1504/IJDMMM.2019.096530</ee>
+<url>db/journals/ijdmmm/ijdmmm11.html#DantasDAM19</url>
+</article>
+</r>
+<r><article key="journals/ijwgs/OliveiraDRMMB19" mdate="2025-01-06">
+<author pid="141/7845">Danilo Oliveira</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="r/NelsonSoutoRosa">Nelson Souto Rosa</author>
+<author pid="m/PRMartinsMaciel">Paulo R. M. Maciel</author>
+<author pid="122/3584">R&#250;bens de Souza Matos J&#250;nior</author>
+<author pid="84/2504">Andr&#233; Brinkmann</author>
+<title>A dependability and cost optimisation method for private cloud infrastructures.</title>
+<pages>367-393</pages>
+<year>2019</year>
+<volume>15</volume>
+<journal>Int. J. Web Grid Serv.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1504/IJWGS.2019.103222</ee>
+<url>db/journals/ijwgs/ijwgs15.html#OliveiraDRMMB19</url>
+</article>
+</r>
+<r><article key="journals/rita/MeloDMSM19" mdate="2020-02-03">
+<author pid="194/9276">Carlos Melo</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="199/7124">Ronierison Maciel</author>
+<author pid="39/6329">Paulo Silva</author>
+<author pid="m/PRMartinsMaciel">Paulo R. M. Maciel</author>
+<title>Models to evaluate service Provisioning over Cloud Computing Environments - A Blockchain-As-A-Service case study.</title>
+<pages>65-74</pages>
+<year>2019</year>
+<volume>26</volume>
+<journal>RITA</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.22456/2175-2745.91814</ee>
+<url>db/journals/rita/rita26.html#MeloDMSM19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cloudnet/MeloDMPQM19" mdate="2020-05-08">
+<author pid="194/9276">Carlos Melo</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="199/7124">Ronierison Romero Martins Maciel</author>
+<author pid="23/4827">Paulo Pereira</author>
+<author pid="178/4839">Eder Quesado</author>
+<author pid="m/PRMartinsMaciel">Paulo R. M. Maciel</author>
+<title>Blockchain provisioning over private cloud computing environments: Availability modeling and cost requirements.</title>
+<pages>1-3</pages>
+<year>2019</year>
+<booktitle>CloudNet</booktitle>
+<ee>https://doi.org/10.1109/CloudNet47604.2019.9064125</ee>
+<crossref>conf/cloudnet/2019</crossref>
+<url>db/conf/cloudnet/cloudnet2019.html#MeloDMPQM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/AraujoDMPM19" mdate="2020-09-25">
+<author pid="254/5674">Eltton Araujo</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="122/3584">R&#250;bens de Souza Matos J&#250;nior</author>
+<author pid="23/4827">Paulo Pereira</author>
+<author pid="m/PRMartinsMaciel">Paulo R. M. Maciel</author>
+<title>Dependability Evaluation of an IoT System: A Hierarchical Modelling Approach.</title>
+<pages>2121-2126</pages>
+<year>2019</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/SMC.2019.8914032</ee>
+<crossref>conf/smc/2019</crossref>
+<url>db/conf/smc/smc2019.html#AraujoDMPM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/SiqueiraPDM19" mdate="2024-11-06">
+<author pid="254/5653">Diogo Siqueira</author>
+<author pid="224/7707">Thiago Felipe da Silva Pinheiro</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="m/PRMartinsMaciel">Paulo R. M. Maciel</author>
+<title>Dependability Evaluation in a Convergent Network Service using BGP and BFD Protocols.</title>
+<pages>2378-2383</pages>
+<year>2019</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/SMC.2019.8914368</ee>
+<crossref>conf/smc/2019</crossref>
+<url>db/conf/smc/smc2019.html#SiqueiraPDM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/syscon/DantasDMOM19" mdate="2019-11-14">
+<author pid="174/3529">Renata Dantas</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="194/9276">Carlos Melo</author>
+<author pid="141/7845">Danilo Oliveira</author>
+<author pid="m/PRMartinsMaciel">Paulo R. M. Maciel</author>
+<title>Sensitivity Analysis in a BRT System.</title>
+<pages>1-8</pages>
+<year>2019</year>
+<booktitle>SysCon</booktitle>
+<ee>https://doi.org/10.1109/SYSCON.2019.8836823</ee>
+<crossref>conf/syscon/2019</crossref>
+<url>db/conf/syscon/syscon2019.html#DantasDMOM19</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/lareferencia/DANTAS18a" mdate="2025-03-07">
+<author pid="123/2647">Jamilson Dantas</author>
+<title>Planejamento de infraestrutura de nuvens computacionais para servi&#231;o de VoD streaming considerando desempenho, disponibilidade e custo</title>
+<school>Federal University of Pernambuco, Brazil</school>
+<year>2018</year>
+<note type="source">LaReferencia (lareferencia.info): oai:repositorio.ufpe.br:123456789/29989</note>
+<ee>https://repositorio.ufpe.br/handle/123456789/29989</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/iscc/MeloDOFMDMM18" mdate="2023-03-24">
+<author orcid="0000-0001-5611-4793" pid="194/9276">Carlos Melo</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="141/7845">Danilo Oliveira</author>
+<author pid="199/7006">Iure Fe</author>
+<author pid="122/3584">R&#250;bens de Souza Matos J&#250;nior</author>
+<author pid="174/3529">Renata Dantas</author>
+<author orcid="0000-0001-5749-6359" pid="199/7124">Ronierison Maciel</author>
+<author pid="m/PRMartinsMaciel">Paulo R. M. Maciel</author>
+<title>Dependability Evaluation of a Blockchain-as-a-Service Environment.</title>
+<pages>909-914</pages>
+<year>2018</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2018.8538752</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2018.8538752</ee>
+<crossref>conf/iscc/2018</crossref>
+<url>db/conf/iscc/iscc2018.html#MeloDOFMDMM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/MacielAMDM18" mdate="2023-06-26">
+<author orcid="0000-0001-5749-6359" pid="199/7124">Ronierison Maciel</author>
+<author orcid="0000-0002-1688-4782" pid="59/10512">Jean Araujo 0001</author>
+<author pid="194/9276">Carlos Melo</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="m/PRMartinsMaciel">Paulo R. M. Maciel</author>
+<title>Impact Assessment of Multi-threats in Computer Systems Using Attack Tree Modeling.</title>
+<pages>2448-2453</pages>
+<year>2018</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/SMC.2018.00420</ee>
+<crossref>conf/smc/2018</crossref>
+<url>db/conf/smc/smc2018.html#MacielAMDM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/DantasMMAFM18" mdate="2023-06-26">
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="122/3584">R&#250;bens de Souza Matos J&#250;nior</author>
+<author orcid="0000-0001-5611-4793" pid="194/9276">Carlos Melo</author>
+<author orcid="0000-0002-1688-4782" pid="59/10512">Jean Araujo 0001</author>
+<author pid="62/1526-2">Jo&#227;o Ferreira 0002</author>
+<author pid="m/PRMartinsMaciel">Paulo R. M. Maciel</author>
+<title>Evaluation of Encoding and Network Aspects on Video Streaming Performance: A Modeling and Experimental Approach.</title>
+<pages>3883-3888</pages>
+<year>2018</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/SMC.2018.00658</ee>
+<crossref>conf/smc/2018</crossref>
+<url>db/conf/smc/smc2018.html#DantasMMAFM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/syscon/DantasDMMDA18" mdate="2025-03-03">
+<author pid="174/3529">Renata Dantas</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="194/9276">Carlos Melo</author>
+<author pid="m/PRMartinsMaciel">Paulo R. M. Maciel</author>
+<author orcid="0000-0002-2249-7818" pid="83/83">Gabriel Alves</author>
+<title>A performability model for the BRT system.</title>
+<pages>1-8</pages>
+<year>2018</year>
+<booktitle>SysCon</booktitle>
+<ee>https://doi.org/10.1109/SYSCON.2018.8369608</ee>
+<crossref>conf/syscon/2018</crossref>
+<url>db/conf/syscon/syscon2018.html#DantasDMMDA18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/syscon/MacielADMGM18" mdate="2023-06-26">
+<author orcid="0000-0001-5749-6359" pid="199/7124">Ronierison Maciel</author>
+<author orcid="0000-0002-1688-4782" pid="59/10512">Jean Araujo 0001</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author orcid="0000-0001-5611-4793" pid="194/9276">Carlos Melo</author>
+<author pid="47/8742">Erico A. C. Guedes</author>
+<author pid="m/PRMartinsMaciel">Paulo R. M. Maciel</author>
+<title>Impact of a DDoS attack on computer systems: An approach based on an attack tree model.</title>
+<pages>1-8</pages>
+<year>2018</year>
+<booktitle>SysCon</booktitle>
+<ee>https://doi.org/10.1109/SYSCON.2018.8369611</ee>
+<crossref>conf/syscon/2018</crossref>
+<url>db/conf/syscon/syscon2018.html#MacielADMGM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/syscon/MeloDOOFAMM18" mdate="2022-08-10">
+<author pid="194/9276">Carlos Melo</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="152/6595">Andre Oliveira</author>
+<author pid="141/7845">Danilo Oliveira</author>
+<author pid="199/7006">Iure Fe</author>
+<author pid="59/10512">Jean Araujo 0001</author>
+<author pid="122/3584">R&#250;bens de Souza Matos J&#250;nior</author>
+<author pid="m/PRMartinsMaciel">Paulo R. M. Maciel</author>
+<title>Availability models for hyper-converged cloud computing infrastructures.</title>
+<pages>1-7</pages>
+<year>2018</year>
+<booktitle>SysCon</booktitle>
+<ee>https://doi.org/10.1109/SYSCON.2018.8369580</ee>
+<crossref>conf/syscon/2018</crossref>
+<url>db/conf/syscon/syscon2018.html#MeloDOOFAMM18</url>
+</inproceedings>
+</r>
+<r><article key="journals/computing/SilvaMSMD17" mdate="2020-09-25">
+<author orcid="0000-0002-8211-6060" pid="165/3596">Francisco Airton Silva</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<author pid="30/8859">Eder Santana</author>
+<author pid="122/3584">R&#250;bens de Souza Matos J&#250;nior</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<title>Mobile cloud face recognition based on smart cloud ranking.</title>
+<pages>287-311</pages>
+<year>2017</year>
+<volume>99</volume>
+<journal>Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00607-016-0491-z</ee>
+<url>db/journals/computing/computing99.html#SilvaMSMD17</url>
+</article>
+</r>
+<r><article key="journals/grid/MatosDATM17" mdate="2022-08-10">
+<author pid="122/3584">R&#250;bens de Souza Matos J&#250;nior</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author orcid="0000-0002-1688-4782" pid="59/10512">Jean Araujo 0001</author>
+<author pid="t/KishorSTrivedi">Kishor S. Trivedi</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<title>Redundant Eucalyptus Private Clouds: Availability Modeling and Sensitivity Analysis.</title>
+<pages>1-22</pages>
+<year>2017</year>
+<volume>15</volume>
+<journal>J. Grid Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10723-016-9381-z</ee>
+<url>db/journals/grid/grid15.html#MatosDATM17</url>
+</article>
+</r>
+<r><inproceedings key="conf/prdc/MacielMSFOFMD17" mdate="2023-03-23">
+<author pid="m/PRMartinsMaciel">Paulo R. M. Maciel</author>
+<author pid="122/3584">R&#250;bens de Souza Matos J&#250;nior</author>
+<author pid="92/7568">Bruno Silva 0001</author>
+<author pid="19/10512">Jair Figueiredo</author>
+<author pid="141/7845">Danilo Oliveira</author>
+<author pid="199/7006">Iure Fe</author>
+<author orcid="0000-0001-5749-6359" pid="199/7124">Ronierison Maciel</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<title>Mercury: Performance and Dependability Evaluation of Systems with Exponential, Expolynomial, and General Distributions.</title>
+<pages>50-57</pages>
+<year>2017</year>
+<booktitle>PRDC</booktitle>
+<ee>https://doi.org/10.1109/PRDC.2017.16</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PRDC.2017.16</ee>
+<crossref>conf/prdc/2017</crossref>
+<url>db/conf/prdc/prdc2017.html#MacielMSFOFMD17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/prdc/MeloMDM17" mdate="2023-03-23">
+<author orcid="0000-0001-5611-4793" pid="194/9276">Carlos Melo</author>
+<author pid="122/3584">R&#250;bens de Souza Matos J&#250;nior</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="m/PRMartinsMaciel">Paulo R. M. Maciel</author>
+<title>Capacity-Oriented Availability Model for Resources Estimation on Private Cloud Infrastructure.</title>
+<pages>255-260</pages>
+<year>2017</year>
+<booktitle>PRDC</booktitle>
+<ee>https://doi.org/10.1109/PRDC.2017.49</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PRDC.2017.49</ee>
+<crossref>conf/prdc/2017</crossref>
+<url>db/conf/prdc/prdc2017.html#MeloMDM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/MeloDFOM17" mdate="2019-10-19">
+<author orcid="0000-0001-5611-4793" pid="194/9276">Carlos Melo</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="199/7006">Iure Fe</author>
+<author pid="152/6595">Andre Oliveira</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<title>Synchronization server infrastructure: A relationship between system downtime and deployment cost.</title>
+<pages>1250-1255</pages>
+<year>2017</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/SMC.2017.8122784</ee>
+<crossref>conf/smc/2017</crossref>
+<url>db/conf/smc/smc2017.html#MeloDFOM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/FeMDMM17" mdate="2020-09-25">
+<author pid="199/7006">Iure Fe</author>
+<author pid="122/3584">R&#250;bens de Souza Matos J&#250;nior</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="194/9276">Carlos Melo</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<title>Stochastic model of performance and cost for auto-scaling planning in public cloud.</title>
+<pages>2081-2086</pages>
+<year>2017</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/SMC.2017.8122926</ee>
+<crossref>conf/smc/2017</crossref>
+<url>db/conf/smc/smc2017.html#FeMDMM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/valuetools/OliveiraMDFSCMB17" mdate="2020-09-25">
+<author pid="141/7845">Danilo Oliveira</author>
+<author pid="122/3584">R&#250;bens de Souza Matos J&#250;nior</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="62/1526-2">Jo&#227;o Ferreira 0002</author>
+<author pid="92/7568">Bruno Silva 0001</author>
+<author pid="40/3382">Gustavo Callou</author>
+<author pid="m/PRMartinsMaciel">Paulo R. M. Maciel</author>
+<author pid="84/2504">Andr&#233; Brinkmann</author>
+<title>Advanced Stochastic Petri Net Modeling with the Mercury Scripting Language.</title>
+<pages>192-197</pages>
+<year>2017</year>
+<booktitle>VALUETOOLS</booktitle>
+<ee>https://doi.org/10.1145/3150928.3150959</ee>
+<crossref>conf/valuetools/2017</crossref>
+<url>db/conf/valuetools/valuetools2017.html#OliveiraMDFSCMB17</url>
+</inproceedings>
+</r>
+<r><article key="journals/qre/CostaADCSM16" mdate="2022-08-10">
+<author pid="167/1039">Igor Costa</author>
+<author orcid="0000-0002-1688-4782" pid="59/10512">Jean Araujo 0001</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="167/1213">Eliomar Campos</author>
+<author orcid="0000-0002-8211-6060" pid="165/3596">Francisco Airton Silva</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<title>Availability Evaluation and Sensitivity Analysis of a Mobile Backend-as-a-service Platform.</title>
+<pages>2191-2205</pages>
+<year>2016</year>
+<volume>32</volume>
+<journal>Qual. Reliab. Eng. Int.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/qre.1927</ee>
+<url>db/journals/qre/qre32.html#CostaADCSM16</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsn/DantasMAOOM16" mdate="2023-03-24">
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="122/3584">R&#250;bens de Souza Matos J&#250;nior</author>
+<author orcid="0000-0002-1688-4782" pid="59/10512">Jean Araujo 0001</author>
+<author pid="141/7845">Danilo Oliveira</author>
+<author pid="152/6595">Andre Oliveira</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<title>Hierarchical Model and Sensitivity Analysis for a Cloud-Based VoD Streaming Service.</title>
+<pages>10-16</pages>
+<year>2016</year>
+<booktitle>DSN Workshops</booktitle>
+<ee>https://doi.org/10.1109/DSN-W.2016.23</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DSN-W.2016.23</ee>
+<crossref>conf/dsn/2016w</crossref>
+<url>db/conf/dsn/dsn2016w.html#DantasMAOOM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/MeloDAMBK16" mdate="2022-08-10">
+<author orcid="0000-0001-5611-4793" pid="194/9276">Carlos Melo</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author orcid="0000-0002-1688-4782" pid="59/10512">Jean Araujo 0001</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<author pid="194/9390">Rodrigo Branchini</author>
+<author pid="46/2244">Luiz Kawakami</author>
+<title>Availability models for synchronization server infrastructure.</title>
+<pages>3658-3663</pages>
+<year>2016</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/SMC.2016.7844802</ee>
+<crossref>conf/smc/2016</crossref>
+<url>db/conf/smc/smc2016.html#MeloDAMBK16</url>
+</inproceedings>
+</r>
+<r><article key="journals/computing/DantasMAM15" mdate="2022-08-10">
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="122/3584">R&#250;bens de Souza Matos J&#250;nior</author>
+<author orcid="0000-0002-1688-4782" pid="59/10512">Jean Araujo 0001</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<title>Eucalyptus-based private clouds: availability modeling and comparison to the cost of a public cloud.</title>
+<pages>1121-1140</pages>
+<year>2015</year>
+<volume>97</volume>
+<journal>Computing</journal>
+<number>11</number>
+<ee>https://doi.org/10.1007/s00607-015-0447-8</ee>
+<url>db/journals/computing/computing97.html#DantasMAM15</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsn/MeloBDMFM15" mdate="2023-03-24">
+<author pid="155/4568">Rosangela Melo</author>
+<author pid="155/4575">Maria Clara Bezerra</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="122/3584">R&#250;bens de Souza Matos J&#250;nior</author>
+<author orcid="0000-0002-7584-5230" pid="173/1271">Ivanildo Jos&#233; de Melo Filho</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<title>Video on Demand Hosted in Private Cloud: Availability Modeling and Sensitivity Analysis.</title>
+<pages>12-18</pages>
+<year>2015</year>
+<booktitle>DSN Workshops</booktitle>
+<ee>https://doi.org/10.1109/DSN-W.2015.11</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DSN-W.2015.11</ee>
+<crossref>conf/dsn/2015w</crossref>
+<url>db/conf/dsn/dsn2015w.html#MeloBDMFM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/BezerraMDM15" mdate="2017-05-17">
+<author pid="155/4575">Maria Clara Bezerra</author>
+<author pid="155/4568">Rosangela Melo</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<title>Availability Evaluation of a VoD Streaming Cloud Service.</title>
+<pages>765-770</pages>
+<year>2015</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/SMC.2015.143</ee>
+<crossref>conf/smc/2015</crossref>
+<url>db/conf/smc/smc2015.html#BezerraMDM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/FerreiraDAMMC15" mdate="2022-08-10">
+<author pid="62/1526-2">Jo&#227;o Ferreira 0002</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author orcid="0000-0002-1688-4782" pid="59/10512">Jean Araujo 0001</author>
+<author pid="120/4427">Danilo Mendonca</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<author orcid="0000-0002-7997-374X" pid="40/3382">Gustavo Callou</author>
+<title>An Algorithm to Optimize Electrical Flows of Private Cloud Infrastructures.</title>
+<pages>771-776</pages>
+<year>2015</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/SMC.2015.144</ee>
+<crossref>conf/smc/2015</crossref>
+<url>db/conf/smc/smc2015.html#FerreiraDAMMC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/DantasDMDA15" mdate="2025-03-03">
+<author pid="174/3529">Renata Dantas</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="m/PRMartinsMaciel">Paulo R. M. Maciel</author>
+<author orcid="0000-0002-2249-7818" pid="83/83">Gabriel Alves</author>
+<title>Assessment of Bus Rapid Transit (BRT) Time Lags under Probabilistic Uncertainties.</title>
+<pages>1273-1278</pages>
+<year>2015</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/SMC.2015.227</ee>
+<crossref>conf/smc/2015</crossref>
+<url>db/conf/smc/smc2015.html#DantasDMDA15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cnsm/MeloBDMFM14" mdate="2023-03-24">
+<author pid="155/4568">Rosangela Melo</author>
+<author pid="155/4575">Maria Clara Bezerra</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="122/3584">R&#250;bens de Souza Matos J&#250;nior</author>
+<author orcid="0000-0002-7584-5230" pid="173/1271">Ivanildo Jos&#233; de Melo Filho</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<title>VoD in eucalyptus platform: Availability modeling and sensibility analysis.</title>
+<pages>288-291</pages>
+<year>2014</year>
+<booktitle>CNSM</booktitle>
+<ee>https://doi.org/10.1109/CNSM.2014.7014176</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CNSM.2014.7014176</ee>
+<crossref>conf/cnsm/2014</crossref>
+<url>db/conf/cnsm/cnsm2014.html#MeloBDMFM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipccc/MeloBDMFM14" mdate="2023-03-24">
+<author pid="155/4568">Rosangela Melo</author>
+<author pid="155/4575">Maria Clara Bezerra</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="122/3584">R&#250;bens de Souza Matos J&#250;nior</author>
+<author orcid="0000-0002-7584-5230" pid="173/1271">Ivanildo Jos&#233; de Melo Filho</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<title>Sensitivity analysis of availability of video streaming service in cloud computing.</title>
+<pages>1-2</pages>
+<year>2014</year>
+<booktitle>IPCCC</booktitle>
+<ee>https://doi.org/10.1109/PCCC.2014.7017029</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PCCC.2014.7017029</ee>
+<crossref>conf/ipccc/2014</crossref>
+<url>db/conf/ipccc/ipccc2014.html#MeloBDMFM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/BezerraMDMV14" mdate="2017-05-17">
+<author pid="155/4575">Maria Clara Bezerra</author>
+<author pid="155/4568">Rosangela Melo</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<author pid="155/4462">Francisco Vieira</author>
+<title>Availability modeling and analysis of a VoD service for eucalyptus platform.</title>
+<pages>3779-3784</pages>
+<year>2014</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/SMC.2014.6974519</ee>
+<crossref>conf/smc/2014</crossref>
+<url>db/conf/smc/smc2014.html#BezerraMDMV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/FerreiraCDSM13" mdate="2019-07-08">
+<author pid="62/1526-2">Jo&#227;o Ferreira 0002</author>
+<author orcid="0000-0002-7997-374X" pid="40/3382">Gustavo Rau de Almeida Callou</author>
+<author pid="123/2647">Jamilson Dantas</author>
+<author pid="43/7668">Rafael Souza</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<title>An Algorithm to Optimize Electrical Flows.</title>
+<pages>109-114</pages>
+<year>2013</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/SMC.2013.26</ee>
+<crossref>conf/smc/2013</crossref>
+<url>db/conf/smc/smc2013.html#FerreiraCDSM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/DantasMAM12" mdate="2022-08-10">
+<author pid="123/2647">Jamilson Dantas</author>
+<author orcid="0000-0002-9535-632X" pid="122/3584">R&#250;bens de Souza Matos J&#250;nior</author>
+<author orcid="0000-0002-1688-4782" pid="59/10512">Jean Araujo 0001</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<title>An availability model for eucalyptus platform: An analysis of warm-standy replication mechanism.</title>
+<pages>1664-1669</pages>
+<year>2012</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/ICSMC.2012.6377976</ee>
+<crossref>conf/smc/2012</crossref>
+<url>db/conf/smc/smc2012.html#DantasMAM12</url>
+</inproceedings>
+</r>
+<coauthors n="70" nc="1">
+<co c="0"><na f="a/Alves:Gabriel" pid="83/83">Gabriel Alves</na></co>
+<co c="0" n="2"><na f="a/Andrade:Ermeson_Carneiro_de" pid="78/2745">Ermeson Carneiro de Andrade</na><na>Ermeson C. Andrade</na></co>
+<co c="0"><na f="a/Araujo:Eltton" pid="254/5674">Eltton Araujo</na></co>
+<co c="0" n="2"><na f="a/Araujo_0001:Jean" pid="59/10512">Jean Araujo 0001</na><na>Jean Teixeira 0001</na></co>
+<co c="0"><na f="a/Assis:Andr=eacute=" pid="368/8099">Andr&#233; Assis</na></co>
+<co c="0"><na f="b/Balieiro:Andson_M=" pid="140/1381">Andson M. Balieiro</na></co>
+<co c="0"><na f="b/Barros:Erick" pid="214/4332">Erick Barros</na></co>
+<co c="0"><na f="b/Bermudez:Esau" pid="286/3005">Esau Bermudez</na></co>
+<co c="0"><na f="b/Beserra:David" pid="166/8810">David Beserra</na></co>
+<co c="0"><na f="b/Bezerra:Maria_Clara" pid="155/4575">Maria Clara Bezerra</na></co>
+<co c="0"><na f="b/Branchini:Rodrigo" pid="194/9390">Rodrigo Branchini</na></co>
+<co c="0"><na f="b/Brinkmann:Andr=eacute=" pid="84/2504">Andr&#233; Brinkmann</na></co>
+<co c="0"><na f="b/Brito:Gilmar" pid="203/0297">Gilmar Brito</na></co>
+<co c="0" n="2"><na f="c/Callou:Gustavo_Rau_de_Almeida" pid="40/3382">Gustavo Rau de Almeida Callou</na><na>Gustavo Callou</na></co>
+<co c="0"><na f="c/Campos:Eliomar" pid="167/1213">Eliomar Campos</na></co>
+<co c="0"><na f="c/Choi:Eunmi" pid="70/673">Eunmi Choi</na></co>
+<co c="0"><na f="c/Clemente:Danilo" pid="319/3177">Danilo Clemente</na></co>
+<co c="0"><na f="c/Correia:Leonel_Feitosa" pid="310/3961">Leonel Feitosa Correia</na></co>
+<co c="0"><na f="c/Costa:Igor" pid="167/1039">Igor Costa</na></co>
+<co c="0"><na f="d/Dantas:Camila" pid="372/3505">Camila Dantas</na></co>
+<co c="0"><na f="d/Dantas:Renata" pid="174/3529">Renata Dantas</na></co>
+<co c="0" n="2"><na f="f/Fe:Iure" pid="199/7006">Iure Fe</na><na>Iure F&#233;</na></co>
+<co c="0"><na f="f/Ferreira_0002:Jo=atilde=o" pid="62/1526-2">Jo&#227;o Ferreira 0002</na></co>
+<co c="0"><na f="f/Figueiredo:Jair" pid="19/10512">Jair Figueiredo</na></co>
+<co c="0"><na f="f/Filho:Ivanildo_Jos=eacute=_de_Melo" pid="173/1271">Ivanildo Jos&#233; de Melo Filho</na></co>
+<co c="0"><na f="f/Fiondella:Lance" pid="92/1152">Lance Fiondella</na></co>
+<co c="0"><na f="g/Gama:Lucas" pid="372/3121">Lucas Gama</na></co>
+<co c="0"><na f="g/Guedes:Erico_A=_C=" pid="47/8742">Erico A. C. Guedes</na></co>
+<co c="0"><na f="j/J=uacute=nior:R=uacute=bens_de_Souza_Matos" pid="122/3584">R&#250;bens de Souza Matos J&#250;nior</na></co>
+<co c="0"><na f="k/Kawakami:Luiz" pid="46/2244">Luiz Kawakami</na></co>
+<co c="0"><na f="l/Lins:Luan" pid="282/3275">Luan Lins</na></co>
+<co c="0" n="3"><na f="m/Maciel:Paulo_Romero_Martins" pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</na><na>Paulo R. M. Maciel</na><na>Paulo Maciel 0001</na></co>
+<co c="0" n="2"><na f="m/Maciel:Ronierison" pid="199/7124">Ronierison Maciel</na><na>Ronierison Romero Martins Maciel</na></co>
+<co c="0"><na f="m/Matos:Rubens" pid="378/4745">Rubens Matos</na></co>
+<co c="0"><na f="m/Melo:Carlos" pid="194/9276">Carlos Melo</na></co>
+<co c="0" n="2"><na f="m/Melo:Matheus_D=E=ccedil=a_Torquato_de" pid="151/4104">Matheus D'E&#231;a Torquato de Melo</na><na>Matheus Torquato 0001</na></co>
+<co c="0"><na f="m/Melo:Pedro" pid="34/7401">Pedro Melo</na></co>
+<co c="0"><na f="m/Melo:Rosangela" pid="155/4568">Rosangela Melo</na></co>
+<co c="0" n="2"><na f="m/Mendonca:Julio" pid="174/3553">Julio Mendonca</na><na>J&#250;lio Mendon&#231;a</na></co>
+<co c="0" n="2"><na f="m/Mialaret:Marco_Aurelio_Tomaz" pid="281/8483">Marco Aurelio Tomaz Mialaret</na><na>Marco Mialaret</na></co>
+<co c="0"><na f="m/Min:Dugki" pid="22/5769">Dugki Min</na></co>
+<co c="0"><na f="m/Montenegro:Artur" pid="378/4808">Artur Montenegro</na></co>
+<co c="0"><na f="n/Nascimento:Erick" pid="168/4841">Erick Nascimento</na></co>
+<co c="0"><na f="n/Nascimento:Pablo_Pessoa_do" pid="309/9196">Pablo Pessoa do Nascimento</na></co>
+<co c="0"><na f="n/Nguyen_0002:Tuan_Anh" pid="26/11188-2">Tuan Anh Nguyen 0002</na></co>
+<co c="0"><na f="o/Oliveira:Andre" pid="152/6595">Andre Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Danilo" pid="141/7845">Danilo Oliveira</na></co>
+<co c="0" n="2"><na f="o/Oliveira:Danilo_Mendon=ccedil=a" pid="120/4427">Danilo Mendon&#231;a Oliveira</na><na>Danilo Mendonca</na></co>
+<co c="0"><na f="o/Oliveira:Felipe" pid="143/5609">Felipe Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Gabriel_Vanderlei_de" pid="392/7977">Gabriel Vanderlei de Oliveira</na></co>
+<co c="0"><na f="p/Pereira:Luis_Filipe_Alves" pid="333/9524">Luis Filipe Alves Pereira</na></co>
+<co c="0"><na f="p/Pereira:Paulo" pid="23/4827">Paulo Pereira</na></co>
+<co c="0"><na f="p/Pinheiro:Thiago_Felipe_da_Silva" pid="224/7707">Thiago Felipe da Silva Pinheiro</na></co>
+<co c="0"><na f="q/Quesado:Eder" pid="178/4839">Eder Quesado</na></co>
+<co c="0"><na f="r/Rocha:Rodrigo" pid="229/9168">Rodrigo Rocha</na></co>
+<co c="0"><na f="r/Rosa:Nelson_Souto" pid="r/NelsonSoutoRosa">Nelson Souto Rosa</na></co>
+<co c="0"><na f="s/Santana:Eder" pid="30/8859">Eder Santana</na></co>
+<co c="0"><na f="s/Santos:Vin=iacute=cius" pid="242/2632">Vin&#237;cius Santos</na></co>
+<co c="0"><na f="s/S=eacute=rvio:Arthur" pid="348/8445">Arthur S&#233;rvio</na></co>
+<co c="0"><na f="s/Silva_0001:Bruno" pid="92/7568">Bruno Silva 0001</na></co>
+<co c="0" n="2"><na f="s/Silva:Daliton_da" pid="131/9457">Daliton da Silva</na><na>Daliton Silva</na></co>
+<co c="0"><na f="s/Silva:Francisco_Airton" pid="165/3596">Francisco Airton Silva</na></co>
+<co c="0"><na f="s/Silva:Paulo" pid="39/6329">Paulo Silva</na></co>
+<co c="0"><na f="s/Siqueira:Diogo" pid="254/5653">Diogo Siqueira</na></co>
+<co c="0"><na f="s/Souza:Rafael" pid="43/7668">Rafael Souza</na></co>
+<co c="0" n="2"><na f="t/Tavares:Eduardo_Antonio_Guimar=atilde=es" pid="t/EduardoTavares">Eduardo Antonio Guimar&#227;es Tavares</na><na>Eduardo Tavares</na></co>
+<co c="0"><na f="t/Trivedi:Kishor_S=" pid="t/KishorSTrivedi">Kishor S. Trivedi</na></co>
+<co c="0"><na f="v/Vanderlei:Igor_Medeiros" pid="329/8442">Igor Medeiros Vanderlei</na></co>
+<co c="0"><na f="v/Vieira:Francisco" pid="155/4462">Francisco Vieira</na></co>
+<co c="0"><na f="v/Vieira:Jos=eacute=" pid="12/4781">Jos&#233; Vieira</na></co>
+</coauthors>
+</dblpperson>
+

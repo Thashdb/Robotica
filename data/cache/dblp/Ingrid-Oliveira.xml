@@ -1,0 +1,1601 @@
+<?xml version="1.0"?>
+<dblpperson name="Ingrid Nunes" pid="48/5352" n="108">
+<person key="homepages/48/5352" mdate="2009-06-10">
+<author pid="48/5352">Ingrid Nunes</author>
+</person>
+<r><article key="journals/ese/DavilaNW25" mdate="2025-02-14">
+<author orcid="0000-0002-5034-6806" pid="287/9970">Nicole Davila</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Wiese</author>
+<title>A fine-grained taxonomy of code review feedback in TypeScript projects.</title>
+<pages>53</pages>
+<year>2025</year>
+<month>March</month>
+<volume>30</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10664-024-10604-y</ee>
+<url>db/journals/ese/ese30.html#DavilaNW25</url>
+<stream>streams/journals/ese</stream>
+</article>
+</r>
+<r><article key="journals/jss/SantosNJ25" mdate="2025-01-08">
+<author pid="205/9423">Eduardo Witter dos Santos</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<author orcid="0000-0002-4698-8507" pid="j/DietmarJannach">Dietmar Jannach</author>
+<title>Developer perceptions of modern code review processes in practice: Insights from a case study in a mid-sized company.</title>
+<pages>112288</pages>
+<year>2025</year>
+<volume>222</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2024.112288</ee>
+<url>db/journals/jss/jss222.html#SantosNJ25</url>
+<stream>streams/journals/jss</stream>
+</article>
+</r>
+<r><inproceedings key="conf/icse/DavilaWSSKFN24" mdate="2025-01-19">
+<author orcid="0000-0002-5034-6806" pid="287/9970">Nicole Davila</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Wiese</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0009-0006-8475-1566" pid="376/8203">Lucas Lucio da Silva</author>
+<author orcid="0000-0002-0176-4366" pid="234/1114">Andre Kawamoto</author>
+<author orcid="0009-0004-6477-5320" pid="376/7997">Gilson Jose Peres Favaro</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<title>An Industry Case Study on Adoption of AI-based Programming Assistants.</title>
+<pages>92-102</pages>
+<year>2024</year>
+<booktitle>ICSE-SEIP</booktitle>
+<ee>https://doi.org/10.1145/3639477.3643648</ee>
+<ee>https://www.wikidata.org/entity/Q130852587</ee>
+<crossref>conf/icse/2024seip</crossref>
+<url>db/conf/icse/seip2024.html#DavilaWSSKFN24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2404-12226" mdate="2024-05-22">
+<author pid="175/5259">Jo&#227;o Guilherme Faccin</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<author pid="70/2136">Abdelwahab Hamou-Lhadj</author>
+<title>A cooperative strategy for diagnosing the root causes of quality requirement violations in multiagent systems.</title>
+<year>2024</year>
+<volume>abs/2404.12226</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2404.12226</ee>
+<url>db/journals/corr/corr2404.html#abs-2404-12226</url>
+</article>
+</r>
+<r><article key="journals/jss/MertzN23" mdate="2023-07-07">
+<author orcid="0000-0002-2522-4700" pid="206/4832">Jhonny Mertz</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<title>Software runtime monitoring with adaptive sampling rate to collect representative samples of execution traces.</title>
+<pages>111708</pages>
+<year>2023</year>
+<month>August</month>
+<volume>202</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2023.111708</ee>
+<url>db/journals/jss/jss202.html#MertzN23</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-01039" mdate="2023-05-05">
+<author pid="206/4832">Jhonny Mertz</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<title>Software Runtime Monitoring with Adaptive Sampling Rate to Collect Representative Samples of Execution Traces.</title>
+<year>2023</year>
+<volume>abs/2305.01039</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.01039</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-01039</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-06244" mdate="2024-01-03">
+<author pid="205/9423">Eduardo Witter dos Santos</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<author pid="j/DietmarJannach">Dietmar Jannach</author>
+<title>Team-related Features in Code Review Prediction Models.</title>
+<year>2023</year>
+<volume>abs/2312.06244</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.06244</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-06244</url>
+</article>
+</r>
+<r><article key="journals/ese/MelocaN22" mdate="2022-04-20">
+<author pid="209/6562">R&#244;mulo Manciola Meloca</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<title>A comparative study of application-level caching recommendations at the method level.</title>
+<pages>88</pages>
+<year>2022</year>
+<volume>27</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10664-021-10089-z</ee>
+<url>db/journals/ese/ese27.html#MelocaN22</url>
+</article>
+</r>
+<r><article key="journals/ese/PatelFHN22" mdate="2023-08-28">
+<author pid="85/4672">Keyur Patel</author>
+<author pid="175/5259">Jo&#227;o Guilherme Faccin</author>
+<author orcid="0000-0002-3319-5006" pid="70/2136">Abdelwahab Hamou-Lhadj</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<title>The sense of logging in the Linux kernel.</title>
+<pages>153</pages>
+<year>2022</year>
+<volume>27</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s10664-022-10136-3</ee>
+<ee>https://www.wikidata.org/entity/Q113903892</ee>
+<url>db/journals/ese/ese27.html#PatelFHN22</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2208-00232" mdate="2022-08-09">
+<author pid="209/6562">R&#244;mulo Manciola Meloca</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<title>A Comparative Study of Application-level Caching Recommendations at the Method Level.</title>
+<year>2022</year>
+<volume>abs/2208.00232</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2208.00232</ee>
+<url>db/journals/corr/corr2208.html#abs-2208-00232</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2208-06640" mdate="2022-08-16">
+<author pid="85/4672">Keyur Patel</author>
+<author pid="175/5259">Jo&#227;o Guilherme Faccin</author>
+<author pid="70/2136">Abdelwahab Hamou-Lhadj</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<title>The Sense of Logging in the Linux Kernel.</title>
+<year>2022</year>
+<volume>abs/2208.06640</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2208.06640</ee>
+<url>db/journals/corr/corr2208.html#abs-2208-06640</url>
+</article>
+</r>
+<r><article key="journals/cn/SchardongNS21" mdate="2021-10-14">
+<author orcid="0000-0003-4492-163X" pid="167/3639">Frederico Schardong</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<title>NFV Resource Allocation: a Systematic Review and Taxonomy of VNF Forwarding Graph Embedding.</title>
+<pages>107726</pages>
+<year>2021</year>
+<volume>185</volume>
+<journal>Comput. Networks</journal>
+<ee>https://doi.org/10.1016/j.comnet.2020.107726</ee>
+<url>db/journals/cn/cn185.html#SchardongNS21</url>
+</article>
+</r>
+<r><article key="journals/jss/DavilaN21" mdate="2021-04-29">
+<author orcid="0000-0002-5034-6806" pid="287/9970">Nicole Davila</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<title>A systematic literature review and taxonomy of modern code review.</title>
+<pages>110951</pages>
+<year>2021</year>
+<volume>177</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2021.110951</ee>
+<url>db/journals/jss/jss177.html#DavilaN21</url>
+</article>
+</r>
+<r><article key="journals/jss/MertzN21" mdate="2021-04-29">
+<author orcid="0000-0002-2522-4700" pid="206/4832">Jhonny Mertz</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<title>Tigris: A DSL and framework for monitoring software systems at runtime.</title>
+<pages>110963</pages>
+<year>2021</year>
+<volume>177</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2021.110963</ee>
+<url>db/journals/jss/jss177.html#MertzN21</url>
+</article>
+</r>
+<r><article key="journals/software/MertzNTSP21" mdate="2025-01-19">
+<author orcid="0000-0002-2522-4700" pid="206/4832">Jhonny Mertz</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author orcid="0000-0002-2600-9594" pid="70/10696">Luca Della Toffola</author>
+<author pid="167/0216">Marija Selakovic</author>
+<author pid="25/2188">Michael Pradel</author>
+<title>Satisfying Increasing Performance Requirements With Caching at the Application Level.</title>
+<pages>87-95</pages>
+<year>2021</year>
+<volume>38</volume>
+<journal>IEEE Softw.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MS.2020.3033508</ee>
+<ee>https://www.wikidata.org/entity/Q125767220</ee>
+<url>db/journals/software/software38.html#MertzNTSP21</url>
+</article>
+</r>
+<r><proceedings key="conf/acsos/2021" mdate="2024-08-04">
+<editor pid="98/82">Esam El-Araby</editor>
+<editor pid="k/VanaKalogeraki">Vana Kalogeraki</editor>
+<editor orcid="0000-0002-8392-5409" pid="35/9084">Danilo Pianini</editor>
+<editor pid="19/3994">Fr&#233;d&#233;ric Lassabe</editor>
+<editor pid="59/4160">Barry Porter</editor>
+<editor pid="191/3171">Sona Ghahremani</editor>
+<editor pid="48/5352">Ingrid Nunes</editor>
+<editor pid="32/1024">Mohamed Bakhouya</editor>
+<editor pid="58/3801">Sven Tomforde</editor>
+<title>IEEE International Conference on Autonomic Computing and Self-Organizing Systems, ACSOS 2021, Washington, DC, USA, September 27 - Oct. 1, 2021</title>
+<booktitle>ACSOS</booktitle>
+<publisher>IEEE</publisher>
+<year>2021</year>
+<isbn>978-1-6654-1261-2</isbn>
+<ee>https://doi.org/10.1109/ACSOS52086.2021</ee>
+<url>db/conf/acsos/acsos2021.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/acsos/2021c" mdate="2024-08-04">
+<editor pid="98/82">Esam El-Araby</editor>
+<editor pid="k/VanaKalogeraki">Vana Kalogeraki</editor>
+<editor orcid="0000-0002-8392-5409" pid="35/9084">Danilo Pianini</editor>
+<editor pid="19/3994">Fr&#233;d&#233;ric Lassabe</editor>
+<editor pid="59/4160">Barry Porter</editor>
+<editor pid="191/3171">Sona Ghahremani</editor>
+<editor pid="48/5352">Ingrid Nunes</editor>
+<editor pid="32/1024">Mohamed Bakhouya</editor>
+<editor pid="58/3801">Sven Tomforde</editor>
+<title>IEEE International Conference on Autonomic Computing and Self-Organizing Systems, ACSOS 2021, Companion Volume, Washington, DC, USA, September 27 - Oct. 1, 2021</title>
+<booktitle>ACSOS-C</booktitle>
+<publisher>IEEE</publisher>
+<year>2021</year>
+<isbn>978-1-6654-4393-7</isbn>
+<ee>https://doi.org/10.1109/ACSOS-C52956.2021</ee>
+<url>db/conf/acsos/acsos2021c.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-08777" mdate="2021-03-23">
+<author pid="287/9970">Nicole Davila</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<title>A Systematic Literature Review and Taxonomy of Modern Code Review.</title>
+<year>2021</year>
+<volume>abs/2103.08777</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.08777</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-08777</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-15986" mdate="2021-04-07">
+<author pid="206/4832">Jhonny Mertz</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<title>Tigris: a DSL and Framework for Monitoring Software Systems at Runtime.</title>
+<year>2021</year>
+<volume>abs/2103.15986</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.15986</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-15986</url>
+</article>
+</r>
+<r><article key="journals/simpra/SantosNB20" mdate="2024-10-06">
+<author orcid="0000-0002-8182-2246" pid="59/3847">Fernando dos Santos</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<title>Quantitatively assessing the benefits of model-driven development in agent-based modeling and simulation.</title>
+<pages>102126</pages>
+<year>2020</year>
+<volume>104</volume>
+<journal>Simul. Model. Pract. Theory</journal>
+<ee>https://doi.org/10.1016/j.simpat.2020.102126</ee>
+<url>db/journals/simpra/simpra104.html#SantosNB20</url>
+</article>
+</r>
+<r><inproceedings key="conf/acsos/DAngeloGGGNTP20" mdate="2020-10-23">
+<author pid="167/6093">Mirko D'Angelo</author>
+<author pid="191/3171">Sona Ghahremani</author>
+<author pid="117/6142">Simos Gerasimou</author>
+<author pid="204/3835">Johannes Grohmann</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<author pid="58/3801">Sven Tomforde</author>
+<author pid="32/3755">Evangelos Pournaras</author>
+<title>Learning to Learn in Collective Adaptive Systems: Mining Design Patterns for Data-driven Reasoning.</title>
+<pages>121-126</pages>
+<year>2020</year>
+<booktitle>ACSOS Companion</booktitle>
+<ee>https://doi.org/10.1109/ACSOS-C51401.2020.00042</ee>
+<crossref>conf/acsos/2020c</crossref>
+<url>db/conf/acsos/acsos2020c.html#DAngeloGGGNTP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/msr/NunesTC20" mdate="2021-10-14">
+<author pid="48/5352">Ingrid Nunes</author>
+<author orcid="0000-0002-6919-2149" pid="29/1074">Christoph Treude</author>
+<author pid="48/5662">Fabio Calefato</author>
+<title>The Impact of Dynamics of Collaborative Software Engineering on Introverts: A Study Protocol.</title>
+<pages>619-622</pages>
+<year>2020</year>
+<booktitle>MSR</booktitle>
+<ee>https://doi.org/10.1145/3379597.3387505</ee>
+<crossref>conf/msr/2020</crossref>
+<url>db/conf/msr/msr2020.html#NunesTC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcars/PereiraNP20" mdate="2020-11-05">
+<author pid="20/8984">Gabriel Pereira</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<author pid="p/MarceloSoaresPimenta">Marcelo Pimenta</author>
+<title>Test-case-based Code Navigation in Dynamically Typed Programming Languages.</title>
+<pages>81-90</pages>
+<year>2020</year>
+<booktitle>SBCARS</booktitle>
+<ee>https://doi.org/10.1145/3425269.3425279</ee>
+<crossref>conf/sbcars/2020</crossref>
+<url>db/conf/sbcars/sbcars2020.html#PereiraNP20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-00268" mdate="2022-10-02">
+<author pid="48/5352">Ingrid Nunes</author>
+<author orcid="0000-0002-6919-2149" pid="29/1074">Christoph Treude</author>
+<author pid="48/5662">Fabio Calefato</author>
+<title>The Impact of Dynamics of Collaborative Software Engineering on Introverts: A Study Protocol.</title>
+<year>2020</year>
+<volume>abs/2004.00268</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.00268</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-00268</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-08672" mdate="2020-06-17">
+<author pid="48/5352">Ingrid Nunes</author>
+<author pid="j/DietmarJannach">Dietmar Jannach</author>
+<title>A systematic review and taxonomy of explanations in decision support and recommender systems.</title>
+<year>2020</year>
+<volume>abs/2006.08672</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.08672</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-08672</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-08818" mdate="2020-06-17">
+<author pid="48/5352">Ingrid Nunes</author>
+<author pid="121/0302">Phillip Taylor</author>
+<author pid="73/10118">Lina Barakat</author>
+<author pid="68/2220">Nathan Griffiths</author>
+<author pid="74/3469">Simon Miles</author>
+<title>Explaining reputation assessments.</title>
+<year>2020</year>
+<volume>abs/2006.08818</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.08818</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-08818</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-08820" mdate="2020-06-17">
+<author pid="59/3847">Fernando dos Santos</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<title>Quantitatively Assessing the Benefits of Model-driven Development in Agent-based Modeling and Simulation.</title>
+<year>2020</year>
+<volume>abs/2006.08820</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.08820</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-08820</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-03995" mdate="2020-08-14">
+<author pid="167/6093">Mirko D'Angelo</author>
+<author pid="191/3171">Sona Ghahremani</author>
+<author pid="117/6142">Simos Gerasimou</author>
+<author pid="204/3835">Johannes Grohmann</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<author pid="58/3801">Sven Tomforde</author>
+<author pid="32/3755">Evangelos Pournaras</author>
+<title>Learning to Learn in Collective Adaptive Systems: Mining Design Patterns for Data-driven Reasoning.</title>
+<year>2020</year>
+<volume>abs/2008.03995</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.03995</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-03995</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-12939" mdate="2020-11-02">
+<author pid="206/4832">Jhonny Mertz</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<author pid="70/10696">Luca Della Toffola</author>
+<author pid="167/0216">Marija Selakovic</author>
+<author pid="25/2188">Michael Pradel</author>
+<title>Satisfying Increasing Performance Requirements with Caching at the Application Level.</title>
+<year>2020</year>
+<volume>abs/2010.12939</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.12939</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-12939</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-00242" mdate="2020-11-06">
+<author pid="206/4832">Jhonny Mertz</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<title>A Qualitative Study of Application-level Caching.</title>
+<year>2020</year>
+<volume>abs/2011.00242</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.00242</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-00242</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-00247" mdate="2020-11-06">
+<author pid="206/4832">Jhonny Mertz</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<title>Automation of application-level caching in a seamless way.</title>
+<year>2020</year>
+<volume>abs/2011.00247</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.00247</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-00247</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-00477" mdate="2020-11-06">
+<author pid="206/4832">Jhonny Mertz</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<title>Understanding Application-Level Caching in Web Applications: A Comprehensive Introduction and Survey of State-of-the-Art.</title>
+<year>2020</year>
+<volume>abs/2011.00477</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.00477</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-00477</url>
+</article>
+</r>
+<r><article key="journals/ijmms/NunesTBGM19" mdate="2025-01-19">
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="121/0302">Phillip Taylor</author>
+<author pid="73/10118">Lina Barakat</author>
+<author pid="68/2220">Nathan Griffiths</author>
+<author pid="74/3469">Simon Miles</author>
+<title>Explaining reputation assessments.</title>
+<pages>1-17</pages>
+<year>2019</year>
+<volume>123</volume>
+<journal>Int. J. Hum. Comput. Stud.</journal>
+<ee>https://doi.org/10.1016/j.ijhcs.2018.10.007</ee>
+<ee>https://www.wikidata.org/entity/Q128976756</ee>
+<url>db/journals/ijmms/ijmms123.html#NunesTBGM19</url>
+</article>
+</r>
+<r><inproceedings key="conf/ht/JannachJN19" mdate="2019-09-17">
+<author pid="j/DietmarJannach">Dietmar Jannach</author>
+<author pid="160/4218">Michael Jugovac</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<title>Explanations and User Control in Recommender Systems.</title>
+<pages>31</pages>
+<year>2019</year>
+<booktitle>ABIS@HT</booktitle>
+<ee>https://doi.org/10.1145/3345002.3349293</ee>
+<crossref>conf/ht/2019abis</crossref>
+<url>db/conf/ht/abis2019.html#JannachJN19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/DAngeloGGGNPT19" mdate="2019-08-29">
+<author pid="167/6093">Mirko D'Angelo</author>
+<author pid="117/6142">Simos Gerasimou</author>
+<author pid="191/3171">Sona Ghahremani</author>
+<author pid="204/3835">Johannes Grohmann</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<author pid="32/3755">Evangelos Pournaras</author>
+<author pid="58/3801">Sven Tomforde</author>
+<title>On learning in collective self-adaptive systems: state of practice and a 3D framework.</title>
+<pages>13-24</pages>
+<year>2019</year>
+<booktitle>SEAMS@ICSE</booktitle>
+<ee>https://doi.org/10.1109/SEAMS.2019.00012</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3341530</ee>
+<crossref>conf/icse/2019seams</crossref>
+<url>db/conf/icse/seams2019.html#DAngeloGGGNPT19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/MertzN19" mdate="2020-12-29">
+<author orcid="0000-0002-2522-4700" pid="206/4832">Jhonny Mertz</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<title>On the practical feasibility of software monitoring: a framework for low-impact execution tracing.</title>
+<pages>169-180</pages>
+<year>2019</year>
+<booktitle>SEAMS@ICSE</booktitle>
+<ee>https://doi.org/10.1109/SEAMS.2019.00030</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3341553</ee>
+<crossref>conf/icse/2019seams</crossref>
+<url>db/conf/icse/seams2019.html#MertzN19</url>
+</inproceedings>
+</r>
+<r><article key="journals/csur/MertzN17" mdate="2019-09-25">
+<author orcid="0000-0002-2522-4700" pid="206/4832">Jhonny Mertz</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<title>Understanding Application-Level Caching in Web Applications: A Comprehensive Introduction and Survey of State-of-the-Art Approaches.</title>
+<pages>98:1-98:34</pages>
+<year>2018</year>
+<volume>50</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/3145813</ee>
+<url>db/journals/csur/csur50.html#MertzN17</url>
+</article>
+</r>
+<r><article key="journals/eswa/FaccinN18" mdate="2025-03-03">
+<author pid="175/5259">Jo&#227;o Guilherme Faccin</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<title>Remediating critical cause-effect situations with an extended BDI architecture.</title>
+<pages>190-200</pages>
+<year>2018</year>
+<volume>95</volume>
+<journal>Expert Syst. Appl.</journal>
+<ee>https://doi.org/10.1016/j.eswa.2017.11.036</ee>
+<url>db/journals/eswa/eswa95.html#FaccinN18</url>
+</article>
+</r>
+<r><article key="journals/ijmso/SirqueiraVCNL18" mdate="2020-05-11">
+<author pid="168/0117">Tassio Ferenzini Martins Sirqueira</author>
+<author pid="166/4429">Marx L. Viana</author>
+<author pid="166/4455">Francisco J. P. Cunha</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>Data provenance in multi-agent systems: relevance, benefits and research opportunities.</title>
+<pages>9-19</pages>
+<year>2018</year>
+<volume>13</volume>
+<journal>Int. J. Metadata Semant. Ontologies</journal>
+<number>1</number>
+<ee>https://doi.org/10.1504/IJMSO.2018.096447</ee>
+<url>db/journals/ijmso/ijmso13.html#SirqueiraVCNL18</url>
+</article>
+</r>
+<r><article key="journals/infsof/ZapalowskiNN18" mdate="2025-03-03">
+<author orcid="0000-0001-6389-5743" pid="145/4386">Vanius Zapalowski</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="15/1379">Daltro Jos&#233; Nunes</author>
+<title>The WGB method to recover implemented architectural rules.</title>
+<pages>125-137</pages>
+<year>2018</year>
+<volume>103</volume>
+<journal>Inf. Softw. Technol.</journal>
+<ee>https://doi.org/10.1016/j.infsof.2018.06.012</ee>
+<ee>https://www.wikidata.org/entity/Q113316939</ee>
+<url>db/journals/infsof/infsof103.html#ZapalowskiNN18</url>
+</article>
+</r>
+<r><article key="journals/jserd/SantosN18" mdate="2023-08-28">
+<author orcid="0000-0003-2872-5479" pid="205/9423">Eduardo Witter dos Santos</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<title>Investigating the effectiveness of peer code review in distributed software development based on objective and subjective data.</title>
+<pages>14</pages>
+<year>2018</year>
+<volume>6</volume>
+<journal>J. Softw. Eng. Res. Dev.</journal>
+<ee type="oa">https://doi.org/10.1186/s40411-018-0058-0</ee>
+<ee>https://www.wikidata.org/entity/Q114600043</ee>
+<url>db/journals/jserd/jserd6.html#SantosN18</url>
+</article>
+</r>
+<r><article key="journals/simpra/SantosNB18" mdate="2024-10-06">
+<author orcid="0000-0002-8182-2246" pid="59/3847">Fernando dos Santos</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<title>Model-driven agent-based simulation development: A modeling language and empirical evaluation in the adaptive traffic signal control domain.</title>
+<pages>162-187</pages>
+<year>2018</year>
+<volume>83</volume>
+<journal>Simul. Model. Pract. Theory</journal>
+<ee>https://doi.org/10.1016/j.simpat.2017.11.006</ee>
+<url>db/journals/simpra/simpra83.html#SantosNB18</url>
+</article>
+</r>
+<r><article key="journals/spe/MertzN18" mdate="2020-04-09">
+<author orcid="0000-0002-2522-4700" pid="206/4832">Jhonny Mertz</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<title>Automation of application-level caching in a seamless way.</title>
+<pages>1218-1237</pages>
+<year>2018</year>
+<volume>48</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/spe.2571</ee>
+<url>db/journals/spe/spe48.html#MertzN18</url>
+</article>
+</r>
+<r><inproceedings key="conf/icphys/LalandaMN18" mdate="2019-09-25">
+<author pid="34/4501">Philippe Lalanda</author>
+<author pid="206/4832">Jhonny Mertz</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<title>Autonomic caching management in industrial smart gateways.</title>
+<pages>26-31</pages>
+<year>2018</year>
+<booktitle>ICPS</booktitle>
+<ee>https://doi.org/10.1109/ICPHYS.2018.8387632</ee>
+<crossref>conf/icphys/2018</crossref>
+<url>db/conf/icphys/icps2018.html#LalandaMN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/FaccinN18" mdate="2021-08-10">
+<author pid="175/5259">Jo&#227;o Guilherme Faccin</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<title>Cleaning up the mess: a formal framework for autonomously reverting BDI agent actions.</title>
+<pages>108-118</pages>
+<year>2018</year>
+<booktitle>SEAMS@ICSE</booktitle>
+<ee>https://doi.org/10.1145/3194133.3194156</ee>
+<ee>https://ieeexplore.ieee.org/document/8595387</ee>
+<crossref>conf/icse/2018seams</crossref>
+<url>db/conf/icse/seams2018.html#FaccinN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/SchardongNF18" mdate="2021-10-14">
+<author orcid="0000-0003-4492-163X" pid="167/3639">Frederico Schardong</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<title>Providing cognitive components with a bidding heuristic for emergent NFV orchestration.</title>
+<pages>1-9</pages>
+<year>2018</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2018.8406269</ee>
+<crossref>conf/noms/2018</crossref>
+<url>db/conf/noms/noms2018.html#SchardongNF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/ZapalowskiNN18" mdate="2019-09-25">
+<author pid="145/4386">Vanius Zapalowski</author>
+<author pid="15/1379">Daltro Jos&#233; Nunes</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<title>Understanding architecture non-conformance: why is there a gap between conceptual architectural rules and source code dependencies?</title>
+<pages>22-31</pages>
+<year>2018</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3266237.3266261</ee>
+<crossref>conf/sbes/2018</crossref>
+<url>db/conf/sbes/sbes2018.html#ZapalowskiNN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/AraujoZN18" mdate="2019-09-25">
+<author pid="197/3450">Cristiano Werner Ara&#250;jo</author>
+<author pid="145/4386">Vanius Zapalowski</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<title>Using code quality features to predict bugs in procedural software systems.</title>
+<pages>122-131</pages>
+<year>2018</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3266237.3266271</ee>
+<crossref>conf/sbes/2018</crossref>
+<url>db/conf/sbes/sbes2018.html#AraujoZN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/um/JugovacNJ18" mdate="2019-09-25">
+<author pid="160/4218">Michael Jugovac</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="j/DietmarJannach">Dietmar Jannach</author>
+<title>Investigating the Decision-Making Behavior of Maximizers and Satisficers in the Presence of Recommendations.</title>
+<pages>279-283</pages>
+<year>2018</year>
+<booktitle>UMAP</booktitle>
+<ee>https://doi.org/10.1145/3209219.3209252</ee>
+<crossref>conf/um/2018</crossref>
+<url>db/conf/um/umap2018.html#JugovacNJ18</url>
+</inproceedings>
+</r>
+<r><article key="journals/caee/SilvaNT17" mdate="2025-01-19">
+<author pid="18/3689-2">Danilo Silva 0002</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="23/5199">Ricardo Terra</author>
+<title>Investigating code quality tools in the context of software engineering education.</title>
+<pages>230-241</pages>
+<year>2017</year>
+<volume>25</volume>
+<journal>Comput. Appl. Eng. Educ.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cae.21793</ee>
+<ee>https://www.wikidata.org/entity/Q123239941</ee>
+<url>db/journals/caee/caee25.html#SilvaNT17</url>
+</article>
+</r>
+<r><article key="journals/eaai/FaccinN17" mdate="2020-02-20">
+<author pid="175/5259">Jo&#227;o Guilherme Faccin</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<title>A tool-supported development method for improved BDI plan selection.</title>
+<pages>195-213</pages>
+<year>2017</year>
+<volume>62</volume>
+<journal>Eng. Appl. Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.engappai.2017.04.008</ee>
+<url>db/journals/eaai/eaai62.html#FaccinN17</url>
+</article>
+</r>
+<r><article key="journals/jnca/NunesSF17" mdate="2025-03-03">
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author orcid="0000-0003-4492-163X" pid="167/3639">Frederico Schardong</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<title>BDI2DoS: An application using collaborating BDI agents to combat DDoS attacks.</title>
+<pages>14-24</pages>
+<year>2017</year>
+<volume>84</volume>
+<journal>J. Netw. Comput. Appl.</journal>
+<ee>https://doi.org/10.1016/j.jnca.2017.01.035</ee>
+<url>db/journals/jnca/jnca84.html#NunesSF17</url>
+</article>
+</r>
+<r><article key="journals/tse/MertzN17" mdate="2019-09-25">
+<author orcid="0000-0002-2522-4700" pid="206/4832">Jhonny Mertz</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<title>A Qualitative Study of Application-Level Caching.</title>
+<pages>798-816</pages>
+<year>2017</year>
+<volume>43</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TSE.2016.2633992</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSE.2016.2633992</ee>
+<url>db/journals/tse/tse43.html#MertzN17</url>
+</article>
+</r>
+<r><article key="journals/umuai/NunesJ17" mdate="2020-06-08">
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="j/DietmarJannach">Dietmar Jannach</author>
+<title>A systematic review and taxonomy of explanations in decision support and recommender systems.</title>
+<pages>393-444</pages>
+<year>2017</year>
+<volume>27</volume>
+<journal>User Model. User Adapt. Interact.</journal>
+<number>3-5</number>
+<ee>https://doi.org/10.1007/s11257-017-9195-0</ee>
+<url>db/journals/umuai/umuai27.html#NunesJ17</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/FaccinN17" mdate="2017-05-11">
+<author pid="175/5259">Jo&#227;o Guilherme Faccin</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<title>Modelling and Reasoning about Remediation Actions in BDI Agents.</title>
+<pages>1526-1528</pages>
+<year>2017</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3091350</ee>
+<crossref>conf/atal/2017</crossref>
+<url>db/conf/atal/aamas2017.html#FaccinN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/SantosNB17" mdate="2017-05-11">
+<author pid="59/3847">Fernando dos Santos</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<title>Model-Driven Engineering in Agent-based Modeling and Simulation: a Case Study in the Traffic Signal Control Domain.</title>
+<pages>1725-1727</pages>
+<year>2017</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3091418</ee>
+<crossref>conf/atal/2017</crossref>
+<url>db/conf/atal/aamas2017.html#SantosNB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/MoreiraSBNB17" mdate="2017-05-11">
+<author pid="199/6883">Deividi Moreira</author>
+<author pid="59/3847">Fernando dos Santos</author>
+<author pid="199/6476">Matheus Barbieri</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<title>ABStractme: Modularized Environment Modeling in Agent-based Simulations.</title>
+<pages>1802-1804</pages>
+<year>2017</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3091445</ee>
+<crossref>conf/atal/2017</crossref>
+<url>db/conf/atal/aamas2017.html#MoreiraSBNB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/compsac/SantosNB17" mdate="2024-10-06">
+<author orcid="0000-0002-8182-2246" pid="59/3847">Fernando dos Santos</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<title>Supporting the Development of Agent-Based Simulations: A DSL for Environment Modeling.</title>
+<pages>170-179</pages>
+<year>2017</year>
+<booktitle>COMPSAC (1)</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2017.224</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/COMPSAC.2017.224</ee>
+<crossref>conf/compsac/2017-1</crossref>
+<url>db/conf/compsac/compsac2017-1.html#SantosNB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fase/AraujoNN17" mdate="2019-09-25">
+<author pid="197/3450">Cristiano Werner Ara&#250;jo</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="15/1379">Daltro Jos&#233; Nunes</author>
+<title>On the Effectiveness of Bug Predictors with Procedural Systems: A Quantitative Study.</title>
+<pages>78-95</pages>
+<year>2017</year>
+<booktitle>FASE</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-54494-5_5</ee>
+<crossref>conf/fase/2017</crossref>
+<url>db/conf/fase/fase2017.html#AraujoNN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iecon/MertzZLN17" mdate="2019-09-25">
+<author orcid="0000-0002-2522-4700" pid="206/4832">Jhonny Mertz</author>
+<author pid="145/4386">Vanius Zapalowski</author>
+<author pid="34/4501">Philippe Lalanda</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<title>Autonomic management of context data based on application requirements.</title>
+<pages>8622-8627</pages>
+<year>2017</year>
+<booktitle>IECON</booktitle>
+<ee>https://doi.org/10.1109/IECON.2017.8217515</ee>
+<crossref>conf/iecon/2017</crossref>
+<url>db/conf/iecon/iecon2017.html#MertzZLN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/im/SchardongNF17" mdate="2021-10-14">
+<author orcid="0000-0003-4492-163X" pid="167/3639">Frederico Schardong</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<title>A distributed NFV orchestrator based on BDI reasoning.</title>
+<pages>107-115</pages>
+<year>2017</year>
+<booktitle>IM</booktitle>
+<ee>https://doi.org/10.23919/INM.2017.7987270</ee>
+<crossref>conf/im/2017</crossref>
+<url>db/conf/im/im2017.html#SchardongNF17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iui/JannachNJ17" mdate="2019-09-25">
+<author pid="j/DietmarJannach">Dietmar Jannach</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="160/4218">Michael Jugovac</author>
+<title>Interacting with Recommender Systems.</title>
+<pages>25-27</pages>
+<year>2017</year>
+<booktitle>IUI Companion</booktitle>
+<ee>https://doi.org/10.1145/3030024.3030027</ee>
+<crossref>conf/iui/2017c</crossref>
+<url>db/conf/iui/iui2017c.html#JannachNJ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mates/FaccinNB17" mdate="2017-08-15">
+<author pid="175/5259">Jo&#227;o Guilherme Faccin</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<title>Understanding the Behaviour of Learning-Based BDI Agents in the Braess' Paradox.</title>
+<pages>187-204</pages>
+<year>2017</year>
+<booktitle>MATES</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-64798-2_12</ee>
+<crossref>conf/mates/2017</crossref>
+<url>db/conf/mates/mates2017.html#FaccinNB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/RochaZN17" mdate="2019-09-25">
+<author pid="205/9322">Junior Cesar Rocha</author>
+<author pid="145/4386">Vanius Zapalowski</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<title>Understanding Technical Debt at the Code Level from the Perspective of Software Developers.</title>
+<pages>64-73</pages>
+<year>2017</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3131151.3131164</ee>
+<crossref>conf/sbes/2017</crossref>
+<url>db/conf/sbes/sbes2017.html#RochaZN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/SantosN17" mdate="2019-09-25">
+<author pid="205/9423">Eduardo Witter dos Santos</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<title>Investigating the Effectiveness of Peer Code Review in Distributed Software Development.</title>
+<pages>84-93</pages>
+<year>2017</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3131151.3131161</ee>
+<crossref>conf/sbes/2017</crossref>
+<url>db/conf/sbes/sbes2017.html#SantosN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/CiriloCNGKL17" mdate="2020-11-06">
+<author pid="49/1805">Elder Cirilo</author>
+<author pid="46/10082">Bruno Barbieri Pontes Cafeo</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="g/AlessandroFGarcia">Alessandro Garcia 0001</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Lucena</author>
+<title>Comprehensibility of Heterogeneous Configuration Knowledge: A User Study.</title>
+<pages>124-133</pages>
+<year>2017</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3131151.3131173</ee>
+<crossref>conf/sbes/2017</crossref>
+<url>db/conf/sbes/sbes2017.html#CiriloCNGKL17</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijaose/NunesF16" mdate="2020-05-10">
+<author pid="48/5352">Ingrid Nunes</author>
+<author pid="175/5259">Jo&#227;o Guilherme Faccin</author>
+<title>Modelling and implementing modularised BDI agents with capability relationships.</title>
+<pages>203-231</pages>
+<year>2016</year>
+<volume>5</volume>
+<journal>Int. J. Agent Oriented Softw. Eng.</journal>
+<number>2/3</number>
+<ee>https://doi.org/10.1504/IJAOSE.2016.10001864</ee>
+<url>db/journals/ijaose/ijaose5.html#NunesF16</url>
+</article>
+</r>
+<r><proceedings key="conf/atal/2016emas" mdate="2019-09-25">
+<editor pid="b/MatteoBaldoni">Matteo Baldoni</editor>
+<editor pid="m/JPMuller">J&#246;rg P. M&#252;ller</editor>
+<editor orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</editor>
+<editor pid="65/4905">Rym Zalila-Wenkstern</editor>
+<title>Engineering Multi-Agent Systems - 4th International Workshop, EMAS 2016, Singapore, Singapore, May 9-10, 2016, Revised, Selected, and Invited Papers</title>
+<booktitle>EMAS@AAMAS</booktitle>
+<publisher>Springer</publisher>
+<year>2016</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>10093</volume>
+<isbn>978-3-319-50982-2</isbn>
+<ee>https://doi.org/10.1007/978-3-319-50983-9</ee>
+<url>db/conf/atal/emas2016.html</url>
+</proceedings>
+</r>
+<r><article key="journals/eaai/NunesMLBL15" mdate="2020-02-20">
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author orcid="0000-0001-9956-4217" pid="74/3469">Simon Miles</author>
+<author orcid="0000-0002-0926-2061" pid="09/6641">Michael Luck</author>
+<author orcid="0000-0002-0044-503X" pid="b/SDJBarbosa">Simone Diniz Junqueira Barbosa</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>Decision making with natural language based preferences and psychology-inspired heuristics.</title>
+<pages>16-35</pages>
+<year>2015</year>
+<volume>42</volume>
+<journal>Eng. Appl. Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.engappai.2015.03.008</ee>
+<ee>https://www.wikidata.org/entity/Q59518059</ee>
+<url>db/journals/eaai/eaai42.html#NunesMLBL15</url>
+</article>
+</r>
+<r><article key="journals/iwc/NunesBCMLL15" mdate="2020-03-13">
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author orcid="0000-0002-0044-503X" pid="b/SDJBarbosa">Simone D. J. Barbosa</author>
+<author pid="c/DonaldDCowan">Donald D. Cowan</author>
+<author orcid="0000-0001-9956-4217" pid="74/3469">Simon Miles</author>
+<author orcid="0000-0002-0926-2061" pid="09/6641">Michael Luck</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>Natural Language-based Representation of User Preferences.</title>
+<pages>133-158</pages>
+<year>2015</year>
+<volume>27</volume>
+<journal>Interact. Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1093/iwc/iwt060</ee>
+<ee>https://www.wikidata.org/entity/Q59518092</ee>
+<url>db/journals/iwc/iwc27.html#NunesBCMLL15</url>
+</article>
+</r>
+<r><article key="journals/ker/NunesMLL15" mdate="2020-08-27">
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author orcid="0000-0001-9956-4217" pid="74/3469">Simon Miles</author>
+<author orcid="0000-0002-0926-2061" pid="09/6641">Michael Luck</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>An introduction to reasoning over qualitative multi-attribute preferences.</title>
+<pages>342-372</pages>
+<year>2015</year>
+<volume>30</volume>
+<journal>Knowl. Eng. Rev.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1017/S0269888915000016</ee>
+<ee>https://www.wikidata.org/entity/Q59518068</ee>
+<url>db/journals/ker/ker30.html#NunesMLL15</url>
+</article>
+</r>
+<r><inproceedings key="conf/webi/FaccinN15" mdate="2023-03-24">
+<author pid="175/5259">Jo&#227;o Guilherme Faccin</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<title>BDI-Agent Plan Selection Based on Prediction of Plan Outcomes.</title>
+<pages>166-173</pages>
+<year>2015</year>
+<booktitle>WI-IAT (2)</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2015.58</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2015.58</ee>
+<crossref>conf/webi/2015-2</crossref>
+<url>db/conf/webi/webi2015-2.html#FaccinN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/NunesL14" mdate="2014-09-25">
+<author pid="48/5352">Ingrid Nunes</author>
+<author pid="09/6641">Michael Luck</author>
+<title>Softgoal-based plan selection in model-driven BDI agents.</title>
+<pages>749-756</pages>
+<year>2014</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2615852</ee>
+<crossref>conf/atal/2014</crossref>
+<url>db/conf/atal/aamas2014.html#NunesL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dalt/Nunes14" mdate="2017-06-02">
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<title>Improving the Design and Modularity of BDI Agents with Capability Relationships.</title>
+<pages>58-80</pages>
+<year>2014</year>
+<booktitle>EMAS@AAMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-14484-9_4</ee>
+<crossref>conf/dalt/2014</crossref>
+<url>db/conf/dalt/emas2014.html#Nunes14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/NunesMLBL14" mdate="2025-01-15">
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author orcid="0000-0001-9956-4217" pid="74/3469">Simon Miles</author>
+<author orcid="0000-0002-0926-2061" pid="09/6641">Michael Luck</author>
+<author orcid="0000-0002-0044-503X" pid="b/SDJBarbosa">Simone Diniz Junqueira Barbosa</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>Pattern-based Explanation for Automated Decisions.</title>
+<pages>669-674</pages>
+<year>2014</year>
+<booktitle>ECAI</booktitle>
+<ee type="oa">https://doi.org/10.3233/978-1-61499-419-0-669</ee>
+<crossref>conf/ecai/2014</crossref>
+<url>db/conf/ecai/ecai2014.html#NunesMLBL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwpc/ZapalowskiNN14" mdate="2018-11-06">
+<author pid="145/4386">Vanius Zapalowski</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="15/1379">Daltro Jos&#233; Nunes</author>
+<title>Revealing the relationship between architectural elements and source code characteristics.</title>
+<pages>14-25</pages>
+<year>2014</year>
+<booktitle>ICPC</booktitle>
+<ee>https://doi.org/10.1145/2597008.2597156</ee>
+<crossref>conf/iwpc/2014</crossref>
+<url>db/conf/iwpc/icpc2014.html#ZapalowskiNN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/splc/SteinNC14" mdate="2018-11-06">
+<author pid="72/5426">Jacob Stein</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="49/1805">Elder Cirilo</author>
+<title>Preference-based feature model configuration with multiple stakeholders.</title>
+<pages>132-141</pages>
+<year>2014</year>
+<booktitle>SPLC</booktitle>
+<ee>https://doi.org/10.1145/2648511.2648525</ee>
+<crossref>conf/splc/2014</crossref>
+<url>db/conf/splc/splc2014.html#SteinNC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wadt/OliveiraRCDNR14" mdate="2019-12-02">
+<author pid="185/0387">Marcos Oliveira Jr.</author>
+<author pid="r/LeilaRibeiro">Leila Ribeiro 0001</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="53/6206">Lucio Mauro Duarte</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="185/0374">Filipe Reis</author>
+<title>Use Case Analysis Based on Formal Methods: An Empirical Study.</title>
+<pages>110-130</pages>
+<year>2014</year>
+<booktitle>WADT</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-28114-8_7</ee>
+<crossref>conf/wadt/2014</crossref>
+<url>db/conf/wadt/wadt2014.html#OliveiraRCDNR14</url>
+</inproceedings>
+</r>
+<r><article key="journals/jss/LucenaN13" mdate="2020-02-24">
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<title>Contributions to the emergence and consolidation of Agent-oriented Software Engineering.</title>
+<pages>890-904</pages>
+<year>2013</year>
+<volume>86</volume>
+<journal>J. Syst. Softw.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.jss.2012.09.016</ee>
+<url>db/journals/jss/jss86.html#LucenaN13</url>
+</article>
+</r>
+<r><article key="journals/jss/CiriloNKL12" mdate="2020-02-24">
+<author pid="49/1805">Elder Cirilo</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>Automating the product derivation process of multi-agent systems product lines.</title>
+<pages>258-276</pages>
+<year>2012</year>
+<volume>85</volume>
+<journal>J. Syst. Softw.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.jss.2011.04.066</ee>
+<url>db/journals/jss/jss85.html#CiriloNKL12</url>
+</article>
+</r>
+<r><inproceedings key="conf/aamas/NunesMLL12" mdate="2015-03-19">
+<author pid="48/5352">Ingrid Nunes</author>
+<author pid="74/3469">Simon Miles</author>
+<author pid="09/6641">Michael Luck</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>User-centric preference-based decision making.</title>
+<pages>1225-1226</pages>
+<year>2012</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2343934</ee>
+<crossref>conf/atal/2012</crossref>
+<url>db/conf/atal/aamas2012.html#NunesMLL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipaw/NunesCMLL12" mdate="2019-06-02">
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="94/6814">Yuhui Chen</author>
+<author orcid="0000-0001-9956-4217" pid="74/3469">Simon Miles</author>
+<author orcid="0000-0002-0926-2061" pid="09/6641">Michael Luck</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>Transparent Provenance Derivation for User Decisions.</title>
+<pages>111-125</pages>
+<year>2012</year>
+<booktitle>IPAW</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-34222-6_9</ee>
+<ee>https://www.wikidata.org/entity/Q59518115</ee>
+<crossref>conf/ipaw/2012</crossref>
+<url>db/conf/ipaw/ipaw2012.html#NunesCMLL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbia/NunesMLL12" mdate="2019-06-02">
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author orcid="0000-0001-9956-4217" pid="74/3469">Simon Miles</author>
+<author orcid="0000-0002-0926-2061" pid="09/6641">Michael Luck</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>User-Centric Principles in Automated Decision Making.</title>
+<pages>42-51</pages>
+<year>2012</year>
+<booktitle>SBIA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-34459-6_5</ee>
+<ee>https://www.wikidata.org/entity/Q59518116</ee>
+<crossref>conf/sbia/2012</crossref>
+<url>db/conf/sbia/sbia2012.html#NunesMLL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/um/NunesMLL12" mdate="2019-06-02">
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author orcid="0000-0001-9956-4217" pid="74/3469">Simon Miles</author>
+<author orcid="0000-0002-0926-2061" pid="09/6641">Michael Luck</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>Investigating Explanations to Justify Choice.</title>
+<pages>212-224</pages>
+<year>2012</year>
+<booktitle>UMAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31454-4_18</ee>
+<ee>https://www.wikidata.org/entity/Q59518111</ee>
+<crossref>conf/um/2012</crossref>
+<url>db/conf/um/umap2012.html#NunesMLL12</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijaose/NunesLCKAN11" mdate="2020-05-10">
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<author pid="c/DonaldDCowan">Donald D. Cowan</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="a/PauloSCAlencar">Paulo S. C. Alencar</author>
+<author pid="82/5655">Camila Nunes</author>
+<title>Developing multi-agent system product lines: from requirements to code.</title>
+<pages>353-389</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>Int. J. Agent Oriented Softw. Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1504/IJAOSE.2011.043643</ee>
+<url>db/journals/ijaose/ijaose4.html#NunesLCKAN11</url>
+</article>
+</r>
+<r><inproceedings key="conf/aosd/CiriloN0L11" mdate="2022-01-03">
+<author pid="49/1805">Elder Cirilo</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos J. P. Lucena</author>
+<title>Configuration knowledge of software product lines: a comprehensibility study.</title>
+<pages>1-5</pages>
+<year>2011</year>
+<booktitle>VariComp@AOSD</booktitle>
+<ee>https://doi.org/10.1145/1961359.1961361</ee>
+<crossref>conf/aosd/2011varicomp</crossref>
+<url>db/conf/aosd/varicomp2011.html#CiriloN0L11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/NunesLBML11" mdate="2019-06-02">
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author orcid="0000-0002-0926-2061" pid="09/6641">Michael Luck</author>
+<author orcid="0000-0002-0044-503X" pid="b/SDJBarbosa">Simone Diniz Junqueira Barbosa</author>
+<author orcid="0000-0001-9956-4217" pid="74/3469">Simon Miles</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>Dynamically Adapting BDI Agents Based on High-Level User Specifications.</title>
+<pages>139-163</pages>
+<year>2011</year>
+<booktitle>AAMAS Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-27216-5_11</ee>
+<ee>https://www.wikidata.org/entity/Q59518109</ee>
+<crossref>conf/atal/2011w</crossref>
+<url>db/conf/atal/aamas2011w.html#NunesLBML11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aose/NunesCCL10" mdate="2017-06-01">
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="c/DonaldDCowan">Donald D. Cowan</author>
+<author pid="49/1805">Elder Cirilo</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>A Case for New Directions in Agent-Oriented Software Engineering.</title>
+<pages>37-61</pages>
+<year>2010</year>
+<booktitle>AOSE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-22636-6_3</ee>
+<crossref>conf/aose/2010</crossref>
+<url>db/conf/aose/aose2010.html#NunesCCL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/NunesCNFSCL10" mdate="2018-11-30">
+<author pid="48/5352">Ingrid Nunes</author>
+<author pid="16/489">Ricardo Choren</author>
+<author pid="82/5655">Camila Nunes</author>
+<author pid="07/8524">Bruno F&#225;bri</author>
+<author pid="78/3071">Fernando Silva</author>
+<author pid="07/1581">Gustavo R. de Carvalho</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>Supporting prenatal care in the public healthcare system in a newly industrialized country.</title>
+<pages>1723-1730</pages>
+<year>2010</year>
+<booktitle>AAMAS</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=1838201</ee>
+<crossref>conf/atal/2010</crossref>
+<url>db/conf/atal/aamas2010.html#NunesCNFSCL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isola/CowanAMLN10" mdate="2017-06-04">
+<author pid="c/DonaldDCowan">Donald D. Cowan</author>
+<author pid="a/PauloSCAlencar">Paulo S. C. Alencar</author>
+<author pid="22/8669">Fred McGarry</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<title>A Web-Based Framework for Collaborative Innovation.</title>
+<pages>447-461</pages>
+<year>2010</year>
+<booktitle>ISoLA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-16558-0_38</ee>
+<crossref>conf/isola/2010-1</crossref>
+<url>db/conf/isola/isola2010-1.html#CowanAMLN10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isola/NunesBL10" mdate="2017-06-15">
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author orcid="0000-0002-0044-503X" pid="b/SDJBarbosa">Simone Diniz Junqueira Barbosa</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>Increasing Users' Trust on Personal Assistance Software Using a Domain-Neutral High-Level User Model.</title>
+<pages>473-487</pages>
+<year>2010</year>
+<booktitle>ISoLA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-16558-0_40</ee>
+<crossref>conf/isola/2010-1</crossref>
+<url>db/conf/isola/isola2010-1.html#NunesBL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/NunesBL10" mdate="2010-11-29">
+<author pid="48/5352">Ingrid Nunes</author>
+<author pid="b/SDJBarbosa">Simone Diniz Junqueira Barbosa</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>An End-user Domain-specific Model to Drive Dynamic User Agents Adaptations.</title>
+<pages>509-514</pages>
+<year>2010</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2010</crossref>
+<url>db/conf/seke/seke2010.html#NunesBL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/CowanAMLN10" mdate="2023-03-24">
+<author pid="c/DonaldDCowan">Donald D. Cowan</author>
+<author pid="a/PauloSCAlencar">Paulo S. C. Alencar</author>
+<author pid="22/8669">Fred McGarry</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<title>Asset-Mapping Approaches to Web-Based Collaborative Innovation.</title>
+<pages>528-532</pages>
+<year>2010</year>
+<booktitle>Web Intelligence</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2010.93</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2010.93</ee>
+<crossref>conf/webi/2010</crossref>
+<url>db/conf/webi/webi2010.html#CowanAMLN10</url>
+</inproceedings>
+</r>
+<r><article key="journals/jucs/NunesKSNGL09" mdate="2023-09-07">
+<author pid="82/5655">Camila Nunes</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="64/4218">Cl&#225;udio Sant'Anna</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<author pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>Assessment of the Design Modularity and Stability of Multi-Agent System Product Lines.</title>
+<pages>2254-2283</pages>
+<year>2009</year>
+<volume>15</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>11</number>
+<ee type="oa">https://doi.org/10.3217/jucs-015-11-2254</ee>
+<url>db/journals/jucs/jucs15.html#NunesKSNGL09</url>
+</article>
+</r>
+<r><inproceedings key="conf/aose/NunesLKN09" mdate="2017-06-01">
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="82/5655">Camila Nunes</author>
+<title>On the Development of Multi-agent Systems Product Lines: A Domain Engineering Process.</title>
+<pages>125-139</pages>
+<year>2009</year>
+<booktitle>AOSE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-19208-1_9</ee>
+<crossref>conf/aose/2009</crossref>
+<url>db/conf/aose/aose2009.html#NunesLKN09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aose/NunesCLSHG09" mdate="2024-10-06">
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="49/1805">Elder Cirilo</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<author orcid="0009-0007-7871-9006" pid="58/2103">Jan Sudeikat</author>
+<author pid="04/2599">Christian Hahn 0001</author>
+<author orcid="0000-0003-4534-378X" pid="69/281">Jorge J. G&#243;mez-Sanz</author>
+<title>A Survey on the Implementation of Agent Oriented Specifications.</title>
+<pages>169-179</pages>
+<year>2009</year>
+<booktitle>AOSE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-19208-1_12</ee>
+<crossref>conf/aose/2009</crossref>
+<url>db/conf/aose/aose2009.html#NunesCLSHG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/NunesKNL09" mdate="2018-11-30">
+<author pid="48/5352">Ingrid Nunes</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="82/5655">Camila Nunes</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>A domain engineering process for developing multi-agent systems product lines.</title>
+<pages>1339-1340</pages>
+<year>2009</year>
+<booktitle>AAMAS (2)</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=1558283</ee>
+<crossref>conf/atal/2009-2</crossref>
+<url>db/conf/atal/aamas2009-2.html#NunesKNL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/criwg/GadelhaNFL09" mdate="2017-06-02">
+<author pid="77/7361">Bruno Gadelha</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="21/5671">Hugo Fuks</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>An Approach for Developing Groupware Product Lines Based on the 3C Collaboration Model.</title>
+<pages>328-343</pages>
+<year>2009</year>
+<booktitle>CRIWG</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04216-4_28</ee>
+<crossref>conf/criwg/2009</crossref>
+<url>db/conf/criwg/criwg2009.html#GadelhaNFL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csmr/NunesKSNGL09" mdate="2023-03-24">
+<author pid="82/5655">Camila Nunes</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="64/4218">Cl&#225;udio Sant'Anna</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>Comparing Stability of Implementation Techniques for Multi-agent System Product Lines.</title>
+<pages>229-232</pages>
+<year>2009</year>
+<booktitle>CSMR</booktitle>
+<ee>https://doi.org/10.1109/CSMR.2009.50</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CSMR.2009.50</ee>
+<crossref>conf/csmr/2009</crossref>
+<url>db/conf/csmr/csmr2009.html#NunesKSNGL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/NunesKNLC09" mdate="2017-06-04">
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="82/5655">Camila Nunes</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<author pid="49/1805">Elder Cirilo</author>
+<title>A Domain Analysis Approach for Multi-agent Systems Product Lines.</title>
+<pages>716-727</pages>
+<year>2009</year>
+<booktitle>ICEIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-01347-8_59</ee>
+<crossref>conf/iceis/2009</crossref>
+<url>db/conf/iceis/iceis2009.html#NunesKNLC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsr/NunesLCA09" mdate="2017-06-04">
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<author pid="c/DonaldDCowan">Donald D. Cowan</author>
+<author pid="a/PauloSCAlencar">Paulo S. C. Alencar</author>
+<title>Building Service-Oriented User Agents Using a Software Product Line Approach.</title>
+<pages>236-245</pages>
+<year>2009</year>
+<booktitle>ICSR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04211-9_23</ee>
+<crossref>conf/icsr/2009</crossref>
+<url>db/conf/icsr/icsr2009.html#NunesLCA09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/NunesKNCL09" mdate="2018-11-06">
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="82/5655">Camila Nunes</author>
+<author pid="49/1805">Elder Cirilo</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>Extending PASSI to model multi-agent systems product lines.</title>
+<pages>729-730</pages>
+<year>2009</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1529282.1529434</ee>
+<crossref>conf/sac/2009</crossref>
+<url>db/conf/sac/sac2009.html#NunesKNCL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/CiriloNKNL09" mdate="2018-11-06">
+<author pid="49/1805">Elder Cirilo</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="82/5655">Camila Nunes</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>Automatic product derivation of multi-agent systems product lines.</title>
+<pages>731-732</pages>
+<year>2009</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1529282.1529435</ee>
+<crossref>conf/sac/2009</crossref>
+<url>db/conf/sac/sac2009.html#CiriloNKNL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/CiriloNKL09" mdate="2023-03-24">
+<author pid="49/1805">Elder Cirilo</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Lucena</author>
+<title>Automating the Product Derivation Process of Multi-agent Systems Product Lines.</title>
+<pages>12-21</pages>
+<year>2009</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1109/SBES.2009.26</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBES.2009.26</ee>
+<crossref>conf/sbes/2009</crossref>
+<url>db/conf/sbes/sbes2009.html#CiriloNKL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aose/NunesNKL08" mdate="2017-06-01">
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="82/5655">Camila Nunes</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>Developing and Evolving a Multi-agent System Product Line: An Exploratory Study.</title>
+<pages>228-242</pages>
+<year>2008</year>
+<booktitle>AOSE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-01338-6_17</ee>
+<crossref>conf/aose/2008</crossref>
+<url>db/conf/aose/aose2008.html#NunesNKL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcars/NunesKSNL08" mdate="2024-11-27">
+<author pid="82/5655">Camila Nunes</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="64/4218">Cl&#225;udio Sant'Anna</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>On the Modularity Assessment of Aspect-Oriented Multi-Agent Systems Product Lines: a Quantitative Study.</title>
+<pages>122-135</pages>
+<year>2008</year>
+<booktitle>SBCARS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbcars.2008.46265</ee>
+<crossref>conf/sbcars/2008</crossref>
+<url>db/conf/sbcars/sbcars2008.html#NunesKSNL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/NunesKNL08" mdate="2008-09-12">
+<author pid="48/5352">Ingrid Nunes</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="82/5655">Camila Nunes</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>Documenting and Modeling Multi-agent Systems Product Lines.</title>
+<pages>745-751</pages>
+<year>2008</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2008</crossref>
+<url>db/conf/seke/seke2008.html#NunesKNL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/NunesKNCL08" mdate="2018-11-06">
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="82/5655">Camila Nunes</author>
+<author pid="49/1805">Elder Cirilo</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>Extending web-based applications to incorporate autonomous behavior.</title>
+<pages>115-122</pages>
+<year>2008</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/1666091.1666112</ee>
+<crossref>conf/webmedia/2008</crossref>
+<url>db/conf/webmedia/webmedia2008.html#NunesKNCL08</url>
+</inproceedings>
+</r>
+<coauthors n="84" nc="4">
+<co c="0"><na f="a/Alencar:Paulo_S=_C=" pid="a/PauloSCAlencar">Paulo S. C. Alencar</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Cristiano_Werner" pid="197/3450">Cristiano Werner Ara&#250;jo</na></co>
+<co c="1"><na f="b/Bakhouya:Mohamed" pid="32/1024">Mohamed Bakhouya</na></co>
+<co c="0"><na f="b/Baldoni:Matteo" pid="b/MatteoBaldoni">Matteo Baldoni</na></co>
+<co c="0"><na f="b/Barakat:Lina" pid="73/10118">Lina Barakat</na></co>
+<co c="0"><na f="b/Barbieri:Matheus" pid="199/6476">Matheus Barbieri</na></co>
+<co c="0" n="2"><na f="b/Barbosa:Simone_D=_J=" pid="b/SDJBarbosa">Simone D. J. Barbosa</na><na>Simone Diniz Junqueira Barbosa</na></co>
+<co c="0"><na f="b/Bazzan:Ana_L=_C=" pid="b/AnaLCBazzan">Ana L. C. Bazzan</na></co>
+<co c="0" n="2"><na f="c/Cafeo:Bruno_B=_P=" pid="46/10082">Bruno B. P. Cafeo</na><na>Bruno Barbieri Pontes Cafeo</na></co>
+<co c="0"><na f="c/Calefato:Fabio" pid="48/5662">Fabio Calefato</na></co>
+<co c="0"><na f="c/Carvalho:Gustavo_R=_de" pid="07/1581">Gustavo R. de Carvalho</na></co>
+<co c="0"><na f="c/Chen:Yuhui" pid="94/6814">Yuhui Chen</na></co>
+<co c="0"><na f="c/Choren:Ricardo" pid="16/489">Ricardo Choren</na></co>
+<co c="0"><na f="c/Cirilo:Elder" pid="49/1805">Elder Cirilo</na></co>
+<co c="0"><na f="c/Cota:=Eacute=rika_F=" pid="c/ErikaFCota">&#201;rika F. Cota</na></co>
+<co c="0"><na f="c/Cowan:Donald_D=" pid="c/DonaldDCowan">Donald D. Cowan</na></co>
+<co c="0"><na f="c/Cunha:Francisco_J=_P=" pid="166/4455">Francisco J. P. Cunha</na></co>
+<co c="1"><na f="d/D=Angelo:Mirko" pid="167/6093">Mirko D'Angelo</na></co>
+<co c="0"><na f="d/Davila:Nicole" pid="287/9970">Nicole Davila</na></co>
+<co c="0"><na f="d/Duarte:Lucio_Mauro" pid="53/6206">Lucio Mauro Duarte</na></co>
+<co c="1"><na f="e/El=Araby:Esam" pid="98/82">Esam El-Araby</na></co>
+<co c="0"><na f="f/F=aacute=bri:Bruno" pid="07/8524">Bruno F&#225;bri</na></co>
+<co c="0"><na f="f/Faccin:Jo=atilde=o_Guilherme" pid="175/5259">Jo&#227;o Guilherme Faccin</na></co>
+<co c="0"><na f="f/Favaro:Gilson_Jose_Peres" pid="376/7997">Gilson Jose Peres Favaro</na></co>
+<co c="0" n="2"><na f="f/Filho:Alberto_E=_Schaeffer" pid="89/1649">Alberto E. Schaeffer Filho</na><na>Alberto Schaeffer-Filho</na></co>
+<co c="0"><na f="f/Fuks:Hugo" pid="21/5671">Hugo Fuks</na></co>
+<co c="0"><na f="g/Gadelha:Bruno" pid="77/7361">Bruno Gadelha</na></co>
+<co c="0" n="2"><na f="g/Garcia_0001:Alessandro_F=" pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</na><na>Alessandro Garcia 0001</na></co>
+<co c="1"><na f="g/Gerasimou:Simos" pid="117/6142">Simos Gerasimou</na></co>
+<co c="1"><na f="g/Ghahremani:Sona" pid="191/3171">Sona Ghahremani</na></co>
+<co c="0"><na f="g/G=oacute=mez=Sanz:Jorge_J=" pid="69/281">Jorge J. G&#243;mez-Sanz</na></co>
+<co c="0"><na f="g/Griffiths:Nathan" pid="68/2220">Nathan Griffiths</na></co>
+<co c="1"><na f="g/Grohmann:Johannes" pid="204/3835">Johannes Grohmann</na></co>
+<co c="0"><na f="h/Hahn_0001:Christian" pid="04/2599">Christian Hahn 0001</na></co>
+<co c="0"><na f="h/Hamou=Lhadj:Abdelwahab" pid="70/2136">Abdelwahab Hamou-Lhadj</na></co>
+<co c="2"><na f="j/Jannach:Dietmar" pid="j/DietmarJannach">Dietmar Jannach</na></co>
+<co c="2"><na f="j/Jugovac:Michael" pid="160/4218">Michael Jugovac</na></co>
+<co c="1"><na f="k/Kalogeraki:Vana" pid="k/VanaKalogeraki">Vana Kalogeraki</na></co>
+<co c="0"><na f="k/Kawamoto:Andre" pid="234/1114">Andre Kawamoto</na></co>
+<co c="0"><na f="k/Kulesza:Uir=aacute=" pid="78/6010">Uir&#225; Kulesza</na></co>
+<co c="0"><na f="l/Lalanda:Philippe" pid="34/4501">Philippe Lalanda</na></co>
+<co c="1"><na f="l/Lassabe:Fr=eacute=d=eacute=ric" pid="19/3994">Fr&#233;d&#233;ric Lassabe</na></co>
+<co c="0" n="3"><na f="l/Lucena:Carlos_Jos=eacute=_Pereira_de" pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</na><na>Carlos J. P. Lucena</na><na>Carlos Lucena</na></co>
+<co c="0"><na f="l/Luck:Michael" pid="09/6641">Michael Luck</na></co>
+<co c="0"><na f="m/McGarry:Fred" pid="22/8669">Fred McGarry</na></co>
+<co c="0"><na f="m/Meloca:R=ocirc=mulo_Manciola" pid="209/6562">R&#244;mulo Manciola Meloca</na></co>
+<co c="0"><na f="m/Mertz:Jhonny" pid="206/4832">Jhonny Mertz</na></co>
+<co c="0"><na f="m/Miles:Simon" pid="74/3469">Simon Miles</na></co>
+<co c="0"><na f="m/Moreira:Deividi" pid="199/6883">Deividi Moreira</na></co>
+<co c="0"><na f="m/M=uuml=ller:J=ouml=rg_P=" pid="m/JPMuller">J&#246;rg P. M&#252;ller</na></co>
+<co c="0"><na f="n/Nunes:Camila" pid="82/5655">Camila Nunes</na></co>
+<co c="0" n="2"><na f="n/Nunes:Daltro_J=" pid="15/1379">Daltro J. Nunes</na><na>Daltro Jos&#233; Nunes</na></co>
+<co c="0"><na f="o/Oliveira_Jr=:Marcos" pid="185/0387">Marcos Oliveira Jr.</na></co>
+<co c="0"><na f="p/Patel:Keyur" pid="85/4672">Keyur Patel</na></co>
+<co c="3"><na f="p/Pereira:Gabriel" pid="20/8984">Gabriel Pereira</na></co>
+<co c="1"><na f="p/Pianini:Danilo" pid="35/9084">Danilo Pianini</na></co>
+<co c="3" n="2"><na f="p/Pimenta:Marcelo_Soares" pid="p/MarceloSoaresPimenta">Marcelo Soares Pimenta</na><na>Marcelo Pimenta</na></co>
+<co c="1"><na f="p/Porter:Barry" pid="59/4160">Barry Porter</na></co>
+<co c="1"><na f="p/Pournaras:Evangelos" pid="32/3755">Evangelos Pournaras</na></co>
+<co c="0"><na f="p/Pradel:Michael" pid="25/2188">Michael Pradel</na></co>
+<co c="0"><na f="r/Reis:Filipe" pid="185/0374">Filipe Reis</na></co>
+<co c="0"><na f="r/Ribeiro_0001:Leila" pid="r/LeilaRibeiro">Leila Ribeiro 0001</na></co>
+<co c="0"><na f="r/Rocha:Junior_Cesar" pid="205/9322">Junior Cesar Rocha</na></co>
+<co c="0"><na f="s/Sant=Anna:Cl=aacute=udio" pid="64/4218">Cl&#225;udio Sant'Anna</na></co>
+<co c="2"><na f="s/Santos:Eduardo_Witter_dos" pid="205/9423">Eduardo Witter dos Santos</na></co>
+<co c="0"><na f="s/Santos:Fernando_dos" pid="59/3847">Fernando dos Santos</na></co>
+<co c="0"><na f="s/Schardong:Frederico" pid="167/3639">Frederico Schardong</na></co>
+<co c="0"><na f="s/Selakovic:Marija" pid="167/0216">Marija Selakovic</na></co>
+<co c="0"><na f="s/Silva_0002:Danilo" pid="18/3689-2">Danilo Silva 0002</na></co>
+<co c="0"><na f="s/Silva:Fernando" pid="78/3071">Fernando Silva</na></co>
+<co c="0"><na f="s/Silva:Lucas_Lucio_da" pid="376/8203">Lucas Lucio da Silva</na></co>
+<co c="0"><na f="s/Sirqueira:Tassio_Ferenzini_Martins" pid="168/0117">Tassio Ferenzini Martins Sirqueira</na></co>
+<co c="0"><na f="s/Stein:Jacob" pid="72/5426">Jacob Stein</na></co>
+<co c="0"><na f="s/Steinmacher:Igor" pid="70/3474">Igor Steinmacher</na></co>
+<co c="0"><na f="s/Sudeikat:Jan" pid="58/2103">Jan Sudeikat</na></co>
+<co c="0"><na f="t/Taylor:Phillip" pid="121/0302">Phillip Taylor</na></co>
+<co c="0"><na f="t/Terra:Ricardo" pid="23/5199">Ricardo Terra</na></co>
+<co c="0"><na f="t/Toffola:Luca_Della" pid="70/10696">Luca Della Toffola</na></co>
+<co c="1"><na f="t/Tomforde:Sven" pid="58/3801">Sven Tomforde</na></co>
+<co c="0"><na f="t/Treude:Christoph" pid="29/1074">Christoph Treude</na></co>
+<co c="0"><na f="v/Viana:Marx_L=" pid="166/4429">Marx L. Viana</na></co>
+<co c="0" n="2"><na f="w/Wiese:Igor_Scaliante" pid="06/10439">Igor Scaliante Wiese</na><na>Igor Wiese</na></co>
+<co c="0"><na f="z/Zalila=Wenkstern:Rym" pid="65/4905">Rym Zalila-Wenkstern</na></co>
+<co c="0"><na f="z/Zapalowski:Vanius" pid="145/4386">Vanius Zapalowski</na></co>
+</coauthors>
+</dblpperson>
+

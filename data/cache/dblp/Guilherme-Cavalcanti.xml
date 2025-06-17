@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<dblpperson name="Guilherme Cavalcanti" pid="170/6113" n="15">
+<person key="homepages/170/6113" mdate="2015-11-12">
+<author pid="170/6113">Guilherme Cavalcanti</author>
+</person>
+<r><inproceedings key="conf/kbse/CavalcantiBAC24" mdate="2025-05-01">
+<author orcid="0000-0001-8821-6858" pid="170/6113">Guilherme Cavalcanti</author>
+<author orcid="0000-0002-0381-2843" pid="b/PauloBorba">Paulo Borba</author>
+<author orcid="0009-0007-1127-9202" pid="383/8819">Leonardo dos Anjos</author>
+<author pid="303/4014">J&#244;natas Clementino</author>
+<title>Semistructured Merge with Language-Specific Syntactic Separators.</title>
+<pages>1032-1043</pages>
+<year>2024</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/3691620.3695483</ee>
+<crossref>conf/kbse/2024</crossref>
+<url>db/conf/kbse/ase2024.html#CavalcantiBAC24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/AraujoBC24" mdate="2024-10-22">
+<author pid="232/9763">Felipe Ara&#250;jo</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<author pid="170/6113">Guilherme Cavalcanti</author>
+<title>Refinando a Precis&#227;o da Detec&#231;&#227;o de Conflitos: Uma An&#225;lise do CSDiff com Abordagem Focalizada.</title>
+<pages>246-256</pages>
+<year>2024</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2024.3395</ee>
+<crossref>conf/sbes/2024</crossref>
+<url>db/conf/sbes/sbes2024.html#AraujoBC24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2407-18888" mdate="2024-08-24">
+<author pid="170/6113">Guilherme Cavalcanti</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<author pid="383/8819">Leonardo dos Anjos</author>
+<author pid="303/4014">J&#244;natas Clementino</author>
+<title>Semistructured Merge with Language-Specific Syntactic Separators.</title>
+<year>2024</year>
+<volume>abs/2407.18888</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2407.18888</ee>
+<url>db/journals/corr/corr2407.html#abs-2407-18888</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/tse/SeibtHCBA22" mdate="2022-12-05">
+<author orcid="0000-0003-1349-9851" pid="207/7157">Georg Seibt</author>
+<author pid="333/1940">Florian Heck</author>
+<author pid="170/6113">Guilherme Cavalcanti</author>
+<author orcid="0000-0002-0381-2843" pid="b/PauloBorba">Paulo Borba</author>
+<author orcid="0000-0003-3687-2233" pid="a/SvenApel">Sven Apel</author>
+<title>Leveraging Structure in Software Merge: An Empirical Study.</title>
+<pages>4590-4610</pages>
+<year>2022</year>
+<volume>48</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TSE.2021.3123143</ee>
+<url>db/journals/tse/tse48.html#SeibtHCBA22</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbes/ClementinoBC21" mdate="2022-08-18">
+<author pid="303/4014">J&#244;natas Clementino</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<author pid="170/6113">Guilherme Cavalcanti</author>
+<title>Textual merge based on language-specific syntactic separators.</title>
+<pages>243-252</pages>
+<year>2021</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3474624.3474646</ee>
+<crossref>conf/sbes/2021</crossref>
+<url>db/conf/sbes/sbes2021.html#ClementinoBC21</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/lareferencia/CAVALCANTI19" mdate="2025-03-07">
+<author pid="170/6113">Guilherme Cavalcanti</author>
+<title>Should we replace our merge tools?</title>
+<school>Federal University of Pernambuco, Brazil</school>
+<year>2019</year>
+<note type="source">LaReferencia (lareferencia.info): oai:repositorio.ufpe.br:123456789/35862</note>
+<ee>https://repositorio.ufpe.br/handle/123456789/35862</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/kbse/CavalcantiBSA19" mdate="2023-09-30">
+<author pid="170/6113">Guilherme Cavalcanti</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<author pid="207/7157">Georg Seibt</author>
+<author orcid="0000-0003-3687-2233" pid="a/SvenApel">Sven Apel</author>
+<title>The Impact of Structure on Software Merging: Semistructured Versus Structured Merge.</title>
+<pages>1002-1013</pages>
+<year>2019</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1109/ASE.2019.00097</ee>
+<crossref>conf/kbse/2019</crossref>
+<url>db/conf/kbse/ase2019.html#CavalcantiBSA19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/TavaresBCS19" mdate="2025-01-19">
+<author pid="118/3391">Alberto Trindade Tavares</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<author pid="170/6113">Guilherme Cavalcanti</author>
+<author pid="58/232">S&#233;rgio Soares</author>
+<title>Semistructured Merge in JavaScript Systems.</title>
+<pages>1014-1025</pages>
+<year>2019</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1109/ASE.2019.00098</ee>
+<ee>https://www.wikidata.org/entity/Q131111837</ee>
+<crossref>conf/kbse/2019</crossref>
+<url>db/conf/kbse/ase2019.html#TavaresBCS19</url>
+</inproceedings>
+</r>
+<r><article key="journals/ese/AcciolyBC18" mdate="2022-03-16">
+<author orcid="0000-0002-4428-2543" pid="53/7000">Paola R. G. Accioly</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<author pid="170/6113">Guilherme Cavalcanti</author>
+<title>Understanding semi-structured merge conflict characteristics in open-source Java projects.</title>
+<pages>2051-2085</pages>
+<year>2018</year>
+<volume>23</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10664-017-9586-1</ee>
+<ee>https://www.wikidata.org/entity/Q110510404</ee>
+<url>db/journals/ese/ese23.html#AcciolyBC18</url>
+</article>
+</r>
+<r><inproceedings key="conf/kbse/AcciolyBC18" mdate="2018-11-21">
+<author pid="53/7000">Paola R. G. Accioly</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<author pid="170/6113">Guilherme Cavalcanti</author>
+<title>Understanding Semi-structured merge conflict characteristics in open-source Java projects (journal-first abstract).</title>
+<pages>955</pages>
+<year>2018</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/3238147.3241983</ee>
+<crossref>conf/kbse/2018</crossref>
+<url>db/conf/kbse/ase2018.html#AcciolyBC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/msr/AcciolyBSC08" mdate="2021-08-11">
+<author pid="53/7000">Paola R. G. Accioly</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<author pid="183/9958">L&#233;uson M. P. da Silva</author>
+<author pid="170/6113">Guilherme Cavalcanti</author>
+<title>Analyzing conflict predictors in open-source Java projects.</title>
+<pages>576-586</pages>
+<year>2018</year>
+<booktitle>MSR</booktitle>
+<ee>https://doi.org/10.1145/3196398.3196437</ee>
+<ee>https://ieeexplore.ieee.org/document/8595241</ee>
+<crossref>conf/msr/2018</crossref>
+<url>db/conf/msr/msr2018.html#AcciolyBSC08</url>
+</inproceedings>
+</r>
+<r><article key="journals/pacmpl/CavalcantiBA17" mdate="2021-02-17">
+<author pid="170/6113">Guilherme Cavalcanti</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<author pid="53/7000">Paola R. G. Accioly</author>
+<title>Evaluating and improving semistructured merge.</title>
+<pages>59:1-59:27</pages>
+<year>2017</year>
+<volume>1</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>OOPSLA</number>
+<ee type="oa">https://doi.org/10.1145/3133883</ee>
+<url>db/journals/pacmpl/pacmpl1.html#CavalcantiBA17</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/CavalcantiBA17" mdate="2023-03-23">
+<author pid="170/6113">Guilherme Cavalcanti</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<author pid="53/7000">Paola R. G. Accioly</author>
+<title>Should we replace our merge tools?</title>
+<pages>325-327</pages>
+<year>2017</year>
+<booktitle>ICSE (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1109/ICSE-C.2017.103</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICSE-C.2017.103</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3098455</ee>
+<crossref>conf/icse/2017c</crossref>
+<url>db/conf/icse/icse2017c.html#CavalcantiBA17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/Cavalcanti17" mdate="2018-11-06">
+<author pid="170/6113">Guilherme Cavalcanti</author>
+<title>What merge tool should I use?</title>
+<pages>19-20</pages>
+<year>2017</year>
+<booktitle>SPLASH (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/3135932.3135943</ee>
+<crossref>conf/oopsla/2017c</crossref>
+<url>db/conf/oopsla/splash2017c.html#Cavalcanti17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esem/CavalcantiAB15" mdate="2023-03-24">
+<author pid="170/6113">Guilherme Cavalcanti</author>
+<author pid="53/7000">Paola R. G. Accioly</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<title>Assessing Semistructured Merge in Version Control Systems: A Replicated Experiment.</title>
+<pages>267-276</pages>
+<year>2015</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1109/ESEM.2015.7321191</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ESEM.2015.7321191</ee>
+<crossref>conf/esem/2015</crossref>
+<url>db/conf/esem/esem2015.html#CavalcantiAB15</url>
+</inproceedings>
+</r>
+<coauthors n="11" nc="1">
+<co c="0"><na f="a/Accioly:Paola_R=_G=" pid="53/7000">Paola R. G. Accioly</na></co>
+<co c="0"><na f="a/Anjos:Leonardo_dos" pid="383/8819">Leonardo dos Anjos</na></co>
+<co c="0"><na f="a/Apel:Sven" pid="a/SvenApel">Sven Apel</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Felipe" pid="232/9763">Felipe Ara&#250;jo</na></co>
+<co c="0"><na f="b/Borba:Paulo" pid="b/PauloBorba">Paulo Borba</na></co>
+<co c="0"><na f="c/Clementino:J=ocirc=natas" pid="303/4014">J&#244;natas Clementino</na></co>
+<co c="0"><na f="h/Heck:Florian" pid="333/1940">Florian Heck</na></co>
+<co c="0"><na f="s/Seibt:Georg" pid="207/7157">Georg Seibt</na></co>
+<co c="0"><na f="s/Silva:L=eacute=uson_M=_P=_da" pid="183/9958">L&#233;uson M. P. da Silva</na></co>
+<co c="0"><na f="s/Soares:S=eacute=rgio" pid="58/232">S&#233;rgio Soares</na></co>
+<co c="0"><na f="t/Tavares:Alberto_Trindade" pid="118/3391">Alberto Trindade Tavares</na></co>
+</coauthors>
+</dblpperson>
+

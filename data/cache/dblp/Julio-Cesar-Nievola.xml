@@ -1,0 +1,888 @@
+<?xml version="1.0"?>
+<dblpperson name="J&#250;lio C. Nievola" pid="62/6863" n="60">
+<person key="homepages/62/6863" mdate="2013-08-26">
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+</person>
+<r><article key="journals/asc/TieppoNB24" mdate="2025-01-19">
+<author orcid="0000-0001-8271-0214" pid="307/9199">Eduardo Tieppo</author>
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<author pid="148/4305">Jean Paul Barddal</author>
+<title>Adaptive learning on hierarchical data streams using window-weighted Gaussian probabilities.</title>
+<pages>111271</pages>
+<year>2024</year>
+<volume>152</volume>
+<journal>Appl. Soft Comput.</journal>
+<ee>https://doi.org/10.1016/j.asoc.2024.111271</ee>
+<ee>https://www.wikidata.org/entity/Q129639879</ee>
+<url>db/journals/asc/asc152.html#TieppoNB24</url>
+</article>
+</r>
+<r><article key="journals/kais/SchmitkePN24" mdate="2024-07-31">
+<author pid="381/9390">Luiz Rafael Schmitke</author>
+<author pid="33/4345">Emerson Cabrera Paraiso</author>
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<title>Biclustering-based multi-label classification.</title>
+<pages>4861-4898</pages>
+<year>2024</year>
+<month>August</month>
+<volume>66</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1007/s10115-024-02109-3</ee>
+<url>db/journals/kais/kais66.html#SchmitkePN24</url>
+<stream>streams/journals/kais</stream>
+</article>
+</r>
+<r><article key="journals/air/TieppoSBN22" mdate="2022-04-09">
+<author orcid="0000-0001-8271-0214" pid="307/9199">Eduardo Tieppo</author>
+<author pid="261/8247">Roger Robson dos Santos</author>
+<author pid="148/4305">Jean Paul Barddal</author>
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<title>Hierarchical classification of data streams: a systematic literature review.</title>
+<pages>3243-3282</pages>
+<year>2022</year>
+<volume>55</volume>
+<journal>Artif. Intell. Rev.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10462-021-10087-z</ee>
+<url>db/journals/air/air55.html#TieppoSBN22</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcnn/TieppoBN22" mdate="2022-10-10">
+<author pid="307/9199">Eduardo Tieppo</author>
+<author pid="148/4305">Jean Paul Barddal</author>
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<title>Classifying Hierarchical Data Streams using Global Classifiers and Summarization Techniques.</title>
+<pages>1-8</pages>
+<year>2022</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN55064.2022.9892601</ee>
+<crossref>conf/ijcnn/2022</crossref>
+<url>db/conf/ijcnn/ijcnn2022.html#TieppoBN22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/TieppoBN22" mdate="2022-05-11">
+<author pid="307/9199">Eduardo Tieppo</author>
+<author pid="148/4305">Jean Paul Barddal</author>
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<title>Automatic disease vector mosquitoes identification via hierarchical data stream classification.</title>
+<pages>1005-1012</pages>
+<year>2022</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3477314.3507019</ee>
+<crossref>conf/sac/2022</crossref>
+<url>db/conf/sac/sac2022.html#TieppoBN22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/TieppoBN22" mdate="2022-12-01">
+<author pid="307/9199">Eduardo Tieppo</author>
+<author pid="148/4305">Jean Paul Barddal</author>
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<title>Improving Data Stream Classification using Incremental Yeo-Johnson Power Transformation.</title>
+<pages>3286-3292</pages>
+<year>2022</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/SMC53654.2022.9945302</ee>
+<crossref>conf/smc/2022</crossref>
+<url>db/conf/smc/smc2022.html#TieppoBN22</url>
+</inproceedings>
+</r>
+<r><article key="journals/kbs/CarvalhoVAMPN21" mdate="2021-06-01">
+<author orcid="0000-0002-2638-7202" pid="05/1079">Elias Cesar Araujo De Carvalho</author>
+<author pid="129/1314">Joao Ricardo Nickenig Vissoci</author>
+<author pid="129/1256">Luciano de Andrade</author>
+<author pid="293/0974">Wagner de Lara Machado</author>
+<author orcid="0000-0002-6740-7855" pid="33/4345">Emerson Cabrera Paraiso</author>
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<title><i>BNPA</i>: An R package to learn path analysis input models from a data set semi-automatically using Bayesian networks.</title>
+<pages>107042</pages>
+<year>2021</year>
+<volume>223</volume>
+<journal>Knowl. Based Syst.</journal>
+<ee>https://doi.org/10.1016/j.knosys.2021.107042</ee>
+<url>db/journals/kbs/kbs223.html#CarvalhoVAMPN21</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/TieppoBN21" mdate="2021-12-25">
+<author orcid="0000-0001-8271-0214" pid="307/9199">Eduardo Tieppo</author>
+<author orcid="0000-0001-9928-854X" pid="148/4305">Jean Paul Barddal</author>
+<author orcid="0000-0002-2212-4499" pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<title>Classifying Potentially Unbounded Hierarchical Data Streams with Incremental Gaussian Naive Bayes.</title>
+<pages>421-436</pages>
+<year>2021</year>
+<booktitle>BRACIS (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-91702-9_28</ee>
+<crossref>conf/bracis/2021-1</crossref>
+<url>db/conf/bracis/bracis2021-1.html#TieppoBN21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/TieppoBN21" mdate="2022-01-11">
+<author pid="307/9199">Eduardo Tieppo</author>
+<author pid="148/4305">Jean Paul Barddal</author>
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<title>Adaptive Global k-Nearest Neighbors for Hierarchical Classification of Data Streams.</title>
+<pages>631-636</pages>
+<year>2021</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/SMC52423.2021.9658648</ee>
+<crossref>conf/smc/2021</crossref>
+<url>db/conf/smc/smc2021.html#TieppoBN21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwec/KummerINP19" mdate="2019-11-26">
+<author orcid="0000-0001-8793-9325" pid="201/5230">Luiz Bernardo Martins Kummer</author>
+<author orcid="0000-0001-8412-9837" pid="47/951">Hiroyuki Iida</author>
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<author orcid="0000-0002-6740-7855" pid="33/4345">Emerson Cabrera Paraiso</author>
+<title>Identifying Influences of Game Upgrades on Profitable Players Behavior in MMORPGs.</title>
+<pages>299-310</pages>
+<year>2019</year>
+<booktitle>ICEC-JCSG</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-34644-7_24</ee>
+<crossref>conf/iwec/2019</crossref>
+<url>db/conf/iwec/icec2019.html#KummerINP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cig/KummerNP18" mdate="2023-03-21">
+<author orcid="0000-0001-8793-9325" pid="201/5230">Luiz Bernardo Martins Kummer</author>
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<author orcid="0000-0002-6740-7855" pid="33/4345">Emerson Cabrera Paraiso</author>
+<title>Applying Commitment to Churn and Remaining Players Lifetime Prediction.</title>
+<pages>1-8</pages>
+<year>2018</year>
+<booktitle>CIG</booktitle>
+<ee>https://doi.org/10.1109/CIG.2018.8490443</ee>
+<crossref>conf/cig/2018</crossref>
+<url>db/conf/cig/cig2018.html#KummerNP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/KummerNP18" mdate="2022-10-26">
+<author pid="201/5230">Luiz Bernardo Martins Kummer</author>
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<author pid="33/4345">Emerson Cabrera Paraiso</author>
+<title>Identifying Niche Stage in MMORPGs Using Ensemble Classifier.</title>
+<pages>288-293</pages>
+<year>2018</year>
+<booktitle>FLAIRS</booktitle>
+<ee type="archive">https://aaai.org/ocs/index.php/FLAIRS/FLAIRS18/paper/view/17596</ee>
+<crossref>conf/flairs/2018</crossref>
+<url>db/conf/flairs/flairs2018.html#KummerNP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hais/PedrozoNR18" mdate="2024-10-06">
+<author orcid="0000-0002-5343-3198" pid="220/9830">Wendel G&#243;es Pedrozo</author>
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<author pid="171/2914">Deborah Ribeiro Carvalho</author>
+<title>An Adaptive Approach for Index Tuning with Learning Classifier Systems on Hybrid Storage Environments.</title>
+<pages>716-729</pages>
+<year>2018</year>
+<booktitle>HAIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-92639-1_60</ee>
+<crossref>conf/hais/2018</crossref>
+<url>db/conf/hais/hais2018.html#PedrozoNR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccS/GiovaniniMN18" mdate="2020-02-23">
+<author pid="220/9867">Luiz H. F. Giovanini</author>
+<author pid="171/9440">Elisangela F. Manffra</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<title>Discriminating Postural Control Behaviors from Posturography with Statistical Tests and Machine Learning Models: Does Time Series Length Matter?</title>
+<pages>350-357</pages>
+<year>2018</year>
+<booktitle>ICCS (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93713-7_28</ee>
+<crossref>conf/iccS/2018-3</crossref>
+<url>db/conf/iccS/iccS2018-3.html#GiovaniniMN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/JuniorN18" mdate="2018-10-22">
+<author pid="227/2894">Norberto Ritzmann Junior</author>
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<title>A generalized financial time series forecasting model based on automatic feature engineering using genetic algorithms and support vector machine.</title>
+<pages>1-8</pages>
+<year>2018</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2018.8489034</ee>
+<crossref>conf/ijcnn/2018</crossref>
+<url>db/conf/ijcnn/ijcnn2018.html#JuniorN18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-06775" mdate="2018-10-05">
+<author pid="227/2894">Norberto Ritzmann Junior</author>
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<title>A generalized financial time series forecasting model based on automatic feature engineering using genetic algorithms and support vector machine.</title>
+<year>2018</year>
+<volume>abs/1809.06775</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.06775</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-06775</url>
+</article>
+</r>
+<r><inproceedings key="conf/ai/GarciaPN17" mdate="2023-09-28">
+<author pid="22/10002">Rodolfo Garcia</author>
+<author orcid="0000-0002-6740-7855" pid="33/4345">Emerson Cabrera Paraiso</author>
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<title>Comparative Study of Dimensionality Reduction Methods Using Reliable Features for Multiple Datasets Obtained by rs-fMRI in ADHD Prediction.</title>
+<pages>97-102</pages>
+<year>2017</year>
+<booktitle>Canadian AI</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-57351-9_13</ee>
+<crossref>conf/ai/2017</crossref>
+<url>db/conf/ai/ai2017.html#GarciaPN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/KummerNP17" mdate="2022-10-26">
+<author pid="201/5230">Luiz Kummer</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<author pid="33/4345">Emerson Cabrera Paraiso</author>
+<title>A Key Risk Indicator for the Game Usage Lifecycle.</title>
+<pages>394-399</pages>
+<year>2017</year>
+<booktitle>FLAIRS</booktitle>
+<ee type="oa">https://aaai.org/ocs/index.php/FLAIRS/FLAIRS17/paper/view/15464</ee>
+<crossref>conf/flairs/2017</crossref>
+<url>db/conf/flairs/flairs2017.html#KummerNP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccS/GiovaniniSMN17" mdate="2022-07-26">
+<author pid="325/0848">Luiz Henrique Franco Giovanini</author>
+<author pid="171/9186">Simone M. Silva</author>
+<author pid="171/9440">Elisangela F. Manffra</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<title>Sampling and Digital Filtering Effects When Recognizing Postural Control with Statistical Tools and the Decision Tree Classifier.</title>
+<pages>129-138</pages>
+<year>2017</year>
+<booktitle>ICCS</booktitle>
+<ee>https://doi.org/10.1016/j.procs.2017.05.117</ee>
+<crossref>conf/iccS/2017</crossref>
+<url>db/conf/iccS/iccS2017.html#GiovaniniSMN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictai/MeincheimGNS17" mdate="2023-03-24">
+<author pid="220/7264">Alex Meincheim</author>
+<author orcid="0000-0002-9037-4481" pid="220/7321">Cleiton dos Santos Garcia</author>
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<author pid="06/5416">Edson Em&#237;lio Scalabrin</author>
+<title>Combining Process Mining with Trace Clustering: Manufacturing Shop Floor Process - An Applied Case.</title>
+<pages>498-505</pages>
+<year>2017</year>
+<booktitle>ICTAI</booktitle>
+<ee>https://doi.org/10.1109/ICTAI.2017.00082</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICTAI.2017.00082</ee>
+<crossref>conf/ictai/2017</crossref>
+<url>db/conf/ictai/ictai2017.html#MeincheimGNS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/FigueredoPN16" mdate="2023-03-21">
+<author pid="20/4582">Marcus Vin&#237;cius Mazega Figueredo</author>
+<author orcid="0000-0002-6740-7855" pid="33/4345">Emerson Cabrera Paraiso</author>
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<title>A constructive algorithm for neural networks inspired on decision trees and evolutionary algorithms.</title>
+<pages>1120-1127</pages>
+<year>2016</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2016.7727323</ee>
+<crossref>conf/ijcnn/2016</crossref>
+<url>db/conf/ijcnn/ijcnn2016.html#FigueredoPN16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/CossetinNK16" mdate="2017-05-26">
+<author pid="189/4466">Marcelo J. Cossetin</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<author pid="37/4335">Alessandro L. Koerich</author>
+<title>Facial expression recognition using a pairwise feature selection and classification approach.</title>
+<pages>5149-5155</pages>
+<year>2016</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2016.7727879</ee>
+<crossref>conf/ijcnn/2016</crossref>
+<url>db/conf/ijcnn/ijcnn2016.html#CossetinNK16</url>
+</inproceedings>
+</r>
+<r><article key="journals/jifs/SchatzSAN15" mdate="2020-11-07">
+<author pid="167/1518">Cecilia H. Vallejos de Schatz</author>
+<author orcid="0000-0001-6916-1361" pid="87/8869">Fabio Kurt Schneider</author>
+<author orcid="0000-0002-5862-8808" pid="115/8387">Paulo Jos&#233; Abatti</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<title>Dynamic Fuzzy-Neural based tool formonitoring and predicting patients conditions using selected vital signs.</title>
+<pages>2579-2590</pages>
+<year>2015</year>
+<volume>28</volume>
+<journal>J. Intell. Fuzzy Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.3233/IFS-151537</ee>
+<url>db/journals/jifs/jifs28.html#SchatzSAN15</url>
+</article>
+</r>
+<r><inproceedings key="conf/bibe/NievolaPF15" mdate="2023-03-24">
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<author orcid="0000-0002-6740-7855" pid="33/4345">Emerson Cabrera Paraiso</author>
+<author orcid="0000-0001-9825-4700" pid="f/AlexAlvesFreitas">Alex Alves Freitas</author>
+<title>A hierarchical neural network for predicting protein functions.</title>
+<pages>1-5</pages>
+<year>2015</year>
+<booktitle>BIBE</booktitle>
+<ee>https://doi.org/10.1109/BIBE.2015.7367651</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BIBE.2015.7367651</ee>
+<ee>https://www.wikidata.org/entity/Q57597598</ee>
+<crossref>conf/bibe/2015</crossref>
+<url>db/conf/bibe/bibe2015.html#NievolaPF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dcai/RomaoN15" mdate="2020-10-25">
+<author orcid="0000-0002-1127-9858" pid="121/4369">Luiz Melo Rom&#227;o</author>
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<title>Hierarchical Multi-label Classification Problems: An LCS Approach.</title>
+<pages>97-104</pages>
+<year>2015</year>
+<booktitle>DCAI</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-19638-1_11</ee>
+<crossref>conf/dcai/2015</crossref>
+<url>db/conf/dcai/dcai2015.html#RomaoN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/embc/MarregaSMN15" mdate="2020-05-30">
+<author pid="160/6045">Luiz Henrique Giovanini Marrega</author>
+<author pid="171/9186">Simone M. Silva</author>
+<author pid="171/9440">Elisangela F. Manffra</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<title>Comparison between Decision Tree and Genetic Programming to distinguish healthy from stroke postural sway patterns.</title>
+<pages>6820-6823</pages>
+<year>2015</year>
+<booktitle>EMBC</booktitle>
+<ee>https://doi.org/10.1109/EMBC.2015.7319960</ee>
+<ee>https://www.wikidata.org/entity/Q62497254</ee>
+<crossref>conf/embc/2015</crossref>
+<url>db/conf/embc/embc2015.html#MarregaSMN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/FerreiraDNP15" mdate="2022-10-26">
+<author pid="162/7013">Lohann Ferreira</author>
+<author pid="162/7030">Mariza Dosciatti</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<author pid="33/4345">Emerson Cabrera Paraiso</author>
+<title>Using a Genetic Algorithm Approach to Study the Impact of Imbalanced Corpora in Sentiment Analysis.</title>
+<pages>163-168</pages>
+<year>2015</year>
+<booktitle>FLAIRS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS15/paper/view/10364</ee>
+<crossref>conf/flairs/2015</crossref>
+<url>db/conf/flairs/flairs2015.html#FerreiraDNP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/FerrandinENSA15" mdate="2022-10-02">
+<author orcid="0000-0002-4248-1207" pid="61/2542">Mauri Ferrandin</author>
+<author pid="90/6263">Fabr&#237;cio Enembreck</author>
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<author pid="06/5416">Edson Em&#237;lio Scalabrin</author>
+<author pid="22/5115">Br&#225;ulio Coelho &#193;vila</author>
+<title>A Centroid-based Approach for Hierarchical Classification.</title>
+<pages>25-33</pages>
+<year>2015</year>
+<booktitle>ICEIS (1)</booktitle>
+<ee>https://doi.org/10.5220/0005339000250033</ee>
+<crossref>conf/iceis/2015-1</crossref>
+<url>db/conf/iceis/iceis2015-1.html#FerrandinENSA15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fskd/MenezesN14" mdate="2017-05-25">
+<author pid="155/8396">Rafael Abud Menezes</author>
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<title>RCMDE-GMD: Predicting gene ontology terms using differential evolution.</title>
+<pages>518-524</pages>
+<year>2014</year>
+<booktitle>FSKD</booktitle>
+<ee>https://doi.org/10.1109/FSKD.2014.6980888</ee>
+<crossref>conf/fskd/2014</crossref>
+<url>db/conf/fskd/fskd2014.html#MenezesN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/MarregaN14" mdate="2023-03-24">
+<author pid="160/6045">Luiz Henrique Giovanini Marrega</author>
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<title>Evaluation of the Relevance of Linear and Nonlinear Posturographic Features in the Recognition of Healthy Subjects and Stroke Patients.</title>
+<pages>111-118</pages>
+<year>2014</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2014.127</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDMW.2014.127</ee>
+<crossref>conf/icdm/2014w</crossref>
+<url>db/conf/icdm/icdm2014w.html#MarregaN14</url>
+</inproceedings>
+</r>
+<r><article key="journals/cma/BorgesSN13" mdate="2023-11-12">
+<author orcid="0000-0002-9153-3819" pid="30/6077">Helyane Bronoski Borges</author>
+<author orcid="0000-0002-1603-9378" pid="38/3598">Carlos Nascimento Silla Jr.</author>
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<title>An evaluation of global-model hierarchical classification algorithms for hierarchical classification problems with single path of labels.</title>
+<pages>1991-2002</pages>
+<year>2013</year>
+<volume>66</volume>
+<journal>Comput. Math. Appl.</journal>
+<number>10</number>
+<ee type="oa">https://doi.org/10.1016/j.camwa.2013.06.027</ee>
+<url>db/journals/cma/cma66.html#BorgesSN13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cscwd/GaleteRNP13" mdate="2023-03-21">
+<author pid="133/4138">Lucas Galete</author>
+<author pid="85/7136">Milton Pires Ramos</author>
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<author orcid="0000-0002-6740-7855" pid="33/4345">Emerson Cabrera Paraiso</author>
+<title>Dynamically modeling users with MODUS-SD and Kohonen's map.</title>
+<pages>17-22</pages>
+<year>2013</year>
+<booktitle>CSCWD</booktitle>
+<ee>https://doi.org/10.1109/CSCWD.2013.6580933</ee>
+<crossref>conf/cscwd/2013</crossref>
+<url>db/conf/cscwd/cscwd2013.html#GaleteRNP13</url>
+</inproceedings>
+</r>
+<r><article key="journals/eswa/NizerN12" mdate="2017-05-26">
+<author pid="95/11480">P. S. M. Nizer</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<title>Predicting published news effect in the Brazilian stock market.</title>
+<pages>10674-10680</pages>
+<year>2012</year>
+<volume>39</volume>
+<journal>Expert Syst. Appl.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1016/j.eswa.2012.02.162</ee>
+<url>db/journals/eswa/eswa39.html#NizerN12</url>
+</article>
+</r>
+<r><article key="journals/eswa/BorgesN12" mdate="2023-11-12">
+<author orcid="0000-0002-9153-3819" pid="30/6077">Helyane Bronoski Borges</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<title>Comparing the dimensionality reduction methods in gene expression databases.</title>
+<pages>10780-10795</pages>
+<year>2012</year>
+<volume>39</volume>
+<journal>Expert Syst. Appl.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1016/j.eswa.2012.03.015</ee>
+<url>db/journals/eswa/eswa39.html#BorgesN12</url>
+</article>
+</r>
+<r><inproceedings key="conf/bibe/RomaoN12" mdate="2023-03-24">
+<author orcid="0000-0002-1127-9858" pid="121/4369">Luiz Melo Rom&#227;o</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<title>Predicting GPCR and enzymes function with a global approach based on LCS.</title>
+<pages>151-156</pages>
+<year>2012</year>
+<booktitle>BIBE</booktitle>
+<ee>https://doi.org/10.1109/BIBE.2012.6399665</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BIBE.2012.6399665</ee>
+<crossref>conf/bibe/2012</crossref>
+<url>db/conf/bibe/bibe2012.html#RomaoN12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iberamia/RomaoN12" mdate="2020-10-25">
+<author orcid="0000-0002-1127-9858" pid="121/4369">Luiz Melo Rom&#227;o</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<title>Hierarchical Classification of Gene Ontology with Learning Classifier Systems.</title>
+<pages>120-129</pages>
+<year>2012</year>
+<booktitle>IBERAMIA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-34654-5_13</ee>
+<crossref>conf/iberamia/2012</crossref>
+<url>db/conf/iberamia/iberamia2012.html#RomaoN12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icnc/BorgesN12" mdate="2023-11-12">
+<author orcid="0000-0002-9153-3819" pid="30/6077">Helyane Bronoski Borges</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<title>Hierarchical classification using a Competitive Neural Network.</title>
+<pages>172-177</pages>
+<year>2012</year>
+<booktitle>ICNC</booktitle>
+<ee>https://doi.org/10.1109/ICNC.2012.6234573</ee>
+<crossref>conf/icnc/2012</crossref>
+<url>db/conf/icnc/icnc2012.html#BorgesN12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/BorgesN12" mdate="2025-03-03">
+<author orcid="0000-0002-9153-3819" pid="30/6077">Helyane Bronoski Borges</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<title>Multi-Label Hierarchical Classification using a Competitive Neural Network for protein function prediction.</title>
+<pages>1-8</pages>
+<year>2012</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2012.6252736</ee>
+<crossref>conf/ijcnn/2012</crossref>
+<url>db/conf/ijcnn/ijcnn2012.html#BorgesN12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/MiguelPNP12" mdate="2021-10-14">
+<author pid="07/11528">Marcio L. F. Miguel</author>
+<author pid="13/5584">Manoel Camillo Penna</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<author orcid="0000-0001-6108-6272" pid="12/1494">Marcelo Eduardo Pellenz</author>
+<title>New models for long-term Internet traffic forecasting using artificial neural networks and flow based information.</title>
+<pages>1082-1088</pages>
+<year>2012</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2012.6212033</ee>
+<crossref>conf/noms/2012</crossref>
+<url>db/conf/noms/noms2012.html#MiguelPNP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cscwd/BozRSNP11" mdate="2023-03-21">
+<author pid="68/9936">G. Boz</author>
+<author pid="85/7136">Milton Pires Ramos</author>
+<author orcid="0000-0001-7786-9191" pid="68/1016">Gilson Yukio Sato</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<author orcid="0000-0002-6740-7855" pid="33/4345">Emerson Cabrera Paraiso</author>
+<title>Noctua: A tool for Knowledge Acquisition and Collaborative Knowledge Construction with a virtual catalyst.</title>
+<pages>222-229</pages>
+<year>2011</year>
+<booktitle>CSCWD</booktitle>
+<ee>https://doi.org/10.1109/CSCWD.2011.5960078</ee>
+<crossref>conf/cscwd/2011</crossref>
+<url>db/conf/cscwd/cscwd2011.html#BozRSNP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ideal/GarciaPN11" mdate="2023-03-21">
+<author pid="22/10002">Rodolfo Garcia</author>
+<author orcid="0000-0002-6740-7855" pid="33/4345">Emerson Cabrera Paraiso</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<title>Multiobjective Optimization of Indexes Obtained by Clustering for Feature Selection Methods Evaluation in Genes Expression Microarrays.</title>
+<pages>353-360</pages>
+<year>2011</year>
+<booktitle>IDEAL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-23878-9_42</ee>
+<crossref>conf/ideal/2011</crossref>
+<url>db/conf/ideal/ideal2011.html#GarciaPN11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/AraujoMN11" mdate="2023-03-23">
+<author pid="160/4621">Priscila Vriesman Araujo</author>
+<author pid="m/CarlosMaziero">Carlos Alberto Maziero</author>
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<title>Automatic Classification of Processes in a General-Purpose Operating System.</title>
+<pages>33-38</pages>
+<year>2011</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2011.33</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2011.33</ee>
+<crossref>conf/sbesc/2011</crossref>
+<url>db/conf/sbesc/sbesc2011.html#AraujoMN11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/BozRSTNP11" mdate="2011-12-09">
+<author pid="03/10588">Geraldo Boz Jr.</author>
+<author pid="85/7136">Milton Pires Ramos</author>
+<author pid="68/1016">Gilson Yukio Sato</author>
+<author pid="75/4008">Cesar Augusto Tacla</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<author pid="33/4345">Emerson Cabrera Paraiso</author>
+<title>A Virtual Catalyst in the Knowledge Acquisition Process.</title>
+<pages>149-152</pages>
+<year>2011</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2011</crossref>
+<url>db/conf/seke/seke2011.html#BozRSTNP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmla/BorgesN09" mdate="2025-03-03">
+<author orcid="0000-0002-9153-3819" pid="30/6077">Helyane Bronoski Borges</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<title>Dimensionality Reduction in Gene Expression Database through the Random Projection Method.</title>
+<pages>557-562</pages>
+<year>2009</year>
+<booktitle>ICMLA</booktitle>
+<ee>https://doi.org/10.1109/ICMLA.2009.84</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICMLA.2009.84</ee>
+<crossref>conf/icmla/2009</crossref>
+<url>db/conf/icmla/icmla2009.html#BorgesN09</url>
+</inproceedings>
+</r>
+<r><incollection key="series/sci/BorgesN09" mdate="2023-11-12">
+<author orcid="0000-0002-9153-3819" pid="30/6077">Helyane Bronoski Borges</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<title>Gene Selection from Microarray Data.</title>
+<pages>1-23</pages>
+<year>2009</year>
+<booktitle>Intelligent Text Categorization and Clustering</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85644-3_1</ee>
+<crossref>series/sci/2009-164</crossref>
+<url>db/series/sci/sci164.html#BorgesN09</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/cibcb/BassaniN08" mdate="2017-05-22">
+<author pid="60/1073">Thiago Bassani</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<title>Pattern recognition for brain-computer interface on disabled subjects using a wavelet transformation.</title>
+<pages>180-186</pages>
+<year>2008</year>
+<booktitle>CIBCB</booktitle>
+<ee>https://doi.org/10.1109/CIBCB.2008.4675776</ee>
+<crossref>conf/cibcb/2008</crossref>
+<url>db/conf/cibcb/cibcb2008.html#BassaniN08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/FariasN08" mdate="2017-05-26">
+<author pid="93/5973">Euclides Peres Farias</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<title>Comparative of data base evolution in rule association algorithms in incremental and conventional way.</title>
+<pages>3131-3137</pages>
+<year>2008</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2008.4634241</ee>
+<crossref>conf/ijcnn/2008</crossref>
+<url>db/conf/ijcnn/ijcnn2008.html#FariasN08</url>
+</inproceedings>
+</r>
+<r><incollection key="series/sci/FigueredoNRN08" mdate="2017-05-16">
+<author pid="20/4582">Marcus Vin&#237;cius Mazega Figueredo</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<author pid="35/1612">S&#233;rgio Renato Rogal</author>
+<author pid="40/4977">Alfredo Beckert Neto</author>
+<title>Compression of Electrocardiogram Using Neural Networks and Wavelets.</title>
+<pages>27-40</pages>
+<year>2008</year>
+<booktitle>Computer and Information Science</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-79187-4_3</ee>
+<crossref>series/sci/2008-131</crossref>
+<url>db/series/sci/sci131.html#FigueredoNRN08</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/ACISicis/BorgesN07" mdate="2025-03-03">
+<author orcid="0000-0002-9153-3819" pid="30/6077">Helyane Bronoski Borges</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<title>Gene-finding as an Attribute Selection Task.</title>
+<pages>537-542</pages>
+<year>2007</year>
+<crossref>conf/ACISicis/2007</crossref>
+<booktitle>ACIS-ICIS</booktitle>
+<ee>https://doi.org/10.1109/ICIS.2007.104</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICIS.2007.104</ee>
+<url>db/conf/ACISicis/ACISicis2007.html#BorgesN07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmla/SunagaNR07" mdate="2023-03-24">
+<author pid="81/7893">Daniele Yumi Sunaga</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<author pid="85/7136">Milton Pires Ramos</author>
+<title>Statistical and Biological Validation Methods in Cluster Analysis of Gene Expression.</title>
+<pages>494-499</pages>
+<year>2007</year>
+<booktitle>ICMLA</booktitle>
+<ee>https://doi.org/10.1109/ICMLA.2007.55</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICMLA.2007.55</ee>
+<crossref>conf/icmla/2007</crossref>
+<url>db/conf/icmla/icmla2007.html#SunagaNR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isda/BorgesN07" mdate="2023-03-23">
+<author pid="30/6077">Helyane Bronoski Borges</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<title>Feature Selection as a Preprocessing Step for Classification in Gene Expression Data.</title>
+<pages>157-162</pages>
+<year>2007</year>
+<booktitle>ISDA</booktitle>
+<ee>https://doi.org/10.1109/ISDA.2007.80</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISDA.2007.80</ee>
+<crossref>conf/isda/2007</crossref>
+<url>db/conf/isda/isda2007.html#BorgesN07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/FalqueteNK06" mdate="2023-01-17">
+<author pid="87/3304">Vera Lucia M. Falquete</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<author pid="53/5358">Celso A. A. Kaestner</author>
+<title>Automatic Inconsistency Treatment in Case-Based Reasoning Systems.</title>
+<pages>31-41</pages>
+<year>2006</year>
+<crossref>conf/sbbd/2006</crossref>
+<booktitle>SBBD</booktitle>
+<ee type="archive">http://www.lbd.dcc.ufmg.br:8080/colecoes/sbbd/2006/003.pdf</ee>
+<url>db/conf/sbbd/sbbd2006.html#FalqueteNK06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmla/NievolaB05" mdate="2025-03-03">
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<author orcid="0000-0002-9153-3819" pid="30/6077">Helyane Bronoski Borges</author>
+<title>Attribute selection methods comparison for classification of diffuse large B-cell lymphoma.</title>
+<year>2005</year>
+<booktitle>ICMLA</booktitle>
+<ee>https://doi.org/10.1109/ICMLA.2005.10</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICMLA.2005.10</ee>
+<crossref>conf/icmla/2005</crossref>
+<url>db/conf/icmla/icmla2005.html#NievolaB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurogp/OteroSFN03" mdate="2017-05-19">
+<author pid="45/4508">Fernando E. B. Otero</author>
+<author pid="95/4882">Monique M. S. Silva</author>
+<author pid="f/AlexAlvesFreitas">Alex Alves Freitas</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<title>Genetic Programming for Attribute Construction in Data Mining.</title>
+<pages>384-393</pages>
+<year>2003</year>
+<crossref>conf/eurogp/2003</crossref>
+<booktitle>EuroGP</booktitle>
+<ee>https://doi.org/10.1007/3-540-36599-0_36</ee>
+<url>db/conf/eurogp/eurogp2003.html#OteroSFN03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/KappFNS03" mdate="2023-03-24">
+<author orcid="0000-0002-0743-8641" pid="56/2514">Marcelo N. Kapp</author>
+<author pid="65/2242">Cinthia Obladen de Almendra Freitas</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<author pid="99/2787">Robert Sabourin</author>
+<title>Evaluating the Conventional and Class-Modular Architectures Feedforward Neural Network for Handwritten Word Recognition.</title>
+<pages>315-322</pages>
+<year>2003</year>
+<crossref>conf/sibgrapi/2003</crossref>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRA.2003.1241025</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRA.2003.1241025</ee>
+<url>db/conf/sibgrapi/sibgrapi2003.html#KappFNS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/LarsernFN02" mdate="2004-11-24">
+<author pid="60/475">Otavio Larsen</author>
+<author pid="f/AlexAlvesFreitas">Alex Alves Freitas</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<title>Constructing X-of-N Attributes with a Genetic Algorithm.</title>
+<pages>316-322</pages>
+<year>2002</year>
+<crossref>conf/gecco/2002late</crossref>
+<booktitle>GECCO Late Breaking Papers</booktitle>
+<url>db/conf/gecco/gecco2002late.html#LarsernFN02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/LarsenFN02" mdate="2003-03-24">
+<author pid="60/475">Otavio Larsen</author>
+<author pid="f/AlexAlvesFreitas">Alex Alves Freitas</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<title>Constructing X-of-n Attributes With A Genetic Algorithm.</title>
+<pages>1268</pages>
+<year>2002</year>
+<crossref>conf/gecco/2002</crossref>
+<booktitle>GECCO</booktitle>
+<url>db/conf/gecco/gecco2002.html#LarsenFN02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/MendesVFN01" mdate="2018-11-14">
+<author pid="61/4151">Roberto R. F. Mendes</author>
+<author pid="35/2962">Fabricio de B. Voznika</author>
+<author orcid="0000-0001-9825-4700" pid="f/AlexAlvesFreitas">Alex Alves Freitas</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<title>Discovering Fuzzy Classification Rules with Genetic Programming and Co-evolution.</title>
+<pages>314-325</pages>
+<year>2001</year>
+<crossref>conf/pkdd/2001</crossref>
+<booktitle>PKDD</booktitle>
+<ee>https://doi.org/10.1007/3-540-44794-6_26</ee>
+<ee>https://www.wikidata.org/entity/Q57597688</ee>
+<url>db/conf/pkdd/pkdd2001.html#MendesVFN01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/appinf/ParolinN99" mdate="2006-08-31">
+<author pid="67/636">Monika Koncke Fiuza Parolin</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<title>Tutor Based on Simulation for Trauma Medical Training in Pre-Hospital Care.</title>
+<pages>212-214</pages>
+<year>1999</year>
+<crossref>conf/appinf/1999</crossref>
+<booktitle>Applied Informatics</booktitle>
+<url>db/conf/appinf/appinf1999.html#ParolinN99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/CarvalhoCNKKBGB99" mdate="2017-02-02">
+<author pid="44/2843">Lucimar F. de Carvalho</author>
+<author pid="09/3872">Hugo J. T. de Carvalho</author>
+<author pid="62/6863">J&#250;lio C. Nievola</author>
+<author pid="53/5358">Celso A. A. Kaestner</author>
+<author pid="49/5142">Christiane Koehler</author>
+<author pid="87/3896">Charles T. Batezini</author>
+<author pid="35/4466">Raquele Z. Grazziotin</author>
+<author pid="80/977">Vin&#237;cius S. Borguetti</author>
+<title>Expert System Object-Oriented Combining Systematic and Heuristic Reasoning.</title>
+<pages>763</pages>
+<year>1999</year>
+<crossref>conf/iceis/1999</crossref>
+<booktitle>ICEIS</booktitle>
+<url>db/conf/iceis/iceis1999.html#CarvalhoCNKKBGB99</url>
+</inproceedings>
+</r>
+<coauthors n="73" nc="3">
+<co c="2"><na f="a/Abatti:Paulo_Jos=eacute=" pid="115/8387">Paulo Jos&#233; Abatti</na></co>
+<co c="0"><na f="a/Andrade:Luciano_de" pid="129/1256">Luciano de Andrade</na></co>
+<co c="0"><na f="a/Araujo:Priscila_Vriesman" pid="160/4621">Priscila Vriesman Araujo</na></co>
+<co c="0"><na f="=/=Aacute=vila:Br=aacute=ulio_Coelho" pid="22/5115">Br&#225;ulio Coelho &#193;vila</na></co>
+<co c="0"><na f="b/Barddal:Jean_Paul" pid="148/4305">Jean Paul Barddal</na></co>
+<co c="2"><na f="b/Bassani:Thiago" pid="60/1073">Thiago Bassani</na></co>
+<co c="0"><na f="b/Batezini:Charles_T=" pid="87/3896">Charles T. Batezini</na></co>
+<co c="0"><na f="b/Borges:Helyane_Bronoski" pid="30/6077">Helyane Bronoski Borges</na></co>
+<co c="0"><na f="b/Borguetti:Vin=iacute=cius_S=" pid="80/977">Vin&#237;cius S. Borguetti</na></co>
+<co c="0"><na f="b/Boz:G=" pid="68/9936">G. Boz</na></co>
+<co c="0"><na f="b/Boz_Jr=:Geraldo" pid="03/10588">Geraldo Boz Jr.</na></co>
+<co c="0" n="2"><na f="c/Carvalho:Deborah_Ribeiro_de" pid="171/2914">Deborah Ribeiro de Carvalho</na><na>Deborah Ribeiro Carvalho</na></co>
+<co c="0"><na f="c/Carvalho:Elias_Cesar_Araujo_De" pid="05/1079">Elias Cesar Araujo De Carvalho</na></co>
+<co c="0"><na f="c/Carvalho:Hugo_J=_T=_de" pid="09/3872">Hugo J. T. de Carvalho</na></co>
+<co c="0"><na f="c/Carvalho:Lucimar_F=_de" pid="44/2843">Lucimar F. de Carvalho</na></co>
+<co c="0"><na f="c/Cossetin:Marcelo_J=" pid="189/4466">Marcelo J. Cossetin</na></co>
+<co c="0"><na f="d/Dosciatti:Mariza" pid="162/7030">Mariza Dosciatti</na></co>
+<co c="0"><na f="e/Enembreck:Fabr=iacute=cio" pid="90/6263">Fabr&#237;cio Enembreck</na></co>
+<co c="0"><na f="f/Falquete:Vera_Lucia_M=" pid="87/3304">Vera Lucia M. Falquete</na></co>
+<co c="-1"><na f="f/Farias:Euclides_Peres" pid="93/5973">Euclides Peres Farias</na></co>
+<co c="0"><na f="f/Ferrandin:Mauri" pid="61/2542">Mauri Ferrandin</na></co>
+<co c="0"><na f="f/Ferreira:Lohann" pid="162/7013">Lohann Ferreira</na></co>
+<co c="0"><na f="f/Figueredo:Marcus_Vin=iacute=cius_Mazega" pid="20/4582">Marcus Vin&#237;cius Mazega Figueredo</na></co>
+<co c="0"><na f="f/Freitas:Alex_Alves" pid="f/AlexAlvesFreitas">Alex Alves Freitas</na></co>
+<co c="0"><na f="f/Freitas:Cinthia_Obladen_de_Almendra" pid="65/2242">Cinthia Obladen de Almendra Freitas</na></co>
+<co c="0"><na f="g/Galete:Lucas" pid="133/4138">Lucas Galete</na></co>
+<co c="0"><na f="g/Garcia:Cleiton_dos_Santos" pid="220/7321">Cleiton dos Santos Garcia</na></co>
+<co c="0"><na f="g/Garcia:Rodolfo" pid="22/10002">Rodolfo Garcia</na></co>
+<co c="1"><na f="g/Giovanini:Luiz_H=_F=" pid="220/9867">Luiz H. F. Giovanini</na></co>
+<co c="1"><na f="g/Giovanini:Luiz_Henrique_Franco" pid="325/0848">Luiz Henrique Franco Giovanini</na></co>
+<co c="0"><na f="g/Grazziotin:Raquele_Z=" pid="35/4466">Raquele Z. Grazziotin</na></co>
+<co c="0"><na f="i/Iida:Hiroyuki" pid="47/951">Hiroyuki Iida</na></co>
+<co c="-1"><na f="j/Junior:Norberto_Ritzmann" pid="227/2894">Norberto Ritzmann Junior</na></co>
+<co c="0"><na f="k/Kaestner:Celso_A=_A=" pid="53/5358">Celso A. A. Kaestner</na></co>
+<co c="0"><na f="k/Kapp:Marcelo_N=" pid="56/2514">Marcelo N. Kapp</na></co>
+<co c="0"><na f="k/Koehler:Christiane" pid="49/5142">Christiane Koehler</na></co>
+<co c="0"><na f="k/Koerich:Alessandro_L=" pid="37/4335">Alessandro L. Koerich</na></co>
+<co c="0" n="2"><na f="k/Kummer:Luiz_Bernardo_Martins" pid="201/5230">Luiz Bernardo Martins Kummer</na><na>Luiz Kummer</na></co>
+<co c="0"><na f="l/Larsen:Otavio" pid="60/475">Otavio Larsen</na></co>
+<co c="0"><na f="m/Machado:Wagner_de_Lara" pid="293/0974">Wagner de Lara Machado</na></co>
+<co c="1"><na f="m/Manffra:Elisangela_F=" pid="171/9440">Elisangela F. Manffra</na></co>
+<co c="1"><na f="m/Marrega:Luiz_Henrique_Giovanini" pid="160/6045">Luiz Henrique Giovanini Marrega</na></co>
+<co c="0" n="2"><na f="m/Maziero:Carlos" pid="m/CarlosMaziero">Carlos Maziero</na><na>Carlos Alberto Maziero</na></co>
+<co c="0"><na f="m/Meincheim:Alex" pid="220/7264">Alex Meincheim</na></co>
+<co c="0"><na f="m/Mendes:Roberto_R=_F=" pid="61/4151">Roberto R. F. Mendes</na></co>
+<co c="-1"><na f="m/Menezes:Rafael_Abud" pid="155/8396">Rafael Abud Menezes</na></co>
+<co c="0"><na f="m/Miguel:Marcio_L=_F=" pid="07/11528">Marcio L. F. Miguel</na></co>
+<co c="0"><na f="n/Neto:Alfredo_Beckert" pid="40/4977">Alfredo Beckert Neto</na></co>
+<co c="-1"><na f="n/Nizer:P=_S=_M=" pid="95/11480">P. S. M. Nizer</na></co>
+<co c="0"><na f="o/Otero:Fernando_E=_B=" pid="45/4508">Fernando E. B. Otero</na></co>
+<co c="0"><na f="p/Paraiso:Emerson_Cabrera" pid="33/4345">Emerson Cabrera Paraiso</na></co>
+<co c="-1"><na f="p/Parolin:Monika_Koncke_Fiuza" pid="67/636">Monika Koncke Fiuza Parolin</na></co>
+<co c="0"><na f="p/Pedrozo:Wendel_G=oacute=es" pid="220/9830">Wendel G&#243;es Pedrozo</na></co>
+<co c="0"><na f="p/Pellenz:Marcelo_Eduardo" pid="12/1494">Marcelo Eduardo Pellenz</na></co>
+<co c="0"><na f="p/Penna:Manoel_Camillo" pid="13/5584">Manoel Camillo Penna</na></co>
+<co c="0"><na f="r/Ramos:Milton_Pires" pid="85/7136">Milton Pires Ramos</na></co>
+<co c="0"><na f="r/Rogal:S=eacute=rgio_Renato" pid="35/1612">S&#233;rgio Renato Rogal</na></co>
+<co c="-1"><na f="r/Rom=atilde=o:Luiz_Melo" pid="121/4369">Luiz Melo Rom&#227;o</na></co>
+<co c="0"><na f="s/Sabourin:Robert" pid="99/2787">Robert Sabourin</na></co>
+<co c="0"><na f="s/Santos:Roger_Robson_dos" pid="261/8247">Roger Robson dos Santos</na></co>
+<co c="0"><na f="s/Sato:Gilson_Yukio" pid="68/1016">Gilson Yukio Sato</na></co>
+<co c="0"><na f="s/Scalabrin:Edson_Em=iacute=lio" pid="06/5416">Edson Em&#237;lio Scalabrin</na></co>
+<co c="2"><na f="s/Schatz:Cecilia_H=_Vallejos_de" pid="167/1518">Cecilia H. Vallejos de Schatz</na></co>
+<co c="0"><na f="s/Schmitke:Luiz_Rafael" pid="381/9390">Luiz Rafael Schmitke</na></co>
+<co c="2"><na f="s/Schneider:Fabio_Kurt" pid="87/8869">Fabio Kurt Schneider</na></co>
+<co c="0"><na f="s/Silla_Jr=:Carlos_Nascimento" pid="38/3598">Carlos Nascimento Silla Jr.</na></co>
+<co c="0"><na f="s/Silva:Monique_M=_S=" pid="95/4882">Monique M. S. Silva</na></co>
+<co c="1"><na f="s/Silva:Simone_M=" pid="171/9186">Simone M. Silva</na></co>
+<co c="0"><na f="s/Sunaga:Daniele_Yumi" pid="81/7893">Daniele Yumi Sunaga</na></co>
+<co c="0"><na f="t/Tacla:Cesar_Augusto" pid="75/4008">Cesar Augusto Tacla</na></co>
+<co c="0"><na f="t/Tieppo:Eduardo" pid="307/9199">Eduardo Tieppo</na></co>
+<co c="0"><na f="v/Vissoci:Joao_Ricardo_Nickenig" pid="129/1314">Joao Ricardo Nickenig Vissoci</na></co>
+<co c="0"><na f="v/Voznika:Fabricio_de_B=" pid="35/2962">Fabricio de B. Voznika</na></co>
+</coauthors>
+</dblpperson>
+

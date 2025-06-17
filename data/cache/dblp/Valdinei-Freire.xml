@@ -1,0 +1,933 @@
+<?xml version="1.0"?>
+<dblpperson name="Valdinei Freire" pid="18/527" n="59">
+<person key="homepages/18/527" mdate="2020-11-04">
+<author pid="18/527">Valdinei Freire</author>
+<author pid="18/527">Valdinei Freire da Silva</author>
+<author pid="18/527">Valdinei F. Silva</author>
+<author pid="18/527">Valdinei F. da Silva</author>
+<note type="affiliation">University of S&#227;o Paulo, Brazil</note>
+<url>https://orcid.org/0000-0003-0330-3931</url>
+</person>
+<r><article key="journals/cleiej/CrispinoFD24" mdate="2024-09-08">
+<author pid="341/7891">Gabriel Nunes Crispino</author>
+<author orcid="0000-0003-0330-3931" pid="18/527">Valdinei Freire</author>
+<author orcid="0000-0002-9120-8987" pid="30/6146">Karina Valdivia Delgado</author>
+<title>Monte Carlo Tree Search Algorithm for SSPs Under the GUBS Criterion.</title>
+<year>2024</year>
+<volume>27</volume>
+<journal>CLEI Electron. J.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.19153/cleiej.27.3.5</ee>
+<url>db/journals/cleiej/cleiej27.html#CrispinoFD24</url>
+<stream>streams/journals/cleiej</stream>
+</article>
+</r>
+<r><article key="journals/mta/SanchesJCOFSB24" mdate="2025-01-19">
+<author orcid="0000-0003-3635-7477" pid="14/1279">Silvio Ricardo Rodrigues Sanches</author>
+<author orcid="0009-0007-8802-1584" pid="381/2280">Elton Cust&#243;dio Junior</author>
+<author orcid="0000-0003-1065-9565" pid="23/2656">Cl&#233;ber Gimenez Corr&#234;a</author>
+<author orcid="0000-0003-2953-6223" pid="214/2344">Claiton de Oliveira</author>
+<author orcid="0000-0003-0330-3931" pid="18/527">Valdinei Freire</author>
+<author orcid="0000-0002-4870-4766" pid="129/2351">Priscila Tiemi Maeda Saito</author>
+<author orcid="0000-0001-9421-9254" pid="13/4202">Pedro Henrique Bugatti</author>
+<title>Automatic generation of difficulty maps for datasets using neural network.</title>
+<pages>66499-66516</pages>
+<year>2024</year>
+<month>July</month>
+<volume>83</volume>
+<journal>Multim. Tools Appl.</journal>
+<number>25</number>
+<ee>https://doi.org/10.1007/s11042-024-18271-3</ee>
+<ee>https://www.wikidata.org/entity/Q129424316</ee>
+<url>db/journals/mta/mta83.html#SanchesJCOFSB24</url>
+<stream>streams/journals/mta</stream>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/ReisDF24" mdate="2025-02-25">
+<author orcid="0000-0002-2621-7713" pid="234/0222">Willy Arthur Silva Reis</author>
+<author orcid="0000-0002-9120-8987" pid="30/6146">Karina Valdivia Delgado</author>
+<author orcid="0000-0003-0330-3931" pid="18/527">Valdinei Freire</author>
+<title>A Unified Framework for Average Reward Criterion and Risk.</title>
+<pages>96-110</pages>
+<year>2024</year>
+<booktitle>BRACIS (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-79029-4_7</ee>
+<crossref>conf/bracis/2024-1</crossref>
+<url>db/conf/bracis/bracis2024-1.html#ReisDF24</url>
+<stream>streams/conf/bracis</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/AlbarransF24" mdate="2025-02-25">
+<author pid="397/9639">Guilherme Albarrans</author>
+<author pid="18/527">Valdinei Freire</author>
+<title>Likelihood Estimator for Multi Model-Based Reinforcement Learning.</title>
+<pages>184-198</pages>
+<year>2024</year>
+<booktitle>BRACIS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-79032-4_13</ee>
+<crossref>conf/bracis/2024-2</crossref>
+<url>db/conf/bracis/bracis2024-2.html#AlbarransF24</url>
+<stream>streams/conf/bracis</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/PolarDF24" mdate="2025-02-25">
+<author orcid="0000-0001-6123-6496" pid="397/9829">Christian Delgado Polar</author>
+<author orcid="0000-0002-9120-8987" pid="30/6146">Karina Valdivia Delgado</author>
+<author orcid="0000-0003-0330-3931" pid="18/527">Valdinei Freire</author>
+<title>Reinforcement Learning with Utility-Based Semantic for Goals.</title>
+<pages>354-369</pages>
+<year>2024</year>
+<booktitle>BRACIS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-79032-4_25</ee>
+<crossref>conf/bracis/2024-2</crossref>
+<url>db/conf/bracis/bracis2024-2.html#PolarDF24</url>
+<stream>streams/conf/bracis</stream>
+</inproceedings>
+</r>
+<r><article key="journals/ai/CrispinoFD23" mdate="2023-03-11">
+<author orcid="0000-0002-7641-8492" pid="341/7891">Gabriel Nunes Crispino</author>
+<author pid="18/527">Valdinei Freire</author>
+<author pid="30/6146">Karina Valdivia Delgado</author>
+<title>GUBS criterion: Arbitrary trade-offs between cost and probability-to-goal in stochastic planning based on Expected Utility Theory.</title>
+<pages>103848</pages>
+<year>2023</year>
+<month>March</month>
+<volume>316</volume>
+<journal>Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.artint.2022.103848</ee>
+<url>db/journals/ai/ai316.html#CrispinoFD23</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/ReisPFD23" mdate="2023-05-23">
+<author pid="234/0222">Willy Arthur Silva Reis</author>
+<author pid="341/5544">Denis Benevolo Pais</author>
+<author pid="18/527">Valdinei Freire</author>
+<author pid="30/6146">Karina Valdivia Delgado</author>
+<title>Forward-PECVaR Algorithm: Exact Evaluation for CVaR SSPs.</title>
+<pages>2364-2366</pages>
+<year>2023</year>
+<booktitle>AAMAS</booktitle>
+<ee>https://dl.acm.org/doi/10.5555/3545946.3598935</ee>
+<crossref>conf/atal/2023</crossref>
+<url>db/conf/atal/aamas2023.html#ReisPFD23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/CrispinoFD23" mdate="2023-10-27">
+<author orcid="0000-0002-7641-8492" pid="341/7891">Gabriel Nunes Crispino</author>
+<author orcid="0000-0003-0330-3931" pid="18/527">Valdinei Freire</author>
+<author orcid="0000-0002-9120-8987" pid="30/6146">Karina Valdivia Delgado</author>
+<title>&#945;-MCMP: Trade-Offs Between Probability and Cost in SSPs with the MCMP Criterion.</title>
+<pages>112-127</pages>
+<year>2023</year>
+<booktitle>BRACIS (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-45368-7_8</ee>
+<crossref>conf/bracis/2023-1</crossref>
+<url>db/conf/bracis/bracis2023-1.html#CrispinoFD23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/SilvaPCF23" mdate="2023-11-09">
+<author orcid="0009-0003-0101-8704" pid="358/3014">Jo&#227;o da Silva</author>
+<author orcid="0000-0003-3551-6480" pid="69/171">Sarajane Marques Peres</author>
+<author orcid="0000-0003-4971-7355" pid="50/6986">Daniel Cordeiro</author>
+<author orcid="0000-0003-0330-3931" pid="18/527">Valdinei Freire</author>
+<title>Allocating Dynamic and Finite Resources to a Set of Known Tasks.</title>
+<pages>193-208</pages>
+<year>2023</year>
+<booktitle>BRACIS (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-45368-7_13</ee>
+<crossref>conf/bracis/2023-1</crossref>
+<url>db/conf/bracis/bracis2023-1.html#SilvaPCF23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-00672" mdate="2023-03-06">
+<author pid="234/0222">Willy Arthur Silva Reis</author>
+<author pid="341/5544">Denis Benevolo Pais</author>
+<author pid="18/527">Valdinei Freire</author>
+<author pid="30/6146">Karina Valdivia Delgado</author>
+<title>Forward-PECVaR Algorithm: Exact Evaluation for CVaR SSPs.</title>
+<year>2023</year>
+<volume>abs/2303.00672</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.00672</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-00672</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/NeubauerSFP22" mdate="2022-12-05">
+<author orcid="0000-0003-4806-0830" pid="277/7254">Thais Rodrigues Neubauer</author>
+<author orcid="0000-0003-0330-3931" pid="18/527">Valdinei Freire da Silva</author>
+<author orcid="0000-0001-6261-1497" pid="83/468">Marcelo Fantinato</author>
+<author orcid="0000-0003-3551-6480" pid="69/171">Sarajane Marques Peres</author>
+<title>Resource Allocation Optimization in Business Processes Supported by Reinforcement Learning and Process Mining.</title>
+<pages>580-595</pages>
+<year>2022</year>
+<booktitle>BRACIS (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-21686-2_40</ee>
+<crossref>conf/bracis/2022-1</crossref>
+<url>db/conf/bracis/bracis2022-1.html#NeubauerSFP22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccsa/GilavertF22" mdate="2022-07-25">
+<author orcid="0000-0001-8833-9209" pid="293/6401">Patricia Gilavert</author>
+<author orcid="0000-0003-0330-3931" pid="18/527">Valdinei Freire</author>
+<title>Computerized Adaptive Testing: A Unified Approach Under Markov Decision Process.</title>
+<pages>591-602</pages>
+<year>2022</year>
+<booktitle>ICCSA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-10522-7_40</ee>
+<crossref>conf/iccsa/2022-1</crossref>
+<url>db/conf/iccsa/iccsa2022-1.html#GilavertF22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2202-02398" mdate="2025-02-25">
+<author pid="305/0187">Andr&#233; F. A. Paschoal</author>
+<author pid="305/0290">Paulo Pirozelli</author>
+<author pid="18/527">Valdinei Freire</author>
+<author pid="30/6146">Karina Valdivia Delgado</author>
+<author pid="69/171">Sarajane M. Peres</author>
+<author pid="304/4620">Marcos M. Jos&#233;</author>
+<author pid="304/4656">Fl&#225;vio Nakasato Ca&#231;&#227;o</author>
+<author pid="275/8055">Andr&#233; Seidel Oliveira</author>
+<author pid="68/870">Anarosa A. F. Brand&#227;o</author>
+<author pid="r/AnnaHelenaRealiCosta">Anna H. R. Costa</author>
+<author pid="g/FabioGagliardiCozman">F&#225;bio G. Cozman</author>
+<title>Pir&#225;: A Bilingual Portuguese-English Dataset for Question-Answering about the Ocean.</title>
+<year>2022</year>
+<volume>abs/2202.02398</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2202.02398</ee>
+<url>db/journals/corr/corr2202.html#abs-2202-02398</url>
+</article>
+</r>
+<r><article key="journals/mta/SanchesSAF21" mdate="2021-01-26">
+<author orcid="0000-0003-3635-7477" pid="14/1279">Silvio Ricardo Rodrigues Sanches</author>
+<author pid="86/1502">Antonio Carlos Sementille</author>
+<author pid="156/1203">Ivan Abdo Aguilar</author>
+<author pid="18/527">Valdinei Freire</author>
+<title>Recommendations for evaluating the performance of background subtraction algorithms for surveillance systems.</title>
+<pages>4421-4454</pages>
+<year>2021</year>
+<volume>80</volume>
+<journal>Multim. Tools Appl.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11042-020-09838-x</ee>
+<url>db/journals/mta/mta80.html#SanchesSAF21</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/PaschoalPFDPJCO21" mdate="2025-02-25">
+<author pid="305/0187">Andr&#233; F. A. Paschoal</author>
+<author pid="305/0290">Paulo Pirozelli</author>
+<author pid="18/527">Valdinei Freire</author>
+<author pid="30/6146">Karina Valdivia Delgado</author>
+<author pid="69/171">Sarajane M. Peres</author>
+<author pid="304/4620">Marcos M. Jos&#233;</author>
+<author pid="304/4656">Fl&#225;vio Nakasato Ca&#231;&#227;o</author>
+<author orcid="0000-0001-6551-6911" pid="275/8055">Andr&#233; Seidel Oliveira</author>
+<author orcid="0000-0001-8992-4768" pid="68/870">Anarosa A. F. Brand&#227;o</author>
+<author pid="r/AnnaHelenaRealiCosta">Anna H. R. Costa</author>
+<author pid="g/FabioGagliardiCozman">F&#225;bio Gagliardi Cozman</author>
+<title>Pir&#225;: A Bilingual Portuguese-English Dataset for Question-Answering about the Ocean.</title>
+<pages>4544-4553</pages>
+<year>2021</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3459637.3482012</ee>
+<crossref>conf/cikm/2021</crossref>
+<url>db/conf/cikm/cikm2021.html#PaschoalPFDPJCO21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csedu/GilavertF21" mdate="2021-05-28">
+<author pid="293/6401">Patricia Gilavert</author>
+<author pid="18/527">Valdinei Freire</author>
+<title>Comprehensive Empirical Analysis of Stop Criteria in Computerized Adaptive Testing.</title>
+<pages>48-59</pages>
+<year>2021</year>
+<booktitle>CSEDU (1)</booktitle>
+<ee>https://doi.org/10.5220/0010500200480059</ee>
+<crossref>conf/csedu/2021-1</crossref>
+<url>db/conf/csedu/csedu2021-1.html#GilavertF21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccsa/KuoF21" mdate="2021-09-20">
+<author orcid="0000-0002-1001-9683" pid="301/6539">Isabella Kuo</author>
+<author orcid="0000-0003-0330-3931" pid="18/527">Valdinei Freire</author>
+<title>Probability-to-Goal and Expected Cost Trade-Off in Stochastic Shortest Path.</title>
+<pages>111-125</pages>
+<year>2021</year>
+<booktitle>ICCSA (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-86970-0_9</ee>
+<crossref>conf/iccsa/2021-3</crossref>
+<url>db/conf/iccsa/iccsa2021-3.html#KuoF21</url>
+</inproceedings>
+</r>
+<r><article key="journals/jbcs/JatobaFFRD20" mdate="2020-06-16">
+<author pid="266/0883">Victor M. G. Jatob&#225;</author>
+<author pid="266/1167">Jorge S. Farias</author>
+<author pid="18/527">Valdinei Freire</author>
+<author orcid="0000-0002-8530-5545" pid="72/9081">Andr&#233; Siqueira Ruela</author>
+<author pid="30/6146">Karina Valdivia Delgado</author>
+<title>ALICAT: a customized approach to item selection process in computerized adaptive testing.</title>
+<pages>4</pages>
+<year>2020</year>
+<volume>26</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s13173-020-00098-z</ee>
+<url>db/journals/jbcs/jbcs26.html#JatobaFFRD20</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/FernandezBMDF20" mdate="2020-10-21">
+<author pid="233/5342">Milton Condori Fernandez</author>
+<author pid="51/6275">Leliane N. de Barros</author>
+<author pid="53/10263">Denis Deratani Mau&#225;</author>
+<author pid="30/6146">Karina Valdivia Delgado</author>
+<author pid="18/527">Valdinei Freire</author>
+<title>Finding Feasible Policies for Extreme Risk-Averse Agents in Probabilistic Planning.</title>
+<pages>93-107</pages>
+<year>2020</year>
+<booktitle>BRACIS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-61380-8_7</ee>
+<crossref>conf/bracis/2020-2</crossref>
+<url>db/conf/bracis/bracis2020-2.html#FernandezBMDF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/FreitasFD20" mdate="2020-10-21">
+<author pid="276/7416">Elthon Manhas de Freitas</author>
+<author pid="18/527">Valdinei Freire</author>
+<author pid="30/6146">Karina Valdivia Delgado</author>
+<title>Risk Sensitive Stochastic Shortest Path and LogSumExp: From Theory to Practice.</title>
+<pages>123-139</pages>
+<year>2020</year>
+<booktitle>BRACIS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-61380-8_9</ee>
+<crossref>conf/bracis/2020-2</crossref>
+<url>db/conf/bracis/bracis2020-2.html#FreitasFD20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/FreitasPFB20" mdate="2020-10-06">
+<author pid="134/1006">Waldyr Lourenco de Freitas</author>
+<author pid="69/171">Sarajane M. Peres</author>
+<author pid="18/527">Valdinei Freire</author>
+<author pid="212/6686">Lucas Fernandes Brunialti</author>
+<title>OvNMTF Algorithm: an Overlapping Non-Negative Matrix Tri-Factorization for Coclustering.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN48605.2020.9207364</ee>
+<crossref>conf/ijcnn/2020</crossref>
+<url>db/conf/ijcnn/ijcnn2020.html#FreitasPFB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micai/NetoFD20" mdate="2020-10-20">
+<author orcid="0000-0002-3817-2065" pid="275/8376">Eduardo Lopes Pereira Neto</author>
+<author orcid="0000-0003-0330-3931" pid="18/527">Valdinei Freire</author>
+<author orcid="0000-0003-3835-3859" pid="30/6146">Karina Valdivia Delgado</author>
+<title>Risk Sensitive Markov Decision Process for Portfolio Management.</title>
+<pages>370-382</pages>
+<year>2020</year>
+<booktitle>MICAI (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-60884-2_27</ee>
+<crossref>conf/micai/2020-1</crossref>
+<url>db/conf/micai/micai2020-1.html#NetoFD20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micai/PastorBFDB20" mdate="2020-10-07">
+<author pid="275/8286">Henrique Dias Pastor</author>
+<author pid="275/8468">Igor Oliveira Borges</author>
+<author pid="18/527">Valdinei Freire</author>
+<author pid="30/6146">Karina Valdivia Delgado</author>
+<author pid="51/6275">Leliane Nunes de Barros</author>
+<title>Risk-Sensitive Piecewise-Linear Policy Iteration for Stochastic Shortest Path Markov Decision Processes.</title>
+<pages>383-395</pages>
+<year>2020</year>
+<booktitle>MICAI (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-60884-2_28</ee>
+<crossref>conf/micai/2020-1</crossref>
+<url>db/conf/micai/micai2020-1.html#PastorBFDB20</url>
+</inproceedings>
+</r>
+<r><article key="journals/apin/SanchesOSF19" mdate="2025-01-19">
+<author orcid="0000-0003-3635-7477" pid="14/1279">Silvio Ricardo Rodrigues Sanches</author>
+<author orcid="0000-0003-2953-6223" pid="214/2344">Claiton de Oliveira</author>
+<author orcid="0000-0002-4337-514X" pid="86/1502">Antonio Carlos Sementille</author>
+<author pid="18/527">Valdinei Freire</author>
+<title>Challenging situations for background subtraction algorithms.</title>
+<pages>1771-1784</pages>
+<year>2019</year>
+<volume>49</volume>
+<journal>Appl. Intell.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s10489-018-1346-4</ee>
+<ee>https://www.wikidata.org/entity/Q128875981</ee>
+<url>db/journals/apin/apin49.html#SanchesOSF19</url>
+</article>
+</r>
+<r><article key="journals/mta/SanchesSTNF19" mdate="2023-06-26">
+<author orcid="0000-0003-3635-7477" pid="14/1279">Silvio Ricardo Rodrigues Sanches</author>
+<author orcid="0000-0002-4337-514X" pid="86/1502">Antonio Carlos Sementille</author>
+<author orcid="0000-0001-9381-9565" pid="31/1696">Romero Tori</author>
+<author pid="36/7556">Luiz Ricardo Nakamura</author>
+<author pid="18/527">Valdinei Freire</author>
+<title>PAD: a perceptual application-dependent metric for quality assessment of segmentation algorithms.</title>
+<pages>32393-32417</pages>
+<year>2019</year>
+<volume>78</volume>
+<journal>Multim. Tools Appl.</journal>
+<number>22</number>
+<ee>https://doi.org/10.1007/s11042-019-07958-7</ee>
+<url>db/journals/mta/mta78.html#SanchesSTNF19</url>
+</article>
+</r>
+<r><inproceedings key="conf/aips/FreireDR19" mdate="2022-03-07">
+<author pid="18/527">Valdinei Freire</author>
+<author pid="30/6146">Karina Valdivia Delgado</author>
+<author pid="234/0222">Willy Arthur Silva Reis</author>
+<title>An Exact Algorithm to Make a Trade-Off between Cost and Probability in SSPs.</title>
+<pages>146-154</pages>
+<year>2019</year>
+<booktitle>ICAPS</booktitle>
+<ee type="oa">https://ojs.aaai.org/index.php/ICAPS/article/view/3470</ee>
+<crossref>conf/aips/2019</crossref>
+<url>db/conf/aips/icaps2019.html#FreireDR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/AlvesDS18" mdate="2019-01-09">
+<author pid="232/9135">Pedro Yuri A. L. Alves</author>
+<author pid="30/6146">Karina Valdivia Delgado</author>
+<author pid="18/527">Valdinei Freire da Silva</author>
+<title>Inventory Routing Problem with Time Windows: A systematic review of the literature.</title>
+<pages>28:1-28:8</pages>
+<year>2018</year>
+<booktitle>SBSI</booktitle>
+<ee>https://doi.org/10.1145/3229345.3229376</ee>
+<crossref>conf/sbsi/2018</crossref>
+<url>db/conf/sbsi/sbsi2018.html#AlvesDS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/AlvesDFS18" mdate="2019-01-09">
+<author pid="232/9135">Pedro Yuri A. L. Alves</author>
+<author pid="30/6146">Karina Valdivia Delgado</author>
+<author pid="232/9082">Alexandre da Silva Freire</author>
+<author pid="18/527">Valdinei Freire da Silva</author>
+<title>System to Solve the Inventory Routing Problem with Stochastic Demand and Time Window.</title>
+<pages>29:1-29:8</pages>
+<year>2018</year>
+<booktitle>SBSI</booktitle>
+<ee>https://doi.org/10.1145/3229345.3229377</ee>
+<crossref>conf/sbsi/2018</crossref>
+<url>db/conf/sbsi/sbsi2018.html#AlvesDFS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/FreireD17" mdate="2017-05-11">
+<author pid="18/527">Valdinei Freire</author>
+<author pid="30/6146">Karina Valdivia Delgado</author>
+<title>GUBS: a Utility-Based Semantic for Goal-Directed Markov Decision Processes.</title>
+<pages>741-749</pages>
+<year>2017</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3091231</ee>
+<crossref>conf/atal/2017</crossref>
+<url>db/conf/atal/aamas2017.html#FreireD17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/SilvaF17" mdate="2023-03-24">
+<author pid="212/6649">Cleiton Alves da Silva</author>
+<author pid="18/527">Valdinei Freire</author>
+<title>Learning-Process Evaluation to Select Spatial Abstractions in Reinforcement Learning.</title>
+<pages>145-150</pages>
+<year>2017</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2017.83</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2017.83</ee>
+<crossref>conf/bracis/2017</crossref>
+<url>db/conf/bracis/bracis2017.html#SilvaF17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/BrunialtiPSL17" mdate="2023-03-24">
+<author pid="212/6686">Lucas Fernandes Brunialti</author>
+<author orcid="0000-0003-3551-6480" pid="69/171">Sarajane Marques Peres</author>
+<author pid="18/527">Valdinei Freire da Silva</author>
+<author pid="34/4377">Clodoaldo Aparecido de Moraes Lima</author>
+<title>The BinOvNMTF Algorithm: Overlapping Columns Co-clustering Based on Non-negative Matrix Tri-factorization.</title>
+<pages>330-335</pages>
+<year>2017</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2017.80</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2017.80</ee>
+<crossref>conf/bracis/2017</crossref>
+<url>db/conf/bracis/bracis2017.html#BrunialtiPSL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/FreitasDS17" mdate="2022-01-27">
+<author pid="276/7416">Elthon Manhas de Freitas</author>
+<author pid="30/6146">Karina Valdivia Delgado</author>
+<author pid="18/527">Valdinei F. Silva</author>
+<title>Processos de decis&#227;o de Markov com sensibilidade a risco com fun&#231;&#227;o de utilidade exponencial: Uma revis&#227;o sistem&#225;tica da literatura.</title>
+<pages>214-221</pages>
+<year>2017</year>
+<booktitle>SBSI</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbsi.2017.6045</ee>
+<crossref>conf/sbsi/2017</crossref>
+<url>db/conf/sbsi/sbsi2017.html#FreitasDS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/AlvesDFS17" mdate="2022-01-27">
+<author pid="232/9135">Pedro Yuri A. L. Alves</author>
+<author pid="30/6146">Karina Valdivia Delgado</author>
+<author pid="232/9082">Alexandre da Silva Freire</author>
+<author pid="18/527">Valdinei F. Silva</author>
+<title>Sistema para Resolver o Problema de Roteamento e Invent&#225;rio com Demanda Estoc&#225;stica: Comparando Diferentes Heur&#237;sticas na Relaxa&#231;&#227;o Lagrangeana.</title>
+<pages>555-562</pages>
+<year>2017</year>
+<booktitle>SBSI</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbsi.2017.6087</ee>
+<crossref>conf/sbsi/2017</crossref>
+<url>db/conf/sbsi/sbsi2017.html#AlvesDFS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/FreireD16" mdate="2023-03-24">
+<author pid="18/527">Valdinei Freire</author>
+<author orcid="0000-0003-3835-3859" pid="30/6146">Karina Valdivia Delgado</author>
+<title>Extreme Risk Averse Policy for Goal-Directed Risk-Sensitive Markov Decision Process.</title>
+<pages>79-84</pages>
+<year>2016</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2016.025</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2016.025</ee>
+<ee>https://www.wikidata.org/entity/Q62047353</ee>
+<crossref>conf/bracis/2016</crossref>
+<url>db/conf/bracis/bracis2016.html#FreireD16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/Freire16" mdate="2023-03-24">
+<author pid="18/527">Valdinei Freire</author>
+<title>The Role of Discount Factor in Risk Sensitive Markov Decision Processes.</title>
+<pages>480-485</pages>
+<year>2016</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2016.092</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2016.092</ee>
+<crossref>conf/bracis/2016</crossref>
+<url>db/conf/bracis/bracis2016.html#Freire16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hci/RibeiroBRAOSDCS16" mdate="2021-07-12">
+<author pid="23/11377">Danilo Ribeiro</author>
+<author pid="26/7996">Jo&#227;o Luiz Bernardes</author>
+<author orcid="0000-0002-0563-2045" pid="26/6065">Norton Trevisan Roman</author>
+<author pid="182/3344">Marcelo M. Antunes</author>
+<author pid="182/3266">Enrique M. Ortega</author>
+<author pid="182/5065">Antonio W. Sousa</author>
+<author orcid="0000-0003-4890-1548" pid="09/6587">Luciano A. Digiampietri</author>
+<author pid="125/1900">Lu&#237;s M. del Val Cura</author>
+<author pid="18/527">Valdinei F. Silva</author>
+<author pid="34/4377">Clodoaldo Ap. M. Lima</author>
+<title>Analysis of Choreographed Human Movements Using Depth Cameras: A Systematic Review.</title>
+<pages>82-92</pages>
+<year>2016</year>
+<booktitle>HCI (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-39516-6_8</ee>
+<crossref>conf/hci/2016-2</crossref>
+<url>db/conf/hci/hci2016-2.html#RibeiroBRAOSDCS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hci/MabialaSRBAODCS16" mdate="2021-04-21">
+<author pid="182/5005">Ant&#243;nio C. Mabiala</author>
+<author pid="182/5065">Antonio W. Sousa</author>
+<author orcid="0000-0002-0563-2045" pid="26/6065">Norton Trevisan Roman</author>
+<author pid="26/7996">Jo&#227;o Luiz Bernardes Jr.</author>
+<author pid="182/3344">Marcelo M. Antunes</author>
+<author pid="182/3266">Enrique M. Ortega</author>
+<author orcid="0000-0003-4890-1548" pid="09/6587">Luciano A. Digiampietri</author>
+<author pid="125/1900">Lu&#237;s M. del Val Cura</author>
+<author pid="18/527">Valdinei F. da Silva</author>
+<author pid="34/4377">Clodoaldo Ap. M. Lima</author>
+<title>Introducing a Language for Human Stance Description.</title>
+<pages>179-190</pages>
+<year>2016</year>
+<booktitle>HCI (15)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-40247-5_19</ee>
+<crossref>conf/hci/2016-15</crossref>
+<url>db/conf/hci/hci2016-15.html#MabialaSRBAODCS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hci/PradoRSBDOLCA16" mdate="2021-04-21">
+<author pid="182/3290">Kelvin S. Prado</author>
+<author orcid="0000-0002-0563-2045" pid="26/6065">Norton Trevisan Roman</author>
+<author pid="18/527">Valdinei F. Silva</author>
+<author pid="26/7996">Jo&#227;o Luiz Bernardes Jr.</author>
+<author orcid="0000-0003-4890-1548" pid="09/6587">Luciano A. Digiampietri</author>
+<author pid="182/3266">Enrique M. Ortega</author>
+<author pid="34/4377">Clodoaldo Ap. M. Lima</author>
+<author pid="125/1900">Lu&#237;s M. del Val Cura</author>
+<author pid="182/3344">Marcelo M. Antunes</author>
+<title>Automatic Facial Recognition: A Systematic Review on the Problem of Light Variation.</title>
+<pages>211-221</pages>
+<year>2016</year>
+<booktitle>HCI (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-39516-6_20</ee>
+<crossref>conf/hci/2016-2</crossref>
+<url>db/conf/hci/hci2016-2.html#PradoRSBDOLCA16</url>
+</inproceedings>
+</r>
+<r><article key="journals/jbcs/SilvaTCC15" mdate="2021-10-14">
+<author pid="18/527">Valdinei Freire da Silva</author>
+<author pid="147/3716">Flavio Sales Truzzi</author>
+<author orcid="0000-0001-7309-4528" pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</author>
+<author orcid="0000-0003-4077-4935" pid="g/FabioGagliardiCozman">F&#225;bio Gagliardi Cozman</author>
+<title>Evaluation of linear relaxations in Ad Network optimization for online marketing.</title>
+<pages>13:1-13:13</pages>
+<year>2015</year>
+<volume>21</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s13173-015-0029-9</ee>
+<ee>https://www.wikidata.org/entity/Q59430598</ee>
+<url>db/journals/jbcs/jbcs21.html#SilvaTCC15</url>
+</article>
+</r>
+<r><article key="journals/tcyb/KogaFC15" mdate="2020-05-22">
+<author pid="131/5312">Marcelo Li Koga</author>
+<author pid="18/527">Valdinei Freire da Silva</author>
+<author orcid="0000-0001-7309-4528" pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</author>
+<title>Stochastic Abstract Policies: Generalizing Knowledge to Improve Reinforcement Learning.</title>
+<pages>77-88</pages>
+<year>2015</year>
+<volume>45</volume>
+<journal>IEEE Trans. Cybern.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCYB.2014.2319733</ee>
+<ee>https://www.wikidata.org/entity/Q35169926</ee>
+<url>db/journals/tcyb/tcyb45.html#KogaFC15</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/SilvaC15" mdate="2023-09-04">
+<author pid="18/527">Valdinei Freire da Silva</author>
+<author pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</author>
+<title>Comparative Analysis of Abstract Policies to Transfer Learning in Robotics Navigation.</title>
+<year>2015</year>
+<booktitle>AAAI Workshop: Knowledge, Skill, and Behavior Transfer in Autonomous Robots</booktitle>
+<ee type="archive">http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10158</ee>
+<crossref>conf/aaai/2015robot</crossref>
+<url>db/conf/aaai/robot2015.html#SilvaC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/BrunialtiPFL15" mdate="2022-05-04">
+<author pid="212/6686">Lucas Fernandes Brunialti</author>
+<author pid="69/171">Sarajane Marques Peres</author>
+<author pid="18/527">Valdinei Freire</author>
+<author pid="34/4377">Clodoaldo Ap. M. Lima</author>
+<title>Aprendizado de M&#225;quina em Sistemas de Recomenda&#231;&#227;o Baseados em Conte&#250;do Textual: Uma Revis&#227;o Sistem&#225;tica [Machine Learning in Textual Content-Based Recommendation Systems: A Systematic Review].</title>
+<pages>203-210</pages>
+<year>2015</year>
+<booktitle>SBSI</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbsi.2015.5818</ee>
+<ee>https://dl.acm.org/doi/10.5555/2814058.2814092</ee>
+<crossref>conf/sbsi/2015</crossref>
+<url>db/conf/sbsi/sbsi2015.html#BrunialtiPFL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/svr/SalioniSSGS15" mdate="2023-03-24">
+<author pid="170/1348">Danilo Vitori Salioni</author>
+<author pid="14/1279">Silvio Ricardo Rodrigues Sanches</author>
+<author pid="18/527">Valdinei F. Silva</author>
+<author pid="156/1164">Tiago De Gaspari</author>
+<author orcid="0000-0002-4337-514X" pid="86/1502">Antonio Carlos Sementille</author>
+<title>Segmentation Quality for Augmented Reality: An Objective Metric.</title>
+<pages>212-219</pages>
+<year>2015</year>
+<booktitle>SVR</booktitle>
+<ee>https://doi.org/10.1109/SVR.2015.38</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SVR.2015.38</ee>
+<crossref>conf/svr/2015</crossref>
+<url>db/conf/svr/svr2015.html#SalioniSSGS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/KogaSCC13" mdate="2015-03-06">
+<author pid="131/5312">Marcelo Li Koga</author>
+<author pid="18/527">Valdinei Freire da Silva</author>
+<author pid="g/FabioGagliardiCozman">F&#225;bio Gagliardi Cozman</author>
+<author pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</author>
+<title>Speeding-up reinforcement learning through abstraction and transfer learning.</title>
+<pages>119-126</pages>
+<year>2013</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2484942</ee>
+<crossref>conf/atal/2013</crossref>
+<url>db/conf/atal/aamas2013.html#KogaSCC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/TruzziSCC13" mdate="2023-03-24">
+<author pid="147/3716">Flavio Sales Truzzi</author>
+<author pid="18/527">Valdinei Freire da Silva</author>
+<author orcid="0000-0001-7309-4528" pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</author>
+<author orcid="0000-0003-4077-4935" pid="g/FabioGagliardiCozman">F&#225;bio Gagliardi Cozman</author>
+<title>Ad Network Optimization: Evaluating Linear Relaxations.</title>
+<pages>219-224</pages>
+<year>2013</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2013.44</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2013.44</ee>
+<crossref>conf/bracis/2013</crossref>
+<url>db/conf/bracis/bracis2013.html#TruzziSCC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/SanchesSNT13" mdate="2023-03-24">
+<author pid="14/1279">Silvio Ricardo Rodrigues Sanches</author>
+<author pid="18/527">Valdinei F. Silva</author>
+<author pid="36/7556">Luiz Ricardo Nakamura</author>
+<author orcid="0000-0001-9381-9565" pid="31/1696">Romero Tori</author>
+<title>Objective assessment of video segmentation quality for augmented reality.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2013.6607476</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICME.2013.6607476</ee>
+<crossref>conf/icmcs/2013</crossref>
+<url>db/conf/icmcs/icme2013.html#SanchesSNT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robocup/SilvaKCC13" mdate="2021-10-14">
+<author pid="18/527">Valdinei Freire da Silva</author>
+<author pid="131/5312">Marcelo Li Koga</author>
+<author orcid="0000-0003-4077-4935" pid="g/FabioGagliardiCozman">F&#225;bio Gagliardi Cozman</author>
+<author orcid="0000-0001-7309-4528" pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</author>
+<title>Reusing Risk-Aware Stochastic Abstract Policies in Robotic Navigation Learning.</title>
+<pages>256-267</pages>
+<year>2013</year>
+<booktitle>RoboCup</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-44468-9_23</ee>
+<crossref>conf/robocup/2013</crossref>
+<url>db/conf/robocup/robocup2013.html#SilvaKCC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccsa/SanchesST12" mdate="2018-11-02">
+<author pid="14/1279">Silvio Ricardo Rodrigues Sanches</author>
+<author pid="18/527">Valdinei Freire da Silva</author>
+<author orcid="0000-0001-9381-9565" pid="31/1696">Romero Tori</author>
+<title>Bilayer Segmentation Augmented with Future Evidence.</title>
+<pages>699-711</pages>
+<year>2012</year>
+<booktitle>ICCSA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31075-1_52</ee>
+<crossref>conf/iccsa/2012-2</crossref>
+<url>db/conf/iccsa/iccsa2012-2.html#SanchesST12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipmu/SilvaPC12" mdate="2021-10-14">
+<author pid="18/527">Valdinei Freire da Silva</author>
+<author pid="117/9826">Fernando A. Pereira</author>
+<author orcid="0000-0001-7309-4528" pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</author>
+<title>Finding Memoryless Probabilistic Relational Policies for Inter-task Reuse.</title>
+<pages>107-116</pages>
+<year>2012</year>
+<booktitle>IPMU (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31715-6_13</ee>
+<crossref>conf/ipmu/2012-2</crossref>
+<url>db/conf/ipmu/ipmu2012-2.html#SilvaPC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micai/MinamiS12" mdate="2017-05-24">
+<author pid="128/1871">Renato Minami</author>
+<author pid="18/527">Valdinei Freire da Silva</author>
+<title>Shortest Stochastic Path with Risk Sensitive Evaluation.</title>
+<pages>371-382</pages>
+<year>2012</year>
+<booktitle>MICAI (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-37807-2_32</ee>
+<crossref>conf/micai/2012-1</crossref>
+<url>db/conf/micai/micai2012-1.html#MinamiS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micai/BogdanS12" mdate="2017-05-24">
+<author pid="128/1928">Karina Olga Maizman Bogdan</author>
+<author pid="18/527">Valdinei Freire da Silva</author>
+<title>Forward and Backward Feature Selection in Gradient-Based MDP Algorithms.</title>
+<pages>383-394</pages>
+<year>2012</year>
+<booktitle>MICAI (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-37807-2_33</ee>
+<crossref>conf/micai/2012-1</crossref>
+<url>db/conf/micai/micai2012-1.html#BogdanS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/svr/SanchesTST12" mdate="2023-03-24">
+<author pid="14/1279">Silvio Ricardo Rodrigues Sanches</author>
+<author pid="20/7557">Daniel Makoto Tokunaga</author>
+<author pid="18/527">Valdinei F. Silva</author>
+<author orcid="0000-0001-9381-9565" pid="31/1696">Romero Tori</author>
+<title>Subjective Video Quality Assessment in Segmentation for Augmented Reality Applications.</title>
+<pages>46-55</pages>
+<year>2012</year>
+<booktitle>SVR</booktitle>
+<ee>https://doi.org/10.1109/SVR.2012.2</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SVR.2012.2</ee>
+<crossref>conf/svr/2012</crossref>
+<url>db/conf/svr/svr2012.html#SanchesTST12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wacv/SanchesTSST12" mdate="2023-03-24">
+<author pid="14/1279">Silvio Ricardo Rodrigues Sanches</author>
+<author pid="20/7557">Daniel Makoto Tokunaga</author>
+<author pid="18/527">Valdinei F. Silva</author>
+<author orcid="0000-0002-4337-514X" pid="86/1502">Antonio Carlos Sementille</author>
+<author orcid="0000-0001-9381-9565" pid="31/1696">Romero Tori</author>
+<title>Mutual occlusion between real and virtual elements in Augmented Reality based on fiducial markers.</title>
+<pages>49-54</pages>
+<year>2012</year>
+<booktitle>WACV</booktitle>
+<ee>https://doi.org/10.1109/WACV.2012.6163037</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WACV.2012.6163037</ee>
+<crossref>conf/wacv/2012</crossref>
+<url>db/conf/wacv/wacv2012.html#SanchesTSST12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micai/MatosBSC11" mdate="2021-10-14">
+<author pid="94/10505">Tiago Matos</author>
+<author pid="77/10505">Yannick Plaino Bergamo</author>
+<author pid="18/527">Valdinei Freire da Silva</author>
+<author orcid="0000-0001-7309-4528" pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</author>
+<title>Stochastic Abstract Policies for Knowledge Transfer in Robotic Navigation Tasks.</title>
+<pages>454-465</pages>
+<year>2011</year>
+<booktitle>MICAI (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-25324-9_39</ee>
+<crossref>conf/micai/2011-1</crossref>
+<url>db/conf/micai/micai2011-1.html#MatosBSC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/SilvaC11" mdate="2021-10-14">
+<author pid="18/527">Valdinei Freire da Silva</author>
+<author orcid="0000-0001-7309-4528" pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</author>
+<title>A Geometric Approach to Find Nondominated Policies to Imprecise Reward MDPs.</title>
+<pages>439-454</pages>
+<year>2011</year>
+<booktitle>ECML/PKDD (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-23780-5_38</ee>
+<crossref>conf/pkdd/2011-1</crossref>
+<url>db/conf/pkdd/pkdd2011-1.html#SilvaC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sara/MatosBSCC11" mdate="2022-03-08">
+<author pid="94/10505">Tiago Matos</author>
+<author pid="77/10505">Yannick Plaino Bergamo</author>
+<author pid="18/527">Valdinei Freire da Silva</author>
+<author pid="g/FabioGagliardiCozman">F&#225;bio Gagliardi Cozman</author>
+<author pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</author>
+<title>Simultaneous Abstract and Concrete Reinforcement Learning.</title>
+<year>2011</year>
+<booktitle>SARA</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/SARA/SARA11/paper/view/4247</ee>
+<crossref>conf/sara/2011</crossref>
+<url>db/conf/sara/sara2011.html#MatosBSCC11</url>
+</inproceedings>
+</r>
+<r><article key="journals/jbcs/SilvaC09" mdate="2022-06-13">
+<author pid="18/527">Valdinei Freire da Silva</author>
+<author orcid="0000-0001-7309-4528" pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</author>
+<title>Compulsory Flow Q-Learning: an RL algorithm for robot navigation based on partial-policy and macro-states.</title>
+<pages>65-75</pages>
+<year>2009</year>
+<volume>15</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/BF03194507</ee>
+<url>db/journals/jbcs/jbcs15.html#SilvaC09</url>
+</article>
+</r>
+<r><inproceedings key="conf/iros/SilvaLC07" mdate="2021-10-14">
+<author pid="18/527">Valdinei Freire da Silva</author>
+<author orcid="0000-0002-8962-8050" pid="24/2178">Pedro U. Lima</author>
+<author orcid="0000-0001-7309-4528" pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</author>
+<title>Eliciting preferences over observed behaviours based on relative evaluations.</title>
+<pages>423-428</pages>
+<year>2007</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2007.4399403</ee>
+<crossref>conf/iros/2007</crossref>
+<url>db/conf/iros/iros2007.html#SilvaLC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/SilvaCL06" mdate="2021-10-14">
+<author pid="18/527">Valdinei Freire da Silva</author>
+<author orcid="0000-0001-7309-4528" pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</author>
+<author orcid="0000-0002-8962-8050" pid="24/2178">Pedro U. Lima</author>
+<title>Inverse Reinforcement Learning with Evaluation.</title>
+<pages>4246-4251</pages>
+<year>2006</year>
+<crossref>conf/icra/2006</crossref>
+<booktitle>ICRA</booktitle>
+<url>db/conf/icra/icra2006.html#SilvaCL06</url>
+<ee>https://doi.org/10.1109/ROBOT.2006.1642355</ee>
+</inproceedings>
+</r>
+<coauthors n="68" nc="1">
+<co c="0"><na f="a/Aguilar:Ivan_Abdo" pid="156/1203">Ivan Abdo Aguilar</na></co>
+<co c="-1"><na f="a/Albarrans:Guilherme" pid="397/9639">Guilherme Albarrans</na></co>
+<co c="0"><na f="a/Alves:Pedro_Yuri_A=_L=" pid="232/9135">Pedro Yuri A. L. Alves</na></co>
+<co c="0"><na f="a/Antunes:Marcelo_M=" pid="182/3344">Marcelo M. Antunes</na></co>
+<co c="0" n="2"><na f="b/Barros:Leliane_Nunes_de" pid="51/6275">Leliane Nunes de Barros</na><na>Leliane N. de Barros</na></co>
+<co c="0"><na f="b/Bergamo:Yannick_Plaino" pid="77/10505">Yannick Plaino Bergamo</na></co>
+<co c="0" n="2"><na f="b/Bernardes_Jr=:Jo=atilde=o_Luiz" pid="26/7996">Jo&#227;o Luiz Bernardes Jr.</na><na>Jo&#227;o Luiz Bernardes</na></co>
+<co c="-1"><na f="b/Bogdan:Karina_Olga_Maizman" pid="128/1928">Karina Olga Maizman Bogdan</na></co>
+<co c="0"><na f="b/Borges:Igor_Oliveira" pid="275/8468">Igor Oliveira Borges</na></co>
+<co c="0"><na f="b/Brand=atilde=o:Anarosa_A=_F=" pid="68/870">Anarosa A. F. Brand&#227;o</na></co>
+<co c="0"><na f="b/Brunialti:Lucas_Fernandes" pid="212/6686">Lucas Fernandes Brunialti</na></co>
+<co c="0"><na f="b/Bugatti:Pedro_Henrique" pid="13/4202">Pedro Henrique Bugatti</na></co>
+<co c="0"><na f="c/Ca=ccedil==atilde=o:Fl=aacute=vio_Nakasato" pid="304/4656">Fl&#225;vio Nakasato Ca&#231;&#227;o</na></co>
+<co c="0"><na f="c/Cordeiro:Daniel" pid="50/6986">Daniel Cordeiro</na></co>
+<co c="0"><na f="c/Corr=ecirc=a:Cl=eacute=ber_Gimenez" pid="23/2656">Cl&#233;ber Gimenez Corr&#234;a</na></co>
+<co c="0" n="2"><na f="c/Costa:Anna_Helena_Reali" pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</na><na>Anna H. R. Costa</na></co>
+<co c="0" n="2"><na f="c/Cozman:F=aacute=bio_G=" pid="g/FabioGagliardiCozman">F&#225;bio G. Cozman</na><na>F&#225;bio Gagliardi Cozman</na></co>
+<co c="0"><na f="c/Crispino:Gabriel_Nunes" pid="341/7891">Gabriel Nunes Crispino</na></co>
+<co c="0" n="2"><na f="c/Cura:Lu=iacute=s_Mariano_del_Val" pid="125/1900">Lu&#237;s Mariano del Val Cura</na><na>Lu&#237;s M. del Val Cura</na></co>
+<co c="0"><na f="d/Delgado:Karina_Valdivia" pid="30/6146">Karina Valdivia Delgado</na></co>
+<co c="0"><na f="d/Digiampietri:Luciano_A=" pid="09/6587">Luciano A. Digiampietri</na></co>
+<co c="0"><na f="f/Fantinato:Marcelo" pid="83/468">Marcelo Fantinato</na></co>
+<co c="0"><na f="f/Farias:Jorge_S=" pid="266/1167">Jorge S. Farias</na></co>
+<co c="0"><na f="f/Fernandez:Milton_Condori" pid="233/5342">Milton Condori Fernandez</na></co>
+<co c="0"><na f="f/Freire:Alexandre_da_Silva" pid="232/9082">Alexandre da Silva Freire</na></co>
+<co c="0"><na f="f/Freitas:Elthon_Manhas_de" pid="276/7416">Elthon Manhas de Freitas</na></co>
+<co c="0"><na f="f/Freitas:Waldyr_Lourenco_de" pid="134/1006">Waldyr Lourenco de Freitas</na></co>
+<co c="0"><na f="g/Gaspari:Tiago_De" pid="156/1164">Tiago De Gaspari</na></co>
+<co c="-1"><na f="g/Gilavert:Patricia" pid="293/6401">Patricia Gilavert</na></co>
+<co c="0"><na f="j/Jatob=aacute=:Victor_M=_G=" pid="266/0883">Victor M. G. Jatob&#225;</na></co>
+<co c="0"><na f="j/Jos=eacute=:Marcos_M=" pid="304/4620">Marcos M. Jos&#233;</na></co>
+<co c="0"><na f="j/Junior:Elton_Cust=oacute=dio" pid="381/2280">Elton Cust&#243;dio Junior</na></co>
+<co c="0"><na f="k/Koga:Marcelo_Li" pid="131/5312">Marcelo Li Koga</na></co>
+<co c="-1"><na f="k/Kuo:Isabella" pid="301/6539">Isabella Kuo</na></co>
+<co c="0" n="2"><na f="l/Lima:Clodoaldo_Ap=_M=" pid="34/4377">Clodoaldo Ap. M. Lima</na><na>Clodoaldo Aparecido de Moraes Lima</na></co>
+<co c="0"><na f="l/Lima:Pedro_U=" pid="24/2178">Pedro U. Lima</na></co>
+<co c="0"><na f="m/Mabiala:Ant=oacute=nio_C=" pid="182/5005">Ant&#243;nio C. Mabiala</na></co>
+<co c="0"><na f="m/Matos:Tiago" pid="94/10505">Tiago Matos</na></co>
+<co c="0"><na f="m/Mau=aacute=:Denis_Deratani" pid="53/10263">Denis Deratani Mau&#225;</na></co>
+<co c="-1"><na f="m/Minami:Renato" pid="128/1871">Renato Minami</na></co>
+<co c="0"><na f="n/Nakamura:Luiz_Ricardo" pid="36/7556">Luiz Ricardo Nakamura</na></co>
+<co c="0"><na f="n/Neto:Eduardo_Lopes_Pereira" pid="275/8376">Eduardo Lopes Pereira Neto</na></co>
+<co c="0" n="2"><na f="n/Neubauer:Thais" pid="277/7254">Thais Neubauer</na><na>Thais Rodrigues Neubauer</na></co>
+<co c="0"><na f="o/Oliveira:Andr=eacute=_Seidel" pid="275/8055">Andr&#233; Seidel Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Claiton_de" pid="214/2344">Claiton de Oliveira</na></co>
+<co c="0"><na f="o/Ortega:Enrique_M=" pid="182/3266">Enrique M. Ortega</na></co>
+<co c="0"><na f="p/Pais:Denis_Benevolo" pid="341/5544">Denis Benevolo Pais</na></co>
+<co c="0"><na f="p/Paschoal:Andr=eacute=_F=_A=" pid="305/0187">Andr&#233; F. A. Paschoal</na></co>
+<co c="0"><na f="p/Pastor:Henrique_Dias" pid="275/8286">Henrique Dias Pastor</na></co>
+<co c="0"><na f="p/Pereira:Fernando_A=" pid="117/9826">Fernando A. Pereira</na></co>
+<co c="0" n="2"><na f="p/Peres:Sarajane_Marques" pid="69/171">Sarajane Marques Peres</na><na>Sarajane M. Peres</na></co>
+<co c="0"><na f="p/Pirozelli:Paulo" pid="305/0290">Paulo Pirozelli</na></co>
+<co c="0"><na f="p/Polar:Christian_Delgado" pid="397/9829">Christian Delgado Polar</na></co>
+<co c="0"><na f="p/Prado:Kelvin_S=" pid="182/3290">Kelvin S. Prado</na></co>
+<co c="0"><na f="r/Reis:Willy_Arthur_Silva" pid="234/0222">Willy Arthur Silva Reis</na></co>
+<co c="0"><na f="r/Ribeiro:Danilo" pid="23/11377">Danilo Ribeiro</na></co>
+<co c="0"><na f="r/Roman:Norton_Trevisan" pid="26/6065">Norton Trevisan Roman</na></co>
+<co c="0"><na f="r/Ruela:Andr=eacute=_Siqueira" pid="72/9081">Andr&#233; Siqueira Ruela</na></co>
+<co c="0" n="2"><na f="s/Saito:Priscila_T=_M=" pid="129/2351">Priscila T. M. Saito</na><na>Priscila Tiemi Maeda Saito</na></co>
+<co c="0"><na f="s/Salioni:Danilo_Vitori" pid="170/1348">Danilo Vitori Salioni</na></co>
+<co c="0"><na f="s/Sanches:Silvio_Ricardo_Rodrigues" pid="14/1279">Silvio Ricardo Rodrigues Sanches</na></co>
+<co c="0"><na f="s/Sementille:Antonio_Carlos" pid="86/1502">Antonio Carlos Sementille</na></co>
+<co c="-1"><na f="s/Silva:Cleiton_Alves_da" pid="212/6649">Cleiton Alves da Silva</na></co>
+<co c="0"><na f="s/Silva:Jo=atilde=o_da" pid="358/3014">Jo&#227;o da Silva</na></co>
+<co c="0"><na f="s/Sousa:Antonio_W=" pid="182/5065">Antonio W. Sousa</na></co>
+<co c="0"><na f="t/Tokunaga:Daniel_Makoto" pid="20/7557">Daniel Makoto Tokunaga</na></co>
+<co c="0"><na f="t/Tori:Romero" pid="31/1696">Romero Tori</na></co>
+<co c="0"><na f="t/Truzzi:Flavio_Sales" pid="147/3716">Flavio Sales Truzzi</na></co>
+</coauthors>
+</dblpperson>
+

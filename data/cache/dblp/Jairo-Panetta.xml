@@ -1,0 +1,794 @@
+<?xml version="1.0"?>
+<dblpperson name="Jairo Panetta" pid="39/5694" n="42">
+<person key="homepages/39/5694" mdate="2009-06-10">
+<author pid="39/5694">Jairo Panetta</author>
+</person>
+<r><inproceedings key="conf/europar/RigonSSSOCPSLN24" mdate="2024-09-06">
+<author pid="366/9649">Pedro H. C. Rigon</author>
+<author pid="366/9451">Brenda S. Schussler</author>
+<author pid="384/6670">Alexandre Sardinha</author>
+<author pid="216/2963">Pedro M. Silva</author>
+<author pid="05/2943">F&#225;bio Oliveira</author>
+<author pid="79/6098">Alexandre Carissimi</author>
+<author pid="39/5694">Jairo Panetta</author>
+<author pid="23/11160">Filippo Spiga</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<title>Harnessing Data Movement Strategies to Optimize Performance-Energy Efficiency of Oil &#38; Gas Simulations in HPC.</title>
+<pages>211-225</pages>
+<year>2024</year>
+<booktitle>Euro-Par (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-69766-1_15</ee>
+<crossref>conf/europar/2024-2</crossref>
+<url>db/conf/europar/europar2024-2.html#RigonSSSOCPSLN24</url>
+<stream>streams/conf/europar</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-15747" mdate="2024-01-16">
+<author pid="70/10600">Michael Souza 0001</author>
+<author pid="120/3039">Luiz Mariano Carvalho</author>
+<author pid="25/6027">Douglas Adriano Augusto</author>
+<author pid="39/5694">Jairo Panetta</author>
+<author pid="45/5486">Paulo Goldfeld</author>
+<author pid="246/0539">Jos&#233; Roberto Pereira Rodrigues</author>
+<title>A Comparison of Image and Scalar-Based Approaches in Preconditioner Selection.</title>
+<year>2023</year>
+<volume>abs/2312.15747</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.15747</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-15747</url>
+</article>
+</r>
+<r><article key="journals/concurrency/SerpaPCMPACN21" mdate="2022-01-04">
+<author orcid="0000-0001-5178-1036" pid="199/1097">Matheus S. Serpa</author>
+<author orcid="0000-0002-7588-0503" pid="238/4989">Pablo J. Pavan</author>
+<author orcid="0000-0003-4484-3256" pid="89/10101">Eduardo H. M. Cruz</author>
+<author pid="300/8811">Rodrigo L. Machado</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author pid="258/4082">Ant&#244;nio Azambuja</author>
+<author pid="79/6098">Alexandre S. Carissimi</author>
+<author orcid="0000-0002-9957-5861" pid="74/1262">Philippe O. A. Navaux</author>
+<title>Energy efficiency and portability of oil and gas simulations on multicore and graphics processing unit architectures.</title>
+<year>2021</year>
+<volume>33</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1002/cpe.6212</ee>
+<url>db/journals/concurrency/concurrency33.html#SerpaPCMPACN21</url>
+</article>
+</r>
+<r><article key="journals/jocs/GaspariniRACCGP21" mdate="2021-06-01">
+<author pid="32/6021">Leonardo Gasparini</author>
+<author pid="246/0539">Jos&#233; Roberto Pereira Rodrigues</author>
+<author orcid="0000-0001-5719-6786" pid="25/6027">Douglas Adriano Augusto</author>
+<author orcid="0000-0002-4829-2917" pid="120/3039">Luiz Mariano Carvalho</author>
+<author orcid="0000-0002-8381-5269" pid="246/0537">Cesar Conopoima</author>
+<author orcid="0000-0002-1851-788X" pid="45/5486">Paulo Goldfeld</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author orcid="0000-0002-8465-4524" pid="246/0516">Jo&#227;o Paulo Ramirez</author>
+<author pid="70/10600">Michael Souza 0001</author>
+<author pid="292/0885">Mateus O. Figueiredo</author>
+<author orcid="0000-0003-2491-7174" pid="292/0955">Victor M. D. M. Leite</author>
+<title>Hybrid parallel iterative sparse linear solver framework for reservoir geomechanical and flow simulation.</title>
+<pages>101330</pages>
+<year>2021</year>
+<volume>51</volume>
+<journal>J. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.jocs.2021.101330</ee>
+<url>db/journals/jocs/jocs51.html#GaspariniRACCGP21</url>
+</article>
+</r>
+<r><article key="journals/pc/Junqueira-Junior20" mdate="2024-05-07">
+<author orcid="0000-0002-4116-3012" pid="261/3822">Carlos Junqueira-Junior</author>
+<author orcid="0000-0001-7282-9684" pid="261/3048">Jo&#227;o Luiz F. Azevedo</author>
+<author pid="39/5694">Jairo Panetta</author>
+<author pid="227/1715">William R. Wolf</author>
+<author pid="261/2616">Sami Yamouni</author>
+<title>On the scalability of CFD tool for supersonic jet flow configurations.</title>
+<pages>102620</pages>
+<year>2020</year>
+<volume>93</volume>
+<journal>Parallel Comput.</journal>
+<ee>https://doi.org/10.1016/j.parco.2020.102620</ee>
+<url>db/journals/pc/pc93.html#Junqueira-Junior20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-08746" mdate="2020-03-24">
+<author pid="261/3822">Carlos Junqueira-Junior</author>
+<author pid="261/3048">Jo&#227;o Luiz F. Azevedo</author>
+<author pid="39/5694">Jairo Panetta</author>
+<author pid="227/1715">William R. Wolf</author>
+<author pid="261/2616">Sami Yamouni</author>
+<title>Strong Scaling of Numerical Solver for Supersonic Jet Flow Configuration.</title>
+<year>2020</year>
+<volume>abs/2003.08746</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.08746</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-08746</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-09926" mdate="2020-03-24">
+<author pid="261/3822">Carlos Junqueira-Junior</author>
+<author pid="261/3048">Jo&#227;o Luiz F. Azevedo</author>
+<author pid="39/5694">Jairo Panetta</author>
+<author pid="227/1715">William R. Wolf</author>
+<author pid="261/2616">Sami Yamouni</author>
+<title>On the scalability of CFD tool for supersonic jet flow configurations.</title>
+<year>2020</year>
+<volume>abs/2003.09926</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.09926</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-09926</url>
+</article>
+</r>
+<r><article key="journals/concurrency/NasciuttiPL19" mdate="2025-01-19">
+<author orcid="0000-0003-3313-071X" pid="248/4670">Thiago Carrijo Nasciutti</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author pid="161/5375">Pedro Pais Lopes</author>
+<title>Evaluating optimizations that reduce global memory accesses of stencil computations in GPGPUs.</title>
+<year>2019</year>
+<volume>31</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1002/cpe.4929</ee>
+<ee>https://www.wikidata.org/entity/Q129235778</ee>
+<url>db/journals/concurrency/concurrency31.html#NasciuttiPL19</url>
+</article>
+</r>
+<r><article key="journals/ijhpca/SerpaCDKNPFRH19" mdate="2025-01-19">
+<author orcid="0000-0001-5178-1036" pid="199/1097">Matheus S. Serpa</author>
+<author pid="89/10101">Eduardo H. M. Cruz</author>
+<author pid="09/8557">Matthias Diener</author>
+<author pid="209/7028">Arthur M. Krause</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author pid="147/9250">Albert Farr&#233;s</author>
+<author orcid="0000-0002-7814-0359" pid="120/1721">Claudia Rosas</author>
+<author pid="95/1847">Mauricio Hanzich</author>
+<title>Optimization strategies for geophysics models on manycore systems.</title>
+<year>2019</year>
+<volume>33</volume>
+<journal>Int. J. High Perform. Comput. Appl.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1177/1094342018824150</ee>
+<ee>https://www.wikidata.org/entity/Q128592153</ee>
+<url>db/journals/ijhpca/ijhpca33.html#SerpaCDKNPFRH19</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipps/GaspariniRCASCG19" mdate="2019-09-25">
+<author pid="32/6021">Leonardo Gasparini</author>
+<author pid="246/0539">Jos&#233; Roberto Pereira Rodrigues</author>
+<author pid="246/0537">Cesar Conopoima</author>
+<author pid="25/6027">Douglas Adriano Augusto</author>
+<author pid="70/10600">Michael de Souza 0001</author>
+<author orcid="0000-0002-4829-2917" pid="120/3039">Luiz Mariano Carvalho</author>
+<author pid="45/5486">Paulo Goldfeld</author>
+<author pid="246/0516">Jo&#227;o Paulo Ramirez</author>
+<author pid="39/5694">Jairo Panetta</author>
+<title>A Linear Solver Framework for Flow and Geomechanics Reservoir Simulation.</title>
+<pages>708-717</pages>
+<year>2019</year>
+<booktitle>IPDPS Workshops</booktitle>
+<ee>https://doi.org/10.1109/IPDPSW.2019.00119</ee>
+<crossref>conf/ipps/2019w</crossref>
+<url>db/conf/ipps/ipdps2019w.html#GaspariniRCASCG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sc/DanielP19" mdate="2020-01-21">
+<author pid="256/7346">Daniela Ferreira Daniel</author>
+<author pid="39/5694">Jairo Panetta</author>
+<title>On Applying Performance Portability Metrics.</title>
+<pages>50-59</pages>
+<year>2019</year>
+<booktitle>P3HPC@SC</booktitle>
+<ee>https://doi.org/10.1109/P3HPC49587.2019.00010</ee>
+<crossref>conf/sc/2019p3hpc</crossref>
+<url>db/conf/sc/p3hpc2019.html#DanielP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/carla/PavanSCMPNPM18" mdate="2023-06-26">
+<author pid="238/4989">Pablo J. Pavan</author>
+<author orcid="0000-0001-5178-1036" pid="199/1097">Matheus S. Serpa</author>
+<author orcid="0000-0002-5011-1003" pid="164/9866">Emmanuell Diaz Carre&#241;o</author>
+<author orcid="0000-0001-7200-3612" pid="22/2903">V&#237;ctor Mart&#237;nez</author>
+<author pid="121/1924">Edson Luiz Padoin</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author orcid="0000-0003-1047-7462" pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
+<title>Improving Performance and Energy Efficiency of Geophysics Applications on GPU Architectures.</title>
+<pages>112-122</pages>
+<year>2018</year>
+<booktitle>CARLA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-16205-4_9</ee>
+<crossref>conf/carla/2018</crossref>
+<url>db/conf/carla/carla2018.html#PavanSCMPNPM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wscad/SerpaCPACN18" mdate="2022-01-04">
+<author orcid="0000-0001-5178-1036" pid="199/1097">Matheus S. Serpa</author>
+<author orcid="0000-0001-8413-795X" pid="89/10101">Eduardo H. M. Cruz</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author pid="258/4082">Ant&#244;nio Azambuja</author>
+<author pid="79/6098">Alexandre S. Carissimi</author>
+<author orcid="0000-0002-9957-5861" pid="74/1262">Philippe O. A. Navaux</author>
+<title>Improving Oil and Gas Simulation Performance Using Thread and Data Mapping.</title>
+<pages>55-68</pages>
+<year>2018</year>
+<booktitle>WSCAD (Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-41050-6_4</ee>
+<crossref>conf/wscad/2018s</crossref>
+<url>db/conf/wscad/wscad2018s.html#SerpaCPACN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wscad/SerpaCPN18" mdate="2022-01-04">
+<author pid="199/1097">Matheus S. Serpa</author>
+<author pid="89/10101">Eduardo H. M. Cruz</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<title>Optimizing Geophysics Models Using Thread and Data Mapping.</title>
+<pages>135-141</pages>
+<year>2018</year>
+<booktitle>WSCAD</booktitle>
+<ee>https://doi.org/10.1109/WSCAD.2018.00030</ee>
+<crossref>conf/wscad/2018</crossref>
+<url>db/conf/wscad/wscad2018.html#SerpaCPN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wscad/PavanSPSNP18" mdate="2022-01-04">
+<author pid="238/4989">Pablo J. Pavan</author>
+<author pid="199/1097">Matheus S. Serpa</author>
+<author pid="121/1924">Edson L. Padoin</author>
+<author pid="57/3743">Lucas Mello Schnorr</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<author pid="39/5694">Jairo Panetta</author>
+<title>Improving I/O Performance of RTM Algorithm for Oil and Gas Simulation.</title>
+<pages>270</pages>
+<year>2018</year>
+<booktitle>WSCAD</booktitle>
+<ee>https://doi.org/10.1109/WSCAD.2018.00052</ee>
+<crossref>conf/wscad/2018</crossref>
+<url>db/conf/wscad/wscad2018.html#PavanSPSNP18</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/JuniorPS17" mdate="2020-03-27">
+<author pid="207/6894">Manoel Baptista Silva Junior</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author orcid="0000-0002-6302-4259" pid="32/2517">Stephan Stephany</author>
+<title>Portability with efficiency of the advection of BRAMS between multi-core and many-core architectures.</title>
+<year>2017</year>
+<volume>29</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>22</number>
+<ee>https://doi.org/10.1002/cpe.3959</ee>
+<url>db/journals/concurrency/concurrency29.html#JuniorPS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbac-pad/PanettaFLT17" mdate="2023-03-23">
+<author pid="39/5694">Jairo Panetta</author>
+<author pid="79/1289">Paulo R. P. de Souza Filho</author>
+<author pid="97/9579">Luiz A. F. Laranjeira</author>
+<author pid="208/8323">Carlos A. Teixeira</author>
+<title>Scalability of CPU and GPU Solutions of the Prime Elliptic Curve Discrete Logarithm Problem.</title>
+<pages>33-40</pages>
+<year>2017</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2017.12</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2017.12</ee>
+<crossref>conf/sbac-pad/2017</crossref>
+<url>db/conf/sbac-pad/sbac-pad2017.html#PanettaFLT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/SerpaCDKFRPHN17" mdate="2023-03-23">
+<author orcid="0000-0001-5178-1036" pid="199/1097">Matheus S. Serpa</author>
+<author pid="89/10101">Eduardo H. M. Cruz</author>
+<author orcid="0000-0002-9064-7806" pid="09/8557">Matthias Diener</author>
+<author pid="209/7028">Arthur M. Krause</author>
+<author pid="147/9250">Albert Farr&#233;s</author>
+<author orcid="0000-0002-7814-0359" pid="120/1721">Claudia Rosas</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author pid="95/1847">Mauricio Hanzich</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<title>Strategies to Improve the Performance of a Geophysics Model for Different Manycore Systems.</title>
+<pages>49-54</pages>
+<year>2017</year>
+<booktitle>SBAC-PAD (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PADW.2017.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PADW.2017.17</ee>
+<crossref>conf/sbac-pad/2017w</crossref>
+<url>db/conf/sbac-pad/sbac-pad2017w.html#SerpaCDKFRPHN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpcs/FazendaMKPR14" mdate="2023-06-26">
+<author orcid="0000-0002-4052-1113" pid="08/2528-1">Alvaro Luiz Fazenda 0001</author>
+<author orcid="0000-0001-7170-5217" pid="36/4941">Celso L. Mendes</author>
+<author pid="k/LaxmikantVKale">Laxmikant V. Kal&#233;</author>
+<author pid="39/5694">Jairo Panetta</author>
+<author pid="29/1398">Eduardo Rocha Rodrigues</author>
+<title>Dynamic load balancing in GPU-based systems for a MPI program.</title>
+<pages>154-161</pages>
+<year>2014</year>
+<booktitle>HPCS</booktitle>
+<ee>https://doi.org/10.1109/HPCSim.2014.6903681</ee>
+<crossref>conf/hpcs/2014</crossref>
+<url>db/conf/hpcs/hpcs2014.html#FazendaMKPR14</url>
+</inproceedings>
+</r>
+<r><article key="journals/scp/RodriguesNPM13" mdate="2023-06-26">
+<author pid="29/1398">Eduardo Rocha Rodrigues</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author orcid="0000-0001-7170-5217" pid="36/4941">Celso L. Mendes</author>
+<title>Preserving the original MPI semantics in a virtualized processor environment.</title>
+<pages>412-421</pages>
+<year>2013</year>
+<volume>78</volume>
+<journal>Sci. Comput. Program.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1016/j.scico.2012.07.005</ee>
+<url>db/journals/scp/scp78.html#RodriguesNPM13</url>
+</article>
+</r>
+<r><incollection key="books/crc/13/RodriguesMP13" mdate="2020-06-08">
+<author pid="29/1398">Eduardo R. Rodrigues</author>
+<author pid="36/4941">Celso L. Mendes</author>
+<author pid="39/5694">Jairo Panetta</author>
+<title>Improving Scalability of BRAMS: a Regional Weather Forecast Model.</title>
+<pages>149-186</pages>
+<year>2013</year>
+<booktitle>Parallel Science and Engineering Applications</booktitle>
+<crossref>books/crc/13/KB2013</crossref>
+<url>db/books/collections/KB2013.html#RodriguesMP13</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/FazendaMKPR13" mdate="2019-08-15">
+<author pid="08/2528-1">Alvaro Luiz Fazenda 0001</author>
+<author pid="36/4941">Celso L. Mendes</author>
+<author pid="k/LaxmikantVKale">Laxmikant V. Kal&#233;</author>
+<author pid="39/5694">Jairo Panetta</author>
+<author pid="29/1398">Eduardo Rocha Rodrigues</author>
+<title>Dynamic Load Balancing in GPU-Based Systems - Early Experiments.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1310.4218</ee>
+<volume>abs/1310.4218</volume>
+<url>db/journals/corr/corr1310.html#FazendaMKPR13</url>
+</article>
+</r>
+<r><article key="journals/ijitcc/OsthoffBKPNSPGMDW12" mdate="2020-06-04">
+<author pid="76/6443">Carla Osthoff</author>
+<author pid="99/9377">Francieli Zanon Boito</author>
+<author pid="15/3219">Rodrigo Virote Kassick</author>
+<author pid="75/2582">La&#233;rcio Lima Pilla</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<author pid="79/5559">Claudio Schepke</author>
+<author pid="39/5694">Jairo Panetta</author>
+<author pid="43/10076">Pablo Javier Grunmann</author>
+<author pid="58/1754">Nicolas Maillard</author>
+<author pid="37/2809">Pedro Leite da Silva Dias</author>
+<author pid="73/10076">Robert L. Walko</author>
+<title>Atmospheric models hybrid OpenMP/MPI implementation multicore cluster evaluation.</title>
+<pages>212-233</pages>
+<year>2012</year>
+<volume>2</volume>
+<journal>Int. J. Inf. Technol. Commun. Convergence</journal>
+<number>3</number>
+<ee>https://doi.org/10.1504/IJITCC.2012.050411</ee>
+<url>db/journals/ijitcc/ijitcc2.html#OsthoffBKPNSPGMDW12</url>
+</article>
+</r>
+<r><article key="journals/ijpp/PanettaTFFSMPRMCA12" mdate="2020-04-01">
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author pid="12/6785">Thiago Teixeira</author>
+<author pid="79/1289">Paulo R. P. de Souza Filho</author>
+<author pid="60/5426">Carlos A. da Cunha Filho</author>
+<author pid="37/7641">David Sotelo</author>
+<author pid="99/6590">Fernando M. Roxo da Motta</author>
+<author pid="96/5693">Silvio Sinedino Pinheiro</author>
+<author pid="72/6236">Andre L. Romanelli Rosa</author>
+<author orcid="0000-0001-7146-0731" pid="m/LuizRodolphoMonnerat">Luiz Rodolpho Monnerat</author>
+<author pid="03/957">Leandro T. Carneiro</author>
+<author pid="59/2145">Carlos H. B. de Albrecht</author>
+<title>Accelerating Time and Depth Seismic Migration by CPU and GPU Cooperation.</title>
+<pages>290-312</pages>
+<year>2012</year>
+<volume>40</volume>
+<journal>Int. J. Parallel Program.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10766-011-0185-2</ee>
+<url>db/journals/ijpp/ijpp40.html#PanettaTFFSMPRMCA12</url>
+</article>
+</r>
+<r><inproceedings key="conf/sccc/OsthoffSDPL12" mdate="2023-03-23">
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author orcid="0000-0002-2081-0751" pid="179/6860">Roberto Pinto Souto</author>
+<author orcid="0000-0002-4051-2962" pid="37/2809">Pedro Leite da Silva Dias</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author pid="161/5375">Pedro Pais Lopes</author>
+<title>Atmospheric Model Cluster Performance Evaluation on Hybrid MPI/OpenMP/Cuda Programming Model Platform.</title>
+<pages>216-222</pages>
+<year>2012</year>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.2012.32</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCCC.2012.32</ee>
+<crossref>conf/sccc/2012</crossref>
+<url>db/conf/sccc/sccc2012.html#OsthoffSDPL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wscad/FazendaRTPM12" mdate="2023-06-26">
+<author orcid="0000-0002-4052-1113" pid="08/2528-1">Alvaro Luiz Fazenda 0001</author>
+<author pid="29/1398">Eduardo Rocha Rodrigues</author>
+<author pid="258/4113">Simone S. Tomita</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author orcid="0000-0001-7170-5217" pid="36/4941">Celso L. Mendes</author>
+<title>Improving the Scalability of an Operational Scientific Application in a Large Multi-core Cluster.</title>
+<pages>126-132</pages>
+<year>2012</year>
+<booktitle>WSCAD-SSC</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WSCAD-SSC.2012.29</ee>
+<crossref>conf/wscad/2012</crossref>
+<url>db/conf/wscad/wscad2012.html#FazendaRTPM12</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sbac-pad/2012" mdate="2019-10-16">
+<editor pid="39/5694">Jairo Panetta</editor>
+<editor pid="12/1593">Jos&#233; E. Moreira</editor>
+<editor pid="p/DavidAPadua">David A. Padua</editor>
+<editor pid="74/1262">Philippe O. A. Navaux</editor>
+<title>IEEE 24th International Symposium on Computer Architecture and High Performance Computing, SBAC-PAD 2012, New York, NY, USA, October 24-26, 2012</title>
+<publisher>IEEE Computer Society</publisher>
+<year>2012</year>
+<isbn>978-1-4673-4790-7</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/6374354/proceeding</ee>
+<ee>http://www.computer.org/csdl/proceedings/sbac-pad/2012/4907/00/index.html</ee>
+<booktitle>SBAC-PAD</booktitle>
+<url>db/conf/sbac-pad/sbac-pad2012.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ijhpsa/FazendaPKRMN11" mdate="2020-03-27">
+<author orcid="0000-0002-4052-1113" pid="08/2528-1">Alvaro Luiz Fazenda 0001</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author pid="48/11124">Daniel M. Katsurayama</author>
+<author pid="17/3206">Luiz Flavio Rodrigues</author>
+<author pid="51/11124">Luis F. G. Motta</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<title>Challenges and solutions to improve the scalability of an operational regional meteorological forecasting model.</title>
+<pages>87-97</pages>
+<year>2011</year>
+<volume>3</volume>
+<journal>Int. J. High Perform. Syst. Archit.</journal>
+<number>2/3</number>
+<ee>https://doi.org/10.1504/IJHPSA.2011.040462</ee>
+<url>db/journals/ijhpsa/ijhpsa3.html#FazendaPKRMN11</url>
+</article>
+</r>
+<r><inproceedings key="conf/ispa/OsthoffGBKPNSPMDW11" mdate="2023-09-30">
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author pid="43/10076">Pablo Javier Grunmann</author>
+<author pid="99/9377">Francieli Zanon Boito</author>
+<author pid="15/3219">Rodrigo Kassick</author>
+<author orcid="0000-0003-0997-586X" pid="75/2582">La&#233;rcio Lima Pilla</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<author orcid="0000-0003-4118-8831" pid="79/5559">Claudio Schepke</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author orcid="0000-0002-4051-2962" pid="37/2809">Pedro Leite da Silva Dias</author>
+<author pid="73/10076">Robert L. Walko</author>
+<title>Improving Performance on Atmospheric Models through a Hybrid OpenMP/MPI Implementation.</title>
+<pages>69-74</pages>
+<year>2011</year>
+<booktitle>ISPA</booktitle>
+<ee>https://doi.org/10.1109/ISPA.2011.56</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISPA.2011.56</ee>
+<crossref>conf/ispa/2011</crossref>
+<url>db/conf/ispa/ispa2011.html#OsthoffGBKPNSPMDW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hipc/RodriguesNPMK10" mdate="2023-06-26">
+<author pid="29/1398">Eduardo Rocha Rodrigues</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author orcid="0000-0001-7170-5217" pid="36/4941">Celso L. Mendes</author>
+<author pid="k/LaxmikantVKale">Laxmikant V. Kal&#233;</author>
+<title>Optimizing an MPI weather forecasting model via processor virtualization.</title>
+<pages>1-10</pages>
+<year>2010</year>
+<booktitle>HiPC</booktitle>
+<ee>https://doi.org/10.1109/HIPC.2010.5713171</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/HIPC.2010.5713171</ee>
+<crossref>conf/hipc/2010</crossref>
+<url>db/conf/hipc/hipc2010.html#RodriguesNPMK10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/RodriguesNPM10" mdate="2023-06-26">
+<author pid="29/1398">Eduardo Rocha Rodrigues</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author orcid="0000-0001-7170-5217" pid="36/4941">Celso L. Mendes</author>
+<title>A new technique for data privatization in user-level threads and its use in parallel applications.</title>
+<pages>2149-2154</pages>
+<year>2010</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1774088.1774540</ee>
+<crossref>conf/sac/2010</crossref>
+<url>db/conf/sac/sac2010.html#RodriguesNPM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/OsthoffSPGMNDL10" mdate="2023-09-30">
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author orcid="0000-0003-4118-8831" pid="79/5559">Claudio Schepke</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author pid="43/10076">Pablo Javier Grunmann</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<author orcid="0000-0002-4051-2962" pid="37/2809">Pedro Leite da Silva Dias</author>
+<author pid="161/5375">Pedro Pais Lopes</author>
+<title>I/O Performance Evaluation on Multicore Clusters with Atmospheric Model Environment.</title>
+<pages>49-54</pages>
+<year>2010</year>
+<booktitle>SBAC-PAD (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PADW.2010.15</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PADW.2010.15</ee>
+<crossref>conf/sbac-pad/2010w</crossref>
+<url>db/conf/sbac-pad/sbac-pad2010w.html#OsthoffSPGMNDL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/RodriguesNPFMK10" mdate="2023-06-26">
+<author pid="29/1398">Eduardo Rocha Rodrigues</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author orcid="0000-0002-4052-1113" pid="08/2528-1">Alvaro Luiz Fazenda 0001</author>
+<author orcid="0000-0001-7170-5217" pid="36/4941">Celso L. Mendes</author>
+<author pid="k/LaxmikantVKale">Laxmikant V. Kal&#233;</author>
+<title>A Comparative Analysis of Load Balancing Algorithms Applied to a Weather Forecast Model.</title>
+<pages>71-78</pages>
+<year>2010</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2010.18</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2010.18</ee>
+<crossref>conf/sbac-pad/2010</crossref>
+<url>db/conf/sbac-pad/sbac-pad2010.html#RodriguesNPFMK10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/RodriguesMNP09" mdate="2023-03-24">
+<author pid="29/1398">Eduardo Rocha Rodrigues</author>
+<author pid="37/7381">Felipe Lopes Madruga</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<title>Multi-core aware process mapping and its impact on communication overhead of parallel applications.</title>
+<pages>811-817</pages>
+<year>2009</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2009.5202271</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2009.5202271</ee>
+<crossref>conf/iscc/2009</crossref>
+<url>db/conf/iscc/iscc2009.html#RodriguesMNP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/PanettaTFFSMPJRMCA09" mdate="2023-03-23">
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author pid="12/6785">Thiago Teixeira</author>
+<author pid="79/1289">Paulo R. P. de Souza Filho</author>
+<author pid="60/5426">Carlos A. da Cunha Filho</author>
+<author pid="37/7641">David Sotelo</author>
+<author pid="99/6590">Fernando M. Roxo da Motta</author>
+<author pid="96/5693">Silvio Sinedino Pinheiro</author>
+<author pid="84/2845">Ivan Pedrosa Junior</author>
+<author pid="72/6236">Andre L. Romanelli Rosa</author>
+<author orcid="0000-0001-7146-0731" pid="m/LuizRodolphoMonnerat">Luiz Rodolpho Monnerat</author>
+<author pid="03/957">Leandro T. Carneiro</author>
+<author pid="59/2145">Carlos H. B. de Albrecht</author>
+<title>Accelerating Kirchhoff Migration by CPU and GPU Cooperation.</title>
+<pages>26-32</pages>
+<year>2009</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2009.29</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2009.29</ee>
+<crossref>conf/sbac-pad/2009</crossref>
+<url>db/conf/sbac-pad/sbac-pad2009.html#PanettaTFFSMPJRMCA09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccgrid/SoutoANPDVSPPRADG07" mdate="2023-03-24">
+<author orcid="0000-0002-2081-0751" pid="179/6860">Roberto Pinto Souto</author>
+<author pid="50/3377">Rafael Bohrer &#193;vila</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<author pid="81/1690">M. X. Py</author>
+<author pid="04/6896">Tiaraj&#250; Asmuz Diverio</author>
+<author pid="91/7660">Haroldo F. de Campos Velho</author>
+<author pid="32/2517">Stephan Stephany</author>
+<author pid="07/2001">Airam Jonatas Preto</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author pid="29/1398">Eduardo Rocha Rodrigues</author>
+<author pid="52/5908">E. S. Almeida</author>
+<author orcid="0000-0002-4051-2962" pid="37/2809">Pedro Leite da Silva Dias</author>
+<author pid="39/1093">A. W. Gandu</author>
+<title>Processing Mesoscale Climatology in a Grid Environment.</title>
+<pages>363-370</pages>
+<year>2007</year>
+<crossref>conf/ccgrid/2007</crossref>
+<booktitle>CCGRID</booktitle>
+<ee>https://doi.org/10.1109/CCGRID.2007.86</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CCGRID.2007.86</ee>
+<url>db/conf/ccgrid/ccgrid2007.html#SoutoANPDVSPPRADG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/PanettaFFMPJRMCA07" mdate="2023-10-28">
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author pid="79/1289">Paulo R. P. de Souza Filho</author>
+<author pid="60/5426">Carlos A. da Cunha Filho</author>
+<author pid="99/6590">Fernando M. Roxo da Motta</author>
+<author pid="96/5693">Silvio Sinedino Pinheiro</author>
+<author pid="84/2845">Ivan Pedrosa Junior</author>
+<author pid="72/6236">Andre L. Romanelli Rosa</author>
+<author orcid="0000-0001-7146-0731" pid="m/LuizRodolphoMonnerat">Luiz Rodolpho Monnerat</author>
+<author pid="03/957">Leandro T. Carneiro</author>
+<author pid="59/2145">Carlos H. B. de Albrecht</author>
+<title>Computational Characteristics of Production Seismic Migration and its Performance on Novel Processor Architectures.</title>
+<pages>11-18</pages>
+<year>2007</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2007.13</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2007.13</ee>
+<crossref>conf/sbac-pad/2007</crossref>
+<url>db/conf/sbac-pad/sbac-pad2007.html#PanettaFFMPJRMCA07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/FazendaERP06" mdate="2025-04-01">
+<author orcid="0000-0002-4052-1113" pid="08/2528-1">Alvaro Luiz Fazenda 0001</author>
+<author orcid="0009-0009-0424-8613" pid="93/6159">Eduardo Hidenori Enari</author>
+<author pid="17/3206">Luiz Flavio Rodrigues</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<title>Towards Production Code Effective Portability among Vector Machines and Microprocessor-Based Architectures.</title>
+<pages>11-20</pages>
+<year>2006</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2006.29</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2006.29</ee>
+<crossref>conf/sbac-pad/2006</crossref>
+<url>db/conf/sbac-pad/sbac-pad2006.html#FazendaERP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccS/HayashidaOPS05" mdate="2020-03-27">
+<author pid="17/3529">Ulisses Kendi Hayashida</author>
+<author pid="02/4999">Kunio Okuda</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<title>Generating Parallel Algorithms for Cluster and Grid Computing.</title>
+<pages>509-516</pages>
+<year>2005</year>
+<crossref>conf/iccS/2005-1</crossref>
+<booktitle>International Conference on Computational Science (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/11428831_63</ee>
+<url>db/conf/iccS/iccS2005-1.html#HayashidaOPS05</url>
+</inproceedings>
+</r>
+<r><article key="journals/pc/GannonP86" mdate="2020-03-27">
+<author pid="g/DennisGannon">Dennis Gannon</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<title>Restructuring SIMPLE for the CHiP architecture.</title>
+<pages>305-326</pages>
+<year>1986</year>
+<volume>3</volume>
+<journal>Parallel Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/0167-8191(86)90013-X</ee>
+<url>db/journals/pc/pc3.html#GannonP86</url>
+</article>
+</r>
+<r><phdthesis key="phd/us/Panetta85" mdate="2024-06-26">
+<author pid="39/5694">Jairo Panetta</author>
+<title>Primitive parallel operations for computational linear algebra (processing, mathematical software)</title>
+<school>Purdue University, USA</school>
+<year>1985</year>
+<ee>https://docs.lib.purdue.edu/dissertations/AAI8606596</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/compcon/GannonBKPW85" mdate="2006-06-28">
+<author pid="g/DennisGannon">Dennis Gannon</author>
+<author pid="14/5950">Stephan V. Bechtolsheim</author>
+<author pid="83/929">Alejandro A. Kapauan</author>
+<author pid="39/5694">Jairo Panetta</author>
+<author pid="13/6722">Ko-Yang Wang</author>
+<title>The Systolic BLAS: An Experiment in Parallel Algorithm Design.</title>
+<pages>66-70</pages>
+<year>1985</year>
+<crossref>conf/compcon/1985</crossref>
+<booktitle>COMPCON</booktitle>
+<url>db/conf/compcon/compcon1985.html#GannonBKPW85</url>
+</inproceedings>
+</r>
+<coauthors n="92" nc="3">
+<co c="0"><na f="a/Albrecht:Carlos_H=_B=_de" pid="59/2145">Carlos H. B. de Albrecht</na></co>
+<co c="0"><na f="a/Almeida:E=_S=" pid="52/5908">E. S. Almeida</na></co>
+<co c="0"><na f="a/Augusto:Douglas_Adriano" pid="25/6027">Douglas Adriano Augusto</na></co>
+<co c="0"><na f="=/=Aacute=vila:Rafael_Bohrer" pid="50/3377">Rafael Bohrer &#193;vila</na></co>
+<co c="0"><na f="a/Azambuja:Ant=ocirc=nio" pid="258/4082">Ant&#244;nio Azambuja</na></co>
+<co c="1"><na f="a/Azevedo:Jo=atilde=o_Luiz_F=" pid="261/3048">Jo&#227;o Luiz F. Azevedo</na></co>
+<co c="0"><na f="b/Bechtolsheim:Stephan_V=" pid="14/5950">Stephan V. Bechtolsheim</na></co>
+<co c="0"><na f="b/Boito:Francieli_Zanon" pid="99/9377">Francieli Zanon Boito</na></co>
+<co c="0" n="2"><na f="c/Carissimi:Alexandre" pid="79/6098">Alexandre Carissimi</na><na>Alexandre S. Carissimi</na></co>
+<co c="0"><na f="c/Carneiro:Leandro_T=" pid="03/957">Leandro T. Carneiro</na></co>
+<co c="0" n="2"><na f="c/Carre=ntilde=o:Emmanuell_D=" pid="164/9866">Emmanuell D. Carre&#241;o</na><na>Emmanuell Diaz Carre&#241;o</na></co>
+<co c="0"><na f="c/Carvalho:Luiz_Mariano" pid="120/3039">Luiz Mariano Carvalho</na></co>
+<co c="0"><na f="c/Conopoima:Cesar" pid="246/0537">Cesar Conopoima</na></co>
+<co c="0" n="2"><na f="c/Cruz:Eduardo_Henrique_Molina_da" pid="89/10101">Eduardo Henrique Molina da Cruz</na><na>Eduardo H. M. Cruz</na></co>
+<co c="-1"><na f="d/Daniel:Daniela_Ferreira" pid="256/7346">Daniela Ferreira Daniel</na></co>
+<co c="0"><na f="d/Dias:Pedro_Leite_da_Silva" pid="37/2809">Pedro Leite da Silva Dias</na></co>
+<co c="0"><na f="d/Diener:Matthias" pid="09/8557">Matthias Diener</na></co>
+<co c="0"><na f="d/Diverio:Tiaraj=uacute=_Asmuz" pid="04/6896">Tiaraj&#250; Asmuz Diverio</na></co>
+<co c="0"><na f="e/Enari:Eduardo_Hidenori" pid="93/6159">Eduardo Hidenori Enari</na></co>
+<co c="0"><na f="f/Farr=eacute=s:Albert" pid="147/9250">Albert Farr&#233;s</na></co>
+<co c="0"><na f="f/Fazenda_0001:Alvaro_Luiz" pid="08/2528-1">Alvaro Luiz Fazenda 0001</na></co>
+<co c="0"><na f="f/Figueiredo:Mateus_O=" pid="292/0885">Mateus O. Figueiredo</na></co>
+<co c="0"><na f="f/Filho:Carlos_A=_da_Cunha" pid="60/5426">Carlos A. da Cunha Filho</na></co>
+<co c="0"><na f="f/Filho:Paulo_R=_P=_de_Souza" pid="79/1289">Paulo R. P. de Souza Filho</na></co>
+<co c="0"><na f="g/Gandu:A=_W=" pid="39/1093">A. W. Gandu</na></co>
+<co c="0"><na f="g/Gannon:Dennis" pid="g/DennisGannon">Dennis Gannon</na></co>
+<co c="0"><na f="g/Gasparini:Leonardo" pid="32/6021">Leonardo Gasparini</na></co>
+<co c="0"><na f="g/Goldfeld:Paulo" pid="45/5486">Paulo Goldfeld</na></co>
+<co c="0"><na f="g/Grunmann:Pablo_Javier" pid="43/10076">Pablo Javier Grunmann</na></co>
+<co c="0"><na f="h/Hanzich:Mauricio" pid="95/1847">Mauricio Hanzich</na></co>
+<co c="2"><na f="h/Hayashida:Ulisses_Kendi" pid="17/3529">Ulisses Kendi Hayashida</na></co>
+<co c="0"><na f="j/Junior:Ivan_Pedrosa" pid="84/2845">Ivan Pedrosa Junior</na></co>
+<co c="0"><na f="j/Junior:Manoel_Baptista_Silva" pid="207/6894">Manoel Baptista Silva Junior</na></co>
+<co c="1"><na f="j/Junqueira=Junior:Carlos" pid="261/3822">Carlos Junqueira-Junior</na></co>
+<co c="0"><na f="k/Kal=eacute=:Laxmikant_V=" pid="k/LaxmikantVKale">Laxmikant V. Kal&#233;</na></co>
+<co c="0"><na f="k/Kapauan:Alejandro_A=" pid="83/929">Alejandro A. Kapauan</na></co>
+<co c="0" n="2"><na f="k/Kassick:Rodrigo" pid="15/3219">Rodrigo Kassick</na><na>Rodrigo Virote Kassick</na></co>
+<co c="0"><na f="k/Katsurayama:Daniel_M=" pid="48/11124">Daniel M. Katsurayama</na></co>
+<co c="0"><na f="k/Krause:Arthur_M=" pid="209/7028">Arthur M. Krause</na></co>
+<co c="0"><na f="l/Laranjeira:Luiz_A=_F=" pid="97/9579">Luiz A. F. Laranjeira</na></co>
+<co c="0"><na f="l/Leite:Victor_M=_D=_M=" pid="292/0955">Victor M. D. M. Leite</na></co>
+<co c="0"><na f="l/Lopes:Pedro_Pais" pid="161/5375">Pedro Pais Lopes</na></co>
+<co c="0"><na f="l/Lorenzon:Arthur_Francisco" pid="160/4663">Arthur Francisco Lorenzon</na></co>
+<co c="0"><na f="m/Machado:Rodrigo_L=" pid="300/8811">Rodrigo L. Machado</na></co>
+<co c="0"><na f="m/Madruga:Felipe_Lopes" pid="37/7381">Felipe Lopes Madruga</na></co>
+<co c="0"><na f="m/Maillard:Nicolas" pid="58/1754">Nicolas Maillard</na></co>
+<co c="0"><na f="m/Mart=iacute=nez:V=iacute=ctor" pid="22/2903">V&#237;ctor Mart&#237;nez</na></co>
+<co c="0"><na f="m/M=eacute=haut:Jean=Fran=ccedil=ois" pid="63/4133">Jean-Fran&#231;ois M&#233;haut</na></co>
+<co c="0"><na f="m/Mendes:Celso_L=" pid="36/4941">Celso L. Mendes</na></co>
+<co c="0"><na f="m/Monnerat:Luiz_Rodolpho" pid="m/LuizRodolphoMonnerat">Luiz Rodolpho Monnerat</na></co>
+<co c="0"><na f="m/Moreira:Jos=eacute=_E=" pid="12/1593">Jos&#233; E. Moreira</na></co>
+<co c="0"><na f="m/Motta:Fernando_M=_Roxo_da" pid="99/6590">Fernando M. Roxo da Motta</na></co>
+<co c="0"><na f="m/Motta:Luis_F=_G=" pid="51/11124">Luis F. G. Motta</na></co>
+<co c="0"><na f="n/Nasciutti:Thiago_Carrijo" pid="248/4670">Thiago Carrijo Nasciutti</na></co>
+<co c="0" n="2"><na f="n/Navaux:Philippe_Olivier_Alexandre" pid="74/1262">Philippe Olivier Alexandre Navaux</na><na>Philippe O. A. Navaux</na></co>
+<co c="2"><na f="o/Okuda:Kunio" pid="02/4999">Kunio Okuda</na></co>
+<co c="0"><na f="o/Oliveira:F=aacute=bio" pid="05/2943">F&#225;bio Oliveira</na></co>
+<co c="0"><na f="o/Osthoff:Carla" pid="76/6443">Carla Osthoff</na></co>
+<co c="0" n="2"><na f="p/Padoin:Edson_L=" pid="121/1924">Edson L. Padoin</na><na>Edson Luiz Padoin</na></co>
+<co c="0"><na f="p/Padua:David_A=" pid="p/DavidAPadua">David A. Padua</na></co>
+<co c="0"><na f="p/Pavan:Pablo_J=" pid="238/4989">Pablo J. Pavan</na></co>
+<co c="0"><na f="p/Pilla:La=eacute=rcio_Lima" pid="75/2582">La&#233;rcio Lima Pilla</na></co>
+<co c="0"><na f="p/Pinheiro:Silvio_Sinedino" pid="96/5693">Silvio Sinedino Pinheiro</na></co>
+<co c="0"><na f="p/Preto:Airam_Jonatas" pid="07/2001">Airam Jonatas Preto</na></co>
+<co c="0"><na f="p/Py:M=_X=" pid="81/1690">M. X. Py</na></co>
+<co c="0"><na f="r/Ramirez:Jo=atilde=o_Paulo" pid="246/0516">Jo&#227;o Paulo Ramirez</na></co>
+<co c="0"><na f="r/Rigon:Pedro_H=_C=" pid="366/9649">Pedro H. C. Rigon</na></co>
+<co c="0" n="2"><na f="r/Rodrigues:Eduardo_Rocha" pid="29/1398">Eduardo Rocha Rodrigues</na><na>Eduardo R. Rodrigues</na></co>
+<co c="0"><na f="r/Rodrigues:Jos=eacute=_Roberto_Pereira" pid="246/0539">Jos&#233; Roberto Pereira Rodrigues</na></co>
+<co c="0"><na f="r/Rodrigues:Luiz_Flavio" pid="17/3206">Luiz Flavio Rodrigues</na></co>
+<co c="0"><na f="r/Rosa:Andre_L=_Romanelli" pid="72/6236">Andre L. Romanelli Rosa</na></co>
+<co c="0"><na f="r/Rosas:Claudia" pid="120/1721">Claudia Rosas</na></co>
+<co c="0"><na f="s/Sardinha:Alexandre" pid="384/6670">Alexandre Sardinha</na></co>
+<co c="0"><na f="s/Schepke:Claudio" pid="79/5559">Claudio Schepke</na></co>
+<co c="0"><na f="s/Schnorr:Lucas_Mello" pid="57/3743">Lucas Mello Schnorr</na></co>
+<co c="0"><na f="s/Schussler:Brenda_S=" pid="366/9451">Brenda S. Schussler</na></co>
+<co c="0"><na f="s/Serpa:Matheus_S=" pid="199/1097">Matheus S. Serpa</na></co>
+<co c="0"><na f="s/Silva:Pedro_M=" pid="216/2963">Pedro M. Silva</na></co>
+<co c="2"><na f="s/Song:Siang_Wun" pid="s/SiangWunSong">Siang Wun Song</na></co>
+<co c="0"><na f="s/Sotelo:David" pid="37/7641">David Sotelo</na></co>
+<co c="0"><na f="s/Souto:Roberto_Pinto" pid="179/6860">Roberto Pinto Souto</na></co>
+<co c="0" n="2"><na f="s/Souza_0001:Michael" pid="70/10600">Michael Souza 0001</na><na>Michael de Souza 0001</na></co>
+<co c="0"><na f="s/Spiga:Filippo" pid="23/11160">Filippo Spiga</na></co>
+<co c="0"><na f="s/Stephany:Stephan" pid="32/2517">Stephan Stephany</na></co>
+<co c="0"><na f="t/Teixeira:Carlos_A=" pid="208/8323">Carlos A. Teixeira</na></co>
+<co c="0"><na f="t/Teixeira:Thiago" pid="12/6785">Thiago Teixeira</na></co>
+<co c="0"><na f="t/Tomita:Simone_S=" pid="258/4113">Simone S. Tomita</na></co>
+<co c="0"><na f="v/Velho:Haroldo_F=_de_Campos" pid="91/7660">Haroldo F. de Campos Velho</na></co>
+<co c="0"><na f="w/Walko:Robert_L=" pid="73/10076">Robert L. Walko</na></co>
+<co c="0"><na f="w/Wang:Ko=Yang" pid="13/6722">Ko-Yang Wang</na></co>
+<co c="1"><na f="w/Wolf:William_R=" pid="227/1715">William R. Wolf</na></co>
+<co c="1"><na f="y/Yamouni:Sami" pid="261/2616">Sami Yamouni</na></co>
+</coauthors>
+</dblpperson>
+

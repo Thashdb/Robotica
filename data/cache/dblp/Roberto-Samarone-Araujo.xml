@@ -1,0 +1,415 @@
+<?xml version="1.0"?>
+<dblpperson name="Roberto Ara&#250;jo 0001" pid="145/5123" n="25">
+<person key="homepages/145/5123" mdate="2018-03-23">
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<author pid="145/5123">Roberto Samarone dos Santos Ara&#250;jo</author>
+<note type="affiliation">Federal University of Par&#225;, Bel&#233;m, Brazil</note>
+<note label="PhD 2008" type="affiliation">TU-Darmstadt, Germany</note>
+</person>
+<homonyms n="2">
+<h f="a/Ara=uacute=jo:Roberto"><name>Roberto Ara&#250;jo</name>
+</h>
+<h f="a/Ara=uacute=jo_0002:Roberto"><person key="homepages/26/1615-2" mdate="2018-03-23">
+<author pid="26/1615-2">Roberto Ara&#250;jo 0002</author>
+<note type="affiliation">Museu Paraense Em&#237;lio Goeldi, Bel&#233;m, Brazil</note>
+</person>
+</h>
+</homonyms>
+<r><inproceedings key="conf/evoteid/0001SCMT24" mdate="2025-03-26">
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<author pid="79/2420">Marcos A. Simpl&#237;cio Jr.</author>
+<author pid="216/6689">Eduardo Lopes Cominetti</author>
+<author pid="49/11148">Paulo Matias</author>
+<author pid="82/1924">Jacques Traor&#233;</author>
+<title>Is Benaloh Challenge Suitable.</title>
+<pages>61-65</pages>
+<year>2024</year>
+<booktitle>E-Vote-ID (GI)</booktitle>
+<ee type="oa">https://doi.org/10.18420/e-vote-id2024_04</ee>
+<crossref>conf/evoteid/2024-2</crossref>
+<url>db/conf/evoteid/evoteid2024-2.html#0001SCMT24</url>
+</inproceedings>
+</r>
+<r><article key="journals/access/CostaPCAA23" mdate="2023-03-21">
+<author orcid="0000-0002-4803-6737" pid="222/7765">Leonardo B. da Costa</author>
+<author orcid="0000-0002-2317-6258" pid="13/8172">Billy Pinheiro</author>
+<author orcid="0000-0001-7536-0586" pid="96/2183">Weverton Cordeiro</author>
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<author orcid="0000-0003-4085-6674" pid="16/7815">Ant&#244;nio J. G. Abel&#233;m</author>
+<title>Sec-Health: A Blockchain-Based Protocol for Securing Health Records.</title>
+<pages>16605-16620</pages>
+<year>2023</year>
+<volume>11</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2023.3245046</ee>
+<url>db/journals/access/access11.html#CostaPCAA23</url>
+</article>
+</r>
+<r><inproceedings key="conf/ihc/SaASNMT20" mdate="2025-01-19">
+<author pid="283/4084">Matheus O. L. de S&#225;</author>
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<author pid="283/4240">Alberto C. Lima Sobrinho</author>
+<author pid="233/8454">Andr&#233; Silva Neto</author>
+<author pid="283/4119">Gabriela S. Maximino</author>
+<author pid="82/1924">Jacques Traor&#233;</author>
+<title>How colored passwords can improve the usability of coercion-resistant internet voting systems.</title>
+<pages>49:1-49:6</pages>
+<year>2020</year>
+<booktitle>IHC</booktitle>
+<ee>https://doi.org/10.1145/3424953.3426555</ee>
+<ee>https://www.wikidata.org/entity/Q130972666</ee>
+<crossref>conf/ihc/2020</crossref>
+<url>db/conf/ihc/ihc2020.html#SaASNMT20</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijnm/CostaNPCAA19" mdate="2021-05-27">
+<author orcid="0000-0002-4803-6737" pid="222/7765">Leonardo B. da Costa</author>
+<author pid="233/8454">Andr&#233; Silva Neto</author>
+<author pid="13/8172">Billy Pinheiro</author>
+<author pid="96/2183">Weverton Cordeiro</author>
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<author orcid="0000-0003-4085-6674" pid="16/7815">Ant&#244;nio Abel&#233;m 0001</author>
+<title>Securing light clients in blockchain with DLCP.</title>
+<year>2019</year>
+<volume>29</volume>
+<journal>Int. J. Netw. Manag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/nem.2055</ee>
+<url>db/journals/ijnm/ijnm29.html#CostaNPCAA19</url>
+</article>
+</r>
+<r><inproceedings key="conf/healthcom/CostaP0A19" mdate="2021-05-27">
+<author pid="222/7765">Leonardo B. da Costa</author>
+<author pid="13/8172">Billy Pinheiro</author>
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<author orcid="0000-0003-4085-6674" pid="16/7815">Ant&#244;nio Abel&#233;m 0001</author>
+<title>A Decentralized Protocol for Securely Storing and Sharing Health Records.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>HealthCom</booktitle>
+<ee>https://doi.org/10.1109/HealthCom46333.2019.9009431</ee>
+<crossref>conf/healthcom/2019</crossref>
+<url>db/conf/healthcom/healthcom2019.html#CostaP0A19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ihc/NetoLAMNT18" mdate="2019-01-22">
+<author pid="233/8454">Andr&#233; Silva Neto</author>
+<author pid="233/8456">Matheus Leite</author>
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<author pid="182/3135">Marcelle Pereira Mota</author>
+<author pid="53/2419-1">Nelson Cruz Sampaio Neto</author>
+<author pid="82/1924">Jacques Traor&#233;</author>
+<title>Usability Considerations For Coercion-Resistant Election Systems.</title>
+<pages>40:1-40:10</pages>
+<year>2018</year>
+<booktitle>IHC</booktitle>
+<ee>https://doi.org/10.1145/3274192.3274232</ee>
+<crossref>conf/ihc/2018</crossref>
+<url>db/conf/ihc/ihc2018.html#NetoLAMNT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/CostaNPAAC18" mdate="2021-05-27">
+<author pid="222/7765">Leonardo B. da Costa</author>
+<author pid="233/8454">Andr&#233; Silva Neto</author>
+<author pid="13/8172">Billy Pinheiro</author>
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<author orcid="0000-0003-4085-6674" pid="16/7815">Ant&#244;nio Abel&#233;m 0001</author>
+<author pid="96/2183">Weverton Cordeiro</author>
+<title>DLCP: A protocol for securing light client operation in blockchains.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2018.8406309</ee>
+<crossref>conf/noms/2018</crossref>
+<url>db/conf/noms/noms2018.html#CostaNPAAC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fc/AraujoBBT16" mdate="2018-03-23">
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<author pid="180/5283">Amira Barki</author>
+<author pid="184/2494">Solenn Brunet</author>
+<author pid="82/1924">Jacques Traor&#233;</author>
+<title>Remote Electronic Voting Can Be Efficient, Verifiable and Coercion-Resistant.</title>
+<pages>224-232</pages>
+<year>2016</year>
+<booktitle>Financial Cryptography Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-53357-4_15</ee>
+<crossref>conf/fc/2016w</crossref>
+<url>db/conf/fc/fc2016w.html#AraujoBBT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lanc/LimaAVR16" mdate="2019-12-27">
+<author orcid="0000-0003-0904-4758" pid="190/1451">Hugo Lima</author>
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<author pid="190/1455">Raimundo Viegas</author>
+<author orcid="0000-0003-1119-2450" pid="61/7821">Denis do Ros&#225;rio</author>
+<title>A Secure Collaborative Network Protocol.</title>
+<pages>46-52</pages>
+<year>2016</year>
+<booktitle>LANC</booktitle>
+<ee>https://doi.org/10.1145/2998373.2998446</ee>
+<crossref>conf/lanc/2016</crossref>
+<url>db/conf/lanc/lanc2016.html#LimaAVR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/DinizFMSA15" mdate="2023-03-24">
+<author pid="170/5693">Thomas Diniz</author>
+<author pid="170/5631">Andre Castro de Felippe</author>
+<author pid="156/1957">Tain&#225; Medeiros</author>
+<author orcid="0000-0001-9608-439X" pid="78/7056">Carlos Eduardo da Silva</author>
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<title>Managing Access to Service Providers in Federated Identity Environments: A Case Study in a Cloud Storage Service.</title>
+<pages>199-207</pages>
+<year>2015</year>
+<booktitle>SBRC</booktitle>
+<ee>https://doi.org/10.1109/SBRC.2015.32</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBRC.2015.32</ee>
+<crossref>conf/sbrc/2015</crossref>
+<url>db/conf/sbrc/sbrc2015.html#DinizFMSA15</url>
+</inproceedings>
+</r>
+<r><article key="journals/ffa/DingCA14" mdate="2021-02-12">
+<author pid="42/393">Jintai Ding</author>
+<author pid="57/2789">Crystal Clough</author>
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<title>Inverting square systems algebraically is exponential.</title>
+<pages>32-48</pages>
+<year>2014</year>
+<volume>26</volume>
+<journal>Finite Fields Their Appl.</journal>
+<ee type="oa">https://doi.org/10.1016/j.ffa.2013.10.004</ee>
+<url>db/journals/ffa/ffa26.html#DingCA14</url>
+</article>
+</r>
+<r><inproceedings key="conf/healthcom/SilvaASC14" mdate="2021-10-14">
+<author pid="156/6922">Lucas de Melo Silva</author>
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<author orcid="0000-0002-2799-3503" pid="156/7133">Felipe Leite da Silva</author>
+<author pid="18/4139">Eduardo Cerqueira</author>
+<title>A new architecture for secure storage and sharing of health records in the cloud using federated identity attributes.</title>
+<pages>194-199</pages>
+<year>2014</year>
+<booktitle>Healthcom</booktitle>
+<ee>https://doi.org/10.1109/HealthCom.2014.7001840</ee>
+<crossref>conf/healthcom/2014</crossref>
+<url>db/conf/healthcom/healthcom2014.html#SilvaASC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/voteid/AraujoT13" mdate="2020-02-27">
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<author pid="82/1924">Jacques Traor&#233;</author>
+<title>A Practical Coercion Resistant Voting Scheme Revisited.</title>
+<pages>193-209</pages>
+<year>2013</year>
+<booktitle>VoteID</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-39185-9_12</ee>
+<crossref>conf/voteid/2013</crossref>
+<url>db/conf/voteid/voteid2013.html#AraujoT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uss/DemirelGA12" mdate="2021-02-01">
+<author pid="85/10370">Denise Demirel</author>
+<author pid="27/6925">Jeroen van de Graaf</author>
+<author pid="145/5123">Roberto Samarone dos Santos Ara&#250;jo</author>
+<title>Improving Helios with Everlasting Privacy Towards the Public.</title>
+<year>2012</year>
+<booktitle>EVT/WOTE</booktitle>
+<ee type="oa">https://www.usenix.org/conference/evtwote12/workshop-program/presentation/demirel</ee>
+<crossref>conf/uss/2012evt</crossref>
+<url>db/conf/uss/evt-wote2012.html#DemirelGA12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cans/AraujoRRTY10" mdate="2024-10-06">
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<author pid="06/7130">Narjes Ben Rajeb</author>
+<author pid="15/5421">Riadh Robbana</author>
+<author pid="82/1924">Jacques Traor&#233;</author>
+<author orcid="0000-0003-0810-0869" pid="32/8559">Souheib Yousfi</author>
+<title>Towards Practical and Secure Coercion-Resistant Electronic Elections.</title>
+<pages>278-297</pages>
+<year>2010</year>
+<booktitle>CANS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-17619-7_20</ee>
+<crossref>conf/cans/2010</crossref>
+<url>db/conf/cans/cans2010.html#AraujoRRTY10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wote/AraujoCG10" mdate="2018-03-23">
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
+<author pid="27/6925">Jeroen van de Graaf</author>
+<title>A Verifiable Voting Protocol Based on Farnel.</title>
+<pages>274-288</pages>
+<year>2010</year>
+<booktitle>Towards Trustworthy Elections</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-12980-3_17</ee>
+<crossref>conf/wote/2010lncs</crossref>
+<url>db/conf/wote/lncs6000.html#AraujoCG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wote/AraujoFT10" mdate="2018-03-23">
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<author pid="07/5998">S&#233;bastien Foulle</author>
+<author pid="82/1924">Jacques Traor&#233;</author>
+<title>A Practical and Secure Coercion-Resistant Scheme for Internet Voting.</title>
+<pages>330-342</pages>
+<year>2010</year>
+<booktitle>Towards Trustworthy Elections</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-12980-3_20</ee>
+<crossref>conf/wote/2010lncs</crossref>
+<url>db/conf/wote/lncs6000.html#AraujoFT10</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/de/Araujo2008" mdate="2021-07-17">
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<title>On remote and voter-verifiable voting.</title>
+<year>2008</year>
+<school>Darmstadt University of Technology, Germany</school>
+<pages>1-93</pages>
+<ee>http://tuprints.ulb.tu-darmstadt.de/1212/</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:tuda-tuprints-12128</ee>
+<ee>https://d-nb.info/992687748</ee>
+<ee>https://d-nb.info/993930433</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/biosig/MeisterHEA08" mdate="2023-07-04">
+<author pid="63/1220">Gisela Meister</author>
+<author pid="69/5320">Detlef H&#252;hnlein</author>
+<author pid="33/1995">Jan Eichholz</author>
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<title>eVoting with the European Citizen Card.</title>
+<pages>67-78</pages>
+<year>2008</year>
+<booktitle>BIOSIG</booktitle>
+<crossref>conf/biosig/2008</crossref>
+<url>db/conf/biosig/biosig2008.html#MeisterHEA08</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/21199</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings137/article2260.html</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ev/AraujoR08" mdate="2023-07-04">
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<author pid="r/PeterYARyan">Peter Y. A. Ryan</author>
+<title>Improving the Farnel Voting Scheme.</title>
+<pages>169-182</pages>
+<year>2008</year>
+<booktitle>Electronic Voting</booktitle>
+<crossref>conf/ev/2008</crossref>
+<url>db/conf/ev/ev2008.html#AraujoR08</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/29180</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings131/article5068.html</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gi/LangerSA07" mdate="2023-07-04">
+<author pid="44/4475">Lucie Langer</author>
+<author pid="07/5951-1">Axel Schmidt 0001</author>
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<title>A pervasively verifiable online voting scheme.</title>
+<pages>457-462</pages>
+<year>2008</year>
+<booktitle>GI Jahrestagung (1)</booktitle>
+<crossref>conf/gi/2008-1</crossref>
+<url>db/conf/gi/gi2008-1.html#LangerSA07</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/21408</ee>
+<ee>https://subs.emis.de/LNI/Proceedings/Proceedings133/article4496.html</ee>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/AraujoR08" mdate="2020-05-11">
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<author pid="r/PeterYARyan">Peter Y. A. Ryan</author>
+<title>Improving the Farnel, Threeballot, and Randell-Ryan Voting Schemes.</title>
+<pages>82</pages>
+<year>2008</year>
+<volume>2008</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2008/082</ee>
+<url>db/journals/iacr/iacr2008.html#AraujoR08</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEares/WeberAB07" mdate="2023-03-24">
+<author pid="19/447">Stefan G. Weber</author>
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<author pid="b/JohannesBuchmann">Johannes Buchmann 0001</author>
+<title>On Coercion-Resistant Electronic Elections with Linear Work.</title>
+<pages>908-916</pages>
+<year>2007</year>
+<booktitle>ARES</booktitle>
+<ee>https://doi.org/10.1109/ARES.2007.108</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ARES.2007.108</ee>
+<crossref>conf/IEEEares/2007</crossref>
+<url>db/conf/IEEEares/ares2007.html#WeberAB07</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/AraujoFT07" mdate="2018-08-23">
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<author pid="07/5998">S&#233;bastien Foulle</author>
+<author pid="82/1924">Jacques Traor&#233;</author>
+<title>A practical and secure coercion-resistant scheme for remote elections.</title>
+<year>2007</year>
+<booktitle>Frontiers of Electronic Voting</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2008/1295</ee>
+<crossref>conf/dagstuhl/2007P7311</crossref>
+<url>db/conf/dagstuhl/P7311.html#AraujoFT07</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/AraujoCG07" mdate="2020-05-11">
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
+<author pid="27/6925">Jeroen van de Graaf</author>
+<title>A Verifiable Voting Protocol based on Farnel.</title>
+<pages>252</pages>
+<year>2007</year>
+<volume>2007</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2007/252</ee>
+<url>db/journals/iacr/iacr2007.html#AraujoCG07</url>
+</article>
+</r>
+<coauthors n="44" nc="3">
+<co c="0" n="2"><na f="a/Abel=eacute=m:Ant=ocirc=nio_J=_G=" pid="16/7815">Ant&#244;nio J. G. Abel&#233;m</na><na>Ant&#244;nio Abel&#233;m 0001</na></co>
+<co c="0"><na f="b/Barki:Amira" pid="180/5283">Amira Barki</na></co>
+<co c="0"><na f="b/Brunet:Solenn" pid="184/2494">Solenn Brunet</na></co>
+<co c="1"><na f="b/Buchmann_0001:Johannes" pid="b/JohannesBuchmann">Johannes Buchmann 0001</na></co>
+<co c="0"><na f="c/Cerqueira:Eduardo" pid="18/4139">Eduardo Cerqueira</na></co>
+<co c="1" n="2"><na f="c/Clough:Crystal_Lee" pid="57/2789">Crystal Lee Clough</na><na>Crystal Clough</na></co>
+<co c="0"><na f="c/Cominetti:Eduardo_Lopes" pid="216/6689">Eduardo Lopes Cominetti</na></co>
+<co c="0" n="2"><na f="c/Cordeiro:Weverton_Luis_da_Costa" pid="96/2183">Weverton Luis da Costa Cordeiro</na><na>Weverton Cordeiro</na></co>
+<co c="0"><na f="c/Costa:Leonardo_B=_da" pid="222/7765">Leonardo B. da Costa</na></co>
+<co c="1"><na f="c/Cust=oacute=dio:Ricardo_Felipe" pid="95/6830">Ricardo Felipe Cust&#243;dio</na></co>
+<co c="1"><na f="d/Demirel:Denise" pid="85/10370">Denise Demirel</na></co>
+<co c="1"><na f="d/Ding:Jintai" pid="42/393">Jintai Ding</na></co>
+<co c="2"><na f="d/Diniz:Thomas" pid="170/5693">Thomas Diniz</na></co>
+<co c="1"><na f="e/Eichholz:Jan" pid="33/1995">Jan Eichholz</na></co>
+<co c="2"><na f="f/Felippe:Andre_Castro_de" pid="170/5631">Andre Castro de Felippe</na></co>
+<co c="0"><na f="f/Foulle:S=eacute=bastien" pid="07/5998">S&#233;bastien Foulle</na></co>
+<co c="1"><na f="g/Graaf:Jeroen_van_de" pid="27/6925">Jeroen van de Graaf</na></co>
+<co c="1"><na f="h/H=uuml=hnlein:Detlef" pid="69/5320">Detlef H&#252;hnlein</na></co>
+<co c="1"><na f="l/Langer:Lucie" pid="44/4475">Lucie Langer</na></co>
+<co c="0"><na f="l/Leite:Matheus" pid="233/8456">Matheus Leite</na></co>
+<co c="0"><na f="l/Lima:Hugo" pid="190/1451">Hugo Lima</na></co>
+<co c="0"><na f="m/Matias:Paulo" pid="49/11148">Paulo Matias</na></co>
+<co c="0"><na f="m/Maximino:Gabriela_S=" pid="283/4119">Gabriela S. Maximino</na></co>
+<co c="2"><na f="m/Medeiros:Tain=aacute=" pid="156/1957">Tain&#225; Medeiros</na></co>
+<co c="1"><na f="m/Meister:Gisela" pid="63/1220">Gisela Meister</na></co>
+<co c="0" n="2"><na f="m/Mota:Marcelle" pid="182/3135">Marcelle Mota</na><na>Marcelle Pereira Mota</na></co>
+<co c="0"><na f="n/Neto:Andr=eacute=_Silva" pid="233/8454">Andr&#233; Silva Neto</na></co>
+<co c="0" n="2"><na f="n/Neto_0001:Nelson" pid="53/2419-1">Nelson Neto 0001</na><na>Nelson Cruz Sampaio Neto</na></co>
+<co c="0"><na f="p/Pinheiro:Billy" pid="13/8172">Billy Pinheiro</na></co>
+<co c="0"><na f="r/Rajeb:Narjes_Ben" pid="06/7130">Narjes Ben Rajeb</na></co>
+<co c="0"><na f="r/Robbana:Riadh" pid="15/5421">Riadh Robbana</na></co>
+<co c="0"><na f="r/Ros=aacute=rio:Denis_do" pid="61/7821">Denis do Ros&#225;rio</na></co>
+<co c="1"><na f="r/Ryan:Peter_Y=_A=" pid="r/PeterYARyan">Peter Y. A. Ryan</na></co>
+<co c="0"><na f="s/S=aacute=:Matheus_O=_L=_de" pid="283/4084">Matheus O. L. de S&#225;</na></co>
+<co c="1"><na f="s/Schmidt_0001:Axel" pid="07/5951-1">Axel Schmidt 0001</na></co>
+<co c="2"><na f="s/Silva:Carlos_Eduardo_da" pid="78/7056">Carlos Eduardo da Silva</na></co>
+<co c="0"><na f="s/Silva:Felipe_Leite_da" pid="156/7133">Felipe Leite da Silva</na></co>
+<co c="0"><na f="s/Silva:Lucas_de_Melo" pid="156/6922">Lucas de Melo Silva</na></co>
+<co c="0"><na f="s/Simpl=iacute=cio_Jr=:Marcos_A=" pid="79/2420">Marcos A. Simpl&#237;cio Jr.</na></co>
+<co c="0"><na f="s/Sobrinho:Alberto_C=_Lima" pid="283/4240">Alberto C. Lima Sobrinho</na></co>
+<co c="0"><na f="t/Traor=eacute=:Jacques" pid="82/1924">Jacques Traor&#233;</na></co>
+<co c="0"><na f="v/Viegas:Raimundo" pid="190/1455">Raimundo Viegas</na></co>
+<co c="1"><na f="w/Weber:Stefan_G=" pid="19/447">Stefan G. Weber</na></co>
+<co c="0"><na f="y/Yousfi:Souheib" pid="32/8559">Souheib Yousfi</na></co>
+</coauthors>
+</dblpperson>
+

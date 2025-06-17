@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<dblpperson name="Daniel Fireman" pid="45/6617" n="13">
+<person key="homepages/45/6617" mdate="2009-06-10">
+<author pid="45/6617">Daniel Fireman</author>
+</person>
+<r><article key="journals/fgcs/FiremanSPMV24" mdate="2024-05-31">
+<author orcid="0000-0003-2283-0913" pid="45/6617">Daniel Fireman</author>
+<author pid="39/6329">Paulo Silva</author>
+<author pid="140/9447">Thiago Emmanuel Pereira</author>
+<author pid="376/2750">Luis Mafra</author>
+<author pid="222/1995">Dalton C. G. Valadares</author>
+<title>Prebaking runtime environments to improve the FaaS cold start latency.</title>
+<pages>287-299</pages>
+<year>2024</year>
+<volume>155</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2024.01.019</ee>
+<url>db/journals/fgcs/fgcs155.html#FiremanSPMV24</url>
+</article>
+</r>
+<r><phdthesis key="phd/lareferencia/FIREMAN21" mdate="2025-04-14">
+<author pid="45/6617">Daniel Fireman</author>
+<title>Improving tail latency of interactive cloud microservices through management of background tasks.</title>
+<school>Federal University of Campina Grande, Brazil</school>
+<year>2021</year>
+<note type="source">LaReferencia (lareferencia.info): oai:localhost:riufcg/21345</note>
+<ee>http://dspace.sti.ufcg.edu.br:8080/jspui/handle/riufcg/21345</ee>
+</phdthesis>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2106-15555" mdate="2021-07-05">
+<author pid="232/8131">David Ferreira Quaresma</author>
+<author pid="140/9447">Thiago Emmanuel Pereira</author>
+<author pid="45/6617">Daniel Fireman</author>
+<title>Validation of a simulation model for FaaS performance benchmarking using predictive validation.</title>
+<year>2021</year>
+<volume>abs/2106.15555</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2106.15555</ee>
+<url>db/journals/corr/corr2106.html#abs-2106-15555</url>
+</article>
+</r>
+<r><inproceedings key="conf/middleware/SilvaFP20" mdate="2020-12-15">
+<author pid="39/6329">Paulo Silva</author>
+<author pid="45/6617">Daniel Fireman</author>
+<author pid="140/9447">Thiago Emmanuel Pereira</author>
+<title>Prebaking Functions to Warm the Serverless Cold Start.</title>
+<pages>1-13</pages>
+<year>2020</year>
+<booktitle>Middleware</booktitle>
+<ee>https://doi.org/10.1145/3423211.3425682</ee>
+<crossref>conf/middleware/2020</crossref>
+<url>db/conf/middleware/middleware2020.html#SilvaFP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/QuaresmaFP20" mdate="2020-10-29">
+<author pid="232/8131">David Quaresma</author>
+<author pid="45/6617">Daniel Fireman</author>
+<author pid="140/9447">Thiago Emmanuel Pereira</author>
+<title>Controlling Garbage Collection and Request Admission to Improve Performance of FaaS Applications.</title>
+<pages>175-182</pages>
+<year>2020</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD49847.2020.00033</ee>
+<crossref>conf/sbac-pad/2020</crossref>
+<url>db/conf/sbac-pad/sbac-pad2020.html#QuaresmaFP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloudcom/FiremanBLQP18" mdate="2023-03-24">
+<author pid="45/6617">Daniel Fireman</author>
+<author pid="41/4431">Jo&#227;o Brunet</author>
+<author pid="51/3127">Raquel Lopes 0001</author>
+<author pid="232/8131">David Quaresma</author>
+<author pid="140/9447">Thiago Emmanuel Pereira</author>
+<title>Improving Tail Latency of Stateful Cloud Services via GC Control and Load Shedding.</title>
+<pages>121-128</pages>
+<year>2018</year>
+<booktitle>CloudCom</booktitle>
+<ee>https://doi.org/10.1109/CloudCom2018.2018.00034</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CloudCom2018.2018.00034</ee>
+<crossref>conf/cloudcom/2018</crossref>
+<url>db/conf/cloudcom/cloudcom2018.html#FiremanBLQP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/FiremanLB17" mdate="2022-01-19">
+<author pid="45/6617">Daniel Fireman</author>
+<author pid="51/3127">Raquel Lopes 0001</author>
+<author pid="41/4431">Jo&#227;o Brunet</author>
+<title>Using Load Shedding to Fight Tail-Latency on Runtime-Based Services.</title>
+<year>2017</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://sol.sbc.org.br/index.php/sbrc/article/view/2677</ee>
+<crossref>conf/sbrc/2017</crossref>
+<url>db/conf/sbrc/sbrc2017.html#FiremanLB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/TeodoroOFGF09" mdate="2023-03-23">
+<author pid="78/87">George Teodoro</author>
+<author orcid="0000-0003-0800-5984" pid="54/727">Rafael Sachetto Oliveira</author>
+<author orcid="0000-0003-2283-0913" pid="45/6617">Daniel Fireman</author>
+<author orcid="0000-0003-0865-1417" pid="n/DorgivalOlavoGuedesNeto">Dorgival O. Guedes</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>Exploiting Computational Resources in Distributed Heterogeneous Platforms.</title>
+<pages>83-90</pages>
+<year>2009</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2009.14</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2009.14</ee>
+<crossref>conf/sbac-pad/2009</crossref>
+<url>db/conf/sbac-pad/sbac-pad2009.html#TeodoroOFGF09</url>
+</inproceedings>
+</r>
+<r><article key="journals/fgcs/RoseFCCCF08" mdate="2022-01-03">
+<author orcid="0000-0003-0070-0157" pid="95/5199">C&#233;sar A. F. De Rose</author>
+<author orcid="0000-0001-8485-529X" pid="78/3004">Tiago Ferreto</author>
+<author orcid="0000-0001-7435-2445" pid="78/6512">Rodrigo N. Calheiros</author>
+<author pid="20/2031">Walfredo Cirne</author>
+<author orcid="0000-0003-2951-0752" pid="83/7602">Lauro Costa</author>
+<author orcid="0000-0003-2283-0913" pid="45/6617">Daniel Fireman</author>
+<title>Allocation strategies for utilization of space-shared resources in Bag of Tasks grids.</title>
+<pages>331-341</pages>
+<year>2008</year>
+<volume>24</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/j.future.2007.05.005</ee>
+<url>db/journals/fgcs/fgcs24.html#RoseFCCCF08</url>
+</article>
+</r>
+<r><inproceedings key="conf/icpp/TeodoroFNMF08" mdate="2023-03-24">
+<author pid="78/87">George Teodoro</author>
+<author orcid="0000-0003-2283-0913" pid="45/6617">Daniel Fireman</author>
+<author orcid="0000-0003-0865-1417" pid="n/DorgivalOlavoGuedesNeto">Dorgival Olavo Guedes Neto</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>Achieving Multi-Level Parallelism in the Filter-Labeled Stream Programming Model.</title>
+<pages>287-294</pages>
+<year>2008</year>
+<booktitle>ICPP</booktitle>
+<ee>https://doi.org/10.1109/ICPP.2008.72</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICPP.2008.72</ee>
+<crossref>conf/icpp/2008</crossref>
+<url>db/conf/icpp/icpp2008.html#TeodoroFNMF08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/FiremanTCF08" mdate="2023-03-23">
+<author orcid="0000-0003-2283-0913" pid="45/6617">Daniel Fireman</author>
+<author pid="78/87">George Teodoro</author>
+<author pid="77/4745">Andr&#233; Cardoso</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>A Reconfigurable Run-Time System for Filter-Stream Applications.</title>
+<pages>149-156</pages>
+<year>2008</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2008.28</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2008.28</ee>
+<crossref>conf/sbac-pad/2008</crossref>
+<url>db/conf/sbac-pad/sbac-pad2008.html#FiremanTCF08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/LimaCBF06" mdate="2025-03-03">
+<author pid="66/6150">Aliandro Lima</author>
+<author pid="20/2031">Walfredo Cirne</author>
+<author orcid="0000-0001-9631-0190" pid="b/FranciscoVilarBrasileiro">Francisco Vilar Brasileiro</author>
+<author pid="45/6617">Daniel Fireman</author>
+<title>A Case for Event-Driven Distributed Objects.</title>
+<pages>1705-1721</pages>
+<year>2006</year>
+<crossref>conf/otm/2006-2</crossref>
+<booktitle>OTM Conferences (2)</booktitle>
+<ee>https://doi.org/10.1007/11914952_46</ee>
+<url>db/conf/otm/otm2006-2.html#LimaCBF06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/CostaCF05" mdate="2023-03-23">
+<author orcid="0000-0003-2951-0752" pid="83/7602">Lauro Costa</author>
+<author pid="20/2031">Walfredo Cirne</author>
+<author orcid="0000-0003-2283-0913" pid="45/6617">Daniel Fireman</author>
+<title>Converting Space Shared Resources into Intermittent Resources for use in Bag-of-Tasks Grids.</title>
+<pages>243-250</pages>
+<year>2005</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/CAHPC.2005.20</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CAHPC.2005.20</ee>
+<crossref>conf/sbac-pad/2005</crossref>
+<url>db/conf/sbac-pad/sbac-pad2005.html#CostaCF05</url>
+</inproceedings>
+</r>
+<coauthors n="20" nc="1">
+<co c="0"><na f="b/Brasileiro:Francisco_Vilar" pid="b/FranciscoVilarBrasileiro">Francisco Vilar Brasileiro</na></co>
+<co c="0"><na f="b/Brunet:Jo=atilde=o" pid="41/4431">Jo&#227;o Brunet</na></co>
+<co c="0"><na f="c/Calheiros:Rodrigo_N=" pid="78/6512">Rodrigo N. Calheiros</na></co>
+<co c="0"><na f="c/Cardoso:Andr=eacute=" pid="77/4745">Andr&#233; Cardoso</na></co>
+<co c="0"><na f="c/Cirne:Walfredo" pid="20/2031">Walfredo Cirne</na></co>
+<co c="0" n="2"><na f="c/Costa:Lauro_Beltr=atilde=o" pid="83/7602">Lauro Beltr&#227;o Costa</na><na>Lauro Costa</na></co>
+<co c="0"><na f="f/Ferreira_0001:Renato" pid="f/RACFerreira">Renato Ferreira 0001</na></co>
+<co c="0"><na f="f/Ferreto:Tiago" pid="78/3004">Tiago Ferreto</na></co>
+<co c="0" n="2"><na f="g/Guedes:Dorgival_O=" pid="n/DorgivalOlavoGuedesNeto">Dorgival O. Guedes</na><na>Dorgival Olavo Guedes Neto</na></co>
+<co c="0"><na f="l/Lima:Aliandro" pid="66/6150">Aliandro Lima</na></co>
+<co c="0"><na f="l/Lopes_0001:Raquel" pid="51/3127">Raquel Lopes 0001</na></co>
+<co c="0"><na f="m/Mafra:Luis" pid="376/2750">Luis Mafra</na></co>
+<co c="0"><na f="m/Meira_Jr=:Wagner" pid="m/WagnerMeiraJr">Wagner Meira Jr.</na></co>
+<co c="0"><na f="o/Oliveira:Rafael_Sachetto" pid="54/727">Rafael Sachetto Oliveira</na></co>
+<co c="0"><na f="p/Pereira:Thiago_Emmanuel" pid="140/9447">Thiago Emmanuel Pereira</na></co>
+<co c="0" n="2"><na f="q/Quaresma:David" pid="232/8131">David Quaresma</na><na>David Ferreira Quaresma</na></co>
+<co c="0"><na f="r/Rose:C=eacute=sar_A=_F=_De" pid="95/5199">C&#233;sar A. F. De Rose</na></co>
+<co c="0"><na f="s/Silva:Paulo" pid="39/6329">Paulo Silva</na></co>
+<co c="0"><na f="t/Teodoro:George" pid="78/87">George Teodoro</na></co>
+<co c="0"><na f="v/Valadares:Dalton_C=_G=" pid="222/1995">Dalton C. G. Valadares</na></co>
+</coauthors>
+</dblpperson>
+

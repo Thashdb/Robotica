@@ -1,0 +1,743 @@
+<?xml version="1.0"?>
+<dblpperson name="Eduardo Aranha" pid="31/1490" n="42">
+<person key="homepages/31/1490" mdate="2018-08-16">
+<author pid="31/1490">Eduardo Aranha</author>
+<author pid="31/1490">Eduardo Henrique da Silva Aranha</author>
+</person>
+<r><article key="journals/cn/SilvaSSBFPMSNCSAMKINFSF24" mdate="2024-10-06">
+<author pid="143/2255">Felipe Sampaio Dantas da Silva</author>
+<author orcid="0000-0002-6958-6754" pid="188/4458">S&#233;rgio N. Silva</author>
+<author pid="233/2256">Lucileide M. D. Da Silva</author>
+<author pid="362/9209">Ayuri Bessa</author>
+<author pid="282/5488">Samuel Ferino</author>
+<author pid="362/9023">Pablo Paiva</author>
+<author pid="254/6579">Marcos Medeiros</author>
+<author pid="179/0702">Lucas Silva</author>
+<author pid="388/9299">Jos&#233; Neto</author>
+<author pid="199/7767">Kevin B. Costa</author>
+<author pid="209/9136">Charles H. F. dos Santos</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<author orcid="0000-0002-9486-4509" pid="22/3973">Allan de M. Martins</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="123/3333">Roger Immich</author>
+<author pid="88/6376">Augusto J. V. Neto</author>
+<author pid="170/5555">Ramon R. Fontes</author>
+<author pid="335/9718">Vicente Sousa</author>
+<author orcid="0000-0001-7536-2506" pid="135/7822">Marcelo A. C. Fernandes</author>
+<title>ML-based inter-slice load balancing control for proactive offloading of virtual services.</title>
+<pages>110422</pages>
+<year>2024</year>
+<volume>246</volume>
+<journal>Comput. Networks</journal>
+<ee>https://doi.org/10.1016/j.comnet.2024.110422</ee>
+<url>db/journals/cn/cn246.html#SilvaSSBFPMSNCSAMKINFSF24</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/FerinoFCABKAT23" mdate="2024-05-07">
+<author pid="282/5488">Samuel Ferino</author>
+<author pid="135/7822">Marcelo Fernandes 0002</author>
+<author pid="49/1805">Elder Cirilo</author>
+<author pid="340/3686">Lucas Agnez</author>
+<author pid="340/3746">Bruno Batista</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<author orcid="0000-0002-6919-2149" pid="29/1074">Christoph Treude</author>
+<title>Overcoming Challenges in DevOps Education through Teaching Method.</title>
+<pages>166-178</pages>
+<year>2023</year>
+<booktitle>SEET@ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE-SEET58685.2023.00022</ee>
+<crossref>conf/icse/2023seet</crossref>
+<url>db/conf/icse/seet2023.html#FerinoFCABKAT23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/inns-dlia/AlvesGBRFMSFANF23" mdate="2024-10-06">
+<author pid="338/1050">Pedro V. A. Alves</author>
+<author orcid="0009-0003-2176-793X" pid="356/9672">Mateus A. S. S. Goldbarg</author>
+<author pid="267/5734">Wysterl&#226;nya K. P. Barros</author>
+<author pid="357/0095">Iago D. Rego</author>
+<author pid="356/9974">Vin&#237;cius J. M. T. Filho</author>
+<author orcid="0000-0002-9486-4509" pid="22/3973">Allan de M. Martins</author>
+<author pid="15/23">Vicente A. de Sousa Jr.</author>
+<author pid="170/5555">Ramon dos Reis Fontes</author>
+<author pid="31/1490">Eduardo Henrique da Silva Aranha</author>
+<author pid="88/6376">Augusto Jos&#233; Ven&#226;ncio Neto</author>
+<author pid="135/7822">Marcelo A. C. Fernandes</author>
+<title>Machine Learning Applied to Anomaly Detection on 5G O-RAN Architecture.</title>
+<pages>81-93</pages>
+<year>2023</year>
+<booktitle>INNS DLIA@IJCNN</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.procs.2023.08.146</ee>
+<crossref>conf/inns-dlia/2023</crossref>
+<url>db/conf/inns-dlia/inns-dlia2023.html#AlvesGBRFMSFANF23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nfvsdn/SilvaBSFPMSNCSMSIIAMSKFSPFN23" mdate="2024-10-06">
+<author pid="143/2255">Felipe Sampaio Dantas da Silva</author>
+<author pid="362/9209">Ayuri Bessa</author>
+<author orcid="0000-0002-6958-6754" pid="188/4458">S&#233;rgio N. Silva</author>
+<author pid="282/5488">Samuel Ferino</author>
+<author pid="362/9023">Pablo Paiva</author>
+<author pid="254/6579">Marcos Medeiros</author>
+<author pid="179/0702">Lucas Silva</author>
+<author pid="388/9299">Jos&#233; Neto</author>
+<author pid="199/7767">Kevin B. Costa</author>
+<author pid="209/9136">Charles H. F. dos Santos</author>
+<author pid="170/2631">Douglas Braz Maciel</author>
+<author pid="233/2256">Lucileide M. D. Da Silva</author>
+<author pid="362/9095">Anderson Inoue</author>
+<author pid="123/3333">Roger Immich</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<author orcid="0000-0002-9486-4509" pid="22/3973">Allan de M. Martins</author>
+<author pid="335/9718">Vicente Sousa</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="135/7822">Marcelo Fernandes 0002</author>
+<author pid="122/1236">Marcos Salvador</author>
+<author pid="362/9211">Guilherme Pupio</author>
+<author pid="170/5555">Ramon R. Fontes</author>
+<author pid="88/6376">Augusto Neto 0001</author>
+<title>Proactive ML-Assisted and Quality-Driven Slice Application Service Management to Keep QoE in 5G Mobile Networks.</title>
+<pages>182-184</pages>
+<year>2023</year>
+<booktitle>NFV-SDN</booktitle>
+<ee>https://doi.org/10.1109/NFV-SDN59219.2023.10329589</ee>
+<crossref>conf/nfvsdn/2023</crossref>
+<url>db/conf/nfvsdn/nfvsdn2023.html#SilvaBSFPMSNCSMSIIAMSKFSPFN23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-05564" mdate="2024-05-07">
+<author pid="282/5488">Samuel Ferino</author>
+<author pid="135/7822">Marcelo Fernandes 0002</author>
+<author pid="49/1805">Elder Cirilo</author>
+<author pid="340/3686">Lucas Agnez</author>
+<author pid="340/3746">Bruno Batista</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<author orcid="0000-0002-6919-2149" pid="29/1074">Christoph Treude</author>
+<title>Overcoming Challenges in DevOps Education through Teaching Methods.</title>
+<year>2023</year>
+<volume>abs/2302.05564</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.05564</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-05564</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/FernandesFFKAT22" mdate="2025-01-19">
+<author pid="135/7822">Marcelo Fernandes 0002</author>
+<author pid="282/5488">Samuel Ferino</author>
+<author pid="303/3293">Anny Fernandes</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<author orcid="0000-0002-6919-2149" pid="29/1074">Christoph Treude</author>
+<title>DevOps Education: An Interview Study of Challenges and Recommendations.</title>
+<pages>90-101</pages>
+<year>2022</year>
+<booktitle>ICSE (SEET)</booktitle>
+<ee>https://doi.org/10.1109/ICSE-SEET55299.2022.9794182</ee>
+<ee>https://doi.org/10.1145/3510456.3514152</ee>
+<ee>https://www.wikidata.org/entity/Q131009361</ee>
+<crossref>conf/icse/2022seet</crossref>
+<url>db/conf/icse/seet2022.html#FernandesFFKAT22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nfvsdn/RegoMAGLFBFSAMF22" mdate="2024-10-06">
+<author pid="357/0095">Iago D. Rego</author>
+<author pid="335/9427">Lucas Medeiros</author>
+<author pid="338/1050">Pedro V. A. Alves</author>
+<author orcid="0009-0003-2176-793X" pid="356/9672">Mateus A. S. S. Goldbarg</author>
+<author pid="130/2242">Vitor Lopes</author>
+<author pid="333/7241">Daniel L. Flor</author>
+<author pid="267/5734">Wysterl&#226;nya K. P. Barros</author>
+<author pid="356/9974">Vin&#237;cius J. M. T. Filho</author>
+<author orcid="0000-0003-2859-6136" pid="335/9718">Vicente Sousa</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<author orcid="0000-0002-9486-4509" pid="22/3973">Allan de M. Martins</author>
+<author pid="135/7822">Marcelo Fernandes 0002</author>
+<author pid="170/5555">Ramon R. Fontes</author>
+<author orcid="0000-0002-9936-3770" pid="88/6376">Augusto Neto 0001</author>
+<title>Prototyping near-real time RIC O-RAN xApps for Flexible ML-based Spectrum Sensing.</title>
+<pages>137-142</pages>
+<year>2022</year>
+<booktitle>NFV-SDN</booktitle>
+<ee>https://doi.org/10.1109/NFV-SDN56302.2022.9974940</ee>
+<crossref>conf/nfvsdn/2022</crossref>
+<url>db/conf/nfvsdn/nfvsdn2022.html#RegoMAGLFBFSAMF22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-10324" mdate="2024-05-07">
+<author pid="135/7822">Marcelo Fernandes 0002</author>
+<author pid="282/5488">Samuel Ferino</author>
+<author pid="303/3293">Anny Fernandes</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<author orcid="0000-0002-6919-2149" pid="29/1074">Christoph Treude</author>
+<title>DevOps Education: An Interview Study of Challenges and Recommendations.</title>
+<year>2022</year>
+<volume>abs/2203.10324</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.10324</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-10324</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbes/Ferino0FKAT21" mdate="2024-05-07">
+<author pid="282/5488">Samuel Ferino</author>
+<author pid="135/7822">Marcelo Fernandes 0002</author>
+<author pid="303/3293">Anny Fernandes</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<author orcid="0000-0002-6919-2149" pid="29/1074">Christoph Treude</author>
+<title>Analyzing DevOps Teaching Strategies: An Initial Study.</title>
+<pages>180-185</pages>
+<year>2021</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3474624.3477071</ee>
+<crossref>conf/sbes/2021</crossref>
+<url>db/conf/sbes/sbes2021.html#Ferino0FKAT21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/FernandesALF20" mdate="2020-12-14">
+<author pid="248/3805">Kleber Tavares Fernandes</author>
+<author pid="31/1490">Eduardo Henrique da Silva Aranha</author>
+<author pid="47/3088">M&#225;rcia Jacyntha Nunes R. Lucena</author>
+<author pid="280/6903">Gildene Lima de Souza Fernandes</author>
+<title>Developing Computational Thinking and Reading and Writing Skills through an Approach for Creating Games.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE44824.2020.9274065</ee>
+<crossref>conf/fie/2020</crossref>
+<url>db/conf/fie/fie2020.html#FernandesALF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/SilvaSSA20" mdate="2020-12-14">
+<author pid="280/6764">Francisco Genivan Silva</author>
+<author pid="173/1223">Thiago Reis da Silva</author>
+<author pid="236/5430">Alan de Oliveira Santana</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<title>Behavior analysis of students in video classes.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE44824.2020.9274274</ee>
+<crossref>conf/fie/2020</crossref>
+<url>db/conf/fie/fie2020.html#SilvaSSA20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/FernandesFKA20" mdate="2022-08-18">
+<author pid="135/7822">Marcelo Fernandes 0002</author>
+<author pid="282/5488">Samuel Ferino</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<title>Challenges and Recommendations in DevOps Education: A Systematic Literature Review.</title>
+<pages>648-657</pages>
+<year>2020</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3422392.3422496</ee>
+<crossref>conf/sbes/2020</crossref>
+<url>db/conf/sbes/sbes2020.html#FernandesFKA20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/FernandesLA19" mdate="2019-09-06">
+<author pid="248/3805">Kleber Tavares Fernandes</author>
+<author pid="47/3088">M&#225;rcia Lucena</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<title>A Strategy for the Development of Computational Thinking from Game Design Specifications.</title>
+<pages>386-388</pages>
+<year>2019</year>
+<booktitle>ICALT</booktitle>
+<ee>https://doi.org/10.1109/ICALT.2019.00122</ee>
+<crossref>conf/icalt/2019</crossref>
+<url>db/conf/icalt/icalt2019.html#FernandesLA19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcse/SantanaA19" mdate="2019-03-04">
+<author pid="236/5430">Alan de Oliveira Santana</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<title>An Approach to Generate Virtual Tutors for Game Programming Classes.</title>
+<pages>246-252</pages>
+<year>2019</year>
+<booktitle>SIGCSE</booktitle>
+<ee>https://doi.org/10.1145/3287324.3287414</ee>
+<crossref>conf/sigcse/2019</crossref>
+<url>db/conf/sigcse/sigcse2019.html#SantanaA19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wer/NascimentoAKL18" mdate="2021-02-10">
+<author pid="237/7438">Rafael Nascimento</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="47/3088">M&#225;rcia Lucena</author>
+<title>Requirements Smells como indicadores de m&#225; qualidade na especifica&#231;&#227;o de requisitos: Um Mapeamento Sistem&#225;tico da Literatura.</title>
+<year>2018</year>
+<booktitle>WER</booktitle>
+<ee type="oa">https://doi.org/10.17771/PUCRio.wer.inf2018-40</ee>
+<crossref>conf/wer/2018</crossref>
+<url>db/conf/wer/wer2018.html#NascimentoAKL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/RegaladoAS16" mdate="2023-03-24">
+<author pid="193/1141">Murilo Rocha Regalado</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<author pid="173/1223">Thiago Reis da Silva</author>
+<title>Gamifying an online approach for promoting game development Learning and contest: An experience report.</title>
+<pages>1-8</pages>
+<year>2016</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE.2016.7757441</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757441</ee>
+<crossref>conf/fie/2016</crossref>
+<url>db/conf/fie/fie2016.html#RegaladoAS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/SilvaA16" mdate="2023-03-23">
+<author pid="173/1223">Thiago Reis da Silva</author>
+<author pid="31/1490">Eduardo Henrique da Silva Aranha</author>
+<title>An Empirical Study of Online K-12 Education for Programming Games.</title>
+<pages>255-259</pages>
+<year>2016</year>
+<booktitle>ICALT</booktitle>
+<ee>https://doi.org/10.1109/ICALT.2016.19</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICALT.2016.19</ee>
+<crossref>conf/icalt/2016</crossref>
+<url>db/conf/icalt/icalt2016.html#SilvaA16</url>
+</inproceedings>
+</r>
+<r><article key="journals/rbie/SilvaMMLA15" mdate="2024-02-29">
+<author pid="173/1223">Thiago Reis da Silva</author>
+<author pid="156/1957">Tain&#225; Medeiros</author>
+<author pid="369/7341">Handerson Medeiros</author>
+<author pid="369/7500">Ranyer Lopes</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<title>Ensino-aprendizagem de programa&#231;&#227;o: uma revis&#227;o sistem&#225;tica da literatura.</title>
+<pages>182-196</pages>
+<year>2015</year>
+<volume>23</volume>
+<journal>Revista Brasileira de Inform&#225;tica na Educ.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5753/rbie.2015.23.01.182</ee>
+<url>db/journals/rbie/rbie23.html#SilvaMMLA15</url>
+</article>
+</r>
+<r><inproceedings key="conf/cibse/SilvaMA15" mdate="2019-01-25">
+<author pid="173/1223">Thiago Reis da Silva</author>
+<author pid="156/1957">Tain&#225; Medeiros</author>
+<author pid="31/1490">Eduardo Henrique da Silva Aranha</author>
+<title>The Use of Games on the Teaching of Programming: A Systematic Review.</title>
+<pages>474</pages>
+<year>2015</year>
+<booktitle>CIbSE</booktitle>
+<crossref>conf/cibse/2015</crossref>
+<url>db/conf/cibse/cibse2015.html#SilvaMA15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/SilvaA15" mdate="2023-03-24">
+<author pid="173/1223">Thiago Reis da Silva</author>
+<author pid="31/1490">Eduardo Henrique da Silva Aranha</author>
+<title>Online game-based programming learning for high school students - A case study.</title>
+<pages>1-8</pages>
+<year>2015</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE.2015.7344131</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344131</ee>
+<crossref>conf/fie/2015</crossref>
+<url>db/conf/fie/fie2015.html#SilvaA15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/LucenaAAAJ15" mdate="2017-05-17">
+<author pid="47/3088">M&#225;rcia Lucena</author>
+<author pid="166/2178">Celso Agra</author>
+<author pid="31/5316">Fernanda M. R. Alencar</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<author pid="132/5798">Aline Jaqueira</author>
+<title>Integrating User Stories and i* Models - A Systematic Approach.</title>
+<pages>428-438</pages>
+<year>2015</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0005400904280438</ee>
+<crossref>conf/iceis/2015-2</crossref>
+<url>db/conf/iceis/iceis2015-2.html#LucenaAAAJ15</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijseke/FreireKANCJNAG14" mdate="2022-01-03">
+<author pid="41/8921">Mar&#237;lia Aranha Freire</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<author pid="161/8577">Gustavo Nery</author>
+<author pid="117/5533">Daniel Alencar da Costa</author>
+<author orcid="0000-0003-3590-6331" pid="17/6328">Andreas Jedlitschka</author>
+<author pid="117/6108">Edmilson Campos Neto</author>
+<author pid="72/693">Silvia Teresita Acu&#241;a</author>
+<author pid="49/786">Marta G&#243;mez</author>
+<title>Assessing and Evolving a Domain Specific Language for Formalizing Software Engineering Experiments: An Empirical Study.</title>
+<pages>1509-1532</pages>
+<year>2014</year>
+<volume>24</volume>
+<journal>Int. J. Softw. Eng. Knowl. Eng.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1142/S0218194014400178</ee>
+<url>db/journals/ijseke/ijseke24.html#FreireKANCJNAG14</url>
+</article>
+</r>
+<r><inproceedings key="conf/profes/NetoKFA14" mdate="2017-05-17">
+<author pid="117/6108">Edmilson Campos Neto</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="41/8921">Mar&#237;lia Aranha Freire</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<title>A Generative Development Method with Multiple Domain-Specific Languages.</title>
+<pages>178-193</pages>
+<year>2014</year>
+<booktitle>PROFES</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-13835-0_13</ee>
+<crossref>conf/profes/2014</crossref>
+<url>db/conf/profes/profes2014.html#NetoKFA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/profes/FreireSNKA14" mdate="2017-05-17">
+<author pid="41/8921">Mar&#237;lia Aranha Freire</author>
+<author pid="130/7589">Gustavo Siz&#237;lio</author>
+<author pid="117/6108">Edmilson Campos Neto</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<title>A Process-Oriented Environment for the Execution of Software Engineering Experiments.</title>
+<pages>290-293</pages>
+<year>2014</year>
+<booktitle>PROFES</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-13835-0_24</ee>
+<crossref>conf/profes/2014</crossref>
+<url>db/conf/profes/profes2014.html#FreireSNKA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/CostaKAC14" mdate="2018-11-06">
+<author pid="117/5533">Daniel Alencar da Costa</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<author pid="61/561">Roberta Coelho</author>
+<title>Unveiling developers contributions behind code commits: an exploratory study.</title>
+<pages>1152-1157</pages>
+<year>2014</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2554850.2555030</ee>
+<crossref>conf/sac/2014</crossref>
+<url>db/conf/sac/sac2014.html#CostaKAC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/FreireKAJNAG14" mdate="2015-01-19">
+<author pid="41/8921">Mar&#237;lia Aranha Freire</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<author pid="17/6328">Andreas Jedlitschka</author>
+<author pid="117/6108">Edmilson Campos Neto</author>
+<author pid="72/693">Silvia Teresita Acu&#241;a</author>
+<author pid="49/786">Marta G&#243;mez</author>
+<title>An Empirical Study to Evaluate a Domain Specific Language for Formalizing Software Engineering Experiments.</title>
+<pages>250-255</pages>
+<year>2014</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2014</crossref>
+<url>db/conf/seke/seke2014.html#FreireKAJNAG14</url>
+</inproceedings>
+</r>
+<r><article key="journals/eswa/SouzaPBA13" mdate="2017-05-26">
+<author pid="24/8766">Luciano S. de Souza</author>
+<author pid="76/1124">Ricardo B. C. Prud&#234;ncio</author>
+<author pid="b/FlaviaABarros">Fl&#225;via de Almeida Barros</author>
+<author pid="31/1490">Eduardo Henrique da Silva Aranha</author>
+<title>Search based constrained test case selection using execution effort.</title>
+<pages>4887-4896</pages>
+<year>2013</year>
+<volume>40</volume>
+<journal>Expert Syst. Appl.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1016/j.eswa.2013.02.018</ee>
+<url>db/journals/eswa/eswa40.html#SouzaPBA13</url>
+</article>
+</r>
+<r><inproceedings key="conf/istar/JaqueiraLACA13" mdate="2023-03-10">
+<author pid="132/5798">Aline Jaqueira</author>
+<author pid="47/3088">M&#225;rcia Lucena</author>
+<author pid="31/5316">Fernanda M. R. Alencar</author>
+<author pid="c/JBdCastro">Jaelson Castro</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<title>Using i * Models to Enrich User Stories.</title>
+<pages>55-60</pages>
+<year>2013</year>
+<booktitle>iStar</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-978/paper_10.pdf</ee>
+<crossref>conf/istar/2013</crossref>
+<url>db/conf/istar/istar2013.html#JaqueiraLACA13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/modelsward/NetoFKBA13" mdate="2017-05-23">
+<author pid="117/6108">Edmilson Campos Neto</author>
+<author pid="41/8921">Mar&#237;lia Aranha Freire</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="136/2059">Adorilson Bezerra</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<title>Composition of Domain Specific Modeling Languages - An Exploratory Study.</title>
+<pages>149-156</pages>
+<year>2013</year>
+<booktitle>MODELSWARD</booktitle>
+<ee>https://doi.org/10.5220/0004321401490156</ee>
+<crossref>conf/modelsward/2013</crossref>
+<url>db/conf/modelsward/modelsward2013.html#NetoFKBA13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/profes/FreireASNKAB13" mdate="2017-06-05">
+<author pid="41/8921">Mar&#237;lia Aranha Freire</author>
+<author pid="53/7000">Paola R. G. Accioly</author>
+<author pid="130/7589">Gustavo Siz&#237;lio</author>
+<author pid="117/6108">Edmilson Campos Neto</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<author orcid="0000-0002-0381-2843" pid="b/PauloBorba">Paulo Borba</author>
+<title>A Model-Driven Approach to Specifying and Monitoring Controlled Experiments in Software Engineering.</title>
+<pages>65-79</pages>
+<year>2013</year>
+<booktitle>PROFES</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-39259-7_8</ee>
+<crossref>conf/profes/2013</crossref>
+<url>db/conf/profes/profes2013.html#FreireASNKAB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/FreireCNMKAS13" mdate="2015-01-05">
+<author pid="41/8921">Mar&#237;lia Aranha Freire</author>
+<author pid="117/5533">Daniel Alencar da Costa</author>
+<author pid="117/6108">Edmilson Campos Neto</author>
+<author pid="156/1957">Tain&#225; Medeiros</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<author pid="58/232">S&#233;rgio Soares</author>
+<title>Automated Support for Controlled Experiments in Software Engineering: A Systematic Review (S).</title>
+<pages>504-509</pages>
+<year>2013</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2013</crossref>
+<url>db/conf/seke/seke2013.html#FreireCNMKAS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esem/MirandaAI12" mdate="2018-11-14">
+<author orcid="0000-0001-9608-9393" pid="119/0420">Breno Alexandro Ferreira de Miranda</author>
+<author pid="31/1490">Eduardo Henrique da Silva Aranha</author>
+<author pid="72/4526">Juliano Manabu Iyoda</author>
+<title>Recommender systems for manual testing: deciding how to assign tests in a test team.</title>
+<pages>201-210</pages>
+<year>2012</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1145/2372251.2372289</ee>
+<ee>https://www.wikidata.org/entity/Q57593977</ee>
+<crossref>conf/esem/2012</crossref>
+<url>db/conf/esem/esem2012.html#MirandaAI12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/FreireCAK12" mdate="2012-08-20">
+<author pid="41/8921">Mar&#237;lia Aranha Freire</author>
+<author pid="117/5533">Daniel Alencar da Costa</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<title>Software Process Monitoring Using Statistical Process Control Integrated in Workflow Systems.</title>
+<pages>557-562</pages>
+<year>2012</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2012</crossref>
+<url>db/conf/seke/seke2012.html#FreireCAK12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/FreireAKAC11" mdate="2011-12-09">
+<author pid="41/8921">Mar&#237;lia Aranha Freire</author>
+<author pid="80/8921">Fellipe Ara&#250;jo Aleixo</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<author pid="61/561">Roberta Coelho</author>
+<title>Automatic Deployment and Monitoring of Software Processes: A Model-Driven Approach.</title>
+<pages>42-47</pages>
+<year>2011</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2011</crossref>
+<url>db/conf/seke/seke2011.html#FreireAKAC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icst/BertoliniMAF10" mdate="2023-03-23">
+<author pid="86/3541">Cristiano Bertolini</author>
+<author pid="m/AlexandreMota">Alexandre Mota 0001</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<author pid="59/8434">Cristiano Ferraz</author>
+<title>GUI Testing Techniques Evaluation by Designed Experiments.</title>
+<pages>235-244</pages>
+<year>2010</year>
+<booktitle>ICST</booktitle>
+<ee>https://doi.org/10.1109/ICST.2010.41</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICST.2010.41</ee>
+<crossref>conf/icst/2010</crossref>
+<url>db/conf/icst/icst2010.html#BertoliniMAF10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issre/BertoliniMA10" mdate="2023-03-24">
+<author pid="86/3541">Cristiano Bertolini</author>
+<author pid="m/AlexandreMota">Alexandre Mota 0001</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<title>Calibrating Probabilistic GUI Testing Models Based on Experiments and Survival Analysis.</title>
+<pages>319-328</pages>
+<year>2010</year>
+<booktitle>ISSRE</booktitle>
+<ee>https://doi.org/10.1109/ISSRE.2010.35</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISSRE.2010.35</ee>
+<crossref>conf/issre/2010</crossref>
+<url>db/conf/issre/issre2010.html#BertoliniMA10</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/lareferencia/Aranha09" mdate="2025-02-19">
+<author pid="31/1490">Eduardo Henrique da Silva Aranha</author>
+<title>Estimating test execution effort based on test specifications</title>
+<school>Federal University of Pernambuco, Brazil</school>
+<year>2009</year>
+<note type="source">LaReferencia (lareferencia.info): oai:repositorio.ufpe.br:123456789/1406</note>
+<ee>https://repositorio.ufpe.br/handle/123456789/1406</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/esem/LimaISA09" mdate="2024-06-12">
+<author pid="35/7686-1">Lucas Lima 0001</author>
+<author pid="72/4526">Juliano Iyoda</author>
+<author pid="s/AugustoSampaio">Augusto Sampaio 0001</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<title>Test case prioritization based on data reuse an experimental study.</title>
+<pages>279-290</pages>
+<year>2009</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1109/ESEM.2009.5315980</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ESEM.2009.5315980</ee>
+<ee>https://dl.acm.org/citation.cfm?id=1671275</ee>
+<crossref>conf/esem/2009</crossref>
+<url>db/conf/esem/esem2009.html#LimaISA09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispw/AranhaB08" mdate="2017-06-04">
+<author pid="31/1490">Eduardo Aranha</author>
+<author orcid="0000-0002-0381-2843" pid="b/PauloBorba">Paulo Borba</author>
+<title>Using Process Simulation to Assess the Test Design Effort Reduction of a Model-Based Testing Approach.</title>
+<pages>282-293</pages>
+<year>2008</year>
+<booktitle>ICSP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-79588-9_25</ee>
+<crossref>conf/ispw/2008</crossref>
+<url>db/conf/ispw/icsp2008.html#AranhaB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esem/AranhaB07" mdate="2023-03-24">
+<author pid="31/1490">Eduardo Aranha</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<title>An Estimation Model for Test Execution Effort.</title>
+<pages>107-116</pages>
+<year>2007</year>
+<crossref>conf/esem/2007</crossref>
+<booktitle>ESEM</booktitle>
+<url>db/conf/esem/esem2007.html#AranhaB07</url>
+<ee>https://doi.org/10.1109/ESEM.2007.73</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ESEM.2007.73</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issre/AranhaBL06" mdate="2023-03-24">
+<author pid="31/1490">Eduardo Aranha</author>
+<author orcid="0000-0002-0381-2843" pid="b/PauloBorba">Paulo Borba</author>
+<author pid="86/6013">Jos&#233; Lima</author>
+<title>Model Simulation for Test Execution Capacity Estimation.</title>
+<pages>231-236</pages>
+<year>2006</year>
+<crossref>conf/issre/2006</crossref>
+<booktitle>ISSRE</booktitle>
+<ee>https://doi.org/10.1109/ISSRE.2006.30</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISSRE.2006.30</ee>
+<url>db/conf/issre/issre2006.html#AranhaBL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/AranhaB02" mdate="2024-01-10">
+<author pid="31/1490">Eduardo Aranha</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<title>Testes e Gera&#231;&#227;o de C&#243;digo de Sistemas Web.</title>
+<pages>114-129</pages>
+<year>2002</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2002.23942</ee>
+<crossref>conf/sbes/2002</crossref>
+<url>db/conf/sbes/sbes2002.html#AranhaB02</url>
+</inproceedings>
+</r>
+<coauthors n="76" nc="1">
+<co c="0"><na f="a/Accioly:Paola_R=_G=" pid="53/7000">Paola R. G. Accioly</na></co>
+<co c="0"><na f="a/Acu=ntilde=a:Silvia_Teresita" pid="72/693">Silvia Teresita Acu&#241;a</na></co>
+<co c="0"><na f="a/Agnez:Lucas" pid="340/3686">Lucas Agnez</na></co>
+<co c="0"><na f="a/Agra:Celso" pid="166/2178">Celso Agra</na></co>
+<co c="0"><na f="a/Aleixo:Fellipe_Ara=uacute=jo" pid="80/8921">Fellipe Ara&#250;jo Aleixo</na></co>
+<co c="0"><na f="a/Alencar:Fernanda_M=_R=" pid="31/5316">Fernanda M. R. Alencar</na></co>
+<co c="0"><na f="a/Alves:Pedro_V=_A=" pid="338/1050">Pedro V. A. Alves</na></co>
+<co c="0"><na f="b/Barros:Fl=aacute=via_de_Almeida" pid="b/FlaviaABarros">Fl&#225;via de Almeida Barros</na></co>
+<co c="0"><na f="b/Barros:Wysterl=acirc=nya_K=_P=" pid="267/5734">Wysterl&#226;nya K. P. Barros</na></co>
+<co c="0"><na f="b/Batista:Bruno" pid="340/3746">Bruno Batista</na></co>
+<co c="0"><na f="b/Bertolini:Cristiano" pid="86/3541">Cristiano Bertolini</na></co>
+<co c="0"><na f="b/Bessa:Ayuri" pid="362/9209">Ayuri Bessa</na></co>
+<co c="0"><na f="b/Bezerra:Adorilson" pid="136/2059">Adorilson Bezerra</na></co>
+<co c="0"><na f="b/Borba:Paulo" pid="b/PauloBorba">Paulo Borba</na></co>
+<co c="0" n="2"><na f="c/Castro:Jaelson_Brelaz_de" pid="c/JBdCastro">Jaelson Brelaz de Castro</na><na>Jaelson Castro</na></co>
+<co c="0"><na f="c/Cirilo:Elder" pid="49/1805">Elder Cirilo</na></co>
+<co c="0"><na f="c/Coelho:Roberta" pid="61/561">Roberta Coelho</na></co>
+<co c="0"><na f="c/Costa:Daniel_Alencar_da" pid="117/5533">Daniel Alencar da Costa</na></co>
+<co c="0"><na f="c/Costa:Kevin_B=" pid="199/7767">Kevin B. Costa</na></co>
+<co c="0"><na f="f/Ferino:Samuel" pid="282/5488">Samuel Ferino</na></co>
+<co c="0"><na f="f/Fernandes:Anny" pid="303/3293">Anny Fernandes</na></co>
+<co c="0"><na f="f/Fernandes:Gildene_Lima_de_Souza" pid="280/6903">Gildene Lima de Souza Fernandes</na></co>
+<co c="0"><na f="f/Fernandes:Kleber_Tavares" pid="248/3805">Kleber Tavares Fernandes</na></co>
+<co c="0" n="2"><na f="f/Fernandes:Marcelo_A=_C=" pid="135/7822">Marcelo A. C. Fernandes</na><na>Marcelo Fernandes 0002</na></co>
+<co c="0"><na f="f/Ferraz:Cristiano" pid="59/8434">Cristiano Ferraz</na></co>
+<co c="0"><na f="f/Filho:Vin=iacute=cius_J=_M=_T=" pid="356/9974">Vin&#237;cius J. M. T. Filho</na></co>
+<co c="0"><na f="f/Flor:Daniel_L=" pid="333/7241">Daniel L. Flor</na></co>
+<co c="0" n="2"><na f="f/Fontes:Ramon_dos_Reis" pid="170/5555">Ramon dos Reis Fontes</na><na>Ramon R. Fontes</na></co>
+<co c="0"><na f="f/Freire:Mar=iacute=lia_Aranha" pid="41/8921">Mar&#237;lia Aranha Freire</na></co>
+<co c="0"><na f="g/Goldbarg:Mateus_A=_S=_S=" pid="356/9672">Mateus A. S. S. Goldbarg</na></co>
+<co c="0"><na f="g/G=oacute=mez:Marta" pid="49/786">Marta G&#243;mez</na></co>
+<co c="0"><na f="i/Immich:Roger" pid="123/3333">Roger Immich</na></co>
+<co c="0"><na f="i/Inoue:Anderson" pid="362/9095">Anderson Inoue</na></co>
+<co c="0" n="2"><na f="i/Iyoda:Juliano" pid="72/4526">Juliano Iyoda</na><na>Juliano Manabu Iyoda</na></co>
+<co c="0"><na f="j/Jaqueira:Aline" pid="132/5798">Aline Jaqueira</na></co>
+<co c="0"><na f="j/Jedlitschka:Andreas" pid="17/6328">Andreas Jedlitschka</na></co>
+<co c="0"><na f="k/Kulesza:Uir=aacute=" pid="78/6010">Uir&#225; Kulesza</na></co>
+<co c="0"><na f="l/Lima:Jos=eacute=" pid="86/6013">Jos&#233; Lima</na></co>
+<co c="0"><na f="l/Lima_0001:Lucas" pid="35/7686-1">Lucas Lima 0001</na></co>
+<co c="0"><na f="l/Lopes:Ranyer" pid="369/7500">Ranyer Lopes</na></co>
+<co c="0"><na f="l/Lopes:Vitor" pid="130/2242">Vitor Lopes</na></co>
+<co c="0" n="2"><na f="l/Lucena:M=aacute=rcia" pid="47/3088">M&#225;rcia Lucena</na><na>M&#225;rcia Jacyntha Nunes R. Lucena</na></co>
+<co c="0"><na f="m/Maciel:Douglas_Braz" pid="170/2631">Douglas Braz Maciel</na></co>
+<co c="0" n="2"><na f="m/Martins:Allan_de_Medeiros" pid="22/3973">Allan de Medeiros Martins</na><na>Allan de M. Martins</na></co>
+<co c="0"><na f="m/Medeiros:Handerson" pid="369/7341">Handerson Medeiros</na></co>
+<co c="0"><na f="m/Medeiros:Lucas" pid="335/9427">Lucas Medeiros</na></co>
+<co c="0"><na f="m/Medeiros:Marcos" pid="254/6579">Marcos Medeiros</na></co>
+<co c="0"><na f="m/Medeiros:Tain=aacute=" pid="156/1957">Tain&#225; Medeiros</na></co>
+<co c="0" n="2"><na f="m/Miranda:Breno" pid="119/0420">Breno Miranda</na><na>Breno Alexandro Ferreira de Miranda</na></co>
+<co c="0"><na f="m/Mota_0001:Alexandre" pid="m/AlexandreMota">Alexandre Mota 0001</na></co>
+<co c="0"><na f="n/Nascimento:Rafael" pid="237/7438">Rafael Nascimento</na></co>
+<co c="0"><na f="n/Nery:Gustavo" pid="161/8577">Gustavo Nery</na></co>
+<co c="0" n="3"><na f="n/Neto_0001:Augusto" pid="88/6376">Augusto Neto 0001</na><na>Augusto J. V. Neto</na><na>Augusto Jos&#233; Ven&#226;ncio Neto</na></co>
+<co c="0"><na f="n/Neto:Edmilson_Campos" pid="117/6108">Edmilson Campos Neto</na></co>
+<co c="0"><na f="n/Neto:Jos=eacute=" pid="388/9299">Jos&#233; Neto</na></co>
+<co c="0"><na f="p/Paiva:Pablo" pid="362/9023">Pablo Paiva</na></co>
+<co c="0"><na f="p/Prud=ecirc=ncio:Ricardo_B=_C=" pid="76/1124">Ricardo B. C. Prud&#234;ncio</na></co>
+<co c="0"><na f="p/Pupio:Guilherme" pid="362/9211">Guilherme Pupio</na></co>
+<co c="0"><na f="r/Regalado:Murilo_Rocha" pid="193/1141">Murilo Rocha Regalado</na></co>
+<co c="0"><na f="r/Rego:Iago_D=" pid="357/0095">Iago D. Rego</na></co>
+<co c="0"><na f="s/Salvador:Marcos" pid="122/1236">Marcos Salvador</na></co>
+<co c="0"><na f="s/Sampaio_0001:Augusto" pid="s/AugustoSampaio">Augusto Sampaio 0001</na></co>
+<co c="0"><na f="s/Santana:Alan_de_Oliveira" pid="236/5430">Alan de Oliveira Santana</na></co>
+<co c="0"><na f="s/Santos:Charles_H=_F=_dos" pid="209/9136">Charles H. F. dos Santos</na></co>
+<co c="0"><na f="s/Silva:Felipe_Sampaio_Dantas_da" pid="143/2255">Felipe Sampaio Dantas da Silva</na></co>
+<co c="0"><na f="s/Silva:Francisco_Genivan" pid="280/6764">Francisco Genivan Silva</na></co>
+<co c="0"><na f="s/Silva:Lucas" pid="179/0702">Lucas Silva</na></co>
+<co c="0"><na f="s/Silva:Lucileide_M=_D=_Da" pid="233/2256">Lucileide M. D. Da Silva</na></co>
+<co c="0" n="2"><na f="s/Silva:Sergio_N=" pid="188/4458">Sergio N. Silva</na><na>S&#233;rgio N. Silva</na></co>
+<co c="0"><na f="s/Silva:Thiago_Reis_da" pid="173/1223">Thiago Reis da Silva</na></co>
+<co c="0"><na f="s/Siz=iacute=lio:Gustavo" pid="130/7589">Gustavo Siz&#237;lio</na></co>
+<co c="0"><na f="s/Soares:S=eacute=rgio" pid="58/232">S&#233;rgio Soares</na></co>
+<co c="0"><na f="s/Sousa:Vicente" pid="335/9718">Vicente Sousa</na></co>
+<co c="0"><na f="s/Sousa_Jr=:Vicente_A=_de" pid="15/23">Vicente A. de Sousa Jr.</na></co>
+<co c="0"><na f="s/Souza:Luciano_S=_de" pid="24/8766">Luciano S. de Souza</na></co>
+<co c="0"><na f="t/Treude:Christoph" pid="29/1074">Christoph Treude</na></co>
+</coauthors>
+</dblpperson>
+

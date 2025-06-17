@@ -1,0 +1,2273 @@
+<?xml version="1.0"?>
+<dblpperson name="Estevam Hruschka" pid="294/1598" n="133">
+<person key="homepages/294/1598" mdate="2021-09-03">
+<author pid="294/1598">Estevam Hruschka</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="294/1598">Estevam Rafael Hruschka</author>
+<author pid="294/1598">Estevam Rafael Hruschka Junior</author>
+<note type="affiliation">Megagon Labs</note>
+<note type="affiliation">Carnegie Mellon University, Pittsburgh, USA</note>
+<url>http://www.cs.cmu.edu/~estevam/</url>
+<url>https://scholar.google.com/citations?user=19J-aOkAAAAJ</url>
+</person>
+<r><inproceedings key="conf/naacl/OtaniBH25" mdate="2025-05-21">
+<author pid="174/2211">Naoki Otani</author>
+<author pid="188/9073">Nikita Bhutani</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>Natural Language Processing for Human Resources: A Survey.</title>
+<pages>583-597</pages>
+<year>2025</year>
+<booktitle>NAACL (Volume 3: Industry Track)</booktitle>
+<ee type="oa">https://aclanthology.org/2025.naacl-industry.47/</ee>
+<crossref>conf/naacl/2025-3</crossref>
+<url>db/conf/naacl/naacl2025-3.html#OtaniBH25</url>
+<stream>streams/conf/naacl</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/IsoPBH25" mdate="2025-05-21">
+<author pid="191/6033">Hayate Iso</author>
+<author pid="159/1696">Pouya Pezeshkpour</author>
+<author pid="188/9073">Nikita Bhutani</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>Evaluating Bias in LLMs for Job-Resume Matching: Gender, Race, and Education.</title>
+<pages>672-683</pages>
+<year>2025</year>
+<booktitle>NAACL (Volume 3: Industry Track)</booktitle>
+<ee type="oa">https://aclanthology.org/2025.naacl-industry.55/</ee>
+<crossref>conf/naacl/2025-3</crossref>
+<url>db/conf/naacl/naacl2025-3.html#IsoPBH25</url>
+<stream>streams/conf/naacl</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/PezeshkpourH25" mdate="2025-05-21">
+<author pid="159/1696">Pouya Pezeshkpour</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>Multi-Conditional Ranking with Large Language Models.</title>
+<pages>2863-2883</pages>
+<year>2025</year>
+<booktitle>NAACL (Long Papers)</booktitle>
+<ee type="oa">https://aclanthology.org/2025.naacl-long.146/</ee>
+<crossref>conf/naacl/2025-1</crossref>
+<url>db/conf/naacl/naacl2025-1.html#PezeshkpourH25</url>
+<stream>streams/conf/naacl</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/BelemPIMBH25" mdate="2025-05-15">
+<author pid="377/3756">Catarina G. Bel&#233;m</author>
+<author pid="159/1696">Pouya Pezeshkpour</author>
+<author pid="191/6033">Hayate Iso</author>
+<author pid="228/6624">Seiji Maekawa</author>
+<author pid="188/9073">Nikita Bhutani</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>From Single to Multi: How LLMs Hallucinate in Multi-Document Summarization.</title>
+<pages>5276-5309</pages>
+<year>2025</year>
+<booktitle>NAACL (Findings)</booktitle>
+<ee type="oa">https://aclanthology.org/2025.findings-naacl.293/</ee>
+<crossref>conf/naacl/2025f</crossref>
+<url>db/conf/naacl/naacl2025f.html#BelemPIMBH25</url>
+<stream>streams/conf/naacl</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2501-17840" mdate="2025-02-26">
+<author pid="159/1696">Pouya Pezeshkpour</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>Learning Beyond the Surface: How Far Can Continual Pre-Training with LoRA Enhance LLMs' Domain-Specific Insight Learning?</title>
+<year>2025</year>
+<month>January</month>
+<volume>abs/2501.17840</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2501.17840</ee>
+<url>db/journals/corr/corr2501.html#abs-2501-17840</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2503-19182" mdate="2025-04-19">
+<author pid="191/6033">Hayate Iso</author>
+<author pid="159/1696">Pouya Pezeshkpour</author>
+<author pid="188/9073">Nikita Bhutani</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>Evaluating Bias in LLMs for Job-Resume Matching: Gender, Race, and Education.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.19182</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.19182</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-19182</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2504-00187" mdate="2025-05-18">
+<author pid="159/1696">Pouya Pezeshkpour</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>Insight-RAG: Enhancing LLMs with Insight-Driven Augmentation.</title>
+<year>2025</year>
+<month>April</month>
+<volume>abs/2504.00187</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2504.00187</ee>
+<url>db/journals/corr/corr2504.html#abs-2504-00187</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2504-08148" mdate="2025-05-21">
+<author pid="54/6752">Eser Kandogan</author>
+<author pid="188/9073">Nikita Bhutani</author>
+<author pid="21/802-25">Dan Zhang 0025</author>
+<author pid="337/1367">Rafael Li Chen</author>
+<author pid="31/7537">Sairam Gurajada</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>Orchestrating Agents and Data for Enterprise: A Blueprint Architecture for Compound AI.</title>
+<year>2025</year>
+<month>April</month>
+<volume>abs/2504.08148</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2504.08148</ee>
+<url>db/journals/corr/corr2504.html#abs-2504-08148</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2504-08974" mdate="2025-05-21">
+<author pid="159/1696">Pouya Pezeshkpour</author>
+<author pid="281/6973">Moin Aminnaseri</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>Mixed Signals: Decoding VLMs' Reasoning and Underlying Bias in Vision-Language Conflict.</title>
+<year>2025</year>
+<month>April</month>
+<volume>abs/2504.08974</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2504.08974</ee>
+<url>db/journals/corr/corr2504.html#abs-2504-08974</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/debu/RahmanZBHK24" mdate="2025-04-17">
+<author pid="168/0294">Sajjadur Rahman</author>
+<author pid="21/802-25">Dan Zhang 0025</author>
+<author pid="188/9073">Nikita Bhutani</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<author pid="54/6752">Eser Kandogan</author>
+<title>Retrieval Augmented Generation in the Wild: A System 2 Perspective.</title>
+<pages>47-70</pages>
+<year>2024</year>
+<volume>48</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<ee type="oa">http://sites.computer.org/debull/A24dec/p47.pdf</ee>
+<url>db/journals/debu/debu48.html#RahmanZBHK24</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/MishraRM0H24" mdate="2024-09-24">
+<author pid="56/9568">Aditi Mishra</author>
+<author pid="168/0294">Sajjadur Rahman</author>
+<author pid="360/4807">Kushan Mitra</author>
+<author pid="86/8831-1">Hannah Kim 0001</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>Characterizing Large Language Models as Rationalizers of Knowledge-intensive Tasks.</title>
+<pages>8117-8139</pages>
+<year>2024</year>
+<booktitle>ACL (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2024.findings-acl.484</ee>
+<ee type="oa">https://aclanthology.org/2024.findings-acl.484</ee>
+<crossref>conf/acl/2024f</crossref>
+<url>db/conf/acl/acl2024f.html#MishraRM0H24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eacl/WuIPBH24" mdate="2024-03-25">
+<author pid="339/0713">Yunshu Wu</author>
+<author pid="191/6033">Hayate Iso</author>
+<author pid="159/1696">Pouya Pezeshkpour</author>
+<author pid="188/9073">Nikita Bhutani</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>Less is More for Long Document Summary Evaluation by LLMs.</title>
+<pages>330-343</pages>
+<year>2024</year>
+<booktitle>EACL (2)</booktitle>
+<ee type="oa">https://aclanthology.org/2024.eacl-short.29</ee>
+<crossref>conf/eacl/2024-2</crossref>
+<url>db/conf/eacl/eacl2024-2.html#WuIPBH24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/PezeshkpourH24" mdate="2024-09-11">
+<author pid="159/1696">Pouya Pezeshkpour</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>Large Language Models Sensitivity to The Order of Options in Multiple-Choice Questions.</title>
+<pages>2006-2017</pages>
+<year>2024</year>
+<booktitle>NAACL-HLT (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2024.findings-naacl.130</ee>
+<crossref>conf/naacl/2024f</crossref>
+<url>db/conf/naacl/naacl2024f.html#PezeshkpourH24</url>
+<stream>streams/conf/naacl</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-01108" mdate="2024-02-09">
+<author pid="159/1696">Pouya Pezeshkpour</author>
+<author pid="54/6752">Eser Kandogan</author>
+<author pid="188/9073">Nikita Bhutani</author>
+<author pid="168/0294">Sajjadur Rahman</author>
+<author pid="81/1460">Tom M. Mitchell</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>Reasoning Capacity in Multi-Agent Systems: Limitations, Challenges and Human-Centered Solutions.</title>
+<year>2024</year>
+<volume>abs/2402.01108</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.01108</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-01108</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-03291" mdate="2025-04-16">
+<author pid="168/0294">Sajjadur Rahman</author>
+<author pid="173/9378">Frederick Choi</author>
+<author pid="86/8831-1">Hannah Kim 0001</author>
+<author pid="21/802-25">Dan Zhang 0025</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>Knowledge Acquisition and Integration with Expert-in-the-loop.</title>
+<year>2024</year>
+<volume>abs/2402.03291</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.03291</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-03291</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2404-00211" mdate="2024-05-08">
+<author pid="159/1696">Pouya Pezeshkpour</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>Multi-Conditional Ranking with Large Language Models.</title>
+<year>2024</year>
+<volume>abs/2404.00211</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2404.00211</ee>
+<url>db/journals/corr/corr2404.html#abs-2404-00211</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2406-00584" mdate="2025-04-16">
+<author pid="54/6752">Eser Kandogan</author>
+<author pid="168/0294">Sajjadur Rahman</author>
+<author pid="188/9073">Nikita Bhutani</author>
+<author pid="21/802-25">Dan Zhang 0025</author>
+<author pid="337/1367">Rafael Li Chen</author>
+<author pid="360/4807">Kushan Mitra</author>
+<author pid="31/7537">Sairam Gurajada</author>
+<author pid="159/1696">Pouya Pezeshkpour</author>
+<author pid="191/6033">Hayate Iso</author>
+<author pid="242/4247">Yanlin Feng</author>
+<author pid="86/8831-1">Hannah Kim 0001</author>
+<author pid="55/5393-9">Chen Shen 0009</author>
+<author pid="92/1375-7">Jin Wang 0007</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>A Blueprint Architecture of Compound AI Systems for Enterprise.</title>
+<year>2024</year>
+<volume>abs/2406.00584</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2406.00584</ee>
+<url>db/journals/corr/corr2406.html#abs-2406-00584</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2410-13961" mdate="2025-05-14">
+<author pid="377/3756">Catarina G. Bel&#233;m</author>
+<author pid="390/9666">Pouya Pezeskhpour</author>
+<author pid="191/6033">Hayate Iso</author>
+<author pid="228/6624">Seiji Maekawa</author>
+<author pid="188/9073">Nikita Bhutani</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>From Single to Multi: How LLMs Hallucinate in Multi-Document Summarization.</title>
+<year>2024</year>
+<volume>abs/2410.13961</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2410.13961</ee>
+<url>db/journals/corr/corr2410.html#abs-2410-13961</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2410-16498" mdate="2024-11-26">
+<author pid="174/2211">Naoki Otani</author>
+<author pid="188/9073">Nikita Bhutani</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>Natural Language Processing for Human Resources: A Survey.</title>
+<year>2024</year>
+<volume>abs/2410.16498</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2410.16498</ee>
+<url>db/journals/corr/corr2410.html#abs-2410-16498</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2411-05980" mdate="2025-04-17">
+<author pid="360/4807">Kushan Mitra</author>
+<author pid="21/802-25">Dan Zhang 0025</author>
+<author pid="168/0294">Sajjadur Rahman</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>FactLens: Benchmarking Fine-Grained Fact Verification.</title>
+<year>2024</year>
+<volume>abs/2411.05980</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.05980</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-05980</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/ijcnlp/KimIBHNM23" mdate="2024-04-12">
+<author pid="78/5891">Bosung Kim</author>
+<author pid="191/6033">Hayate Iso</author>
+<author pid="188/9073">Nikita Bhutani</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<author pid="98/53">Ndapa Nakashole</author>
+<author pid="81/1460">Tom M. Mitchell</author>
+<title>Zero-shot Triplet Extraction by Template Infilling.</title>
+<pages>272-284</pages>
+<year>2023</year>
+<booktitle>IJCNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.ijcnlp-main.18</ee>
+<ee type="oa">https://aclanthology.org/2023.ijcnlp-main.18</ee>
+<crossref>conf/ijcnlp/2023-1</crossref>
+<url>db/conf/ijcnlp/ijcnlp2023-1.html#KimIBHNM23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/KwonKRZH23" mdate="2025-04-16">
+<author orcid="0000-0002-2332-0352" pid="11/6841">Nahyun Kwon</author>
+<author orcid="0000-0002-0137-7171" pid="86/8831-1">Hannah Kim 0001</author>
+<author orcid="0000-0003-4210-1582" pid="168/0294">Sajjadur Rahman</author>
+<author orcid="0000-0002-6330-0217" pid="21/802-25">Dan Zhang 0025</author>
+<author orcid="0000-0003-1499-2808" pid="294/1598">Estevam Hruschka</author>
+<title>Weedle: Composable Dashboard for Data-Centric NLP in Computational Notebooks.</title>
+<pages>132-135</pages>
+<year>2023</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/3543873.3587330</ee>
+<crossref>conf/www/2023c</crossref>
+<url>db/conf/www/www2023c.html#KwonKRZH23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/FiondaHAACCC0DE23" mdate="2025-03-03">
+<author orcid="0000-0002-7018-1324" pid="43/3753">Valeria Fionda</author>
+<author orcid="0000-0002-1741-2090" pid="29/3132">Olaf Hartig</author>
+<author orcid="0009-0004-7330-0589" pid="269/4833">Reyhaneh Abdolazimi</author>
+<author pid="a/SihemAmerYahia">Sihem Amer-Yahia</author>
+<author orcid="0009-0009-2710-6327" pid="42/7395">Hongzhi Chen</author>
+<author orcid="0000-0002-5804-0211" pid="05/3054-16">Xiao Chen 0016</author>
+<author pid="31/891-1">Peng Cui 0001</author>
+<author orcid="0000-0003-2422-8651" pid="05/2762-1">Jeffrey Dalton 0001</author>
+<author orcid="0009-0001-2049-2458" pid="d/XinLunaDong">Xin Luna Dong</author>
+<author orcid="0000-0002-3945-2966" pid="163/6256">Lisette Esp&#237;n-Noboa</author>
+<author pid="218/7410">Wenqi Fan</author>
+<author pid="345/8195">Manuela Fritz</author>
+<author pid="72/3872">Quan Gan</author>
+<author orcid="0000-0002-4470-5972" pid="329/6049">Jingtong Gao</author>
+<author pid="43/8066-2">Xiaojie Guo 0002</author>
+<author pid="83/752">Torsten Hahmann</author>
+<author pid="h/JiaweiHan">Jiawei Han 0001</author>
+<author pid="24/10567">Soyeon Caren Han</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<author pid="48/5388-4">Liang Hu 0004</author>
+<author pid="187/2874-1">Jiaxin Huang 0001</author>
+<author pid="201/7961">Utkarshani Jaimini</author>
+<author pid="232/8079">Olivier Jeunen</author>
+<author pid="56/10645">Yushan Jiang</author>
+<author pid="29/10436-1">Fariba Karimi 0001</author>
+<author pid="k/GeorgeKarypis">George Karypis</author>
+<author pid="29/4781">Krishnaram Kenthapadi</author>
+<author pid="68/9376">Himabindu Lakkaraju</author>
+<author pid="00/2494">Hady W. Lauw</author>
+<author pid="03/9889">Thai Le</author>
+<author orcid="0000-0002-2349-482X" pid="269/4534">Trung-Hoang Le</author>
+<author pid="l/DongwonLee">Dongwon Lee 0001</author>
+<author pid="36/11045">Geon Lee</author>
+<author pid="292/5757">Liat Levontin</author>
+<author pid="90/5961">Cheng-Te Li</author>
+<author pid="118/0004-1">Haoyang Li 0001</author>
+<author pid="22/1805-12">Ying Li 0012</author>
+<author pid="317/3392">Jay Chiehen Liao</author>
+<author orcid="0000-0002-0751-2602" pid="254/1779-2">Qidong Liu 0002</author>
+<author pid="222/1710">Usha Lokala</author>
+<author pid="126/4745">Ben London 0001</author>
+<author pid="212/2413">Siqu Long</author>
+<author pid="147/0299">Hande K&#252;&#231;&#252;k-McGinty</author>
+<author pid="30/4233-1">Yu Meng 0001</author>
+<author pid="120/4131">Seungwhan Moon</author>
+<author pid="253/6972">Usman Naseem</author>
+<author pid="95/5978">Pradeep Natarajan</author>
+<author pid="200/8321">Behrooz Omidvar-Tehrani</author>
+<author orcid="0009-0006-4893-586X" pid="290/3418">Zijie Pan</author>
+<author pid="51/5502">Devesh Parekh</author>
+<author orcid="0000-0002-2200-8711" pid="p/JianPei">Jian Pei 0001</author>
+<author pid="345/7773">Tiago Peixoto</author>
+<author pid="52/4627">Steven Pemberton</author>
+<author pid="25/2453">Josiah Poon</author>
+<author pid="28/1966">Filip Radlinski</author>
+<author pid="229/9125">Federico Rossetto</author>
+<author pid="183/5157-9">Kaushik Roy 0009</author>
+<author pid="162/3206">Aghiles Salah</author>
+<author pid="159/1225">Mehrnoosh Sameki</author>
+<author pid="s/AmitPSheth">Amit P. Sheth</author>
+<author pid="208/4077">Cogan Shimizu</author>
+<author pid="153/2052">Kijung Shin</author>
+<author pid="41/3281">Dongjin Song</author>
+<author pid="s/JuliaStoyanovich">Julia Stoyanovich</author>
+<author pid="46/3391">Dacheng Tao</author>
+<author orcid="0000-0002-7801-0239" pid="166/2953">Johanne Trippas</author>
+<author pid="345/7940">Quoc Truong</author>
+<author pid="65/2921">Yu-Che Tsai</author>
+<author pid="244/0488">Adaku Uchendu</author>
+<author pid="237/9986">Bram van den Akker</author>
+<author orcid="0000-0002-7485-4493" pid="17/6729-40">Lin Wang 0040</author>
+<author pid="58/10312">Minjie Wang</author>
+<author pid="16/8492">Shoujin Wang</author>
+<author pid="10/5630-19">Xin Wang 0019</author>
+<author pid="w/IngmarWeber">Ingmar Weber</author>
+<author pid="283/6142">Henry Weld</author>
+<author pid="27/9060-1">Lingfei Wu 0001</author>
+<author pid="03/8340">Da Xu</author>
+<author pid="245/7578">Yifan Ethan Xu</author>
+<author pid="239/2804">Shuyuan Xu</author>
+<author pid="46/999-11">Bo Yang 0011</author>
+<author orcid="0000-0002-1617-5986" pid="80/4136-3">Ke Yang 0003</author>
+<author pid="47/4458">Elad Yom-Tov</author>
+<author pid="211/2843">Jaemin Yoo</author>
+<author pid="83/3205-5">Zhou Yu 0005</author>
+<author pid="93/909">Reza Zafarani</author>
+<author pid="150/5324">Hamed Zamani</author>
+<author pid="202/2035">Meike Zehlike</author>
+<author pid="52/323-20">Qi Zhang 0020</author>
+<author pid="38/326-2">Xikun Zhang 0002</author>
+<author pid="82/7829">Yongfeng Zhang</author>
+<author pid="50/671-44">Yu Zhang 0044</author>
+<author pid="181/2621-47">Zheng Zhang 0047</author>
+<author pid="63/5422-2">Liang Zhao 0002</author>
+<author pid="08/890-1">Xiangyu Zhao 0001</author>
+<author pid="97/6308-1">Wenwu Zhu 0001</author>
+<title>Tutorials at The Web Conference 2023.</title>
+<pages>648-658</pages>
+<year>2023</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/3543873.3587713</ee>
+<ee>https://www.wikidata.org/entity/Q130814388</ee>
+<crossref>conf/www/2023c</crossref>
+<url>db/conf/www/www2023c.html#FiondaHAACCC0DE23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2301-03095" mdate="2025-04-16">
+<author pid="21/802-25">Dan Zhang 0025</author>
+<author pid="86/8831-1">Hannah Kim 0001</author>
+<author pid="337/1367">Rafael Li Chen</author>
+<author pid="54/6752">Eser Kandogan</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>MEGAnno: Exploratory Labeling for NLP in Computational Notebooks.</title>
+<year>2023</year>
+<volume>abs/2301.03095</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2301.03095</ee>
+<url>db/journals/corr/corr2301.html#abs-2301-03095</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2301-03656" mdate="2025-04-16">
+<author pid="168/0294">Sajjadur Rahman</author>
+<author pid="86/8831-1">Hannah Kim 0001</author>
+<author pid="21/802-25">Dan Zhang 0025</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<author pid="54/6752">Eser Kandogan</author>
+<title>Towards Multifaceted Human-Centered AI.</title>
+<year>2023</year>
+<volume>abs/2301.03656</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2301.03656</ee>
+<url>db/journals/corr/corr2301.html#abs-2301-03656</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2308-11483" mdate="2023-08-30">
+<author pid="159/1696">Pouya Pezeshkpour</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>Large Language Models Sensitivity to The Order of Options in Multiple-Choice Questions.</title>
+<year>2023</year>
+<volume>abs/2308.11483</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2308.11483</ee>
+<url>db/journals/corr/corr2308.html#abs-2308-11483</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2308-13676" mdate="2024-10-06">
+<author orcid="0009-0003-0571-2939" pid="222/2691">Vishwas Mruthyunjaya</author>
+<author pid="159/1696">Pouya Pezeshkpour</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<author pid="188/9073">Nikita Bhutani</author>
+<title>Rethinking Language Models as Symbolic Knowledge Graphs.</title>
+<year>2023</year>
+<volume>abs/2308.13676</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2308.13676</ee>
+<url>db/journals/corr/corr2308.html#abs-2308-13676</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2309-07382" mdate="2023-09-19">
+<author pid="339/0713">Yunshu Wu</author>
+<author pid="191/6033">Hayate Iso</author>
+<author pid="159/1696">Pouya Pezeshkpour</author>
+<author pid="188/9073">Nikita Bhutani</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>Less is More for Long Document Summary Evaluation by LLMs.</title>
+<year>2023</year>
+<volume>abs/2309.07382</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2309.07382</ee>
+<url>db/journals/corr/corr2309.html#abs-2309-07382</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-05085" mdate="2023-11-14">
+<author pid="56/9568">Aditi Mishra</author>
+<author pid="168/0294">Sajjadur Rahman</author>
+<author pid="86/8831-1">Hannah Kim 0001</author>
+<author pid="360/4807">Kushan Mitra</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>Characterizing Large Language Models as Rationalizers of Knowledge-intensive Tasks.</title>
+<year>2023</year>
+<volume>abs/2311.05085</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.05085</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-05085</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-06383" mdate="2023-11-15">
+<author pid="159/1696">Pouya Pezeshkpour</author>
+<author pid="191/6033">Hayate Iso</author>
+<author pid="234/7856">Thom Lake</author>
+<author pid="188/9073">Nikita Bhutani</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>Distilling Large Language Models using Skill-Occupation Graph Context for HR-Related Tasks.</title>
+<year>2023</year>
+<volume>abs/2311.06383</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.06383</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-06383</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-06414" mdate="2023-11-15">
+<author pid="153/5443">Nedelina Teneva</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>Knowledge Graphs are not Created Equal: Exploring the Properties and Structure of Real KGs.</title>
+<year>2023</year>
+<volume>abs/2311.06414</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.06414</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-06414</url>
+</article>
+</r>
+<r><inproceedings key="conf/emnlp/MaekawaZKRH22" mdate="2025-04-16">
+<author pid="228/6624">Seiji Maekawa</author>
+<author pid="21/802-25">Dan Zhang 0025</author>
+<author pid="86/8831-1">Hannah Kim 0001</author>
+<author pid="168/0294">Sajjadur Rahman</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>Low-resource Interactive Active Labeling for Fine-tuning Language Models.</title>
+<pages>3230-3242</pages>
+<year>2022</year>
+<booktitle>EMNLP (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2022.findings-emnlp.235</ee>
+<ee type="oa">https://aclanthology.org/2022.findings-emnlp.235</ee>
+<crossref>conf/emnlp/2022f</crossref>
+<url>db/conf/emnlp/emnlp2022f.html#MaekawaZKRH22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/ShaoBRH22" mdate="2023-06-26">
+<author pid="210/0877">Yutong Shao</author>
+<author pid="188/9073">Nikita Bhutani</author>
+<author pid="168/0294">Sajjadur Rahman</author>
+<author orcid="0000-0003-1499-2808" pid="294/1598">Estevam Hruschka</author>
+<title>Low-resource Entity Set Expansion: A Comprehensive Study on User-generated Text.</title>
+<pages>1343-1353</pages>
+<year>2022</year>
+<booktitle>NAACL-HLT (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2022.findings-naacl.100</ee>
+<ee type="oa">https://aclanthology.org/2022.findings-naacl.100</ee>
+<crossref>conf/naacl/2022f</crossref>
+<url>db/conf/naacl/naacl2022f.html#ShaoBRH22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2212-10708" mdate="2024-10-06">
+<author pid="78/5891">Bosung Kim</author>
+<author pid="191/6033">Hayate Iso</author>
+<author pid="188/9073">Nikita Bhutani</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<author orcid="0009-0000-5223-1394" pid="98/53">Ndapa Nakashole</author>
+<title>Zero-shot Triplet Extraction by Template Infilling.</title>
+<year>2022</year>
+<volume>abs/2212.10708</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2212.10708</ee>
+<url>db/journals/corr/corr2212.html#abs-2212-10708</url>
+</article>
+</r>
+<r><inproceedings key="conf/cec/AmaralAMGBH21" mdate="2025-03-03">
+<author pid="09/8570">Laurence Rodrigues do Amaral</author>
+<author pid="299/2697">Alexandre Henrick da Silva Alves</author>
+<author pid="299/2325">Raphael de Lima Mendes</author>
+<author orcid="0000-0001-7352-3089" pid="299/2991">Matheus de Souza Gomes</author>
+<author pid="299/2709">Pedro Luiz Lima Bertarini</author>
+<author orcid="0000-0003-1499-2808" pid="294/1598">Estevam Rafael Hruschka</author>
+<title>Applying Never-Ending Learning (NEL) Principles to Build a Gene Ontology (GO) Biocurator.</title>
+<pages>458-465</pages>
+<year>2021</year>
+<booktitle>CEC</booktitle>
+<ee>https://doi.org/10.1109/CEC45853.2021.9504981</ee>
+<crossref>conf/cec/2021</crossref>
+<url>db/conf/cec/cec2021.html#AmaralAMGBH21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/HruschkaMGG21" mdate="2021-08-16">
+<author pid="294/1598">Estevam Hruschka</author>
+<author pid="81/1460">Tom M. Mitchell</author>
+<author pid="36/6757">Marko Grobelnik</author>
+<author pid="58/11411">Behzad Golshan</author>
+<title>WIT: Workshop on deriving Insights from user-generated Text.</title>
+<pages>4131-4132</pages>
+<year>2021</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/3447548.3469477</ee>
+<crossref>conf/kdd/2021</crossref>
+<url>db/conf/kdd/kdd2021.html#HruschkaMGG21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/ChoiEDH21" mdate="2021-06-07">
+<author pid="33/7730">Dongjin Choi</author>
+<author pid="213/8215">Sara Evensen</author>
+<author pid="74/20">&#199;agatay Demiralp</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>TagRuler: Interactive Tool for Span-Level Data Programming by Demonstration.</title>
+<pages>673-677</pages>
+<year>2021</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/3442442.3458602</ee>
+<crossref>conf/www/2021c</crossref>
+<url>db/conf/www/www2021c.html#ChoiEDH21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2106-12767" mdate="2021-06-30">
+<author pid="33/7730">Dongjin Choi</author>
+<author pid="213/8215">Sara Evensen</author>
+<author pid="74/20">&#199;agatay Demiralp</author>
+<author pid="294/1598">Estevam Hruschka</author>
+<title>TagRuler: Interactive Tool for Span-Level Data Programming by Demonstration.</title>
+<year>2021</year>
+<volume>abs/2106.12767</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2106.12767</ee>
+<url>db/journals/corr/corr2106.html#abs-2106-12767</url>
+</article>
+</r>
+<r><inproceedings key="conf/kdd/Hruschka20" mdate="2023-06-26">
+<author orcid="0000-0003-1499-2808" pid="294/1598">Estevam R. Hruschka Jr.</author>
+<title>Data-Driven Never-Ending Learning Question Answering Systems.</title>
+<pages>3579-3580</pages>
+<year>2020</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/3394486.3406486</ee>
+<crossref>conf/kdd/2020</crossref>
+<url>db/conf/kdd/kdd2020.html#Hruschka20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/SantosRHB19" mdate="2020-01-09">
+<author pid="07/6159">Edimilson Batista dos Santos</author>
+<author pid="256/0064">Igor Henrique P. Rodrigues</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="256/0032">Lucas Rezende Bruno</author>
+<title>Bayesian Networks for Inference and Discovery of Semantic Relations in a Never-Ending Learning System.</title>
+<pages>687-692</pages>
+<year>2019</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2019.00125</ee>
+<crossref>conf/bracis/2019</crossref>
+<url>db/conf/bracis/bracis2019.html#SantosRHB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hais/PedroH19" mdate="2021-08-26">
+<author pid="153/6853">Saulo D. de S. Pedro</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<title>Crowd-Powered Systems to Diminish the Effects of Semantic Drift.</title>
+<pages>697-709</pages>
+<year>2019</year>
+<booktitle>HAIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-29859-3_59</ee>
+<crossref>conf/hais/2019</crossref>
+<url>db/conf/hais/hais2019.html#PedroH19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-00752" mdate="2022-11-24">
+<author orcid="0000-0003-0472-5300" pid="249/9390">Daniel Severo 0001</author>
+<author pid="249/9420">Fl&#225;vio Amaro</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="249/9311">Andr&#233; Soares de Moura Costa</author>
+<title>Ward2ICU: A Vital Signs Dataset of Inpatients from the General Ward.</title>
+<year>2019</year>
+<volume>abs/1910.00752</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.00752</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-00752</url>
+</article>
+</r>
+<r><article key="journals/cacm/MitchellCHTYBCM18" mdate="2025-05-01">
+<author pid="81/1460">Tom M. Mitchell</author>
+<author pid="c/WWCohen">William W. Cohen</author>
+<author orcid="0000-0003-1499-2808" pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="86/687">Partha P. Talukdar</author>
+<author pid="46/999-11">Bo Yang 0011</author>
+<author pid="02/6601">Justin Betteridge</author>
+<author pid="81/1583">Andrew Carlson</author>
+<author pid="78/6527">Bhavana Dalvi Mishra</author>
+<author pid="00/8046">Matt Gardner 0001</author>
+<author pid="18/6148">Bryan Kisiel</author>
+<author pid="29/5765">Jayant Krishnamurthy</author>
+<author pid="82/283">Ni Lao</author>
+<author pid="130/3733">Kathryn Mazaitis</author>
+<author pid="65/10489">Thahir Mohamed</author>
+<author orcid="0009-0000-5223-1394" pid="98/53">Ndapandula Nakashole</author>
+<author pid="161/0003">Emmanouil A. Platanios</author>
+<author pid="47/3133">Alan Ritter</author>
+<author pid="68/3471">Mehdi Samadi</author>
+<author pid="62/3903">Burr Settles</author>
+<author pid="45/3723">Richard C. Wang</author>
+<author orcid="0000-0002-0848-4703" pid="43/6731">Derry Wijaya</author>
+<author pid="36/7024-1">Abhinav Gupta 0001</author>
+<author pid="41/9922">Xinlei Chen</author>
+<author orcid="0009-0001-1489-9294" pid="117/6287">Abulhair Saparov</author>
+<author pid="161/0035">Malcolm Greaves</author>
+<author pid="49/973">Joel Welling</author>
+<title>Never-ending learning.</title>
+<pages>103-115</pages>
+<year>2018</year>
+<volume>61</volume>
+<journal>Commun. ACM</journal>
+<number>5</number>
+<ee>https://doi.org/10.1145/3191513</ee>
+<url>db/journals/cacm/cacm61.html#MitchellCHTYBCM18</url>
+</article>
+</r>
+<r><article key="journals/jidm/QuecoleDJ18" mdate="2021-11-30">
+<author pid="265/8542">Felipe Qu&#233;cole</author>
+<author pid="131/0667">Ma&#237;sa Cristina Duarte</author>
+<author pid="294/1598">Estevam Rafael Hruschka Junior</author>
+<title>Coupling for Coreference Resolution in a Never-ending Learning System.</title>
+<pages>124-134</pages>
+<year>2018</year>
+<volume>9</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>2</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/2048</ee>
+<url>db/journals/jidm/jidm9.html#QuecoleDJ18</url>
+</article>
+</r>
+<r><inproceedings key="conf/iceis/MianiJ18" mdate="2018-04-30">
+<author pid="94/2426">Rafael Garcia Leonel Miani</author>
+<author pid="294/1598">Estevam Rafael Hruschka Junior</author>
+<title>Eliminating Redundant and Irrelevant Association Rules in Large Knowledge Bases.</title>
+<pages>17-28</pages>
+<year>2018</year>
+<booktitle>ICEIS (1)</booktitle>
+<ee>https://doi.org/10.5220/0006668800170028</ee>
+<crossref>conf/iceis/2018-1</crossref>
+<url>db/conf/iceis/iceis2018-1.html#MianiJ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/Gimenez-GarciaD18" mdate="2023-03-10">
+<author pid="162/7707">Jos&#233; M. Gim&#233;nez-Garc&#237;a</author>
+<author pid="131/0667">Ma&#237;sa Cristina Duarte</author>
+<author pid="91/1410">Antoine Zimmermann</author>
+<author pid="93/1485">Christophe Gravier</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="36/3992">Pierre Maret</author>
+<title>NELL2RDF: Reading the Web, Tracking the Provenance, and Publishing it as Linked Data.</title>
+<year>2018</year>
+<booktitle>CKGSemStats@ISWC</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2317/article-02.pdf</ee>
+<crossref>conf/semweb/2018ckgSemStats</crossref>
+<url>db/conf/semweb/ckgSemStats2018.html#Gimenez-GarciaD18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-05639" mdate="2021-04-19">
+<author pid="162/7707">Jos&#233; M. Gim&#233;nez-Garc&#237;a</author>
+<author pid="131/0667">Maisa C. Duarte</author>
+<author pid="91/1410">Antoine Zimmermann</author>
+<author pid="93/1485">Christophe Gravier</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="36/3992">Pierre Maret</author>
+<title>NELL2RDF: Reading the Web, and Publishing it as Linked Data.</title>
+<year>2018</year>
+<volume>abs/1804.05639</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.05639</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-05639</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/MianiJ17" mdate="2023-03-24">
+<author pid="94/2426">Rafael Garcia Leonel Miani</author>
+<author pid="294/1598">Estevam Rafael Hruschka Junior</author>
+<title>Correcting Inconsistencies through Association Rules in Temporal Large Growing Knowledge Bases.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2017.56</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2017.56</ee>
+<crossref>conf/bracis/2017</crossref>
+<url>db/conf/bracis/bracis2017.html#MianiJ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icnc/GarciaMRJ17" mdate="2021-09-03">
+<author pid="210/9955">Rafael Garcia</author>
+<author pid="221/8900">Leonel Miani</author>
+<author pid="294/1598">Estevam Rafael Hruschka Junior</author>
+<title>Specific temporal association rules and temporal correlations to enlarge and detect inconsistencies in a large growing knowledge base.</title>
+<pages>1565-1574</pages>
+<year>2017</year>
+<booktitle>ICNC-FSKD</booktitle>
+<ee>https://doi.org/10.1109/FSKD.2017.8392999</ee>
+<crossref>conf/icnc/2017</crossref>
+<url>db/conf/icnc/icnc2017.html#GarciaMRJ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/textgraphs/Hernandez-Gonzalez17" mdate="2023-06-26">
+<author pid="133/0492">Jer&#243;nimo Hern&#225;ndez-Gonz&#225;lez</author>
+<author orcid="0000-0003-1499-2808" pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="81/1460">Tom M. Mitchell</author>
+<title>Merging knowledge bases in different languages.</title>
+<pages>21-29</pages>
+<year>2017</year>
+<booktitle>TextGraphs@ACL</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/w17-2403</ee>
+<ee type="oa">https://aclanthology.org/W17-2403/</ee>
+<crossref>conf/textgraphs/2017</crossref>
+<url>db/conf/textgraphs/textgraphs2017.html#Hernandez-Gonzalez17</url>
+</inproceedings>
+</r>
+<r><article key="journals/aim/AlbrechtBBBCCDF16" mdate="2023-07-18">
+<author pid="118/3975">Stefano V. Albrecht</author>
+<author pid="63/2180-1">Bruno Bouchard 0001</author>
+<author pid="97/8247">John S. Brownstein</author>
+<author pid="74/3031">David L. Buckeridge</author>
+<author orcid="0000-0002-5664-2163" pid="69/6680">Cornelia Caragea</author>
+<author pid="75/7583-1">Kevin M. Carter 0001</author>
+<author pid="p/ADarwiche">Adnan Darwiche</author>
+<author pid="98/5909">Blaz Fortuna</author>
+<author pid="119/9618">Yannick Francillette</author>
+<author pid="117/1729">S&#233;bastien Gaboury</author>
+<author orcid="0000-0002-1931-585X" pid="g/CLeeGiles">C. Lee Giles</author>
+<author pid="36/6757">Marko Grobelnik</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="10/3207">Jeffrey O. Kephart</author>
+<author pid="73/3423">Parisa Kordjamshidi</author>
+<author pid="76/5110">Viliam Lis&#253;</author>
+<author pid="14/4672">Daniele Magazzeni</author>
+<author pid="340/6684-1">Jo&#227;o Marques-Silva 0001</author>
+<author pid="37/6177">Pierre Marquis</author>
+<author pid="21/6342">David R. Martinez</author>
+<author pid="43/5084">Marek P. Michalowski</author>
+<author orcid="0000-0003-2047-4759" pid="97/1397">Arash Shaban-Nejad</author>
+<author pid="97/8092">Zeinab Noorian</author>
+<author orcid="0000-0002-7753-1737" pid="p/EnricoPontelli">Enrico Pontelli</author>
+<author pid="37/4849">Alex Rogers</author>
+<author pid="22/4189">Stephanie Rosenthal</author>
+<author pid="r/DanRoth">Dan Roth</author>
+<author orcid="0000-0002-3594-3848" pid="26/9089">Arunesh Sinha</author>
+<author pid="21/6594">William W. Streilein</author>
+<author pid="64/3102">Sylvie Thi&#233;baux</author>
+<author pid="s/TranCaoSon">Tran Cao Son</author>
+<author pid="00/8247">Byron C. Wallace</author>
+<author pid="86/2576">Toby Walsh</author>
+<author pid="w/MichaelJWitbrock">Michael Witbrock</author>
+<author pid="84/6889">Jie Zhang</author>
+<title>Reports of the 2016 AAAI Workshop Program.</title>
+<pages>99-108</pages>
+<year>2016</year>
+<volume>37</volume>
+<journal>AI Mag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1609/aimag.v37i3.2680</ee>
+<ee>https://www.wikidata.org/entity/Q62637829</ee>
+<url>db/journals/aim/aim37.html#AlbrechtBBBCCDF16</url>
+</article>
+</r>
+<r><article key="journals/isci/SilvaCHH16" mdate="2020-10-26">
+<author pid="59/10022">N&#225;dia F&#233;lix Felipe da Silva</author>
+<author orcid="0000-0002-4542-8591" pid="00/8451">Luiz F. S. Coletta</author>
+<author orcid="0000-0002-9529-8916" pid="31/4579">Eduardo R. Hruschka</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<title>Using unsupervised information to improve semi-supervised tweet sentiment classification.</title>
+<pages>348-365</pages>
+<year>2016</year>
+<volume>355-356</volume>
+<journal>Inf. Sci.</journal>
+<ee>https://doi.org/10.1016/j.ins.2016.02.002</ee>
+<url>db/journals/isci/isci355.html#SilvaCHH16</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/NavarroHA16" mdate="2023-03-24">
+<author pid="136/8513">Lucas Fonseca Navarro</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="00/4729">Ana Paula Appel</author>
+<title>Finding Inference Rules Using Graph Mining in Ontological Knowledge Bases.</title>
+<pages>349-354</pages>
+<year>2016</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2016.070</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2016.070</ee>
+<crossref>conf/bracis/2016</crossref>
+<url>db/conf/bracis/bracis2016.html#NavarroHA16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isda/SantosFHD16" mdate="2017-05-17">
+<author pid="07/6159">Edimilson Batista dos Santos</author>
+<author pid="195/4651">Massilon Louren&#231;o Fernandes</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="131/0667">Ma&#237;sa Cristina Duarte</author>
+<title>Bayesian Networks for Identifying Semantic Relations in a Never-Ending Learning System.</title>
+<pages>279-288</pages>
+<year>2016</year>
+<booktitle>ISDA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-53480-0_28</ee>
+<crossref>conf/isda/2016</crossref>
+<url>db/conf/isda/isda2016.html#SantosFHD16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isda/SouzaJ16" mdate="2018-01-16">
+<author pid="195/4692">Wesley Willy Oliveira de Souza</author>
+<author pid="294/1598">Estevam Rafael Hruschka Junior</author>
+<title>Cognitive Conversation Language - CCL.</title>
+<pages>309-318</pages>
+<year>2016</year>
+<booktitle>ISDA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-53480-0_31</ee>
+<crossref>conf/isda/2016</crossref>
+<url>db/conf/isda/isda2016.html#SouzaJ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/ChenH016" mdate="2018-11-06">
+<author pid="c/ZhiyuanChen">Zhiyuan Chen 0001</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="l/BingLiu1">Bing Liu 0001</author>
+<title>Lifelong Machine Learning and Computer Reading the Web.</title>
+<pages>2117-2118</pages>
+<year>2016</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/2939672.2945381</ee>
+<crossref>conf/kdd/2016</crossref>
+<url>db/conf/kdd/kdd2016.html#ChenH016</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/NavarroJA16" mdate="2018-11-06">
+<author pid="136/8513">Lucas Fonseca Navarro</author>
+<author pid="294/1598">Estevam Rafael Hruschka Junior</author>
+<author pid="00/4729">Ana Paula Appel</author>
+<title>Ontological Networks: Mapping Ontological Knowledge Bases into Graphs.</title>
+<pages>949-954</pages>
+<year>2016</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2872518.2890587</ee>
+<crossref>conf/www/2016c</crossref>
+<url>db/conf/www/www2016c.html#NavarroJA16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/aaai/2016text" mdate="2023-09-05">
+<editor pid="98/5909">Blaz Fortuna</editor>
+<editor pid="36/6757">Marko Grobelnik</editor>
+<editor pid="294/1598">Estevam R. Hruschka Jr.</editor>
+<editor pid="w/MichaelJWitbrock">Michael Witbrock</editor>
+<title>Knowledge Extraction from Text, Papers from the 2016 AAAI Workshop, Phoenix, Arizona, USA, February 12, 2016.</title>
+<booktitle>AAAI Workshop: Knowledge Extraction from Text</booktitle>
+<year>2016</year>
+<publisher>AAAI Press</publisher>
+<note type="isbn">978-1-57735-759-9</note>
+<ee type="archive">http://www.aaai.org/Library/Workshops/ws16-10.php</ee>
+<series href="db/series/aaaiws/index.html">AAAI Technical Report</series>
+<volume>WS-16-10</volume>
+<url>db/conf/aaai/text2016.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ws/MladenicHG15" mdate="2020-09-02">
+<author orcid="0000-0002-0360-6505" pid="m/DunjaMladenic">Dunja Mladenic</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="36/6757">Marko Grobelnik</author>
+<title>Editorial.</title>
+<pages>63</pages>
+<year>2015</year>
+<volume>35</volume>
+<journal>J. Web Semant.</journal>
+<ee>https://doi.org/10.1016/j.websem.2015.11.003</ee>
+<url>db/journals/ws/ws35.html#MladenicHG15</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/MitchellCHTBCMG15" mdate="2024-10-06">
+<author pid="81/1460">Tom M. Mitchell</author>
+<author pid="c/WWCohen">William W. Cohen</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="86/687">Partha Pratim Talukdar</author>
+<author pid="02/6601">Justin Betteridge</author>
+<author pid="81/1583">Andrew Carlson</author>
+<author pid="78/6527">Bhavana Dalvi Mishra</author>
+<author pid="00/8046">Matthew Gardner 0001</author>
+<author pid="18/6148">Bryan Kisiel</author>
+<author pid="29/5765">Jayant Krishnamurthy</author>
+<author pid="82/283">Ni Lao</author>
+<author pid="130/3733">Kathryn Mazaitis</author>
+<author pid="65/10489">Thahir Mohamed</author>
+<author orcid="0009-0000-5223-1394" pid="98/53">Ndapandula Nakashole</author>
+<author pid="161/0003">Emmanouil A. Platanios</author>
+<author pid="47/3133">Alan Ritter</author>
+<author pid="68/3471">Mehdi Samadi</author>
+<author pid="62/3903">Burr Settles</author>
+<author pid="45/3723">Richard C. Wang</author>
+<author pid="43/6731">Derry Wijaya</author>
+<author pid="36/7024-1">Abhinav Gupta 0001</author>
+<author pid="41/9922">Xinlei Chen</author>
+<author pid="117/6287">Abulhair Saparov</author>
+<author pid="161/0035">Malcolm Greaves</author>
+<author pid="49/973">Joel Welling</author>
+<title>Never-Ending Learning.</title>
+<pages>2302-2310</pages>
+<year>2015</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v29i1.9498</ee>
+<crossref>conf/aaai/2015</crossref>
+<url>db/conf/aaai/aaai2015.html#MitchellCHTBCMG15</url>
+</inproceedings>
+</r>
+<r><article key="journals/dss/SilvaHH14" mdate="2023-06-26">
+<author pid="59/10022">N&#225;dia F&#233;lix F. da Silva</author>
+<author orcid="0000-0002-9529-8916" pid="31/4579">Eduardo R. Hruschka</author>
+<author orcid="0000-0003-1499-2808" pid="294/1598">Estevam R. Hruschka Jr.</author>
+<title>Tweet sentiment analysis with classifier ensembles.</title>
+<pages>170-179</pages>
+<year>2014</year>
+<volume>66</volume>
+<journal>Decis. Support Syst.</journal>
+<ee>https://doi.org/10.1016/j.dss.2014.07.003</ee>
+<url>db/journals/dss/dss66.html#SilvaHH14</url>
+</article>
+</r>
+<r><article key="journals/ijhis/SantosHNE14" mdate="2017-05-20">
+<author pid="07/6159">Edimilson Batista dos Santos</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="65/4419">Maria do Carmo Nicoletti</author>
+<author pid="13/7047">Nelson F. F. Ebecken</author>
+<title>The influences of canonical evolutionary algorithm operators and variable orderings in learning Bayesian classifiers from data.</title>
+<pages>183-195</pages>
+<year>2014</year>
+<volume>11</volume>
+<journal>Int. J. Hybrid Intell. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.3233/HIS-140194</ee>
+<url>db/journals/ijhis/ijhis11.html#SantosHNE14</url>
+</article>
+</r>
+<r><article key="journals/ijon/AmaralH14" mdate="2025-03-03">
+<author orcid="0000-0003-4681-5451" pid="09/8570">Laurence Rodrigues do Amaral</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<title>Transgenic: An evolutionary algorithm operator.</title>
+<pages>104-113</pages>
+<year>2014</year>
+<volume>127</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2013.08.037</ee>
+<url>db/journals/ijon/ijon127.html#AmaralH14</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/ColettaSHH14" mdate="2023-06-26">
+<author orcid="0000-0002-4542-8591" pid="00/8451">Luiz Fernando Sommaggio Coletta</author>
+<author pid="59/10022">N&#225;dia F&#233;lix F. da Silva</author>
+<author orcid="0000-0002-9529-8916" pid="31/4579">Eduardo R. Hruschka</author>
+<author orcid="0000-0003-1499-2808" pid="294/1598">Estevam R. Hruschka Jr.</author>
+<title>Combining Classification and Clustering for Tweet Sentiment Analysis.</title>
+<pages>210-215</pages>
+<year>2014</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2014.46</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2014.46</ee>
+<crossref>conf/bracis/2014</crossref>
+<url>db/conf/bracis/bracis2014.html#ColettaSHH14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/his/MianiJ14" mdate="2017-05-24">
+<author pid="94/2426">Rafael Garcia Leonel Miani</author>
+<author pid="294/1598">Estevam Rafael Hruschka Junior</author>
+<title>Analyzing the use of obvious and generalized association rules in a large knowledge base.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>HIS</booktitle>
+<ee>https://doi.org/10.1109/HIS.2014.7086179</ee>
+<crossref>conf/his/2014</crossref>
+<url>db/conf/his/his2014.html#MianiJ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/his/BarchiJ14" mdate="2023-06-26">
+<author pid="161/2540">Paulo Henrique Barchi</author>
+<author orcid="0000-0003-1499-2808" pid="294/1598">Estevam Rafael Hruschka Junior</author>
+<title>Never-ending ontology extension through machine reading.</title>
+<pages>266-272</pages>
+<year>2014</year>
+<booktitle>HIS</booktitle>
+<ee>https://doi.org/10.1109/HIS.2014.7086210</ee>
+<crossref>conf/his/2014</crossref>
+<url>db/conf/his/his2014.html#BarchiJ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/his/DuarteH14" mdate="2023-06-26">
+<author pid="131/0667">Maisa C. Duarte</author>
+<author orcid="0000-0003-1499-2808" pid="294/1598">Estevam R. Hruschka Jr.</author>
+<title>Exploring two views of coreference resolution in a never-ending learning system.</title>
+<pages>273-278</pages>
+<year>2014</year>
+<booktitle>HIS</booktitle>
+<ee>https://doi.org/10.1109/HIS.2014.7086211</ee>
+<crossref>conf/his/2014</crossref>
+<url>db/conf/his/his2014.html#DuarteH14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isda/DuarteH14" mdate="2023-06-26">
+<author pid="131/0667">Maisa C. Duarte</author>
+<author orcid="0000-0003-1499-2808" pid="294/1598">Estevam R. Hruschka Jr.</author>
+<title>How to read the web in portuguese using the never-ending language learner's principles.</title>
+<pages>162-167</pages>
+<year>2014</year>
+<booktitle>ISDA</booktitle>
+<ee>https://doi.org/10.1109/ISDA.2014.7066260</ee>
+<crossref>conf/isda/2014</crossref>
+<url>db/conf/isda/isda2014.html#DuarteH14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semeval/SilvaHH14" mdate="2023-06-26">
+<author pid="59/10022">N&#225;dia F&#233;lix F. da Silva</author>
+<author orcid="0000-0003-1499-2808" pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="31/4579">Eduardo R. Hruschka</author>
+<title>Biocom_Usp: Tweet Sentiment Analysis with Adaptive Boosting Ensemble.</title>
+<pages>123-128</pages>
+<year>2014</year>
+<booktitle>SemEval@COLING</booktitle>
+<ee type="oa">https://doi.org/10.3115/v1/s14-2017</ee>
+<ee type="oa">https://aclanthology.org/S14-2017/</ee>
+<crossref>conf/semeval/2014</crossref>
+<url>db/conf/semeval/semeval2014.html#SilvaHH14</url>
+</inproceedings>
+</r>
+<r><article key="journals/envsoft/KrugGSLKJS13" mdate="2022-10-02">
+<author orcid="0000-0002-0066-7679" pid="156/7507">Lilian Anne Krug</author>
+<author orcid="0000-0003-3471-7213" pid="48/8950">Douglas Francisco Marcolino Gherardi</author>
+<author pid="153/9390">Jos&#233; Stech</author>
+<author pid="156/7359">Zelinda Margarida Andrade Nery Le&#227;o</author>
+<author pid="156/7523">Ruy Kenji Papa Kikuchi</author>
+<author pid="294/1598">Estevam Rafael Hruschka Junior</author>
+<author pid="156/7347">David John Suggett</author>
+<title>The construction of causal networks to estimate coral bleaching intensity.</title>
+<pages>157-167</pages>
+<year>2013</year>
+<volume>42</volume>
+<journal>Environ. Model. Softw.</journal>
+<ee>https://doi.org/10.1016/j.envsoft.2013.01.003</ee>
+<ee>https://www.wikidata.org/entity/Q112594006</ee>
+<url>db/journals/envsoft/envsoft42.html#KrugGSLKJS13</url>
+</article>
+</r>
+<r><article key="journals/fuin/HruschkaDN13" mdate="2020-09-18">
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="131/0667">Maisa C. Duarte</author>
+<author pid="65/4419">Maria C. Nicoletti</author>
+<title>Coupling as Strategy for Reducing Concept-Drift in Never-ending Learning Environments.</title>
+<pages>47-61</pages>
+<year>2013</year>
+<volume>124</volume>
+<journal>Fundam. Informaticae</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.3233/FI-2013-824</ee>
+<url>db/journals/fuin/fuin124.html#HruschkaDN13</url>
+</article>
+</r>
+<r><article key="journals/fuin/NicolettiLH13" mdate="2020-09-18">
+<author pid="65/4419">Maria C. Nicoletti</author>
+<author pid="96/1485">Fl&#225;via O. Santos de S&#225; Lisboa</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<title>Automatic Learning of Temporal Relations Under the Closed World Assumption.</title>
+<pages>133-151</pages>
+<year>2013</year>
+<volume>124</volume>
+<journal>Fundam. Informaticae</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.3233/FI-2013-828</ee>
+<url>db/journals/fuin/fuin124.html#NicolettiLH13</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/NavarroAJ13" mdate="2017-05-21">
+<author pid="136/8513">Lucas Fonseca Navarro</author>
+<author pid="00/4729">Ana Paula Appel</author>
+<author pid="294/1598">Estevam Rafael Hruschka Junior</author>
+<title>GraphDB - Storing Large Graphs on Secondary Memory.</title>
+<pages>177-186</pages>
+<year>2013</year>
+<booktitle>ADBIS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-01863-8_20</ee>
+<crossref>conf/adbis/2013-2</crossref>
+<url>db/conf/adbis/adbis2013-2.html#NavarroAJ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmla/GotardoRJZ13" mdate="2021-09-03">
+<author pid="144/3230">Reginaldo Aparecido Gotardo</author>
+<author pid="294/1598">Estevam Rafael Hruschka Junior</author>
+<author pid="61/335">S&#233;rgio Donizetti Zorzo</author>
+<title>Approach to Cold-Start Problem in Recommender Systems in the Context of Web-Based Education.</title>
+<pages>543-548</pages>
+<year>2013</year>
+<booktitle>ICMLA (2)</booktitle>
+<ee>https://doi.org/10.1109/ICMLA.2013.199</ee>
+<crossref>conf/icmla/2013-2</crossref>
+<url>db/conf/icmla/icmla2013-2.html#GotardoRJZ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/PedroAH13" mdate="2023-06-26">
+<author pid="153/6853">Saulo D. de S. Pedro</author>
+<author pid="00/4729">Ana Paula Appel</author>
+<author orcid="0000-0003-1499-2808" pid="294/1598">Estevam R. Hruschka Jr.</author>
+<title>Autonomously reviewing and validating the knowledge base of a never-ending learning system.</title>
+<pages>1195-1204</pages>
+<year>2013</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2487788.2488149</ee>
+<crossref>conf/www/2013c</crossref>
+<url>db/conf/www/www2013c.html#PedroAH13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cec/AmaralJ12" mdate="2025-03-03">
+<author orcid="0000-0003-4681-5451" pid="09/8570">Laurence Rodrigues do Amaral</author>
+<author pid="294/1598">Estevam Rafael Hruschka Junior</author>
+<title>Never-ending learning principles in gene ontology classification using genetic algorithms.</title>
+<pages>1-8</pages>
+<year>2012</year>
+<booktitle>IEEE Congress on Evolutionary Computation</booktitle>
+<ee>https://doi.org/10.1109/CEC.2012.6256637</ee>
+<crossref>conf/cec/2012</crossref>
+<url>db/conf/cec/cec2012.html#AmaralJ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iberamia/OliverioH12" mdate="2023-06-26">
+<author pid="79/7772">Vinicius Oliverio</author>
+<author orcid="0000-0003-1499-2808" pid="294/1598">Estevam R. Hruschka Jr.</author>
+<title>Contradiction Detection and Ontology Extension in a Never-Ending Learning System.</title>
+<pages>1-10</pages>
+<year>2012</year>
+<booktitle>IBERAMIA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-34654-5_1</ee>
+<crossref>conf/iberamia/2012</crossref>
+<url>db/conf/iberamia/iberamia2012.html#OliverioH12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iberamia/PedroH12" mdate="2023-06-26">
+<author pid="153/6853">Saulo D. de S. Pedro</author>
+<author orcid="0000-0003-1499-2808" pid="294/1598">Estevam R. Hruschka Jr.</author>
+<title>Conversing Learning: Active Learning and Active Social Interaction for Human Supervision in Never-Ending Learning Systems.</title>
+<pages>231-240</pages>
+<year>2012</year>
+<booktitle>IBERAMIA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-34654-5_24</ee>
+<crossref>conf/iberamia/2012</crossref>
+<url>db/conf/iberamia/iberamia2012.html#PedroH12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isda/NicolettiLHO12" mdate="2017-05-17">
+<author pid="65/4419">Maria C. Nicoletti</author>
+<author pid="96/1485">Fl&#225;via O. Santos de S&#225; Lisboa</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="80/6810">Osvaldo Luiz De Oliveira</author>
+<title>Representation and automatic learning of temporal relations between time periods with uncertain boundaries.</title>
+<pages>443-448</pages>
+<year>2012</year>
+<booktitle>ISDA</booktitle>
+<ee>https://doi.org/10.1109/ISDA.2012.6416579</ee>
+<crossref>conf/isda/2012</crossref>
+<url>db/conf/isda/isda2012.html#NicolettiLHO12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/VermaH12" mdate="2018-06-26">
+<author pid="118/5298">Saurabh Verma</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<title>Coupled Bayesian Sets Algorithm for Semi-supervised Learning and Information Extraction.</title>
+<pages>307-322</pages>
+<year>2012</year>
+<booktitle>ECML/PKDD (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-33486-3_20</ee>
+<crossref>conf/pkdd/2012-2</crossref>
+<url>db/conf/pkdd/pkdd2012-2.html#VermaH12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/PedroH12" mdate="2021-08-26">
+<author pid="153/6853">Saulo D. de S. Pedro</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<title>Collective intelligence as a source for machine learning self-supervision.</title>
+<pages>5</pages>
+<year>2012</year>
+<booktitle>WI&#38;C</booktitle>
+<ee>https://doi.org/10.1145/2189736.2189744</ee>
+<crossref>conf/www/2012wic</crossref>
+<url>db/conf/www/wic2012.html#PedroH12</url>
+</inproceedings>
+</r>
+<r><article key="journals/ida/SantosHHE11" mdate="2025-01-19">
+<author pid="07/6159">Edimilson Batista dos Santos</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author orcid="0000-0002-9529-8916" pid="31/4579">Eduardo R. Hruschka</author>
+<author orcid="0000-0003-4928-0966" pid="13/7047">Nelson F. F. Ebecken</author>
+<title>Bayesian network classifiers: Beyond classification accuracy.</title>
+<pages>279-298</pages>
+<year>2011</year>
+<volume>15</volume>
+<journal>Intell. Data Anal.</journal>
+<number>3</number>
+<ee>https://doi.org/10.3233/IDA-2010-0468</ee>
+<ee>https://www.wikidata.org/entity/Q129069613</ee>
+<url>db/journals/ida/ida15.html#SantosHHE11</url>
+</article>
+</r>
+<r><article key="journals/jcmse/HruschkaHE11" mdate="2025-01-19">
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author orcid="0000-0002-9529-8916" pid="31/4579">Eduardo R. Hruschka</author>
+<author orcid="0000-0003-4928-0966" pid="13/7047">Nelson F. F. Ebecken</author>
+<title>A Bayesian imputation method for a clustering genetic algorithm.</title>
+<pages>173-183</pages>
+<year>2011</year>
+<volume>11</volume>
+<journal>J. Comput. Methods Sci. Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/JCM-2011-0362</ee>
+<ee>https://www.wikidata.org/entity/Q127986140</ee>
+<url>db/journals/jcmse/jcmse11.html#HruschkaHE11</url>
+</article>
+</r>
+<r><article key="journals/jidm/AppelJ11" mdate="2021-11-30">
+<author pid="00/4729">Ana Paula Appel</author>
+<author pid="294/1598">Estevam Rafael Hruschka Junior</author>
+<title>Centaurs - a Component Based Framework to Mine Large Graphs.</title>
+<pages>19-26</pages>
+<year>2011</year>
+<volume>2</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>1</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1381</ee>
+<url>db/journals/jidm/jidm2.html#AppelJ11</url>
+</article>
+</r>
+<r><inproceedings key="conf/cec/AmaralH11" mdate="2025-03-03">
+<author orcid="0000-0003-4681-5451" pid="09/8570">Laurence Rodrigues do Amaral</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<title>Transgenic, an operator for evolutionary algorithms.</title>
+<pages>1308-1314</pages>
+<year>2011</year>
+<booktitle>IEEE Congress on Evolutionary Computation</booktitle>
+<ee>https://doi.org/10.1109/CEC.2011.5949767</ee>
+<crossref>conf/cec/2011</crossref>
+<url>db/conf/cec/cec2011.html#AmaralH11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/MohamedHM11" mdate="2021-08-06">
+<author pid="65/10489">Thahir Mohamed</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="81/1460">Tom M. Mitchell</author>
+<title>Discovering Relations between Noun Categories.</title>
+<pages>1447-1455</pages>
+<year>2011</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://aclanthology.org/D11-1134/</ee>
+<crossref>conf/emnlp/2011</crossref>
+<url>db/conf/emnlp/emnlp2011.html#MohamedHM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/AppelJ11" mdate="2023-03-24">
+<author pid="00/4729">Ana Paula Appel</author>
+<author pid="294/1598">Estevam Rafael Hruschka Junior</author>
+<title>Prophet - A Link-Predictor to Learn New Rules on NELL.</title>
+<pages>917-924</pages>
+<year>2011</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2011.142</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDMW.2011.142</ee>
+<crossref>conf/icdm/2011w</crossref>
+<url>db/conf/icdm/icdmw2011.html#AppelJ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isda/SantosEH11" mdate="2019-10-19">
+<author pid="07/6159">Edimilson Batista dos Santos</author>
+<author orcid="0000-0003-4928-0966" pid="13/7047">Nelson F. F. Ebecken</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<title>Learning Bayesian Network structures using Multiple Offspring Sampling.</title>
+<pages>362-367</pages>
+<year>2011</year>
+<booktitle>ISDA</booktitle>
+<ee>https://doi.org/10.1109/ISDA.2011.6121682</ee>
+<crossref>conf/isda/2011</crossref>
+<url>db/conf/isda/isda2011.html#SantosEH11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stil/DuarteHN11" mdate="2021-08-06">
+<author pid="131/0667">Ma&#237;sa Cristina Duarte</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="65/4419">Maria do Carmo Nicoletti</author>
+<title>Minimiza&#231;&#227;o do Impacto do Problema de Desvio de Conceito por Meio de Acoplamento em Ambiente de Aprendizado Sem Fim (Minimizing the Impact of the Concept Drift Problem by Using a Framework of Endless Learning) [in Portuguese].</title>
+<year>2011</year>
+<booktitle>STIL</booktitle>
+<ee type="oa">https://aclanthology.org/W11-4515/</ee>
+<crossref>conf/stil/2011</crossref>
+<url>db/conf/stil/stil2011.html#DuarteHN11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/CarlsonBKSHM10" mdate="2023-09-30">
+<author pid="81/1583">Andrew Carlson</author>
+<author pid="02/6601">Justin Betteridge</author>
+<author pid="18/6148">Bryan Kisiel</author>
+<author pid="62/3903">Burr Settles</author>
+<author orcid="0000-0003-1499-2808" pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="81/1460">Tom M. Mitchell</author>
+<title>Toward an Architecture for Never-Ending Language Learning.</title>
+<year>2010</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v24i1.7519</ee>
+<crossref>conf/aaai/2010</crossref>
+<url>db/conf/aaai/aaai2010.html#CarlsonBKSHM10</url>
+<pages>1306-1313</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cec/AmaralH10" mdate="2025-03-03">
+<author orcid="0000-0003-4681-5451" pid="09/8570">Laurence Rodrigues do Amaral</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<title>Gene ontology classification: Building high-level knowledge using genetic algorithms.</title>
+<pages>1-7</pages>
+<year>2010</year>
+<booktitle>IEEE Congress on Evolutionary Computation</booktitle>
+<ee>https://doi.org/10.1109/CEC.2010.5586011</ee>
+<crossref>conf/cec/2010</crossref>
+<url>db/conf/cec/cec2010.html#AmaralH10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cec/SantosHHE10" mdate="2020-10-25">
+<author pid="07/6159">Edimilson Batista dos Santos</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author orcid="0000-0002-9529-8916" pid="31/4579">Eduardo R. Hruschka</author>
+<author orcid="0000-0003-4928-0966" pid="13/7047">Nelson F. F. Ebecken</author>
+<title>A Distance-Based Mutation Operator for learning Bayesian Network structures using Evolutionary Algorithms.</title>
+<pages>1-8</pages>
+<year>2010</year>
+<booktitle>IEEE Congress on Evolutionary Computation</booktitle>
+<ee>https://doi.org/10.1109/CEC.2010.5586049</ee>
+<crossref>conf/cec/2010</crossref>
+<url>db/conf/cec/cec2010.html#SantosHHE10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmla/SantosHE10" mdate="2023-03-24">
+<author pid="07/6159">Edimilson Batista dos Santos</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author orcid="0000-0003-4928-0966" pid="13/7047">Nelson F. F. Ebecken</author>
+<title>Evolutionary Algorithm Using Random Multi-point Crossover Operator for Learning Bayesian Network Structures.</title>
+<pages>430-435</pages>
+<year>2010</year>
+<booktitle>ICMLA</booktitle>
+<ee>https://doi.org/10.1109/ICMLA.2010.70</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICMLA.2010.70</ee>
+<crossref>conf/icmla/2010</crossref>
+<url>db/conf/icmla/icmla2010.html#SantosHE10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmla/YinHC10" mdate="2023-03-24">
+<author pid="35/7769">I-Hsien Yin</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author orcid="0000-0002-5489-7306" pid="28/2620">Heloisa de Arruda Camargo</author>
+<title>Intelligent Classification System Using a Pruned Bayes Fuzzy Rule Set.</title>
+<pages>635-640</pages>
+<year>2010</year>
+<booktitle>ICMLA</booktitle>
+<ee>https://doi.org/10.1109/ICMLA.2010.98</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICMLA.2010.98</ee>
+<crossref>conf/icmla/2010</crossref>
+<url>db/conf/icmla/icmla2010.html#YinHC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/AppelH10" mdate="2022-03-07">
+<author pid="00/4729">Ana Paula Appel</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<title>Centaurs - A Component-based Framework to Mine Large Graphs.</title>
+<pages>1:1-1:8</pages>
+<year>2010</year>
+<booktitle>SBBD (Posters)</booktitle>
+<ee type="archive">http://www.lbd.dcc.ufmg.br/colecoes/sbbd/2010/001.pdf</ee>
+<crossref>conf/sbbd/2010p</crossref>
+<url>db/conf/sbbd/sbbd2010p.html#AppelH10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/CarlsonBWHM10" mdate="2018-11-06">
+<author pid="81/1583">Andrew Carlson</author>
+<author pid="02/6601">Justin Betteridge</author>
+<author pid="45/3723">Richard C. Wang</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="81/1460">Tom M. Mitchell</author>
+<title>Coupled semi-supervised learning for information extraction.</title>
+<pages>101-110</pages>
+<year>2010</year>
+<booktitle>WSDM</booktitle>
+<ee>https://doi.org/10.1145/1718487.1718501</ee>
+<crossref>conf/wsdm/2010</crossref>
+<url>db/conf/wsdm/wsdm2010.html#CarlsonBWHM10</url>
+</inproceedings>
+</r>
+<r><article key="journals/eaai/BressanOHN09" mdate="2020-02-20">
+<author pid="73/2726">Gl&#225;ucia M. Bressan</author>
+<author orcid="0000-0001-6078-9515" pid="46/6255">Vilma A. de Oliveira</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="65/4419">Maria do Carmo Nicoletti</author>
+<title>Using Bayesian networks with rule extraction to infer the risk of weed infestation in a corn-crop.</title>
+<pages>579-592</pages>
+<year>2009</year>
+<volume>22</volume>
+<journal>Eng. Appl. Artif. Intell.</journal>
+<number>4-5</number>
+<ee>https://doi.org/10.1016/j.engappai.2009.03.006</ee>
+<url>db/journals/eaai/eaai22.html#BressanOHN09</url>
+</article>
+</r>
+<r><article key="journals/jetai/HruschkaGHE09" mdate="2020-10-26">
+<author orcid="0000-0002-9529-8916" pid="31/4579">Eduardo R. Hruschka</author>
+<author pid="97/6513">Antonio J. T. Garcia</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author orcid="0000-0003-4928-0966" pid="13/7047">Nelson F. F. Ebecken</author>
+<title>On the influence of imputation in classification: practical issues.</title>
+<pages>43-58</pages>
+<year>2009</year>
+<volume>21</volume>
+<journal>J. Exp. Theor. Artif. Intell.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1080/09528130802246602</ee>
+<url>db/journals/jetai/jetai21.html#HruschkaGHE09</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaaiss/BetteridgeCHHLMW09" mdate="2012-02-17">
+<author pid="02/6601">Justin Betteridge</author>
+<author pid="81/1583">Andrew Carlson</author>
+<author pid="20/10550">Sue Ann Hong</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="32/1523">Edith L. M. Law</author>
+<author pid="81/1460">Tom M. Mitchell</author>
+<author pid="25/2729">Sophie H. Wang</author>
+<title>Toward Never Ending Language Learning.</title>
+<pages>1-2</pages>
+<year>2009</year>
+<booktitle>AAAI Spring Symposium: Learning by Reading and Learning to Read</booktitle>
+<ee>http://www.aaai.org/Library/Symposia/Spring/2009/ss09-07-001.php</ee>
+<crossref>conf/aaaiss/2009-7</crossref>
+<url>db/conf/aaaiss/aaaiss2009-7.html#BetteridgeCHHLMW09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isda/YinHC09" mdate="2023-03-23">
+<author pid="35/7769">I-Hsien Yin</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author orcid="0000-0002-5489-7306" pid="28/2620">Heloisa de Arruda Camargo</author>
+<title>The Impact of Pruning BayesFuzzy Rule Set.</title>
+<pages>456-461</pages>
+<year>2009</year>
+<booktitle>ISDA</booktitle>
+<ee>https://doi.org/10.1109/ISDA.2009.89</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISDA.2009.89</ee>
+<crossref>conf/isda/2009</crossref>
+<url>db/conf/isda/isda2009.html#YinHC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/MitchellBCHW09" mdate="2025-01-19">
+<author pid="81/1460">Tom M. Mitchell</author>
+<author pid="02/6601">Justin Betteridge</author>
+<author pid="81/1583">Andrew Carlson</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="45/3723">Richard C. Wang</author>
+<title>Populating the Semantic Web by Macro-reading Internet Text.</title>
+<pages>998-1002</pages>
+<year>2009</year>
+<booktitle>ISWC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-04930-9_66</ee>
+<ee>https://www.wikidata.org/entity/Q125463279</ee>
+<crossref>conf/semweb/2009</crossref>
+<url>db/conf/semweb/iswc2009.html#MitchellBCHW09</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijhis/HruschkaNOB08" mdate="2015-05-18">
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="65/4419">Maria do Carmo Nicoletti</author>
+<author pid="46/6255">Vilma A. de Oliveira</author>
+<author pid="73/2726">Gl&#225;ucia M. Bressan</author>
+<title>BayesRule: A Markov-Blanket based procedure for extracting a set of probabilistic rules from Bayesian classifiers.</title>
+<pages>83-96</pages>
+<year>2008</year>
+<volume>5</volume>
+<journal>Int. J. Hybrid Intell. Syst.</journal>
+<number>2</number>
+<ee>http://content.iospress.com/articles/international-journal-of-hybrid-intelligent-systems/his00064</ee>
+<url>db/journals/ijhis/ijhis5.html#HruschkaNOB08</url>
+</article>
+</r>
+<r><article key="journals/jucs/CintraCHN08" mdate="2023-09-07">
+<author pid="87/5821">Marcos Evandro Cintra</author>
+<author pid="28/2620">Heloisa de Arruda Camargo</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="65/4419">Maria do Carmo Nicoletti</author>
+<title>Automatic Construction of Fuzzy Rule Bases: a further Investigation into two Alternative Inductive Approaches.</title>
+<pages>2456-2470</pages>
+<year>2008</year>
+<volume>14</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>15</number>
+<url>db/journals/jucs/jucs14.html#CintraCHN08</url>
+<ee type="oa">https://doi.org/10.3217/jucs-014-15-2456</ee>
+</article>
+</r>
+<r><article key="journals/dke/HruschkaE07" mdate="2019-10-19">
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author orcid="0000-0003-4928-0966" pid="13/7047">Nelson F. F. Ebecken</author>
+<title>Towards efficient variables ordering for Bayesian networks classifier.</title>
+<pages>258-269</pages>
+<year>2007</year>
+<volume>63</volume>
+<journal>Data Knowl. Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.datak.2007.02.003</ee>
+<url>db/journals/dke/dke63.html#HruschkaE07</url>
+</article>
+</r>
+<r><article key="journals/jcse/HruschkaG07" mdate="2022-06-10">
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="10/4129">Sebastian D. C. de O. Galv&#227;o</author>
+<title>Fast Conditional Independence-based Bayesian Classifier.</title>
+<pages>162-176</pages>
+<year>2007</year>
+<volume>1</volume>
+<journal>J. Comput. Sci. Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.5626/jcse.2007.1.2.162</ee>
+<url>db/journals/jcse/jcse1.html#HruschkaG07</url>
+</article>
+</r>
+<r><article key="journals/jiis/HruschkaHE07" mdate="2020-10-26">
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author orcid="0000-0002-9529-8916" pid="31/4579">Eduardo R. Hruschka</author>
+<author orcid="0000-0003-4928-0966" pid="13/7047">Nelson F. F. Ebecken</author>
+<title>Bayesian networks for imputation in classification problems.</title>
+<pages>231-252</pages>
+<year>2007</year>
+<volume>29</volume>
+<journal>J. Intell. Inf. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10844-006-0016-x</ee>
+<url>db/journals/jiis/jiis29.html#HruschkaHE07</url>
+</article>
+</r>
+<r><article key="journals/nca/NicolettiFH07" mdate="2020-09-10">
+<author pid="65/4419">Maria do Carmo Nicoletti</author>
+<author pid="25/1532">Lucas Baggio Figueira</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<title>Transferring neural network based knowledge into an exemplar-based learner.</title>
+<pages>257-265</pages>
+<year>2007</year>
+<volume>16</volume>
+<journal>Neural Comput. Appl.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00521-007-0088-8</ee>
+<url>db/journals/nca/nca16.html#NicolettiFH07</url>
+</article>
+</r>
+<r><inproceedings key="conf/cec/SantosHN07" mdate="2017-05-21">
+<author pid="07/6159">Edimilson Batista dos Santos</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="65/4419">Maria do Carmo Nicoletti</author>
+<title>Conditional independence based learning of bayesian classifiers guided by a variable ordering genetic search.</title>
+<pages>1444-1449</pages>
+<year>2007</year>
+<booktitle>IEEE Congress on Evolutionary Computation</booktitle>
+<ee>https://doi.org/10.1109/CEC.2007.4424641</ee>
+<crossref>conf/cec/2007</crossref>
+<url>db/conf/cec/cec2007.html#SantosHN07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dawak/GalvaoH07" mdate="2017-05-21">
+<author pid="10/4129">Sebastian D. C. de O. Galv&#227;o</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<title>A Markov Blanket Based Strategy to Optimize the Induction of Bayesian Classifiers When Using Conditional Independence Learning Algorithms.</title>
+<pages>355-364</pages>
+<year>2007</year>
+<crossref>conf/dawak/2007</crossref>
+<booktitle>DaWaK</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74553-2_33</ee>
+<url>db/conf/dawak/dawak2007.html#GalvaoH07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/foci/VivencioHNSG07" mdate="2017-05-17">
+<author pid="28/1192">Diego P. Vivencio</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="65/4419">Maria do Carmo Nicoletti</author>
+<author pid="07/6159">Edimilson Batista dos Santos</author>
+<author pid="10/4129">Sebastian D. C. de O. Galv&#227;o</author>
+<title>Feature-weighted k-Nearest Neighbor Classifier.</title>
+<pages>481-486</pages>
+<year>2007</year>
+<crossref>conf/foci/2007</crossref>
+<booktitle>FOCI</booktitle>
+<ee>https://doi.org/10.1109/FOCI.2007.371516</ee>
+<url>db/conf/foci/foci2007.html#VivencioHNSG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/HruschkaCCN07" mdate="2020-06-15">
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author orcid="0000-0002-5489-7306" pid="28/2620">Heloisa de Arruda Camargo</author>
+<author orcid="0000-0001-7712-6865" pid="87/5821">Marcos Evandro Cintra</author>
+<author pid="65/4419">Maria do Carmo Nicoletti</author>
+<title>BayesFuzzy: Using a Bayesian Classifier to Induce a Fuzzy Rule Base.</title>
+<pages>1-6</pages>
+<year>2007</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<ee>https://doi.org/10.1109/FUZZY.2007.4295637</ee>
+<crossref>conf/fuzzIEEE/2007</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2007.html#HruschkaCCN07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/his/HruschkaNOB07" mdate="2020-06-05">
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="65/4419">Maria do Carmo Nicoletti</author>
+<author pid="46/6255">Vilma A. de Oliveira</author>
+<author pid="73/2726">Gl&#225;ucia M. Bressan</author>
+<title>Markov-Blanket Based Strategy for Translating a Bayesian Classifier into a Reduced Set of Classification Rules.</title>
+<pages>192-197</pages>
+<year>2007</year>
+<booktitle>HIS</booktitle>
+<ee>https://doi.org/10.1109/HIS.2007.68</ee>
+<crossref>conf/his/2007</crossref>
+<url>db/conf/his/his2007.html#HruschkaNOB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/his/HruschkaSG07" mdate="2020-06-05">
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="07/6159">Edimilson Batista dos Santos</author>
+<author pid="10/4129">Sebastian D. C. de O. Galv&#227;o</author>
+<title>Variable Ordering in the Conditional Independence Bayesian Classifier Induction Process: An Evolutionary Approach.</title>
+<pages>204-209</pages>
+<year>2007</year>
+<booktitle>HIS</booktitle>
+<ee>https://doi.org/10.1109/HIS.2007.67</ee>
+<crossref>conf/his/2007</crossref>
+<url>db/conf/his/his2007.html#HruschkaSG07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isda/BressanOHN07" mdate="2025-05-01">
+<author pid="73/2726">Gl&#225;ucia M. Bressan</author>
+<author orcid="0000-0001-6078-9515" pid="46/6255">Vilma A. de Oliveira</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="65/4419">Maria C. Nicoletti</author>
+<title>Biomass Based Weed-Crop Competitiveness Classification Using Bayesian Networks.</title>
+<pages>121-126</pages>
+<year>2007</year>
+<booktitle>ISDA</booktitle>
+<ee>https://doi.org/10.1109/ISDA.2007.60</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISDA.2007.60</ee>
+<crossref>conf/isda/2007</crossref>
+<url>db/conf/isda/isda2007.html#BressanOHN07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isda/PedroHE07" mdate="2023-03-23">
+<author pid="126/9977">Saul D. de S. S. Pedro</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="13/7047">Nelson F. F. Ebecken</author>
+<title>WNB: A Weighted Na&#239;ve Bayesian Classifier.</title>
+<pages>138-142</pages>
+<year>2007</year>
+<booktitle>ISDA</booktitle>
+<ee>https://doi.org/10.1109/ISDA.2007.149</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISDA.2007.149</ee>
+<crossref>conf/isda/2007</crossref>
+<url>db/conf/isda/isda2007.html#PedroHE07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isda/CintraCHN07" mdate="2023-03-23">
+<author orcid="0000-0001-7712-6865" pid="87/5821">Marcos Evandro Cintra</author>
+<author pid="28/2620">Heloisa de Arruda Camargo</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="65/4419">Maria do Carmo Nicoletti</author>
+<title>Fuzzy Rule Base Generation through Genetic Algorithms and Bayesian Classifiers A Comparative Approach.</title>
+<pages>315-322</pages>
+<year>2007</year>
+<booktitle>ISDA</booktitle>
+<ee>https://doi.org/10.1109/ISDA.2007.30</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISDA.2007.30</ee>
+<crossref>conf/isda/2007</crossref>
+<url>db/conf/isda/isda2007.html#CintraCHN07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isda/SantoroNH07" mdate="2023-03-23">
+<author pid="16/3047">Daniel Monegatto Santoro</author>
+<author pid="65/4419">Maria do Carmo Nicoletti</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<title>C-Focus-3: a C-Focus with a New Heuristic Search Strategy.</title>
+<pages>479-484</pages>
+<year>2007</year>
+<booktitle>ISDA</booktitle>
+<ee>https://doi.org/10.1109/ISDA.2007.20</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISDA.2007.20</ee>
+<crossref>conf/isda/2007</crossref>
+<url>db/conf/isda/isda2007.html#SantoroNH07</url>
+</inproceedings>
+</r>
+<r><article key="journals/jikm/HruschkaHCE06" mdate="2020-10-26">
+<author orcid="0000-0002-9529-8916" pid="31/4579">Eduardo R. Hruschka</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="06/848">Thiago F. Covoes</author>
+<author orcid="0000-0003-4928-0966" pid="13/7047">Nelson F. F. Ebecken</author>
+<title>Bayesian Feature Selection for Clustering Problems.</title>
+<pages>315-327</pages>
+<year>2006</year>
+<volume>5</volume>
+<journal>J. Inf. Knowl. Manag.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1142/S0219649206001578</ee>
+<url>db/journals/jikm/jikm5.html#HruschkaHCE06</url>
+</article>
+</r>
+<r><inproceedings key="conf/his/BertiniNHR06" mdate="2023-03-24">
+<author pid="25/2752">Jo&#227;o Roberto Bertini Jr.</author>
+<author pid="65/4419">Maria do Carmo Nicoletti</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="r/ArthurRamer">Arthur Ramer</author>
+<title>Two Variants of the Constructive Neural Network Tiling Algorithm.</title>
+<pages>49</pages>
+<year>2006</year>
+<crossref>conf/his/2006</crossref>
+<booktitle>HIS</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/HIS.2006.74</ee>
+<url>db/conf/his/his2006.html#BertiniNHR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/his/SantosJ06" mdate="2023-03-24">
+<author pid="07/6159">Edimilson Batista dos Santos</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<title>VOGA: Variable Ordering Genetic Algorithm for Learning Bayesian Classifiers.</title>
+<pages>56</pages>
+<year>2006</year>
+<crossref>conf/his/2006</crossref>
+<booktitle>HIS</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/HIS.2006.77</ee>
+<url>db/conf/his/his2006.html#SantosJ06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/BertiniNH06" mdate="2019-10-19">
+<author orcid="0000-0002-1679-3151" pid="25/2752">Jo&#227;o Roberto Bertini Jr.</author>
+<author pid="65/4419">Maria do Carmo Nicoletti</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<title>A Comparative Evaluation of Constructive Neural Networks Methods using PRM and BCP as TLU Training Algorithms.</title>
+<pages>3497-3502</pages>
+<year>2006</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/ICSMC.2006.384661</ee>
+<crossref>conf/smc/2006</crossref>
+<url>db/conf/smc/smc2006.html#BertiniNH06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/his/NicolettiFH05" mdate="2023-03-24">
+<author pid="65/4419">Maria do Carmo Nicoletti</author>
+<author pid="25/1532">Lucas Baggio Figueira</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<title>Initializing an Exemplar Based Learning Process from a RuleNet Network.</title>
+<pages>125-130</pages>
+<year>2005</year>
+<crossref>conf/his/2005</crossref>
+<booktitle>HIS</booktitle>
+<ee>https://doi.org/10.1109/ICHIS.2005.65</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICHIS.2005.65</ee>
+<url>db/conf/his/his2005.html#NicolettiFH05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/his/HruschkaCHE05" mdate="2023-03-24">
+<author orcid="0000-0002-9529-8916" pid="31/4579">Eduardo R. Hruschka</author>
+<author pid="06/848">Thiago F. Covoes</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author orcid="0000-0003-4928-0966" pid="13/7047">Nelson F. F. Ebecken</author>
+<title>Feature Selection for Clustering Problems: a Hybrid Algorithm that Iterates Between k-means and a Bayesian Filter.</title>
+<pages>405-410</pages>
+<year>2005</year>
+<crossref>conf/his/2005</crossref>
+<booktitle>HIS</booktitle>
+<ee>https://doi.org/10.1109/ICHIS.2005.42</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICHIS.2005.42</ee>
+<url>db/conf/his/his2005.html#HruschkaCHE05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icnc/HruschkaHE05" mdate="2017-05-21">
+<author pid="31/4579">Eduardo R. Hruschka</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="13/7047">Nelson F. F. Ebecken</author>
+<title>Missing Values Imputation for a Clustering Genetic Algorithm.</title>
+<pages>245-254</pages>
+<year>2005</year>
+<crossref>conf/icnc/2005-3</crossref>
+<booktitle>ICNC (3)</booktitle>
+<ee>https://doi.org/10.1007/11539902_29</ee>
+<url>db/conf/icnc/icnc2005-3.html#HruschkaHE05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sgai/HruschkaHE05" mdate="2019-03-14">
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="31/4579">Eduardo R. Hruschka</author>
+<author pid="13/7047">Nelson F. F. Ebecken</author>
+<title>Applying Bayesian Networks for Meteorological Data Mining.</title>
+<pages>122-133</pages>
+<year>2005</year>
+<booktitle>SGAI Conf. (Applications)</booktitle>
+<ee>https://doi.org/10.1007/1-84628-224-1_10</ee>
+<crossref>conf/sgai/2005</crossref>
+<url>db/conf/sgai/sgai2005.html#HruschkaHE05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/SantoroHN05" mdate="2017-05-17">
+<author pid="16/3047">Daniel Monegatto Santoro</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="65/4419">Maria do Carmo Nicoletti</author>
+<title>Selecting feature subsets for inducing classifiers using a committee of heterogeneous methods.</title>
+<pages>375-380</pages>
+<year>2005</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/ICSMC.2005.1571175</ee>
+<crossref>conf/smc/2005</crossref>
+<url>db/conf/smc/smc2005.html#SantoroHN05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ai/HruschkaHE04" mdate="2023-09-28">
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="31/4579">Eduardo R. Hruschka</author>
+<author pid="13/7047">Nelson F. F. Ebecken</author>
+<title>Feature Selection by Bayesian Networks.</title>
+<pages>370-379</pages>
+<ee>https://doi.org/10.1007/978-3-540-24840-8_26</ee>
+<year>2004</year>
+<crossref>conf/ai/2004</crossref>
+<booktitle>Canadian AI</booktitle>
+<url>db/conf/ai/ai2004.html#HruschkaHE04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ausai/HruschkaHE04" mdate="2017-05-21">
+<author pid="31/4579">Eduardo R. Hruschka</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="13/7047">Nelson F. F. Ebecken</author>
+<title>Towards Efficient Imputation by Nearest-Neighbors: A Clustering-Based Approach.</title>
+<pages>513-525</pages>
+<ee>https://doi.org/10.1007/978-3-540-30549-1_45</ee>
+<year>2004</year>
+<crossref>conf/ausai/2004</crossref>
+<booktitle>Australian Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai2004.html#HruschkaHE04</url>
+</inproceedings>
+</r>
+<r><article key="journals/aai/HruschkaHE03" mdate="2020-10-26">
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author orcid="0000-0002-9529-8916" pid="31/4579">Eduardo R. Hruschka</author>
+<author orcid="0000-0003-4928-0966" pid="13/7047">Nelson F. F. Ebecken</author>
+<title>A Feature Selection Bayesian Approach for Extracting Classification Rules with a Clustering Genetic Algorithm.</title>
+<pages>489-506</pages>
+<year>2003</year>
+<volume>17</volume>
+<journal>Appl. Artif. Intell.</journal>
+<number>5-6</number>
+<ee>https://doi.org/10.1080/713827176</ee>
+<url>db/journals/aai/aai17.html#HruschkaHE03</url>
+</article>
+</r>
+<r><inproceedings key="conf/ausai/HruschkaHE03" mdate="2020-10-25">
+<author orcid="0000-0002-9529-8916" pid="31/4579">Eduardo R. Hruschka</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="13/7047">Nelson F. F. Ebecken</author>
+<title>Evaluating a Nearest-Neighbor Method to Substitute Continuous Missing Values.</title>
+<pages>723-734</pages>
+<ee>https://doi.org/10.1007/978-3-540-24581-0_62</ee>
+<year>2003</year>
+<crossref>conf/ausai/2003</crossref>
+<booktitle>Australian Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai2003.html#HruschkaHE03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/HruschkaHE03" mdate="2003-10-06">
+<author pid="31/4579">Eduardo R. Hruschka</author>
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="13/7047">Nelson F. F. Ebecken</author>
+<title>A Nearest-Neighbor Method as a Data Preparation Tool for a Clustering Genetic Algorithm.</title>
+<pages>319-327</pages>
+<year>2003</year>
+<crossref>conf/sbbd/2003</crossref>
+<booktitle>SBBD</booktitle>
+<url>db/conf/sbbd/sbbd2003.html#HruschkaHE03</url>
+</inproceedings>
+</r>
+<r><article key="journals/ida/HruschkaE02" mdate="2015-05-18">
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="13/7047">Nelson F. F. Ebecken</author>
+<title>Missing values prediction with K2.</title>
+<pages>557-566</pages>
+<year>2002</year>
+<volume>6</volume>
+<journal>Intell. Data Anal.</journal>
+<number>6</number>
+<ee>http://content.iospress.com/articles/intelligent-data-analysis/ida00111</ee>
+<url>db/journals/ida/ida6.html#HruschkaE02</url>
+</article>
+</r>
+<r><inproceedings key="conf/his/HruschkaHE02" mdate="2003-12-02">
+<author pid="294/1598">Estevam R. Hruschka Jr.</author>
+<author pid="31/4579">Eduardo R. Hruschka</author>
+<author pid="13/7047">Nelson F. F. Ebecken</author>
+<title>A Data Preparation Bayesian Approach for a Clustering Genetic Algorithm.</title>
+<pages>453-461</pages>
+<year>2002</year>
+<crossref>conf/his/2002</crossref>
+<booktitle>HIS</booktitle>
+<url>db/conf/his/his2002.html#HruschkaHE02</url>
+</inproceedings>
+</r>
+<coauthors n="248" nc="7">
+<co c="0"><na f="a/Abdolazimi:Reyhaneh" pid="269/4833">Reyhaneh Abdolazimi</na></co>
+<co c="0"><na f="a/Akker:Bram_van_den" pid="237/9986">Bram van den Akker</na></co>
+<co c="0"><na f="a/Albrecht:Stefano_V=" pid="118/3975">Stefano V. Albrecht</na></co>
+<co c="2"><na f="a/Alves:Alexandre_Henrick_da_Silva" pid="299/2697">Alexandre Henrick da Silva Alves</na></co>
+<co c="2"><na f="a/Amaral:Laurence_Rodrigues_do" pid="09/8570">Laurence Rodrigues do Amaral</na></co>
+<co c="4"><na f="a/Amaro:Fl=aacute=vio" pid="249/9420">Fl&#225;vio Amaro</na></co>
+<co c="0"><na f="a/Amer=Yahia:Sihem" pid="a/SihemAmerYahia">Sihem Amer-Yahia</na></co>
+<co c="0"><na f="a/Aminnaseri:Moin" pid="281/6973">Moin Aminnaseri</na></co>
+<co c="3"><na f="a/Appel:Ana_Paula" pid="00/4729">Ana Paula Appel</na></co>
+<co c="-1"><na f="b/Barchi:Paulo_Henrique" pid="161/2540">Paulo Henrique Barchi</na></co>
+<co c="0"><na f="b/Bel=eacute=m:Catarina_G=" pid="377/3756">Catarina G. Bel&#233;m</na></co>
+<co c="2"><na f="b/Bertarini:Pedro_Luiz_Lima" pid="299/2709">Pedro Luiz Lima Bertarini</na></co>
+<co c="0"><na f="b/Bertini_Jr=:Jo=atilde=o_Roberto" pid="25/2752">Jo&#227;o Roberto Bertini Jr.</na></co>
+<co c="0"><na f="b/Betteridge:Justin" pid="02/6601">Justin Betteridge</na></co>
+<co c="0"><na f="b/Bhutani:Nikita" pid="188/9073">Nikita Bhutani</na></co>
+<co c="0"><na f="b/Bouchard_0001:Bruno" pid="63/2180-1">Bruno Bouchard 0001</na></co>
+<co c="0"><na f="b/Bressan:Gl=aacute=ucia_M=" pid="73/2726">Gl&#225;ucia M. Bressan</na></co>
+<co c="0"><na f="b/Brownstein:John_S=" pid="97/8247">John S. Brownstein</na></co>
+<co c="0"><na f="b/Bruno:Lucas_Rezende" pid="256/0032">Lucas Rezende Bruno</na></co>
+<co c="0"><na f="b/Buckeridge:David_L=" pid="74/3031">David L. Buckeridge</na></co>
+<co c="0" n="2"><na f="c/Camargo:Heloisa_A=" pid="28/2620">Heloisa A. Camargo</na><na>Heloisa de Arruda Camargo</na></co>
+<co c="0"><na f="c/Caragea:Cornelia" pid="69/6680">Cornelia Caragea</na></co>
+<co c="0"><na f="c/Carlson:Andrew" pid="81/1583">Andrew Carlson</na></co>
+<co c="0"><na f="c/Carter_0001:Kevin_M=" pid="75/7583-1">Kevin M. Carter 0001</na></co>
+<co c="0"><na f="c/Chen:Hongzhi" pid="42/7395">Hongzhi Chen</na></co>
+<co c="0"><na f="c/Chen:Rafael_Li" pid="337/1367">Rafael Li Chen</na></co>
+<co c="0"><na f="c/Chen_0016:Xiao" pid="05/3054-16">Xiao Chen 0016</na></co>
+<co c="0"><na f="c/Chen:Xinlei" pid="41/9922">Xinlei Chen</na></co>
+<co c="0"><na f="c/Chen_0001:Zhiyuan" pid="c/ZhiyuanChen">Zhiyuan Chen 0001</na></co>
+<co c="0"><na f="c/Choi:Dongjin" pid="33/7730">Dongjin Choi</na></co>
+<co c="0"><na f="c/Choi:Frederick" pid="173/9378">Frederick Choi</na></co>
+<co c="0" n="2"><na f="c/Cintra:Marcos_E=" pid="87/5821">Marcos E. Cintra</na><na>Marcos Evandro Cintra</na></co>
+<co c="0"><na f="c/Cohen:William_W=" pid="c/WWCohen">William W. Cohen</na></co>
+<co c="0" n="2"><na f="c/Coletta:Luiz_F=_S=" pid="00/8451">Luiz F. S. Coletta</na><na>Luiz Fernando Sommaggio Coletta</na></co>
+<co c="4"><na f="c/Costa:Andr=eacute=_Soares_de_Moura" pid="249/9311">Andr&#233; Soares de Moura Costa</na></co>
+<co c="0"><na f="c/Covoes:Thiago_F=" pid="06/848">Thiago F. Covoes</na></co>
+<co c="0"><na f="c/Cui_0001:Peng" pid="31/891-1">Peng Cui 0001</na></co>
+<co c="0" n="2"><na f="d/Dalton_0001:Jeff" pid="05/2762-1">Jeff Dalton 0001</na><na>Jeffrey Dalton 0001</na></co>
+<co c="0" n="2"><na f="d/Dalvi:Bhavana" pid="78/6527">Bhavana Dalvi</na><na>Bhavana Dalvi Mishra</na></co>
+<co c="0"><na f="d/Darwiche:Adnan" pid="p/ADarwiche">Adnan Darwiche</na></co>
+<co c="0"><na f="d/Demiralp:=Ccedil=agatay" pid="74/20">&#199;agatay Demiralp</na></co>
+<co c="0" n="2"><na f="d/Dong_0001:Xin" pid="d/XinLunaDong">Xin Dong 0001</na><na>Xin Luna Dong</na></co>
+<co c="0" n="2"><na f="d/Duarte:Maisa_C=" pid="131/0667">Maisa C. Duarte</na><na>Ma&#237;sa Cristina Duarte</na></co>
+<co c="0"><na f="e/Ebecken:Nelson_F=_F=" pid="13/7047">Nelson F. F. Ebecken</na></co>
+<co c="0"><na f="e/Evensen:Sara" pid="213/8215">Sara Evensen</na></co>
+<co c="0"><na f="f/Fan:Wenqi" pid="218/7410">Wenqi Fan</na></co>
+<co c="0"><na f="f/Feng:Yanlin" pid="242/4247">Yanlin Feng</na></co>
+<co c="0" n="2"><na f="f/Fernandes:Massilon_L=" pid="195/4651">Massilon L. Fernandes</na><na>Massilon Louren&#231;o Fernandes</na></co>
+<co c="0"><na f="f/Figueira:Lucas_Baggio" pid="25/1532">Lucas Baggio Figueira</na></co>
+<co c="0"><na f="f/Fionda:Valeria" pid="43/3753">Valeria Fionda</na></co>
+<co c="0"><na f="f/Fortuna:Blaz" pid="98/5909">Blaz Fortuna</na></co>
+<co c="0"><na f="f/Francillette:Yannick" pid="119/9618">Yannick Francillette</na></co>
+<co c="0"><na f="f/Fritz:Manuela" pid="345/8195">Manuela Fritz</na></co>
+<co c="0"><na f="g/Gaboury:S=eacute=bastien" pid="117/1729">S&#233;bastien Gaboury</na></co>
+<co c="0"><na f="g/Galv=atilde=o:Sebastian_D=_C=_de_O=" pid="10/4129">Sebastian D. C. de O. Galv&#227;o</na></co>
+<co c="0"><na f="g/Gan:Quan" pid="72/3872">Quan Gan</na></co>
+<co c="0"><na f="g/Gao:Jingtong" pid="329/6049">Jingtong Gao</na></co>
+<co c="0"><na f="g/Garcia:Antonio_J=_T=" pid="97/6513">Antonio J. T. Garcia</na></co>
+<co c="5"><na f="g/Garcia:Rafael" pid="210/9955">Rafael Garcia</na></co>
+<co c="0" n="2"><na f="g/Gardner_0001:Matt" pid="00/8046">Matt Gardner 0001</na><na>Matthew Gardner 0001</na></co>
+<co c="1" n="2"><na f="g/Gherardi:Douglas_F=_M=" pid="48/8950">Douglas F. M. Gherardi</na><na>Douglas Francisco Marcolino Gherardi</na></co>
+<co c="0"><na f="g/Giles:C=_Lee" pid="g/CLeeGiles">C. Lee Giles</na></co>
+<co c="0"><na f="g/Gim=eacute=nez=Garc=iacute=a:Jos=eacute=_M=" pid="162/7707">Jos&#233; M. Gim&#233;nez-Garc&#237;a</na></co>
+<co c="0"><na f="g/Golshan:Behzad" pid="58/11411">Behzad Golshan</na></co>
+<co c="2"><na f="g/Gomes:Matheus_de_Souza" pid="299/2991">Matheus de Souza Gomes</na></co>
+<co c="6"><na f="g/Gotardo:Reginaldo_Aparecido" pid="144/3230">Reginaldo Aparecido Gotardo</na></co>
+<co c="0"><na f="g/Gravier:Christophe" pid="93/1485">Christophe Gravier</na></co>
+<co c="0"><na f="g/Greaves:Malcolm" pid="161/0035">Malcolm Greaves</na></co>
+<co c="0"><na f="g/Grobelnik:Marko" pid="36/6757">Marko Grobelnik</na></co>
+<co c="0"><na f="g/Guo_0002:Xiaojie" pid="43/8066-2">Xiaojie Guo 0002</na></co>
+<co c="0"><na f="g/Gupta_0001:Abhinav" pid="36/7024-1">Abhinav Gupta 0001</na></co>
+<co c="0"><na f="g/Gurajada:Sairam" pid="31/7537">Sairam Gurajada</na></co>
+<co c="0"><na f="h/Hahmann:Torsten" pid="83/752">Torsten Hahmann</na></co>
+<co c="0"><na f="h/Han_0001:Jiawei" pid="h/JiaweiHan">Jiawei Han 0001</na></co>
+<co c="0"><na f="h/Han:Soyeon_Caren" pid="24/10567">Soyeon Caren Han</na></co>
+<co c="0"><na f="h/Hartig:Olaf" pid="29/3132">Olaf Hartig</na></co>
+<co c="0"><na f="h/Hern=aacute=ndez=Gonz=aacute=lez:Jer=oacute=nimo" pid="133/0492">Jer&#243;nimo Hern&#225;ndez-Gonz&#225;lez</na></co>
+<co c="0"><na f="h/Hong:Sue_Ann" pid="20/10550">Sue Ann Hong</na></co>
+<co c="0"><na f="h/Hruschka:Eduardo_R=" pid="31/4579">Eduardo R. Hruschka</na></co>
+<co c="0"><na f="h/Hu_0004:Liang" pid="48/5388-4">Liang Hu 0004</na></co>
+<co c="0"><na f="h/Huang_0001:Jiaxin" pid="187/2874-1">Jiaxin Huang 0001</na></co>
+<co c="0"><na f="i/Iso:Hayate" pid="191/6033">Hayate Iso</na></co>
+<co c="0"><na f="j/Jaimini:Utkarshani" pid="201/7961">Utkarshani Jaimini</na></co>
+<co c="0"><na f="j/Jeunen:Olivier" pid="232/8079">Olivier Jeunen</na></co>
+<co c="0"><na f="j/Jiang:Yushan" pid="56/10645">Yushan Jiang</na></co>
+<co c="0"><na f="k/Kandogan:Eser" pid="54/6752">Eser Kandogan</na></co>
+<co c="0"><na f="k/Karimi_0001:Fariba" pid="29/10436-1">Fariba Karimi 0001</na></co>
+<co c="0"><na f="k/Karypis:George" pid="k/GeorgeKarypis">George Karypis</na></co>
+<co c="0"><na f="k/Kenthapadi:Krishnaram" pid="29/4781">Krishnaram Kenthapadi</na></co>
+<co c="0"><na f="k/Kephart:Jeffrey_O=" pid="10/3207">Jeffrey O. Kephart</na></co>
+<co c="1"><na f="k/Kikuchi:Ruy_Kenji_Papa" pid="156/7523">Ruy Kenji Papa Kikuchi</na></co>
+<co c="0"><na f="k/Kim:Bosung" pid="78/5891">Bosung Kim</na></co>
+<co c="0"><na f="k/Kim_0001:Hannah" pid="86/8831-1">Hannah Kim 0001</na></co>
+<co c="0"><na f="k/Kisiel:Bryan" pid="18/6148">Bryan Kisiel</na></co>
+<co c="0"><na f="k/Kordjamshidi:Parisa" pid="73/3423">Parisa Kordjamshidi</na></co>
+<co c="0"><na f="k/Krishnamurthy:Jayant" pid="29/5765">Jayant Krishnamurthy</na></co>
+<co c="1"><na f="k/Krug:Lilian_Anne" pid="156/7507">Lilian Anne Krug</na></co>
+<co c="0"><na f="k/Kwon:Nahyun" pid="11/6841">Nahyun Kwon</na></co>
+<co c="0"><na f="l/Lake:Thom" pid="234/7856">Thom Lake</na></co>
+<co c="0"><na f="l/Lakkaraju:Himabindu" pid="68/9376">Himabindu Lakkaraju</na></co>
+<co c="0"><na f="l/Lao:Ni" pid="82/283">Ni Lao</na></co>
+<co c="0" n="2"><na f="l/Lauw:Hady_Wirawan" pid="00/2494">Hady Wirawan Lauw</na><na>Hady W. Lauw</na></co>
+<co c="0" n="2"><na f="l/Law:Edith" pid="32/1523">Edith Law</na><na>Edith L. M. Law</na></co>
+<co c="0"><na f="l/Le:Thai" pid="03/9889">Thai Le</na></co>
+<co c="0"><na f="l/Le:Trung=Hoang" pid="269/4534">Trung-Hoang Le</na></co>
+<co c="1"><na f="l/Le=atilde=o:Zelinda_Margarida_Andrade_Nery" pid="156/7359">Zelinda Margarida Andrade Nery Le&#227;o</na></co>
+<co c="0"><na f="l/Lee_0001:Dongwon" pid="l/DongwonLee">Dongwon Lee 0001</na></co>
+<co c="0"><na f="l/Lee:Geon" pid="36/11045">Geon Lee</na></co>
+<co c="0"><na f="l/Levontin:Liat" pid="292/5757">Liat Levontin</na></co>
+<co c="0"><na f="l/Li:Cheng=Te" pid="90/5961">Cheng-Te Li</na></co>
+<co c="0"><na f="l/Li_0001:Haoyang" pid="118/0004-1">Haoyang Li 0001</na></co>
+<co c="0"><na f="l/Li_0012:Ying" pid="22/1805-12">Ying Li 0012</na></co>
+<co c="0"><na f="l/Liao:Jay_Chiehen" pid="317/3392">Jay Chiehen Liao</na></co>
+<co c="0"><na f="l/Lisboa:Fl=aacute=via_O=_Santos_de_S=aacute=" pid="96/1485">Fl&#225;via O. Santos de S&#225; Lisboa</na></co>
+<co c="0"><na f="l/Lis=yacute=:Viliam" pid="76/5110">Viliam Lis&#253;</na></co>
+<co c="0"><na f="l/Liu_0001:Bing" pid="l/BingLiu1">Bing Liu 0001</na></co>
+<co c="0"><na f="l/Liu_0002:Qidong" pid="254/1779-2">Qidong Liu 0002</na></co>
+<co c="0"><na f="l/Lokala:Usha" pid="222/1710">Usha Lokala</na></co>
+<co c="0"><na f="l/London_0001:Ben" pid="126/4745">Ben London 0001</na></co>
+<co c="0"><na f="l/Long:Siqu" pid="212/2413">Siqu Long</na></co>
+<co c="0"><na f="m/Maekawa:Seiji" pid="228/6624">Seiji Maekawa</na></co>
+<co c="0"><na f="m/Magazzeni:Daniele" pid="14/4672">Daniele Magazzeni</na></co>
+<co c="0"><na f="m/Maret:Pierre" pid="36/3992">Pierre Maret</na></co>
+<co c="0"><na f="m/Marques=Silva_0001:Jo=atilde=o" pid="340/6684-1">Jo&#227;o Marques-Silva 0001</na></co>
+<co c="0"><na f="m/Marquis:Pierre" pid="37/6177">Pierre Marquis</na></co>
+<co c="0"><na f="m/Martinez:David_R=" pid="21/6342">David R. Martinez</na></co>
+<co c="0"><na f="m/Mazaitis:Kathryn" pid="130/3733">Kathryn Mazaitis</na></co>
+<co c="0" n="2"><na f="m/McGinty:Hande" pid="147/0299">Hande McGinty</na><na>Hande K&#252;&#231;&#252;k-McGinty</na></co>
+<co c="2"><na f="m/Mendes:Raphael_de_Lima" pid="299/2325">Raphael de Lima Mendes</na></co>
+<co c="0"><na f="m/Meng_0001:Yu" pid="30/4233-1">Yu Meng 0001</na></co>
+<co c="5"><na f="m/Miani:Leonel" pid="221/8900">Leonel Miani</na></co>
+<co c="3" n="2"><na f="m/Miani:Rafael_Garcia" pid="94/2426">Rafael Garcia Miani</na><na>Rafael Garcia Leonel Miani</na></co>
+<co c="0"><na f="m/Michalowski:Marek_P=" pid="43/5084">Marek P. Michalowski</na></co>
+<co c="0"><na f="m/Mishra:Aditi" pid="56/9568">Aditi Mishra</na></co>
+<co c="0"><na f="m/Mitchell:Tom_M=" pid="81/1460">Tom M. Mitchell</na></co>
+<co c="0"><na f="m/Mitra:Kushan" pid="360/4807">Kushan Mitra</na></co>
+<co c="0"><na f="m/Mladenic:Dunja" pid="m/DunjaMladenic">Dunja Mladenic</na></co>
+<co c="0"><na f="m/Mohamed:Thahir" pid="65/10489">Thahir Mohamed</na></co>
+<co c="0"><na f="m/Moon:Seungwhan" pid="120/4131">Seungwhan Moon</na></co>
+<co c="0"><na f="m/Mruthyunjaya:Vishwas" pid="222/2691">Vishwas Mruthyunjaya</na></co>
+<co c="0" n="2"><na f="n/Nakashole:Ndapandula" pid="98/53">Ndapandula Nakashole</na><na>Ndapa Nakashole</na></co>
+<co c="0"><na f="n/Naseem:Usman" pid="253/6972">Usman Naseem</na></co>
+<co c="0"><na f="n/Natarajan:Pradeep" pid="95/5978">Pradeep Natarajan</na></co>
+<co c="3"><na f="n/Navarro:Lucas_Fonseca" pid="136/8513">Lucas Fonseca Navarro</na></co>
+<co c="0" n="2"><na f="n/Nicoletti:Maria_do_Carmo" pid="65/4419">Maria do Carmo Nicoletti</na><na>Maria C. Nicoletti</na></co>
+<co c="0" n="2"><na f="n/Noboa:Lisette_Espin" pid="163/6256">Lisette Espin Noboa</na><na>Lisette Esp&#237;n-Noboa</na></co>
+<co c="0"><na f="n/Noorian:Zeinab" pid="97/8092">Zeinab Noorian</na></co>
+<co c="0"><na f="o/Oliveira:Osvaldo_Luiz_De" pid="80/6810">Osvaldo Luiz De Oliveira</na></co>
+<co c="0" n="2"><na f="o/Oliveira:Vilma_Alves_de" pid="46/6255">Vilma Alves de Oliveira</na><na>Vilma A. de Oliveira</na></co>
+<co c="-1"><na f="o/Oliverio:Vinicius" pid="79/7772">Vinicius Oliverio</na></co>
+<co c="0"><na f="o/Omidvar=Tehrani:Behrooz" pid="200/8321">Behrooz Omidvar-Tehrani</na></co>
+<co c="0"><na f="o/Otani:Naoki" pid="174/2211">Naoki Otani</na></co>
+<co c="0"><na f="p/Pan:Zijie" pid="290/3418">Zijie Pan</na></co>
+<co c="0"><na f="p/Parekh:Devesh" pid="51/5502">Devesh Parekh</na></co>
+<co c="0"><na f="p/Pedro:Saul_D=_de_S=_S=" pid="126/9977">Saul D. de S. S. Pedro</na></co>
+<co c="3"><na f="p/Pedro:Saulo_D=_de_S=" pid="153/6853">Saulo D. de S. Pedro</na></co>
+<co c="0"><na f="p/Pei_0001:Jian" pid="p/JianPei">Jian Pei 0001</na></co>
+<co c="0"><na f="p/Peixoto:Tiago" pid="345/7773">Tiago Peixoto</na></co>
+<co c="0"><na f="p/Pemberton:Steven" pid="52/4627">Steven Pemberton</na></co>
+<co c="0"><na f="p/Pezeshkpour:Pouya" pid="159/1696">Pouya Pezeshkpour</na></co>
+<co c="0"><na f="p/Pezeskhpour:Pouya" pid="390/9666">Pouya Pezeskhpour</na></co>
+<co c="0"><na f="p/Platanios:Emmanouil_A=" pid="161/0003">Emmanouil A. Platanios</na></co>
+<co c="0"><na f="p/Pontelli:Enrico" pid="p/EnricoPontelli">Enrico Pontelli</na></co>
+<co c="0"><na f="p/Poon:Josiah" pid="25/2453">Josiah Poon</na></co>
+<co c="0"><na f="q/Qu=eacute=cole:Felipe" pid="265/8542">Felipe Qu&#233;cole</na></co>
+<co c="0"><na f="r/Radlinski:Filip" pid="28/1966">Filip Radlinski</na></co>
+<co c="0"><na f="r/Rahman:Sajjadur" pid="168/0294">Sajjadur Rahman</na></co>
+<co c="0"><na f="r/Ramer:Arthur" pid="r/ArthurRamer">Arthur Ramer</na></co>
+<co c="0"><na f="r/Ritter:Alan" pid="47/3133">Alan Ritter</na></co>
+<co c="0"><na f="r/Rodrigues:Igor_Henrique_P=" pid="256/0064">Igor Henrique P. Rodrigues</na></co>
+<co c="0"><na f="r/Rogers:Alex" pid="37/4849">Alex Rogers</na></co>
+<co c="0"><na f="r/Rosenthal:Stephanie" pid="22/4189">Stephanie Rosenthal</na></co>
+<co c="0"><na f="r/Rossetto:Federico" pid="229/9125">Federico Rossetto</na></co>
+<co c="0"><na f="r/Roth:Dan" pid="r/DanRoth">Dan Roth</na></co>
+<co c="0"><na f="r/Roy_0009:Kaushik" pid="183/5157-9">Kaushik Roy 0009</na></co>
+<co c="0"><na f="s/Salah:Aghiles" pid="162/3206">Aghiles Salah</na></co>
+<co c="0"><na f="s/Samadi:Mehdi" pid="68/3471">Mehdi Samadi</na></co>
+<co c="0"><na f="s/Sameki:Mehrnoosh" pid="159/1225">Mehrnoosh Sameki</na></co>
+<co c="0"><na f="s/Santoro:Daniel_Monegatto" pid="16/3047">Daniel Monegatto Santoro</na></co>
+<co c="0"><na f="s/Santos:Edimilson_Batista_dos" pid="07/6159">Edimilson Batista dos Santos</na></co>
+<co c="0"><na f="s/Saparov:Abulhair" pid="117/6287">Abulhair Saparov</na></co>
+<co c="0"><na f="s/Settles:Burr" pid="62/3903">Burr Settles</na></co>
+<co c="4"><na f="s/Severo_0001:Daniel" pid="249/9390">Daniel Severo 0001</na></co>
+<co c="0"><na f="s/Shaban=Nejad:Arash" pid="97/1397">Arash Shaban-Nejad</na></co>
+<co c="0"><na f="s/Shao:Yutong" pid="210/0877">Yutong Shao</na></co>
+<co c="0"><na f="s/Shen_0009:Chen" pid="55/5393-9">Chen Shen 0009</na></co>
+<co c="0"><na f="s/Sheth:Amit_P=" pid="s/AmitPSheth">Amit P. Sheth</na></co>
+<co c="0"><na f="s/Shimizu:Cogan" pid="208/4077">Cogan Shimizu</na></co>
+<co c="0"><na f="s/Shin:Kijung" pid="153/2052">Kijung Shin</na></co>
+<co c="0" n="2"><na f="s/Silva:N=aacute=dia_F=eacute=lix_F=_da" pid="59/10022">N&#225;dia F&#233;lix F. da Silva</na><na>N&#225;dia F&#233;lix Felipe da Silva</na></co>
+<co c="0"><na f="s/Sinha:Arunesh" pid="26/9089">Arunesh Sinha</na></co>
+<co c="0"><na f="s/Son:Tran_Cao" pid="s/TranCaoSon">Tran Cao Son</na></co>
+<co c="0"><na f="s/Song:Dongjin" pid="41/3281">Dongjin Song</na></co>
+<co c="-1"><na f="s/Souza:Wesley_Willy_Oliveira_de" pid="195/4692">Wesley Willy Oliveira de Souza</na></co>
+<co c="1" n="2"><na f="s/Stech:Jos=eacute=_L=" pid="153/9390">Jos&#233; L. Stech</na><na>Jos&#233; Stech</na></co>
+<co c="0"><na f="s/Stoyanovich:Julia" pid="s/JuliaStoyanovich">Julia Stoyanovich</na></co>
+<co c="0"><na f="s/Streilein:William_W=" pid="21/6594">William W. Streilein</na></co>
+<co c="1"><na f="s/Suggett:David_John" pid="156/7347">David John Suggett</na></co>
+<co c="0" n="2"><na f="t/Talukdar:Partha_P=" pid="86/687">Partha P. Talukdar</na><na>Partha Pratim Talukdar</na></co>
+<co c="0"><na f="t/Tao:Dacheng" pid="46/3391">Dacheng Tao</na></co>
+<co c="-1"><na f="t/Teneva:Nedelina" pid="153/5443">Nedelina Teneva</na></co>
+<co c="0"><na f="t/Thi=eacute=baux:Sylvie" pid="64/3102">Sylvie Thi&#233;baux</na></co>
+<co c="0" n="2"><na f="t/Trippas:Johanne_R=" pid="166/2953">Johanne R. Trippas</na><na>Johanne Trippas</na></co>
+<co c="0"><na f="t/Truong:Quoc" pid="345/7940">Quoc Truong</na></co>
+<co c="0"><na f="t/Tsai:Yu=Che" pid="65/2921">Yu-Che Tsai</na></co>
+<co c="0"><na f="u/Uchendu:Adaku" pid="244/0488">Adaku Uchendu</na></co>
+<co c="-1"><na f="v/Verma:Saurabh" pid="118/5298">Saurabh Verma</na></co>
+<co c="0"><na f="v/Vivencio:Diego_P=" pid="28/1192">Diego P. Vivencio</na></co>
+<co c="0"><na f="w/Wallace:Byron_C=" pid="00/8247">Byron C. Wallace</na></co>
+<co c="0"><na f="w/Walsh:Toby" pid="86/2576">Toby Walsh</na></co>
+<co c="0"><na f="w/Wang_0007:Jin" pid="92/1375-7">Jin Wang 0007</na></co>
+<co c="0"><na f="w/Wang_0040:Lin" pid="17/6729-40">Lin Wang 0040</na></co>
+<co c="0"><na f="w/Wang:Minjie" pid="58/10312">Minjie Wang</na></co>
+<co c="0"><na f="w/Wang:Richard_C=" pid="45/3723">Richard C. Wang</na></co>
+<co c="0"><na f="w/Wang:Shoujin" pid="16/8492">Shoujin Wang</na></co>
+<co c="0"><na f="w/Wang:Sophie_H=" pid="25/2729">Sophie H. Wang</na></co>
+<co c="0"><na f="w/Wang_0019:Xin" pid="10/5630-19">Xin Wang 0019</na></co>
+<co c="0"><na f="w/Weber:Ingmar" pid="w/IngmarWeber">Ingmar Weber</na></co>
+<co c="0"><na f="w/Weld:Henry" pid="283/6142">Henry Weld</na></co>
+<co c="0"><na f="w/Welling:Joel" pid="49/973">Joel Welling</na></co>
+<co c="0"><na f="w/Wijaya:Derry" pid="43/6731">Derry Wijaya</na></co>
+<co c="0"><na f="w/Witbrock:Michael" pid="w/MichaelJWitbrock">Michael Witbrock</na></co>
+<co c="0"><na f="w/Wu_0001:Lingfei" pid="27/9060-1">Lingfei Wu 0001</na></co>
+<co c="0"><na f="w/Wu:Yunshu" pid="339/0713">Yunshu Wu</na></co>
+<co c="0"><na f="x/Xu:Da" pid="03/8340">Da Xu</na></co>
+<co c="0"><na f="x/Xu:Shuyuan" pid="239/2804">Shuyuan Xu</na></co>
+<co c="0"><na f="x/Xu:Yifan_Ethan" pid="245/7578">Yifan Ethan Xu</na></co>
+<co c="0"><na f="y/Yang_0011:Bo" pid="46/999-11">Bo Yang 0011</na></co>
+<co c="0"><na f="y/Yang_0003:Ke" pid="80/4136-3">Ke Yang 0003</na></co>
+<co c="0"><na f="y/Yin:I=Hsien" pid="35/7769">I-Hsien Yin</na></co>
+<co c="0"><na f="y/Yom=Tov:Elad" pid="47/4458">Elad Yom-Tov</na></co>
+<co c="0"><na f="y/Yoo:Jaemin" pid="211/2843">Jaemin Yoo</na></co>
+<co c="0"><na f="y/Yu_0005:Zhou" pid="83/3205-5">Zhou Yu 0005</na></co>
+<co c="0"><na f="z/Zafarani:Reza" pid="93/909">Reza Zafarani</na></co>
+<co c="0"><na f="z/Zamani:Hamed" pid="150/5324">Hamed Zamani</na></co>
+<co c="0"><na f="z/Zehlike:Meike" pid="202/2035">Meike Zehlike</na></co>
+<co c="0"><na f="z/Zhang_0025:Dan" pid="21/802-25">Dan Zhang 0025</na></co>
+<co c="0"><na f="z/Zhang:Jie" pid="84/6889">Jie Zhang</na></co>
+<co c="0"><na f="z/Zhang_0020:Qi" pid="52/323-20">Qi Zhang 0020</na></co>
+<co c="0"><na f="z/Zhang_0002:Xikun" pid="38/326-2">Xikun Zhang 0002</na></co>
+<co c="0"><na f="z/Zhang:Yongfeng" pid="82/7829">Yongfeng Zhang</na></co>
+<co c="0"><na f="z/Zhang_0044:Yu" pid="50/671-44">Yu Zhang 0044</na></co>
+<co c="0"><na f="z/Zhang_0047:Zheng" pid="181/2621-47">Zheng Zhang 0047</na></co>
+<co c="0"><na f="z/Zhao_0002:Liang" pid="63/5422-2">Liang Zhao 0002</na></co>
+<co c="0"><na f="z/Zhao_0001:Xiangyu" pid="08/890-1">Xiangyu Zhao 0001</na></co>
+<co c="0"><na f="z/Zhu_0001:Wenwu" pid="97/6308-1">Wenwu Zhu 0001</na></co>
+<co c="0"><na f="z/Zimmermann:Antoine" pid="91/1410">Antoine Zimmermann</na></co>
+<co c="6"><na f="z/Zorzo:S=eacute=rgio_Donizetti" pid="61/335">S&#233;rgio Donizetti Zorzo</na></co>
+</coauthors>
+</dblpperson>
+

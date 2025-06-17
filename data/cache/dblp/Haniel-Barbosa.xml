@@ -1,0 +1,689 @@
+<?xml version="1.0"?>
+<dblpperson name="Haniel Barbosa" pid="116/5052" n="40">
+<person key="homepages/116/5052" mdate="2023-11-21">
+<author pid="116/5052">Haniel Barbosa</author>
+<url>https://orcid.org/0000-0003-0188-2300</url>
+<note type="affiliation">Universidade Federal de Minas Gerais, Belo Horizonte, Brazil</note>
+</person>
+<r><inproceedings key="conf/fm/BarrettTBNPRZ24" mdate="2024-12-09">
+<author orcid="0000-0002-9522-3084" pid="b/ClarkWBarrett">Clark W. Barrett</author>
+<author orcid="0000-0002-6726-775X" pid="37/4921">Cesare Tinelli</author>
+<author orcid="0000-0003-0188-2300" pid="116/5052">Haniel Barbosa</author>
+<author orcid="0000-0003-2600-5283" pid="115/4373">Aina Niemetz</author>
+<author orcid="0000-0002-7142-6258" pid="115/4371">Mathias Preiner</author>
+<author orcid="0000-0002-3529-8682" pid="41/9861">Andrew Reynolds 0001</author>
+<author orcid="0000-0002-2972-6695" pid="147/6088">Yoni Zohar</author>
+<title>Satisfiability Modulo Theories: A Beginner's Tutorial.</title>
+<pages>571-596</pages>
+<year>2024</year>
+<booktitle>FM (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-031-71177-0_31</ee>
+<crossref>conf/fm/2024-2</crossref>
+<url>db/conf/fm/fm2024-2.html#BarrettTBNPRZ24</url>
+<stream>streams/conf/fm</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/paar/AndreottiBF24" mdate="2024-07-03">
+<author pid="135/4292">Bruno Andreotti</author>
+<author pid="116/5052">Haniel Barbosa</author>
+<author pid="262/3988">Oliver Flatt</author>
+<title>Towards Producing Shorter Congruence Closure Proofs in a State-of-the-art SMT Solver (Extended Abstract).</title>
+<pages>1-9</pages>
+<year>2024</year>
+<booktitle>PAAR+SC&#178;@IJCAR</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3717/short1.pdf</ee>
+<crossref>conf/paar/2024</crossref>
+<url>db/conf/paar/paar2024.html#AndreottiBF24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/LachnittFARBNBT24" mdate="2024-06-08">
+<author orcid="0000-0003-3355-7828" pid="270/6060">Hanna Lachnitt</author>
+<author orcid="0000-0002-1705-3083" pid="175/3307">Mathias Fleury</author>
+<author orcid="0000-0002-6033-9140" pid="350/7196">Leni Aniva</author>
+<author orcid="0000-0002-3529-8682" pid="41/9861">Andrew Reynolds 0001</author>
+<author orcid="0000-0003-0188-2300" pid="116/5052">Haniel Barbosa</author>
+<author orcid="0000-0001-8669-0011" pid="131/4231">Andres N&#246;tzli</author>
+<author orcid="0000-0002-9522-3084" pid="b/ClarkWBarrett">Clark W. Barrett</author>
+<author orcid="0000-0002-6726-775X" pid="37/4921">Cesare Tinelli</author>
+<title>IsaRare: Automatic Verification of SMT Rewrites in Isabelle/HOL.</title>
+<pages>311-330</pages>
+<year>2024</year>
+<booktitle>TACAS (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-031-57246-3_17</ee>
+<crossref>conf/tacas/2024-1</crossref>
+<url>db/conf/tacas/tacas2024-1.html#LachnittFARBNBT24</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sbmf/2023" mdate="2023-12-09">
+<editor orcid="0000-0003-0188-2300" pid="116/5052">Haniel Barbosa</editor>
+<editor orcid="0000-0002-2972-6695" pid="147/6088">Yoni Zohar</editor>
+<title>Formal Methods: Foundations and Applications - 26th Brazilian Symposium, SBMF 2023, Manaus, Brazil, December 4-8, 2023, Proceedings</title>
+<booktitle>SBMF</booktitle>
+<publisher>Springer</publisher>
+<year>2024</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>14414</volume>
+<isbn>978-3-031-49341-6</isbn>
+<isbn>978-3-031-49342-3</isbn>
+<ee>https://doi.org/10.1007/978-3-031-49342-3</ee>
+<url>db/conf/sbmf/sbmf2023.html</url>
+</proceedings>
+</r>
+<r><data key="data/11/AnivaBBLLMMNOPRSTWZ24" mdate="2025-03-17">
+<author pid="350/7196">Leni Aniva</author>
+<author orcid="0000-0003-0188-2300" pid="116/5052">Haniel Barbosa</author>
+<author orcid="0000-0002-9522-3084" pid="b/ClarkWBarrett">Clark W. Barrett</author>
+<author orcid="0000-0003-3355-7828" pid="270/6060">Hanna Lachnitt</author>
+<author orcid="0000-0001-5305-7340" pid="124/8995">Daniel Larraz</author>
+<author pid="317/4361">Abdalrhman Mohamed</author>
+<author pid="317/4435">Mudathir Mohamed</author>
+<author orcid="0000-0003-2600-5283" pid="115/4373">Aina Niemetz</author>
+<author orcid="0000-0002-0181-6752" pid="200/3122">Alex Ozdemir</author>
+<author orcid="0000-0002-7142-6258" pid="115/4371">Mathias Preiner</author>
+<author pid="41/9861">Andrew Reynolds 0001</author>
+<author orcid="0000-0002-0829-5056" pid="201/9720">Hans-J&#246;rg Schurr</author>
+<author pid="37/4921">Cesare Tinelli</author>
+<author pid="233/8583">Amalee Wilson</author>
+<author orcid="0000-0002-2972-6695" pid="147/6088">Yoni Zohar</author>
+<title>cvc5 for SMT-COMP 2024.</title>
+<year>2024</year>
+<month>June</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.11581520</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="0" label="Version 1" uri="https://doi.org/10.5281/zenodo.11581519" type="versionOf"></rel>
+</data>
+</r>
+<r><article key="journals/cacm/BarbosaBCDKLNNOPRTZ23" mdate="2025-01-19">
+<author pid="116/5052">Haniel Barbosa</author>
+<author orcid="0000-0002-9522-3084" pid="b/ClarkWBarrett">Clark W. Barrett</author>
+<author pid="36/113">Byron Cook</author>
+<author pid="d/BDutertre">Bruno Dutertre</author>
+<author pid="168/1169">Gereon Kremer</author>
+<author pid="270/6060">Hanna Lachnitt</author>
+<author orcid="0000-0003-2600-5283" pid="115/4373">Aina Niemetz</author>
+<author pid="131/4231">Andres N&#246;tzli</author>
+<author pid="200/3122">Alex Ozdemir</author>
+<author orcid="0000-0002-7142-6258" pid="115/4371">Mathias Preiner</author>
+<author pid="41/9861">Andrew Reynolds 0001</author>
+<author pid="37/4921">Cesare Tinelli</author>
+<author pid="147/6088">Yoni Zohar</author>
+<title>Generating and Exploiting Automated Reasoning Proof Certificates.</title>
+<pages>86-95</pages>
+<year>2023</year>
+<month>October</month>
+<volume>66</volume>
+<journal>Commun. ACM</journal>
+<number>10</number>
+<ee>https://doi.org/10.1145/3587692</ee>
+<ee>https://www.wikidata.org/entity/Q130936251</ee>
+<url>db/journals/cacm/cacm66.html#BarbosaBCDKLNNOPRTZ23</url>
+</article>
+</r>
+<r><article key="journals/jar/AbateBBDKKPRT23" mdate="2023-09-12">
+<author pid="19/3904">Alessandro Abate</author>
+<author pid="116/5052">Haniel Barbosa</author>
+<author orcid="0000-0002-9522-3084" pid="b/ClarkWBarrett">Clark W. Barrett</author>
+<author orcid="0000-0002-9106-934X" pid="01/3840">Cristina David</author>
+<author pid="168/8498">Pascal Kesseli</author>
+<author pid="k/DanielKroening">Daniel Kroening</author>
+<author pid="183/7353">Elizabeth Polgreen</author>
+<author pid="41/9861">Andrew Reynolds 0001</author>
+<author pid="37/4921">Cesare Tinelli</author>
+<title>Synthesising Programs with Non-trivial Constants.</title>
+<pages>19</pages>
+<year>2023</year>
+<month>June</month>
+<volume>67</volume>
+<journal>J. Autom. Reason.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s10817-023-09664-4</ee>
+<url>db/journals/jar/jar67.html#AbateBBDKKPRT23</url>
+</article>
+</r>
+<r><inproceedings key="conf/lpar/BarbosaK0VTB23" mdate="2024-07-16">
+<author pid="116/5052">Haniel Barbosa</author>
+<author pid="32/8321">Chantal Keller</author>
+<author pid="41/9861">Andrew Reynolds 0001</author>
+<author pid="190/7560-1">Arjun Viswanathan 0001</author>
+<author pid="37/4921">Cesare Tinelli</author>
+<author pid="b/ClarkWBarrett">Clark W. Barrett</author>
+<title>An Interactive SMT Tactic in Coq using Abductive Reasoning.</title>
+<pages>11-22</pages>
+<year>2023</year>
+<booktitle>LPAR</booktitle>
+<ee type="oa">https://doi.org/10.29007/432m</ee>
+<crossref>conf/lpar/2023</crossref>
+<url>db/conf/lpar/lpar2023.html#BarbosaK0VTB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scsquare/Barbosa23" mdate="2023-08-28">
+<author pid="116/5052">Haniel Barbosa</author>
+<title>Challenges in SMT Proof Production and Checking for Arithmetic Reasoning (Invited Paper).</title>
+<pages>1-9</pages>
+<year>2023</year>
+<booktitle>SC-Square@ISSAC</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3455/invited1.pdf</ee>
+<crossref>conf/scsquare/2023</crossref>
+<url>db/conf/scsquare/scsquare2023.html#Barbosa23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smt/LachnittFA0BNBT23" mdate="2023-09-30">
+<author pid="270/6060">Hanna Lachnitt</author>
+<author orcid="0000-0002-1705-3083" pid="175/3307">Mathias Fleury</author>
+<author pid="350/7196">Leni Aniva</author>
+<author pid="41/9861">Andrew Reynolds 0001</author>
+<author pid="116/5052">Haniel Barbosa</author>
+<author pid="131/4231">Andres N&#246;tzli</author>
+<author pid="b/ClarkWBarrett">Clark W. Barrett</author>
+<author pid="37/4921">Cesare Tinelli</author>
+<title>Automatic Verification of SMT Rewrites in Isabelle/HOL.</title>
+<pages>78</pages>
+<year>2023</year>
+<booktitle>SMT</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3429/abstract14.pdf</ee>
+<crossref>conf/smt/2023</crossref>
+<url>db/conf/smt/smt2023.html#LachnittFA0BNBT23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/AndreottiLB23" mdate="2023-05-17">
+<author orcid="0000-0003-0345-6495" pid="135/4292">Bruno Andreotti</author>
+<author orcid="0000-0003-3355-7828" pid="270/6060">Hanna Lachnitt</author>
+<author orcid="0000-0003-0188-2300" pid="116/5052">Haniel Barbosa</author>
+<title>Carcara: An Efficient Proof Checker and Elaborator for SMT Proofs in the Alethe Format.</title>
+<pages>367-386</pages>
+<year>2023</year>
+<booktitle>TACAS (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-031-30823-9_19</ee>
+<crossref>conf/tacas/2023-1</crossref>
+<url>db/conf/tacas/tacas2023-1.html#AndreottiLB23</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/scsquare/2022" mdate="2023-08-28">
+<editor pid="245/6210">Ali Kemal Uncu</editor>
+<editor pid="116/5052">Haniel Barbosa</editor>
+<title>Proceedings of the 7th SC-Square Workshop co-located with the Federated Logic Conference, SC-Square@FLoC 2022, as a part of the 11th International Joint Conference on Automated Reasoning, IJCAR 2022, Haifa, Israel, August 12, 2022.</title>
+<booktitle>SC-Square@FLoC</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<year>2023</year>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>3458</volume>
+<ee type="oa">https://ceur-ws.org/Vol-3458</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-3458-5</ee>
+<url>db/conf/scsquare/scsquare2022.html</url>
+</proceedings>
+</r>
+<r><data key="data/10/LachnittFARBNBT23" mdate="2024-11-22">
+<author orcid="0000-0003-3355-7828" pid="270/6060">Hanna Lachnitt</author>
+<author orcid="0000-0002-1705-3083" pid="175/3307">Mathias Fleury</author>
+<author orcid="0000-0002-6033-9140" pid="350/7196">Leni Aniva</author>
+<author orcid="0000-0002-3529-8682" pid="41/9861">Andrew Reynolds 0001</author>
+<author orcid="0000-0003-0188-2300" pid="116/5052">Haniel Barbosa</author>
+<author orcid="0000-0001-8669-0011" pid="131/4231">Andres N&#246;tzli</author>
+<author orcid="0000-0002-9522-3084" pid="b/ClarkWBarrett">Clark W. Barrett</author>
+<author orcid="0000-0002-6726-775X" pid="37/4921">Cesare Tinelli</author>
+<title>IsaRare: Automatic Verification of SMT Rewrites in Isabelle/HOL.</title>
+<year>2023</year>
+<month>October</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.10048664</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="0" label="Version 1" uri="https://doi.org/10.5281/zenodo.10048663" type="versionOf"></rel>
+</data>
+</r>
+<r><inproceedings key="conf/cade/BarbosaRKLNNOPV22" mdate="2024-07-16">
+<author pid="116/5052">Haniel Barbosa</author>
+<author pid="41/9861">Andrew Reynolds 0001</author>
+<author pid="168/1169">Gereon Kremer</author>
+<author pid="270/6060">Hanna Lachnitt</author>
+<author orcid="0000-0003-2600-5283" pid="115/4373">Aina Niemetz</author>
+<author pid="131/4231">Andres N&#246;tzli</author>
+<author pid="200/3122">Alex Ozdemir</author>
+<author pid="115/4371">Mathias Preiner</author>
+<author pid="190/7560-1">Arjun Viswanathan 0001</author>
+<author pid="262/3866">Scott Viteri</author>
+<author pid="147/6088">Yoni Zohar</author>
+<author pid="37/4921">Cesare Tinelli</author>
+<author orcid="0000-0002-9522-3084" pid="b/ClarkWBarrett">Clark W. Barrett</author>
+<title>Flexible Proof Production in an Industrial-Strength SMT Solver.</title>
+<pages>15-35</pages>
+<year>2022</year>
+<booktitle>IJCAR</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-031-10769-6_3</ee>
+<crossref>conf/cade/2022</crossref>
+<url>db/conf/cade/ijcar2022.html#BarbosaRKLNNOPV22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cav/NotzliRBBT22" mdate="2022-08-25">
+<author orcid="0000-0001-8669-0011" pid="131/4231">Andres N&#246;tzli</author>
+<author orcid="0000-0002-3529-8682" pid="41/9861">Andrew Reynolds 0001</author>
+<author orcid="0000-0003-0188-2300" pid="116/5052">Haniel Barbosa</author>
+<author orcid="0000-0002-9522-3084" pid="b/ClarkWBarrett">Clark W. Barrett</author>
+<author orcid="0000-0002-6726-775X" pid="37/4921">Cesare Tinelli</author>
+<title>Even Faster Conflicts and Lazier Reductions for String Solvers.</title>
+<pages>205-226</pages>
+<year>2022</year>
+<booktitle>CAV (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-13188-2_11</ee>
+<crossref>conf/cav/2022-2</crossref>
+<url>db/conf/cav/cav2022-2.html#NotzliRBBT22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fmcad/NotzliBNPRBT22" mdate="2023-11-12">
+<author pid="131/4231">Andres N&#246;tzli</author>
+<author pid="116/5052">Haniel Barbosa</author>
+<author orcid="0000-0003-2600-5283" pid="115/4373">Aina Niemetz</author>
+<author pid="115/4371">Mathias Preiner</author>
+<author pid="41/9861">Andrew Reynolds 0001</author>
+<author orcid="0000-0002-9522-3084" pid="b/ClarkWBarrett">Clark W. Barrett</author>
+<author pid="37/4921">Cesare Tinelli</author>
+<title>Reconstructing Fine-Grained Proofs of Rewrites Using a Domain-Specific Language.</title>
+<pages>65-74</pages>
+<year>2022</year>
+<booktitle>FMCAD</booktitle>
+<ee>https://doi.org/10.34727/2022/isbn.978-3-85448-053-2_12</ee>
+<crossref>conf/fmcad/2022</crossref>
+<url>db/conf/fmcad/fmcad2022.html#NotzliBNPRBT22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/BarbosaBBKLMMMN22" mdate="2022-04-29">
+<author orcid="0000-0003-0188-2300" pid="116/5052">Haniel Barbosa</author>
+<author orcid="0000-0002-9522-3084" pid="b/ClarkWBarrett">Clark W. Barrett</author>
+<author orcid="0000-0003-4216-7151" pid="25/2814">Martin Brain</author>
+<author orcid="0000-0002-0393-5739" pid="168/1169">Gereon Kremer</author>
+<author orcid="0000-0003-3355-7828" pid="270/6060">Hanna Lachnitt</author>
+<author orcid="0000-0002-1555-5784" pid="233/0746">Makai Mann</author>
+<author orcid="0000-0003-1414-7073" pid="317/4361">Abdalrhman Mohamed</author>
+<author orcid="0000-0002-4644-5756" pid="317/4435">Mudathir Mohamed</author>
+<author orcid="0000-0003-2600-5283" pid="115/4373">Aina Niemetz</author>
+<author orcid="0000-0001-8669-0011" pid="131/4231">Andres N&#246;tzli</author>
+<author orcid="0000-0002-0181-6752" pid="200/3122">Alex Ozdemir</author>
+<author orcid="0000-0002-7142-6258" pid="115/4371">Mathias Preiner</author>
+<author orcid="0000-0002-3529-8682" pid="41/9861">Andrew Reynolds 0001</author>
+<author orcid="0000-0002-1883-2126" pid="262/6232">Ying Sheng 0007</author>
+<author orcid="0000-0002-6726-775X" pid="37/4921">Cesare Tinelli</author>
+<author orcid="0000-0002-2972-6695" pid="147/6088">Yoni Zohar</author>
+<title>cvc5: A Versatile and Industrial-Strength SMT Solver.</title>
+<pages>415-442</pages>
+<year>2022</year>
+<booktitle>TACAS (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-99524-9_24</ee>
+<crossref>conf/tacas/2022-1</crossref>
+<url>db/conf/tacas/tacas2022-1.html#BarbosaBBKLMMMN22</url>
+</inproceedings>
+</r>
+<r><article key="journals/vlc/SaffranBPV21" mdate="2021-03-25">
+<author pid="200/5309">Jo&#227;o Saffran</author>
+<author pid="116/5052">Haniel Barbosa</author>
+<author pid="p/FMQPereira">Fernando Magno Quint&#227;o Pereira</author>
+<author pid="288/3891">Srinivas Vladamani</author>
+<title>On-line synthesis of parsers for string events.</title>
+<pages>101022</pages>
+<year>2021</year>
+<volume>62</volume>
+<journal>J. Comput. Lang.</journal>
+<ee>https://doi.org/10.1016/j.cola.2021.101022</ee>
+<url>db/journals/vlc/vlc62.html#SaffranBPV21</url>
+</article>
+</r>
+<r><inproceedings key="conf/fmcad/JanotaBFR21" mdate="2021-12-07">
+<author pid="56/2424">Mikol&#225;s Janota</author>
+<author pid="116/5052">Haniel Barbosa</author>
+<author pid="67/3053">Pascal Fontaine</author>
+<author pid="41/9861">Andrew Reynolds 0001</author>
+<title>Fair and Adventurous Enumeration of Quantifier Instantiations.</title>
+<pages>256-260</pages>
+<year>2021</year>
+<booktitle>FMCAD</booktitle>
+<ee>https://doi.org/10.34727/2021/isbn.978-3-85448-046-4_35</ee>
+<crossref>conf/fmcad/2021</crossref>
+<url>db/conf/fmcad/fmcad2021.html#JanotaBFR21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/abs-2107-02354" mdate="2024-05-07">
+<author pid="201/9720">Hans-J&#246;rg Schurr</author>
+<author orcid="0000-0002-1705-3083" pid="175/3307">Mathias Fleury</author>
+<author pid="116/5052">Haniel Barbosa</author>
+<author pid="67/3053">Pascal Fontaine</author>
+<title>Alethe: Towards a Generic SMT Proof Format (extended abstract).</title>
+<booktitle>PxTP</booktitle>
+<year>2021</year>
+<pages>49-54</pages>
+<crossref>journals/corr/abs-2107-01544</crossref>
+<ee type="oa">https://doi.org/10.4204/EPTCS.336.6</ee>
+<ee type="oa">https://arxiv.org/abs/2107.02354</ee>
+<url>db/series/eptcs/eptcs336.html#abs-2107-02354</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-13700" mdate="2021-07-27">
+<author pid="56/2424">Mikol&#225;s Janota</author>
+<author pid="116/5052">Haniel Barbosa</author>
+<author pid="67/3053">Pascal Fontaine</author>
+<author pid="41/9861">Andrew Reynolds 0001</author>
+<title>Fair and Adventurous Enumeration of Quantifier Instantiations.</title>
+<year>2021</year>
+<volume>abs/2105.13700</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.13700</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-13700</url>
+</article>
+</r>
+<r><article key="journals/jar/BarbosaBFF20" mdate="2023-08-28">
+<author orcid="0000-0003-0188-2300" pid="116/5052">Haniel Barbosa</author>
+<author orcid="0000-0002-8367-0936" pid="52/6913">Jasmin Christian Blanchette</author>
+<author orcid="0000-0002-1705-3083" pid="175/3307">Mathias Fleury</author>
+<author orcid="0000-0003-4700-6031" pid="67/3053">Pascal Fontaine</author>
+<title>Scalable Fine-Grained Proofs for Formula Processing.</title>
+<pages>485-510</pages>
+<year>2020</year>
+<volume>64</volume>
+<journal>J. Autom. Reason.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10817-018-09502-y</ee>
+<ee>https://www.wikidata.org/entity/Q113901244</ee>
+<url>db/journals/jar/jar64.html#BarbosaBFF20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cade/ReynoldsBLT20" mdate="2023-09-30">
+<author pid="41/9861">Andrew Reynolds 0001</author>
+<author pid="116/5052">Haniel Barbosa</author>
+<author pid="124/8995">Daniel Larraz</author>
+<author orcid="0000-0002-6726-775X" pid="37/4921">Cesare Tinelli</author>
+<title>Scalable Algorithms for Abduction via Enumerative Syntax-Guided Synthesis.</title>
+<pages>141-160</pages>
+<year>2020</year>
+<booktitle>IJCAR (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-51074-9_9</ee>
+<crossref>conf/cade/2020-1</crossref>
+<url>db/conf/cade/ijcar2020-1.html#ReynoldsBLT20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smt/TourretFOB20" mdate="2023-03-10">
+<author pid="133/1986">Sophie Tourret</author>
+<author pid="67/3053">Pascal Fontaine</author>
+<author pid="211/6899">Daniel El Ouraoui</author>
+<author pid="116/5052">Haniel Barbosa</author>
+<title>Lifting Congruence Closure with Free Variables to &#955;-free Higher-order Logic via SAT Encoding.</title>
+<pages>3-14</pages>
+<year>2020</year>
+<booktitle>SMT</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2854/short1.pdf</ee>
+<crossref>conf/smt/2020</crossref>
+<url>db/conf/smt/smt2020.html#TourretFOB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cade/BarbosaROTB19" mdate="2023-09-30">
+<author orcid="0000-0003-0188-2300" pid="116/5052">Haniel Barbosa</author>
+<author pid="41/9861">Andrew Reynolds 0001</author>
+<author pid="211/6899">Daniel El Ouraoui</author>
+<author orcid="0000-0002-6726-775X" pid="37/4921">Cesare Tinelli</author>
+<author pid="b/ClarkWBarrett">Clark W. Barrett</author>
+<title>Extending SMT Solvers to Higher-Order Logic.</title>
+<pages>35-54</pages>
+<year>2019</year>
+<booktitle>CADE</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-29436-6_3</ee>
+<crossref>conf/cade/2019</crossref>
+<url>db/conf/cade/cade2019.html#BarbosaROTB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cav/ReynoldsBNBT19" mdate="2023-09-30">
+<author pid="41/9861">Andrew Reynolds 0001</author>
+<author orcid="0000-0003-0188-2300" pid="116/5052">Haniel Barbosa</author>
+<author pid="131/4231">Andres N&#246;tzli</author>
+<author orcid="0000-0002-9522-3084" pid="b/ClarkWBarrett">Clark W. Barrett</author>
+<author orcid="0000-0002-6726-775X" pid="37/4921">Cesare Tinelli</author>
+<title>cvc4sy: Smart and Fast Term Enumeration for Syntax-Guided Synthesis.</title>
+<pages>74-83</pages>
+<year>2019</year>
+<booktitle>CAV (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-030-25543-5_5</ee>
+<crossref>conf/cav/2019-2</crossref>
+<url>db/conf/cav/cav2019-2.html#ReynoldsBNBT19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fmcad/BarbosaRLT19" mdate="2023-09-30">
+<author pid="116/5052">Haniel Barbosa</author>
+<author pid="41/9861">Andrew Reynolds 0001</author>
+<author orcid="0000-0001-5305-7340" pid="124/8995">Daniel Larraz</author>
+<author orcid="0000-0002-6726-775X" pid="37/4921">Cesare Tinelli</author>
+<title>Extending enumerative function synthesis via SMT-driven classification.</title>
+<pages>212-220</pages>
+<year>2019</year>
+<booktitle>FMCAD</booktitle>
+<ee>https://doi.org/10.23919/FMCAD.2019.8894267</ee>
+<crossref>conf/fmcad/2019</crossref>
+<url>db/conf/fmcad/fmcad2019.html#BarbosaRLT19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sat/NotzliRBNPBT19" mdate="2021-07-27">
+<author orcid="0000-0001-8669-0011" pid="131/4231">Andres N&#246;tzli</author>
+<author orcid="0000-0002-3529-8682" pid="41/9861">Andrew Reynolds 0001</author>
+<author orcid="0000-0003-0188-2300" pid="116/5052">Haniel Barbosa</author>
+<author orcid="0000-0003-2600-5283" pid="115/4373">Aina Niemetz</author>
+<author orcid="0000-0002-7142-6258" pid="115/4371">Mathias Preiner</author>
+<author orcid="0000-0002-9522-3084" pid="b/ClarkWBarrett">Clark W. Barrett</author>
+<author orcid="0000-0002-6726-775X" pid="37/4921">Cesare Tinelli</author>
+<title>Syntax-Guided Rewrite Rule Enumeration for SMT Solvers.</title>
+<pages>279-297</pages>
+<year>2019</year>
+<booktitle>SAT</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-24258-9_20</ee>
+<crossref>conf/sat/2019</crossref>
+<url>db/conf/sat/sat2019.html#NotzliRBNPBT19</url>
+</inproceedings>
+</r>
+<r><proceedings key="journals/corr/abs-1908-08639" mdate="2019-10-19">
+<editor pid="72/9473">Giselle Reis</editor>
+<editor orcid="0000-0003-0188-2300" pid="116/5052">Haniel Barbosa</editor>
+<title>Proceedings Sixth Workshop on Proof eXchange for Theorem Proving, PxTP 2019, Natal, Brazil, August 26, 2019.</title>
+<booktitle>PxTP</booktitle>
+<year>2019</year>
+<series href="db/series/eptcs/index.html">EPTCS</series>
+<volume>301</volume>
+<url>db/series/eptcs/eptcs301.html</url>
+<ee type="oa">https://doi.org/10.4204/EPTCS.301</ee>
+<ee type="oa">http://arxiv.org/abs/1908.08639</ee>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-10175" mdate="2021-07-27">
+<author pid="41/9861">Andrew Reynolds 0001</author>
+<author orcid="0000-0003-0188-2300" pid="116/5052">Haniel Barbosa</author>
+<author pid="131/4231">Andres N&#246;tzli</author>
+<author pid="b/ClarkWBarrett">Clark W. Barrett</author>
+<author pid="37/4921">Cesare Tinelli</author>
+<title>CVC4SY for SyGuS-COMP 2019.</title>
+<year>2019</year>
+<volume>abs/1907.10175</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.10175</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-10175</url>
+</article>
+</r>
+<r><inproceedings key="conf/cade/ReynoldsVBTB18" mdate="2024-07-16">
+<author pid="41/9861">Andrew Reynolds 0001</author>
+<author pid="190/7560-1">Arjun Viswanathan 0001</author>
+<author orcid="0000-0003-0188-2300" pid="116/5052">Haniel Barbosa</author>
+<author orcid="0000-0002-6726-775X" pid="37/4921">Cesare Tinelli</author>
+<author orcid="0000-0002-9522-3084" pid="b/ClarkWBarrett">Clark W. Barrett</author>
+<title>Datatypes with Shared Selectors.</title>
+<pages>591-608</pages>
+<year>2018</year>
+<booktitle>IJCAR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-94205-6_39</ee>
+<crossref>conf/cade/2018</crossref>
+<url>db/conf/cade/ijcar2018.html#ReynoldsVBTB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/ReynoldsBF18" mdate="2021-07-27">
+<author pid="41/9861">Andrew Reynolds 0001</author>
+<author orcid="0000-0003-0188-2300" pid="116/5052">Haniel Barbosa</author>
+<author pid="67/3053">Pascal Fontaine</author>
+<title>Revisiting Enumerative Instantiation.</title>
+<pages>112-131</pages>
+<year>2018</year>
+<booktitle>TACAS (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-89963-3_7</ee>
+<crossref>conf/tacas/2018-2</crossref>
+<url>db/conf/tacas/tacas2018-2.html#ReynoldsBF18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-08775" mdate="2021-07-27">
+<author pid="b/ClarkWBarrett">Clark W. Barrett</author>
+<author orcid="0000-0003-0188-2300" pid="116/5052">Haniel Barbosa</author>
+<author pid="25/2814">Martin Brain</author>
+<author pid="220/3264">Duligur Ibeling</author>
+<author pid="79/1695-1">Tim King 0001</author>
+<author pid="222/2861">Paul Meng</author>
+<author pid="115/4373">Aina Niemetz</author>
+<author pid="131/4231">Andres N&#246;tzli</author>
+<author pid="115/4371">Mathias Preiner</author>
+<author pid="41/9861">Andrew Reynolds 0001</author>
+<author pid="37/4921">Cesare Tinelli</author>
+<title>CVC4 at the SMT Competition 2018.</title>
+<year>2018</year>
+<volume>abs/1806.08775</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.08775</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-08775</url>
+</article>
+</r>
+<r><phdthesis key="phd/hal/Barbosa17" mdate="2025-02-11">
+<author orcid="0000-0003-0188-2300" pid="116/5052">Haniel Barbosa</author>
+<title>New techniques for instantiation and proof production in SMT solving. (Nouvelles techniques pour l'instanciation et la production des preuves dans SMT).</title>
+<year>2017</year>
+<school>University of Lorraine, Nancy, France</school>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-01591108</ee>
+<note type="source">LaReferencia (lareferencia.info): oai:https://repositorio.ufrn.br:123456789/24497</note>
+<ee>https://repositorio.ufrn.br/jspui/handle/123456789/24497</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/cade/BarbosaBF17" mdate="2019-10-19">
+<author orcid="0000-0003-0188-2300" pid="116/5052">Haniel Barbosa</author>
+<author orcid="0000-0002-8367-0936" pid="52/6913">Jasmin Christian Blanchette</author>
+<author pid="67/3053">Pascal Fontaine</author>
+<title>Scalable Fine-Grained Proofs for Formula Processing.</title>
+<pages>398-412</pages>
+<year>2017</year>
+<booktitle>CADE</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-63046-5_25</ee>
+<crossref>conf/cade/2017</crossref>
+<url>db/conf/cade/cade2017.html#BarbosaBF17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/BarbosaFR17" mdate="2021-07-27">
+<author orcid="0000-0003-0188-2300" pid="116/5052">Haniel Barbosa</author>
+<author pid="67/3053">Pascal Fontaine</author>
+<author pid="41/9861">Andrew Reynolds 0001</author>
+<title>Congruence Closure with Free Variables.</title>
+<pages>214-230</pages>
+<year>2017</year>
+<booktitle>TACAS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-54580-5_13</ee>
+<crossref>conf/tacas/2017-2</crossref>
+<url>db/conf/tacas/tacas2017-2.html#BarbosaFR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/abs-1712-01486" mdate="2023-08-28">
+<author orcid="0000-0003-0188-2300" pid="116/5052">Haniel Barbosa</author>
+<author orcid="0000-0002-8367-0936" pid="52/6913">Jasmin Christian Blanchette</author>
+<author orcid="0000-0003-3969-5850" pid="124/8948">Simon Cruanes</author>
+<author pid="211/6899">Daniel El Ouraoui</author>
+<author pid="67/3053">Pascal Fontaine</author>
+<title>Language and Proofs for Higher-Order SMT (Work in Progress).</title>
+<booktitle>PxTP</booktitle>
+<year>2017</year>
+<pages>15-22</pages>
+<crossref>journals/corr/abs-1712-00898</crossref>
+<ee type="oa">https://doi.org/10.4204/EPTCS.262.3</ee>
+<ee type="oa">http://arxiv.org/abs/1712.01486</ee>
+<ee>https://www.wikidata.org/entity/Q113691895</ee>
+<url>db/series/eptcs/eptcs262.html#abs-1712-01486</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cade/Barbosa16" mdate="2023-03-10">
+<author orcid="0000-0003-0188-2300" pid="116/5052">Haniel Barbosa</author>
+<title>Efficient Instantiation Techniques in SMT (Work In Progress).</title>
+<pages>1-10</pages>
+<year>2016</year>
+<booktitle>PAAR@IJCAR</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1635/paper-01.pdf</ee>
+<crossref>conf/cade/2016paar</crossref>
+<url>db/conf/cade/paar2016.html#Barbosa16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asm/BarbosaD12" mdate="2019-10-19">
+<author orcid="0000-0003-0188-2300" pid="116/5052">Haniel Barbosa</author>
+<author pid="25/1547">David D&#233;harbe</author>
+<title>Formal Verification of PLC Programs Using the B Method.</title>
+<pages>353-356</pages>
+<year>2012</year>
+<booktitle>ABZ</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-30885-7_30</ee>
+<crossref>conf/asm/2012</crossref>
+<url>db/conf/asm/abz2012.html#BarbosaD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbmf/BarbosaD12" mdate="2019-10-19">
+<author orcid="0000-0003-0188-2300" pid="116/5052">Haniel Barbosa</author>
+<author pid="25/1547">David D&#233;harbe</author>
+<title>An Approach Using the B Method to Formal Verification of PLC Programs in an Industrial Setting.</title>
+<pages>19-34</pages>
+<year>2012</year>
+<booktitle>SBMF</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33296-8_4</ee>
+<crossref>conf/sbmf/2012</crossref>
+<url>db/conf/sbmf/sbmf2012.html#BarbosaD12</url>
+</inproceedings>
+</r>
+<coauthors n="47" nc="2">
+<co c="0"><na f="a/Abate:Alessandro" pid="19/3904">Alessandro Abate</na></co>
+<co c="0"><na f="a/Andreotti:Bruno" pid="135/4292">Bruno Andreotti</na></co>
+<co c="0"><na f="a/Aniva:Leni" pid="350/7196">Leni Aniva</na></co>
+<co c="0"><na f="b/Barrett:Clark_W=" pid="b/ClarkWBarrett">Clark W. Barrett</na></co>
+<co c="0" n="2"><na f="b/Blanchette:Jasmin" pid="52/6913">Jasmin Blanchette</na><na>Jasmin Christian Blanchette</na></co>
+<co c="0"><na f="b/Brain:Martin" pid="25/2814">Martin Brain</na></co>
+<co c="0"><na f="c/Cook:Byron" pid="36/113">Byron Cook</na></co>
+<co c="0"><na f="c/Cruanes:Simon" pid="124/8948">Simon Cruanes</na></co>
+<co c="0"><na f="d/David:Cristina" pid="01/3840">Cristina David</na></co>
+<co c="0"><na f="d/D=eacute=harbe:David" pid="25/1547">David D&#233;harbe</na></co>
+<co c="0"><na f="d/Dutertre:Bruno" pid="d/BDutertre">Bruno Dutertre</na></co>
+<co c="0"><na f="f/Flatt:Oliver" pid="262/3988">Oliver Flatt</na></co>
+<co c="0"><na f="f/Fleury:Mathias" pid="175/3307">Mathias Fleury</na></co>
+<co c="0"><na f="f/Fontaine:Pascal" pid="67/3053">Pascal Fontaine</na></co>
+<co c="0"><na f="i/Ibeling:Duligur" pid="220/3264">Duligur Ibeling</na></co>
+<co c="0"><na f="j/Janota:Mikol=aacute=s" pid="56/2424">Mikol&#225;s Janota</na></co>
+<co c="0"><na f="k/Keller:Chantal" pid="32/8321">Chantal Keller</na></co>
+<co c="0"><na f="k/Kesseli:Pascal" pid="168/8498">Pascal Kesseli</na></co>
+<co c="0"><na f="k/King_0001:Tim" pid="79/1695-1">Tim King 0001</na></co>
+<co c="0"><na f="k/Kremer:Gereon" pid="168/1169">Gereon Kremer</na></co>
+<co c="0"><na f="k/Kroening:Daniel" pid="k/DanielKroening">Daniel Kroening</na></co>
+<co c="0"><na f="l/Lachnitt:Hanna" pid="270/6060">Hanna Lachnitt</na></co>
+<co c="0"><na f="l/Larraz:Daniel" pid="124/8995">Daniel Larraz</na></co>
+<co c="0"><na f="m/Mann:Makai" pid="233/0746">Makai Mann</na></co>
+<co c="0"><na f="m/Meng:Paul" pid="222/2861">Paul Meng</na></co>
+<co c="0"><na f="m/Mohamed:Abdalrhman" pid="317/4361">Abdalrhman Mohamed</na></co>
+<co c="0"><na f="m/Mohamed:Mudathir" pid="317/4435">Mudathir Mohamed</na></co>
+<co c="0"><na f="n/Niemetz:Aina" pid="115/4373">Aina Niemetz</na></co>
+<co c="0"><na f="n/N=ouml=tzli:Andres" pid="131/4231">Andres N&#246;tzli</na></co>
+<co c="0"><na f="o/Ouraoui:Daniel_El" pid="211/6899">Daniel El Ouraoui</na></co>
+<co c="0"><na f="o/Ozdemir:Alex" pid="200/3122">Alex Ozdemir</na></co>
+<co c="1"><na f="p/Pereira:Fernando_Magno_Quint=atilde=o" pid="p/FMQPereira">Fernando Magno Quint&#227;o Pereira</na></co>
+<co c="0"><na f="p/Polgreen:Elizabeth" pid="183/7353">Elizabeth Polgreen</na></co>
+<co c="0"><na f="p/Preiner:Mathias" pid="115/4371">Mathias Preiner</na></co>
+<co c="-1"><na f="r/Reis:Giselle" pid="72/9473">Giselle Reis</na></co>
+<co c="0"><na f="r/Reynolds_0001:Andrew" pid="41/9861">Andrew Reynolds 0001</na></co>
+<co c="1"><na f="s/Saffran:Jo=atilde=o" pid="200/5309">Jo&#227;o Saffran</na></co>
+<co c="0"><na f="s/Schurr:Hans=J=ouml=rg" pid="201/9720">Hans-J&#246;rg Schurr</na></co>
+<co c="0"><na f="s/Sheng_0007:Ying" pid="262/6232">Ying Sheng 0007</na></co>
+<co c="0"><na f="t/Tinelli:Cesare" pid="37/4921">Cesare Tinelli</na></co>
+<co c="0"><na f="t/Tourret:Sophie" pid="133/1986">Sophie Tourret</na></co>
+<co c="-1"><na f="u/Uncu:Ali_Kemal" pid="245/6210">Ali Kemal Uncu</na></co>
+<co c="0"><na f="v/Viswanathan_0001:Arjun" pid="190/7560-1">Arjun Viswanathan 0001</na></co>
+<co c="0"><na f="v/Viteri:Scott" pid="262/3866">Scott Viteri</na></co>
+<co c="1"><na f="v/Vladamani:Srinivas" pid="288/3891">Srinivas Vladamani</na></co>
+<co c="0"><na f="w/Wilson:Amalee" pid="233/8583">Amalee Wilson</na></co>
+<co c="0"><na f="z/Zohar:Yoni" pid="147/6088">Yoni Zohar</na></co>
+</coauthors>
+</dblpperson>
+

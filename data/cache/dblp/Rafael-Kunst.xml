@@ -1,15 +1,31 @@
 <?xml version="1.0"?>
-<dblpperson name="Rafael Kunst" pid="92/10324" n="35">
+<dblpperson name="Rafael Kunst" pid="92/10324" n="36">
 <person key="homepages/92/10324" mdate="2020-05-12">
 <author pid="92/10324">Rafael Kunst</author>
 <url>https://orcid.org/0000-0002-6180-4104</url>
 <url>https://www.wikidata.org/entity/Q89937746</url>
 </person>
-<r><article key="journals/jucs/GoetzBHSKB25" mdate="2025-05-15">
+<r><article key="journals/infsof/SilvaFKCB25" mdate="2025-06-03">
+<author pid="350/1027">Robson Keemps Silva</author>
+<author pid="49/7937">Kleinner Farias</author>
+<author pid="92/10324">Rafael Kunst</author>
+<author pid="271/9520">Carlos Eduardo Carbonera</author>
+<author pid="357/5381">Willian Bolzan</author>
+<title>SmellDSL: A domain-specific language to assist developers in specifying code smell patterns.</title>
+<pages>107760</pages>
+<year>2025</year>
+<volume>184</volume>
+<journal>Inf. Softw. Technol.</journal>
+<ee>https://doi.org/10.1016/j.infsof.2025.107760</ee>
+<url>db/journals/infsof/infsof184.html#SilvaFKCB25</url>
+<stream>streams/journals/infsof</stream>
+</article>
+</r>
+<r><article key="journals/jucs/GoetzBHSKB25" mdate="2025-05-31">
 <author pid="404/9714">Carlos Goetz</author>
-<author pid="264/9309">Rodrigo Simon Bavaresco</author>
-<author pid="276/7335">Wesllei Felipe Heckler</author>
-<author pid="363/7258">Gustavo Lazarotto Schroeder</author>
+<author orcid="0000-0003-4188-735X" pid="264/9309">Rodrigo Simon Bavaresco</author>
+<author orcid="0000-0002-2108-3752" pid="276/7335">Wesllei Felipe Heckler</author>
+<author orcid="0000-0002-7068-0449" pid="363/7258">Gustavo Lazarotto Schroeder</author>
 <author pid="92/10324">Rafael Kunst</author>
 <author pid="72/3050">Jorge Luis Vict&#243;ria Barbosa</author>
 <title>OntoKaire: an ontology-based reasoning for work-related stressors in industrial settings.</title>
@@ -555,7 +571,7 @@
 <url>db/conf/iswcs/iswcs2008.html#BothCK08</url>
 </inproceedings>
 </r>
-<coauthors n="65" nc="1">
+<coauthors n="67" nc="1">
 <co c="0"><na f="a/Alberti:Ant=ocirc=nio_Marcos" pid="51/4339">Ant&#244;nio Marcos Alberti</na></co>
 <co c="0"><na f="a/Antunes:Rodolfo_Stoffel" pid="10/3873">Rodolfo Stoffel Antunes</na></co>
 <co c="0" n="2"><na f="a/Arruda:Helder_M=" pid="207/4811">Helder M. Arruda</na><na>Helder Moreira Arruda</na></co>
@@ -564,10 +580,12 @@
 <co c="0" n="2"><na f="b/Barbosa:Jorge_L=_V=" pid="72/3050">Jorge L. V. Barbosa</na><na>Jorge Luis Vict&#243;ria Barbosa</na></co>
 <co c="0" n="2"><na f="b/Bavaresco:Rodrigo" pid="264/9309">Rodrigo Bavaresco</na><na>Rodrigo Simon Bavaresco</na></co>
 <co c="0" n="2"><na f="b/Binotto:Al=eacute=cio_Pedro_Delazari" pid="03/5912">Al&#233;cio Pedro Delazari Binotto</na><na>Al&#233;cio P. D. Binotto</na></co>
+<co c="0"><na f="b/Bolzan:Willian" pid="357/5381">Willian Bolzan</na></co>
 <co c="0"><na f="b/Both:Cristiano_Bonato" pid="07/2040">Cristiano Bonato Both</na></co>
 <co c="0"><na f="b/Bugs:Elvis_Fernandes" pid="350/9723">Elvis Fernandes Bugs</na></co>
 <co c="0"><na f="c/Camargo:Eliane_Gobetti_de" pid="291/8949">Eliane Gobetti de Camargo</na></co>
 <co c="0"><na f="c/Campos:Guilherme_Falc=atilde=o_da_Silva" pid="373/0876">Guilherme Falc&#227;o da Silva Campos</na></co>
+<co c="0"><na f="c/Carbonera:Carlos_Eduardo" pid="271/9520">Carlos Eduardo Carbonera</na></co>
 <co c="0"><na f="c/Castilhos:Rodrigo" pid="237/7882">Rodrigo Castilhos</na></co>
 <co c="0"><na f="c/Caten:Carla_Schwengber_ten" pid="80/10683">Carla Schwengber ten Caten</na></co>
 <co c="0"><na f="c/Cegoni:Jonatan" pid="237/8250">Jonatan Cegoni</na></co>

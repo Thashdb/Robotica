@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<dblpperson name="Luis Pe&#241;aranda" pid="162/0135" n="4">
+<person key="homepages/162/0135" mdate="2015-05-02">
+<author pid="162/0135">Luis Pe&#241;aranda</author>
+</person>
+<r><article key="journals/jrtip/PenarandaVS18" mdate="2025-01-19">
+<author pid="162/0135">Luis Pe&#241;aranda</author>
+<author pid="v/LuizVelho">Luiz Velho 0001</author>
+<author orcid="0000-0002-5071-1455" pid="132/2174">Leonardo Sacht</author>
+<title>Real-time correction of panoramic images using hyperbolic M&#246;bius transformations.</title>
+<pages>725-738</pages>
+<year>2018</year>
+<volume>15</volume>
+<journal>J. Real Time Image Process.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s11554-015-0502-x</ee>
+<ee>https://www.wikidata.org/entity/Q126009906</ee>
+<url>db/journals/jrtip/jrtip15.html#PenarandaVS18</url>
+</article>
+</r>
+<r><inproceedings key="conf/clei/BiagioliBOP16" mdate="2024-10-06">
+<author orcid="0009-0000-2027-0647" pid="194/1681">Eric Biagioli</author>
+<author pid="47/9468">Federico Bergero</author>
+<author orcid="0000-0002-1064-3398" pid="51/934">Roberto Imbuzeiro Oliveira</author>
+<author pid="162/0135">Luis Pe&#241;aranda</author>
+<title>Applying root-finding techniques to extend Quantized-State-Systems-based solvers.</title>
+<pages>1-9</pages>
+<year>2016</year>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI.2016.7833372</ee>
+<crossref>conf/clei/2016</crossref>
+<url>db/conf/clei/clei2016.html#BiagioliBOP16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/PenarandaVS15" mdate="2021-06-23">
+<author pid="162/0135">Luis Pe&#241;aranda</author>
+<author pid="v/LuizVelho">Luiz Velho 0001</author>
+<author pid="132/2174">Leonardo Sacht</author>
+<title>Real-time correction of panoramic images using hyperbolic M&#246;bius transformations.</title>
+<year>2015</year>
+<volume>abs/1504.04565</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1504.04565</ee>
+<url>db/journals/corr/corr1504.html#PenarandaVS15</url>
+</article>
+</r>
+<r><phdthesis key="phd/hal/Penaranda10" mdate="2020-07-21">
+<author pid="162/0135">Luis Pe&#241;aranda</author>
+<title>Non-linear computational geometry for planar algebraic curves. (Ge'ome'trie algorithmique non line'aire et courbes alge'briques planaires).</title>
+<year>2010</year>
+<school>Nancy 2 University, France</school>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-00547829</ee>
+</phdthesis>
+</r>
+<coauthors n="5" nc="2">
+<co c="0"><na f="b/Bergero:Federico" pid="47/9468">Federico Bergero</na></co>
+<co c="0"><na f="b/Biagioli:Eric" pid="194/1681">Eric Biagioli</na></co>
+<co c="0" n="2"><na f="o/Oliveira_0001:Roberto" pid="51/934">Roberto Oliveira 0001</na><na>Roberto Imbuzeiro Oliveira</na></co>
+<co c="1"><na f="s/Sacht:Leonardo" pid="132/2174">Leonardo Sacht</na></co>
+<co c="1"><na f="v/Velho_0001:Luiz" pid="v/LuizVelho">Luiz Velho 0001</na></co>
+</coauthors>
+</dblpperson>
+

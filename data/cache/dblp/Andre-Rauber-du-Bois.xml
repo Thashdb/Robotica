@@ -1,0 +1,950 @@
+<?xml version="1.0"?>
+<dblpperson name="Andr&#233; Rauber Du Bois" pid="21/3472" n="65">
+<person key="homepages/21/3472" mdate="2009-06-10">
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+</person>
+<r><article key="journals/ijpp/PasqualinDBP25" mdate="2025-05-01">
+<author orcid="0000-0001-6125-8994" pid="171/2105">Douglas Pereira Pasqualin</author>
+<author orcid="0000-0002-9064-7806" pid="09/8557">Matthias Diener</author>
+<author orcid="0000-0002-6790-5184" pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author orcid="0000-0003-2382-2755" pid="06/5321">Maur&#237;cio Lima Pilla</author>
+<title>Thread and Data Mapping in Software Transactional Memory: an Overview.</title>
+<pages>19</pages>
+<year>2025</year>
+<month>June</month>
+<volume>53</volume>
+<journal>Int. J. Parallel Program.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10766-025-00796-1</ee>
+<url>db/journals/ijpp/ijpp53.html#PasqualinDBP25</url>
+<stream>streams/journals/ijpp</stream>
+</article>
+</r>
+<r><article key="journals/vlc/BoisC25" mdate="2025-03-07">
+<author orcid="0000-0002-6790-5184" pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author orcid="0000-0002-4314-3429" pid="c/GGHCavalheiro">Gerson Geraldo H. Cavalheiro</author>
+<title>GPotion: Embedding GPU programming in Elixir.</title>
+<pages>101323</pages>
+<year>2025</year>
+<volume>83</volume>
+<journal>J. Comput. Lang.</journal>
+<ee>https://doi.org/10.1016/j.cola.2025.101323</ee>
+<url>db/journals/vlc/vlc83.html#BoisC25</url>
+<stream>streams/journals/vlc</stream>
+</article>
+</r>
+<r><inproceedings key="conf/sblp/BoisC23" mdate="2025-01-19">
+<author orcid="0000-0002-6790-5184" pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author orcid="0000-0002-4314-3429" pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<title>GPotion: An embedded DSL for GPU programming in Elixir.</title>
+<pages>1-8</pages>
+<year>2023</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3624309.3624314</ee>
+<ee>https://www.wikidata.org/entity/Q130817081</ee>
+<crossref>conf/sblp/2023</crossref>
+<url>db/conf/sblp/sblp2023.html#BoisC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/RamosBC23" mdate="2025-01-19">
+<author pid="143/6774">Jer&#244;nimo da Cunha Ramos</author>
+<author orcid="0000-0002-6790-5184" pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author orcid="0000-0002-4314-3429" pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<title>Obstruction-Free Distributed Transactional Memory.</title>
+<pages>33-40</pages>
+<year>2023</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3624309.3624316</ee>
+<ee>https://www.wikidata.org/entity/Q130808149</ee>
+<crossref>conf/sblp/2023</crossref>
+<url>db/conf/sblp/sblp2023.html#RamosBC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/haskell/ConceicaoBFCR22" mdate="2022-10-20">
+<author pid="244/1579">Jonathas Augusto de Oliveira Concei&#231;&#227;o</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="226/4565">Samuel da Silva Feitosa</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<title>Open transactional actions: interacting with non-transactional resources in STM Haskell.</title>
+<pages>54-65</pages>
+<year>2022</year>
+<booktitle>Haskell</booktitle>
+<ee>https://doi.org/10.1145/3546189.3549924</ee>
+<crossref>conf/haskell/2022</crossref>
+<url>db/conf/haskell/haskell2022.html#ConceicaoBFCR22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/CardosoFB22" mdate="2025-01-19">
+<author pid="228/5942">Diogo J. Cardoso</author>
+<author pid="24/37">Luciana Foss</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>Exploring Opacity Software Transactional Memory in Haskell through Graph Transformation.</title>
+<pages>15-23</pages>
+<year>2022</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3561320.3561325</ee>
+<ee>https://www.wikidata.org/entity/Q130969843</ee>
+<crossref>conf/sblp/2022</crossref>
+<url>db/conf/sblp/sblp2022.html#CardosoFB22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-01359" mdate="2022-10-02">
+<author orcid="0000-0001-6125-8994" pid="171/2105">Douglas Pereira Pasqualin</author>
+<author pid="09/8557">Matthias Diener</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="06/5321">Maur&#237;cio Lima Pilla</author>
+<title>Thread and Data Mapping in Software Transactional Memory: An Overview.</title>
+<year>2022</year>
+<volume>abs/2206.01359</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.01359</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-01359</url>
+</article>
+</r>
+<r><article key="journals/cleiej/CardosoAFRBR21" mdate="2022-01-25">
+<author pid="239/8548">Elton M. Cardoso</author>
+<author pid="269/7762">Maycon Amaro</author>
+<author pid="226/4565">Samuel da Silva Feitosa</author>
+<author pid="119/2191">Leonardo Vieira dos Santos Reis</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<title>The Design of a Verified Derivative-Based Parsing Tool for Regular Expressions.</title>
+<year>2021</year>
+<volume>24</volume>
+<journal>CLEI Electron. J.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.19153/cleiej.24.3.2</ee>
+<url>db/journals/cleiej/cleiej24.html#CardosoAFRBR21</url>
+</article>
+</r>
+<r><article key="journals/cleiej/FeitosaRB21" mdate="2022-01-25">
+<author pid="226/4565">Samuel da Silva Feitosa</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>Towards an Extrinsic Formalization of Featherweight Java in Agda.</title>
+<year>2021</year>
+<volume>24</volume>
+<journal>CLEI Electron. J.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.19153/cleiej.24.3.3</ee>
+<url>db/journals/cleiej/cleiej24.html#FeitosaRB21</url>
+</article>
+</r>
+<r><inproceedings key="conf/samos/PasqualinDBP21" mdate="2022-06-02">
+<author orcid="0000-0001-6125-8994" pid="171/2105">Douglas Pereira Pasqualin</author>
+<author orcid="0000-0002-9064-7806" pid="09/8557">Matthias Diener</author>
+<author orcid="0000-0002-6790-5184" pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author orcid="0000-0003-2382-2755" pid="06/5321">Maur&#237;cio Lima Pilla</author>
+<title>Sharing-Aware Data Mapping in Software Transactional Memory.</title>
+<pages>481-492</pages>
+<year>2021</year>
+<booktitle>SAMOS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-04580-6_32</ee>
+<crossref>conf/samos/2021</crossref>
+<url>db/conf/samos/samos2021.html#PasqualinDBP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/CardosoFB21" mdate="2025-01-19">
+<author pid="228/5942">Diogo J. Cardoso</author>
+<author pid="24/37">Luciana Foss</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>A Graph Transformation System formalism for correctness of Transactional Memory algorithms.</title>
+<pages>49-57</pages>
+<year>2021</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3475061.3475080</ee>
+<ee>https://www.wikidata.org/entity/Q130978812</ee>
+<crossref>conf/sblp/2021</crossref>
+<url>db/conf/sblp/sblp2021.html#CardosoFB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/JardimOCDBC21" mdate="2025-01-19">
+<author pid="209/7035">Andre D. Jardim</author>
+<author pid="304/6152">Kevin Oliveira</author>
+<author pid="228/5942">Diogo J. Cardoso</author>
+<author pid="209/6950">Daniel Di Domenico</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<title>An extension for Transactional Memory in OpenMP.</title>
+<pages>58-65</pages>
+<year>2021</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3475061.3475089</ee>
+<ee>https://www.wikidata.org/entity/Q130971555</ee>
+<crossref>conf/sblp/2021</crossref>
+<url>db/conf/sblp/sblp2021.html#JardimOCDBC21</url>
+</inproceedings>
+</r>
+<r><article key="journals/rita/BoisRA20" mdate="2021-02-17">
+<author orcid="0000-0002-6790-5184" pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author orcid="0000-0001-7684-8428" pid="269/7762">Maycon Amaro</author>
+<title>A Mechanized Proof of a Textbook Type Unification Algorithm.</title>
+<pages>13-24</pages>
+<year>2020</year>
+<volume>27</volume>
+<journal>RITA</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.22456/2175-2745.100968</ee>
+<url>db/journals/rita/rita27.html#BoisRA20</url>
+</article>
+</r>
+<r><article key="journals/scp/FeitosaRB20" mdate="2021-10-14">
+<author pid="226/4565">Samuel da Silva Feitosa</author>
+<author orcid="0000-0003-0131-5154" pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>A type-directed algorithm to generate random well-typed Java 8 programs.</title>
+<pages>102494</pages>
+<year>2020</year>
+<volume>196</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee>https://doi.org/10.1016/j.scico.2020.102494</ee>
+<url>db/journals/scp/scp196.html#FeitosaRB20</url>
+</article>
+</r>
+<r><inproceedings key="conf/bench/PasqualinDBP20" mdate="2021-03-23">
+<author orcid="0000-0001-6125-8994" pid="171/2105">Douglas Pereira Pasqualin</author>
+<author orcid="0000-0002-9064-7806" pid="09/8557">Matthias Diener</author>
+<author orcid="0000-0002-6790-5184" pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author orcid="0000-0003-2382-2755" pid="06/5321">Maur&#237;cio Lima Pilla</author>
+<title>Characterizing the Sharing Behavior of Applications Using Software Transactional Memory.</title>
+<pages>3-21</pages>
+<year>2020</year>
+<booktitle>Bench</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-71058-3_1</ee>
+<crossref>conf/bench/2020</crossref>
+<url>db/conf/bench/bench2020.html#PasqualinDBP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispdc/PasqualinDBP20" mdate="2020-10-25">
+<author orcid="0000-0001-6125-8994" pid="171/2105">Douglas Pereira Pasqualin</author>
+<author pid="09/8557">Matthias Diener</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="06/5321">Maur&#237;cio Lima Pilla</author>
+<title>Thread Affinity in Software Transactional Memory.</title>
+<pages>180-187</pages>
+<year>2020</year>
+<booktitle>ISPDC</booktitle>
+<ee>https://doi.org/10.1109/ISPDC51135.2020.00033</ee>
+<crossref>conf/ispdc/2020</crossref>
+<url>db/conf/ispdc/ispdc2020.html#PasqualinDBP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/PasqualinDBP20" mdate="2020-12-29">
+<author orcid="0000-0001-6125-8994" pid="171/2105">Douglas Pereira Pasqualin</author>
+<author pid="09/8557">Matthias Diener</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="06/5321">Maur&#237;cio Lima Pilla</author>
+<title>Online Sharing-Aware Thread Mapping in Software Transactional Memory.</title>
+<pages>35-42</pages>
+<year>2020</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD49847.2020.00016</ee>
+<crossref>conf/sbac-pad/2020</crossref>
+<url>db/conf/sbac-pad/sbac-pad2020.html#PasqualinDBP20</url>
+</inproceedings>
+</r>
+<r><article key="journals/scp/FeitosaVPB19" mdate="2021-12-25">
+<author orcid="0000-0002-9485-4845" pid="226/4565">Samuel da Silva Feitosa</author>
+<author pid="21/1450">Juliana Kaizer Vizzotto</author>
+<author pid="93/1270">Eduardo Kessler Piveta</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>A monadic semantics for quantum computing in an object oriented language.</title>
+<pages>37-55</pages>
+<year>2019</year>
+<volume>173</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee>https://doi.org/10.1016/j.scico.2018.03.003</ee>
+<url>db/journals/scp/scp173.html#FeitosaVPB19</url>
+</article>
+</r>
+<r><article key="journals/scp/DuarteBPCR19" mdate="2025-01-19">
+<author pid="165/3753">Rodrigo Medeiros Duarte</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="06/5321">Maur&#237;cio Lima Pilla</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo H. Cavalheiro</author>
+<author orcid="0000-0001-9934-3115" pid="61/2221">Renata Hax Sander Reiser</author>
+<title>Comparing the performance of concurrent hash tables implemented in Haskell.</title>
+<pages>56-70</pages>
+<year>2019</year>
+<volume>173</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee>https://doi.org/10.1016/j.scico.2018.06.004</ee>
+<ee>https://www.wikidata.org/entity/Q129550060</ee>
+<url>db/journals/scp/scp173.html#DuarteBPCR19</url>
+</article>
+</r>
+<r><inproceedings key="conf/nime/BoisR19" mdate="2023-04-04">
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<title>HMusic: A domain specific language for music programming and live coding.</title>
+<pages>381-386</pages>
+<year>2019</year>
+<booktitle>NIME</booktitle>
+<ee type="oa">https://doi.org/10.5281/zenodo.3673003</ee>
+<crossref>conf/nime/2019</crossref>
+<url>db/conf/nime/nime2019.html#BoisR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/CardosoFB19" mdate="2019-10-09">
+<author pid="228/5942">Diogo J. Cardoso</author>
+<author pid="24/37">Luciana Foss</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>A Graph Transformation System formalism for Software Transactional Memory Opacity.</title>
+<pages>3-10</pages>
+<year>2019</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3355378.3355387</ee>
+<crossref>conf/sblp/2019</crossref>
+<url>db/conf/sblp/sblp2019.html#CardosoFB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/FeitosaMRB19" mdate="2019-10-09">
+<author pid="226/4565">Samuel da Silva Feitosa</author>
+<author pid="96/8524">Alejandro Serrano Mena</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>An Inherently-Typed Formalization for Featherweight Java.</title>
+<pages>11-18</pages>
+<year>2019</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3355378.3355385</ee>
+<crossref>conf/sblp/2019</crossref>
+<url>db/conf/sblp/sblp2019.html#FeitosaMRB19</url>
+</inproceedings>
+</r>
+<r><article key="journals/rita/FeitosaRB18" mdate="2020-02-03">
+<author orcid="0000-0002-9485-4845" pid="226/4565">Samuel da Silva Feitosa</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>Formal Semantics for Java-like Languages and Research Opportunities.</title>
+<pages>62-74</pages>
+<year>2018</year>
+<volume>25</volume>
+<journal>RITA</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.22456/2175-2745.80912</ee>
+<url>db/journals/rita/rita25.html#FeitosaRB18</url>
+</article>
+</r>
+<r><inproceedings key="conf/sblp/FeitosaRB18" mdate="2018-11-21">
+<author pid="226/4565">Samuel da Silva Feitosa</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>Property-based testing for lambda expressions semantics in featherweight Java.</title>
+<pages>43-50</pages>
+<year>2018</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3264637.3264643</ee>
+<crossref>conf/sblp/2018</crossref>
+<url>db/conf/sblp/sblp2018.html#FeitosaRB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbmf/FeitosaRB18" mdate="2019-05-10">
+<author pid="226/4565">Samuel da Silva Feitosa</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>A Type-Directed Algorithm to Generate Well-Typed Featherweight Java Programs.</title>
+<pages>39-55</pages>
+<year>2018</year>
+<booktitle>SBMF</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-03044-5_4</ee>
+<crossref>conf/sbmf/2018</crossref>
+<url>db/conf/sbmf/sbmf2018.html#FeitosaRB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wscad/DuarteBCP18" mdate="2019-07-05">
+<author pid="165/3753">Rodrigo Medeiros Duarte</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<author pid="06/5321">Maur&#237;cio Lima Pilla</author>
+<title>User-Level Transaction Scheduling in Haskell.</title>
+<pages>30-37</pages>
+<year>2018</year>
+<booktitle>WSCAD</booktitle>
+<ee>https://doi.org/10.1109/WSCAD.2018.00015</ee>
+<crossref>conf/wscad/2018</crossref>
+<url>db/conf/wscad/wscad2018.html#DuarteBCP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wscad/ConceicaoBR18" mdate="2019-07-05">
+<author pid="244/1579">Jonathas Augusto de Oliveira Concei&#231;&#227;o</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<title>Transactional Boosting on Glasgow Haskell Compiler.</title>
+<pages>191-197</pages>
+<year>2018</year>
+<booktitle>WSCAD</booktitle>
+<ee>https://doi.org/10.1109/WSCAD.2018.00038</ee>
+<crossref>conf/wscad/2018</crossref>
+<url>db/conf/wscad/wscad2018.html#ConceicaoBR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/FeitosaRB19" mdate="2022-08-16">
+<author pid="226/4565">Samuel da Silva Feitosa</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>Generating Random Well-Typed Featherweight Java Programs Using QuickCheck.</title>
+<pages>3-20</pages>
+<year>2018</year>
+<crossref>conf/clei/2018s</crossref>
+<booktitle>CLEI Selected Papers</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2019.04.002</ee>
+<ee>https://www.wikidata.org/entity/Q113317477</ee>
+<url>db/journals/entcs/entcs342.html#FeitosaRB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/SantosBC17" mdate="2023-03-23">
+<author pid="191/4620">Maicon Anca dos Santos</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<title>A User-Level Scheduling Framework for BoT Applications on Private Clouds.</title>
+<pages>81-88</pages>
+<year>2017</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2017.18</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2017.18</ee>
+<crossref>conf/sbac-pad/2017</crossref>
+<url>db/conf/sbac-pad/sbac-pad2017.html#SantosBC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/TeixeiraPBM17" mdate="2023-03-23">
+<author pid="156/4524">Felipe L. Teixeira</author>
+<author pid="06/5321">Maur&#237;cio L. Pilla</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>Impact of Version Management for Transactional Memories on Phase-Change Memories.</title>
+<pages>91-96</pages>
+<year>2017</year>
+<booktitle>SBAC-PAD (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PADW.2017.24</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PADW.2017.24</ee>
+<crossref>conf/sbac-pad/2017w</crossref>
+<url>db/conf/sbac-pad/sbac-pad2017w.html#TeixeiraPBM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/RibeiroB17" mdate="2018-11-06">
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>Certified Bit-Coded Regular Expression Parsing.</title>
+<pages>4:1-4:8</pages>
+<year>2017</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3125374.3125381</ee>
+<crossref>conf/sblp/2017</crossref>
+<url>db/conf/sblp/sblp2017.html#RibeiroB17</url>
+</inproceedings>
+</r>
+<r><article key="journals/rita/DuarteBPR16" mdate="2021-02-17">
+<author pid="165/3753">Rodrigo Medeiros Duarte</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="06/5321">Maur&#237;cio Lima Pilla</author>
+<author pid="61/2221">Renata Hax Sander Reiser</author>
+<title>Comparando o Desempenho de Implementa&#231;&#245;es de Tabelas Hash Concorrentes em Haskell.</title>
+<pages>193-209</pages>
+<year>2016</year>
+<volume>23</volume>
+<journal>RITA</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.22456/2175-2745.64413</ee>
+<url>db/journals/rita/rita23.html#DuarteBPR16</url>
+</article>
+</r>
+<r><article key="journals/scp/BoisT16" mdate="2021-02-17">
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="87/4953">Phil Trinder</author>
+<title>Selected and extended papers from SBLP 2013.</title>
+<pages>1</pages>
+<year>2016</year>
+<volume>132</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee type="oa">https://doi.org/10.1016/j.scico.2016.08.007</ee>
+<url>db/journals/scp/scp132.html#BoisT16</url>
+</article>
+</r>
+<r><inproceedings key="conf/nca/SantosBC16" mdate="2023-03-23">
+<author pid="191/4620">Maicon Anca dos Santos</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo H. Cavalheiro</author>
+<title>A user level approach to schedule BoT applications on private clouds.</title>
+<pages>31-34</pages>
+<year>2016</year>
+<booktitle>NCA</booktitle>
+<ee>https://doi.org/10.1109/NCA.2016.7778588</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/NCA.2016.7778588</ee>
+<crossref>conf/nca/2016</crossref>
+<url>db/conf/nca/nca2016.html#SantosBC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/RamosBP16" mdate="2018-11-06">
+<author pid="143/6774">Jer&#244;nimo da Cunha Ramos</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="06/5321">Maur&#237;cio Lima Pilla</author>
+<title>An embedded domain specific language for distributed memory transactions in Java.</title>
+<pages>1980-1985</pages>
+<year>2016</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2851613.2851754</ee>
+<crossref>conf/sac/2016</crossref>
+<url>db/conf/sac/sac2016.html#RamosBP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/FeitosaVPB16" mdate="2019-05-10">
+<author pid="226/4565">Samuel da Silva Feitosa</author>
+<author pid="21/1450">Juliana Kaizer Vizzotto</author>
+<author pid="93/1270">Eduardo Kessler Piveta</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>A Monadic Semantics for Quantum Computing in Featherweight Java.</title>
+<pages>31-45</pages>
+<year>2016</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-45279-1_3</ee>
+<crossref>conf/sblp/2016</crossref>
+<url>db/conf/sblp/sblp2016.html#FeitosaVPB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/DuarteBPCR16" mdate="2019-12-27">
+<author pid="165/3753">Rodrigo Medeiros Duarte</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="06/5321">Maur&#237;cio L. Pilla</author>
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<author orcid="0000-0001-9934-3115" pid="61/2221">Renata Hax Sander Reiser</author>
+<title>Concurrent Hash Tables for Haskell.</title>
+<pages>110-124</pages>
+<year>2016</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-45279-1_8</ee>
+<crossref>conf/sblp/2016</crossref>
+<url>db/conf/sblp/sblp2016.html#DuarteBPCR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/DuarteBPC15" mdate="2018-11-06">
+<author pid="165/3753">Rodrigo Medeiros Duarte</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="06/5321">Maur&#237;cio Lima Pilla</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<title>Composable memory transactions with eager version management.</title>
+<pages>2093-2098</pages>
+<year>2015</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2695664.2695816</ee>
+<crossref>conf/sac/2015</crossref>
+<url>db/conf/sac/sac2015.html#DuarteBPC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/RicoPBD15" mdate="2023-03-23">
+<author pid="177/2481">Tim&#243;teo Matthies Rico</author>
+<author pid="06/5321">Maur&#237;cio L. Pilla</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="165/3753">Rodrigo Medeiros Duarte</author>
+<title>Energy Consumption and Scalability Evaluation for Software Transactional Memory on a Real Computing Environment.</title>
+<pages>7-12</pages>
+<year>2015</year>
+<booktitle>SBAC-PAD (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PADW.2015.11</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PADW.2015.11</ee>
+<crossref>conf/sbac-pad/2015w</crossref>
+<url>db/conf/sbac-pad/sbac-pad2015w.html#RicoPBD15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/TeixeiraPBM15" mdate="2023-03-23">
+<author pid="156/4524">Felipe L. Teixeira</author>
+<author pid="06/5321">Maur&#237;cio L. Pilla</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>Impact of Version Management on Transactional Memories' Performance.</title>
+<pages>13-18</pages>
+<year>2015</year>
+<booktitle>SBAC-PAD (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PADW.2015.14</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PADW.2015.14</ee>
+<crossref>conf/sbac-pad/2015w</crossref>
+<url>db/conf/sbac-pad/sbac-pad2015w.html#TeixeiraPBM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/BarbaraABC15" mdate="2023-03-23">
+<author pid="177/2480">Israel da Silva Barbara</author>
+<author pid="177/2473">Nicolas O. de Araujo</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo H. Cavalheiro</author>
+<title>Evaluating Overhead and Contention in Concurrent Accesses to a Graph.</title>
+<pages>49-54</pages>
+<year>2015</year>
+<booktitle>SBAC-PAD (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PADW.2015.27</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PADW.2015.27</ee>
+<crossref>conf/sbac-pad/2015w</crossref>
+<url>db/conf/sbac-pad/sbac-pad2015w.html#BarbaraABC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/KistPBBC15" mdate="2023-03-23">
+<author pid="177/2479">Deives Kist</author>
+<author pid="177/2487">Bruno Pinto</author>
+<author pid="177/2474">Rodrigo Bazo</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<title>Kanga: A Skeleton-Based Generic Interface for Parallel Programming.</title>
+<pages>68-72</pages>
+<year>2015</year>
+<booktitle>SBAC-PAD (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PADW.2015.16</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PADW.2015.16</ee>
+<crossref>conf/sbac-pad/2015w</crossref>
+<url>db/conf/sbac-pad/sbac-pad2015w.html#KistPBBC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/BandeiraBPVM15" mdate="2017-05-26">
+<author pid="169/2291">Rafael Bandeira</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="06/5321">Maur&#237;cio L. Pilla</author>
+<author pid="21/1450">Juliana Kaizer Vizzotto</author>
+<author pid="06/10915">Marcelo Machado</author>
+<title>Composable Memory Transactions for Java Using a Monadic Intermediate Language.</title>
+<pages>128-142</pages>
+<year>2015</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-24012-1_10</ee>
+<crossref>conf/sblp/2015</crossref>
+<url>db/conf/sblp/sblp2015.html#BandeiraBPVM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/FeitosaVPB16" mdate="2022-11-10">
+<author pid="226/4565">Samuel da Silva Feitosa</author>
+<author pid="21/1450">Juliana Kaizer Vizzotto</author>
+<author pid="93/1270">Eduardo Kessler Piveta</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>FJQuantum - A Quantum Object Oriented Language.</title>
+<pages>67-77</pages>
+<year>2015</year>
+<crossref>conf/weit/2015</crossref>
+<booktitle>WEIT</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2016.09.007</ee>
+<ee>https://www.wikidata.org/entity/Q113317666</ee>
+<url>db/journals/entcs/entcs324.html#FeitosaVPB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/ReiserLAVPB16" mdate="2022-11-10">
+<author orcid="0000-0001-9934-3115" pid="61/2221">Renata Reiser</author>
+<author pid="143/6779">Alexandre Lemke</author>
+<author pid="180/8423">Anderson Braga de Avila</author>
+<author pid="187/9626">J&#250;lia Vieira</author>
+<author pid="06/5321">Maur&#237;cio L. Pilla</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>Interpretations on Quantum Fuzzy Computing: Intuitionistic Fuzzy Operations &#215; Quantum Operators.</title>
+<pages>135-150</pages>
+<year>2015</year>
+<crossref>conf/weit/2015</crossref>
+<booktitle>WEIT</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2016.09.012</ee>
+<ee>https://www.wikidata.org/entity/Q113317661</ee>
+<url>db/journals/entcs/entcs324.html#ReiserLAVPB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/TeixeiraPBM14" mdate="2023-03-23">
+<author pid="156/4524">Felipe L. Teixeira</author>
+<author pid="06/5321">Maur&#237;cio L. Pilla</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>Profiling Patterns of Bit Flipping for Software Transactional Memories.</title>
+<pages>136-143</pages>
+<year>2014</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2014.51</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2014.51</ee>
+<crossref>conf/sbac-pad/2014</crossref>
+<url>db/conf/sbac-pad/sbac-pad2014.html#TeixeiraPBM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/BoisPD14" mdate="2017-05-26">
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="06/5321">Maur&#237;cio Lima Pilla</author>
+<author pid="165/3753">Rodrigo Medeiros Duarte</author>
+<title>Transactional Boosting for Haskell.</title>
+<pages>145-159</pages>
+<year>2014</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-11863-5_11</ee>
+<crossref>conf/sblp/2014</crossref>
+<url>db/conf/sblp/sblp2014.html#BoisPD14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/weit/LemkeRBP13" mdate="2023-03-24">
+<author pid="143/6779">Alexandre Lemke</author>
+<author orcid="0000-0001-9934-3115" pid="61/2221">Renata Hax Sander Reiser</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="06/5321">Maur&#237;cio Lima Pilla</author>
+<title>Aggregation Operators on the Fuzzy e-Xor and e-XNor Classes.</title>
+<pages>151-157</pages>
+<year>2013</year>
+<booktitle>WEIT</booktitle>
+<ee>https://doi.org/10.1109/WEIT.2013.14</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WEIT.2013.14</ee>
+<crossref>conf/weit/2013</crossref>
+<url>db/conf/weit/weit2013.html#LemkeRBP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/weit/RamosBP13" mdate="2023-03-24">
+<author pid="143/6774">Jer&#244;nimo da Cunha Ramos</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="06/5321">Maur&#237;cio Lima Pilla</author>
+<title>A Domain Specific Language based on Monads for Distributed Transactional Memory in Java.</title>
+<pages>172-174</pages>
+<year>2013</year>
+<booktitle>WEIT</booktitle>
+<ee>https://doi.org/10.1109/WEIT.2013.39</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WEIT.2013.39</ee>
+<crossref>conf/weit/2013</crossref>
+<url>db/conf/weit/weit2013.html#RamosBP13</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sblp/2013" mdate="2019-05-14">
+<editor pid="21/3472">Andr&#233; Rauber Du Bois</editor>
+<editor pid="87/4953">Phil Trinder</editor>
+<title>Programming Languages - 17th Brazilian Symposium, SBLP 2013, Bras&#237;lia, Brazil, October 3 - 4, 2013. Proceedings</title>
+<year>2013</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>8129</volume>
+<ee>https://doi.org/10.1007/978-3-642-40922-6</ee>
+<isbn>978-3-642-40921-9</isbn>
+<booktitle>SBLP</booktitle>
+<url>db/conf/sblp/sblp2013.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/wscad/RicoPB12" mdate="2023-03-24">
+<author pid="177/2481">Tim&#243;teo Matthies Rico</author>
+<author pid="06/5321">Maur&#237;cio Lima Pilla</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>Energy Consumption on Software Transactional Memories.</title>
+<pages>194-201</pages>
+<year>2012</year>
+<booktitle>WSCAD-SSC</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WSCAD-SSC.2012.26</ee>
+<crossref>conf/wscad/2012</crossref>
+<url>db/conf/wscad/wscad2012.html#RicoPB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soco/Bois11" mdate="2020-06-25">
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>An Implementation of Composable Memory Transactions in Haskell.</title>
+<pages>34-50</pages>
+<year>2011</year>
+<booktitle>SC@TOOLS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-22045-6_3</ee>
+<crossref>conf/soco/2011</crossref>
+<url>db/conf/soco/sc2011.html#Bois11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsl/BoisE09" mdate="2018-06-26">
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="91/7169">Marcos Echevarria</author>
+<title>A Domain Specific Language for Composable Memory Transactions in Java.</title>
+<pages>170-186</pages>
+<year>2009</year>
+<booktitle>DSL</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-03034-5_9</ee>
+<crossref>conf/dsl/2009</crossref>
+<url>db/conf/dsl/dsl2009.html#BoisE09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wollic/VizzottoBS09" mdate="2023-09-30">
+<author pid="21/1450">Juliana Kaizer Vizzotto</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author orcid="0000-0002-1025-7331" pid="65/6934">Amr Sabry</author>
+<title>The Arrow Calculus as a Quantum Programming Language.</title>
+<pages>379-393</pages>
+<year>2009</year>
+<booktitle>WoLLIC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02261-6_30</ee>
+<crossref>conf/wollic/2009</crossref>
+<url>db/conf/wollic/wollic2009.html#VizzottoBS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/VizzottoB11" mdate="2023-03-10">
+<author pid="21/1450">Juliana Kaizer Vizzotto</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>Modelling Parallel Quantum Computing Using Transactional Memory.</title>
+<pages>183-190</pages>
+<year>2008</year>
+<crossref>conf/qpl/2008</crossref>
+<booktitle>QPL/DCM@ICALP</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2011.01.017</ee>
+<ee>https://www.wikidata.org/entity/Q113318321</ee>
+<url>db/conf/qpl/qpldcm2008.html#VizzottoB11</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ethos/DuBois06" mdate="2022-05-04">
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>Mobile computation in a purely functional language.</title>
+<year>2006</year>
+<school>Heriot-Watt University, Edinburgh, UK</school>
+<ee>https://hdl.handle.net/10399/169</ee>
+<ee>https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.434692</ee>
+<note type="source">British Library, EThOS</note>
+</phdthesis>
+</r>
+<r><article key="journals/jucs/BoisTL06" mdate="2023-09-07">
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="87/4953">Philip W. Trinder</author>
+<author pid="l/HWLoidl">Hans-Wolfgang Loidl</author>
+<title>Strong Mobility in Mobile Haskell.</title>
+<pages>868-884</pages>
+<year>2006</year>
+<volume>12</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>7</number>
+<ee type="oa">https://doi.org/10.3217/jucs-012-07-0868</ee>
+<url>db/journals/jucs/jucs12.html#BoisTL06</url>
+</article>
+</r>
+<r><inproceedings key="conf/mobility/FieldTB06" mdate="2018-11-06">
+<author pid="214/9853">Zara Field</author>
+<author pid="87/4953">Philip W. Trinder</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>A comparative evaluation of three mobile languages.</title>
+<pages>45</pages>
+<year>2006</year>
+<booktitle>Mobility Conference</booktitle>
+<ee>https://doi.org/10.1145/1292331.1292382</ee>
+<crossref>conf/mobility/2006</crossref>
+<url>db/conf/mobility/mobility2006.html#FieldTB06</url>
+</inproceedings>
+</r>
+<r><article key="journals/jucs/BoisTL05" mdate="2023-09-07">
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="87/4953">Philip W. Trinder</author>
+<author pid="l/HWLoidl">Hans-Wolfgang Loidl</author>
+<title>mHaskell: Mobile Computation in a Purely Functional Language.</title>
+<pages>1234-1254</pages>
+<year>2005</year>
+<volume>11</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>7</number>
+<ee type="oa">https://doi.org/10.3217/jucs-011-07-1234</ee>
+<url>db/journals/jucs/jucs11.html#BoisTL05</url>
+</article>
+</r>
+<r><article key="journals/ppl/BoisTL05" mdate="2025-05-01">
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="87/4953">Philip W. Trinder</author>
+<author orcid="0000-0001-6318-1732" pid="l/HWLoidl">Hans-Wolfgang Loidl</author>
+<title>Towards Mobility Skeletons.</title>
+<pages>273-288</pages>
+<year>2005</year>
+<volume>15</volume>
+<journal>Parallel Process. Lett.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1142/S0129626405002210</ee>
+<url>db/journals/ppl/ppl15.html#BoisTL05</url>
+</article>
+</r>
+<r><inproceedings key="conf/sfp/BoisTL03" mdate="2007-10-25">
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="87/4953">Philip W. Trinder</author>
+<author pid="l/HWLoidl">Hans-Wolfgang Loidl</author>
+<title>Implementing Mobile Haskell.</title>
+<pages>79-94</pages>
+<year>2003</year>
+<crossref>conf/sfp/2003</crossref>
+<booktitle>Trends in Functional Programming</booktitle>
+<url>db/conf/sfp/tfp2003.html#BoisTL03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifl/BoisLT02" mdate="2025-05-01">
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author orcid="0000-0001-6318-1732" pid="l/HWLoidl">Hans-Wolfgang Loidl</author>
+<author pid="87/4953">Philip W. Trinder</author>
+<title>Thread Migration in a Parallel Graph Reducer.</title>
+<pages>199-214</pages>
+<ee>https://doi.org/10.1007/3-540-44854-3_13</ee>
+<year>2002</year>
+<crossref>conf/ifl/2002</crossref>
+<booktitle>IFL</booktitle>
+<url>db/conf/ifl/ifl2002.html#BoisLT02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/BoisPLT02" mdate="2023-03-23">
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="80/4314">Robert F. Pointon</author>
+<author pid="l/HWLoidl">Hans-Wolfgang Loidl</author>
+<author pid="87/4953">Philip W. Trinder</author>
+<title>Implementing Declarative Parallel Bottom-Avoiding Choice.</title>
+<pages>82-92</pages>
+<year>2002</year>
+<crossref>conf/sbac-pad/2002</crossref>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/CAHPC.2002.1180763</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CAHPC.2002.1180763</ee>
+<url>db/conf/sbac-pad/sbac-pad2002.html#BoisPLT02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurocast/BoisC01" mdate="2017-05-25">
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="36/5618">Ant&#244;nio Carlos da Rocha Costa</author>
+<title>Distributed Execution of Functional Programs Using the JVM.</title>
+<pages>570-582</pages>
+<ee>https://doi.org/10.1007/3-540-45654-6_44</ee>
+<year>2001</year>
+<crossref>conf/eurocast/2001</crossref>
+<booktitle>EUROCAST</booktitle>
+<url>db/conf/eurocast/eurocast2001.html#BoisC01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wflp/BoisC00" mdate="2004-11-30">
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="36/5618">Ant&#244;nio Carlos da Rocha Costa</author>
+<title>Functional Beans.</title>
+<pages>470-479</pages>
+<year>2000</year>
+<crossref>conf/wflp/2000</crossref>
+<booktitle>WFLP</booktitle>
+<url>db/conf/wflp/wflp2000.html#BoisC00</url>
+</inproceedings>
+</r>
+<coauthors n="42" nc="2">
+<co c="0"><na f="a/Amaro:Maycon" pid="269/7762">Maycon Amaro</na></co>
+<co c="0"><na f="a/Araujo:Nicolas_O=_de" pid="177/2473">Nicolas O. de Araujo</na></co>
+<co c="0"><na f="a/Avila:Anderson_Braga_de" pid="180/8423">Anderson Braga de Avila</na></co>
+<co c="0"><na f="b/Bandeira:Rafael" pid="169/2291">Rafael Bandeira</na></co>
+<co c="0"><na f="b/Barbara:Israel_da_Silva" pid="177/2480">Israel da Silva Barbara</na></co>
+<co c="0"><na f="b/Bazo:Rodrigo" pid="177/2474">Rodrigo Bazo</na></co>
+<co c="0"><na f="c/Cardoso:Diogo_J=" pid="228/5942">Diogo J. Cardoso</na></co>
+<co c="0"><na f="c/Cardoso:Elton_M=" pid="239/8548">Elton M. Cardoso</na></co>
+<co c="0" n="3"><na f="c/Cavalheiro:Gerson_G=_H=" pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</na><na>Gerson Geraldo H. Cavalheiro</na><na>Gerson Geraldo Homrich Cavalheiro</na></co>
+<co c="0"><na f="c/Concei=ccedil==atilde=o:Jonathas_Augusto_de_Oliveira" pid="244/1579">Jonathas Augusto de Oliveira Concei&#231;&#227;o</na></co>
+<co c="0"><na f="c/Costa:Ant=ocirc=nio_Carlos_da_Rocha" pid="36/5618">Ant&#244;nio Carlos da Rocha Costa</na></co>
+<co c="0"><na f="d/Diener:Matthias" pid="09/8557">Matthias Diener</na></co>
+<co c="0"><na f="d/Domenico:Daniel_Di" pid="209/6950">Daniel Di Domenico</na></co>
+<co c="0"><na f="d/Duarte:Rodrigo_Medeiros" pid="165/3753">Rodrigo Medeiros Duarte</na></co>
+<co c="-1"><na f="e/Echevarria:Marcos" pid="91/7169">Marcos Echevarria</na></co>
+<co c="0"><na f="f/Feitosa:Samuel_da_Silva" pid="226/4565">Samuel da Silva Feitosa</na></co>
+<co c="1"><na f="f/Field:Zara" pid="214/9853">Zara Field</na></co>
+<co c="0"><na f="f/Foss:Luciana" pid="24/37">Luciana Foss</na></co>
+<co c="0"><na f="j/Jardim:Andre_D=" pid="209/7035">Andre D. Jardim</na></co>
+<co c="0"><na f="k/Kist:Deives" pid="177/2479">Deives Kist</na></co>
+<co c="0"><na f="l/Lemke:Alexandre" pid="143/6779">Alexandre Lemke</na></co>
+<co c="1"><na f="l/Loidl:Hans=Wolfgang" pid="l/HWLoidl">Hans-Wolfgang Loidl</na></co>
+<co c="0"><na f="m/Machado:Marcelo" pid="06/10915">Marcelo Machado</na></co>
+<co c="0"><na f="m/Moss=eacute=:Daniel" pid="m/DanielMosse">Daniel Moss&#233;</na></co>
+<co c="0"><na f="o/Oliveira:Kevin" pid="304/6152">Kevin Oliveira</na></co>
+<co c="0"><na f="p/Pasqualin:Douglas_Pereira" pid="171/2105">Douglas Pereira Pasqualin</na></co>
+<co c="0" n="2"><na f="p/Pilla:Maur=iacute=cio_L=" pid="06/5321">Maur&#237;cio L. Pilla</na><na>Maur&#237;cio Lima Pilla</na></co>
+<co c="0"><na f="p/Pinto:Bruno" pid="177/2487">Bruno Pinto</na></co>
+<co c="0" n="2"><na f="p/Piveta:Eduardo" pid="93/1270">Eduardo Piveta</na><na>Eduardo Kessler Piveta</na></co>
+<co c="1"><na f="p/Pointon:Robert_F=" pid="80/4314">Robert F. Pointon</na></co>
+<co c="0"><na f="r/Ramos:Jer=ocirc=nimo_da_Cunha" pid="143/6774">Jer&#244;nimo da Cunha Ramos</na></co>
+<co c="0"><na f="r/Reis:Leonardo_Vieira_dos_Santos" pid="119/2191">Leonardo Vieira dos Santos Reis</na></co>
+<co c="0" n="3"><na f="r/Reiser:Renata_H=_S=" pid="61/2221">Renata H. S. Reiser</na><na>Renata Hax Sander Reiser</na><na>Renata Reiser</na></co>
+<co c="0"><na f="r/Ribeiro:Rodrigo_Geraldo" pid="204/6610">Rodrigo Geraldo Ribeiro</na></co>
+<co c="0"><na f="r/Rico:Tim=oacute=teo_Matthies" pid="177/2481">Tim&#243;teo Matthies Rico</na></co>
+<co c="0"><na f="s/Sabry:Amr" pid="65/6934">Amr Sabry</na></co>
+<co c="0"><na f="s/Santos:Maicon_Anca_dos" pid="191/4620">Maicon Anca dos Santos</na></co>
+<co c="0" n="2"><na f="s/Serrano_0001:Alejandro" pid="96/8524">Alejandro Serrano 0001</na><na>Alejandro Serrano Mena</na></co>
+<co c="0"><na f="t/Teixeira:Felipe_L=" pid="156/4524">Felipe L. Teixeira</na></co>
+<co c="1" n="2"><na f="t/Trinder:Philip_W=" pid="87/4953">Philip W. Trinder</na><na>Phil Trinder</na></co>
+<co c="0"><na f="v/Vieira:J=uacute=lia" pid="187/9626">J&#250;lia Vieira</na></co>
+<co c="0"><na f="v/Vizzotto:Juliana_Kaizer" pid="21/1450">Juliana Kaizer Vizzotto</na></co>
+</coauthors>
+</dblpperson>
+

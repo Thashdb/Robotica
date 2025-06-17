@@ -1,0 +1,674 @@
+<?xml version="1.0"?>
+<dblpperson name="Felipe A. Louza" pid="30/9961" n="47">
+<person key="homepages/30/9961" mdate="2020-07-11">
+<author pid="30/9961">Felipe A. Louza</author>
+<author pid="30/9961">Felipe Alves Louza</author>
+<author pid="30/9961">Felipe Alves da Louza</author>
+<url>https://orcid.org/0000-0003-2931-1470</url>
+<url>https://www.wikidata.org/entity/Q89619344</url>
+<note type="affiliation">Federal University of Uberl&#226;ndia, Uberl&#226;ndia, Brazil</note>
+</person>
+<r><article key="journals/acta/RamosLT25" mdate="2024-11-29">
+<author pid="269/4051">Lucas P. Ramos</author>
+<author pid="30/9961">Felipe A. Louza</author>
+<author pid="71/2226">Guilherme P. Telles</author>
+<title>Comparative genomics with succinct colored de Bruijn graphs.</title>
+<pages>1</pages>
+<year>2025</year>
+<month>March</month>
+<volume>62</volume>
+<journal>Acta Informatica</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00236-024-00467-7</ee>
+<url>db/journals/acta/acta62.html#RamosLT25</url>
+<stream>streams/journals/acta</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2411-09114" mdate="2025-01-01">
+<author pid="269/4051">Lucas P. Ramos</author>
+<author pid="30/9961">Felipe A. Louza</author>
+<author pid="71/2226">Guilherme P. Telles</author>
+<title>Comparative genomics with succinct colored de Bruijn graphs.</title>
+<year>2024</year>
+<volume>abs/2411.09114</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.09114</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-09114</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/sbbd/RosaLR23" mdate="2023-10-25">
+<author pid="359/0412">Frederico R. Rosa</author>
+<author pid="30/9961">Felipe A. Louza</author>
+<author pid="86/470">Humberto Luiz Razente</author>
+<title>Vetor de sufixos m&#233;trico compacto.</title>
+<pages>414-419</pages>
+<year>2023</year>
+<booktitle>SBBD</booktitle>
+<ee>https://sol.sbc.org.br/index.php/sbbd/article/view/25553</ee>
+<crossref>conf/sbbd/2023</crossref>
+<url>db/conf/sbbd/sbbd2023.html#RosaLR23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2304-08534" mdate="2023-04-21">
+<author pid="150/4999">Veronica Guerrini</author>
+<author pid="30/9961">Felipe A. Louza</author>
+<author pid="14/4683">Giovanna Rosone</author>
+<title>Lossy Compressor preserving variant calling through Extended BWT.</title>
+<year>2023</year>
+<volume>abs/2304.08534</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2304.08534</ee>
+<url>db/journals/corr/corr2304.html#abs-2304-08534</url>
+</article>
+</r>
+<r><article key="journals/algorithmica/EgidiLM22" mdate="2022-04-01">
+<author pid="50/63">Lavinia Egidi</author>
+<author orcid="0000-0003-2931-1470" pid="30/9961">Felipe A. Louza</author>
+<author pid="63/1086">Giovanni Manzini</author>
+<title>Space Efficient Merging of de Bruijn Graphs and Wheeler Graphs.</title>
+<pages>639-669</pages>
+<year>2022</year>
+<volume>84</volume>
+<journal>Algorithmica</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00453-021-00855-2</ee>
+<url>db/journals/algorithmica/algorithmica84.html#EgidiLM22</url>
+</article>
+</r>
+<r><article key="journals/jea/NunesLGAN22" mdate="2024-02-28">
+<author orcid="0000-0001-6870-1397" pid="142/2164">Daniel Saad Nogueira Nunes</author>
+<author orcid="0000-0003-2931-1470" pid="30/9961">Felipe A. Louza</author>
+<author orcid="0000-0002-5450-8630" pid="34/1099">Simon Gog</author>
+<author orcid="0000-0003-0089-3905" pid="56/538">Mauricio Ayala-Rinc&#243;n</author>
+<author orcid="0000-0002-2286-741X" pid="n/GonzaloNavarro">Gonzalo Navarro 0001</author>
+<title>Grammar Compression by Induced Suffix Sorting.</title>
+<pages>1.1:1-1.1:33</pages>
+<year>2022</year>
+<volume>27</volume>
+<journal>ACM J. Exp. Algorithmics</journal>
+<ee>https://doi.org/10.1145/3549992</ee>
+<url>db/journals/jea/jea27.html#NunesLGAN22</url>
+</article>
+</r>
+<r><inproceedings key="conf/biostec/GuerriniLR22" mdate="2022-03-10">
+<author pid="150/4999">Veronica Guerrini</author>
+<author pid="30/9961">Felipe A. Louza</author>
+<author pid="14/4683">Giovanna Rosone</author>
+<title>Lossy Compressor Preserving Variant Calling through Extended BWT.</title>
+<pages>38-48</pages>
+<year>2022</year>
+<booktitle>BIOINFORMATICS</booktitle>
+<ee>https://doi.org/10.5220/0010834100003123</ee>
+<crossref>conf/biostec/2022bi</crossref>
+<url>db/conf/biostec/bioinformatics2022.html#GuerriniLR22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/biostec/GuerriniLR22a" mdate="2023-08-05">
+<author orcid="0000-0001-8888-9243" pid="150/4999">Veronica Guerrini</author>
+<author orcid="0000-0003-2931-1470" pid="30/9961">Felipe A. Louza</author>
+<author orcid="0000-0001-5075-1214" pid="14/4683">Giovanna Rosone</author>
+<title>Parallel Lossy Compression for Large FASTQ Files.</title>
+<pages>97-120</pages>
+<year>2022</year>
+<booktitle>BIOSTEC (Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-38854-5_6</ee>
+<crossref>conf/biostec/2022ccis</crossref>
+<url>db/conf/biostec/biostec2022ccis.html#GuerriniLR22a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spire/RamosLT22" mdate="2022-11-13">
+<author orcid="0000-0002-3699-2991" pid="269/4051">Lucas P. Ramos</author>
+<author orcid="0000-0003-2931-1470" pid="30/9961">Felipe A. Louza</author>
+<author orcid="0000-0003-2608-4807" pid="71/2226">Guilherme P. Telles</author>
+<title>Genome Comparison on Succinct Colored de Bruijn Graphs.</title>
+<pages>165-177</pages>
+<year>2022</year>
+<booktitle>SPIRE</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-20643-6_12</ee>
+<crossref>conf/spire/2022</crossref>
+<url>db/conf/spire/spire2022.html#RamosLT22</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcs/LouzaMS21" mdate="2021-01-26">
+<author orcid="0000-0003-2931-1470" pid="30/9961">Felipe A. Louza</author>
+<author pid="158/8480">Neerja Mhaskar</author>
+<author pid="s/WilliamFSmyth">W. F. Smyth</author>
+<title>A new approach to regular &#38; indeterminate strings.</title>
+<pages>105-115</pages>
+<year>2021</year>
+<volume>854</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2020.12.007</ee>
+<url>db/journals/tcs/tcs854.html#LouzaMS21</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2108-04988" mdate="2021-08-18">
+<author pid="61/6050">Marcelo K. Albertini</author>
+<author pid="30/9961">Felipe A. Louza</author>
+<title>Practical evaluation of Lyndon factors via alphabet reordering.</title>
+<year>2021</year>
+<volume>abs/2108.04988</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2108.04988</ee>
+<url>db/journals/corr/corr2108.html#abs-2108-04988</url>
+</article>
+</r>
+<r><book key="series/sbcs/LouzaGT20" mdate="2020-10-09">
+<author pid="30/9961">Felipe A. Louza</author>
+<author pid="34/1099">Simon Gog</author>
+<author pid="71/2226">Guilherme P. Telles</author>
+<title>Construction of Fundamental Data Structures for Strings</title>
+<publisher>Springer</publisher>
+<year>2020</year>
+<pages>3-101</pages>
+<series href="db/series/sbcs/index.html">Springer Briefs in Computer Science</series>
+<isbn>978-3-030-55107-0</isbn>
+<ee>https://doi.org/10.1007/978-3-030-55108-7</ee>
+</book>
+</r>
+<r><article key="journals/almob/LouzaTGPR20" mdate="2022-10-02">
+<author orcid="0000-0003-2931-1470" pid="30/9961">Felipe A. Louza</author>
+<author pid="71/2226">Guilherme P. Telles</author>
+<author orcid="0000-0002-5450-8630" pid="34/1099">Simon Gog</author>
+<author pid="121/1143">Nicola Prezza</author>
+<author pid="14/4683">Giovanna Rosone</author>
+<title>gsufsort: constructing suffix arrays, LCP arrays and BWTs for string collections.</title>
+<pages>18</pages>
+<year>2020</year>
+<volume>15</volume>
+<journal>Algorithms Mol. Biol.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s13015-020-00177-y</ee>
+<ee>https://www.wikidata.org/entity/Q99711679</ee>
+<url>db/journals/almob/almob15.html#LouzaTGPR20</url>
+</article>
+</r>
+<r><article key="journals/bmcbi/GuerriniLR20" mdate="2021-09-16">
+<author pid="150/4999">Veronica Guerrini</author>
+<author orcid="0000-0003-2931-1470" pid="30/9961">Felipe A. Louza</author>
+<author orcid="0000-0001-5075-1214" pid="14/4683">Giovanna Rosone</author>
+<title>Metagenomic analysis through the extended Burrows-Wheeler transform.</title>
+<pages>299</pages>
+<year>2020</year>
+<volume>21-S</volume>
+<journal>BMC Bioinform.</journal>
+<number>8</number>
+<ee type="oa">https://doi.org/10.1186/s12859-020-03628-w</ee>
+<ee>https://www.wikidata.org/entity/Q99556436</ee>
+<url>db/journals/bmcbi/bmcbi21S.html#GuerriniLR20</url>
+</article>
+</r>
+<r><article key="journals/ipl/Louza20" mdate="2025-01-19">
+<author orcid="0000-0003-2931-1470" pid="30/9961">Felipe A. Louza</author>
+<title>A simple algorithm for computing the document array.</title>
+<year>2020</year>
+<volume>154</volume>
+<journal>Inf. Process. Lett.</journal>
+<ee>https://doi.org/10.1016/j.ipl.2019.105887</ee>
+<ee>https://www.wikidata.org/entity/Q126833510</ee>
+<url>db/journals/ipl/ipl154.html#Louza20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-03675" mdate="2020-09-17">
+<author pid="50/63">Lavinia Egidi</author>
+<author pid="30/9961">Felipe A. Louza</author>
+<author pid="63/1086">Giovanni Manzini</author>
+<title>Space efficient merging of de Bruijn graphs and Wheeler graphs.</title>
+<year>2020</year>
+<volume>abs/2009.03675</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.03675</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-03675</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-12898" mdate="2024-02-28">
+<author pid="142/2164">Daniel Saad Nogueira Nunes</author>
+<author pid="30/9961">Felipe A. Louza</author>
+<author pid="34/1099">Simon Gog</author>
+<author pid="56/538">Mauricio Ayala-Rinc&#243;n</author>
+<author pid="n/GonzaloNavarro">Gonzalo Navarro 0001</author>
+<title>Grammar Compression By Induced Suffix Sorting.</title>
+<year>2020</year>
+<volume>abs/2011.12898</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.12898</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-12898</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-07892" mdate="2021-01-02">
+<author pid="30/9961">Felipe A. Louza</author>
+<author pid="158/8480">Neerja Mhaskar</author>
+<author pid="s/WilliamFSmyth">W. F. Smyth</author>
+<title>A New Approach to Regular &#38; Indeterminate Strings.</title>
+<year>2020</year>
+<volume>abs/2012.07892</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.07892</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-07892</url>
+</article>
+</r>
+<r><article key="journals/almob/EgidiLMT19" mdate="2020-07-10">
+<author orcid="0000-0002-9745-0942" pid="50/63">Lavinia Egidi</author>
+<author orcid="0000-0003-2931-1470" pid="30/9961">Felipe A. Louza</author>
+<author orcid="0000-0002-5047-0196" pid="63/1086">Giovanni Manzini</author>
+<author pid="71/2226">Guilherme P. Telles</author>
+<title>External memory BWT and LCP computation for sequence collections with applications.</title>
+<pages>6:1-6:15</pages>
+<year>2019</year>
+<volume>14</volume>
+<journal>Algorithms Mol. Biol.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s13015-019-0140-0</ee>
+<ee>https://www.wikidata.org/entity/Q64112556</ee>
+<url>db/journals/almob/almob14.html#EgidiLMT19</url>
+</article>
+</r>
+<r><article key="journals/tcs/LouzaTGZ19" mdate="2025-01-19">
+<author orcid="0000-0003-2931-1470" pid="30/9961">Felipe A. Louza</author>
+<author pid="71/2226">Guilherme P. Telles</author>
+<author pid="34/1099">Simon Gog</author>
+<author pid="63/5422-1">Liang Zhao 0001</author>
+<title>Algorithms to compute the Burrows-Wheeler Similarity Distribution.</title>
+<pages>145-156</pages>
+<year>2019</year>
+<volume>782</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2019.03.012</ee>
+<ee>https://www.wikidata.org/entity/Q128232643</ee>
+<url>db/journals/tcs/tcs782.html#LouzaTGZ19</url>
+</article>
+</r>
+<r><inproceedings key="conf/spire/LouzaMMST19" mdate="2020-07-10">
+<author orcid="0000-0003-2931-1470" pid="30/9961">Felipe A. Louza</author>
+<author orcid="0000-0002-9200-0520" pid="22/337">Sabrina Mantaci</author>
+<author orcid="0000-0002-5047-0196" pid="63/1086">Giovanni Manzini</author>
+<author orcid="0000-0001-6928-0168" pid="86/6093">Marinella Sciortino</author>
+<author orcid="0000-0003-2608-4807" pid="71/2226">Guilherme P. Telles</author>
+<title>Inducing the Lyndon Array.</title>
+<pages>138-151</pages>
+<year>2019</year>
+<booktitle>SPIRE</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-32686-9_10</ee>
+<crossref>conf/spire/2019</crossref>
+<url>db/conf/spire/spire2019.html#LouzaMMST19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spire/EgidiLM19" mdate="2020-07-10">
+<author orcid="0000-0002-9745-0942" pid="50/63">Lavinia Egidi</author>
+<author orcid="0000-0003-2931-1470" pid="30/9961">Felipe A. Louza</author>
+<author orcid="0000-0002-5047-0196" pid="63/1086">Giovanni Manzini</author>
+<title>Space-Efficient Merging of Succinct de Bruijn Graphs.</title>
+<pages>337-351</pages>
+<year>2019</year>
+<booktitle>SPIRE</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-32686-9_24</ee>
+<crossref>conf/spire/2019</crossref>
+<url>db/conf/spire/spire2019.html#EgidiLM19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-02889" mdate="2020-07-10">
+<author pid="50/63">Lavinia Egidi</author>
+<author pid="30/9961">Felipe A. Louza</author>
+<author pid="63/1086">Giovanni Manzini</author>
+<title>Space-efficient merging of succinct de Bruijn graphs.</title>
+<year>2019</year>
+<volume>abs/1902.02889</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.02889</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-02889</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-10583" mdate="2023-03-10">
+<author pid="30/9961">Felipe A. Louza</author>
+<author pid="71/2226">Guilherme P. Telles</author>
+<author pid="34/1099">Simon Gog</author>
+<author pid="63/5422-1">Liang Zhao 0001</author>
+<title>Algorithms to compute the Burrows-Wheeler Similarity Distribution.</title>
+<year>2019</year>
+<volume>abs/1903.10583</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.10583</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-10583</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-12987" mdate="2020-07-10">
+<author pid="30/9961">Felipe A. Louza</author>
+<author pid="22/337">Sabrina Mantaci</author>
+<author pid="63/1086">Giovanni Manzini</author>
+<author pid="86/6093">Marinella Sciortino</author>
+<author pid="71/2226">Guilherme P. Telles</author>
+<title>Inducing the Lyndon Array.</title>
+<year>2019</year>
+<volume>abs/1905.12987</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.12987</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-12987</url>
+</article>
+</r>
+<r><article key="journals/jda/LouzaSMT18" mdate="2020-07-10">
+<author orcid="0000-0003-2931-1470" pid="30/9961">Felipe A. Louza</author>
+<author pid="s/WilliamFSmyth">William F. Smyth</author>
+<author orcid="0000-0002-5047-0196" pid="63/1086">Giovanni Manzini</author>
+<author pid="71/2226">Guilherme P. Telles</author>
+<title>Lyndon array construction during Burrows-Wheeler inversion.</title>
+<pages>2-9</pages>
+<year>2018</year>
+<volume>50</volume>
+<journal>J. Discrete Algorithms</journal>
+<ee>https://doi.org/10.1016/j.jda.2018.08.001</ee>
+<url>db/journals/jda/jda50.html#LouzaSMT18</url>
+</article>
+</r>
+<r><inproceedings key="conf/dcc/NunesLGAN18" mdate="2024-02-28">
+<author pid="142/2164">Daniel Saad Nogueira Nunes</author>
+<author orcid="0000-0003-2931-1470" pid="30/9961">Felipe A. Louza</author>
+<author pid="34/1099">Simon Gog</author>
+<author orcid="0000-0003-0089-3905" pid="56/538">Mauricio Ayala-Rinc&#243;n</author>
+<author pid="n/GonzaloNavarro">Gonzalo Navarro 0001</author>
+<title>A Grammar Compression Algorithm Based on Induced Suffix Sorting.</title>
+<pages>42-51</pages>
+<year>2018</year>
+<booktitle>DCC</booktitle>
+<ee>https://doi.org/10.1109/DCC.2018.00012</ee>
+<crossref>conf/dcc/2018</crossref>
+<url>db/conf/dcc/dcc2018.html#NunesLGAN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spire/LouzaTGZ18" mdate="2023-03-10">
+<author orcid="0000-0003-2931-1470" pid="30/9961">Felipe A. Louza</author>
+<author pid="71/2226">Guilherme P. Telles</author>
+<author pid="34/1099">Simon Gog</author>
+<author pid="63/5422-1">Liang Zhao 0001</author>
+<title>Computing Burrows-Wheeler Similarity Distributions for String Collections.</title>
+<pages>285-296</pages>
+<year>2018</year>
+<booktitle>SPIRE</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-00479-8_23</ee>
+<crossref>conf/spire/2018</crossref>
+<url>db/conf/spire/spire2018.html#LouzaTGZ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wabi/EgidiLMT18" mdate="2020-09-05">
+<author orcid="0000-0002-9745-0942" pid="50/63">Lavinia Egidi</author>
+<author orcid="0000-0003-2931-1470" pid="30/9961">Felipe A. Louza</author>
+<author orcid="0000-0002-5047-0196" pid="63/1086">Giovanni Manzini</author>
+<author pid="71/2226">Guilherme P. Telles</author>
+<title>External memory BWT and LCP computation for sequence collections with applications.</title>
+<pages>10:1-10:14</pages>
+<year>2018</year>
+<booktitle>WABI</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.WABI.2018.10</ee>
+<crossref>conf/wabi/2018</crossref>
+<url>db/conf/wabi/wabi2018.html#EgidiLMT18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-06821" mdate="2020-07-10">
+<author pid="50/63">Lavinia Egidi</author>
+<author pid="30/9961">Felipe A. Louza</author>
+<author pid="63/1086">Giovanni Manzini</author>
+<author pid="71/2226">Guilherme P. Telles</author>
+<title>External memory BWT and LCP computation for sequence collections with applications.</title>
+<year>2018</year>
+<volume>abs/1805.06821</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.06821</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-06821</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-09094" mdate="2020-07-10">
+<author pid="30/9961">Felipe A. Louza</author>
+<title>A Simple Algorithm for Computing the Document Array.</title>
+<year>2018</year>
+<volume>abs/1812.09094</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.09094</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-09094</url>
+</article>
+</r>
+<r><phdthesis key="phd/br/LouzaFA17" mdate="2020-10-05">
+<author pid="30/9961">Felipe Alves da Louza</author>
+<title>Engineering augmented suffix sorting algorithms.</title>
+<year>2017</year>
+<school>University of Campinas, Brazil</school>
+<ee>http://repositorio.unicamp.br/jspui/handle/REPOSIP/325682</ee>
+</phdthesis>
+</r>
+<r><article key="journals/almob/LouzaTHC17" mdate="2020-07-10">
+<author orcid="0000-0003-2931-1470" pid="30/9961">Felipe A. Louza</author>
+<author pid="71/2226">Guilherme P. Telles</author>
+<author pid="11/2388">Steve Hoffmann</author>
+<author pid="13/4069">Cristina Dutra de Aguiar Ciferri</author>
+<title>Generalized enhanced suffix array construction in external memory.</title>
+<pages>26:1-26:16</pages>
+<year>2017</year>
+<volume>12</volume>
+<journal>Algorithms Mol. Biol.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s13015-017-0117-9</ee>
+<ee>https://www.wikidata.org/entity/Q47094270</ee>
+<url>db/journals/almob/almob12.html#LouzaTHC17</url>
+</article>
+</r>
+<r><article key="journals/ipl/LouzaGT17" mdate="2020-07-10">
+<author orcid="0000-0003-2931-1470" pid="30/9961">Felipe A. Louza</author>
+<author pid="34/1099">Simon Gog</author>
+<author pid="71/2226">Guilherme P. Telles</author>
+<title>Optimal suffix sorting and LCP array construction for constant alphabets.</title>
+<pages>30-34</pages>
+<year>2017</year>
+<volume>118</volume>
+<journal>Inf. Process. Lett.</journal>
+<ee>https://doi.org/10.1016/j.ipl.2016.09.010</ee>
+<url>db/journals/ipl/ipl118.html#LouzaGT17</url>
+</article>
+</r>
+<r><article key="journals/jda/LouzaGT17" mdate="2021-07-25">
+<author orcid="0000-0003-2931-1470" pid="30/9961">Felipe A. Louza</author>
+<author orcid="0000-0003-3689-327X" pid="00/3487">Travis Gagie</author>
+<author pid="71/2226">Guilherme P. Telles</author>
+<title>Burrows-Wheeler transform and LCP array construction in constant space.</title>
+<pages>14-22</pages>
+<year>2017</year>
+<volume>42</volume>
+<journal>J. Discrete Algorithms</journal>
+<ee>https://doi.org/10.1016/j.jda.2016.11.003</ee>
+<url>db/journals/jda/jda42.html#LouzaGT17</url>
+</article>
+</r>
+<r><article key="journals/tcs/LouzaGT17" mdate="2020-07-10">
+<author orcid="0000-0003-2931-1470" pid="30/9961">Felipe A. Louza</author>
+<author pid="34/1099">Simon Gog</author>
+<author pid="71/2226">Guilherme P. Telles</author>
+<title>Inducing enhanced suffix arrays for string collections.</title>
+<pages>22-39</pages>
+<year>2017</year>
+<volume>678</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2017.03.039</ee>
+<url>db/journals/tcs/tcs678.html#LouzaGT17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-10105" mdate="2020-07-10">
+<author pid="30/9961">Felipe A. Louza</author>
+<author pid="s/WilliamFSmyth">W. F. Smyth</author>
+<author pid="63/1086">Giovanni Manzini</author>
+<author pid="71/2226">Guilherme P. Telles</author>
+<title>Lyndon Array Construction during Burrows-Wheeler Inversion.</title>
+<year>2017</year>
+<volume>abs/1710.10105</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.10105</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-10105</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-03205" mdate="2024-02-28">
+<author pid="142/2164">Daniel Saad Nogueira Nunes</author>
+<author pid="30/9961">Felipe A. Louza</author>
+<author pid="34/1099">Simon Gog</author>
+<author pid="56/538">Mauricio Ayala-Rinc&#243;n</author>
+<author pid="n/GonzaloNavarro">Gonzalo Navarro 0001</author>
+<title>A Grammar Compression Algorithm based on Induced Suffix Sorting.</title>
+<year>2017</year>
+<volume>abs/1711.03205</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.03205</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-03205</url>
+</article>
+</r>
+<r><article key="journals/jda/TustumiGTL16" mdate="2021-02-16">
+<author orcid="0000-0002-6275-1614" pid="182/3674">William H. A. Tustumi</author>
+<author pid="34/1099">Simon Gog</author>
+<author pid="71/2226">Guilherme P. Telles</author>
+<author orcid="0000-0003-2931-1470" pid="30/9961">Felipe A. Louza</author>
+<title>An improved algorithm for the all-pairs suffix-prefix problem.</title>
+<pages>34-43</pages>
+<year>2016</year>
+<volume>37</volume>
+<journal>J. Discrete Algorithms</journal>
+<ee type="oa">https://doi.org/10.1016/j.jda.2016.04.002</ee>
+<url>db/journals/jda/jda37.html#TustumiGTL16</url>
+</article>
+</r>
+<r><inproceedings key="conf/dcc/LouzaGT16" mdate="2020-07-10">
+<author orcid="0000-0003-2931-1470" pid="30/9961">Felipe A. Louza</author>
+<author pid="34/1099">Simon Gog</author>
+<author pid="71/2226">Guilherme P. Telles</author>
+<title>Induced Suffix Sorting for String Collections.</title>
+<pages>43-52</pages>
+<year>2016</year>
+<booktitle>DCC</booktitle>
+<ee>https://doi.org/10.1109/DCC.2016.27</ee>
+<crossref>conf/dcc/2016</crossref>
+<url>db/conf/dcc/dcc2016.html#LouzaGT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spire/LouzaGZAT16" mdate="2020-07-10">
+<author orcid="0000-0003-2931-1470" pid="30/9961">Felipe A. Louza</author>
+<author pid="34/1099">Simon Gog</author>
+<author orcid="0000-0003-1335-4812" pid="186/0916">Leandro Zanotto</author>
+<author pid="a/GuidoAraujo">Guido Araujo</author>
+<author pid="71/2226">Guilherme P. Telles</author>
+<title>Parallel Computation for the All-Pairs Suffix-Prefix Problem.</title>
+<pages>122-132</pages>
+<year>2016</year>
+<booktitle>SPIRE</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-46049-9_12</ee>
+<crossref>conf/spire/2016</crossref>
+<url>db/conf/spire/spire2016.html#LouzaGZAT16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/LouzaGT16" mdate="2020-07-10">
+<author pid="30/9961">Felipe A. Louza</author>
+<author pid="00/3487">Travis Gagie</author>
+<author pid="71/2226">Guilherme P. Telles</author>
+<title>Burrows-Wheeler transform and LCP array construction in constant space.</title>
+<year>2016</year>
+<volume>abs/1611.08198</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.08198</ee>
+<url>db/journals/corr/corr1611.html#LouzaGT16</url>
+</article>
+</r>
+<r><inproceedings key="conf/iwoca/LouzaT15" mdate="2020-07-10">
+<author orcid="0000-0003-2931-1470" pid="30/9961">Felipe A. Louza</author>
+<author pid="71/2226">Guilherme P. Telles</author>
+<title>Computing the BWT and the LCP Array in Constant Space.</title>
+<pages>312-320</pages>
+<year>2015</year>
+<booktitle>IWOCA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-29516-9_26</ee>
+<crossref>conf/iwoca/2015</crossref>
+<url>db/conf/iwoca/iwoca2015.html#LouzaT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cpm/LouzaTC13" mdate="2020-07-10">
+<author orcid="0000-0003-2931-1470" pid="30/9961">Felipe A. Louza</author>
+<author pid="71/2226">Guilherme P. Telles</author>
+<author pid="13/4069">Cristina Dutra de Aguiar Ciferri</author>
+<title>External Memory Generalized Suffix and LCP Arrays Construction.</title>
+<pages>201-210</pages>
+<year>2013</year>
+<booktitle>CPM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-38905-4_20</ee>
+<crossref>conf/cpm/2013</crossref>
+<url>db/conf/cpm/cpm2013.html#LouzaTC13</url>
+</inproceedings>
+</r>
+<r><article key="journals/jidm/ChinoLTCT12" mdate="2021-11-30">
+<author pid="119/6740">Daniel Yoshinobu Takada Chino</author>
+<author pid="30/9961">Felipe Alves Louza</author>
+<author pid="t/AgmaJMTraina">Agma Juci Machado Traina</author>
+<author pid="13/4069">Cristina Dutra de Aguiar Ciferri</author>
+<author pid="t/CaetanoTrainaJr">Caetano Traina Jr.</author>
+<title>Time Series Indexing Taking Advantage of the Generalized Suffix Tree.</title>
+<pages>101-109</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>2</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1439</ee>
+<url>db/journals/jidm/jidm3.html#ChinoLTCT12</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbbd/ChinoLTCT11" mdate="2022-03-07">
+<author pid="119/6740">Daniel Yoshinobu Takada Chino</author>
+<author pid="30/9961">Felipe Alves Louza</author>
+<author pid="t/AgmaJMTraina">Agma Juci Machado Traina</author>
+<author pid="13/4069">Cristina Dutra de Aguiar Ciferri</author>
+<author pid="t/CaetanoTrainaJr">Caetano Traina Jr.</author>
+<title>Telesto: Indexa&#231;&#227;o de S&#233;ries Temporais por Meio de &#193;rvores de Sufixo Generalizadas.</title>
+<pages>41-48</pages>
+<year>2011</year>
+<booktitle>SBBD (Short Papers)</booktitle>
+<ee type="archive">http://www.lbd.dcc.ufmg.br/colecoes/sbbd/2011/005.pdf</ee>
+<crossref>conf/sbbd/2011s</crossref>
+<url>db/conf/sbbd/sbbd2011s.html#ChinoLTCT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wob/LouzaCC11" mdate="2020-07-10">
+<author orcid="0000-0003-2931-1470" pid="30/9961">Felipe Alves da Louza</author>
+<author pid="58/1079">Ricardo Rodrigues Ciferri</author>
+<author pid="13/4069">Cristina Dutra de Aguiar Ciferri</author>
+<title>Efficiently Querying Protein Sequences with the Proteinus Index.</title>
+<pages>58-65</pages>
+<year>2011</year>
+<booktitle>BSB</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-22825-4_8</ee>
+<crossref>conf/wob/2011</crossref>
+<url>db/conf/wob/bsb2011.html#LouzaCC11</url>
+</inproceedings>
+</r>
+<coauthors n="29" nc="1">
+<co c="0" n="2"><na f="a/Albertini:Marcelo_Keese" pid="61/6050">Marcelo Keese Albertini</na><na>Marcelo K. Albertini</na></co>
+<co c="0"><na f="a/Araujo:Guido" pid="a/GuidoAraujo">Guido Araujo</na></co>
+<co c="0"><na f="a/Ayala=Rinc=oacute=n:Mauricio" pid="56/538">Mauricio Ayala-Rinc&#243;n</na></co>
+<co c="0" n="2"><na f="c/Chino:Daniel_Y=_T=" pid="119/6740">Daniel Y. T. Chino</na><na>Daniel Yoshinobu Takada Chino</na></co>
+<co c="0"><na f="c/Ciferri:Cristina_Dutra_de_Aguiar" pid="13/4069">Cristina Dutra de Aguiar Ciferri</na></co>
+<co c="0"><na f="c/Ciferri:Ricardo_Rodrigues" pid="58/1079">Ricardo Rodrigues Ciferri</na></co>
+<co c="0"><na f="e/Egidi:Lavinia" pid="50/63">Lavinia Egidi</na></co>
+<co c="0"><na f="g/Gagie:Travis" pid="00/3487">Travis Gagie</na></co>
+<co c="0"><na f="g/Gog:Simon" pid="34/1099">Simon Gog</na></co>
+<co c="0"><na f="g/Guerrini:Veronica" pid="150/4999">Veronica Guerrini</na></co>
+<co c="0"><na f="h/Hoffmann:Steve" pid="11/2388">Steve Hoffmann</na></co>
+<co c="0"><na f="m/Mantaci:Sabrina" pid="22/337">Sabrina Mantaci</na></co>
+<co c="0"><na f="m/Manzini:Giovanni" pid="63/1086">Giovanni Manzini</na></co>
+<co c="0"><na f="m/Mhaskar:Neerja" pid="158/8480">Neerja Mhaskar</na></co>
+<co c="0"><na f="n/Navarro_0001:Gonzalo" pid="n/GonzaloNavarro">Gonzalo Navarro 0001</na></co>
+<co c="0"><na f="n/Nunes:Daniel_Saad_Nogueira" pid="142/2164">Daniel Saad Nogueira Nunes</na></co>
+<co c="0"><na f="p/Prezza:Nicola" pid="121/1143">Nicola Prezza</na></co>
+<co c="0"><na f="r/Ramos:Lucas_P=" pid="269/4051">Lucas P. Ramos</na></co>
+<co c="0"><na f="r/Razente:Humberto_Luiz" pid="86/470">Humberto Luiz Razente</na></co>
+<co c="0"><na f="r/Rosa:Frederico_R=" pid="359/0412">Frederico R. Rosa</na></co>
+<co c="0"><na f="r/Rosone:Giovanna" pid="14/4683">Giovanna Rosone</na></co>
+<co c="0"><na f="s/Sciortino:Marinella" pid="86/6093">Marinella Sciortino</na></co>
+<co c="0" n="2"><na f="s/Smyth:William_F=" pid="s/WilliamFSmyth">William F. Smyth</na><na>W. F. Smyth</na></co>
+<co c="0"><na f="t/Telles:Guilherme_P=" pid="71/2226">Guilherme P. Telles</na></co>
+<co c="0" n="2"><na f="t/Traina:Agma_J=_M=" pid="t/AgmaJMTraina">Agma J. M. Traina</na><na>Agma Juci Machado Traina</na></co>
+<co c="0"><na f="t/Traina_Jr=:Caetano" pid="t/CaetanoTrainaJr">Caetano Traina Jr.</na></co>
+<co c="0"><na f="t/Tustumi:William_H=_A=" pid="182/3674">William H. A. Tustumi</na></co>
+<co c="0"><na f="z/Zanotto:Leandro" pid="186/0916">Leandro Zanotto</na></co>
+<co c="0"><na f="z/Zhao_0001:Liang" pid="63/5422-1">Liang Zhao 0001</na></co>
+</coauthors>
+</dblpperson>
+

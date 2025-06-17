@@ -1,0 +1,393 @@
+<?xml version="1.0"?>
+<dblpperson name="Luiz Eduardo Buzato" pid="02/1987" n="28">
+<person key="homepages/02/1987" mdate="2009-06-09">
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+</person>
+<r><article publtype="informal" key="journals/corr/GarciaVB17" mdate="2018-08-13">
+<author pid="28/3853">Islene C. Garcia</author>
+<author pid="33/238">Gustavo M. D. Vieira</author>
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<title>A Rollback in the History of Communication-Induced Checkpointing.</title>
+<year>2017</year>
+<volume>abs/1702.06167</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1702.06167</ee>
+<url>db/journals/corr/corr1702.html#GarciaVB17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-07845" mdate="2018-08-13">
+<author pid="33/238">Gustavo M. D. Vieira</author>
+<author pid="28/3853">Islene C. Garcia</author>
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<title>Seamless Paxos Coordinators.</title>
+<year>2017</year>
+<volume>abs/1710.07845</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.07845</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-07845</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-08047" mdate="2018-08-13">
+<author pid="33/238">Gustavo M. D. Vieira</author>
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<title>On the Coordinator's Rule for Fast Paxos.</title>
+<year>2017</year>
+<volume>abs/1710.08047</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.08047</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-08047</url>
+</article>
+</r>
+<r><article key="journals/jnsm/NakaiMB15" mdate="2023-03-21">
+<author pid="53/2651">Alan Massaru Nakai</author>
+<author orcid="0000-0002-1180-2637" pid="m/EdmundoRobertoMauroMadeira">Edmundo Roberto Mauro Madeira</author>
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<title>On the Use of Resource Reservation for Web Services Load Balancing.</title>
+<pages>502-538</pages>
+<year>2015</year>
+<volume>23</volume>
+<journal>J. Netw. Syst. Manag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10922-014-9303-y</ee>
+<url>db/journals/jnsm/jnsm23.html#NakaiMB15</url>
+</article>
+</r>
+<r><article key="journals/jpdc/CasonB15" mdate="2020-02-22">
+<author orcid="0000-0003-1598-106X" pid="160/1777">Daniel Cason</author>
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<title>Time hybrid total order broadcast: Exploiting the inherent synchrony of broadcast networks.</title>
+<pages>26-40</pages>
+<year>2015</year>
+<volume>77</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<ee>https://doi.org/10.1016/j.jpdc.2014.10.012</ee>
+<url>db/journals/jpdc/jpdc77.html#CasonB15</url>
+</article>
+</r>
+<r><inproceedings key="conf/srds/CasonMBP15" mdate="2023-03-24">
+<author pid="160/1777">Daniel Cason</author>
+<author pid="06/3627">Parisa Jalili Marandi</author>
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<author orcid="0000-0002-2256-0901" pid="90/2612">Fernando Pedone</author>
+<title>Chasing the Tail of Atomic Broadcast Protocols.</title>
+<pages>286-295</pages>
+<year>2015</year>
+<booktitle>SRDS</booktitle>
+<ee>https://doi.org/10.1109/SRDS.2015.28</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SRDS.2015.28</ee>
+<crossref>conf/srds/2015</crossref>
+<url>db/conf/srds/srds2015.html#CasonMBP15</url>
+</inproceedings>
+</r>
+<r><article key="journals/cluster/VieiraGB14" mdate="2021-10-14">
+<author orcid="0000-0002-9209-7764" pid="33/238">Gustavo M. D. Vieira</author>
+<author orcid="0000-0002-6023-5982" pid="28/3853">Islene C. Garcia</author>
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<title>Seamless Paxos coordinators.</title>
+<pages>463-473</pages>
+<year>2014</year>
+<volume>17</volume>
+<journal>Clust. Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10586-013-0264-9</ee>
+<url>db/journals/cluster/cluster17.html#VieiraGB14</url>
+</article>
+</r>
+<r><inproceedings key="conf/hipc/PereiraBAB13" mdate="2024-01-09">
+<author pid="144/4917">M&#225;rcio Machado Pereira</author>
+<author orcid="0000-0001-8824-3055" pid="22/3545">Alexandro Baldassin</author>
+<author pid="a/GuidoAraujo">Guido Araujo</author>
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<title>Transaction scheduling using conflict avoidance and Contention Intensity.</title>
+<pages>236-245</pages>
+<year>2013</year>
+<booktitle>HiPC</booktitle>
+<ee>https://doi.org/10.1109/HiPC.2013.6799126</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/HiPC.2013.6799126</ee>
+<crossref>conf/hipc/2013</crossref>
+<url>db/conf/hipc/hipc2013.html#PereiraBAB13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/VieiraB13" mdate="2018-08-13">
+<author pid="33/238">Gustavo M. D. Vieira</author>
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<title>The Performance of Paxos and Fast Paxos.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1308.1358</ee>
+<volume>abs/1308.1358</volume>
+<url>db/journals/corr/corr1308.html#VieiraB13</url>
+</article>
+</r>
+<r><article key="journals/jbcs/BuzatoDK12" mdate="2022-01-24">
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<author pid="02/3940">Elias P. Duarte Jr.</author>
+<author pid="k/MohamedKaaniche">Mohamed Ka&#226;niche</author>
+<title>Message from the special issue editors.</title>
+<pages>1-2</pages>
+<year>2012</year>
+<volume>18</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s13173-012-0056-8</ee>
+<url>db/journals/jbcs/jbcs18.html#BuzatoDK12</url>
+</article>
+</r>
+<r><inproceedings key="conf/ladc/NakaiMB11" mdate="2024-04-25">
+<author pid="53/2651">Alan Massaru Nakai</author>
+<author orcid="0000-0002-1180-2637" pid="m/EdmundoRobertoMauroMadeira">Edmundo Roberto Mauro Madeira</author>
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<title>Load Balancing for Internet Distributed Services Using Limited Redirection Rates.</title>
+<pages>156-165</pages>
+<year>2011</year>
+<booktitle>LADC</booktitle>
+<ee>https://doi.org/10.1109/LADC.2011.25</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LADC.2011.25</ee>
+<ee>https://orkg.org/orkg/resource/R34670</ee>
+<crossref>conf/ladc/2011</crossref>
+<url>db/conf/ladc/ladc2011.html#NakaiMB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/NakaiMB10" mdate="2011-01-04">
+<author pid="53/2651">Alan Massaru Nakai</author>
+<author pid="m/EdmundoRobertoMauroMadeira">Edmundo Roberto Mauro Madeira</author>
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<title>DNS-based Load Balancing for Web Services.</title>
+<pages>95-100</pages>
+<year>2010</year>
+<booktitle>WEBIST (1)</booktitle>
+<crossref>conf/webist/2010-1</crossref>
+<url>db/conf/webist/webist2010-1.html#NakaiMB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsn/BuzatoVZ09" mdate="2023-03-24">
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<author orcid="0000-0002-9209-7764" pid="33/238">Gustavo M. D. Vieira</author>
+<author pid="z/WZwaenepoel">Willy Zwaenepoel</author>
+<title>Dynamic content web applications: Crash, failover, and recovery analysis.</title>
+<pages>229-238</pages>
+<year>2009</year>
+<booktitle>DSN</booktitle>
+<ee>https://doi.org/10.1109/DSN.2009.5270331</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DSN.2009.5270331</ee>
+<crossref>conf/dsn/2009</crossref>
+<url>db/conf/dsn/dsn2009.html#BuzatoVZ09</url>
+</inproceedings>
+</r>
+<r><article key="journals/ipl/VieiraB08" mdate="2017-06-06">
+<author orcid="0000-0002-9209-7764" pid="33/238">Gustavo M. D. Vieira</author>
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<title>On the coordinator's rule for Fast Paxos.</title>
+<pages>183-187</pages>
+<year>2008</year>
+<volume>107</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/j.ipl.2008.03.001</ee>
+<url>db/journals/ipl/ipl107.html#VieiraB08</url>
+</article>
+</r>
+<r><inproceedings key="conf/webist/SuprianoVB08" mdate="2010-03-08">
+<author pid="69/668">Anderson Supriano</author>
+<author pid="33/238">Gustavo M. D. Vieira</author>
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<title>Evaluation of a Read-Optimized Database for Dynamic Web Applications.</title>
+<pages>73-81</pages>
+<year>2008</year>
+<booktitle>WEBIST (1)</booktitle>
+<crossref>conf/webist/2008-1</crossref>
+<url>db/conf/webist/webist2008-1.html#SuprianoVB08</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/CicerreMB06" mdate="2023-03-21">
+<author pid="56/6860">F&#225;bio Rodrigo de Lima Cicerre</author>
+<author orcid="0000-0002-1180-2637" pid="m/EdmundoRobertoMauroMadeira">Edmundo Roberto Mauro Madeira</author>
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<title>Structured process execution middleware for Grid computing.</title>
+<pages>581-594</pages>
+<year>2006</year>
+<volume>18</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/cpe.967</ee>
+<url>db/journals/concurrency/concurrency18.html#CicerreMB06</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdcs/SchmidtGPB05" mdate="2023-03-24">
+<author pid="s/RodrigoSchmidt">Rodrigo Schmidt</author>
+<author pid="28/3853">Islene C. Garcia</author>
+<author pid="90/2612">Fernando Pedone</author>
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<title>Optimal Asynchronous Garbage Collection for RDT Checkpointing Protocols.</title>
+<pages>167-176</pages>
+<year>2005</year>
+<crossref>conf/icdcs/2005</crossref>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS.2005.58</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDCS.2005.58</ee>
+<url>db/conf/icdcs/icdcs2005.html#SchmidtGPB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/CicerreMB04" mdate="2023-03-21">
+<author pid="56/6860">F&#225;bio Rodrigo de Lima Cicerre</author>
+<author orcid="0000-0002-1180-2637" pid="m/EdmundoRobertoMauroMadeira">Edmundo Roberto Mauro Madeira</author>
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<title>A hierarchical process execution support for grid computing.</title>
+<pages>87-92</pages>
+<year>2004</year>
+<crossref>conf/middleware/2004w1</crossref>
+<booktitle>Middleware for Grid Computing</booktitle>
+<ee>https://doi.org/10.1145/1028493.1028508</ee>
+<url>db/conf/middleware/middleware2004-w1.html#CicerreMB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/SchmidtGPB04" mdate="2018-11-06">
+<author pid="s/RodrigoSchmidt">Rodrigo Schmidt</author>
+<author pid="28/3853">Islene C. Garcia</author>
+<author pid="90/2612">Fernando Pedone</author>
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<title>Brief announcement: optimal asynchronous garbage collection for checkpointing protocols with rollback-dependency trackability.</title>
+<pages>392</pages>
+<year>2004</year>
+<crossref>conf/podc/2004</crossref>
+<booktitle>PODC</booktitle>
+<ee>https://doi.org/10.1145/1011767.1011854</ee>
+<url>db/conf/podc/podc2004.html#SchmidtGPB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/GarciaB04" mdate="2023-03-24">
+<author orcid="0000-0002-6023-5982" pid="28/3853">Islene C. Garcia</author>
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<title>An Efficient Checkpointing Protocol for the Minimal Characterization of Operational Rollback-Dependency Trackability.</title>
+<pages>126-135</pages>
+<year>2004</year>
+<crossref>conf/srds/2004</crossref>
+<booktitle>SRDS</booktitle>
+<ee>https://doi.org/10.1109/RELDIS.2004.1353013</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RELDIS.2004.1353013</ee>
+<url>db/conf/srds/srds2004.html#GarciaB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/GarciaB01" mdate="2023-03-24">
+<author pid="28/3853">Islene C. Garcia</author>
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<title>On the Minimal Characterization of the Rollback-Dependency Trackability Property.</title>
+<pages>342-349</pages>
+<year>2001</year>
+<crossref>conf/icdcs/2001</crossref>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDSC.2001.918964</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDSC.2001.918964</ee>
+<url>db/conf/icdcs/icdcs2001.html#GarciaB01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coots/OlivaB99" mdate="2021-02-02">
+<author pid="86/3434">Alexandre Oliva</author>
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<title>The Design and Implementation of Guaran&#225;.</title>
+<pages>203-216</pages>
+<year>1999</year>
+<crossref>conf/coots/1999</crossref>
+<booktitle>COOTS</booktitle>
+<ee type="oa">http://www.usenix.org/publications/library/proceedings/coots99/oliva.html</ee>
+<url>db/conf/coots/coots1999.html#OlivaB99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/GarciaB99" mdate="2023-03-24">
+<author pid="28/3853">Islene C. Garcia</author>
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<title>Progressive Construction of Consistent Global Checkpoints.</title>
+<pages>55-62</pages>
+<year>1999</year>
+<crossref>conf/icdcs/1999</crossref>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS.1999.776506</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDCS.1999.776506</ee>
+<url>db/conf/icdcs/icdcs99.html#GarciaB99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cds/GarciaB98" mdate="2023-03-23">
+<author pid="28/3853">Islene Calciolari Garcia</author>
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<title>Asynchronous construction of consistent global snapshots in the Object and Action Model.</title>
+<pages>215-223</pages>
+<year>1998</year>
+<booktitle>CDS</booktitle>
+<ee>https://doi.org/10.1109/CDS.1998.675776</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CDS.1998.675776</ee>
+<crossref>conf/cds/1998</crossref>
+<url>db/conf/cds/cds1998.html#GarciaB98</url>
+</inproceedings>
+</r>
+<r><article key="journals/jbcs/BuzatoRL97" mdate="2020-05-20">
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<author pid="80/5752">Cec&#237;lia M. F. Rubira</author>
+<author pid="12/5243">Maria L&#250;cia Blanck Lisb&#244;a</author>
+<title>A Reflective Object-Oriented Architecture for Developing Fault-Tolerant Software.</title>
+<year>1997</year>
+<volume>4</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>2</number>
+<url>db/journals/jbcs/jbcs4.html#BuzatoRL97</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbes/CoelhoRB97" mdate="2024-01-16">
+<author pid="365/5061">Mar&#237;lia G. Coelho</author>
+<author pid="80/5752">Cec&#237;lia M. F. Rubira</author>
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<title>Uma Abordagem Reflexiva para a Constru&#231;&#227;o de Frameworks para Interfaces Homem-Computador.</title>
+<pages>115-130</pages>
+<year>1997</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.1997.24044</ee>
+<crossref>conf/sbes/1997</crossref>
+<url>db/conf/sbes/sbes1997.html#CoelhoRB97</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ethos/Buzato94" mdate="2022-05-04">
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<title>Management of object-oriented action-based distributed programs.</title>
+<year>1994</year>
+<school>Newcastle University, Newcastle upon Tyne, UK</school>
+<ee>https://hdl.handle.net/10443/1972</ee>
+<ee>https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.238811</ee>
+<note type="source">British Library, EThOS</note>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/pos/BuzatoC92" mdate="2014-02-10">
+<author pid="02/1987">Luiz Eduardo Buzato</author>
+<author pid="84/4179">A. Calsavara</author>
+<title>Stabilis: A Case Study in Writing Fault-Tolerant Distributed Applications Using Persistent Objects.</title>
+<pages>354-375</pages>
+<year>1992</year>
+<crossref>conf/pos/1992</crossref>
+<booktitle>POS</booktitle>
+<url>db/conf/pos/pos92.html#BuzatoC92</url>
+<cdrom>POS/1992/P354.pdf</cdrom>
+</inproceedings>
+</r>
+<coauthors n="21" nc="3">
+<co c="1"><na f="a/Araujo:Guido" pid="a/GuidoAraujo">Guido Araujo</na></co>
+<co c="1"><na f="b/Baldassin:Alexandro" pid="22/3545">Alexandro Baldassin</na></co>
+<co c="-1"><na f="c/Calsavara:A=" pid="84/4179">A. Calsavara</na></co>
+<co c="0"><na f="c/Cason:Daniel" pid="160/1777">Daniel Cason</na></co>
+<co c="0"><na f="c/Cicerre:F=aacute=bio_Rodrigo_de_Lima" pid="56/6860">F&#225;bio Rodrigo de Lima Cicerre</na></co>
+<co c="2"><na f="c/Coelho:Mar=iacute=lia_G=" pid="365/5061">Mar&#237;lia G. Coelho</na></co>
+<co c="0"><na f="d/Duarte_Jr=:Elias_P=" pid="02/3940">Elias P. Duarte Jr.</na></co>
+<co c="0" n="2"><na f="g/Garcia:Islene_C=" pid="28/3853">Islene C. Garcia</na><na>Islene Calciolari Garcia</na></co>
+<co c="0"><na f="k/Ka=acirc=niche:Mohamed" pid="k/MohamedKaaniche">Mohamed Ka&#226;niche</na></co>
+<co c="2"><na f="l/Lisb=ocirc=a:Maria_L=uacute=cia_Blanck" pid="12/5243">Maria L&#250;cia Blanck Lisb&#244;a</na></co>
+<co c="0"><na f="m/Madeira:Edmundo_Roberto_Mauro" pid="m/EdmundoRobertoMauroMadeira">Edmundo Roberto Mauro Madeira</na></co>
+<co c="0"><na f="m/Marandi:Parisa_Jalili" pid="06/3627">Parisa Jalili Marandi</na></co>
+<co c="0"><na f="n/Nakai:Alan_Massaru" pid="53/2651">Alan Massaru Nakai</na></co>
+<co c="-1"><na f="o/Oliva:Alexandre" pid="86/3434">Alexandre Oliva</na></co>
+<co c="0"><na f="p/Pedone:Fernando" pid="90/2612">Fernando Pedone</na></co>
+<co c="1"><na f="p/Pereira:M=aacute=rcio_Machado" pid="144/4917">M&#225;rcio Machado Pereira</na></co>
+<co c="2"><na f="r/Rubira:Cec=iacute=lia_M=_F=" pid="80/5752">Cec&#237;lia M. F. Rubira</na></co>
+<co c="0"><na f="s/Schmidt:Rodrigo" pid="s/RodrigoSchmidt">Rodrigo Schmidt</na></co>
+<co c="0"><na f="s/Supriano:Anderson" pid="69/668">Anderson Supriano</na></co>
+<co c="0"><na f="v/Vieira:Gustavo_M=_D=" pid="33/238">Gustavo M. D. Vieira</na></co>
+<co c="0"><na f="z/Zwaenepoel:Willy" pid="z/WZwaenepoel">Willy Zwaenepoel</na></co>
+</coauthors>
+</dblpperson>
+

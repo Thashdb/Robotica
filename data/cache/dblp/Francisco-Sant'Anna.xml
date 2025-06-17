@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<dblpperson name="Francisco Sant'Anna" pid="16/7375" n="17">
+<person key="homepages/16/7375" mdate="2009-09-23">
+<author pid="16/7375">Francisco Sant'Anna</author>
+</person>
+<r><article key="journals/vlc/SantAnnaM22" mdate="2023-03-21">
+<author pid="16/7375">Francisco Sant'Anna</author>
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Queiroz de Medeiros</author>
+<title>Selected and extended papers of the Brazilian Symposium on Programming Languages 2019-2020 (SBLP 2019-2020).</title>
+<pages>101092</pages>
+<year>2022</year>
+<volume>69</volume>
+<journal>J. Comput. Lang.</journal>
+<ee>https://doi.org/10.1016/j.cola.2022.101092</ee>
+<url>db/journals/vlc/vlc69.html#SantAnnaM22</url>
+</article>
+</r>
+<r><proceedings key="conf/oopsla/2022rebls" mdate="2022-12-05">
+<editor pid="18/2971">Wolfgang De Meuter</editor>
+<editor pid="14/4443">Patrick Eugster</editor>
+<editor pid="14/7915">Guido Salvaneschi</editor>
+<editor pid="16/7375">Francisco Sant'Anna</editor>
+<editor pid="54/645">Lukasz Ziarek</editor>
+<editor pid="188/1945">Pascal Weisenburger</editor>
+<title>Proceedings of the 9th ACM SIGPLAN International Workshop on Reactive and Event-Based Languages and Systems, REBLS 2022, Auckland, New Zealand, 7 December 2022</title>
+<publisher>ACM</publisher>
+<booktitle>REBLS@SPLASH</booktitle>
+<year>2022</year>
+<isbn>978-1-4503-9911-1</isbn>
+<ee>https://doi.org/10.1145/3563837</ee>
+<url>db/conf/oopsla/rebls2022.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/oopsla/SantAnnaSR21" mdate="2025-01-19">
+<author pid="16/7375">Francisco Sant'Anna</author>
+<author pid="123/7975">Rodrigo C. M. Santos</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<title>Symmetric distributed applications.</title>
+<pages>41-50</pages>
+<year>2021</year>
+<booktitle>REBLS@SPLASH</booktitle>
+<ee>https://doi.org/10.1145/3486605.3486786</ee>
+<ee>https://www.wikidata.org/entity/Q130837236</ee>
+<crossref>conf/oopsla/2021rebls</crossref>
+<url>db/conf/oopsla/rebls2021.html#SantAnnaSR21</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsa/LimaSIHS19" mdate="2023-09-30">
+<author orcid="0000-0002-7660-9256" pid="143/5652">Guilherme F. Lima</author>
+<author pid="123/7975">Rodrigo C. M. Santos</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="93/6371">Edward Hermann Haeusler</author>
+<author orcid="0000-0003-2182-4167" pid="16/7375">Francisco Sant'Anna</author>
+<title>A memory-bounded, deterministic and terminating semantics for the synchronous programming language C&#233;u.</title>
+<pages>239-257</pages>
+<year>2019</year>
+<volume>97</volume>
+<journal>J. Syst. Archit.</journal>
+<ee>https://doi.org/10.1016/j.sysarc.2019.01.014</ee>
+<url>db/journals/jsa/jsa97.html#LimaSIHS19</url>
+</article>
+</r>
+<r><proceedings key="conf/oopsla/2019rebls" mdate="2021-10-26">
+<editor pid="14/7915">Guido Salvaneschi</editor>
+<editor pid="18/2971">Wolfgang De Meuter</editor>
+<editor pid="14/4443">Patrick Eugster</editor>
+<editor pid="16/7375">Francisco Sant'Anna</editor>
+<editor pid="54/645">Lukasz Ziarek</editor>
+<editor pid="53/1111">Tetsuo Kamina</editor>
+<editor pid="89/3070">Hidehiko Masuhara</editor>
+<title>Proceedings of the 6th ACM SIGPLAN International Workshop on Reactive and Event-Based Languages and Systems, REBLS@SPLASH 2019, Athens, Greece, October 21, 2019</title>
+<publisher>ACM</publisher>
+<booktitle>SPLASH</booktitle>
+<year>2019</year>
+<isbn>978-1-4503-6986-2</isbn>
+<ee>https://doi.org/10.1145/3358503</ee>
+<url>db/conf/oopsla/rebls2019.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/lctrts/SantosLSIH18" mdate="2023-09-30">
+<author pid="123/7975">Rodrigo C. M. Santos</author>
+<author orcid="0000-0002-7660-9256" pid="143/5652">Guilherme F. Lima</author>
+<author orcid="0000-0003-2182-4167" pid="16/7375">Francisco Sant'Anna</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="93/6371">Edward Hermann Haeusler</author>
+<title>A memory-bounded, deterministic and terminating semantics for the synchronous programming language C&#233;u.</title>
+<pages>1-18</pages>
+<year>2018</year>
+<booktitle>LCTES</booktitle>
+<ee>https://doi.org/10.1145/3211332.3211334</ee>
+<ee>https://doi.org/10.1145/3299710.3211334</ee>
+<crossref>conf/lctrts/2018</crossref>
+<url>db/conf/lctrts/lctes2018.html#SantosLSIH18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lctrts/SantAnnaSMR18" mdate="2025-01-19">
+<author orcid="0000-0003-2182-4167" pid="16/7375">Francisco Sant'Anna</author>
+<author pid="92/4374">Alexandre Sztajnberg</author>
+<author pid="82/6280">Ana L&#250;cia de Moura</author>
+<author pid="220/9145">Noemi Rodrigues</author>
+<title>Transparent standby for low-Power, resource-constrained embedded systems: a programming language-based approach (short WIP paper).</title>
+<pages>94-98</pages>
+<year>2018</year>
+<booktitle>LCTES</booktitle>
+<ee>https://doi.org/10.1145/3211332.3211337</ee>
+<ee>https://doi.org/10.1145/3299710.3211337</ee>
+<ee>https://www.wikidata.org/entity/Q130844608</ee>
+<crossref>conf/lctrts/2018</crossref>
+<url>db/conf/lctrts/lctes2018.html#SantAnnaSMR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbgames/SantAnna18" mdate="2021-10-14">
+<author orcid="0000-0003-2182-4167" pid="16/7375">Francisco Sant'Anna</author>
+<title>Structured Synchronous Reactive Programming for Game Development - Case Study: On Rewriting Pingus from C++ to C&#233;u.</title>
+<pages>240-249</pages>
+<year>2018</year>
+<booktitle>SBGames</booktitle>
+<ee>https://doi.org/10.1109/SBGAMES.2018.00036</ee>
+<crossref>conf/sbgames/2018</crossref>
+<url>db/conf/sbgames/sbgames2018.html#SantAnna18</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/oopsla/2018rebls" mdate="2018-11-21">
+<editor pid="14/7915">Guido Salvaneschi</editor>
+<editor pid="18/2971">Wolfgang De Meuter</editor>
+<editor pid="14/4443">Patrick Eugster</editor>
+<editor pid="54/645">Lukasz Ziarek</editor>
+<editor pid="16/7375">Francisco Sant'Anna</editor>
+<title>Proceedings of the 5th ACM SIGPLAN International Workshop on Reactive and Event-Based Languages and Systems, REBLS@SPLASH 2018, Boston, MA, USA, November 4, 2018</title>
+<publisher>ACM</publisher>
+<booktitle>REBLS@SPLASH</booktitle>
+<year>2018</year>
+<isbn>978-1-4503-6070-8</isbn>
+<ee>https://doi.org/10.1145/3281278</ee>
+<url>db/conf/oopsla/rebls2018.html</url>
+</proceedings>
+</r>
+<r><article key="journals/tecs/SantAnnaIRRB17" mdate="2021-10-14">
+<author orcid="0000-0003-2182-4167" pid="16/7375">Francisco Sant'Anna</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author pid="52/618">Silvana Rossetto</author>
+<author orcid="0000-0002-5200-5212" pid="137/0622">Adriano Branco</author>
+<title>The Design and Implementation of the Synchronous Language C&#201;U.</title>
+<pages>98:1-98:26</pages>
+<year>2017</year>
+<volume>16</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3035544</ee>
+<url>db/journals/tecs/tecs16.html#SantAnnaIRRB17</url>
+</article>
+</r>
+<r><inproceedings key="conf/ism/SantosSMRC16" mdate="2023-07-07">
+<author pid="123/7975">Rodrigo C. M. Santos</author>
+<author pid="16/7375">Francisco Sant'Anna</author>
+<author pid="13/6042">M&#225;rcio Ferreira Moreno</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author pid="165/3587">Renato Cerqueira</author>
+<title>Cognitive Computing Systems in Reactive Multimedia Applications Developed in C&#201;U.</title>
+<pages>661-666</pages>
+<year>2016</year>
+<booktitle>ISM</booktitle>
+<ee>https://doi.org/10.1109/ISM.2016.0141</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISM.2016.0141</ee>
+<crossref>conf/ism/2016</crossref>
+<url>db/conf/ism/ism2016.html#SantosSMRC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/SantosLSR16" mdate="2021-10-14">
+<author pid="123/7975">Rodrigo C. M. Santos</author>
+<author pid="143/5652">Guilherme F. Lima</author>
+<author orcid="0000-0003-2182-4167" pid="16/7375">Francisco Sant'Anna</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<title>C&#201;U-MEDIA: Local Inter-Media Synchronization using C&#201;U.</title>
+<pages>143-150</pages>
+<year>2016</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/2976796.2976856</ee>
+<crossref>conf/webmedia/2016</crossref>
+<url>db/conf/webmedia/webmedia2016.html#SantosLSR16</url>
+</inproceedings>
+</r>
+<r><article key="journals/tosn/BrancoSIRR15" mdate="2021-10-14">
+<author orcid="0000-0002-5200-5212" pid="137/0622">Adriano Branco</author>
+<author orcid="0000-0003-2182-4167" pid="16/7375">Francisco Sant'Anna</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author pid="52/618">Silvana Rossetto</author>
+<title>Terra: Flexibility and Safety in Wireless Sensor Networks.</title>
+<pages>59:1-59:27</pages>
+<year>2015</year>
+<volume>11</volume>
+<journal>ACM Trans. Sens. Networks</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2811267</ee>
+<url>db/journals/tosn/tosn11.html#BrancoSIRR15</url>
+</article>
+</r>
+<r><inproceedings key="conf/aosd/SantAnnaIR15" mdate="2021-10-14">
+<author orcid="0000-0003-2182-4167" pid="16/7375">Francisco Sant'Anna</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<title>Structured synchronous reactive programming with C&#253;u.</title>
+<pages>29-40</pages>
+<year>2015</year>
+<booktitle>MODULARITY</booktitle>
+<ee>https://doi.org/10.1145/2724525.2724571</ee>
+<crossref>conf/aosd/2015</crossref>
+<url>db/conf/aosd/modularity2015.html#SantAnnaIR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/SantAnnaRILT13" mdate="2021-10-14">
+<author orcid="0000-0003-2182-4167" pid="16/7375">Francisco Sant'Anna</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="27/481">Olaf Landsiedel</author>
+<author orcid="0000-0001-9635-9154" pid="t/PhilippasTsigas">Philippas Tsigas</author>
+<title>Safe system-level concurrency on resource-constrained nodes.</title>
+<pages>11:1-11:14</pages>
+<year>2013</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/2517351.2517360</ee>
+<crossref>conf/sensys/2013</crossref>
+<url>db/conf/sensys/sensys2013.html#SantAnnaRILT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/doceng/SoaresMS09" mdate="2021-10-14">
+<author pid="67/6033">Luiz Fernando Gomes Soares</author>
+<author orcid="0000-0002-0030-0885" pid="95/6660">Marcelo Ferreira Moreno</author>
+<author orcid="0000-0003-2182-4167" pid="16/7375">Francisco Sant'Anna</author>
+<title>Relating declarative hypermedia objects and imperative objects through the NCL glue language.</title>
+<pages>222-230</pages>
+<year>2009</year>
+<booktitle>ACM Symposium on Document Engineering</booktitle>
+<ee>https://doi.org/10.1145/1600193.1600243</ee>
+<crossref>conf/doceng/2009</crossref>
+<url>db/conf/doceng/doceng2009.html#SoaresMS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/SantAnnaCS08" mdate="2021-10-14">
+<author orcid="0000-0003-2182-4167" pid="16/7375">Francisco Sant'Anna</author>
+<author pid="165/3587">Renato Cerqueira</author>
+<author pid="67/6033">Luiz Fernando Gomes Soares</author>
+<title>NCLua: objetos imperativos lua na linguagem declarativa NCL.</title>
+<pages>83-90</pages>
+<year>2008</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/1666091.1666107</ee>
+<crossref>conf/webmedia/2008</crossref>
+<url>db/conf/webmedia/webmedia2008.html#SantAnnaCS08</url>
+</inproceedings>
+</r>
+<coauthors n="24" nc="2">
+<co c="0"><na f="b/Branco:Adriano" pid="137/0622">Adriano Branco</na></co>
+<co c="0"><na f="c/Cerqueira:Renato" pid="165/3587">Renato Cerqueira</na></co>
+<co c="1"><na f="e/Eugster:Patrick" pid="14/4443">Patrick Eugster</na></co>
+<co c="0"><na f="h/Haeusler:Edward_Hermann" pid="93/6371">Edward Hermann Haeusler</na></co>
+<co c="0"><na f="i/Ierusalimschy:Roberto" pid="90/4557">Roberto Ierusalimschy</na></co>
+<co c="1"><na f="k/Kamina:Tetsuo" pid="53/1111">Tetsuo Kamina</na></co>
+<co c="0"><na f="l/Landsiedel:Olaf" pid="27/481">Olaf Landsiedel</na></co>
+<co c="0"><na f="l/Lima:Guilherme_F=" pid="143/5652">Guilherme F. Lima</na></co>
+<co c="1"><na f="m/Masuhara:Hidehiko" pid="89/3070">Hidehiko Masuhara</na></co>
+<co c="0" n="2"><na f="m/Medeiros_0001:S=eacute=rgio" pid="64/4850">S&#233;rgio Medeiros 0001</na><na>S&#233;rgio Queiroz de Medeiros</na></co>
+<co c="1"><na f="m/Meuter:Wolfgang_De" pid="18/2971">Wolfgang De Meuter</na></co>
+<co c="0"><na f="m/Moreno:Marcelo_Ferreira" pid="95/6660">Marcelo Ferreira Moreno</na></co>
+<co c="0"><na f="m/Moreno:M=aacute=rcio_Ferreira" pid="13/6042">M&#225;rcio Ferreira Moreno</na></co>
+<co c="0"><na f="m/Moura:Ana_L=uacute=cia_de" pid="82/6280">Ana L&#250;cia de Moura</na></co>
+<co c="0"><na f="r/Rodrigues:Noemi" pid="220/9145">Noemi Rodrigues</na></co>
+<co c="0"><na f="r/Rodriguez:Noemi_de_La_Rocque" pid="95/2066">Noemi de La Rocque Rodriguez</na></co>
+<co c="0"><na f="r/Rossetto:Silvana" pid="52/618">Silvana Rossetto</na></co>
+<co c="1"><na f="s/Salvaneschi:Guido" pid="14/7915">Guido Salvaneschi</na></co>
+<co c="0"><na f="s/Santos:Rodrigo_C=_M=" pid="123/7975">Rodrigo C. M. Santos</na></co>
+<co c="0" n="2"><na f="s/Soares:Luiz_F=_G=" pid="67/6033">Luiz F. G. Soares</na><na>Luiz Fernando Gomes Soares</na></co>
+<co c="0"><na f="s/Sztajnberg:Alexandre" pid="92/4374">Alexandre Sztajnberg</na></co>
+<co c="0"><na f="t/Tsigas:Philippas" pid="t/PhilippasTsigas">Philippas Tsigas</na></co>
+<co c="1"><na f="w/Weisenburger:Pascal" pid="188/1945">Pascal Weisenburger</na></co>
+<co c="1"><na f="z/Ziarek:Lukasz" pid="54/645">Lukasz Ziarek</na></co>
+</coauthors>
+</dblpperson>
+

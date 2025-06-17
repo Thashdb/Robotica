@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Lina Garc&#233;s" pid="165/9276" n="31">
+<dblpperson name="Lina Garc&#233;s" pid="165/9276" n="32">
 <person key="homepages/165/9276" mdate="2019-10-02">
 <author pid="165/9276">Lina Garc&#233;s</author>
 <author pid="165/9276">Lina Maria Garc&#233;s Rodriguez</author>
@@ -22,6 +22,19 @@
 <url>db/journals/csi/csi91.html#ValleTGRN25</url>
 <stream>streams/journals/csi</stream>
 </article>
+</r>
+<r><inproceedings key="conf/sbsi/VieiraSG25" mdate="2025-06-06">
+<author pid="406/7665">Alana R. R. Vieira</author>
+<author pid="185/7663">Rodrigo Duarte Seabra</author>
+<author pid="165/9276">Lina Garc&#233;s</author>
+<title>Business Intelligence for Academic Management Systems: Results of a Study in a Brazilian Federal University.</title>
+<pages>221-230</pages>
+<year>2025</year>
+<booktitle>SBSI</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbsi.2025.246434</ee>
+<crossref>conf/sbsi/2025</crossref>
+<url>db/conf/sbsi/sbsi2025.html#VieiraSG25</url>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/sbes/GarcesO24" mdate="2024-10-22">
 <author pid="165/9276">Lina Garc&#233;s</author>
@@ -484,7 +497,7 @@
 <url>db/conf/cbms/cbms2015.html#RodriguezAAN15a</url>
 </inproceedings>
 </r>
-<coauthors n="53" nc="2">
+<coauthors n="55" nc="3">
 <co c="0"><na f="a/Abdalla:Gabriel" pid="165/3637">Gabriel Abdalla</na></co>
 <co c="0"><na f="a/Affonso:Frank_Jos=eacute=" pid="117/5635">Frank Jos&#233; Affonso</na></co>
 <co c="0" n="2"><na f="a/Allian:Ana_P=" pid="205/5812">Ana P. Allian</na><na>Ana Allian</na></co>
@@ -529,12 +542,14 @@
 <co c="0"><na f="p/Paes:Carlos_Eduardo_de_Barros" pid="83/1965">Carlos Eduardo de Barros Paes</na></co>
 <co c="0"><na f="r/Rezende:Solange_Oliveira" pid="90/5551">Solange Oliveira Rezende</na></co>
 <co c="0"><na f="s/Santos:Daniel_Soares" pid="166/4491">Daniel Soares Santos</na></co>
+<co c="2"><na f="s/Seabra:Rodrigo_Duarte" pid="185/7663">Rodrigo Duarte Seabra</na></co>
 <co c="0"><na f="s/Sena:Bruno" pid="205/5799">Bruno Sena</na></co>
 <co c="0"><na f="s/Silva:Nilson" pid="204/6555">Nilson Silva</na></co>
 <co c="1"><na f="s/Sim=otilde=es:Claudia_Marquez" pid="287/0046">Claudia Marquez Sim&#245;es</na></co>
 <co c="0"><na f="t/Tonon:V=iacute=tor_Rodrigues" pid="251/9451">V&#237;tor Rodrigues Tonon</na></co>
 <co c="0"><na f="v/Valle:Pedro_Henrique_Dias" pid="169/4861">Pedro Henrique Dias Valle</na></co>
 <co c="0" n="2"><na f="v/Vicente:Isabella" pid="205/5805">Isabella Vicente</na><na>Isabella Zanin Vicente</na></co>
+<co c="2"><na f="v/Vieira:Alana_R=_R=" pid="406/7665">Alana R. R. Vieira</na></co>
 <co c="0"><na f="v/Volpato:Tiago" pid="205/5795">Tiago Volpato</na></co>
 <co c="0"><na f="z/Zani:Vin=iacute=cius_Augusto_Tagliatti" pid="07/10588">Vin&#237;cius Augusto Tagliatti Zani</na></co>
 <co c="0"><na f="z/Zaniro:D=ecirc=nis" pid="91/8307">D&#234;nis Zaniro</na></co>

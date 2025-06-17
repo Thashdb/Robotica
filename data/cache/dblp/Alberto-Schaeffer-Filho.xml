@@ -1,0 +1,2116 @@
+<?xml version="1.0"?>
+<dblpperson name="Alberto E. Schaeffer Filho" pid="89/1649" n="125">
+<person key="homepages/89/1649" mdate="2022-11-02">
+<author pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author pid="89/1649">Alberto E. Schaeffer-Filho</author>
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<author pid="89/1649">Alberto Egon Schaeffer Filho</author>
+<note type="affiliation">Federal University of Rio Grande do Sul (UFRGS), Brazil</note>
+<note type="affiliation">Lancaster University, UK</note>
+<url>http://www.inf.ufrgs.br/~alberto/</url>
+<url>https://scholar.google.com/citations?user=y6oOiqYAAAAJ</url>
+<url>https://dl.acm.org/profile/81309501323</url>
+<url>https://mathgenealogy.org/id.php?id=168486</url>
+<url>https://orcid.org/0000-0003-1780-9060</url>
+<url>https://www.wikidata.org/entity/Q102403153</url>
+<url>http://lattes.cnpq.br/6637449134450426</url>
+<url>https://ieeexplore.ieee.org/author/38273254500</url>
+</person>
+<r><article key="journals/ijnm/NunesCPF25" mdate="2025-01-08">
+<author orcid="0000-0002-6338-6006" pid="349/9505">Diego Cardoso Nunes</author>
+<author orcid="0000-0002-2542-0912" pid="349/9553">Bruno Loureiro Coelho</author>
+<author pid="245/3096">Ricardo Parizotto</author>
+<author pid="89/1649">Alberto Egon Schaeffer Filho</author>
+<title>No Worker Left (Too Far) Behind: Dynamic Hybrid Synchronization for In-Network ML Aggregation.</title>
+<year>2025</year>
+<month>January/February</month>
+<volume>35</volume>
+<journal>Int. J. Netw. Manag.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1002/nem.2290</ee>
+<url>db/journals/ijnm/ijnm35.html#NunesCPF25</url>
+<stream>streams/journals/ijnm</stream>
+</article>
+</r>
+<r><inproceedings key="conf/aina/EinsfeldtF25" mdate="2025-05-07">
+<author pid="404/4386">Gustavo Henrique Ellwanger Einsfeldt</author>
+<author pid="89/1649">Alberto Egon Schaeffer Filho</author>
+<title>NetFeatureXtract: Efficient Traffic Feature Extraction using eBPF.</title>
+<pages>48-59</pages>
+<year>2025</year>
+<booktitle>AINA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-87763-6_5</ee>
+<crossref>conf/aina/2025-1</crossref>
+<url>db/conf/aina/aina2025-1.html#EinsfeldtF25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/PaimFRBS25" mdate="2025-05-09">
+<author orcid="0009-0003-3116-6484" pid="282/8615">Eduardo C. Paim</author>
+<author orcid="0000-0003-4804-8954" pid="79/1538">Roberto Iraj&#225; Tavares da Costa Filho</author>
+<author orcid="0000-0003-2290-197X" pid="04/348">Valter Roesler</author>
+<author orcid="0000-0002-5855-8811" pid="49/7538">Theophilus A. Benson</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto Schaeffer-Filho</author>
+<title>Hidden Impact of Hardware Technologies on Throughput: a Case Study on a Brazilian Mobile Web Network.</title>
+<pages>4396-4407</pages>
+<year>2025</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3696410.3714599</ee>
+<crossref>conf/www/2025</crossref>
+<url>db/conf/www/www2025.html#PaimFRBS25</url>
+</inproceedings>
+</r>
+<r><article key="journals/csur/ParizottoCNHS24" mdate="2025-01-19">
+<author orcid="0000-0001-8913-5486" pid="245/3096">Ricardo Parizotto</author>
+<author orcid="0000-0002-2542-0912" pid="349/9553">Bruno Loureiro Coelho</author>
+<author orcid="0000-0002-6338-6006" pid="349/9505">Diego Cardoso Nunes</author>
+<author orcid="0000-0003-4450-3358" pid="209/8668">Israat Haque 0001</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto Schaeffer-Filho</author>
+<title>Offloading Machine Learning to Programmable Data Planes: A Systematic Survey.</title>
+<pages>18:1-18:34</pages>
+<year>2024</year>
+<month>January</month>
+<volume>56</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3605153</ee>
+<ee>https://www.wikidata.org/entity/Q130963965</ee>
+<url>db/journals/csur/csur56.html#ParizottoCNHS24</url>
+</article>
+</r>
+<r><article key="journals/tcc/TajbakhshPSH24" mdate="2024-07-04">
+<author orcid="0000-0002-8100-4323" pid="285/3781">Hesam Tajbakhsh</author>
+<author orcid="0000-0001-8913-5486" pid="245/3096">Ricardo Parizotto</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto Schaeffer-Filho</author>
+<author orcid="0000-0003-4450-3358" pid="209/8668">Israat Haque 0001</author>
+<title>P4Hauler: An Accelerator-Aware In-Network Load Balancer for Applications Performance Boosting.</title>
+<pages>697-711</pages>
+<year>2024</year>
+<month>April - June</month>
+<volume>12</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCC.2024.3389658</ee>
+<url>db/journals/tcc/tcc12.html#TajbakhshPSH24</url>
+</article>
+</r>
+<r><inproceedings key="conf/nfvsdn/PaimS24" mdate="2025-01-15">
+<author pid="282/8615">Eduardo C. Paim</author>
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<title>P4-TURNet: Enabling NAT Traversal through P2P Relay Networks and Programmable Switches.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>NFV-SDN</booktitle>
+<ee>https://doi.org/10.1109/NFV-SDN61811.2024.10807473</ee>
+<crossref>conf/nfvsdn/2024</crossref>
+<url>db/conf/nfvsdn/nfvsdn2024.html#PaimS24</url>
+<stream>streams/conf/nfvsdn</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nfvsdn/PuttlitzPS24" mdate="2025-01-15">
+<author pid="394/9867">Cleiton Puttlitz</author>
+<author pid="245/3096">Ricardo Parizotto</author>
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<title>P4NetIntel: End-to-End Network Telemetry with eBPF and XDP.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>NFV-SDN</booktitle>
+<ee>https://doi.org/10.1109/NFV-SDN61811.2024.10807468</ee>
+<crossref>conf/nfvsdn/2024</crossref>
+<url>db/conf/nfvsdn/nfvsdn2024.html#PuttlitzPS24</url>
+<stream>streams/conf/nfvsdn</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nfvsdn/SusinPGS24" mdate="2025-01-15">
+<author pid="394/8700">Robert Patrick Susin</author>
+<author pid="245/3096">Ricardo Parizotto</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<title>IoTP4Chain: Leveraging Programmable Data Plane for Efficient IoT Forensics using Blockchain.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>NFV-SDN</booktitle>
+<ee>https://doi.org/10.1109/NFV-SDN61811.2024.10807486</ee>
+<crossref>conf/nfvsdn/2024</crossref>
+<url>db/conf/nfvsdn/nfvsdn2024.html#SusinPGS24</url>
+<stream>streams/conf/nfvsdn</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2404-11728" mdate="2024-05-22">
+<author pid="245/3096">Ricardo Parizotto</author>
+<author pid="209/8668">Israat Haque 0001</author>
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<title>Araucaria: Simplifying INC Fault Tolerance with High-Level Intents.</title>
+<year>2024</year>
+<volume>abs/2404.11728</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2404.11728</ee>
+<url>db/journals/corr/corr2404.html#abs-2404-11728</url>
+</article>
+</r>
+<r><article key="journals/jnsm/GonzalezCMSG23" mdate="2023-09-10">
+<author pid="296/1060">Libardo Andrey Quintero Gonz&#225;lez</author>
+<author pid="245/3154">Lucas Castanheira</author>
+<author pid="207/6326">Jonatas Adilson Marques</author>
+<author pid="89/1649">Alberto E. Schaeffer-Filho</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<title>Bungee-ML: A Cross-Plane Approach for a Collaborative Defense Against DDoS Attacks.</title>
+<pages>77</pages>
+<year>2023</year>
+<month>October</month>
+<volume>31</volume>
+<journal>J. Netw. Syst. Manag.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10922-023-09769-6</ee>
+<url>db/journals/jnsm/jnsm31.html#GonzalezCMSG23</url>
+</article>
+</r>
+<r><article key="journals/tnsm/LopesSN23" mdate="2023-03-28">
+<author orcid="0000-0002-1163-8910" pid="296/0987">Filipe Bachini Lopes</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer-Filho</author>
+<author orcid="0000-0001-7202-7139" pid="18/9853">Gabriel Luca Nazar</author>
+<title>Modular VNF Components Acceleration With FPGA Overlays.</title>
+<pages>846-857</pages>
+<year>2023</year>
+<month>March</month>
+<volume>20</volume>
+<journal>IEEE Trans. Netw. Serv. Manag.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TNSM.2022.3211448</ee>
+<url>db/journals/tnsm/tnsm20.html#LopesSN23</url>
+</article>
+</r>
+<r><inproceedings key="conf/cnsm/CoelhoS23" mdate="2024-05-07">
+<author orcid="0000-0002-2542-0912" pid="349/9553">Bruno Loureiro Coelho</author>
+<author pid="89/1649">Alberto E. Schaeffer-Filho</author>
+<title>CrossBal: Data and Control Plane Cooperation for Efficient and Scalable Network Load Balancing.</title>
+<pages>1-9</pages>
+<year>2023</year>
+<booktitle>CNSM</booktitle>
+<ee>https://doi.org/10.23919/CNSM59352.2023.10327790</ee>
+<crossref>conf/cnsm/2023</crossref>
+<url>db/conf/cnsm/cnsm2023.html#CoelhoS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurosys/CastanheiraSB23" mdate="2023-05-17">
+<author orcid="0000-0003-0303-353X" pid="245/3154">Lucas Castanheira</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto Schaeffer-Filho</author>
+<author orcid="0000-0002-5855-8811" pid="49/7538">Theophilus A. Benson</author>
+<title>Foxhound: Server-Grade Observability for Network-Augmented Applications.</title>
+<pages>18-32</pages>
+<year>2023</year>
+<booktitle>EuroSys</booktitle>
+<ee>https://doi.org/10.1145/3552326.3567502</ee>
+<crossref>conf/eurosys/2023</crossref>
+<url>db/conf/eurosys/eurosys2023.html#CastanheiraSB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/NunesCPS23" mdate="2023-09-30">
+<author pid="349/9505">Diego Cardoso Nunes</author>
+<author orcid="0000-0002-2542-0912" pid="349/9553">Bruno Loureiro Coelho</author>
+<author pid="245/3096">Ricardo Parizotto</author>
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<title>Serene: Handling the Effects of Stragglers in In-Network Machine Learning Aggregation.</title>
+<pages>1-10</pages>
+<year>2023</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS56928.2023.10154363</ee>
+<crossref>conf/noms/2023</crossref>
+<url>db/conf/noms/noms2023.html#NunesCPS23</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sbc/23/Schaeffer-FilhoNWGGC23" mdate="2024-01-02">
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<author pid="78/7495">J&#233;ferson Campos Nobre</author>
+<author pid="71/7494">Juliano Araujo Wickboldt</author>
+<author pid="52/4475">Lisandro Z. Granville</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="96/2183">Weverton Luis da Costa Cordeiro</author>
+<title>Desenvolvendo o C&#243;digo da Internet do Futuro.</title>
+<pages>1-28</pages>
+<year>2023</year>
+<booktitle>Escola de Computa&#231;&#227;o PPGC/UFRGS 50 Anos</booktitle>
+<ee>https://doi.org/10.5753/sbc.13058.5.1</ee>
+<crossref>books/sbc/23/2023SCC</crossref>
+<url>db/books/collections/SCC2023.html#Schaeffer-FilhoNWGGC23</url>
+</incollection>
+</r>
+<r><incollection key="books/sbc/23/Schaeffer-FilhoNWGGC23a" mdate="2024-01-02">
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<author pid="78/7495">J&#233;ferson Campos Nobre</author>
+<author pid="71/7494">Juliano Araujo Wickboldt</author>
+<author pid="52/4475">Lisandro Z. Granville</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="96/2183">Weverton Cordeiro</author>
+<title>Seguran&#231;a Cibern&#233;tica 2030: Experi&#234;ncias, Desafios e Oportunidades.</title>
+<pages>141-166</pages>
+<year>2023</year>
+<booktitle>Escola de Computa&#231;&#227;o PPGC/UFRGS 50 Anos</booktitle>
+<ee>https://doi.org/10.5753/sbc.13058.5.7</ee>
+<crossref>books/sbc/23/2023SCC</crossref>
+<url>db/books/collections/SCC2023.html#Schaeffer-FilhoNWGGC23a</url>
+</incollection>
+</r>
+<r><book key="books/sbc/23/2023SCC" mdate="2024-01-02">
+<editor orcid="0000-0003-1780-9060" pid="89/1649">Alberto Egon Schaeffer Filho</editor>
+<editor orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</editor>
+<editor orcid="0000-0001-7536-0586" pid="96/2183">Weverton Cordeiro</editor>
+<title>Escola de Computa&#231;&#227;o PPGC/UFRGS 50 Anos: Transformando Desafios em Oportunidades Para o Futuro</title>
+<booktitle>Escola de Computa&#231;&#227;o PPGC/UFRGS 50 Anos</booktitle>
+<publisher>SBC</publisher>
+<year>2023</year>
+<isbn>978-85-7669-558-5</isbn>
+<ee>https://doi.org/10.5753/sbc.13058.5</ee>
+<url>db/books/collections/SCC2023.html</url>
+</book>
+</r>
+<r><article key="journals/cn/RibeiroJZPSFGS22" mdate="2024-10-06">
+<author orcid="0000-0003-4196-3359" pid="246/9450">Rafael Hengen Ribeiro</author>
+<author pid="144/9529">Arthur Selle Jacobs</author>
+<author orcid="0000-0002-2130-2396" pid="247/6079">Luciano Zembruzki</author>
+<author pid="245/3096">Ricardo Parizotto</author>
+<author orcid="0000-0002-7989-5286" pid="184/6021">Eder John Scheid</author>
+<author pid="89/1649">Alberto Egon Schaeffer Filho</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author orcid="0000-0002-7461-7463" pid="00/4292">Burkhard Stiller</author>
+<title>A deterministic approach for extracting network security intents.</title>
+<pages>109109</pages>
+<year>2022</year>
+<volume>214</volume>
+<journal>Comput. Networks</journal>
+<ee type="oa">https://doi.org/10.1016/j.comnet.2022.109109</ee>
+<ee>https://www.wikidata.org/entity/Q115062963</ee>
+<url>db/journals/cn/cn214.html#RibeiroJZPSFGS22</url>
+</article>
+</r>
+<r><inproceedings key="conf/conext/CoelhoS22" mdate="2023-09-30">
+<author orcid="0000-0002-2542-0912" pid="349/9553">Bruno Loureiro Coelho</author>
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<title>BACKORDERS: using random forests to detect DDoS attacks in programmable data planes.</title>
+<pages>1-7</pages>
+<year>2022</year>
+<booktitle>EuroP4@CoNEXT</booktitle>
+<ee>https://doi.org/10.1145/3565475.3569074</ee>
+<crossref>conf/conext/2022europ4</crossref>
+<url>db/conf/conext/europ42022.html#CoelhoS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/SilvaFG22" mdate="2024-08-04">
+<author pid="236/2816">Marcus Vinicius Brito da Silva</author>
+<author pid="89/1649">Alberto Egon Schaeffer Filho</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<title>HashCuckoo: Predicting Elephant Flows using Meta-Heuristics in Programmable Data Planes.</title>
+<pages>6337-6342</pages>
+<year>2022</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOBECOM48099.2022.10001221</ee>
+<crossref>conf/globecom/2022</crossref>
+<url>db/conf/globecom/globecom2022.html#SilvaFG22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/PossebonSS22" mdate="2022-12-09">
+<author pid="257/5567">Isadora P. Possebon</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="89/1649">Alberto E. Schaeffer-Filho</author>
+<title>Look-Ahead Reinforcement Learning for Load Balancing Network Traffic.</title>
+<pages>1-6</pages>
+<year>2022</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC55528.2022.9912828</ee>
+<crossref>conf/iscc/2022</crossref>
+<url>db/conf/iscc/iscc2022.html#PossebonSS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/TajbakhshPNSH22" mdate="2022-07-27">
+<author pid="285/3781">Hesam Tajbakhsh</author>
+<author pid="245/3096">Ricardo Parizotto</author>
+<author pid="129/2290">Miguel C. Neves</author>
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<author pid="209/8668">Israat Haque 0001</author>
+<title>Accelerator-Aware In-Network Load Balancing for Improved Application Performance.</title>
+<pages>1-9</pages>
+<year>2022</year>
+<booktitle>IFIP Networking</booktitle>
+<ee>https://doi.org/10.23919/IFIPNetworking55013.2022.9829787</ee>
+<crossref>conf/networking/2022</crossref>
+<url>db/conf/networking/networking2022.html#TajbakhshPNSH22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/SilvaS22" mdate="2022-06-15">
+<author pid="170/4033">Anderson Santos da Silva</author>
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<title>NetWords: Enabling the Understanding of Network Property Violation Occurrences.</title>
+<pages>1-9</pages>
+<year>2022</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS54207.2022.9789811</ee>
+<crossref>conf/noms/2022</crossref>
+<url>db/conf/noms/noms2022.html#SilvaS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sosr/ParizottoM0S22" mdate="2022-10-10">
+<author pid="245/3096">Ricardo Parizotto</author>
+<author pid="330/6205">Braulio Mello</author>
+<author pid="209/8668">Israat Haque 0001</author>
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<title>NetGVT: offloading global virtual time computation to programmable switches.</title>
+<pages>16-24</pages>
+<year>2022</year>
+<booktitle>SOSR</booktitle>
+<ee>https://doi.org/10.1145/3563647.3563648</ee>
+<crossref>conf/sosr/2022</crossref>
+<url>db/conf/sosr/sosr2022.html#ParizottoM0S22</url>
+</inproceedings>
+</r>
+<r><article key="journals/cm/ParizottoCBSS21" mdate="2021-07-13">
+<author pid="245/3096">Ricardo Parizotto</author>
+<author pid="245/3154">Lucas Castanheira</author>
+<author pid="267/2824">Fernanda Bonetti</author>
+<author pid="170/4033">Anderson Santos da Silva</author>
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<title>Consistent Composition and Modular Data Plane Programming.</title>
+<pages>60-65</pages>
+<year>2021</year>
+<volume>59</volume>
+<journal>IEEE Commun. Mag.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/MCOM.001.2000904</ee>
+<url>db/journals/cm/cm59.html#ParizottoCBSS21</url>
+</article>
+</r>
+<r><article key="journals/cn/SchardongNS21" mdate="2021-10-14">
+<author orcid="0000-0003-4492-163X" pid="167/3639">Frederico Schardong</author>
+<author pid="48/5352">Ingrid Nunes</author>
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<title>NFV Resource Allocation: a Systematic Review and Taxonomy of VNF Forwarding Graph Embedding.</title>
+<pages>107726</pages>
+<year>2021</year>
+<volume>185</volume>
+<journal>Comput. Networks</journal>
+<ee>https://doi.org/10.1016/j.comnet.2020.107726</ee>
+<url>db/journals/cn/cn185.html#SchardongNS21</url>
+</article>
+</r>
+<r><article key="journals/ijnm/VenancioGMTFBFS21" mdate="2025-03-03">
+<author orcid="0000-0001-7620-3793" pid="224/2102">Giovanni Ven&#226;ncio</author>
+<author orcid="0000-0003-1544-6315" pid="224/6851">Vinicius Fulber-Garcia</author>
+<author pid="203/6442">Leonardo da Cruz Marcuzzo</author>
+<author pid="224/6964">Thales Nicolai Tavares</author>
+<author orcid="0000-0002-0208-0521" pid="180/3022">Muriel Figueredo Franco</author>
+<author orcid="0000-0001-5112-6381" pid="147/1151">Lucas Bondan</author>
+<author pid="89/1649">Alberto Egon Schaeffer Filho</author>
+<author pid="64/6563">Carlos Raniery Paula dos Santos</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author pid="02/3940">Elias P. Duarte Jr.</author>
+<title>Beyond VNFM: Filling the gaps of the ETSI VNF manager to fully support VNF life cycle operations.</title>
+<year>2021</year>
+<volume>31</volume>
+<journal>Int. J. Netw. Manag.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1002/nem.2068</ee>
+<ee>https://www.wikidata.org/entity/Q128058082</ee>
+<url>db/journals/ijnm/ijnm31.html#VenancioGMTFBFS21</url>
+</article>
+</r>
+<r><article key="journals/ijnm/DalmazoMCBCSFBA21" mdate="2022-10-02">
+<author orcid="0000-0002-6996-7602" pid="50/8505">Bruno Lopes Dalmazo</author>
+<author pid="207/6326">Jonatas Adilson Marques</author>
+<author pid="169/1123">Lucas Rodrigues Costa</author>
+<author pid="118/0753">Michel S. Bonfim</author>
+<author pid="246/0525">Ranyelson Neres Carvalho</author>
+<author pid="170/4033">Anderson Santos da Silva</author>
+<author pid="09/6789">Stenio Fernandes</author>
+<author pid="23/5009">Jacir Luiz Bordim</author>
+<author pid="06/2528">Eduardo Alchieri</author>
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author orcid="0000-0001-7536-0586" pid="96/2183">Weverton Cordeiro</author>
+<title>A systematic review on distributed denial of service attack defense mechanisms in programmable networks.</title>
+<year>2021</year>
+<volume>31</volume>
+<journal>Int. J. Netw. Manag.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/nem.2163</ee>
+<url>db/journals/ijnm/ijnm31.html#DalmazoMCBCSFBA21</url>
+</article>
+</r>
+<r><article key="journals/jnsm/Fulber-GarciaHM21" mdate="2024-10-06">
+<author orcid="0000-0003-1544-6315" pid="224/6851">Vinicius Fulber-Garcia</author>
+<author orcid="0000-0003-0371-4837" pid="236/3020">Alexandre Huff</author>
+<author pid="203/6442">Leonardo da Cruz Marcuzzo</author>
+<author pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author pid="89/1649">Alberto E. Schaeffer-Filho</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author pid="64/6563">Carlos R. P. dos Santos</author>
+<author pid="02/3940">Elias P. Duarte Jr.</author>
+<title>Customizable Deployment of NFV Services.</title>
+<pages>36</pages>
+<year>2021</year>
+<volume>29</volume>
+<journal>J. Netw. Syst. Manag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10922-021-09604-w</ee>
+<url>db/journals/jnsm/jnsm29.html#Fulber-GarciaHM21</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccnc/RibeiroCSCM21" mdate="2023-03-29">
+<author orcid="0000-0002-0298-9006" pid="287/7021">Iran Ribeiro</author>
+<author pid="245/3154">Lucas Castanheira</author>
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<author pid="96/2183">Weverton Cordeiro</author>
+<author pid="139/7372">Vin&#237;cius F. S. Mota</author>
+<title>Mobility and Community Detection Based on Topics of Interest.</title>
+<pages>1-6</pages>
+<year>2021</year>
+<booktitle>CCNC</booktitle>
+<ee>https://doi.org/10.1109/CCNC49032.2021.9369462</ee>
+<crossref>conf/ccnc/2021</crossref>
+<url>db/conf/ccnc/ccnc2021.html#RibeiroCSCM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/im/LopesNS21" mdate="2023-03-15">
+<author pid="296/0987">Filipe Bachini Lopes</author>
+<author pid="18/9853">Gabriel Luca Nazar</author>
+<author pid="89/1649">Alberto E. Schaeffer-Filho</author>
+<title>VNFAccel: An FPGA-based Platform for Modular VNF Components Acceleration.</title>
+<pages>250-258</pages>
+<year>2021</year>
+<booktitle>IM</booktitle>
+<ee>https://ieeexplore.ieee.org/document/9463997</ee>
+<crossref>conf/im/2021</crossref>
+<url>db/conf/im/im2021.html#LopesNS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/im/GonzalezCMSG21" mdate="2021-07-02">
+<author pid="296/1060">Libardo Andrey Quintero Gonz&#225;lez</author>
+<author pid="245/3154">Lucas Castanheira</author>
+<author pid="207/6326">Jonatas Adilson Marques</author>
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<title>BUNGEE: An Adaptive Pushback Mechanism for DDoS Detection and Mitigation in P4 Data Planes.</title>
+<pages>393-401</pages>
+<year>2021</year>
+<booktitle>IM</booktitle>
+<ee>https://ieeexplore.ieee.org/document/9463992</ee>
+<crossref>conf/im/2021</crossref>
+<url>db/conf/im/im2021.html#GonzalezCMSG21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/ParizottoS21" mdate="2022-02-17">
+<author pid="245/3096">Ricardo Parizotto</author>
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<title>Consistent Composition of Data Plane Programs.</title>
+<pages>105-112</pages>
+<year>2021</year>
+<booktitle>SBRC Companion</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc_estendido.2021.17160</ee>
+<crossref>conf/sbrc/2021c</crossref>
+<url>db/conf/sbrc/sbrc2021c.html#ParizottoS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/SilvaS21" mdate="2022-02-15">
+<author pid="78/3071">Fernando Silva</author>
+<author pid="89/1649">Alberto E. Schaeffer-Filho</author>
+<title>Mitigando Ataques com a Orquestra&#231;&#227;o de VNFs Baseadas em Cont&#234;ineres Usando Aprendizado Supervisionado.</title>
+<pages>350-363</pages>
+<year>2021</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc.2021.16732</ee>
+<crossref>conf/sbrc/2021</crossref>
+<url>db/conf/sbrc/sbrc2021.html#SilvaS21</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/im/2021" mdate="2021-07-05">
+<editor pid="18/4550">Toufik Ahmed</editor>
+<editor pid="f/OlivierFestor">Olivier Festor</editor>
+<editor pid="g/YacineGhamriDoudane">Yacine Ghamri-Doudane</editor>
+<editor pid="63/5816">Joon-Myung Kang</editor>
+<editor pid="89/1649">Alberto E. Schaeffer Filho</editor>
+<editor pid="49/5526">Abdelkader Lahmadi</editor>
+<editor pid="m/EdmundoRobertoMauroMadeira">Edmundo R. M. Madeira</editor>
+<title>17th IFIP/IEEE International Symposium on Integrated Network Management, IM 2021, Bordeaux, France, May 17-21, 2021</title>
+<booktitle>IM</booktitle>
+<publisher>IEEE</publisher>
+<year>2021</year>
+<isbn>978-3-903176-32-4</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/9463903/proceeding</ee>
+<url>db/conf/im/im2021.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/sbrc/2021" mdate="2022-02-15">
+<editor pid="89/1649">Alberto Egon Schaeffer Filho</editor>
+<editor pid="40/654">F&#225;bio Luciano Verdi</editor>
+<title>Proceedings of the 39th Brazilian Symposium on Computer Networks and Distributed Systems, SBRC 2021, Uberl&#226;ndia, MG, Brazil, August 16-20, 2021</title>
+<booktitle>SBRC</booktitle>
+<year>2021</year>
+<ee type="oa">https://doi.org/10.5753/sbrc.2021</ee>
+<url>db/conf/sbrc/sbrc2021.html</url>
+</proceedings>
+</r>
+<r><article key="journals/comsur/NiemiecBSN20" mdate="2020-04-09">
+<author orcid="0000-0002-1641-5687" pid="261/3369">Gabriel S. Niemiec</author>
+<author orcid="0000-0003-4189-5173" pid="261/3607">Luis M. S. Batista</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer-Filho</author>
+<author orcid="0000-0001-7202-7139" pid="18/9853">Gabriel L. Nazar</author>
+<title>A Survey on FPGA Support for the Feasible Execution of Virtualized Network Functions.</title>
+<pages>504-525</pages>
+<year>2020</year>
+<volume>22</volume>
+<journal>IEEE Commun. Surv. Tutorials</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/COMST.2019.2943690</ee>
+<url>db/journals/comsur/comsur22.html#NiemiecBSN20</url>
+</article>
+</r>
+<r><article key="journals/ijguc/GarciaSDTMSFBGF20" mdate="2025-03-03">
+<author orcid="0000-0003-1544-6315" pid="224/6851">Vin&#237;cius F&#252;lber-Garcia</author>
+<author orcid="0000-0001-7620-3793" pid="224/2102">Giovanni Ven&#226;ncio de Souza</author>
+<author pid="02/3940">Elias Proc&#243;pio Duarte Jr.</author>
+<author pid="224/6964">Thales Nicolai Tavares</author>
+<author pid="203/6442">Leonardo da Cruz Marcuzzo</author>
+<author pid="64/6563">Carlos R. P. dos Santos</author>
+<author orcid="0000-0002-0208-0521" pid="180/3022">Muriel Figueredo Franco</author>
+<author orcid="0000-0001-5112-6381" pid="147/1151">Lucas Bondan</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author pid="89/1649">Alberto Egon Schaeffer Filho</author>
+<author orcid="0000-0003-4824-1199" pid="30/888">Filip De Turck</author>
+<title>On the design and development of emulation platforms for NFV-based infrastructures.</title>
+<pages>230-242</pages>
+<year>2020</year>
+<volume>11</volume>
+<journal>Int. J. Grid Util. Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1504/IJGUC.2020.105537</ee>
+<url>db/journals/ijguc/ijguc11.html#GarciaSDTMSFBGF20</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/RibeiroJPZFG20" mdate="2024-10-06">
+<author pid="246/9450">Rafael Hengen Ribeiro</author>
+<author orcid="0000-0003-0624-5001" pid="144/9529">Arthur Selle Jacobs</author>
+<author pid="245/3096">Ricardo Parizotto</author>
+<author orcid="0000-0002-2130-2396" pid="247/6079">Luciano Zembruzki</author>
+<author pid="89/1649">Alberto Egon Schaeffer Filho</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<title>A Bottom-Up Approach for Extracting Network Intents.</title>
+<pages>858-870</pages>
+<year>2020</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-44041-1_75</ee>
+<crossref>conf/aina/2020</crossref>
+<url>db/conf/aina/aina2020.html#RibeiroJPZFG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/compsac/CattelanBS20" mdate="2020-09-29">
+<author pid="275/2025">Bruno Cattelan</author>
+<author pid="64/9385">Steffen Bondorf</author>
+<author pid="89/1649">Alberto E. Schaeffer-Filho</author>
+<title>An Empirical Study of Tightest Network Calculus Analyses for Networks with Multicast Flows.</title>
+<pages>601-606</pages>
+<year>2020</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC48688.2020.0-190</ee>
+<crossref>conf/compsac/2020</crossref>
+<url>db/conf/compsac/compsac2020.html#CattelanBS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conext/CastanheiraBS20" mdate="2025-01-19">
+<author pid="245/3154">Lucas Castanheira</author>
+<author pid="49/7538">Theophilus A. Benson</author>
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<title>The Case for More Flexible Distributed Tracing.</title>
+<pages>27-28</pages>
+<year>2020</year>
+<booktitle>StudentWorkshop@CoNEXT</booktitle>
+<ee>https://doi.org/10.1145/3426746.3434058</ee>
+<ee>https://www.wikidata.org/entity/Q130885973</ee>
+<crossref>conf/conext/2020sw</crossref>
+<url>db/conf/conext/sw2020.html#CastanheiraBS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/ParizottoCRZJGS20" mdate="2024-10-06">
+<author pid="245/3096">Ricardo Parizotto</author>
+<author pid="245/3154">Lucas Castanheira</author>
+<author pid="246/9450">Rafael Hengen Ribeiro</author>
+<author orcid="0000-0002-2130-2396" pid="247/6079">Luciano Zembruzki</author>
+<author orcid="0000-0003-0624-5001" pid="144/9529">Arthur Selle Jacobs</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<title>ShadowFS: Speeding-up Data Plane Monitoring and Telemetry using P4.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC40277.2020.9148954</ee>
+<crossref>conf/icc/2020</crossref>
+<url>db/conf/icc/icc2020.html#ParizottoCRZJGS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccnc/JindalSM0MG20" mdate="2025-05-31">
+<author orcid="0000-0002-3052-2892" pid="173/6851">Anish Jindal</author>
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<author orcid="0000-0002-7996-6216" pid="71/5300">Angelos K. Marnerides</author>
+<author orcid="0000-0002-8990-6751" pid="86/5797-1">Paul Smith 0001</author>
+<author orcid="0000-0002-8727-9440" pid="52/495">Andreas Mauthe</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<title>Tackling Energy Theft in Smart Grids through Data-driven Analysis.</title>
+<pages>410-414</pages>
+<year>2020</year>
+<booktitle>ICNC</booktitle>
+<ee>https://doi.org/10.1109/ICNC47757.2020.9049793</ee>
+<crossref>conf/iccnc/2020</crossref>
+<url>db/conf/iccnc/iccnc2020.html#JindalSM0MG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/ParizottoCBSS20" mdate="2020-06-15">
+<author pid="245/3096">Ricardo Parizotto</author>
+<author pid="245/3154">Lucas Castanheira</author>
+<author pid="267/2824">Fernanda Bonetti</author>
+<author pid="170/4033">Anderson Santos da Silva</author>
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<title>PRIME: Programming In-Network Modular Extensions.</title>
+<pages>1-9</pages>
+<year>2020</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS47738.2020.9110355</ee>
+<crossref>conf/noms/2020</crossref>
+<url>db/conf/noms/noms2020.html#ParizottoCBSS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/RibeiroCSCM20" mdate="2023-03-29">
+<author orcid="0000-0002-0298-9006" pid="287/7021">Iran Ribeiro</author>
+<author pid="245/3154">Lucas Castanheira</author>
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<author pid="96/2183">Weverton Cordeiro</author>
+<author pid="139/7372">Vin&#237;cius F. S. Mota</author>
+<title>Caracteriza&#231;&#227;o de Mobilidade e Detec&#231;&#227;o de Comunidades baseadas em T&#243;picos de Interesse.</title>
+<pages>603-616</pages>
+<year>2020</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc.2020.12312</ee>
+<crossref>conf/sbrc/2020</crossref>
+<url>db/conf/sbrc/sbrc2020.html#RibeiroCSCM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcomm/CastanheiraSB20" mdate="2021-09-22">
+<author pid="245/3154">Lucas Castanheira</author>
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<author pid="49/7538">Theophilus A. Benson</author>
+<title>Optimized tracing of iCF-enabled programmable data planes.</title>
+<pages>91-93</pages>
+<year>2020</year>
+<booktitle>SIGCOMM Posters and Demos</booktitle>
+<ee>https://doi.org/10.1145/3405837.3411376</ee>
+<crossref>conf/sigcomm/2020p</crossref>
+<url>db/conf/sigcomm/p2020.html#CastanheiraSB20</url>
+</inproceedings>
+</r>
+<r><article key="journals/cm/BondanFMVSPSSTD19" mdate="2025-03-03">
+<author orcid="0000-0001-5112-6381" pid="147/1151">Lucas Bondan</author>
+<author orcid="0000-0002-0208-0521" pid="180/3022">Muriel Figueredo Franco</author>
+<author pid="203/6442">Leonardo da Cruz Marcuzzo</author>
+<author orcid="0000-0001-7620-3793" pid="224/2102">Giovanni Ven&#226;ncio</author>
+<author pid="11/8505">Ricardo Luis dos Santos</author>
+<author orcid="0000-0003-0539-2237" pid="146/3489">Ricardo J. Pfitscher</author>
+<author orcid="0000-0002-7989-5286" pid="184/6021">Eder J. Scheid</author>
+<author pid="00/4292">Burkhard Stiller</author>
+<author orcid="0000-0003-4824-1199" pid="30/888">Filip De Turck</author>
+<author pid="02/3940">Elias P. Duarte Jr.</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author pid="64/6563">Carlos Raniery Paula dos Santos</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<title>FENDE: Marketplace-Based Distribution, Execution, and Life Cycle Management of VNFs.</title>
+<pages>13-19</pages>
+<year>2019</year>
+<volume>57</volume>
+<journal>IEEE Commun. Mag.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MCOM.2018.1800507</ee>
+<ee>https://www.wikidata.org/entity/Q128564648</ee>
+<url>db/journals/cm/cm57.html#BondanFMVSPSSTD19</url>
+</article>
+</r>
+<r><article key="journals/cn/PfitscherJZSSFF19" mdate="2025-01-19">
+<author orcid="0000-0003-0539-2237" pid="146/3489">Ricardo Jos&#233; Pfitscher</author>
+<author orcid="0000-0003-0624-5001" pid="144/9529">Arthur Selle Jacobs</author>
+<author orcid="0000-0002-2130-2396" pid="247/6079">Luciano Zembruzki</author>
+<author pid="11/8505">Ricardo Luis dos Santos</author>
+<author orcid="0000-0002-7989-5286" pid="184/6021">Eder John Scheid</author>
+<author orcid="0000-0002-0208-0521" pid="180/3022">Muriel Figueredo Franco</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<title>Guiltiness: A practical approach for quantifying virtual network functions performance.</title>
+<pages>14-31</pages>
+<year>2019</year>
+<volume>161</volume>
+<journal>Comput. Networks</journal>
+<ee>https://doi.org/10.1016/j.comnet.2019.06.001</ee>
+<ee>https://www.wikidata.org/entity/Q127669162</ee>
+<url>db/journals/cn/cn161.html#PfitscherJZSSFF19</url>
+</article>
+</r>
+<r><article key="journals/jnsm/MartinsKSWFG19" mdate="2024-08-04">
+<author orcid="0000-0001-8554-1786" pid="180/2949">Rafael de Jesus Martins</author>
+<author orcid="0000-0001-7291-7780" pid="164/7946">Luis Augusto Dias Knob</author>
+<author pid="164/7972">Eduardo Germano da Silva</author>
+<author orcid="0000-0002-7686-8370" pid="71/7494">Juliano Araujo Wickboldt</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<title>Specialized CSIRT for Incident Response Management in Smart Grids.</title>
+<pages>269-285</pages>
+<year>2019</year>
+<volume>27</volume>
+<journal>J. Netw. Syst. Manag.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10922-018-9458-z</ee>
+<url>db/journals/jnsm/jnsm27.html#MartinsKSWFG19</url>
+</article>
+</r>
+<r><article key="journals/pieee/DobsonHMF0S19" mdate="2025-05-31">
+<author orcid="0000-0001-9633-2103" pid="d/SimonADobson">Simon Dobson</author>
+<author orcid="0000-0001-6052-0559" pid="h/DavidHutchison">David Hutchison 0001</author>
+<author orcid="0000-0002-8727-9440" pid="52/495">Andreas Mauthe</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0002-8990-6751" pid="86/5797-1">Paul Smith 0001</author>
+<author pid="65/5400">James P. G. Sterbenz</author>
+<title>Self-Organization and Resilience for Networked Systems: Design Principles and Open Research Issues.</title>
+<pages>819-834</pages>
+<year>2019</year>
+<volume>107</volume>
+<journal>Proc. IEEE</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/JPROC.2019.2894512</ee>
+<ee>https://www.wikidata.org/entity/Q128354137</ee>
+<url>db/journals/pieee/pieee107.html#DobsonHMF0S19</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/GarciaMSBNFSGD19" mdate="2025-03-03">
+<author orcid="0000-0003-1544-6315" pid="224/6851">Vin&#237;cius F&#252;lber-Garcia</author>
+<author pid="203/6442">Leonardo da Cruz Marcuzzo</author>
+<author orcid="0000-0001-7620-3793" pid="224/2102">Giovanni Ven&#226;ncio de Souza</author>
+<author orcid="0000-0001-5112-6381" pid="147/1151">Lucas Bondan</author>
+<author pid="78/7495">J&#233;ferson Campos Nobre</author>
+<author pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author pid="64/6563">Carlos Raniery Paula dos Santos</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author pid="02/3940">Elias P. Duarte Jr.</author>
+<title>An NSH-Enabled Architecture for Virtualized Network Function Platforms.</title>
+<pages>376-387</pages>
+<year>2019</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-15032-7_32</ee>
+<crossref>conf/aina/2019</crossref>
+<url>db/conf/aina/aina2019.html#GarciaMSBNFSGD19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conext/CastanheiraSB19" mdate="2019-11-30">
+<author pid="245/3154">Lucas Castanheira</author>
+<author pid="89/1649">Alberto E. Schaeffer-Filho</author>
+<author pid="49/7538">Theophilus A. Benson</author>
+<title>P4-InTel: Bridging the Gap between iCF Diagnosis and Functionality.</title>
+<pages>21-26</pages>
+<year>2019</year>
+<booktitle>ENCP@CoNEXT</booktitle>
+<ee>https://doi.org/10.1145/3359993.3366648</ee>
+<crossref>conf/conext/2019encp</crossref>
+<url>db/conf/conext/encp2019.html#CastanheiraSB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/GarciaMHBNSSGD19" mdate="2025-03-03">
+<author orcid="0000-0003-1544-6315" pid="224/6851">Vinicius Fulber-Garcia</author>
+<author pid="203/6442">Leonardo da Cruz Marcuzzo</author>
+<author orcid="0000-0003-0371-4837" pid="236/3020">Alexandre Huff</author>
+<author orcid="0000-0001-5112-6381" pid="147/1151">Lucas Bondan</author>
+<author pid="78/7495">J&#233;ferson Campos Nobre</author>
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<author pid="64/6563">Carlos R. P. dos Santos</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author pid="02/3940">Elias P. Duarte Jr.</author>
+<title>On the Design of a Flexible Architecture for Virtualized Network Function Platforms.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOBECOM38437.2019.9013111</ee>
+<crossref>conf/globecom/2019</crossref>
+<url>db/conf/globecom/globecom2019.html#GarciaMHBNSSGD19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/CastanheiraPF19" mdate="2019-07-23">
+<author pid="245/3154">Lucas Castanheira</author>
+<author pid="245/3096">Ricardo Parizotto</author>
+<author pid="89/1649">Alberto E. Schaeffer Filho</author>
+<title>FlowStalker: Comprehensive Traffic Flow Monitoring on the Data Plane using P4.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2019.8761197</ee>
+<crossref>conf/icc/2019</crossref>
+<url>db/conf/icc/icc2019.html#CastanheiraPF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/im/CunhaSCCB0FSGA19" mdate="2021-08-19">
+<author pid="185/2475">Vitor A. Cunha</author>
+<author pid="82/7269">Eduardo da Silva</author>
+<author pid="09/9978">Marcio Barbosa de Carvalho</author>
+<author pid="65/5952">Daniel Corujo</author>
+<author pid="92/3264">Jo&#227;o Paulo Barraca</author>
+<author pid="30/262">Diogo Gomes 0001</author>
+<author pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author pid="64/6563">Carlos Raniery Paula dos Santos</author>
+<author pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author pid="53/223">Rui L. Aguiar</author>
+<title>Safeguarding from abuse by IoT vendors: Edge messages verification of cloud-assisted equipment.</title>
+<pages>599-603</pages>
+<year>2019</year>
+<booktitle>IM</booktitle>
+<ee>https://ieeexplore.ieee.org/document/8717812</ee>
+<crossref>conf/im/2019</crossref>
+<url>db/conf/im/im2019.html#CunhaSCCB0FSGA19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/PizzuttiF19" mdate="2019-06-24">
+<author pid="236/2978">Marcelo Pizzutti</author>
+<author pid="89/1649">Alberto E. Schaeffer Filho</author>
+<title>Adaptive Multipath Routing based on Hybrid Data and Control Plane Operation.</title>
+<pages>730-738</pages>
+<year>2019</year>
+<booktitle>INFOCOM</booktitle>
+<ee>https://doi.org/10.1109/INFOCOM.2019.8737398</ee>
+<crossref>conf/infocom/2019</crossref>
+<url>db/conf/infocom/infocom2019.html#PizzuttiF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/CunhaASCCB0SSG19" mdate="2024-08-04">
+<author orcid="0000-0002-4566-0198" pid="185/2475">Vitor A. Cunha</author>
+<author orcid="0000-0003-0107-6253" pid="53/223">Rui L. Aguiar</author>
+<author pid="82/7269">Eduardo da Silva</author>
+<author pid="09/9978">Marcio Barbosa de Carvalho</author>
+<author pid="65/5952">Daniel Corujo</author>
+<author orcid="0000-0002-5029-6191" pid="92/3264">Jo&#227;o Paulo Barraca</author>
+<author orcid="0000-0002-5848-2802" pid="30/262">Diogo Gomes 0001</author>
+<author pid="89/1649">Alberto E. Schaeffer-Filho</author>
+<author pid="64/6563">Carlos R. P. dos Santos</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<title>A Network Service for Preventing Data Leakage from IoT Cloud-assisted Equipment.</title>
+<pages>1-7</pages>
+<year>2019</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC47284.2019.8969719</ee>
+<crossref>conf/iscc/2019</crossref>
+<url>db/conf/iscc/iscc2019.html#CunhaASCCB0SSG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/PossebonSGSM19" mdate="2024-08-04">
+<author pid="257/5567">Isadora P. Possebon</author>
+<author pid="170/4033">Anderson Santos da Silva</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author pid="89/1649">Alberto E. Schaeffer-Filho</author>
+<author orcid="0000-0002-7996-6216" pid="71/5300">Angelos K. Marnerides</author>
+<title>Improved Network Traffic Classification Using Ensemble Learning.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC47284.2019.8969637</ee>
+<crossref>conf/iscc/2019</crossref>
+<url>db/conf/iscc/iscc2019.html#PossebonSGSM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/SilvaS19" mdate="2020-02-03">
+<author pid="170/4033">Anderson Santos da Silva</author>
+<author pid="89/1649">Alberto Schaeffer-Filho</author>
+<title>ARMOR: An Architecture for Diagnosis and Remediation of Network Misconfigurations.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC47284.2019.8969733</ee>
+<crossref>conf/iscc/2019</crossref>
+<url>db/conf/iscc/iscc2019.html#SilvaS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/ParizottoCF19" mdate="2021-02-08">
+<author pid="245/3096">Ricardo Parizotto</author>
+<author pid="245/3154">Lucas Castanheira</author>
+<author pid="89/1649">Alberto Egon Schaeffer Filho</author>
+<title>Abordagem de Composi&#231;&#227;o de Programas P4 em Redes Program&#225;veis.</title>
+<pages>1028-1041</pages>
+<year>2019</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc.2019.7420</ee>
+<crossref>conf/sbrc/2019</crossref>
+<url>db/conf/sbrc/sbrc2019.html#ParizottoCF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/TavaresMGSFBTGD18" mdate="2025-03-03">
+<author pid="224/6964">Thales Nicolai Tavares</author>
+<author pid="203/6442">Leonardo da Cruz Marcuzzo</author>
+<author orcid="0000-0003-1544-6315" pid="224/6851">Vinicius Fulber-Garcia</author>
+<author orcid="0000-0001-7620-3793" pid="224/2102">Giovanni Ven&#226;ncio de Souza</author>
+<author orcid="0000-0002-0208-0521" pid="180/3022">Muriel Figueredo Franco</author>
+<author orcid="0000-0001-5112-6381" pid="147/1151">Lucas Bondan</author>
+<author orcid="0000-0003-4824-1199" pid="30/888">Filip De Turck</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author pid="02/3940">Elias Proc&#243;pio Duarte Jr.</author>
+<author pid="64/6563">Carlos Raniery Paula dos Santos</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto Egon Schaeffer Filho</author>
+<title>NIEP: NFV Infrastructure Emulation Platform.</title>
+<pages>173-180</pages>
+<year>2018</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2018.00037</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AINA.2018.00037</ee>
+<crossref>conf/aina/2018</crossref>
+<url>db/conf/aina/aina2018.html#TavaresMGSFBTGD18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conext/NevesFFB18" mdate="2024-10-06">
+<author pid="129/2290">Miguel C. Neves</author>
+<author pid="207/6596">Lucas Freire</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Verification of P4 programs in feasible time using assertions.</title>
+<pages>73-85</pages>
+<year>2018</year>
+<booktitle>CoNEXT</booktitle>
+<ee>https://doi.org/10.1145/3281411.3281421</ee>
+<crossref>conf/conext/2018</crossref>
+<url>db/conf/conext/conext2018.html#NevesFFB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/PizzuttiF18" mdate="2019-02-26">
+<author pid="236/2978">Marcelo Pizzutti</author>
+<author pid="89/1649">Alberto Egon Schaeffer Filho</author>
+<title>An Efficient Multipath Mechanism Based on the Flowlet Abstraction and P4.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2018.8647887</ee>
+<crossref>conf/globecom/2018</crossref>
+<url>db/conf/globecom/globecom2018.html#PizzuttiF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/SampaioFSGF18" mdate="2024-10-06">
+<author pid="230/1789">Lauren S. R. Sampaio</author>
+<author orcid="0000-0002-9961-1252" pid="155/4367">Pedro H. A. Faustini</author>
+<author pid="170/4033">Anderson Santos da Silva</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<title>Using NFV and Reinforcement Learning for Anomalies Detection and Mitigation in SDN.</title>
+<pages>432-437</pages>
+<year>2018</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2018.8538614</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2018.8538614</ee>
+<crossref>conf/iscc/2018</crossref>
+<url>db/conf/iscc/iscc2018.html#SampaioFSGF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/CunhaCCB0FSGA18" mdate="2024-08-04">
+<author orcid="0000-0002-4566-0198" pid="185/2475">Vitor A. Cunha</author>
+<author pid="09/9978">M&#225;rcio Barbosa de Carvalho</author>
+<author pid="65/5952">Daniel Corujo</author>
+<author orcid="0000-0002-5029-6191" pid="92/3264">Jo&#227;o Paulo Barraca</author>
+<author orcid="0000-0002-5848-2802" pid="30/262">Diogo Gomes 0001</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author pid="64/6563">Carlos Raniery Paula dos Santos</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author pid="53/223">Rui L. Aguiar</author>
+<title>An SFC-enabled approach for processing SSL/TLS encrypted traffic in Future Enterprise Networks.</title>
+<pages>1013-1019</pages>
+<year>2018</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2018.8538564</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2018.8538564</ee>
+<crossref>conf/iscc/2018</crossref>
+<url>db/conf/iscc/iscc2018.html#CunhaCCB0FSGA18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nfvsdn/SousaCCCB0FSGA18" mdate="2024-08-04">
+<author pid="202/7746">Eduardo Sousa</author>
+<author orcid="0000-0002-4566-0198" pid="185/2475">Vitor A. Cunha</author>
+<author pid="09/9978">Marcio Barbosa de Carvalho</author>
+<author pid="65/5952">Daniel Corujo</author>
+<author orcid="0000-0002-5029-6191" pid="92/3264">Jo&#227;o Paulo Barraca</author>
+<author orcid="0000-0002-5848-2802" pid="30/262">Diogo Gomes 0001</author>
+<author pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author pid="64/6563">Carlos Raniery Paula dos Santos</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author pid="53/223">Rui L. Aguiar</author>
+<title>Orchestrating an SFC-enabled SSL/TLS traffic processing architecture using MANO.</title>
+<pages>1-7</pages>
+<year>2018</year>
+<booktitle>NFV-SDN</booktitle>
+<ee>https://doi.org/10.1109/NFV-SDN.2018.8725675</ee>
+<crossref>conf/nfvsdn/2018</crossref>
+<url>db/conf/nfvsdn/nfvsdn2018.html#SousaCCCB0FSGA18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/PfitscherJSFSFG18" mdate="2024-10-06">
+<author orcid="0000-0003-0539-2237" pid="146/3489">Ricardo J. Pfitscher</author>
+<author orcid="0000-0003-0624-5001" pid="144/9529">Arthur Selle Jacobs</author>
+<author orcid="0000-0002-7989-5286" pid="184/6021">Eder J. Scheid</author>
+<author orcid="0000-0002-0208-0521" pid="180/3022">Muriel Figueredo Franco</author>
+<author pid="11/8505">Ricardo Luis dos Santos</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<title>A model for quantifying performance degradation in virtual network function service chains.</title>
+<pages>1-9</pages>
+<year>2018</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2018.8406268</ee>
+<crossref>conf/noms/2018</crossref>
+<url>db/conf/noms/noms2018.html#PfitscherJSFSFG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/SchardongNF18" mdate="2021-10-14">
+<author orcid="0000-0003-4492-163X" pid="167/3639">Frederico Schardong</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<title>Providing cognitive components with a bidding heuristic for emergent NFV orchestration.</title>
+<pages>1-9</pages>
+<year>2018</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2018.8406269</ee>
+<crossref>conf/noms/2018</crossref>
+<url>db/conf/noms/noms2018.html#SchardongNF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcomm/BondanFFGMSSVD18" mdate="2025-03-03">
+<author orcid="0000-0001-5112-6381" pid="147/1151">Lucas Bondan</author>
+<author orcid="0000-0002-0208-0521" pid="180/3022">Muriel Figueredo Franco</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author pid="203/6442">Leonardo da Cruz Marcuzzo</author>
+<author pid="224/2127">Cassiano A. D. S. Schneider</author>
+<author pid="64/6563">Carlos Raniery Paula dos Santos</author>
+<author orcid="0000-0001-7620-3793" pid="224/2102">Giovanni Ven&#226;ncio</author>
+<author pid="02/3940">Elias P. Duarte Jr.</author>
+<title>FENDE: Marketplace and Federated Ecosystem for the Distribution and Execution of VNFs.</title>
+<pages>135-137</pages>
+<year>2018</year>
+<booktitle>SIGCOMM Posters and Demos</booktitle>
+<ee>https://doi.org/10.1145/3234200.3234235</ee>
+<crossref>conf/sigcomm/2018p</crossref>
+<url>db/conf/sigcomm/p2018.html#BondanFFGMSSVD18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sosr/FreireNLLFB18" mdate="2024-10-06">
+<author pid="207/6596">Lucas Freire</author>
+<author pid="129/2290">Miguel C. Neves</author>
+<author pid="217/1003">Lucas Leal</author>
+<author pid="l/KirillLevchenko">Kirill Levchenko</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Uncovering Bugs in P4 Programs with Assertion-based Verification.</title>
+<pages>4:1-4:7</pages>
+<year>2018</year>
+<booktitle>SOSR</booktitle>
+<ee>https://doi.org/10.1145/3185467.3185499</ee>
+<crossref>conf/sosr/2018</crossref>
+<url>db/conf/sosr/sosr2018.html#FreireNLLFB18</url>
+</inproceedings>
+</r>
+<r><article key="journals/jnca/NunesSF17" mdate="2025-03-03">
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author orcid="0000-0003-4492-163X" pid="167/3639">Frederico Schardong</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<title>BDI2DoS: An application using collaborating BDI agents to combat DDoS attacks.</title>
+<pages>14-24</pages>
+<year>2017</year>
+<volume>84</volume>
+<journal>J. Netw. Comput. Appl.</journal>
+<ee>https://doi.org/10.1016/j.jnca.2017.01.035</ee>
+<url>db/journals/jnca/jnca84.html#NunesSF17</url>
+</article>
+</r>
+<r><article key="journals/jnca/MachadoWGF17" mdate="2024-08-04">
+<author pid="147/1039">Cristian Cleder Machado</author>
+<author orcid="0000-0002-7686-8370" pid="71/7494">Juliano Araujo Wickboldt</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<title>ARKHAM: An Advanced Refinement toolkit for Handling Service Level Agreements in Software-Defined Networking.</title>
+<pages>1-16</pages>
+<year>2017</year>
+<volume>90</volume>
+<journal>J. Netw. Comput. Appl.</journal>
+<ee>https://doi.org/10.1016/j.jnca.2017.04.009</ee>
+<url>db/journals/jnca/jnca90.html#MachadoWGF17</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccs/FreireNFB17" mdate="2024-10-06">
+<author pid="207/6596">Lucas Freire</author>
+<author pid="129/2290">Miguel C. Neves</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>POSTER: Finding Vulnerabilities in P4 Programs with Assertion-based Verification.</title>
+<pages>2495-2497</pages>
+<year>2017</year>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/3133956.3138837</ee>
+<crossref>conf/ccs/2017</crossref>
+<url>db/conf/ccs/ccs2017.html#FreireNFB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/im/SchardongNF17" mdate="2021-10-14">
+<author orcid="0000-0003-4492-163X" pid="167/3639">Frederico Schardong</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<title>A distributed NFV orchestrator based on BDI reasoning.</title>
+<pages>107-115</pages>
+<year>2017</year>
+<booktitle>IM</booktitle>
+<ee>https://doi.org/10.23919/INM.2017.7987270</ee>
+<crossref>conf/im/2017</crossref>
+<url>db/conf/im/im2017.html#SchardongNF17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/im/ScheidMFSPFG17" mdate="2024-10-06">
+<author orcid="0000-0002-7989-5286" pid="184/6021">Eder J. Scheid</author>
+<author pid="147/1039">Cristian Cleder Machado</author>
+<author orcid="0000-0002-0208-0521" pid="180/3022">Muriel Figueredo Franco</author>
+<author pid="11/8505">Ricardo Luis dos Santos</author>
+<author orcid="0000-0003-0539-2237" pid="146/3489">Ricardo J. Pfitscher</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<title>INSpIRE: Integrated NFV-based Intent Refinement Environment.</title>
+<pages>186-194</pages>
+<year>2017</year>
+<booktitle>IM</booktitle>
+<ee>https://doi.org/10.23919/INM.2017.7987279</ee>
+<crossref>conf/im/2017</crossref>
+<url>db/conf/im/im2017.html#ScheidMFSPFG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/im/MarcuzzoGCCBAFG17" mdate="2024-08-04">
+<author pid="203/6442">Leonardo da Cruz Marcuzzo</author>
+<author orcid="0000-0003-1544-6315" pid="224/6851">Vinicius Fulber-Garcia</author>
+<author orcid="0000-0002-4566-0198" pid="185/2475">Vitor A. Cunha</author>
+<author orcid="0000-0002-7484-1027" pid="65/5952">Daniel Corujo</author>
+<author orcid="0000-0002-5029-6191" pid="92/3264">Jo&#227;o Paulo Barraca</author>
+<author orcid="0000-0003-0107-6253" pid="53/223">Rui L. Aguiar</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author pid="64/6563">Carlos Raniery Paula dos Santos</author>
+<title>Click-on-OSv: A platform for running Click-based middleboxes.</title>
+<pages>885-886</pages>
+<year>2017</year>
+<booktitle>IM</booktitle>
+<ee>https://doi.org/10.23919/INM.2017.7987396</ee>
+<crossref>conf/im/2017</crossref>
+<url>db/conf/im/im2017.html#MarcuzzoGCCBAFG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/FaustiniSGS17" mdate="2022-01-18">
+<author pid="155/4367">Pedro H. A. Faustini</author>
+<author pid="170/4033">Anderson Santos da Silva</author>
+<author pid="52/4475">Lisandro Z. Granville</author>
+<author pid="89/1649">Alberto E. Schaeffer-Filho</author>
+<title>Emprego de NFV e Aprendizagem por Refor&#231;o para Detectar e Mitigar Anomalias em Redes Definidas por Software.</title>
+<year>2017</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://sol.sbc.org.br/index.php/sbrc/article/view/2659</ee>
+<crossref>conf/sbrc/2017</crossref>
+<url>db/conf/sbrc/sbrc2017.html#FaustiniSGS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/FrancoSFG16" mdate="2024-08-04">
+<author orcid="0000-0002-0208-0521" pid="180/3022">Muriel Figueredo Franco</author>
+<author pid="11/8505">Ricardo Luis dos Santos</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<title>VISION - Interactive and Selective Visualization for Management of NFV-Enabled Networks.</title>
+<pages>274-281</pages>
+<year>2016</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2016.26</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AINA.2016.26</ee>
+<crossref>conf/aina/2016</crossref>
+<url>db/conf/aina/aina2016.html#FrancoSFG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/MartinsSKWFGP16" mdate="2024-08-04">
+<author orcid="0000-0001-8554-1786" pid="180/2949">Rafael de Jesus Martins</author>
+<author pid="180/3010">Vinicius Garcez Schaurich</author>
+<author orcid="0000-0001-7291-7780" pid="164/7946">Luis Augusto Dias Knob</author>
+<author orcid="0000-0002-7686-8370" pid="71/7494">Juliano Araujo Wickboldt</author>
+<author pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author orcid="0000-0001-6728-2725" pid="82/5985">Marcelo Pias</author>
+<title>Performance Analysis of 6LoWPAN and CoAP for Secure Communications in Smart Homes.</title>
+<pages>1027-1034</pages>
+<year>2016</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2016.82</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AINA.2016.82</ee>
+<crossref>conf/aina/2016</crossref>
+<url>db/conf/aina/aina2016.html#MartinsSKWFGP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/compsac/SilvaSWSGS16" mdate="2025-05-31">
+<author pid="164/7972">Eduardo Germano da Silva</author>
+<author pid="170/4033">Anderson Santos da Silva</author>
+<author orcid="0000-0002-7686-8370" pid="71/7494">Juliano Araujo Wickboldt</author>
+<author orcid="0000-0002-8990-6751" pid="86/5797-1">Paul Smith 0001</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<title>A One-Class NIDS for SDN-Based SCADA Systems.</title>
+<pages>303-312</pages>
+<year>2016</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2016.32</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/COMPSAC.2016.32</ee>
+<crossref>conf/compsac/2016</crossref>
+<url>db/conf/compsac/compsac2016.html#SilvaSWSGS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/ScheidMSFG16" mdate="2024-10-06">
+<author orcid="0000-0002-7989-5286" pid="184/6021">Eder J. Scheid</author>
+<author pid="147/1039">Cristian Cleder Machado</author>
+<author pid="11/8505">Ricardo Luis dos Santos</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<title>Policy-based dynamic service chaining in Network Functions Virtualization.</title>
+<pages>340-345</pages>
+<year>2016</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2016.7543763</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2016.7543763</ee>
+<crossref>conf/iscc/2016</crossref>
+<url>db/conf/iscc/iscc2016.html#ScheidMSFG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/MachadoGF16" mdate="2024-08-04">
+<author pid="147/1039">Cristian Cleder Machado</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<title>ANSwer: Combining NFV and SDN features for network resilience strategies.</title>
+<pages>391-396</pages>
+<year>2016</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2016.7543771</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2016.7543771</ee>
+<crossref>conf/iscc/2016</crossref>
+<url>db/conf/iscc/iscc2016.html#MachadoGF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/PfitscherSSOPFG16" mdate="2024-10-06">
+<author orcid="0000-0003-0539-2237" pid="146/3489">Ricardo J. Pfitscher</author>
+<author orcid="0000-0002-7989-5286" pid="184/6021">Eder J. Scheid</author>
+<author pid="11/8505">Ricardo Luis dos Santos</author>
+<author pid="91/1540">Rafael R. Obelheiro</author>
+<author pid="18/10271">Maur&#237;cio Aronne Pillon</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<title>DReAM - a distributed result-aware monitor for Network Functions Virtualization.</title>
+<pages>663-668</pages>
+<year>2016</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2016.7543813</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2016.7543813</ee>
+<crossref>conf/iscc/2016</crossref>
+<url>db/conf/iscc/iscc2016.html#PfitscherSSOPFG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/SilvaWGF16" mdate="2024-08-04">
+<author pid="170/4033">Anderson Santos da Silva</author>
+<author orcid="0000-0002-7686-8370" pid="71/7494">Juliano Araujo Wickboldt</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<title>ATLANTIC: A framework for anomaly traffic detection, classification, and mitigation in SDN.</title>
+<pages>27-35</pages>
+<year>2016</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2016.7502793</ee>
+<crossref>conf/noms/2016</crossref>
+<url>db/conf/noms/noms2016.html#SilvaWGF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/WermannBSFGB16" mdate="2024-10-06">
+<author pid="182/6569">Alexandre Gustavo Wermann</author>
+<author pid="182/6591">Marcelo Cardoso Bortolozzo</author>
+<author pid="164/7972">Eduardo Germano da Silva</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>ASTORIA: A framework for attack simulation and evaluation in smart grids.</title>
+<pages>273-280</pages>
+<year>2016</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2016.7502822</ee>
+<crossref>conf/noms/2016</crossref>
+<url>db/conf/noms/noms2016.html#WermannBSFGB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pscc/LangerSHF16" mdate="2025-05-31">
+<author pid="44/4475">Lucie Langer</author>
+<author orcid="0000-0002-8990-6751" pid="86/5797-1">Paul Smith 0001</author>
+<author pid="63/4210">Martin Hutle</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<title>Analysing cyber-physical attacks to a Smart Grid: A voltage control use case.</title>
+<pages>1-7</pages>
+<year>2016</year>
+<booktitle>PSCC</booktitle>
+<ee>https://doi.org/10.1109/PSCC.2016.7540819</ee>
+<crossref>conf/pscc/2016</crossref>
+<url>db/conf/pscc/pscc2016.html#LangerSHF16</url>
+</inproceedings>
+</r>
+<r><article key="journals/cn/SilvaSMF15" mdate="2025-05-31">
+<author orcid="0000-0003-1313-879X" pid="170/4033">Anderson Santos da Silva</author>
+<author orcid="0000-0002-8990-6751" pid="86/5797-1">Paul Smith 0001</author>
+<author orcid="0000-0002-8727-9440" pid="52/495">Andreas Mauthe</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<title>Resilience support in software-defined networking: A survey.</title>
+<pages>189-207</pages>
+<year>2015</year>
+<volume>92</volume>
+<journal>Comput. Networks</journal>
+<ee>https://doi.org/10.1016/j.comnet.2015.09.012</ee>
+<url>db/journals/cn/cn92.html#SilvaSMF15</url>
+</article>
+</r>
+<r><article key="journals/icl/MarneridesSFM15" mdate="2025-05-31">
+<author orcid="0000-0002-7996-6216" pid="71/5300">Angelos K. Marnerides</author>
+<author orcid="0000-0002-8990-6751" pid="86/5797-1">Paul Smith 0001</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0002-8727-9440" pid="52/495">Andreas Mauthe</author>
+<title>Power Consumption Profiling Using Energy Time-Frequency Distributions in Smart Grids.</title>
+<pages>46-49</pages>
+<year>2015</year>
+<volume>19</volume>
+<journal>IEEE Commun. Lett.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/LCOMM.2014.2371035</ee>
+<url>db/journals/icl/icl19.html#MarneridesSFM15</url>
+</article>
+</r>
+<r><article key="journals/jnsm/FilhoLS15" mdate="2020-10-26">
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author pid="l/ECLupu">Emil C. Lupu</author>
+<author orcid="0000-0003-3920-0416" pid="97/5000">Morris Sloman</author>
+<title>Federating Policy-Driven Autonomous Systems: Interaction Specification and Management Patterns.</title>
+<pages>753-793</pages>
+<year>2015</year>
+<volume>23</volume>
+<journal>J. Netw. Syst. Manag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10922-014-9317-5</ee>
+<url>db/journals/jnsm/jnsm23.html#FilhoLS15</url>
+</article>
+</r>
+<r><inproceedings key="conf/im/SilvaKWGGF15" mdate="2024-08-04">
+<author pid="164/7972">Eduardo Germano da Silva</author>
+<author orcid="0000-0001-7291-7780" pid="164/7946">Luis Augusto Dias Knob</author>
+<author orcid="0000-0002-7686-8370" pid="71/7494">Juliano Araujo Wickboldt</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<title>Capitalizing on SDN-based SCADA systems: An anti-eavesdropping case-study.</title>
+<pages>165-173</pages>
+<year>2015</year>
+<booktitle>IM</booktitle>
+<ee>https://doi.org/10.1109/INM.2015.7140289</ee>
+<crossref>conf/im/2015</crossref>
+<url>db/conf/im/im2015.html#SilvaKWGGF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/im/MachadoWGF15" mdate="2024-08-04">
+<author pid="147/1039">Cristian Cleder Machado</author>
+<author orcid="0000-0002-7686-8370" pid="71/7494">Juliano Araujo Wickboldt</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<title>Policy authoring for software-defined networking management.</title>
+<pages>216-224</pages>
+<year>2015</year>
+<booktitle>IM</booktitle>
+<ee>https://doi.org/10.1109/INM.2015.7140295</ee>
+<crossref>conf/im/2015</crossref>
+<url>db/conf/im/im2015.html#MachadoWGF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/MachadoWGF15" mdate="2024-08-04">
+<author pid="147/1039">Cristian Cleder Machado</author>
+<author orcid="0000-0002-7686-8370" pid="71/7494">Juliano Araujo Wickboldt</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<title>An EC-based formalism for policy refinement in software-defined networking.</title>
+<pages>496-501</pages>
+<year>2015</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2015.7405563</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2015.7405563</ee>
+<crossref>conf/iscc/2015</crossref>
+<url>db/conf/iscc/iscc2015.html#MachadoWGF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/SilvaWSMM15" mdate="2023-03-24">
+<author pid="170/4033">Anderson Santos da Silva</author>
+<author orcid="0000-0002-7686-8370" pid="71/7494">Juliano Araujo Wickboldt</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0002-7996-6216" pid="71/5300">Angelos K. Marnerides</author>
+<author orcid="0000-0002-8727-9440" pid="52/495">Andreas Mauthe</author>
+<title>Tool support for the evaluation of anomaly traffic classification for network resilience.</title>
+<pages>514-519</pages>
+<year>2015</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2015.7405566</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2015.7405566</ee>
+<crossref>conf/iscc/2015</crossref>
+<url>db/conf/iscc/iscc2015.html#SilvaWSMM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/SchmidtGFDH15" mdate="2023-03-24">
+<author pid="176/1055">Felipe Mathias Schmidt</author>
+<author pid="b/ClaudioFernandoResinGeyer">Cl&#225;udio F. R. Geyer</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author pid="d/SDessloch">Stefan De&#223;loch</author>
+<author pid="49/2905-1">Yong Hu 0001</author>
+<title>Change data capture in NoSQL databases: A functional and performance comparison.</title>
+<pages>562-567</pages>
+<year>2015</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2015.7405574</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2015.7405574</ee>
+<crossref>conf/iscc/2015</crossref>
+<url>db/conf/iscc/iscc2015.html#SchmidtGFDH15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nca/SilvaMBGF15" mdate="2024-08-04">
+<author pid="170/4033">Anderson Santos da Silva</author>
+<author pid="147/1039">Cristian Cleder Machado</author>
+<author pid="174/2101">Rodolfo Vebber Bisol</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<title>Identification and Selection of Flow Features for Accurate Traffic Classification in SDN.</title>
+<pages>134-141</pages>
+<year>2015</year>
+<booktitle>NCA</booktitle>
+<ee>https://doi.org/10.1109/NCA.2015.12</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/NCA.2015.12</ee>
+<crossref>conf/nca/2015</crossref>
+<url>db/conf/nca/nca2015.html#SilvaMBGF15</url>
+</inproceedings>
+</r>
+<r><article key="journals/cm/FilhoSMH14" mdate="2025-05-31">
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0002-8990-6751" pid="86/5797-1">Paul Smith 0001</author>
+<author orcid="0000-0002-8727-9440" pid="52/495">Andreas Mauthe</author>
+<author orcid="0000-0001-6052-0559" pid="h/DavidHutchison">David Hutchison 0001</author>
+<title>Network resilience with reusable management patterns.</title>
+<pages>105-115</pages>
+<year>2014</year>
+<volume>52</volume>
+<journal>IEEE Commun. Mag.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/MCOM.2014.6852091</ee>
+<url>db/journals/cm/cm52.html#FilhoSMH14</url>
+</article>
+</r>
+<r><article key="journals/cn/MarneridesFM14" mdate="2020-02-19">
+<author orcid="0000-0002-7996-6216" pid="71/5300">Angelos K. Marnerides</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0002-8727-9440" pid="52/495">Andreas Mauthe</author>
+<title>Traffic anomaly diagnosis in Internet backbone networks: A survey.</title>
+<pages>224-243</pages>
+<year>2014</year>
+<volume>73</volume>
+<journal>Comput. Networks</journal>
+<ee>https://doi.org/10.1016/j.comnet.2014.08.007</ee>
+<url>db/journals/cn/cn73.html#MarneridesFM14</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/MachadoGFW14" mdate="2024-08-04">
+<author pid="147/1039">Cristian Cleder Machado</author>
+<author orcid="0000-0001-8956-8660" pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0002-7686-8370" pid="71/7494">Juliano Araujo Wickboldt</author>
+<title>Towards SLA Policy Refinement for QoS Management in Software-Defined Networking.</title>
+<pages>397-404</pages>
+<year>2014</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2014.148</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AINA.2014.148</ee>
+<crossref>conf/aina/2014</crossref>
+<url>db/conf/aina/aina2014.html#MachadoGFW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/SmithFHM14" mdate="2025-05-31">
+<author orcid="0000-0002-8990-6751" pid="86/5797-1">Paul Smith 0001</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0001-6052-0559" pid="h/DavidHutchison">David Hutchison 0001</author>
+<author orcid="0000-0002-8727-9440" pid="52/495">Andreas Mauthe</author>
+<title>Management patterns: SDN-enabled network resilience management.</title>
+<pages>1-9</pages>
+<year>2014</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2014.6838323</ee>
+<crossref>conf/noms/2014</crossref>
+<url>db/conf/noms/noms2014.html#SmithFHM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sose/SmithF14" mdate="2025-05-31">
+<author orcid="0000-0002-8990-6751" pid="86/5797-1">Paul Smith 0001</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<title>Management Patterns for Smart Grid Resilience.</title>
+<pages>415-416</pages>
+<year>2014</year>
+<booktitle>SOSE</booktitle>
+<ee>https://doi.org/10.1109/SOSE.2014.58</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SOSE.2014.58</ee>
+<crossref>conf/sose/2014</crossref>
+<url>db/conf/sose/sose2014.html#SmithF14</url>
+</inproceedings>
+</r>
+<r><incollection key="books/daglib/p/Schaeffer-FilhoSMH14" mdate="2025-05-31">
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0002-8990-6751" pid="86/5797-1">Paul Smith 0001</author>
+<author orcid="0000-0002-8727-9440" pid="52/495">Andreas Mauthe</author>
+<author orcid="0000-0001-6052-0559" pid="h/DavidHutchison">David Hutchison 0001</author>
+<title>Management Patterns for Network Resilience: Design and Verification of Policy Configurations.</title>
+<pages>85-95</pages>
+<year>2014</year>
+<booktitle>Cyberpatterns</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-04447-7_7</ee>
+<crossref>books/daglib/0033737</crossref>
+<url>db/books/collections/BZ2014.html#Schaeffer-FilhoSMH14</url>
+</incollection>
+</r>
+<r><incollection key="books/daglib/p/ShiraziSH14" mdate="2022-09-22">
+<author orcid="0000-0002-5404-3706" pid="141/5659">Noor-ul-Hassan Shirazi</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0001-6052-0559" pid="h/DavidHutchison">David Hutchison 0001</author>
+<title>Attack Pattern Recognition Through Correlating Cyber Situational Awareness in Computer Networks.</title>
+<pages>125-134</pages>
+<year>2014</year>
+<booktitle>Cyberpatterns</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-04447-7_10</ee>
+<crossref>books/daglib/0033737</crossref>
+<url>db/books/collections/BZ2014.html#ShiraziSH14</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/im/FilhoMHSYF13" mdate="2023-04-17">
+<author pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author pid="52/495">Andreas Mauthe</author>
+<author pid="h/DavidHutchison">David Hutchison 0001</author>
+<author pid="86/5797-1">Paul Smith 0001</author>
+<author pid="55/2008">Yue Yu</author>
+<author pid="06/1400">Michael Fry 0001</author>
+<title>PReSET: A toolset for the evaluation of network resilience strategies.</title>
+<pages>202-209</pages>
+<year>2013</year>
+<booktitle>IM</booktitle>
+<ee>https://ieeexplore.ieee.org/document/6572987/</ee>
+<crossref>conf/im/2013</crossref>
+<url>db/conf/im/im2013.html#FilhoMHSYF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/im/FilhoMHSYF13a" mdate="2023-04-17">
+<author pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author pid="52/495">Andreas Mauthe</author>
+<author pid="h/DavidHutchison">David Hutchison 0001</author>
+<author pid="86/5797-1">Paul Smith 0001</author>
+<author pid="55/2008">Yue Yu</author>
+<author pid="06/1400">Michael Fry 0001</author>
+<title>Simulation and evaluation of network resilience with PReSET.</title>
+<pages>1086-1087</pages>
+<year>2013</year>
+<booktitle>IM</booktitle>
+<ee>https://ieeexplore.ieee.org/document/6573141/</ee>
+<crossref>conf/im/2013</crossref>
+<url>db/conf/im/im2013.html#FilhoMHSYF13a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/FilhoSMHYF12" mdate="2025-05-31">
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0002-8990-6751" pid="86/5797-1">Paul Smith 0001</author>
+<author orcid="0000-0002-8727-9440" pid="52/495">Andreas Mauthe</author>
+<author orcid="0000-0001-6052-0559" pid="h/DavidHutchison">David Hutchison 0001</author>
+<author pid="55/2008">Yue Yu</author>
+<author pid="06/1400">Michael Fry 0001</author>
+<title>A framework for the design and evaluation of network resilience management.</title>
+<pages>401-408</pages>
+<year>2012</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2012.6211924</ee>
+<crossref>conf/noms/2012</crossref>
+<url>db/conf/noms/noms2012.html#FilhoSMHYF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/LoucaMF12" mdate="2017-06-05">
+<author pid="57/9446">Andreas Louca</author>
+<author pid="52/495">Andreas Mauthe</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<title>Efficient message-passing and autonomic management architecture for NGNs.</title>
+<pages>1119-1126</pages>
+<year>2012</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2012.6212038</ee>
+<crossref>conf/noms/2012</crossref>
+<url>db/conf/noms/noms2012.html#LoucaMF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nss/YuFPSF12" mdate="2025-05-31">
+<author pid="55/2008">Yue Yu</author>
+<author pid="06/1400">Michael Fry 0001</author>
+<author pid="75/6115">Bernhard Plattner</author>
+<author orcid="0000-0002-8990-6751" pid="86/5797-1">Paul Smith 0001</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<title>Resilience Strategies for Networked Malware Detection and Remediation.</title>
+<pages>233-247</pages>
+<year>2012</year>
+<booktitle>NSS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-34601-9_18</ee>
+<crossref>conf/nss/2012</crossref>
+<url>db/conf/nss/nss2012.html#YuFPSF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/drcn/YuFFSH11" mdate="2025-05-31">
+<author pid="55/2008">Yue Yu</author>
+<author pid="06/1400">Michael Fry 0001</author>
+<author pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0002-8990-6751" pid="86/5797-1">Paul Smith 0001</author>
+<author pid="h/DavidHutchison">David Hutchison 0001</author>
+<title>An adaptive approach to network resilience: Evolving challenge detection and mitigation.</title>
+<pages>172-179</pages>
+<year>2011</year>
+<booktitle>DRCN</booktitle>
+<ee>https://doi.org/10.1109/DRCN.2011.6076900</ee>
+<crossref>conf/drcn/2011</crossref>
+<url>db/conf/drcn/drcn2011.html#YuFFSH11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/FilhoSM11" mdate="2025-05-31">
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0002-8990-6751" pid="86/5797-1">Paul Smith 0001</author>
+<author orcid="0000-0002-8727-9440" pid="52/495">Andreas Mauthe</author>
+<title>Policy-driven network simulation: a resilience case study.</title>
+<pages>492-497</pages>
+<year>2011</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1982185.1982293</ee>
+<crossref>conf/sac/2011</crossref>
+<url>db/conf/sac/sac2011.html#FilhoSM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/simutools/PeoplesPFM11" mdate="2017-06-05">
+<author pid="11/5488">Cathryn Peoples</author>
+<author pid="61/4077">Gerard Parr</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author pid="52/495">Andreas Mauthe</author>
+<title>Towards the simulation of energy-efficient resilience management.</title>
+<pages>63-68</pages>
+<year>2011</year>
+<booktitle>SimuTools</booktitle>
+<ee>https://doi.org/10.4108/icst.simutools.2011.245564</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2151066</ee>
+<crossref>conf/simutools/2011</crossref>
+<url>db/conf/simutools/simutools2011.html#PeoplesPFM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aims/SmithFASKMH10" mdate="2025-05-31">
+<author orcid="0000-0002-8990-6751" pid="86/5797-1">Paul Smith 0001</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author pid="33/8237">Azman Ali</author>
+<author pid="77/2677">Marcus Sch&#246;ller</author>
+<author pid="11/7271">Nizar Kheir</author>
+<author orcid="0000-0002-8727-9440" pid="52/495">Andreas Mauthe</author>
+<author orcid="0000-0001-6052-0559" pid="h/DavidHutchison">David Hutchison 0001</author>
+<title>Strategies for Network Resilience: Capitalising on Policies.</title>
+<pages>118-122</pages>
+<year>2010</year>
+<booktitle>AIMS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-13986-4_18</ee>
+<ee type="oa">http://dl.ifip.org/db/conf/aims/aims2010/SmithFASKMH10.pdf</ee>
+<crossref>conf/aims/2010</crossref>
+<url>db/conf/aims/aims2010.html#SmithFASKMH10</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ethos/SchaefferFilho09" mdate="2022-04-05">
+<author pid="89/1649">Alberto E. Schaeffer Filho</author>
+<title>Supporting management interaction and composition of self-managed cells.</title>
+<year>2009</year>
+<school>Imperial College London, UK</school>
+<ee>https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.510755</ee>
+<note type="source">British Library, EThOS</note>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/ph/Schaeffer-FilhoLS09" mdate="2021-08-11">
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0002-2844-3917" pid="l/ECLupu">Emil C. Lupu</author>
+<author orcid="0000-0003-3920-0416" pid="97/5000">Morris Sloman</author>
+<title>Realising management and composition of Self-Managed Cells in pervasive healthcare.</title>
+<pages>1-8</pages>
+<year>2009</year>
+<booktitle>PervasiveHealth</booktitle>
+<ee>https://doi.org/10.4108/ICST.PERVASIVEHEALTH2009.5979</ee>
+<ee>https://ieeexplore.ieee.org/document/5191198/</ee>
+<crossref>conf/ph/2009</crossref>
+<url>db/conf/ph/ph2009.html#Schaeffer-FilhoLS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/policy/FilhoLSE09" mdate="2023-03-23">
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0002-2844-3917" pid="l/ECLupu">Emil C. Lupu</author>
+<author orcid="0000-0003-3920-0416" pid="97/5000">Morris Sloman</author>
+<author pid="e/SusanEisenbach">Susan Eisenbach</author>
+<title>Verification of Policy-Based Self-Managed Cell Interactions Using Alloy.</title>
+<pages>37-40</pages>
+<year>2009</year>
+<booktitle>POLICY</booktitle>
+<ee>https://doi.org/10.1109/POLICY.2009.24</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/POLICY.2009.24</ee>
+<crossref>conf/policy/2009</crossref>
+<url>db/conf/policy/policy2009.html#FilhoLSE09</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/LupuDSSHSTKS08" mdate="2020-10-26">
+<author orcid="0000-0002-2844-3917" pid="l/ECLupu">Emil Lupu</author>
+<author pid="70/3064">Naranker Dulay</author>
+<author orcid="0000-0003-3920-0416" pid="97/5000">Morris Sloman</author>
+<author pid="s/JSSventek">Joseph S. Sventek</author>
+<author pid="87/6549">Steven Heeps</author>
+<author orcid="0000-0002-6341-3406" pid="77/10700">Stephen D. Strowes</author>
+<author pid="83/2127">Kevin P. Twidle</author>
+<author orcid="0000-0003-3640-5010" pid="50/4112">Sye Loong Keoh</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<title>AMUSE: autonomic management of ubiquitous e-Health systems.</title>
+<pages>277-295</pages>
+<year>2008</year>
+<volume>20</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.1194</ee>
+<url>db/journals/concurrency/concurrency20.html#LupuDSSHSTKS08</url>
+</article>
+</r>
+<r><inproceedings key="conf/aims/FilhoLSKLC08" mdate="2022-03-16">
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0002-2844-3917" pid="l/ECLupu">Emil Lupu</author>
+<author pid="97/5000">Morris Sloman</author>
+<author pid="50/4112">Sye Loong Keoh</author>
+<author orcid="0000-0002-9438-0926" pid="l/JorgeLobo1">Jorge Lobo 0001</author>
+<author pid="93/6458">Seraphin B. Calo</author>
+<title>A Role-Based Infrastructure for the Management of Dynamic Communities.</title>
+<pages>1-14</pages>
+<year>2008</year>
+<booktitle>AIMS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-70587-1_1</ee>
+<ee type="oa">http://dl.ifip.org/db/conf/aims/aims2008/FilhoLSKLC08.pdf</ee>
+<ee>https://www.wikidata.org/entity/Q109585630</ee>
+<crossref>conf/aims/2008</crossref>
+<url>db/conf/aims/aims2008.html#FilhoLSKLC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/policy/BrodieGKKLBWCVFLS08" mdate="2023-03-23">
+<author pid="07/6892">Carolyn Brodie</author>
+<author pid="20/1816">David George</author>
+<author pid="94/1757">Clare-Marie Karat</author>
+<author pid="94/2065">John Karat</author>
+<author orcid="0000-0002-9438-0926" pid="l/JorgeLobo1">Jorge Lobo 0001</author>
+<author pid="46/859">Mandis Beigi</author>
+<author pid="68/4430">Xiping Wang</author>
+<author pid="93/6458">Seraphin B. Calo</author>
+<author pid="45/4989">Dinesh C. Verma</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0002-2844-3917" pid="l/ECLupu">Emil Lupu</author>
+<author orcid="0000-0003-3920-0416" pid="97/5000">Morris Sloman</author>
+<title>The Coalition Policy Management Portal for Policy Authoring, Verification, and Deployment.</title>
+<pages>247-249</pages>
+<year>2008</year>
+<booktitle>POLICY</booktitle>
+<ee>https://doi.org/10.1109/POLICY.2008.25</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/POLICY.2008.25</ee>
+<ee>https://www.wikidata.org/entity/Q109585643</ee>
+<crossref>conf/policy/2008</crossref>
+<url>db/conf/policy/policy2008.html#BrodieGKKLBWCVFLS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aims/FilhoL07" mdate="2017-05-21">
+<author pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author pid="l/ECLupu">Emil Lupu</author>
+<title>Abstractions to Support Interactions Between Self-Managed Cells.</title>
+<pages>160-163</pages>
+<year>2007</year>
+<crossref>conf/aims/2007</crossref>
+<booktitle>AIMS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-72986-0_15</ee>
+<ee>http://dl.ifip.org/db/conf/aims/aims2007/FilhoL07.pdf</ee>
+<url>db/conf/aims/aims2007.html#FilhoL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bsn/KeohTPSLDSHSSK07" mdate="2020-10-25">
+<author pid="50/4112">Sye Loong Keoh</author>
+<author pid="83/2127">Kevin P. Twidle</author>
+<author pid="74/6901">Nathaniel Pryce</author>
+<author pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author pid="l/ECLupu">Emil Lupu</author>
+<author pid="70/3064">Naranker Dulay</author>
+<author orcid="0000-0003-3920-0416" pid="97/5000">Morris Sloman</author>
+<author pid="87/6549">Steven Heeps</author>
+<author orcid="0000-0002-6341-3406" pid="77/10700">Stephen D. Strowes</author>
+<author pid="s/JSSventek">Joe Sventek</author>
+<author pid="06/3404">Eleftheria Katsiri</author>
+<title>Policy-based Management for Body-Sensor Networks.</title>
+<pages>92-98</pages>
+<year>2007</year>
+<booktitle>BSN</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-70994-7_16</ee>
+<crossref>conf/bsn/2007</crossref>
+<url>db/conf/bsn/bsn2007.html#KeohTPSLDSHSSK07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwsos/HeepsSDFLSS07" mdate="2020-10-25">
+<author pid="87/6549">Steven Heeps</author>
+<author pid="s/JSSventek">Joe Sventek</author>
+<author pid="70/3064">Naranker Dulay</author>
+<author pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author pid="l/ECLupu">Emil C. Lupu</author>
+<author orcid="0000-0003-3920-0416" pid="97/5000">Morris Sloman</author>
+<author orcid="0000-0002-6341-3406" pid="77/10700">Stephen D. Strowes</author>
+<title>Dynamic Ontology Mapping for Interacting Autonomous Systems.</title>
+<pages>255-263</pages>
+<year>2007</year>
+<crossref>conf/iwsos/2007</crossref>
+<booktitle>IWSOS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74917-2_20</ee>
+<url>db/conf/iwsos/iwsos2007.html#HeepsSDFLSS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobiquitous/KeohDLTSSHSS07" mdate="2023-03-23">
+<author orcid="0000-0003-3640-5010" pid="50/4112">Sye Loong Keoh</author>
+<author pid="70/3064">Naranker Dulay</author>
+<author orcid="0000-0002-2844-3917" pid="l/ECLupu">Emil Lupu</author>
+<author pid="83/2127">Kevin P. Twidle</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0003-3920-0416" pid="97/5000">Morris Sloman</author>
+<author pid="87/6549">Steven Heeps</author>
+<author orcid="0000-0002-6341-3406" pid="77/10700">Stephen D. Strowes</author>
+<author pid="s/JSSventek">Joseph S. Sventek</author>
+<title>Self-Managed Cell: A Middleware for Managing Body-Sensor Networks.</title>
+<pages>1-5</pages>
+<year>2007</year>
+<booktitle>MobiQuitous</booktitle>
+<ee>https://doi.org/10.1109/MOBIQ.2007.4451009</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MOBIQ.2007.4451009</ee>
+<ee>http://eudl.eu/doi/10.1109/MOBIQ.2007.4451009</ee>
+<crossref>conf/mobiquitous/2007</crossref>
+<url>db/conf/mobiquitous/mobiquitous2007.html#KeohDLTSSHSS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/saso/FilhoLDKTSHSS07" mdate="2023-03-24">
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0002-2844-3917" pid="l/ECLupu">Emil C. Lupu</author>
+<author pid="70/3064">Naranker Dulay</author>
+<author orcid="0000-0003-3640-5010" pid="50/4112">Sye Loong Keoh</author>
+<author pid="83/2127">Kevin P. Twidle</author>
+<author orcid="0000-0003-3920-0416" pid="97/5000">Morris Sloman</author>
+<author pid="87/6549">Steven Heeps</author>
+<author orcid="0000-0002-6341-3406" pid="77/10700">Stephen D. Strowes</author>
+<author pid="s/JSSventek">Joe Sventek</author>
+<title>Towards Supporting Interactions between Self-Managed Cells.</title>
+<pages>224-236</pages>
+<year>2007</year>
+<crossref>conf/saso/2007</crossref>
+<booktitle>SASO</booktitle>
+<ee>https://doi.org/10.1109/SASO.2007.64</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SASO.2007.64</ee>
+<url>db/conf/saso/saso2007.html#FilhoLDKTSHSS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/MoraesSSGYA05" mdate="2023-03-23">
+<author pid="07/2266">Mauricio Moraes</author>
+<author pid="92/3290">Luciano Cavalheiro da Silva</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author pid="b/ClaudioFernandoResinGeyer">Cl&#225;udio Fernando Resin Geyer</author>
+<author pid="y/AdenauerCYamin">Adenauer C. Yamin</author>
+<author pid="64/3911">Iara Augustin</author>
+<title>A Scalable Dissemination Service for the ISAM Architecture.</title>
+<pages>77-84</pages>
+<year>2005</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/CAHPC.2005.8</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CAHPC.2005.8</ee>
+<crossref>conf/sbac-pad/2005</crossref>
+<url>db/conf/sbac-pad/sbac-pad2005.html#MoraesSSGYA05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/soas/YaminASRFG05" mdate="2008-09-25">
+<author pid="y/AdenauerCYamin">Adenauer C. Yamin</author>
+<author pid="64/3911">Iara Augustin</author>
+<author pid="92/3290">Luciano Cavalheiro da Silva</author>
+<author pid="98/1545">Rodrigo Ara&#250;jo Real</author>
+<author pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author pid="b/ClaudioFernandoResinGeyer">Cl&#225;udio F. R. Geyer</author>
+<title>EXEHDA: adaptive middleware for building a pervasive grid environment.</title>
+<pages>203-219</pages>
+<year>2005</year>
+<crossref>conf/soas/2005</crossref>
+<booktitle>SOAS</booktitle>
+<ee>http://www.booksonline.iospress.nl/Content/View.aspx?piid=814</ee>
+<url>db/conf/soas/soas2005.html#YaminASRFG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hotp2p/FilhoSYAMG04" mdate="2023-03-23">
+<author pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author pid="92/3290">Luciano Cavalheiro da Silva</author>
+<author pid="y/AdenauerCYamin">Adenauer C. Yamin</author>
+<author pid="64/3911">Iara Augustin</author>
+<author pid="54/11070">Lincoln L. de Morais</author>
+<author pid="b/ClaudioFernandoResinGeyer">Cl&#225;udio F. R. Geyer</author>
+<title>PerDiS: a scalable resource discovery service for the ISAM pervasive environment.</title>
+<pages>80-85</pages>
+<year>2004</year>
+<booktitle>HOT-P2P</booktitle>
+<ee>https://doi.org/10.1109/PTPSYS.2004.15</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PTPSYS.2004.15</ee>
+<crossref>conf/hotp2p/2004</crossref>
+<url>db/conf/hotp2p/hotp2p2004.html#FilhoSYAMG04</url>
+</inproceedings>
+</r>
+<coauthors n="147" nc="3">
+<co c="0"><na f="a/Aguiar:Rui_L=" pid="53/223">Rui L. Aguiar</na></co>
+<co c="0"><na f="a/Ahmed:Toufik" pid="18/4550">Toufik Ahmed</na></co>
+<co c="0"><na f="a/Alchieri:Eduardo" pid="06/2528">Eduardo Alchieri</na></co>
+<co c="0"><na f="a/Ali:Azman" pid="33/8237">Azman Ali</na></co>
+<co c="0"><na f="a/Augustin:Iara" pid="64/3911">Iara Augustin</na></co>
+<co c="0"><na f="b/Barcellos:Marinho_P=" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</na></co>
+<co c="0"><na f="b/Barraca:Jo=atilde=o_Paulo" pid="92/3264">Jo&#227;o Paulo Barraca</na></co>
+<co c="0"><na f="b/Batista:Luis_M=_S=" pid="261/3607">Luis M. S. Batista</na></co>
+<co c="0"><na f="b/Beigi:Mandis" pid="46/859">Mandis Beigi</na></co>
+<co c="0" n="2"><na f="b/Benson:Theophilus" pid="49/7538">Theophilus Benson</na><na>Theophilus A. Benson</na></co>
+<co c="0"><na f="b/Bisol:Rodolfo_Vebber" pid="174/2101">Rodolfo Vebber Bisol</na></co>
+<co c="0"><na f="b/Bondan:Lucas" pid="147/1151">Lucas Bondan</na></co>
+<co c="2"><na f="b/Bondorf:Steffen" pid="64/9385">Steffen Bondorf</na></co>
+<co c="0"><na f="b/Bonetti:Fernanda" pid="267/2824">Fernanda Bonetti</na></co>
+<co c="0"><na f="b/Bonfim:Michel_S=" pid="118/0753">Michel S. Bonfim</na></co>
+<co c="0"><na f="b/Bordim:Jacir_Luiz" pid="23/5009">Jacir Luiz Bordim</na></co>
+<co c="0"><na f="b/Bortolozzo:Marcelo_Cardoso" pid="182/6591">Marcelo Cardoso Bortolozzo</na></co>
+<co c="0"><na f="b/Brodie:Carolyn" pid="07/6892">Carolyn Brodie</na></co>
+<co c="0"><na f="c/Calo:Seraphin_B=" pid="93/6458">Seraphin B. Calo</na></co>
+<co c="0"><na f="c/Carro:Luigi" pid="25/5214">Luigi Carro</na></co>
+<co c="0" n="2"><na f="c/Carvalho:Marcio_Barbosa_de" pid="09/9978">Marcio Barbosa de Carvalho</na><na>M&#225;rcio Barbosa de Carvalho</na></co>
+<co c="0"><na f="c/Carvalho:Ranyelson_Neres" pid="246/0525">Ranyelson Neres Carvalho</na></co>
+<co c="0"><na f="c/Castanheira:Lucas" pid="245/3154">Lucas Castanheira</na></co>
+<co c="2"><na f="c/Cattelan:Bruno" pid="275/2025">Bruno Cattelan</na></co>
+<co c="0"><na f="c/Coelho:Bruno_Loureiro" pid="349/9553">Bruno Loureiro Coelho</na></co>
+<co c="0" n="2"><na f="c/Cordeiro:Weverton_Luis_da_Costa" pid="96/2183">Weverton Luis da Costa Cordeiro</na><na>Weverton Cordeiro</na></co>
+<co c="0"><na f="c/Corujo:Daniel" pid="65/5952">Daniel Corujo</na></co>
+<co c="0"><na f="c/Costa:Lucas_Rodrigues" pid="169/1123">Lucas Rodrigues Costa</na></co>
+<co c="0"><na f="c/Cunha:Vitor_A=" pid="185/2475">Vitor A. Cunha</na></co>
+<co c="0"><na f="d/Dalmazo:Bruno_Lopes" pid="50/8505">Bruno Lopes Dalmazo</na></co>
+<co c="0"><na f="d/De=szlig=loch:Stefan" pid="d/SDessloch">Stefan De&#223;loch</na></co>
+<co c="0" n="2"><na f="d/Dobson:Simon_A=" pid="d/SimonADobson">Simon A. Dobson</na><na>Simon Dobson</na></co>
+<co c="0" n="2"><na f="d/Duarte_Jr=:Elias_P=" pid="02/3940">Elias P. Duarte Jr.</na><na>Elias Proc&#243;pio Duarte Jr.</na></co>
+<co c="0"><na f="d/Dulay:Naranker" pid="70/3064">Naranker Dulay</na></co>
+<co c="-1"><na f="e/Einsfeldt:Gustavo_Henrique_Ellwanger" pid="404/4386">Gustavo Henrique Ellwanger Einsfeldt</na></co>
+<co c="0"><na f="e/Eisenbach:Susan" pid="e/SusanEisenbach">Susan Eisenbach</na></co>
+<co c="0" n="2"><na f="f/Faustini:Pedro" pid="155/4367">Pedro Faustini</na><na>Pedro H. A. Faustini</na></co>
+<co c="0" n="2"><na f="f/Fernandes:Stenio_F=_L=" pid="09/6789">Stenio F. L. Fernandes</na><na>Stenio Fernandes</na></co>
+<co c="0"><na f="f/Festor:Olivier" pid="f/OlivierFestor">Olivier Festor</na></co>
+<co c="0"><na f="f/Filho:Roberto_Iraj=aacute=_Tavares_da_Costa" pid="79/1538">Roberto Iraj&#225; Tavares da Costa Filho</na></co>
+<co c="0"><na f="f/Franco:Muriel_Figueredo" pid="180/3022">Muriel Figueredo Franco</na></co>
+<co c="0"><na f="f/Freire:Lucas" pid="207/6596">Lucas Freire</na></co>
+<co c="0"><na f="f/Fry_0001:Michael" pid="06/1400">Michael Fry 0001</na></co>
+<co c="0" n="2"><na f="f/Fulber=Garcia:Vinicius" pid="224/6851">Vinicius Fulber-Garcia</na><na>Vin&#237;cius F&#252;lber-Garcia</na></co>
+<co c="0"><na f="g/Gaspary:Luciano_Paschoal" pid="g/LPGaspary">Luciano Paschoal Gaspary</na></co>
+<co c="0"><na f="g/George:David" pid="20/1816">David George</na></co>
+<co c="0" n="2"><na f="g/Geyer:Cl=aacute=udio_Fernando_Resin" pid="b/ClaudioFernandoResinGeyer">Cl&#225;udio Fernando Resin Geyer</na><na>Cl&#225;udio F. R. Geyer</na></co>
+<co c="0"><na f="g/Ghamri=Doudane:Yacine" pid="g/YacineGhamriDoudane">Yacine Ghamri-Doudane</na></co>
+<co c="0"><na f="g/Gomes_0001:Diogo" pid="30/262">Diogo Gomes 0001</na></co>
+<co c="0"><na f="g/Gonz=aacute=lez:Libardo_Andrey_Quintero" pid="296/1060">Libardo Andrey Quintero Gonz&#225;lez</na></co>
+<co c="0" n="2"><na f="g/Granville:Lisandro_Z=" pid="52/4475">Lisandro Z. Granville</na><na>Lisandro Zambenedetti Granville</na></co>
+<co c="0"><na f="h/Haque_0001:Israat" pid="209/8668">Israat Haque 0001</na></co>
+<co c="0"><na f="h/Heeps:Steven" pid="87/6549">Steven Heeps</na></co>
+<co c="0"><na f="h/Hu_0001:Yong" pid="49/2905-1">Yong Hu 0001</na></co>
+<co c="0"><na f="h/Huff:Alexandre" pid="236/3020">Alexandre Huff</na></co>
+<co c="0"><na f="h/Hutchison_0001:David" pid="h/DavidHutchison">David Hutchison 0001</na></co>
+<co c="0"><na f="h/Hutle:Martin" pid="63/4210">Martin Hutle</na></co>
+<co c="0"><na f="j/Jacobs:Arthur_Selle" pid="144/9529">Arthur Selle Jacobs</na></co>
+<co c="0"><na f="j/Jindal:Anish" pid="173/6851">Anish Jindal</na></co>
+<co c="0"><na f="k/Kang:Joon=Myung" pid="63/5816">Joon-Myung Kang</na></co>
+<co c="0"><na f="k/Karat:Clare=Marie" pid="94/1757">Clare-Marie Karat</na></co>
+<co c="0"><na f="k/Karat:John" pid="94/2065">John Karat</na></co>
+<co c="0"><na f="k/Katsiri:Eleftheria" pid="06/3404">Eleftheria Katsiri</na></co>
+<co c="0"><na f="k/Keoh:Sye_Loong" pid="50/4112">Sye Loong Keoh</na></co>
+<co c="0"><na f="k/Kheir:Nizar" pid="11/7271">Nizar Kheir</na></co>
+<co c="0"><na f="k/Knob:Luis_Augusto_Dias" pid="164/7946">Luis Augusto Dias Knob</na></co>
+<co c="0"><na f="l/Lahmadi:Abdelkader" pid="49/5526">Abdelkader Lahmadi</na></co>
+<co c="0"><na f="l/Langer:Lucie" pid="44/4475">Lucie Langer</na></co>
+<co c="0"><na f="l/Leal:Lucas" pid="217/1003">Lucas Leal</na></co>
+<co c="0"><na f="l/Levchenko:Kirill" pid="l/KirillLevchenko">Kirill Levchenko</na></co>
+<co c="0"><na f="l/Lobo_0001:Jorge" pid="l/JorgeLobo1">Jorge Lobo 0001</na></co>
+<co c="0"><na f="l/Lopes:Filipe_Bachini" pid="296/0987">Filipe Bachini Lopes</na></co>
+<co c="0"><na f="l/Louca:Andreas" pid="57/9446">Andreas Louca</na></co>
+<co c="0"><na f="l/Luizelli:Marcelo_Caggiani" pid="140/8276">Marcelo Caggiani Luizelli</na></co>
+<co c="0" n="2"><na f="l/Lupu:Emil_C=" pid="l/ECLupu">Emil C. Lupu</na><na>Emil Lupu</na></co>
+<co c="0"><na f="m/Machado:Cristian_Cleder" pid="147/1039">Cristian Cleder Machado</na></co>
+<co c="0" n="2"><na f="m/Madeira:Edmundo_Roberto_Mauro" pid="m/EdmundoRobertoMauroMadeira">Edmundo Roberto Mauro Madeira</na><na>Edmundo R. M. Madeira</na></co>
+<co c="0"><na f="m/Marcuzzo:Leonardo_da_Cruz" pid="203/6442">Leonardo da Cruz Marcuzzo</na></co>
+<co c="0"><na f="m/Marnerides:Angelos_K=" pid="71/5300">Angelos K. Marnerides</na></co>
+<co c="0"><na f="m/Marques:Jonatas_Adilson" pid="207/6326">Jonatas Adilson Marques</na></co>
+<co c="0"><na f="m/Martins:Rafael_de_Jesus" pid="180/2949">Rafael de Jesus Martins</na></co>
+<co c="0"><na f="m/Mauthe:Andreas" pid="52/495">Andreas Mauthe</na></co>
+<co c="0"><na f="m/Mello:Braulio" pid="330/6205">Braulio Mello</na></co>
+<co c="0"><na f="m/Moraes:Mauricio" pid="07/2266">Mauricio Moraes</na></co>
+<co c="0"><na f="m/Morais:Lincoln_L=_de" pid="54/11070">Lincoln L. de Morais</na></co>
+<co c="0"><na f="m/Mota:Vin=iacute=cius_F=_S=" pid="139/7372">Vin&#237;cius F. S. Mota</na></co>
+<co c="0" n="2"><na f="n/Nazar:Gabriel_L=" pid="18/9853">Gabriel L. Nazar</na><na>Gabriel Luca Nazar</na></co>
+<co c="0"><na f="n/Neves:Miguel_C=" pid="129/2290">Miguel C. Neves</na></co>
+<co c="0"><na f="n/Niemiec:Gabriel_S=" pid="261/3369">Gabriel S. Niemiec</na></co>
+<co c="0"><na f="n/Nobre:J=eacute=ferson_Campos" pid="78/7495">J&#233;ferson Campos Nobre</na></co>
+<co c="0"><na f="n/Nunes:Diego_Cardoso" pid="349/9505">Diego Cardoso Nunes</na></co>
+<co c="1"><na f="n/Nunes:Ingrid" pid="48/5352">Ingrid Nunes</na></co>
+<co c="0"><na f="o/Obelheiro:Rafael_R=" pid="91/1540">Rafael R. Obelheiro</na></co>
+<co c="0"><na f="p/Paim:Eduardo_C=" pid="282/8615">Eduardo C. Paim</na></co>
+<co c="0"><na f="p/Parizotto:Ricardo" pid="245/3096">Ricardo Parizotto</na></co>
+<co c="0" n="2"><na f="p/Parr:Gerard_P=" pid="61/4077">Gerard P. Parr</na><na>Gerard Parr</na></co>
+<co c="0"><na f="p/Peoples:Cathryn" pid="11/5488">Cathryn Peoples</na></co>
+<co c="0" n="2"><na f="p/Pfitscher:Ricardo_J=" pid="146/3489">Ricardo J. Pfitscher</na><na>Ricardo Jos&#233; Pfitscher</na></co>
+<co c="0"><na f="p/Pias:Marcelo" pid="82/5985">Marcelo Pias</na></co>
+<co c="0"><na f="p/Pillon:Maur=iacute=cio_Aronne" pid="18/10271">Maur&#237;cio Aronne Pillon</na></co>
+<co c="-1"><na f="p/Pizzutti:Marcelo" pid="236/2978">Marcelo Pizzutti</na></co>
+<co c="0"><na f="p/Plattner:Bernhard" pid="75/6115">Bernhard Plattner</na></co>
+<co c="0"><na f="p/Possebon:Isadora_P=" pid="257/5567">Isadora P. Possebon</na></co>
+<co c="0" n="2"><na f="p/Pryce:Nat" pid="74/6901">Nat Pryce</na><na>Nathaniel Pryce</na></co>
+<co c="0"><na f="p/Puttlitz:Cleiton" pid="394/9867">Cleiton Puttlitz</na></co>
+<co c="0"><na f="r/Real:Rodrigo_Ara=uacute=jo" pid="98/1545">Rodrigo Ara&#250;jo Real</na></co>
+<co c="0"><na f="r/Ribeiro:Iran" pid="287/7021">Iran Ribeiro</na></co>
+<co c="0"><na f="r/Ribeiro:Rafael_Hengen" pid="246/9450">Rafael Hengen Ribeiro</na></co>
+<co c="0"><na f="r/Roesler:Valter" pid="04/348">Valter Roesler</na></co>
+<co c="0"><na f="s/Sampaio:Lauren_S=_R=" pid="230/1789">Lauren S. R. Sampaio</na></co>
+<co c="0" n="2"><na f="s/Santos:Carlos_Raniery_Paula_dos" pid="64/6563">Carlos Raniery Paula dos Santos</na><na>Carlos R. P. dos Santos</na></co>
+<co c="0"><na f="s/Santos:Ricardo_Luis_dos" pid="11/8505">Ricardo Luis dos Santos</na></co>
+<co c="1"><na f="s/Schardong:Frederico" pid="167/3639">Frederico Schardong</na></co>
+<co c="0"><na f="s/Schaurich:Vinicius_Garcez" pid="180/3010">Vinicius Garcez Schaurich</na></co>
+<co c="0" n="2"><na f="s/Scheid:Eder_J=" pid="184/6021">Eder J. Scheid</na><na>Eder John Scheid</na></co>
+<co c="0"><na f="s/Schmidt:Felipe_Mathias" pid="176/1055">Felipe Mathias Schmidt</na></co>
+<co c="0"><na f="s/Schneider:Cassiano_A=_D=_S=" pid="224/2127">Cassiano A. D. S. Schneider</na></co>
+<co c="0"><na f="s/Sch=ouml=ller:Marcus" pid="77/2677">Marcus Sch&#246;ller</na></co>
+<co c="0"><na f="s/Shirazi:Noor=ul=Hassan" pid="141/5659">Noor-ul-Hassan Shirazi</na></co>
+<co c="0"><na f="s/Silva:Anderson_Santos_da" pid="170/4033">Anderson Santos da Silva</na></co>
+<co c="0" n="2"><na f="s/Silva_0001:Bruno_C=_da" pid="75/3139">Bruno C. da Silva 0001</na><na>Bruno Castro da Silva</na></co>
+<co c="0"><na f="s/Silva:Eduardo_da" pid="82/7269">Eduardo da Silva</na></co>
+<co c="0"><na f="s/Silva:Eduardo_Germano_da" pid="164/7972">Eduardo Germano da Silva</na></co>
+<co c="1"><na f="s/Silva:Fernando" pid="78/3071">Fernando Silva</na></co>
+<co c="0"><na f="s/Silva:Luciano_Cavalheiro_da" pid="92/3290">Luciano Cavalheiro da Silva</na></co>
+<co c="0"><na f="s/Silva:Marcus_Vinicius_Brito_da" pid="236/2816">Marcus Vinicius Brito da Silva</na></co>
+<co c="0"><na f="s/Sloman:Morris" pid="97/5000">Morris Sloman</na></co>
+<co c="0"><na f="s/Smith_0001:Paul" pid="86/5797-1">Paul Smith 0001</na></co>
+<co c="0"><na f="s/Sousa:Eduardo" pid="202/7746">Eduardo Sousa</na></co>
+<co c="0" n="2"><na f="s/Souza:Giovanni_Ven=acirc=ncio_de" pid="224/2102">Giovanni Ven&#226;ncio de Souza</na><na>Giovanni Ven&#226;ncio</na></co>
+<co c="0"><na f="s/Sterbenz:James_P=_G=" pid="65/5400">James P. G. Sterbenz</na></co>
+<co c="0"><na f="s/Stiller:Burkhard" pid="00/4292">Burkhard Stiller</na></co>
+<co c="0"><na f="s/Strowes:Stephen_D=" pid="77/10700">Stephen D. Strowes</na></co>
+<co c="0"><na f="s/Susin:Robert_Patrick" pid="394/8700">Robert Patrick Susin</na></co>
+<co c="0" n="2"><na f="s/Sventek:Joseph_S=" pid="s/JSSventek">Joseph S. Sventek</na><na>Joe Sventek</na></co>
+<co c="0"><na f="t/Tajbakhsh:Hesam" pid="285/3781">Hesam Tajbakhsh</na></co>
+<co c="0"><na f="t/Tavares:Thales_Nicolai" pid="224/6964">Thales Nicolai Tavares</na></co>
+<co c="0"><na f="t/Turck:Filip_De" pid="30/888">Filip De Turck</na></co>
+<co c="0"><na f="t/Twidle:Kevin_P=" pid="83/2127">Kevin P. Twidle</na></co>
+<co c="0"><na f="v/Verdi:F=aacute=bio_Luciano" pid="40/654">F&#225;bio Luciano Verdi</na></co>
+<co c="0"><na f="v/Verma:Dinesh_C=" pid="45/4989">Dinesh C. Verma</na></co>
+<co c="0"><na f="w/Wang:Xiping" pid="68/4430">Xiping Wang</na></co>
+<co c="0"><na f="w/Wermann:Alexandre_Gustavo" pid="182/6569">Alexandre Gustavo Wermann</na></co>
+<co c="0"><na f="w/Wickboldt:Juliano_Araujo" pid="71/7494">Juliano Araujo Wickboldt</na></co>
+<co c="0"><na f="y/Yamin:Adenauer_C=" pid="y/AdenauerCYamin">Adenauer C. Yamin</na></co>
+<co c="0"><na f="y/Yu:Yue" pid="55/2008">Yue Yu</na></co>
+<co c="0"><na f="z/Zembruzki:Luciano" pid="247/6079">Luciano Zembruzki</na></co>
+</coauthors>
+</dblpperson>
+

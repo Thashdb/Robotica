@@ -1,0 +1,969 @@
+<?xml version="1.0"?>
+<dblpperson name="Leonardo Montecchi" pid="30/2196" n="60">
+<person key="homepages/30/2196" mdate="2021-07-24">
+<author pid="30/2196">Leonardo Montecchi</author>
+<url>http://ic.unicamp.br/~leonardo/</url>
+<url>https://dl.acm.org/profile/81384602319</url>
+<url>https://orcid.org/0000-0002-7603-9695</url>
+</person>
+<r><inproceedings key="conf/issre/CeccarelliM24" mdate="2025-04-01">
+<author orcid="0000-0002-2291-2428" pid="31/1895">Andrea Ceccarelli</author>
+<author pid="30/2196">Leonardo Montecchi</author>
+<title>Better and safer autonomous driving with predicted object relevance.</title>
+<pages>329-336</pages>
+<year>2024</year>
+<booktitle>ISSRE (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/ISSREW63542.2024.00099</ee>
+<crossref>conf/issre/2024w</crossref>
+<url>db/conf/issre/issre2024w.html#CeccarelliM24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/prdc/ZoppiKCMB24" mdate="2025-04-01">
+<author pid="25/9388">Tommaso Zoppi</author>
+<author pid="317/1060">Fahad Ahmed KhoKhar</author>
+<author orcid="0000-0002-2291-2428" pid="31/1895">Andrea Ceccarelli</author>
+<author pid="30/2196">Leonardo Montecchi</author>
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<title>Fail-Controlled Classifiers: Do they Know when they don't Know?</title>
+<pages>43-54</pages>
+<year>2024</year>
+<booktitle>PRDC</booktitle>
+<ee>https://doi.org/10.1109/PRDC63035.2024.00018</ee>
+<crossref>conf/prdc/2024</crossref>
+<url>db/conf/prdc/prdc2024.html#ZoppiKCMB24</url>
+<stream>streams/conf/prdc</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/RonnestadCM24" mdate="2024-05-31">
+<author orcid="0009-0009-0354-9932" pid="375/6566">Andreas R&#248;nnestad</author>
+<author orcid="0000-0002-2291-2428" pid="31/1895">Andrea Ceccarelli</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<title>Validation of Safety Metrics for Object Detectors in Autonomous Driving.</title>
+<pages>1559-1568</pages>
+<year>2024</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3605098.3635907</ee>
+<crossref>conf/sac/2024</crossref>
+<url>db/conf/sac/sac2024.html#RonnestadCM24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2406-10232" mdate="2024-07-10">
+<author pid="31/1895">Andrea Ceccarelli</author>
+<author pid="30/2196">Leonardo Montecchi</author>
+<title>Object criticality for safer navigation.</title>
+<year>2024</year>
+<volume>abs/2406.10232</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2406.10232</ee>
+<url>db/journals/corr/corr2406.html#abs-2406-10232</url>
+</article>
+</r>
+<r><article key="journals/access/RodriguesPM23" mdate="2023-04-16">
+<author pid="183/7379">Elder Rodrigues Jr.</author>
+<author orcid="0000-0003-0717-3396" pid="259/0580">Jos&#233; D'Abruzzo Pereira</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<title>A Model-Driven Approach for the Management and Enforcement of Coding Conventions.</title>
+<pages>25735-25754</pages>
+<year>2023</year>
+<volume>11</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2023.3256886</ee>
+<url>db/journals/access/access11.html#RodriguesPM23</url>
+</article>
+</r>
+<r><article key="journals/access/CeccarelliM23" mdate="2025-01-19">
+<author orcid="0000-0002-2291-2428" pid="31/1895">Andrea Ceccarelli</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<title>Evaluating Object (Mis)Detection From a Safety and Reliability Perspective: Discussion and Measures.</title>
+<pages>44952-44963</pages>
+<year>2023</year>
+<volume>11</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2023.3272979</ee>
+<ee>https://www.wikidata.org/entity/Q125832619</ee>
+<url>db/journals/access/access11.html#CeccarelliM23</url>
+</article>
+</r>
+<r><article key="journals/jrie/MariottiBLMN23" mdate="2025-01-19">
+<author orcid="0000-0002-1776-9591" pid="332/8801">Francesco Mariotti</author>
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<author pid="43/1911">Paolo Lollini</author>
+<author pid="30/2196">Leonardo Montecchi</author>
+<author pid="187/6249">Simone Nardi</author>
+<title>An extension of the ADVISE Meta modeling framework and its application for an early-stage security analysis of a public transport supervision system.</title>
+<pages>263-281</pages>
+<year>2023</year>
+<month>September</month>
+<volume>9</volume>
+<journal>J. Reliab. Intell. Environ.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s40860-023-00209-5</ee>
+<ee>https://www.wikidata.org/entity/Q124880977</ee>
+<url>db/journals/jrie/jrie9.html#MariottiBLMN23</url>
+</article>
+</r>
+<r><article key="journals/ress/AraujoSSCM22" mdate="2022-09-10">
+<author pid="328/1076">Matheus Soares de Araujo</author>
+<author orcid="0000-0003-4352-1466" pid="00/2389">Leandro Dias da Silva</author>
+<author orcid="0000-0002-1753-1890" pid="154/5035">Alvaro Sobrinho</author>
+<author pid="23/3120">Paulo Cunha</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<title>Reliability analysis of multi-parameter monitoring systems for Intensive Care Units.</title>
+<pages>108638</pages>
+<year>2022</year>
+<volume>226</volume>
+<journal>Reliab. Eng. Syst. Saf.</journal>
+<ee>https://doi.org/10.1016/j.ress.2022.108638</ee>
+<url>db/journals/ress/ress226.html#AraujoSSCM22</url>
+</article>
+</r>
+<r><article key="journals/software/GallinaMOB22" mdate="2022-06-28">
+<author orcid="0000-0002-6952-1053" pid="34/3823">Barbara Gallina</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author pid="57/4649">Andr&#233; Lu&#237;z de Oliveira</author>
+<author pid="229/8815">Lucas Bressan</author>
+<title>Multiconcern, Dependability-Centered Assurance Via a Qualitative and Quantitative Coanalysis.</title>
+<pages>39-47</pages>
+<year>2022</year>
+<volume>39</volume>
+<journal>IEEE Softw.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/MS.2022.3167370</ee>
+<url>db/journals/software/software39.html#GallinaMOB22</url>
+</article>
+</r>
+<r><article key="journals/tr/MontecchiLB22" mdate="2023-07-27">
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author orcid="0000-0002-2364-2538" pid="43/1911">Paolo Lollini</author>
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<title>Stochastic Activity Networks Templates: Supporting Variability in Performability Models.</title>
+<pages>640-656</pages>
+<year>2022</year>
+<volume>71</volume>
+<journal>IEEE Trans. Reliab.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1109/TR.2021.3120979</ee>
+<url>db/journals/tr/tr71.html#MontecchiLB22</url>
+</article>
+</r>
+<r><inproceedings key="conf/edcc/MariottiTML22" mdate="2023-02-12">
+<author orcid="0000-0002-1776-9591" pid="332/8801">Francesco Mariotti</author>
+<author pid="332/8428">Matteo Tavanti</author>
+<author pid="30/2196">Leonardo Montecchi</author>
+<author pid="43/1911">Paolo Lollini</author>
+<title>Extending a security ontology framework to model CAPEC attack paths and TAL adversary profiles.</title>
+<pages>25-32</pages>
+<year>2022</year>
+<booktitle>EDCC</booktitle>
+<ee>https://doi.org/10.1109/EDCC57035.2022.00016</ee>
+<crossref>conf/edcc/2022</crossref>
+<url>db/conf/edcc/edcc2022.html#MariottiTML22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/imbsa/BressanOCMCPAP22" mdate="2022-09-14">
+<author pid="229/8815">Lucas Bressan</author>
+<author pid="57/4649">Andr&#233; Lu&#237;z de Oliveira</author>
+<author pid="30/3085">Fernanda C. A. Campos</author>
+<author pid="30/2196">Leonardo Montecchi</author>
+<author pid="05/4705">Rafael Capilla</author>
+<author pid="47/5376">David Parker 0002</author>
+<author pid="217/9895">Koorosh Aslansefat</author>
+<author pid="47/6727">Yiannis Papadopoulos</author>
+<title>Modeling the Variability of System Safety Analysis Using State-Machine Diagrams.</title>
+<pages>43-59</pages>
+<year>2022</year>
+<booktitle>IMBSA</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-15842-1_4</ee>
+<crossref>conf/imbsa/2022</crossref>
+<url>db/conf/imbsa/imbsa2022.html#BressanOCMCPAP22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ladc/GonzalezOGCGMML22" mdate="2023-01-31">
+<author orcid="0000-0003-4981-6505" pid="338/0217">Samuel Rodriguez Gonzalez</author>
+<author orcid="0000-0002-6808-6256" pid="338/0242">Juan Betancourt Osorio</author>
+<author orcid="0000-0002-6281-1090" pid="338/0221">Germ&#225;n Pardo Gonz&#225;lez</author>
+<author orcid="0000-0001-6247-7726" pid="163/7165">Daniel Cuellar</author>
+<author orcid="0000-0002-7233-1701" pid="259/0475">Camilo Gomez</author>
+<author orcid="0000-0002-1776-9591" pid="332/8801">Francesco Mariotti</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author orcid="0000-0002-2364-2538" pid="43/1911">Paolo Lollini</author>
+<title>Modeling attacker behavior in Cyber-Physical-Systems.</title>
+<pages>117-124</pages>
+<year>2022</year>
+<booktitle>LADC</booktitle>
+<ee>https://doi.org/10.1145/3569902.3570188</ee>
+<crossref>conf/ladc/2022</crossref>
+<url>db/conf/ladc/ladc2022.html#GonzalezOGCGMML22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-02205" mdate="2022-03-16">
+<author pid="31/1895">Andrea Ceccarelli</author>
+<author pid="30/2196">Leonardo Montecchi</author>
+<title>Safety-aware metrics for object detectors in autonomous driving.</title>
+<year>2022</year>
+<volume>abs/2203.02205</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.02205</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-02205</url>
+</article>
+</r>
+<r><inproceedings key="conf/ladc/LopesM21" mdate="2022-01-25">
+<author pid="312/0324">Guilherme W. Lopes</author>
+<author pid="30/2196">Leonardo Montecchi</author>
+<title>Characterizing and Injecting Faults in Executable Models Specified with fUML.</title>
+<pages>1-10</pages>
+<year>2021</year>
+<booktitle>LADC</booktitle>
+<ee>https://doi.org/10.1109/LADC53747.2021.9672596</ee>
+<crossref>conf/ladc/2021</crossref>
+<url>db/conf/ladc/ladc2021.html#LopesM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/splc/CasquinaM21" mdate="2023-11-12">
+<author orcid="0000-0002-4335-1666" pid="191/5173">Junior Cupe Casquina</author>
+<author pid="30/2196">Leonardo Montecchi</author>
+<title>A proposal for organizing source code variability in the git version control system.</title>
+<pages>82-88</pages>
+<year>2021</year>
+<booktitle>SPLC (A)</booktitle>
+<ee>https://doi.org/10.1145/3461001.3471141</ee>
+<crossref>conf/splc/2021a</crossref>
+<url>db/conf/splc/splc2021a.html#CasquinaM21</url>
+</inproceedings>
+</r>
+<r><article key="journals/tr/MontecchiLB20" mdate="2025-01-19">
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author orcid="0000-0002-2364-2538" pid="43/1911">Paolo Lollini</author>
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<title>A Template-Based Methodology for the Specification and Automated Composition of Performability Models.</title>
+<pages>293-309</pages>
+<year>2020</year>
+<volume>69</volume>
+<journal>IEEE Trans. Reliab.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1109/TR.2019.2898351</ee>
+<ee>https://www.wikidata.org/entity/Q127901089</ee>
+<url>db/journals/tr/tr69.html#MontecchiLB20</url>
+</article>
+</r>
+<r><inproceedings key="conf/caise/VeneroSMRR20" mdate="2021-09-13">
+<author orcid="0000-0001-6571-4408" pid="191/7298">Sheila Katherine Venero</author>
+<author orcid="0000-0001-7828-622X" pid="15/3453">Bradley R. Schmerl</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author orcid="0000-0002-9545-2098" pid="71/7193">J&#250;lio Cesar dos Reis</author>
+<author orcid="0000-0003-4549-7105" pid="80/5752">Cec&#237;lia Mary Fischer Rubira</author>
+<title>Automated Planning for Supporting Knowledge-Intensive Processes.</title>
+<pages>101-116</pages>
+<year>2020</year>
+<booktitle>BPMDS/EMMSAD@CAiSE</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-49418-6_7</ee>
+<crossref>conf/caise/2020bpmds</crossref>
+<url>db/conf/caise/bpmds2020.html#VeneroSMRR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edcc/MontecchiLMK20" mdate="2021-04-07">
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author orcid="0000-0002-2364-2538" pid="43/1911">Paolo Lollini</author>
+<author orcid="0000-0003-1696-1765" pid="276/9320">Federico Moncini</author>
+<author orcid="0000-0002-2690-5268" pid="276/9318">Kenneth Keefe</author>
+<title>An Eclipse-Based Editor for SAN Templates.</title>
+<pages>159-167</pages>
+<year>2020</year>
+<booktitle>EDCC Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58462-7_13</ee>
+<crossref>conf/edcc/2020w</crossref>
+<url>db/conf/edcc/edcc2020w.html#MontecchiLMK20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issre/RodriguesMC20" mdate="2021-04-09">
+<author pid="183/7379">Elder Rodrigues Jr.</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author orcid="0000-0002-2291-2428" pid="31/1895">Andrea Ceccarelli</author>
+<title>Model-Driven Fault Injection in Java Source Code.</title>
+<pages>414-425</pages>
+<year>2020</year>
+<booktitle>ISSRE</booktitle>
+<ee>https://doi.org/10.1109/ISSRE5003.2020.00046</ee>
+<crossref>conf/issre/2020</crossref>
+<url>db/conf/issre/issre2020.html#RodriguesMC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/prdc/LealMCM20" mdate="2022-01-03">
+<author pid="217/1003">Lucas Leal</author>
+<author pid="30/2196">Leonardo Montecchi</author>
+<author orcid="0000-0002-2291-2428" pid="31/1895">Andrea Ceccarelli</author>
+<author pid="35/5134">Eliane Martins</author>
+<title>Using Metamodels to Improve Model-Based Testing of Service Orchestrations.</title>
+<pages>130-139</pages>
+<year>2020</year>
+<booktitle>PRDC</booktitle>
+<ee>https://doi.org/10.1109/PRDC50213.2020.00024</ee>
+<crossref>conf/prdc/2020</crossref>
+<url>db/conf/prdc/prdc2020.html#LealMCM20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-09291" mdate="2020-06-17">
+<author pid="30/2196">Leonardo Montecchi</author>
+<author pid="43/1911">Paolo Lollini</author>
+<author pid="31/4416">Andrea Bondavalli</author>
+<title>A Formal Definition of Stochastic Activity Networks Templates.</title>
+<year>2020</year>
+<volume>abs/2006.09291</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.09291</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-09291</url>
+</article>
+</r>
+<r><article key="journals/jbcs/SierraMM19" mdate="2020-09-05">
+<author pid="237/8314">Diego Sierra</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author orcid="0000-0001-5549-0324" pid="17/723">Ivan Mura</author>
+<title>Stochastic modeling and analysis of vapor cloud explosions domino effects in chemical plants.</title>
+<pages>11:1-11:19</pages>
+<year>2019</year>
+<volume>25</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s13173-019-0092-8</ee>
+<url>db/journals/jbcs/jbcs25.html#SierraMM19</url>
+</article>
+</r>
+<r><article key="journals/jserd/RamosDLFMC19" mdate="2021-05-14">
+<author pid="174/1396">Leonardo Ramos</author>
+<author pid="246/3502">Gabriel Lisb&#244;a Guimar&#227;es Divino</author>
+<author pid="271/6084">Guilherme Cano Lopes</author>
+<author pid="122/4837">Breno Bernard Nicolau de Fran&#231;a</author>
+<author pid="30/2196">Leonardo Montecchi</author>
+<author pid="63/6586">Esther Luna Colombini</author>
+<title>The RoCS Framework to Support the Development of Autonomous Robots.</title>
+<pages>10</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>J. Softw. Eng. Res. Dev.</journal>
+<ee type="oa">https://doi.org/10.5753/jserd.2019.470</ee>
+<url>db/journals/jserd/jserd7.html#RamosDLFMC19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cibse/RamosDFMC19" mdate="2019-08-07">
+<author pid="174/1396">Leonardo Ramos</author>
+<author pid="246/3502">Gabriel Divino</author>
+<author pid="122/4837">Breno de Fran&#231;a</author>
+<author pid="30/2196">Leonardo Montecchi</author>
+<author pid="63/6586">Esther Colombini</author>
+<title>The RoCS Framework to Support the Development of Autonomous Robots.</title>
+<pages>251-264</pages>
+<year>2019</year>
+<booktitle>CIbSE</booktitle>
+<crossref>conf/cibse/2019</crossref>
+<url>db/conf/cibse/cibse2019.html#RamosDFMC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edcc/LealMCM19" mdate="2023-06-26">
+<author pid="217/1003">Lucas Leal</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author orcid="0000-0002-2291-2428" pid="31/1895">Andrea Ceccarelli</author>
+<author pid="35/5134">Eliane Martins</author>
+<title>Exploiting MDE for Platform-Independent Testing of Service Orchestrations.</title>
+<pages>149-152</pages>
+<year>2019</year>
+<booktitle>EDCC</booktitle>
+<ee>https://doi.org/10.1109/EDCC.2019.00037</ee>
+<crossref>conf/edcc/2019</crossref>
+<url>db/conf/edcc/edcc2019.html#LealMCM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ladc/LaranjeiroGSMCL19" mdate="2021-10-14">
+<author pid="56/6126">Nuno Laranjeiro</author>
+<author pid="259/0475">Camilo Gomez</author>
+<author orcid="0000-0002-5583-3910" pid="171/1056">Enrico Schiavone</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author pid="66/1753">Manoel J. M. Carvalho</author>
+<author orcid="0000-0002-2364-2538" pid="43/1911">Paolo Lollini</author>
+<author pid="69/4812">Zolt&#225;n Micskei</author>
+<title>Addressing Verification and Validation Challenges in Future Cyber-Physical Systems.</title>
+<pages>1-2</pages>
+<year>2019</year>
+<booktitle>LADC</booktitle>
+<ee>https://doi.org/10.1109/LADC48089.2019.8995714</ee>
+<crossref>conf/ladc/2019</crossref>
+<url>db/conf/ladc/ladc2019.html#LaranjeiroGSMCL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/prdc/RodriguesM19" mdate="2020-09-05">
+<author pid="183/7379">Elder Rodrigues Jr.</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<title>Towards a Structured Specification of Coding Conventions.</title>
+<pages>168-177</pages>
+<year>2019</year>
+<booktitle>PRDC</booktitle>
+<ee>https://doi.org/10.1109/PRDC47002.2019.00047</ee>
+<crossref>conf/prdc/2019</crossref>
+<url>db/conf/prdc/prdc2019.html#RodriguesM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/VeneroRMR19" mdate="2021-10-14">
+<author orcid="0000-0001-6571-4408" pid="191/7298">Sheila Katherine Venero</author>
+<author pid="71/7193">J&#250;lio Cesar dos Reis</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author orcid="0000-0003-4549-7105" pid="80/5752">Cec&#237;lia Mary Fischer Rubira</author>
+<title>Towards a metamodel for supporting decisions in knowledge-intensive processes.</title>
+<pages>75-84</pages>
+<year>2019</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3297280.3297290</ee>
+<crossref>conf/sac/2019</crossref>
+<url>db/conf/sac/sac2019.html#VeneroRMR19</url>
+</inproceedings>
+</r>
+<r><article key="journals/sj/BondavalliCLMM18" mdate="2023-09-30">
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<author orcid="0000-0002-2291-2428" pid="31/1895">Andrea Ceccarelli</author>
+<author orcid="0000-0002-2364-2538" pid="43/1911">Paolo Lollini</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author orcid="0000-0002-7275-3509" pid="22/8943">Marco Mori</author>
+<title>System-of-Systems to Support Mobile Safety Critical Applications: Open Challenges and Viable Solutions.</title>
+<pages>250-261</pages>
+<year>2018</year>
+<volume>12</volume>
+<journal>IEEE Syst. J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/JSYST.2016.2588284</ee>
+<url>db/journals/sj/sj12.html#BondavalliCLMM18</url>
+</article>
+</r>
+<r><article key="journals/spe/BassoMMJB18" mdate="2024-01-08">
+<author pid="03/9681">T&#226;nia Basso</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author orcid="0000-0003-0678-4777" pid="77/4962">Regina Moraes</author>
+<author orcid="0000-0002-1914-5790" pid="12/1105">M&#225;rio Jino</author>
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<title>PrivAPP: An integrated approach for the design of privacy-aware applications.</title>
+<pages>499-527</pages>
+<year>2018</year>
+<volume>48</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/spe.2546</ee>
+<url>db/journals/spe/spe48.html#BassoMMJB18</url>
+</article>
+</r>
+<r><inproceedings key="conf/edcc/OliveiraBMG18" mdate="2023-03-23">
+<author pid="229/8815">Lucas Bressan</author>
+<author pid="57/4649">Andr&#233; Lu&#237;z de Oliveira</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author pid="34/3823">Barbara Gallina</author>
+<title>A Systematic Process for Applying the CHESS Methodology in the Creation of Certifiable Evidence.</title>
+<pages>49-56</pages>
+<year>2018</year>
+<booktitle>EDCC</booktitle>
+<ee>https://doi.org/10.1109/EDCC.2018.00019</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/EDCC.2018.00019</ee>
+<crossref>conf/edcc/2018</crossref>
+<url>db/conf/edcc/edcc2018.html#OliveiraBMG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ladc/SierraBBRMM18" mdate="2020-06-15">
+<author pid="237/8314">Diego Sierra</author>
+<author pid="237/8336">Juan Briceno</author>
+<author pid="237/8334">Hector Buitrago</author>
+<author pid="237/8340">Brian Rozo</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author orcid="0000-0001-5549-0324" pid="17/723">Ivan Mura</author>
+<title>Probabilistic Modeling of Failure Domino Effects in Chemical Plants.</title>
+<pages>57-66</pages>
+<year>2018</year>
+<booktitle>LADC</booktitle>
+<ee>https://doi.org/10.1109/LADC.2018.00016</ee>
+<crossref>conf/ladc/2018</crossref>
+<url>db/conf/ladc/ladc2018.html#SierraBBRMM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/JrDBMT18" mdate="2020-02-06">
+<author pid="183/7379">Elder Rodrigues Jr.</author>
+<author pid="121/2573">Rafael Serapilha Durelli</author>
+<author pid="134/0913">Raphael Winckler de Bettio</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author pid="23/5199">Ricardo Terra</author>
+<title>Refactorings for replacing dynamic instructions with static ones: the case of ruby.</title>
+<pages>59-66</pages>
+<year>2018</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3264637.3264645</ee>
+<crossref>conf/sblp/2018</crossref>
+<url>db/conf/sblp/sblp2018.html#JrDBMT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/imbsa/MontecchiG17" mdate="2019-09-25">
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author pid="34/3823">Barbara Gallina</author>
+<title>SafeConcert: A Metamodel for a Concerted Safety Modeling of Socio-Technical Systems.</title>
+<pages>129-144</pages>
+<year>2017</year>
+<booktitle>IMBSA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-64119-5_9</ee>
+<crossref>conf/imbsa/2017</crossref>
+<url>db/conf/imbsa/imbsa2017.html#MontecchiG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ithings/MontecchiLC17" mdate="2023-03-24">
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author orcid="0000-0002-2364-2538" pid="43/1911">Paolo Lollini</author>
+<author orcid="0000-0002-2291-2428" pid="31/1895">Andrea Ceccarelli</author>
+<title>Assessing the Impact of Cascading Failures in Urban Electricity Networks.</title>
+<pages>324-329</pages>
+<year>2017</year>
+<booktitle>iThings/GreenCom/CPSCom/SmartData</booktitle>
+<ee>https://doi.org/10.1109/iThings-GreenCom-CPSCom-SmartData.2017.54</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/iThings-GreenCom-CPSCom-SmartData.2017.54</ee>
+<crossref>conf/ithings/2017</crossref>
+<url>db/conf/ithings/ithings2017.html#MontecchiLC17</url>
+</inproceedings>
+</r>
+<r><article key="journals/tpds/VeeraragavanMNV16" mdate="2023-09-30">
+<author pid="78/10471">Narasimha Raghavan Veeraragavan</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author pid="31/9729">Nicola Nostro</author>
+<author pid="47/6742">Roman Vitenberg</author>
+<author pid="59/2296">Hein Meling</author>
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<title>Modeling QoE in Dependable Tele-Immersive Applications: A Case Study of World Opera.</title>
+<pages>2667-2681</pages>
+<year>2016</year>
+<volume>27</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TPDS.2015.2503291</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPDS.2015.2503291</ee>
+<url>db/journals/tpds/tpds27.html#VeeraragavanMNV16</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsn/UssamiMM16" mdate="2023-03-24">
+<author pid="187/0839">Thais Harumi Ussami</author>
+<author pid="35/5134">Eliane Martins</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<title>D-MBTDD: An Approach for Reusing Test Artefacts in Evolving System.</title>
+<pages>39-46</pages>
+<year>2016</year>
+<booktitle>DSN Workshops</booktitle>
+<ee>https://doi.org/10.1109/DSN-W.2016.22</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DSN-W.2016.22</ee>
+<crossref>conf/dsn/2016w</crossref>
+<url>db/conf/dsn/dsn2016w.html#UssamiMM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsn/MontecchiRLB16" mdate="2023-09-30">
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author pid="63/4737">Atle Refsdal</author>
+<author orcid="0000-0002-2364-2538" pid="43/1911">Paolo Lollini</author>
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<title>A Model-Based Approach to Support Safety-Related Decisions in the Petroleum Domain.</title>
+<pages>275-286</pages>
+<year>2016</year>
+<booktitle>DSN</booktitle>
+<ee>https://doi.org/10.1109/DSN.2016.33</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DSN.2016.33</ee>
+<crossref>conf/dsn/2016</crossref>
+<url>db/conf/dsn/dsn2016.html#MontecchiRLB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edcc/BerniniBLM16" mdate="2023-09-30">
+<author pid="191/5171">Riccardo Bernini</author>
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<author orcid="0000-0002-2364-2538" pid="43/1911">Paolo Lollini</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<title>Combining SAN and P-Graphs for the Analysis and Optimization of Industrial Processes.</title>
+<pages>197-207</pages>
+<year>2016</year>
+<booktitle>EDCC</booktitle>
+<ee>https://doi.org/10.1109/EDCC.2016.33</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/EDCC.2016.33</ee>
+<crossref>conf/edcc/2016</crossref>
+<url>db/conf/edcc/edcc2016.html#BerniniBLM16</url>
+</inproceedings>
+</r>
+<r><article key="journals/tdsc/CeccarelliMBLMB15" mdate="2021-10-14">
+<author orcid="0000-0002-2291-2428" pid="31/1895">Andrea Ceccarelli</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author pid="41/7557">Francesco Brancati</author>
+<author orcid="0000-0002-2364-2538" pid="43/1911">Paolo Lollini</author>
+<author orcid="0000-0003-4726-8832" pid="22/2883">Angelo Marguglio</author>
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<title>Continuous and Transparent User Identity Verification for Secure Internet Services.</title>
+<pages>270-283</pages>
+<year>2015</year>
+<volume>12</volume>
+<journal>IEEE Trans. Dependable Secur. Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TDSC.2013.2297709</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TDSC.2013.2297709</ee>
+<url>db/journals/tdsc/tdsc12.html#CeccarelliMBLMB15</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEcit/BassoMMJB15" mdate="2024-01-08">
+<author pid="03/9681">T&#226;nia Basso</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author orcid="0000-0003-0678-4777" pid="77/4962">Regina Moraes</author>
+<author pid="12/1105">M&#225;rio Jino</author>
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<title>Towards a UML Profile for Privacy-Aware Applications.</title>
+<pages>371-378</pages>
+<year>2015</year>
+<booktitle>CIT/IUCC/DASC/PICom</booktitle>
+<ee>https://doi.org/10.1109/CIT/IUCC/DASC/PICOM.2015.53</ee>
+<crossref>conf/IEEEcit/2015</crossref>
+<url>db/conf/IEEEcit/cit-iucc-dasc-picom2015.html#BassoMMJB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsn/MontecchiLB15" mdate="2023-09-30">
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author orcid="0000-0002-2364-2538" pid="43/1911">Paolo Lollini</author>
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<title>Quantifying the Impact of External Attacks on a Distributed Automatic Track Warning System.</title>
+<pages>33-38</pages>
+<year>2015</year>
+<booktitle>DSN Workshops</booktitle>
+<ee>https://doi.org/10.1109/DSN-W.2015.22</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DSN-W.2015.22</ee>
+<crossref>conf/dsn/2015w</crossref>
+<url>db/conf/dsn/dsn2015w.html#MontecchiLB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsn/BonfiglioMIRLB15" mdate="2023-09-30">
+<author pid="121/3673">Valentina Bonfiglio</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author pid="67/10801">Ivano Irrera</author>
+<author pid="83/1088">Francesco Rossi</author>
+<author orcid="0000-0002-2364-2538" pid="43/1911">Paolo Lollini</author>
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<title>Software Faults Emulation at Model-Level: Towards Automated Software FMEA.</title>
+<pages>133-140</pages>
+<year>2015</year>
+<booktitle>DSN Workshops</booktitle>
+<ee>https://doi.org/10.1109/DSN-W.2015.26</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DSN-W.2015.26</ee>
+<crossref>conf/dsn/2015w</crossref>
+<url>db/conf/dsn/dsn2015w.html#BonfiglioMIRLB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecsa/AzzoliniRTGM15" mdate="2019-10-19">
+<author pid="166/4663">Raphael P. Azzolini</author>
+<author orcid="0000-0003-4549-7105" pid="80/5752">Cec&#237;lia M. F. Rubira</author>
+<author pid="32/8191">Leonardo P. Tizzei</author>
+<author pid="119/2261">Felipe Nunes Gaia</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<title>Evolving a Software Products Line for E-commerce Systems: a Case Study.</title>
+<pages>26:1-26:7</pages>
+<year>2015</year>
+<booktitle>ECSA Workshops</booktitle>
+<ee>https://doi.org/10.1145/2797433.2797460</ee>
+<crossref>conf/ecsa/2015w</crossref>
+<url>db/conf/ecsa/ecsa2015w.html#AzzoliniRTGM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hase/BonfiglioMRLPB15" mdate="2023-03-24">
+<author pid="121/3673">Valentina Bonfiglio</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author pid="83/1088">Francesco Rossi</author>
+<author orcid="0000-0002-2364-2538" pid="43/1911">Paolo Lollini</author>
+<author pid="19/6221">Andr&#225;s Pataricza</author>
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<title>Executable Models to Support Automated Software FMEA.</title>
+<pages>189-196</pages>
+<year>2015</year>
+<booktitle>HASE</booktitle>
+<ee>https://doi.org/10.1109/HASE.2015.36</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/HASE.2015.36</ee>
+<crossref>conf/hase/2015</crossref>
+<url>db/conf/hase/hase2015.html#BonfiglioMRLPB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edcc/MontecchiLB14" mdate="2023-03-23">
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author orcid="0000-0002-2364-2538" pid="43/1911">Paolo Lollini</author>
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<title>A DSL-Supported Workflow for the Automated Assembly of Large Stochastic Models.</title>
+<pages>82-93</pages>
+<year>2014</year>
+<booktitle>EDCC</booktitle>
+<ee>https://doi.org/10.1109/EDCC.2014.33</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/EDCC.2014.33</ee>
+<crossref>conf/edcc/2014</crossref>
+<url>db/conf/edcc/edcc2014.html#MontecchiLB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/MontecchiNCVCB15" mdate="2022-11-10">
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author orcid="0000-0001-6295-3622" pid="31/9729">Nicola Nostro</author>
+<author orcid="0000-0002-2291-2428" pid="31/1895">Andrea Ceccarelli</author>
+<author orcid="0000-0003-0446-4091" pid="12/4593">Giuseppe Vella</author>
+<author pid="06/6540-2">Antonio Caruso 0002</author>
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<title>Model-based Evaluation of Scalability and Security Tradeoffs: a Case Study on a Multi-Service Platform.</title>
+<pages>113-133</pages>
+<year>2014</year>
+<crossref>conf/pasm/2014</crossref>
+<booktitle>PASM</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2014.12.015</ee>
+<ee>https://www.wikidata.org/entity/Q113317820</ee>
+<url>db/journals/entcs/entcs310.html#MontecchiNCVCB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/MontecchiCLB13" mdate="2023-03-24">
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author orcid="0000-0002-2291-2428" pid="31/1895">Andrea Ceccarelli</author>
+<author orcid="0000-0002-2364-2538" pid="43/1911">Paolo Lollini</author>
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<title>Meeting the challenges in the design and evaluation of a trackside real-time safety-critical system.</title>
+<pages>1-10</pages>
+<year>2013</year>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC.2013.6913237</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISORC.2013.6913237</ee>
+<crossref>conf/isorc/2013</crossref>
+<url>db/conf/isorc/isorc2013.html#MontecchiCLB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/VeeraragavanBMVNM13" mdate="2018-11-06">
+<author pid="78/10471">Narasimha Raghavan Veeraragavan</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author orcid="0000-0001-6295-3622" pid="31/9729">Nicola Nostro</author>
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<author pid="47/6742">Roman Vitenberg</author>
+<author pid="59/2296">Hein Meling</author>
+<title>Understanding the quality of experience in modern distributed interactive multimedia applications in presence of failures: metrics and analysis.</title>
+<pages>439-446</pages>
+<year>2013</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2480362.2480450</ee>
+<crossref>conf/sac/2013</crossref>
+<url>db/conf/sac/sac2013.html#VeeraragavanBMVNM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/safecomp/BonfiglioMRB13" mdate="2020-07-21">
+<author pid="121/3673">Valentina Bonfiglio</author>
+<author pid="30/2196">Leonardo Montecchi</author>
+<author pid="83/1088">Francesco Rossi</author>
+<author pid="31/4416">Andrea Bondavalli</author>
+<title>On the Need of a Methodological Approach for the Assessment of Software Architectures within ISO26262.</title>
+<year>2013</year>
+<booktitle>CARS@SAFECOMP</booktitle>
+<ee type="oa">http://hal.archives-ouvertes.fr/SAFECOMP2013-CARS/hal-00848469</ee>
+<crossref>conf/safecomp/2013cars</crossref>
+<url>db/conf/safecomp/cars2013.html#BonfiglioMRB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/valuetools/MontecchiLB13" mdate="2020-10-25">
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author orcid="0000-0002-2364-2538" pid="43/1911">Paolo Lollini</author>
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<title>A reusable modular toolchain for automated dependability evaluation.</title>
+<pages>298-303</pages>
+<year>2013</year>
+<booktitle>VALUETOOLS</booktitle>
+<ee>https://doi.org/10.4108/icst.valuetools.2013.254395</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2631882</ee>
+<crossref>conf/valuetools/2013</crossref>
+<url>db/conf/valuetools/valuetools2013.html#MontecchiLB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mswim/MontecchiLMGB12" mdate="2023-09-30">
+<author pid="30/2196">Leonardo Montecchi</author>
+<author orcid="0000-0002-2364-2538" pid="43/1911">Paolo Lollini</author>
+<author pid="85/11522">Boris Malinowsky</author>
+<author pid="56/3507">Jesper Gr&#248;nb&#230;k</author>
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<title>Model-based analysis of a protocol for reliable communication in railway worksites.</title>
+<pages>23-32</pages>
+<year>2012</year>
+<booktitle>MSWiM</booktitle>
+<ee>https://doi.org/10.1145/2387238.2387245</ee>
+<crossref>conf/mswim/2012</crossref>
+<url>db/conf/mswim/mswim2012.html#MontecchiLMGB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/safecomp/MontecchiLBM12" mdate="2020-10-25">
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author orcid="0000-0002-2364-2538" pid="43/1911">Paolo Lollini</author>
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<author pid="118/5380">Ernesto La Mattina</author>
+<title>Quantitative Security Evaluation of a Multi-biometric Authentication System.</title>
+<pages>209-221</pages>
+<year>2012</year>
+<booktitle>SAFECOMP Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33675-1_19</ee>
+<crossref>conf/safecomp/2012w</crossref>
+<url>db/conf/safecomp/safecomp2012w.html#MontecchiLBM12</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/wolter2012/BondavalliLMM12" mdate="2023-09-30">
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<author pid="43/1911">Paolo Lollini</author>
+<author pid="40/2013">Istv&#225;n Majzik</author>
+<author pid="30/2196">Leonardo Montecchi</author>
+<title>Modelling and Model-Based Assessment.</title>
+<pages>153-165</pages>
+<year>2012</year>
+<booktitle>Resilience Assessment and Evaluation of Computing Systems</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-29032-9_7</ee>
+<crossref>books/sp/wolter12</crossref>
+<url>db/books/collections/wolter2012.html#BondavalliLMM12</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/iceccs/MontecchiLB11" mdate="2023-03-24">
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author orcid="0000-0002-2364-2538" pid="43/1911">Paolo Lollini</author>
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<title>Towards a MDE Transformation Workflow for Dependability Analysis.</title>
+<pages>157-166</pages>
+<year>2011</year>
+<booktitle>ICECCS</booktitle>
+<ee>https://doi.org/10.1109/ICECCS.2011.23</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICECCS.2011.23</ee>
+<crossref>conf/iceccs/2011</crossref>
+<url>db/conf/iceccs/iceccs2011.html#MontecchiLB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/MontecchiLB11" mdate="2023-03-24">
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author orcid="0000-0002-2364-2538" pid="43/1911">Paolo Lollini</author>
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<title>Dependability Concerns in Model-Driven Engineering.</title>
+<pages>254-263</pages>
+<year>2011</year>
+<booktitle>ISORC Workshops</booktitle>
+<ee>https://doi.org/10.1109/ISORCW.2011.32</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISORCW.2011.32</ee>
+<crossref>conf/isorc/2011w</crossref>
+<url>db/conf/isorc/isorc2011w.html#MontecchiLB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/CeccarelliGMSB10" mdate="2023-03-24">
+<author orcid="0000-0002-2291-2428" pid="31/1895">Andrea Ceccarelli</author>
+<author pid="56/3507">Jesper Gr&#248;nb&#230;k</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<author pid="s/HansPeterSchwefel">Hans-Peter Schwefel</author>
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<title>Towards a Framework for Self-Adaptive Reliable Network Services in Highly-Uncertain Environments.</title>
+<pages>184-193</pages>
+<year>2010</year>
+<booktitle>ISORC Workshops</booktitle>
+<ee>https://doi.org/10.1109/ISORCW.2010.21</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISORCW.2010.21</ee>
+<crossref>conf/isorc/2010w</crossref>
+<url>db/conf/isorc/isorc2010w.html#CeccarelliGMSB10</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsw/BondavalliLM09" mdate="2020-10-26">
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<author orcid="0000-0002-2364-2538" pid="43/1911">Paolo Lollini</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<title>QoS Perceived by Users of Ubiquitous UMTS: Compositional Models and Thorough Analysis.</title>
+<pages>675-685</pages>
+<year>2009</year>
+<volume>4</volume>
+<journal>J. Softw.</journal>
+<number>7</number>
+<ee type="archive">https://doi.org/10.4304/jsw.4.7.675-685</ee>
+<ee>http://www.jsoftware.us/index.php?m=content&#38;c=index&#38;a=show&#38;catid=121&#38;id=2416</ee>
+<url>db/journals/jsw/jsw4.html#BondavalliLM09</url>
+</article>
+</r>
+<r><inproceedings key="conf/seus/BondavalliLM08" mdate="2020-10-25">
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<author orcid="0000-0002-2364-2538" pid="43/1911">Paolo Lollini</author>
+<author orcid="0000-0002-7603-9695" pid="30/2196">Leonardo Montecchi</author>
+<title>Analysis of User Perceived QoS in Ubiquitous UMTS Environments Subject to Faults.</title>
+<pages>186-197</pages>
+<year>2008</year>
+<booktitle>SEUS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-87785-1_17</ee>
+<crossref>conf/seus/2008</crossref>
+<url>db/conf/seus/seus2008.html#BondavalliLM08</url>
+</inproceedings>
+</r>
+<coauthors n="82" nc="1">
+<co c="0" n="2"><na f="a/Alba=Cuellar:Daniel" pid="163/7165">Daniel Alba-Cuellar</na><na>Daniel Cuellar</na></co>
+<co c="0"><na f="a/Araujo:Matheus_Soares_de" pid="328/1076">Matheus Soares de Araujo</na></co>
+<co c="0"><na f="a/Aslansefat:Koorosh" pid="217/9895">Koorosh Aslansefat</na></co>
+<co c="0"><na f="a/Azzolini:Raphael_P=" pid="166/4663">Raphael P. Azzolini</na></co>
+<co c="0"><na f="b/Basso:T=acirc=nia" pid="03/9681">T&#226;nia Basso</na></co>
+<co c="0"><na f="b/Bernini:Riccardo" pid="191/5171">Riccardo Bernini</na></co>
+<co c="0" n="2"><na f="b/Bettio:Raphael_W=" pid="134/0913">Raphael W. Bettio</na><na>Raphael Winckler de Bettio</na></co>
+<co c="0"><na f="b/Bondavalli:Andrea" pid="31/4416">Andrea Bondavalli</na></co>
+<co c="0"><na f="b/Bonfiglio:Valentina" pid="121/3673">Valentina Bonfiglio</na></co>
+<co c="0"><na f="b/Brancati:Francesco" pid="41/7557">Francesco Brancati</na></co>
+<co c="0"><na f="b/Bressan:Lucas" pid="229/8815">Lucas Bressan</na></co>
+<co c="0"><na f="b/Briceno:Juan" pid="237/8336">Juan Briceno</na></co>
+<co c="0"><na f="b/Buitrago:Hector" pid="237/8334">Hector Buitrago</na></co>
+<co c="0" n="2"><na f="c/Campos:Fernanda" pid="30/3085">Fernanda Campos</na><na>Fernanda C. A. Campos</na></co>
+<co c="0"><na f="c/Capilla:Rafael" pid="05/4705">Rafael Capilla</na></co>
+<co c="0"><na f="c/Caruso_0002:Antonio" pid="06/6540-2">Antonio Caruso 0002</na></co>
+<co c="0"><na f="c/Carvalho:Manoel_J=_M=" pid="66/1753">Manoel J. M. Carvalho</na></co>
+<co c="0"><na f="c/Casquina:Junior_Cupe" pid="191/5173">Junior Cupe Casquina</na></co>
+<co c="0"><na f="c/Ceccarelli:Andrea" pid="31/1895">Andrea Ceccarelli</na></co>
+<co c="0" n="2"><na f="c/Colombini:Esther_Luna" pid="63/6586">Esther Luna Colombini</na><na>Esther Colombini</na></co>
+<co c="0"><na f="c/Cunha:Paulo" pid="23/3120">Paulo Cunha</na></co>
+<co c="0" n="2"><na f="d/Divino:Gabriel" pid="246/3502">Gabriel Divino</na><na>Gabriel Lisb&#244;a Guimar&#227;es Divino</na></co>
+<co c="0" n="2"><na f="d/Durelli:Rafael_S=" pid="121/2573">Rafael S. Durelli</na><na>Rafael Serapilha Durelli</na></co>
+<co c="0" n="3"><na f="f/Fran=ccedil=a:Breno_B=_N=_de" pid="122/4837">Breno B. N. de Fran&#231;a</na><na>Breno Bernard Nicolau de Fran&#231;a</na><na>Breno de Fran&#231;a</na></co>
+<co c="0"><na f="g/Gaia:Felipe_Nunes" pid="119/2261">Felipe Nunes Gaia</na></co>
+<co c="0"><na f="g/Gallina:Barbara" pid="34/3823">Barbara Gallina</na></co>
+<co c="0"><na f="g/Gomez:Camilo" pid="259/0475">Camilo Gomez</na></co>
+<co c="0"><na f="g/Gonz=aacute=lez:Germ=aacute=n_Pardo" pid="338/0221">Germ&#225;n Pardo Gonz&#225;lez</na></co>
+<co c="0"><na f="g/Gonzalez:Samuel_Rodriguez" pid="338/0217">Samuel Rodriguez Gonzalez</na></co>
+<co c="0"><na f="g/Gr=oslash=nb=aelig=k:Jesper" pid="56/3507">Jesper Gr&#248;nb&#230;k</na></co>
+<co c="0"><na f="i/Irrera:Ivano" pid="67/10801">Ivano Irrera</na></co>
+<co c="0"><na f="j/Jino:M=aacute=rio" pid="12/1105">M&#225;rio Jino</na></co>
+<co c="0"><na f="k/Keefe:Kenneth" pid="276/9318">Kenneth Keefe</na></co>
+<co c="0"><na f="k/KhoKhar:Fahad_Ahmed" pid="317/1060">Fahad Ahmed KhoKhar</na></co>
+<co c="0"><na f="l/Laranjeiro:Nuno" pid="56/6126">Nuno Laranjeiro</na></co>
+<co c="0"><na f="l/Leal:Lucas" pid="217/1003">Lucas Leal</na></co>
+<co c="0"><na f="l/Lollini:Paolo" pid="43/1911">Paolo Lollini</na></co>
+<co c="0"><na f="l/Lopes:Guilherme_Cano" pid="271/6084">Guilherme Cano Lopes</na></co>
+<co c="-1"><na f="l/Lopes:Guilherme_W=" pid="312/0324">Guilherme W. Lopes</na></co>
+<co c="0"><na f="m/Majzik:Istv=aacute=n" pid="40/2013">Istv&#225;n Majzik</na></co>
+<co c="0"><na f="m/Malinowsky:Boris" pid="85/11522">Boris Malinowsky</na></co>
+<co c="0"><na f="m/Marguglio:Angelo" pid="22/2883">Angelo Marguglio</na></co>
+<co c="0"><na f="m/Mariotti:Francesco" pid="332/8801">Francesco Mariotti</na></co>
+<co c="0"><na f="m/Martins:Eliane" pid="35/5134">Eliane Martins</na></co>
+<co c="0"><na f="m/Mattina:Ernesto_La" pid="118/5380">Ernesto La Mattina</na></co>
+<co c="0"><na f="m/Meling:Hein" pid="59/2296">Hein Meling</na></co>
+<co c="0"><na f="m/Micskei:Zolt=aacute=n" pid="69/4812">Zolt&#225;n Micskei</na></co>
+<co c="0"><na f="m/Moncini:Federico" pid="276/9320">Federico Moncini</na></co>
+<co c="0" n="2"><na f="m/Moraes:Regina_L=uacute=cia_de_Oliveira" pid="77/4962">Regina L&#250;cia de Oliveira Moraes</na><na>Regina Moraes</na></co>
+<co c="0"><na f="m/Mori:Marco" pid="22/8943">Marco Mori</na></co>
+<co c="0"><na f="m/Mura:Ivan" pid="17/723">Ivan Mura</na></co>
+<co c="0"><na f="n/Nardi:Simone" pid="187/6249">Simone Nardi</na></co>
+<co c="0"><na f="n/Nostro:Nicola" pid="31/9729">Nicola Nostro</na></co>
+<co c="0"><na f="o/Oliveira:Andr=eacute=_Lu=iacute=z_de" pid="57/4649">Andr&#233; Lu&#237;z de Oliveira</na></co>
+<co c="0"><na f="o/Osorio:Juan_Betancourt" pid="338/0242">Juan Betancourt Osorio</na></co>
+<co c="0"><na f="p/Papadopoulos:Yiannis" pid="47/6727">Yiannis Papadopoulos</na></co>
+<co c="0"><na f="p/Parker_0002:David" pid="47/5376">David Parker 0002</na></co>
+<co c="0"><na f="p/Pataricza:Andr=aacute=s" pid="19/6221">Andr&#225;s Pataricza</na></co>
+<co c="0"><na f="p/Pereira:Jos=eacute=_D=Abruzzo" pid="259/0580">Jos&#233; D'Abruzzo Pereira</na></co>
+<co c="0" n="2"><na f="r/Raghavan:Narasimha" pid="78/10471">Narasimha Raghavan</na><na>Narasimha Raghavan Veeraragavan</na></co>
+<co c="0"><na f="r/Ramos:Leonardo" pid="174/1396">Leonardo Ramos</na></co>
+<co c="0"><na f="r/Refsdal:Atle" pid="63/4737">Atle Refsdal</na></co>
+<co c="0"><na f="r/Reis:J=uacute=lio_Cesar_dos" pid="71/7193">J&#250;lio Cesar dos Reis</na></co>
+<co c="0"><na f="r/Rodrigues_Jr=:Elder" pid="183/7379">Elder Rodrigues Jr.</na></co>
+<co c="0"><na f="r/R=oslash=nnestad:Andreas" pid="375/6566">Andreas R&#248;nnestad</na></co>
+<co c="0"><na f="r/Rossi:Francesco" pid="83/1088">Francesco Rossi</na></co>
+<co c="0"><na f="r/Rozo:Brian" pid="237/8340">Brian Rozo</na></co>
+<co c="0" n="2"><na f="r/Rubira:Cec=iacute=lia_M=_F=" pid="80/5752">Cec&#237;lia M. F. Rubira</na><na>Cec&#237;lia Mary Fischer Rubira</na></co>
+<co c="0"><na f="s/Schiavone:Enrico" pid="171/1056">Enrico Schiavone</na></co>
+<co c="0"><na f="s/Schmerl:Bradley_R=" pid="15/3453">Bradley R. Schmerl</na></co>
+<co c="0"><na f="s/Schwefel:Hans=Peter" pid="s/HansPeterSchwefel">Hans-Peter Schwefel</na></co>
+<co c="0"><na f="s/Sierra:Diego" pid="237/8314">Diego Sierra</na></co>
+<co c="0"><na f="s/Silva:Leandro_Dias_da" pid="00/2389">Leandro Dias da Silva</na></co>
+<co c="0"><na f="s/Sobrinho:Alvaro" pid="154/5035">Alvaro Sobrinho</na></co>
+<co c="0"><na f="t/Tavanti:Matteo" pid="332/8428">Matteo Tavanti</na></co>
+<co c="0"><na f="t/Terra:Ricardo" pid="23/5199">Ricardo Terra</na></co>
+<co c="0"><na f="t/Tizzei:Leonardo_P=" pid="32/8191">Leonardo P. Tizzei</na></co>
+<co c="0"><na f="u/Ussami:Thais_Harumi" pid="187/0839">Thais Harumi Ussami</na></co>
+<co c="0"><na f="v/Vella:Giuseppe" pid="12/4593">Giuseppe Vella</na></co>
+<co c="0" n="2"><na f="v/Venero:Sheila_K=" pid="191/7298">Sheila K. Venero</na><na>Sheila Katherine Venero</na></co>
+<co c="0"><na f="v/Vitenberg:Roman" pid="47/6742">Roman Vitenberg</na></co>
+<co c="0"><na f="z/Zoppi:Tommaso" pid="25/9388">Tommaso Zoppi</na></co>
+</coauthors>
+</dblpperson>
+

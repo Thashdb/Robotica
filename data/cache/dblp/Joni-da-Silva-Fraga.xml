@@ -1,0 +1,1376 @@
+<?xml version="1.0"?>
+<dblpperson name="Joni da Silva Fraga" pid="257/5489" n="92">
+<person key="homepages/257/5489" mdate="2020-12-14">
+<author pid="257/5489">Joni da Silva Fraga</author>
+</person>
+<r><article key="journals/istr/BarretoFS21" mdate="2024-01-29">
+<author pid="89/7803-1">Luciano Barreto 0001</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>An intrusion tolerant identity provider with user attributes confidentiality.</title>
+<pages>103045</pages>
+<year>2021</year>
+<volume>63</volume>
+<journal>J. Inf. Secur. Appl.</journal>
+<ee>https://doi.org/10.1016/j.jisa.2021.103045</ee>
+<url>db/journals/istr/istr63.html#BarretoFS21</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbrc/InacioRNF21" mdate="2024-05-07">
+<author pid="257/5568">Gustavo In&#225;cio</author>
+<author pid="30/3196">Luciana Rech</author>
+<author orcid="0000-0001-7227-8309" pid="218/1789">Ray Neiheiser</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Dagora: Um Mercado Virtual Baseado em Side-Chains.</title>
+<pages>155-168</pages>
+<year>2021</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc.2021.16718</ee>
+<crossref>conf/sbrc/2021</crossref>
+<url>db/conf/sbrc/sbrc2021.html#InacioRNF21</url>
+</inproceedings>
+</r>
+<r><article key="journals/cluster/NeiheiserIRF20" mdate="2021-02-11">
+<author orcid="0000-0001-7227-8309" pid="218/1789">Ray Neiheiser</author>
+<author pid="257/5568">Gustavo In&#225;cio</author>
+<author orcid="0000-0002-6857-1462" pid="30/3196">Luciana Rech</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>HRM smart contracts on the blockchain: emulated vs native.</title>
+<pages>2105-2122</pages>
+<year>2020</year>
+<volume>23</volume>
+<journal>Clust. Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10586-020-03063-9</ee>
+<url>db/journals/cluster/cluster23.html#NeiheiserIRF20</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscc/NeiheiserIRF19" mdate="2024-05-07">
+<author orcid="0000-0001-7227-8309" pid="218/1789">Ray Neiheiser</author>
+<author pid="257/5568">Gustavo In&#225;cio</author>
+<author pid="30/3196">Luciana Rech</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>HRM Smart Contracts on the Blockchain.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC47284.2019.8969692</ee>
+<crossref>conf/iscc/2019</crossref>
+<url>db/conf/iscc/iscc2019.html#NeiheiserIRF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/NeiheiserRF19" mdate="2024-05-07">
+<author orcid="0000-0001-7227-8309" pid="218/1789">Ray Neiheiser</author>
+<author pid="30/3196">Luciana Rech</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Constantino: Uma Arquitetura BFT Escal&#225;vel e Eficiente para Blockchains.</title>
+<pages>127-140</pages>
+<year>2019</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc.2019.7355</ee>
+<crossref>conf/sbrc/2019</crossref>
+<url>db/conf/sbrc/sbrc2019.html#NeiheiserRF19</url>
+</inproceedings>
+</r>
+<r><article key="journals/tdsc/AlchieriBGF18" mdate="2020-04-09">
+<author pid="06/2528">Eduardo Ad&#237;lio Pelinson Alchieri</author>
+<author orcid="0000-0002-8386-1628" pid="68/1448">Alysson Bessani</author>
+<author pid="16/2607">Fab&#237;ola Greve</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Knowledge Connectivity Requirements for Solving Byzantine Consensus with Unknown Participants.</title>
+<pages>246-259</pages>
+<year>2018</year>
+<volume>15</volume>
+<journal>IEEE Trans. Dependable Secur. Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TDSC.2016.2548460</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TDSC.2016.2548460</ee>
+<url>db/journals/tdsc/tdsc15.html#AlchieriBGF18</url>
+</article>
+</r>
+<r><inproceedings key="conf/opodis/AlchieriBGF17" mdate="2019-09-16">
+<author pid="06/2528">Eduardo Alchieri</author>
+<author orcid="0000-0002-8386-1628" pid="68/1448">Alysson Bessani</author>
+<author pid="16/2607">Fab&#237;ola Greve</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Efficient and Modular Consensus-Free Reconfiguration for Fault-Tolerant Storage.</title>
+<pages>26:1-26:17</pages>
+<year>2017</year>
+<booktitle>OPODIS</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.OPODIS.2017.26</ee>
+<crossref>conf/opodis/2017</crossref>
+<url>db/conf/opodis/opodis2017.html#AlchieriBGF17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/BarretoSFS17" mdate="2024-01-29">
+<author pid="89/7803-1">Luciano Barreto 0001</author>
+<author pid="200/5922">Leomar Scheunemann</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Secure storage of user credentials and attributes in federation of clouds.</title>
+<pages>364-369</pages>
+<year>2017</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3019612.3019627</ee>
+<crossref>conf/sac/2017</crossref>
+<url>db/conf/sac/sac2017.html#BarretoSFS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ladc/BogerFA16" mdate="2023-03-24">
+<author pid="76/4761">Davi da Silva B&#246;ger</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="06/2528">Eduardo Alchieri</author>
+<title>Reconfigurable Scalable State Machine Replication.</title>
+<pages>1-8</pages>
+<year>2016</year>
+<booktitle>LADC</booktitle>
+<ee>https://doi.org/10.1109/LADC.2016.12</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LADC.2016.12</ee>
+<crossref>conf/ladc/2016</crossref>
+<url>db/conf/ladc/ladc2016.html#BogerFA16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/AlchieriBGF16" mdate="2018-08-13">
+<author pid="06/2528">Eduardo Alchieri</author>
+<author pid="68/1448">Alysson Bessani</author>
+<author pid="16/2607">Fab&#237;ola Greve</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Efficient and Modular Consensus-Free Reconfiguration for Fault-Tolerant Storage.</title>
+<year>2016</year>
+<volume>abs/1607.05344</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1607.05344</ee>
+<url>db/journals/corr/corr1607.html#AlchieriBGF16</url>
+</article>
+</r>
+<r><inproceedings key="conf/cloudnet/BarretoFS15" mdate="2024-01-29">
+<author pid="89/7803-1">Luciano Barreto 0001</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Conceptual model of brokering and authentication in cloud federations.</title>
+<pages>303-308</pages>
+<year>2015</year>
+<booktitle>CloudNet</booktitle>
+<ee>https://doi.org/10.1109/CloudNet.2015.7335326</ee>
+<crossref>conf/cloudnet/2015</crossref>
+<url>db/conf/cloudnet/cloudnet2015.html#BarretoFS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/BarretoFS15" mdate="2024-01-29">
+<author pid="89/7803-1">Luciano Barreto 0001</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Cloud Federations and Security Attributes.</title>
+<pages>140-149</pages>
+<year>2015</year>
+<booktitle>SBRC</booktitle>
+<ee>https://doi.org/10.1109/SBRC.2015.26</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBRC.2015.26</ee>
+<crossref>conf/sbrc/2015</crossref>
+<url>db/conf/sbrc/sbrc2015.html#BarretoFS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trustcom/BarretoFS15" mdate="2024-01-29">
+<author pid="89/7803-1">Luciano Barreto 0001</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Architectural Model and Security Mechanisms for Cloud Federations.</title>
+<pages>1108-1115</pages>
+<year>2015</year>
+<booktitle>TrustCom/BigDataSE/ISPA (1)</booktitle>
+<ee>https://doi.org/10.1109/Trustcom.2015.490</ee>
+<crossref>conf/trustcom/2015-1</crossref>
+<url>db/conf/trustcom/trustcom2015-1.html#BarretoFS15</url>
+</inproceedings>
+</r>
+<r><article key="journals/jcss/MafraFS14" mdate="2021-02-16">
+<author pid="00/3099">Paulo Manoel Mafra</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<title>Algorithms for a distributed IDS in MANETs.</title>
+<pages>554-570</pages>
+<year>2014</year>
+<volume>80</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1016/j.jcss.2013.06.011</ee>
+<ee>https://www.wikidata.org/entity/Q56115741</ee>
+<url>db/journals/jcss/jcss80.html#MafraFS14</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscc/BogerBFUASP14" mdate="2024-02-05">
+<author pid="76/4761">Davi da Silva B&#246;ger</author>
+<author pid="89/7803-1">Luciano Barreto 0001</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author orcid="0000-0002-7887-6139" pid="66/4100">Pascal Urien</author>
+<author pid="136/6782">Hassane Aissaoui</author>
+<author pid="156/8876">Andr&#233; Santos</author>
+<author pid="33/592">Guy Pujolle</author>
+<title>User-centric Identity Management based on secure elements.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2014.6912541</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2014.6912541</ee>
+<crossref>conf/iscc/2014</crossref>
+<url>db/conf/iscc/iscc2014.html#BogerBFUASP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/AlchieriBGF14" mdate="2023-03-24">
+<author pid="06/2528">Eduardo Ad&#237;lio Pelinson Alchieri</author>
+<author pid="68/1448">Alysson Neves Bessani</author>
+<author pid="16/2607">Fab&#237;ola Greve</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Modular Quorum Systems Reconfigurations.</title>
+<pages>147-155</pages>
+<year>2014</year>
+<booktitle>SBRC</booktitle>
+<ee>https://doi.org/10.1109/SBRC.2014.18</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBRC.2014.18</ee>
+<crossref>conf/sbrc/2014</crossref>
+<url>db/conf/sbrc/sbrc2014.html#AlchieriBGF14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icws/BarretoSFF13" mdate="2024-01-29">
+<author pid="89/7803-1">Luciano Barreto 0001</author>
+<author pid="32/5988">Frank Siqueira</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author orcid="0000-0001-6401-3992" pid="37/8061">Eduardo Feitosa</author>
+<title>An Intrusion Tolerant Identity Management Infrastructure for Cloud Computing Services.</title>
+<pages>155-162</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.30</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICWS.2013.30</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#BarretoSFF13</url>
+</inproceedings>
+</r>
+<r><article key="journals/jisa/FavarimFL12" mdate="2020-04-25">
+<author pid="94/702">F&#225;bio Favarim</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<title>Towards an opportunistic grid scheduling infrastructure based on tuple spaces.</title>
+<pages>159-172</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s13174-011-0056-5</ee>
+<url>db/journals/jisa/jisa3.html#FavarimFL12</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/MafraFS12" mdate="2023-03-24">
+<author pid="00/3099">Paulo Manoel Mafra</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<title>A Distributed IDS for Ad Hoc Networks.</title>
+<pages>478-483</pages>
+<year>2012</year>
+<booktitle>AINA Workshops</booktitle>
+<ee>https://doi.org/10.1109/WAINA.2012.55</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WAINA.2012.55</ee>
+<crossref>conf/aina/2012w</crossref>
+<url>db/conf/aina/ainaw2012.html#MafraFS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/BogerFAW12" mdate="2023-03-24">
+<author pid="76/4761">Davi da Silva B&#246;ger</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="06/2528">Eduardo Ad&#237;lio Pelinson Alchieri</author>
+<author orcid="0000-0003-2236-0587" pid="82/6811">Michelle S. Wangham</author>
+<title>Intrusion-Tolerant Shared Memory through a P2P Overlay Segmentation.</title>
+<pages>779-786</pages>
+<year>2012</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2012.104</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AINA.2012.104</ee>
+<crossref>conf/aina/2012</crossref>
+<url>db/conf/aina/aina2012.html#BogerFAW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icws/LauBF12" mdate="2024-01-29">
+<author orcid="0000-0002-3497-5522" pid="60/2829">Jim Lau</author>
+<author pid="89/7803-1">Luciano Barreto 0001</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>An Infrastructure Based in Virtualization for Intrusion Tolerant Services.</title>
+<pages>170-177</pages>
+<year>2012</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2012.82</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICWS.2012.82</ee>
+<crossref>conf/icws/2012</crossref>
+<url>db/conf/icws/icws2012.html#LauBF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/idcs/MafraFS12" mdate="2017-05-23">
+<author pid="00/3099">Paulo Manoel Mafra</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="38/5417">Altair Olivo Santin</author>
+<title>Distributed Algorithms for the Creation of a New Distributed IDS in MANETs.</title>
+<pages>29-42</pages>
+<year>2012</year>
+<booktitle>IDCS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-34883-9_3</ee>
+<crossref>conf/idcs/2012</crossref>
+<url>db/conf/idcs/idcs2012.html#MafraFS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ntms/StihlerSMF12" mdate="2018-11-02">
+<author pid="29/1165">Maicon Stihler</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<author pid="84/2247">Arlindo L. Marcon Jr.</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Integral Federated Identity Management for Cloud Computing.</title>
+<pages>1-5</pages>
+<year>2012</year>
+<booktitle>NTMS</booktitle>
+<ee>https://doi.org/10.1109/NTMS.2012.6208751</ee>
+<crossref>conf/ntms/2012</crossref>
+<url>db/conf/ntms/ntms2012.html#StihlerSMF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/AlchieriBGF12" mdate="2017-06-05">
+<author pid="06/2528">Eduardo Ad&#237;lio Pelinson Alchieri</author>
+<author orcid="0000-0002-8386-1628" pid="68/1448">Alysson Neves Bessani</author>
+<author pid="16/2607">Fab&#237;ola Greve</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Brief Announcement: Decoupled and Consensus-Free Reconfiguration for Fault-Tolerant Storage.</title>
+<pages>443-444</pages>
+<year>2012</year>
+<booktitle>DISC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33651-5_49</ee>
+<crossref>conf/wdag/2012</crossref>
+<url>db/conf/wdag/disc2012.html#AlchieriBGF12</url>
+</inproceedings>
+</r>
+<r><article key="journals/jwsr/AlchieriBF10" mdate="2020-06-04">
+<author pid="06/2528">Eduardo Ad&#237;lio Pelinson Alchieri</author>
+<author orcid="0000-0002-8386-1628" pid="68/1448">Alysson Neves Bessani</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>A Dependable Infrastructure for Cooperative Web Services Coordination.</title>
+<pages>43-64</pages>
+<year>2010</year>
+<volume>7</volume>
+<journal>Int. J. Web Serv. Res.</journal>
+<number>2</number>
+<ee>https://doi.org/10.4018/jwsr.2010040103</ee>
+<url>db/journals/jwsr/jwsr7.html#AlchieriBF10</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/StummLCFL10" mdate="2023-03-24">
+<author pid="94/8101">Valdir Stumm Jr.</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<author orcid="0000-0001-7873-5531" pid="64/2768-1">Miguel Correia 0001</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author orcid="0000-0002-3497-5522" pid="60/2829">Jim Lau</author>
+<title>Intrusion Tolerant Services Through Virtualization: A Shared Memory Approach.</title>
+<pages>768-774</pages>
+<year>2010</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2010.87</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AINA.2010.87</ee>
+<crossref>conf/aina/2010</crossref>
+<url>db/conf/aina/aina2010.html#StummLCFL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpads/PieriFL10" mdate="2023-03-23">
+<author pid="55/4106">Giovani Pieri</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<title>Consensus Service to Solve Agreement Problems.</title>
+<pages>267-274</pages>
+<year>2010</year>
+<booktitle>ICPADS</booktitle>
+<ee>https://doi.org/10.1109/ICPADS.2010.81</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICPADS.2010.81</ee>
+<crossref>conf/icpads/2010</crossref>
+<url>db/conf/icpads/icpads2010.html#PieriFL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/MafraMFS10" mdate="2023-03-24">
+<author pid="00/3099">Paulo Manoel Mafra</author>
+<author pid="35/9720">Vinicius Moll</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<title>Octopus-IIDS: An anomaly based intelligent intrusion detection system.</title>
+<pages>405-410</pages>
+<year>2010</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2010.5546735</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2010.5546735</ee>
+<crossref>conf/iscc/2010</crossref>
+<url>db/conf/iscc/iscc2010.html#MafraMFS10</url>
+</inproceedings>
+</r>
+<r><article key="journals/tc/BessaniCFL09" mdate="2017-12-12">
+<author orcid="0000-0002-8386-1628" pid="68/1448">Alysson Neves Bessani</author>
+<author orcid="0000-0001-7873-5531" pid="64/2768-1">Miguel Correia 0001</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<title>An Efficient Byzantine-Resilient Tuple Space.</title>
+<pages>1080-1094</pages>
+<year>2009</year>
+<volume>58</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TC.2009.71</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2009.71</ee>
+<url>db/journals/tc/tc58.html#BessaniCFL09</url>
+</article>
+</r>
+<r><article key="journals/tcos/MelloWFCB09" mdate="2021-09-23">
+<author pid="95/6420">Emerson Ribeiro de Mello</author>
+<author orcid="0000-0003-2236-0587" pid="82/6811">Michelle S. Wangham</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="191/8140">Edson Tavares de Camargo</author>
+<author pid="76/4761">Davi da Silva B&#246;ger</author>
+<title>A Model for Authentication Credentials Translation in Service Oriented Architecture.</title>
+<pages>68-86</pages>
+<year>2009</year>
+<volume>4</volume>
+<journal>Trans. Comput. Sci.</journal>
+<ee>https://doi.org/10.1007/978-3-642-01004-0_5</ee>
+<crossref>journals/tcos/2009-4</crossref>
+<url>db/journals/tcos/tcos4.html#MelloWFCB09</url>
+</article>
+</r>
+<r><article key="journals/tpds/BessaniCFL09" mdate="2020-10-02">
+<author orcid="0000-0002-8386-1628" pid="68/1448">Alysson Neves Bessani</author>
+<author orcid="0000-0001-7873-5531" pid="64/2768-1">Miguel Correia 0001</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<title>Sharing Memory between Byzantine Processes Using Policy-Enforced Tuple Spaces.</title>
+<pages>419-432</pages>
+<year>2009</year>
+<volume>20</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TPDS.2008.96</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPDS.2008.96</ee>
+<url>db/journals/tpds/tpds20.html#BessaniCFL09</url>
+</article>
+</r>
+<r><inproceedings key="conf/otm/AlchieriBPF09" mdate="2017-06-05">
+<author pid="06/2528">Eduardo Ad&#237;lio Pelinson Alchieri</author>
+<author orcid="0000-0002-8386-1628" pid="68/1448">Alysson Neves Bessani</author>
+<author pid="80/4695">Fernando Carlos Pereira</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Proactive Byzantine Quorum Systems.</title>
+<pages>708-725</pages>
+<year>2009</year>
+<booktitle>OTM Conferences (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-05148-7_50</ee>
+<crossref>conf/otm/2009-1</crossref>
+<url>db/conf/otm/otm2009-1.html#AlchieriBPF09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/services/BogerFMW09" mdate="2023-03-24">
+<author pid="76/4761">Davi da Silva B&#246;ger</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="00/3099">Paulo Manoel Mafra</author>
+<author orcid="0000-0003-2236-0587" pid="82/6811">Michelle S. Wangham</author>
+<title>A Model to Verify Quality of Protection Policies in Composite Web Services.</title>
+<pages>629-636</pages>
+<year>2009</year>
+<booktitle>SERVICES I</booktitle>
+<ee>https://doi.org/10.1109/SERVICES-I.2009.86</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SERVICES-I.2009.86</ee>
+<crossref>conf/services/2009-1</crossref>
+<url>db/conf/services/services2009-1.html#BogerFMW09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ACISicis/LauLFV08" mdate="2023-03-24">
+<author orcid="0000-0002-3497-5522" pid="60/2829">Jim Lau</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="88/5409">Giuliana Santos Veronese</author>
+<title>Designing Fault Tolerant Web Services Using BPEL.</title>
+<pages>618-623</pages>
+<year>2008</year>
+<booktitle>ACIS-ICIS</booktitle>
+<ee>https://doi.org/10.1109/ICIS.2008.65</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICIS.2008.65</ee>
+<crossref>conf/ACISicis/2008</crossref>
+<url>db/conf/ACISicis/ACISicis2008.html#LauLFV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/PereiraFC08" mdate="2023-03-24">
+<author pid="80/4695">Fernando Carlos Pereira</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
+<title>Self-Adaptable and Intrusion Tolerant Certificate Authority for Mobile Ad Hoc Networks.</title>
+<pages>705-712</pages>
+<year>2008</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2008.141</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AINA.2008.141</ee>
+<crossref>conf/aina/2008</crossref>
+<url>db/conf/aina/aina2008.html#PereiraFC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europki/CustodioVRPF08" mdate="2017-05-19">
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
+<author pid="61/6341">Mart&#237;n A. Gagliotti Vigil</author>
+<author pid="90/3374">Juliano Romani</author>
+<author pid="80/4695">Fernando Carlos Pereira</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Optimized Certificates - A New Proposal for Efficient Electronic Document Signature Validation.</title>
+<pages>49-59</pages>
+<year>2008</year>
+<booktitle>EuroPKI</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-69485-4_4</ee>
+<crossref>conf/europki/2008</crossref>
+<url>db/conf/europki/europki2008.html#CustodioVRPF08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurosys/BessaniACF08" mdate="2018-11-06">
+<author orcid="0000-0002-8386-1628" pid="68/1448">Alysson Neves Bessani</author>
+<author pid="06/2528">Eduardo Ad&#237;lio Pelinson Alchieri</author>
+<author orcid="0000-0001-7873-5531" pid="64/2768-1">Miguel Correia 0001</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>DepSpace: a byzantine fault-tolerant coordination service.</title>
+<pages>163-176</pages>
+<year>2008</year>
+<booktitle>EuroSys</booktitle>
+<ee>https://doi.org/10.1145/1352592.1352610</ee>
+<crossref>conf/eurosys/2008</crossref>
+<url>db/conf/eurosys/eurosys2008.html#BessaniACF08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icws/AlchieriBF08" mdate="2023-03-24">
+<author pid="06/2528">Eduardo Ad&#237;lio Pelinson Alchieri</author>
+<author orcid="0000-0002-8386-1628" pid="68/1448">Alysson Neves Bessani</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>A Dependable Infrastructure for Cooperative Web Services Coordination.</title>
+<pages>21-28</pages>
+<year>2008</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2008.54</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICWS.2008.54</ee>
+<crossref>conf/icws/2008</crossref>
+<url>db/conf/icws/icws2008.html#AlchieriBF08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/opodis/AlchieriBFG08" mdate="2017-06-05">
+<author pid="06/2528">Eduardo Ad&#237;lio Pelinson Alchieri</author>
+<author orcid="0000-0002-8386-1628" pid="68/1448">Alysson Neves Bessani</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="16/2607">Fab&#237;ola Greve</author>
+<title>Byzantine Consensus with Unknown Participants.</title>
+<pages>22-40</pages>
+<year>2008</year>
+<booktitle>OPODIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-92221-6_4</ee>
+<crossref>conf/opodis/2008</crossref>
+<url>db/conf/opodis/opodis2008.html#AlchieriBFG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ACISicis/LungF07" mdate="2023-03-24">
+<author pid="65/85">Lau Cheuk Lung</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Adapting the FT-CORBA Replication Management Service for Large-scale Distributed Systems.</title>
+<pages>652-657</pages>
+<year>2007</year>
+<crossref>conf/ACISicis/2007</crossref>
+<booktitle>ACIS-ICIS</booktitle>
+<ee>https://doi.org/10.1109/ICIS.2007.49</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICIS.2007.49</ee>
+<url>db/conf/ACISicis/ACISicis2007.html#LungF07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/LungHOF07" mdate="2023-03-24">
+<author pid="65/85">Lau Cheuk Lung</author>
+<author pid="04/2578">Marcelo Shinji Higashiyama</author>
+<author pid="91/1540">Rafael R. Obelheiro</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Adapting the UCON_ABC Usage Control Policies on CORBASec Infrastructure.</title>
+<pages>483-488</pages>
+<year>2007</year>
+<crossref>conf/aina/2007w1</crossref>
+<booktitle>AINA Workshops (1)</booktitle>
+<ee>https://doi.org/10.1109/AINAW.2007.67</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AINAW.2007.67</ee>
+<url>db/conf/aina/ainaw2007-1.html#LungHOF07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/epew/MelloMF07" mdate="2017-05-24">
+<author pid="95/6420">Emerson Ribeiro de Mello</author>
+<author pid="45/6478">Aad P. A. van Moorsel</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Evaluation of P2P Search Algorithms for Discovering Trust Paths.</title>
+<pages>112-124</pages>
+<year>2007</year>
+<crossref>conf/epew/2007</crossref>
+<booktitle>EPEW</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-75211-0_9</ee>
+<url>db/conf/epew/epew2007.html#MelloMF07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icws/WanghamMFB07" mdate="2023-03-24">
+<author orcid="0000-0003-2236-0587" pid="82/6811">Michelle S. Wangham</author>
+<author pid="95/6420">Emerson Ribeiro de Mello</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="76/4761">Davi da Silva B&#246;ger</author>
+<title>A Model to support SPKI Federations management through XKMS.</title>
+<pages>338-345</pages>
+<year>2007</year>
+<crossref>conf/icws/2007</crossref>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2007.8</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICWS.2007.8</ee>
+<url>db/conf/icws/icws2007.html#WanghamMFB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/FavarimFLCS07" mdate="2023-03-24">
+<author pid="94/702">F&#225;bio Favarim</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<author orcid="0000-0001-7873-5531" pid="64/2768-1">Miguel Correia 0001</author>
+<author orcid="0000-0003-3934-3943" pid="48/5148">Jo&#227;o Felipe Santos</author>
+<title>Exploiting Tuple Spaces to Provide Fault-Tolerant Scheduling on Computational Grids.</title>
+<pages>403-411</pages>
+<year>2007</year>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC.2007.37</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISORC.2007.37</ee>
+<crossref>conf/isorc/2007</crossref>
+<url>db/conf/isorc/isorc2007.html#FavarimFLCS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nca/FavarimFLC07" mdate="2023-03-23">
+<author pid="94/702">F&#225;bio Favarim</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<author orcid="0000-0001-7873-5531" pid="64/2768-1">Miguel Correia 0001</author>
+<title>GRIDTS: A New Approach for Fault-Tolerant Scheduling in Grid Computing.</title>
+<pages>187-194</pages>
+<year>2007</year>
+<crossref>conf/nca/2007</crossref>
+<booktitle>NCA</booktitle>
+<ee>https://doi.org/10.1109/NCA.2007.27</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/NCA.2007.27</ee>
+<url>db/conf/nca/nca2007.html#FavarimFLC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nca/BessaniCFL07" mdate="2023-03-23">
+<author orcid="0000-0002-8386-1628" pid="68/1448">Alysson Neves Bessani</author>
+<author orcid="0000-0001-7873-5531" pid="64/2768-1">Miguel Correia 0001</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<title>Decoupled Quorum-Based Byzantine-Resilient Coordination in Open Distributed Systems.</title>
+<pages>231-238</pages>
+<year>2007</year>
+<crossref>conf/nca/2007</crossref>
+<booktitle>NCA</booktitle>
+<ee>https://doi.org/10.1109/NCA.2007.14</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/NCA.2007.14</ee>
+<url>db/conf/nca/nca2007.html#BessaniCFL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/prdc/ObelheiroF07" mdate="2023-03-23">
+<author pid="91/1540">Rafael R. Obelheiro</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Overlay Network Topology Reconfiguration in Byzantine Settings.</title>
+<pages>155-162</pages>
+<year>2007</year>
+<booktitle>PRDC</booktitle>
+<ee>https://doi.org/10.1109/PRDC.2007.51</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PRDC.2007.51</ee>
+<ee>https://www.wikidata.org/entity/Q57603711</ee>
+<crossref>conf/prdc/2007</crossref>
+<url>db/conf/prdc/prdc2007.html#ObelheiroF07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/DantasBFC07" mdate="2023-03-24">
+<author pid="16/6492">Wagner Saback Dantas</author>
+<author pid="68/1448">Alysson Neves Bessani</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="64/2768-1">Miguel Correia 0001</author>
+<title>Evaluating Byzantine Quorum Systems.</title>
+<pages>253-264</pages>
+<year>2007</year>
+<booktitle>SRDS</booktitle>
+<ee>https://doi.org/10.1109/SRDS.2007.34</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SRDS.2007.34</ee>
+<crossref>conf/srds/2007</crossref>
+<url>db/conf/srds/srds2007.html#DantasBFC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/BrandaoFM06" mdate="2017-05-25">
+<author pid="58/2696">Jos&#233; Eduardo M. S. Brand&#227;o</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="00/3099">Paulo Manoel Mafra</author>
+<title>A New Approach for IDS Composition.</title>
+<pages>2195-2200</pages>
+<year>2006</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2006.255096</ee>
+<crossref>conf/icc/2006</crossref>
+<url>db/conf/icc/icc2006.html#BrandaoFM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/BessaniFCL06" mdate="2023-03-24">
+<author orcid="0000-0002-8386-1628" pid="68/1448">Alysson Neves Bessani</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author orcid="0000-0001-7873-5531" pid="64/2768-1">Miguel Correia 0001</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<title>Sharing Memory between Byzantine Processes using Policy-Enforced Tuple Spaces.</title>
+<pages>35</pages>
+<year>2006</year>
+<crossref>conf/icdcs/2006</crossref>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS.2006.76</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDCS.2006.76</ee>
+<url>db/conf/icdcs/icdcs2006.html#BessaniFCL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/ObelheiroF06" mdate="2023-03-24">
+<author pid="91/1540">Rafael R. Obelheiro</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>A Lightweight Intrusion-Tolerant Overlay Network.</title>
+<pages>496-503</pages>
+<year>2006</year>
+<crossref>conf/isorc/2006</crossref>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC.2006.7</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISORC.2006.7</ee>
+<url>db/conf/isorc/isorc2006.html#ObelheiroF06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/BrandaoFMO06" mdate="2017-05-25">
+<author pid="58/2696">Jos&#233; Eduardo M. S. Brand&#227;o</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="00/3099">Paulo Manoel Mafra</author>
+<author pid="91/1540">Rafael R. Obelheiro</author>
+<title>A WS-Based Infrastructure for Integrating Intrusion Detection Systems in Large-Scale Environments.</title>
+<pages>462-479</pages>
+<year>2006</year>
+<crossref>conf/otm/2006-1</crossref>
+<booktitle>OTM Conferences (1)</booktitle>
+<ee>https://doi.org/10.1007/11914853_28</ee>
+<url>db/conf/otm/otm2006-1.html#BrandaoFMO06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/BessaniFL06" mdate="2018-11-06">
+<author pid="68/1448">Alysson Neves Bessani</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<title>BTS: a Byzantine fault-tolerant tuple space.</title>
+<pages>429-433</pages>
+<year>2006</year>
+<crossref>conf/sac/2006</crossref>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1141277.1141377</ee>
+<url>db/conf/sac/sac2006.html#BessaniFL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/BessaniCFL06" mdate="2017-12-12">
+<author pid="68/1448">Alysson Neves Bessani</author>
+<author pid="64/2768-1">Miguel Correia 0001</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<title>Brief Announcement: Decoupled Quorum-Based Byzantine-Resilient Coordination in Open Distributed Systems.</title>
+<pages>554-556</pages>
+<year>2006</year>
+<crossref>conf/wdag/2006</crossref>
+<booktitle>DISC</booktitle>
+<ee>https://doi.org/10.1007/11864219_43</ee>
+<url>db/conf/wdag/disc2006.html#BessaniCFL06</url>
+</inproceedings>
+</r>
+<r><article key="journals/jnsm/WestphallF05" mdate="2022-06-23">
+<author orcid="0000-0002-7213-1603" pid="w/CarlaMerkleWestphall">Carla Merkle Westphall</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Mandatory and Discretionary Policies for CORBA Security.</title>
+<pages>309-328</pages>
+<year>2005</year>
+<volume>13</volume>
+<journal>J. Netw. Syst. Manag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10922-005-6271-2</ee>
+<url>db/journals/jnsm/jnsm13.html#WestphallF05</url>
+</article>
+</r>
+<r><article key="journals/mags/WanghamFRL05" mdate="2022-06-23">
+<author orcid="0000-0003-2236-0587" pid="82/6811">Michelle S. Wangham</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="54/5569">Ricardo J. Rabelo</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<title>Secure mobile agent system and its application in the trust building process of virtual enterprises.</title>
+<pages>147-168</pages>
+<year>2005</year>
+<volume>1</volume>
+<journal>Multiagent Grid Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.3233/mgs-2005-1302</ee>
+<url>db/journals/mags/mags1.html#WanghamFRL05</url>
+</article>
+</r>
+<r><inproceedings key="conf/icws/MelloF05" mdate="2023-03-24">
+<author pid="95/6420">Emerson Ribeiro de Mello</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Mediation of Trust across Web Services.</title>
+<pages>515-522</pages>
+<year>2005</year>
+<crossref>conf/icws/2005</crossref>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2005.74</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICWS.2005.74</ee>
+<url>db/conf/icws/icws2005.html#MelloF05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-5/MelloWFR05" mdate="2021-09-23">
+<author pid="95/6420">Emerson Ribeiro de Mello</author>
+<author orcid="0000-0003-2236-0587" pid="82/6811">Michelle S. Wangham</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="54/5569">Ricardo J. Rabelo</author>
+<title>A Secure Model to Establish Trust Relationships in Web Services for Virtual Organizations.</title>
+<pages>183-190</pages>
+<year>2005</year>
+<booktitle>PRO-VE</booktitle>
+<ee type="oa">https://doi.org/10.1007/0-387-29360-4_19</ee>
+<crossref>conf/ifip5-5/2005</crossref>
+<url>db/conf/ifip5-5/prove2005.html#MelloWFR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmns/BortoletoLSBF05" mdate="2018-06-26">
+<author pid="08/2301">Christiane M. Bortoleto</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<author pid="32/5988">Frank Siqueira</author>
+<author orcid="0000-0002-8386-1628" pid="68/1448">Alysson Neves Bessani</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>A Semi-reliable Multicast Protocol for Distributed Multimedia Applications in Large Scale Networks.</title>
+<pages>109-120</pages>
+<year>2005</year>
+<crossref>conf/mmns/2005</crossref>
+<booktitle>MMNS</booktitle>
+<ee type="oa">https://doi.org/10.1007/11572831_10</ee>
+<url>db/conf/mmns/mmns2005.html#BortoletoLSBF05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/BessaniFL05" mdate="2017-06-05">
+<author orcid="0000-0002-8386-1628" pid="68/1448">Alysson Neves Bessani</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<title>Extending the UMIOP Specification for Reliable Multicast in CORBA.</title>
+<pages>662-679</pages>
+<year>2005</year>
+<crossref>conf/otm/2005-3</crossref>
+<booktitle>OTM Conferences (1)</booktitle>
+<ee>https://doi.org/10.1007/11575771_42</ee>
+<url>db/conf/otm/otm2005-1c.html#BessaniFL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/BoruschLBF05" mdate="2017-06-05">
+<author pid="97/647">Daniel Borusch</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<author orcid="0000-0002-8386-1628" pid="68/1448">Alysson Neves Bessani</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Integrating the ROMIOP and ETF Specifications for Atomic Multicast in CORBA.</title>
+<pages>680-697</pages>
+<year>2005</year>
+<crossref>conf/otm/2005-3</crossref>
+<booktitle>OTM Conferences (1)</booktitle>
+<ee>https://doi.org/10.1007/11575771_43</ee>
+<url>db/conf/otm/otm2005-1c.html#BoruschLBF05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coopis/BessaniFLA04" mdate="2017-05-25">
+<author pid="68/1448">Alysson Neves Bessani</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<author pid="06/2528">Eduardo Ad&#237;lio Pelinson Alchieri</author>
+<title>Active Replication in CORBA: Standards, Protocols, and Implementation Framework.</title>
+<pages>1395-1412</pages>
+<ee>https://doi.org/10.1007/978-3-540-30469-2_36</ee>
+<year>2004</year>
+<crossref>conf/coopis/2004-2</crossref>
+<booktitle>CoopIS/DOA/ODBASE (2)</booktitle>
+<url>db/conf/coopis/coopis2004-2.html#BessaniFLA04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mata/WanghamFSR04" mdate="2021-09-23">
+<author orcid="0000-0003-2236-0587" pid="82/6811">Michelle S. Wangham</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="04/684">Ricardo Schmidt</author>
+<author orcid="0000-0002-5488-3692" pid="54/5569">Ricardo J. Rabelo</author>
+<title><i>MASS</i>: A Mobile Agent Security Scheme for the Creation of Virtual Enterprises.</title>
+<pages>234-243</pages>
+<ee>https://doi.org/10.1007/978-3-540-30178-3_22</ee>
+<year>2004</year>
+<crossref>conf/mata/2004</crossref>
+<booktitle>MATA</booktitle>
+<url>db/conf/mata/mata2004.html#WanghamFSR04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cms/WanghamFO03" mdate="2021-09-23">
+<author orcid="0000-0003-2236-0587" pid="82/6811">Michelle S. Wangham</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="91/1540">Rafael R. Obelheiro</author>
+<title>A Security Scheme for Mobile Agent Platforms in Large-Scale Systems.</title>
+<pages>104-116</pages>
+<ee>https://doi.org/10.1007/978-3-540-45184-6_9</ee>
+<year>2003</year>
+<crossref>conf/cms/2003</crossref>
+<booktitle>Communications and Multimedia Security</booktitle>
+<url>db/conf/cms/cms2003.html#WanghamFO03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cms/SantinFM03" mdate="2017-05-19">
+<author pid="38/5417">Altair Olivo Santin</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>Extending the SDSI / SPKI Model through Federation Webs.</title>
+<pages>132-145</pages>
+<ee>https://doi.org/10.1007/978-3-540-45184-6_11</ee>
+<year>2003</year>
+<crossref>conf/cms/2003</crossref>
+<booktitle>Communications and Multimedia Security</booktitle>
+<url>db/conf/cms/cms2003.html#SantinFM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dais/BessaniLFC03" mdate="2017-05-21">
+<author pid="68/1448">Alysson Neves Bessani</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="92/3492">Alcides Calsavara</author>
+<title>Integrating the Unreliable Multicast Inter-ORB Protocol in MJACO.</title>
+<pages>200-211</pages>
+<ee>https://doi.org/10.1007/978-3-540-40010-3_18</ee>
+<year>2003</year>
+<crossref>conf/dais/2003</crossref>
+<booktitle>DAIS</booktitle>
+<url>db/conf/dais/dais2003.html#BessaniLFC03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/BessaniFL03" mdate="2023-03-24">
+<author orcid="0000-0002-8386-1628" pid="68/1448">Alysson Neves Bessani</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<title>Implementing the Multicast Inter-ORB Protocol.</title>
+<pages>135-138</pages>
+<year>2003</year>
+<crossref>conf/isorc/2003</crossref>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC.2003.1199246</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISORC.2003.1199246</ee>
+<url>db/conf/isorc/isorc2003.html#BessaniFL03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ladc/MelloFSS03" mdate="2022-12-07">
+<author pid="95/6420">Emerson Ribeiro de Mello</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Building Trust Chains between CORBA Objects.</title>
+<pages>102-116</pages>
+<ee>https://doi.org/10.1007/978-3-540-45214-0_10</ee>
+<year>2003</year>
+<crossref>conf/ladc/2003</crossref>
+<booktitle>LADC</booktitle>
+<url>db/conf/ladc/ladc2003.html#MelloFSS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/FavarimSF03" mdate="2003-07-17">
+<author pid="94/702">F&#225;bio Favarim</author>
+<author pid="32/5988">Frank Siqueira</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Adaptive Fault-Tolerant CORBA Components.</title>
+<pages>144-148</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#FavarimSF03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/selmas/WanghamFOJF03" mdate="2024-05-06">
+<author orcid="0000-0003-2236-0587" pid="82/6811">Michelle S. Wangham</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="91/1540">Rafael R. Obelheiro</author>
+<author pid="19/5283">Galeno A. Jung</author>
+<author pid="45/4070-1">Elizabeth Fernandes 0001</author>
+<title>Security Mechanisms for Mobile Agent Platforms Based on SPKI/SDSI Chains of Trust.</title>
+<pages>207-224</pages>
+<ee>https://doi.org/10.1007/978-3-540-24625-1_12</ee>
+<year>2003</year>
+<crossref>conf/selmas/2003</crossref>
+<booktitle>SELMAS</booktitle>
+<url>db/conf/selmas/selmas2003.html#WanghamFOJF03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/SantinFSM03" mdate="2023-03-24">
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="32/5988">Frank Siqueira</author>
+<author pid="95/6420">Emerson Ribeiro de Mello</author>
+<title>Federation Web: A Scheme to Compound Authorization Chains on Large-Scale Distributed Systems.</title>
+<pages>66-75</pages>
+<year>2003</year>
+<crossref>conf/srds/2003</crossref>
+<booktitle>SRDS</booktitle>
+<ee>https://doi.org/10.1109/RELDIS.2003.1238056</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RELDIS.2003.1238056</ee>
+<url>db/conf/srds/srds2003.html#SantinFSM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/words/FragaSF03" mdate="2023-03-24">
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="32/5988">Frank Siqueira</author>
+<author pid="94/702">F&#225;bio Favarim</author>
+<title>An Adaptive Fault-Tolerant Component Model.</title>
+<pages>179-186</pages>
+<year>2003</year>
+<crossref>conf/words/2003f</crossref>
+<booktitle>WORDS Fall</booktitle>
+<ee>https://doi.org/10.1109/WORDS.2003.1267506</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WORDS.2003.1267506</ee>
+<url>db/conf/words/words2003f.html#FragaSF03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/words/FragaRSMO03" mdate="2023-03-24">
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="54/5569">Ricardo J. Rabelo</author>
+<author pid="32/5988">Frank Siqueira</author>
+<author orcid="0000-0001-7767-0692" pid="81/1303">Carlos Montez</author>
+<author orcid="0000-0002-8853-9021" pid="15/1283">R&#244;mulo Silva de Oliveira</author>
+<title>Infrastructure for Virtual Enterprises in Large-Scale Open Systems.</title>
+<pages>242-249</pages>
+<year>2003</year>
+<crossref>conf/words/2003</crossref>
+<booktitle>WORDS</booktitle>
+<ee>https://doi.org/10.1109/WORDS.2003.1218089</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WORDS.2003.1218089</ee>
+<url>db/conf/words/words2003.html#FragaRSMO03</url>
+</inproceedings>
+</r>
+<r><article key="journals/rts/KoliverNFFS02" mdate="2020-09-10">
+<author pid="19/2612">Cristian Koliver</author>
+<author pid="45/3224">Klara Nahrstedt</author>
+<author pid="37/5635">Jean-Marie Farines</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="13/1353">Sandra Aparecida Sandri</author>
+<title>Specification, Mapping and Control for QoS Adaptation.</title>
+<pages>143-174</pages>
+<year>2002</year>
+<volume>23</volume>
+<journal>Real Time Syst.</journal>
+<number>1-2</number>
+<url>db/journals/rts/rts23.html#KoliverNFFS02</url>
+<ee>https://doi.org/10.1023/A:1015302604246</ee>
+</article>
+</r>
+<r><inproceedings key="conf/sec/WestphallFWB02" mdate="2004-08-19">
+<author pid="w/CarlaMerkleWestphall">Carla Merkle Westphall</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="b/CarlosBeckerWestphall">Carlos Becker Westphall</author>
+<author pid="83/5999">S. C. S. Bianchi</author>
+<title>Mandatory Security Policies for CORBA Security Model.</title>
+<pages>251-262</pages>
+<year>2002</year>
+<crossref>conf/sec/2002</crossref>
+<booktitle>SEC</booktitle>
+<url>db/conf/sec/sec2002.html#WestphallFWB02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sec/WestphallFWOL02" mdate="2004-08-19">
+<author pid="w/CarlaMerkleWestphall">Carla Merkle Westphall</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="82/6811">Michelle S. Wangham</author>
+<author pid="91/1540">Rafael R. Obelheiro</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<title>Policap-Proposal, Development and Evaluation of a Policy. Service and Capabilities for CORBA Security.</title>
+<pages>263-274</pages>
+<year>2002</year>
+<crossref>conf/sec/2002</crossref>
+<booktitle>SEC</booktitle>
+<url>db/conf/sec/sec2002.html#WestphallFWOL02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/MontezF02" mdate="2023-03-24">
+<author pid="81/1303">Carlos Montez</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Implementing Quality of Service in Web Servers.</title>
+<pages>32-40</pages>
+<year>2002</year>
+<crossref>conf/srds/2002</crossref>
+<booktitle>SRDS</booktitle>
+<ee>https://doi.org/10.1109/RELDIS.2002.1180171</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RELDIS.2002.1180171</ee>
+<url>db/conf/srds/srds2002.html#MontezF02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/words/ObelheiroF02" mdate="2023-03-24">
+<author pid="91/1540">Rafael R. Obelheiro</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Role-Based Access Control for CORBA Distributed Object Systems.</title>
+<pages>53-60</pages>
+<year>2002</year>
+<crossref>conf/words/2002</crossref>
+<booktitle>WORDS</booktitle>
+<ee>https://doi.org/10.1109/WORDS.2002.1000036</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WORDS.2002.1000036</ee>
+<url>db/conf/words/words2002.html#ObelheiroF02</url>
+</inproceedings>
+</r>
+<r><article key="journals/rita/LungF01" mdate="2004-05-24">
+<author pid="65/85">Lau Cheuk Lung</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Extens&#245;es nas especifica&#231;&#245;es FT-CORBA para Sistemas Distribu&#237;dos de Larga Escala.</title>
+<pages>73-87</pages>
+<year>2001</year>
+<volume>8</volume>
+<journal>RITA</journal>
+<number>3</number>
+<url>db/journals/rita/rita8.html#LungF01</url>
+</article>
+</r>
+<r><inproceedings key="conf/im/WanghamLWF01" mdate="2021-09-23">
+<author orcid="0000-0003-2236-0587" pid="82/6811">Michelle S. Wangham</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<author pid="w/CarlaMerkleWestphall">Carla Merkle Westphall</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Integrating SSL to the JaCoWeb Security Framework: Project and Implementation.</title>
+<pages>779-792</pages>
+<year>2001</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2001.918080</ee>
+<crossref>conf/im/2001</crossref>
+<url>db/conf/im/im2001.html#WanghamLWF01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/OliveiraFF01" mdate="2023-03-24">
+<author orcid="0000-0002-8853-9021" pid="15/1283">R&#244;mulo Silva de Oliveira</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="37/5635">Jean-Marie Farines</author>
+<title>Scheduling Imprecise Tasks in Real-Time Distributed Systems.</title>
+<pages>319-326</pages>
+<year>2001</year>
+<crossref>conf/isorc/2001</crossref>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC.2001.922855</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISORC.2001.922855</ee>
+<url>db/conf/isorc/isorc2001.html#OliveiraFF01</url>
+</inproceedings>
+</r>
+<r><article key="journals/cleiej/WestphallFWL02" mdate="2025-01-19">
+<author pid="w/CarlaMerkleWestphall">Carla Merkle Westphall</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="82/6811">Michelle S. Wangham</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<title>JaCoWeb Security - A CORBA Security Discretionary Prototype.</title>
+<year>2000</year>
+<volume>3</volume>
+<journal>CLEI Electron. J.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.19153/cleiej.3.2.2</ee>
+<ee>https://www.wikidata.org/entity/Q129137272</ee>
+<url>db/journals/cleiej/cleiej3.html#WestphallFWL02</url>
+</article>
+</r>
+<r><article key="journals/jsa/OliveiraF00" mdate="2020-10-26">
+<author orcid="0000-0002-8853-9021" pid="15/1283">R&#244;mulo Silva de Oliveira</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Fixed priority scheduling of tasks with arbitrary precedence constraints in distributed hard real-time systems.</title>
+<pages>991-1004</pages>
+<year>2000</year>
+<volume>46</volume>
+<journal>J. Syst. Archit.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1016/S1383-7621(00)00004-7</ee>
+<url>db/journals/jsa/jsa46.html#OliveiraF00</url>
+</article>
+</r>
+<r><inproceedings key="conf/icon/WestphallF99" mdate="2023-03-24">
+<author orcid="0000-0002-7213-1603" pid="w/CarlaMerkleWestphall">Carla Merkle Westphall</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Authorization schemes for large-scale systems based on Java, CORBA and Web security models.</title>
+<pages>327-334</pages>
+<year>1999</year>
+<booktitle>ICON</booktitle>
+<ee>https://doi.org/10.1109/ICON.1999.796194</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICON.1999.796194</ee>
+<crossref>conf/icon/1999</crossref>
+<url>db/conf/icon/icon1999.html#WestphallF99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/FragaFO99" mdate="2023-03-24">
+<author orcid="0000-0001-7767-0692" pid="81/1303">Carlos Montez</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="37/5635">Jean-Marie Farines</author>
+<author pid="15/1283">R&#244;mulo Silva de Oliveira</author>
+<title>An Adaptive Scheduling Approach in Real-Time CORBA.</title>
+<pages>301-309</pages>
+<year>1999</year>
+<crossref>conf/isorc/1999</crossref>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC.1999.776396</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISORC.1999.776396</ee>
+<url>db/conf/isorc/isorc1999.html#FragaFO99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lanoms/WestphallF99" mdate="2020-03-12">
+<author pid="w/CarlaMerkleWestphall">Carla Merkle Westphall</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>A Large-scale System Authorization Scheme Proposal Integrating Java, CORBA and Web Security Models and a Discretionary Prototype.</title>
+<year>1999</year>
+<booktitle>LANOMS</booktitle>
+<ee type="oa">http://www.lanoms.org/2005/anaiscd/1999/1-2.pdf</ee>
+<crossref>conf/lanoms/1999</crossref>
+<url>db/conf/lanoms/lanoms1999.html#WestphallF99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sccc/LungFM99" mdate="2023-03-23">
+<author pid="65/85">Lau Cheuk Lung</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>MetaFT-A Reflective Approach to Implement Replication Techniques in CORBA.</title>
+<pages>25-34</pages>
+<year>1999</year>
+<crossref>conf/sccc/1999</crossref>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.1999.810150</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCCC.1999.810150</ee>
+<url>db/conf/sccc/sccc1999.html#LungFM99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/LungFFOR99" mdate="2023-03-24">
+<author pid="65/85">Lau Cheuk Lung</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="37/5635">Jean-Marie Farines</author>
+<author pid="00/4675">Michael Ogg</author>
+<author pid="52/476">Aleta Ricciardi</author>
+<title>CosNamingFT - A Fault-Tolerant CORBA Naming Service.</title>
+<pages>254-262</pages>
+<year>1999</year>
+<crossref>conf/srds/1999</crossref>
+<booktitle>SRDS</booktitle>
+<ee>https://doi.org/10.1109/RELDIS.1999.805101</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RELDIS.1999.805101</ee>
+<url>db/conf/srds/srds99.html#LungFFOR99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sccc/MontezOF98" mdate="2023-03-23">
+<author orcid="0000-0001-7767-0692" pid="81/1303">Carlos Montez</author>
+<author orcid="0000-0002-8853-9021" pid="15/1283">R&#244;mulo Silva de Oliveira</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>An Adaptive Model for Programming Distributed Real-Time Applications in CORBA.</title>
+<pages>122-129</pages>
+<year>1998</year>
+<crossref>conf/sccc/1998</crossref>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.1998.730791</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCCC.1998.730791</ee>
+<url>db/conf/sccc/sccc1998.html#MontezOF98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isads/FragaMLF97" mdate="2024-01-24">
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<author pid="37/6173">Orlando Gomes Loques Filho</author>
+<title>Implementing replicated services in open systems using a reflective approach.</title>
+<pages>273-280</pages>
+<year>1997</year>
+<booktitle>ISADS</booktitle>
+<ee>https://doi.org/10.1109/ISADS.1997.590631</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISADS.1997.590631</ee>
+<crossref>conf/isads/1997</crossref>
+<url>db/conf/isads/isads1997.html#FragaMLF97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/words/FragaFF97" mdate="2023-03-24">
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="37/5635">Jean-Marie Farines</author>
+<author pid="61/2008">Olinto Furtado</author>
+<title>RTR model: an approach for dealing with real-time programming in open distributed systems.</title>
+<pages>240-247</pages>
+<year>1997</year>
+<booktitle>WORDS</booktitle>
+<ee>https://doi.org/10.1109/WORDS.1997.609962</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WORDS.1997.609962</ee>
+<crossref>conf/words/1997</crossref>
+<url>db/conf/words/words1997.html#FragaFF97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ftdcs/FragaFFS95" mdate="2023-03-24">
+<author pid="81/1303">Carlos Montez</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="37/5635">Jean-Marie Farines</author>
+<author pid="61/2008">Olinto Furtado</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>A Programming Model for Real-Time Applications in Open Distributed Systems.</title>
+<pages>104-111</pages>
+<year>1995</year>
+<crossref>conf/ftdcs/1995</crossref>
+<booktitle>FTDCS</booktitle>
+<ee>https://doi.org/10.1109/FTDCS.1995.524974</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/FTDCS.1995.524974</ee>
+<url>db/conf/ftdcs/ftdcs1995.html#FragaFFS95</url>
+</inproceedings>
+</r>
+<coauthors n="61" nc="1">
+<co c="0" n="2"><na f="a/Aissaoui=Mehrez:Hassane" pid="136/6782">Hassane Aissaoui-Mehrez</na><na>Hassane Aissaoui</na></co>
+<co c="0" n="2"><na f="a/Alchieri:Eduardo" pid="06/2528">Eduardo Alchieri</na><na>Eduardo Ad&#237;lio Pelinson Alchieri</na></co>
+<co c="0"><na f="b/Barreto_0001:Luciano" pid="89/7803-1">Luciano Barreto 0001</na></co>
+<co c="0" n="2"><na f="b/Bessani:Alysson_Neves" pid="68/1448">Alysson Neves Bessani</na><na>Alysson Bessani</na></co>
+<co c="0"><na f="b/Bianchi:S=_C=_S=" pid="83/5999">S. C. S. Bianchi</na></co>
+<co c="0"><na f="b/B=ouml=ger:Davi_da_Silva" pid="76/4761">Davi da Silva B&#246;ger</na></co>
+<co c="0"><na f="b/Bortoleto:Christiane_M=" pid="08/2301">Christiane M. Bortoleto</na></co>
+<co c="0"><na f="b/Borusch:Daniel" pid="97/647">Daniel Borusch</na></co>
+<co c="0"><na f="b/Brand=atilde=o:Jos=eacute=_Eduardo_M=_S=" pid="58/2696">Jos&#233; Eduardo M. S. Brand&#227;o</na></co>
+<co c="0"><na f="c/Calsavara:Alcides" pid="92/3492">Alcides Calsavara</na></co>
+<co c="0"><na f="c/Camargo:Edson_Tavares_de" pid="191/8140">Edson Tavares de Camargo</na></co>
+<co c="0"><na f="c/Correia_0001:Miguel" pid="64/2768-1">Miguel Correia 0001</na></co>
+<co c="0"><na f="c/Cust=oacute=dio:Ricardo_Felipe" pid="95/6830">Ricardo Felipe Cust&#243;dio</na></co>
+<co c="0"><na f="d/Dantas:Wagner_Saback" pid="16/6492">Wagner Saback Dantas</na></co>
+<co c="0"><na f="f/Farines:Jean=Marie" pid="37/5635">Jean-Marie Farines</na></co>
+<co c="0"><na f="f/Favarim:F=aacute=bio" pid="94/702">F&#225;bio Favarim</na></co>
+<co c="0"><na f="f/Feitosa:Eduardo" pid="37/8061">Eduardo Feitosa</na></co>
+<co c="0"><na f="f/Fernandes_0001:Elizabeth" pid="45/4070-1">Elizabeth Fernandes 0001</na></co>
+<co c="0" n="2"><na f="f/Furtado:Olinto_J=_V=" pid="61/2008">Olinto J. V. Furtado</na><na>Olinto Furtado</na></co>
+<co c="0"><na f="g/Greve:Fab=iacute=ola" pid="16/2607">Fab&#237;ola Greve</na></co>
+<co c="0"><na f="h/Higashiyama:Marcelo_Shinji" pid="04/2578">Marcelo Shinji Higashiyama</na></co>
+<co c="0"><na f="i/In=aacute=cio:Gustavo" pid="257/5568">Gustavo In&#225;cio</na></co>
+<co c="0"><na f="j/Jung:Galeno_A=" pid="19/5283">Galeno A. Jung</na></co>
+<co c="0"><na f="k/Koliver:Cristian" pid="19/2612">Cristian Koliver</na></co>
+<co c="0"><na f="l/Lau:Jim" pid="60/2829">Jim Lau</na></co>
+<co c="0" n="2"><na f="l/Loques:Orlando" pid="37/6173">Orlando Loques</na><na>Orlando Gomes Loques Filho</na></co>
+<co c="0"><na f="l/Lung:Lau_Cheuk" pid="65/85">Lau Cheuk Lung</na></co>
+<co c="0"><na f="m/Mafra:Paulo_Manoel" pid="00/3099">Paulo Manoel Mafra</na></co>
+<co c="0"><na f="m/Marcon_Jr=:Arlindo_L=" pid="84/2247">Arlindo L. Marcon Jr.</na></co>
+<co c="0"><na f="m/Maziero:Carlos" pid="m/CarlosMaziero">Carlos Maziero</na></co>
+<co c="0"><na f="m/Mello:Emerson_Ribeiro_de" pid="95/6420">Emerson Ribeiro de Mello</na></co>
+<co c="0"><na f="m/Moll:Vinicius" pid="35/9720">Vinicius Moll</na></co>
+<co c="0"><na f="m/Montez:Carlos" pid="81/1303">Carlos Montez</na></co>
+<co c="0"><na f="m/Moorsel:Aad_P=_A=_van" pid="45/6478">Aad P. A. van Moorsel</na></co>
+<co c="0"><na f="n/Nahrstedt:Klara" pid="45/3224">Klara Nahrstedt</na></co>
+<co c="0"><na f="n/Neiheiser:Ray" pid="218/1789">Ray Neiheiser</na></co>
+<co c="0"><na f="o/Obelheiro:Rafael_R=" pid="91/1540">Rafael R. Obelheiro</na></co>
+<co c="0"><na f="o/Ogg:Michael" pid="00/4675">Michael Ogg</na></co>
+<co c="0"><na f="o/Oliveira:R=ocirc=mulo_Silva_de" pid="15/1283">R&#244;mulo Silva de Oliveira</na></co>
+<co c="0"><na f="p/Pereira:Fernando_Carlos" pid="80/4695">Fernando Carlos Pereira</na></co>
+<co c="0"><na f="p/Pieri:Giovani" pid="55/4106">Giovani Pieri</na></co>
+<co c="0"><na f="p/Pujolle:Guy" pid="33/592">Guy Pujolle</na></co>
+<co c="0"><na f="r/Rabelo:Ricardo_J=" pid="54/5569">Ricardo J. Rabelo</na></co>
+<co c="0"><na f="r/Rech:Luciana" pid="30/3196">Luciana Rech</na></co>
+<co c="0"><na f="r/Ricciardi:Aleta" pid="52/476">Aleta Ricciardi</na></co>
+<co c="0"><na f="r/Romani:Juliano" pid="90/3374">Juliano Romani</na></co>
+<co c="0" n="2"><na f="s/Sandri:Sandra_A=" pid="13/1353">Sandra A. Sandri</na><na>Sandra Aparecida Sandri</na></co>
+<co c="0"><na f="s/Santin:Altair_Olivo" pid="38/5417">Altair Olivo Santin</na></co>
+<co c="0"><na f="s/Santos:Andr=eacute=" pid="156/8876">Andr&#233; Santos</na></co>
+<co c="0"><na f="s/Santos:Jo=atilde=o_Felipe" pid="48/5148">Jo&#227;o Felipe Santos</na></co>
+<co c="0"><na f="s/Scheunemann:Leomar" pid="200/5922">Leomar Scheunemann</na></co>
+<co c="0"><na f="s/Schmidt:Ricardo" pid="04/684">Ricardo Schmidt</na></co>
+<co c="0"><na f="s/Siqueira:Frank" pid="32/5988">Frank Siqueira</na></co>
+<co c="0"><na f="s/Stihler:Maicon" pid="29/1165">Maicon Stihler</na></co>
+<co c="0"><na f="s/Stumm_Jr=:Valdir" pid="94/8101">Valdir Stumm Jr.</na></co>
+<co c="0"><na f="u/Urien:Pascal" pid="66/4100">Pascal Urien</na></co>
+<co c="0"><na f="v/Veronese:Giuliana_Santos" pid="88/5409">Giuliana Santos Veronese</na></co>
+<co c="0"><na f="v/Vigil:Mart=iacute=n_A=_Gagliotti" pid="61/6341">Mart&#237;n A. Gagliotti Vigil</na></co>
+<co c="0"><na f="w/Wangham:Michelle_S=" pid="82/6811">Michelle S. Wangham</na></co>
+<co c="0"><na f="w/Westphall:Carla_Merkle" pid="w/CarlaMerkleWestphall">Carla Merkle Westphall</na></co>
+<co c="0"><na f="w/Westphall:Carlos_Becker" pid="b/CarlosBeckerWestphall">Carlos Becker Westphall</na></co>
+</coauthors>
+</dblpperson>
+

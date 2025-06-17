@@ -1,0 +1,997 @@
+<?xml version="1.0"?>
+<dblpperson name="Frank Siqueira" pid="32/5988" n="67">
+<person key="homepages/32/5988" mdate="2010-04-25">
+<author pid="32/5988">Frank Siqueira</author>
+<author pid="32/5988">Frank Augusto Siqueira</author>
+</person>
+<r><article key="journals/concurrency/NetoCS25" mdate="2025-03-03">
+<author pid="396/8196">Pedro Moritz de Carvalho Neto</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Castro 0001</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Dynamic Load Balancing in Kubernetes Environments With Kubernetes Scheduling Extension (KSE).</title>
+<year>2025</year>
+<month>February</month>
+<volume>37</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.8344</ee>
+<url>db/journals/concurrency/concurrency37.html#NetoCS25</url>
+<stream>streams/journals/concurrency</stream>
+</article>
+</r>
+<r><inproceedings key="conf/icit2/KretzerCPWLS25" mdate="2025-06-10">
+<author pid="406/8132">Arthur Kretzer</author>
+<author pid="317/2800">Denise Costa</author>
+<author pid="406/9709">Gabriel Pardini</author>
+<author pid="407/0132">Jardel Wolkers</author>
+<author pid="406/8659">Renato Luz</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Big Data Analytics in Industry 4.0: Automating Production Metrics With an Edge-Based Architecture.</title>
+<pages>1-6</pages>
+<year>2025</year>
+<booktitle>ICIT</booktitle>
+<ee>https://doi.org/10.1109/ICIT63637.2025.10965329</ee>
+<crossref>conf/icit2/2025</crossref>
+<url>db/conf/icit2/icit2025.html#KretzerCPWLS25</url>
+</inproceedings>
+</r>
+<r><article key="journals/dafes/FidelisCS24" mdate="2024-05-19">
+<author pid="335/3383">Samuel Amico Fidelis</author>
+<author pid="39/6633">M&#225;rcio Castro 0001</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Improving edge AI for industrial IoT applications with distributed learning using consensus.</title>
+<pages>67-89</pages>
+<year>2024</year>
+<month>March</month>
+<volume>28</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10617-024-09284-0</ee>
+<url>db/journals/dafes/dafes28.html#FidelisCS24</url>
+</article>
+</r>
+<r><article key="journals/ijccbs/SouzaS24" mdate="2024-07-03">
+<author pid="18/4470">Jeferson L. R. Souza</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Using the theorem of inaccessibility to assess dependable real-time networks.</title>
+<pages>91-114</pages>
+<year>2024</year>
+<volume>11</volume>
+<journal>Int. J. Crit. Comput. Based Syst.</journal>
+<number>1/2</number>
+<ee>https://doi.org/10.1504/IJCCBS.2024.139102</ee>
+<url>db/journals/ijccbs/ijccbs11.html#SouzaS24</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/SokiS24" mdate="2024-04-12">
+<author pid="372/9618">Alberto Tuti Soki</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Discovery of RESTful Web Services Based on the OpenAPI 3.0 Standard with Semantic Annotations.</title>
+<pages>22-34</pages>
+<year>2024</year>
+<booktitle>AINA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-57853-3_3</ee>
+<crossref>conf/aina/2024-2</crossref>
+<url>db/conf/aina/aina2024-2.html#SokiS24</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijpp/PresserS23" mdate="2023-07-28">
+<author pid="167/2643">Daniel Presser</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Partitioning-Aware Performance Modeling of Distributed Graph Processing Tasks.</title>
+<pages>231-255</pages>
+<year>2023</year>
+<month>October</month>
+<volume>51</volume>
+<journal>Int. J. Parallel Program.</journal>
+<number>4-5</number>
+<ee>https://doi.org/10.1007/s10766-023-00753-w</ee>
+<url>db/journals/ijpp/ijpp51.html#PresserS23</url>
+</article>
+</r>
+<r><article key="journals/csur/SiqueiraD22" mdate="2021-12-15">
+<author orcid="0000-0002-8275-5751" pid="32/5988">Frank Siqueira</author>
+<author orcid="0000-0001-9871-8771" pid="55/5533">Joseph G. Davis</author>
+<title>Service Computing for Industry 4.0: State of the Art, Challenges, and Research Opportunities.</title>
+<pages>188:1-188:38</pages>
+<year>2022</year>
+<volume>54</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1145/3478680</ee>
+<url>db/journals/csur/csur54.html#SiqueiraD22</url>
+</article>
+</r>
+<r><inproceedings key="conf/ladc/SouzaS22" mdate="2023-01-31">
+<author orcid="0000-0002-9564-6087" pid="18/4470">Jeferson L. R. Souza</author>
+<author orcid="0000-0002-8275-5751" pid="32/5988">Frank Siqueira</author>
+<title>Analysing and Modelling Inaccessibility in Dependable Real-Time Networks&#10033;.</title>
+<pages>11-20</pages>
+<year>2022</year>
+<booktitle>LADC</booktitle>
+<ee>https://doi.org/10.1145/3569902.3569904</ee>
+<crossref>conf/ladc/2022</crossref>
+<url>db/conf/ladc/ladc2022.html#SouzaS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/FidelisCS22" mdate="2022-12-20">
+<author pid="335/3383">Samuel Amico Fidelis</author>
+<author pid="39/6633">M&#225;rcio Castro 0001</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Distributed Learning using Consensus on Edge AI.</title>
+<pages>1-8</pages>
+<year>2022</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC56799.2022.9965153</ee>
+<crossref>conf/sbesc/2022</crossref>
+<url>db/conf/sbesc/sbesc2022.html#FidelisCS22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-14743" mdate="2022-07-04">
+<author pid="18/4470">Jeferson L. R. Souza</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Key Factors of Wireless Real-Time Networks - From Dependability to Timeliness.</title>
+<year>2022</year>
+<volume>abs/2206.14743</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.14743</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-14743</url>
+</article>
+</r>
+<r><article key="journals/istr/BarretoFS21" mdate="2024-01-29">
+<author pid="89/7803-1">Luciano Barreto 0001</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>An intrusion tolerant identity provider with user attributes confidentiality.</title>
+<pages>103045</pages>
+<year>2021</year>
+<volume>63</volume>
+<journal>J. Inf. Secur. Appl.</journal>
+<ee>https://doi.org/10.1016/j.jisa.2021.103045</ee>
+<url>db/journals/istr/istr63.html#BarretoFS21</url>
+</article>
+</r>
+<r><inproceedings key="conf/compsac/SalvadoriHS20" mdate="2020-09-29">
+<author pid="155/5140">Ivan Luiz Salvadori</author>
+<author pid="185/1485">Alexis Huf</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Data Linking as a Service: An Infrastructure for Generating and Publishing Linked Data on the Web.</title>
+<pages>262-271</pages>
+<year>2020</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC48688.2020.00042</ee>
+<crossref>conf/compsac/2020</crossref>
+<url>db/conf/compsac/compsac2020.html#SalvadoriHS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/debs/PresserSR020" mdate="2020-12-29">
+<author orcid="0000-0002-2134-2048" pid="167/2643">Daniel Presser</author>
+<author pid="32/5988">Frank Siqueira</author>
+<author pid="r/LRodrigues">Lu&#237;s E. T. Rodrigues</author>
+<author orcid="0000-0001-7026-7446" pid="r/PaoloRomano0">Paolo Romano 0002</author>
+<title>EdgeScaler: effective elastic scaling for graph stream processing systems.</title>
+<pages>39-50</pages>
+<year>2020</year>
+<booktitle>DEBS</booktitle>
+<ee>https://doi.org/10.1145/3401025.3401734</ee>
+<crossref>conf/debs/2020</crossref>
+<url>db/conf/debs/debs2020.html#PresserSR020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/ReinaHPS20" mdate="2020-10-06">
+<author orcid="0000-0002-7193-3639" pid="226/3871">F&#225;bio Reina</author>
+<author orcid="0000-0003-2723-0546" pid="185/1485">Alexis Huf</author>
+<author orcid="0000-0002-2134-2048" pid="167/2643">Daniel Presser</author>
+<author orcid="0000-0002-8275-5751" pid="32/5988">Frank Siqueira</author>
+<title>Modeling and Enforcing Integrity Constraints on Graph Databases.</title>
+<pages>269-284</pages>
+<year>2020</year>
+<booktitle>DEXA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-59003-1_18</ee>
+<crossref>conf/dexa/2020-1</crossref>
+<url>db/conf/dexa/dexa2020-1.html#ReinaHPS20</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijwis/OliveiraHSS19" mdate="2025-01-19">
+<author pid="205/6337">Bruno C. N. Oliveira</author>
+<author orcid="0000-0003-2723-0546" pid="185/1485">Alexis Huf</author>
+<author pid="155/5140">Ivan Luiz Salvadori</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>OntoGenesis: an architecture for automatic semantic enhancement of data services.</title>
+<pages>2-27</pages>
+<year>2019</year>
+<volume>15</volume>
+<journal>Int. J. Web Inf. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1108/IJWIS-04-2018-0020</ee>
+<ee>https://www.wikidata.org/entity/Q128703484</ee>
+<url>db/journals/ijwis/ijwis15.html#OliveiraHSS19</url>
+</article>
+</r>
+<r><article key="journals/jnca/HufS19" mdate="2020-03-27">
+<author orcid="0000-0003-2723-0546" pid="185/1485">Alexis Huf</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Composition of heterogeneous web services: A systematic review.</title>
+<pages>89-110</pages>
+<year>2019</year>
+<volume>143</volume>
+<journal>J. Netw. Comput. Appl.</journal>
+<ee>https://doi.org/10.1016/j.jnca.2019.06.008</ee>
+<url>db/journals/jnca/jnca143.html#HufS19</url>
+</article>
+</r>
+<r><inproceedings key="conf/clei/ReinaLRNS19" mdate="2020-05-14">
+<author pid="226/3871">F&#225;bio Reina</author>
+<author pid="09/10444">Aldelir Fernando Luiz</author>
+<author pid="30/3196">Luciana de Oliveira Rech</author>
+<author pid="160/4516">Hylson Vescovi Netto</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Providing Data Integrity in Graph Databases.</title>
+<pages>1-10</pages>
+<year>2019</year>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI47609.2019.235073</ee>
+<crossref>conf/clei/2019</crossref>
+<url>db/conf/clei/clei2019.html#ReinaLRNS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/compsac/SalvadoriHS19" mdate="2020-03-27">
+<author pid="155/5140">Ivan Luiz Salvadori</author>
+<author orcid="0000-0003-2723-0546" pid="185/1485">Alexis Huf</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Semantic Data-Driven Microservices.</title>
+<pages>402-410</pages>
+<year>2019</year>
+<booktitle>COMPSAC (1)</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2019.00065</ee>
+<crossref>conf/compsac/2019-1</crossref>
+<url>db/conf/compsac/compsac2019-1.html#SalvadoriHS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/HufS19" mdate="2020-03-27">
+<author orcid="0000-0003-2723-0546" pid="185/1485">Alexis Huf</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Scalable precondition-aware service composition with SPARQL.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC47284.2019.8969659</ee>
+<crossref>conf/iscc/2019</crossref>
+<url>db/conf/iscc/iscc2019.html#HufS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/OliveiraHSS19" mdate="2020-03-27">
+<author pid="205/6337">Bruno C. N. Oliveira</author>
+<author orcid="0000-0003-2723-0546" pid="185/1485">Alexis Huf</author>
+<author pid="155/5140">Ivan Luiz Salvadori</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Semantic Enrichment of Services for Linked Data Provision in SOA.</title>
+<pages>48:1-48:8</pages>
+<year>2019</year>
+<booktitle>SBSI</booktitle>
+<ee>https://doi.org/10.1145/3330204.3330258</ee>
+<crossref>conf/sbsi/2019</crossref>
+<url>db/conf/sbsi/sbsi2019.html#OliveiraHSS19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sbsi/2016" mdate="2022-01-28">
+<editor pid="32/5988">Frank Siqueira</editor>
+<editor pid="69/3719">Patricia Vilain</editor>
+<editor pid="20/5813">Claudia Cappelli</editor>
+<editor pid="71/3416">Raul Sidnei Wazlawick</editor>
+<title>Proceedings of the XII Brazilian Symposium on Information Systems on Brazilian Symposium on Information Systems: Information Systems in the Cloud Computing Era, SBSI 2016, Florian&#243;polis, Brazil, May 17-20, 2016.</title>
+<booktitle>SBSI</booktitle>
+<publisher>ACM</publisher>
+<year>2019</year>
+<isbn>978-85-7669-317-8</isbn>
+<ee type="oa">https://doi.org/10.5753/sbsi.2016</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3021955</ee>
+<url>db/conf/sbsi/sbsi2016.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/bigdata/PresserSR18" mdate="2018-09-14">
+<author pid="167/2643">Daniel Presser</author>
+<author pid="32/5988">Frank Siqueira</author>
+<author pid="226/3871">Fabio Reina</author>
+<title>Performance Modeling and Task Scheduling in Distributed Graph Processing.</title>
+<pages>135-142</pages>
+<year>2018</year>
+<booktitle>BigData Congress</booktitle>
+<ee>https://doi.org/10.1109/BigDataCongress.2018.00025</ee>
+<crossref>conf/bigdata/2018</crossref>
+<url>db/conf/bigdata/bigdata2018.html#PresserSR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/LohmannHLSG18" mdate="2020-03-27">
+<author pid="222/9496">Douglas Lohmann</author>
+<author orcid="0000-0003-2723-0546" pid="185/1485">Alexis Huf</author>
+<author pid="21/3398">Djones Lettnin</author>
+<author pid="32/5988">Frank Siqueira</author>
+<author pid="04/3287">Jos&#233; Lu&#237;s G&#252;ntzel</author>
+<title>A Domain-specific Language for Automated Fault Injection in SystemC Models.</title>
+<pages>425-428</pages>
+<year>2018</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2018.8617838</ee>
+<crossref>conf/icecsys/2018</crossref>
+<url>db/conf/icecsys/icecsys2018.html#LohmannHLSG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/PresserS18" mdate="2022-02-18">
+<author pid="167/2643">Daniel Presser</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Processamento Distribu&#237;do de Grafos: Modelagem de Desempenho e Escalonamento de Tarefas Mold&#225;veis.</title>
+<pages>1243-1256</pages>
+<year>2018</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc.2018.2491</ee>
+<crossref>conf/sbrc/2018</crossref>
+<url>db/conf/sbrc/sbrc2018.html#PresserS18</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijwis/SalvadoriHOMS17" mdate="2020-10-20">
+<author orcid="0000-0003-1958-7254" pid="155/5140">Ivan Luiz Salvadori</author>
+<author orcid="0000-0003-2723-0546" pid="185/1485">Alexis Huf</author>
+<author pid="205/6337">Bruno C. N. Oliveira</author>
+<author pid="82/6647">Ronaldo dos Santos Mello</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Improving entity linking with ontology alignment for semantic microservices composition.</title>
+<pages>302-323</pages>
+<year>2017</year>
+<volume>13</volume>
+<journal>Int. J. Web Inf. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1108/IJWIS-04-2017-0029</ee>
+<url>db/journals/ijwis/ijwis13.html#SalvadoriHOMS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/aiccsa/WeingartnerMSWS17" mdate="2023-03-24">
+<author pid="154/1548">Rafael Weing&#228;rtner</author>
+<author pid="216/4276">Pedro Henrique Pereira Martins</author>
+<author pid="155/5140">Ivan Luiz Salvadori</author>
+<author orcid="0000-0002-7213-1603" pid="w/CarlaMerkleWestphall">Carla Merkle Westphall</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Improving OpenID Connect Federation's Interoperability with Web Semantics.</title>
+<pages>1269-1276</pages>
+<year>2017</year>
+<booktitle>AICCSA</booktitle>
+<ee>https://doi.org/10.1109/AICCSA.2017.106</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AICCSA.2017.106</ee>
+<crossref>conf/aiccsa/2017</crossref>
+<url>db/conf/aiccsa/aiccsa2017.html#WeingartnerMSWS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iiwas/OliveiraHSS17" mdate="2018-11-06">
+<author pid="205/6337">Bruno C. N. Oliveira</author>
+<author orcid="0000-0003-2723-0546" pid="185/1485">Alexis Huf</author>
+<author pid="155/5140">Ivan Luiz Salvadori</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Automatic semantic enrichment of data services.</title>
+<pages>415-424</pages>
+<year>2017</year>
+<booktitle>iiWAS</booktitle>
+<ee>https://doi.org/10.1145/3151759.3151783</ee>
+<crossref>conf/iiwas/2017</crossref>
+<url>db/conf/iiwas/iiwas2017.html#OliveiraHSS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iiwas/SalvadoriOHIS17" mdate="2019-09-16">
+<author pid="155/5140">Ivan Luiz Salvadori</author>
+<author pid="205/6337">Bruno C. N. Oliveira</author>
+<author orcid="0000-0003-2723-0546" pid="185/1485">Alexis Huf</author>
+<author orcid="0000-0003-3424-8269" pid="161/8536">Eduardo C. Inacio</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>An ontology alignment framework for data-driven microservices.</title>
+<pages>425-433</pages>
+<year>2017</year>
+<booktitle>iiWAS</booktitle>
+<ee>https://doi.org/10.1145/3151759.3151793</ee>
+<crossref>conf/iiwas/2017</crossref>
+<url>db/conf/iiwas/iiwas2017.html#SalvadoriOHIS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/HufSS17" mdate="2023-03-24">
+<author orcid="0000-0003-2723-0546" pid="185/1485">Alexis Huf</author>
+<author pid="155/5140">Ivan Luiz Salvadori</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Planning and execution of heterogeneous service compositions.</title>
+<pages>987-993</pages>
+<year>2017</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2017.8024654</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2017.8024654</ee>
+<crossref>conf/iscc/2017</crossref>
+<url>db/conf/iscc/iscc2017.html#HufSS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/BarretoSFS17" mdate="2024-01-29">
+<author pid="89/7803-1">Luciano Barreto 0001</author>
+<author pid="200/5922">Leomar Scheunemann</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Secure storage of user credentials and attributes in federation of clouds.</title>
+<pages>364-369</pages>
+<year>2017</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3019612.3019627</ee>
+<crossref>conf/sac/2017</crossref>
+<url>db/conf/sac/sac2017.html#BarretoSFS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webdb/FloresS17" mdate="2018-11-06">
+<author pid="184/6012">Paulo Arion Flores</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Invariant Control in Eventually Consistent Databases.</title>
+<pages>13-18</pages>
+<year>2017</year>
+<booktitle>WebDB</booktitle>
+<ee>https://doi.org/10.1145/3068839.3068844</ee>
+<crossref>conf/webdb/2017</crossref>
+<url>db/conf/webdb/webdb2017.html#FloresS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/IEEEscc/HufSS16" mdate="2023-03-24">
+<author orcid="0000-0003-2723-0546" pid="185/1485">Alexis Huf</author>
+<author pid="155/5140">Ivan Luiz Salvadori</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>A Service-Oriented Approach for Integrating Broadcast Facilities.</title>
+<pages>705-712</pages>
+<year>2016</year>
+<booktitle>SCC</booktitle>
+<ee>https://doi.org/10.1109/SCC.2016.97</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCC.2016.97</ee>
+<crossref>conf/IEEEscc/2016</crossref>
+<url>db/conf/IEEEscc/scc2016.html#HufSS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iiwas/CamargoSMS16" mdate="2018-11-06">
+<author pid="194/8669">Andr&#233; de Camargo</author>
+<author pid="155/5140">Ivan Luiz Salvadori</author>
+<author pid="82/6647">Ronaldo dos Santos Mello</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>An architecture to automate performance tests on microservices.</title>
+<pages>422-429</pages>
+<year>2016</year>
+<booktitle>iiWAS</booktitle>
+<ee>https://doi.org/10.1145/3011141.3011179</ee>
+<crossref>conf/iiwas/2016</crossref>
+<url>db/conf/iiwas/iiwas2016.html#CamargoSMS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iiwas/SalvadoriHMS16" mdate="2025-01-19">
+<author pid="155/5140">Ivan Luiz Salvadori</author>
+<author orcid="0000-0003-2723-0546" pid="185/1485">Alexis Huf</author>
+<author pid="82/6647">Ronaldo dos Santos Mello</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Publishing linked data through semantic microservices composition.</title>
+<pages>443-452</pages>
+<year>2016</year>
+<booktitle>iiWAS</booktitle>
+<ee>https://doi.org/10.1145/3011141.3011155</ee>
+<ee>https://www.wikidata.org/entity/Q130927574</ee>
+<crossref>conf/iiwas/2016</crossref>
+<url>db/conf/iiwas/iiwas2016.html#SalvadoriHMS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/SouzaFDS16" mdate="2023-03-24">
+<author orcid="0000-0002-6523-3898" pid="35/7440">Ramon Hugo de Souza</author>
+<author pid="184/6012">Paulo Arion Flores</author>
+<author orcid="0000-0002-2312-7042" pid="d/MarioARDantas">M&#225;rio Ant&#244;nio Ribeiro Dantas</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Architectural recovering model for Distributed Databases: A reliability, availability and serviceability approach.</title>
+<pages>575-580</pages>
+<year>2016</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2016.7543799</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2016.7543799</ee>
+<crossref>conf/iscc/2016</crossref>
+<url>db/conf/iscc/iscc2016.html#SouzaFDS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/InacioSD16" mdate="2023-03-24">
+<author orcid="0000-0003-3424-8269" pid="161/8536">Eduardo Camilo Inacio</author>
+<author pid="32/5988">Frank Siqueira</author>
+<author orcid="0000-0002-2312-7042" pid="d/MarioARDantas">Mario A. R. Dantas</author>
+<title>D&#233;dalo: A middleware with a single point of access for heterogeneous distributed computing environments.</title>
+<pages>964-969</pages>
+<year>2016</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2016.7543861</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2016.7543861</ee>
+<crossref>conf/iscc/2016</crossref>
+<url>db/conf/iscc/iscc2016.html#InacioSD16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/IEEEcloud/ToniniS15" mdate="2023-03-24">
+<author pid="143/6358">Gustavo Tonini</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Improving the Performance of Biological Data Analysis in Cloud Computing Platforms.</title>
+<pages>766-772</pages>
+<year>2015</year>
+<booktitle>CLOUD</booktitle>
+<ee>https://doi.org/10.1109/CLOUD.2015.106</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CLOUD.2015.106</ee>
+<crossref>conf/IEEEcloud/2015</crossref>
+<url>db/conf/IEEEcloud/IEEEcloud2015.html#ToniniS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloudnet/BarretoFS15" mdate="2024-01-29">
+<author pid="89/7803-1">Luciano Barreto 0001</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Conceptual model of brokering and authentication in cloud federations.</title>
+<pages>303-308</pages>
+<year>2015</year>
+<booktitle>CloudNet</booktitle>
+<ee>https://doi.org/10.1109/CloudNet.2015.7335326</ee>
+<crossref>conf/cloudnet/2015</crossref>
+<url>db/conf/cloudnet/cloudnet2015.html#BarretoFS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icws/SalvadoriS15" mdate="2023-03-24">
+<author pid="155/5140">Ivan Luiz Salvadori</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>A Maturity Model for Semantic RESTful Web APIs.</title>
+<pages>703-710</pages>
+<year>2015</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2015.98</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICWS.2015.98</ee>
+<crossref>conf/icws/2015</crossref>
+<url>db/conf/icws/icws2015.html#SalvadoriS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/FelisbertoTSMSA15" mdate="2023-03-23">
+<author pid="177/2520">Thiago Zanivan Felisberto</author>
+<author pid="177/2506">Elder Dominghini Tramontin</author>
+<author pid="177/2532">Felipe da Cunha dos Santos</author>
+<author orcid="0000-0003-0990-8886" pid="139/2935">Anal&#250;cia Schiaffino Morales</author>
+<author pid="32/5988">Frank Siqueira</author>
+<author pid="27/9584">Gustavo Medeiros de Ara&#250;jo</author>
+<title>UDP4US: Universal Device Pipe for Ubiquitous Services.</title>
+<pages>36-41</pages>
+<year>2015</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2015.14</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2015.14</ee>
+<crossref>conf/sbesc/2015</crossref>
+<url>db/conf/sbesc/sbesc2015.html#FelisbertoTSMSA15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/BarretoFS15" mdate="2024-01-29">
+<author pid="89/7803-1">Luciano Barreto 0001</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Cloud Federations and Security Attributes.</title>
+<pages>140-149</pages>
+<year>2015</year>
+<booktitle>SBRC</booktitle>
+<ee>https://doi.org/10.1109/SBRC.2015.26</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBRC.2015.26</ee>
+<crossref>conf/sbrc/2015</crossref>
+<url>db/conf/sbrc/sbrc2015.html#BarretoFS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trustcom/BarretoFS15" mdate="2024-01-29">
+<author pid="89/7803-1">Luciano Barreto 0001</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Architectural Model and Security Mechanisms for Cloud Federations.</title>
+<pages>1108-1115</pages>
+<year>2015</year>
+<booktitle>TrustCom/BigDataSE/ISPA (1)</booktitle>
+<ee>https://doi.org/10.1109/Trustcom.2015.490</ee>
+<crossref>conf/trustcom/2015-1</crossref>
+<url>db/conf/trustcom/trustcom2015-1.html#BarretoFS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/SilvaWS15" mdate="2018-11-06">
+<author pid="170/1686">Diogo P. Busanello da Silva</author>
+<author pid="170/1612">Mathias H. Weber</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>S<sup>3</sup>M: A Suggestion Mechanism for Semantic Web Service Composition.</title>
+<pages>77-80</pages>
+<year>2015</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/2820426.2820456</ee>
+<crossref>conf/webmedia/2015</crossref>
+<url>db/conf/webmedia/webmedia2015.html#SilvaWS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icws/SalvadoriS14" mdate="2023-03-24">
+<author pid="155/5140">Ivan Luiz Salvadori</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>A Framework for Semantic Description of RESTful Web APIs.</title>
+<pages>630-637</pages>
+<year>2014</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2014.93</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICWS.2014.93</ee>
+<crossref>conf/icws/2014</crossref>
+<url>db/conf/icws/icws2014.html#SalvadoriS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cse/ToniniS13" mdate="2023-03-24">
+<author pid="143/6358">Gustavo Tonini</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>A Distributed Data Allocation Algorithm for Biological Databases.</title>
+<pages>531-537</pages>
+<year>2013</year>
+<booktitle>CSE</booktitle>
+<ee>https://doi.org/10.1109/CSE.2013.85</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CSE.2013.85</ee>
+<crossref>conf/cse/2013</crossref>
+<url>db/conf/cse/cse2013.html#ToniniS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icws/BarretoSFF13" mdate="2024-01-29">
+<author pid="89/7803-1">Luciano Barreto 0001</author>
+<author pid="32/5988">Frank Siqueira</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author orcid="0000-0001-6401-3992" pid="37/8061">Eduardo Feitosa</author>
+<title>An Intrusion Tolerant Identity Management Infrastructure for Cloud Computing Services.</title>
+<pages>155-162</pages>
+<year>2013</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2013.30</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICWS.2013.30</ee>
+<crossref>conf/icws/2013</crossref>
+<url>db/conf/icws/icws2013.html#BarretoSFF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icws/HoboldS12" mdate="2023-03-24">
+<author pid="118/4834">Guilherme C. Hobold</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Discovery of Semantic Web Services Compositions Based on SAWSDL Annotations.</title>
+<pages>280-287</pages>
+<year>2012</year>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2012.97</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICWS.2012.97</ee>
+<crossref>conf/icws/2012</crossref>
+<url>db/conf/icws/icws2012.html#HoboldS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euroitv/GhisiS11" mdate="2018-11-06">
+<author pid="131/4826">Bruno Cavaler Ghisi</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>An extensible architecture for DTV middleware.</title>
+<pages>39-46</pages>
+<year>2011</year>
+<booktitle>EuroITV</booktitle>
+<ee>https://doi.org/10.1145/2000119.2000127</ee>
+<crossref>conf/euroitv/2011</crossref>
+<url>db/conf/euroitv/euroitv2011.html#GhisiS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/LenzLS10" mdate="2018-11-06">
+<author pid="66/8008">Carlos Eduardo Lenz</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<author pid="32/5988">Frank Augusto Siqueira</author>
+<title>SeRViSO: a selective retransmission scheme for video streaming in overlay networks.</title>
+<pages>694-698</pages>
+<year>2010</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1774088.1774231</ee>
+<crossref>conf/sac/2010</crossref>
+<url>db/conf/sac/sac2010.html#LenzLS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/AraujoS09" mdate="2018-11-06">
+<author pid="27/9584">Gustavo Medeiros de Ara&#250;jo</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>The device service bus: a solution for embedded device integration through web services.</title>
+<pages>185-189</pages>
+<year>2009</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1529282.1529322</ee>
+<crossref>conf/sac/2009</crossref>
+<url>db/conf/sac/sac2009.html#AraujoS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/RezendeS08" mdate="2023-03-24">
+<author pid="67/5426">Itamar de Rezende</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>XOP: Sharing XML Data Objects through Peer-to-Peer Networks.</title>
+<pages>1021-1027</pages>
+<year>2008</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2008.37</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AINA.2008.37</ee>
+<crossref>conf/aina/2008</crossref>
+<url>db/conf/aina/aina2008.html#RezendeS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/SouzaS08" mdate="2023-09-30">
+<author orcid="0000-0002-9564-6087" pid="18/4470">Jeferson L. R. Souza</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Providing dependability for web services.</title>
+<pages>2207-2211</pages>
+<year>2008</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1363686.1364212</ee>
+<crossref>conf/sac/2008</crossref>
+<url>db/conf/sac/sac2008.html#SouzaS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/TondelloS08" mdate="2018-11-06">
+<author pid="49/778">Gustavo Fortes Tondello</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>The QoS-MO ontology for semantic QoS modeling.</title>
+<pages>2336-2340</pages>
+<year>2008</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1363686.1364239</ee>
+<crossref>conf/sac/2008</crossref>
+<url>db/conf/sac/sac2008.html#TondelloS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcars/TondelloS08" mdate="2024-11-27">
+<author pid="49/778">Gustavo Fortes Tondello</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Um Mecanismo Sem&#226;ntico de Busca de Componentes de Software Baseado em Qualidade de Servi&#231;o.</title>
+<pages>179-192</pages>
+<year>2008</year>
+<booktitle>SBCARS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbcars.2008.46252</ee>
+<crossref>conf/sbcars/2008</crossref>
+<url>db/conf/sbcars/sbcars2008.html#TondelloS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/BortoletoLS06" mdate="2023-03-24">
+<author pid="08/2301">Christiane M. Bortoleto</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Large-Scale Media Delivery using a Semi-Reliable Multicast Protocol.</title>
+<pages>439-444</pages>
+<year>2006</year>
+<crossref>conf/aina/2006</crossref>
+<booktitle>AINA (1)</booktitle>
+<ee>https://doi.org/10.1109/AINA.2006.205</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AINA.2006.205</ee>
+<url>db/conf/aina/aina2006.html#BortoletoLS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icn/MachadoSMV06" mdate="2023-03-24">
+<author pid="98/4387">Guilherme Bertoni Machado</author>
+<author pid="32/5988">Frank Siqueira</author>
+<author pid="41/3152">Robinson Mittmann</author>
+<author pid="14/6287">Carlos Augusto Vieira e Vieira</author>
+<title>Embedded Systems Integration Using Web Services.</title>
+<pages>18</pages>
+<year>2006</year>
+<crossref>conf/icn/2006</crossref>
+<booktitle>ICN/ICONS/MCL</booktitle>
+<ee>https://doi.org/10.1109/ICNICONSMCL.2006.89</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICNICONSMCL.2006.89</ee>
+<url>db/conf/icn/icn2006.html#MachadoSMV06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/MachadoSMV06" mdate="2023-03-24">
+<author pid="98/4387">Guilherme Bertoni Machado</author>
+<author pid="32/5988">Frank Siqueira</author>
+<author pid="41/3152">Robinson Mittmann</author>
+<author pid="14/6287">Carlos Augusto Vieira e Vieira</author>
+<title>Integration of Embedded Devices Through Web Services: Requirements, Challenges and Early Results.</title>
+<pages>353-358</pages>
+<year>2006</year>
+<crossref>conf/iscc/2006</crossref>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2006.87</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2006.87</ee>
+<url>db/conf/iscc/iscc2006.html#MachadoSMV06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmns/BortoletoLSBF05" mdate="2018-06-26">
+<author pid="08/2301">Christiane M. Bortoleto</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<author pid="32/5988">Frank Siqueira</author>
+<author orcid="0000-0002-8386-1628" pid="68/1448">Alysson Neves Bessani</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>A Semi-reliable Multicast Protocol for Distributed Multimedia Applications in Large Scale Networks.</title>
+<pages>109-120</pages>
+<year>2005</year>
+<crossref>conf/mmns/2005</crossref>
+<booktitle>MMNS</booktitle>
+<ee type="oa">https://doi.org/10.1007/11572831_10</ee>
+<url>db/conf/mmns/mmns2005.html#BortoletoLSBF05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ladc/MelloFSS03" mdate="2022-12-07">
+<author pid="95/6420">Emerson Ribeiro de Mello</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Building Trust Chains between CORBA Objects.</title>
+<pages>102-116</pages>
+<ee>https://doi.org/10.1007/978-3-540-45214-0_10</ee>
+<year>2003</year>
+<crossref>conf/ladc/2003</crossref>
+<booktitle>LADC</booktitle>
+<url>db/conf/ladc/ladc2003.html#MelloFSS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/FavarimSF03" mdate="2003-07-17">
+<author pid="94/702">F&#225;bio Favarim</author>
+<author pid="32/5988">Frank Siqueira</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Adaptive Fault-Tolerant CORBA Components.</title>
+<pages>144-148</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#FavarimSF03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/SantinFSM03" mdate="2023-03-24">
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="32/5988">Frank Siqueira</author>
+<author pid="95/6420">Emerson Ribeiro de Mello</author>
+<title>Federation Web: A Scheme to Compound Authorization Chains on Large-Scale Distributed Systems.</title>
+<pages>66-75</pages>
+<year>2003</year>
+<crossref>conf/srds/2003</crossref>
+<booktitle>SRDS</booktitle>
+<ee>https://doi.org/10.1109/RELDIS.2003.1238056</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RELDIS.2003.1238056</ee>
+<url>db/conf/srds/srds2003.html#SantinFSM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/words/FragaSF03" mdate="2023-03-24">
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="32/5988">Frank Siqueira</author>
+<author pid="94/702">F&#225;bio Favarim</author>
+<title>An Adaptive Fault-Tolerant Component Model.</title>
+<pages>179-186</pages>
+<year>2003</year>
+<crossref>conf/words/2003f</crossref>
+<booktitle>WORDS Fall</booktitle>
+<ee>https://doi.org/10.1109/WORDS.2003.1267506</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WORDS.2003.1267506</ee>
+<url>db/conf/words/words2003f.html#FragaSF03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/words/FragaRSMO03" mdate="2023-03-24">
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="54/5569">Ricardo J. Rabelo</author>
+<author pid="32/5988">Frank Siqueira</author>
+<author orcid="0000-0001-7767-0692" pid="81/1303">Carlos Montez</author>
+<author orcid="0000-0002-8853-9021" pid="15/1283">R&#244;mulo Silva de Oliveira</author>
+<title>Infrastructure for Virtual Enterprises in Large-Scale Open Systems.</title>
+<pages>242-249</pages>
+<year>2003</year>
+<crossref>conf/words/2003</crossref>
+<booktitle>WORDS</booktitle>
+<ee>https://doi.org/10.1109/WORDS.2003.1218089</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WORDS.2003.1218089</ee>
+<url>db/conf/words/words2003.html#FragaRSMO03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/SiqueiraC00" mdate="2023-03-24">
+<author pid="32/5988">Frank Siqueira</author>
+<author pid="c/VCahill">Vinny Cahill</author>
+<title>Quartz: A QoS Architecture for Open Systems.</title>
+<pages>197-204</pages>
+<year>2000</year>
+<crossref>conf/icdcs/2000</crossref>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS.2000.840930</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDCS.2000.840930</ee>
+<url>db/conf/icdcs/icdcs2000.html#SiqueiraC00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/SiqueiraC00" mdate="2023-03-24">
+<author pid="32/5988">Frank Siqueira</author>
+<author pid="c/VCahill">Vinny Cahill</author>
+<title>An Open QoS Architecture for CORBA Applications.</title>
+<pages>328-</pages>
+<year>2000</year>
+<crossref>conf/isorc/2000</crossref>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC.2000.839547</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISORC.2000.839547</ee>
+<url>db/conf/isorc/isorc2000.html#SiqueiraC00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ftdcs/SiqueiraC99" mdate="2023-03-24">
+<author pid="32/5988">Frank Siqueira</author>
+<author pid="c/VCahill">Vinny Cahill</author>
+<title>Delivering QoS in Open Distributed Systems.</title>
+<pages>185-190</pages>
+<year>1999</year>
+<crossref>conf/ftdcs/1999</crossref>
+<booktitle>FTDCS</booktitle>
+<ee>https://doi.org/10.1109/FTDCS.1999.818803</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/FTDCS.1999.818803</ee>
+<url>db/conf/ftdcs/ftdcs1999.html#SiqueiraC99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ftdcs/FragaFFS95" mdate="2023-03-24">
+<author pid="81/1303">Carlos Montez</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="37/5635">Jean-Marie Farines</author>
+<author pid="61/2008">Olinto Furtado</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>A Programming Model for Real-Time Applications in Open Distributed Systems.</title>
+<pages>104-111</pages>
+<year>1995</year>
+<crossref>conf/ftdcs/1995</crossref>
+<booktitle>FTDCS</booktitle>
+<ee>https://doi.org/10.1109/FTDCS.1995.524974</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/FTDCS.1995.524974</ee>
+<url>db/conf/ftdcs/ftdcs1995.html#FragaFFS95</url>
+</inproceedings>
+</r>
+<coauthors n="68" nc="4">
+<co c="0"><na f="a/Ara=uacute=jo:Gustavo_Medeiros_de" pid="27/9584">Gustavo Medeiros de Ara&#250;jo</na></co>
+<co c="0"><na f="b/Barreto_0001:Luciano" pid="89/7803-1">Luciano Barreto 0001</na></co>
+<co c="0"><na f="b/Bessani:Alysson_Neves" pid="68/1448">Alysson Neves Bessani</na></co>
+<co c="0"><na f="b/Bortoleto:Christiane_M=" pid="08/2301">Christiane M. Bortoleto</na></co>
+<co c="0"><na f="c/Cahill:Vinny" pid="c/VCahill">Vinny Cahill</na></co>
+<co c="0"><na f="c/Camargo:Andr=eacute=_de" pid="194/8669">Andr&#233; de Camargo</na></co>
+<co c="0"><na f="c/Cappelli:Claudia" pid="20/5813">Claudia Cappelli</na></co>
+<co c="0"><na f="c/Castro_0001:M=aacute=rcio" pid="39/6633">M&#225;rcio Castro 0001</na></co>
+<co c="1"><na f="c/Costa:Denise" pid="317/2800">Denise Costa</na></co>
+<co c="0" n="2"><na f="d/Dantas:Mario_A=_R=" pid="d/MarioARDantas">Mario A. R. Dantas</na><na>M&#225;rio Ant&#244;nio Ribeiro Dantas</na></co>
+<co c="-1"><na f="d/Davis:Joseph_G=" pid="55/5533">Joseph G. Davis</na></co>
+<co c="0"><na f="f/Farines:Jean=Marie" pid="37/5635">Jean-Marie Farines</na></co>
+<co c="0"><na f="f/Favarim:F=aacute=bio" pid="94/702">F&#225;bio Favarim</na></co>
+<co c="0"><na f="f/Feitosa:Eduardo" pid="37/8061">Eduardo Feitosa</na></co>
+<co c="0"><na f="f/Felisberto:Thiago_Zanivan" pid="177/2520">Thiago Zanivan Felisberto</na></co>
+<co c="0"><na f="f/Fidelis:Samuel_Amico" pid="335/3383">Samuel Amico Fidelis</na></co>
+<co c="0"><na f="f/Flores:Paulo_Arion" pid="184/6012">Paulo Arion Flores</na></co>
+<co c="0"><na f="f/Fraga:Joni_da_Silva" pid="257/5489">Joni da Silva Fraga</na></co>
+<co c="0" n="2"><na f="f/Furtado:Olinto_J=_V=" pid="61/2008">Olinto J. V. Furtado</na><na>Olinto Furtado</na></co>
+<co c="-1"><na f="g/Ghisi:Bruno_Cavaler" pid="131/4826">Bruno Cavaler Ghisi</na></co>
+<co c="0"><na f="g/G=uuml=ntzel:Jos=eacute=_Lu=iacute=s" pid="04/3287">Jos&#233; Lu&#237;s G&#252;ntzel</na></co>
+<co c="-1"><na f="h/Hobold:Guilherme_C=" pid="118/4834">Guilherme C. Hobold</na></co>
+<co c="0"><na f="h/Huf:Alexis" pid="185/1485">Alexis Huf</na></co>
+<co c="0" n="2"><na f="i/Inacio:Eduardo_Camilo" pid="161/8536">Eduardo Camilo Inacio</na><na>Eduardo C. Inacio</na></co>
+<co c="1"><na f="k/Kretzer:Arthur" pid="406/8132">Arthur Kretzer</na></co>
+<co c="0"><na f="l/Lenz:Carlos_Eduardo" pid="66/8008">Carlos Eduardo Lenz</na></co>
+<co c="0"><na f="l/Lettnin:Djones" pid="21/3398">Djones Lettnin</na></co>
+<co c="0"><na f="l/Lohmann:Douglas" pid="222/9496">Douglas Lohmann</na></co>
+<co c="0"><na f="l/Luiz:Aldelir_Fernando" pid="09/10444">Aldelir Fernando Luiz</na></co>
+<co c="0"><na f="l/Lung:Lau_Cheuk" pid="65/85">Lau Cheuk Lung</na></co>
+<co c="1"><na f="l/Luz:Renato" pid="406/8659">Renato Luz</na></co>
+<co c="2"><na f="m/Machado:Guilherme_Bertoni" pid="98/4387">Guilherme Bertoni Machado</na></co>
+<co c="0"><na f="m/Martins:Pedro_Henrique_Pereira" pid="216/4276">Pedro Henrique Pereira Martins</na></co>
+<co c="0"><na f="m/Mello:Emerson_Ribeiro_de" pid="95/6420">Emerson Ribeiro de Mello</na></co>
+<co c="0"><na f="m/Mello:Ronaldo_dos_Santos" pid="82/6647">Ronaldo dos Santos Mello</na></co>
+<co c="2"><na f="m/Mittmann:Robinson" pid="41/3152">Robinson Mittmann</na></co>
+<co c="0"><na f="m/Montez:Carlos" pid="81/1303">Carlos Montez</na></co>
+<co c="0"><na f="m/Morales:Anal=uacute=cia_Schiaffino" pid="139/2935">Anal&#250;cia Schiaffino Morales</na></co>
+<co c="0"><na f="n/Neto:Pedro_Moritz_de_Carvalho" pid="396/8196">Pedro Moritz de Carvalho Neto</na></co>
+<co c="0"><na f="n/Netto:Hylson_Vescovi" pid="160/4516">Hylson Vescovi Netto</na></co>
+<co c="0"><na f="o/Oliveira:Bruno_C=_N=" pid="205/6337">Bruno C. N. Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:R=ocirc=mulo_Silva_de" pid="15/1283">R&#244;mulo Silva de Oliveira</na></co>
+<co c="1"><na f="p/Pardini:Gabriel" pid="406/9709">Gabriel Pardini</na></co>
+<co c="0"><na f="p/Presser:Daniel" pid="167/2643">Daniel Presser</na></co>
+<co c="0"><na f="r/Rabelo:Ricardo_J=" pid="54/5569">Ricardo J. Rabelo</na></co>
+<co c="0" n="2"><na f="r/Rech:Luciana" pid="30/3196">Luciana Rech</na><na>Luciana de Oliveira Rech</na></co>
+<co c="0" n="2"><na f="r/Reina:F=aacute=bio" pid="226/3871">F&#225;bio Reina</na><na>Fabio Reina</na></co>
+<co c="-1"><na f="r/Rezende:Itamar_de" pid="67/5426">Itamar de Rezende</na></co>
+<co c="0"><na f="r/Rodrigues:Lu=iacute=s_E=_T=" pid="r/LRodrigues">Lu&#237;s E. T. Rodrigues</na></co>
+<co c="0"><na f="r/Romano_0002:Paolo" pid="r/PaoloRomano0">Paolo Romano 0002</na></co>
+<co c="0"><na f="s/Salvadori:Ivan_Luiz" pid="155/5140">Ivan Luiz Salvadori</na></co>
+<co c="0"><na f="s/Santin:Altair_Olivo" pid="38/5417">Altair Olivo Santin</na></co>
+<co c="0"><na f="s/Santos:Felipe_da_Cunha_dos" pid="177/2532">Felipe da Cunha dos Santos</na></co>
+<co c="0"><na f="s/Scheunemann:Leomar" pid="200/5922">Leomar Scheunemann</na></co>
+<co c="3"><na f="s/Silva:Diogo_P=_Busanello_da" pid="170/1686">Diogo P. Busanello da Silva</na></co>
+<co c="-1"><na f="s/Soki:Alberto_Tuti" pid="372/9618">Alberto Tuti Soki</na></co>
+<co c="-1"><na f="s/Souza:Jeferson_L=_R=" pid="18/4470">Jeferson L. R. Souza</na></co>
+<co c="0"><na f="s/Souza:Ramon_Hugo_de" pid="35/7440">Ramon Hugo de Souza</na></co>
+<co c="-1"><na f="t/Tondello:Gustavo_Fortes" pid="49/778">Gustavo Fortes Tondello</na></co>
+<co c="-1"><na f="t/Tonini:Gustavo" pid="143/6358">Gustavo Tonini</na></co>
+<co c="0"><na f="t/Tramontin:Elder_Dominghini" pid="177/2506">Elder Dominghini Tramontin</na></co>
+<co c="2"><na f="v/Vieira:Carlos_Augusto_Vieira_e" pid="14/6287">Carlos Augusto Vieira e Vieira</na></co>
+<co c="0"><na f="v/Vilain:Patricia" pid="69/3719">Patricia Vilain</na></co>
+<co c="0"><na f="w/Wazlawick:Raul_Sidnei" pid="71/3416">Raul Sidnei Wazlawick</na></co>
+<co c="3"><na f="w/Weber:Mathias_H=" pid="170/1612">Mathias H. Weber</na></co>
+<co c="0"><na f="w/Weing=auml=rtner:Rafael" pid="154/1548">Rafael Weing&#228;rtner</na></co>
+<co c="0"><na f="w/Westphall:Carla_Merkle" pid="w/CarlaMerkleWestphall">Carla Merkle Westphall</na></co>
+<co c="1"><na f="w/Wolkers:Jardel" pid="407/0132">Jardel Wolkers</na></co>
+</coauthors>
+</dblpperson>
+

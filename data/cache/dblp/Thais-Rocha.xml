@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<dblpperson name="Tha&#237;s Rocha" pid="166/6879" n="6">
+<person key="homepages/166/6879" mdate="2020-11-23">
+<author pid="166/6879">Tha&#237;s Rocha</author>
+<author pid="166/6879">Tha&#237;s Alves Burity Pereira</author>
+</person>
+<r><inproceedings key="conf/sbes/MacielBSP24" mdate="2024-10-22">
+<author pid="358/6286">Toni Maciel</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<author pid="183/9958">L&#233;uson M. P. da Silva</author>
+<author pid="166/6879">Tha&#237;s Alves Burity Pereira</author>
+<title>Explorando a detec&#231;&#227;o de conflitos sem&#226;nticos nas integra&#231;&#245;es de c&#243;digo em m&#250;ltiplos m&#233;todos.</title>
+<pages>181-191</pages>
+<year>2024</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2024.3348</ee>
+<crossref>conf/sbes/2024</crossref>
+<url>db/conf/sbes/sbes2024.html#MacielBSP24</url>
+</inproceedings>
+</r>
+<r><article key="journals/ese/RochaB23" mdate="2023-02-10">
+<author orcid="0000-0002-6125-8254" pid="166/6879">Tha&#237;s Rocha</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<title>Using acceptance tests to predict merge conflict risk.</title>
+<pages>27</pages>
+<year>2023</year>
+<month>March</month>
+<volume>28</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10664-022-10266-8</ee>
+<url>db/journals/ese/ese28.html#RochaB23</url>
+</article>
+</r>
+<r><article key="journals/jss/RochaBS19" mdate="2025-01-19">
+<author pid="166/6879">Tha&#237;s Rocha</author>
+<author orcid="0000-0002-0381-2843" pid="b/PauloBorba">Paulo Borba</author>
+<author pid="34/9580">Jo&#227;o Pedro Santos</author>
+<title>Using acceptance tests to predict files changed by programming tasks.</title>
+<pages>176-195</pages>
+<year>2019</year>
+<volume>154</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2019.04.060</ee>
+<ee>https://www.wikidata.org/entity/Q127965254</ee>
+<url>db/journals/jss/jss154.html#RochaBS19</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbcars/SantosRB19" mdate="2019-10-07">
+<author pid="34/9580">Jo&#227;o Pedro Santos</author>
+<author pid="166/6879">Tha&#237;s Rocha</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<title>Improving the prediction of files changed by programming tasks.</title>
+<pages>53-62</pages>
+<year>2019</year>
+<booktitle>SBCARS</booktitle>
+<ee>https://doi.org/10.1145/3357141.3357145</ee>
+<crossref>conf/sbcars/2019</crossref>
+<url>db/conf/sbcars/sbcars2019.html#SantosRB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/PereiraSRE10" mdate="2018-11-06">
+<author pid="166/6879">Tha&#237;s Alves Burity Pereira</author>
+<author pid="166/6875">Vinicius Souza dos Santos</author>
+<author pid="166/6898">Bruno Luna Ribeiro</author>
+<author pid="68/4832">Gl&#234;dson Elias</author>
+<title>A recommendation framework for allocating global software teams in software product line projects.</title>
+<pages>36-40</pages>
+<year>2010</year>
+<booktitle>RSSE@ICSE</booktitle>
+<ee>https://doi.org/10.1145/1808920.1808928</ee>
+<crossref>conf/icse/2010rsse</crossref>
+<url>db/conf/icse/rsse2010.html#PereiraSRE10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itng/BezerraPS09" mdate="2023-03-24">
+<author pid="33/8151">Yuri Morais Bezerra</author>
+<author pid="166/6879">Tha&#237;s Alves Burity Pereira</author>
+<author pid="68/4832">Gl&#234;dson Elias da Silveira</author>
+<title>A Systematic Review of Software Product Lines Applied to Mobile Middleware.</title>
+<pages>1024-1029</pages>
+<year>2009</year>
+<booktitle>ITNG</booktitle>
+<ee>https://doi.org/10.1109/ITNG.2009.82</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ITNG.2009.82</ee>
+<crossref>conf/itng/2009</crossref>
+<url>db/conf/itng/itng2009.html#BezerraPS09</url>
+</inproceedings>
+</r>
+<coauthors n="8" nc="2">
+<co c="0"><na f="b/Bezerra:Yuri_Morais" pid="33/8151">Yuri Morais Bezerra</na></co>
+<co c="1"><na f="b/Borba:Paulo" pid="b/PauloBorba">Paulo Borba</na></co>
+<co c="1"><na f="m/Maciel:Toni" pid="358/6286">Toni Maciel</na></co>
+<co c="0"><na f="r/Ribeiro:Bruno_Luna" pid="166/6898">Bruno Luna Ribeiro</na></co>
+<co c="1"><na f="s/Santos:Jo=atilde=o_Pedro" pid="34/9580">Jo&#227;o Pedro Santos</na></co>
+<co c="0"><na f="s/Santos:Vinicius_Souza_dos" pid="166/6875">Vinicius Souza dos Santos</na></co>
+<co c="1"><na f="s/Silva:L=eacute=uson_M=_P=_da" pid="183/9958">L&#233;uson M. P. da Silva</na></co>
+<co c="0" n="2"><na f="s/Silveira:Gl=ecirc=dson_Elias_da" pid="68/4832">Gl&#234;dson Elias da Silveira</na><na>Gl&#234;dson Elias</na></co>
+</coauthors>
+</dblpperson>
+

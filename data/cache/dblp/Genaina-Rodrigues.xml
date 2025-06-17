@@ -1,0 +1,1378 @@
+<?xml version="1.0"?>
+<dblpperson name="Gena&#237;na Nunes Rodrigues" pid="34/64" n="76">
+<person key="homepages/34/64" mdate="2021-07-24">
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<note type="affiliation">University of Brasilia, Brasil</note>
+<url>https://cic.unb.br/~genaina/</url>
+<url>https://scholar.google.com/citations?user=qCUFz5AAAAAJ</url>
+<url>https://dl.acm.org/profile/81100007103</url>
+<url>https://orcid.org/0000-0003-1661-8131</url>
+<url>https://www.wikidata.org/entity/Q58227431</url>
+<url>http://lattes.cnpq.br/2966913210268454</url>
+</person>
+<r><inproceedings key="conf/se/CarwehlI0RCG25" mdate="2025-02-21">
+<author pid="332/4041">Marc Carwehl</author>
+<author pid="202/9527">Calum Imrie</author>
+<author pid="63/5586-1">Thomas Vogel 0001</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="15/2194">Radu Calinescu</author>
+<author pid="55/4092">Lars Grunske</author>
+<title>Formal Synthesis of Uncertainty Reduction Controllers.</title>
+<pages>34</pages>
+<year>2025</year>
+<booktitle>Software Engineering</booktitle>
+<ee type="oa">https://doi.org/10.18420/se2025-34</ee>
+<crossref>conf/se/2025</crossref>
+<url>db/conf/se/se2025.html#CarwehlI0RCG25</url>
+</inproceedings>
+</r>
+<r><article key="journals/software/AraujoRCVGCP24" mdate="2024-09-08">
+<author orcid="0000-0002-1360-9160" pid="240/6177">Jo&#227;o Paulo Costa de Araujo</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0003-0631-365X" pid="332/4041">Marc Carwehl</author>
+<author orcid="0000-0002-7127-352X" pid="63/5586-1">Thomas Vogel 0001</author>
+<author orcid="0000-0002-8747-3745" pid="55/4092">Lars Grunske</author>
+<author orcid="0000-0001-9997-8487" pid="218/5203">Ricardo Caldas</author>
+<author orcid="0000-0002-5438-2281" pid="p/PatrizioPelliccione">Patrizio Pelliccione</author>
+<title>Explainability for Property Violations in Cyberphysical Systems: An Immune-Inspired Approach.</title>
+<pages>43-51</pages>
+<year>2024</year>
+<month>September - October</month>
+<volume>41</volume>
+<journal>IEEE Softw.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MS.2024.3387289</ee>
+<url>db/journals/software/software41.html#AraujoRCVGCP24</url>
+<stream>streams/journals/software</stream>
+</article>
+</r>
+<r><article key="journals/tse/CalinescuIMRPSV24" mdate="2024-12-09">
+<author orcid="0000-0002-2678-9260" pid="15/2194">Radu Calinescu</author>
+<author orcid="0009-0004-3198-9226" pid="202/9527">Calum Imrie</author>
+<author orcid="0000-0001-6267-6995" pid="143/2729">Ravi Mangal</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0002-5579-6961" pid="03/4368">Corina S. Pasareanu</author>
+<author orcid="0000-0002-6353-9770" pid="313/1125">Misael Alpizar Santana</author>
+<author orcid="0000-0003-4886-5567" pid="305/3970">Gricel V&#225;zquez</author>
+<title>Controller Synthesis for Autonomous Systems With Deep-Learning Perception Components.</title>
+<pages>1374-1395</pages>
+<year>2024</year>
+<month>June</month>
+<volume>50</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.1109/TSE.2024.3385378</ee>
+<url>db/journals/tse/tse50.html#CalinescuIMRPSV24</url>
+</article>
+</r>
+<r><article key="journals/tse/CaldasGSPRB24" mdate="2024-12-09">
+<author orcid="0000-0001-9997-8487" pid="218/5203">Ricardo Caldas</author>
+<author orcid="0009-0004-6510-4537" pid="375/7412">Juan Antonio Pi&#241;era Garc&#237;a</author>
+<author orcid="0009-0009-6507-9278" pid="375/6071">Matei Schiopu</author>
+<author orcid="0000-0002-5438-2281" pid="p/PatrizioPelliccione">Patrizio Pelliccione</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0002-3870-5167" pid="22/6472">Thorsten Berger</author>
+<title>Runtime Verification and Field-Based Testing for ROS-Based Robotic Systems.</title>
+<pages>2544-2567</pages>
+<year>2024</year>
+<month>October</month>
+<volume>50</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>10</number>
+<ee type="oa">https://doi.org/10.1109/TSE.2024.3444697</ee>
+<url>db/journals/tse/tse50.html#CaldasGSPRB24</url>
+<stream>streams/journals/tse</stream>
+</article>
+</r>
+<r><inproceedings key="conf/icse/FengMYBAMTSSIR024" mdate="2025-01-19">
+<author orcid="0009-0002-3908-2755" pid="268/7199">Nick Feng</author>
+<author orcid="0000-0002-0220-191X" pid="198/1393">Lina Marsso</author>
+<author orcid="0000-0002-3944-6574" pid="70/9961">Sinem Getir Yaman</author>
+<author orcid="0000-0001-7946-0074" pid="341/9132">Yesugen Baatartogtokh</author>
+<author orcid="0000-0002-7775-2871" pid="323/5794">Reem Ayad</author>
+<author orcid="0000-0003-2867-8529" pid="366/6170">Vict&#243;ria Oldemburgo de Mello</author>
+<author orcid="0000-0002-8486-6041" pid="335/3315">Beverley A. Townsend</author>
+<author orcid="0009-0003-0486-3778" pid="366/7106">Isobel Standen</author>
+<author orcid="0000-0003-3741-252X" pid="248/5692">Ioannis Stefanakos</author>
+<author orcid="0009-0004-3198-9226" pid="202/9527">Calum Imrie</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0002-0831-1976" pid="c/AnaCavalcanti">Ana Cavalcanti 0001</author>
+<author orcid="0000-0002-2678-9260" pid="15/2194">Radu Calinescu</author>
+<author orcid="0000-0002-6301-3517" pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Analyzing and Debugging Normative Requirements via Satisfiability Checking.</title>
+<pages>214:1-214:12</pages>
+<year>2024</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/3597503.3639093</ee>
+<ee>https://www.wikidata.org/entity/Q130934515</ee>
+<crossref>conf/icse/2024</crossref>
+<url>db/conf/icse/icse2024.html#FengMYBAMTSSIR024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/se/Carwehl0RG24" mdate="2024-10-14">
+<author pid="332/4041">Marc Carwehl</author>
+<author pid="63/5586-1">Thomas Vogel 0001</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="55/4092">Lars Grunske</author>
+<title>Runtime Verification of Self-Adaptive Systems with Changing Requirements.</title>
+<pages>151-152</pages>
+<year>2024</year>
+<booktitle>Software Engineering</booktitle>
+<ee type="oa">https://doi.org/10.18420/sw2024_50</ee>
+<crossref>conf/se/2024</crossref>
+<url>db/conf/se/se2024.html#Carwehl0RG24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seams/CarwehlI0RCG24" mdate="2024-12-09">
+<author orcid="0000-0003-0631-365X" pid="332/4041">Marc Carwehl</author>
+<author orcid="0009-0004-3198-9226" pid="202/9527">Calum Imrie</author>
+<author orcid="0000-0002-7127-352X" pid="63/5586-1">Thomas Vogel 0001</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0002-2678-9260" pid="15/2194">Radu Calinescu</author>
+<author orcid="0000-0002-8747-3745" pid="55/4092">Lars Grunske</author>
+<title>Formal Synthesis of Uncertainty Reduction Controllers.</title>
+<pages>2-13</pages>
+<year>2024</year>
+<booktitle>SEAMS@ICSE</booktitle>
+<ee type="oa">https://doi.org/10.1145/3643915.3644095</ee>
+<crossref>conf/seams/2024</crossref>
+<url>db/conf/seams/seams2024.html#CarwehlI0RCG24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-05673" mdate="2024-01-25">
+<author pid="268/7199">Nick Feng</author>
+<author pid="198/1393">Lina Marsso</author>
+<author pid="70/9961">Sinem Getir Yaman</author>
+<author pid="341/9132">Yesugen Baatartogtokh</author>
+<author pid="323/5794">Reem Ayad</author>
+<author pid="366/6170">Vict&#243;ria Oldemburgo de Mello</author>
+<author pid="335/3315">Beverley A. Townsend</author>
+<author pid="366/7106">Isobel Standen</author>
+<author pid="248/5692">Ioannis Stefanakos</author>
+<author pid="202/9527">Calum Imrie</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="c/AnaCavalcanti">Ana Cavalcanti 0001</author>
+<author pid="15/2194">Radu Calinescu</author>
+<author pid="c/MarshaChechik">Marsha Chechik</author>
+<title>Analyzing and Debugging Normative Requirements via Satisfiability Checking.</title>
+<year>2024</year>
+<volume>abs/2401.05673</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.05673</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-05673</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-17187" mdate="2024-02-07">
+<author pid="332/4041">Marc Carwehl</author>
+<author pid="202/9527">Calum Imrie</author>
+<author pid="63/5586-1">Thomas Vogel 0001</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="15/2194">Radu Calinescu</author>
+<author pid="55/4092">Lars Grunske</author>
+<title>Formal Synthesis of Uncertainty Reduction Controllers.</title>
+<year>2024</year>
+<volume>abs/2401.17187</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.17187</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-17187</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2404-11498" mdate="2024-10-06">
+<author orcid="0000-0001-9997-8487" pid="218/5203">Ricardo Caldas</author>
+<author pid="375/7412">Juan Antonio Pi&#241;era Garc&#237;a</author>
+<author pid="375/6071">Matei Schiopu</author>
+<author pid="p/PatrizioPelliccione">Patrizio Pelliccione</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="22/6472">Thorsten Berger</author>
+<title>Runtime Verification and Field Testing for ROS-Based Robotic Systems.</title>
+<year>2024</year>
+<volume>abs/2404.11498</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2404.11498</ee>
+<url>db/journals/corr/corr2404.html#abs-2404-11498</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2406-17268" mdate="2024-12-30">
+<author pid="192/1027">Gabriel F. P. Araujo</author>
+<author orcid="0000-0001-9997-8487" pid="218/5203">Ricardo Caldas</author>
+<author pid="310/4638">Federico Formica</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="p/PatrizioPelliccione">Patrizio Pelliccione</author>
+<author pid="121/2789">Claudio Menghi</author>
+<title>Search-based Trace Diagnostic.</title>
+<year>2024</year>
+<volume>abs/2406.17268</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2406.17268</ee>
+<url>db/journals/corr/corr2406.html#abs-2406-17268</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/infsof/VogelCRG23" mdate="2023-01-31">
+<author orcid="0000-0002-7127-352X" pid="63/5586-1">Thomas Vogel 0001</author>
+<author orcid="0000-0003-0631-365X" pid="332/4041">Marc Carwehl</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0002-8747-3745" pid="55/4092">Lars Grunske</author>
+<title>A property specification pattern catalog for real-time system verification with UPPAAL.</title>
+<pages>107100</pages>
+<year>2023</year>
+<volume>154</volume>
+<journal>Inf. Softw. Technol.</journal>
+<ee>https://doi.org/10.1016/j.infsof.2022.107100</ee>
+<url>db/journals/infsof/infsof154.html#VogelCRG23</url>
+</article>
+</r>
+<r><article key="journals/jucs/SilvaRC23" mdate="2024-03-22">
+<author orcid="0000-0002-0304-0804" pid="266/5167">Geovana Ramos Sousa Silva</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</author>
+<title>A Modeling Strategy for the Verification of Context-Oriented Chatbot Conversational Flows via Model Checking.</title>
+<pages>805-835</pages>
+<year>2023</year>
+<month>July</month>
+<volume>29</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>7</number>
+<ee type="oa">https://doi.org/10.3897/jucs.91311</ee>
+<url>db/journals/jucs/jucs29.html#SilvaRC23</url>
+</article>
+</r>
+<r><article key="journals/ras/GilRPC23" mdate="2023-09-30">
+<author pid="263/7098">Eric Bernd Gil</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="p/PatrizioPelliccione">Patrizio Pelliccione</author>
+<author orcid="0000-0002-2678-9260" pid="15/2194">Radu Calinescu</author>
+<title>Mission specification and decomposition for multi-robot systems.</title>
+<pages>104386</pages>
+<year>2023</year>
+<month>May</month>
+<volume>163</volume>
+<journal>Robotics Auton. Syst.</journal>
+<ee type="oa">https://doi.org/10.1016/j.robot.2023.104386</ee>
+<url>db/journals/ras/ras163.html#GilRPC23</url>
+</article>
+</r>
+<r><article key="journals/sigsoft/WeynsCMTABBBCDEGGYGHLLMMMRPQSVZ23" mdate="2025-01-19">
+<author pid="w/DannyWeyns">Danny Weyns</author>
+<author pid="15/2194">Radu Calinescu</author>
+<author orcid="0000-0003-3154-2438" pid="80/191">Raffaela Mirandola</author>
+<author pid="68/3435">Kenji Tei</author>
+<author pid="21/10280">Maribel Acosta</author>
+<author pid="48/2068">Amel Bennaceur</author>
+<author orcid="0009-0005-5613-2111" pid="276/7310">Nicolas Boltz</author>
+<author pid="38/1502">Tom&#225;s Bures</author>
+<author pid="13/2872">Javier C&#225;mara 0001</author>
+<author pid="75/1461">Ada Diaconescu</author>
+<author pid="e/GregorEngels">Gregor Engels</author>
+<author pid="117/6142">Simos Gerasimou</author>
+<author pid="130/4959">Ilias Gerostathopoulos</author>
+<author pid="70/9961">Sinem Getir Yaman</author>
+<author pid="18/7037">Vincenzo Grassi</author>
+<author orcid="0000-0003-3450-0508" pid="285/5707">Sebastian Hahner</author>
+<author pid="67/2481">Emmanuel Letier</author>
+<author pid="55/887">Marin Litoiu</author>
+<author pid="198/1393">Lina Marsso</author>
+<author pid="122/5236">Angelika Musil</author>
+<author pid="38/8164">Juergen Musil</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="26/7841">Diego Perez-Palacin</author>
+<author pid="243/4530">Federico Quin</author>
+<author pid="38/5263">Patrizia Scandurra</author>
+<author pid="94/1351">Antonio Vallecillo</author>
+<author pid="91/3835">Andrea Zisman</author>
+<title>Towards a Research Agenda for Understanding and ManagingUncertainty in Self-Adaptive Systems.</title>
+<pages>20-36</pages>
+<year>2023</year>
+<month>October</month>
+<volume>48</volume>
+<journal>ACM SIGSOFT Softw. Eng. Notes</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3617946.3617951</ee>
+<ee>https://www.wikidata.org/entity/Q130931022</ee>
+<url>db/journals/sigsoft/sigsoft48.html#WeynsCMTABBBCDEGGYGHLLMMMRPQSVZ23</url>
+</article>
+</r>
+<r><article key="journals/tcc/PortellaNRBM23" mdate="2024-07-17">
+<author orcid="0000-0002-6902-8314" pid="248/2632">Gustavo Portella</author>
+<author orcid="0000-0002-9071-8512" pid="211/6179">Eduardo Yoshio Nakano</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0002-3851-9938" pid="b/AzzedineBoukerche">Azzedine Boukerche</author>
+<author orcid="0000-0001-5191-5209" pid="m/AlbaCMAMelo">Alba C. M. A. Melo</author>
+<title>A Novel Statistical and Neural Network Combined Approach for the Cloud Spot Market.</title>
+<pages>278-290</pages>
+<year>2023</year>
+<month>January - March</month>
+<volume>11</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2021.3091936</ee>
+<url>db/journals/tcc/tcc11.html#PortellaNRBM23</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse-formalise/CalinescuR23" mdate="2023-09-30">
+<author pid="15/2194">Radu Calinescu</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<title>Goal Controller Synthesis for Self-Adaptive Systems.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>FormaliSE</booktitle>
+<ee>https://doi.org/10.1109/FormaliSE58978.2023.00008</ee>
+<crossref>conf/icse-formalise/2023</crossref>
+<url>db/conf/icse-formalise/formalise2023.html#CalinescuR23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seams/CarwehlVRG23" mdate="2024-10-06">
+<author pid="332/4041">Marc Carwehl</author>
+<author orcid="0000-0002-7127-352X" pid="63/5586-1">Thomas Vogel 0001</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="55/4092">Lars Grunske</author>
+<title>Runtime Verification of Self-Adaptive Systems with Changing Requirements.</title>
+<pages>104-114</pages>
+<year>2023</year>
+<booktitle>SEAMS</booktitle>
+<ee>https://doi.org/10.1109/SEAMS59076.2023.00024</ee>
+<crossref>conf/seams/2023</crossref>
+<url>db/conf/seams/seams2023.html#CarwehlVRG23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-16530" mdate="2023-04-14">
+<author pid="332/4041">Marc Carwehl</author>
+<author pid="63/5586-1">Thomas Vogel 0001</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="55/4092">Lars Grunske</author>
+<title>Runtime Verification of Self-Adaptive Systems with Changing Requirements.</title>
+<year>2023</year>
+<volume>abs/2303.16530</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.16530</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-16530</url>
+</article>
+</r>
+<r><article key="journals/jss/RodriguesCAMRP22" mdate="2024-12-30">
+<author orcid="0000-0002-2620-8550" pid="240/6171">Gabriel S. Rodrigues</author>
+<author orcid="0000-0001-9997-8487" pid="218/5203">Ricardo Caldas</author>
+<author orcid="0000-0002-4777-4658" pid="192/1027">Gabriel F. P. Araujo</author>
+<author pid="324/3194">Vicente de Moraes</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="p/PatrizioPelliccione">Patrizio Pelliccione</author>
+<title>An architecture for mission coordination of heterogeneous robots.</title>
+<pages>111363</pages>
+<year>2022</year>
+<volume>191</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2022.111363</ee>
+<ee>https://www.wikidata.org/entity/Q113869739</ee>
+<url>db/journals/jss/jss191.html#RodriguesCAMRP22</url>
+</article>
+</r>
+<r><article key="journals/sigsoft/WeynsGBCCDGJJMM22" mdate="2025-05-14">
+<author pid="w/DannyWeyns">Danny Weyns</author>
+<author pid="130/4959">Ilias Gerostathopoulos</author>
+<author pid="33/7949">Barbora Buhnova</author>
+<author pid="57/9170">Nicol&#225;s Cardozo</author>
+<author pid="209/2755">Emilia Cioroaica</author>
+<author pid="77/723">Ivana Dusparic</author>
+<author pid="55/4092">Lars Grunske</author>
+<author pid="57/2301">Pooyan Jamshidi</author>
+<author orcid="0000-0002-4131-4642" pid="j/ChristineJulien">Christine Julien 0001</author>
+<author pid="27/10220">Judith Michael</author>
+<author pid="10/4583">Gabriel A. Moreno</author>
+<author pid="57/3937">Shiva Nejati 0001</author>
+<author pid="p/PatrizioPelliccione">Patrizio Pelliccione</author>
+<author pid="243/4530">Federico Quin</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="15/3453">Bradley R. Schmerl</author>
+<author pid="14/6260">Marco Vieira</author>
+<author orcid="0000-0002-7127-352X" pid="63/5586-1">Thomas Vogel 0001</author>
+<author pid="151/6085">Rebekka Wohlrab</author>
+<title>Guidelines for Artifacts to Support Industry-Relevant Research on Self-Adaptation.</title>
+<pages>18-24</pages>
+<year>2022</year>
+<volume>47</volume>
+<journal>ACM SIGSOFT Softw. Eng. Notes</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3561846.3561852</ee>
+<url>db/journals/sigsoft/sigsoft47.html#WeynsGBCCDGJJMM22</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-12492" mdate="2025-05-14">
+<author pid="w/DannyWeyns">Danny Weyns</author>
+<author pid="130/4959">Ilias Gerostathopoulos</author>
+<author pid="33/7949">Barbora Buhnova</author>
+<author pid="57/9170">Nicol&#225;s Cardozo</author>
+<author pid="209/2755">Emilia Cioroaica</author>
+<author pid="77/723">Ivana Dusparic</author>
+<author pid="55/4092">Lars Grunske</author>
+<author pid="57/2301">Pooyan Jamshidi</author>
+<author pid="j/ChristineJulien">Christine Julien 0001</author>
+<author pid="27/10220">Judith Michael</author>
+<author pid="10/4583">Gabriel A. Moreno</author>
+<author pid="57/3937">Shiva Nejati 0001</author>
+<author pid="p/PatrizioPelliccione">Patrizio Pelliccione</author>
+<author pid="243/4530">Federico Quin</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="15/3453">Bradley R. Schmerl</author>
+<author orcid="0000-0001-5103-8541" pid="14/6260">Marco Vieira</author>
+<author pid="63/5586-1">Thomas Vogel 0001</author>
+<author orcid="0000-0002-5449-7900" pid="151/6085">Rebekka Wohlrab</author>
+<title>Guidelines for Artifacts to Support Industry-Relevant Research on Self-Adaptation.</title>
+<year>2022</year>
+<volume>abs/2206.12492</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.12492</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-12492</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2211-03817" mdate="2022-11-09">
+<author pid="63/5586-1">Thomas Vogel 0001</author>
+<author pid="332/4041">Marc Carwehl</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="55/4092">Lars Grunske</author>
+<title>A Property Specification Pattern Catalog for Real-Time System Verification with UPPAAL.</title>
+<year>2022</year>
+<volume>abs/2211.03817</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2211.03817</ee>
+<url>db/journals/corr/corr2211.html#abs-2211-03817</url>
+</article>
+</r>
+<r><inproceedings key="conf/seams/GilCRSRP21" mdate="2023-03-21">
+<author pid="263/7098">Eric Bernd Gil</author>
+<author orcid="0000-0001-9997-8487" pid="218/5203">Ricardo Diniz Caldas</author>
+<author pid="218/5438">Arthur Rodrigues</author>
+<author pid="289/1198">Gabriel Levi Gomes da Silva</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="p/PatrizioPelliccione">Patrizio Pelliccione</author>
+<title>Body Sensor Network: A Self-Adaptive System Exemplar in the Healthcare Domain.</title>
+<pages>224-230</pages>
+<year>2021</year>
+<booktitle>SEAMS@ICSE</booktitle>
+<ee>https://doi.org/10.1109/SEAMS51251.2021.00037</ee>
+<crossref>conf/seams/2021</crossref>
+<url>db/conf/seams/seams2021.html#GilCRSRP21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-14948" mdate="2021-04-07">
+<author pid="263/7098">Eric Bernd Gil</author>
+<author pid="218/5203">Ricardo Diniz Caldas</author>
+<author pid="218/5438">Arthur Rodrigues</author>
+<author pid="289/1198">Gabriel Levi Gomes da Silva</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="p/PatrizioPelliccione">Patrizio Pelliccione</author>
+<title>Body Sensor Network: A Self-Adaptive System Exemplar in the Healthcare Domain.</title>
+<year>2021</year>
+<volume>abs/2103.14948</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.14948</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-14948</url>
+</article>
+</r>
+<r><article key="journals/sigsoft/RaibuletDFLPB20" mdate="2025-01-19">
+<author pid="69/3643">Claudia Raibulet</author>
+<author pid="08/1934">Khalil Drira</author>
+<author pid="f/MariaGraziaFugini">Maria Grazia Fugini</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="p/PatrizioPelliccione">Patrizio Pelliccione</author>
+<author pid="38/1502">Tom&#225;s Bures</author>
+<title>Report of the 2nd International Workshop on Context-aware Autonomous and Smart Architectures (CASA@ECSA 2018).</title>
+<pages>14-17</pages>
+<year>2020</year>
+<volume>45</volume>
+<journal>ACM SIGSOFT Softw. Eng. Notes</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3375572.3375576</ee>
+<ee>https://www.wikidata.org/entity/Q126304411</ee>
+<url>db/journals/sigsoft/sigsoft45.html#RaibuletDFLPB20</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/CaldasRGR0P20" mdate="2024-10-06">
+<author orcid="0000-0001-9997-8487" pid="218/5203">Ricardo Diniz Caldas</author>
+<author pid="218/5438">Arthur Rodrigues</author>
+<author orcid="0000-0001-9483-9007" pid="263/7098">Eric Bernd Gil</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0002-7127-352X" pid="63/5586-1">Thomas Vogel 0001</author>
+<author orcid="0000-0002-5438-2281" pid="p/PatrizioPelliccione">Patrizio Pelliccione</author>
+<title>A hybrid approach combining control theory and AI for engineering self-adaptive systems.</title>
+<pages>9-19</pages>
+<year>2020</year>
+<booktitle>SEAMS@ICSE</booktitle>
+<ee>https://doi.org/10.1145/3387939.3391595</ee>
+<crossref>conf/icse/2020seams</crossref>
+<url>db/conf/icse/seams2020.html#CaldasRGR0P20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-11793" mdate="2020-04-28">
+<author pid="218/5203">Ricardo Diniz Caldas</author>
+<author pid="218/5438">Arthur Rodrigues</author>
+<author pid="263/7098">Eric Bernd Gil</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="63/5586-1">Thomas Vogel 0001</author>
+<author pid="p/PatrizioPelliccione">Patrizio Pelliccione</author>
+<title>A Hybrid Approach Combining Control Theory and AI for Engineering Self-Adaptive Systems.</title>
+<year>2020</year>
+<volume>abs/2004.11793</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.11793</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-11793</url>
+</article>
+</r>
+<r><article key="journals/concurrency/FigueiredoSRTM19" mdate="2025-01-19">
+<author orcid="0000-0003-0039-310X" pid="175/5754">Marco Antonio C. de Figueiredo</author>
+<author pid="70/2051">Edans Flavius de Oliveira Sandes</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0001-6289-3914" pid="78/87">George Luiz Medeiros Teodoro</author>
+<author orcid="0000-0001-5191-5209" pid="m/AlbaCMAMelo">Alba Cristina Magalhaes Alves de Melo</author>
+<title>MASA-OpenCL: Parallel pruned comparison of long DNA sequences with OpenCL.</title>
+<year>2019</year>
+<volume>31</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1002/cpe.5039</ee>
+<ee>https://www.wikidata.org/entity/Q129081972</ee>
+<url>db/journals/concurrency/concurrency31.html#FigueiredoSRTM19</url>
+</article>
+</r>
+<r><article key="journals/concurrency/PortellaRNM19" mdate="2025-01-19">
+<author orcid="0000-0002-6902-8314" pid="248/2632">Gustavo Portella</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0002-9071-8512" pid="211/6179">Eduardo Yoshio Nakano</author>
+<author orcid="0000-0001-5191-5209" pid="m/AlbaCMAMelo">Alba C. M. A. Melo</author>
+<title>Statistical analysis of Amazon EC2 cloud pricing models.</title>
+<year>2019</year>
+<volume>31</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1002/cpe.4451</ee>
+<ee>https://www.wikidata.org/entity/Q130139135</ee>
+<url>db/journals/concurrency/concurrency31.html#PortellaRNM19</url>
+</article>
+</r>
+<r><article key="journals/infsof/RodriguesGRKAAA19" mdate="2024-08-12">
+<author pid="240/6171">Gabriel S. Rodrigues</author>
+<author orcid="0000-0002-7102-9113" pid="120/7814">Felipe Pontes Guimar&#227;es</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="121/3946">Alessia Knauss</author>
+<author orcid="0000-0002-1360-9160" pid="240/6177">Jo&#227;o Paulo Costa de Araujo</author>
+<author orcid="0000-0002-8389-7217" pid="144/9567">Hugo Sica de Andrade</author>
+<author orcid="0000-0002-5285-7829" pid="06/1901">Raian Ali</author>
+<title>GoalD: A Goal-Driven deployment framework for dynamic and heterogeneous computing environments.</title>
+<pages>159-176</pages>
+<year>2019</year>
+<volume>111</volume>
+<journal>Inf. Softw. Technol.</journal>
+<ee>https://doi.org/10.1016/j.infsof.2019.04.003</ee>
+<ee>https://www.wikidata.org/entity/Q113316834</ee>
+<url>db/journals/infsof/infsof111.html#RodriguesGRKAAA19</url>
+</article>
+</r>
+<r><article key="journals/infsof/RodriguesRKAA19" mdate="2022-08-16">
+<author orcid="0000-0003-2045-9014" pid="218/5438">Arthur Rodrigues</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="121/3946">Alessia Knauss</author>
+<author orcid="0000-0002-5285-7829" pid="06/1901">Raian Ali</author>
+<author orcid="0000-0002-8389-7217" pid="144/9567">Hugo Sica de Andrade</author>
+<title>Enhancing context specifications for dependable adaptive systems: A data mining approach.</title>
+<pages>115-131</pages>
+<year>2019</year>
+<volume>112</volume>
+<journal>Inf. Softw. Technol.</journal>
+<ee>https://doi.org/10.1016/j.infsof.2019.04.011</ee>
+<ee>https://www.wikidata.org/entity/Q113316827</ee>
+<url>db/journals/infsof/infsof112.html#RodriguesRKAA19</url>
+</article>
+</r>
+<r><article key="journals/jss/MeloCR19" mdate="2020-02-24">
+<author orcid="0000-0003-0450-7274" pid="244/2310">Caio Batista de Melo</author>
+<author orcid="0000-0002-7019-8521" pid="69/1220">Andr&#233; Luiz Fernandes Can&#231;ado</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<title>Characterization of implied scenarios as families of common behavior.</title>
+<year>2019</year>
+<volume>158</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2019.110425</ee>
+<url>db/journals/jss/jss158.html#MeloCR19</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEcloud/PortellaNRM19" mdate="2024-07-17">
+<author orcid="0000-0002-6902-8314" pid="248/2632">Gustavo Portella</author>
+<author orcid="0000-0002-9071-8512" pid="211/6179">Eduardo Yoshio Nakano</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0001-5191-5209" pid="m/AlbaCMAMelo">Alba C. M. A. Melo</author>
+<title>Utility-Based Strategy for Balanced Cost and Availability at the Cloud Spot Market.</title>
+<pages>214-218</pages>
+<year>2019</year>
+<booktitle>CLOUD</booktitle>
+<ee>https://doi.org/10.1109/CLOUD.2019.00045</ee>
+<crossref>conf/IEEEcloud/2019</crossref>
+<url>db/conf/IEEEcloud/IEEEcloud2019.html#PortellaNRM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/SolanoCR0P19" mdate="2023-03-21">
+<author pid="241/5357">Gabriela F&#233;lix Solano</author>
+<author orcid="0000-0001-9997-8487" pid="218/5203">Ricardo Diniz Caldas</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0002-7127-352X" pid="63/5586-1">Thomas Vogel 0001</author>
+<author orcid="0000-0002-5438-2281" pid="p/PatrizioPelliccione">Patrizio Pelliccione</author>
+<title>Taming uncertainty in the assurance process of self-adaptive systems: a goal-oriented approach.</title>
+<pages>89-99</pages>
+<year>2019</year>
+<booktitle>SEAMS@ICSE</booktitle>
+<ee>https://doi.org/10.1109/SEAMS.2019.00020</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3341540</ee>
+<crossref>conf/icse/2019seams</crossref>
+<url>db/conf/icse/seams2019.html#SolanoCR0P19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/FazzolinoR19" mdate="2022-08-18">
+<author pid="233/8479">Rafael Fazzolino</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<title>Feature-Trace: Generating Operational Profile and Supporting Testing Prioritization from BDD Features.</title>
+<pages>332-336</pages>
+<year>2019</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3350768.3350781</ee>
+<crossref>conf/sbes/2019</crossref>
+<url>db/conf/sbes/sbes2019.html#FazzolinoR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/splc/LannaCARSA19" mdate="2024-02-05">
+<author pid="159/0743">Andr&#233; Lanna</author>
+<author orcid="0000-0001-5758-2097" pid="166/4464">Thiago M. Castro</author>
+<author pid="15/5448">Vander Alves</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0001-8677-4485" pid="27/3416">Pierre-Yves Schobbens</author>
+<author orcid="0000-0003-3687-2233" pid="a/SvenApel">Sven Apel</author>
+<title>Feature-family-based reliability analysis of software product lines.</title>
+<pages>11:1</pages>
+<year>2019</year>
+<booktitle>SPLC (A)</booktitle>
+<ee>https://doi.org/10.1145/3336294.3342376</ee>
+<crossref>conf/splc/2019a</crossref>
+<url>db/conf/splc/splc2019a.html#LannaCARSA19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-02228" mdate="2019-05-27">
+<author pid="241/5357">Gabriela F&#233;lix Solano</author>
+<author pid="218/5203">Ricardo Diniz Caldas</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="63/5586-1">Thomas Vogel 0001</author>
+<author pid="p/PatrizioPelliccione">Patrizio Pelliccione</author>
+<title>Taming Uncertainty in the Assurance Process of Self-Adaptive Systems: a Goal-Oriented Approach.</title>
+<year>2019</year>
+<volume>abs/1905.02228</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.02228</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-02228</url>
+</article>
+</r>
+<r><article key="journals/infsof/LannaCARSA18" mdate="2023-09-30">
+<author pid="159/0743">Andr&#233; Lanna</author>
+<author orcid="0000-0001-5758-2097" pid="166/4464">Thiago M. Castro</author>
+<author orcid="0000-0003-1573-048X" pid="15/5448">Vander Alves</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0001-8677-4485" pid="27/3416">Pierre-Yves Schobbens</author>
+<author orcid="0000-0003-3687-2233" pid="a/SvenApel">Sven Apel</author>
+<title>Feature-family-based reliability analysis of software product lines.</title>
+<pages>59-81</pages>
+<year>2018</year>
+<volume>94</volume>
+<journal>Inf. Softw. Technol.</journal>
+<ee>https://doi.org/10.1016/j.infsof.2017.10.001</ee>
+<ee>https://www.wikidata.org/entity/Q113317044</ee>
+<url>db/journals/infsof/infsof94.html#LannaCARSA18</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/RodriguesCR0P18" mdate="2023-03-21">
+<author pid="218/5438">Arthur Rodrigues</author>
+<author orcid="0000-0001-9997-8487" pid="218/5203">Ricardo Diniz Caldas</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0002-7127-352X" pid="63/5586-1">Thomas Vogel 0001</author>
+<author orcid="0000-0002-5438-2281" pid="p/PatrizioPelliccione">Patrizio Pelliccione</author>
+<title>A learning approach to enhance assurances for real-time self-adaptive systems.</title>
+<pages>206-216</pages>
+<year>2018</year>
+<booktitle>SEAMS@ICSE</booktitle>
+<ee>https://doi.org/10.1145/3194133.3194147</ee>
+<ee>https://ieeexplore.ieee.org/document/8595401</ee>
+<crossref>conf/icse/2018seams</crossref>
+<url>db/conf/icse/seams2018.html#RodriguesCR0P18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/refsq/RodriguesTWAA18" mdate="2020-03-27">
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="215/4203">Carlos Joel Tavares</author>
+<author pid="215/4173">Naiara Watanabe</author>
+<author pid="93/9961">Carina Alves 0001</author>
+<author orcid="0000-0002-5285-7829" pid="06/1901">Raian Ali</author>
+<title>A Persona-Based Modelling for Contextual Requirements.</title>
+<pages>352-368</pages>
+<year>2018</year>
+<booktitle>REFSQ</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-77243-1_23</ee>
+<crossref>conf/refsq/2018</crossref>
+<url>db/conf/refsq/refsq2018.html#RodriguesTWAA18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sast/FazzolinoFACRB18" mdate="2025-03-03">
+<author pid="233/8479">Rafael Fazzolino</author>
+<author pid="233/8464">Henrique Medrado de Faria</author>
+<author pid="233/8485">Luis Henrique Vieira Amaral</author>
+<author orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0002-2380-2829" pid="21/824">Rodrigo Bonif&#225;cio</author>
+<title>Assessing Agile Testing Practices for Enterprise Systems: A Survey Approach.</title>
+<pages>29-38</pages>
+<year>2018</year>
+<booktitle>SAST</booktitle>
+<ee>https://doi.org/10.1145/3266003.3266010</ee>
+<crossref>conf/sast/2018</crossref>
+<url>db/conf/sast/sast2018.html#FazzolinoFACRB18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-00994" mdate="2018-08-13">
+<author pid="218/5438">Arthur Rodrigues</author>
+<author pid="218/5203">Ricardo Diniz Caldas</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="63/5586-1">Thomas Vogel 0001</author>
+<author pid="p/PatrizioPelliccione">Patrizio Pelliccione</author>
+<title>A Learning Approach to Enhance Assurances for Real-Time Self-Adaptive Systems.</title>
+<year>2018</year>
+<volume>abs/1804.00994</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.00994</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-00994</url>
+</article>
+</r>
+<r><article key="journals/cluster/LeiteARTEM17" mdate="2022-01-03">
+<author pid="80/8766">Alessandro Ferreira Leite</author>
+<author orcid="0000-0003-1573-048X" pid="15/5448">Vander Alves</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="75/1189">Claude Tadonki</author>
+<author pid="62/3092">Christine Eisenbeis</author>
+<author orcid="0000-0001-5191-5209" pid="m/AlbaCMAMelo">Alba Cristina Magalhaes Alves de Melo</author>
+<title>Dohko: an autonomic system for provision, configuration, and management of inter-cloud environments based on a software product line engineering method.</title>
+<pages>1951-1976</pages>
+<year>2017</year>
+<volume>20</volume>
+<journal>Clust. Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10586-017-0897-1</ee>
+<url>db/journals/cluster/cluster20.html#LeiteARTEM17</url>
+</article>
+</r>
+<r><article key="journals/dke/GuimaraesRAB17" mdate="2025-03-03">
+<author pid="120/7814">Felipe Pontes Guimar&#227;es</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0002-5285-7829" pid="06/1901">Raian Ali</author>
+<author orcid="0000-0002-4865-5896" pid="20/833">Daniel Mac&#234;do Batista</author>
+<title>Planning runtime software adaptation through pragmatic goal model.</title>
+<pages>25-40</pages>
+<year>2017</year>
+<volume>109</volume>
+<journal>Data Knowl. Eng.</journal>
+<ee>https://doi.org/10.1016/j.datak.2017.03.003</ee>
+<url>db/journals/dke/dke109.html#GuimaraesRAB17</url>
+</article>
+</r>
+<r><article key="journals/infsof/PessoaFCARC17" mdate="2022-08-16">
+<author pid="198/4350">Leonardo Pessoa</author>
+<author pid="17/3664">Paula Fernandes</author>
+<author orcid="0000-0001-5758-2097" pid="166/4464">Thiago M. Castro</author>
+<author orcid="0000-0003-1573-048X" pid="15/5448">Vander Alves</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="202/0967">Hervaldo Sampaio Carvalho</author>
+<title>Building reliable and maintainable Dynamic Software Product Lines: An investigation in the Body Sensor Network domain.</title>
+<pages>54-70</pages>
+<year>2017</year>
+<volume>86</volume>
+<journal>Inf. Softw. Technol.</journal>
+<ee>https://doi.org/10.1016/j.infsof.2017.02.002</ee>
+<ee>https://www.wikidata.org/entity/Q113317120</ee>
+<url>db/journals/infsof/infsof86.html#PessoaFCARC17</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbgames/SiqueiraCRJ17" mdate="2023-03-23">
+<author pid="180/6205">Elton Sarmanho Siqueira</author>
+<author pid="81/3527">Carla Denise Castanho</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0002-4520-7641" pid="06/5774">Ricardo Pezzuol Jacobi</author>
+<title>A Data Analysis of Player in World of Warcraft Using Game Data Mining.</title>
+<pages>1-9</pages>
+<year>2017</year>
+<booktitle>SBGames</booktitle>
+<ee>https://doi.org/10.1109/SBGames.2017.00009</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBGames.2017.00009</ee>
+<crossref>conf/sbgames/2017</crossref>
+<url>db/conf/sbgames/sbgames2017.html#SiqueiraCRJ17</url>
+</inproceedings>
+</r>
+<r><article key="journals/infsof/MendoncaRAAB16" mdate="2022-08-16">
+<author orcid="0000-0002-2454-1595" pid="145/4034">Danilo Filgueira Mendon&#231;a</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0002-5285-7829" pid="06/1901">Raian Ali</author>
+<author orcid="0000-0003-1573-048X" pid="15/5448">Vander Alves</author>
+<author orcid="0000-0001-6467-837X" pid="b/LucianoBaresi">Luciano Baresi</author>
+<title>GODA: A goal-oriented requirements engineering framework for runtime dependability analysis.</title>
+<pages>245-264</pages>
+<year>2016</year>
+<volume>80</volume>
+<journal>Inf. Softw. Technol.</journal>
+<ee>https://doi.org/10.1016/j.infsof.2016.09.005</ee>
+<ee>https://www.wikidata.org/entity/Q113317159</ee>
+<url>db/journals/infsof/infsof80.html#MendoncaRAAB16</url>
+</article>
+</r>
+<r><inproceedings key="conf/euromicro/EleuterioGBLRR16" mdate="2023-09-30">
+<author pid="77/10539">Jane Dirce A. Sandim Eleuterio</author>
+<author pid="119/2261">Felipe Nunes Gaia</author>
+<author orcid="0000-0001-7366-6530" pid="31/4416">Andrea Bondavalli</author>
+<author orcid="0000-0002-2364-2538" pid="43/1911">Paolo Lollini</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0003-4549-7105" pid="80/5752">Cec&#237;lia Mary Fischer Rubira</author>
+<title>On the Dependability for Dynamic Software Product Lines: A Comparative Systematic Mapping Study.</title>
+<pages>323-330</pages>
+<year>2016</year>
+<booktitle>SEAA</booktitle>
+<ee>https://doi.org/10.1109/SEAA.2016.40</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SEAA.2016.40</ee>
+<crossref>conf/euromicro/2016</crossref>
+<url>db/conf/euromicro/euromicro2016.html#EleuterioGBLRR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccac/LeiteARTEM16" mdate="2023-03-24">
+<author pid="80/8766">Alessandro Ferreira Leite</author>
+<author orcid="0000-0003-1573-048X" pid="15/5448">Vander Alves</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="75/1189">Claude Tadonki</author>
+<author pid="62/3092">Christine Eisenbeis</author>
+<author orcid="0000-0001-5191-5209" pid="m/AlbaCMAMelo">Alba Cristina Magalhaes Alves de Melo</author>
+<title>Autonomic Provisioning, Configuration, and Management of Inter-cloud Environments Based on a Software Product Line Engineering Method.</title>
+<pages>72-83</pages>
+<year>2016</year>
+<booktitle>ICCAC</booktitle>
+<ee>https://doi.org/10.1109/ICCAC.2016.13</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICCAC.2016.13</ee>
+<crossref>conf/iccac/2016</crossref>
+<url>db/conf/iccac/iccac2016.html#LeiteARTEM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/PaivaRBL16" mdate="2020-03-27">
+<author pid="180/8360">Renato Paiva</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0002-2380-2829" pid="21/824">Rodrigo Bonif&#225;cio</author>
+<author pid="40/407">Marcelo Ladeira</author>
+<title>Exploring the combination of software visualization and data clustering in the software architecture recovery process.</title>
+<pages>1309-1314</pages>
+<year>2016</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2851613.2851765</ee>
+<crossref>conf/sac/2016</crossref>
+<url>db/conf/sac/sac2016.html#PaivaRBL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/IEEEcloud/LeiteARTEM15" mdate="2023-03-24">
+<author pid="80/8766">Alessandro Ferreira Leite</author>
+<author orcid="0000-0003-1573-048X" pid="15/5448">Vander Alves</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="75/1189">Claude Tadonki</author>
+<author pid="62/3092">Christine Eisenbeis</author>
+<author orcid="0000-0001-5191-5209" pid="m/AlbaCMAMelo">Alba Cristina Magalhaes Alves de Melo</author>
+<title>Automating Resource Selection and Configuration in Inter-clouds through a Software Product Line Method.</title>
+<pages>726-733</pages>
+<year>2015</year>
+<booktitle>CLOUD</booktitle>
+<ee>https://doi.org/10.1109/CLOUD.2015.101</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CLOUD.2015.101</ee>
+<crossref>conf/IEEEcloud/2015</crossref>
+<url>db/conf/IEEEcloud/IEEEcloud2015.html#LeiteARTEM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/GuimaraesRBA15" mdate="2025-05-01">
+<author pid="120/7814">Felipe Pontes Guimar&#227;es</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0002-4865-5896" pid="20/833">Daniel Mac&#234;do Batista</author>
+<author orcid="0000-0002-5285-7829" pid="06/1901">Raian Ali</author>
+<title>Pragmatic Requirements for Adaptive Systems: A Goal-Driven Modeling and Analysis Approach.</title>
+<pages>50-64</pages>
+<year>2015</year>
+<booktitle>ER</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-25264-3_4</ee>
+<crossref>conf/er/2015</crossref>
+<url>db/conf/er/er2015.html#GuimaraesRBA15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hase/RodriguesANLCSS15" mdate="2023-03-24">
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0003-1573-048X" pid="15/5448">Vander Alves</author>
+<author pid="126/6088">Vinicius Nunes</author>
+<author pid="159/0743">Andr&#233; Lanna</author>
+<author pid="73/10839">Maxime Cordy</author>
+<author orcid="0000-0001-8677-4485" pid="27/3416">Pierre-Yves Schobbens</author>
+<author pid="29/10474">Amir Molzam Sharifloo</author>
+<author pid="52/579">Axel Legay</author>
+<title>Modeling and Verification for Probabilistic Properties in Software Product Lines.</title>
+<pages>173-180</pages>
+<year>2015</year>
+<booktitle>HASE</booktitle>
+<ee>https://doi.org/10.1109/HASE.2015.34</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/HASE.2015.34</ee>
+<crossref>conf/hase/2015</crossref>
+<url>db/conf/hase/hase2015.html#RodriguesANLCSS15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/GuimaraesRAB15" mdate="2018-08-13">
+<author pid="120/7814">Felipe Pontes Guimar&#227;es</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="06/1901">Raian Ali</author>
+<author pid="20/833">Daniel Mac&#234;do Batista</author>
+<title>Pragmatic Requirements for Adaptive Systems: a Goal-Driven Modelling and Analysis Approach.</title>
+<year>2015</year>
+<volume>abs/1503.07132</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1503.07132</ee>
+<url>db/journals/corr/corr1503.html#GuimaraesRAB15</url>
+</article>
+</r>
+<r><article key="journals/grid/GuimaraesCBRM14" mdate="2021-10-14">
+<author pid="120/7814">Felipe Pontes Guimar&#227;es</author>
+<author pid="144/3401">Pedro C&#233;lestin</author>
+<author orcid="0000-0002-4865-5896" pid="20/833">Daniel Mac&#234;do Batista</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0001-5191-5209" pid="m/AlbaCMAMelo">Alba Cristina Magalhaes Alves de Melo</author>
+<title>A Framework for Adaptive Fault-Tolerant Execution of Workflows in the Grid: Empirical and Theoretical Analysis.</title>
+<pages>127-151</pages>
+<year>2014</year>
+<volume>12</volume>
+<journal>J. Grid Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10723-013-9281-4</ee>
+<url>db/journals/grid/grid12.html#GuimaraesCBRM14</url>
+</article>
+</r>
+<r><article key="journals/twc/LaranjeiraR14" mdate="2020-09-06">
+<author pid="58/1666">Luiz A. Laranjeira</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<title>Border Effect Analysis for Reliability Assurance and Continuous Connectivity of Wireless Sensor Networks in the Presence of Sensor Failures.</title>
+<pages>4232-4246</pages>
+<year>2014</year>
+<volume>13</volume>
+<journal>IEEE Trans. Wirel. Commun.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TWC.2014.2314102</ee>
+<url>db/journals/twc/twc13.html#LaranjeiraR14</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/MendoncaAR14" mdate="2025-01-19">
+<author pid="145/4034">Danilo F. Mendon&#231;a</author>
+<author orcid="0000-0002-5285-7829" pid="06/1901">Raian Ali</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<title>Modelling and analysing contextual failures for dependability requirements.</title>
+<pages>55-64</pages>
+<year>2014</year>
+<booktitle>SEAMS</booktitle>
+<ee>https://doi.org/10.1145/2593929.2593947</ee>
+<ee>https://www.wikidata.org/entity/Q130927510</ee>
+<crossref>conf/icse/2014seams</crossref>
+<url>db/conf/icse/seams2014.html#MendoncaAR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcars/RorizRL14" mdate="2023-03-23">
+<author pid="157/7261">Alexandre Vaz Roriz</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="58/1666">Luiz A. Laranjeira</author>
+<title>Analysis of the Impact of Implied Scenarios on the Reliability of Computational Concurrent Systems.</title>
+<pages>105-114</pages>
+<year>2014</year>
+<booktitle>SBCARS</booktitle>
+<ee>https://doi.org/10.1109/SBCARS.2014.15</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBCARS.2014.15</ee>
+<crossref>conf/sbcars/2014</crossref>
+<url>db/conf/sbcars/sbcars2014.html#RorizRL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcars/MendoncaRFH13" mdate="2023-03-23">
+<author pid="145/4034">Danilo Filgueira Mendon&#231;a</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0003-4645-6700" pid="38/2179">Alet&#233;ia Patr&#237;cia Favacho de Ara&#250;jo</author>
+<author orcid="0000-0002-0883-2579" pid="20/1662">Maristela Holanda</author>
+<title>A Systematic Mapping Study on Service Oriented Computing in the Context of Quality of Services.</title>
+<pages>39-48</pages>
+<year>2013</year>
+<booktitle>SBCARS</booktitle>
+<ee>https://doi.org/10.1109/SBCARS.2013.15</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBCARS.2013.15</ee>
+<crossref>conf/sbcars/2013</crossref>
+<url>db/conf/sbcars/sbcars2013.html#MendoncaRFH13</url>
+</inproceedings>
+</r>
+<r><article key="journals/jss/RodriguesASL12" mdate="2020-02-24">
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0003-1573-048X" pid="15/5448">Vander Alves</author>
+<author pid="29/1266">Renato Silveira</author>
+<author pid="58/1666">Luiz A. Laranjeira</author>
+<title>Dependability analysis in the Ambient Assisted Living Domain: An exploratory case study.</title>
+<pages>112-131</pages>
+<year>2012</year>
+<volume>85</volume>
+<journal>J. Syst. Softw.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.jss.2011.07.037</ee>
+<url>db/journals/jss/jss85.html#RodriguesASL12</url>
+</article>
+</r>
+<r><inproceedings key="conf/sac/LemosADR12" mdate="2018-12-05">
+<author pid="20/10350">Jo&#227;o Lemos</author>
+<author pid="93/9961">Carina Frota Alves</author>
+<author pid="30/1435">Leticia Duboc</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<title>A systematic mapping study on creativity in requirements engineering.</title>
+<pages>1083-1088</pages>
+<year>2012</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2245276.2231945</ee>
+<crossref>conf/sac/2012</crossref>
+<url>db/conf/sac/sac2012.html#LemosADR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcars/NunesFAR12" mdate="2023-03-23">
+<author pid="126/6088">Vinicius Nunes</author>
+<author pid="17/3664">Paula Fernandes</author>
+<author orcid="0000-0003-1573-048X" pid="15/5448">Vander Alves</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<title>Variability Management of Reliability Models in Software Product Lines: An Expressiveness and Scalability Analysis.</title>
+<pages>51-60</pages>
+<year>2012</year>
+<booktitle>SBCARS</booktitle>
+<ee>https://doi.org/10.1109/SBCARS.2012.23</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBCARS.2012.23</ee>
+<crossref>conf/sbcars/2012</crossref>
+<url>db/conf/sbcars/sbcars2012.html#NunesFAR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssiri/LaranjeiraR12" mdate="2018-11-02">
+<author pid="58/1666">Luiz A. Laranjeira</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<title>Extending the Reliability of Wireless Sensor Networks through Informed Periodic Redeployment.</title>
+<pages>167-176</pages>
+<year>2012</year>
+<booktitle>SERE</booktitle>
+<ee>https://doi.org/10.1109/SERE.2012.29</ee>
+<crossref>conf/ssiri/2012</crossref>
+<url>db/conf/ssiri/sere2012.html#LaranjeiraR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/closer/SaldanhaRHARWSD11" mdate="2022-05-17">
+<author pid="46/10236">Hugo Saldanha</author>
+<author pid="86/10587">Edward de Oliveira Ribeiro</author>
+<author pid="20/1662">Maristela Holanda</author>
+<author pid="38/2179">Alet&#233;ia P. F. Ara&#250;jo</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="84/2668">Maria Em&#237;lia Telles Walter</author>
+<author pid="61/7232">Jo&#227;o Carlos Setubal</author>
+<author pid="69/4027">Alberto M. R. D&#225;vila</author>
+<title>A Cloud Architecture for Bioinformatics Workflows.</title>
+<pages>477-483</pages>
+<year>2011</year>
+<booktitle>CLOSER</booktitle>
+<crossref>conf/closer/2011</crossref>
+<url>db/conf/closer/closer2011.html#SaldanhaRHARWSD11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcars/MarinhoMRAB11" mdate="2023-03-23">
+<author pid="115/4576">Euler Horta Marinho</author>
+<author pid="126/5972">Alysson A. Mendonca</author>
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0003-1573-048X" pid="15/5448">Vander Alves</author>
+<author orcid="0000-0002-2380-2829" pid="21/824">Rodrigo Bonif&#225;cio</author>
+<title>Exploring Architecture-Based Reliability Analysis of Current Multi-layered Web Applications.</title>
+<pages>51-60</pages>
+<year>2011</year>
+<booktitle>SBCARS</booktitle>
+<ee>https://doi.org/10.1109/SBCARS.2011.14</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBCARS.2011.14</ee>
+<crossref>conf/sbcars/2011</crossref>
+<url>db/conf/sbcars/sbcars2011.html#MarinhoMRAB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/SilvaGRRR11" mdate="2011-12-22">
+<author pid="79/10587">Leone Parise Vieira da Silva</author>
+<author pid="20/3138">Rajiv Geeverghese</author>
+<author pid="86/10587">Edward de Oliveira Ribeiro</author>
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="09/2442">C&#233;lia Ghedini Ralha</author>
+<title>A Flexible Event-Driven Architecture for Peer-to-Peer Based Applications.</title>
+<pages>764-769</pages>
+<year>2011</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2011</crossref>
+<url>db/conf/seke/seke2011.html#SilvaGRRR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcars/RodriguesAFL10" mdate="2023-03-23">
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author orcid="0000-0003-1573-048X" pid="15/5448">Vander Alves</author>
+<author pid="126/5955">Renato Franklin</author>
+<author pid="58/1666">Luiz A. Laranjeira</author>
+<title>Dependability Analysis in the Ambient Assisted Living Domain: An Exploratory Case Study.</title>
+<pages>150-159</pages>
+<year>2010</year>
+<booktitle>SBCARS</booktitle>
+<ee>https://doi.org/10.1109/SBCARS.2010.25</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBCARS.2010.25</ee>
+<crossref>conf/sbcars/2010</crossref>
+<url>db/conf/sbcars/sbcars2010.html#RodriguesAFL10</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ethos/NunesRodrigues08" mdate="2022-04-05">
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<title>A model driven approach for software reliability prediction.</title>
+<year>2008</year>
+<school>University College London, UK</school>
+<ee>https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.479353</ee>
+<note type="source">British Library, EThOS</note>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/icse/RodriguesRW07" mdate="2023-03-23">
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="r/DSRosenblum">David S. Rosenblum</author>
+<author pid="89/414">Jonas Wolf</author>
+<title>Reliability Analysis of Concurrent Systems Using LTSA.</title>
+<pages>63-64</pages>
+<year>2007</year>
+<crossref>conf/icse/2007c</crossref>
+<booktitle>ICSE Companion</booktitle>
+<ee>https://doi.org/10.1109/ICSECOMPANION.2007.59</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICSECOMPANION.2007.59</ee>
+<url>db/conf/icse/icsec2007.html#RodriguesRW07</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigsoft/RodriguesRU05" mdate="2020-09-17">
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="r/DSRosenblum">David S. Rosenblum</author>
+<author orcid="0000-0001-9352-1478" pid="21/1391">Sebasti&#225;n Uchitel</author>
+<title>Sensitivity analysis for a scenario-based reliability prediction model.</title>
+<pages>1-5</pages>
+<year>2005</year>
+<volume>30</volume>
+<journal>ACM SIGSOFT Softw. Eng. Notes</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1082983.1083229</ee>
+<url>db/journals/sigsoft/sigsoft30.html#RodriguesRU05</url>
+</article>
+</r>
+<r><inproceedings key="conf/fase/RodriguesRU05" mdate="2018-06-26">
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="r/DSRosenblum">David S. Rosenblum</author>
+<author pid="21/1391">Sebasti&#225;n Uchitel</author>
+<title>Using Scenarios to Predict the Reliability of Concurrent Component-Based Software Systems.</title>
+<pages>111-126</pages>
+<ee type="oa">https://doi.org/10.1007/978-3-540-31984-9_9</ee>
+<year>2005</year>
+<crossref>conf/fase/2005</crossref>
+<booktitle>FASE</booktitle>
+<url>db/conf/fase/fase2005.html#RodriguesRU05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/RodriguesRU05" mdate="2022-04-09">
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="r/DSRosenblum">David S. Rosenblum</author>
+<author pid="21/1391">Sebasti&#225;n Uchitel</author>
+<title>Sensitivity analysis for a scenario-based reliability prediction model.</title>
+<pages>7:1-7:5</pages>
+<year>2005</year>
+<booktitle>WADS@ICSE</booktitle>
+<ee>https://doi.org/10.1145/1083217.1083229</ee>
+<crossref>conf/icse/2005wads</crossref>
+<url>db/conf/icse/wads2005.html#RodriguesRU05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uml/RodriguesRU05" mdate="2018-11-02">
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="r/DSRosenblum">David S. Rosenblum</author>
+<author orcid="0000-0001-9352-1478" pid="21/1391">Sebasti&#225;n Uchitel</author>
+<title>Reliability Prediction in Model-Driven Development.</title>
+<pages>339-354</pages>
+<year>2005</year>
+<crossref>conf/uml/2005</crossref>
+<booktitle>MoDELS</booktitle>
+<ee>https://doi.org/10.1007/11557432_25</ee>
+<url>db/conf/uml/models2005.html#RodriguesRU05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/Rodrigues04" mdate="2023-03-23">
+<author pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<title>A Model Driven Approach for Software Systems Reliability.</title>
+<pages>30-32</pages>
+<year>2004</year>
+<crossref>conf/icse/2004</crossref>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2004.1317412</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICSE.2004.1317412</ee>
+<ee>http://dl.acm.org/citation.cfm?id=999397</ee>
+<url>db/conf/icse/icse2004.html#Rodrigues04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/RodriguesRE03" mdate="2018-11-02">
+<author orcid="0000-0003-1661-8131" pid="34/64">Gena&#237;na Nunes Rodrigues</author>
+<author pid="89/3688">Graham Roberts</author>
+<author pid="57/4166">Wolfgang Emmerich</author>
+<title>Reliability Support for the Model Driven Architecture.</title>
+<pages>79-98</pages>
+<ee>https://doi.org/10.1007/978-3-540-25939-8_4</ee>
+<year>2003</year>
+<crossref>conf/icse/2003wads</crossref>
+<booktitle>WADS</booktitle>
+<url>db/conf/icse/wads2003.html#RodriguesRE03</url>
+</inproceedings>
+</r>
+<coauthors n="147" nc="2">
+<co c="0"><na f="a/Acosta:Maribel" pid="21/10280">Maribel Acosta</na></co>
+<co c="0"><na f="a/Ali:Raian" pid="06/1901">Raian Ali</na></co>
+<co c="0" n="2"><na f="a/Alves_0001:Carina" pid="93/9961">Carina Alves 0001</na><na>Carina Frota Alves</na></co>
+<co c="0"><na f="a/Alves:Vander" pid="15/5448">Vander Alves</na></co>
+<co c="0"><na f="a/Amaral:Luis_Henrique_Vieira" pid="233/8485">Luis Henrique Vieira Amaral</na></co>
+<co c="0"><na f="a/Andrade:Hugo_Sica_de" pid="144/9567">Hugo Sica de Andrade</na></co>
+<co c="0"><na f="a/Apel:Sven" pid="a/SvenApel">Sven Apel</na></co>
+<co c="0" n="2"><na f="a/Ara=uacute=jo:Alet=eacute=ia_P=_F=" pid="38/2179">Alet&#233;ia P. F. Ara&#250;jo</na><na>Alet&#233;ia Patr&#237;cia Favacho de Ara&#250;jo</na></co>
+<co c="0"><na f="a/Araujo:Gabriel_F=_P=" pid="192/1027">Gabriel F. P. Araujo</na></co>
+<co c="0"><na f="a/Araujo:Jo=atilde=o_Paulo_Costa_de" pid="240/6177">Jo&#227;o Paulo Costa de Araujo</na></co>
+<co c="0"><na f="a/Ayad:Reem" pid="323/5794">Reem Ayad</na></co>
+<co c="0"><na f="b/Baatartogtokh:Yesugen" pid="341/9132">Yesugen Baatartogtokh</na></co>
+<co c="0" n="2"><na f="b/Barbosa:Rafael_Fazzolino_Pinto" pid="233/8479">Rafael Fazzolino Pinto Barbosa</na><na>Rafael Fazzolino</na></co>
+<co c="0"><na f="b/Baresi:Luciano" pid="b/LucianoBaresi">Luciano Baresi</na></co>
+<co c="0" n="2"><na f="b/Batista:Daniel_M=" pid="20/833">Daniel M. Batista</na><na>Daniel Mac&#234;do Batista</na></co>
+<co c="0"><na f="b/Bennaceur:Amel" pid="48/2068">Amel Bennaceur</na></co>
+<co c="0"><na f="b/Berger:Thorsten" pid="22/6472">Thorsten Berger</na></co>
+<co c="0"><na f="b/Boltz:Nicolas" pid="276/7310">Nicolas Boltz</na></co>
+<co c="0"><na f="b/Bondavalli:Andrea" pid="31/4416">Andrea Bondavalli</na></co>
+<co c="0"><na f="b/Bonif=aacute=cio:Rodrigo" pid="21/824">Rodrigo Bonif&#225;cio</na></co>
+<co c="0"><na f="b/Boukerche:Azzedine" pid="b/AzzedineBoukerche">Azzedine Boukerche</na></co>
+<co c="0"><na f="b/Buhnova:Barbora" pid="33/7949">Barbora Buhnova</na></co>
+<co c="0"><na f="b/Bures:Tom=aacute=s" pid="38/1502">Tom&#225;s Bures</na></co>
+<co c="0" n="2"><na f="c/Caldas:Ricardo" pid="218/5203">Ricardo Caldas</na><na>Ricardo Diniz Caldas</na></co>
+<co c="0"><na f="c/Calinescu:Radu" pid="15/2194">Radu Calinescu</na></co>
+<co c="0"><na f="c/C=aacute=mara_0001:Javier" pid="13/2872">Javier C&#225;mara 0001</na></co>
+<co c="1"><na f="c/Can=ccedil=ado:Andr=eacute=_Luiz_Fernandes" pid="69/1220">Andr&#233; Luiz Fernandes Can&#231;ado</na></co>
+<co c="0"><na f="c/Canedo:Edna_Dias" pid="118/8796">Edna Dias Canedo</na></co>
+<co c="0"><na f="c/Cardozo:Nicol=aacute=s" pid="57/9170">Nicol&#225;s Cardozo</na></co>
+<co c="0"><na f="c/Carvalho:Hervaldo_Sampaio" pid="202/0967">Hervaldo Sampaio Carvalho</na></co>
+<co c="0"><na f="c/Carwehl:Marc" pid="332/4041">Marc Carwehl</na></co>
+<co c="0"><na f="c/Castanho:Carla_Denise" pid="81/3527">Carla Denise Castanho</na></co>
+<co c="0"><na f="c/Castro:Thiago_M=" pid="166/4464">Thiago M. Castro</na></co>
+<co c="0"><na f="c/Cavalcanti_0001:Ana" pid="c/AnaCavalcanti">Ana Cavalcanti 0001</na></co>
+<co c="0"><na f="c/C=eacute=lestin:Pedro" pid="144/3401">Pedro C&#233;lestin</na></co>
+<co c="0"><na f="c/Chechik:Marsha" pid="c/MarshaChechik">Marsha Chechik</na></co>
+<co c="0"><na f="c/Cioroaica:Emilia" pid="209/2755">Emilia Cioroaica</na></co>
+<co c="0"><na f="c/Cordy:Maxime" pid="73/10839">Maxime Cordy</na></co>
+<co c="0"><na f="d/D=aacute=vila:Alberto_M=_R=" pid="69/4027">Alberto M. R. D&#225;vila</na></co>
+<co c="0"><na f="d/Diaconescu:Ada" pid="75/1461">Ada Diaconescu</na></co>
+<co c="0"><na f="d/Drira:Khalil" pid="08/1934">Khalil Drira</na></co>
+<co c="0"><na f="d/Duboc:Leticia" pid="30/1435">Leticia Duboc</na></co>
+<co c="0"><na f="d/Dusparic:Ivana" pid="77/723">Ivana Dusparic</na></co>
+<co c="0"><na f="e/Eisenbeis:Christine" pid="62/3092">Christine Eisenbeis</na></co>
+<co c="0"><na f="e/Eleuterio:Jane_Dirce_A=_Sandim" pid="77/10539">Jane Dirce A. Sandim Eleuterio</na></co>
+<co c="0"><na f="e/Emmerich:Wolfgang" pid="57/4166">Wolfgang Emmerich</na></co>
+<co c="0"><na f="e/Engels:Gregor" pid="e/GregorEngels">Gregor Engels</na></co>
+<co c="0"><na f="f/Faria:Henrique_Medrado_de" pid="233/8464">Henrique Medrado de Faria</na></co>
+<co c="0"><na f="f/Feng:Nick" pid="268/7199">Nick Feng</na></co>
+<co c="0"><na f="f/Fernandes:Paula" pid="17/3664">Paula Fernandes</na></co>
+<co c="0"><na f="f/Figueiredo:Marco_Antonio_C=_de" pid="175/5754">Marco Antonio C. de Figueiredo</na></co>
+<co c="0"><na f="f/Formica:Federico" pid="310/4638">Federico Formica</na></co>
+<co c="0"><na f="f/Franklin:Renato" pid="126/5955">Renato Franklin</na></co>
+<co c="0"><na f="f/Fugini:Maria_Grazia" pid="f/MariaGraziaFugini">Maria Grazia Fugini</na></co>
+<co c="0"><na f="g/Gaia:Felipe_Nunes" pid="119/2261">Felipe Nunes Gaia</na></co>
+<co c="0"><na f="g/Garc=iacute=a:Juan_Antonio_Pi=ntilde=era" pid="375/7412">Juan Antonio Pi&#241;era Garc&#237;a</na></co>
+<co c="0"><na f="g/Geeverghese:Rajiv" pid="20/3138">Rajiv Geeverghese</na></co>
+<co c="0"><na f="g/Gerasimou:Simos" pid="117/6142">Simos Gerasimou</na></co>
+<co c="0"><na f="g/Gerostathopoulos:Ilias" pid="130/4959">Ilias Gerostathopoulos</na></co>
+<co c="0" n="2"><na f="g/Getir:Sinem" pid="70/9961">Sinem Getir</na><na>Sinem Getir Yaman</na></co>
+<co c="0"><na f="g/Gil:Eric_Bernd" pid="263/7098">Eric Bernd Gil</na></co>
+<co c="0"><na f="g/Grassi:Vincenzo" pid="18/7037">Vincenzo Grassi</na></co>
+<co c="0"><na f="g/Grunske:Lars" pid="55/4092">Lars Grunske</na></co>
+<co c="0"><na f="g/Guimar=atilde=es:Felipe_Pontes" pid="120/7814">Felipe Pontes Guimar&#227;es</na></co>
+<co c="0"><na f="h/Hahner:Sebastian" pid="285/5707">Sebastian Hahner</na></co>
+<co c="0"><na f="h/Holanda:Maristela" pid="20/1662">Maristela Holanda</na></co>
+<co c="0"><na f="i/Imrie:Calum" pid="202/9527">Calum Imrie</na></co>
+<co c="0" n="2"><na f="j/Jacobi:Ricardo_P=" pid="06/5774">Ricardo P. Jacobi</na><na>Ricardo Pezzuol Jacobi</na></co>
+<co c="0"><na f="j/Jamshidi:Pooyan" pid="57/2301">Pooyan Jamshidi</na></co>
+<co c="0"><na f="j/Julien_0001:Christine" pid="j/ChristineJulien">Christine Julien 0001</na></co>
+<co c="0"><na f="k/Knauss:Alessia" pid="121/3946">Alessia Knauss</na></co>
+<co c="0"><na f="l/Ladeira:Marcelo" pid="40/407">Marcelo Ladeira</na></co>
+<co c="0"><na f="l/Lanna:Andr=eacute=" pid="159/0743">Andr&#233; Lanna</na></co>
+<co c="0"><na f="l/Laranjeira:Luiz_A=" pid="58/1666">Luiz A. Laranjeira</na></co>
+<co c="0"><na f="l/Legay:Axel" pid="52/579">Axel Legay</na></co>
+<co c="0"><na f="l/Leite:Alessandro_Ferreira" pid="80/8766">Alessandro Ferreira Leite</na></co>
+<co c="0"><na f="l/Lemos:Jo=atilde=o" pid="20/10350">Jo&#227;o Lemos</na></co>
+<co c="0"><na f="l/Letier:Emmanuel" pid="67/2481">Emmanuel Letier</na></co>
+<co c="0"><na f="l/Litoiu:Marin" pid="55/887">Marin Litoiu</na></co>
+<co c="0"><na f="l/Lollini:Paolo" pid="43/1911">Paolo Lollini</na></co>
+<co c="0"><na f="m/Mangal:Ravi" pid="143/2729">Ravi Mangal</na></co>
+<co c="0"><na f="m/Marinho:Euler_Horta" pid="115/4576">Euler Horta Marinho</na></co>
+<co c="0"><na f="m/Marsso:Lina" pid="198/1393">Lina Marsso</na></co>
+<co c="0"><na f="m/Mello:Vict=oacute=ria_Oldemburgo_de" pid="366/6170">Vict&#243;ria Oldemburgo de Mello</na></co>
+<co c="0" n="2"><na f="m/Melo:Alba_Cristina_Magalhaes_Alves_de" pid="m/AlbaCMAMelo">Alba Cristina Magalhaes Alves de Melo</na><na>Alba C. M. A. Melo</na></co>
+<co c="1"><na f="m/Melo:Caio_Batista_de" pid="244/2310">Caio Batista de Melo</na></co>
+<co c="0"><na f="m/Mendonca:Alysson_A=" pid="126/5972">Alysson A. Mendonca</na></co>
+<co c="0" n="2"><na f="m/Mendon=ccedil=a:Danilo_Filgueira" pid="145/4034">Danilo Filgueira Mendon&#231;a</na><na>Danilo F. Mendon&#231;a</na></co>
+<co c="0"><na f="m/Menghi:Claudio" pid="121/2789">Claudio Menghi</na></co>
+<co c="0"><na f="m/Michael:Judith" pid="27/10220">Judith Michael</na></co>
+<co c="0"><na f="m/Mirandola:Raffaela" pid="80/191">Raffaela Mirandola</na></co>
+<co c="0"><na f="m/Moraes:Vicente_de" pid="324/3194">Vicente de Moraes</na></co>
+<co c="0"><na f="m/Moreno:Gabriel_A=" pid="10/4583">Gabriel A. Moreno</na></co>
+<co c="0"><na f="m/Musil:Angelika" pid="122/5236">Angelika Musil</na></co>
+<co c="0" n="2"><na f="m/Musil:J=uuml=rgen" pid="38/8164">J&#252;rgen Musil</na><na>Juergen Musil</na></co>
+<co c="0"><na f="n/Nakano:Eduardo_Yoshio" pid="211/6179">Eduardo Yoshio Nakano</na></co>
+<co c="0"><na f="n/Nejati_0001:Shiva" pid="57/3937">Shiva Nejati 0001</na></co>
+<co c="0"><na f="n/Nunes:Vinicius" pid="126/6088">Vinicius Nunes</na></co>
+<co c="0"><na f="p/Paiva:Renato" pid="180/8360">Renato Paiva</na></co>
+<co c="0"><na f="p/Pasareanu:Corina_S=" pid="03/4368">Corina S. Pasareanu</na></co>
+<co c="0"><na f="p/Pelliccione:Patrizio" pid="p/PatrizioPelliccione">Patrizio Pelliccione</na></co>
+<co c="0"><na f="p/Perez=Palacin:Diego" pid="26/7841">Diego Perez-Palacin</na></co>
+<co c="0"><na f="p/Pessoa:Leonardo" pid="198/4350">Leonardo Pessoa</na></co>
+<co c="0"><na f="p/Portella:Gustavo" pid="248/2632">Gustavo Portella</na></co>
+<co c="0"><na f="q/Quin:Federico" pid="243/4530">Federico Quin</na></co>
+<co c="0"><na f="r/Raibulet:Claudia" pid="69/3643">Claudia Raibulet</na></co>
+<co c="0"><na f="r/Ralha:C=eacute=lia_Ghedini" pid="09/2442">C&#233;lia Ghedini Ralha</na></co>
+<co c="0"><na f="r/Ribeiro:Edward_de_Oliveira" pid="86/10587">Edward de Oliveira Ribeiro</na></co>
+<co c="0"><na f="r/Roberts:Graham" pid="89/3688">Graham Roberts</na></co>
+<co c="0"><na f="r/Rodrigues:Arthur" pid="218/5438">Arthur Rodrigues</na></co>
+<co c="0"><na f="r/Rodrigues:Gabriel_S=" pid="240/6171">Gabriel S. Rodrigues</na></co>
+<co c="0"><na f="r/Roriz:Alexandre_Vaz" pid="157/7261">Alexandre Vaz Roriz</na></co>
+<co c="0"><na f="r/Rosenblum:David_S=" pid="r/DSRosenblum">David S. Rosenblum</na></co>
+<co c="0" n="2"><na f="r/Rubira:Cec=iacute=lia_M=_F=" pid="80/5752">Cec&#237;lia M. F. Rubira</na><na>Cec&#237;lia Mary Fischer Rubira</na></co>
+<co c="0"><na f="s/Saldanha:Hugo" pid="46/10236">Hugo Saldanha</na></co>
+<co c="0"><na f="s/Sandes:Edans_Flavius_de_Oliveira" pid="70/2051">Edans Flavius de Oliveira Sandes</na></co>
+<co c="0"><na f="s/Santana:Misael_Alpizar" pid="313/1125">Misael Alpizar Santana</na></co>
+<co c="0"><na f="s/Scandurra:Patrizia" pid="38/5263">Patrizia Scandurra</na></co>
+<co c="0"><na f="s/Schiopu:Matei" pid="375/6071">Matei Schiopu</na></co>
+<co c="0"><na f="s/Schmerl:Bradley_R=" pid="15/3453">Bradley R. Schmerl</na></co>
+<co c="0"><na f="s/Schobbens:Pierre=Yves" pid="27/3416">Pierre-Yves Schobbens</na></co>
+<co c="0"><na f="s/Setubal:Jo=atilde=o_Carlos" pid="61/7232">Jo&#227;o Carlos Setubal</na></co>
+<co c="0"><na f="s/Sharifloo:Amir_Molzam" pid="29/10474">Amir Molzam Sharifloo</na></co>
+<co c="0"><na f="s/Silva:Gabriel_Levi_Gomes_da" pid="289/1198">Gabriel Levi Gomes da Silva</na></co>
+<co c="0" n="2"><na f="s/Silva:Geovana_R=_S=" pid="266/5167">Geovana R. S. Silva</na><na>Geovana Ramos Sousa Silva</na></co>
+<co c="0"><na f="s/Silva:Leone_Parise_Vieira_da" pid="79/10587">Leone Parise Vieira da Silva</na></co>
+<co c="0"><na f="s/Silveira:Renato" pid="29/1266">Renato Silveira</na></co>
+<co c="0"><na f="s/Siqueira:Elton_Sarmanho" pid="180/6205">Elton Sarmanho Siqueira</na></co>
+<co c="0"><na f="s/Solano:Gabriela_F=eacute=lix" pid="241/5357">Gabriela F&#233;lix Solano</na></co>
+<co c="0"><na f="s/Standen:Isobel" pid="366/7106">Isobel Standen</na></co>
+<co c="0"><na f="s/Stefanakos:Ioannis" pid="248/5692">Ioannis Stefanakos</na></co>
+<co c="0"><na f="t/Tadonki:Claude" pid="75/1189">Claude Tadonki</na></co>
+<co c="0"><na f="t/Tavares:Carlos_Joel" pid="215/4203">Carlos Joel Tavares</na></co>
+<co c="0"><na f="t/Tei:Kenji" pid="68/3435">Kenji Tei</na></co>
+<co c="0" n="2"><na f="t/Teodoro:George" pid="78/87">George Teodoro</na><na>George Luiz Medeiros Teodoro</na></co>
+<co c="0"><na f="t/Townsend:Beverley_A=" pid="335/3315">Beverley A. Townsend</na></co>
+<co c="0"><na f="u/Uchitel:Sebasti=aacute=n" pid="21/1391">Sebasti&#225;n Uchitel</na></co>
+<co c="0"><na f="v/Vallecillo:Antonio" pid="94/1351">Antonio Vallecillo</na></co>
+<co c="0"><na f="v/V=aacute=zquez:Gricel" pid="305/3970">Gricel V&#225;zquez</na></co>
+<co c="0"><na f="v/Vieira:Marco" pid="14/6260">Marco Vieira</na></co>
+<co c="0"><na f="v/Vogel_0001:Thomas" pid="63/5586-1">Thomas Vogel 0001</na></co>
+<co c="0" n="2"><na f="w/Walter:Maria_Em=iacute=lia_M=_T=" pid="84/2668">Maria Em&#237;lia M. T. Walter</na><na>Maria Em&#237;lia Telles Walter</na></co>
+<co c="0"><na f="w/Watanabe:Naiara" pid="215/4173">Naiara Watanabe</na></co>
+<co c="0"><na f="w/Weyns:Danny" pid="w/DannyWeyns">Danny Weyns</na></co>
+<co c="0"><na f="w/Wohlrab:Rebekka" pid="151/6085">Rebekka Wohlrab</na></co>
+<co c="0"><na f="w/Wolf:Jonas" pid="89/414">Jonas Wolf</na></co>
+<co c="0"><na f="z/Zisman:Andrea" pid="91/3835">Andrea Zisman</na></co>
+</coauthors>
+</dblpperson>
+

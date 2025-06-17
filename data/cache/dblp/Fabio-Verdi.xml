@@ -1,0 +1,1311 @@
+<?xml version="1.0"?>
+<dblpperson name="F&#225;bio Luciano Verdi" pid="40/654" n="83">
+<person key="homepages/40/654" mdate="2022-02-14">
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="40/654">F&#225;bio L. Verdi</author>
+<url>https://orcid.org/0000-0002-5455-8910</url>
+</person>
+<r><article key="journals/network/PapagianniCVCB25" mdate="2025-05-31">
+<author pid="56/9978">Chrysa Papagianni</author>
+<author pid="19/3125">Dave Cavalcanti 0001</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="65/1705">David Chieng</author>
+<author orcid="0000-0003-0708-4983" pid="94/4416">Carlos J. Bernardos</author>
+<title>Special Issue Editorial: Deterministic, Reliable, Resilient, and Programmable Networks for 6G.</title>
+<pages>72-74</pages>
+<year>2025</year>
+<month>May</month>
+<volume>39</volume>
+<journal>IEEE Netw.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MNET.2025.3557588</ee>
+<url>db/journals/network/network39.html#PapagianniCVCB25</url>
+<stream>streams/journals/network</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-00671" mdate="2025-04-01">
+<author orcid="0000-0003-4296-0002" pid="274/1001">Alireza Shirmarz</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="215/9425">Suneet Kumar Singh</author>
+<author pid="70/2654">Christian Esteve Rothenberg</author>
+<title>POSMAC: Powering Up In-Network AR/CG Traffic Classification with Online Learning.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.00671</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.00671</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-00671</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/cn/AlmeidaSTPPV24" mdate="2025-03-03">
+<author orcid="0000-0003-4342-3030" pid="263/9934">Leandro C. de Almeida</author>
+<author orcid="0000-0002-4384-6634" pid="359/5689">Washington Rodrigo Dias da Silva</author>
+<author pid="00/8331">Thiago Caproni Tavares</author>
+<author pid="70/2771">Rafael Pasquini</author>
+<author orcid="0000-0002-2665-6492" pid="56/9978">Chrysa Papagianni</author>
+<author pid="40/654">F&#225;bio L. Verdi</author>
+<title>DESiRED - Dynamic, Enhanced, and Smart iRED: A P4-AQM with Deep Reinforcement Learning and In-band Network Telemetry.</title>
+<pages>110326</pages>
+<year>2024</year>
+<volume>244</volume>
+<journal>Comput. Networks</journal>
+<ee>https://doi.org/10.1016/j.comnet.2024.110326</ee>
+<url>db/journals/cn/cn244.html#AlmeidaSTPPV24</url>
+</article>
+</r>
+<r><inproceedings key="conf/conext/SilvaVMW24" mdate="2025-03-03">
+<author orcid="0000-0002-4384-6634" pid="359/5689">Washington Rodrigo Dias da Silva</author>
+<author pid="40/654">F&#225;bio L. Verdi</author>
+<author orcid="0009-0008-8423-0124" pid="298/1390">Guilherme M. V. Matos</author>
+<author orcid="0009-0002-0685-9273" pid="277/1398">Andrew Williams</author>
+<title>Delivering Augmented Reality to the Edge: An Approach Toward Object Recognition through the In-Network Computing Paradigm.</title>
+<pages>13-14</pages>
+<year>2024</year>
+<booktitle>StudentWorkshop@CoNEXT</booktitle>
+<ee>https://doi.org/10.1145/3694812.3699933</ee>
+<crossref>conf/conext/2024sw</crossref>
+<url>db/conf/conext/sw2024.html#SilvaVMW24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conext/MatosVSW24" mdate="2025-03-03">
+<author orcid="0009-0008-8423-0124" pid="298/1390">Guilherme Mendes Vieira de Matos</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author orcid="0000-0002-4384-6634" pid="359/5689">Washington Rodrigo Dias da Silva</author>
+<author orcid="0009-0002-0685-9273" pid="277/1398">Andrew Williams</author>
+<title>DECOMPOSER: Functional Decomposition of Monolithic Applications to Heterogeneous Resources in Disaggregated Environments.</title>
+<pages>19-20</pages>
+<year>2024</year>
+<booktitle>StudentWorkshop@CoNEXT</booktitle>
+<ee>https://doi.org/10.1145/3694812.3699930</ee>
+<crossref>conf/conext/2024sw</crossref>
+<url>db/conf/conext/sw2024.html#MatosVSW24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/netsoft/ShirmarzVSR24" mdate="2025-03-03">
+<author orcid="0000-0003-4296-0002" pid="274/1001">Alireza Shirmarz</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="215/9425">Suneet Kumar Singh</author>
+<author pid="70/2654">Christian Esteve Rothenberg</author>
+<title>From Pixels to Packets: Traffic Classification of Augmented Reality and Cloud Gaming.</title>
+<pages>195-203</pages>
+<year>2024</year>
+<booktitle>NetSoft</booktitle>
+<ee>https://doi.org/10.1109/NetSoft60951.2024.10588893</ee>
+<crossref>conf/netsoft/2024</crossref>
+<url>db/conf/netsoft/netsoft2024.html#ShirmarzVSR24</url>
+<stream>streams/conf/netsoft</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nfvsdn/ShirmarzVSR24" mdate="2025-05-14">
+<author pid="274/1001">Alireza Shirmarz</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="215/9425">Suneet Kumar Singh</author>
+<author pid="70/2654">Christian Esteve Rothenberg</author>
+<title>POSMAC: Powering Up In-Network AR/CG Traffic Classification with Online Learning.</title>
+<pages>1-2</pages>
+<year>2024</year>
+<booktitle>NFV-SDN</booktitle>
+<ee>https://doi.org/10.1109/NFV-SDN61811.2024.10978977</ee>
+<crossref>conf/nfvsdn/2024</crossref>
+<url>db/conf/nfvsdn/nfvsdn2024.html#ShirmarzVSR24</url>
+<stream>streams/conf/nfvsdn</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nfvsdn/SinghRSVHPP24" mdate="2025-03-03">
+<author pid="215/9425">Suneet Kumar Singh</author>
+<author pid="70/2654">Christian Esteve Rothenberg</author>
+<author orcid="0000-0003-4296-0002" pid="274/1001">Alireza Shirmarz</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="209/8668">Israat Haque 0001</author>
+<author pid="184/0337">Gyanesh Patra</author>
+<author pid="121/4115">Gergely Pongr&#225;cz</author>
+<title>MATADOR: ML-based Cloud Gaming Traffic Detection entirely in Programmable Hardware.</title>
+<pages>1-5</pages>
+<year>2024</year>
+<booktitle>NFV-SDN</booktitle>
+<ee>https://doi.org/10.1109/NFV-SDN61811.2024.10807465</ee>
+<crossref>conf/nfvsdn/2024</crossref>
+<url>db/conf/nfvsdn/nfvsdn2024.html#SinghRSVHPP24</url>
+<stream>streams/conf/nfvsdn</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/NovaisV24" mdate="2024-07-16">
+<author pid="380/6236">Felipe A. S. Novais</author>
+<author pid="40/654">F&#225;bio L. Verdi</author>
+<title>Unlocking Security to the Board: An Evaluation of SmartNIC-driven TLS Acceleration with kTLS.</title>
+<pages>1-9</pages>
+<year>2024</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS59830.2024.10575053</ee>
+<crossref>conf/noms/2024</crossref>
+<url>db/conf/noms/noms2024.html#NovaisV24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/RodriguesV24" mdate="2024-07-16">
+<author pid="380/6044">Thiago Henrique Silva Rodrigues</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<title>Detecting Heavy Hitters in Network-Wide Programmable Multi-Pipe Devices.</title>
+<pages>1-5</pages>
+<year>2024</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS59830.2024.10575503</ee>
+<crossref>conf/noms/2024</crossref>
+<url>db/conf/noms/noms2024.html#RodriguesV24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/TavaresASCV24" mdate="2024-10-06">
+<author pid="00/8331">Thiago Caproni Tavares</author>
+<author pid="263/9934">Leandro C. de Almeida</author>
+<author orcid="0000-0002-4384-6634" pid="359/5689">Washington Rodrigo Dias da Silva</author>
+<author pid="78/9826">Marco Chiesa</author>
+<author pid="40/654">F&#225;bio L. Verdi</author>
+<title>TimeGAN as a Simulator for Reinforcement Learning Training in Programmable Data Planes.</title>
+<pages>1-9</pages>
+<year>2024</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS59830.2024.10575112</ee>
+<crossref>conf/noms/2024</crossref>
+<url>db/conf/noms/noms2024.html#TavaresASCV24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2408-14718" mdate="2024-09-28">
+<author pid="386/2010">Mina Kaviani</author>
+<author pid="30/2806">Jurandy Almeida</author>
+<author pid="40/654">F&#225;bio L. Verdi</author>
+<title>Residual-based Adaptive Huber Loss (RAHL) - Design of an improved Huber loss for CQI prediction in 5G networks.</title>
+<year>2024</year>
+<volume>abs/2408.14718</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2408.14718</ee>
+<url>db/journals/corr/corr2408.html#abs-2408-14718</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/pomacs/ChiesaV23" mdate="2023-03-11">
+<author orcid="0000-0002-9675-9729" pid="78/9826">Marco Chiesa</author>
+<author orcid="0000-0002-5455-8910" pid="40/654">F&#225;bio L. Verdi</author>
+<title>Network Monitoring on Multi-Pipe Switches.</title>
+<pages>8:1-8:31</pages>
+<year>2023</year>
+<month>March</month>
+<volume>7</volume>
+<journal>Proc. ACM Meas. Anal. Comput. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3579321</ee>
+<url>db/journals/pomacs/pomacs7.html#ChiesaV23</url>
+</article>
+</r>
+<r><article key="journals/tnsm/VerdiL23" mdate="2023-11-09">
+<author orcid="0000-0002-5455-8910" pid="40/654">F&#225;bio L. Verdi</author>
+<author orcid="0009-0001-6652-9586" pid="358/3299">Gustavo V. Luz</author>
+<title>InFaRR: In-Network Fast ReRouting.</title>
+<pages>2319-2330</pages>
+<year>2023</year>
+<month>September</month>
+<volume>20</volume>
+<journal>IEEE Trans. Netw. Serv. Manag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TNSM.2023.3283459</ee>
+<url>db/journals/tnsm/tnsm20.html#VerdiL23</url>
+</article>
+</r>
+<r><inproceedings key="conf/netsoft/AzevedoPV23" mdate="2023-07-20">
+<author pid="352/0828">Rodrigo Ferraz Azevedo</author>
+<author pid="60/5743">Luciano Bernardes de Paula</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<title>Design and Implementation of a Slice as a Service Architecture on the Edge Cloud with Resource Constraints.</title>
+<pages>380-384</pages>
+<year>2023</year>
+<booktitle>NetSoft</booktitle>
+<ee>https://doi.org/10.1109/NetSoft57336.2023.10175502</ee>
+<crossref>conf/netsoft/2023</crossref>
+<url>db/conf/netsoft/netsoft2023.html#AzevedoPV23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmetrics/ChiesaV23" mdate="2023-07-07">
+<author orcid="0000-0002-9675-9729" pid="78/9826">Marco Chiesa</author>
+<author orcid="0000-0002-5455-8910" pid="40/654">F&#225;bio L. Verdi</author>
+<title>Network Monitoring on Multi-Pipe Switches.</title>
+<pages>49-50</pages>
+<year>2023</year>
+<booktitle>SIGMETRICS (Abstracts)</booktitle>
+<ee>https://doi.org/10.1145/3578338.3593554</ee>
+<crossref>conf/sigmetrics/2023</crossref>
+<url>db/conf/sigmetrics/sigmetrics2023.html#ChiesaV23</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/netsoft/2023" mdate="2025-05-26">
+<editor pid="94/4416">Carlos J. Bernardos</editor>
+<editor pid="62/5621">Barbara Martini</editor>
+<editor pid="93/9975">Elisa Rojas</editor>
+<editor pid="40/654">F&#225;bio Luciano Verdi</editor>
+<editor pid="62/9980">Zuqing Zhu</editor>
+<editor pid="72/1700">Eiji Oki</editor>
+<editor pid="54/1302">Helge Parzyjegla</editor>
+<title>9th IEEE International Conference on Network Softwarization, NetSoft 2023, Madrid, Spain, June 19-23, 2023</title>
+<booktitle>NetSoft</booktitle>
+<publisher>IEEE</publisher>
+<year>2023</year>
+<isbn>979-8-3503-9980-6</isbn>
+<ee>https://doi.org/10.1109/NetSoft57336.2023</ee>
+<url>db/conf/netsoft/netsoft2023.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-18088" mdate="2023-11-02">
+<author pid="263/9934">Leandro C. de Almeida</author>
+<author pid="70/2771">Rafael Pasquini</author>
+<author pid="56/9978">Chrysa Papagianni</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<title>iRED: A disaggregated P4-AQM fully implemented in programmable data plane hardware.</title>
+<year>2023</year>
+<volume>abs/2310.18088</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.18088</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-18088</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-18159" mdate="2024-07-16">
+<author pid="263/9934">Leandro C. de Almeida</author>
+<author pid="359/5689">Washington Rodrigo Dias da Silva</author>
+<author pid="00/8331">Thiago Caproni Tavares</author>
+<author pid="70/2771">Rafael Pasquini</author>
+<author pid="56/9978">Chrysa Papagianni</author>
+<author pid="40/654">F&#225;bio L. Verdi</author>
+<title>DESiRED - Dynamic, Enhanced, and Smart iRED: A P4-AQM with Deep Reinforcement Learning and In-band Network Telemetry.</title>
+<year>2023</year>
+<volume>abs/2310.18159</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.18159</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-18159</url>
+</article>
+</r>
+<r><article key="journals/jnsm/RochaCMCRRV22" mdate="2022-03-15">
+<author orcid="0000-0001-5633-8893" pid="230/1921">Andr&#233; Luiz Beltrami Rocha</author>
+<author pid="267/2872">Celso Henrique Cesila</author>
+<author orcid="0000-0002-0732-752X" pid="80/6621">Paulo Ditarso Maciel</author>
+<author pid="81/3896">Sand Luz Correa</author>
+<author orcid="0000-0002-6307-036X" pid="84/4123">Javier Rubio-Loyola</author>
+<author orcid="0000-0003-3109-4305" pid="70/2654">Christian Esteve Rothenberg</author>
+<author orcid="0000-0002-5455-8910" pid="40/654">F&#225;bio Luciano Verdi</author>
+<title>CNS-AOM: Design, Implementation and Integration of an Architecture for Orchestration and Management of Cloud-Network Slices.</title>
+<pages>34</pages>
+<year>2022</year>
+<volume>30</volume>
+<journal>J. Netw. Syst. Manag.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10922-022-09641-z</ee>
+<url>db/journals/jnsm/jnsm30.html#RochaCMCRRV22</url>
+</article>
+</r>
+<r><article key="journals/jss/SilveiraZSV22" mdate="2022-04-27">
+<author orcid="0000-0003-2157-2879" pid="294/9568">Sofia A. M. Silveira</author>
+<author orcid="0000-0002-1736-544X" pid="71/8694">Luciana A. M. Zaina</author>
+<author orcid="0000-0003-4855-0936" pid="56/3926">Leobino N. Sampaio</author>
+<author orcid="0000-0002-5455-8910" pid="40/654">F&#225;bio L. Verdi</author>
+<title>On the evaluation of usability design guidelines for improving network monitoring tools interfaces.</title>
+<pages>111223</pages>
+<year>2022</year>
+<volume>187</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2022.111223</ee>
+<url>db/journals/jss/jss187.html#SilveiraZSV22</url>
+</article>
+</r>
+<r><article key="journals/network/SilvaVMM0A22" mdate="2023-09-30">
+<author pid="256/6461">Thiago Bueno da Silva</author>
+<author pid="40/654">F&#225;bio L. Verdi</author>
+<author pid="260/1264">Juliano Coelho Gon&#231;alves de Melo</author>
+<author orcid="0000-0001-7157-5045" pid="76/2855">Jos&#233; Augusto Suruagy Monteiro</author>
+<author orcid="0000-0001-7051-7396" pid="02/979">Fl&#225;vio Oliveira Silva 0001</author>
+<author pid="51/4339">Ant&#244;nio Marcos Alberti</author>
+<title>Toward Next-Generation and Service-Defined Networks: A NovaGenesis Control Agent for Future Internet Exchange Point.</title>
+<pages>74-81</pages>
+<year>2022</year>
+<volume>36</volume>
+<journal>IEEE Netw.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MNET.008.2100555</ee>
+<url>db/journals/network/network36.html#SilvaVMM0A22</url>
+</article>
+</r>
+<r><inproceedings key="conf/cnsm/AlmeidaMPPV22" mdate="2023-09-30">
+<author pid="263/9934">Leandro C. de Almeida</author>
+<author orcid="0009-0008-8423-0124" pid="298/1390">Guilherme Matos</author>
+<author pid="70/2771">Rafael Pasquini</author>
+<author orcid="0000-0002-2665-6492" pid="56/9978">Chrysa Papagianni</author>
+<author pid="40/654">F&#225;bio L. Verdi</author>
+<title>iRED: Improving the DASH QoS by dropping packets in programmable data planes.</title>
+<pages>136-144</pages>
+<year>2022</year>
+<booktitle>CNSM</booktitle>
+<ee>https://doi.org/10.23919/CNSM55787.2022.9964949</ee>
+<crossref>conf/cnsm/2022</crossref>
+<url>db/conf/cnsm/cnsm2022.html#AlmeidaMPPV22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/LuzRAV22" mdate="2024-04-10">
+<author pid="358/3299">Gustavo V. Luz</author>
+<author pid="230/1921">Andr&#233; Luiz Beltrami Rocha</author>
+<author pid="263/9934">Leandro C. de Almeida</author>
+<author pid="40/654">F&#225;bio L. Verdi</author>
+<title>InFaRR: Um algoritmo para reroteamento r&#225;pido em planos de dados program&#225;veis.</title>
+<pages>154-167</pages>
+<year>2022</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://sol.sbc.org.br/index.php/sbrc/article/view/21168</ee>
+<crossref>conf/sbrc/2022</crossref>
+<url>db/conf/sbrc/sbrc2022.html#LuzRAV22</url>
+</inproceedings>
+</r>
+<r><article key="journals/cm/ClaymanNVCSSMPC21" mdate="2023-06-26">
+<author pid="72/6669">Stuart Clayman</author>
+<author orcid="0000-0002-9936-3770" pid="88/6376">Augusto Neto 0001</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="81/3896">Sand Correa</author>
+<author orcid="0000-0001-7517-7001" pid="44/10443">Silvio Sampaio</author>
+<author pid="31/4327">Ilias Sakellariou</author>
+<author pid="57/176">Lefteris Mamatas</author>
+<author pid="70/2771">Rafael Pasquini</author>
+<author pid="32/10675">Kleber Vieira Cardoso</author>
+<author orcid="0000-0002-5829-2144" pid="78/7159">Francesco Tusa</author>
+<author orcid="0000-0003-3109-4305" pid="70/2654">Christian Esteve Rothenberg</author>
+<author pid="44/1391">Joan Serrat 0001</author>
+<title>The NECOS Approach to End-to-End Cloud-Network Slicing as a Service.</title>
+<pages>91-97</pages>
+<year>2021</year>
+<volume>59</volume>
+<journal>IEEE Commun. Mag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MCOM.001.2000702</ee>
+<url>db/journals/cm/cm59.html#ClaymanNVCSSMPC21</url>
+</article>
+</r>
+<r><article key="journals/ojiot/LuzMV21" mdate="2022-01-14">
+<author pid="243/7241">Thamires C. Luz</author>
+<author pid="66/1037">C&#237;ntia B. Margi</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<title>Network Metrics Detection to Support Internet of Things Application Orchestration.</title>
+<pages>93-103</pages>
+<year>2021</year>
+<volume>7</volume>
+<journal>Open J. Internet Things</journal>
+<number>1</number>
+<ee type="oa">https://www.ronpub.com/ojiot/OJIOT_2021v7i1n09_Luz.html</ee>
+<url>db/journals/ojiot/ojiot7.html#LuzMV21</url>
+</article>
+</r>
+<r><inproceedings key="conf/ancs/VerdiC21" mdate="2022-01-19">
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="78/9826">Marco Chiesa</author>
+<title>Heavy Hitter Detection on Multi-Pipeline Switches.</title>
+<pages>121-124</pages>
+<year>2021</year>
+<booktitle>ANCS</booktitle>
+<ee>https://doi.org/10.1145/3493425.3502760</ee>
+<crossref>conf/ancs/2021</crossref>
+<url>db/conf/ancs/ancs2021.html#VerdiC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloudnet/AlmeidaPV21" mdate="2022-01-03">
+<author pid="263/9934">Leandro C. de Almeida</author>
+<author pid="70/2771">Rafael Pasquini</author>
+<author pid="40/654">F&#225;bio L. Verdi</author>
+<title>Using Machine Learning and In-band Network Telemetry for Service Metrics Estimation.</title>
+<pages>33-39</pages>
+<year>2021</year>
+<booktitle>CloudNet</booktitle>
+<ee>https://doi.org/10.1109/CloudNet53349.2021.9657155</ee>
+<crossref>conf/cloudnet/2021</crossref>
+<url>db/conf/cloudnet/cloudnet2021.html#AlmeidaPV21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latincom/MatosAMV21" mdate="2023-09-30">
+<author orcid="0009-0008-8423-0124" pid="298/1390">Guilherme Matos</author>
+<author pid="263/9934">Leandro C. de Almeida</author>
+<author pid="118/9656">Luis Miguel Contreras Murillo</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<title>INCA: a mechanism for traffic identification and chaining in the data plane.</title>
+<pages>1-6</pages>
+<year>2021</year>
+<booktitle>LATINCOM</booktitle>
+<ee>https://doi.org/10.1109/LATINCOM53176.2021.9647784</ee>
+<crossref>conf/latincom/2021</crossref>
+<url>db/conf/latincom/latincom2021.html#MatosAMV21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/netsoft/BeraldoPV0M21" mdate="2021-10-14">
+<author pid="298/3236">Lucian Beraldo</author>
+<author pid="262/4908">Angelos Pentelas</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author orcid="0000-0001-5005-8866" pid="p/PanagiotisPapadimitriou">Panagiotis Papadimitriou 0001</author>
+<author pid="82/9870">Cesar Augusto Cavalheiro Marcondes</author>
+<title>Tenant-Oriented Resource optimization for Cloud Network Slicing with Performance Guarantees.</title>
+<pages>38-44</pages>
+<year>2021</year>
+<booktitle>NetSoft</booktitle>
+<ee>https://doi.org/10.1109/NetSoft51509.2021.9492536</ee>
+<crossref>conf/netsoft/2021</crossref>
+<url>db/conf/netsoft/netsoft2021.html#BeraldoPV0M21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nfvsdn/CostaSNV21" mdate="2023-06-26">
+<author pid="199/7767">Kevin B. Costa</author>
+<author pid="143/2255">Felipe Sampaio Dantas da Silva</author>
+<author orcid="0000-0002-9936-3770" pid="88/6376">Augusto J. V. Neto</author>
+<author pid="40/654">F&#225;bio L. Verdi</author>
+<title>Towards Edge-Cloud-Supported Monitoring at Cloud-Network Slice Granularity.</title>
+<pages>161-166</pages>
+<year>2021</year>
+<booktitle>NFV-SDN</booktitle>
+<ee>https://doi.org/10.1109/NFV-SDN53031.2021.9664999</ee>
+<crossref>conf/nfvsdn/2021</crossref>
+<url>db/conf/nfvsdn/nfvsdn2021.html#CostaSNV21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/AlmeidaVP21" mdate="2022-02-15">
+<author pid="263/9934">Leandro C. de Almeida</author>
+<author pid="40/654">F&#225;bio L. Verdi</author>
+<author pid="70/2771">Rafael Pasquini</author>
+<title>Estimando m&#233;tricas de servi&#231;o atrav&#233;s de In-band Network Telemetry.</title>
+<pages>252-265</pages>
+<year>2021</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc.2021.16725</ee>
+<crossref>conf/sbrc/2021</crossref>
+<url>db/conf/sbrc/sbrc2021.html#AlmeidaVP21</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sbrc/2021" mdate="2022-02-15">
+<editor pid="89/1649">Alberto Egon Schaeffer Filho</editor>
+<editor pid="40/654">F&#225;bio Luciano Verdi</editor>
+<title>Proceedings of the 39th Brazilian Symposium on Computer Networks and Distributed Systems, SBRC 2021, Uberl&#226;ndia, MG, Brazil, August 16-20, 2021</title>
+<booktitle>SBRC</booktitle>
+<year>2021</year>
+<ee type="oa">https://doi.org/10.5753/sbrc.2021</ee>
+<url>db/conf/sbrc/sbrc2021.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2107-11966" mdate="2021-08-05">
+<author pid="298/1390">Guilherme Matos</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="118/9656">Luis Miguel Contreras Murillo</author>
+<author pid="263/9934">Leandro C. de Almeida</author>
+<title>When SRv6 meets 5G Core: Implementation and Deployment of a Network Service Chaining Function in SmartNICs.</title>
+<year>2021</year>
+<volume>abs/2107.11966</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2107.11966</ee>
+<url>db/journals/corr/corr2107.html#abs-2107-11966</url>
+</article>
+</r>
+<r><article key="journals/jnsm/MartinsVV20" mdate="2021-09-20">
+<author pid="207/3896">Regis Francisco Teles Martins</author>
+<author orcid="0000-0002-8051-3978" pid="31/1899">Rodolfo da Silva Villa&#231;a</author>
+<author orcid="0000-0002-5455-8910" pid="40/654">F&#225;bio Luciano Verdi</author>
+<title>BitMatrix: A Multipurpose Sketch for Monitoring of Multi-tenant Networks.</title>
+<pages>1745-1774</pages>
+<year>2020</year>
+<volume>28</volume>
+<journal>J. Netw. Syst. Manag.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10922-020-09556-7</ee>
+<url>db/journals/jnsm/jnsm28.html#MartinsVV20</url>
+</article>
+</r>
+<r><article key="journals/tnsm/VerdiOSZ20" mdate="2020-10-06">
+<author orcid="0000-0002-5455-8910" pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="273/9768">H&#233;lio Tibag&#237; de Oliveira</author>
+<author orcid="0000-0003-4855-0936" pid="56/3926">Leobino N. Sampaio</author>
+<author orcid="0000-0002-1736-544X" pid="71/8694">Luciana A. M. Zaina</author>
+<title>Usability Matters: A Human-Computer Interaction Study on Network Management Tools.</title>
+<pages>1865-1878</pages>
+<year>2020</year>
+<volume>17</volume>
+<journal>IEEE Trans. Netw. Serv. Manag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TNSM.2020.2987036</ee>
+<url>db/journals/tnsm/tnsm17.html#VerdiOSZ20</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/GavazzaMSARSVS20" mdate="2022-07-22">
+<author pid="261/8347">Jos&#233; A. T. Gavazza</author>
+<author pid="260/1264">Juliano Coelho Melo</author>
+<author pid="256/6461">Thiago Bueno da Silva</author>
+<author pid="51/4339">Ant&#244;nio Marcos Alberti</author>
+<author pid="25/6464">Pedro Frosi Rosa</author>
+<author orcid="0000-0001-7051-7396" pid="02/979">Fl&#225;vio de Oliveira Silva 0001</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="76/2855">Jos&#233; Augusto Suruagy Monteiro</author>
+<title>Future Internet Exchange Point (FIXP): Enabling Future Internet Architectures Interconnection.</title>
+<pages>703-714</pages>
+<year>2020</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-44041-1_62</ee>
+<crossref>conf/aina/2020</crossref>
+<url>db/conf/aina/aina2020.html#GavazzaMSARSVS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/VilaMGLCV20" mdate="2020-10-25">
+<author pid="205/1014">Sergi Vila</author>
+<author pid="261/8437">Nilson Moraes</author>
+<author pid="80/4610">Fernando Guirado</author>
+<author pid="53/1481">Josep L. L&#233;rida</author>
+<author orcid="0000-0003-2910-6709" pid="09/4813">Fernando Cores</author>
+<author pid="40/654">F&#225;bio L. Verdi</author>
+<title>Cloud Resources Reassignment Based on CPU and Bandwidth Correlation.</title>
+<pages>1101-1113</pages>
+<year>2020</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-44041-1_95</ee>
+<crossref>conf/aina/2020</crossref>
+<url>db/conf/aina/aina2020.html#VilaMGLCV20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/VilaLCGV20" mdate="2020-09-05">
+<author orcid="0000-0002-4536-5025" pid="205/1014">Sergi Vila</author>
+<author orcid="0000-0002-9352-9338" pid="53/1481">Josep L. L&#233;rida</author>
+<author orcid="0000-0003-2910-6709" pid="09/4813">Fernando Cores</author>
+<author orcid="0000-0003-1352-9555" pid="80/4610">Fernando Guirado</author>
+<author orcid="0000-0002-5455-8910" pid="40/654">F&#225;bio L. Verdi</author>
+<title>WPSP: A Multi-correlated Weighted Policy for VM Selection and Migration for Cloud Computing.</title>
+<pages>312-326</pages>
+<year>2020</year>
+<booktitle>Euro-Par</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-57675-2_20</ee>
+<crossref>conf/europar/2020</crossref>
+<url>db/conf/europar/europar2020.html#VilaLCGV20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/BeltramiCMRV20" mdate="2022-04-09">
+<author orcid="0000-0001-5633-8893" pid="230/1921">Andr&#233; Luiz Beltrami Rocha</author>
+<author pid="267/2872">Celso Henrique Cesila</author>
+<author pid="80/6621">Paulo Ditarso Maciel</author>
+<author orcid="0000-0003-3109-4305" pid="70/2654">Christian Esteve Rothenberg</author>
+<author pid="40/654">F&#225;bio L. Verdi</author>
+<title>Elastic Monitoring Architecture for Cloud Network Slices.</title>
+<pages>1-2</pages>
+<year>2020</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS47738.2020.9110447</ee>
+<crossref>conf/noms/2020</crossref>
+<url>db/conf/noms/noms2020.html#BeltramiCMRV20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/BeltramiMTCRPV20" mdate="2023-03-21">
+<author orcid="0000-0001-5633-8893" pid="230/1921">Andr&#233; Luiz Beltrami Rocha</author>
+<author pid="80/6621">Paulo Ditarso Maciel</author>
+<author orcid="0000-0002-5829-2144" pid="78/7159">Francesco Tusa</author>
+<author pid="267/2872">Celso Henrique Cesila</author>
+<author orcid="0000-0003-3109-4305" pid="70/2654">Christian Esteve Rothenberg</author>
+<author pid="70/2771">Rafael Pasquini</author>
+<author pid="40/654">F&#225;bio L. Verdi</author>
+<title>Design and Implementation of an Elastic Monitoring Architecture for Cloud Network Slices.</title>
+<pages>1-7</pages>
+<year>2020</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS47738.2020.9110415</ee>
+<crossref>conf/noms/2020</crossref>
+<url>db/conf/noms/noms2020.html#BeltramiMTCRPV20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/PasquiniB0G0V20" mdate="2020-06-16">
+<author pid="70/2771">Rafael Pasquini</author>
+<author pid="12/4344">Javier Baliosian</author>
+<author pid="44/1391">Joan Serrat 0001</author>
+<author pid="08/4301">Juan-Luis Gorricho</author>
+<author pid="88/6376">Augusto Neto 0001</author>
+<author pid="40/654">F&#225;bio L. Verdi</author>
+<title>Inferring Cloud-Network Slice's Requirements from Non-Structured Service Description.</title>
+<pages>1-5</pages>
+<year>2020</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS47738.2020.9110413</ee>
+<crossref>conf/noms/2020</crossref>
+<url>db/conf/noms/noms2020.html#PasquiniB0G0V20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-13675" mdate="2021-10-14">
+<author pid="263/9934">Leandro C. de Almeida</author>
+<author orcid="0000-0002-0732-752X" pid="80/6621">Paulo Ditarso Maciel Jr.</author>
+<author pid="40/654">F&#225;bio L. Verdi</author>
+<title>Cloud Network Slicing: A systematic mapping study from scientific publications.</title>
+<year>2020</year>
+<volume>abs/2004.13675</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.13675</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-13675</url>
+</article>
+</r>
+<r><article key="journals/jnsm/FrateMV19" mdate="2020-10-26">
+<author orcid="0000-0002-8785-9082" pid="242/8357">Marcelo Frate</author>
+<author pid="242/8121">Marcelo K. Marczuk</author>
+<author orcid="0000-0002-5455-8910" pid="40/654">F&#225;bio Luciano Verdi</author>
+<title>OrchFlow: An Architecture for Orchestration of Multiple Controllers in OpenFlow Networks.</title>
+<pages>551-572</pages>
+<year>2019</year>
+<volume>27</volume>
+<journal>J. Netw. Syst. Manag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10922-018-9476-x</ee>
+<url>db/journals/jnsm/jnsm27.html#FrateMV19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icnsc/LuzSMV19" mdate="2022-01-03">
+<author pid="243/7241">Thamires C. Luz</author>
+<author pid="223/3040">Gustavo A. Nunez Segura</author>
+<author orcid="0000-0003-4441-8778" pid="66/1037">C&#237;ntia B. Margi</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<title>In-network performance measurements for Software Defined Wireless Sensor Networks.</title>
+<pages>206-211</pages>
+<year>2019</year>
+<booktitle>ICNSC</booktitle>
+<ee>https://doi.org/10.1109/ICNSC.2019.8743237</ee>
+<crossref>conf/icnsc/2019</crossref>
+<url>db/conf/icnsc/icnsc2019.html#LuzSMV19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/netsoft/MacielVVSMP0MSP19" mdate="2022-04-09">
+<author orcid="0000-0002-0732-752X" pid="80/6621">Paulo Ditarso Maciel</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="247/7599">Polychronis Valsamas</author>
+<author orcid="0000-0003-3522-6045" pid="31/4327">Ilias Sakellariou</author>
+<author orcid="0000-0002-8653-6521" pid="57/176">Lefteris Mamatas</author>
+<author orcid="0000-0002-2593-6150" pid="18/6473">Sophia G. Petridou</author>
+<author orcid="0000-0001-5005-8866" pid="p/PanagiotisPapadimitriou">Panagiotis Papadimitriou 0001</author>
+<author pid="226/6041">David Moura</author>
+<author pid="247/7627">Asma Islam Swapna</author>
+<author pid="13/8172">Billy Pinheiro</author>
+<author pid="72/6669">Stuart Clayman</author>
+<title>A Marketplace-based Approach to Cloud Network Slice Composition Across Multiple Domains.</title>
+<pages>480-488</pages>
+<year>2019</year>
+<booktitle>NetSoft</booktitle>
+<ee>https://doi.org/10.1109/NETSOFT.2019.8806668</ee>
+<crossref>conf/netsoft/2019</crossref>
+<url>db/conf/netsoft/netsoft2019.html#MacielVVSMP0MSP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/RochaV18" mdate="2023-03-24">
+<author orcid="0000-0001-5633-8893" pid="230/1921">Andr&#233; Luiz Beltrami Rocha</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<title>EFM: Improving DCNs throughput using the transmission rates of elephant flows.</title>
+<pages>155-157</pages>
+<year>2018</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2018.8538633</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2018.8538633</ee>
+<crossref>conf/iscc/2018</crossref>
+<url>db/conf/iscc/iscc2018.html#RochaV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/MartinsVVG18" mdate="2023-03-24">
+<author pid="207/3896">Regis F. T. Martins</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="31/1899">Rodolfo da Silva Villa&#231;a</author>
+<author pid="230/1894">Luis Fernando U. Garcia</author>
+<title>Using Probabilistic Data Structures for Monitoring of Multi-tenant P4-based Networks.</title>
+<pages>204-207</pages>
+<year>2018</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2018.8538352</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2018.8538352</ee>
+<crossref>conf/iscc/2018</crossref>
+<url>db/conf/iscc/iscc2018.html#MartinsVVG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloudnet/SilvaMV17" mdate="2019-06-13">
+<author pid="207/3899">Alan C. Silva</author>
+<author pid="207/3896">Regis Martins</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<title>Empowering applications with RFC 6897 to manage elephant flows in datacenter networks.</title>
+<pages>144-149</pages>
+<year>2017</year>
+<booktitle>CloudNet</booktitle>
+<ee>https://doi.org/10.1109/CloudNet.2017.8071546</ee>
+<crossref>conf/cloudnet/2017</crossref>
+<url>db/conf/cloudnet/cloudnet2017.html#SilvaMV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/OliveiraZSV17" mdate="2022-01-18">
+<author pid="273/9768">H&#233;lio Tibag&#237; de Oliveira</author>
+<author pid="71/8694">Luciana A. M. Zaina</author>
+<author pid="56/3926">Leobino N. Sampaio</author>
+<author pid="40/654">F&#225;bio L. Verdi</author>
+<title>Estudo sobre caracter&#237;sticas de administradores de redes de computadores no Brasil para identifica&#231;&#227;o e elabora&#231;&#227;o de personas.</title>
+<year>2017</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://sol.sbc.org.br/index.php/sbrc/article/view/2652</ee>
+<crossref>conf/sbrc/2017</crossref>
+<url>db/conf/sbrc/sbrc2017.html#OliveiraZSV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/SandriSRV15" mdate="2023-03-24">
+<author pid="162/0787">Marcus Sandri</author>
+<author pid="207/3899">Alan C. Silva</author>
+<author orcid="0000-0001-8804-8698" pid="38/10004">Lucio Agostinho Rocha</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<title>On the Benefits of Using Multipath TCP and Openflow in Shared Bottlenecks.</title>
+<pages>9-16</pages>
+<year>2015</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2015.159</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AINA.2015.159</ee>
+<crossref>conf/aina/2015</crossref>
+<url>db/conf/aina/aina2015.html#SandriSRV15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/RochaV15" mdate="2023-03-24">
+<author pid="01/6896">Lu&#237;s Alexandre Rocha</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<title>A Network-Aware Optimization for VM Placement.</title>
+<pages>619-625</pages>
+<year>2015</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2015.245</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AINA.2015.245</ee>
+<crossref>conf/aina/2015</crossref>
+<url>db/conf/aina/aina2015.html#RochaV15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/im/RochaV15" mdate="2022-10-04">
+<author orcid="0000-0001-8804-8698" pid="38/10004">Lucio Agostinho Rocha</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<title>MILPFlow: A toolset for integration of computational modelling and deployment of data paths for SDN.</title>
+<pages>750-753</pages>
+<year>2015</year>
+<booktitle>IM</booktitle>
+<ee>https://doi.org/10.1109/INM.2015.7140367</ee>
+<crossref>conf/im/2015</crossref>
+<url>db/conf/im/im2015.html#RochaV15</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijlt/ZanettiZV13" mdate="2020-04-16">
+<author pid="128/6917">Pedro F. Zanetti</author>
+<author pid="71/8694">Luciana A. M. Zaina</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<title>An approach for supporting P2P mobile collaborative communication to suggest learning objects based on learning profile.</title>
+<pages>41-60</pages>
+<year>2013</year>
+<volume>8</volume>
+<journal>Int. J. Learn. Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1504/IJLT.2013.052826</ee>
+<url>db/journals/ijlt/ijlt8.html#ZanettiZV13</url>
+</article>
+</r>
+<r><article key="journals/cn/RothenbergMMVW11" mdate="2025-04-01">
+<author orcid="0000-0003-3109-4305" pid="70/2654">Christian Esteve Rothenberg</author>
+<author pid="22/7257">Carlos Alberto Braz Macapuna</author>
+<author pid="46/1513">Maur&#237;cio F. Magalh&#227;es</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author orcid="0000-0002-1144-549X" pid="61/1181">Alexander Wiesmaier</author>
+<title>In-packet Bloom filters: Design and networking applications.</title>
+<pages>1364-1378</pages>
+<year>2011</year>
+<volume>55</volume>
+<journal>Comput. Networks</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/j.comnet.2010.12.005</ee>
+<url>db/journals/cn/cn55.html#RothenbergMMVW11</url>
+</article>
+</r>
+<r><article key="journals/icl/RothenbergMVM10" mdate="2020-08-20">
+<author orcid="0000-0003-3109-4305" pid="70/2654">Christian Esteve Rothenberg</author>
+<author pid="22/7257">Carlos Alberto Braz Macapuna</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="46/1513">Maur&#237;cio F. Magalh&#227;es</author>
+<title>The deletable Bloom filter: a new member of the Bloom family.</title>
+<pages>557-559</pages>
+<year>2010</year>
+<volume>14</volume>
+<journal>IEEE Commun. Lett.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/LCOMM.2010.06.100344</ee>
+<url>db/journals/icl/icl14.html#RothenbergMVM10</url>
+</article>
+</r>
+<r><article key="journals/ijnm/FreitasPMV10" mdate="2023-03-21">
+<author pid="55/8677">Ricardo B. Freitas</author>
+<author pid="60/5743">Luciano Bernardes de Paula</author>
+<author orcid="0000-0002-1180-2637" pid="m/EdmundoRobertoMauroMadeira">Edmundo Roberto Mauro Madeira</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<title>Using virtual topologies to manage inter-domain QoS in next-generation networks.</title>
+<pages>111-128</pages>
+<year>2010</year>
+<volume>20</volume>
+<journal>Int. J. Netw. Manag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/nem.734</ee>
+<url>db/journals/ijnm/ijnm20.html#FreitasPMV10</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/WongGMV10" mdate="2023-03-24">
+<author pid="98/3344">Walter Wong</author>
+<author pid="14/8100">Marcus Vin&#237;cius Lahr Giraldi</author>
+<author pid="46/1513">Maur&#237;cio F. Magalh&#227;es</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<title>An Identifier-Based Architecture for Native Vertical Handover Support.</title>
+<pages>252-259</pages>
+<year>2010</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2010.21</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AINA.2010.21</ee>
+<crossref>conf/aina/2010</crossref>
+<url>db/conf/aina/aina2010.html#WongGMV10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/WongMV10" mdate="2023-03-24">
+<author pid="98/3344">Walter Wong</author>
+<author pid="46/1513">Maur&#237;cio F. Magalh&#227;es</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<title>IDSec: An Identification Layer Security Model.</title>
+<pages>1093-1100</pages>
+<year>2010</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2010.20</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AINA.2010.20</ee>
+<crossref>conf/aina/2010</crossref>
+<url>db/conf/aina/aina2010.html#WongMV10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/PasquiniVOMW10" mdate="2018-11-02">
+<author orcid="0000-0002-8781-3914" pid="70/2771">Rafael Pasquini</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author orcid="0000-0001-9181-8438" pid="88/4760">Rodolfo Oliveira</author>
+<author pid="46/1513">Maur&#237;cio F. Magalh&#227;es</author>
+<author pid="28/685">Annikki Welin</author>
+<title>A Proposal for an XOR-Based Flat Routing Mechanism in Internet-Like Topologies.</title>
+<pages>1-6</pages>
+<year>2010</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2010.5683689</ee>
+<crossref>conf/globecom/2010</crossref>
+<url>db/conf/globecom/globecom2010.html#PasquiniVOMW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/PasquiniMVW10" mdate="2018-11-02">
+<author orcid="0000-0002-8781-3914" pid="70/2771">Rafael Pasquini</author>
+<author pid="46/1513">Maur&#237;cio F. Magalh&#227;es</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="28/685">Annikki Welin</author>
+<title>Bloom Filters in a Landmark-Based Flat Routing.</title>
+<pages>1-5</pages>
+<year>2010</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2010.5501802</ee>
+<crossref>conf/icc/2010</crossref>
+<url>db/conf/icc/icc2010.html#PasquiniMVW10</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1005-0352" mdate="2018-08-13">
+<author pid="70/2654">Christian Esteve Rothenberg</author>
+<author pid="22/7257">Carlos Alberto Braz Macapuna</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="46/1513">Maur&#237;cio F. Magalh&#227;es</author>
+<title>The Deletable Bloom filter: A new member of the Bloom family</title>
+<ee type="oa">http://arxiv.org/abs/1005.0352</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1005.0352</volume>
+<url>db/journals/corr/corr1005.html#abs-1005-0352</url>
+</article>
+</r>
+<r><inproceedings key="conf/wcnc/PasquiniPVM09" mdate="2018-11-02">
+<author orcid="0000-0002-8781-3914" pid="70/2771">Rafael Pasquini</author>
+<author pid="60/5743">Luciano Bernardes de Paula</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="46/1513">Maur&#237;cio F. Magalh&#227;es</author>
+<title>Domain identifiers in a next generation internet architecture.</title>
+<pages>2350-2355</pages>
+<year>2009</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC.2009.4917681</ee>
+<crossref>conf/wcnc/2009</crossref>
+<url>db/conf/wcnc/wcnc2009.html#PasquiniPVM09</url>
+</inproceedings>
+</r>
+<r><article key="journals/jnsm/VerdiCMM08" mdate="2023-03-21">
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="01/5042">Cl&#225;udio Carvalho</author>
+<author pid="46/1513">Maur&#237;cio F. Magalh&#227;es</author>
+<author orcid="0000-0002-1180-2637" pid="m/EdmundoRobertoMauroMadeira">Edmundo R. M. Madeira</author>
+<title>Policy-Based Grooming in Optical Networks.</title>
+<pages>325-349</pages>
+<year>2008</year>
+<volume>16</volume>
+<journal>J. Netw. Syst. Manag.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10922-007-9074-9</ee>
+<url>db/journals/jnsm/jnsm16.html#VerdiCMM08</url>
+</article>
+</r>
+<r><article key="journals/osn/MalheirosMVM08" mdate="2025-05-01">
+<author orcid="0000-0003-1995-3365" pid="56/4057">Neumar Malheiros</author>
+<author orcid="0000-0002-1180-2637" pid="m/EdmundoRobertoMauroMadeira">Edmundo Roberto Mauro Madeira</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="20/413">Mur&#237;cio Magalh&#227;es</author>
+<title>Managing Layer 1 VPN services.</title>
+<pages>196-218</pages>
+<year>2008</year>
+<volume>5</volume>
+<journal>Opt. Switch. Netw.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.osn.2008.02.002</ee>
+<url>db/journals/osn/osn5.html#MalheirosMVM08</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/WongVPPVM08" mdate="2023-03-24">
+<author pid="98/3344">Walter Wong</author>
+<author pid="31/1899">Rodolfo da Silva Villa&#231;a</author>
+<author pid="60/5743">Luciano Bernardes de Paula</author>
+<author orcid="0000-0002-8781-3914" pid="70/2771">Rafael Pasquini</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="46/1513">Maur&#237;cio F. Magalh&#227;es</author>
+<title>An Architecture for Mobility Support in a Next-Generation Internet.</title>
+<pages>818-825</pages>
+<year>2008</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2008.39</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AINA.2008.39</ee>
+<crossref>conf/aina/2008</crossref>
+<url>db/conf/aina/aina2008.html#WongVPPVM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conext/WongVM08" mdate="2018-11-06">
+<author pid="98/3344">Walter Wong</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="46/1513">Maur&#237;cio F. Magalh&#227;es</author>
+<title>A security plane for publish/subscribe based content oriented networks.</title>
+<pages>45</pages>
+<year>2008</year>
+<booktitle>CoNEXT</booktitle>
+<ee>https://doi.org/10.1145/1544012.1544057</ee>
+<crossref>conf/conext/2008</crossref>
+<url>db/conf/conext/conext2008.html#WongVM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conext/EsteveVM08" mdate="2018-11-06">
+<author orcid="0000-0003-3109-4305" pid="70/2654">Christian Esteve Rothenberg</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="46/1513">Maur&#237;cio F. Magalh&#227;es</author>
+<title>Towards a new generation of information-oriented internetworking architectures.</title>
+<pages>65</pages>
+<year>2008</year>
+<booktitle>CoNEXT</booktitle>
+<ee>https://doi.org/10.1145/1544012.1544077</ee>
+<crossref>conf/conext/2008</crossref>
+<url>db/conf/conext/conext2008.html#EsteveVM08</url>
+</inproceedings>
+</r>
+<r><article key="journals/jnsm/VerdiMCMW07" mdate="2023-03-21">
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="46/1513">Maur&#237;cio F. Magalh&#227;es</author>
+<author orcid="0000-0001-9892-740X" pid="92/2659">Eleri Cardozo</author>
+<author orcid="0000-0002-1180-2637" pid="m/EdmundoRobertoMauroMadeira">Edmundo R. M. Madeira</author>
+<author pid="28/685">Annikki Welin</author>
+<title>A Service Oriented Architecture-based Approach for Interdomain Optical Network Services.</title>
+<pages>141-170</pages>
+<year>2007</year>
+<volume>15</volume>
+<journal>J. Netw. Syst. Manag.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10922-007-9060-2</ee>
+<url>db/journals/jnsm/jnsm15.html#VerdiMCMW07</url>
+</article>
+</r>
+<r><article key="journals/jnw/VerdiMMW07" mdate="2023-03-21">
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="46/1513">Maur&#237;cio F. Magalh&#227;es</author>
+<author orcid="0000-0002-1180-2637" pid="m/EdmundoRobertoMauroMadeira">Edmundo Roberto Mauro Madeira</author>
+<author pid="28/685">Annikki Welin</author>
+<title>Using Virtualization to Provide Interdomain QoS-enabled Routing.</title>
+<pages>23-32</pages>
+<year>2007</year>
+<volume>2</volume>
+<journal>J. Networks</journal>
+<number>2</number>
+<ee type="archive">https://doi.org/10.4304/jnw.2.2.23-32</ee>
+<url>db/journals/jnw/jnw2.html#VerdiMMW07</url>
+</article>
+</r>
+<r><inproceedings key="conf/conext/WongVM07" mdate="2018-11-06">
+<author pid="98/3344">Walter Wong</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="46/1513">Maur&#237;cio F. Magalh&#227;es</author>
+<title>A next generation internet architecture for mobility and multi-homing support.</title>
+<pages>61</pages>
+<year>2007</year>
+<booktitle>CoNEXT</booktitle>
+<ee>https://doi.org/10.1145/1364654.1364724</ee>
+<crossref>conf/conext/2007</crossref>
+<url>db/conf/conext/conext2007.html#WongVM07</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ndltd/Verdi06" mdate="2017-08-04">
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<title>An architecture for services provisioning management in optical networks.</title>
+<year>2006</year>
+<school>University of Campinas, Brazil</school>
+<ee>http://repositorio.unicamp.br/jspui/handle/REPOSIP/260448</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:agregador.ibict.br.RI_UNICAMP:oai:repositorio.unicamp.br:REPOSIP/260448</ee>
+<note type="source">ndltd.org (oai:agregador.ibict.br.RI_UNICAMP:oai:repositorio.unicamp.br:REPOSIP/260448)</note>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/broadnets/MalheirosMVM06" mdate="2025-05-01">
+<author orcid="0000-0003-1995-3365" pid="56/4057">Neumar Malheiros</author>
+<author orcid="0000-0002-1180-2637" pid="m/EdmundoRobertoMauroMadeira">Edmundo Roberto Mauro Madeira</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="46/1513">Maur&#237;cio F. Magalh&#227;es</author>
+<title>A Management Architecture for Layer 1 VPN Services.</title>
+<year>2006</year>
+<crossref>conf/broadnets/2006</crossref>
+<booktitle>BROADNETS</booktitle>
+<ee>https://doi.org/10.1109/BROADNETS.2006.4374382</ee>
+<ee>http://eudl.eu/doi/10.1109/BROADNETS.2006.4374382</ee>
+<url>db/conf/broadnets/broadnets2006.html#MalheirosMVM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip6/SiqueiraVPM06" mdate="2018-11-02">
+<author pid="160/1821">Marcos A. Siqueira</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author orcid="0000-0002-8781-3914" pid="70/2771">Rafael Pasquini</author>
+<author pid="46/1513">Maur&#237;cio F. Magalh&#227;es</author>
+<title>An Architecture for Autonomic Management of Ambient Networks.</title>
+<pages>255-267</pages>
+<year>2006</year>
+<crossref>conf/ifip6/2006</crossref>
+<booktitle>Autonomic Networking</booktitle>
+<ee type="oa">https://doi.org/10.1007/11880905_21</ee>
+<url>db/conf/ifip6/an2006.html#SiqueiraVPM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipom/VerdiMMW06" mdate="2023-03-21">
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="46/1513">Maur&#237;cio F. Magalh&#227;es</author>
+<author orcid="0000-0002-1180-2637" pid="m/EdmundoRobertoMauroMadeira">Edmundo Roberto Mauro Madeira</author>
+<author pid="28/685">Annikki Welin</author>
+<title>The Virtual Topology Service: A Mechanism for QoS-Enabled Interdomain Routing.</title>
+<pages>205-217</pages>
+<year>2006</year>
+<crossref>conf/ipom/2006</crossref>
+<booktitle>IPOM</booktitle>
+<ee>https://doi.org/10.1007/11908852_18</ee>
+<url>db/conf/ipom/ipom2006.html#VerdiMMW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/VerdiMM06" mdate="2023-03-24">
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="46/1513">Maur&#237;cio F. Magalh&#227;es</author>
+<author orcid="0000-0002-1180-2637" pid="m/EdmundoRobertoMauroMadeira">Edmundo Roberto Mauro Madeira</author>
+<title>On the Performance of Interdomain Provisioning of Connections in Optical Networks Uing Web Services.</title>
+<pages>955-960</pages>
+<year>2006</year>
+<crossref>conf/iscc/2006</crossref>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2006.113</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2006.113</ee>
+<url>db/conf/iscc/iscc2006.html#VerdiMM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/VerdiDLCMM06" mdate="2023-03-21">
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="70/2970">R. Duarte</author>
+<author pid="47/6721">F. C. de Lacerda</author>
+<author orcid="0000-0001-9892-740X" pid="92/2659">Eleri Cardozo</author>
+<author pid="20/413">Mur&#237;cio Magalh&#227;es</author>
+<author orcid="0000-0002-1180-2637" pid="m/EdmundoRobertoMauroMadeira">Edmundo Roberto Mauro Madeira</author>
+<title>Provisioning and Management of Interdomain Connections in Optical Networks: A Service Oriented Architecture-based Approach.</title>
+<year>2006</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2006.1687624</ee>
+<crossref>conf/noms/2006</crossref>
+<url>db/conf/noms/noms2006.html#VerdiDLCMM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipom/CarvalhoMVM05" mdate="2023-03-21">
+<author pid="01/5042">Cl&#225;udio Carvalho</author>
+<author orcid="0000-0002-1180-2637" pid="m/EdmundoRobertoMauroMadeira">Edmundo Roberto Mauro Madeira</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="46/1513">Maur&#237;cio F. Magalh&#227;es</author>
+<title>Policy-Based Fault Management for Integrating IP over Optical Networks.</title>
+<pages>88-97</pages>
+<year>2005</year>
+<crossref>conf/ipom/2005</crossref>
+<booktitle>IPOM</booktitle>
+<ee>https://doi.org/10.1007/11567486_10</ee>
+<url>db/conf/ipom/ipom2005.html#CarvalhoMVM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lanoms/VerdiCMM05" mdate="2020-03-12">
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="01/5042">Cl&#225;udio Carvalho</author>
+<author pid="46/1513">Maur&#237;cio F. Magalh&#227;es</author>
+<author pid="m/EdmundoRobertoMauroMadeira">Edmundo Roberto Mauro Madeira</author>
+<title>Policy-based Grooming in Optical Networks.</title>
+<pages>125-136</pages>
+<year>2005</year>
+<booktitle>LANOMS</booktitle>
+<ee type="oa">http://www.lanoms.org/2005/anaiscd/2005/3-3.pdf</ee>
+<crossref>conf/lanoms/2005</crossref>
+<url>db/conf/lanoms/lanoms2005.html#VerdiCMM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/broadnets/VerdiMM04" mdate="2023-03-24">
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="46/1513">Maur&#237;cio F. Magalh&#227;es</author>
+<author orcid="0000-0002-1180-2637" pid="m/EdmundoRobertoMauroMadeira">Edmundo R. M. Madeira</author>
+<title>Policy-Based Admission Control in GMPLS Optical Networks.</title>
+<pages>337-339</pages>
+<year>2004</year>
+<crossref>conf/broadnets/2004</crossref>
+<booktitle>BROADNETS</booktitle>
+<ee>https://doi.org/10.1109/BROADNETS.2004.64</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BROADNETS.2004.64</ee>
+<ee>http://eudl.eu/doi/10.1109/BROADNETS.2004.64</ee>
+<url>db/conf/broadnets/broadnets2004.html#VerdiMM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ftdcs/VerdiM03" mdate="2023-03-24">
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author orcid="0000-0002-1180-2637" pid="m/EdmundoRobertoMauroMadeira">Edmundo R. M. Madeira</author>
+<title>Service Provisioning and Management in Virtual Private Active Networks.</title>
+<pages>205-211</pages>
+<year>2003</year>
+<crossref>conf/ftdcs/2003</crossref>
+<booktitle>FTDCS</booktitle>
+<ee>https://doi.org/10.1109/FTDCS.2003.1204334</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/FTDCS.2003.1204334</ee>
+<url>db/conf/ftdcs/ftdcs2003.html#VerdiM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mata/VerdiM03" mdate="2023-03-21">
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author orcid="0000-0002-1180-2637" pid="m/EdmundoRobertoMauroMadeira">Edmundo R. M. Madeira</author>
+<title>Service Provisioning and Management in Telecom Environments Using Active Network Technology.</title>
+<pages>32-41</pages>
+<ee>https://doi.org/10.1007/978-3-540-39646-8_4</ee>
+<year>2003</year>
+<crossref>conf/mata/2003</crossref>
+<booktitle>MATA</booktitle>
+<url>db/conf/mata/mata2003.html#VerdiM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsom/VerdiM01" mdate="2020-03-12">
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="m/EdmundoRobertoMauroMadeira">Edmundo R. M. Madeira</author>
+<title>A Mobile Agent-based Model for Service Management in Virtual Active Networks.</title>
+<pages>101-112</pages>
+<year>2001</year>
+<booktitle>DSOM</booktitle>
+<ee type="oa">http://www.simpleweb.org/ifip/Conferences/DSOM/2001/DSOM2001/proceedings/S4-1.pdf</ee>
+<crossref>conf/dsom/2001</crossref>
+<url>db/conf/dsom/dsom2001.html#VerdiM01</url>
+</inproceedings>
+</r>
+<coauthors n="102" nc="4">
+<co c="0"><na f="a/Alberti:Ant=ocirc=nio_Marcos" pid="51/4339">Ant&#244;nio Marcos Alberti</na></co>
+<co c="2"><na f="a/Almeida:Jurandy" pid="30/2806">Jurandy Almeida</na></co>
+<co c="0"><na f="a/Almeida:Leandro_C=_de" pid="263/9934">Leandro C. de Almeida</na></co>
+<co c="0"><na f="a/Azevedo:Rodrigo_Ferraz" pid="352/0828">Rodrigo Ferraz Azevedo</na></co>
+<co c="0"><na f="b/Baliosian:Javier" pid="12/4344">Javier Baliosian</na></co>
+<co c="0"><na f="b/Beraldo:Lucian" pid="298/3236">Lucian Beraldo</na></co>
+<co c="0"><na f="b/Bernardos:Carlos_J=" pid="94/4416">Carlos J. Bernardos</na></co>
+<co c="0"><na f="c/Cardoso:Kleber_Vieira" pid="32/10675">Kleber Vieira Cardoso</na></co>
+<co c="0"><na f="c/Cardozo:Eleri" pid="92/2659">Eleri Cardozo</na></co>
+<co c="0"><na f="c/Carvalho:Cl=aacute=udio" pid="01/5042">Cl&#225;udio Carvalho</na></co>
+<co c="0"><na f="c/Cavalcanti_0001:Dave" pid="19/3125">Dave Cavalcanti 0001</na></co>
+<co c="0"><na f="c/Cesila:Celso_Henrique" pid="267/2872">Celso Henrique Cesila</na></co>
+<co c="0"><na f="c/Chieng:David" pid="65/1705">David Chieng</na></co>
+<co c="0"><na f="c/Chiesa:Marco" pid="78/9826">Marco Chiesa</na></co>
+<co c="0"><na f="c/Clayman:Stuart" pid="72/6669">Stuart Clayman</na></co>
+<co c="0" n="2"><na f="c/Contreras_0001:Luis_M=" pid="118/9656">Luis M. Contreras 0001</na><na>Luis Miguel Contreras Murillo</na></co>
+<co c="1"><na f="c/Cores:Fernando" pid="09/4813">Fernando Cores</na></co>
+<co c="0" n="2"><na f="c/Correa:Sand" pid="81/3896">Sand Correa</na><na>Sand Luz Correa</na></co>
+<co c="0"><na f="c/Costa:Kevin_B=" pid="199/7767">Kevin B. Costa</na></co>
+<co c="0"><na f="d/Duarte:R=" pid="70/2970">R. Duarte</na></co>
+<co c="0" n="2"><na f="f/Filho:Alberto_E=_Schaeffer" pid="89/1649">Alberto E. Schaeffer Filho</na><na>Alberto Egon Schaeffer Filho</na></co>
+<co c="3"><na f="f/Frate:Marcelo" pid="242/8357">Marcelo Frate</na></co>
+<co c="0"><na f="f/Freitas:Ricardo_B=" pid="55/8677">Ricardo B. Freitas</na></co>
+<co c="0"><na f="g/Garcia:Luis_Fernando_U=" pid="230/1894">Luis Fernando U. Garcia</na></co>
+<co c="0"><na f="g/Gavazza:Jos=eacute=_A=_T=" pid="261/8347">Jos&#233; A. T. Gavazza</na></co>
+<co c="0"><na f="g/Giraldi:Marcus_Vin=iacute=cius_Lahr" pid="14/8100">Marcus Vin&#237;cius Lahr Giraldi</na></co>
+<co c="0"><na f="g/Gorricho:Juan=Luis" pid="08/4301">Juan-Luis Gorricho</na></co>
+<co c="1"><na f="g/Guirado:Fernando" pid="80/4610">Fernando Guirado</na></co>
+<co c="0"><na f="h/Haque_0001:Israat" pid="209/8668">Israat Haque 0001</na></co>
+<co c="2"><na f="k/Kaviani:Mina" pid="386/2010">Mina Kaviani</na></co>
+<co c="0"><na f="l/Lacerda:F=_C=_de" pid="47/6721">F. C. de Lacerda</na></co>
+<co c="1"><na f="l/L=eacute=rida:Josep_L=" pid="53/1481">Josep L. L&#233;rida</na></co>
+<co c="0"><na f="l/Luz:Gustavo_V=" pid="358/3299">Gustavo V. Luz</na></co>
+<co c="0"><na f="l/Luz:Thamires_C=" pid="243/7241">Thamires C. Luz</na></co>
+<co c="0"><na f="m/Macapuna:Carlos_Alberto_Braz" pid="22/7257">Carlos Alberto Braz Macapuna</na></co>
+<co c="0" n="2"><na f="m/Maciel_Jr=:Paulo_Ditarso" pid="80/6621">Paulo Ditarso Maciel Jr.</na><na>Paulo Ditarso Maciel</na></co>
+<co c="0" n="2"><na f="m/Madeira:Edmundo_Roberto_Mauro" pid="m/EdmundoRobertoMauroMadeira">Edmundo Roberto Mauro Madeira</na><na>Edmundo R. M. Madeira</na></co>
+<co c="0"><na f="m/Magalh=atilde=es:Maur=iacute=cio_F=" pid="46/1513">Maur&#237;cio F. Magalh&#227;es</na></co>
+<co c="0"><na f="m/Magalh=atilde=es:Mur=iacute=cio" pid="20/413">Mur&#237;cio Magalh&#227;es</na></co>
+<co c="0"><na f="m/Malheiros:Neumar" pid="56/4057">Neumar Malheiros</na></co>
+<co c="0"><na f="m/Mamatas:Lefteris" pid="57/176">Lefteris Mamatas</na></co>
+<co c="0"><na f="m/Marcondes:Cesar_Augusto_Cavalheiro" pid="82/9870">Cesar Augusto Cavalheiro Marcondes</na></co>
+<co c="3"><na f="m/Marczuk:Marcelo_K=" pid="242/8121">Marcelo K. Marczuk</na></co>
+<co c="0"><na f="m/Margi:C=iacute=ntia_B=" pid="66/1037">C&#237;ntia B. Margi</na></co>
+<co c="0"><na f="m/Martini:Barbara" pid="62/5621">Barbara Martini</na></co>
+<co c="0" n="3"><na f="m/Martins:Regis" pid="207/3896">Regis Martins</na><na>Regis F. T. Martins</na><na>Regis Francisco Teles Martins</na></co>
+<co c="0" n="3"><na f="m/Matos:Guilherme" pid="298/1390">Guilherme Matos</na><na>Guilherme M. V. Matos</na><na>Guilherme Mendes Vieira de Matos</na></co>
+<co c="0" n="3"><na f="m/Melo:Juliano" pid="260/1264">Juliano Melo</na><na>Juliano Coelho Melo</na><na>Juliano Coelho Gon&#231;alves de Melo</na></co>
+<co c="0" n="2"><na f="m/Monteiro:Jos=eacute=_A=_S=" pid="76/2855">Jos&#233; A. S. Monteiro</na><na>Jos&#233; Augusto Suruagy Monteiro</na></co>
+<co c="1"><na f="m/Moraes:Nilson" pid="261/8437">Nilson Moraes</na></co>
+<co c="0"><na f="m/Moura:David" pid="226/6041">David Moura</na></co>
+<co c="0" n="2"><na f="n/Neto_0001:Augusto" pid="88/6376">Augusto Neto 0001</na><na>Augusto J. V. Neto</na></co>
+<co c="-1"><na f="n/Novais:Felipe_A=_S=" pid="380/6236">Felipe A. S. Novais</na></co>
+<co c="0"><na f="o/Oki:Eiji" pid="72/1700">Eiji Oki</na></co>
+<co c="0"><na f="o/Oliveira:H=eacute=lio_Tibag=iacute=_de" pid="273/9768">H&#233;lio Tibag&#237; de Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Rodolfo" pid="88/4760">Rodolfo Oliveira</na></co>
+<co c="0"><na f="p/Papadimitriou_0001:Panagiotis" pid="p/PanagiotisPapadimitriou">Panagiotis Papadimitriou 0001</na></co>
+<co c="0"><na f="p/Papagianni:Chrysa" pid="56/9978">Chrysa Papagianni</na></co>
+<co c="0"><na f="p/Parzyjegla:Helge" pid="54/1302">Helge Parzyjegla</na></co>
+<co c="0"><na f="p/Pasquini:Rafael" pid="70/2771">Rafael Pasquini</na></co>
+<co c="0" n="2"><na f="p/Patra:P=_Gyanesh" pid="184/0337">P. Gyanesh Patra</na><na>Gyanesh Patra</na></co>
+<co c="0"><na f="p/Paula:Luciano_Bernardes_de" pid="60/5743">Luciano Bernardes de Paula</na></co>
+<co c="0"><na f="p/Pentelas:Angelos" pid="262/4908">Angelos Pentelas</na></co>
+<co c="0"><na f="p/Petridou:Sophia_G=" pid="18/6473">Sophia G. Petridou</na></co>
+<co c="0"><na f="p/Pinheiro:Billy" pid="13/8172">Billy Pinheiro</na></co>
+<co c="0"><na f="p/Pongr=aacute=cz:Gergely" pid="121/4115">Gergely Pongr&#225;cz</na></co>
+<co c="0"><na f="r/Rocha:Andr=eacute=_Luiz_Beltrami" pid="230/1921">Andr&#233; Luiz Beltrami Rocha</na></co>
+<co c="0"><na f="r/Rocha:Lucio_Agostinho" pid="38/10004">Lucio Agostinho Rocha</na></co>
+<co c="-1"><na f="r/Rocha:Lu=iacute=s_Alexandre" pid="01/6896">Lu&#237;s Alexandre Rocha</na></co>
+<co c="-1"><na f="r/Rodrigues:Thiago_Henrique_Silva" pid="380/6044">Thiago Henrique Silva Rodrigues</na></co>
+<co c="0"><na f="r/Rojas:Elisa" pid="93/9975">Elisa Rojas</na></co>
+<co c="0"><na f="r/Rosa:Pedro_Frosi" pid="25/6464">Pedro Frosi Rosa</na></co>
+<co c="0"><na f="r/Rothenberg:Christian_Esteve" pid="70/2654">Christian Esteve Rothenberg</na></co>
+<co c="0"><na f="r/Rubio=Loyola:Javier" pid="84/4123">Javier Rubio-Loyola</na></co>
+<co c="0"><na f="s/Sakellariou:Ilias" pid="31/4327">Ilias Sakellariou</na></co>
+<co c="0" n="2"><na f="s/Sampaio:Leobino_Nascimento" pid="56/3926">Leobino Nascimento Sampaio</na><na>Leobino N. Sampaio</na></co>
+<co c="0"><na f="s/Sampaio:Silvio" pid="44/10443">Silvio Sampaio</na></co>
+<co c="0"><na f="s/Sandri:Marcus" pid="162/0787">Marcus Sandri</na></co>
+<co c="0"><na f="s/Segura:Gustavo_A=_Nunez" pid="223/3040">Gustavo A. Nunez Segura</na></co>
+<co c="0"><na f="s/Serrat_0001:Joan" pid="44/1391">Joan Serrat 0001</na></co>
+<co c="0"><na f="s/Shirmarz:Alireza" pid="274/1001">Alireza Shirmarz</na></co>
+<co c="0"><na f="s/Silva:Alan_C=" pid="207/3899">Alan C. Silva</na></co>
+<co c="0"><na f="s/Silva:Felipe_Sampaio_Dantas_da" pid="143/2255">Felipe Sampaio Dantas da Silva</na></co>
+<co c="0" n="2"><na f="s/Silva_0001:Fl=aacute=vio_Oliveira" pid="02/979">Fl&#225;vio Oliveira Silva 0001</na><na>Fl&#225;vio de Oliveira Silva 0001</na></co>
+<co c="0"><na f="s/Silva:Thiago_Bueno_da" pid="256/6461">Thiago Bueno da Silva</na></co>
+<co c="0"><na f="s/Silva:Washington_Rodrigo_Dias_da" pid="359/5689">Washington Rodrigo Dias da Silva</na></co>
+<co c="0"><na f="s/Silveira:Sofia_A=_M=" pid="294/9568">Sofia A. M. Silveira</na></co>
+<co c="0"><na f="s/Singh:Suneet_Kumar" pid="215/9425">Suneet Kumar Singh</na></co>
+<co c="0" n="2"><na f="s/Siqueira:Marcos_Antonio_de" pid="160/1821">Marcos Antonio de Siqueira</na><na>Marcos A. Siqueira</na></co>
+<co c="0"><na f="s/Swapna:Asma_Islam" pid="247/7627">Asma Islam Swapna</na></co>
+<co c="0"><na f="t/Tavares:Thiago_Caproni" pid="00/8331">Thiago Caproni Tavares</na></co>
+<co c="0"><na f="t/Tusa:Francesco" pid="78/7159">Francesco Tusa</na></co>
+<co c="0"><na f="v/Valsamas:Polychronis" pid="247/7599">Polychronis Valsamas</na></co>
+<co c="1"><na f="v/Vila:Sergi" pid="205/1014">Sergi Vila</na></co>
+<co c="0"><na f="v/Villa=ccedil=a:Rodolfo_da_Silva" pid="31/1899">Rodolfo da Silva Villa&#231;a</na></co>
+<co c="0"><na f="w/Welin:Annikki" pid="28/685">Annikki Welin</na></co>
+<co c="0"><na f="w/Wiesmaier:Alexander" pid="61/1181">Alexander Wiesmaier</na></co>
+<co c="0"><na f="w/Williams:Andrew" pid="277/1398">Andrew Williams</na></co>
+<co c="0"><na f="w/Wong:Walter" pid="98/3344">Walter Wong</na></co>
+<co c="0"><na f="z/Zaina:Luciana_A=_M=" pid="71/8694">Luciana A. M. Zaina</na></co>
+<co c="0"><na f="z/Zanetti:Pedro_F=" pid="128/6917">Pedro F. Zanetti</na></co>
+<co c="0"><na f="z/Zhu:Zuqing" pid="62/9980">Zuqing Zhu</na></co>
+</coauthors>
+</dblpperson>
+

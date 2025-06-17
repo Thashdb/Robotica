@@ -1,0 +1,277 @@
+<?xml version="1.0"?>
+<dblpperson name="Lucas Francisco da Matta Vegi" pid="32/10803" n="17">
+<person key="homepages/32/10803" mdate="2024-02-28">
+<author pid="32/10803">Lucas Francisco da Matta Vegi</author>
+<author pid="32/10803">Lucas F. M. Vegi</author>
+<url>https://orcid.org/0000-0002-7999-7098</url>
+</person>
+<r><article key="journals/ese/VegiV25" mdate="2025-05-31">
+<author orcid="0000-0002-7999-7098" pid="32/10803">Lucas Francisco da Matta Vegi</author>
+<author pid="o/MarcoTuliodeOliveiraValente">Marco T&#250;lio Valente</author>
+<title>Understanding refactorings in Elixir functional language.</title>
+<pages>108</pages>
+<year>2025</year>
+<month>June</month>
+<volume>30</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10664-025-10652-y</ee>
+<url>db/journals/ese/ese30.html#VegiV25</url>
+<stream>streams/journals/ese</stream>
+</article>
+</r>
+<r><article key="journals/ese/VegiV23" mdate="2025-01-19">
+<author orcid="0000-0002-7999-7098" pid="32/10803">Lucas Francisco da Matta Vegi</author>
+<author orcid="0000-0002-8180-7548" pid="o/MarcoTuliodeOliveiraValente">Marco T&#250;lio Valente</author>
+<title>Understanding code smells in Elixir functional language.</title>
+<pages>102</pages>
+<year>2023</year>
+<month>July</month>
+<volume>28</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10664-023-10343-6</ee>
+<ee>https://www.wikidata.org/entity/Q127485792</ee>
+<url>db/journals/ese/ese28.html#VegiV23</url>
+</article>
+</r>
+<r><inproceedings key="conf/icsm/VegiV23" mdate="2024-01-09">
+<author pid="32/10803">Lucas Francisco da Matta Vegi</author>
+<author pid="o/MarcoTuliodeOliveiraValente">Marco T&#250;lio Valente</author>
+<title>Towards a Catalog of Refactorings for Elixir.</title>
+<pages>358-362</pages>
+<year>2023</year>
+<booktitle>ICSME</booktitle>
+<ee>https://doi.org/10.1109/ICSME58846.2023.00045</ee>
+<crossref>conf/icsm/2023</crossref>
+<url>db/conf/icsm/icsme2023.html#VegiV23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwpc/VegiV22" mdate="2023-11-12">
+<author pid="32/10803">Lucas Francisco da Matta Vegi</author>
+<author orcid="0000-0002-8180-7548" pid="o/MarcoTuliodeOliveiraValente">Marco T&#250;lio Valente</author>
+<title>Code smells in Elixir: early results from a grey literature review.</title>
+<pages>580-584</pages>
+<year>2022</year>
+<booktitle>ICPC</booktitle>
+<ee>https://doi.org/10.1145/3524610.3527881</ee>
+<crossref>conf/iwpc/2022</crossref>
+<url>db/conf/iwpc/icpc2022.html#VegiV22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vem/NunesVC022" mdate="2024-11-27">
+<author pid="355/9953">Henrique Gomes Nunes</author>
+<author pid="32/10803">Lucas Francisco da Matta Vegi</author>
+<author pid="355/9782">Victor Pezzi Gazzinelli Cruz</author>
+<author pid="03/335">Eduardo Figueiredo 0001</author>
+<title>Democracia em Xeque: Um Estudo Comparativo sobre Detec&#231;&#227;o de Code Smells.</title>
+<pages>11-15</pages>
+<year>2022</year>
+<booktitle>VEM</booktitle>
+<ee type="oa">https://doi.org/10.5753/vem.2022.226562</ee>
+<crossref>conf/vem/2022</crossref>
+<url>db/conf/vem/vem2022.html#NunesVC022</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-08877" mdate="2023-11-12">
+<author pid="32/10803">Lucas Francisco da Matta Vegi</author>
+<author orcid="0000-0002-8180-7548" pid="o/MarcoTuliodeOliveiraValente">Marco T&#250;lio Valente</author>
+<title>Code Smells in Elixir: Early Results from a Grey Literature Review.</title>
+<year>2022</year>
+<volume>abs/2203.08877</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.08877</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-08877</url>
+</article>
+</r>
+<r><inproceedings key="conf/clei/ArrudaARVF18" mdate="2019-08-12">
+<author pid="246/6188">D&#226;maris Pires Arruda</author>
+<author pid="50/5533">Marcus Vin&#237;cius Alvim Andrade</author>
+<author pid="12/5301">Mauro Nacif Rocha</author>
+<author pid="32/10803">Lucas Francisco da Matta Vegi</author>
+<author pid="246/6054">F&#225;bio Chaves Fehlberg</author>
+<title>Development of a Framework to Improve the use of Mobile Devices by the Elderly.</title>
+<pages>334-343</pages>
+<year>2018</year>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI.2018.00048</ee>
+<crossref>conf/clei/2018</crossref>
+<url>db/conf/clei/clei2018.html#ArrudaARVF18</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsw/RibeiroFVOVF16" mdate="2023-03-30">
+<author pid="151/0887">Ang&#233;lica Aparecida de Almeida Ribeiro</author>
+<author pid="l/JugurtaLisboaFilho">Jugurta Lisboa Filho</author>
+<author pid="32/10803">Lucas Francisco da Matta Vegi</author>
+<author pid="52/7546">Alcione de Paiva Oliveira</author>
+<author pid="32/9021">Regina Maria Maciel Braga</author>
+<author pid="166/4511">Em&#237;lio Jos&#233; de S. Fonseca</author>
+<title>APRImora: An Architecture Based on Semantic Web to Retrieve Information in Pattern Repositories.</title>
+<pages>272-286</pages>
+<year>2016</year>
+<volume>11</volume>
+<journal>J. Softw.</journal>
+<number>3</number>
+<ee>https://doi.org/10.17706/jsw.11.3.272-286</ee>
+<url>db/journals/jsw/jsw11.html#RibeiroFVOVF16</url>
+</article>
+</r>
+<r><article key="journals/jsw/OliveiraFOSVO15" mdate="2023-08-28">
+<author pid="115/4539">Wellington Moreira de Oliveira</author>
+<author pid="l/JugurtaLisboaFilho">Jugurta Lisboa Filho</author>
+<author pid="52/7546">Alcione P. Oliveira</author>
+<author pid="131/3402">Wagner Dias de Souza</author>
+<author pid="32/10803">Lucas F. M. Vegi</author>
+<author pid="136/7413">Jo&#227;o Ricardo M. Oliveira</author>
+<title>Building a Thematic Spatial Data Infrastructure and Situation-Aware for Global Events.</title>
+<pages>304-316</pages>
+<year>2015</year>
+<volume>10</volume>
+<journal>J. Softw.</journal>
+<number>3</number>
+<ee>https://doi.org/10.17706/jsw.10.3.304-316</ee>
+<ee>https://www.wikidata.org/entity/Q120971052</ee>
+<url>db/journals/jsw/jsw10.html#OliveiraFOSVO15</url>
+</article>
+</r>
+<r><inproceedings key="conf/seke/RibeiroFVOVF15" mdate="2023-03-30">
+<author pid="151/0887">Ang&#233;lica Aparecida de Almeida Ribeiro</author>
+<author orcid="0000-0002-4050-0451" pid="l/JugurtaLisboaFilho">Jugurta Lisboa Filho</author>
+<author pid="32/10803">Lucas Francisco da Matta Vegi</author>
+<author pid="52/7546">Alcione de Paiva Oliveira</author>
+<author pid="32/9021">Regina Maria Maciel Braga Villela</author>
+<author pid="166/4511">Em&#237;lio Jos&#233; de S. Fonseca</author>
+<title>APRImora: A Semantic Architecture for Patterns Reuse.</title>
+<pages>465-470</pages>
+<year>2015</year>
+<booktitle>SEKE</booktitle>
+<ee type="oa">https://doi.org/10.18293/SEKE2015-186</ee>
+<crossref>conf/seke/2015</crossref>
+<url>db/conf/seke/seke2015.html#RibeiroFVOVF15</url>
+</inproceedings>
+</r>
+<r><article key="journals/isys/PeixotoVF14" mdate="2024-02-28">
+<author pid="74/10804">Douglas Alves Peixoto</author>
+<author pid="32/10803">Lucas Francisco da Matta Vegi</author>
+<author pid="l/JugurtaLisboaFilho">Jugurta Lisboa Filho</author>
+<title>Um Editor de Metadados para Documentar Padr&#245;es de An&#225;lise em uma Infraestrutura de Reuso.</title>
+<pages>23-42</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Braz. J. Inf. Syst.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.5753/isys.2014.266</ee>
+<url>db/journals/isys/isys7.html#PeixotoVF14</url>
+</article>
+</r>
+<r><inproceedings key="conf/iceis/RibeiroFVO14" mdate="2017-05-17">
+<author pid="151/0887">Ang&#233;lica Aparecida de Almeida Ribeiro</author>
+<author pid="l/JugurtaLisboaFilho">Jugurta Lisboa Filho</author>
+<author pid="32/10803">Lucas Francisco da Matta Vegi</author>
+<author pid="52/7546">Alcione de Paiva Oliveira</author>
+<title>DC2DP: A Dublin Core Application Profile to Design Patterns.</title>
+<pages>209-216</pages>
+<year>2014</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0004885202090216</ee>
+<crossref>conf/iceis/2014-2</crossref>
+<url>db/conf/iceis/iceis2014-2.html#RibeiroFVO14</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijmso/VegiFCSB13" mdate="2023-08-28">
+<author pid="32/10803">Lucas Francisco da Matta Vegi</author>
+<author orcid="0000-0002-4050-0451" pid="l/JugurtaLisboaFilho">Jugurta Lisboa Filho</author>
+<author orcid="0000-0003-1077-597X" pid="41/6650">Joep Crompvoets</author>
+<author pid="68/3805">Liziane Santos Soares</author>
+<author pid="19/4523">Jos&#233; Lu&#237;s Braga</author>
+<title>A Dublin core application profile for documenting analysis patterns in a reuse infrastructure.</title>
+<pages>267-281</pages>
+<year>2013</year>
+<volume>8</volume>
+<journal>Int. J. Metadata Semant. Ontologies</journal>
+<number>4</number>
+<ee>https://doi.org/10.1504/IJMSO.2013.058403</ee>
+<ee>https://www.wikidata.org/entity/Q121423475</ee>
+<url>db/journals/ijmso/ijmso8.html#VegiFCSB13</url>
+</article>
+</r>
+<r><inproceedings key="conf/caise/PeixotoVF13" mdate="2023-03-10">
+<author pid="74/10804">Douglas Alves Peixoto</author>
+<author pid="32/10803">Lucas Francisco da Matta Vegi</author>
+<author pid="l/JugurtaLisboaFilho">Jugurta Lisboa Filho</author>
+<title>DC2AP Metadata Editor: A Metadata Editor for an Analysis Pattern Reuse Infrastructure.</title>
+<pages>138-145</pages>
+<year>2013</year>
+<booktitle>CAiSE Forum</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-998/Paper18.pdf</ee>
+<crossref>conf/caise/2013fo</crossref>
+<url>db/conf/caise/caisefo2013.html#PeixotoVF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dc/VegiFC12" mdate="2021-02-10">
+<author pid="32/10803">Lucas Francisco da Matta Vegi</author>
+<author pid="l/JugurtaLisboaFilho">Jugurta Lisboa Filho</author>
+<author pid="41/6650">Joep Crompvoets</author>
+<title>A Machine-Processable Dublin Core Application Profile to Analysis Patterns to provide Linked Data.</title>
+<pages>23-32</pages>
+<year>2012</year>
+<booktitle>Dublin Core Conference</booktitle>
+<ee type="oa">http://dcpapers.dublincore.org/pubs/article/view/3655</ee>
+<crossref>conf/dc/2012</crossref>
+<url>db/conf/dc/dc2012.html#VegiFC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/VegiFCOB12" mdate="2012-08-20">
+<author pid="32/10803">Lucas Francisco da Matta Vegi</author>
+<author pid="l/JugurtaLisboaFilho">Jugurta Lisboa Filho</author>
+<author pid="117/5566">Glauber Luis da Silva Costa</author>
+<author pid="52/7546">Alcione de Paiva Oliveira</author>
+<author pid="19/4523">Jos&#233; Lu&#237;s Braga</author>
+<title>DC2AP: A Dublin Core Application Profile to Analysis Patterns.</title>
+<pages>511-516</pages>
+<year>2012</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2012</crossref>
+<url>db/conf/seke/seke2012.html#VegiFCOB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bpm/VegiPSFO11" mdate="2017-06-01">
+<author pid="32/10803">Lucas Francisco da Matta Vegi</author>
+<author pid="74/10804">Douglas Alves Peixoto</author>
+<author pid="68/3805">Liziane Santos Soares</author>
+<author orcid="0000-0002-4050-0451" pid="l/JugurtaLisboaFilho">Jugurta Lisboa Filho</author>
+<author orcid="0000-0001-9129-8620" pid="52/7546">Alcione de Paiva Oliveira</author>
+<title>An Infrastructure Oriented for Cataloging Services and Reuse of Analysis Patterns.</title>
+<pages>338-343</pages>
+<year>2011</year>
+<booktitle>Business Process Management Workshops (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-28115-0_32</ee>
+<crossref>conf/bpm/2011w2</crossref>
+<url>db/conf/bpm/bpmw2011-2.html#VegiPSFO11</url>
+</inproceedings>
+</r>
+<coauthors n="21" nc="2">
+<co c="0"><na f="a/Andrade:Marcus_Vin=iacute=cius_Alvim" pid="50/5533">Marcus Vin&#237;cius Alvim Andrade</na></co>
+<co c="0"><na f="a/Arruda:D=acirc=maris_Pires" pid="246/6188">D&#226;maris Pires Arruda</na></co>
+<co c="0"><na f="b/Braga:Jos=eacute=_Lu=iacute=s" pid="19/4523">Jos&#233; Lu&#237;s Braga</na></co>
+<co c="0" n="3"><na f="b/Braga_0001:Regina" pid="32/9021">Regina Braga 0001</na><na>Regina Maria Maciel Braga</na><na>Regina Maria Maciel Braga Villela</na></co>
+<co c="0"><na f="c/Costa:Glauber_Luis_da_Silva" pid="117/5566">Glauber Luis da Silva Costa</na></co>
+<co c="0"><na f="c/Crompvoets:Joep" pid="41/6650">Joep Crompvoets</na></co>
+<co c="1"><na f="c/Cruz:Victor_Pezzi_Gazzinelli" pid="355/9782">Victor Pezzi Gazzinelli Cruz</na></co>
+<co c="0"><na f="f/Fehlberg:F=aacute=bio_Chaves" pid="246/6054">F&#225;bio Chaves Fehlberg</na></co>
+<co c="1"><na f="f/Figueiredo_0001:Eduardo" pid="03/335">Eduardo Figueiredo 0001</na></co>
+<co c="0"><na f="f/Filho:Jugurta_Lisboa" pid="l/JugurtaLisboaFilho">Jugurta Lisboa Filho</na></co>
+<co c="0"><na f="f/Fonseca:Em=iacute=lio_Jos=eacute=_de_S=" pid="166/4511">Em&#237;lio Jos&#233; de S. Fonseca</na></co>
+<co c="1"><na f="n/Nunes:Henrique_Gomes" pid="355/9953">Henrique Gomes Nunes</na></co>
+<co c="0" n="2"><na f="o/Oliveira:Alcione_de_Paiva" pid="52/7546">Alcione de Paiva Oliveira</na><na>Alcione P. Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Jo=atilde=o_Ricardo_M=" pid="136/7413">Jo&#227;o Ricardo M. Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Wellington_Moreira_de" pid="115/4539">Wellington Moreira de Oliveira</na></co>
+<co c="0"><na f="p/Peixoto:Douglas_Alves" pid="74/10804">Douglas Alves Peixoto</na></co>
+<co c="0"><na f="r/Ribeiro:Ang=eacute=lica_Aparecida_de_Almeida" pid="151/0887">Ang&#233;lica Aparecida de Almeida Ribeiro</na></co>
+<co c="0"><na f="r/Rocha:Mauro_Nacif" pid="12/5301">Mauro Nacif Rocha</na></co>
+<co c="0"><na f="s/Soares:Liziane_Santos" pid="68/3805">Liziane Santos Soares</na></co>
+<co c="0"><na f="s/Souza:Wagner_Dias_de" pid="131/3402">Wagner Dias de Souza</na></co>
+<co c="1"><na f="v/Valente:Marco_T=uacute=lio" pid="o/MarcoTuliodeOliveiraValente">Marco T&#250;lio Valente</na></co>
+</coauthors>
+</dblpperson>
+

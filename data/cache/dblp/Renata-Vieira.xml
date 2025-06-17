@@ -1,0 +1,3413 @@
+<?xml version="1.0"?>
+<dblpperson name="Renata Vieira" pid="05/465" n="222">
+<person key="homepages/05/465" mdate="2023-07-07">
+<author pid="05/465">Renata Vieira</author>
+<url>https://scholar.google.com/citations?user=5Lw-0-UAAAAJ</url>
+<url>https://zbmath.org/authors/?q=ai:vieira.renata</url>
+<url>https://orcid.org/0000-0003-2449-5477</url>
+<url>https://www.wikidata.org/entity/Q57457112</url>
+<url>https://www.researcherid.com/rid/N-5102-2018</url>
+<url>https://d-nb.info/gnd/173841015</url>
+</person>
+<r><article key="journals/lre/TrajanoBV24" mdate="2024-12-24">
+<author pid="307/8711">Douglas Trajano</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>OLID-BR: offensive language identification dataset for Brazilian Portuguese.</title>
+<pages>1263-1289</pages>
+<year>2024</year>
+<month>December</month>
+<volume>58</volume>
+<journal>Lang. Resour. Evaluation</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10579-023-09657-0</ee>
+<url>db/journals/lre/lre58.html#TrajanoBV24</url>
+<stream>streams/journals/lre</stream>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/NunesSSBFOCV24" mdate="2025-05-31">
+<author orcid="0009-0007-8842-421X" pid="371/5173">Rafael Oleques Nunes</author>
+<author orcid="0000-0002-0581-4092" pid="54/8001-1">Joaquim Santos 0001</author>
+<author orcid="0009-0002-4232-1585" pid="01/517">Andre Suslik Spritzer</author>
+<author orcid="0000-0002-0801-9393" pid="208/7522">Dennis Giovani Balreira</author>
+<author orcid="0000-0003-1986-8435" pid="f/CarlaMDSFreitas">Carla Maria Dal Sasso Freitas</author>
+<author orcid="0000-0003-4762-3451" pid="266/0032">Fernanda Olival</author>
+<author orcid="0000-0001-7719-6994" pid="266/0033">Helena Freire Cameron</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Assessing European and Brazilian Portuguese LLMs for NER in Specialised Domains.</title>
+<pages>215-230</pages>
+<year>2024</year>
+<booktitle>BRACIS (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-79029-4_15</ee>
+<crossref>conf/bracis/2024-1</crossref>
+<url>db/conf/bracis/bracis2024-1.html#NunesSSBFOCV24</url>
+<stream>streams/conf/bracis</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/propor/SantosCOFV24" mdate="2025-03-12">
+<author pid="54/8001-1">Joaquim Santos 0001</author>
+<author pid="266/0033">Helena Freire Cameron</author>
+<author pid="266/0032">Fernanda Olival</author>
+<author pid="371/5193">F&#225;tima Farrica</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Named entity recognition specialised for Portuguese 18th-century History research.</title>
+<pages>117-126</pages>
+<year>2024</year>
+<booktitle>PROPOR (1)</booktitle>
+<ee type="oa">https://aclanthology.org/2024.propor-1.12</ee>
+<crossref>conf/propor/2024</crossref>
+<url>db/conf/propor/propor2024.html#SantosCOFV24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/propor/MarinoVBRL24" mdate="2025-03-12">
+<author pid="385/9828">Erik Bran Marino</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="399/4930">Jesus Manuel Benitez Baleato</author>
+<author pid="319/0971">Ana Sofia Ribeiro</author>
+<author pid="384/8512">Katarina Laken</author>
+<title>Decoding Sentiments about Migration in Portuguese Political Manifestos (2011, 2015, 2019).</title>
+<pages>149-159</pages>
+<year>2024</year>
+<booktitle>PROPOR (2)</booktitle>
+<ee type="oa">https://aclanthology.org/2024.propor-2.20/</ee>
+<crossref>conf/propor/2024-2</crossref>
+<url>db/conf/propor/propor2024-2.html#MarinoVBRL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/propor/ReyesVOCF24" mdate="2025-03-12">
+<author pid="283/4235">Daniel De Los Reyes</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="266/0032">Fernanda Olival</author>
+<author pid="266/0033">Helena Freire Cameron</author>
+<author pid="371/5193">F&#225;tima Farrica</author>
+<title>Analysing entity distribution in an annotated 18th-century historical source.</title>
+<pages>160-164</pages>
+<year>2024</year>
+<booktitle>PROPOR (2)</booktitle>
+<ee type="oa">https://aclanthology.org/2024.propor-2.21/</ee>
+<crossref>conf/propor/2024-2</crossref>
+<url>db/conf/propor/propor2024-2.html#ReyesVOCF24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/propor/AlbuquerqueSVR24" mdate="2025-03-12">
+<author pid="371/5023">Gon&#231;alo C. Albuquerque</author>
+<author pid="16/11062">Marlo Souza</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="319/0971">Ana Sofia Ribeiro</author>
+<title>Applying event classification to reveal the Estado da &#205;ndia.</title>
+<pages>247-254</pages>
+<year>2024</year>
+<booktitle>PROPOR (1)</booktitle>
+<ee type="oa">https://aclanthology.org/2024.propor-1.25</ee>
+<crossref>conf/propor/2024</crossref>
+<url>db/conf/propor/propor2024.html#AlbuquerqueSVR24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/snams/BassiMVP24" mdate="2025-03-03">
+<author orcid="0000-0003-2025-6559" pid="384/4321">Davide Bassi</author>
+<author orcid="0009-0001-9230-9202" pid="384/4281">Michele Joshua Maggini</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author orcid="0000-0002-1982-2472" pid="73/10057">Martin Pereira-Fari&#241;a</author>
+<title>A Pipeline for the Analysis of User Interactions in YouTube Comments: A Hybridization of LLMs and Rule-Based Methods.</title>
+<pages>146-153</pages>
+<year>2024</year>
+<booktitle>SNAMS</booktitle>
+<ee>https://doi.org/10.1109/SNAMS64316.2024.10883781</ee>
+<crossref>conf/snams/2024</crossref>
+<url>db/conf/snams/snams2024.html#BassiMVP24</url>
+</inproceedings>
+</r>
+<r><article key="journals/fi/GoncalvesVYVQIP23" mdate="2023-02-10">
+<author orcid="0000-0002-1323-0249" pid="87/3606-1">Teresa Gon&#231;alves 0001</author>
+<author pid="301/3232">Rute Veladas</author>
+<author orcid="0000-0001-6720-4831" pid="11/4973">Hua Yang</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author orcid="0000-0002-5086-059X" pid="73/4272">Paulo Quaresma</author>
+<author orcid="0000-0002-1644-9502" pid="321/8959">Paulo Infante</author>
+<author pid="204/9050">C&#225;tia Sousa Pinto</author>
+<author pid="41/3562">Jo&#227;o Oliveira</author>
+<author pid="301/3305">Maria Cortes Ferreira</author>
+<author pid="322/1875">J&#233;ssica Morais</author>
+<author pid="322/1995">Ana Raquel Pereira</author>
+<author pid="143/1429">Nuno Fernandes</author>
+<author pid="262/0703">Carolina Gon&#231;alves</author>
+<title>Clinical Screening Prediction in the Portuguese National Health Service: Data Analysis, Machine Learning Models, Explainability and Meta-Evaluation.</title>
+<pages>26</pages>
+<year>2023</year>
+<volume>15</volume>
+<journal>Future Internet</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.3390/fi15010026</ee>
+<url>db/journals/fi/fi15.html#GoncalvesVYVQIP23</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/EngelmannPVHMB23" mdate="2023-05-23">
+<author pid="225/2571">D&#233;bora C. Engelmann</author>
+<author pid="151/3594">Alison R. Panisson</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="m/VMascardi">Viviana Mascardi</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>MAIDS - A Framework for the Development of Multi-Agent Intentional Dialogue Systems.</title>
+<pages>1209-1217</pages>
+<year>2023</year>
+<booktitle>AAMAS</booktitle>
+<ee>https://dl.acm.org/doi/10.5555/3545946.3598764</ee>
+<crossref>conf/atal/2023</crossref>
+<url>db/conf/atal/aamas2023.html#EngelmannPVHMB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/biostec/ConsoliVB23" mdate="2023-03-23">
+<author pid="241/3945">Bernardo Scapini Consoli</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Benchmarking the BRATECA Clinical Data Collection for Prediction Tasks.</title>
+<pages>338-345</pages>
+<year>2023</year>
+<booktitle>HEALTHINF</booktitle>
+<ee>https://doi.org/10.5220/0011671400003414</ee>
+<crossref>conf/biostec/2023hi</crossref>
+<url>db/conf/biostec/healthinf2023.html#ConsoliVB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jowo/SousaLVT23" mdate="2024-02-17">
+<author pid="338/0318">Guilherme Sousa</author>
+<author pid="23/8009">Rinaldo Lima</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="61/1342">C&#225;ssia Trojahn</author>
+<title>Using BERT Models to Automatically Classify Domain Concepts into DOLCE Top-Level Concepts: A Study of the OAEI Ontologies.</title>
+<year>2023</year>
+<booktitle>JOWO</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3637/paper32.pdf</ee>
+<crossref>conf/jowo/2023</crossref>
+<url>db/conf/jowo/jowo2023.html#SousaLVT23</url>
+</inproceedings>
+</r>
+<r><article key="journals/fi/YangGQVVPOFMPFG22" mdate="2022-06-28">
+<author orcid="0000-0001-6720-4831" pid="11/4973">Hua Yang</author>
+<author orcid="0000-0002-1323-0249" pid="87/3606-1">Teresa Gon&#231;alves 0001</author>
+<author orcid="0000-0002-5086-059X" pid="73/4272">Paulo Quaresma</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="301/3232">Rute Veladas</author>
+<author pid="204/9050">C&#225;tia Sousa Pinto</author>
+<author pid="41/3562">Jo&#227;o Oliveira</author>
+<author pid="301/3305">Maria Cortes Ferreira</author>
+<author pid="322/1875">J&#233;ssica Morais</author>
+<author pid="322/1995">Ana Raquel Pereira</author>
+<author pid="143/1429">Nuno Fernandes</author>
+<author pid="262/0703">Carolina Gon&#231;alves</author>
+<title>Clinical Trial Classification of SNS24 Calls with Neural Networks.</title>
+<pages>130</pages>
+<year>2022</year>
+<volume>14</volume>
+<journal>Future Internet</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.3390/fi14050130</ee>
+<url>db/journals/fi/fi14.html#YangGQVVPOFMPFG22</url>
+</article>
+</r>
+<r><article key="journals/jiis/CortesWBMV22" mdate="2023-06-26">
+<author orcid="0000-0002-0272-1982" pid="226/3865">Eduardo Gabriel Cortes</author>
+<author pid="204/3806">Vinicius Woloszyn</author>
+<author pid="25/6710">Dante Barone</author>
+<author orcid="0000-0003-3057-0760" pid="37/5849">Sebastian M&#246;ller 0001</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>A systematic review of question answering systems for non-factoid questions.</title>
+<pages>453-480</pages>
+<year>2022</year>
+<volume>58</volume>
+<journal>J. Intell. Inf. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10844-021-00655-8</ee>
+<url>db/journals/jiis/jiis58.html#CortesWBMV22</url>
+</article>
+</r>
+<r><article key="journals/semweb/TrojahnVSPG22" mdate="2023-08-28">
+<author pid="61/1342">C&#225;ssia Trojahn</author>
+<author pid="05/465">Renata Vieira</author>
+<author orcid="0000-0002-0076-1462" pid="20/3363">Daniela Schmidt</author>
+<author pid="26/6268">Adam Pease</author>
+<author pid="11/78">Giancarlo Guizzardi</author>
+<title>Foundational ontologies meet ontology matching: A survey.</title>
+<pages>685-704</pages>
+<year>2022</year>
+<volume>13</volume>
+<journal>Semantic Web</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/SW-210447</ee>
+<ee>https://www.wikidata.org/entity/Q120984680</ee>
+<url>db/journals/semweb/semweb13.html#TrojahnVSPG22</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/SantosVTRC22" mdate="2022-09-10">
+<author orcid="0000-0001-5152-6027" pid="26/7259">Ivo Santos</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="61/1342">C&#225;ssia Trojahn</author>
+<author orcid="0000-0003-0555-0960" pid="327/9267">Leonor Rocha</author>
+<author orcid="0000-0002-2476-0472" pid="76/1168">Enrique Cerrillo Cuenca</author>
+<title>Megalithism Representation in CIDOC-CRM.</title>
+<pages>550-558</pages>
+<year>2022</year>
+<booktitle>ADBIS (Short Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-15743-1_50</ee>
+<crossref>conf/adbis/2022short</crossref>
+<url>db/conf/adbis/adbis2022short.html#SantosVTRC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dhandnlp-ws/ZilioFV22" mdate="2023-03-10">
+<author pid="121/5028">Leonardo Zilio</author>
+<author pid="121/5340">Maria Jos&#233; Finatto</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Named Entity Recognition Applied to Portuguese Texts from the XVIII Century.</title>
+<pages>1-10</pages>
+<year>2022</year>
+<booktitle>DHandNLP@PROPOR</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3128/paper10.pdf</ee>
+<crossref>conf/dhandnlp-ws/2022</crossref>
+<url>db/conf/dhandnlp-ws/dhandnlp-ws2022.html#ZilioFV22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dhandnlp-ws/VieiraBRCONQSFG22" mdate="2023-03-10">
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="319/0013">Ana Paula Banza</author>
+<author pid="319/0971">Ana Sofia Ribeiro</author>
+<author pid="266/0033">Helena Freire Cameron</author>
+<author pid="266/0032">Fernanda Olival</author>
+<author pid="241/3927">Joaquim Francisco Santos Neto</author>
+<author pid="73/4272">Paulo Quaresma</author>
+<author pid="26/7259">Ivo Santos</author>
+<author pid="121/5340">Maria Jos&#233; Bocorny Finatto</author>
+<author pid="266/0041">Maria Filomena Gon&#231;alves</author>
+<author pid="319/0738">Herminia Villar</author>
+<author pid="61/1342">C&#225;ssia Trojahn</author>
+<title>Digital Humanities and Portuguese Processing: a research pathway.</title>
+<pages>11-17</pages>
+<year>2022</year>
+<booktitle>DHandNLP@PROPOR</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3128/paper1.pdf</ee>
+<crossref>conf/dhandnlp-ws/2022</crossref>
+<url>db/conf/dhandnlp-ws/dhandnlp-ws2022.html#VieiraBRCONQSFG22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dhandnlp-ws/CameronOVN22" mdate="2023-03-10">
+<author pid="266/0033">Helena Freire Cameron</author>
+<author pid="266/0032">Fernanda Olival</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="241/3927">Joaquim Francisco Santos Neto</author>
+<title>Named entity annotation of an 18th century transcribed corpus: problems, challenges.</title>
+<pages>18-25</pages>
+<year>2022</year>
+<booktitle>DHandNLP@PROPOR</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3128/paper8.pdf</ee>
+<crossref>conf/dhandnlp-ws/2022</crossref>
+<url>db/conf/dhandnlp-ws/dhandnlp-ws2022.html#CameronOVN22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dhandnlp-ws/RibeiroSSV22" mdate="2023-03-10">
+<author pid="319/0971">Ana Sofia Ribeiro</author>
+<author pid="307/8187">Anderson da Silva Brito Sacramento</author>
+<author pid="16/11062">Marlo Souza</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Event identification in the Monsoon Books (1616-1618).</title>
+<pages>41-46</pages>
+<year>2022</year>
+<booktitle>DHandNLP@PROPOR</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3128/paper9.pdf</ee>
+<crossref>conf/dhandnlp-ws/2022</crossref>
+<url>db/conf/dhandnlp-ws/dhandnlp-ws2022.html#RibeiroSSV22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/ConsoliSUVB22" mdate="2022-10-10">
+<author pid="241/3945">Bernardo Scapini Consoli</author>
+<author pid="204/3810">Henrique D. P. dos Santos</author>
+<author pid="223/6991">Ana Helena D. P. S. Ulbrich</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>BRATECA (Brazilian Tertiary Care Dataset): a Clinical Information Dataset for the Portuguese Language.</title>
+<pages>5609-5616</pages>
+<year>2022</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">https://aclanthology.org/2022.lrec-1.602</ee>
+<crossref>conf/lrec/2022</crossref>
+<url>db/conf/lrec/lrec2022.html#ConsoliSUVB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/paams/FerreiraPEVMB22" mdate="2024-08-04">
+<author pid="331/3927">Carlos Eduardo A. Ferreira</author>
+<author orcid="0000-0002-9438-5508" pid="151/3594">Alison R. Panisson</author>
+<author pid="225/2571">D&#233;bora C. Engelmann</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="m/VMascardi">Viviana Mascardi</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Explaining Semantic Reasoning Using Argumentation.</title>
+<pages>153-165</pages>
+<year>2022</year>
+<booktitle>PAAMS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-18192-4_13</ee>
+<crossref>conf/paams/2022</crossref>
+<url>db/conf/paams/paams2022.html#FerreiraPEVMB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/propor/ConsoliV22" mdate="2022-04-01">
+<author orcid="0000-0003-0656-511X" pid="241/3945">Bernardo Scapini Consoli</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Enriching Portuguese Word Embeddings with Visual Information.</title>
+<pages>435-440</pages>
+<year>2022</year>
+<booktitle>PROPOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-98305-5_42</ee>
+<crossref>conf/propor/2022</crossref>
+<url>db/conf/propor/propor2022.html#ConsoliV22</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dhandnlp-ws/2022" mdate="2023-03-10">
+<editor pid="61/1342">C&#225;ssia Trojahn</editor>
+<editor pid="121/5340">Maria Jos&#233; Finatto</editor>
+<editor pid="p/ValeriadePaiva">Valeria de Paiva</editor>
+<editor pid="05/465">Renata Vieira</editor>
+<title>Proceedings of the Second Workshop on Digital Humanities and Natural Language Processing (2nd DHandNLP 2022) co-located with International Conference on the Computational Processing of Portuguese (PROPOR 2022), Virtual Event, Fortaleza, Brazil, 21st March, 2022.</title>
+<booktitle>DHandNLP@PROPOR</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>3128</volume>
+<year>2022</year>
+<ee type="oa">https://ceur-ws.org/Vol-3128</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-3128-4</ee>
+<url>db/conf/dhandnlp-ws/dhandnlp-ws2022.html</url>
+</proceedings>
+</r>
+<r><article key="journals/cii/GomesCCSMVME21" mdate="2021-09-16">
+<author orcid="0000-0001-9351-7647" pid="266/1011">Diogo da Silva Magalh&#227;es Gomes</author>
+<author pid="266/1110">F&#225;bio Corr&#234;a Cordeiro</author>
+<author orcid="0000-0003-0656-511X" pid="241/3945">Bernardo Scapini Consoli</author>
+<author pid="283/1309">Nikolas Lacerda Santos</author>
+<author orcid="0000-0003-4400-054X" pid="o/VivianeMoreiraOrengo">Viviane Pereira Moreira</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="98/8160">Silvia Moraes 0001</author>
+<author orcid="0000-0002-7828-0124" pid="06/97">Alexandre Gon&#231;alves Evsukoff</author>
+<title>Portuguese word embeddings for the oil and gas industry: Development and evaluation.</title>
+<pages>103347</pages>
+<year>2021</year>
+<volume>124</volume>
+<journal>Comput. Ind.</journal>
+<ee>https://doi.org/10.1016/j.compind.2020.103347</ee>
+<url>db/journals/cii/cii124.html#GomesCCSMVME21</url>
+</article>
+</r>
+<r><article key="journals/tcs/SouzaVM21" mdate="2021-07-25">
+<author orcid="0000-0002-5373-7271" pid="16/11062">Marlo Souza</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author orcid="0000-0002-9224-2781" pid="50/3403">&#193;lvaro F. Moreira</author>
+<title>Dynamic Preference Logic meets iterated belief change: Representation results and postulates characterization.</title>
+<pages>15-40</pages>
+<year>2021</year>
+<volume>872</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2020.12.042</ee>
+<url>db/journals/tcs/tcs872.html#SouzaVM21</url>
+</article>
+</r>
+<r><inproceedings key="conf/bibm/SantosUV21" mdate="2022-01-18">
+<author pid="204/3810">Henrique D. P. dos Santos</author>
+<author pid="223/6991">Ana Helena D. P. S. Ulbrich</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Evaluation of a Prescription Outlier Detection System in Hospital's Pharmacy Services.</title>
+<pages>2862-2868</pages>
+<year>2021</year>
+<booktitle>BIBM</booktitle>
+<ee>https://doi.org/10.1109/BIBM52615.2021.9669703</ee>
+<crossref>conf/bibm/2021</crossref>
+<url>db/conf/bibm/bibm2021.html#SantosUV21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/SantosSTV21" mdate="2025-02-07">
+<author orcid="0000-0002-0581-4092" pid="54/8001-1">Joaquim Santos 0001</author>
+<author orcid="0000-0002-2410-3536" pid="204/3810">Henrique D. P. dos Santos</author>
+<author orcid="0000-0002-2060-953X" pid="307/8904">F&#225;bio Tabalipa</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>De-Identification of Clinical Notes Using Contextualized Language Models and a Token Classifier.</title>
+<pages>33-41</pages>
+<year>2021</year>
+<booktitle>BRACIS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-91699-2_3</ee>
+<crossref>conf/bracis/2021-2</crossref>
+<url>db/conf/bracis/bracis2021-2.html#SantosSTV21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/BoscoVZE21" mdate="2021-12-15">
+<author orcid="0000-0001-7214-1767" pid="258/8863">Avner Dal Bosco</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author orcid="0000-0003-4012-1395" pid="307/8238">Bruna Zanotto</author>
+<author orcid="0000-0002-6411-3480" pid="307/8294">Ana Paula Beck da Silva Etges</author>
+<title>Ontology Based Classification of Electronic Health Records to Support Value-Based Health Care.</title>
+<pages>359-371</pages>
+<year>2021</year>
+<booktitle>BRACIS (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-91702-9_24</ee>
+<crossref>conf/bracis/2021-1</crossref>
+<url>db/conf/bracis/bracis2021-1.html#BoscoVZE21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/ConsoliV21" mdate="2021-12-15">
+<author orcid="0000-0003-0656-511X" pid="241/3945">Bernardo Scapini Consoli</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Enriching Portuguese Word Embeddings with Visual Information.</title>
+<pages>434-448</pages>
+<year>2021</year>
+<booktitle>BRACIS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-91699-2_30</ee>
+<crossref>conf/bracis/2021-2</crossref>
+<url>db/conf/bracis/bracis2021-2.html#ConsoliV21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/ReyesTMVB21" mdate="2025-04-01">
+<author orcid="0000-0003-0495-5982" pid="283/4235">Daniel De Los Reyes</author>
+<author orcid="0000-0001-7801-8938" pid="307/8711">Douglas Trajano</author>
+<author orcid="0000-0001-9446-6757" pid="38/6192">Isabel Harb Manssour</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Entity Relation Extraction from News Articles in Portuguese for Competitive Intelligence Based on BERT.</title>
+<pages>449-464</pages>
+<year>2021</year>
+<booktitle>BRACIS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-91699-2_31</ee>
+<crossref>conf/bracis/2021-2</crossref>
+<url>db/conf/bracis/bracis2021-2.html#ReyesTMVB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eacl/ReyesBVM21" mdate="2025-03-11">
+<author pid="283/4235">Daniel De Los Reyes</author>
+<author pid="283/4011">Allan Barcelos</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="38/6192">Isabel Harb Manssour</author>
+<title>Related Named Entities Classification in the Economic-Financial Context.</title>
+<pages>8-15</pages>
+<year>2021</year>
+<booktitle>EACL (Hackashop)</booktitle>
+<ee type="oa">https://aclanthology.org/2021.hackashop-1.2/</ee>
+<crossref>conf/eacl/2021hackershop</crossref>
+<url>db/conf/eacl/hackershop2021.html#ReyesBVM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/epia/VeladasYQ0VPMOF21" mdate="2021-09-20">
+<author pid="301/3232">Rute Veladas</author>
+<author pid="11/4973">Hua Yang</author>
+<author orcid="0000-0002-5086-059X" pid="73/4272">Paulo Quaresma</author>
+<author orcid="0000-0002-1323-0249" pid="87/3606-1">Teresa Gon&#231;alves 0001</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="204/9050">C&#225;tia Sousa Pinto</author>
+<author pid="301/3245">Jo&#227;o Pedro Martins</author>
+<author pid="41/3562">Jo&#227;o Oliveira</author>
+<author pid="301/3305">Maria Cortes Ferreira</author>
+<title>Aiding Clinical Triage with Text Classification.</title>
+<pages>83-96</pages>
+<year>2021</year>
+<booktitle>EPIA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-86230-5_7</ee>
+<crossref>conf/epia/2021</crossref>
+<url>db/conf/epia/epia2021.html#VeladasYQ0VPMOF21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hci/ColissiVMB21" mdate="2021-07-29">
+<author orcid="0000-0002-3710-1185" pid="297/5939">Mateus da Silveira Colissi</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author orcid="0000-0002-2261-9926" pid="m/VMascardi">Viviana Mascardi</author>
+<author orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>A Chatbot that Uses a Multi-agent Organization to Support Collaborative Learning.</title>
+<pages>31-38</pages>
+<year>2021</year>
+<booktitle>HCI (39)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78645-8_4</ee>
+<crossref>conf/hci/2021-39</crossref>
+<url>db/conf/hci/hci2021-39.html#ColissiVMB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/SantosOUV21" mdate="2021-07-25">
+<author pid="204/3810">Henrique D. P. dos Santos</author>
+<author pid="165/2707">Juliana Damasio Oliveira</author>
+<author pid="223/6991">Ana Helena D. P. S. Ulbrich</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Opportunities and Challenges in Fall Risk Management using EHRs and Artificial Intelligence: A Systematic Review.</title>
+<pages>626-633</pages>
+<year>2021</year>
+<booktitle>ICEIS (1)</booktitle>
+<ee>https://doi.org/10.5220/0010424306260633</ee>
+<crossref>conf/iceis/2021-1</crossref>
+<url>db/conf/iceis/iceis2021-1.html#SantosOUV21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mtsr/SantosV21" mdate="2022-05-18">
+<author orcid="0000-0001-5152-6027" pid="26/7259">Ivo Santos</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Semantic Information Extraction in Archaeology: Challenges in the Construction of a Portuguese Corpus of Megalithism.</title>
+<pages>236-242</pages>
+<year>2021</year>
+<booktitle>MTSR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-98876-0_21</ee>
+<crossref>conf/mtsr/2021</crossref>
+<url>db/conf/mtsr/mtsr2021.html#SantosV21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2101-01676" mdate="2021-01-21">
+<author pid="16/11062">Marlo Souza</author>
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Dynamic Preference Logic meets Iterated Belief Change: Representation Results and Postulates Characterization.</title>
+<year>2021</year>
+<volume>abs/2101.01676</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.01676</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-01676</url>
+</article>
+</r>
+<r><inproceedings key="conf/cbms/FranceschiniSV20" mdate="2021-04-09">
+<author pid="273/7525">Paula M. Franceschini</author>
+<author pid="204/3810">Henrique D. P. dos Santos</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Intrinsic and Extrinsic Evaluation of the Quality of Biomedical Embeddings in Different Languages.</title>
+<pages>271-276</pages>
+<year>2020</year>
+<booktitle>CBMS</booktitle>
+<ee>https://doi.org/10.1109/CBMS49503.2020.00058</ee>
+<crossref>conf/cbms/2020</crossref>
+<url>db/conf/cbms/cbms2020.html#FranceschiniSV20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cbms/SantosSV20" mdate="2025-02-07">
+<author orcid="0000-0002-0581-4092" pid="54/8001-1">Joaquim Santos 0001</author>
+<author pid="204/3810">Henrique D. P. dos Santos</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Fall Detection in Clinical Notes using Language Models and Token Classifier.</title>
+<pages>283-288</pages>
+<year>2020</year>
+<booktitle>CBMS</booktitle>
+<ee>https://doi.org/10.1109/CBMS49503.2020.00060</ee>
+<crossref>conf/cbms/2020</crossref>
+<url>db/conf/cbms/cbms2020.html#SantosSV20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cbms/RibeiroSBSVMR20" mdate="2021-10-14">
+<author pid="262/4854">Jhonatan Kobylarz Ribeiro</author>
+<author pid="204/3810">Henrique D. P. dos Santos</author>
+<author orcid="0000-0002-6318-2484" pid="267/2375">Felipe Barletta</author>
+<author pid="267/2301">Mateus Cichelero da Silva</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="267/2342">Hugo M. P. Morales</author>
+<author pid="222/2128">Cristian da Costa Rocha</author>
+<title>A Machine Learning Early Warning System: Multicenter Validation in Brazilian Hospitals.</title>
+<pages>321-326</pages>
+<year>2020</year>
+<booktitle>CBMS</booktitle>
+<ee>https://doi.org/10.1109/CBMS49503.2020.00067</ee>
+<crossref>conf/cbms/2020</crossref>
+<url>db/conf/cbms/cbms2020.html#RibeiroSBSVMR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/ConsoliSGCVM20" mdate="2025-02-07">
+<author pid="241/3945">Bernardo Scapini Consoli</author>
+<author pid="54/8001-1">Joaquim Santos 0001</author>
+<author pid="266/1011">Diogo Gomes 0003</author>
+<author pid="266/1110">F&#225;bio Corr&#234;a Cordeiro</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="o/VivianeMoreiraOrengo">Viviane Pereira Moreira</author>
+<title>Embeddings for Named Entity Recognition in Geoscience Portuguese Literature.</title>
+<pages>4625-4630</pages>
+<year>2020</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">https://aclanthology.org/2020.lrec-1.568/</ee>
+<crossref>conf/lrec/2020</crossref>
+<url>db/conf/lrec/lrec2020.html#ConsoliSGCVM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/SantosCV20" mdate="2025-02-07">
+<author pid="54/8001-1">Joaquim Santos 0001</author>
+<author pid="241/3945">Bernardo Scapini Consoli</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Word Embedding Evaluation in Downstream Tasks and Semantic Analogies.</title>
+<pages>4828-4834</pages>
+<year>2020</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">https://aclanthology.org/2020.lrec-1.594/</ee>
+<crossref>conf/lrec/2020</crossref>
+<url>db/conf/lrec/lrec2020.html#SantosCV20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/SilvaMKNVR20" mdate="2021-04-09">
+<author pid="265/3345">Matheus L. da Silva</author>
+<author orcid="0000-0001-5893-5878" pid="242/3197">Vin&#237;cius Meyer</author>
+<author pid="237/8278">Dionatra F. Kirchoff</author>
+<author pid="241/3927">Joaquim Francisco Santos Neto</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="95/5199">C&#233;sar A. F. De Rose</author>
+<title>Evaluating the performance and improving the usability of parallel and distributed Word Embeddings tools.</title>
+<pages>201-206</pages>
+<year>2020</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP50117.2020.00038</ee>
+<crossref>conf/pdp/2020</crossref>
+<url>db/conf/pdp/pdp2020.html#SilvaMKNVR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/propor/SchmidtBTVQ20" mdate="2020-06-16">
+<author orcid="0000-0002-0076-1462" pid="20/3363">Daniela Schmidt</author>
+<author pid="258/8863">Avner Dal Bosco</author>
+<author orcid="0000-0003-2840-005X" pid="61/1342">C&#225;ssia Trojahn</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author orcid="0000-0002-5086-059X" pid="73/4272">Paulo Quaresma</author>
+<title>Aligning IATE Criminal Terminology to SUMO.</title>
+<pages>98-108</pages>
+<year>2020</year>
+<booktitle>PROPOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-41505-1_10</ee>
+<crossref>conf/propor/2020</crossref>
+<url>db/conf/propor/propor2020.html#SchmidtBTVQ20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/propor/ColloviniGCSV20" mdate="2025-02-07">
+<author orcid="0000-0003-1257-4100" pid="97/1724">Sandra Collovini</author>
+<author pid="14/6534">Patr&#237;cia Nunes Gon&#231;alves</author>
+<author pid="258/8925">Guilherme Cavalheiro</author>
+<author orcid="0000-0002-0581-4092" pid="54/8001-1">Joaquim Santos 0001</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Relation Extraction for Competitive Intelligence.</title>
+<pages>249-258</pages>
+<year>2020</year>
+<booktitle>PROPOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-41505-1_24</ee>
+<crossref>conf/propor/2020</crossref>
+<url>db/conf/propor/propor2020.html#ColloviniGCSV20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/VieiraT20" mdate="2023-03-10">
+<author pid="05/465">Renata Vieira</author>
+<author pid="61/1342">C&#225;ssia Trojahn</author>
+<title>Towards semantic alignment of heterogeneous structures and its application to digital humanities.</title>
+<pages>235-236</pages>
+<year>2020</year>
+<booktitle>OM@ISWC</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2788/om2020_poster2.pdf</ee>
+<crossref>conf/semweb/2020om</crossref>
+<url>db/conf/semweb/om2020.html#VieiraT20</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dhandnlp-ws/2020" mdate="2023-03-10">
+<editor pid="121/5340">Maria Jos&#233; Finatto</editor>
+<editor pid="05/465">Renata Vieira</editor>
+<editor pid="75/8154">Senja Pollak</editor>
+<editor pid="92/1880">Saturnino Luz</editor>
+<title>Proceedings of the Workshop on Digital Humanities and Natural Language Processing, co-located with International Conference on the Computational Processing of Portuguese, DHandNLP@PROPOR 2020, Evora, Portugal, March 2, 2020.</title>
+<booktitle>DHandNLP@PROPOR</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>2607</volume>
+<year>2020</year>
+<ee type="oa">https://ceur-ws.org/Vol-2607</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-2607-7</ee>
+<url>db/conf/dhandnlp-ws/dhandnlp-ws2020.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/propor/2020" mdate="2020-02-24">
+<editor orcid="0000-0002-5086-059X" pid="73/4272">Paulo Quaresma</editor>
+<editor orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</editor>
+<editor orcid="0000-0001-5108-2630" pid="86/332">Sandra M. Alu&#237;sio</editor>
+<editor orcid="0000-0003-0900-6938" pid="65/6363">Helena Moniz</editor>
+<editor orcid="0000-0002-1075-0177" pid="07/6052">Fernando Batista</editor>
+<editor orcid="0000-0002-1323-0249" pid="87/3606-1">Teresa Gon&#231;alves 0001</editor>
+<title>Computational Processing of the Portuguese Language - 14th International Conference, PROPOR 2020, Evora, Portugal, March 2-4, 2020, Proceedings</title>
+<booktitle>PROPOR</booktitle>
+<publisher>Springer</publisher>
+<year>2020</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>12037</volume>
+<isbn>978-3-030-41504-4</isbn>
+<isbn>978-3-030-41505-1</isbn>
+<ee>https://doi.org/10.1007/978-3-030-41505-1</ee>
+<url>db/conf/propor/propor2020.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-05514" mdate="2020-06-13">
+<author pid="262/4854">Jhonatan Kobylarz</author>
+<author pid="204/3810">Henrique D. P. dos Santos</author>
+<author pid="267/2375">Felipe Barletta</author>
+<author pid="267/2301">Mateus Cichelero da Silva</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="267/2342">Hugo M. P. Morales</author>
+<author pid="222/2128">Cristian da Costa Rocha</author>
+<title>A Machine Learning Early Warning System: Multicenter Validation in Brazilian Hospitals.</title>
+<year>2020</year>
+<volume>abs/2006.05514</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.05514</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-05514</url>
+</article>
+</r>
+<r><article key="journals/ijbis/FreitasV19" mdate="2021-04-09">
+<author orcid="0000-0001-7708-4116" pid="116/4957">Larissa Astrogildo de Freitas</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Ontology-based feature-level sentiment analysis in Portuguese reviews.</title>
+<pages>30-55</pages>
+<year>2019</year>
+<volume>32</volume>
+<journal>Int. J. Bus. Inf. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1504/IJBIS.2019.102698</ee>
+<url>db/journals/ijbis/ijbis32.html#FreitasV19</url>
+</article>
+</r>
+<r><article key="journals/titb/SantosUWV19" mdate="2020-05-30">
+<author orcid="0000-0002-2410-3536" pid="204/3810">Henrique D. P. dos Santos</author>
+<author pid="223/6991">Ana Helena D. P. S. Ulbrich</author>
+<author pid="204/3806">Vinicius Woloszyn</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>DDC-Outlier: Preventing Medication Errors Using Unsupervised Learning.</title>
+<pages>874-881</pages>
+<year>2019</year>
+<volume>23</volume>
+<journal>IEEE J. Biomed. Health Informatics</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/JBHI.2018.2828028</ee>
+<ee>https://www.wikidata.org/entity/Q89555418</ee>
+<url>db/journals/titb/titb23.html#SantosUWV19</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/SouzaMV19" mdate="2021-02-02">
+<author pid="16/11062">Marlo Souza</author>
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Iterated Belief Base Revision: A Dynamic Epistemic Logic Approach.</title>
+<pages>3076-3083</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v33i01.33013076</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#SouzaMV19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bibe/SantosSMBUV19" mdate="2024-10-06">
+<author pid="204/3810">Henrique Dias Pereira dos Santos</author>
+<author pid="255/8427">Amanda Pestana Silva</author>
+<author pid="255/8522">Maria Carolina Oliveira Maciel</author>
+<author pid="255/8546">Haline Maria Velho Burin</author>
+<author orcid="0000-0002-4697-1641" pid="255/8411">Janete Souza Urbanetto</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Fall Detection in EHR using Word Embeddings and Deep Learning.</title>
+<pages>265-268</pages>
+<year>2019</year>
+<booktitle>BIBE</booktitle>
+<ee>https://doi.org/10.1109/BIBE.2019.00054</ee>
+<crossref>conf/bibe/2019</crossref>
+<url>db/conf/bibe/bibe2019.html#SantosSMBUV19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/SantosCSTCV19" mdate="2025-02-07">
+<author orcid="0000-0002-0581-4092" pid="54/8001-1">Joaquim Santos 0001</author>
+<author pid="241/3945">Bernardo Scapini Consoli</author>
+<author pid="14/5278">C&#237;cero Nogueira dos Santos</author>
+<author pid="246/2082">Juliano Terra</author>
+<author pid="97/1724">Sandra Collovini</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Assessing the Impact of Contextual Embeddings for Portuguese Named Entity Recognition.</title>
+<pages>437-442</pages>
+<year>2019</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2019.00083</ee>
+<crossref>conf/bracis/2019</crossref>
+<url>db/conf/bracis/bracis2019.html#SantosCSTCV19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/SouzaMV19" mdate="2021-04-09">
+<author pid="16/11062">Marlo Souza</author>
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Generalized Iterated Belief Change in Dynamic Epistemic Logic.</title>
+<pages>693-698</pages>
+<year>2019</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2019.00126</ee>
+<crossref>conf/bracis/2019</crossref>
+<url>db/conf/bracis/bracis2019.html#SouzaMV19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/SilveiraMMVP19" mdate="2019-06-05">
+<author pid="81/3535">Karina Kohl Silveira</author>
+<author pid="92/5311">Soraia Raupp Musse</author>
+<author pid="38/6192">Isabel Harb Manssour</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="39/5605">Rafael Prikladnicki</author>
+<title>Reinforcing Diversity Company Policies: Insights from StackOverflow Developers Survey.</title>
+<pages>119-129</pages>
+<year>2019</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0007707901190129</ee>
+<crossref>conf/iceis/2019-2</crossref>
+<url>db/conf/iceis/iceis2019-2.html#SilveiraMMVP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/SilveiraMMVP19" mdate="2025-01-19">
+<author pid="81/3535">Karina Kohl Silveira</author>
+<author pid="92/5311">Soraia Raupp Musse</author>
+<author pid="38/6192">Isabel Harb Manssour</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="39/5605">Rafael Prikladnicki</author>
+<title>Confidence in programming skills: gender insights from StackOverflow developers survey.</title>
+<pages>234-235</pages>
+<year>2019</year>
+<booktitle>ICSE (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1109/ICSE-Companion.2019.00091</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3339761</ee>
+<ee>https://www.wikidata.org/entity/Q130871398</ee>
+<crossref>conf/icse/2019c</crossref>
+<url>db/conf/icse/icse2019c.html#SilveiraMMVP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvc/MolinSMVM19" mdate="2021-04-09">
+<author pid="251/5989">Greice P. Dal Molin</author>
+<author pid="204/3810">Henrique D. P. dos Santos</author>
+<author pid="38/6192">Isabel Harb Manssour</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="92/5311">Soraia Raupp Musse</author>
+<title>Cross-Media Sentiment Analysis in Brazilian Blogs.</title>
+<pages>492-503</pages>
+<year>2019</year>
+<booktitle>ISVC (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-33723-0_40</ee>
+<crossref>conf/isvc/2019-2</crossref>
+<url>db/conf/isvc/isvc2019-2.html#MolinSMVM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jowo/SchmidtPTV19" mdate="2023-03-10">
+<author pid="20/3363">Daniela Schmidt</author>
+<author pid="26/6268">Adam Pease</author>
+<author pid="61/1342">C&#225;ssia Trojahn</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Aligning Conference Ontologies with SUMO: A Report on Manual Alignment via WordNet.</title>
+<year>2019</year>
+<booktitle>JOWO</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2518/paper-FOUST10.pdf</ee>
+<crossref>conf/jowo/2019</crossref>
+<url>db/conf/jowo/jowo2019.html#SchmidtPTV19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ontobras/SchmidtTV19" mdate="2023-03-10">
+<author pid="20/3363">Daniela Schmidt</author>
+<author pid="61/1342">C&#225;ssia Trojahn</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Matching BFO, DOLCE, GFO and SUMO: an Evaluation of OAEI 2018 Matching Systems.</title>
+<year>2019</year>
+<booktitle>ONTOBRAS</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2519/paper7.pdf</ee>
+<crossref>conf/ontobras/2019</crossref>
+<url>db/conf/ontobras/ontobras2019.html#SchmidtTV19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/EngelmannCGVB19" mdate="2021-04-09">
+<author pid="225/2571">D&#233;bora C. Engelmann</author>
+<author orcid="0000-0002-4022-0142" pid="152/4323">Julia Couto 0002</author>
+<author pid="233/5371">V&#225;gner de Oliveira Gabriel</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Towards an Ontology to Support Decision-making in Hospital Bed Allocation (S).</title>
+<pages>71-74</pages>
+<year>2019</year>
+<booktitle>SEKE</booktitle>
+<ee type="oa">https://doi.org/10.18293/SEKE2019-130</ee>
+<crossref>conf/seke/2019</crossref>
+<url>db/conf/seke/seke2019.html#EngelmannCGVB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/KamelSTV19" mdate="2023-03-10">
+<author pid="51/1051">Mouna Kamel</author>
+<author pid="20/3363">Daniela Schmidt</author>
+<author pid="61/1342">C&#225;ssia Trojahn</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Hypernym Relation Extraction for Establishing Subsumptions: Preliminary Results on Matching Foundational Ontologies.</title>
+<pages>36-40</pages>
+<year>2019</year>
+<booktitle>OM@ISWC</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2536/om2019_STpaper1.pdf</ee>
+<crossref>conf/semweb/2019om</crossref>
+<url>db/conf/semweb/om2019.html#KamelSTV19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sepln/ColloviniNCTVQS19" mdate="2023-03-10">
+<author pid="97/1724">Sandra Collovini</author>
+<author pid="241/3927">Joaquim Francisco Santos Neto</author>
+<author pid="241/3945">Bernardo Scapini Consoli</author>
+<author pid="246/2082">Juliano Terra</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="73/4272">Paulo Quaresma</author>
+<author pid="16/11062">Marlo Souza</author>
+<author pid="86/2938">Daniela Barreiro Claro</author>
+<author pid="201/2466">Rafael Glauber</author>
+<title>IberLEF 2019 Portuguese Named Entity Recognition and Relation Extraction Tasks.</title>
+<pages>390-410</pages>
+<year>2019</year>
+<booktitle>IberLEF@SEPLN</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2421/NER_Portuguese_overview.pdf</ee>
+<crossref>conf/sepln/2019iberlef</crossref>
+<url>db/conf/sepln/iberlef2019.html#ColloviniNCTVQS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sepln/SantosTCV19" mdate="2025-02-07">
+<author pid="54/8001-1">Joaquim Santos 0001</author>
+<author pid="246/2082">Juliano Terra</author>
+<author pid="241/3945">Bernardo Scapini Consoli</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Multidomain Contextual Embeddings for Named Entity Recognition.</title>
+<pages>434-441</pages>
+<year>2019</year>
+<booktitle>IberLEF@SEPLN</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2421/NER_Portuguese_paper_3.pdf</ee>
+<crossref>conf/sepln/2019iberlef</crossref>
+<url>db/conf/sepln/iberlef2019.html#SantosTCV19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-06178" mdate="2019-05-21">
+<author pid="16/11062">Marlo Souza</author>
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Iterated Belief Base Revision: A Dynamic Epistemic Logic Approach.</title>
+<year>2019</year>
+<volume>abs/1902.06178</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.06178</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-06178</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-05907" mdate="2019-12-02">
+<author pid="16/11062">Marlo Souza</author>
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="m/JJCMeyer">John-Jules Ch. Meyer</author>
+<title>A Dynamic Preference Logic for reasoning about Agent Programming.</title>
+<year>2019</year>
+<volume>abs/1911.05907</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.05907</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-05907</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-05908" mdate="2019-12-02">
+<author pid="16/11062">Marlo Souza</author>
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Tractable reasoning about Agent Programming in Dynamic Preference Logic.</title>
+<year>2019</year>
+<volume>abs/1911.05908</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.05908</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-05908</url>
+</article>
+</r>
+<r><article key="journals/cys/VieiraMQFCA18" mdate="2025-03-14">
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author orcid="0000-0001-6815-2674" pid="57/4457">Am&#225;lia Mendes</author>
+<author orcid="0000-0002-5086-059X" pid="73/4272">Paulo Quaresma</author>
+<author pid="89/9377">Evandro Fonseca</author>
+<author pid="97/1724">Sandra Collovini</author>
+<author pid="38/267">Sandra Antunes</author>
+<title>Corref-PT: A Semi-Automatic Annotated Portuguese Coreference Corpus.</title>
+<year>2018</year>
+<volume>22</volume>
+<journal>Computaci&#243;n y Sistemas</journal>
+<number>4</number>
+<ee type="archive">https://doi.org/10.13053/cys-22-4-3063</ee>
+<ee>https://www.wikidata.org/entity/Q125998950</ee>
+<url>db/journals/cys/cys22.html#VieiraMQFCA18</url>
+</article>
+</r>
+<r><article key="journals/linguamatica/ConsoliNAV18" mdate="2021-09-23">
+<author orcid="0000-0003-0656-511X" pid="241/3945">Bernardo Scapini Consoli</author>
+<author pid="241/3927">Joaquim Francisco Santos Neto</author>
+<author pid="97/1724">Sandra Collovini de Abreu</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>An&#225;lise da capacidade de identifica&#231;&#227;o de par&#225;frase em ferramentas de resolu&#231;&#227;o de correfer&#234;ncia.</title>
+<pages>45-51</pages>
+<year>2018</year>
+<volume>10</volume>
+<journal>Linguam&#225;tica</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.21814/lm.10.2.288</ee>
+<url>db/journals/linguamatica/linguamatica10.html#ConsoliNAV18</url>
+</article>
+</r>
+<r><article key="journals/linguamatica/BarreiroBVQ18" mdate="2025-03-03">
+<author orcid="0000-0001-9521-3006" pid="06/3946">Anabela Barreiro</author>
+<author orcid="0000-0003-4603-4364" pid="98/6884">Jorge Baptista</author>
+<author pid="05/465">Renata Vieira</author>
+<author orcid="0000-0002-5086-059X" pid="73/4272">Paulo Quaresma</author>
+<title>Pref&#225;cio - POP - Por Outras Palavras.</title>
+<pages>i-ix</pages>
+<year>2018</year>
+<volume>10</volume>
+<journal>Linguam&#225;tica</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.21814/lm.10.2.283</ee>
+<url>db/journals/linguamatica/linguamatica10.html#BarreiroBVQ18</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/SouzaMV18" mdate="2023-03-24">
+<author pid="16/11062">Marlo Souza</author>
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Tractable Reasoning about Agent Programming in Dynamic Preference Logic.</title>
+<pages>366-371</pages>
+<year>2018</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2018.00070</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2018.00070</ee>
+<crossref>conf/bracis/2018</crossref>
+<url>db/conf/bracis/bracis2018.html#SouzaMV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cbms/SantosUWV18" mdate="2023-03-24">
+<author pid="204/3810">Henrique Dias Pereira dos Santos</author>
+<author pid="223/6991">Ana Helena D. P. S. Ulbrich</author>
+<author pid="204/3806">Vinicius Woloszyn</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>An Initial Investigation of the Charlson Comorbidity Index Regression Based on Clinical Notes.</title>
+<pages>6-11</pages>
+<year>2018</year>
+<booktitle>CBMS</booktitle>
+<ee>https://doi.org/10.1109/CBMS.2018.00009</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CBMS.2018.00009</ee>
+<crossref>conf/cbms/2018</crossref>
+<url>db/conf/cbms/cbms2018.html#SantosUWV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cicling/ColloviniSLFPSMV18" mdate="2023-03-11">
+<author orcid="0000-0003-1257-4100" pid="97/1724">Sandra Collovini</author>
+<author orcid="0000-0002-2410-3536" pid="204/3810">Henrique D. P. dos Santos</author>
+<author pid="63/10089">Thiago Lima</author>
+<author pid="89/9377">Evandro Fonseca</author>
+<author pid="219/8490">Bolivar Pereira</author>
+<author orcid="0000-0002-5373-7271" pid="16/11062">Marlo Souza</author>
+<author pid="341/1855">S&#237;lvia Moraes</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Cross-Framework Evaluation for Portuguese POS Taggers and Parsers.</title>
+<pages>197-208</pages>
+<year>2018</year>
+<booktitle>CICLing (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-23804-8_16</ee>
+<crossref>conf/cicling/2018-2</crossref>
+<url>db/conf/cicling/cicling2018-2.html#ColloviniSLFPSMV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emas/FreitasBV18" mdate="2021-04-09">
+<author pid="146/4045">Artur Freitas</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Designing Multi-Agent Systems from Ontology Models.</title>
+<pages>76-95</pages>
+<year>2018</year>
+<booktitle>EMAS@AAMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-25693-7_5</ee>
+<crossref>conf/emas/2018</crossref>
+<url>db/conf/emas/emas2018.html#FreitasBV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/NunesSSV18" mdate="2025-02-07">
+<author orcid="0009-0007-8842-421X" pid="371/5173">Rafael Oleques Nunes</author>
+<author pid="236/1488">Jo&#227;o E. Soares</author>
+<author orcid="0000-0002-2410-3536" pid="204/3810">Henrique D. P. dos Santos</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>MeSHx-Notes: Web-System for Clinical Notes.</title>
+<pages>5-12</pages>
+<year>2018</year>
+<booktitle>AIH@IJCAI (Revised Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-12738-1_1</ee>
+<crossref>conf/ijcai/2018aih-s</crossref>
+<url>db/conf/ijcai/aih2018s.html#NunesSSV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/SantosNSV18" mdate="2025-02-07">
+<author pid="204/3810">Henrique D. P. dos Santos</author>
+<author pid="371/5173">Rafael Oleques Nunes</author>
+<author pid="236/1488">Jo&#227;o E. Soares</author>
+<author pid="05/465">Renata Vieira</author>
+<title>MeSHx-Notes: web-system for clinical notes information extraction.</title>
+<pages>140-143</pages>
+<year>2018</year>
+<booktitle>AIH@IJCAI</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2142/short10.pdf</ee>
+<crossref>conf/ijcai/2018aih</crossref>
+<url>db/conf/ijcai/aih2018.html#SantosNSV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/SantosWV18" mdate="2019-08-19">
+<author pid="204/3810">Henrique D. P. dos Santos</author>
+<author pid="204/3806">Vinicius Woloszyn</author>
+<author pid="05/465">Renata Vieira</author>
+<title>BlogSet-BR: A Brazilian Portuguese Blog Corpus.</title>
+<year>2018</year>
+<booktitle>LREC</booktitle>
+<crossref>conf/lrec/2018</crossref>
+<url>db/conf/lrec/lrec2018.html#SantosWV18</url>
+<ee type="oa">http://www.lrec-conf.org/proceedings/lrec2018/summaries/10.html</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nldb/FonsecaVV18" mdate="2019-09-25">
+<author pid="89/9377">Evandro Fonseca</author>
+<author pid="130/0476">Aline A. Vanin</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Mention Clustering to Improve Portuguese Semantic Coreference Resolution.</title>
+<pages>256-263</pages>
+<year>2018</year>
+<booktitle>NLDB</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-91947-8_25</ee>
+<crossref>conf/nldb/2018</crossref>
+<url>db/conf/nldb/nldb2018.html#FonsecaVV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nldb/ColloviniPSV18" mdate="2019-09-25">
+<author pid="97/1724">Sandra Collovini</author>
+<author pid="219/8490">Bolivar Pereira</author>
+<author pid="204/3810">Henrique D. P. dos Santos</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Annotating Relations Between Named Entities with Crowdsourcing.</title>
+<pages>290-297</pages>
+<year>2018</year>
+<booktitle>NLDB</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-91947-8_29</ee>
+<crossref>conf/nldb/2018</crossref>
+<url>db/conf/nldb/nldb2018.html#ColloviniPSV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/propor/FonsecaVV18" mdate="2018-10-03">
+<author pid="89/9377">Evandro Fonseca</author>
+<author pid="130/0476">Aline A. Vanin</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Nominal Coreference Resolution Using Semantic Knowledge.</title>
+<pages>37-45</pages>
+<year>2018</year>
+<booktitle>PROPOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-99722-3_4</ee>
+<crossref>conf/propor/2018</crossref>
+<url>db/conf/propor/propor2018.html#FonsecaVV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/propor/LimaCLFHHV18" mdate="2025-03-03">
+<author pid="63/10089">Thiago Lima</author>
+<author pid="97/1724">Sandra Collovini</author>
+<author orcid="0000-0003-1764-8535" pid="59/2567">Ana Luisa Leal</author>
+<author pid="89/9377">Evandro Fonseca</author>
+<author pid="226/3863">Xiaoxuan Han</author>
+<author pid="146/9031">Siyu Huang</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Analysing Semantic Resources for Coreference Resolution.</title>
+<pages>284-293</pages>
+<year>2018</year>
+<booktitle>PROPOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-99722-3_29</ee>
+<crossref>conf/propor/2018</crossref>
+<url>db/conf/propor/propor2018.html#LimaCLFHHV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/SchmidtBTV18" mdate="2018-10-31">
+<author pid="20/3363">Daniela Schmidt</author>
+<author pid="192/4860">Rafael Basso</author>
+<author pid="61/1342">C&#225;ssia Trojahn</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Matching Domain and Top-level ontologies exploring Word Sense Disambiguation and Word Embedding.</title>
+<pages>27-38</pages>
+<year>2018</year>
+<booktitle>ISWC (Best Workshop Papers)</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-894-5-27</ee>
+<crossref>conf/semweb/2018best</crossref>
+<url>db/conf/semweb/best2018.html#SchmidtBTV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/KamelSTV18" mdate="2023-03-10">
+<author pid="51/1051">Mouna Kamel</author>
+<author pid="20/3363">Daniela Schmidt</author>
+<author pid="61/1342">C&#225;ssia Trojahn</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Exploiting BabelNet for generating subsumption.</title>
+<pages>216-217</pages>
+<year>2018</year>
+<booktitle>OM@ISWC</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2288/om2018_poster1.pdf</ee>
+<crossref>conf/semweb/2018om</crossref>
+<url>db/conf/semweb/om2018.html#KamelSTV18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-03245" mdate="2018-11-22">
+<author pid="94/473">Roger Granada</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="61/1342">C&#225;ssia Trojahn</author>
+<author pid="96/6433">Nathalie Aussenac-Gilles</author>
+<title>Evaluating the Complementarity of Taxonomic Relation Extraction Methods Across Different Languages.</title>
+<year>2018</year>
+<volume>abs/1811.03245</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.03245</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-03245</url>
+</article>
+</r>
+<r><article key="journals/ao/FreitasBV17" mdate="2020-07-14">
+<author pid="146/4045">Artur Freitas</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Model-driven engineering of multi-agent systems based on ontologies.</title>
+<pages>157-188</pages>
+<year>2017</year>
+<volume>12</volume>
+<journal>Appl. Ontology</journal>
+<number>2</number>
+<ee>https://doi.org/10.3233/AO-170182</ee>
+<ee>https://www.wikidata.org/entity/Q57763505</ee>
+<url>db/journals/ao/ao12.html#FreitasBV17</url>
+</article>
+</r>
+<r><article key="journals/linguamatica/FonsecaSAVV17" mdate="2019-06-02">
+<author pid="89/9377">Evandro Brasil da Fonseca</author>
+<author pid="206/1092">Vinicius Sesti</author>
+<author pid="184/8958">Andr&#233; Antonitsch</author>
+<author pid="130/0476">Aline A. Vanin</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>CORP: Uma Abordagem Baseada em Regras e Conhecimento Sem&#226;ntico para a Resolu&#231;&#227;o de Correfer&#234;ncias.</title>
+<pages>3-18</pages>
+<year>2017</year>
+<volume>9</volume>
+<journal>Linguam&#225;tica</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.21814/lm.9.1.241</ee>
+<ee>https://www.wikidata.org/entity/Q57763496</ee>
+<url>db/journals/linguamatica/linguamatica9.html#FonsecaSAVV17</url>
+</article>
+</r>
+<r><article key="journals/wias/FreitasPHMVB17" mdate="2024-08-04">
+<author pid="146/4045">Artur Freitas</author>
+<author orcid="0000-0002-9438-5508" pid="151/3594">Alison R. Panisson</author>
+<author pid="121/5091">Lucas Hilgert</author>
+<author pid="10/985">Felipe Meneguzzi</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Applying ontologies to the development and execution of Multi-Agent Systems.</title>
+<pages>291-302</pages>
+<year>2017</year>
+<volume>15</volume>
+<journal>Web Intell.</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/WEB-170366</ee>
+<url>db/journals/wias/wias15.html#FreitasPHMVB17</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/SouzaMVM17" mdate="2023-03-24">
+<author pid="16/11062">Marlo Souza</author>
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="m/JJCMeyer">John-Jules Ch. Meyer</author>
+<title>A Dynamic Preference Logic for Reasoning about Agent Programming.</title>
+<pages>133-138</pages>
+<year>2017</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2017.43</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2017.43</ee>
+<crossref>conf/bracis/2017</crossref>
+<url>db/conf/bracis/bracis2017.html#SouzaMVM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ontobras/BassoSSV17" mdate="2023-03-10">
+<author pid="192/4860">Rafael Basso</author>
+<author pid="20/3363">Daniela Schmidt</author>
+<author pid="61/1342">C&#225;ssia Trojahn dos Santos</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Alinhamento entre Ontologias de Topo e de Dom&#237;nio Usando WordNet(Top-level and Domain Ontologies Alignment via WordNet).</title>
+<pages>9-20</pages>
+<year>2017</year>
+<booktitle>ONTOBRAS</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1908/paper1.pdf</ee>
+<crossref>conf/ontobras/2017</crossref>
+<url>db/conf/ontobras/ontobras2017.html#BassoSSV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ontobras/SchmidtTV17" mdate="2023-03-10">
+<author pid="20/3363">Daniela Schmidt</author>
+<author pid="61/1342">C&#225;ssia Trojahn</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Aligning Top-level and Domain Ontologies.</title>
+<pages>167-172</pages>
+<year>2017</year>
+<booktitle>ONTOBRAS</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1908/paper17.pdf</ee>
+<crossref>conf/ontobras/2017</crossref>
+<url>db/conf/ontobras/ontobras2017.html#SchmidtTV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/SchmidtBTV17" mdate="2023-03-10">
+<author pid="20/3363">Daniela Schmidt</author>
+<author pid="192/4860">Rafael Basso</author>
+<author pid="61/1342">C&#225;ssia Trojahn</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Matching domain and top-level ontologies via OntoWordNet.</title>
+<pages>225-226</pages>
+<year>2017</year>
+<booktitle>OM@ISWC</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2032/om2017_poster10.pdf</ee>
+<crossref>conf/semweb/2017om</crossref>
+<url>db/conf/semweb/om2017.html#SchmidtBTV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/SeveroTV17" mdate="2023-03-10">
+<author pid="141/4439">Bernardo Severo</author>
+<author pid="61/1342">C&#225;ssia Trojahn</author>
+<author pid="05/465">Renata Vieira</author>
+<title>VOAR 3.0 : a Configurable Environment for Manipulating Multiple Ontology Alignments.</title>
+<year>2017</year>
+<booktitle>ISWC (Posters, Demos &#38; Industry Tracks)</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1963/paper550.pdf</ee>
+<crossref>conf/semweb/2017p</crossref>
+<url>db/conf/semweb/iswc2017p.html#SeveroTV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sepln/FonsecaSCVLQ17" mdate="2023-03-10">
+<author pid="89/9377">Evandro Brasil da Fonseca</author>
+<author pid="206/1092">Vinicius Sesti</author>
+<author pid="97/1724">Sandra Collovini</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="59/2567">Ana Luisa Leal</author>
+<author orcid="0000-0002-5086-059X" pid="73/4272">Paulo Quaresma</author>
+<title>Collective Elaboration of a Coreference Annotated Corpus for Portuguese Texts.</title>
+<pages>68-82</pages>
+<year>2017</year>
+<booktitle>IberEval@SEPLN</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1881/Overview3.pdf</ee>
+<crossref>conf/sepln/2017ibereval</crossref>
+<url>db/conf/sepln/ibereval2017.html#FonsecaSCVLQ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stil/SantosVPP17" mdate="2021-08-06">
+<author pid="204/3810">Henrique D. P. dos Santos</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="212/5745">Greice Pinho</author>
+<author pid="212/5817">Jackson Pinheiro</author>
+<title>Wheel of Life: an initial investigation. Topic-Related Polarity Visualization in Personal Stories.</title>
+<pages>37-41</pages>
+<year>2017</year>
+<booktitle>STIL</booktitle>
+<ee type="oa">https://aclanthology.org/W17-6606/</ee>
+<crossref>conf/stil/2017</crossref>
+<url>db/conf/stil/stil2017.html#SantosVPP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stil/AmaralCFVVG17" mdate="2021-08-06">
+<author pid="146/3852">Daniela O. F. do Amaral</author>
+<author pid="97/1724">Sandra Collovini</author>
+<author pid="184/8555">Anny Figueira</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="61/5457">Marco Gonzalez</author>
+<title>Processo de constru&#231;&#227;o de um corpus anotado com Entidades Geol&#243;gicas visando REN (Building an annotated corpus with geological entities for NER)[In Portuguese].</title>
+<pages>63-72</pages>
+<year>2017</year>
+<booktitle>STIL</booktitle>
+<ee type="oa">https://aclanthology.org/W17-6609/</ee>
+<crossref>conf/stil/2017</crossref>
+<url>db/conf/stil/stil2017.html#AmaralCFVVG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tableaux/SouzaMV17" mdate="2019-09-25">
+<author pid="16/11062">Marlo Souza</author>
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Dynamic Preference Logic as a Logic of Belief Change.</title>
+<pages>185-200</pages>
+<year>2017</year>
+<booktitle>DALI@TABLEAUX</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-73579-5_12</ee>
+<crossref>conf/tableaux/2017dali</crossref>
+<url>db/conf/tableaux/dali2017.html#SouzaMV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wassa/SantosV17" mdate="2021-08-06">
+<author pid="204/3810">Henrique D. P. dos Santos</author>
+<author pid="05/465">Renata Vieira</author>
+<title>PLN-PUCRS at EmoInt-2017: Psycholinguistic features for emotion intensity prediction in tweets.</title>
+<pages>189-192</pages>
+<year>2017</year>
+<booktitle>WASSA@EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/w17-5225</ee>
+<ee type="oa">https://aclanthology.org/W17-5225/</ee>
+<crossref>conf/wassa/2017</crossref>
+<url>db/conf/wassa/wassa2017.html#SantosV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/SantosWV17" mdate="2018-11-14">
+<author pid="204/3810">Henrique D. P. dos Santos</author>
+<author pid="204/3806">Vinicius Woloszyn</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Portuguese personal story analysis and detection in blogs.</title>
+<pages>709-715</pages>
+<year>2017</year>
+<booktitle>WI</booktitle>
+<ee>https://doi.org/10.1145/3106426.3106517</ee>
+<ee>https://www.wikidata.org/entity/Q57763508</ee>
+<crossref>conf/webi/2017</crossref>
+<url>db/conf/webi/webi2017.html#SantosWV17</url>
+</inproceedings>
+</r>
+<r><article key="journals/kbs/LopesFV16" mdate="2021-10-14">
+<author orcid="0000-0003-0314-140X" pid="87/8008">Lucelene Lopes</author>
+<author orcid="0000-0003-3959-0434" pid="f/PauloFernandes">Paulo Fernandes 0001</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Estimating term domain relevance through term frequency, disjoint corpora frequency - tf-dcf.</title>
+<pages>237-249</pages>
+<year>2016</year>
+<volume>97</volume>
+<journal>Knowl. Based Syst.</journal>
+<ee>https://doi.org/10.1016/j.knosys.2015.12.015</ee>
+<ee>https://www.wikidata.org/entity/Q57763517</ee>
+<url>db/journals/kbs/kbs97.html#LopesFV16</url>
+</article>
+</r>
+<r><inproceedings key="conf/flairs/SchmidtPFBMV16" mdate="2022-10-26">
+<author pid="20/3363">Daniela Schmidt</author>
+<author pid="151/3594">Alison R. Panisson</author>
+<author pid="146/4045">Artur Freitas</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="10/985">Felipe Meneguzzi</author>
+<author pid="05/465">Renata Vieira</author>
+<title>An Ontology-Based Mobile Application for Task Managing in Collaborative Groups.</title>
+<pages>522-526</pages>
+<year>2016</year>
+<booktitle>FLAIRS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS16/paper/view/12956</ee>
+<crossref>conf/flairs/2016</crossref>
+<url>db/conf/flairs/flairs2016.html#SchmidtPFBMV16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kr/SouzaMVM16" mdate="2021-02-09">
+<author pid="16/11062">Marlo Souza</author>
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="m/JJCMeyer">John-Jules Ch. Meyer</author>
+<title>Preference and Priorities: A Study Based on Contrction.</title>
+<pages>155-165</pages>
+<year>2016</year>
+<booktitle>KR</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/KR/KR16/paper/view/12897</ee>
+<crossref>conf/kr/2016</crossref>
+<url>db/conf/kr/kr2016.html#SouzaMVM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/ColloviniMV16" mdate="2019-08-19">
+<author pid="97/1724">Sandra Collovini</author>
+<author pid="181/7176">Gabriel Machado</author>
+<author pid="05/465">Renata Vieira</author>
+<title>A Sequence Model Approach to Relation Extraction in Portuguese.</title>
+<year>2016</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">http://www.lrec-conf.org/proceedings/lrec2016/summaries/647.html</ee>
+<crossref>conf/lrec/2016</crossref>
+<url>db/conf/lrec/lrec2016.html#ColloviniMV16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/FonsecaACAVF16" mdate="2019-08-19">
+<author pid="89/9377">Evandro Brasil da Fonseca</author>
+<author pid="184/8958">Andr&#233; Antonitsch</author>
+<author pid="97/1724">Sandra Collovini</author>
+<author pid="146/3852">Daniela O. F. do Amaral</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="184/8555">Anny Figueira</author>
+<title>Summ-it++: an Enriched Version of the Summ-it Corpus.</title>
+<year>2016</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">http://www.lrec-conf.org/proceedings/lrec2016/summaries/570.html</ee>
+<crossref>conf/lrec/2016</crossref>
+<url>db/conf/lrec/lrec2016.html#FonsecaACAVF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/FonsecaVV16" mdate="2019-08-19">
+<author pid="89/9377">Evandro Brasil da Fonseca</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="130/0476">Aline A. Vanin</author>
+<title>Adapting an Entity Centric Model for Portuguese Coreference Resolution.</title>
+<year>2016</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">http://www.lrec-conf.org/proceedings/lrec2016/summaries/573.html</ee>
+<crossref>conf/lrec/2016</crossref>
+<url>db/conf/lrec/lrec2016.html#FonsecaVV16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ontobras/SchmidtTVK16" mdate="2023-03-10">
+<author pid="20/3363">Daniela Schmidt</author>
+<author pid="61/1342">C&#225;ssia Trojahn</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="51/1051">Mouna Kamel</author>
+<title>Validating Top-level and Domain Ontology Alignments using WordNet.</title>
+<pages>119-130</pages>
+<year>2016</year>
+<booktitle>ONTOBRAS</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1862/paper-10.pdf</ee>
+<crossref>conf/ontobras/2016</crossref>
+<url>db/conf/ontobras/ontobras2016.html#SchmidtTVK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/propor/ColloviniMV16" mdate="2018-11-14">
+<author pid="97/1724">Sandra Collovini</author>
+<author pid="181/7176">Gabriel Machado</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Extracting and Structuring Open Relations from Portuguese Text.</title>
+<pages>153-164</pages>
+<year>2016</year>
+<booktitle>PROPOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-41552-9_16</ee>
+<ee>https://www.wikidata.org/entity/Q57763522</ee>
+<crossref>conf/propor/2016</crossref>
+<url>db/conf/propor/propor2016.html#ColloviniMV16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/propor/FonsecaVV16" mdate="2018-11-14">
+<author pid="89/9377">Evandro Brasil da Fonseca</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="130/0476">Aline A. Vanin</author>
+<title>Improving Coreference Resolution with Semantic Knowledge.</title>
+<pages>213-224</pages>
+<year>2016</year>
+<booktitle>PROPOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-41552-9_21</ee>
+<ee>https://www.wikidata.org/entity/Q57763524</ee>
+<crossref>conf/propor/2016</crossref>
+<url>db/conf/propor/propor2016.html#FonsecaVV16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/SchmidtSV16" mdate="2023-03-10">
+<author pid="20/3363">Daniela Schmidt</author>
+<author pid="61/1342">C&#225;ssia Trojahn dos Santos</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Analysing top-level and domain ontology alignments from matching systems.</title>
+<pages>13-24</pages>
+<year>2016</year>
+<booktitle>OM@ISWC</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1766/om2016_Tpaper2.pdf</ee>
+<crossref>conf/semweb/2016om</crossref>
+<url>db/conf/semweb/om2016.html#SchmidtSV16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/LopesFV16" mdate="2023-03-24">
+<author orcid="0000-0003-0314-140X" pid="87/8008">Lucelene Lopes</author>
+<author orcid="0000-0003-3959-0434" pid="f/PauloFernandes">Paulo Fernandes 0001</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>ExATO - High Quality Term Extraction for Portuguese and English.</title>
+<pages>540-545</pages>
+<year>2016</year>
+<booktitle>WI</booktitle>
+<ee>https://doi.org/10.1109/WI.2016.0092</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI.2016.0092</ee>
+<ee>https://www.wikidata.org/entity/Q57763499</ee>
+<crossref>conf/webi/2016</crossref>
+<url>db/conf/webi/webi2016.html#LopesFV16</url>
+</inproceedings>
+</r>
+<r><incollection key="series/tanlp/PoesioSVV16" mdate="2018-02-07">
+<author pid="60/6334">Massimo Poesio</author>
+<author pid="77/5552">Roland Stuckardt</author>
+<author pid="70/8150">Yannick Versley</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Early Approaches to Anaphora Resolution: Theoretically Inspired and Heuristic-Based.</title>
+<pages>55-94</pages>
+<year>2016</year>
+<booktitle>Anaphora Resolution - Algorithms, Resources, and Applications</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-47909-4_3</ee>
+<crossref>series/tanlp/2016anaphora</crossref>
+<url>db/series/tanlp/anaphora2016.html#PoesioSVV16</url>
+</incollection>
+</r>
+<r><article key="journals/jbcs/LopesV15" mdate="2021-10-14">
+<author orcid="0000-0003-0314-140X" pid="87/8008">Lucelene Lopes</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Evaluation of cutoff policies for term extraction.</title>
+<pages>9</pages>
+<year>2015</year>
+<volume>21</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s13173-015-0025-0</ee>
+<ee>https://www.wikidata.org/entity/Q57763548</ee>
+<url>db/journals/jbcs/jbcs21.html#LopesV15</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/PanissonMVB15" mdate="2023-03-24">
+<author pid="151/3594">Alison R. Panisson</author>
+<author pid="10/985">Felipe Meneguzzi</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Towards Practical Argumentation in Multi-agent Systems.</title>
+<pages>98-103</pages>
+<year>2015</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2015.30</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2015.30</ee>
+<ee>https://www.wikidata.org/entity/Q57763538</ee>
+<crossref>conf/bracis/2015</crossref>
+<url>db/conf/bracis/bracis2015.html#PanissonMVB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/LopesFGV15" mdate="2023-03-24">
+<author orcid="0000-0003-0314-140X" pid="87/8008">Lucelene Lopes</author>
+<author orcid="0000-0003-3959-0434" pid="f/PauloFernandes">Paulo Fernandes 0001</author>
+<author pid="94/473">Roger Granada</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>The Impact of Contrastive Corpora for Term Relevance Measures.</title>
+<pages>146-151</pages>
+<year>2015</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2015.16</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2015.16</ee>
+<ee>https://www.wikidata.org/entity/Q57763533</ee>
+<crossref>conf/bracis/2015</crossref>
+<url>db/conf/bracis/bracis2015.html#LopesFGV15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/FreitasV15" mdate="2023-03-24">
+<author orcid="0000-0001-7708-4116" pid="116/4957">Larissa A. de Freitas</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Exploring Resources for Sentiment Analysis in Portuguese Language.</title>
+<pages>152-156</pages>
+<year>2015</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2015.52</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2015.52</ee>
+<ee>https://www.wikidata.org/entity/Q57763519</ee>
+<crossref>conf/bracis/2015</crossref>
+<url>db/conf/bracis/bracis2015.html#FreitasV15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/ColloviniFV15" mdate="2018-11-14">
+<author pid="97/1724">Sandra Collovini</author>
+<author pid="167/3716">Marcelo de Bairros P. Filho</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Analysing the Role of Representation Choices in Portuguese Relation Extraction.</title>
+<pages>105-116</pages>
+<year>2015</year>
+<booktitle>CLEF</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-24027-5_9</ee>
+<ee>https://www.wikidata.org/entity/Q57763544</ee>
+<crossref>conf/clef/2015</crossref>
+<url>db/conf/clef/clef2015.html#ColloviniFV15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/FonsecaVV15" mdate="2022-10-26">
+<author pid="89/9377">Evandro Brasil da Fonseca</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="130/0476">Aline A. Vanin</author>
+<title>Dealing With Imbalanced Datasets For Coreference Resolution.</title>
+<pages>169-174</pages>
+<year>2015</year>
+<booktitle>FLAIRS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS15/paper/view/10373</ee>
+<crossref>conf/flairs/2015</crossref>
+<url>db/conf/flairs/flairs2015.html#FonsecaVV15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ontobras/LopesFCV15" mdate="2023-03-10">
+<author pid="87/8008">Lucelene Lopes</author>
+<author pid="121/5340">Maria Jos&#233; Bocorny Finatto</author>
+<author pid="168/0056">Alena Ciulla</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Abordagens para Estimar Relev&#226;ncia de Rela&#231;&#245;es N&#227;o-Taxon&#244;micas Extra&#237;das de Corpus de Dom&#237;nio.</title>
+<year>2015</year>
+<booktitle>ONTOBRAS</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1442/paper_13.pdf</ee>
+<crossref>conf/ontobras/2015</crossref>
+<url>db/conf/ontobras/ontobras2015.html#LopesFCV15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ontobras/SchmidtBMV15" mdate="2023-03-10">
+<author pid="20/3363">Daniela Schmidt</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="10/985">Felipe Meneguzzi</author>
+<author pid="05/465">Renata Vieira</author>
+<title>An Ontology for Collaborative Tasks in Multi-agent Systems.</title>
+<year>2015</year>
+<booktitle>ONTOBRAS</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1442/paper_4.pdf</ee>
+<crossref>conf/ontobras/2015</crossref>
+<url>db/conf/ontobras/ontobras2015.html#SchmidtBMV15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/owled/SouzaMVM15" mdate="2018-11-14">
+<author pid="16/11062">Marlo Souza</author>
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="m/JJCMeyer">John-Jules Ch. Meyer</author>
+<title>Integrating Ontology Negotiation and Agent Communication.</title>
+<pages>56-68</pages>
+<year>2015</year>
+<booktitle>OWLED</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-33245-1_6</ee>
+<ee>https://www.wikidata.org/entity/Q57763529</ee>
+<crossref>conf/owled/2015</crossref>
+<url>db/conf/owled/owled2015.html#SouzaMVM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/SeveroSV15" mdate="2023-03-10">
+<author pid="141/4439">Bernardo Severo</author>
+<author pid="61/1342">C&#225;ssia Trojahn dos Santos</author>
+<author pid="05/465">Renata Vieira</author>
+<title>A GUI for Visualising and Manipulating Multiple Ontology Alignments.</title>
+<year>2015</year>
+<booktitle>ISWC (Posters &#38; Demos)</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1486/paper_58.pdf</ee>
+<crossref>conf/semweb/2015p</crossref>
+<url>db/conf/semweb/iswc2015p.html#SeveroSV15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stil/AmaralBV15" mdate="2021-08-06">
+<author pid="146/3852">Daniela Oliveira Ferreira do Amaral</author>
+<author pid="212/5995">Maiki Buffet</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Comparative Analysis between Notations to Classify Named Entities using Conditional Random Fields.</title>
+<pages>27-31</pages>
+<year>2015</year>
+<booktitle>STIL</booktitle>
+<ee type="oa">https://aclanthology.org/W15-5603/</ee>
+<crossref>conf/stil/2015</crossref>
+<url>db/conf/stil/stil2015.html#AmaralBV15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stil/LopesV15" mdate="2021-08-06">
+<author pid="87/8008">Lucelene Lopes</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Building and Applying Profiles Through Term Extraction.</title>
+<pages>91-100</pages>
+<year>2015</year>
+<booktitle>STIL</booktitle>
+<ee type="oa">https://aclanthology.org/W15-5613/</ee>
+<crossref>conf/stil/2015</crossref>
+<url>db/conf/stil/stil2015.html#LopesV15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/FariasHMVB15" mdate="2023-03-24">
+<author pid="264/8929">Giovani Parente Farias</author>
+<author pid="121/5091">Lucas Welter Hilgert</author>
+<author pid="10/985">Felipe Rech Meneguzzi</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael Heitor Bordini</author>
+<title>Automatic Generation of Plan Libraries for Plan Recognition Performance Evaluation.</title>
+<pages>129-132</pages>
+<year>2015</year>
+<booktitle>WI-IAT (2)</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2015.55</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2015.55</ee>
+<ee>https://www.wikidata.org/entity/Q57763513</ee>
+<crossref>conf/webi/2015-2</crossref>
+<url>db/conf/webi/webi2015-2.html#FariasHMVB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/FreitasPHMVB15" mdate="2023-03-24">
+<author pid="146/4045">Artur Freitas</author>
+<author pid="151/3594">Alison R. Panisson</author>
+<author pid="121/5091">Lucas Hilgert</author>
+<author pid="10/985">Felipe Meneguzzi</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Integrating Ontologies with Multi-Agent Systems through CArtAgO Artifacts.</title>
+<pages>143-150</pages>
+<year>2015</year>
+<booktitle>WI-IAT (2)</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2015.116</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2015.116</ee>
+<ee>https://www.wikidata.org/entity/Q57763526</ee>
+<crossref>conf/webi/2015-2</crossref>
+<url>db/conf/webi/webi2015-2.html#FreitasPHMVB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/PanissonMVB15" mdate="2023-03-24">
+<author pid="151/3594">Alison R. Panisson</author>
+<author pid="10/985">Felipe Meneguzzi</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Towards Practical Argumentation-Based Dialogues in Multi-agent Systems.</title>
+<pages>151-158</pages>
+<year>2015</year>
+<booktitle>WI-IAT (2)</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2015.208</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2015.208</ee>
+<ee>https://www.wikidata.org/entity/Q57763541</ee>
+<crossref>conf/webi/2015-2</crossref>
+<url>db/conf/webi/webi2015-2.html#PanissonMVB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/SouzaMVM15" mdate="2023-03-24">
+<author pid="16/11062">Marlo Souza</author>
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="m/JJCMeyer">John-Jules Ch. Meyer</author>
+<title>Communication for Agents with Ontological Reasoning.</title>
+<pages>182-185</pages>
+<year>2015</year>
+<booktitle>WI-IAT (2)</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2015.67</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2015.67</ee>
+<ee>https://www.wikidata.org/entity/Q57763514</ee>
+<crossref>conf/webi/2015-2</crossref>
+<url>db/conf/webi/webi2015-2.html#SouzaMVM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/FreitasBMV15" mdate="2023-03-24">
+<author pid="146/4045">Artur Freitas</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="10/985">Felipe Meneguzzi</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Towards Integrating Ontologies in Multi-agent Programming Platforms.</title>
+<pages>225-226</pages>
+<year>2015</year>
+<booktitle>WI-IAT (3)</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2015.207</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2015.207</ee>
+<ee>https://www.wikidata.org/entity/Q57763535</ee>
+<crossref>conf/webi/2015-3</crossref>
+<url>db/conf/webi/webi2015-3.html#FreitasBMV15</url>
+</inproceedings>
+</r>
+<r><article key="journals/linguamatica/AmaralV14" mdate="2019-05-23">
+<author pid="146/3852">Daniela Oliveira Ferreira do Amaral</author>
+<author pid="05/465">Renata Vieira</author>
+<title>NERP-CRF: uma ferramenta para o reconhecimento de entidades nomeadas por meio de Conditional Random Fields.</title>
+<pages>41-49</pages>
+<year>2014</year>
+<volume>6</volume>
+<journal>Linguam&#225;tica</journal>
+<number>1</number>
+<ee type="oa">http://www.linguamatica.com/index.php/linguamatica/article/view/v6n1-03</ee>
+<url>db/journals/linguamatica/linguamatica6.html#AmaralV14</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/FreitasSPBMV14" mdate="2023-03-21">
+<author pid="146/4045">Artur Freitas</author>
+<author orcid="0000-0002-0076-1462" pid="20/3363">Daniela Schmidt</author>
+<author pid="151/3594">Alison R. Panisson</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="10/985">Felipe Meneguzzi</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Applying Ontologies and Agent Technologies to Generate Ambient Intelligence Applications.</title>
+<pages>22-33</pages>
+<year>2014</year>
+<booktitle>ARE/AVSA@AAMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-46241-6_3</ee>
+<crossref>conf/atal/2014care</crossref>
+<url>db/conf/atal/care2014.html#FreitasSPBMV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/FagundesMBV14" mdate="2014-09-25">
+<author pid="11/2749">Moser Silva Fagundes</author>
+<author pid="10/985">Felipe Meneguzzi</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Dealing with ambiguity in plan recognition under time constraints.</title>
+<pages>389-396</pages>
+<year>2014</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2615796</ee>
+<crossref>conf/atal/2014</crossref>
+<url>db/conf/atal/aamas2014.html#FagundesMBV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/PanissonMFVB14" mdate="2014-09-25">
+<author pid="151/3594">Alison R. Panisson</author>
+<author pid="10/985">Felipe Meneguzzi</author>
+<author pid="11/2749">Moser Silva Fagundes</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Formal semantics of speech acts for argumentative dialogues.</title>
+<pages>1437-1438</pages>
+<year>2014</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2617511</ee>
+<crossref>conf/atal/2014</crossref>
+<url>db/conf/atal/aamas2014.html#PanissonMFVB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dalt/FreitasSPMVB14" mdate="2023-03-21">
+<author pid="146/4045">Artur Freitas</author>
+<author orcid="0000-0002-0076-1462" pid="20/3363">Daniela Schmidt</author>
+<author pid="151/3594">Alison R. Panisson</author>
+<author pid="10/985">Felipe Meneguzzi</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Semantic Representations of Agent Plans and Planning Problem Domains.</title>
+<pages>351-366</pages>
+<year>2014</year>
+<booktitle>EMAS@AAMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-14484-9_18</ee>
+<crossref>conf/dalt/2014</crossref>
+<url>db/conf/dalt/emas2014.html#FreitasSPMVB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iberamia/ColloviniPVV14" mdate="2018-11-14">
+<author pid="97/1724">Sandra Collovini</author>
+<author pid="153/6996">Lucas Pugens</author>
+<author pid="130/0476">Aline A. Vanin</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Extraction of Relation Descriptors for Portuguese Using Conditional Random Fields.</title>
+<pages>108-119</pages>
+<year>2014</year>
+<booktitle>IBERAMIA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-12027-0_9</ee>
+<ee>https://www.wikidata.org/entity/Q57763554</ee>
+<crossref>conf/iberamia/2014</crossref>
+<url>db/conf/iberamia/iberamia2014.html#ColloviniPVV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/AmaralFLV14" mdate="2019-08-19">
+<author pid="146/3852">Daniela O. F. do Amaral</author>
+<author pid="89/9377">Evandro Brasil da Fonseca</author>
+<author pid="87/8008">Lucelene Lopes</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Comparative Analysis of Portuguese Named Entities Recognition Tools.</title>
+<pages>2554-2558</pages>
+<year>2014</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">http://www.lrec-conf.org/proceedings/lrec2014/summaries/513.html</ee>
+<crossref>conf/lrec/2014</crossref>
+<url>db/conf/lrec/lrec2014.html#AmaralFLV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/HilgertLFVHV14" mdate="2019-08-19">
+<author pid="121/5091">Lucas Welter Hilgert</author>
+<author pid="87/8008">Lucelene Lopes</author>
+<author pid="146/4045">Artur Freitas</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="146/3892">Denise N. Hogetop</author>
+<author pid="130/0476">Aline A. Vanin</author>
+<title>Building Domain Specific Bilingual Dictionaries.</title>
+<pages>2772-2777</pages>
+<year>2014</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">http://www.lrec-conf.org/proceedings/lrec2014/summaries/1112.html</ee>
+<crossref>conf/lrec/2014</crossref>
+<url>db/conf/lrec/lrec2014.html#HilgertLFVHV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/SeveroSV14" mdate="2019-08-19">
+<author pid="141/4439">Bernardo Severo</author>
+<author pid="61/1342">C&#225;ssia Trojahn dos Santos</author>
+<author pid="05/465">Renata Vieira</author>
+<title>VOAR: A Visual and Integrated Ontology Alignment Environment.</title>
+<pages>3671-3677</pages>
+<year>2014</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">http://www.lrec-conf.org/proceedings/lrec2014/summaries/851.html</ee>
+<crossref>conf/lrec/2014</crossref>
+<url>db/conf/lrec/lrec2014.html#SeveroSV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/propor/GranadaSV14" mdate="2017-05-24">
+<author pid="94/473">Roger Granada</author>
+<author pid="61/1342">C&#225;ssia Trojahn dos Santos</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Comparing Semantic Relatedness between Word Pairs in Portuguese Using Wikipedia.</title>
+<pages>170-175</pages>
+<year>2014</year>
+<booktitle>PROPOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-09761-9_17</ee>
+<crossref>conf/propor/2014</crossref>
+<url>db/conf/propor/propor2014.html#GranadaSV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/propor/AmaralFLV14" mdate="2017-05-24">
+<author pid="146/3852">Daniela O. F. do Amaral</author>
+<author pid="89/9377">Evandro Brasil da Fonseca</author>
+<author pid="87/8008">Lucelene Lopes</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Comparing NERP-CRF with Publicly Available Portuguese Named Entities Recognition Tools.</title>
+<pages>244-249</pages>
+<year>2014</year>
+<booktitle>PROPOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-09761-9_27</ee>
+<crossref>conf/propor/2014</crossref>
+<url>db/conf/propor/propor2014.html#AmaralFLV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/FreitasVHBV14" mdate="2020-10-25">
+<author orcid="0000-0001-7708-4116" pid="116/4957">Larissa A. de Freitas</author>
+<author pid="130/0476">Aline A. Vanin</author>
+<author pid="146/3892">Denise N. Hogetop</author>
+<author pid="130/0446">Marco N. Bochernitsan</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Pathways for irony detection in tweets.</title>
+<pages>628-633</pages>
+<year>2014</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2554850.2555048</ee>
+<ee>https://www.wikidata.org/entity/Q57763559</ee>
+<crossref>conf/sac/2014</crossref>
+<url>db/conf/sac/sac2014.html#FreitasVHBV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/FreitasV14" mdate="2023-03-24">
+<author pid="146/4045">Artur Freitas</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>An Ontology for Guiding Performance Testing.</title>
+<pages>400-407</pages>
+<year>2014</year>
+<booktitle>WI-IAT (2)</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2014.62</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2014.62</ee>
+<ee>https://www.wikidata.org/entity/Q57763551</ee>
+<crossref>conf/webi/2014-2</crossref>
+<url>db/conf/webi/webi2014-2.html#FreitasV14</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijcla/FreitasV13" mdate="2021-08-24">
+<author pid="116/4957">Larissa A. de Freitas</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Comparing Portuguese Opinion Lexicons in Feature-Based Sentiment Analysis.</title>
+<pages>147-158</pages>
+<year>2013</year>
+<volume>4</volume>
+<journal>Int. J. Comput. Linguistics Appl.</journal>
+<number>1</number>
+<ee>http://www.ijcla.bahripublications.com/2013-1/IJCLA-2013-1-pp-147-158-08-Comparing.pdf</ee>
+<url>db/journals/ijcla/ijcla4.html#FreitasV13</url>
+</article>
+</r>
+<r><article key="journals/jbcs/AbreuBV13" mdate="2020-05-20">
+<author pid="97/1724">Sandra Collovini de Abreu</author>
+<author pid="127/1221">Tiago Luis Bonamigo</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>A review on Relation Extraction with an eye on Portuguese.</title>
+<pages>553-571</pages>
+<year>2013</year>
+<volume>19</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1007/s13173-013-0116-8</ee>
+<ee>https://www.wikidata.org/entity/Q57763566</ee>
+<url>db/journals/jbcs/jbcs19.html#AbreuBV13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cicling/BonamigoV13" mdate="2018-11-14">
+<author pid="127/1221">Tiago Luis Bonamigo</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>A Model for Information Extraction in Portuguese Based on Text Patterns.</title>
+<pages>359-368</pages>
+<year>2013</year>
+<booktitle>CICLing (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-37256-8_30</ee>
+<ee>https://www.wikidata.org/entity/Q57763565</ee>
+<crossref>conf/cicling/2013-2</crossref>
+<url>db/conf/cicling/cicling2013-2.html#BonamigoV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/context/FagundesMVB13" mdate="2018-11-14">
+<author pid="11/2749">Moser Silva Fagundes</author>
+<author orcid="0000-0003-3549-6168" pid="10/985">Felipe Meneguzzi</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Interaction Patterns in a Multi-Agent Organisation to Support Shared Tasks.</title>
+<pages>364-370</pages>
+<year>2013</year>
+<booktitle>CONTEXT</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-40972-1_30</ee>
+<ee>https://www.wikidata.org/entity/Q57763572</ee>
+<crossref>conf/context/2013</crossref>
+<url>db/conf/context/context2013.html#FagundesMVB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/FerreiraLVF13" mdate="2023-03-24">
+<author pid="121/5217">Vinicius H. Ferreira</author>
+<author orcid="0000-0003-0314-140X" pid="87/8008">Lucelene Lopes</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author orcid="0000-0002-6022-8408" pid="121/5340">Maria Jos&#233; Bocorny Finatto</author>
+<title>Automatic Extraction of Domain Specific Non-taxonomic Relations from Portuguese Corpora.</title>
+<pages>135-138</pages>
+<year>2013</year>
+<booktitle>Web Intelligence/IAT Workshops</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2013.167</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2013.167</ee>
+<ee>https://www.wikidata.org/entity/Q57763570</ee>
+<crossref>conf/iat/2013w</crossref>
+<url>db/conf/iat/iatw2013.html#FerreiraLVF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/SeveroTV13" mdate="2023-03-10">
+<author pid="141/4439">Bernardo Severo</author>
+<author pid="61/1342">C&#225;ssia Trojahn dos Santos</author>
+<author pid="05/465">Renata Vieira</author>
+<title>PLATAL - a tool for web hierarchies extraction and alignment.</title>
+<pages>227-228</pages>
+<year>2013</year>
+<booktitle>OM</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1111/om2013_poster5.pdf</ee>
+<crossref>conf/semweb/2013om</crossref>
+<url>db/conf/semweb/om2013.html#SeveroTV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stil/AmaralV13" mdate="2021-08-06">
+<author pid="146/3852">Daniela O. F. do Amaral</author>
+<author pid="05/465">Renata Vieira</author>
+<title>O Reconhecimento de Entidades Nomeadas por meio de Conditional Random Fields para a L&#237;ngua Portuguesa (Named Entity Recognition with Conditional Random Fields for the Portuguese Language) [in Portuguese].</title>
+<year>2013</year>
+<booktitle>STIL</booktitle>
+<ee type="oa">https://aclanthology.org/W13-4807/</ee>
+<crossref>conf/stil/2013</crossref>
+<url>db/conf/stil/stil2013.html#AmaralV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stil/FonsecaVV13" mdate="2021-08-06">
+<author pid="89/9377">Evandro Brasil da Fonseca</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="130/0476">Aline A. Vanin</author>
+<title>Gera&#231;&#227;o de features para resolu&#231;&#227;o de correfer&#234;ncia: Pessoa, Local e Organiza&#231;&#227;o (Feature Generation for Coreference Resolution: Person, Location and Organization) [in Portuguese].</title>
+<year>2013</year>
+<booktitle>STIL</booktitle>
+<ee type="oa">https://aclanthology.org/W13-4818/</ee>
+<crossref>conf/stil/2013</crossref>
+<url>db/conf/stil/stil2013.html#FonsecaVV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stil/HilgertV13" mdate="2021-08-06">
+<author pid="121/5091">Lucas Welter Hilgert</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Extra&#231;&#227;o de Vocabul&#225;rio Multil&#237;ngue para Tradu&#231;&#227;o em Dom&#237;nios Especializados (Multilingual Vocabulary Extraction for Machine Translation in Specialized Domains) [in Portuguese].</title>
+<year>2013</year>
+<booktitle>STIL</booktitle>
+<ee type="oa">https://aclanthology.org/W13-4825/</ee>
+<crossref>conf/stil/2013</crossref>
+<url>db/conf/stil/stil2013.html#HilgertV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stil/LopesV13" mdate="2021-08-06">
+<author pid="87/8008">Lucelene Lopes</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Aplicando Pontos de Corte para Listas de Termos Extra&#237;dos (Applying Cut-off Points to Lists of Extracted Terms) [in Portuguese].</title>
+<year>2013</year>
+<booktitle>STIL</booktitle>
+<ee type="oa">https://aclanthology.org/W13-4809/</ee>
+<crossref>conf/stil/2013</crossref>
+<url>db/conf/stil/stil2013.html#LopesV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stil/SouzaV13" mdate="2021-08-06">
+<author pid="16/11062">Marlo Souza</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Entity-centric Sentiment Analysis on Twitter data for the Potuguese Language.</title>
+<year>2013</year>
+<booktitle>STIL</booktitle>
+<ee type="oa">https://aclanthology.org/W13-4821/</ee>
+<crossref>conf/stil/2013</crossref>
+<url>db/conf/stil/stil2013.html#SouzaV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/FreitasV13" mdate="2020-10-25">
+<author orcid="0000-0001-7708-4116" pid="116/4957">Larissa A. de Freitas</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Ontology based feature level opinion mining for portuguese reviews.</title>
+<pages>367-370</pages>
+<year>2013</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2487788.2487944</ee>
+<crossref>conf/www/2013c</crossref>
+<url>db/conf/www/www2013c.html#FreitasV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/VaninFVB13" mdate="2018-11-06">
+<author pid="130/0476">Aline A. Vanin</author>
+<author pid="116/4957">Larissa A. de Freitas</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="130/0446">Marco N. Bochernitsan</author>
+<title>Some clues on irony detection in tweets.</title>
+<pages>635-636</pages>
+<year>2013</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2487788.2488012</ee>
+<crossref>conf/www/2013c</crossref>
+<url>db/conf/www/www2013c.html#VaninFVB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ic3k/ChavesFV12" mdate="2012-12-02">
+<author pid="69/720">Marcirio Silveira Chaves</author>
+<author pid="116/4957">Larissa A. de Freitas</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Hontology: A Multilingual Ontology for the Accommodation Sector in the Tourism Industry.</title>
+<pages>149-154</pages>
+<year>2012</year>
+<booktitle>KEOD</booktitle>
+<crossref>conf/ic3k/2012keod</crossref>
+<url>db/conf/ic3k/keod2012.html#ChavesFV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iri/GranadaVL12" mdate="2018-11-14">
+<author pid="94/473">Roger Granada</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="94/4959">Vera L&#250;cia Strube de Lima</author>
+<title>Evaluating co-occurrence order for automatic thesaurus construction.</title>
+<pages>474-481</pages>
+<year>2012</year>
+<booktitle>IRI</booktitle>
+<ee>https://doi.org/10.1109/IRI.2012.6303046</ee>
+<ee>https://www.wikidata.org/entity/Q57763576</ee>
+<crossref>conf/iri/2012</crossref>
+<url>db/conf/iri/iri2012.html#GranadaVL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/FernandesLPSV12" mdate="2019-11-22">
+<author pid="f/PauloFernandes">Paulo Fernandes 0001</author>
+<author pid="87/8008">Lucelene Lopes</author>
+<author pid="170/1557">Carlos Augusto Prolo</author>
+<author pid="34/2428">Afonso Sales</author>
+<author pid="05/465">Renata Vieira</author>
+<title>A Fast, Memory Efficient, Scalable and Multilingual Dictionary Retriever.</title>
+<pages>2520-2524</pages>
+<year>2012</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">http://www.lrec-conf.org/proceedings/lrec2012/summaries/966.html</ee>
+<crossref>conf/lrec/2012</crossref>
+<url>db/conf/lrec/lrec2012.html#FernandesLPSV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/CastilhoGMCV12" mdate="2019-08-19">
+<author pid="65/6420">Fernando M. B. M. de Castilho</author>
+<author pid="94/473">Roger Granada</author>
+<author pid="126/8615">Breno Meneghetti</author>
+<author pid="69/5667">Leonardo Carvalho</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Corpus+WordNet thesaurus generation for ontology enriching.</title>
+<pages>3463-3467</pages>
+<year>2012</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">http://www.lrec-conf.org/proceedings/lrec2012/summaries/1062.html</ee>
+<crossref>conf/lrec/2012</crossref>
+<url>db/conf/lrec/lrec2012.html#CastilhoGMCV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nldb/ChavesFSV12" mdate="2020-10-25">
+<author pid="69/720">Marcirio Silveira Chaves</author>
+<author orcid="0000-0001-7708-4116" pid="116/4957">Larissa A. de Freitas</author>
+<author pid="16/11062">Marlo Souza</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>PIRPO: An Algorithm to Deal with Polarity in Portuguese Online Reviews from the Accommodation Sector.</title>
+<pages>296-301</pages>
+<year>2012</year>
+<booktitle>NLDB</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31178-9_37</ee>
+<ee>https://www.wikidata.org/entity/Q57763579</ee>
+<crossref>conf/nldb/2012</crossref>
+<url>db/conf/nldb/nldb2012.html#ChavesFSV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ontobras/FerreiraLV12" mdate="2023-03-10">
+<author pid="121/5217">Vinicius H. Ferreira</author>
+<author pid="87/8008">Lucelene Lopes</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Descoberta Autom&#225;tica de Rela&#231;&#245;es N&#227;o-Taxon&#244;micas a Partir de Corpus em L&#237;ngua Portuguesa.</title>
+<pages>224-229</pages>
+<year>2012</year>
+<booktitle>ONTOBRAS-MOST</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-938/ontobras-most2012_paper23.pdf</ee>
+<crossref>conf/ontobras/2012</crossref>
+<url>db/conf/ontobras/ontobras2012.html#FerreiraLV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ontobras/HilgertVP12" mdate="2023-03-10">
+<author pid="121/5091">Lucas Welter Hilgert</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="39/5605">Rafael Prikladnicki</author>
+<title>Extra&#231;&#227;o de Vocabul&#225;rio Multil&#237;ngue a Partir de Documenta&#231;&#227;o de Software.</title>
+<pages>254-259</pages>
+<year>2012</year>
+<booktitle>ONTOBRAS-MOST</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-938/ontobras-most2012_paper28.pdf</ee>
+<crossref>conf/ontobras/2012</crossref>
+<url>db/conf/ontobras/ontobras2012.html#HilgertVP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/propor/LopesV12" mdate="2021-10-14">
+<author orcid="0000-0003-0314-140X" pid="87/8008">Lucelene Lopes</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Improving Portuguese Term Extraction.</title>
+<pages>85-92</pages>
+<year>2012</year>
+<booktitle>PROPOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-28885-2_9</ee>
+<ee>https://www.wikidata.org/entity/Q57763578</ee>
+<crossref>conf/propor/2012</crossref>
+<url>db/conf/propor/propor2012.html#LopesV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/propor/SouzaV12" mdate="2018-11-14">
+<author pid="16/11062">Marlo Souza</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Sentiment Analysis on Twitter Data for Portuguese Language.</title>
+<pages>241-247</pages>
+<year>2012</year>
+<booktitle>PROPOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-28885-2_28</ee>
+<ee>https://www.wikidata.org/entity/Q57763583</ee>
+<crossref>conf/propor/2012</crossref>
+<url>db/conf/propor/propor2012.html#SouzaV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dalt/MoreiraVB11" mdate="2018-11-14">
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Speech-Act Based Communication: Progress in the Formal Semantics and in the Implementation of Multi-agent Oriented Programming Languages.</title>
+<pages>111-116</pages>
+<year>2011</year>
+<booktitle>DALT</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-29113-5_11</ee>
+<ee>https://www.wikidata.org/entity/Q57763585</ee>
+<crossref>conf/dalt/2011</crossref>
+<url>db/conf/dalt/dalt2011.html#MoreiraVB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ontobras/CastilhoGVSR11" mdate="2023-03-10">
+<author pid="65/6420">Fernando M. B. M. de Castilho</author>
+<author pid="94/473">Roger Granada</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="59/4684">Tomas Sander</author>
+<author pid="92/88">Prasad Rao</author>
+<title>Ontology Enrichment Based on the Mapping of Knowledge Resources for Data Privacy Management.</title>
+<pages>85-96</pages>
+<year>2011</year>
+<booktitle>ONTOBRAS-MOST</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-776/ontobras-most2011_paper7.pdf</ee>
+<crossref>conf/ontobras/2011</crossref>
+<url>db/conf/ontobras/ontobras2011.html#CastilhoGVSR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ontobras/FinattoLVE11" mdate="2023-03-10">
+<author pid="121/5340">Maria Jos&#233; Bocorny Finatto</author>
+<author pid="87/8008">Lucelene Lopes</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="121/5256">Aline Evers</author>
+<title>Hierarquias de Conceitos para um Ambiente Virtual de Ensino Extra&#237;das de um Corpus de Jornais Populares.</title>
+<pages>111-116</pages>
+<year>2011</year>
+<booktitle>ONTOBRAS-MOST</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-776/ontobras-most2011_paper10.pdf</ee>
+<crossref>conf/ontobras/2011</crossref>
+<url>db/conf/ontobras/ontobras2011.html#FinattoLVE11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stil/SouzaVBCA11" mdate="2021-08-06">
+<author pid="16/11062">Marlo Souza</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="213/0641">D&#233;bora Busetti</author>
+<author pid="55/503">Rove Luiza de Oliveira Chishman</author>
+<author pid="67/6619">Isa Mara da Rosa Alves</author>
+<title>Construction of a Portuguese Opinion Lexicon from multiple resources.</title>
+<year>2011</year>
+<booktitle>STIL</booktitle>
+<ee type="oa">https://aclanthology.org/W11-4507/</ee>
+<crossref>conf/stil/2011</crossref>
+<url>db/conf/stil/stil2011.html#SouzaVBCA11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stil/WendtV11" mdate="2021-08-06">
+<author pid="213/0763">Igor S. Wendt</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Extra&#231;&#227;o de Contextos Definit&#243;rios a partir de Textos em L&#237;ngua Portuguesa (Extraction of Defining Contexts from Texts in Portuguese) [in Portuguese].</title>
+<year>2011</year>
+<booktitle>STIL</booktitle>
+<ee type="oa">https://aclanthology.org/W11-4513/</ee>
+<crossref>conf/stil/2011</crossref>
+<url>db/conf/stil/stil2011.html#WendtV11</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ontobras/2011" mdate="2023-03-10">
+<editor pid="05/465">Renata Vieira</editor>
+<editor orcid="0000-0002-3452-553X" pid="11/78">Giancarlo Guizzardi</editor>
+<editor pid="05/8694">Sandro Rama Fiorini</editor>
+<title>Proceedings of Joint IV Seminar on Ontology Research in Brazil and VI International Workshop on Metamodels, Ontologies and Semantic Technologies, Gramado, Brazil, September 12-14, 2011</title>
+<booktitle>ONTOBRAS-MOST</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>776</volume>
+<year>2011</year>
+<ee type="oa">https://ceur-ws.org/Vol-776</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-776-8</ee>
+<url>db/conf/ontobras/ontobras2011.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1111-0041" mdate="2019-04-26">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<title>On the Formal Semantics of Speech-Act Based Communication in an Agent-Oriented Programming Language</title>
+<ee type="oa">http://arxiv.org/abs/1111.0041</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1111.0041</volume>
+<url>db/journals/corr/corr1111.html#abs-1111-0041</url>
+</article>
+</r>
+<r><article key="journals/jbcs/LopesVFM10" mdate="2021-10-14">
+<author orcid="0000-0003-0314-140X" pid="87/8008">Lucelene Lopes</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author orcid="0000-0002-6022-8408" pid="121/5340">Maria Jos&#233; Bocorny Finatto</author>
+<author pid="03/2702">Daniel Martins</author>
+<title>Extracting compound terms from domain corpora.</title>
+<pages>247-259</pages>
+<year>2010</year>
+<volume>16</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1007/s13173-010-0020-4</ee>
+<ee>https://www.wikidata.org/entity/Q57763589</ee>
+<url>db/journals/jbcs/jbcs16.html#LopesVFM10</url>
+</article>
+</r>
+<r><inproceedings key="conf/ekaw/VieiraSSANCBPBR10" mdate="2023-03-10">
+<author pid="05/465">Renata Vieira</author>
+<author pid="161/1689">Douglas da Silva</author>
+<author pid="59/4684">Tomas Sander</author>
+<author pid="66/6692">Alexandre Agustini</author>
+<author pid="05/179">Caio Northfleet</author>
+<author pid="65/6420">Fernando M. B. M. de Castilho</author>
+<author pid="61/7115">M&#237;rian Bruckschen</author>
+<author pid="205/0129">Patricia Pizzinato</author>
+<author pid="161/1661">Paulo Bridi</author>
+<author pid="92/88">Prasad Rao</author>
+<author pid="94/473">Roger Granada</author>
+<title>Representation and Inference of Privacy Risks Using Semantic Web Technologies.</title>
+<year>2010</year>
+<booktitle>EKAW (Posters and Demos)</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-674/Paper187.pdf</ee>
+<crossref>conf/ekaw/2010pd</crossref>
+<url>db/conf/ekaw/ekaw2010pd.html#VieiraSSANCBPBR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/SantosQV10" mdate="2019-08-19">
+<author pid="61/1342">C&#225;ssia Trojahn dos Santos</author>
+<author pid="73/4272">Paulo Quaresma</author>
+<author pid="05/465">Renata Vieira</author>
+<title>An API for Multi-lingual Ontology Matching.</title>
+<year>2010</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">http://www.lrec-conf.org/proceedings/lrec2010/summaries/691.html</ee>
+<crossref>conf/lrec/2010</crossref>
+<url>db/conf/lrec/lrec2010.html#SantosQV10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbia/FuzitakiMV10" mdate="2018-11-14">
+<author pid="18/533">Cl&#225;udio Naoto Fuzitaki</author>
+<author pid="50/3403">&#193;lvaro Freitas Moreira</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Ontology Reasoning in Agent-Oriented Programming.</title>
+<pages>21-30</pages>
+<year>2010</year>
+<booktitle>SBIA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-16138-4_3</ee>
+<ee>https://www.wikidata.org/entity/Q57763590</ee>
+<crossref>conf/sbia/2010</crossref>
+<url>db/conf/sbia/sbia2010.html#FuzitakiMV10</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/propor/2010" mdate="2019-05-14">
+<editor pid="31/4118">Thiago Alexandre Salgueiro Pardo</editor>
+<editor pid="51/1654">Ant&#243;nio Branco</editor>
+<editor pid="44/1366">Aldebaro Klautau</editor>
+<editor pid="05/465">Renata Vieira</editor>
+<editor pid="94/4959">Vera L&#250;cia Strube de Lima</editor>
+<title>Computational Processing of the Portuguese Language, 9th International Conference, PROPOR 2010, Porto Alegre, RS, Brazil, April 27-30, 2010. Proceedings</title>
+<volume>6001</volume>
+<year>2010</year>
+<ee>https://doi.org/10.1007/978-3-642-12320-7</ee>
+<isbn>978-3-642-12319-1</isbn>
+<booktitle>PROPOR</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/propor/propor2010.html</url>
+</proceedings>
+</r>
+<r><article key="journals/rita/SilvaBBGAVNRS09" mdate="2020-02-03">
+<author pid="161/1689">Douglas da Silva</author>
+<author pid="61/7115">M&#237;rian Bruckschen</author>
+<author pid="161/1661">Paulo Bridi</author>
+<author pid="94/473">Roger Granada</author>
+<author pid="66/6692">Alexandre Agustini</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="05/179">Caio Northfleet</author>
+<author pid="92/88">Prasad Rao</author>
+<author pid="59/4684">Tomas Sander</author>
+<title>Semantic Web and Knowledge Management in User Data Privacy.</title>
+<pages>69-70</pages>
+<year>2009</year>
+<volume>16</volume>
+<journal>RITA</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.22456/2175-2745.12572</ee>
+<url>db/journals/rita/rita16.html#SilvaBBGAVNRS09</url>
+</article>
+</r>
+<r><inproceedings key="conf/argmas/SantosQVI09" mdate="2018-11-14">
+<author pid="61/1342">C&#225;ssia Trojahn dos Santos</author>
+<author orcid="0000-0002-5086-059X" pid="73/4272">Paulo Quaresma</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author orcid="0000-0001-9767-6979" pid="11/3002">Antoine Isaac</author>
+<title>Comparing Argumentation Frameworks for Composite Ontology Matching.</title>
+<pages>305-320</pages>
+<year>2009</year>
+<booktitle>ArgMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-12805-9_18</ee>
+<ee>https://www.wikidata.org/entity/Q57763587</ee>
+<crossref>conf/argmas/2009</crossref>
+<url>db/conf/argmas/argmas2009.html#SantosQVI09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ht/BruckschenVR09" mdate="2018-11-14">
+<author pid="61/7115">M&#237;rian Bruckschen</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author orcid="0000-0001-8140-5621" pid="48/4922">Sandro Jos&#233; Rigo</author>
+<title>Named entities for hot topics ranking and ontology navigation aid.</title>
+<pages>373-374</pages>
+<year>2009</year>
+<booktitle>Hypertext</booktitle>
+<ee>https://doi.org/10.1145/1557914.1557995</ee>
+<ee>https://www.wikidata.org/entity/Q57763596</ee>
+<crossref>conf/ht/2009</crossref>
+<url>db/conf/ht/ht2009.html#BruckschenVR09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icail/SantosQV09" mdate="2017-09-16">
+<author pid="61/1342">C&#225;ssia Trojahn dos Santos</author>
+<author orcid="0000-0002-5086-059X" pid="73/4272">Paulo Quaresma</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Matching Law Ontologies using an Extended Argumentation Framework based on Confidence Degrees.</title>
+<pages>133-144</pages>
+<year>2009</year>
+<booktitle>Law, Ontologies and the Semantic Web</booktitle>
+<ee>https://doi.org/10.3233/978-1-58603-942-4-133</ee>
+<crossref>conf/icail/2009faia</crossref>
+<url>db/conf/icail/faia188.html#SantosQV09</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijmso/SantosQV08" mdate="2020-05-11">
+<author pid="61/1342">C&#225;ssia Trojahn dos Santos</author>
+<author orcid="0000-0002-5086-059X" pid="73/4272">Paulo Quaresma</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>An argumentation framework based on confidence degrees to combine ontology mapping approaches.</title>
+<pages>142-150</pages>
+<year>2008</year>
+<volume>3</volume>
+<journal>Int. J. Metadata Semant. Ontologies</journal>
+<number>2</number>
+<ee>https://doi.org/10.1504/IJMSO.2008.021892</ee>
+<ee>https://www.wikidata.org/entity/Q57763601</ee>
+<url>db/journals/ijmso/ijmso3.html#SantosQV08</url>
+</article>
+</r>
+<r><article key="journals/jods/SantosMQV08" mdate="2020-12-16">
+<author pid="61/1342">C&#225;ssia Trojahn dos Santos</author>
+<author pid="09/5451">M&#225;rcia Cristina Moraes</author>
+<author orcid="0000-0002-5086-059X" pid="73/4272">Paulo Quaresma</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>A Cooperative Approach for Composite Ontology Mapping.</title>
+<pages>237-263</pages>
+<year>2008</year>
+<volume>10</volume>
+<journal>J. Data Semant.</journal>
+<ee>https://doi.org/10.1007/978-3-540-77688-8_8</ee>
+<ee>https://www.wikidata.org/entity/Q57763599</ee>
+<crossref>journals/jods/2008-10</crossref>
+<url>db/journals/jods/jods10.html#SantosMQV08</url>
+</article>
+</r>
+<r><inproceedings key="conf/argmas/SantosQV08" mdate="2018-11-14">
+<author pid="61/1342">C&#225;ssia Trojahn dos Santos</author>
+<author orcid="0000-0002-5086-059X" pid="73/4272">Paulo Quaresma</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>An Argumentation Framework Based on Strengthfor Ontology Mapping.</title>
+<pages>57-71</pages>
+<year>2008</year>
+<booktitle>ArgMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-00207-6_4</ee>
+<ee>https://www.wikidata.org/entity/Q57763594</ee>
+<crossref>conf/argmas/2008</crossref>
+<url>db/conf/argmas/argmas2008.html#SantosQV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/SantosQV08" mdate="2018-11-30">
+<author pid="61/1342">C&#225;ssia Trojahn dos Santos</author>
+<author pid="73/4272">Paulo Quaresma</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Conjunctive queries for ontology based agent communication in MAS.</title>
+<pages>829-836</pages>
+<year>2008</year>
+<booktitle>AAMAS (2)</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=1402339</ee>
+<crossref>conf/atal/2008-2</crossref>
+<url>db/conf/atal/aamas2008-2.html#SantosQV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/doceng/GoncalvesRV08" mdate="2018-11-14">
+<author pid="14/6534">Patr&#237;cia Nunes Gon&#231;alves</author>
+<author pid="59/2384">Lucia Helena Machado Rino</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Summarizing and referring: towards cohesive extracts.</title>
+<pages>253-256</pages>
+<year>2008</year>
+<booktitle>ACM Symposium on Document Engineering</booktitle>
+<ee>https://doi.org/10.1145/1410140.1410193</ee>
+<ee>https://www.wikidata.org/entity/Q57763610</ee>
+<crossref>conf/doceng/2008</crossref>
+<url>db/conf/doceng/doceng2008.html#GoncalvesRV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/SantosQV08" mdate="2019-08-19">
+<author pid="61/1342">C&#225;ssia Trojahn dos Santos</author>
+<author pid="73/4272">Paulo Quaresma</author>
+<author pid="05/465">Renata Vieira</author>
+<title>A Framework for Multilingual Ontology Mapping.</title>
+<year>2008</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">http://www.lrec-conf.org/proceedings/lrec2008/summaries/270.html</ee>
+<crossref>conf/lrec/2008</crossref>
+<url>db/conf/lrec/lrec2008.html#SantosQV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/propor/SouzaGV08" mdate="2018-11-14">
+<author pid="66/1087">Jos&#233; Guilherme Camargo de Souza</author>
+<author pid="14/6534">Patr&#237;cia Nunes Gon&#231;alves</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Learning Coreference Resolution for Portuguese Texts.</title>
+<pages>153-162</pages>
+<year>2008</year>
+<booktitle>PROPOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85980-2_16</ee>
+<ee>https://www.wikidata.org/entity/Q57763608</ee>
+<crossref>conf/propor/2008</crossref>
+<url>db/conf/propor/propor2008.html#SouzaGV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/propor/GoncalvesVR08" mdate="2018-11-14">
+<author pid="14/6534">Patr&#237;cia Nunes Gon&#231;alves</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="59/2384">Lucia Helena Machado Rino</author>
+<title>CorrefSum: Referencial Cohesion Recovery in Extractive Summaries.</title>
+<pages>224-227</pages>
+<year>2008</year>
+<booktitle>PROPOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85980-2_25</ee>
+<ee>https://www.wikidata.org/entity/Q57763605</ee>
+<crossref>conf/propor/2008</crossref>
+<url>db/conf/propor/propor2008.html#GoncalvesVR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/propor/ColloviniRGMV08" mdate="2018-11-14">
+<author pid="97/1724">Sandra Collovini</author>
+<author pid="77/1139">Luiz Carlos Ribeiro</author>
+<author pid="14/6534">Patr&#237;cia Nunes Gon&#231;alves</author>
+<author pid="76/6224">Vinicius M. Muller</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Using Semantic Prototypes for Discourse Status Classification.</title>
+<pages>236-239</pages>
+<year>2008</year>
+<booktitle>PROPOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85980-2_28</ee>
+<ee>https://www.wikidata.org/entity/Q57763612</ee>
+<crossref>conf/propor/2008</crossref>
+<url>db/conf/propor/propor2008.html#ColloviniRGMV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/BruckschenVR08" mdate="2022-02-11">
+<author pid="61/7115">M&#237;rian Bruckschen</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="48/4922">Sandro Jos&#233; Rigo</author>
+<title>SeRELeP-Olympics: hot topics for a news portal based on semantic types and named entities.</title>
+<pages>45-48</pages>
+<year>2008</year>
+<booktitle>WebMedia (Companion)</booktitle>
+<ee>https://doi.org/10.1145/1809980.1809993</ee>
+<crossref>conf/webmedia/2008c</crossref>
+<url>db/conf/webmedia/webmedia2008c.html#BruckschenVR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/SilvaBV08" mdate="2022-04-25">
+<author pid="161/1689">Douglas Michaelsen da Silva</author>
+<author orcid="0000-0002-0358-2056" pid="72/3050">Jorge L. V. Barbosa</author>
+<author pid="05/465">Renata Vieira</author>
+<title>OCtoPUS: um modelo para classifica&#231;&#227;o de perfil de usu&#225;rios usando trilhas em sistemas ub&#237;quos.</title>
+<pages>185-188</pages>
+<year>2008</year>
+<booktitle>WebMedia (Companion)</booktitle>
+<ee>https://doi.org/10.1145/1809980.1810036</ee>
+<crossref>conf/webmedia/2008c</crossref>
+<url>db/conf/webmedia/webmedia2008c.html#SilvaBV08</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/MoreiraV08" mdate="2018-08-23">
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Belief Update in AgentSpeak-DL.</title>
+<year>2008</year>
+<booktitle>Programming Multi-Agent Systems</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2008/1641/</ee>
+<crossref>conf/dagstuhl/2008P8361</crossref>
+<url>db/conf/dagstuhl/P8361.html#MoreiraV08</url>
+</inproceedings>
+</r>
+<r><article key="journals/jair/VieiraMWB07" mdate="2019-04-26">
+<author pid="05/465">Renata Vieira</author>
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>On the Formal Semantics of Speech-Act Based Communication in an Agent-Oriented Programming Language.</title>
+<pages>221-267</pages>
+<year>2007</year>
+<volume>29</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.2221</ee>
+<url>db/journals/jair/jair29.html#VieiraMWB07</url>
+</article>
+</r>
+<r><inproceedings key="conf/argmas/SantosQV07" mdate="2017-05-22">
+<author pid="61/1342">C&#225;ssia Trojahn dos Santos</author>
+<author pid="73/4272">Paulo Quaresma</author>
+<author pid="05/465">Renata Vieira</author>
+<title>An Extended Value-Based Argumentation Framework for Ontology Mapping with Confidence Degrees.</title>
+<pages>132-144</pages>
+<year>2007</year>
+<booktitle>ArgMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-78915-4_9</ee>
+<crossref>conf/argmas/2007</crossref>
+<url>db/conf/argmas/argmas2007.html#SantosQV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cicling/GoncalvesSQV06" mdate="2020-02-20">
+<author pid="87/3606-1">Teresa Gon&#231;alves 0001</author>
+<author pid="11/2337">Cassiana Fagundes da Silva</author>
+<author pid="73/4272">Paulo Quaresma</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Analysing Part-of-Speech for Portuguese Text Classification.</title>
+<pages>551-562</pages>
+<year>2006</year>
+<crossref>conf/cicling/2006</crossref>
+<booktitle>CICLing</booktitle>
+<ee>https://doi.org/10.1007/11671299_57</ee>
+<url>db/conf/cicling/cicling2006.html#GoncalvesSQV06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eumas/SantosMQV06" mdate="2023-03-10">
+<author pid="61/1342">C&#225;ssia Trojahn dos Santos</author>
+<author pid="09/5451">M&#225;rcia Cristina Moraes</author>
+<author pid="73/4272">Paulo Quaresma</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Using Cooperative Agent Negotiation for Ontology Mapping.</title>
+<year>2006</year>
+<booktitle>EUMAS</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-223/47.pdf</ee>
+<crossref>conf/eumas/2006</crossref>
+<url>db/conf/eumas/eumas2006.html#SantosMQV06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/SantosMQV06" mdate="2023-03-24">
+<author pid="61/1342">C&#225;ssia Trojahn dos Santos</author>
+<author pid="09/5451">M&#225;rcia Cristina Moraes</author>
+<author orcid="0000-0002-5086-059X" pid="73/4272">Paulo Quaresma</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>A Negotiation Model for Ontology Mapping.</title>
+<pages>762-768</pages>
+<year>2006</year>
+<crossref>conf/iat/2006</crossref>
+<booktitle>IAT</booktitle>
+<ee>https://doi.org/10.1109/IAT.2006.20</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IAT.2006.20</ee>
+<ee>https://www.wikidata.org/entity/Q57763615</ee>
+<url>db/conf/iat/iat2006.html#SantosMQV06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip12/VieiraMBH06" mdate="2020-12-29">
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<title>An Agent-Oriented Programming Language for Computing in Context.</title>
+<pages>61-70</pages>
+<year>2006</year>
+<crossref>conf/clor/2006</crossref>
+<booktitle>IFIP PPAI</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-0-387-34749-3_7</ee>
+<ee>https://www.wikidata.org/entity/Q57763619</ee>
+<url>db/conf/ifip12/ppai2006.html#VieiraMBH06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip12/ColloviniV06" mdate="2018-11-14">
+<author pid="97/1724">Sandra Collovini</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Learning Discourse-new References in Portuguese Texts.</title>
+<pages>267-276</pages>
+<year>2006</year>
+<crossref>conf/ifip12/2006</crossref>
+<booktitle>IFIP AI</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-0-387-34747-9_28</ee>
+<ee>https://www.wikidata.org/entity/Q57763622</ee>
+<url>db/conf/ifip12/ai2006.html#ColloviniV06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/propor/SantosQRV06" mdate="2024-05-07">
+<author pid="61/1342">C&#225;ssia Trojahn dos Santos</author>
+<author pid="73/4272">Paulo Quaresma</author>
+<author orcid="0000-0003-2370-3019" pid="04/6548">Irene Rodrigues 0001</author>
+<author pid="05/465">Renata Vieira</author>
+<title>A Multi-agent Approach to Question Answering.</title>
+<pages>131-139</pages>
+<year>2006</year>
+<crossref>conf/propor/2006</crossref>
+<booktitle>PROPOR</booktitle>
+<ee>https://doi.org/10.1007/11751984_14</ee>
+<url>db/conf/propor/propor2006.html#SantosQRV06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/propor/CoelhoMCVR06" mdate="2018-11-14">
+<author pid="34/6080">Jorge C. B. Coelho</author>
+<author pid="76/6224">Vinicius M. Muller</author>
+<author pid="97/1724">Sandra Collovini</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="59/2384">Lucia Helena Machado Rino</author>
+<title>Resolving Portuguese Nominal Anaphora.</title>
+<pages>160-169</pages>
+<year>2006</year>
+<crossref>conf/propor/2006</crossref>
+<booktitle>PROPOR</booktitle>
+<ee>https://doi.org/10.1007/11751984_17</ee>
+<ee>https://www.wikidata.org/entity/Q57763623</ee>
+<url>db/conf/propor/propor2006.html#CoelhoMCVR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigdial/VieiraBCMCSR06" mdate="2021-08-06">
+<author pid="05/465">Renata Vieira</author>
+<author pid="33/609">Eckhard Bick</author>
+<author pid="34/6080">Jorge C. B. Coelho</author>
+<author pid="76/6224">Vinicius M. Muller</author>
+<author pid="97/1724">Sandra Collovini</author>
+<author pid="185/0162">J. Souza</author>
+<author pid="59/2384">Lucia Helena Machado Rino</author>
+<title>Semantic tagging for resolution of indirect anaphora.</title>
+<pages>76-79</pages>
+<year>2006</year>
+<booktitle>SIGDIAL Workshop</booktitle>
+<ee type="oa">https://aclanthology.org/W06-1311/</ee>
+<crossref>conf/sigdial/2006</crossref>
+<url>db/conf/sigdial/sigdial2006.html#VieiraBCMCSR06</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/propor/2006" mdate="2020-03-27">
+<editor pid="05/465">Renata Vieira</editor>
+<editor orcid="0000-0002-5086-059X" pid="73/4272">Paulo Quaresma</editor>
+<editor pid="59/1923">Maria das Gra&#231;as Volpe Nunes</editor>
+<editor orcid="0000-0001-6033-158X" pid="m/NunoJMamede">Nuno J. Mamede</editor>
+<editor pid="07/5532">Claudia Oliveira</editor>
+<editor pid="40/4165">Maria Carmelita Dias</editor>
+<title>Computational Processing of the Portuguese Language, 7th International Workshop, PROPOR 2006, Itatiaia, Brazil, May 13-17, 2006, Proceedings</title>
+<volume>3960</volume>
+<year>2006</year>
+<isbn>3-540-34045-9</isbn>
+<booktitle>PROPOR</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<ee>https://doi.org/10.1007/11751984</ee>
+<url>db/conf/propor/propor2006.html</url>
+</proceedings>
+</r>
+<r><article key="journals/aepia/SilvaOV05" mdate="2020-03-02">
+<author pid="11/2337">Cassiana Fagundes da Silva</author>
+<author pid="00/5455">Fernando Santos Os&#243;rio</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Evaluating the use of linguistic information in the pre-processing phase of Text Mining.</title>
+<pages>59-66</pages>
+<year>2005</year>
+<volume>9</volume>
+<journal>Inteligencia Artif.</journal>
+<number>26</number>
+<ee type="oa">http://journal.iberamia.org/index.php/ia/article/view/453/article%20%281%29.pdf</ee>
+<url>db/journals/aepia/aepia9.html#SilvaOV05</url>
+</article>
+</r>
+<r><article key="journals/jasss/BordiniCHMOV05" mdate="2020-07-09">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="36/5618">Ant&#244;nio Carlos da Rocha Costa</author>
+<author pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author pid="66/4907">Fabio Y. Okuyama</author>
+<author pid="05/465">Renata Vieira</author>
+<title>MAS-SOC: a Social Simulation Platform Based on Agent-Oriented Programming.</title>
+<year>2005</year>
+<volume>8</volume>
+<journal>J. Artif. Soc. Soc. Simul.</journal>
+<number>3</number>
+<ee type="oa">http://jasss.soc.surrey.ac.uk/8/3/7.html</ee>
+<url>db/journals/jasss/jasss8.html#BordiniCHMOV05</url>
+</article>
+</r>
+<r><inproceedings key="conf/cgi/PaivaVM05" mdate="2023-03-23">
+<author pid="152/5755">Daniel Costa de Paiva</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author orcid="0000-0002-3278-217X" pid="92/5311">Soraia Raupp Musse</author>
+<title>Ontology-based crowd simulation for normal life situations.</title>
+<pages>221-226</pages>
+<year>2005</year>
+<booktitle>Computer Graphics International</booktitle>
+<ee>https://doi.org/10.1109/CGI.2005.1500421</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CGI.2005.1500421</ee>
+<ee>https://www.wikidata.org/entity/Q57763626</ee>
+<crossref>conf/cgi/2005</crossref>
+<url>db/conf/cgi/cgi2005.html#PaivaVM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dalt/MoreiraVBH05" mdate="2020-12-29">
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<title>Agent-Oriented Programming with Underlying Ontological Reasoning.</title>
+<pages>155-170</pages>
+<year>2005</year>
+<crossref>conf/dalt/2005</crossref>
+<booktitle>DALT</booktitle>
+<ee>https://doi.org/10.1007/11691792_10</ee>
+<ee>https://www.wikidata.org/entity/Q57763618</ee>
+<url>db/conf/dalt/dalt2005.html#MoreiraVBH05</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/map2005/BordiniHV05" mdate="2006-03-07">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Jason and the Golden Fleece of Agent-Oriented Programming.</title>
+<pages>3-37</pages>
+<year>2005</year>
+<crossref>books/sp/map05</crossref>
+<booktitle>Multi-Agent Programming</booktitle>
+<url>db/books/collections/map2005.html#BordiniHV05</url>
+</incollection>
+</r>
+<r><article key="journals/rita/BordiniV03" mdate="2004-05-24">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Linguagens de Programa&#231;&#227;o Orientadas a Agentes: Uma Introdu&#231;&#227;o Baseada em AgentSpeak(L).</title>
+<pages>7-38</pages>
+<year>2003</year>
+<volume>10</volume>
+<journal>RITA</journal>
+<number>1</number>
+<url>db/journals/rita/rita10.html#BordiniV03</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/VieiraGGS03" mdate="2020-11-10">
+<author pid="05/465">Renata Vieira</author>
+<author pid="04/6267">Caroline Gasperin</author>
+<author pid="222/6669">Rodrigo Goulart</author>
+<author pid="70/6491">Susanne Salmon-Alt</author>
+<title>From Concrete to Virtual Annotation Mark-up Language: The Case of COMMOn-REFs.</title>
+<pages>6-13</pages>
+<year>2003</year>
+<booktitle>ACL (Linguistic Annotation)</booktitle>
+<ee>https://doi.org/10.3115/1119296.1119298</ee>
+<crossref>conf/acl/2003la</crossref>
+<url>db/conf/acl/acl2013la.html#VieiraGGS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dalt/MoreiraVB03" mdate="2017-05-19">
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Extending the Operational Semantics of a BDI Agent-Oriented Programming Language for Introducing Speech-Act Based Communication.</title>
+<pages>135-154</pages>
+<ee>https://doi.org/10.1007/978-3-540-25932-9_8</ee>
+<year>2003</year>
+<crossref>conf/dalt/2003</crossref>
+<booktitle>DALT</booktitle>
+<url>db/conf/dalt/dalt2003.html#MoreiraVB03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/epia/ChishmanVAR03" mdate="2017-05-26">
+<author pid="55/503">Rove Luiza de Oliveira Chishman</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="67/6619">Isa Mara da Rosa Alves</author>
+<author pid="48/4922">Sandro Jos&#233; Rigo</author>
+<title>Synonymy for Query Expansion in Information Search.</title>
+<pages>445-449</pages>
+<ee>https://doi.org/10.1007/978-3-540-24580-3_51</ee>
+<year>2003</year>
+<crossref>conf/epia/2003</crossref>
+<booktitle>EPIA</booktitle>
+<url>db/conf/epia/epia2003.html#ChishmanVAR03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/PoesioIWV02" mdate="2019-08-19">
+<author pid="60/6334">Massimo Poesio</author>
+<author pid="116/0659">Tomonori Ishikawa</author>
+<author pid="11/580">Sabine Schulte im Walde</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Acquiring Lexical Knowledge for Anaphora Resolution.</title>
+<year>2002</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">http://www.lrec-conf.org/proceedings/lrec2002/sumarios/117.htm</ee>
+<crossref>conf/lrec/2002</crossref>
+<url>db/conf/lrec/lrec2002.html#PoesioIWV02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/Salmon-AltV02" mdate="2019-08-19">
+<author pid="70/6491">Susanne Salmon-Alt</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Nominal Expressions in Multilingual Corpora: Definites and Demonstratives.</title>
+<year>2002</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">http://www.lrec-conf.org/proceedings/lrec2002/sumarios/198.htm</ee>
+<crossref>conf/lrec/2002</crossref>
+<url>db/conf/lrec/lrec2002.html#Salmon-AltV02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/portal/VieiraSS02" mdate="2017-05-25">
+<author pid="05/465">Renata Vieira</author>
+<author pid="70/6491">Susanne Salmon-Alt</author>
+<author pid="36/2420">Emmanuel Schang</author>
+<title>Multilingual Corpora Annotation for Processing Definite Descriptions.</title>
+<pages>249-258</pages>
+<year>2002</year>
+<crossref>conf/portal/2002</crossref>
+<booktitle>PorTAL</booktitle>
+<ee>https://doi.org/10.1007/3-540-45433-0_34</ee>
+<url>db/conf/portal/portal2002.html#VieiraSS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ukmas/BordiniVC02" mdate="2017-05-21">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="25/3161">John A. Campbell</author>
+<title>An Anthropological Approach to the Discovery of Ontologies in Multi-agent Societies.</title>
+<pages>89-109</pages>
+<year>2002</year>
+<crossref>conf/ukmas/2002LNCS</crossref>
+<booktitle>Foundations and Applications of Multi-Agent Systems</booktitle>
+<ee>https://doi.org/10.1007/3-540-45634-1_7</ee>
+<url>db/conf/ukmas/ukmasLNCS2002.html#BordiniVC02</url>
+</inproceedings>
+</r>
+<r><article key="journals/coling/VieiraP00" mdate="2020-05-11">
+<author pid="05/465">Renata Vieira</author>
+<author pid="60/6334">Massimo Poesio</author>
+<title>An Empirically-based System for Processing Definite Descriptions.</title>
+<pages>539-593</pages>
+<year>2000</year>
+<volume>26</volume>
+<journal>Comput. Linguistics</journal>
+<number>4</number>
+<url>db/journals/coling/coling26.html#VieiraP00</url>
+<ee type="oa">https://doi.org/10.1162/089120100750105948</ee>
+</article>
+</r>
+<r><inproceedings key="conf/coling/VieiraP00" mdate="2021-08-06">
+<author pid="05/465">Renata Vieira</author>
+<author pid="60/6334">Massimo Poesio</author>
+<title>Corpus-based Development and Evaluation of a System for Processing Definite Descriptions.</title>
+<pages>899-905</pages>
+<year>2000</year>
+<crossref>conf/coling/2000</crossref>
+<booktitle>COLING</booktitle>
+<ee type="oa">https://aclanthology.org/C00-2130/</ee>
+<url>db/conf/coling/coling2000.html#VieiraP00</url>
+</inproceedings>
+</r>
+<r><article key="journals/coling/PoesioV98" mdate="2020-05-11">
+<author pid="60/6334">Massimo Poesio</author>
+<author pid="05/465">Renata Vieira</author>
+<title>A Corpus-based Investigation of Definite Description Use.</title>
+<pages>183-216</pages>
+<year>1998</year>
+<volume>24</volume>
+<journal>Comput. Linguistics</journal>
+<number>2</number>
+<url>db/journals/coling/coling24.html#PoesioV98</url>
+</article>
+</r>
+<r><article key="journals/jasss/BordiniCV98" mdate="2020-07-09">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="25/3161">John A. Campbell</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Extending Ascribed Intensional Ontologies with Taxonomical Relations in Anthropological Descriptions of Multi-Agent Systems.</title>
+<year>1998</year>
+<volume>1</volume>
+<journal>J. Artif. Soc. Soc. Simul.</journal>
+<number>4</number>
+<ee type="oa">http://jasss.soc.surrey.ac.uk/1/4/3.html</ee>
+<url>db/journals/jasss/jasss1.html#BordiniCV98</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/VieiraT97" mdate="2021-08-06">
+<author pid="05/465">Renata Vieira</author>
+<author pid="61/6424">Simone Teufel</author>
+<title>Towards Resolution of Bridging Descriptions.</title>
+<pages>522-524</pages>
+<year>1997</year>
+<crossref>conf/acl/1997</crossref>
+<booktitle>ACL</booktitle>
+<url>db/conf/acl/acl97.html#VieiraT97</url>
+<ee type="oa">https://aclanthology.org/P97-1072/</ee>
+<ee>https://doi.org/10.3115/976909.979689</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cia/BordiniCV97" mdate="2018-11-14">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="25/3161">John A. Campbell</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Ascription of Intensional Ontologies in Anthropological Descriptions of Mult-Agent Systems.</title>
+<pages>235-247</pages>
+<year>1997</year>
+<crossref>conf/cia/1997</crossref>
+<booktitle>CIA</booktitle>
+<url>db/conf/cia/cia97.html#BordiniCV97</url>
+<ee>https://doi.org/10.1007/3-540-62591-7_37</ee>
+<ee>https://www.wikidata.org/entity/Q57763628</ee>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/cmp-lg-9710007" mdate="2018-08-13">
+<author pid="60/6334">Massimo Poesio</author>
+<author pid="05/465">Renata Vieira</author>
+<title>A Corpus-Based Investigation of Definite Description Use</title>
+<ee type="oa">http://arxiv.org/abs/cmp-lg/9710007</ee>
+<year>1997</year>
+<journal>CoRR</journal>
+<volume>cmp-lg/9710007</volume>
+<url>db/journals/corr/corr9710.html#cmp-lg-9710007</url>
+</article>
+</r>
+<r><inproceedings key="conf/coopis/VieiraC93" mdate="2021-04-30">
+<author pid="05/465">Renata Vieira</author>
+<author pid="36/5618">Ant&#244;nio Carlos da Rocha Costa</author>
+<title>The Acceptance Relation and the Specification of Communicating Agents.</title>
+<pages>247-255</pages>
+<year>1993</year>
+<crossref>conf/coopis/1993</crossref>
+<booktitle>ICICIS</booktitle>
+<url>db/conf/coopis/coopis93.html#VieiraC93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/SilvaSVA87" mdate="2024-01-24">
+<author pid="366/4216">Jos&#233; Roque Voltolini da Silva</author>
+<author pid="366/4613">Deoni Luiz Segalin</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="39/3474">Paulo Alberto de Azeredo</author>
+<title>Execu&#231;&#227;o Controlada de Programas.</title>
+<pages>12-19</pages>
+<year>1987</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://sol.sbc.org.br/index.php/sbes/article/view/25209</ee>
+<crossref>conf/sbes/1987</crossref>
+<url>db/conf/sbes/sbes1987.html#SilvaSVA87</url>
+</inproceedings>
+</r>
+<coauthors n="214" nc="4">
+<co c="0"><na f="a/Agustini:Alexandre" pid="66/6692">Alexandre Agustini</na></co>
+<co c="0"><na f="a/Albuquerque:Gon=ccedil=alo_C=" pid="371/5023">Gon&#231;alo C. Albuquerque</na></co>
+<co c="0"><na f="a/Alu=iacute=sio:Sandra_M=" pid="86/332">Sandra M. Alu&#237;sio</na></co>
+<co c="0"><na f="a/Alves:Isa_Mara_da_Rosa" pid="67/6619">Isa Mara da Rosa Alves</na></co>
+<co c="0" n="2"><na f="a/Amaral:Daniela_O=_F=_do" pid="146/3852">Daniela O. F. do Amaral</na><na>Daniela Oliveira Ferreira do Amaral</na></co>
+<co c="0"><na f="a/Antonitsch:Andr=eacute=" pid="184/8958">Andr&#233; Antonitsch</na></co>
+<co c="0"><na f="a/Antunes:Sandra" pid="38/267">Sandra Antunes</na></co>
+<co c="0"><na f="a/Aussenac=Gilles:Nathalie" pid="96/6433">Nathalie Aussenac-Gilles</na></co>
+<co c="2"><na f="a/Azeredo:Paulo_Alberto_de" pid="39/3474">Paulo Alberto de Azeredo</na></co>
+<co c="0"><na f="b/Baleato:Jesus_Manuel_Benitez" pid="399/4930">Jesus Manuel Benitez Baleato</na></co>
+<co c="0"><na f="b/Balreira:Dennis_Giovani" pid="208/7522">Dennis Giovani Balreira</na></co>
+<co c="0"><na f="b/Banza:Ana_Paula" pid="319/0013">Ana Paula Banza</na></co>
+<co c="0"><na f="b/Baptista:Jorge" pid="98/6884">Jorge Baptista</na></co>
+<co c="0"><na f="b/Barbosa:Jorge_L=_V=" pid="72/3050">Jorge L. V. Barbosa</na></co>
+<co c="0"><na f="b/Barcelos:Allan" pid="283/4011">Allan Barcelos</na></co>
+<co c="0"><na f="b/Barletta:Felipe" pid="267/2375">Felipe Barletta</na></co>
+<co c="0" n="2"><na f="b/Barone:Dante_Augusto_Couto" pid="25/6710">Dante Augusto Couto Barone</na><na>Dante Barone</na></co>
+<co c="0"><na f="b/Barreiro:Anabela" pid="06/3946">Anabela Barreiro</na></co>
+<co c="3"><na f="b/Bassi:Davide" pid="384/4321">Davide Bassi</na></co>
+<co c="0"><na f="b/Basso:Rafael" pid="192/4860">Rafael Basso</na></co>
+<co c="0"><na f="b/Batista:Fernando" pid="07/6052">Fernando Batista</na></co>
+<co c="0"><na f="b/Bick:Eckhard" pid="33/609">Eckhard Bick</na></co>
+<co c="0"><na f="b/Bochernitsan:Marco_N=" pid="130/0446">Marco N. Bochernitsan</na></co>
+<co c="0"><na f="b/Bonamigo:Tiago_Luis" pid="127/1221">Tiago Luis Bonamigo</na></co>
+<co c="0" n="2"><na f="b/Bordini:Rafael_H=" pid="b/RafaelHBordini">Rafael H. Bordini</na><na>Rafael Heitor Bordini</na></co>
+<co c="0"><na f="b/Bosco:Avner_Dal" pid="258/8863">Avner Dal Bosco</na></co>
+<co c="0"><na f="b/Branco:Ant=oacute=nio" pid="51/1654">Ant&#243;nio Branco</na></co>
+<co c="0"><na f="b/Bridi:Paulo" pid="161/1661">Paulo Bridi</na></co>
+<co c="0"><na f="b/Bruckschen:M=iacute=rian" pid="61/7115">M&#237;rian Bruckschen</na></co>
+<co c="0"><na f="b/Buffet:Maiki" pid="212/5995">Maiki Buffet</na></co>
+<co c="0"><na f="b/Burin:Haline_Maria_Velho" pid="255/8546">Haline Maria Velho Burin</na></co>
+<co c="0"><na f="b/Busetti:D=eacute=bora" pid="213/0641">D&#233;bora Busetti</na></co>
+<co c="0"><na f="c/Cameron:Helena_Freire" pid="266/0033">Helena Freire Cameron</na></co>
+<co c="0"><na f="c/Campbell:John_A=" pid="25/3161">John A. Campbell</na></co>
+<co c="0"><na f="c/Carvalho:Leonardo" pid="69/5667">Leonardo Carvalho</na></co>
+<co c="0"><na f="c/Castilho:Fernando_M=_B=_M=_de" pid="65/6420">Fernando M. B. M. de Castilho</na></co>
+<co c="0"><na f="c/Cavalheiro:Guilherme" pid="258/8925">Guilherme Cavalheiro</na></co>
+<co c="0"><na f="c/Chaves:Marcirio_Silveira" pid="69/720">Marcirio Silveira Chaves</na></co>
+<co c="0"><na f="c/Chishman:Rove_Luiza_de_Oliveira" pid="55/503">Rove Luiza de Oliveira Chishman</na></co>
+<co c="0"><na f="c/Ciulla:Alena" pid="168/0056">Alena Ciulla</na></co>
+<co c="0"><na f="c/Claro:Daniela_Barreiro" pid="86/2938">Daniela Barreiro Claro</na></co>
+<co c="0"><na f="c/Coelho:Jorge_C=_B=" pid="34/6080">Jorge C. B. Coelho</na></co>
+<co c="0"><na f="c/Colissi:Mateus_da_Silveira" pid="297/5939">Mateus da Silveira Colissi</na></co>
+<co c="0" n="2"><na f="c/Collovini:Sandra" pid="97/1724">Sandra Collovini</na><na>Sandra Collovini de Abreu</na></co>
+<co c="0"><na f="c/Consoli:Bernardo_Scapini" pid="241/3945">Bernardo Scapini Consoli</na></co>
+<co c="0"><na f="c/Cordeiro:F=aacute=bio_Corr=ecirc=a" pid="266/1110">F&#225;bio Corr&#234;a Cordeiro</na></co>
+<co c="0" n="2"><na f="c/Cortes:Eduardo_G=" pid="226/3865">Eduardo G. Cortes</na><na>Eduardo Gabriel Cortes</na></co>
+<co c="0"><na f="c/Costa:Ant=ocirc=nio_Carlos_da_Rocha" pid="36/5618">Ant&#244;nio Carlos da Rocha Costa</na></co>
+<co c="0"><na f="c/Couto_0002:Julia" pid="152/4323">Julia Couto 0002</na></co>
+<co c="0"><na f="c/Cuenca:Enrique_Cerrillo" pid="76/1168">Enrique Cerrillo Cuenca</na></co>
+<co c="0" n="2"><na f="d/Damasio:Juliana" pid="165/2707">Juliana Damasio</na><na>Juliana Damasio Oliveira</na></co>
+<co c="0"><na f="d/Dias:Maria_Carmelita" pid="40/4165">Maria Carmelita Dias</na></co>
+<co c="0"><na f="e/Engelmann:D=eacute=bora_C=" pid="225/2571">D&#233;bora C. Engelmann</na></co>
+<co c="0"><na f="e/Etges:Ana_Paula_Beck_da_Silva" pid="307/8294">Ana Paula Beck da Silva Etges</na></co>
+<co c="0"><na f="e/Evers:Aline" pid="121/5256">Aline Evers</na></co>
+<co c="0" n="2"><na f="e/Evsukoff:Alexandre_G=" pid="06/97">Alexandre G. Evsukoff</na><na>Alexandre Gon&#231;alves Evsukoff</na></co>
+<co c="0"><na f="f/Fagundes:Moser_Silva" pid="11/2749">Moser Silva Fagundes</na></co>
+<co c="0" n="2"><na f="f/Farias:Giovani" pid="264/8929">Giovani Farias</na><na>Giovani Parente Farias</na></co>
+<co c="0"><na f="f/Farrica:F=aacute=tima" pid="371/5193">F&#225;tima Farrica</na></co>
+<co c="0"><na f="f/Fernandes:Nuno" pid="143/1429">Nuno Fernandes</na></co>
+<co c="0"><na f="f/Fernandes_0001:Paulo" pid="f/PauloFernandes">Paulo Fernandes 0001</na></co>
+<co c="0"><na f="f/Ferreira:Carlos_Eduardo_A=" pid="331/3927">Carlos Eduardo A. Ferreira</na></co>
+<co c="0"><na f="f/Ferreira:Maria_Cortes" pid="301/3305">Maria Cortes Ferreira</na></co>
+<co c="0"><na f="f/Ferreira:Vinicius_H=" pid="121/5217">Vinicius H. Ferreira</na></co>
+<co c="0"><na f="f/Figueira:Anny" pid="184/8555">Anny Figueira</na></co>
+<co c="0"><na f="f/Filho:Marcelo_de_Bairros_P=" pid="167/3716">Marcelo de Bairros P. Filho</na></co>
+<co c="0" n="2"><na f="f/Finatto:Maria_Jos=eacute=_Bocorny" pid="121/5340">Maria Jos&#233; Bocorny Finatto</na><na>Maria Jos&#233; Finatto</na></co>
+<co c="0"><na f="f/Fiorini:Sandro_Rama" pid="05/8694">Sandro Rama Fiorini</na></co>
+<co c="0" n="2"><na f="f/Fonseca:Evandro_Brasil_da" pid="89/9377">Evandro Brasil da Fonseca</na><na>Evandro Fonseca</na></co>
+<co c="0"><na f="f/Franceschini:Paula_M=" pid="273/7525">Paula M. Franceschini</na></co>
+<co c="0"><na f="f/Freitas:Artur" pid="146/4045">Artur Freitas</na></co>
+<co c="0" n="2"><na f="f/Freitas:Carla_M=_D=_S=" pid="f/CarlaMDSFreitas">Carla M. D. S. Freitas</na><na>Carla Maria Dal Sasso Freitas</na></co>
+<co c="0" n="2"><na f="f/Freitas:Larissa_A=_de" pid="116/4957">Larissa A. de Freitas</na><na>Larissa Astrogildo de Freitas</na></co>
+<co c="0"><na f="f/Fuzitaki:Cl=aacute=udio_Naoto" pid="18/533">Cl&#225;udio Naoto Fuzitaki</na></co>
+<co c="0"><na f="g/Gabriel:V=aacute=gner_de_Oliveira" pid="233/5371">V&#225;gner de Oliveira Gabriel</na></co>
+<co c="0"><na f="g/Gasperin:Caroline" pid="04/6267">Caroline Gasperin</na></co>
+<co c="0"><na f="g/Glauber:Rafael" pid="201/2466">Rafael Glauber</na></co>
+<co c="0" n="2"><na f="g/Gomes_0003:Diogo" pid="266/1011">Diogo Gomes 0003</na><na>Diogo da Silva Magalh&#227;es Gomes</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Carolina" pid="262/0703">Carolina Gon&#231;alves</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Maria_Filomena" pid="266/0041">Maria Filomena Gon&#231;alves</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Patr=iacute=cia_Nunes" pid="14/6534">Patr&#237;cia Nunes Gon&#231;alves</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves_0001:Teresa" pid="87/3606-1">Teresa Gon&#231;alves 0001</na></co>
+<co c="0"><na f="g/Gonzalez:Marco" pid="61/5457">Marco Gonzalez</na></co>
+<co c="0"><na f="g/Goulart:Rodrigo" pid="222/6669">Rodrigo Goulart</na></co>
+<co c="0"><na f="g/Granada:Roger" pid="94/473">Roger Granada</na></co>
+<co c="0"><na f="g/Guizzardi:Giancarlo" pid="11/78">Giancarlo Guizzardi</na></co>
+<co c="0"><na f="h/Han:Xiaoxuan" pid="226/3863">Xiaoxuan Han</na></co>
+<co c="0" n="2"><na f="h/Hilgert:Lucas_Welter" pid="121/5091">Lucas Welter Hilgert</na><na>Lucas Hilgert</na></co>
+<co c="0"><na f="h/Hogetop:Denise_N=" pid="146/3892">Denise N. Hogetop</na></co>
+<co c="0"><na f="h/Huang:Siyu" pid="146/9031">Siyu Huang</na></co>
+<co c="0"><na f="h/H=uuml=bner:Jomi_Fred" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</na></co>
+<co c="0"><na f="i/Infante:Paulo" pid="321/8959">Paulo Infante</na></co>
+<co c="0"><na f="i/Isaac:Antoine" pid="11/3002">Antoine Isaac</na></co>
+<co c="1"><na f="i/Ishikawa:Tomonori" pid="116/0659">Tomonori Ishikawa</na></co>
+<co c="0"><na f="k/Kamel:Mouna" pid="51/1051">Mouna Kamel</na></co>
+<co c="0"><na f="k/Kirchoff:Dionatra_F=" pid="237/8278">Dionatra F. Kirchoff</na></co>
+<co c="0"><na f="k/Klautau:Aldebaro" pid="44/1366">Aldebaro Klautau</na></co>
+<co c="0"><na f="l/Laken:Katarina" pid="384/8512">Katarina Laken</na></co>
+<co c="0"><na f="l/Leal:Ana_Luisa" pid="59/2567">Ana Luisa Leal</na></co>
+<co c="0"><na f="l/Lima:Rinaldo" pid="23/8009">Rinaldo Lima</na></co>
+<co c="0"><na f="l/Lima:Thiago" pid="63/10089">Thiago Lima</na></co>
+<co c="0"><na f="l/Lima:Vera_L=uacute=cia_Strube_de" pid="94/4959">Vera L&#250;cia Strube de Lima</na></co>
+<co c="0"><na f="l/Lopes:Lucelene" pid="87/8008">Lucelene Lopes</na></co>
+<co c="0"><na f="l/Luz:Saturnino" pid="92/1880">Saturnino Luz</na></co>
+<co c="0"><na f="m/Machado:Gabriel" pid="181/7176">Gabriel Machado</na></co>
+<co c="0"><na f="m/Maciel:Maria_Carolina_Oliveira" pid="255/8522">Maria Carolina Oliveira Maciel</na></co>
+<co c="3"><na f="m/Maggini:Michele_Joshua" pid="384/4281">Michele Joshua Maggini</na></co>
+<co c="0"><na f="m/Mamede:Nuno_J=" pid="m/NunoJMamede">Nuno J. Mamede</na></co>
+<co c="0" n="2"><na f="m/Manssour:Isabel_H=" pid="38/6192">Isabel H. Manssour</na><na>Isabel Harb Manssour</na></co>
+<co c="0"><na f="m/Marino:Erik_Bran" pid="385/9828">Erik Bran Marino</na></co>
+<co c="0"><na f="m/Martins:Daniel" pid="03/2702">Daniel Martins</na></co>
+<co c="0"><na f="m/Martins:Jo=atilde=o_Pedro" pid="301/3245">Jo&#227;o Pedro Martins</na></co>
+<co c="0"><na f="m/Mascardi:Viviana" pid="m/VMascardi">Viviana Mascardi</na></co>
+<co c="0"><na f="m/Mendes:Am=aacute=lia" pid="57/4457">Am&#225;lia Mendes</na></co>
+<co c="0"><na f="m/Meneghetti:Breno" pid="126/8615">Breno Meneghetti</na></co>
+<co c="0" n="2"><na f="m/Meneguzzi:Felipe" pid="10/985">Felipe Meneguzzi</na><na>Felipe Rech Meneguzzi</na></co>
+<co c="0"><na f="m/Meyer:John=Jules_Ch=" pid="m/JJCMeyer">John-Jules Ch. Meyer</na></co>
+<co c="0"><na f="m/Meyer:Vin=iacute=cius" pid="242/3197">Vin&#237;cius Meyer</na></co>
+<co c="0"><na f="m/Molin:Greice_P=_Dal" pid="251/5989">Greice P. Dal Molin</na></co>
+<co c="0"><na f="m/M=ouml=ller_0001:Sebastian" pid="37/5849">Sebastian M&#246;ller 0001</na></co>
+<co c="0"><na f="m/Moniz:Helena" pid="65/6363">Helena Moniz</na></co>
+<co c="0"><na f="m/Moraes:M=aacute=rcia_Cristina" pid="09/5451">M&#225;rcia Cristina Moraes</na></co>
+<co c="0"><na f="m/Moraes:S=iacute=lvia" pid="341/1855">S&#237;lvia Moraes</na></co>
+<co c="0"><na f="m/Moraes_0001:Silvia" pid="98/8160">Silvia Moraes 0001</na></co>
+<co c="0"><na f="m/Morais:J=eacute=ssica" pid="322/1875">J&#233;ssica Morais</na></co>
+<co c="0"><na f="m/Morales:Hugo_M=_P=" pid="267/2342">Hugo M. P. Morales</na></co>
+<co c="0" n="2"><na f="m/Moreira:=Aacute=lvaro_F=" pid="50/3403">&#193;lvaro F. Moreira</na><na>&#193;lvaro Freitas Moreira</na></co>
+<co c="0"><na f="m/Moreira:Viviane_Pereira" pid="o/VivianeMoreiraOrengo">Viviane Pereira Moreira</na></co>
+<co c="0"><na f="m/Muller:Vinicius_M=" pid="76/6224">Vinicius M. Muller</na></co>
+<co c="0"><na f="m/Musse:Soraia_Raupp" pid="92/5311">Soraia Raupp Musse</na></co>
+<co c="0"><na f="n/Neto:Joaquim_Francisco_Santos" pid="241/3927">Joaquim Francisco Santos Neto</na></co>
+<co c="0"><na f="n/Northfleet:Caio" pid="05/179">Caio Northfleet</na></co>
+<co c="0"><na f="n/Nunes:Maria_das_Gra=ccedil=as_Volpe" pid="59/1923">Maria das Gra&#231;as Volpe Nunes</na></co>
+<co c="0"><na f="n/Nunes:Rafael_Oleques" pid="371/5173">Rafael Oleques Nunes</na></co>
+<co c="0"><na f="o/Okuyama:Fabio_Y=" pid="66/4907">Fabio Y. Okuyama</na></co>
+<co c="0"><na f="o/Olival:Fernanda" pid="266/0032">Fernanda Olival</na></co>
+<co c="0"><na f="o/Oliveira:Claudia" pid="07/5532">Claudia Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Jo=atilde=o" pid="41/3562">Jo&#227;o Oliveira</na></co>
+<co c="0"><na f="o/Os=oacute=rio:Fernando_Santos" pid="00/5455">Fernando Santos Os&#243;rio</na></co>
+<co c="0"><na f="p/Paiva:Daniel_Costa_de" pid="152/5755">Daniel Costa de Paiva</na></co>
+<co c="0"><na f="p/Paiva:Valeria_de" pid="p/ValeriadePaiva">Valeria de Paiva</na></co>
+<co c="0"><na f="p/Panisson:Alison_R=" pid="151/3594">Alison R. Panisson</na></co>
+<co c="0" n="2"><na f="p/Pardo:Thiago_A=_S=" pid="31/4118">Thiago A. S. Pardo</na><na>Thiago Alexandre Salgueiro Pardo</na></co>
+<co c="0"><na f="p/Pease:Adam" pid="26/6268">Adam Pease</na></co>
+<co c="0"><na f="p/Pereira:Ana_Raquel" pid="322/1995">Ana Raquel Pereira</na></co>
+<co c="0"><na f="p/Pereira:Bolivar" pid="219/8490">Bolivar Pereira</na></co>
+<co c="3"><na f="p/Pereira=Fari=ntilde=a:Martin" pid="73/10057">Martin Pereira-Fari&#241;a</na></co>
+<co c="0"><na f="p/Pinheiro:Jackson" pid="212/5817">Jackson Pinheiro</na></co>
+<co c="0"><na f="p/Pinho:Greice" pid="212/5745">Greice Pinho</na></co>
+<co c="0"><na f="p/Pinto:C=aacute=tia_Sousa" pid="204/9050">C&#225;tia Sousa Pinto</na></co>
+<co c="0"><na f="p/Pizzinato:Patricia" pid="205/0129">Patricia Pizzinato</na></co>
+<co c="1"><na f="p/Poesio:Massimo" pid="60/6334">Massimo Poesio</na></co>
+<co c="0"><na f="p/Pollak:Senja" pid="75/8154">Senja Pollak</na></co>
+<co c="0"><na f="p/Prikladnicki:Rafael" pid="39/5605">Rafael Prikladnicki</na></co>
+<co c="0"><na f="p/Prolo:Carlos_Augusto" pid="170/1557">Carlos Augusto Prolo</na></co>
+<co c="0"><na f="p/Pugens:Lucas" pid="153/6996">Lucas Pugens</na></co>
+<co c="0"><na f="q/Quaresma:Paulo" pid="73/4272">Paulo Quaresma</na></co>
+<co c="0"><na f="r/Rao:Prasad" pid="92/88">Prasad Rao</na></co>
+<co c="0"><na f="r/Reyes:Daniel_De_Los" pid="283/4235">Daniel De Los Reyes</na></co>
+<co c="0"><na f="r/Ribeiro:Ana_Sofia" pid="319/0971">Ana Sofia Ribeiro</na></co>
+<co c="0" n="2"><na f="r/Ribeiro:Jhonatan_Kobylarz" pid="262/4854">Jhonatan Kobylarz Ribeiro</na><na>Jhonatan Kobylarz</na></co>
+<co c="0"><na f="r/Ribeiro:Luiz_Carlos" pid="77/1139">Luiz Carlos Ribeiro</na></co>
+<co c="0"><na f="r/Rigo:Sandro_Jos=eacute=" pid="48/4922">Sandro Jos&#233; Rigo</na></co>
+<co c="0"><na f="r/Rino:Lucia_Helena_Machado" pid="59/2384">Lucia Helena Machado Rino</na></co>
+<co c="0"><na f="r/Rocha:Cristian_da_Costa" pid="222/2128">Cristian da Costa Rocha</na></co>
+<co c="0"><na f="r/Rocha:Leonor" pid="327/9267">Leonor Rocha</na></co>
+<co c="0" n="2"><na f="r/Rodrigues:Irene_Pimenta" pid="04/6548">Irene Pimenta Rodrigues</na><na>Irene Rodrigues 0001</na></co>
+<co c="0"><na f="r/Rose:C=eacute=sar_A=_F=_De" pid="95/5199">C&#233;sar A. F. De Rose</na></co>
+<co c="0"><na f="s/Sacramento:Anderson_da_Silva_Brito" pid="307/8187">Anderson da Silva Brito Sacramento</na></co>
+<co c="0"><na f="s/Sales:Afonso" pid="34/2428">Afonso Sales</na></co>
+<co c="0"><na f="s/Salmon=Alt:Susanne" pid="70/6491">Susanne Salmon-Alt</na></co>
+<co c="0"><na f="s/Sander:Tomas" pid="59/4684">Tomas Sander</na></co>
+<co c="0" n="2"><na f="s/Santos:C=aacute=ssia_Trojahn_dos" pid="61/1342">C&#225;ssia Trojahn dos Santos</na><na>C&#225;ssia Trojahn</na></co>
+<co c="0"><na f="s/Santos:C=iacute=cero_Nogueira_dos" pid="14/5278">C&#237;cero Nogueira dos Santos</na></co>
+<co c="0" n="2"><na f="s/Santos:Henrique_D=_P=_dos" pid="204/3810">Henrique D. P. dos Santos</na><na>Henrique Dias Pereira dos Santos</na></co>
+<co c="0"><na f="s/Santos:Ivo" pid="26/7259">Ivo Santos</na></co>
+<co c="0"><na f="s/Santos_0001:Joaquim" pid="54/8001-1">Joaquim Santos 0001</na></co>
+<co c="0"><na f="s/Santos:Nikolas_Lacerda" pid="283/1309">Nikolas Lacerda Santos</na></co>
+<co c="0"><na f="s/Schang:Emmanuel" pid="36/2420">Emmanuel Schang</na></co>
+<co c="0"><na f="s/Schmidt:Daniela" pid="20/3363">Daniela Schmidt</na></co>
+<co c="2"><na f="s/Segalin:Deoni_Luiz" pid="366/4613">Deoni Luiz Segalin</na></co>
+<co c="0"><na f="s/Sesti:Vinicius" pid="206/1092">Vinicius Sesti</na></co>
+<co c="0"><na f="s/Severo:Bernardo" pid="141/4439">Bernardo Severo</na></co>
+<co c="0"><na f="s/Silva:Amanda_Pestana" pid="255/8427">Amanda Pestana Silva</na></co>
+<co c="0"><na f="s/Silva:Cassiana_Fagundes_da" pid="11/2337">Cassiana Fagundes da Silva</na></co>
+<co c="0" n="2"><na f="s/Silva:Douglas_da" pid="161/1689">Douglas da Silva</na><na>Douglas Michaelsen da Silva</na></co>
+<co c="2"><na f="s/Silva:Jos=eacute=_Roque_Voltolini_da" pid="366/4216">Jos&#233; Roque Voltolini da Silva</na></co>
+<co c="0"><na f="s/Silva:Mateus_Cichelero_da" pid="267/2301">Mateus Cichelero da Silva</na></co>
+<co c="0"><na f="s/Silva:Matheus_L=_da" pid="265/3345">Matheus L. da Silva</na></co>
+<co c="0"><na f="s/Silveira:Karina_Kohl" pid="81/3535">Karina Kohl Silveira</na></co>
+<co c="0"><na f="s/Soares:Jo=atilde=o_E=" pid="236/1488">Jo&#227;o E. Soares</na></co>
+<co c="0"><na f="s/Sousa:Guilherme" pid="338/0318">Guilherme Sousa</na></co>
+<co c="0"><na f="s/Souza:J=" pid="185/0162">J. Souza</na></co>
+<co c="0"><na f="s/Souza:Jos=eacute=_Guilherme_Camargo_de" pid="66/1087">Jos&#233; Guilherme Camargo de Souza</na></co>
+<co c="0"><na f="s/Souza:Marlo" pid="16/11062">Marlo Souza</na></co>
+<co c="0"><na f="s/Spritzer:Andre_Suslik" pid="01/517">Andre Suslik Spritzer</na></co>
+<co c="1"><na f="s/Stuckardt:Roland" pid="77/5552">Roland Stuckardt</na></co>
+<co c="0"><na f="t/Tabalipa:F=aacute=bio" pid="307/8904">F&#225;bio Tabalipa</na></co>
+<co c="0"><na f="t/Terra:Juliano" pid="246/2082">Juliano Terra</na></co>
+<co c="0"><na f="t/Teufel:Simone" pid="61/6424">Simone Teufel</na></co>
+<co c="0"><na f="t/Trajano:Douglas" pid="307/8711">Douglas Trajano</na></co>
+<co c="0"><na f="u/Ulbrich:Ana_Helena_D=_P=_S=" pid="223/6991">Ana Helena D. P. S. Ulbrich</na></co>
+<co c="0"><na f="u/Urbanetto:Janete_Souza" pid="255/8411">Janete Souza Urbanetto</na></co>
+<co c="0"><na f="v/Vanin:Aline_A=" pid="130/0476">Aline A. Vanin</na></co>
+<co c="0"><na f="v/Veladas:Rute" pid="301/3232">Rute Veladas</na></co>
+<co c="1"><na f="v/Versley:Yannick" pid="70/8150">Yannick Versley</na></co>
+<co c="0"><na f="v/Villar:Herminia" pid="319/0738">Herminia Villar</na></co>
+<co c="1"><na f="w/Walde:Sabine_Schulte_im" pid="11/580">Sabine Schulte im Walde</na></co>
+<co c="-1"><na f="w/Wendt:Igor_S=" pid="213/0763">Igor S. Wendt</na></co>
+<co c="0"><na f="w/Woloszyn:Vinicius" pid="204/3806">Vinicius Woloszyn</na></co>
+<co c="0"><na f="w/Wooldridge:Michael_J=" pid="w/MichaelWooldridge">Michael J. Wooldridge</na></co>
+<co c="0"><na f="y/Yang:Hua" pid="11/4973">Hua Yang</na></co>
+<co c="0"><na f="z/Zanotto:Bruna" pid="307/8238">Bruna Zanotto</na></co>
+<co c="0"><na f="z/Zilio:Leonardo" pid="121/5028">Leonardo Zilio</na></co>
+</coauthors>
+</dblpperson>
+

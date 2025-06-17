@@ -1,0 +1,455 @@
+<?xml version="1.0"?>
+<dblpperson name="Fernando M. de Paula Neto" pid="174/3576" n="28">
+<person key="homepages/174/3576" mdate="2024-04-24">
+<author pid="174/3576">Fernando M. de Paula Neto</author>
+<author pid="174/3576">Fernando Maciano de Paula Neto</author>
+<author pid="174/3576">Fernando M. P. Neto</author>
+<url>https://orcid.org/0000-0003-4264-1124</url>
+<url>https://www.wikidata.org/entity/Q90338325</url>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2501-01058" mdate="2025-02-27">
+<author pid="398/3168">Paulo A. Viana</author>
+<author pid="174/3576">Fernando M. de Paula Neto</author>
+<title>A Quantum Genetic Algorithm Framework for the MaxCut Problem.</title>
+<year>2025</year>
+<month>January</month>
+<volume>abs/2501.01058</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2501.01058</ee>
+<url>db/journals/corr/corr2501.html#abs-2501-01058</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-15129" mdate="2025-03-20">
+<author pid="174/3576">Fernando M. de Paula Neto</author>
+<title>Data Complexity Measures for Quantum Circuits Architecture Recommendation.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.15129</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.15129</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-15129</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/ijcia/MacedoNMSL24" mdate="2024-05-17">
+<author orcid="0009-0002-0236-3836" pid="337/2013">Daniel C. Macedo</author>
+<author orcid="0000-0003-4264-1124" pid="174/3576">Fernando M. de Paula Neto</author>
+<author orcid="0009-0005-0224-9621" pid="373/7395">Tasso L. O. Moraes</author>
+<author orcid="0009-0008-3169-999X" pid="337/1466">Vinicius D. Santos</author>
+<author orcid="0000-0003-1606-6517" pid="368/4817">John Wesley Soares de Lima</author>
+<title>Use of Autoencoders for Improving the Performance of Classification and Interpretation of Convolutional Neural Networks in Histopathological Images.</title>
+<pages>2350036:1-2350036:20</pages>
+<year>2024</year>
+<month>March</month>
+<volume>23</volume>
+<journal>Int. J. Comput. Intell. Appl.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1142/S1469026823500360</ee>
+<url>db/journals/ijcia/ijcia23.html#MacedoNMSL24</url>
+</article>
+</r>
+<r><article key="journals/qip/BritoNB24" mdate="2025-03-03">
+<author pid="387/4296">Eduardo Barreto Brito</author>
+<author pid="174/3576">Fernando M. de Paula Neto</author>
+<author orcid="0000-0001-6307-411X" pid="387/4618">Nadja Kolb Bernardes</author>
+<title>Quantum classifier based on open quantum systems with amplitude information loading.</title>
+<pages>339</pages>
+<year>2024</year>
+<month>October</month>
+<volume>23</volume>
+<journal>Quantum Inf. Process.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1007/s11128-024-04526-3</ee>
+<url>db/journals/qip/qip23.html#BritoNB24</url>
+<stream>streams/journals/qip</stream>
+</article>
+</r>
+<r><article key="journals/tnn/CarvalhoN24" mdate="2024-11-30">
+<author orcid="0000-0002-2672-7801" pid="276/4846">Jonathan H. A. de Carvalho</author>
+<author orcid="0000-0003-4264-1124" pid="174/3576">Fernando M. de Paula Neto</author>
+<title>Parametrized Constant-Depth Quantum Neuron.</title>
+<pages>15932-15943</pages>
+<year>2024</year>
+<month>November</month>
+<volume>35</volume>
+<journal>IEEE Trans. Neural Networks Learn. Syst.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TNNLS.2023.3290535</ee>
+<url>db/journals/tnn/tnn35.html#CarvalhoN24</url>
+<stream>streams/journals/tnn</stream>
+</article>
+</r>
+<r><article key="journals/isci/CarvalhoSNF23" mdate="2023-09-30">
+<author pid="276/4846">Jonathan H. A. de Carvalho</author>
+<author pid="24/8766">Luciano S. de Souza</author>
+<author orcid="0000-0003-4264-1124" pid="174/3576">Fernando M. de Paula Neto</author>
+<author pid="201/3471-5">Tiago A. E. Ferreira</author>
+<title>On applying the lackadaisical quantum walk algorithm to search for multiple solutions on grids.</title>
+<pages>873-888</pages>
+<year>2023</year>
+<month>April</month>
+<volume>622</volume>
+<journal>Inf. Sci.</journal>
+<ee>https://doi.org/10.1016/j.ins.2022.11.142</ee>
+<url>db/journals/isci/isci622.html#CarvalhoSNF23</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcnn/NogueiraMZNO23" mdate="2025-03-11">
+<author pid="353/6938">Lucas de Lima Nogueira</author>
+<author pid="228/1710">David L. Mac&#234;do</author>
+<author pid="75/5629">Cleber Zanchettin</author>
+<author pid="174/3576">Fernando M. P. Neto</author>
+<author pid="80/3742">Adriano Lorena In&#225;cio de Oliveira</author>
+<title>Learning What, Where and Which to Transfer.</title>
+<pages>1-8</pages>
+<year>2023</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN54540.2023.10191815</ee>
+<crossref>conf/ijcnn/2023</crossref>
+<url>db/conf/ijcnn/ijcnn2023.html#NogueiraMZNO23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lacci/FilhoN23" mdate="2024-02-20">
+<author pid="368/8231">S&#233;rgio de Vasconcelos Filho</author>
+<author pid="174/3576">Fernando M. de Paula Neto</author>
+<title>RemissIA: a remission identification approach in cancer patients using machine learning ensembles.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>LA-CCI</booktitle>
+<ee>https://doi.org/10.1109/LA-CCI58595.2023.10409458</ee>
+<crossref>conf/lacci/2023</crossref>
+<url>db/conf/lacci/lacci2023.html#FilhoN23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/MacedoSSOPAVL22" mdate="2024-05-07">
+<author pid="337/2013">Daniel C. Macedo</author>
+<author orcid="0000-0003-1606-6517" pid="368/4817">John Wesley Soares de Lima</author>
+<author pid="337/1466">Vinicius D. Santos</author>
+<author pid="373/7395">Tasso L. O. Moraes</author>
+<author pid="174/3576">Fernando M. P. Neto</author>
+<author pid="337/1508">Nicksson Arrais</author>
+<author pid="181/9019">Tiago Vinuto</author>
+<author pid="337/2331">Jo&#227;o Lucena</author>
+<title>Evaluating Interpretability in Deep Learning using Breast Cancer Histopathological Images.</title>
+<pages>276-281</pages>
+<year>2022</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI55357.2022.9991797</ee>
+<crossref>conf/sibgrapi/2022</crossref>
+<url>db/conf/sibgrapi/sibgrapi2022.html#MacedoSSOPAVL22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2202-12496" mdate="2022-03-03">
+<author pid="276/4846">Jonathan H. A. de Carvalho</author>
+<author pid="174/3576">Fernando M. de Paula Neto</author>
+<title>Parametrized constant-depth quantum neuron.</title>
+<year>2022</year>
+<volume>abs/2202.12496</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2202.12496</ee>
+<url>db/journals/corr/corr2202.html#abs-2202-12496</url>
+</article>
+</r>
+<r><article key="journals/nn/MonteiroFCNO21" mdate="2022-01-08">
+<author orcid="0000-0002-7986-2695" pid="275/7866">Cl&#225;udio A. Monteiro</author>
+<author pid="275/7915">Gustavo I. S. Filho</author>
+<author pid="305/4306">Matheus Hopper J. Costa</author>
+<author orcid="0000-0003-4264-1124" pid="174/3576">Fernando M. de Paula Neto</author>
+<author orcid="0000-0002-3261-8265" pid="68/6342">Wilson Rosa de Oliveira</author>
+<title>Quantum neuron with real weights.</title>
+<pages>698-708</pages>
+<year>2021</year>
+<volume>143</volume>
+<journal>Neural Networks</journal>
+<ee>https://doi.org/10.1016/j.neunet.2021.07.034</ee>
+<url>db/journals/nn/nn143.html#MonteiroFCNO21</url>
+</article>
+</r>
+<r><inproceedings key="conf/ssci/MonteiroN21" mdate="2022-02-03">
+<author pid="275/7866">Cl&#225;udio A. Monteiro</author>
+<author pid="174/3576">Fernando M. de Paula Neto</author>
+<title>Diabetes Prediction Using Quantum Neurons with Preprocessing Based on Hypercomplex Numbers.</title>
+<pages>1-8</pages>
+<year>2021</year>
+<booktitle>SSCI</booktitle>
+<ee>https://doi.org/10.1109/SSCI50451.2021.9660028</ee>
+<crossref>conf/ssci/2021</crossref>
+<url>db/conf/ssci/ssci2021.html#MonteiroN21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2106-06274" mdate="2021-06-16">
+<author pid="276/4846">Jonathan H. A. de Carvalho</author>
+<author pid="24/8766">Luciano S. de Souza</author>
+<author pid="174/3576">Fernando M. de Paula Neto</author>
+<author pid="201/3471-5">Tiago A. E. Ferreira</author>
+<title>On Applying the Lackadaisical Quantum Walk Algorithm to Search for Multiple Solutions on Grids.</title>
+<year>2021</year>
+<volume>abs/2106.06274</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2106.06274</ee>
+<url>db/journals/corr/corr2106.html#abs-2106-06274</url>
+</article>
+</r>
+<r><article key="journals/tnn/NetoLOS20" mdate="2020-10-11">
+<author orcid="0000-0003-4264-1124" pid="174/3576">Fernando M. de Paula Neto</author>
+<author orcid="0000-0002-8980-6742" pid="00/6226">Teresa Bernarda Ludermir</author>
+<author orcid="0000-0002-3261-8265" pid="68/6342">Wilson Rosa de Oliveira</author>
+<author orcid="0000-0003-0019-7694" pid="03/8672">Adenilton J. da Silva</author>
+<title>Implementing Any Nonlinear Quantum Neuron.</title>
+<pages>3741-3746</pages>
+<year>2020</year>
+<volume>31</volume>
+<journal>IEEE Trans. Neural Networks Learn. Syst.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TNNLS.2019.2938899</ee>
+<ee>https://www.wikidata.org/entity/Q90338328</ee>
+<url>db/journals/tnn/tnn31.html#NetoLOS20</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/CarvalhoSNF20" mdate="2020-10-20">
+<author orcid="0000-0002-2672-7801" pid="276/4846">Jonathan H. A. de Carvalho</author>
+<author orcid="0000-0002-6527-7065" pid="24/8766">Luciano S. de Souza</author>
+<author orcid="0000-0003-4264-1124" pid="174/3576">Fernando M. de Paula Neto</author>
+<author orcid="0000-0002-2131-9825" pid="201/3471-5">Tiago A. E. Ferreira</author>
+<title>Impacts of Multiple Solutions on the Lackadaisical Quantum Walk Search Algorithm.</title>
+<pages>122-135</pages>
+<year>2020</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-61377-8_9</ee>
+<crossref>conf/bracis/2020</crossref>
+<url>db/conf/bracis/bracis2020.html#CarvalhoSNF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/NetoFM20" mdate="2020-10-06">
+<author pid="174/3576">Fernando M. de Paula Neto</author>
+<author pid="275/7915">Gustavo I. S. Filho</author>
+<author pid="275/7866">Cl&#225;udio A. Monteiro</author>
+<title>Approaches to Avoid Overfitting in a Quantum Perceptron.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN48605.2020.9206741</ee>
+<crossref>conf/ijcnn/2020</crossref>
+<url>db/conf/ijcnn/ijcnn2020.html#NetoFM20</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijon/NetoSOL19" mdate="2025-01-19">
+<author orcid="0000-0003-4264-1124" pid="174/3576">Fernando M. de Paula Neto</author>
+<author orcid="0000-0003-0019-7694" pid="03/8672">Adenilton J. da Silva</author>
+<author orcid="0000-0002-3261-8265" pid="68/6342">Wilson Rosa de Oliveira</author>
+<author pid="00/6226">Teresa Bernarda Ludermir</author>
+<title>Quantum probabilistic associative memory architecture.</title>
+<pages>101-110</pages>
+<year>2019</year>
+<volume>351</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2019.03.078</ee>
+<ee>https://www.wikidata.org/entity/Q127979184</ee>
+<url>db/journals/ijon/ijon351.html#NetoSOL19</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/NetoLO19" mdate="2021-07-25">
+<author pid="174/3576">Fernando Maciano de Paula Neto</author>
+<author pid="00/6226">Teresa Bernarda Ludermir</author>
+<author orcid="0000-0002-3261-8265" pid="68/6342">Wilson Rosa de Oliveira</author>
+<title>Quantum Neural Networks Learning Algorithm Based on a Global Search.</title>
+<pages>842-847</pages>
+<year>2019</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2019.00150</ee>
+<crossref>conf/bracis/2019</crossref>
+<url>db/conf/bracis/bracis2019.html#NetoLO19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/NetoLOS18" mdate="2021-07-25">
+<author orcid="0000-0003-4264-1124" pid="174/3576">Fernando M. de Paula Neto</author>
+<author pid="00/6226">Teresa Bernarda Ludermir</author>
+<author orcid="0000-0002-3261-8265" pid="68/6342">Wilson Rosa de Oliveira</author>
+<author orcid="0000-0003-0019-7694" pid="03/8672">Adenilton J. da Silva</author>
+<title>Quantum Perceptron with Dynamic Internal Memory.</title>
+<pages>1-8</pages>
+<year>2018</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2018.8489170</ee>
+<crossref>conf/ijcnn/2018</crossref>
+<url>db/conf/ijcnn/ijcnn2018.html#NetoLOS18</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijon/NetoOLS17" mdate="2021-07-25">
+<author orcid="0000-0003-4264-1124" pid="174/3576">Fernando M. de Paula Neto</author>
+<author orcid="0000-0002-3261-8265" pid="68/6342">Wilson Rosa de Oliveira</author>
+<author pid="00/6226">Teresa Bernarda Ludermir</author>
+<author orcid="0000-0003-0019-7694" pid="03/8672">Adenilton J. da Silva</author>
+<title>Chaos in a quantum neuron: An open system approach.</title>
+<pages>3-11</pages>
+<year>2017</year>
+<volume>246</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2016.06.081</ee>
+<ee>https://www.wikidata.org/entity/Q61771284</ee>
+<url>db/journals/ijon/ijon246.html#NetoOLS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/NetoSOL17" mdate="2023-03-24">
+<author orcid="0000-0003-4264-1124" pid="174/3576">Fernando Maciano de Paula Neto</author>
+<author orcid="0000-0003-0019-7694" pid="03/8672">Adenilton Jos&#233; da Silva</author>
+<author orcid="0000-0002-3261-8265" pid="68/6342">Wilson Rosa de Oliveira</author>
+<author pid="00/6226">Teresa Bernarda Ludermir</author>
+<title>Non-unitary Quantum Associative Memory.</title>
+<pages>97-102</pages>
+<year>2017</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2017.36</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2017.36</ee>
+<crossref>conf/bracis/2017</crossref>
+<url>db/conf/bracis/bracis2017.html#NetoSOL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/NetoOSL17" mdate="2023-03-24">
+<author orcid="0000-0003-4264-1124" pid="174/3576">Fernando Maciano de Paula Neto</author>
+<author orcid="0000-0002-3261-8265" pid="68/6342">Wilson Rosa de Oliveira</author>
+<author orcid="0000-0003-0019-7694" pid="03/8672">Adenilton Jos&#233; da Silva</author>
+<author pid="00/6226">Teresa Bernarda Ludermir</author>
+<title>On the Entanglement Dynamics of the Quantum Weightless Neuron.</title>
+<pages>175-180</pages>
+<year>2017</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2017.46</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2017.46</ee>
+<crossref>conf/bracis/2017</crossref>
+<url>db/conf/bracis/bracis2017.html#NetoOSL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/PinheiroNORCA17" mdate="2024-04-27">
+<author pid="117/3025">Hector N. B. Pinheiro</author>
+<author orcid="0000-0003-4264-1124" pid="174/3576">Fernando M. P. Neto</author>
+<author pid="80/3742">Adriano L. I. Oliveira</author>
+<author pid="98/5344">Tsang Ing Ren</author>
+<author pid="57/458">George D. C. Cavalcanti</author>
+<author orcid="0000-0001-8105-7698" pid="59/974">Andr&#233; Gustavo Adami</author>
+<title>Optimizing speaker-specific filter banks for speaker verification.</title>
+<pages>5350-5354</pages>
+<year>2017</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2017.7953178</ee>
+<crossref>conf/icassp/2017</crossref>
+<url>db/conf/icassp/icassp2017.html#PinheiroNORCA17</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijon/NetoOSL16" mdate="2021-07-25">
+<author orcid="0000-0003-4264-1124" pid="174/3576">Fernando M. de Paula Neto</author>
+<author orcid="0000-0002-3261-8265" pid="68/6342">Wilson Rosa de Oliveira</author>
+<author orcid="0000-0003-0019-7694" pid="03/8672">Adenilton J. da Silva</author>
+<author pid="00/6226">Teresa Bernarda Ludermir</author>
+<title>Chaos in Quantum Weightless Neuron Node Dynamics.</title>
+<pages>23-38</pages>
+<year>2016</year>
+<volume>183</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2015.02.103</ee>
+<ee>https://www.wikidata.org/entity/Q61771311</ee>
+<url>db/journals/ijon/ijon183.html#NetoOSL16</url>
+</article>
+</r>
+<r><article key="journals/jsa/CambuimMNBLZ16" mdate="2020-02-24">
+<author pid="123/2600">Lucas F. S. Cambuim</author>
+<author pid="160/4649">Rafael M. Macieira</author>
+<author orcid="0000-0003-4264-1124" pid="174/3576">Fernando M. de Paula Neto</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<author pid="00/6226">Teresa Bernarda Ludermir</author>
+<author orcid="0000-0001-6421-9747" pid="75/5629">Cleber Zanchettin</author>
+<title>An efficient static gesture recognizer embedded system based on ELM pattern recognition algorithm.</title>
+<pages>1-16</pages>
+<year>2016</year>
+<volume>68</volume>
+<journal>J. Syst. Archit.</journal>
+<ee>https://doi.org/10.1016/j.sysarc.2016.06.002</ee>
+<ee>https://www.wikidata.org/entity/Q61771297</ee>
+<url>db/journals/jsa/jsa68.html#CambuimMNBLZ16</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/NetoLOS15" mdate="2023-03-24">
+<author orcid="0000-0003-4264-1124" pid="174/3576">Fernando M. de Paula Neto</author>
+<author pid="00/6226">Teresa Bernarda Ludermir</author>
+<author orcid="0000-0002-3261-8265" pid="68/6342">Wilson Rosa de Oliveira</author>
+<author orcid="0000-0003-0019-7694" pid="03/8672">Adenilton J. da Silva</author>
+<title>Fitting Parameters on Quantum Weightless Neuron Dynamics.</title>
+<pages>169-174</pages>
+<year>2015</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2015.23</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2015.23</ee>
+<ee>https://www.wikidata.org/entity/Q61771327</ee>
+<crossref>conf/bracis/2015</crossref>
+<url>db/conf/bracis/bracis2015.html#NetoLOS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/NetoLOS15a" mdate="2023-03-24">
+<author orcid="0000-0003-4264-1124" pid="174/3576">Fernando M. de Paula Neto</author>
+<author pid="00/6226">Teresa Bernarda Ludermir</author>
+<author orcid="0000-0002-3261-8265" pid="68/6342">Wilson Rosa de Oliveira</author>
+<author orcid="0000-0003-0019-7694" pid="03/8672">Adenilton J. da Silva</author>
+<title>Solving NP-complete Problems Using Quantum Weightless Neuron Nodes.</title>
+<pages>258-263</pages>
+<year>2015</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2015.22</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2015.22</ee>
+<ee>https://www.wikidata.org/entity/Q61771330</ee>
+<crossref>conf/bracis/2015</crossref>
+<url>db/conf/bracis/bracis2015.html#NetoLOS15a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/NetoCMLZB15" mdate="2019-06-02">
+<author orcid="0000-0003-4264-1124" pid="174/3576">Fernando M. de Paula Neto</author>
+<author pid="123/2600">Lucas F. S. Cambuim</author>
+<author pid="160/4649">Rafael M. Macieira</author>
+<author pid="00/6226">Teresa Bernarda Ludermir</author>
+<author orcid="0000-0001-6421-9747" pid="75/5629">Cleber Zanchettin</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Natividade da Silva Barros</author>
+<title>Extreme Learning Machine for Real Time Recognition of Brazilian Sign Language.</title>
+<pages>1464-1469</pages>
+<year>2015</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/SMC.2015.259</ee>
+<ee>https://www.wikidata.org/entity/Q61771326</ee>
+<crossref>conf/smc/2015</crossref>
+<url>db/conf/smc/smc2015.html#NetoCMLZB15</url>
+</inproceedings>
+</r>
+<coauthors n="31" nc="3">
+<co c="0" n="2"><na f="a/Adami:Andr=eacute=" pid="59/974">Andr&#233; Adami</na><na>Andr&#233; Gustavo Adami</na></co>
+<co c="1"><na f="a/Arrais:Nicksson" pid="337/1508">Nicksson Arrais</na></co>
+<co c="0" n="2"><na f="b/Barros:Edna" pid="48/6034">Edna Barros</na><na>Edna Natividade da Silva Barros</na></co>
+<co c="2"><na f="b/Bernardes:Nadja_Kolb" pid="387/4618">Nadja Kolb Bernardes</na></co>
+<co c="2"><na f="b/Brito:Eduardo_Barreto" pid="387/4296">Eduardo Barreto Brito</na></co>
+<co c="0"><na f="c/Cambuim:Lucas_F=_S=" pid="123/2600">Lucas F. S. Cambuim</na></co>
+<co c="0"><na f="c/Carvalho:Jonathan_H=_A=_de" pid="276/4846">Jonathan H. A. de Carvalho</na></co>
+<co c="0"><na f="c/Cavalcanti:George_D=_C=" pid="57/458">George D. C. Cavalcanti</na></co>
+<co c="0"><na f="c/Costa:Matheus_Hopper_J=" pid="305/4306">Matheus Hopper J. Costa</na></co>
+<co c="0" n="2"><na f="f/Ferreira:Tiago_Alessandro_Esp=iacute=nola" pid="201/3471-5">Tiago Alessandro Esp&#237;nola Ferreira</na><na>Tiago A. E. Ferreira</na></co>
+<co c="0"><na f="f/Filho:Gustavo_I=_S=" pid="275/7915">Gustavo I. S. Filho</na></co>
+<co c="-1"><na f="f/Filho:S=eacute=rgio_de_Vasconcelos" pid="368/8231">S&#233;rgio de Vasconcelos Filho</na></co>
+<co c="1"><na f="l/Lima:John_Wesley_Soares_de" pid="368/4817">John Wesley Soares de Lima</na></co>
+<co c="1"><na f="l/Lucena:Jo=atilde=o" pid="337/2331">Jo&#227;o Lucena</na></co>
+<co c="0"><na f="l/Ludermir:Teresa_Bernarda" pid="00/6226">Teresa Bernarda Ludermir</na></co>
+<co c="1"><na f="m/Macedo:Daniel_C=" pid="337/2013">Daniel C. Macedo</na></co>
+<co c="0" n="2"><na f="m/Macedo:David" pid="228/1710">David Macedo</na><na>David L. Mac&#234;do</na></co>
+<co c="0"><na f="m/Macieira:Rafael_M=" pid="160/4649">Rafael M. Macieira</na></co>
+<co c="0"><na f="m/Monteiro:Cl=aacute=udio_A=" pid="275/7866">Cl&#225;udio A. Monteiro</na></co>
+<co c="1"><na f="m/Moraes:Tasso_L=_O=" pid="373/7395">Tasso L. O. Moraes</na></co>
+<co c="0"><na f="n/Nogueira:Lucas_de_Lima" pid="353/6938">Lucas de Lima Nogueira</na></co>
+<co c="0" n="2"><na f="o/Oliveira:Adriano_Lorena_In=aacute=cio_de" pid="80/3742">Adriano Lorena In&#225;cio de Oliveira</na><na>Adriano L. I. Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Wilson_Rosa_de" pid="68/6342">Wilson Rosa de Oliveira</na></co>
+<co c="0"><na f="p/Pinheiro:Hector_N=_B=" pid="117/3025">Hector N. B. Pinheiro</na></co>
+<co c="1"><na f="s/Santos:Vinicius_D=" pid="337/1466">Vinicius D. Santos</na></co>
+<co c="0" n="2"><na f="s/Silva:Adenilton_J=_da" pid="03/8672">Adenilton J. da Silva</na><na>Adenilton Jos&#233; da Silva</na></co>
+<co c="0"><na f="s/Souza:Luciano_S=_de" pid="24/8766">Luciano S. de Souza</na></co>
+<co c="0" n="2"><na f="t/Tsang:Ing_Ren" pid="98/5344">Ing Ren Tsang</na><na>Tsang Ing Ren</na></co>
+<co c="-1"><na f="v/Viana:Paulo_A=" pid="398/3168">Paulo A. Viana</na></co>
+<co c="1"><na f="v/Vinuto:Tiago" pid="181/9019">Tiago Vinuto</na></co>
+<co c="0"><na f="z/Zanchettin:Cleber" pid="75/5629">Cleber Zanchettin</na></co>
+</coauthors>
+</dblpperson>
+

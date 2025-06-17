@@ -1,0 +1,446 @@
+<?xml version="1.0"?>
+<dblpperson name="Emilio Francesquini" pid="121/4593" n="27">
+<person key="homepages/121/4593" mdate="2018-12-10">
+<author pid="121/4593">Emilio Francesquini</author>
+<url>https://orcid.org/0000-0002-5374-2521</url>
+<url>https://www.wikidata.org/entity/Q57923665</url>
+</person>
+<r><article key="journals/rcc/AschFM24" mdate="2025-03-03">
+<author orcid="0000-0002-3111-4858" pid="331/7847">Christian Asch</author>
+<author pid="121/4593">Emilio Francesquini</author>
+<author pid="m/EstebanMeneses">Esteban Meneses</author>
+<title>An implementation of a plasma physics application for distributed-memory supercomputers using a directive-based programming framework.</title>
+<pages>39-47</pages>
+<year>2024</year>
+<volume>25</volume>
+<journal>Rev. Colomb. de Computaci&#243;n</journal>
+<number>1</number>
+<ee>https://doi.org/10.29375/25392115.5053</ee>
+<url>db/journals/rcc/rcc25.html#AschFM24</url>
+<stream>streams/journals/rcc</stream>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/FernandesFF24" mdate="2025-02-25">
+<author orcid="0000-0002-5118-2399" pid="255/9663">Matheus Campos Fernandes</author>
+<author orcid="0000-0002-2741-8736" pid="92/5258">Fabr&#237;cio Olivetti de Fran&#231;a</author>
+<author orcid="0000-0002-5374-2521" pid="121/4593">Emilio Francesquini</author>
+<title>Going Bananas! - Unfolding Program Synthesis with Origami.</title>
+<pages>3-18</pages>
+<year>2024</year>
+<booktitle>BRACIS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-79032-4_1</ee>
+<crossref>conf/bracis/2024-2</crossref>
+<url>db/conf/bracis/bracis2024-2.html#FernandesFF24</url>
+<stream>streams/conf/bracis</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwomp/RossoPLPRYBFA24" mdate="2024-10-22">
+<author orcid="0000-0001-6482-8745" pid="318/1310">Pedro Henrique Di Francia Rosso</author>
+<author orcid="0000-0002-3480-0570" pid="161/0866">Lucian Petrica</author>
+<author orcid="0000-0001-7929-0191" pid="152/6823">Nusrat Jahan Lisa</author>
+<author pid="144/4917">M&#225;rcio Machado Pereira</author>
+<author orcid="0000-0002-9539-6874" pid="79/2208">Sandro Rigo</author>
+<author orcid="0000-0003-1214-3431" pid="21/10574">Herv&#233; Yviquel</author>
+<author orcid="0000-0002-1743-8004" pid="57/3827">Vanderlei Bonato</author>
+<author orcid="0000-0002-5374-2521" pid="121/4593">Emilio Francesquini</author>
+<author orcid="0000-0003-4869-5190" pid="a/GuidoAraujo">Guido Araujo</author>
+<title>Integrating Multi-FPGA Acceleration to OpenMP Distributed Computing.</title>
+<pages>49-63</pages>
+<year>2024</year>
+<booktitle>IWOMP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-72567-8_4</ee>
+<crossref>conf/iwomp/2024</crossref>
+<url>db/conf/iwomp/iwomp2024.html#RossoPLPRYBFA24</url>
+<stream>streams/conf/iwomp</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/AlmeidaOFC24" mdate="2025-01-19">
+<author orcid="0000-0003-3307-4615" pid="123/7655">Guilherme Almeida</author>
+<author orcid="0000-0002-2798-0980" pid="296/6054">Marcelo Torres do &#211;</author>
+<author orcid="0000-0002-5374-2521" pid="121/4593">Emilio Francesquini</author>
+<author orcid="0000-0003-4971-7355" pid="50/6986">Daniel Cordeiro</author>
+<title>Reducing carbon emissions of distributed systems: a multi-objective approach.</title>
+<pages>23:1-23:10</pages>
+<year>2024</year>
+<booktitle>SBSI</booktitle>
+<ee>https://doi.org/10.1145/3658321.3658364</ee>
+<ee>https://www.wikidata.org/entity/Q130808133</ee>
+<crossref>conf/sbsi/2024</crossref>
+<url>db/conf/sbsi/sbsi2024.html#AlmeidaOFC24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-13828" mdate="2025-03-03">
+<author pid="255/9663">Matheus Campos Fernandes</author>
+<author orcid="0000-0002-2741-8736" pid="92/5258">Fabr&#237;cio Olivetti de Fran&#231;a</author>
+<author pid="121/4593">Emilio Francesquini</author>
+<title>Origami: (un)folding the abstraction of recursion schemes for program synthesis.</title>
+<year>2024</year>
+<volume>abs/2402.13828</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.13828</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-13828</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2406-01500" mdate="2025-03-03">
+<author pid="255/9663">Matheus Campos Fernandes</author>
+<author orcid="0000-0002-2741-8736" pid="92/5258">Fabr&#237;cio Olivetti de Fran&#231;a</author>
+<author pid="121/4593">Emilio Francesquini</author>
+<title>Going Bananas! - Unfolding Program Synthesis with Origami.</title>
+<year>2024</year>
+<volume>abs/2406.01500</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2406.01500</ee>
+<url>db/journals/corr/corr2406.html#abs-2406-01500</url>
+</article>
+</r>
+<r><article key="journals/ress/ForghanielahabadF23" mdate="2023-08-31">
+<author orcid="0000-0003-1691-7633" pid="142/3740">Majid Forghani-elahabad</author>
+<author orcid="0000-0002-5374-2521" pid="121/4593">Emilio Francesquini</author>
+<title>Usage of task and data parallelism for finding the lower boundary vectors in a stochastic-flow network.</title>
+<pages>109417</pages>
+<year>2023</year>
+<month>October</month>
+<volume>238</volume>
+<journal>Reliab. Eng. Syst. Saf.</journal>
+<ee>https://doi.org/10.1016/j.ress.2023.109417</ee>
+<url>db/journals/ress/ress238.html#ForghanielahabadF23</url>
+</article>
+</r>
+<r><inproceedings key="conf/gecco/FernandesFF23" mdate="2025-01-19">
+<author orcid="0000-0002-5118-2399" pid="255/9663">Matheus Campos Fernandes</author>
+<author orcid="0000-0002-2741-8736" pid="92/5258">Fabr&#237;cio Olivetti de Fran&#231;a</author>
+<author orcid="0000-0002-5374-2521" pid="121/4593">Emilio Francesquini</author>
+<title>HOTGP - Higher-Order Typed Genetic Programming.</title>
+<pages>1091-1099</pages>
+<year>2023</year>
+<booktitle>GECCO</booktitle>
+<ee>https://doi.org/10.1145/3583131.3590464</ee>
+<ee>https://www.wikidata.org/entity/Q130824588</ee>
+<crossref>conf/gecco/2023</crossref>
+<url>db/conf/gecco/gecco2023.html#FernandesFF23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gptp/FernandesFF23" mdate="2024-08-04">
+<author orcid="0000-0002-5118-2399" pid="255/9663">Matheus Campos Fernandes</author>
+<author pid="92/5258">Fabr&#237;cio Olivetti de Fran&#231;a</author>
+<author pid="121/4593">Emilio Francesquini</author>
+<title>Origami: (un)folding the Abstraction of Recursion Schemes for Program Synthesis.</title>
+<pages>263-281</pages>
+<year>2023</year>
+<booktitle>GPTP</booktitle>
+<ee>https://doi.org/10.1007/978-981-99-8413-8_14</ee>
+<crossref>conf/gptp/2023</crossref>
+<url>db/conf/gptp/gptp2023.html#FernandesFF23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2304-03200" mdate="2025-03-03">
+<author pid="255/9663">Matheus Campos Fernandes</author>
+<author orcid="0000-0002-2741-8736" pid="92/5258">Fabr&#237;cio Olivetti de Fran&#231;a</author>
+<author pid="121/4593">Emilio Francesquini</author>
+<title>HOTGP - Higher-Order Typed Genetic Programming.</title>
+<year>2023</year>
+<volume>abs/2304.03200</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2304.03200</ee>
+<url>db/journals/corr/corr2304.html#abs-2304-03200</url>
+</article>
+</r>
+<r><inproceedings key="conf/icppw/YviquelPFVLRCCD22" mdate="2025-01-19">
+<author pid="21/10574">Herv&#233; Yviquel</author>
+<author pid="144/4917">M&#225;rcio Machado Pereira</author>
+<author orcid="0000-0002-5374-2521" pid="121/4593">Emilio Francesquini</author>
+<author pid="294/0916">Guilherme Valarini</author>
+<author pid="166/4441">Gustavo Leite</author>
+<author pid="318/1310">Pedro Henrique Di Francia Rosso</author>
+<author orcid="0000-0001-5830-0733" pid="324/2889">Rodrigo Ceccato</author>
+<author pid="324/2954">Carla Cusihualpa</author>
+<author pid="324/2730">Vitoria Dias</author>
+<author pid="79/2208">Sandro Rigo</author>
+<author pid="150/9939">Alan Souza</author>
+<author pid="a/GuidoAraujo">Guido Araujo</author>
+<title>The OpenMP Cluster Programming Model.</title>
+<pages>17:1-17:11</pages>
+<year>2022</year>
+<booktitle>ICPP Workshops</booktitle>
+<ee>https://doi.org/10.1145/3547276.3548444</ee>
+<ee>https://www.wikidata.org/entity/Q130839969</ee>
+<crossref>conf/icppw/2022</crossref>
+<url>db/conf/icppw/icppw2022.html#YviquelPFVLRCCD22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-05677" mdate="2024-01-24">
+<author pid="21/10574">Herv&#233; Yviquel</author>
+<author pid="144/4917">M&#225;rcio Machado Pereira</author>
+<author pid="121/4593">Emilio Francesquini</author>
+<author pid="294/0916">Guilherme Valarini</author>
+<author pid="166/4441">Gustavo Leite</author>
+<author pid="318/1310">Pedro Henrique Di Francia Rosso</author>
+<author pid="324/2889">Rodrigo Ceccato</author>
+<author pid="324/2954">Carla Cusihualpa</author>
+<author pid="324/2730">Vitoria Dias</author>
+<author pid="79/2208">Sandro Rigo</author>
+<author pid="150/9939">Alan Souza</author>
+<author pid="a/GuidoAraujo">Guido Araujo</author>
+<title>The OpenMP Cluster Programming Model.</title>
+<year>2022</year>
+<volume>abs/2207.05677</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.05677</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-05677</url>
+</article>
+</r>
+<r><inproceedings key="conf/carla/RossoF21" mdate="2022-04-27">
+<author orcid="0000-0001-6482-8745" pid="318/1310">Pedro Henrique Di Francia Rosso</author>
+<author orcid="0000-0002-5374-2521" pid="121/4593">Emilio Francesquini</author>
+<title>OCFTL: An MPI Implementation-Independent Fault Tolerance Library for Task-Based Applications.</title>
+<pages>131-147</pages>
+<year>2021</year>
+<booktitle>CARLA</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-04209-6_10</ee>
+<crossref>conf/carla/2021</crossref>
+<url>db/conf/carla/carla2021.html#RossoF21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/carla/RochaFFC21" mdate="2022-05-18">
+<author orcid="0000-0001-7370-8278" pid="318/1557">Francisco Wallison Rocha</author>
+<author orcid="0000-0001-9405-5923" pid="318/1414">Jo&#227;o Cocca Fukuda</author>
+<author orcid="0000-0002-5374-2521" pid="121/4593">Emilio Francesquini</author>
+<author orcid="0000-0003-4971-7355" pid="50/6986">Daniel Cordeiro</author>
+<title>Accelerating Smart City Simulations.</title>
+<pages>148-162</pages>
+<year>2021</year>
+<booktitle>CARLA</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-04209-6_11</ee>
+<crossref>conf/carla/2021</crossref>
+<url>db/conf/carla/carla2021.html#RochaFFC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wscad/SoaresAFA18" mdate="2023-03-21">
+<author pid="49/2065">Rafael Soares</author>
+<author pid="244/1464">Luis Antonioli</author>
+<author orcid="0000-0002-5374-2521" pid="121/4593">Emilio Francesquini</author>
+<author pid="73/1601">Rodolfo Azevedo</author>
+<title>Phase Detection and Analysis among Multiple Program Inputs.</title>
+<pages>155-161</pages>
+<year>2018</year>
+<booktitle>WSCAD</booktitle>
+<ee>https://doi.org/10.1109/WSCAD.2018.00033</ee>
+<crossref>conf/wscad/2018</crossref>
+<url>db/conf/wscad/wscad2018.html#SoaresAFA18</url>
+</inproceedings>
+</r>
+<r><article key="journals/esl/GarciaFAR17" mdate="2020-09-10">
+<author orcid="0000-0002-6376-3350" pid="200/9719">Maxiwell Garcia</author>
+<author orcid="0000-0002-5374-2521" pid="121/4593">Emilio Francesquini</author>
+<author orcid="0000-0002-8803-0401" pid="73/1601">Rodolfo Azevedo</author>
+<author pid="79/2208">Sandro Rigo</author>
+<title>HybridVerifier: A Cross-Platform Verification Framework for Instruction Set Simulators.</title>
+<pages>25-28</pages>
+<year>2017</year>
+<volume>9</volume>
+<journal>IEEE Embed. Syst. Lett.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/LES.2016.2626980</ee>
+<url>db/journals/esl/esl9.html#GarciaFAR17</url>
+</article>
+</r>
+<r><article key="journals/pc/CastroFDANM16" mdate="2021-06-11">
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Castro 0001</author>
+<author orcid="0000-0002-5374-2521" pid="121/4593">Emilio Francesquini</author>
+<author orcid="0000-0002-1069-9949" pid="54/5417">Fabrice Dupros</author>
+<author orcid="0000-0001-9405-9596" pid="45/538">Hideo Aochi</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<author orcid="0000-0003-1047-7462" pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
+<title>Seismic wave propagation simulations on low-power and performance-centric manycores.</title>
+<pages>108-120</pages>
+<year>2016</year>
+<volume>54</volume>
+<journal>Parallel Comput.</journal>
+<ee>https://doi.org/10.1016/j.parco.2016.01.011</ee>
+<ee>https://www.wikidata.org/entity/Q57716461</ee>
+<url>db/journals/pc/pc54.html#CastroFDANM16</url>
+</article>
+</r>
+<r><article key="journals/jpdc/FrancesquiniCPD15" mdate="2022-01-04">
+<author orcid="0000-0002-5374-2521" pid="121/4593">Emilio Francesquini</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Castro 0001</author>
+<author orcid="0000-0003-3617-2915" pid="210/3783">Pedro Henrique Penna</author>
+<author orcid="0000-0002-1069-9949" pid="54/5417">Fabrice Dupros</author>
+<author orcid="0000-0001-9722-1093" pid="13/4670">Henrique C. Freitas</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<author orcid="0000-0003-1047-7462" pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
+<title>On the energy efficiency and performance of irregular application executions on multicore, NUMA and manycore platforms.</title>
+<pages>32-48</pages>
+<year>2015</year>
+<volume>76</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<ee>https://doi.org/10.1016/j.jpdc.2014.11.002</ee>
+<url>db/journals/jpdc/jpdc76.html#FrancesquiniCPD15</url>
+</article>
+</r>
+<r><phdthesis key="phd/hal/Francesquini14" mdate="2020-07-21">
+<author pid="121/4593">Emilio Francesquini</author>
+<title>Dealing with actor runtime environments on hierarchical shared memory multi-core platforms. (Environnements d'ex&#233;cution &#224; base d'acteurs pour plates-formes multi-coeurs &#224; m&#233;moire partag&#233;e hi&#233;rarchique).</title>
+<year>2014</year>
+<school>Grenoble Alpes University, France</school>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-01549158</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:agregador.ibict.br.BDTD_USP:oai:teses.usp.br:tde-09092014-163810</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/middleware/FurtadoFLK14" mdate="2019-09-16">
+<author pid="151/4987">Thiago Furtado</author>
+<author pid="121/4593">Emilio Francesquini</author>
+<author pid="70/9554">Nelson Lago</author>
+<author orcid="0000-0003-3888-7340" pid="k/FabioKon">Fabio Kon</author>
+<title>A middleware for reflective web service choreographies on the cloud.</title>
+<pages>9:1-9:6</pages>
+<year>2014</year>
+<booktitle>ARM@Middleware</booktitle>
+<ee>https://doi.org/10.1145/2677017.2677026</ee>
+<crossref>conf/middleware/2014arm</crossref>
+<url>db/conf/middleware/arm2014.html#FurtadoFLK14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/CastroDFMN14" mdate="2023-03-23">
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Castro 0001</author>
+<author orcid="0000-0002-1069-9949" pid="54/5417">Fabrice Dupros</author>
+<author orcid="0000-0002-5374-2521" pid="121/4593">Emilio Francesquini</author>
+<author pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<title>Energy Efficient Seismic Wave Propagation Simulation on a Low-Power Manycore Processor.</title>
+<pages>57-64</pages>
+<year>2014</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2014.28</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2014.28</ee>
+<crossref>conf/sbac-pad/2014</crossref>
+<url>db/conf/sbac-pad/sbac-pad2014.html#CastroDFMN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/services/FurtadoFLK14" mdate="2023-03-24">
+<author pid="151/4987">Thiago Furtado</author>
+<author pid="121/4593">Emilio Francesquini</author>
+<author orcid="0000-0002-4306-8078" pid="70/9554">Nelson Lago</author>
+<author orcid="0000-0003-3888-7340" pid="k/FabioKon">Fabio Kon</author>
+<title>Towards an Enactment Engine for Dynamically Reconfigurable and Scalable Choreographies.</title>
+<pages>325-332</pages>
+<year>2014</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2014.64</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SERVICES.2014.64</ee>
+<crossref>conf/services/2014</crossref>
+<url>db/conf/services/services2014.html#FurtadoFLK14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/agere/FrancesquiniGM13" mdate="2019-09-25">
+<author orcid="0000-0002-5374-2521" pid="121/4593">Emilio Francesquini</author>
+<author orcid="0000-0001-5746-4154" pid="g/AlfredoGoldman">Alfredo Goldman</author>
+<author pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
+<title>Improving the performance of actor model runtime environments on multicore and manycore platforms.</title>
+<pages>109-114</pages>
+<year>2013</year>
+<booktitle>AGERE!@SPLASH</booktitle>
+<ee>https://doi.org/10.1145/2541329.2541342</ee>
+<crossref>conf/agere/2013</crossref>
+<url>db/conf/agere/agere2013.html#FrancesquiniGM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/erlang/FrancesquiniGM13" mdate="2019-09-25">
+<author orcid="0000-0002-5374-2521" pid="121/4593">Emilio Francesquini</author>
+<author orcid="0000-0001-5746-4154" pid="g/AlfredoGoldman">Alfredo Goldman</author>
+<author pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
+<title>Actor scheduling for multicore hierarchical memory platforms.</title>
+<pages>51-62</pages>
+<year>2013</year>
+<booktitle>Erlang Workshop</booktitle>
+<ee>https://doi.org/10.1145/2505305.2505313</ee>
+<crossref>conf/erlang/2013</crossref>
+<url>db/conf/erlang/erlang2013.html#FrancesquiniGM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/FrancesquiniGM13" mdate="2023-03-24">
+<author orcid="0000-0002-5374-2521" pid="121/4593">Emilio Francesquini</author>
+<author orcid="0000-0001-5746-4154" pid="g/AlfredoGoldman">Alfredo Goldman</author>
+<author pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
+<title>A NUMA-Aware Runtime Environment for the Actor Model.</title>
+<pages>250-259</pages>
+<year>2013</year>
+<booktitle>ICPP</booktitle>
+<ee>https://doi.org/10.1109/ICPP.2013.34</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICPP.2013.34</ee>
+<crossref>conf/icpp/2013</crossref>
+<url>db/conf/icpp/icpp2013.html#FrancesquiniGM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sc/CastroFNM13" mdate="2025-01-19">
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Castro 0001</author>
+<author orcid="0000-0002-5374-2521" pid="121/4593">Emilio Francesquini</author>
+<author pid="167/0152">Thomas Messi Ngu&#233;l&#233;</author>
+<author pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
+<title>Analysis of computing and energy performance of multicore, NUMA, and manycore platforms for an irregular application.</title>
+<pages>5:1-5:8</pages>
+<year>2013</year>
+<booktitle>IA3@SC</booktitle>
+<ee>https://doi.org/10.1145/2535753.2535757</ee>
+<ee>https://www.wikidata.org/entity/Q130962544</ee>
+<crossref>conf/sc/2013ia3</crossref>
+<url>db/conf/sc/ia3-2013.html#CastroFNM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/erlang/FrancesquiniGM12" mdate="2019-09-25">
+<author orcid="0000-0002-5374-2521" pid="121/4593">Emilio Francesquini</author>
+<author orcid="0000-0001-5746-4154" pid="g/AlfredoGoldman">Alfredo Goldman</author>
+<author pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
+<title>Towards automatic actor pinning on multi-core architectures.</title>
+<pages>63-64</pages>
+<year>2012</year>
+<booktitle>Erlang Workshop</booktitle>
+<ee>https://doi.org/10.1145/2364489.2364501</ee>
+<crossref>conf/erlang/2012</crossref>
+<url>db/conf/erlang/erlang2012.html#FrancesquiniGM12</url>
+</inproceedings>
+</r>
+<coauthors n="40" nc="3">
+<co c="0"><na f="a/Almeida:Guilherme" pid="123/7655">Guilherme Almeida</na></co>
+<co c="0"><na f="a/Antonioli:Luis" pid="244/1464">Luis Antonioli</na></co>
+<co c="0"><na f="a/Aochi:Hideo" pid="45/538">Hideo Aochi</na></co>
+<co c="0"><na f="a/Araujo:Guido" pid="a/GuidoAraujo">Guido Araujo</na></co>
+<co c="1"><na f="a/Asch:Christian" pid="331/7847">Christian Asch</na></co>
+<co c="0"><na f="a/Azevedo:Rodolfo" pid="73/1601">Rodolfo Azevedo</na></co>
+<co c="0"><na f="b/Bonato:Vanderlei" pid="57/3827">Vanderlei Bonato</na></co>
+<co c="0"><na f="c/Castro_0001:M=aacute=rcio" pid="39/6633">M&#225;rcio Castro 0001</na></co>
+<co c="0"><na f="c/Ceccato:Rodrigo" pid="324/2889">Rodrigo Ceccato</na></co>
+<co c="0"><na f="c/Cordeiro:Daniel" pid="50/6986">Daniel Cordeiro</na></co>
+<co c="0"><na f="c/Cusihualpa:Carla" pid="324/2954">Carla Cusihualpa</na></co>
+<co c="0"><na f="d/Dias:Vitoria" pid="324/2730">Vitoria Dias</na></co>
+<co c="0"><na f="d/Dupros:Fabrice" pid="54/5417">Fabrice Dupros</na></co>
+<co c="2"><na f="f/Fernandes:Matheus_Campos" pid="255/9663">Matheus Campos Fernandes</na></co>
+<co c="-1"><na f="f/Forghani=elahabad:Majid" pid="142/3740">Majid Forghani-elahabad</na></co>
+<co c="2"><na f="f/Fran=ccedil=a:Fabr=iacute=cio_Olivetti_de" pid="92/5258">Fabr&#237;cio Olivetti de Fran&#231;a</na></co>
+<co c="0" n="2"><na f="f/Freitas:Henrique_Cota_de" pid="13/4670">Henrique Cota de Freitas</na><na>Henrique C. Freitas</na></co>
+<co c="0"><na f="f/Fukuda:Jo=atilde=o_Cocca" pid="318/1414">Jo&#227;o Cocca Fukuda</na></co>
+<co c="0"><na f="f/Furtado:Thiago" pid="151/4987">Thiago Furtado</na></co>
+<co c="0"><na f="g/Garcia:Maxiwell" pid="200/9719">Maxiwell Garcia</na></co>
+<co c="0"><na f="g/Goldman:Alfredo" pid="g/AlfredoGoldman">Alfredo Goldman</na></co>
+<co c="0"><na f="k/Kon:Fabio" pid="k/FabioKon">Fabio Kon</na></co>
+<co c="0"><na f="l/Lago:Nelson" pid="70/9554">Nelson Lago</na></co>
+<co c="0"><na f="l/Leite:Gustavo" pid="166/4441">Gustavo Leite</na></co>
+<co c="0"><na f="l/Lisa:Nusrat_Jahan" pid="152/6823">Nusrat Jahan Lisa</na></co>
+<co c="0"><na f="m/M=eacute=haut:Jean=Fran=ccedil=ois" pid="63/4133">Jean-Fran&#231;ois M&#233;haut</na></co>
+<co c="1"><na f="m/Meneses:Esteban" pid="m/EstebanMeneses">Esteban Meneses</na></co>
+<co c="0" n="2"><na f="n/Navaux:Philippe_Olivier_Alexandre" pid="74/1262">Philippe Olivier Alexandre Navaux</na><na>Philippe O. A. Navaux</na></co>
+<co c="0"><na f="n/Ngu=eacute=l=eacute=:Thomas_Messi" pid="167/0152">Thomas Messi Ngu&#233;l&#233;</na></co>
+<co c="0"><na f="=/=Oacute=:Marcelo_Torres_do" pid="296/6054">Marcelo Torres do &#211;</na></co>
+<co c="0" n="2"><na f="p/Penna:Pedro_Henrique_de_Mello_Morado" pid="210/3783">Pedro Henrique de Mello Morado Penna</na><na>Pedro Henrique Penna</na></co>
+<co c="0"><na f="p/Pereira:M=aacute=rcio_Machado" pid="144/4917">M&#225;rcio Machado Pereira</na></co>
+<co c="0"><na f="p/Petrica:Lucian" pid="161/0866">Lucian Petrica</na></co>
+<co c="0"><na f="r/Rigo:Sandro" pid="79/2208">Sandro Rigo</na></co>
+<co c="0"><na f="r/Rocha:Francisco_Wallison" pid="318/1557">Francisco Wallison Rocha</na></co>
+<co c="0"><na f="r/Rosso:Pedro_Henrique_Di_Francia" pid="318/1310">Pedro Henrique Di Francia Rosso</na></co>
+<co c="0"><na f="s/Soares:Rafael" pid="49/2065">Rafael Soares</na></co>
+<co c="0"><na f="s/Souza:Alan" pid="150/9939">Alan Souza</na></co>
+<co c="0"><na f="v/Valarini:Guilherme" pid="294/0916">Guilherme Valarini</na></co>
+<co c="0"><na f="y/Yviquel:Herv=eacute=" pid="21/10574">Herv&#233; Yviquel</na></co>
+</coauthors>
+</dblpperson>
+

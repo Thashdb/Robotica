@@ -1,0 +1,607 @@
+<?xml version="1.0"?>
+<dblpperson name="Luciana Rech" pid="30/3196" n="38">
+<person key="homepages/30/3196" mdate="2011-09-08">
+<author pid="30/3196">Luciana Rech</author>
+<author pid="30/3196">Luciana de Oliveira Rech</author>
+</person>
+<r><article key="journals/access/NeiheiserIRMMR23" mdate="2023-02-10">
+<author orcid="0000-0001-7227-8309" pid="218/1789">Ray Neiheiser</author>
+<author pid="257/5568">Gustavo In&#225;cio</author>
+<author pid="30/3196">Luciana Rech</author>
+<author pid="81/1303">Carlos Montez</author>
+<author pid="24/6041">Miguel Matos</author>
+<author pid="r/LRodrigues">Lu&#237;s E. T. Rodrigues</author>
+<title>Practical Limitations of Ethereum's Layer-2.</title>
+<pages>8651-8662</pages>
+<year>2023</year>
+<volume>11</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2023.3237897</ee>
+<url>db/journals/access/access11.html#NeiheiserIRMMR23</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbrc/InacioRNF21" mdate="2024-05-07">
+<author pid="257/5568">Gustavo In&#225;cio</author>
+<author pid="30/3196">Luciana Rech</author>
+<author orcid="0000-0001-7227-8309" pid="218/1789">Ray Neiheiser</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Dagora: Um Mercado Virtual Baseado em Side-Chains.</title>
+<pages>155-168</pages>
+<year>2021</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc.2021.16718</ee>
+<crossref>conf/sbrc/2021</crossref>
+<url>db/conf/sbrc/sbrc2021.html#InacioRNF21</url>
+</inproceedings>
+</r>
+<r><article key="journals/cluster/NeiheiserIRF20" mdate="2021-02-11">
+<author orcid="0000-0001-7227-8309" pid="218/1789">Ray Neiheiser</author>
+<author pid="257/5568">Gustavo In&#225;cio</author>
+<author orcid="0000-0002-6857-1462" pid="30/3196">Luciana Rech</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>HRM smart contracts on the blockchain: emulated vs native.</title>
+<pages>2105-2122</pages>
+<year>2020</year>
+<volume>23</volume>
+<journal>Clust. Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10586-020-03063-9</ee>
+<url>db/journals/cluster/cluster23.html#NeiheiserIRF20</url>
+</article>
+</r>
+<r><article key="journals/paapp/NettoORA20" mdate="2025-01-19">
+<author pid="160/4516">Hylson Vescovi Netto</author>
+<author pid="230/1851">Caio Pereira Oliveira</author>
+<author pid="30/3196">Luciana de Oliveira Rech</author>
+<author orcid="0000-0002-6022-3631" pid="06/2528">Eduardo Alchieri</author>
+<title>Incorporating the Raft consensus protocol in containers managed by Kubernetes: an evaluation.</title>
+<pages>433-453</pages>
+<year>2020</year>
+<volume>35</volume>
+<journal>Int. J. Parallel Emergent Distributed Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1080/17445760.2019.1608989</ee>
+<ee>https://www.wikidata.org/entity/Q127992262</ee>
+<url>db/journals/paapp/paapp35.html#NettoORA20</url>
+</article>
+</r>
+<r><article key="journals/tpds/NeiheiserRBRC20" mdate="2020-10-02">
+<author orcid="0000-0001-7227-8309" pid="218/1789">Ray Neiheiser</author>
+<author orcid="0000-0002-6857-1462" pid="30/3196">Luciana Rech</author>
+<author orcid="0000-0002-8194-8789" pid="150/3307">Manuel Bravo</author>
+<author pid="r/LRodrigues">Lu&#237;s E. T. Rodrigues</author>
+<author orcid="0000-0001-7873-5531" pid="64/2768-1">Miguel Correia 0001</author>
+<title>Fireplug: Efficient and Robust Geo-Replication of Graph Databases.</title>
+<pages>1942-1953</pages>
+<year>2020</year>
+<volume>31</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TPDS.2020.2981019</ee>
+<url>db/journals/tpds/tpds31.html#NeiheiserRBRC20</url>
+</article>
+</r>
+<r><article key="journals/concurrency/FilgueirasRRSN19" mdate="2020-03-02">
+<author orcid="0000-0001-8752-6598" pid="10/11338">Tatiana Pereira Filgueiras</author>
+<author pid="181/9270">Leonardo M. Rodrigues</author>
+<author pid="30/3196">Luciana de Oliveira Rech</author>
+<author pid="60/1953">Luciana Moreira S&#225; de Souza</author>
+<author orcid="0000-0002-1929-7743" pid="160/4516">Hylson Vescovi Netto</author>
+<title>RT-JADE: A preemptive real-time scheduling middleware for mobile agents.</title>
+<year>2019</year>
+<volume>31</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>13</number>
+<ee>https://doi.org/10.1002/cpe.5061</ee>
+<url>db/journals/concurrency/concurrency31.html#FilgueirasRRSN19</url>
+</article>
+</r>
+<r><inproceedings key="conf/adhoc-now/JuniorCMRV19" mdate="2024-08-04">
+<author pid="249/4932">Jos&#233; R. Betiol J&#250;nior</author>
+<author orcid="0000-0002-6073-9881" pid="53/10165">Robson Costa</author>
+<author pid="184/5911">Ricardo de Moraes</author>
+<author pid="30/3196">Luciana Rech</author>
+<author orcid="0000-0003-3115-0901" pid="04/6871">Francisco Vasques</author>
+<title>RT-WiFi Approach to Handle Real-Time Communication: An Experimental Evaluation.</title>
+<pages>290-303</pages>
+<year>2019</year>
+<booktitle>ADHOC-NOW</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-31831-4_20</ee>
+<crossref>conf/adhoc-now/2019</crossref>
+<url>db/conf/adhoc-now/adhoc-now2019.html#JuniorCMRV19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clei/ReinaLRNS19" mdate="2020-05-14">
+<author pid="226/3871">F&#225;bio Reina</author>
+<author pid="09/10444">Aldelir Fernando Luiz</author>
+<author pid="30/3196">Luciana de Oliveira Rech</author>
+<author pid="160/4516">Hylson Vescovi Netto</author>
+<author pid="32/5988">Frank Siqueira</author>
+<title>Providing Data Integrity in Graph Databases.</title>
+<pages>1-10</pages>
+<year>2019</year>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI47609.2019.235073</ee>
+<crossref>conf/clei/2019</crossref>
+<url>db/conf/clei/clei2019.html#ReinaLRNS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icaart/SilvaRR19" mdate="2019-06-19">
+<author pid="241/6388">Andr&#233; Rodrigo da Silva</author>
+<author pid="15/10791">Leonardo Martins Rodrigues</author>
+<author pid="30/3196">Luciana de Oliveira Rech</author>
+<title>SurfOpt: A New Surface Method for Optimizing the Classification of Imbalanced Dataset.</title>
+<pages>724-730</pages>
+<year>2019</year>
+<booktitle>ICAART (2)</booktitle>
+<ee>https://doi.org/10.5220/0007407107240730</ee>
+<crossref>conf/icaart/2019-2</crossref>
+<url>db/conf/icaart/icaart2019-2.html#SilvaRR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icaisc/SilvaRRL19" mdate="2019-06-19">
+<author pid="241/6388">Andr&#233; Rodrigo da Silva</author>
+<author pid="15/10791">Leonardo Martins Rodrigues</author>
+<author pid="30/3196">Luciana de Oliveira Rech</author>
+<author pid="09/10444">Aldelir Fernando Luiz</author>
+<title>RDFM: Resilient Distributed Factorization Machines.</title>
+<pages>585-594</pages>
+<year>2019</year>
+<booktitle>ICAISC (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-20915-5_52</ee>
+<crossref>conf/icaisc/2019-2</crossref>
+<url>db/conf/icaisc/icaisc2019-2.html#SilvaRRL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/NeiheiserIRF19" mdate="2024-05-07">
+<author orcid="0000-0001-7227-8309" pid="218/1789">Ray Neiheiser</author>
+<author pid="257/5568">Gustavo In&#225;cio</author>
+<author pid="30/3196">Luciana Rech</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>HRM Smart Contracts on the Blockchain.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC47284.2019.8969692</ee>
+<crossref>conf/iscc/2019</crossref>
+<url>db/conf/iscc/iscc2019.html#NeiheiserIRF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/JuniorCRM19" mdate="2021-02-08">
+<author pid="249/4932">Jos&#233; R. Betiol J&#250;nior</author>
+<author pid="53/10165">Robson Costa</author>
+<author pid="30/3196">Luciana Rech</author>
+<author pid="184/5911">Ricardo de Moraes</author>
+<title>Avalia&#231;&#227;o experimental do protocolo RT-WiFi em ambientes abertos.</title>
+<pages>71-84</pages>
+<year>2019</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc.2019.7351</ee>
+<crossref>conf/sbrc/2019</crossref>
+<url>db/conf/sbrc/sbrc2019.html#JuniorCRM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/NeiheiserRF19" mdate="2024-05-07">
+<author orcid="0000-0001-7227-8309" pid="218/1789">Ray Neiheiser</author>
+<author pid="30/3196">Luciana Rech</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<title>Constantino: Uma Arquitetura BFT Escal&#225;vel e Eficiente para Blockchains.</title>
+<pages>127-140</pages>
+<year>2019</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc.2019.7355</ee>
+<crossref>conf/sbrc/2019</crossref>
+<url>db/conf/sbrc/sbrc2019.html#NeiheiserRF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icoin/NeiheiserPRBR018" mdate="2024-05-07">
+<author orcid="0000-0001-7227-8309" pid="218/1789">Ray Neiheiser</author>
+<author pid="167/2643">Daniel Presser</author>
+<author pid="30/3196">Luciana Rech</author>
+<author pid="150/3307">Manuel Bravo</author>
+<author pid="r/LRodrigues">Lu&#237;s E. T. Rodrigues</author>
+<author pid="64/2768-1">Miguel Correia 0001</author>
+<title>Fireplug: Flexible and robust N-version geo-replication of graph databases.</title>
+<pages>110-115</pages>
+<year>2018</year>
+<booktitle>ICOIN</booktitle>
+<ee>https://doi.org/10.1109/ICOIN.2018.8343095</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICOIN.2018.8343095</ee>
+<crossref>conf/icoin/2018</crossref>
+<url>db/conf/icoin/icoin2018.html#NeiheiserPRBR018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indin/CasagrandeMMMR18" mdate="2023-02-12">
+<author orcid="0000-0001-9956-9827" pid="168/7829">Rog&#233;rio Ant&#244;nio Casagrande</author>
+<author pid="184/5911">Ricardo de Moraes</author>
+<author orcid="0000-0001-7767-0692" pid="81/1303">Carlos Montez</author>
+<author orcid="0000-0003-0990-8886" pid="139/2935">Anal&#250;cia Schiaffino Morales</author>
+<author pid="30/3196">Luciana Rech</author>
+<title>Interference of IEEE 802.11n Networks upon IEEE 802.15.4-Based WBANs: An Experimental Study.</title>
+<pages>388-393</pages>
+<year>2018</year>
+<booktitle>INDIN</booktitle>
+<ee>https://doi.org/10.1109/INDIN.2018.8471974</ee>
+<crossref>conf/indin/2018</crossref>
+<url>db/conf/indin/indin2018.html#CasagrandeMMMR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/NettoL0RO18" mdate="2023-03-24">
+<author pid="160/4516">Hylson Vescovi Netto</author>
+<author pid="09/10444">Aldelir Fernando Luiz</author>
+<author orcid="0000-0001-7873-5531" pid="64/2768-1">Miguel Correia 0001</author>
+<author pid="30/3196">Luciana de Oliveira Rech</author>
+<author pid="230/1851">Caio Pereira Oliveira</author>
+<title>Koordinator: A Service Approach for Replicating Docker Containers in Kubernetes.</title>
+<pages>58-63</pages>
+<year>2018</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2018.8538452</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2018.8538452</ee>
+<crossref>conf/iscc/2018</crossref>
+<url>db/conf/iscc/iscc2018.html#NettoL0RO18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/ReinaNRL18" mdate="2023-03-24">
+<author pid="226/3871">Fabio Reina</author>
+<author pid="160/4516">Hylson Vescovi Netto</author>
+<author pid="30/3196">Luciana Rech</author>
+<author pid="09/10444">Aldelir Fernando Luiz</author>
+<title>A Method to Verify Data Integrity in Graph Databases.</title>
+<pages>220-223</pages>
+<year>2018</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2018.8538669</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2018.8538669</ee>
+<crossref>conf/iscc/2018</crossref>
+<url>db/conf/iscc/iscc2018.html#ReinaNRL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/MagalhaesRMV18" mdate="2023-03-24">
+<author pid="13/8777">Alex Magalh&#227;es</author>
+<author pid="30/3196">Luciana Rech</author>
+<author pid="184/5911">Ricardo de Moraes</author>
+<author orcid="0000-0003-3115-0901" pid="04/6871">Francisco Vasques</author>
+<title>REPO: A Microservices Elastic Management System for Cost Reduction in the Cloud.</title>
+<pages>328-333</pages>
+<year>2018</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2018.8538453</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2018.8538453</ee>
+<crossref>conf/iscc/2018</crossref>
+<url>db/conf/iscc/iscc2018.html#MagalhaesRMV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/JuniorLRMM18" mdate="2023-03-24">
+<author pid="249/4932">Jos&#233; R. Betiol J&#250;nior</author>
+<author orcid="0000-0002-3497-5522" pid="60/2829">Jim Lau</author>
+<author pid="30/3196">Luciana de Oliveira Rech</author>
+<author orcid="0000-0003-0990-8886" pid="139/2935">Anal&#250;cia Schiaffino Morales</author>
+<author pid="184/5911">Ricardo de Moraes</author>
+<title>Experimental Evaluation of the Coexistence of IEEE 802.11 EDCA and DCF Mechanisms.</title>
+<pages>847-852</pages>
+<year>2018</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2018.8538640</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2018.8538640</ee>
+<crossref>conf/iscc/2018</crossref>
+<url>db/conf/iscc/iscc2018.html#JuniorLRMM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/BravoRNR18" mdate="2024-05-07">
+<author pid="150/3307">Manuel Bravo</author>
+<author pid="r/LRodrigues">Lu&#237;s E. T. Rodrigues</author>
+<author orcid="0000-0001-7227-8309" pid="218/1789">Ray Neiheiser</author>
+<author pid="30/3196">Luciana Rech</author>
+<title>Policy-Based Adaptation of a Byzantine Fault Tolerant Distributed Graph Database.</title>
+<pages>61-71</pages>
+<year>2018</year>
+<booktitle>SRDS</booktitle>
+<ee>https://doi.org/10.1109/SRDS.2018.00017</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SRDS.2018.00017</ee>
+<crossref>conf/srds/2018</crossref>
+<url>db/conf/srds/srds2018.html#BravoRNR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/MagalhaesRM17" mdate="2023-03-24">
+<author pid="13/8777">Alex Magalh&#227;es</author>
+<author pid="30/3196">Luciana Rech</author>
+<author orcid="0000-0003-0028-5213" pid="184/5911">Ricardo de Moraes</author>
+<title>A Soft Real-Time Scheduling Engine for Cost Reduction in Freemium Companies.</title>
+<pages>185-192</pages>
+<year>2017</year>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC.2017.8</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISORC.2017.8</ee>
+<crossref>conf/isorc/2017</crossref>
+<url>db/conf/isorc/isorc2017.html#MagalhaesRM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/NettoOLLRJ17" mdate="2022-01-18">
+<author pid="160/4516">Hylson Vescovi Netto</author>
+<author pid="230/1851">Caio Pereira Oliveira</author>
+<author pid="09/10444">Aldelir Fernando Luiz</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<author pid="30/3196">Luciana de Oliveira Rech</author>
+<author pid="249/4932">Jos&#233; Roque Betiol J&#250;nior</author>
+<title>Coordena&#231;&#227;o de Containers no Kubernetes: Uma Abordagem Baseada em Servi&#231;o.</title>
+<year>2017</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://sol.sbc.org.br/index.php/sbrc/article/view/2634</ee>
+<crossref>conf/sbrc/2017</crossref>
+<url>db/conf/sbrc/sbrc2017.html#NettoOLLRJ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/FilhoRLCC16" mdate="2023-03-24">
+<author pid="180/2995">Paulo R. Pinho Filho</author>
+<author pid="30/3196">Luciana de Oliveira Rech</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<author orcid="0000-0001-7873-5531" pid="64/2768-1">Miguel Correia 0001</author>
+<author pid="54/1243">L&#225;saro Jonas Camargos</author>
+<title>Priority-Based State Machine Replication with PRaxos.</title>
+<pages>540-547</pages>
+<year>2016</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2016.63</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AINA.2016.63</ee>
+<crossref>conf/aina/2016</crossref>
+<url>db/conf/aina/aina2016.html#FilhoRLCC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/LuizLR14" mdate="2023-03-24">
+<author pid="09/10444">Aldelir Fernando Luiz</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<author pid="30/3196">Luciana de Oliveira Rech</author>
+<title>On the Practicality to Implement Byzantine Fault Tolerant Services Based on Tuple Space.</title>
+<pages>1041-1048</pages>
+<year>2014</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2014.126</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AINA.2014.126</ee>
+<crossref>conf/aina/2014</crossref>
+<url>db/conf/aina/aina2014.html#LuizLR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/depcos/SilvaLMR13" mdate="2017-05-25">
+<author pid="143/2274">Marcelo Ribeiro Xavier Silva</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<author pid="130/5684">Leandro Quibem Magnabosco</author>
+<author pid="30/3196">Luciana de Oliveira Rech</author>
+<title>Vbam - Byzantine Atomic Multicast in LAN Based on Virtualization Technology.</title>
+<pages>365-374</pages>
+<year>2013</year>
+<booktitle>DepCoS-RELCOMEX</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-00945-2_33</ee>
+<crossref>conf/depcos/2013</crossref>
+<url>db/conf/depcos/depcos2013.html#SilvaLMR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccS/RosaSRML13" mdate="2017-05-21">
+<author pid="130/5736">Jhonatan da Rosa</author>
+<author pid="130/5731">Murillo T. de Souza</author>
+<author pid="30/3196">Luciana de Oliveira Rech</author>
+<author pid="130/5684">Leandro Quibem Magnabosco</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<title>Co-Evolution of Antagonistic Intelligent Agents Using Genetic Algorithms.</title>
+<pages>692-701</pages>
+<year>2013</year>
+<booktitle>ICCS</booktitle>
+<ee>https://doi.org/10.1016/j.procs.2013.05.233</ee>
+<crossref>conf/iccS/2013</crossref>
+<url>db/conf/iccS/iccS2013.html#RosaSRML13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/SilvaLMR13" mdate="2023-03-24">
+<author pid="143/2274">Marcelo Ribeiro Xavier Silva</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<author pid="130/5684">Leandro Quibem Magnabosco</author>
+<author pid="30/3196">Luciana de Oliveira Rech</author>
+<title>BAMcast - byzantine fault-tolerant consensus service for Atomic Multicast in large-scale networks.</title>
+<pages>324-329</pages>
+<year>2013</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2013.6754967</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2013.6754967</ee>
+<crossref>conf/iscc/2013</crossref>
+<url>db/conf/iscc/iscc2013.html#SilvaLMR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clei/RibeiroCRL12" mdate="2017-05-21">
+<author pid="132/7024">Guilherme O. Ribeiro</author>
+<author pid="132/7036">Antonio J. R. de Campos</author>
+<author pid="30/3196">Luciana de Oliveira Rech</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<title>Generating timetables of work scales for companies using genetic algorithms.</title>
+<pages>1-10</pages>
+<year>2012</year>
+<crossref>conf/clei/2012</crossref>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI.2012.6427222</ee>
+<url>db/conf/clei/clei2012.html#RibeiroCRL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/FilgueirasLR12" mdate="2023-03-24">
+<author orcid="0000-0001-8752-6598" pid="10/11338">Tatiana Pereira Filgueiras</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<author pid="30/3196">Luciana de Oliveira Rech</author>
+<title>Providing Real-Time Scheduling for Mobile Agents in the JADE Platform.</title>
+<pages>8-15</pages>
+<year>2012</year>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC.2012.10</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISORC.2012.10</ee>
+<crossref>conf/isorc/2012</crossref>
+<url>db/conf/isorc/isorc2012.html#FilgueirasLR12</url>
+</inproceedings>
+</r>
+<r><article key="journals/wias/RechMO11" mdate="2020-10-26">
+<author pid="30/3196">Luciana Rech</author>
+<author orcid="0000-0001-7767-0692" pid="81/1303">Carlos Montez</author>
+<author orcid="0000-0002-8853-9021" pid="15/1283">R&#244;mulo Silva de Oliveira</author>
+<title>An adaptive approach for the determination of the itinerary of imprecise mobile agents with timing constraints.</title>
+<pages>257-268</pages>
+<year>2011</year>
+<volume>9</volume>
+<journal>Web Intell. Agent Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.3233/WIA-2011-0218</ee>
+<url>db/journals/wias/wias9.html#RechMO11</url>
+</article>
+</r>
+<r><inproceedings key="conf/etfa/MagalhaesRLO10" mdate="2020-10-25">
+<author pid="13/8777">Alex Magalh&#227;es</author>
+<author pid="30/3196">Luciana Rech</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<author orcid="0000-0002-8853-9021" pid="15/1283">R&#244;mulo Silva de Oliveira</author>
+<title>Using intelligent mobile agents to dynamically determine itineraries with time constraints.</title>
+<pages>1-8</pages>
+<year>2010</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2010.5641215</ee>
+<crossref>conf/etfa/2010</crossref>
+<url>db/conf/etfa/etfa2010.html#MagalhaesRLO10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip12/MagalhaesLR10" mdate="2018-06-26">
+<author pid="13/8777">Alex Magalh&#227;es</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<author pid="30/3196">Luciana Rech</author>
+<title>Decentralized Services Orchestration Using Intelligent Mobile Agents with Deadline Restrictions.</title>
+<pages>246-253</pages>
+<year>2010</year>
+<booktitle>AIAI</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-16239-8_33</ee>
+<crossref>conf/ifip12/2010aiai</crossref>
+<url>db/conf/ifip12/aiai2010.html#MagalhaesLR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispa/QueirozLRJ09" mdate="2023-03-23">
+<author pid="98/10075">Wilian Queiroz</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<author pid="30/3196">Luciana de Oliveira Rech</author>
+<author pid="72/1641">Luiz A. de Paula Lima Jr.</author>
+<title>Semantically Reliable Multicast Based on the (m-k)-Firm Technique.</title>
+<pages>302-308</pages>
+<year>2009</year>
+<booktitle>ISPA</booktitle>
+<ee>https://doi.org/10.1109/ISPA.2009.109</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISPA.2009.109</ee>
+<crossref>conf/ispa/2009</crossref>
+<url>db/conf/ispa/ispa2009.html#QueirozLRJ09</url>
+</inproceedings>
+</r>
+<r><article key="journals/wias/RechMO08" mdate="2020-10-26">
+<author pid="30/3196">Luciana Rech</author>
+<author orcid="0000-0001-7767-0692" pid="81/1303">Carlos Montez</author>
+<author orcid="0000-0002-8853-9021" pid="15/1283">R&#244;mulo Silva de Oliveira</author>
+<title>Itinerary determination of imprecise mobile agents with firm deadline.</title>
+<pages>421-439</pages>
+<year>2008</year>
+<volume>6</volume>
+<journal>Web Intell. Agent Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/WIA-2008-0149</ee>
+<url>db/journals/wias/wias6.html#RechMO08</url>
+</article>
+</r>
+<r><inproceedings key="conf/etfa/RechMOCG08" mdate="2020-10-25">
+<author pid="30/3196">Luciana Rech</author>
+<author orcid="0000-0001-7767-0692" pid="81/1303">Carlos Montez</author>
+<author orcid="0000-0002-8853-9021" pid="15/1283">R&#244;mulo Silva de Oliveira</author>
+<author pid="69/4426">F&#225;bio Reis Cecin</author>
+<author pid="b/ClaudioFernandoResinGeyer">Cl&#225;udio Fernando Resin Geyer</author>
+<title>Determination of the itinerary of imprecise mobile agents using an adaptive approach.</title>
+<pages>1244-1251</pages>
+<year>2008</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2008.4638560</ee>
+<crossref>conf/etfa/2008</crossref>
+<url>db/conf/etfa/etfa2008.html#RechMOCG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etfa/RechMO06" mdate="2020-10-25">
+<author pid="30/3196">Luciana Rech</author>
+<author orcid="0000-0001-7767-0692" pid="81/1303">Carlos Montez</author>
+<author orcid="0000-0002-8853-9021" pid="15/1283">R&#244;mulo Silva de Oliveira</author>
+<title>A Clone-Pair Approach for the Determination of the Itinerary of Imprecise Mobile Agents with Firm Deadlines.</title>
+<pages>9-15</pages>
+<year>2006</year>
+<crossref>conf/etfa/2006</crossref>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2006.355446</ee>
+<url>db/conf/etfa/etfa2006.html#RechMO06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iri/RechMO06" mdate="2020-10-25">
+<author pid="30/3196">Luciana Rech</author>
+<author orcid="0000-0001-7767-0692" pid="81/1303">Carlos Montez</author>
+<author orcid="0000-0002-8853-9021" pid="15/1283">R&#244;mulo Silva de Oliveira</author>
+<title>A new model for the itinerary definition of real-time imprecise mobile agents.</title>
+<pages>123-126</pages>
+<year>2006</year>
+<crossref>conf/iri/2006</crossref>
+<booktitle>IRI</booktitle>
+<url>db/conf/iri/iri2006.html#RechMO06</url>
+<ee>https://doi.org/10.1109/IRI.2006.252399</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/RechOM05" mdate="2023-03-24">
+<author pid="30/3196">Luciana Rech</author>
+<author orcid="0000-0002-8853-9021" pid="15/1283">R&#244;mulo Silva de Oliveira</author>
+<author orcid="0000-0001-7767-0692" pid="81/1303">Carlos Montez</author>
+<title>Dynamic Determination of the Itinerary of Mobile Agents with Timing Constraints.</title>
+<pages>45-50</pages>
+<year>2005</year>
+<crossref>conf/iat/2005</crossref>
+<booktitle>IAT</booktitle>
+<ee>https://doi.org/10.1109/IAT.2005.67</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IAT.2005.67</ee>
+<url>db/conf/iat/iat2005.html#RechOM05</url>
+</inproceedings>
+</r>
+<coauthors n="42" nc="1">
+<co c="0"><na f="a/Alchieri:Eduardo" pid="06/2528">Eduardo Alchieri</na></co>
+<co c="0"><na f="b/Bravo:Manuel" pid="150/3307">Manuel Bravo</na></co>
+<co c="0" n="2"><na f="c/Camargos:L=aacute=saro_J=" pid="54/1243">L&#225;saro J. Camargos</na><na>L&#225;saro Jonas Camargos</na></co>
+<co c="0"><na f="c/Campos:Antonio_J=_R=_de" pid="132/7036">Antonio J. R. de Campos</na></co>
+<co c="0"><na f="c/Casagrande:Rog=eacute=rio_Ant=ocirc=nio" pid="168/7829">Rog&#233;rio Ant&#244;nio Casagrande</na></co>
+<co c="0"><na f="c/Cecin:F=aacute=bio_Reis" pid="69/4426">F&#225;bio Reis Cecin</na></co>
+<co c="0"><na f="c/Correia_0001:Miguel" pid="64/2768-1">Miguel Correia 0001</na></co>
+<co c="0"><na f="c/Costa:Robson" pid="53/10165">Robson Costa</na></co>
+<co c="0"><na f="f/Filgueiras:Tatiana_Pereira" pid="10/11338">Tatiana Pereira Filgueiras</na></co>
+<co c="0"><na f="f/Filho:Paulo_R=_Pinho" pid="180/2995">Paulo R. Pinho Filho</na></co>
+<co c="0"><na f="f/Fraga:Joni_da_Silva" pid="257/5489">Joni da Silva Fraga</na></co>
+<co c="0"><na f="g/Geyer:Cl=aacute=udio_Fernando_Resin" pid="b/ClaudioFernandoResinGeyer">Cl&#225;udio Fernando Resin Geyer</na></co>
+<co c="0"><na f="i/In=aacute=cio:Gustavo" pid="257/5568">Gustavo In&#225;cio</na></co>
+<co c="0" n="2"><na f="j/J=uacute=nior:Jos=eacute=_R=_Betiol" pid="249/4932">Jos&#233; R. Betiol J&#250;nior</na><na>Jos&#233; Roque Betiol J&#250;nior</na></co>
+<co c="0"><na f="l/Lau:Jim" pid="60/2829">Jim Lau</na></co>
+<co c="0" n="2"><na f="l/Lima:Luiz_Augusto_de_Paula" pid="72/1641">Luiz Augusto de Paula Lima</na><na>Luiz A. de Paula Lima Jr.</na></co>
+<co c="0"><na f="l/Luiz:Aldelir_Fernando" pid="09/10444">Aldelir Fernando Luiz</na></co>
+<co c="0"><na f="l/Lung:Lau_Cheuk" pid="65/85">Lau Cheuk Lung</na></co>
+<co c="0"><na f="m/Magalh=atilde=es:Alex" pid="13/8777">Alex Magalh&#227;es</na></co>
+<co c="0"><na f="m/Magnabosco:Leandro_Quibem" pid="130/5684">Leandro Quibem Magnabosco</na></co>
+<co c="0"><na f="m/Matos:Miguel" pid="24/6041">Miguel Matos</na></co>
+<co c="0"><na f="m/Montez:Carlos" pid="81/1303">Carlos Montez</na></co>
+<co c="0"><na f="m/Moraes:Ricardo_de" pid="184/5911">Ricardo de Moraes</na></co>
+<co c="0"><na f="m/Morales:Anal=uacute=cia_Schiaffino" pid="139/2935">Anal&#250;cia Schiaffino Morales</na></co>
+<co c="0"><na f="n/Neiheiser:Ray" pid="218/1789">Ray Neiheiser</na></co>
+<co c="0"><na f="n/Netto:Hylson_Vescovi" pid="160/4516">Hylson Vescovi Netto</na></co>
+<co c="0"><na f="o/Oliveira:Caio_Pereira" pid="230/1851">Caio Pereira Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:R=ocirc=mulo_Silva_de" pid="15/1283">R&#244;mulo Silva de Oliveira</na></co>
+<co c="0"><na f="p/Presser:Daniel" pid="167/2643">Daniel Presser</na></co>
+<co c="0"><na f="q/Queiroz:Wilian" pid="98/10075">Wilian Queiroz</na></co>
+<co c="0" n="2"><na f="r/Reina:F=aacute=bio" pid="226/3871">F&#225;bio Reina</na><na>Fabio Reina</na></co>
+<co c="0"><na f="r/Ribeiro:Guilherme_O=" pid="132/7024">Guilherme O. Ribeiro</na></co>
+<co c="0"><na f="r/Rodrigues:Leonardo_M=" pid="181/9270">Leonardo M. Rodrigues</na></co>
+<co c="0"><na f="r/Rodrigues:Leonardo_Martins" pid="15/10791">Leonardo Martins Rodrigues</na></co>
+<co c="0"><na f="r/Rodrigues:Lu=iacute=s_E=_T=" pid="r/LRodrigues">Lu&#237;s E. T. Rodrigues</na></co>
+<co c="0"><na f="r/Rosa:Jhonatan_da" pid="130/5736">Jhonatan da Rosa</na></co>
+<co c="0"><na f="s/Silva:Andr=eacute=_Rodrigo_da" pid="241/6388">Andr&#233; Rodrigo da Silva</na></co>
+<co c="0"><na f="s/Silva:Marcelo_Ribeiro_Xavier" pid="143/2274">Marcelo Ribeiro Xavier Silva</na></co>
+<co c="0"><na f="s/Siqueira:Frank" pid="32/5988">Frank Siqueira</na></co>
+<co c="0"><na f="s/Souza:Luciana_Moreira_S=aacute=_de" pid="60/1953">Luciana Moreira S&#225; de Souza</na></co>
+<co c="0"><na f="s/Souza:Murillo_T=_de" pid="130/5731">Murillo T. de Souza</na></co>
+<co c="0"><na f="v/Vasques:Francisco" pid="04/6871">Francisco Vasques</na></co>
+</coauthors>
+</dblpperson>
+

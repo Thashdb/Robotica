@@ -1,0 +1,789 @@
+<?xml version="1.0"?>
+<dblpperson name="Mauro Roisenberg" pid="47/1251" n="51">
+<person key="homepages/47/1251" mdate="2009-06-09">
+<author pid="47/1251">Mauro Roisenberg</author>
+</person>
+<r><article key="journals/gandc/ExterkoetterFBERR24" mdate="2024-07-04">
+<author orcid="0000-0002-3639-1635" pid="228/1516">Rodrigo Exterkoetter</author>
+<author pid="147/2675">Leandro Passos de Figueiredo</author>
+<author pid="20/3196-2">Fernando Luis Bordignon</author>
+<author pid="129/4305">Alexandre Anoz&#233; Emerick</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<author pid="233/5348">Bruno Barbosa Rodrigues</author>
+<title>Ensemble Smoother with Fully Convolutional VAE for seismic facies inversion.</title>
+<pages>105619</pages>
+<year>2024</year>
+<volume>189</volume>
+<journal>Comput. Geosci.</journal>
+<ee>https://doi.org/10.1016/j.cageo.2024.105619</ee>
+<url>db/journals/gandc/gandc189.html#ExterkoetterFBERR24</url>
+</article>
+</r>
+<r><inproceedings key="conf/igarss/AnguloRCR24" mdate="2025-05-01">
+<author orcid="0000-0002-0148-6976" pid="359/9327">Yineth Viviana Camacho-De Angulo</author>
+<author pid="386/1310">Nicolas Cechinel Rosa</author>
+<author orcid="0000-0002-4867-1837" pid="171/0012">Yady Tatiana Solano Correa</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<title>Fire Scars Mapping Over Brazilian Amazon Forest by Exploiting Sentinel-2 Data and Deep Learning.</title>
+<pages>2773-2776</pages>
+<year>2024</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS53475.2024.10642369</ee>
+<crossref>conf/igarss/2024</crossref>
+<url>db/conf/igarss/igarss2024.html#AnguloRCR24</url>
+<stream>streams/conf/igarss</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/AnguloACCR24" mdate="2025-05-01">
+<author orcid="0000-0002-0148-6976" pid="359/9327">Yineth Viviana Camacho-De Angulo</author>
+<author pid="349/7187">Darwin Alexis Arrechea-Castillo</author>
+<author pid="386/0151">Yessica Carolina Cantero-Mosquera</author>
+<author orcid="0000-0002-4867-1837" pid="171/0012">Yady Tatiana Solano Correa</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<title>Detection of Different Crop Growth Stages by Applying Deep Learning Over Sentinel-2 Images of Bah&#237;a, Brazil.</title>
+<pages>3617-3620</pages>
+<year>2024</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS53475.2024.10642298</ee>
+<crossref>conf/igarss/2024</crossref>
+<url>db/conf/igarss/igarss2024.html#AnguloACCR24</url>
+<stream>streams/conf/igarss</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/ExterkoetterDFBENR23" mdate="2024-06-28">
+<author pid="228/1516">Rodrigo Exterkoetter</author>
+<author pid="353/7246">Gustavo Rachid Dutra</author>
+<author pid="147/2675">Leandro Passos de Figueiredo</author>
+<author pid="20/3196-2">Fernando Luis Bordignon</author>
+<author pid="129/4305">Alexandre Anoz&#233; Emerick</author>
+<author pid="353/7027">Gilson Moura Silva Neto</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<title>Deep Feature Extraction for Data Assimilation with Ensemble Smoother.</title>
+<pages>1-8</pages>
+<year>2023</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN54540.2023.10191130</ee>
+<crossref>conf/ijcnn/2023</crossref>
+<url>db/conf/ijcnn/ijcnn2023.html#ExterkoetterDFBENR23</url>
+</inproceedings>
+</r>
+<r><article key="journals/lgrs/SantosRN22" mdate="2021-12-25">
+<author orcid="0000-0003-4063-6436" pid="309/1006">Daniel Theisges dos Santos</author>
+<author orcid="0000-0001-9707-0360" pid="47/1251">Mauro Roisenberg</author>
+<author pid="309/0636">Marivaldo dos Santos Nascimento</author>
+<title>Deep Recurrent Neural Networks Approach to Sedimentary Facies Classification Using Well Logs.</title>
+<pages>1-5</pages>
+<year>2022</year>
+<volume>19</volume>
+<journal>IEEE Geosci. Remote. Sens. Lett.</journal>
+<ee>https://doi.org/10.1109/LGRS.2021.3053383</ee>
+<url>db/journals/lgrs/lgrs19.html#SantosRN22</url>
+</article>
+</r>
+<r><inproceedings key="conf/ideal/SantosRN22" mdate="2022-12-05">
+<author orcid="0000-0003-4063-6436" pid="309/1006">Daniel Theisges dos Santos</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<author pid="309/0636">Marivaldo dos Santos Nascimento</author>
+<title>Identification of Sedimentary Strata by Segmentation Neural Networks of Oblique Photogrammetry of UAVs.</title>
+<pages>31-41</pages>
+<year>2022</year>
+<booktitle>IDEAL</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-21753-1_4</ee>
+<crossref>conf/ideal/2022</crossref>
+<url>db/conf/ideal/ideal2022.html#SantosRN22</url>
+</inproceedings>
+</r>
+<r><article key="journals/gandc/FigueiredoSLRFG21" mdate="2022-10-02">
+<author pid="147/2675">Leandro Passos de Figueiredo</author>
+<author pid="284/0406">Tcharlies Schmitz</author>
+<author orcid="0000-0003-1471-8497" pid="284/0444">Rafael Lunelli</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<author pid="00/6683">Daniel Santana de Freitas</author>
+<author pid="198/6615">Dario Grana</author>
+<title>Direct Multivariate Simulation - A stepwise conditional transformation for multivariate geostatistical simulation.</title>
+<pages>104659</pages>
+<year>2021</year>
+<volume>147</volume>
+<journal>Comput. Geosci.</journal>
+<ee>https://doi.org/10.1016/j.cageo.2020.104659</ee>
+<url>db/journals/gandc/gandc147.html#FigueiredoSLRFG21</url>
+</article>
+</r>
+<r><inproceedings key="conf/sac/TrindadeR21" mdate="2021-05-03">
+<author pid="234/3998">Elton Alves Trindade</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<title>Multi-view 3D seismic facies classifier.</title>
+<pages>1003-1011</pages>
+<year>2021</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3412841.3441976</ee>
+<crossref>conf/sac/2021</crossref>
+<url>db/conf/sac/sac2021.html#TrindadeR21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/GuazzelliRR20" mdate="2024-06-28">
+<author pid="275/7435">Arthur Bridi Guazzelli</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<author pid="233/5348">Bruno Barbosa Rodrigues</author>
+<title>Efficient 3D Semantic Segmentation of Seismic Images using Orthogonal Planes 2D Convolutional Neural Networks.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN48605.2020.9206661</ee>
+<crossref>conf/ijcnn/2020</crossref>
+<url>db/conf/ijcnn/ijcnn2020.html#GuazzelliRR20</url>
+</inproceedings>
+</r>
+<r><article key="journals/lgrs/SacramentoTRBR19" mdate="2025-01-19">
+<author orcid="0000-0002-8341-0501" pid="228/1751">Isaac Sacramento</author>
+<author orcid="0000-0002-8596-7143" pid="234/3998">Elton Trindade</author>
+<author orcid="0000-0001-9707-0360" pid="47/1251">Mauro Roisenberg</author>
+<author orcid="0000-0001-5205-8042" pid="20/3196-2">Fernando Bordignon 0002</author>
+<author orcid="0000-0002-6127-8212" pid="233/5348">Bruno Barbosa Rodrigues</author>
+<title>Acoustic Impedance Deblurring With a Deep Convolution Neural Network.</title>
+<pages>315-319</pages>
+<year>2019</year>
+<volume>16</volume>
+<journal>IEEE Geosci. Remote. Sens. Lett.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/LGRS.2018.2870732</ee>
+<ee>https://www.wikidata.org/entity/Q129142831</ee>
+<url>db/journals/lgrs/lgrs16.html#SacramentoTRBR19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icaisc/ReinholdR19" mdate="2019-05-27">
+<author pid="241/5529">Caique Reinhold</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<title>Filter Pruning for Efficient Transfer Learning in Deep Convolutional Neural Networks.</title>
+<pages>191-202</pages>
+<year>2019</year>
+<booktitle>ICAISC (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-20912-4_19</ee>
+<crossref>conf/icaisc/2019-1</crossref>
+<url>db/conf/icaisc/icaisc2019-1.html#ReinholdR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/Exterkoetter0FR18" mdate="2023-03-24">
+<author pid="228/1516">Rodrigo Exterkoetter</author>
+<author pid="20/3196-2">Fernando Bordignon 0002</author>
+<author pid="147/2675">Leandro Passos de Figueiredo</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<author pid="233/5348">Bruno Barbosa Rodrigues</author>
+<title>Petroleum Reservoir Connectivity Patterns Reconstruction Using Deep Convolutional Generative Adversarial Networks.</title>
+<pages>97-102</pages>
+<year>2018</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2018.00025</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2018.00025</ee>
+<crossref>conf/bracis/2018</crossref>
+<url>db/conf/bracis/bracis2018.html#Exterkoetter0FR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/MazzuttiRF18" mdate="2018-10-22">
+<author pid="206/6485">Tiago Mazzutti</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<author pid="60/3526">Paulo Jos&#233; de Freitas Filho</author>
+<title>Adaptive Missing Data Imputation with Incremental Neuro-Fuzzy Gaussian Mixture Network (INFGMN).</title>
+<pages>1-8</pages>
+<year>2018</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2018.8489515</ee>
+<crossref>conf/ijcnn/2018</crossref>
+<url>db/conf/ijcnn/ijcnn2018.html#MazzuttiRF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/SacramentoREFR18" mdate="2019-01-29">
+<author pid="228/1751">Isaac Sacramento</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<author pid="228/1516">Rodrigo Exterkoetter</author>
+<author pid="147/2675">Leandro Passos de Figueiredo</author>
+<author pid="233/5348">Bruno Barbosa Rodrigues</author>
+<title>Combined Convolutional Neural Network for High Frequency Restoration in Acoustic Impedance Images.</title>
+<pages>1-8</pages>
+<year>2018</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2018.8489672</ee>
+<crossref>conf/ijcnn/2018</crossref>
+<url>db/conf/ijcnn/ijcnn2018.html#SacramentoREFR18</url>
+</inproceedings>
+</r>
+<r><article key="journals/eswa/MazzuttiRF17" mdate="2017-10-05">
+<author pid="206/6485">Tiago Mazzutti</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<author pid="60/3526">Paulo Jos&#233; de Freitas Filho</author>
+<title>INFGMN - Incremental Neuro-Fuzzy Gaussian mixture network.</title>
+<pages>160-178</pages>
+<year>2017</year>
+<volume>89</volume>
+<journal>Expert Syst. Appl.</journal>
+<ee>https://doi.org/10.1016/j.eswa.2017.07.032</ee>
+<url>db/journals/eswa/eswa89.html#MazzuttiRF17</url>
+</article>
+</r>
+<r><article key="journals/jcphy/FigueiredoGSFRN17" mdate="2020-02-19">
+<author orcid="0000-0002-3694-3938" pid="147/2675">Leandro Passos de Figueiredo</author>
+<author orcid="0000-0003-4220-053X" pid="198/6615">Dario Grana</author>
+<author pid="147/2594">Marcio Santos</author>
+<author pid="134/8262">Wagner Figueiredo</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<author pid="47/8485">Guenther Schwedersky Neto</author>
+<title>Bayesian seismic inversion based on rock-physics prior modeling for the joint estimation of acoustic impedance, porosity and lithofacies.</title>
+<pages>128-142</pages>
+<year>2017</year>
+<volume>336</volume>
+<journal>J. Comput. Phys.</journal>
+<ee>https://doi.org/10.1016/j.jcp.2017.02.013</ee>
+<url>db/journals/jcphy/jcphy336.html#FigueiredoGSFRN17</url>
+</article>
+</r>
+<r><article key="journals/tgrs/BordignonFASRN17" mdate="2024-07-02">
+<author orcid="0000-0001-5205-8042" pid="20/3196-2">Fernando Luis Bordignon</author>
+<author pid="147/2675">Leandro Passos de Figueiredo</author>
+<author orcid="0000-0002-0677-079X" pid="161/6642">Leonardo Azevedo 0002</author>
+<author orcid="0000-0001-5232-2376" pid="144/7946-2">Am&#237;lcar Soares 0002</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<author pid="47/8485">Guenther Schwedersky Neto</author>
+<title>Hybrid Global Stochastic and Bayesian Linearized Acoustic Seismic Inversion Methodology.</title>
+<pages>4457-4464</pages>
+<year>2017</year>
+<volume>55</volume>
+<journal>IEEE Trans. Geosci. Remote. Sens.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TGRS.2017.2692388</ee>
+<url>db/journals/tgrs/tgrs55.html#BordignonFASRN17</url>
+</article>
+</r>
+<r><article key="journals/eswa/CamposOR16" mdate="2021-04-09">
+<author orcid="0000-0003-4315-829X" pid="24/11213">L&#237;dio Mauro Lima de Campos</author>
+<author orcid="0000-0002-6640-3182" pid="69/3899">Roberto C&#233;lio Lim&#227;o de Oliveira</author>
+<author orcid="0000-0001-9707-0360" pid="47/1251">Mauro Roisenberg</author>
+<title>Optimization of neural networks through grammatical evolution and a genetic algorithm.</title>
+<pages>368-384</pages>
+<year>2016</year>
+<volume>56</volume>
+<journal>Expert Syst. Appl.</journal>
+<ee>https://doi.org/10.1016/j.eswa.2016.03.012</ee>
+<url>db/journals/eswa/eswa56.html#CamposOR16</url>
+</article>
+</r>
+<r><inproceedings key="conf/geoinfo/BordignonFRR16" mdate="2023-01-04">
+<author pid="20/3196-2">Fernando Bordignon 0002</author>
+<author pid="147/2675">Leandro Passos de Figueiredo</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<author pid="233/5348">Bruno Barbosa Rodrigues</author>
+<title>Fast spatially coupled Bayesian linearized acoustic seismic inversion in Time Domain.</title>
+<pages>22-31</pages>
+<year>2016</year>
+<booktitle>GEOINFO</booktitle>
+<ee type="oa">http://urlib.net/8JMKD3MGPDW34P/3NDC2P5</ee>
+<crossref>conf/geoinfo/2016</crossref>
+<url>db/conf/geoinfo/geoinfo2016.html#BordignonFRR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icann/PrioriSRSHSDS16" mdate="2022-10-02">
+<author pid="131/6377">Daniel Priori</author>
+<author pid="17/7616">Giseli de Sousa</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<author pid="184/7819">Christopher Stopford</author>
+<author orcid="0000-0002-2721-7600" pid="184/7726">Evelyn Hesse</author>
+<author orcid="0000-0002-4977-0917" pid="184/7863">Emmanuel Salawu</author>
+<author pid="30/3496">Neil Davey</author>
+<author pid="65/2709-1">Yi Sun 0001</author>
+<title>Using Machine Learning Techniques to Recover Prismatic Cirrus Ice Crystal Size from 2-Dimensional Light Scattering Patterns.</title>
+<pages>372-379</pages>
+<year>2016</year>
+<booktitle>ICANN (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-44781-0_44</ee>
+<crossref>conf/icann/2016-2</crossref>
+<url>db/conf/icann/icann2016-2.html#PrioriSRSHSDS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/CamposOR16" mdate="2021-04-09">
+<author orcid="0000-0003-4315-829X" pid="24/11213">L&#237;dio Mauro Lima de Campos</author>
+<author orcid="0000-0002-6640-3182" pid="69/3899">Roberto C&#233;lio Lim&#227;o de Oliveira</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<title>A hybrid neuro-evolutive algorithm for neural network optimization.</title>
+<pages>1096-1103</pages>
+<year>2016</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2016.7727320</ee>
+<crossref>conf/ijcnn/2016</crossref>
+<url>db/conf/ijcnn/ijcnn2016.html#CamposOR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/SoaresNR16" mdate="2017-05-26">
+<author pid="189/4400">S&#233;rgio Aur&#233;lio Ferreira Soares</author>
+<author pid="47/8485">Guenther Schwedersky Neto</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<title>Improving the Incremental Gaussian Mixture Neural Network model for spatial interpolation and geostatistical simulation.</title>
+<pages>2507-2514</pages>
+<year>2016</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2016.7727511</ee>
+<crossref>conf/ijcnn/2016</crossref>
+<url>db/conf/ijcnn/ijcnn2016.html#SoaresNR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/MouraR15" mdate="2023-03-24">
+<author pid="150/8698">Gabriel Moura</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<title>Probabilistic Fuzzy Naive Bayes.</title>
+<pages>246-251</pages>
+<year>2015</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2015.48</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2015.48</ee>
+<crossref>conf/bracis/2015</crossref>
+<url>db/conf/bracis/bracis2015.html#MouraR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fskd/MouraR15" mdate="2017-05-25">
+<author pid="150/8698">Gabriel Moura</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<title>Probabilistic Fuzzy Bayesian Network.</title>
+<pages>476-482</pages>
+<year>2015</year>
+<booktitle>FSKD</booktitle>
+<ee>https://doi.org/10.1109/FSKD.2015.7381989</ee>
+<crossref>conf/fskd/2015</crossref>
+<url>db/conf/fskd/fskd2015.html#MouraR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/SentR15" mdate="2017-05-21">
+<author pid="172/2640">Altieres Del Sent</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<title>Fuzzy Social Force Model.</title>
+<pages>1-8</pages>
+<year>2015</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<ee>https://doi.org/10.1109/FUZZ-IEEE.2015.7338057</ee>
+<crossref>conf/fuzzIEEE/2015</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2015.html#SentR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/CamposOR15" mdate="2021-04-09">
+<author orcid="0000-0003-4315-829X" pid="24/11213">L&#237;dio Mauro Lima de Campos</author>
+<author orcid="0000-0002-6640-3182" pid="69/3899">Roberto C&#233;lio Lim&#227;o de Oliveira</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<title>Evolving Artificial Neural Networks through L-system and evolutionary computation.</title>
+<pages>1-9</pages>
+<year>2015</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2015.7280535</ee>
+<crossref>conf/ijcnn/2015</crossref>
+<url>db/conf/ijcnn/ijcnn2015.html#CamposOR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/SantanaMR15" mdate="2025-01-19">
+<author pid="65/1521">Luiz Henrique Zambom Santana</author>
+<author pid="82/6647">Ronaldo dos Santos Mello</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<title>Smart Crawler: Using Committee Machines for\\Web Pages Continuous Classification.</title>
+<pages>125-132</pages>
+<year>2015</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/2820426.2820437</ee>
+<ee>https://www.wikidata.org/entity/Q131120597</ee>
+<crossref>conf/webmedia/2015</crossref>
+<url>db/conf/webmedia/webmedia2015.html#SantanaMR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/SentRF15" mdate="2021-06-10">
+<author pid="172/2640">Altieres Del Sent</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<author pid="60/3526">Paulo Jos&#233; de Freitas Filho</author>
+<title>Simulation of crowd behavior using fuzzy social force model.</title>
+<pages>3901-3912</pages>
+<year>2015</year>
+<booktitle>WSC</booktitle>
+<ee>https://doi.org/10.1109/WSC.2015.7408546</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2889139</ee>
+<crossref>conf/wsc/2015</crossref>
+<url>db/conf/wsc/wsc2015.html#SentRF15</url>
+</inproceedings>
+</r>
+<r><article key="journals/lgrs/FigueiredoSRNF14" mdate="2020-04-09">
+<author pid="147/2675">Leandro Passos de Figueiredo</author>
+<author pid="147/2594">Marcio Santos</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<author pid="47/8485">Guenther Schwedersky Neto</author>
+<author pid="134/8262">Wagner Figueiredo</author>
+<title>Bayesian Framework to Wavelet Estimation and Linearized Acoustic Inversion.</title>
+<pages>2130-2134</pages>
+<year>2014</year>
+<volume>11</volume>
+<journal>IEEE Geosci. Remote. Sens. Lett.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/LGRS.2014.2321516</ee>
+<url>db/journals/lgrs/lgrs11.html#FigueiredoSRNF14</url>
+</article>
+</r>
+<r><inproceedings key="conf/cec/PereiraNR14" mdate="2017-05-21">
+<author pid="151/4304">Marcio Weck Pereira</author>
+<author pid="47/8485">Guenther Schwedersky Neto</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<title>A topological niching covariance matrix adaptation for multimodal optimization.</title>
+<pages>2562-2569</pages>
+<year>2014</year>
+<booktitle>IEEE Congress on Evolutionary Computation</booktitle>
+<ee>https://doi.org/10.1109/CEC.2014.6900554</ee>
+<crossref>conf/cec/2014</crossref>
+<url>db/conf/cec/cec2014.html#PereiraNR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/RodriguesMJFR14" mdate="2017-05-21">
+<author pid="150/8752">Diego G. Rodrigues</author>
+<author pid="150/8698">Gabriel Moura</author>
+<author pid="53/5965">Carlos Magno Couto Jacinto</author>
+<author pid="60/3526">Paulo Jos&#233; de Freitas Filho</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<title>Generating interpretable Mamdani-type fuzzy rules using a neuro-fuzzy system based on radial basis functions.</title>
+<pages>1352-1359</pages>
+<year>2014</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<ee>https://doi.org/10.1109/FUZZ-IEEE.2014.6891751</ee>
+<crossref>conf/fuzzIEEE/2014</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2014.html#RodriguesMJFR14</url>
+</inproceedings>
+</r>
+<r><article key="journals/lgrs/ContiRNP13" mdate="2020-04-09">
+<author pid="117/4630">Cassio Rodrigo Conti</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<author pid="47/8485">Guenther Schwedersky Neto</author>
+<author orcid="0000-0003-4668-8579" pid="28/10846">Milton Jos&#233; Porsani</author>
+<title>Fast Seismic Inversion Methods Using Ant Colony Optimization Algorithm.</title>
+<pages>1119-1123</pages>
+<year>2013</year>
+<volume>10</volume>
+<journal>IEEE Geosci. Remote. Sens. Lett.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/LGRS.2012.2231397</ee>
+<url>db/journals/lgrs/lgrs10.html#ContiRNP13</url>
+</article>
+</r>
+<r><article key="journals/nca/NetoNR13" mdate="2022-01-03">
+<author orcid="0000-0002-2262-4485" pid="33/8485">Abner Cardoso Rodrigues Neto</author>
+<author pid="130/4338">C&#237;cero Augusto Magalh&#227;es das Neves</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<title>Comparative study on local and global strategies for confidence estimation in neural networks and extensions to improve their predictive power.</title>
+<pages>1519-1530</pages>
+<year>2013</year>
+<volume>22</volume>
+<journal>Neural Comput. Appl.</journal>
+<number>7-8</number>
+<ee>https://doi.org/10.1007/s00521-012-1051-x</ee>
+<url>db/journals/nca/nca22.html#NetoNR13</url>
+</article>
+</r>
+<r><inproceedings key="conf/sac/FazioR13" mdate="2018-11-06">
+<author pid="129/2233">Vinicius Sousa Fazio</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<title>Spatial interpolation: an analytical comparison between kriging and RBF networks.</title>
+<pages>2-7</pages>
+<year>2013</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2480362.2480364</ee>
+<crossref>conf/sac/2013</crossref>
+<url>db/conf/sac/sac2013.html#FazioR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cec/ContiRN12" mdate="2017-05-21">
+<author pid="117/4630">Cassio Rodrigo Conti</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<author pid="47/8485">Guenther Schwedersky Neto</author>
+<title>ACO&#8477;-V - An algorithm that incorporates the visibility heuristic to the ACO in continuous domain.</title>
+<pages>1-8</pages>
+<year>2012</year>
+<booktitle>IEEE Congress on Evolutionary Computation</booktitle>
+<ee>https://doi.org/10.1109/CEC.2012.6252921</ee>
+<crossref>conf/cec/2012</crossref>
+<url>db/conf/cec/cec2012.html#ContiRN12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eann/CamposOR12" mdate="2021-04-09">
+<author orcid="0000-0003-4315-829X" pid="24/11213">L&#237;dio Mauro Lima de Campos</author>
+<author orcid="0000-0002-6640-3182" pid="69/3899">Roberto C&#233;lio Lim&#227;o de Oliveira</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<title>Network Intrusion Detection System Using Data Mining.</title>
+<pages>104-113</pages>
+<year>2012</year>
+<booktitle>EANN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-32909-8_11</ee>
+<crossref>conf/eann/2012</crossref>
+<url>db/conf/eann/eann2012.html#CamposOR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/CamposRO11" mdate="2021-04-09">
+<author orcid="0000-0003-4315-829X" pid="24/11213">L&#237;dio Mauro Lima de Campos</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<author orcid="0000-0002-6640-3182" pid="69/3899">Roberto C&#233;lio Lim&#227;o de Oliveira</author>
+<title>Automatic design of Neural Networks with L-Systems and genetic algorithms - A biologically inspired methodology.</title>
+<pages>1199-1206</pages>
+<year>2011</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2011.6033360</ee>
+<crossref>conf/ijcnn/2011</crossref>
+<url>db/conf/ijcnn/ijcnn2011.html#CamposRO11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icann/NetoRN10" mdate="2017-05-26">
+<author pid="33/8485">Abner Rodrigues Neto</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<author pid="47/8485">Guenther Schwedersky Neto</author>
+<title>Efficient Confidence Bounds for RBF Networks for Sparse and High Dimensional Data.</title>
+<pages>423-428</pages>
+<year>2010</year>
+<booktitle>ICANN (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15825-4_56</ee>
+<crossref>conf/icann/2010-3</crossref>
+<url>db/conf/icann/icann2010-3.html#NetoRN10</url>
+</inproceedings>
+</r>
+<r><article key="journals/eswa/RoisenbergSS09" mdate="2017-05-26">
+<author pid="47/1251">Mauro Roisenberg</author>
+<author pid="81/7408">C&#237;ntia Schoeninger</author>
+<author pid="76/7407">Reneu Rodrigues da Silva</author>
+<title>A hybrid fuzzy-probabilistic system for risk analysis in petroleum exploration prospects.</title>
+<pages>6282-6294</pages>
+<year>2009</year>
+<volume>36</volume>
+<journal>Expert Syst. Appl.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.eswa.2008.07.060</ee>
+<url>db/journals/eswa/eswa36.html#RoisenbergSS09</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcnn/NevesRN09" mdate="2023-03-24">
+<author pid="57/8580">Cicero A. M. da Silva Neves</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<author pid="47/8485">Guenther Schwedersky Neto</author>
+<title>A method to estimate prediction intervals for artificial neural networks that is sensitive to the noise distribution in the outputs.</title>
+<pages>2238-2242</pages>
+<year>2009</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2009.5178953</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IJCNN.2009.5178953</ee>
+<crossref>conf/ijcnn/2009</crossref>
+<url>db/conf/ijcnn/ijcnn2009.html#NevesRN09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icas/LuizPBR08" mdate="2023-03-23">
+<author pid="63/2896">Anderson Luiz</author>
+<author pid="59/7699">Fernandes Perez</author>
+<author pid="64/1847">Guilherme Bittencourt</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<title>Embodied Evolution with a New Genetic Programming Variation Algorithm.</title>
+<pages>118-123</pages>
+<year>2008</year>
+<booktitle>ICAS</booktitle>
+<ee>https://doi.org/10.1109/ICAS.2008.31</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICAS.2008.31</ee>
+<crossref>conf/icas/2008</crossref>
+<url>db/conf/icas/icas2008.html#LuizPBR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/BiazusR08" mdate="2017-05-26">
+<author pid="39/942">Cladio J. Biazus</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<title>The development of a hybrid, distributed architecture for multiagent systems and its application in robot soccer.</title>
+<pages>125-130</pages>
+<year>2008</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2008.4633777</ee>
+<crossref>conf/ijcnn/2008</crossref>
+<url>db/conf/ijcnn/ijcnn2008.html#BiazusR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/LuizPBR08" mdate="2018-11-06">
+<author pid="63/2896">Anderson Luiz</author>
+<author pid="59/7699">Fernandes Perez</author>
+<author pid="64/1847">Guilherme Bittencourt</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<title>A new approach to control a population of mobile robots using genetic programming.</title>
+<pages>1602-1606</pages>
+<year>2008</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1363686.1364063</ee>
+<crossref>conf/sac/2008</crossref>
+<url>db/conf/sac/sac2008.html#LuizPBR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isi/FilhoR06" mdate="2017-05-26">
+<author pid="60/951">Sergio Roberto de Lima e Silva Filho</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<title>Continuous Authentication by Keystroke Dynamics Using Committee Machines.</title>
+<pages>686-687</pages>
+<year>2006</year>
+<crossref>conf/isi/2006</crossref>
+<booktitle>ISI</booktitle>
+<ee>https://doi.org/10.1007/11760146_90</ee>
+<url>db/conf/isi/isi2006.html#FilhoR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/CoelhoRFJ05" mdate="2024-10-06">
+<author orcid="0009-0008-2445-8661" pid="16/6221">Dennis Kerr Coelho</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<author pid="60/3526">Paulo Jos&#233; de Freitas Filho</author>
+<author pid="53/5965">Carlos Magno Couto Jacinto</author>
+<title>Risk assessment of drilling and completion operations in petroleum wells using a Monte Carlo and a neural network approach.</title>
+<pages>1892-1897</pages>
+<year>2005</year>
+<crossref>conf/wsc/2005</crossref>
+<booktitle>WSC</booktitle>
+<ee>https://doi.org/10.1109/WSC.2005.1574466</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1163037</ee>
+<url>db/conf/wsc/wsc2005.html#CoelhoRFJ05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ram/SilvaBRBVC04" mdate="2021-08-12">
+<author pid="12/4776">Fl&#225;vio de Almeida e Silva</author>
+<author pid="64/1847">Guilherme Bittencourt</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<author pid="77/2199">Jorge Muniz Barreto</author>
+<author pid="70/5467">Renato C. Vieira</author>
+<author pid="16/6221">Dennis Kerr Coelho</author>
+<title>Behavior implementation in autonomous agents using modular and hierarchical neural networks.</title>
+<pages>927-932</pages>
+<year>2004</year>
+<booktitle>RAM</booktitle>
+<ee>https://doi.org/10.1109/RAMECH.2004.1438042</ee>
+<crossref>conf/ram/2004</crossref>
+<url>db/conf/ram/ram2004.html#SilvaBRBVC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ram/VieiraRF04" mdate="2021-08-12">
+<author pid="03/1264">Renato Vieira</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<author pid="61/2008">Olinto Furtado</author>
+<title>Formal languages aspects as a tool for representation and implementation of behavior-based robotics.</title>
+<pages>959-963</pages>
+<year>2004</year>
+<booktitle>RAM</booktitle>
+<ee>https://doi.org/10.1109/RAMECH.2004.1438048</ee>
+<crossref>conf/ram/2004</crossref>
+<url>db/conf/ram/ram2004.html#VieiraRF04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nci/FranceschiMBR03" mdate="2003-10-14">
+<author pid="39/1383">Analuchia S. M. de Franceschi</author>
+<author pid="39/6686">R. A. de Moraes</author>
+<author pid="77/2199">Jorge Muniz Barreto</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<title>Employing Recurrent Artificial Neural Networks for Developing Baselines for Proactive Network Management.</title>
+<pages>19-24</pages>
+<year>2003</year>
+<crossref>conf/nci/2003</crossref>
+<booktitle>Neural Networks and Computational Intelligence</booktitle>
+<url>db/conf/nci/nci2003.html#FranceschiMBR03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrn/FranceschiBR00" mdate="2023-03-24">
+<author pid="39/1383">Analuchia S. M. de Franceschi</author>
+<author pid="77/2199">Jorge Muniz Barreto</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<title>Constructing Software Autonomous Agents to Computer Network Management.</title>
+<pages>283</pages>
+<year>2000</year>
+<crossref>conf/sbrn/2000</crossref>
+<booktitle>SBRN</booktitle>
+<ee>https://doi.org/10.1109/SBRN.2000.889755</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBRN.2000.889755</ee>
+<url>db/conf/sbrn/sbrn2000.html#FranceschiBR00</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ndltd/Roisenberg98" mdate="2018-07-18">
+<author pid="47/1251">Mauro Roisenberg</author>
+<title>Emerg&#234;ncia da intelig&#234;ncia em agentes aut&#244;nomos atrav&#233;s de modelos inspirados na natureza.</title>
+<year>1998</year>
+<school>Federal University of Santa Catarina, Florian&#243;polis, Brazil</school>
+<ee>http://repositorio.ufsc.br/xmlui/handle/123456789/77698</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:agregador.ibict.br.RI_UFSC:oai:repositorio.ufsc.br:123456789/77698</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:repositorio.ufsc.br:123456789/77698</ee>
+<note type="source">ndltd.org (oai:agregador.ibict.br.RI_UFSC:oai:repositorio.ufsc.br:123456789/77698)</note>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/sbia/RoisenbergBA96" mdate="2017-05-17">
+<author pid="47/1251">Mauro Roisenberg</author>
+<author pid="77/2199">Jorge Muniz Barreto</author>
+<author pid="46/4892">Fernando Mendes de Azevedo</author>
+<title>Biological Inspirations in Neural Network Implementations of Autonomous Agents.</title>
+<pages>211-220</pages>
+<year>1996</year>
+<crossref>conf/sbia/1996</crossref>
+<booktitle>SBIA</booktitle>
+<url>db/conf/sbia/sbia96.html#RoisenbergBA96</url>
+<ee>https://doi.org/10.1007/3-540-61859-7_22</ee>
+</inproceedings>
+</r>
+<coauthors n="68" nc="9">
+<co c="3"><na f="a/Angulo:Yineth_Viviana_Camacho=De" pid="359/9327">Yineth Viviana Camacho-De Angulo</na></co>
+<co c="3"><na f="a/Arrechea=Castillo:Darwin_Alexis" pid="349/7187">Darwin Alexis Arrechea-Castillo</na></co>
+<co c="1"><na f="a/Azevedo:Fernando_Mendes_de" pid="46/4892">Fernando Mendes de Azevedo</na></co>
+<co c="0"><na f="a/Azevedo_0002:Leonardo" pid="161/6642">Leonardo Azevedo 0002</na></co>
+<co c="1"><na f="b/Barreto:Jorge_Muniz" pid="77/2199">Jorge Muniz Barreto</na></co>
+<co c="-1"><na f="b/Biazus:Cladio_J=" pid="39/942">Cladio J. Biazus</na></co>
+<co c="1"><na f="b/Bittencourt:Guilherme" pid="64/1847">Guilherme Bittencourt</na></co>
+<co c="0" n="2"><na f="b/Bordignon_0002:Fernando" pid="20/3196-2">Fernando Bordignon 0002</na><na>Fernando Luis Bordignon</na></co>
+<co c="4" n="2"><na f="c/Campos:L=iacute=dio_M=_L=_de" pid="24/11213">L&#237;dio M. L. de Campos</na><na>L&#237;dio Mauro Lima de Campos</na></co>
+<co c="3"><na f="c/Cantero=Mosquera:Yessica_Carolina" pid="386/0151">Yessica Carolina Cantero-Mosquera</na></co>
+<co c="1"><na f="c/Coelho:Dennis_Kerr" pid="16/6221">Dennis Kerr Coelho</na></co>
+<co c="0"><na f="c/Conti:Cassio_Rodrigo" pid="117/4630">Cassio Rodrigo Conti</na></co>
+<co c="3"><na f="c/Correa:Yady_Tatiana_Solano" pid="171/0012">Yady Tatiana Solano Correa</na></co>
+<co c="2"><na f="d/Davey:Neil" pid="30/3496">Neil Davey</na></co>
+<co c="0"><na f="d/Dutra:Gustavo_Rachid" pid="353/7246">Gustavo Rachid Dutra</na></co>
+<co c="0"><na f="e/Emerick:Alexandre_Anoz=eacute=" pid="129/4305">Alexandre Anoz&#233; Emerick</na></co>
+<co c="0"><na f="e/Exterkoetter:Rodrigo" pid="228/1516">Rodrigo Exterkoetter</na></co>
+<co c="-1"><na f="f/Fazio:Vinicius_Sousa" pid="129/2233">Vinicius Sousa Fazio</na></co>
+<co c="0"><na f="f/Figueiredo:Leandro_Passos_de" pid="147/2675">Leandro Passos de Figueiredo</na></co>
+<co c="0"><na f="f/Figueiredo:Wagner" pid="134/8262">Wagner Figueiredo</na></co>
+<co c="1"><na f="f/Filho:Paulo_Jos=eacute=_de_Freitas" pid="60/3526">Paulo Jos&#233; de Freitas Filho</na></co>
+<co c="-1"><na f="f/Filho:Sergio_Roberto_de_Lima_e_Silva" pid="60/951">Sergio Roberto de Lima e Silva Filho</na></co>
+<co c="1"><na f="f/Franceschi:Analuchia_S=_M=_de" pid="39/1383">Analuchia S. M. de Franceschi</na></co>
+<co c="0"><na f="f/Freitas:Daniel_Santana_de" pid="00/6683">Daniel Santana de Freitas</na></co>
+<co c="7" n="2"><na f="f/Furtado:Olinto_J=_V=" pid="61/2008">Olinto J. V. Furtado</na><na>Olinto Furtado</na></co>
+<co c="0"><na f="g/Grana:Dario" pid="198/6615">Dario Grana</na></co>
+<co c="0"><na f="g/Guazzelli:Arthur_Bridi" pid="275/7435">Arthur Bridi Guazzelli</na></co>
+<co c="2"><na f="h/Hesse:Evelyn" pid="184/7726">Evelyn Hesse</na></co>
+<co c="1" n="2"><na f="j/Jacinto:Carlos_M=_C=" pid="53/5965">Carlos M. C. Jacinto</na><na>Carlos Magno Couto Jacinto</na></co>
+<co c="1"><na f="l/Luiz:Anderson" pid="63/2896">Anderson Luiz</na></co>
+<co c="0"><na f="l/Lunelli:Rafael" pid="284/0444">Rafael Lunelli</na></co>
+<co c="1"><na f="m/Mazzutti:Tiago" pid="206/6485">Tiago Mazzutti</na></co>
+<co c="8"><na f="m/Mello:Ronaldo_dos_Santos" pid="82/6647">Ronaldo dos Santos Mello</na></co>
+<co c="1"><na f="m/Moraes:R=_A=_de" pid="39/6686">R. A. de Moraes</na></co>
+<co c="1"><na f="m/Moura:Gabriel" pid="150/8698">Gabriel Moura</na></co>
+<co c="5"><na f="n/Nascimento:Marivaldo_dos_Santos" pid="309/0636">Marivaldo dos Santos Nascimento</na></co>
+<co c="0" n="2"><na f="n/Neto:Abner_Rodrigues" pid="33/8485">Abner Rodrigues Neto</na><na>Abner Cardoso Rodrigues Neto</na></co>
+<co c="0"><na f="n/Neto:Gilson_Moura_Silva" pid="353/7027">Gilson Moura Silva Neto</na></co>
+<co c="0"><na f="n/Neto:Guenther_Schwedersky" pid="47/8485">Guenther Schwedersky Neto</na></co>
+<co c="0"><na f="n/Neves:Cicero_A=_M=_da_Silva" pid="57/8580">Cicero A. M. da Silva Neves</na></co>
+<co c="0"><na f="n/Neves:C=iacute=cero_Augusto_Magalh=atilde=es_das" pid="130/4338">C&#237;cero Augusto Magalh&#227;es das Neves</na></co>
+<co c="4"><na f="o/Oliveira:Roberto_C=eacute=lio_Lim=atilde=o_de" pid="69/3899">Roberto C&#233;lio Lim&#227;o de Oliveira</na></co>
+<co c="0"><na f="p/Pereira:Marcio_Weck" pid="151/4304">Marcio Weck Pereira</na></co>
+<co c="1"><na f="p/Perez:Fernandes" pid="59/7699">Fernandes Perez</na></co>
+<co c="0"><na f="p/Porsani:Milton_Jos=eacute=" pid="28/10846">Milton Jos&#233; Porsani</na></co>
+<co c="2"><na f="p/Priori:Daniel" pid="131/6377">Daniel Priori</na></co>
+<co c="-1"><na f="r/Reinhold:Caique" pid="241/5529">Caique Reinhold</na></co>
+<co c="0"><na f="r/Rodrigues:Bruno_Barbosa" pid="233/5348">Bruno Barbosa Rodrigues</na></co>
+<co c="1"><na f="r/Rodrigues:Diego_G=" pid="150/8752">Diego G. Rodrigues</na></co>
+<co c="3"><na f="r/Rosa:Nicolas_Cechinel" pid="386/1310">Nicolas Cechinel Rosa</na></co>
+<co c="0"><na f="s/Sacramento:Isaac" pid="228/1751">Isaac Sacramento</na></co>
+<co c="2" n="2"><na f="s/Salawu:Emmanuel_Oluwatobi" pid="184/7863">Emmanuel Oluwatobi Salawu</na><na>Emmanuel Salawu</na></co>
+<co c="8" n="2"><na f="s/Santana:Luiz_H=_Z=" pid="65/1521">Luiz H. Z. Santana</na><na>Luiz Henrique Zambom Santana</na></co>
+<co c="5"><na f="s/Santos:Daniel_Theisges_dos" pid="309/1006">Daniel Theisges dos Santos</na></co>
+<co c="0"><na f="s/Santos:Marcio" pid="147/2594">Marcio Santos</na></co>
+<co c="0"><na f="s/Schmitz:Tcharlies" pid="284/0406">Tcharlies Schmitz</na></co>
+<co c="6"><na f="s/Schoeninger:C=iacute=ntia" pid="81/7408">C&#237;ntia Schoeninger</na></co>
+<co c="1"><na f="s/Sent:Altieres_Del" pid="172/2640">Altieres Del Sent</na></co>
+<co c="1"><na f="s/Silva:Fl=aacute=vio_de_Almeida_e" pid="12/4776">Fl&#225;vio de Almeida e Silva</na></co>
+<co c="6"><na f="s/Silva:Reneu_Rodrigues_da" pid="76/7407">Reneu Rodrigues da Silva</na></co>
+<co c="0"><na f="s/Soares_0002:Am=iacute=lcar" pid="144/7946-2">Am&#237;lcar Soares 0002</na></co>
+<co c="0"><na f="s/Soares:S=eacute=rgio_Aur=eacute=lio_Ferreira" pid="189/4400">S&#233;rgio Aur&#233;lio Ferreira Soares</na></co>
+<co c="2"><na f="s/Sousa:Giseli_de" pid="17/7616">Giseli de Sousa</na></co>
+<co c="2"><na f="s/Stopford:Christopher" pid="184/7819">Christopher Stopford</na></co>
+<co c="2"><na f="s/Sun_0001:Yi" pid="65/2709-1">Yi Sun 0001</na></co>
+<co c="0" n="2"><na f="t/Trindade:Elton" pid="234/3998">Elton Trindade</na><na>Elton Alves Trindade</na></co>
+<co c="7"><na f="v/Vieira:Renato" pid="03/1264">Renato Vieira</na></co>
+<co c="1"><na f="v/Vieira:Renato_C=" pid="70/5467">Renato C. Vieira</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,1177 @@
+<?xml version="1.0"?>
+<dblpperson name="Tiago Ferreto" pid="78/3004" n="67">
+<person key="homepages/78/3004" mdate="2025-01-10">
+<author pid="78/3004">Tiago Ferreto</author>
+<author pid="78/3004">Tiago C. Ferreto</author>
+<author pid="78/3004">Tiago Coelho Ferreto</author>
+<note type="affiliation">Pontifical Catholic University of Rio Grande do Sul (PUCRS), School of Technology, Porto Alegre, Brazil</note>
+<url>https://www.inf.pucrs.br/~ferreto/</url>
+<url>https://www.escavador.com/sobre/3438165/tiago-coelho-ferreto</url>
+<url>https://scholar.google.com/citations?user=1_-2-2UAAAAJ</url>
+<url>https://orcid.org/0000-0001-8485-529X</url>
+<url>https://ieeexplore.ieee.org/author/38355858900</url>
+<url>https://www.wikidata.org/entity/Q131119562</url>
+</person>
+<r><article key="journals/concurrency/RogesF25" mdate="2025-03-07">
+<author pid="348/7716">Lucas Roges</author>
+<author orcid="0000-0001-8485-529X" pid="78/3004">Tiago Ferreto</author>
+<title>Multi-Objective Dynamic Registry Provisioning in Edge Computing Infrastructures.</title>
+<year>2025</year>
+<month>February</month>
+<volume>37</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>4-5</number>
+<ee>https://doi.org/10.1002/cpe.70006</ee>
+<url>db/journals/concurrency/concurrency37.html#RogesF25</url>
+<stream>streams/journals/concurrency</stream>
+</article>
+</r>
+<r><article key="journals/csur/SouzaFC24" mdate="2025-01-19">
+<author orcid="0000-0003-4945-3329" pid="198/8009">Paulo Souza 0002</author>
+<author orcid="0000-0001-8485-529X" pid="78/3004">Tiago Ferreto</author>
+<author orcid="0000-0001-7435-2445" pid="78/6512">Rodrigo N. Calheiros</author>
+<title>Maintenance Operations on Cloud, Edge, and IoT Environments: Taxonomy, Survey, and Research Challenges.</title>
+<pages>256</pages>
+<year>2024</year>
+<month>October</month>
+<volume>56</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1145/3659097</ee>
+<ee>https://www.wikidata.org/entity/Q131119563</ee>
+<url>db/journals/csur/csur56.html#SouzaFC24</url>
+</article>
+</r>
+<r><inproceedings key="conf/closer/KayserAF24" mdate="2024-06-03">
+<author pid="309/0238">Carlos Henrique Kayser</author>
+<author pid="66/2150">Marcos Dias de Assun&#231;&#227;o</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<title>Lapse: Latency &#38; Power-Aware Placement of Data Stream Applications on Edge Computing.</title>
+<pages>358-366</pages>
+<year>2024</year>
+<booktitle>CLOSER</booktitle>
+<ee>https://doi.org/10.5220/0012737400003711</ee>
+<crossref>conf/closer/2024</crossref>
+<url>db/conf/closer/closer2024.html#KayserAF24</url>
+</inproceedings>
+</r>
+<r><article key="journals/access/MartinsCMBDCMCARNMWFMPSSMRCS23" mdate="2025-01-19">
+<author orcid="0000-0003-1310-9366" pid="m/JMartins">Joberto S. B. Martins</author>
+<author orcid="0000-0002-0821-0614" pid="57/2831">Tereza Cristina M. B. Carvalho</author>
+<author orcid="0000-0002-9328-8618" pid="224/6898">Rodrigo Moreira</author>
+<author orcid="0000-0002-9776-4888" pid="07/2040">Cristiano Bonato Both</author>
+<author orcid="0000-0002-4085-9640" pid="266/5941">Adnei W. Donatti</author>
+<author orcid="0000-0002-8124-8985" pid="239/4884">Jo&#227;o Henrique G. M. Corr&#234;a</author>
+<author orcid="0000-0001-7157-5045" pid="76/2855">Jos&#233; A. S. Monteiro</author>
+<author orcid="0000-0003-1863-4661" pid="81/3896">Sand Luz Correa</author>
+<author orcid="0000-0003-4085-6674" pid="16/7815">Ant&#244;nio J. G. Abel&#233;m</author>
+<author orcid="0000-0002-9149-2391" pid="20/1896">Mois&#233;s R. N. Ribeiro</author>
+<author orcid="0000-0002-1095-6714" pid="n/JoseMarcosSNogueira">Jos&#233; Marcos S. Nogueira</author>
+<author orcid="0000-0002-1651-3156" pid="13/6767">Luiz Claudio Schara Magalh&#227;es</author>
+<author orcid="0000-0002-7686-8370" pid="71/7494">Juliano Araujo Wickboldt</author>
+<author orcid="0000-0001-8485-529X" pid="78/3004">Tiago C. Ferreto</author>
+<author orcid="0000-0003-0420-4273" pid="215/8872">Ricardo C. de Mello</author>
+<author orcid="0000-0002-8781-3914" pid="70/2771">Rafael Pasquini</author>
+<author orcid="0000-0002-3461-3548" pid="133/3799">Marcos F. Schwarz</author>
+<author orcid="0000-0003-4855-0936" pid="56/3926">Leobino N. Sampaio</author>
+<author orcid="0000-0001-6668-4175" pid="74/2460">Daniel F. Macedo</author>
+<author orcid="0000-0002-5660-6488" pid="r/JoseFerreiradeRezende">Jos&#233; Ferreira de Rezende</author>
+<author orcid="0000-0001-5152-5323" pid="32/10675">Kleber Vieira Cardoso</author>
+<author orcid="0000-0001-7051-7396" pid="02/979">Fl&#225;vio Oliveira Silva 0001</author>
+<title>Enhancing Network Slicing Architectures With Machine Learning, Security, Sustainability and Experimental Networks Integration.</title>
+<pages>69144-69163</pages>
+<year>2023</year>
+<volume>11</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2023.3292788</ee>
+<ee>https://www.wikidata.org/entity/Q125096855</ee>
+<url>db/journals/access/access11.html#MartinsCMBDCMCARNMWFMPSSMRCS23</url>
+</article>
+</r>
+<r><article key="journals/fgcs/SouzaFC23" mdate="2025-01-19">
+<author orcid="0000-0003-4945-3329" pid="198/8009">Paulo Souza 0002</author>
+<author orcid="0000-0001-8485-529X" pid="78/3004">Tiago Ferreto</author>
+<author orcid="0000-0001-7435-2445" pid="78/6512">Rodrigo N. Calheiros</author>
+<title>EdgeSimPy: Python-based modeling and simulation of edge computing resource management policies.</title>
+<pages>446-459</pages>
+<year>2023</year>
+<month>November</month>
+<volume>148</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2023.06.013</ee>
+<ee>https://www.wikidata.org/entity/Q123229096</ee>
+<url>db/journals/fgcs/fgcs148.html#SouzaFC23</url>
+</article>
+</r>
+<r><inproceedings key="conf/netsoft/BrumSF23" mdate="2024-10-06">
+<author orcid="0009-0005-6197-2457" pid="352/1028">Henrique B. Brum</author>
+<author pid="64/6563">Carlos Raniery Paula dos Santos</author>
+<author pid="78/3004">Tiago C. Ferreto</author>
+<title>Providing Fine-grained Network Metrics for Monitoring Applications using In-band Telemetry.</title>
+<pages>116-124</pages>
+<year>2023</year>
+<booktitle>NetSoft</booktitle>
+<ee>https://doi.org/10.1109/NetSoft57336.2023.10175472</ee>
+<crossref>conf/netsoft/2023</crossref>
+<url>db/conf/netsoft/netsoft2023.html#BrumSF23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/SouzaKRF23" mdate="2023-06-07">
+<author pid="198/8009">Paulo Silas Severo de Souza</author>
+<author pid="309/0238">Carlos Henrique Kayser</author>
+<author pid="348/7716">Lucas Roges</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<title>Thea - a QoS, Privacy, and Power-aware Algorithm for Placing Applications on Federated Edges.</title>
+<pages>136-143</pages>
+<year>2023</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP59025.2023.00028</ee>
+<crossref>conf/pdp/2023</crossref>
+<url>db/conf/pdp/pdp2023.html#SouzaKRF23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/RubinSF23" mdate="2023-07-21">
+<author orcid="0000-0003-1612-078X" pid="194/7215">Felipe Rubin</author>
+<author orcid="0000-0003-4945-3329" pid="198/8009">Paulo Silas Severo de Souza</author>
+<author orcid="0000-0001-8485-529X" pid="78/3004">Tiago Ferreto</author>
+<title>Reducing Power Consumption during Server Maintenance on Edge Computing Infrastructures.</title>
+<pages>691-698</pages>
+<year>2023</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3555776.3577739</ee>
+<crossref>conf/sac/2023</crossref>
+<url>db/conf/sac/sac2023.html#RubinSF23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/FerretoGR23" mdate="2024-05-07">
+<author pid="78/3004">Tiago C. Ferreto</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="95/5199">C&#233;sar A. F. De Rose</author>
+<title>Message from the General Chairs.</title>
+<pages>ix</pages>
+<year>2023</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD59825.2023.00005</ee>
+<crossref>conf/sbac-pad/2023</crossref>
+<url>db/conf/sbac-pad/sbac-pad2023.html#FerretoGR23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/BrumSF23" mdate="2024-04-11">
+<author pid="352/1028">Henrique B. Brum</author>
+<author pid="64/6563">Carlos R. P. dos Santos</author>
+<author pid="78/3004">Tiago C. Ferreto</author>
+<title>DINT: A Dynamic Algorithm for In-band Network Telemetry.</title>
+<pages>225-238</pages>
+<year>2023</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://sol.sbc.org.br/index.php/sbrc/article/view/24541</ee>
+<crossref>conf/sbrc/2023</crossref>
+<url>db/conf/sbrc/sbrc2023.html#BrumSF23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/WeberFZ23" mdate="2023-12-08">
+<author pid="292/7923">Julia Silva Weber</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<author pid="303/3845">Nur Zincir-Heywood</author>
+<title>Exploring Anomaly Detection Techniques for Enhancing VANET Availability.</title>
+<pages>1-7</pages>
+<year>2023</year>
+<booktitle>VTC2023-Spring</booktitle>
+<ee>https://doi.org/10.1109/VTC2023-Spring57618.2023.10200360</ee>
+<crossref>conf/vtc/2023s</crossref>
+<url>db/conf/vtc/vtc2023s.html#WeberFZ23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-09151" mdate="2023-09-20">
+<author pid="m/JMartins">Joberto S. B. Martins</author>
+<author pid="57/2831">Tereza Cristina M. B. Carvalho</author>
+<author pid="224/6898">Rodrigo Moreira</author>
+<author pid="07/2040">Cristiano Both</author>
+<author pid="266/5941">Adnei W. Donatti</author>
+<author pid="239/4884">Jo&#227;o Henrique G. M. Corr&#234;a</author>
+<author pid="76/2855">Jos&#233; Augusto Suruagy Monteiro</author>
+<author pid="81/3896">Sand Luz Corr&#234;a</author>
+<author pid="16/7815">Ant&#244;nio J. G. Abel&#233;m</author>
+<author pid="20/1896">Mois&#233;s R. N. Ribeiro</author>
+<author pid="n/JoseMarcosSNogueira">Jos&#233; Marcos S. Nogueira</author>
+<author pid="13/6767">Luiz Claudio Schara Magalh&#227;es</author>
+<author pid="71/7494">Juliano Araujo Wickboldt</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<author pid="215/8872">Ricardo C. de Mello</author>
+<author pid="70/2771">Rafael Pasquini</author>
+<author pid="133/3799">Marcos F. Schwarz</author>
+<author pid="56/3926">Leobino N. Sampaio</author>
+<author pid="74/2460">Daniel F. Macedo</author>
+<author pid="r/JoseFerreiradeRezende">Jos&#233; Ferreira de Rezende</author>
+<author pid="32/10675">Kleber Vieira Cardoso</author>
+<author pid="02/979">Fl&#225;vio Oliveira Silva 0001</author>
+<title>Enhancing Network Slicing Architectures with Machine Learning, Security, Sustainability and Experimental Networks Integration.</title>
+<year>2023</year>
+<volume>abs/2307.09151</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.09151</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-09151</url>
+</article>
+</r>
+<r><article key="journals/icl/SouzaFRC22" mdate="2023-08-06">
+<author orcid="0000-0003-4945-3329" pid="198/8009">Paulo Souza 0002</author>
+<author orcid="0000-0001-8485-529X" pid="78/3004">Tiago C. Ferreto</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio Diniz Rossi</author>
+<author orcid="0000-0001-7435-2445" pid="78/6512">Rodrigo N. Calheiros</author>
+<title>Location-Aware Maintenance Strategies for Edge Computing Infrastructures.</title>
+<pages>848-852</pages>
+<year>2022</year>
+<volume>26</volume>
+<journal>IEEE Commun. Lett.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/LCOMM.2022.3150243</ee>
+<url>db/journals/icl/icl26.html#SouzaFRC22</url>
+</article>
+</r>
+<r><inproceedings key="conf/closer/0002NKRBMBF22" mdate="2022-05-17">
+<author pid="198/8009">Paulo Souza 0002</author>
+<author pid="129/2290">Miguel C. Neves</author>
+<author pid="309/0238">Carlos Henrique Kayser</author>
+<author pid="194/7215">Felipe Rubin</author>
+<author pid="229/0799">Conrado Boeira</author>
+<author pid="97/8984">Jo&#227;o Moreira</author>
+<author pid="320/4546">Bernardo Bordin</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<title>Predicting and Avoiding SLA Violations of Containerized Applications using Machine Learning and Elasticity.</title>
+<pages>74-85</pages>
+<year>2022</year>
+<booktitle>CLOSER</booktitle>
+<ee>https://doi.org/10.5220/0011085100003200</ee>
+<crossref>conf/closer/2022</crossref>
+<url>db/conf/closer/closer2022.html#0002NKRBMBF22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/closer/KonzenIGSFLLMRR22" mdate="2023-09-30">
+<author pid="260/1187">Marcos Paulo Konzen</author>
+<author pid="320/4430">Patric Lincoln Ramires Izolan</author>
+<author pid="320/3532">F&#225;bio J&#250;nior Griesang</author>
+<author pid="198/8009">Paulo Silas Severo de Souza</author>
+<author pid="78/3004">Tiago Coelho Ferreto</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author pid="78/5041">J&#250;lio Carlos Balzano de Mattos</author>
+<author pid="320/3490">Cinara Ewerling da Rosa</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio Diniz Rossi</author>
+<title>Multivariate Interpolation at the Edge to Infer Faulty IoT Sensor Metrics.</title>
+<pages>280-287</pages>
+<year>2022</year>
+<booktitle>CLOSER</booktitle>
+<ee>https://doi.org/10.5220/0011084100003200</ee>
+<crossref>conf/closer/2022</crossref>
+<url>db/conf/closer/closer2022.html#KonzenIGSFLLMRR22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/closer/0002VRFR22" mdate="2023-09-30">
+<author pid="198/8009">Paulo Souza 0002</author>
+<author pid="244/7699">&#194;ngelo Nery Crestani Vieira</author>
+<author pid="194/7215">Felipe Rubin</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio D. Rossi</author>
+<title>Latency-aware Privacy-preserving Service Migration in Federated Edges.</title>
+<pages>288-295</pages>
+<year>2022</year>
+<booktitle>CLOSER</booktitle>
+<ee>https://doi.org/10.5220/0011084500003200</ee>
+<crossref>conf/closer/2022</crossref>
+<url>db/conf/closer/closer2022.html#0002VRFR22</url>
+</inproceedings>
+</r>
+<r><article key="journals/jbcs/WeberNF21" mdate="2021-06-01">
+<author orcid="0000-0002-4930-4692" pid="292/7923">Julia Silva Weber</author>
+<author pid="129/2290">Miguel C. Neves</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<title>VANET simulators: an updated review.</title>
+<pages>8</pages>
+<year>2021</year>
+<volume>27</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s13173-021-00113-x</ee>
+<url>db/journals/jbcs/jbcs27.html#WeberNF21</url>
+</article>
+</r>
+<r><inproceedings key="conf/cloudnet/BoeiraNFH21" mdate="2022-06-23">
+<author pid="229/0799">Conrado Boeira</author>
+<author pid="129/2290">Miguel C. Neves</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<author pid="209/8668">Israat Haque 0001</author>
+<title>Characterizing network performance of single-node large-scale container deployments.</title>
+<pages>97-103</pages>
+<year>2021</year>
+<booktitle>CloudNet</booktitle>
+<ee>https://doi.org/10.1109/CloudNet53349.2021.9657138</ee>
+<crossref>conf/cloudnet/2021</crossref>
+<url>db/conf/cloudnet/cloudnet2021.html#BoeiraNFH21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ic2e/KnobFFS21" mdate="2024-02-05">
+<author orcid="0000-0001-7291-7780" pid="164/7946">Luis Augusto Dias Knob</author>
+<author pid="228/7886">Francescomaria Faticanti</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<author orcid="0000-0002-5640-6507" pid="88/10062">Domenico Siracusa</author>
+<title>Community-based Placement of Registries to Speed up Application Deployment on Edge Computing.</title>
+<pages>147-153</pages>
+<year>2021</year>
+<booktitle>IC2E</booktitle>
+<ee>https://doi.org/10.1109/IC2E52221.2021.00029</ee>
+<crossref>conf/ic2e/2021</crossref>
+<url>db/conf/ic2e/ic2e2021.html#KnobFFS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/KnobKF21" mdate="2023-09-30">
+<author orcid="0000-0001-7291-7780" pid="164/7946">Luis Augusto Dias Knob</author>
+<author pid="309/0238">Carlos Henrique Kayser</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<title>Improving Container Deployment in Edge Computing Using the Infrastructure Aware Scheduling Algorithm.</title>
+<pages>1-6</pages>
+<year>2021</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC53001.2021.9631490</ee>
+<crossref>conf/iscc/2021</crossref>
+<url>db/conf/iscc/iscc2021.html#KnobKF21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/SouzaF21" mdate="2022-02-17">
+<author pid="198/8009">Paulo Silas Severo de Souza</author>
+<author pid="78/3004">Tiago Coelho Ferreto</author>
+<title>A Heuristic Algorithm for Minimizing Server Maintenance Time and Vulnerability Surface on Data Centers.</title>
+<pages>65-72</pages>
+<year>2021</year>
+<booktitle>SBRC Companion</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc_estendido.2021.17155</ee>
+<crossref>conf/sbrc/2021c</crossref>
+<url>db/conf/sbrc/sbrc2021c.html#SouzaF21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/TavaresF21" mdate="2022-02-15">
+<author pid="280/6340">Kairo Tavares</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<title>P4-ONIDS: A P4-based NIDS optimized for constrained programmable data planes in SDN.</title>
+<pages>434-447</pages>
+<year>2021</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc.2021.16738</ee>
+<crossref>conf/sbrc/2021</crossref>
+<url>db/conf/sbrc/sbrc2021.html#TavaresF21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ucc/KnobKSF21" mdate="2023-09-30">
+<author orcid="0000-0001-7291-7780" pid="164/7946">Luis Augusto Dias Knob</author>
+<author pid="309/0238">Carlos Henrique Kayser</author>
+<author pid="198/8009">Paulo Silas Severo de Souza</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<title>Enforcing deployment latency SLA in edge infrastructures through multi-objective genetic scheduler.</title>
+<pages>16:1-16:9</pages>
+<year>2021</year>
+<booktitle>UCC</booktitle>
+<ee>https://doi.org/10.1145/3468737.3494100</ee>
+<crossref>conf/ucc/2021</crossref>
+<url>db/conf/ucc/ucc2021.html#KnobKSF21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/closer/0002RNBVOF20" mdate="2020-12-29">
+<author pid="198/8009">Paulo Souza 0002</author>
+<author orcid="0000-0003-1612-078X" pid="194/7215">Felipe Rubin</author>
+<author pid="144/5951">Jo&#227;o Nascimento</author>
+<author pid="229/0799">Conrado Boeira</author>
+<author pid="244/7699">&#194;ngelo Vieira</author>
+<author pid="168/4985">R&#244;mulo Reis de Oliveira</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<title>ISABEL: Infrastructure-Agnostic Benchmark Framework for Cloud-Native Platforms.</title>
+<pages>482-489</pages>
+<year>2020</year>
+<booktitle>CLOSER</booktitle>
+<ee>https://doi.org/10.5220/0009581004820489</ee>
+<crossref>conf/closer/2020</crossref>
+<url>db/conf/closer/closer2020.html#0002RNBVOF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/closer/0002NBVRORF20" mdate="2021-01-21">
+<author pid="198/8009">Paulo Souza 0002</author>
+<author pid="144/5951">Jo&#227;o Nascimento</author>
+<author pid="229/0799">Conrado Boeira</author>
+<author pid="244/7699">&#194;ngelo Vieira</author>
+<author orcid="0000-0003-1612-078X" pid="194/7215">Felipe Rubin</author>
+<author pid="168/4985">R&#244;mulo Reis de Oliveira</author>
+<author pid="128/5117">F&#225;bio Diniz Rossi</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<title>IRENE: Interference and High Availability Aware Microservice-based Applications Placement for Edge Computing.</title>
+<pages>490-497</pages>
+<year>2020</year>
+<booktitle>CLOSER</booktitle>
+<ee>https://doi.org/10.5220/0009581604900497</ee>
+<crossref>conf/closer/2020</crossref>
+<url>db/conf/closer/closer2020.html#0002NBVRORF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icoin/RubinSMORF20" mdate="2023-09-30">
+<author orcid="0000-0003-1612-078X" pid="194/7215">Felipe Pfeifer Rubin</author>
+<author pid="198/8009">Paulo Silas Severo de Souza</author>
+<author pid="198/8075">Wagner dos Santos Marques</author>
+<author pid="168/4985">R&#244;mulo Reis de Oliveira</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio Diniz Rossi</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<title>Evaluating Energy and Thermal Efficiency of Anomaly Detection Algorithms in Edge Devices.</title>
+<pages>208-213</pages>
+<year>2020</year>
+<booktitle>ICOIN</booktitle>
+<ee>https://doi.org/10.1109/ICOIN48656.2020.9016420</ee>
+<crossref>conf/icoin/2020</crossref>
+<url>db/conf/icoin/icoin2020.html#RubinSMORF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icoin/MarquesRSOF20" mdate="2020-10-25">
+<author pid="198/8075">Wagner dos Santos Marques</author>
+<author orcid="0000-0003-1612-078X" pid="194/7215">Felipe Rubin</author>
+<author pid="198/8009">Paulo Silas Severo de Souza</author>
+<author pid="168/4985">R&#244;mulo Reis de Oliveira</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<title>SABER: An Infrastructure-Agnostic Benchmark Tool for Elasticity Evaluation on Cloud Foundry Based Platforms.</title>
+<pages>378-383</pages>
+<year>2020</year>
+<booktitle>ICOIN</booktitle>
+<ee>https://doi.org/10.1109/ICOIN48656.2020.9016485</ee>
+<crossref>conf/icoin/2020</crossref>
+<url>db/conf/icoin/icoin2020.html#MarquesRSOF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/closer/OliveiraSMFR19" mdate="2022-05-17">
+<author pid="168/4985">R&#244;mulo Reis de Oliveira</author>
+<author pid="198/8009">Paulo Silas Severo de Souza</author>
+<author pid="198/8075">Wagner dos Santos Marques</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<author pid="128/5117">F&#225;bio Diniz Rossi</author>
+<title>Improving the Trade-Off between Performance and Energy Saving in Mobile Devices through a Transparent Code Offloading Technique.</title>
+<pages>347-354</pages>
+<year>2019</year>
+<booktitle>CLOSER</booktitle>
+<ee>https://doi.org/10.5220/0007719703470354</ee>
+<crossref>conf/closer/2019</crossref>
+<url>db/conf/closer/closer2019.html#OliveiraSMFR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/closer/SouzaMOF19" mdate="2020-06-05">
+<author pid="198/8009">Paulo Silas Severo de Souza</author>
+<author pid="198/8075">Wagner dos Santos Marques</author>
+<author pid="168/4985">R&#244;mulo Reis de Oliveira</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<title>IAGREE: Infrastructure-agnostic Resilience Benchmark Tool for Cloud Native Platforms.</title>
+<pages>396-403</pages>
+<year>2019</year>
+<booktitle>CLOSER</booktitle>
+<ee>https://doi.org/10.5220/0007728503960403</ee>
+<crossref>conf/closer/2019</crossref>
+<url>db/conf/closer/closer2019.html#SouzaMOF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/closer/RossiFCSMCR19" mdate="2022-05-17">
+<author pid="128/5117">F&#225;bio D. Rossi</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<author pid="209/2930">Marcelo Da Silva Conterato</author>
+<author pid="198/8009">Paulo Silas Severo de Souza</author>
+<author pid="198/8075">Wagner dos Santos Marques</author>
+<author pid="78/6512">Rodrigo N. Calheiros</author>
+<author orcid="0000-0001-7454-3698" pid="140/8275">Guilherme da Cunha Rodrigues</author>
+<title>Towards Balancing Energy Savings and Performance for Volunteer Computing through Virtualized Approach.</title>
+<pages>422-429</pages>
+<year>2019</year>
+<booktitle>CLOSER</booktitle>
+<ee>https://doi.org/10.5220/0007733304220429</ee>
+<crossref>conf/closer/2019</crossref>
+<url>db/conf/closer/closer2019.html#RossiFCSMCR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/RossiSMF19" mdate="2022-06-23">
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio D. Rossi</author>
+<author pid="198/8009">Paulo Silas Severo de Souza</author>
+<author pid="248/3400">Jaline Mombach</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<title>On the Integrated Professional Practice in a Computing Course Towards Innovation.</title>
+<pages>242-246</pages>
+<year>2019</year>
+<booktitle>ICALT</booktitle>
+<ee>https://doi.org/10.1109/ICALT.2019.00075</ee>
+<crossref>conf/icalt/2019</crossref>
+<url>db/conf/icalt/icalt2019.html#RossiSMF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/SouzaMRF19" mdate="2022-06-23">
+<author pid="198/8009">Paulo Silas Severo de Souza</author>
+<author pid="248/3400">Jaline Mombach</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio Diniz Rossi</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<title>GAMED: Gamification-Based Assessment Methodology for Final Project Development.</title>
+<pages>359-361</pages>
+<year>2019</year>
+<booktitle>ICALT</booktitle>
+<ee>https://doi.org/10.1109/ICALT.2019.00114</ee>
+<crossref>conf/icalt/2019</crossref>
+<url>db/conf/icalt/icalt2019.html#SouzaMRF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/VieiraSMCFLLFRN19" mdate="2022-06-23">
+<author pid="244/7699">&#194;ngelo Nery Crestani Vieira</author>
+<author pid="198/8009">Paulo Silas Severo de Souza</author>
+<author pid="198/8075">Wagner dos Santos Marques</author>
+<author pid="209/2930">Marcelo Da Silva Conterato</author>
+<author pid="78/3004">Tiago Coelho Ferreto</author>
+<author pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck Filho</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio Diniz Rossi</author>
+<author orcid="0000-0001-6809-6393" pid="19/510">Jorji Nonaka</author>
+<title>The Impact of Parallel Programming Interfaces on the Aging of a Multicore Embedded Processor.</title>
+<pages>1-5</pages>
+<year>2019</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2019.8702116</ee>
+<crossref>conf/iscas/2019</crossref>
+<url>db/conf/iscas/iscas2019.html#VieiraSMCFLLFRN19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/RossiSMCFLL19" mdate="2023-09-30">
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio Diniz Rossi</author>
+<author pid="198/8009">Paulo Silas Severo de Souza</author>
+<author pid="198/8075">Wagner dos Santos Marques</author>
+<author pid="209/2930">Marcelo Da Silva Conterato</author>
+<author pid="78/3004">Tiago Coelho Ferreto</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="140/8276">Marcelo Caggiani Luizelli</author>
+<title>Multilevel resource allocation for performance-aware energy-efficient cloud data centers.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC47284.2019.8969751</ee>
+<crossref>conf/iscc/2019</crossref>
+<url>db/conf/iscc/iscc2019.html#RossiSMCFLL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/ConteratoFRMS19" mdate="2022-06-23">
+<author pid="209/2930">Marcelo Da Silva Conterato</author>
+<author pid="78/3004">Tiago Coelho Ferreto</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio D. Rossi</author>
+<author pid="198/8075">Wagner dos Santos Marques</author>
+<author pid="198/8009">Paulo Silas Severo de Souza</author>
+<title>Reducing energy consumption in SDN-based data center networks through flow consolidation strategies.</title>
+<pages>1384-1391</pages>
+<year>2019</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3297280.3297420</ee>
+<crossref>conf/sac/2019</crossref>
+<url>db/conf/sac/sac2019.html#ConteratoFRMS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/TavaresF19" mdate="2021-02-08">
+<author pid="280/6340">Kairo Tavares</author>
+<author pid="78/3004">Tiago Coelho Ferreto</author>
+<title>DDoS on Sketch: Spoofed DDoS attack defense with programmable data planes using sketches in SDN.</title>
+<pages>805-819</pages>
+<year>2019</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc.2019.7404</ee>
+<crossref>conf/sbrc/2019</crossref>
+<url>db/conf/sbrc/sbrc2019.html#TavaresF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ieeehpcs/BorgesOFG18" mdate="2022-10-02">
+<author orcid="0000-0002-4988-7306" pid="158/2706">Guilherme Antonio Borges</author>
+<author pid="168/4985">R&#244;mulo Reis de Oliveira</author>
+<author pid="78/3004">Tiago Coelho Ferreto</author>
+<author pid="b/ClaudioFernandoResinGeyer">Cl&#225;udio Fernando Resin Geyer</author>
+<title>A Novel Model to Computational Offloading on Autonomic Managers: a Mobile Test Bed.</title>
+<pages>157-164</pages>
+<year>2018</year>
+<booktitle>HPCS</booktitle>
+<ee>https://doi.org/10.1109/HPCS.2018.00040</ee>
+<crossref>conf/ieeehpcs/2018</crossref>
+<url>db/conf/ieeehpcs/ieeehpcs2018.html#BorgesOFG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/MarquesSRRCCF18" mdate="2023-03-24">
+<author pid="198/8075">Wagner dos Santos Marques</author>
+<author pid="198/8009">Paulo Silas Severo de Souza</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio Diniz Rossi</author>
+<author orcid="0000-0001-7454-3698" pid="140/8275">Guilherme da Cunha Rodrigues</author>
+<author orcid="0000-0001-7435-2445" pid="78/6512">Rodrigo N. Calheiros</author>
+<author pid="209/2930">Marcelo Da Silva Conterato</author>
+<author pid="78/3004">Tiago Coelho Ferreto</author>
+<title>Evaluating container-based virtualization overhead on the general-purpose IoT platform.</title>
+<pages>8-13</pages>
+<year>2018</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2018.8538602</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2018.8538602</ee>
+<crossref>conf/iscc/2018</crossref>
+<url>db/conf/iscc/iscc2018.html#MarquesSRRCCF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/KnobXF18" mdate="2023-03-24">
+<author orcid="0000-0001-7291-7780" pid="164/7946">Luis Augusto Dias Knob</author>
+<author pid="230/1823">Bruno Gomes Xavier</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<title>An Unikernels Provisioning Architecture for OpenStack.</title>
+<pages>903-908</pages>
+<year>2018</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2018.8538618</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2018.8538618</ee>
+<crossref>conf/iscc/2018</crossref>
+<url>db/conf/iscc/iscc2018.html#KnobXF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/SouzaMCFR18" mdate="2023-03-24">
+<author pid="198/8009">Paulo Silas Severo de Souza</author>
+<author pid="198/8075">Wagner dos Santos Marques</author>
+<author pid="209/2930">Marcelo Da Silva Conterato</author>
+<author pid="78/3004">Tiago Coelho Ferreto</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio Diniz Rossi</author>
+<title>Performance-Aware Energy-Efficient Processes Grouping for Embedded Platforms.</title>
+<pages>940-945</pages>
+<year>2018</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2018.8538753</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2018.8538753</ee>
+<crossref>conf/iscc/2018</crossref>
+<url>db/conf/iscc/iscc2018.html#SouzaMCFR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wscad/MeyerKFRH18" mdate="2024-06-20">
+<author orcid="0000-0001-5893-5878" pid="242/3197">Vin&#237;cius Meyer</author>
+<author pid="244/1294">Rafael Krindges</author>
+<author pid="78/3004">Tiago C. Ferreto</author>
+<author pid="95/5199">C&#233;sar A. F. De Rose</author>
+<author pid="33/5648">Fabiano Hessel</author>
+<title>Simulators Usage Analysis to Estimate Power Consumption in Cloud Computing Environments.</title>
+<pages>70-76</pages>
+<year>2018</year>
+<booktitle>WSCAD</booktitle>
+<ee>https://doi.org/10.1109/WSCAD.2018.00020</ee>
+<crossref>conf/wscad/2018</crossref>
+<url>db/conf/wscad/wscad2018.html#MeyerKFRH18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/im/EichelbergerFTD17" mdate="2017-07-28">
+<author pid="144/6337">Rafael Anton Eichelberger</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<author pid="77/4335">S&#233;bastien Tandel</author>
+<author pid="61/9978">Pedro Arthur P. R. Duarte</author>
+<title>SFC Path Tracer: A troubleshooting tool for Service Function Chaining.</title>
+<pages>568-571</pages>
+<year>2017</year>
+<booktitle>IM</booktitle>
+<ee>https://doi.org/10.23919/INM.2017.7987331</ee>
+<crossref>conf/im/2017</crossref>
+<url>db/conf/im/im2017.html#EichelbergerFTD17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwcmc/OliveiraSMF17" mdate="2020-06-05">
+<author pid="168/4985">R&#244;mulo Reis de Oliveira</author>
+<author pid="203/3437">Nicolas Meira da Silva Schirmer</author>
+<author pid="203/3455">Mateus Machry</author>
+<author pid="78/3004">Tiago Coelho Ferreto</author>
+<title>A transparent code offloading technique for Android devices.</title>
+<pages>1078-1083</pages>
+<year>2017</year>
+<booktitle>IWCMC</booktitle>
+<ee>https://doi.org/10.1109/IWCMC.2017.7986435</ee>
+<crossref>conf/iwcmc/2017</crossref>
+<url>db/conf/iwcmc/iwcmc2017.html#OliveiraSMF17</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcc/RighiRCGBF16" mdate="2025-01-19">
+<author pid="33/4917">Rodrigo da Rosa Righi</author>
+<author orcid="0000-0001-6129-0548" pid="160/8134">Vinicius Facco Rodrigues</author>
+<author orcid="0000-0003-3859-6199" pid="14/3505">Cristiano Andr&#233; da Costa</author>
+<author pid="50/2867">Guilherme Galante</author>
+<author orcid="0000-0001-6339-499X" pid="78/3197">Luis Carlos Erpen De Bona</author>
+<author orcid="0000-0001-8485-529X" pid="78/3004">Tiago Ferreto</author>
+<title>AutoElastic: Automatic Resource Elasticity for High Performance Applications in the Cloud.</title>
+<pages>6-19</pages>
+<year>2016</year>
+<volume>4</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2015.2424876</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TCC.2015.2424876</ee>
+<ee>https://www.wikidata.org/entity/Q125298201</ee>
+<url>db/journals/tcc/tcc4.html#RighiRCGBF16</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccgrid/XavierFJ16" mdate="2023-03-24">
+<author pid="183/5022">Bruno Xavier</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<author pid="136/0406">Luis Carlos Jersak</author>
+<title>Time Provisioning Evaluation of KVM, Docker and Unikernels in a Cloud Platform.</title>
+<pages>277-280</pages>
+<year>2016</year>
+<booktitle>CCGrid</booktitle>
+<ee>https://doi.org/10.1109/CCGrid.2016.86</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CCGrid.2016.86</ee>
+<crossref>conf/ccgrid/2016</crossref>
+<url>db/conf/ccgrid/ccgrid2016.html#XavierFJ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/JersakF16" mdate="2018-11-06">
+<author pid="136/0406">Luis Carlos Jersak</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<title>Performance-aware server consolidation with adjustable interference levels.</title>
+<pages>420-425</pages>
+<year>2016</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2851613.2851625</ee>
+<crossref>conf/sac/2016</crossref>
+<url>db/conf/sac/sac2016.html#JersakF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/RossiXCFR14" mdate="2023-03-24">
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio Diniz Rossi</author>
+<author pid="128/5295">Miguel Gomes Xavier</author>
+<author pid="156/8696">Endrigo D'Agostini Conte</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<author orcid="0000-0003-0070-0157" pid="95/5199">C&#233;sar Augusto Fonticielha De Rose</author>
+<title>Green software development for multi-core architectures.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2014.6912565</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2014.6912565</ee>
+<crossref>conf/iscc/2014</crossref>
+<url>db/conf/iscc/iscc2014.html#RossiXCFR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobihealth/CallegariCFFMBS14" mdate="2022-01-03">
+<author pid="160/6499">Daniel Callegari</author>
+<author pid="156/8696">Endrigo D'Agostini Conte</author>
+<author orcid="0000-0001-8485-529X" pid="78/3004">Tiago Ferreto</author>
+<author pid="73/1241">D&#234;nis Fernandes</author>
+<author pid="160/6482">Filipe Moraes</author>
+<author pid="160/6329">Fernando Burmeister</author>
+<author pid="160/6445">Romulo Severino</author>
+<title>EpiCare - A home care platform based on mobile cloud computing to assist epilepsy diagnosis.</title>
+<pages>148-151</pages>
+<year>2014</year>
+<booktitle>MobiHealth</booktitle>
+<ee type="archive">https://doi.org/10.1109/MOBIHEALTH.2014.7015931</ee>
+<ee>https://doi.org/10.4108/icst.mobihealth.2014.257379</ee>
+<crossref>conf/mobihealth/2014</crossref>
+<url>db/conf/mobihealth/mobihealth2014.html#CallegariCFFMBS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/XavierNRFLR13" mdate="2023-03-24">
+<author pid="128/5295">Miguel G. Xavier</author>
+<author pid="117/6960">Marcelo Veiga Neves</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio D. Rossi</author>
+<author pid="78/3004">Tiago C. Ferreto</author>
+<author pid="128/5199">Timoteo Lange</author>
+<author orcid="0000-0003-0070-0157" pid="95/5199">C&#233;sar A. F. De Rose</author>
+<title>Performance Evaluation of Container-Based Virtualization for High Performance Computing Environments.</title>
+<pages>233-240</pages>
+<year>2013</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP.2013.41</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PDP.2013.41</ee>
+<crossref>conf/pdp/2013</crossref>
+<url>db/conf/pdp/pdp2013.html#XavierNRFLR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/compsac/EmeakarohaFNBR12" mdate="2023-03-24">
+<author orcid="0000-0001-7869-2885" pid="09/8090">Vincent C. Emeakaroha</author>
+<author pid="78/3004">Tiago C. Ferreto</author>
+<author pid="n/MarcoASNetto">Marco Aur&#233;lio Stelmar Netto</author>
+<author orcid="0000-0001-7424-0208" pid="71/2136">Ivona Brandic</author>
+<author orcid="0000-0003-0070-0157" pid="95/5199">C&#233;sar A. F. De Rose</author>
+<title>CASViD: Application Level Monitoring for SLA Violation Detection in Clouds.</title>
+<pages>499-508</pages>
+<year>2012</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2012.68</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/COMPSAC.2012.68</ee>
+<crossref>conf/compsac/2012</crossref>
+<url>db/conf/compsac/compsac2012.html#EmeakarohaFNBR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/NevesFR12" mdate="2022-01-03">
+<author pid="117/6960">Marcelo Veiga Neves</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<author orcid="0000-0003-0070-0157" pid="95/5199">C&#233;sar A. F. De Rose</author>
+<title>Scheduling MapReduce Jobs in HPC Clusters.</title>
+<pages>179-190</pages>
+<year>2012</year>
+<booktitle>Euro-Par</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-32820-6_19</ee>
+<crossref>conf/europar/2012</crossref>
+<url>db/conf/europar/europar2012.html#NevesFR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latincloud/CemimJLJF12" mdate="2017-05-24">
+<author pid="143/2299">Paolo Cemim</author>
+<author pid="136/0406">Luis Carlos Jersak</author>
+<author pid="168/9628">Giuseppe Alves Lopes</author>
+<author pid="168/9624">Jair De Mello Junior</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<title>EduCloud: A private cloud tool for academic environments.</title>
+<pages>66-71</pages>
+<year>2012</year>
+<booktitle>LatinCloud</booktitle>
+<ee>https://doi.org/10.1109/LatinCloud.2012.6508160</ee>
+<crossref>conf/latincloud/2012</crossref>
+<url>db/conf/latincloud/latincloud2012.html#CemimJLJF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wscad/LangeCRXBFR12" mdate="2023-03-24">
+<author pid="128/5199">Timoteo Alberto Peters Lange</author>
+<author pid="143/2299">Paolo Cemim</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio Diniz Rossi</author>
+<author pid="128/5295">Miguel Gomes Xavier</author>
+<author pid="258/4193">Rafael Lorenzo Belle</author>
+<author pid="78/3004">Tiago Coelho Ferreto</author>
+<author orcid="0000-0003-0070-0157" pid="95/5199">C&#233;sar A. F. De Rose</author>
+<title>Performance Evaluation of Virtualization Technologies for Databases in HPC Environments.</title>
+<pages>88-94</pages>
+<year>2012</year>
+<booktitle>WSCAD-SSC</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WSCAD-SSC.2012.34</ee>
+<crossref>conf/wscad/2012</crossref>
+<url>db/conf/wscad/wscad2012.html#LangeCRXBFR12</url>
+</inproceedings>
+</r>
+<r><article key="journals/fgcs/FerretoNCR11" mdate="2020-02-19">
+<author orcid="0000-0001-8485-529X" pid="78/3004">Tiago C. Ferreto</author>
+<author pid="n/MarcoASNetto">Marco Aur&#233;lio Stelmar Netto</author>
+<author orcid="0000-0001-7435-2445" pid="78/6512">Rodrigo N. Calheiros</author>
+<author orcid="0000-0003-0070-0157" pid="95/5199">C&#233;sar A. F. De Rose</author>
+<title>Server consolidation with migration control for virtualized data centers.</title>
+<pages>1027-1034</pages>
+<year>2011</year>
+<volume>27</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/j.future.2011.04.016</ee>
+<url>db/journals/fgcs/fgcs27.html#FerretoNCR11</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/FerretoRH11" mdate="2022-01-03">
+<author pid="78/3004">Tiago Ferreto</author>
+<author orcid="0000-0003-0070-0157" pid="95/5199">C&#233;sar A. F. De Rose</author>
+<author pid="34/173">Hans-Ulrich Heiss</author>
+<title>Maximum Migration Time Guarantees in Dynamic Server Consolidation for Virtualized Data Centers.</title>
+<pages>443-454</pages>
+<year>2011</year>
+<booktitle>Euro-Par (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-23400-2_41</ee>
+<crossref>conf/europar/2011-1</crossref>
+<url>db/conf/europar/europar2011-1.html#FerretoRH11</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ndltd/Ferreto10" mdate="2022-01-03">
+<author pid="78/3004">Tiago Coelho Ferreto</author>
+<title>Dynamic server consolidation with controlled reconfiguration delays.</title>
+<year>2010</year>
+<school>Pontif&#237;cia Universidade Cat&#243;lica do Rio Grande do Sul, Porto Alegre, Brazil</school>
+<ee>http://tede2.pucrs.br/tede2/handle/tede/5118</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:agregador.ibict.br.BDTD_PUC_RS:oai:tede2.pucrs.br:tede/5118</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:tede2.pucrs.br:tede/5118</ee>
+<note type="source">ndltd.org (oai:agregador.ibict.br.BDTD_PUC_RS:oai:tede2.pucrs.br:tede/5118)</note>
+</phdthesis>
+</r>
+<r><article key="journals/ppl/CalheirosFR09" mdate="2022-01-03">
+<author orcid="0000-0001-7435-2445" pid="78/6512">Rodrigo N. Calheiros</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<author orcid="0000-0003-0070-0157" pid="95/5199">C&#233;sar A. F. De Rose</author>
+<title>Scheduling and Management of Virtual Resources in Grid Sites: the Site Resource Scheduler.</title>
+<pages>3-18</pages>
+<year>2009</year>
+<volume>19</volume>
+<journal>Parallel Process. Lett.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1142/S012962640900002X</ee>
+<url>db/journals/ppl/ppl19.html#CalheirosFR09</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscc/SchneiderGHFRRRMN09" mdate="2023-09-30">
+<author pid="18/5577-1">J&#246;rg Schneider 0001</author>
+<author pid="09/7380">Julius Gehr</author>
+<author pid="34/173">Hans-Ulrich Heiss</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<author orcid="0000-0003-0070-0157" pid="95/5199">C&#233;sar A. F. De Rose</author>
+<author pid="33/4917">Rodrigo da Rosa Righi</author>
+<author pid="29/1398">Eduardo Rocha Rodrigues</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<title>Design of a Grid workflow for a climate application.</title>
+<pages>793-799</pages>
+<year>2009</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2009.5202233</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2009.5202233</ee>
+<crossref>conf/iscc/2009</crossref>
+<url>db/conf/iscc/iscc2009.html#SchneiderGHFRRRMN09</url>
+</inproceedings>
+</r>
+<r><article key="journals/fgcs/RoseFCCCF08" mdate="2022-01-03">
+<author orcid="0000-0003-0070-0157" pid="95/5199">C&#233;sar A. F. De Rose</author>
+<author orcid="0000-0001-8485-529X" pid="78/3004">Tiago Ferreto</author>
+<author orcid="0000-0001-7435-2445" pid="78/6512">Rodrigo N. Calheiros</author>
+<author pid="20/2031">Walfredo Cirne</author>
+<author orcid="0000-0003-2951-0752" pid="83/7602">Lauro Costa</author>
+<author orcid="0000-0003-2283-0913" pid="45/6617">Daniel Fireman</author>
+<title>Allocation strategies for utilization of space-shared resources in Bag of Tasks grids.</title>
+<pages>331-341</pages>
+<year>2008</year>
+<volume>24</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/j.future.2007.05.005</ee>
+<url>db/journals/fgcs/fgcs24.html#RoseFCCCF08</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/FranciosiOSGFR07" mdate="2022-04-14">
+<author pid="38/5577">Felipe Franciosi</author>
+<author pid="49/1536">Jean Paulo Orengo</author>
+<author pid="57/2860">Mauro Storch</author>
+<author orcid="0000-0001-9896-9722" pid="302/1012">Felipe G. Grazziotin</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<author orcid="0000-0003-0070-0157" pid="95/5199">C&#233;sar A. F. De Rose</author>
+<title>Deploying and Managing Xen Sites with XSM.</title>
+<pages>195-204</pages>
+<year>2007</year>
+<booktitle>Euro-Par Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-78474-6_24</ee>
+<crossref>conf/europar/2007w</crossref>
+<url>db/conf/europar/europar2007w.html#FranciosiOSGFR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/RoseFFDCOSD06" mdate="2023-03-23">
+<author orcid="0000-0003-0070-0157" pid="95/5199">C&#233;sar A. F. De Rose</author>
+<author pid="78/3004">Tiago C. Ferreto</author>
+<author pid="91/3256">Marcelo B. de Farias</author>
+<author pid="42/5468">Vladimir G. Dias</author>
+<author pid="20/2031">Walfredo Cirne</author>
+<author pid="42/547">Milena P. M. Oliveira</author>
+<author pid="68/3610">Katia Barbosa Saikoski</author>
+<author pid="23/2874">Maria Luiza Danieleski</author>
+<title>GerpavGrid: using the Grid to maintain the city road system.</title>
+<pages>73-80</pages>
+<year>2006</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2006.18</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2006.18</ee>
+<crossref>conf/sbac-pad/2006</crossref>
+<url>db/conf/sbac-pad/sbac-pad2006.html#RoseFFDCOSD06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ica3pp/FerretoR05" mdate="2022-01-03">
+<author pid="78/3004">Tiago Ferreto</author>
+<author orcid="0000-0003-0070-0157" pid="95/5199">C&#233;sar A. F. De Rose</author>
+<title>Scheduling Divisible Workloads Using the Adaptive Time Factoring Algorithm.</title>
+<pages>232-239</pages>
+<year>2005</year>
+<crossref>conf/ica3pp/2005</crossref>
+<booktitle>ICA3PP</booktitle>
+<ee>https://doi.org/10.1007/11564621_26</ee>
+<url>db/conf/ica3pp/ica3pp2005.html#FerretoR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispa/FerretoRN04" mdate="2022-01-03">
+<author pid="78/3004">Tiago Ferreto</author>
+<author pid="95/5199">C&#233;sar A. F. De Rose</author>
+<author pid="05/179">Caio Northfleet</author>
+<title>Scheduling BoT Applications in Grids Using a Slave Oriented Adaptive Algorithm.</title>
+<pages>392-398</pages>
+<ee>https://doi.org/10.1007/978-3-540-30566-8_48</ee>
+<year>2004</year>
+<crossref>conf/ispa/2004</crossref>
+<booktitle>ISPA</booktitle>
+<url>db/conf/ispa/ispa2004.html#FerretoRN04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/CirneBCSSARFMSJ04" mdate="2025-03-03">
+<author pid="20/2031">Walfredo Cirne</author>
+<author orcid="0000-0001-9631-0190" pid="b/FranciscoVilarBrasileiro">Francisco Vilar Brasileiro</author>
+<author orcid="0000-0003-2951-0752" pid="83/7602">Lauro Costa</author>
+<author pid="43/666">Daniel Paranhos da Silva</author>
+<author pid="06/1823">Elizeu Santos-Neto</author>
+<author pid="14/1054">Nazareno Andrade</author>
+<author orcid="0000-0003-0070-0157" pid="95/5199">C&#233;sar A. F. De Rose</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<author pid="64/4283">Miranda Mowbray</author>
+<author pid="41/6739">Roque Scheer</author>
+<author pid="22/6592">Jo&#227;o Jornada</author>
+<title>Scheduling in Bag-of-Task Grids: The PAU&#193; Case.</title>
+<pages>124-131</pages>
+<year>2004</year>
+<crossref>conf/sbac-pad/2004</crossref>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2004.37</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CAHPC.2004.37</ee>
+<url>db/conf/sbac-pad/sbac-pad2004.html#CirneBCSSARFMSJ04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/FerretoRR03" mdate="2017-05-24">
+<author pid="78/3004">Tiago C. Ferreto</author>
+<author pid="91/357">Luiz De Rose</author>
+<author pid="95/5199">C&#233;sar A. F. De Rose</author>
+<title>A Hardware Counters Based Tool for System Monitoring.</title>
+<pages>7-16</pages>
+<ee>https://doi.org/10.1007/978-3-540-45209-6_6</ee>
+<year>2003</year>
+<crossref>conf/europar/2003</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar2003.html#FerretoRR03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hipc/FerretoR03" mdate="2017-05-26">
+<author pid="78/3004">Tiago C. Ferreto</author>
+<author pid="95/5199">C&#233;sar A. F. De Rose</author>
+<title>Improving Performance Analysis Using Resource Management Information.</title>
+<pages>449-458</pages>
+<ee>https://doi.org/10.1007/978-3-540-24596-4_48</ee>
+<year>2003</year>
+<crossref>conf/hipc/2003</crossref>
+<booktitle>HiPC</booktitle>
+<url>db/conf/hipc/hipc2003.html#FerretoR03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccgrid/FerretoRR02" mdate="2023-03-24">
+<author pid="78/3004">Tiago C. Ferreto</author>
+<author orcid="0000-0003-0070-0157" pid="95/5199">C&#233;sar A. F. De Rose</author>
+<author pid="91/357">Luiz De Rose</author>
+<title>RVision: An Open and High Configurable Tool for Cluster Monitoring.</title>
+<pages>75-83</pages>
+<year>2002</year>
+<crossref>conf/ccgrid/2002</crossref>
+<booktitle>CCGRID</booktitle>
+<ee>https://doi.org/10.1109/CCGRID.2002.1017114</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CCGRID.2002.1017114</ee>
+<url>db/conf/ccgrid/ccgrid2002.html#FerretoRR02</url>
+</inproceedings>
+</r>
+<coauthors n="120" nc="1">
+<co c="0"><na f="a/Abel=eacute=m:Ant=ocirc=nio_J=_G=" pid="16/7815">Ant&#244;nio J. G. Abel&#233;m</na></co>
+<co c="0"><na f="a/Andrade:Nazareno" pid="14/1054">Nazareno Andrade</na></co>
+<co c="0"><na f="a/Assun=ccedil==atilde=o:Marcos_Dias_de" pid="66/2150">Marcos Dias de Assun&#231;&#227;o</na></co>
+<co c="0" n="2"><na f="b/Beck:Antonio_Carlos_Schneider" pid="02/7021">Antonio Carlos Schneider Beck</na><na>Antonio Carlos Schneider Beck Filho</na></co>
+<co c="0"><na f="b/Belle:Rafael_Lorenzo" pid="258/4193">Rafael Lorenzo Belle</na></co>
+<co c="0"><na f="b/Boeira:Conrado" pid="229/0799">Conrado Boeira</na></co>
+<co c="0" n="2"><na f="b/Bona:Luis_C=_E=" pid="78/3197">Luis C. E. Bona</na><na>Luis Carlos Erpen De Bona</na></co>
+<co c="0"><na f="b/Bordin:Bernardo" pid="320/4546">Bernardo Bordin</na></co>
+<co c="0" n="2"><na f="b/Borges:Guilherme_A=" pid="158/2706">Guilherme A. Borges</na><na>Guilherme Antonio Borges</na></co>
+<co c="0" n="2"><na f="b/Both:Cristiano_Bonato" pid="07/2040">Cristiano Bonato Both</na><na>Cristiano Both</na></co>
+<co c="0"><na f="b/Brandic:Ivona" pid="71/2136">Ivona Brandic</na></co>
+<co c="0"><na f="b/Brasileiro:Francisco_Vilar" pid="b/FranciscoVilarBrasileiro">Francisco Vilar Brasileiro</na></co>
+<co c="0"><na f="b/Brum:Henrique_B=" pid="352/1028">Henrique B. Brum</na></co>
+<co c="0"><na f="b/Burmeister:Fernando" pid="160/6329">Fernando Burmeister</na></co>
+<co c="0"><na f="c/Calheiros:Rodrigo_N=" pid="78/6512">Rodrigo N. Calheiros</na></co>
+<co c="0"><na f="c/Callegari:Daniel" pid="160/6499">Daniel Callegari</na></co>
+<co c="0"><na f="c/Cardoso:Kleber_Vieira" pid="32/10675">Kleber Vieira Cardoso</na></co>
+<co c="0"><na f="c/Carvalho:Tereza_Cristina_M=_B=" pid="57/2831">Tereza Cristina M. B. Carvalho</na></co>
+<co c="0"><na f="c/Cemim:Paolo" pid="143/2299">Paolo Cemim</na></co>
+<co c="0"><na f="c/Cirne:Walfredo" pid="20/2031">Walfredo Cirne</na></co>
+<co c="0"><na f="c/Conte:Endrigo_D=Agostini" pid="156/8696">Endrigo D'Agostini Conte</na></co>
+<co c="0"><na f="c/Conterato:Marcelo_Da_Silva" pid="209/2930">Marcelo Da Silva Conterato</na></co>
+<co c="0"><na f="c/Corr=ecirc=a:Jo=atilde=o_Henrique_G=_M=" pid="239/4884">Jo&#227;o Henrique G. M. Corr&#234;a</na></co>
+<co c="0" n="3"><na f="c/Correa:Sand" pid="81/3896">Sand Correa</na><na>Sand Luz Correa</na><na>Sand Luz Corr&#234;a</na></co>
+<co c="0"><na f="c/Costa:Cristiano_Andr=eacute=_da" pid="14/3505">Cristiano Andr&#233; da Costa</na></co>
+<co c="0" n="2"><na f="c/Costa:Lauro_Beltr=atilde=o" pid="83/7602">Lauro Beltr&#227;o Costa</na><na>Lauro Costa</na></co>
+<co c="0"><na f="d/Danieleski:Maria_Luiza" pid="23/2874">Maria Luiza Danieleski</na></co>
+<co c="0"><na f="d/Dias:Vladimir_G=" pid="42/5468">Vladimir G. Dias</na></co>
+<co c="0"><na f="d/Donatti:Adnei_W=" pid="266/5941">Adnei W. Donatti</na></co>
+<co c="0" n="2"><na f="d/Duarte:Pedro_Arthur_Pinheiro_Rosa" pid="61/9978">Pedro Arthur Pinheiro Rosa Duarte</na><na>Pedro Arthur P. R. Duarte</na></co>
+<co c="0" n="2"><na f="e/Eichelberger:Rafael" pid="144/6337">Rafael Eichelberger</na><na>Rafael Anton Eichelberger</na></co>
+<co c="0"><na f="e/Emeakaroha:Vincent_C=" pid="09/8090">Vincent C. Emeakaroha</na></co>
+<co c="0"><na f="f/Farias:Marcelo_B=_de" pid="91/3256">Marcelo B. de Farias</na></co>
+<co c="0"><na f="f/Faticanti:Francescomaria" pid="228/7886">Francescomaria Faticanti</na></co>
+<co c="0"><na f="f/Fernandes:D=ecirc=nis" pid="73/1241">D&#234;nis Fernandes</na></co>
+<co c="0"><na f="f/Fireman:Daniel" pid="45/6617">Daniel Fireman</na></co>
+<co c="0"><na f="f/Franciosi:Felipe" pid="38/5577">Felipe Franciosi</na></co>
+<co c="0"><na f="g/Galante:Guilherme" pid="50/2867">Guilherme Galante</na></co>
+<co c="0"><na f="g/Gehr:Julius" pid="09/7380">Julius Gehr</na></co>
+<co c="0"><na f="g/Geyer:Cl=aacute=udio_Fernando_Resin" pid="b/ClaudioFernandoResinGeyer">Cl&#225;udio Fernando Resin Geyer</na></co>
+<co c="0"><na f="g/Grazziotin:Felipe_G=" pid="302/1012">Felipe G. Grazziotin</na></co>
+<co c="0"><na f="g/Griebler:Dalvan" pid="135/0603">Dalvan Griebler</na></co>
+<co c="0"><na f="g/Griesang:F=aacute=bio_J=uacute=nior" pid="320/3532">F&#225;bio J&#250;nior Griesang</na></co>
+<co c="0"><na f="h/Haque_0001:Israat" pid="209/8668">Israat Haque 0001</na></co>
+<co c="0" n="2"><na f="h/Hei=szlig=:Hans=Ulrich" pid="34/173">Hans-Ulrich Hei&#223;</na><na>Hans-Ulrich Heiss</na></co>
+<co c="0"><na f="h/Hessel:Fabiano" pid="33/5648">Fabiano Hessel</na></co>
+<co c="0"><na f="i/Izolan:Patric_Lincoln_Ramires" pid="320/4430">Patric Lincoln Ramires Izolan</na></co>
+<co c="0"><na f="j/Jersak:Luis_Carlos" pid="136/0406">Luis Carlos Jersak</na></co>
+<co c="0"><na f="j/Jornada:Jo=atilde=o" pid="22/6592">Jo&#227;o Jornada</na></co>
+<co c="0"><na f="j/Junior:Jair_De_Mello" pid="168/9624">Jair De Mello Junior</na></co>
+<co c="0"><na f="k/Kayser:Carlos_Henrique" pid="309/0238">Carlos Henrique Kayser</na></co>
+<co c="0"><na f="k/Knob:Luis_Augusto_Dias" pid="164/7946">Luis Augusto Dias Knob</na></co>
+<co c="0"><na f="k/Konzen:Marcos_Paulo" pid="260/1187">Marcos Paulo Konzen</na></co>
+<co c="0"><na f="k/Krindges:Rafael" pid="244/1294">Rafael Krindges</na></co>
+<co c="0" n="2"><na f="l/Lange:Timoteo" pid="128/5199">Timoteo Lange</na><na>Timoteo Alberto Peters Lange</na></co>
+<co c="0"><na f="l/Lopes:Giuseppe_Alves" pid="168/9628">Giuseppe Alves Lopes</na></co>
+<co c="0"><na f="l/Lorenzon:Arthur_Francisco" pid="160/4663">Arthur Francisco Lorenzon</na></co>
+<co c="0"><na f="l/Luizelli:Marcelo_Caggiani" pid="140/8276">Marcelo Caggiani Luizelli</na></co>
+<co c="0"><na f="m/Macedo:Daniel_F=" pid="74/2460">Daniel F. Macedo</na></co>
+<co c="0"><na f="m/Machry:Mateus" pid="203/3455">Mateus Machry</na></co>
+<co c="0"><na f="m/Magalh=atilde=es:Luiz_Claudio_Schara" pid="13/6767">Luiz Claudio Schara Magalh&#227;es</na></co>
+<co c="0"><na f="m/Maillard:Nicolas" pid="58/1754">Nicolas Maillard</na></co>
+<co c="0"><na f="m/Marques:Wagner_dos_Santos" pid="198/8075">Wagner dos Santos Marques</na></co>
+<co c="0"><na f="m/Martins:Joberto_S=_B=" pid="m/JMartins">Joberto S. B. Martins</na></co>
+<co c="0" n="2"><na f="m/Mattos:J=uacute=lio_C=_B=_de" pid="78/5041">J&#250;lio C. B. de Mattos</na><na>J&#250;lio Carlos Balzano de Mattos</na></co>
+<co c="0"><na f="m/Mello:Ricardo_C=_de" pid="215/8872">Ricardo C. de Mello</na></co>
+<co c="0"><na f="m/Meyer:Vin=iacute=cius" pid="242/3197">Vin&#237;cius Meyer</na></co>
+<co c="0"><na f="m/Mombach:Jaline" pid="248/3400">Jaline Mombach</na></co>
+<co c="0" n="2"><na f="m/Monteiro:Jos=eacute=_A=_S=" pid="76/2855">Jos&#233; A. S. Monteiro</na><na>Jos&#233; Augusto Suruagy Monteiro</na></co>
+<co c="0"><na f="m/Moraes:Filipe" pid="160/6482">Filipe Moraes</na></co>
+<co c="0"><na f="m/Moreira:Jo=atilde=o" pid="97/8984">Jo&#227;o Moreira</na></co>
+<co c="0"><na f="m/Moreira:Rodrigo" pid="224/6898">Rodrigo Moreira</na></co>
+<co c="0"><na f="m/Mowbray:Miranda" pid="64/4283">Miranda Mowbray</na></co>
+<co c="0"><na f="n/Nascimento:Jo=atilde=o" pid="144/5951">Jo&#227;o Nascimento</na></co>
+<co c="0"><na f="n/Navaux:Philippe_Olivier_Alexandre" pid="74/1262">Philippe Olivier Alexandre Navaux</na></co>
+<co c="0"><na f="n/Netto:Marco_Aur=eacute=lio_Stelmar" pid="n/MarcoASNetto">Marco Aur&#233;lio Stelmar Netto</na></co>
+<co c="0"><na f="n/Neves:Marcelo_Veiga" pid="117/6960">Marcelo Veiga Neves</na></co>
+<co c="0"><na f="n/Neves:Miguel_C=" pid="129/2290">Miguel C. Neves</na></co>
+<co c="0"><na f="n/Nogueira:Jos=eacute=_Marcos_S=" pid="n/JoseMarcosSNogueira">Jos&#233; Marcos S. Nogueira</na></co>
+<co c="0"><na f="n/Nonaka:Jorji" pid="19/510">Jorji Nonaka</na></co>
+<co c="0"><na f="n/Northfleet:Caio" pid="05/179">Caio Northfleet</na></co>
+<co c="0"><na f="o/Oliveira:Milena_P=_M=" pid="42/547">Milena P. M. Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:R=ocirc=mulo_Reis_de" pid="168/4985">R&#244;mulo Reis de Oliveira</na></co>
+<co c="0"><na f="o/Orengo:Jean_Paulo" pid="49/1536">Jean Paulo Orengo</na></co>
+<co c="0"><na f="p/Pasquini:Rafael" pid="70/2771">Rafael Pasquini</na></co>
+<co c="0"><na f="r/Rezende:Jos=eacute=_Ferreira_de" pid="r/JoseFerreiradeRezende">Jos&#233; Ferreira de Rezende</na></co>
+<co c="0"><na f="r/Ribeiro:Mois=eacute=s_R=_N=" pid="20/1896">Mois&#233;s R. N. Ribeiro</na></co>
+<co c="0"><na f="r/Righi:Rodrigo_da_Rosa" pid="33/4917">Rodrigo da Rosa Righi</na></co>
+<co c="0"><na f="r/Rodrigues:Eduardo_Rocha" pid="29/1398">Eduardo Rocha Rodrigues</na></co>
+<co c="0"><na f="r/Rodrigues:Guilherme_da_Cunha" pid="140/8275">Guilherme da Cunha Rodrigues</na></co>
+<co c="0"><na f="r/Rodrigues:Vinicius_Facco" pid="160/8134">Vinicius Facco Rodrigues</na></co>
+<co c="0"><na f="r/Roges:Lucas" pid="348/7716">Lucas Roges</na></co>
+<co c="0"><na f="r/Rosa:Cinara_Ewerling_da" pid="320/3490">Cinara Ewerling da Rosa</na></co>
+<co c="0" n="2"><na f="r/Rose:C=eacute=sar_A=_F=_De" pid="95/5199">C&#233;sar A. F. De Rose</na><na>C&#233;sar Augusto Fonticielha De Rose</na></co>
+<co c="0"><na f="r/Rose:Luiz_De" pid="91/357">Luiz De Rose</na></co>
+<co c="0" n="2"><na f="r/Rossi:F=aacute=bio_D=" pid="128/5117">F&#225;bio D. Rossi</na><na>F&#225;bio Diniz Rossi</na></co>
+<co c="0" n="2"><na f="r/Rubin:Felipe" pid="194/7215">Felipe Rubin</na><na>Felipe Pfeifer Rubin</na></co>
+<co c="0"><na f="s/Saikoski:Katia_Barbosa" pid="68/3610">Katia Barbosa Saikoski</na></co>
+<co c="0" n="2"><na f="s/Sampaio:Leobino_Nascimento" pid="56/3926">Leobino Nascimento Sampaio</na><na>Leobino N. Sampaio</na></co>
+<co c="0" n="2"><na f="s/Santos:Carlos_Raniery_Paula_dos" pid="64/6563">Carlos Raniery Paula dos Santos</na><na>Carlos R. P. dos Santos</na></co>
+<co c="0"><na f="s/Santos=Neto:Elizeu" pid="06/1823">Elizeu Santos-Neto</na></co>
+<co c="0"><na f="s/Scheer:Roque" pid="41/6739">Roque Scheer</na></co>
+<co c="0"><na f="s/Schirmer:Nicolas_Meira_da_Silva" pid="203/3437">Nicolas Meira da Silva Schirmer</na></co>
+<co c="0"><na f="s/Schneider_0001:J=ouml=rg" pid="18/5577-1">J&#246;rg Schneider 0001</na></co>
+<co c="0"><na f="s/Schwarz:Marcos_F=" pid="133/3799">Marcos F. Schwarz</na></co>
+<co c="0"><na f="s/Severino:Romulo" pid="160/6445">Romulo Severino</na></co>
+<co c="0"><na f="s/Silva:Daniel_Paranhos_da" pid="43/666">Daniel Paranhos da Silva</na></co>
+<co c="0"><na f="s/Silva_0001:Fl=aacute=vio_Oliveira" pid="02/979">Fl&#225;vio Oliveira Silva 0001</na></co>
+<co c="0"><na f="s/Siracusa:Domenico" pid="88/10062">Domenico Siracusa</na></co>
+<co c="0" n="2"><na f="s/Souza:Paulo_Silas_Severo_de" pid="198/8009">Paulo Silas Severo de Souza</na><na>Paulo Souza 0002</na></co>
+<co c="0"><na f="s/Storch:Mauro" pid="57/2860">Mauro Storch</na></co>
+<co c="0"><na f="t/Tandel:S=eacute=bastien" pid="77/4335">S&#233;bastien Tandel</na></co>
+<co c="-1"><na f="t/Tavares:Kairo" pid="280/6340">Kairo Tavares</na></co>
+<co c="0" n="2"><na f="v/Vieira:=Acirc=ngelo" pid="244/7699">&#194;ngelo Vieira</na><na>&#194;ngelo Nery Crestani Vieira</na></co>
+<co c="0"><na f="w/Weber:Julia_Silva" pid="292/7923">Julia Silva Weber</na></co>
+<co c="0"><na f="w/Wickboldt:Juliano_Araujo" pid="71/7494">Juliano Araujo Wickboldt</na></co>
+<co c="0"><na f="x/Xavier:Bruno" pid="183/5022">Bruno Xavier</na></co>
+<co c="0"><na f="x/Xavier:Bruno_Gomes" pid="230/1823">Bruno Gomes Xavier</na></co>
+<co c="0" n="2"><na f="x/Xavier:Miguel_G=" pid="128/5295">Miguel G. Xavier</na><na>Miguel Gomes Xavier</na></co>
+<co c="0"><na f="z/Zincir=Heywood:Nur" pid="303/3845">Nur Zincir-Heywood</na></co>
+</coauthors>
+</dblpperson>
+

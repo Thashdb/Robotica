@@ -1,0 +1,826 @@
+<?xml version="1.0"?>
+<dblpperson name="Lilian Berton" pid="48/8572" n="57">
+<person key="homepages/48/8572" mdate="2023-07-30">
+<author pid="48/8572">Lilian Berton</author>
+<url>https://orcid.org/0000-0003-1397-6005</url>
+</person>
+<r><article key="journals/aiethics/RabonatoB25" mdate="2025-06-10">
+<author pid="398/1674">Ricardo Trainotti Rabonato</author>
+<author pid="48/8572">Lilian Berton</author>
+<title>A systematic review of fairness in machine learning.</title>
+<pages>1943-1954</pages>
+<year>2025</year>
+<month>June</month>
+<volume>5</volume>
+<journal>AI Ethics</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s43681-024-00577-5</ee>
+<url>db/journals/aiethics/aiethics5.html#RabonatoB25</url>
+<stream>streams/journals/aiethics</stream>
+</article>
+</r>
+<r><article key="journals/aiethics/OliveiraB25" mdate="2025-06-10">
+<author pid="279/8992">Willian Dihanster G. de Oliveira</author>
+<author pid="48/8572">Lilian Berton</author>
+<title>A comparative study of pre-processing algorithms for fair classification in few labeled data context.</title>
+<pages>2881-2901</pages>
+<year>2025</year>
+<month>June</month>
+<volume>5</volume>
+<journal>AI Ethics</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s43681-024-00601-8</ee>
+<url>db/journals/aiethics/aiethics5.html#OliveiraB25</url>
+<stream>streams/journals/aiethics</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-16841" mdate="2025-03-20">
+<author pid="386/3356">Dilermando Queiroz</author>
+<author pid="386/2594">Anderson Carlos</author>
+<author pid="119/9579">Andr&#233; Anjos</author>
+<author pid="48/8572">Lilian Berton</author>
+<title>Fair Foundation Models for Medical Image Analysis: Challenges and Perspectives.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.16841</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.16841</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-16841</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2503-11120" mdate="2025-04-13">
+<author pid="166/4712">G&#246;khan &#214;zbulak</author>
+<author pid="134/9838">Oscar Alfonso Jim&#233;nez del Toro</author>
+<author pid="386/1949">Ma&#237;ra Fatoretto</author>
+<author pid="48/8572">Lilian Berton</author>
+<author pid="119/9579">Andr&#233; Anjos</author>
+<title>A Multi-Objective Evaluation Framework for Analyzing Utility-Fairness Trade-Offs in Machine Learning Systems.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.11120</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.11120</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-11120</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/RabonatoMB24" mdate="2025-02-26">
+<author pid="398/1674">Ricardo Trainotti Rabonato</author>
+<author pid="m/EvangelosEMilios">Evangelos E. Milios</author>
+<author pid="48/8572">Lilian Berton</author>
+<title>Gender-Neutral English to Portuguese Machine Translator: Promoting Inclusive Language.</title>
+<pages>180-195</pages>
+<year>2024</year>
+<booktitle>BRACIS (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-79038-6_13</ee>
+<crossref>conf/bracis/2024-4</crossref>
+<url>db/conf/bracis/bracis2024-4.html#RabonatoMB24</url>
+<stream>streams/conf/bracis</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/GarciaB24" mdate="2025-02-25">
+<author orcid="0000-0002-9983-6734" pid="117/2978">Klaifer Garcia</author>
+<author orcid="0000-0003-1397-6005" pid="48/8572">Lilian Berton</author>
+<title>Siamese Network-Based Prioritization for Enhanced Multi-document Summarization.</title>
+<pages>400-415</pages>
+<year>2024</year>
+<booktitle>BRACIS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-79032-4_28</ee>
+<crossref>conf/bracis/2024-2</crossref>
+<url>db/conf/bracis/bracis2024-2.html#GarciaB24</url>
+<stream>streams/conf/bracis</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miccai/QueirozAB24" mdate="2024-10-31">
+<author pid="386/3356">Dilermando Queiroz</author>
+<author pid="119/9579">Andr&#233; Anjos</author>
+<author pid="48/8572">Lilian Berton</author>
+<title>Using Backbone Foundation Model for Evaluating Fairness in Chest Radiography Without Demographic Data.</title>
+<pages>109-118</pages>
+<year>2024</year>
+<booktitle>FAIMI/EPIMI@MICCAI</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-72787-0_11</ee>
+<crossref>conf/miccai/2024faimi</crossref>
+<url>db/conf/miccai/faimi2024.html#QueirozAB24</url>
+<stream>streams/conf/miccai</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2408-16130" mdate="2024-09-28">
+<author pid="386/3356">Dilermando Queiroz</author>
+<author pid="119/9579">Andr&#233; Anjos</author>
+<author pid="48/8572">Lilian Berton</author>
+<title>Using Backbone Foundation Model for Evaluating Fairness in Chest Radiography Without Demographic Data.</title>
+<year>2024</year>
+<volume>abs/2408.16130</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2408.16130</ee>
+<url>db/journals/corr/corr2408.html#abs-2408-16130</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2408-16154" mdate="2024-09-28">
+<author pid="386/3356">Dilermando Queiroz</author>
+<author pid="386/2594">Anderson Carlos</author>
+<author pid="386/1949">Ma&#237;ra Fatoretto</author>
+<author pid="119/9579">Andr&#233; Anjos</author>
+<author pid="48/8572">Lilian Berton</author>
+<author pid="358/7248">Luis Filipe Nakayama</author>
+<title>Does Data-Efficient Generalization Exacerbate Bias in Foundation Models?</title>
+<year>2024</year>
+<volume>abs/2408.16154</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2408.16154</ee>
+<url>db/journals/corr/corr2408.html#abs-2408-16154</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/access/SantosB23" mdate="2023-11-09">
+<author orcid="0000-0001-8829-7598" pid="262/4792">Matheus A. De Castro Santos</author>
+<author orcid="0000-0003-1397-6005" pid="48/8572">Lilian Berton</author>
+<title>An Enhanced Framework for Overcoming Pitfalls and Enabling Model Interpretation in Pneumonia and Covid-19 Classification.</title>
+<pages>115330-115347</pages>
+<year>2023</year>
+<volume>11</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2023.3325404</ee>
+<url>db/journals/access/access11.html#SantosB23</url>
+</article>
+</r>
+<r><article key="journals/air/DuarteB23" mdate="2023-07-26">
+<author pid="148/5962">Jos&#233; M&#225;rcio Duarte</author>
+<author pid="48/8572">Lilian Berton</author>
+<title>A review of semi-supervised learning for text classification.</title>
+<pages>9401-9469</pages>
+<year>2023</year>
+<month>September</month>
+<volume>56</volume>
+<journal>Artif. Intell. Rev.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1007/s10462-023-10393-8</ee>
+<url>db/journals/air/air56.html#DuarteB23</url>
+</article>
+</r>
+<r><article key="journals/air/OliveiraB23" mdate="2024-03-13">
+<author pid="279/8992">Willian Dihanster G. de Oliveira</author>
+<author pid="48/8572">Lilian Berton</author>
+<title>A systematic review for class-imbalance in semi-supervised learning.</title>
+<pages>2349-2382</pages>
+<year>2023</year>
+<month>November</month>
+<volume>56</volume>
+<journal>Artif. Intell. Rev.</journal>
+<number>S2</number>
+<ee>https://doi.org/10.1007/s10462-023-10579-0</ee>
+<url>db/journals/air/air56.html#OliveiraB23</url>
+</article>
+</r>
+<r><inproceedings key="conf/sac/BertonOV23" mdate="2023-07-21">
+<author orcid="0000-0003-1397-6005" pid="48/8572">Lilian Berton</author>
+<author orcid="0000-0002-7324-5143" pid="32/2405">Pedro Oliveira</author>
+<author orcid="0000-0001-9569-3775" pid="03/8573">Didier A. Vega-Oliveros</author>
+<title>Graph-based semi-supervised classification for similar wildfire dynamics.</title>
+<pages>499-506</pages>
+<year>2023</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3555776.3577622</ee>
+<crossref>conf/sac/2023</crossref>
+<url>db/conf/sac/sac2023.html#BertonOV23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/BertonMV23" mdate="2023-07-21">
+<author orcid="0000-0003-1397-6005" pid="48/8572">Lilian Berton</author>
+<author orcid="0000-0003-2671-4709" pid="351/6067">Felipe Mitsuishi</author>
+<author orcid="0000-0001-9569-3775" pid="03/8573">Didier Augusto Vega-Oliveros</author>
+<title>Analysis of active semi-supervised learning.</title>
+<pages>1122-1129</pages>
+<year>2023</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3555776.3577621</ee>
+<crossref>conf/sac/2023</crossref>
+<url>db/conf/sac/sac2023.html#BertonMV23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tale/FontesPB23" mdate="2025-03-03">
+<author pid="368/6158">Amanda Ribeiro Fontes</author>
+<author orcid="0000-0001-7081-8383" pid="54/2452">Henrique Mohallem Paiva</author>
+<author pid="48/8572">Lilian Berton</author>
+<title>Project-Based Learning in the Development of a Job-Matching Website for Women in STEM.</title>
+<pages>1-8</pages>
+<year>2023</year>
+<booktitle>TALE</booktitle>
+<ee>https://doi.org/10.1109/TALE56641.2023.10398355</ee>
+<crossref>conf/tale/2023</crossref>
+<url>db/conf/tale/tale2023.html#FontesPB23</url>
+</inproceedings>
+</r>
+<r><article key="journals/eaai/RickB22" mdate="2022-08-25">
+<author pid="324/9267">Rodney Rick</author>
+<author orcid="0000-0003-1397-6005" pid="48/8572">Lilian Berton</author>
+<title>Energy forecasting model based on CNN-LSTM-AE for many time series with unequal lengths.</title>
+<pages>104998</pages>
+<year>2022</year>
+<volume>113</volume>
+<journal>Eng. Appl. Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.engappai.2022.104998</ee>
+<url>db/journals/eaai/eaai113.html#RickB22</url>
+</article>
+</r>
+<r><article key="journals/tnn/Vega-OliverosZR22" mdate="2023-08-28">
+<author orcid="0000-0001-9569-3775" pid="03/8573">Didier A. Vega-Oliveros</author>
+<author orcid="0000-0002-1502-6604" pid="63/5422-1">Liang Zhao 0001</author>
+<author orcid="0000-0002-4236-8212" pid="81/2446">Anderson Rocha 0001</author>
+<author orcid="0000-0003-1397-6005" pid="48/8572">Lilian Berton</author>
+<title>Link Prediction Based on Stochastic Information Diffusion.</title>
+<pages>3522-3532</pages>
+<year>2022</year>
+<volume>33</volume>
+<journal>IEEE Trans. Neural Networks Learn. Syst.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TNNLS.2021.3053263</ee>
+<ee>https://www.wikidata.org/entity/Q114932743</ee>
+<url>db/journals/tnn/tnn33.html#Vega-OliverosZR22</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2201-03456" mdate="2022-01-20">
+<author pid="262/0606">Bruno Klaus de Aquino Afonso</author>
+<author pid="48/8572">Lilian Berton</author>
+<title>Optimizing Diffusion Rate and Label Reliability in a Graph-Based Semi-supervised Classifier.</title>
+<year>2022</year>
+<volume>abs/2201.03456</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2201.03456</ee>
+<url>db/journals/corr/corr2201.html#abs-2201-03456</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-06336" mdate="2022-07-19">
+<author pid="262/0606">Bruno Klaus de Aquino Afonso</author>
+<author pid="48/8572">Lilian Berton</author>
+<title>QT-Routenet: Improved GNN generalization to larger 5G networks by fine-tuning predictions from queueing theory.</title>
+<year>2022</year>
+<volume>abs/2207.06336</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.06336</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-06336</url>
+</article>
+</r>
+<r><article key="journals/asc/GarciaB21" mdate="2024-10-06">
+<author orcid="0000-0002-9983-6734" pid="117/2978">Klaifer Garcia</author>
+<author orcid="0000-0003-1397-6005" pid="48/8572">Lilian Berton</author>
+<title>Topic detection and sentiment analysis in Twitter content related to COVID-19 from Brazil and the USA.</title>
+<pages>107057</pages>
+<year>2021</year>
+<volume>101</volume>
+<journal>Appl. Soft Comput.</journal>
+<ee>https://doi.org/10.1016/j.asoc.2020.107057</ee>
+<url>db/journals/asc/asc101.html#GarciaB21</url>
+</article>
+</r>
+<r><article key="journals/isci/DuarteSMB21" mdate="2024-05-07">
+<author pid="148/5962">Jos&#233; M&#225;rcio Duarte</author>
+<author orcid="0000-0001-7196-9095" pid="230/4309">Samuel Bruno da Silva Sousa</author>
+<author pid="m/EvangelosEMilios">Evangelos E. Milios</author>
+<author pid="48/8572">Lilian Berton</author>
+<title>Deep analysis of word sense disambiguation via semi-supervised learning and neural word representations.</title>
+<pages>278-297</pages>
+<year>2021</year>
+<volume>570</volume>
+<journal>Inf. Sci.</journal>
+<ee>https://doi.org/10.1016/j.ins.2021.04.006</ee>
+<url>db/journals/isci/isci570.html#DuarteSMB21</url>
+</article>
+</r>
+<r><article key="journals/tnse/SanoB21" mdate="2021-12-25">
+<author orcid="0000-0001-7407-1459" pid="262/0685">Humberto Hayashi Sano</author>
+<author orcid="0000-0003-1397-6005" pid="48/8572">Lilian Berton</author>
+<title>A Temporal Event Graph Approach and Robustness Analysis for Air Transport Network.</title>
+<pages>3453-3464</pages>
+<year>2021</year>
+<volume>8</volume>
+<journal>IEEE Trans. Netw. Sci. Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TNSE.2021.3114535</ee>
+<url>db/journals/tnse/tnse8.html#SanoB21</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/AfonsoB21" mdate="2021-12-15">
+<author orcid="0000-0003-2086-1054" pid="262/0606">Bruno Klaus de Aquino Afonso</author>
+<author orcid="0000-0003-1397-6005" pid="48/8572">Lilian Berton</author>
+<title>Optimizing Diffusion Rate and Label Reliability in a Graph-Based Semi-supervised Classifier.</title>
+<pages>514-527</pages>
+<year>2021</year>
+<booktitle>BRACIS (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-91702-9_34</ee>
+<crossref>conf/bracis/2021-1</crossref>
+<url>db/conf/bracis/bracis2021-1.html#AfonsoB21</url>
+</inproceedings>
+</r>
+<r><article key="journals/access/SantosVZB20" mdate="2020-05-04">
+<author orcid="0000-0001-8829-7598" pid="262/4792">Matheus A. De Castro Santos</author>
+<author orcid="0000-0001-9569-3775" pid="03/8573">Didier Augusto Vega-Oliveros</author>
+<author orcid="0000-0002-1502-6604" pid="63/5422-1">Liang Zhao 0001</author>
+<author orcid="0000-0003-1397-6005" pid="48/8572">Lilian Berton</author>
+<title>Classifying El Ni&#241;o-Southern Oscillation Combining Network Science and Machine Learning.</title>
+<pages>55711-55723</pages>
+<year>2020</year>
+<volume>8</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2020.2982035</ee>
+<url>db/journals/access/access8.html#SantosVZB20</url>
+</article>
+</r>
+<r><article key="journals/prl/AfonsoB20" mdate="2021-09-16">
+<author pid="262/0606">Bruno Klaus de Aquino Afonso</author>
+<author orcid="0000-0003-1397-6005" pid="48/8572">Lilian Berton</author>
+<title>Identifying noisy labels with a transductive semi-supervised leave-one-out filter.</title>
+<pages>127-134</pages>
+<year>2020</year>
+<volume>140</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2020.09.024</ee>
+<url>db/journals/prl/prl140.html#AfonsoB20</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcnn/CotacallapaBFQ020" mdate="2023-12-27">
+<author pid="186/6890">Mosh&#233; Cotacallapa</author>
+<author pid="48/8572">Lilian Berton</author>
+<author pid="156/3633">Leonardo Nascimento Ferreira</author>
+<author orcid="0000-0001-8147-554X" pid="70/1985">Marcos G. Quiles</author>
+<author pid="63/5422-1">Liang Zhao 0001</author>
+<author orcid="0000-0002-6337-8081" pid="05/7268">Elbert E. N. Macau</author>
+<author orcid="0000-0001-9569-3775" pid="03/8573">Didier A. Vega-Oliveros</author>
+<title>Measuring the engagement level in encrypted group conversations by using temporal networks.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN48605.2020.9207174</ee>
+<ee>https://www.wikidata.org/entity/Q106596285</ee>
+<crossref>conf/ijcnn/2020</crossref>
+<url>db/conf/ijcnn/ijcnn2020.html#CotacallapaBFQ020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/SousaMB20" mdate="2024-03-21">
+<author orcid="0000-0001-7196-9095" pid="230/4309">Samuel Bruno da Silva Sousa</author>
+<author pid="m/EvangelosEMilios">Evangelos E. Milios</author>
+<author pid="48/8572">Lilian Berton</author>
+<title>Word sense disambiguation: an evaluation study of semi-supervised approaches with word embeddings.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN48605.2020.9207225</ee>
+<crossref>conf/ijcnn/2020</crossref>
+<url>db/conf/ijcnn/ijcnn2020.html#SousaMB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/AfonsoB20" mdate="2020-04-02">
+<author pid="262/0606">Bruno Klaus de Aquino Afonso</author>
+<author pid="48/8572">Lilian Berton</author>
+<title>Analysis of label noise in graph-based semi-supervised learning.</title>
+<pages>1127-1134</pages>
+<year>2020</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3341105.3374013</ee>
+<crossref>conf/sac/2020</crossref>
+<url>db/conf/sac/sac2020.html#AfonsoB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/SanoB20" mdate="2020-04-02">
+<author pid="262/0685">Humberto Hayashi Sano</author>
+<author pid="48/8572">Lilian Berton</author>
+<title>Topology and robustness analysis of temporal air transport network.</title>
+<pages>1881-1884</pages>
+<year>2020</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3341105.3374062</ee>
+<crossref>conf/sac/2020</crossref>
+<url>db/conf/sac/sac2020.html#SanoB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/OliveiraPB20" mdate="2020-12-03">
+<author pid="279/8992">Willian Dihanster G. de Oliveira</author>
+<author pid="53/5549">Ot&#225;vio A. B. Penatti</author>
+<author pid="48/8572">Lilian Berton</author>
+<title>A comparison of graph-based semi-supervised learning for data augmentation.</title>
+<pages>264-271</pages>
+<year>2020</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI51738.2020.00043</ee>
+<crossref>conf/sibgrapi/2020</crossref>
+<url>db/conf/sibgrapi/sibgrapi2020.html#OliveiraPB20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-11811" mdate="2020-09-30">
+<author pid="262/0606">Bruno Klaus de Aquino Afonso</author>
+<author pid="48/8572">Lilian Berton</author>
+<title>Identifying noisy labels with a transductive semi-supervised leave-one-out filter.</title>
+<year>2020</year>
+<volume>abs/2009.11811</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.11811</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-11811</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-12966" mdate="2020-09-30">
+<author pid="262/0606">Bruno Klaus de Aquino Afonso</author>
+<author pid="48/8572">Lilian Berton</author>
+<title>Analysis of label noise in graph-based semi-supervised learning.</title>
+<year>2020</year>
+<volume>abs/2009.12966</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.12966</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-12966</url>
+</article>
+</r>
+<r><article key="journals/cleiej/SousaDB19" mdate="2024-05-07">
+<author orcid="0000-0001-7196-9095" pid="230/4309">Samuel Bruno da Silva Sousa</author>
+<author pid="230/4198">Ronaldo de Castro Del-Fiaco</author>
+<author pid="48/8572">Lilian Berton</author>
+<title>Feature Selection for Clustering of Homicide Rates in the Brazilian State of Goias.</title>
+<year>2019</year>
+<volume>22</volume>
+<journal>CLEI Electron. J.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.19153/cleiej.22.3.1</ee>
+<url>db/journals/cleiej/cleiej22.html#SousaDB19</url>
+</article>
+</r>
+<r><article key="journals/ipm/Vega-OliverosGM19" mdate="2021-06-01">
+<author orcid="0000-0001-9569-3775" pid="03/8573">Didier Augusto Vega-Oliveros</author>
+<author pid="234/3936">Pedro Spoljaric Gomes</author>
+<author pid="m/EvangelosEMilios">Evangelos E. Milios</author>
+<author pid="48/8572">Lilian Berton</author>
+<title>A multi-centrality index for graph-based keyword extraction.</title>
+<year>2019</year>
+<volume>56</volume>
+<journal>Inf. Process. Manag.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/j.ipm.2019.102063</ee>
+<ee>https://www.wikidata.org/entity/Q106596286</ee>
+<url>db/journals/ipm/ipm56.html#Vega-OliverosGM19</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/CatundaSB19" mdate="2020-01-09">
+<author pid="256/0279">Jo&#227;o Pedro Kerr Catunda</author>
+<author pid="22/9818">Andr&#233; Tavares da Silva</author>
+<author pid="48/8572">Lilian Berton</author>
+<title>Car Plate Character Recognition Via Semi-Supervised Learning.</title>
+<pages>735-740</pages>
+<year>2019</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2019.00132</ee>
+<crossref>conf/bracis/2019</crossref>
+<url>db/conf/bracis/bracis2019.html#CatundaSB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/SaeidiSMZB19" mdate="2024-03-21">
+<author pid="261/8014">Mozhgan Saeidi</author>
+<author orcid="0000-0001-7196-9095" pid="230/4309">Samuel Bruno da Silva Sousa</author>
+<author pid="m/EvangelosEMilios">Evangelos E. Milios</author>
+<author pid="73/3395">Norbert Zeh</author>
+<author pid="48/8572">Lilian Berton</author>
+<title>Categorizing Online Harassment on Twitter.</title>
+<pages>283-297</pages>
+<year>2019</year>
+<booktitle>PKDD/ECML Workshops (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-43887-6_22</ee>
+<crossref>conf/pkdd/2019-w2</crossref>
+<url>db/conf/pkdd/pkdd2019-w2.html#SaeidiSMZB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clei/SousaDB18" mdate="2024-03-22">
+<author orcid="0000-0001-7196-9095" pid="230/4309">Samuel Bruno da Silva Sousa</author>
+<author pid="230/4198">Ronaldo de Castro Del-Fiaco</author>
+<author pid="48/8572">Lilian Berton</author>
+<title>Cluster Analysis of Homicide Rates in the Brazilian State of Goi&#225;s from 2002 to 2014.</title>
+<pages>445-454</pages>
+<year>2018</year>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI.2018.00060</ee>
+<crossref>conf/clei/2018</crossref>
+<url>db/conf/clei/clei2018.html#SousaDB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/BertonLV18" mdate="2021-06-01">
+<author pid="48/8572">Lilian Berton</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<author orcid="0000-0001-9569-3775" pid="03/8573">Didier Augusto Vega-Oliveros</author>
+<title>A Comparison of Graph Construction Methods for Semi-Supervised Learning.</title>
+<pages>1-8</pages>
+<year>2018</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2018.8489524</ee>
+<ee>https://www.wikidata.org/entity/Q106596289</ee>
+<crossref>conf/ijcnn/2018</crossref>
+<url>db/conf/ijcnn/ijcnn2018.html#BertonLV18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-06366" mdate="2019-08-12">
+<author pid="230/4309">Samuel Bruno da Silva Sousa</author>
+<author pid="230/4198">Ronaldo de Castro Del-Fiaco</author>
+<author pid="48/8572">Lilian Berton</author>
+<title>Cluster analysis of homicide rates in the Brazilian state of Goias from 2002 to 2014.</title>
+<year>2018</year>
+<volume>abs/1811.06366</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.06366</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-06366</url>
+</article>
+</r>
+<r><article key="journals/ijon/BertonFVVL17" mdate="2024-10-06">
+<author pid="48/8572">Lilian Berton</author>
+<author orcid="0000-0001-5275-8356" pid="124/7230">Thiago de Paulo Faleiros</author>
+<author orcid="0000-0002-9046-9499" pid="149/9198">Alan Valejo</author>
+<author orcid="0000-0001-8664-9692" pid="119/6669">Jorge Carlos Valverde-Rebaza</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>RGCLI: Robust Graph that Considers Labeled Instances for Semi-Supervised Learning.</title>
+<pages>238-248</pages>
+<year>2017</year>
+<volume>226</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2016.11.053</ee>
+<url>db/journals/ijon/ijon226.html#BertonFVVL17</url>
+</article>
+</r>
+<r><inproceedings key="conf/asunam/Vega-OliverosBV17" mdate="2025-05-31">
+<author orcid="0000-0001-9569-3775" pid="03/8573">Didier Augusto Vega-Oliveros</author>
+<author pid="48/8572">Lilian Berton</author>
+<author orcid="0000-0002-0773-5507" pid="202/2429">Federico Vazquez</author>
+<author pid="25/11141">Francisco Aparecido Rodrigues</author>
+<title>The Impact of Social Curiosity on Information Spreading on Networks.</title>
+<pages>459-466</pages>
+<year>2017</year>
+<booktitle>ASONAM</booktitle>
+<ee>https://doi.org/10.1145/3110025.3110039</ee>
+<ee>https://www.wikidata.org/entity/Q106596291</ee>
+<crossref>conf/asunam/2017</crossref>
+<url>db/conf/asunam/asonam2017.html#Vega-OliverosBV17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/Vega-OliverosBV17" mdate="2018-08-13">
+<author pid="03/8573">Didier Augusto Vega-Oliveros</author>
+<author pid="48/8572">Lilian Berton</author>
+<author pid="202/2429">Federico Vazquez</author>
+<author pid="25/11141">Francisco Aparecido Rodrigues</author>
+<title>The Impact of Social Curiosity on Information Spreading on Networks.</title>
+<year>2017</year>
+<volume>abs/1706.07972</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1706.07972</ee>
+<url>db/journals/corr/corr1706.html#Vega-OliverosBV17</url>
+</article>
+</r>
+<r><phdthesis key="phd/ndltd/Berton16" mdate="2017-08-27">
+<author pid="48/8572">Lilian Berton</author>
+<title>Graph construction based on neighborhood for semisupervised.</title>
+<year>2016</year>
+<school>University of S&#227;o Paulo, Brazil</school>
+<ee>http://www.teses.usp.br/teses/disponiveis/55/55134/tde-29072016-100548/</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:agregador.ibict.br.BDTD_USP:oai:teses.usp.br:tde-29072016-100548</ee>
+<note type="source">ndltd.org (oai:agregador.ibict.br.BDTD_USP:oai:teses.usp.br:tde-29072016-100548)</note>
+</phdthesis>
+</r>
+<r><article key="journals/aimatters/BertonL16" mdate="2018-11-06">
+<author pid="48/8572">Lilian Berton</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>Neighborhood graph construction for semi-supervised learning.</title>
+<pages>14-15</pages>
+<year>2016</year>
+<volume>2</volume>
+<journal>AI Matters</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/2911172.2911176</ee>
+<url>db/journals/aimatters/aimatters2.html#BertonL16</url>
+</article>
+</r>
+<r><inproceedings key="conf/simbig/BertonVVSL16a" mdate="2021-06-01">
+<author pid="48/8572">Lilian Berton</author>
+<author orcid="0000-0001-9569-3775" pid="03/8573">Didier Augusto Vega-Oliveros</author>
+<author orcid="0000-0001-8664-9692" pid="119/6669">Jorge Carlos Valverde-Rebaza</author>
+<author pid="22/9818">Andr&#233; Tavares da Silva</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>Network Sampling Based on Centrality Measures for Relational Classification.</title>
+<pages>43-56</pages>
+<year>2016</year>
+<booktitle>SIMBig (Revised Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-55209-5_4</ee>
+<ee>https://www.wikidata.org/entity/Q106596293</ee>
+<crossref>conf/simbig/2016s</crossref>
+<url>db/conf/simbig/simbig2016s.html#BertonVVSL16a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/simbig/BertonVVSL16" mdate="2023-03-10">
+<author pid="48/8572">Lilian Berton</author>
+<author pid="03/8573">Didier Augusto Vega-Oliveros</author>
+<author pid="119/6669">Jorge Carlos Valverde-Rebaza</author>
+<author pid="22/9818">Andr&#233; Tavares da Silva</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>The Impact of Network Sampling on Relational Classification.</title>
+<pages>62-72</pages>
+<year>2016</year>
+<booktitle>SIMBig</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1743/paper7.pdf</ee>
+<crossref>conf/simbig/2016</crossref>
+<url>db/conf/simbig/simbig2016.html#BertonVVSL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/Vega-OliverosBL15" mdate="2023-03-10">
+<author pid="03/8573">Didier Augusto Vega-Oliveros</author>
+<author pid="48/8572">Lilian Berton</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<author pid="25/11141">Francisco Aparecido Rodrigues</author>
+<title>Influence Maximization Based on the Least Influential Spreaders.</title>
+<pages>3-8</pages>
+<year>2015</year>
+<booktitle>SocInf@IJCAI</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1398/SocInf2015_Paper1.pdf</ee>
+<crossref>conf/ijcai/2015socinf</crossref>
+<url>db/conf/ijcai/socinf2015.html#Vega-OliverosBL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/BertonL15" mdate="2019-08-20">
+<author pid="48/8572">Lilian Berton</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>Graph Construction for Semi-Supervised Learning.</title>
+<pages>4343-4344</pages>
+<year>2015</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Abstract/15/619</ee>
+<crossref>conf/ijcai/2015</crossref>
+<url>db/conf/ijcai/ijcai2015.html#BertonL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/BertonVL15" mdate="2017-06-15">
+<author pid="48/8572">Lilian Berton</author>
+<author orcid="0000-0001-8664-9692" pid="119/6669">Jorge Carlos Valverde-Rebaza</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>Link prediction in graph construction for supervised and semi-supervised learning.</title>
+<pages>1-8</pages>
+<year>2015</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2015.7280543</ee>
+<crossref>conf/ijcnn/2015</crossref>
+<url>db/conf/ijcnn/ijcnn2015.html#BertonVL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/Valverde-Rebaza15" mdate="2024-10-06">
+<author orcid="0000-0001-8664-9692" pid="119/6669">Jorge Carlos Valverde-Rebaza</author>
+<author pid="149/9198">Alan Valejo</author>
+<author pid="48/8572">Lilian Berton</author>
+<author orcid="0000-0001-5275-8356" pid="124/7230">Thiago de Paulo Faleiros</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>A na&#239;ve Bayes model based on ovelapping groups for link prediction in online social networks.</title>
+<pages>1136-1141</pages>
+<year>2015</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2695664.2695719</ee>
+<crossref>conf/sac/2015</crossref>
+<url>db/conf/sac/sac2015.html#Valverde-Rebaza15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/simbig/Vega-OliverosB15" mdate="2023-03-10">
+<author pid="03/8573">Didier Augusto Vega-Oliveros</author>
+<author pid="48/8572">Lilian Berton</author>
+<title>Spreader Selection by Community to Maximize Information Diffusion in Social Networks.</title>
+<pages>73-82</pages>
+<year>2015</year>
+<booktitle>SIMBig</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1478/paper8.pdf</ee>
+<crossref>conf/simbig/2015</crossref>
+<url>db/conf/simbig/simbig2015.html#Vega-OliverosB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/Valverde-RebazaSBOL14" mdate="2023-03-24">
+<author orcid="0000-0001-8664-9692" pid="119/6669">Jorge Carlos Valverde-Rebaza</author>
+<author orcid="0000-0002-8429-4119" pid="209/2303">Aurea Soriano-Vargas</author>
+<author pid="48/8572">Lilian Berton</author>
+<author orcid="0000-0002-4729-5104" pid="57/1706">Maria Cristina Ferreira de Oliveira</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>Music Genre Classification Using Traditional and Relational Approaches.</title>
+<pages>259-264</pages>
+<year>2014</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2014.54</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2014.54</ee>
+<crossref>conf/bracis/2014</crossref>
+<url>db/conf/bracis/bracis2014.html#Valverde-RebazaSBOL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/BertonL14" mdate="2023-03-24">
+<author pid="48/8572">Lilian Berton</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>Graph Construction Based on Labeled Instances for Semi-supervised Learning.</title>
+<pages>2477-2482</pages>
+<year>2014</year>
+<booktitle>ICPR</booktitle>
+<ee>https://doi.org/10.1109/ICPR.2014.428</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICPR.2014.428</ee>
+<crossref>conf/icpr/2014</crossref>
+<url>db/conf/icpr/icpr2014.html#BertonL14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/AssiratiSBLB13" mdate="2018-08-13">
+<author pid="133/8098">Lucas Assirati</author>
+<author pid="117/3581">N&#250;bia Rosa da Silva</author>
+<author pid="48/8572">Lilian Berton</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<author pid="17/6770">Odemir Martinez Bruno</author>
+<title>Performing edge detection by difference of Gaussians using q-Gaussian kernels.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1311.2561</ee>
+<volume>abs/1311.2561</volume>
+<url>db/journals/corr/corr1311.html#AssiratiSBLB13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cason/BertonL12" mdate="2017-05-23">
+<author pid="48/8572">Lilian Berton</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>Informativity-based graph: Exploring mutual kNN and labeled vertices for semi-supervised learning.</title>
+<pages>14-19</pages>
+<year>2012</year>
+<booktitle>CASoN</booktitle>
+<ee>https://doi.org/10.1109/CASoN.2012.6412371</ee>
+<crossref>conf/cason/2012</crossref>
+<url>db/conf/cason/cason2012.html#BertonL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cason/LlerenaBL12" mdate="2018-11-30">
+<author orcid="0000-0002-0248-6222" pid="160/4470">Nils Ever Murrugarra-Llerena</author>
+<author pid="48/8572">Lilian Berton</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>Graph-based cross-validated committees ensembles.</title>
+<pages>75-80</pages>
+<year>2012</year>
+<booktitle>CASoN</booktitle>
+<ee>https://doi.org/10.1109/CASoN.2012.6412381</ee>
+<crossref>conf/cason/2012</crossref>
+<url>db/conf/cason/cason2012.html#LlerenaBL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cec/BertonHAZ10" mdate="2020-09-05">
+<author pid="48/8572">Lilian Berton</author>
+<author pid="25/8572">Jean Huertas</author>
+<author pid="03/8572">Bilz&#227; Ara&#250;jo</author>
+<author orcid="0000-0002-1502-6604" pid="63/5422-1">Liang Zhao 0001</author>
+<title>Identifying abnormal nodes in complex networks by using random walk measure.</title>
+<pages>1-6</pages>
+<year>2010</year>
+<booktitle>IEEE Congress on Evolutionary Computation</booktitle>
+<ee>https://doi.org/10.1109/CEC.2010.5586015</ee>
+<crossref>conf/cec/2010</crossref>
+<url>db/conf/cec/cec2010.html#BertonHAZ10</url>
+</inproceedings>
+</r>
+<coauthors n="49" nc="2">
+<co c="-1"><na f="a/Afonso:Bruno_Klaus_de_Aquino" pid="262/0606">Bruno Klaus de Aquino Afonso</na></co>
+<co c="0"><na f="a/Anjos:Andr=eacute=" pid="119/9579">Andr&#233; Anjos</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Bilz=atilde=" pid="03/8572">Bilz&#227; Ara&#250;jo</na></co>
+<co c="0"><na f="a/Assirati:Lucas" pid="133/8098">Lucas Assirati</na></co>
+<co c="0"><na f="b/Bruno:Odemir_Martinez" pid="17/6770">Odemir Martinez Bruno</na></co>
+<co c="0"><na f="c/Carlos:Anderson" pid="386/2594">Anderson Carlos</na></co>
+<co c="0"><na f="c/Catunda:Jo=atilde=o_Pedro_Kerr" pid="256/0279">Jo&#227;o Pedro Kerr Catunda</na></co>
+<co c="0"><na f="c/Cotacallapa:Mosh=eacute=" pid="186/6890">Mosh&#233; Cotacallapa</na></co>
+<co c="0"><na f="d/Del=Fiaco:Ronaldo_de_Castro" pid="230/4198">Ronaldo de Castro Del-Fiaco</na></co>
+<co c="0"><na f="d/Duarte:Jos=eacute=_M=aacute=rcio" pid="148/5962">Jos&#233; M&#225;rcio Duarte</na></co>
+<co c="0"><na f="f/Faleiros:Thiago_de_Paulo" pid="124/7230">Thiago de Paulo Faleiros</na></co>
+<co c="0"><na f="f/Fatoretto:Ma=iacute=ra" pid="386/1949">Ma&#237;ra Fatoretto</na></co>
+<co c="0"><na f="f/Ferreira:Leonardo_Nascimento" pid="156/3633">Leonardo Nascimento Ferreira</na></co>
+<co c="1"><na f="f/Fontes:Amanda_Ribeiro" pid="368/6158">Amanda Ribeiro Fontes</na></co>
+<co c="-1"><na f="g/Garcia:Klaifer" pid="117/2978">Klaifer Garcia</na></co>
+<co c="0"><na f="g/Gomes:Pedro_Spoljaric" pid="234/3936">Pedro Spoljaric Gomes</na></co>
+<co c="0"><na f="h/Huertas:Jean" pid="25/8572">Jean Huertas</na></co>
+<co c="0"><na f="l/Lopes:Alneu_de_Andrade" pid="60/5946">Alneu de Andrade Lopes</na></co>
+<co c="0"><na f="m/Macau:Elbert_E=_N=" pid="05/7268">Elbert E. N. Macau</na></co>
+<co c="0"><na f="m/Milios:Evangelos_E=" pid="m/EvangelosEMilios">Evangelos E. Milios</na></co>
+<co c="0"><na f="m/Mitsuishi:Felipe" pid="351/6067">Felipe Mitsuishi</na></co>
+<co c="0" n="2"><na f="m/Murrugarra=Llerena:Nils" pid="160/4470">Nils Murrugarra-Llerena</na><na>Nils Ever Murrugarra-Llerena</na></co>
+<co c="0"><na f="n/Nakayama:Luis_Filipe" pid="358/7248">Luis Filipe Nakayama</na></co>
+<co c="0"><na f="o/Oliveira:Maria_Cristina_Ferreira_de" pid="57/1706">Maria Cristina Ferreira de Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Pedro" pid="32/2405">Pedro Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Willian_Dihanster_G=_de" pid="279/8992">Willian Dihanster G. de Oliveira</na></co>
+<co c="0"><na f="=/=Ouml=zbulak:G=ouml=khan" pid="166/4712">G&#246;khan &#214;zbulak</na></co>
+<co c="1"><na f="p/Paiva:Henrique_Mohallem" pid="54/2452">Henrique Mohallem Paiva</na></co>
+<co c="0"><na f="p/Penatti:Ot=aacute=vio_A=_B=" pid="53/5549">Ot&#225;vio A. B. Penatti</na></co>
+<co c="0"><na f="q/Queiroz:Dilermando" pid="386/3356">Dilermando Queiroz</na></co>
+<co c="0"><na f="q/Quiles:Marcos_G=" pid="70/1985">Marcos G. Quiles</na></co>
+<co c="0"><na f="r/Rabonato:Ricardo_Trainotti" pid="398/1674">Ricardo Trainotti Rabonato</na></co>
+<co c="-1"><na f="r/Rick:Rodney" pid="324/9267">Rodney Rick</na></co>
+<co c="0"><na f="r/Rocha_0001:Anderson" pid="81/2446">Anderson Rocha 0001</na></co>
+<co c="0"><na f="r/Rodrigues:Francisco_Aparecido" pid="25/11141">Francisco Aparecido Rodrigues</na></co>
+<co c="0"><na f="s/Saeidi:Mozhgan" pid="261/8014">Mozhgan Saeidi</na></co>
+<co c="-1"><na f="s/Sano:Humberto_Hayashi" pid="262/0685">Humberto Hayashi Sano</na></co>
+<co c="0"><na f="s/Santos:Matheus_A=_De_Castro" pid="262/4792">Matheus A. De Castro Santos</na></co>
+<co c="0"><na f="s/Silva:Andr=eacute=_Tavares_da" pid="22/9818">Andr&#233; Tavares da Silva</na></co>
+<co c="0"><na f="s/Silva:N=uacute=bia_Rosa_da" pid="117/3581">N&#250;bia Rosa da Silva</na></co>
+<co c="0"><na f="s/Soriano=Vargas:Aurea" pid="209/2303">Aurea Soriano-Vargas</na></co>
+<co c="0" n="2"><na f="s/Sousa_0001:Samuel" pid="230/4309">Samuel Sousa 0001</na><na>Samuel Bruno da Silva Sousa</na></co>
+<co c="0"><na f="t/Toro:Oscar_Alfonso_Jim=eacute=nez_del" pid="134/9838">Oscar Alfonso Jim&#233;nez del Toro</na></co>
+<co c="0"><na f="v/Valejo:Alan" pid="149/9198">Alan Valejo</na></co>
+<co c="0"><na f="v/Valverde=Rebaza:Jorge_Carlos" pid="119/6669">Jorge Carlos Valverde-Rebaza</na></co>
+<co c="0"><na f="v/Vazquez:Federico" pid="202/2429">Federico Vazquez</na></co>
+<co c="0" n="2"><na f="v/Vega=Oliveros:Didier_Augusto" pid="03/8573">Didier Augusto Vega-Oliveros</na><na>Didier A. Vega-Oliveros</na></co>
+<co c="0"><na f="z/Zeh:Norbert" pid="73/3395">Norbert Zeh</na></co>
+<co c="0"><na f="z/Zhao_0001:Liang" pid="63/5422-1">Liang Zhao 0001</na></co>
+</coauthors>
+</dblpperson>
+

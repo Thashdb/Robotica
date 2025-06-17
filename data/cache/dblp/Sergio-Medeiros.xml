@@ -1,0 +1,451 @@
+<?xml version="1.0"?>
+<dblpperson name="S&#233;rgio Medeiros 0001" pid="64/4850" n="32">
+<person key="homepages/64/4850" mdate="2023-09-24">
+<author pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<author pid="64/4850">S&#233;rgio Queiroz de Medeiros</author>
+<note type="affiliation">Federal University of Rio Grande do Norte, Natal, Brazil</note>
+<url>https://dl.acm.org/profile/81332515211</url>
+<url>https://orcid.org/0000-0002-0759-0926</url>
+<url>https://www.wikidata.org/entity/Q97044358</url>
+<url>https://www.researcherid.com/rid/O-6582-2018</url>
+<url>https://id.loc.gov/authorities/names/no2010114036</url>
+</person>
+<homonyms n="1">
+<h f="m/Medeiros:S=eacute=rgio"><name>S&#233;rgio Medeiros</name>
+</h>
+</homonyms>
+<r><article publtype="informal" key="journals/corr/abs-2502-17378" mdate="2025-03-24">
+<author pid="223/4263">Jo&#227;o Helis Bernardo</author>
+<author pid="117/5533">Daniel Alencar da Costa</author>
+<author pid="16/3966">Filipe Roseiro C&#244;go</author>
+<author pid="64/4850">S&#233;rgio Queiroz de Medeiros</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<title>Continuous Integration Practices in Machine Learning Projects: The Practitioners' Perspective.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.17378</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.17378</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-17378</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/msr/BernardoCMK24" mdate="2025-01-19">
+<author orcid="0000-0001-7359-4039" pid="223/4263">Jo&#227;o Helis Bernardo</author>
+<author orcid="0000-0003-4525-3266" pid="117/5533">Daniel Alencar da Costa</author>
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Queiroz de Medeiros</author>
+<author orcid="0000-0002-5467-6458" pid="78/6010">Uir&#225; Kulesza</author>
+<title>How do Machine Learning Projects use Continuous Integration Practices? An Empirical Study on GitHub Actions.</title>
+<pages>665-676</pages>
+<year>2024</year>
+<booktitle>MSR</booktitle>
+<ee>https://doi.org/10.1145/3643991.3644915</ee>
+<ee>https://ieeexplore.ieee.org/document/10555764</ee>
+<ee>https://www.wikidata.org/entity/Q130963920</ee>
+<crossref>conf/msr/2024</crossref>
+<url>db/conf/msr/msr2024.html#BernardoCMK24</url>
+</inproceedings>
+</r>
+<r><data key="data/11/BernardoCMK24" mdate="2025-06-05">
+<author orcid="0000-0001-7359-4039" pid="223/4263">Jo&#227;o Helis Bernardo</author>
+<author orcid="0000-0003-4525-3266" pid="117/5533">Daniel Alencar da Costa</author>
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Queiroz de Medeiros</author>
+<author orcid="0000-0002-5467-6458" pid="78/6010">Uir&#225; Kulesza</author>
+<title>How do Machine Learning Projects use Continuous Integration Practices? An Empirical Study on GitHub Actions.</title>
+<year>2024</year>
+<month>February</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.10637336</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="1" label="Version v1" uri="https://doi.org/10.5281/zenodo.10637335" type="versionOf"></rel>
+</data>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-09547" mdate="2024-04-05">
+<author pid="223/4263">Jo&#227;o Helis Bernardo</author>
+<author pid="117/5533">Daniel Alencar da Costa</author>
+<author pid="64/4850">S&#233;rgio Queiroz de Medeiros</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<title>How do Machine Learning Projects use Continuous Integration Practices? An Empirical Study on GitHub Actions.</title>
+<year>2024</year>
+<volume>abs/2403.09547</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.09547</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-09547</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2412-14877" mdate="2025-01-23">
+<author pid="64/4850">S&#233;rgio Queiroz de Medeiros</author>
+<author pid="237/1924">Marcelo Borges Nogueira</author>
+<author pid="359/6684">Gustavo Quezado Gurgel Magalh&#227;es</author>
+<title>Investigating the Energy Consumption of C++ and Java Solutions Mined from a Programming Contest Site.</title>
+<year>2024</year>
+<volume>abs/2412.14877</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2412.14877</ee>
+<url>db/journals/corr/corr2412.html#abs-2412-14877</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/vlc/GregorioBFM23" mdate="2023-11-01">
+<author orcid="0000-0002-3427-6756" pid="330/2536">Nelson Greg&#243;rio</author>
+<author orcid="0000-0002-3017-9449" pid="80/6802">Jo&#227;o Bispo</author>
+<author orcid="0000-0002-1952-9460" pid="94/5770">Jo&#227;o Paulo Fernandes</author>
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Queiroz de Medeiros</author>
+<title>E-APK: Energy pattern detection in decompiled android applications.</title>
+<pages>101220</pages>
+<year>2023</year>
+<month>August</month>
+<volume>76</volume>
+<journal>J. Comput. Lang.</journal>
+<ee type="oa">https://doi.org/10.1016/j.cola.2023.101220</ee>
+<url>db/journals/vlc/vlc76.html#GregorioBFM23</url>
+</article>
+</r>
+<r><inproceedings key="conf/sblp/MedeirosNM23" mdate="2025-01-19">
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Queiroz de Medeiros</author>
+<author orcid="0000-0003-4747-0811" pid="237/1924">Marcelo Borges Nogueira</author>
+<author orcid="0009-0009-6545-7515" pid="359/6684">Gustavo Quezado Gurgel Magalh&#227;es</author>
+<title>Analyzing the Time x Energy Relation in C++ Solutions Mined from a Programming Contest Site.</title>
+<pages>64-72</pages>
+<year>2023</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3624309.3624312</ee>
+<ee>https://www.wikidata.org/entity/Q130822353</ee>
+<crossref>conf/sblp/2023</crossref>
+<url>db/conf/sblp/sblp2023.html#MedeirosNM23</url>
+</inproceedings>
+</r>
+<r><article key="journals/vlc/SantAnnaM22" mdate="2023-03-21">
+<author pid="16/7375">Francisco Sant'Anna</author>
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Queiroz de Medeiros</author>
+<title>Selected and extended papers of the Brazilian Symposium on Programming Languages 2019-2020 (SBLP 2019-2020).</title>
+<pages>101092</pages>
+<year>2022</year>
+<volume>69</volume>
+<journal>J. Comput. Lang.</journal>
+<ee>https://doi.org/10.1016/j.cola.2022.101092</ee>
+<url>db/journals/vlc/vlc69.html#SantAnnaM22</url>
+</article>
+</r>
+<r><inproceedings key="conf/sblp/GregorioFBM22" mdate="2025-01-19">
+<author pid="330/2536">Nelson Greg&#243;rio</author>
+<author orcid="0000-0002-1952-9460" pid="94/5770">Jo&#227;o Paulo Fernandes</author>
+<author pid="80/6802">Jo&#227;o Bispo</author>
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<title>E-APK: Energy Pattern Detection in Decompiled Android Applications.</title>
+<pages>50-58</pages>
+<year>2022</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3561320.3561328</ee>
+<ee>https://www.wikidata.org/entity/Q131122002</ee>
+<crossref>conf/sblp/2022</crossref>
+<url>db/conf/sblp/sblp2022.html#GregorioFBM22</url>
+</inproceedings>
+</r>
+<r><article key="journals/scp/MedeirosJM20" mdate="2025-01-19">
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Queiroz de Medeiros</author>
+<author pid="241/5148">Gilney de Azevedo Alvez Junior</author>
+<author pid="80/5193">Fabio Mascarenhas</author>
+<title>Automatic syntax error reporting and recovery in parsing expression grammars.</title>
+<pages>102373</pages>
+<year>2020</year>
+<volume>187</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee>https://doi.org/10.1016/j.scico.2019.102373</ee>
+<ee>https://www.wikidata.org/entity/Q126652436</ee>
+<url>db/journals/scp/scp187.html#MedeirosJM20</url>
+</article>
+</r>
+<r><inproceedings key="conf/sle/MedeirosO20" mdate="2022-01-08">
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Queiroz de Medeiros</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<title>A semantic framework for PEGs.</title>
+<pages>230-245</pages>
+<year>2020</year>
+<booktitle>SLE</booktitle>
+<ee>https://doi.org/10.1145/3426425.3426944</ee>
+<crossref>conf/sle/2020</crossref>
+<url>db/conf/sle/sle2020.html#MedeirosO20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-04360" mdate="2023-09-24">
+<author pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<title>A Semantic Framework for PEGs.</title>
+<year>2020</year>
+<volume>abs/2011.04360</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.04360</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-04360</url>
+</article>
+</r>
+<r><inproceedings key="conf/sblp/VieiraM19" mdate="2025-01-19">
+<author orcid="0000-0002-2850-656X" pid="86/3684">Carlos Vieira</author>
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Queiroz de Medeiros</author>
+<title>IML - An Image Manipulation Language.</title>
+<pages>27-29</pages>
+<year>2019</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3355378.3355382</ee>
+<ee>https://www.wikidata.org/entity/Q131125713</ee>
+<crossref>conf/sblp/2019</crossref>
+<url>db/conf/sblp/sblp2019.html#VieiraM19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-02145" mdate="2019-05-27">
+<author pid="64/4850">S&#233;rgio Queiroz de Medeiros</author>
+<author pid="241/5148">Gilney de Azevedo Alvez Junior</author>
+<author pid="80/5193">Fabio Mascarenhas</author>
+<title>A Semi-Automatic Approach for Syntax Error Reporting and Recovery in Parsing Expression Grammars.</title>
+<year>2019</year>
+<volume>abs/1905.02145</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.02145</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-02145</url>
+</article>
+</r>
+<r><article key="journals/vlc/MedeirosM18" mdate="2019-01-18">
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Queiroz de Medeiros</author>
+<author orcid="0000-0002-2970-7160" pid="80/5193">Fabio Mascarenhas</author>
+<title>Error recovery in parsing expression grammars through labeled failures and its implementation based on a parsing machine.</title>
+<pages>17-28</pages>
+<year>2018</year>
+<volume>49</volume>
+<journal>J. Vis. Lang. Comput.</journal>
+<ee>https://doi.org/10.1016/j.jvlc.2018.10.003</ee>
+<url>db/journals/vlc/vlc49.html#MedeirosM18</url>
+</article>
+</r>
+<r><inproceedings key="conf/sac/MedeirosM18" mdate="2025-01-19">
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<author pid="80/5193">Fabio Mascarenhas</author>
+<title>Syntax error recovery in parsing expression grammars.</title>
+<pages>1195-1202</pages>
+<year>2018</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3167132.3167261</ee>
+<ee>https://www.wikidata.org/entity/Q130964728</ee>
+<crossref>conf/sac/2018</crossref>
+<url>db/conf/sac/sac2018.html#MedeirosM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/MedeirosM18" mdate="2025-01-19">
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Queiroz de Medeiros</author>
+<author pid="80/5193">Fabio Mascarenhas</author>
+<title>Towards automatic error recovery in parsing expression grammars.</title>
+<pages>3-10</pages>
+<year>2018</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3264637.3264638</ee>
+<ee>https://www.wikidata.org/entity/Q130962889</ee>
+<crossref>conf/sblp/2018</crossref>
+<url>db/conf/sblp/sblp2018.html#MedeirosM18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-11150" mdate="2023-09-24">
+<author pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<author pid="80/5193">Fabio Mascarenhas</author>
+<title>Syntax Error Recovery in Parsing Expression Grammars.</title>
+<year>2018</year>
+<volume>abs/1806.11150</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.11150</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-11150</url>
+</article>
+</r>
+<r><article key="journals/scp/MaidlMMI16" mdate="2023-09-24">
+<author pid="98/1959">Andr&#233; Murbach Maidl</author>
+<author pid="80/5193">Fabio Mascarenhas</author>
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Error reporting in Parsing Expression Grammars.</title>
+<pages>129-140</pages>
+<year>2016</year>
+<volume>132</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee type="oa">https://doi.org/10.1016/j.scico.2016.08.004</ee>
+<url>db/journals/scp/scp132.html#MaidlMMI16</url>
+</article>
+</r>
+<r><inproceedings key="conf/sac/MedeirosM16" mdate="2023-09-24">
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<author pid="80/5193">Fabio Mascarenhas</author>
+<title>A parsing machine for parsing expression grammars with labeled failures.</title>
+<pages>1960-1967</pages>
+<year>2016</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2851613.2851750</ee>
+<crossref>conf/sac/2016</crossref>
+<url>db/conf/sac/sac2016.html#MedeirosM16</url>
+</inproceedings>
+</r>
+<r><article key="journals/scp/MascarenhasMI14" mdate="2023-09-24">
+<author orcid="0000-0002-2970-7160" pid="80/5193">Fabio Mascarenhas</author>
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>On the relation between context-free grammars and parsing expression grammars.</title>
+<pages>235-250</pages>
+<year>2014</year>
+<volume>89</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee type="oa">https://doi.org/10.1016/j.scico.2014.01.012</ee>
+<url>db/journals/scp/scp89.html#MascarenhasMI14</url>
+</article>
+</r>
+<r><article key="journals/scp/MedeirosMI14" mdate="2023-09-24">
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<author orcid="0000-0002-2970-7160" pid="80/5193">Fabio Mascarenhas</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>From regexes to parsing expression grammars.</title>
+<pages>3-18</pages>
+<year>2014</year>
+<volume>93</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee type="oa">https://doi.org/10.1016/j.scico.2012.11.006</ee>
+<url>db/journals/scp/scp93.html#MedeirosMI14</url>
+</article>
+</r>
+<r><article key="journals/scp/MedeirosMI14a" mdate="2023-09-24">
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<author pid="80/5193">Fabio Mascarenhas</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Left recursion in Parsing Expression Grammars.</title>
+<pages>177-190</pages>
+<year>2014</year>
+<volume>96</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee type="oa">https://doi.org/10.1016/j.scico.2014.01.013</ee>
+<url>db/journals/scp/scp96.html#MedeirosMI14a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/MaidlMMI14" mdate="2023-09-24">
+<author pid="98/1959">Andr&#233; Murbach Maidl</author>
+<author pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<author pid="80/5193">Fabio Mascarenhas</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Error Reporting in Parsing Expression Grammars.</title>
+<year>2014</year>
+<volume>abs/1405.6646</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1405.6646</ee>
+<url>db/journals/corr/corr1405.html#MaidlMMI14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1304-3177" mdate="2023-09-24">
+<author pid="80/5193">Fabio Mascarenhas</author>
+<author pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>On the Relation between Context-Free Grammars and Parsing Expression Grammars</title>
+<ee type="oa">http://arxiv.org/abs/1304.3177</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1304.3177</volume>
+<url>db/journals/corr/corr1304.html#abs-1304-3177</url>
+</article>
+</r>
+<r><inproceedings key="conf/sblp/MedeirosMI12" mdate="2023-09-24">
+<author pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<author pid="80/5193">Fabio Mascarenhas</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Left Recursion in Parsing Expression Grammars.</title>
+<pages>27-41</pages>
+<year>2012</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33182-4_4</ee>
+<crossref>conf/sblp/2012</crossref>
+<url>db/conf/sblp/sblp2012.html#MedeirosMI12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1207-0443" mdate="2023-09-24">
+<author pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<author pid="80/5193">Fabio Mascarenhas</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Left Recursion in Parsing Expression Grammars</title>
+<ee type="oa">http://arxiv.org/abs/1207.0443</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1207.0443</volume>
+<url>db/journals/corr/corr1207.html#abs-1207-0443</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1210-4992" mdate="2023-09-24">
+<author pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<author pid="80/5193">Fabio Mascarenhas</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>From Regexes to Parsing Expression Grammars</title>
+<ee type="oa">http://arxiv.org/abs/1210.4992</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1210.4992</volume>
+<url>db/journals/corr/corr1210.html#abs-1210-4992</url>
+</article>
+</r>
+<r><phdthesis key="phd/ndltd/Medeiros10b" mdate="2018-10-29">
+<author pid="64/4850">S&#233;rgio Queiroz de Medeiros</author>
+<title>Correspond&#234;Ncia entre PEGs E Classes de Gram&#225;Ticas livres de contexto.</title>
+<year>2010</year>
+<school>Pontifical Catholic University of Rio de Janeiro, Brazil</school>
+<ee>http://www.maxwell.vrac.puc-rio.br/Busca_etds.php?strSecao=resultado&#38;nrSeq=16821@1</ee>
+<ee>http://www.maxwell.vrac.puc-rio.br/Busca_etds.php?strSecao=resultado&#38;nrSeq=16821@2</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:agregador.ibict.br.BDTD_PUC_RIO:oai:MAXWELL.puc-rio.br:16821</ee>
+<note type="source">ndltd.org (oai:agregador.ibict.br.BDTD_PUC_RIO:oai:MAXWELL.puc-rio.br:16821)</note>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/dls/MedeirosI08" mdate="2023-09-24">
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>A parsing machine for PEGs.</title>
+<pages>2</pages>
+<year>2008</year>
+<booktitle>DLS</booktitle>
+<ee>https://doi.org/10.1145/1408681.1408683</ee>
+<ee>https://www.wikidata.org/entity/Q56582251</ee>
+<crossref>conf/dls/2008</crossref>
+<url>db/conf/dls/dls2008.html#MedeirosI08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/DeharbeM06" mdate="2024-01-24">
+<author pid="25/1547">David D&#233;harbe</author>
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<title>Aspect-oriented design in systemC: implementation and applications.</title>
+<pages>119-124</pages>
+<year>2006</year>
+<crossref>conf/sbcci/2006</crossref>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1145/1150343.1150378</ee>
+<url>db/conf/sbcci/sbcci2006.html#DeharbeM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/MedeirosD01" mdate="2024-01-10">
+<author pid="64/4850">S&#233;rgio Queiroz de Medeiros</author>
+<author pid="25/1547">David D&#233;harbe</author>
+<title>BDDmeter - Uma Ferramenta para Visualiza&#231;&#227;o Din&#226;mica de BDDs.</title>
+<pages>350-355</pages>
+<year>2001</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2001.24001</ee>
+<crossref>conf/sbes/2001</crossref>
+<url>db/conf/sbes/sbes2001.html#MedeirosD01</url>
+</inproceedings>
+</r>
+<coauthors n="17" nc="4">
+<co c="1"><na f="b/Bernardo:Jo=atilde=o_Helis" pid="223/4263">Jo&#227;o Helis Bernardo</na></co>
+<co c="2"><na f="b/Bispo:Jo=atilde=o" pid="80/6802">Jo&#227;o Bispo</na></co>
+<co c="1"><na f="c/C=ocirc=go:Filipe_Roseiro" pid="16/3966">Filipe Roseiro C&#244;go</na></co>
+<co c="1"><na f="c/Costa:Daniel_Alencar_da" pid="117/5533">Daniel Alencar da Costa</na></co>
+<co c="-1"><na f="d/D=eacute=harbe:David" pid="25/1547">David D&#233;harbe</na></co>
+<co c="2"><na f="f/Fernandes:Jo=atilde=o_Paulo" pid="94/5770">Jo&#227;o Paulo Fernandes</na></co>
+<co c="2"><na f="g/Greg=oacute=rio:Nelson" pid="330/2536">Nelson Greg&#243;rio</na></co>
+<co c="0"><na f="i/Ierusalimschy:Roberto" pid="90/4557">Roberto Ierusalimschy</na></co>
+<co c="0"><na f="j/Junior:Gilney_de_Azevedo_Alvez" pid="241/5148">Gilney de Azevedo Alvez Junior</na></co>
+<co c="1"><na f="k/Kulesza:Uir=aacute=" pid="78/6010">Uir&#225; Kulesza</na></co>
+<co c="3"><na f="m/Magalh=atilde=es:Gustavo_Quezado_Gurgel" pid="359/6684">Gustavo Quezado Gurgel Magalh&#227;es</na></co>
+<co c="0"><na f="m/Maidl:Andr=eacute=_Murbach" pid="98/1959">Andr&#233; Murbach Maidl</na></co>
+<co c="0"><na f="m/Mascarenhas:Fabio" pid="80/5193">Fabio Mascarenhas</na></co>
+<co c="3"><na f="n/Nogueira:Marcelo_Borges" pid="237/1924">Marcelo Borges Nogueira</na></co>
+<co c="-1"><na f="o/Olarte:Carlos" pid="o/CarlosOlarte">Carlos Olarte</na></co>
+<co c="0"><na f="s/Sant=Anna:Francisco" pid="16/7375">Francisco Sant'Anna</na></co>
+<co c="-1"><na f="v/Vieira:Carlos" pid="86/3684">Carlos Vieira</na></co>
+</coauthors>
+</dblpperson>
+

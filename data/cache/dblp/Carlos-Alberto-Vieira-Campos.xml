@@ -1,0 +1,748 @@
+<?xml version="1.0"?>
+<dblpperson name="Carlos A. V. Campos" pid="83/4679" n="51">
+<person key="homepages/83/4679" mdate="2022-01-18">
+<author pid="83/4679">Carlos A. V. Campos</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<note type="affiliation">Federal University of the State of Rio de Janeiro, RJ, Brazil</note>
+<url>https://orcid.org/0000-0002-9979-6541</url>
+</person>
+<r><article key="journals/eaai/SoaresC25" mdate="2025-05-01">
+<author orcid="0000-0002-7371-8035" pid="400/0177">Elton F. de S. Soares</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>Self-supervised learning of monocular depth estimators in autonomous vehicles with federated learning.</title>
+<pages>110572</pages>
+<year>2025</year>
+<volume>151</volume>
+<journal>Eng. Appl. Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.engappai.2025.110572</ee>
+<url>db/journals/eaai/eaai151.html#SoaresC25</url>
+<stream>streams/journals/eaai</stream>
+</article>
+</r>
+<r><article key="journals/fgcs/SoaresBC25" mdate="2025-04-01">
+<author orcid="0000-0002-7371-8035" pid="400/0177">Elton F. de S. Soares</author>
+<author pid="26/1208">Emilio Vital Brazil</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>Enhancing federated averaging of self-supervised monocular depth estimators for autonomous vehicles with Bayesian optimization.</title>
+<pages>107752</pages>
+<year>2025</year>
+<volume>167</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2025.107752</ee>
+<url>db/journals/fgcs/fgcs167.html#SoaresBC25</url>
+<stream>streams/journals/fgcs</stream>
+</article>
+</r>
+<r><article key="journals/adhoc/SouzaRC24" mdate="2024-07-19">
+<author orcid="0000-0003-2025-1889" pid="214/1942">Cl&#225;udio Diego Teixeira de Souza</author>
+<author pid="r/JoseFerreiradeRezende">Jos&#233; Ferreira de Rezende</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>Federated Learning assisted framework to periodically identify user communities in urban space.</title>
+<pages>103589</pages>
+<year>2024</year>
+<volume>163</volume>
+<journal>Ad Hoc Networks</journal>
+<ee>https://doi.org/10.1016/j.adhoc.2024.103589</ee>
+<url>db/journals/adhoc/adhoc163.html#SouzaRC24</url>
+<stream>streams/journals/adhoc</stream>
+</article>
+</r>
+<r><article key="journals/adhoc/SouzaRC24a" mdate="2024-09-16">
+<author pid="214/1942">Cl&#225;udio Diego Teixeira de Souza</author>
+<author pid="r/JoseFerreiradeRezende">Jos&#233; Ferreira de Rezende</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>Corrigendum to &#34;Federated Learning assisted framework to periodically identify user communities in urban space&#34; [Ad Hoc Networks 163 (2024) pp. 1-21/103589].</title>
+<pages>103624</pages>
+<year>2024</year>
+<volume>165</volume>
+<journal>Ad Hoc Networks</journal>
+<ee>https://doi.org/10.1016/j.adhoc.2024.103624</ee>
+<url>db/journals/adhoc/adhoc165.html#SouzaRC24a</url>
+<stream>streams/journals/adhoc</stream>
+</article>
+</r>
+<r><article key="journals/jbcs/VieiraC24" mdate="2024-12-09">
+<author orcid="0009-0000-5712-3958" pid="369/0677">Fl&#225;vio Vieira</author>
+<author orcid="0000-0002-9979-6541" pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>Exploring Normalization for High Convergence on Federated Learning for Drones.</title>
+<pages>496-508</pages>
+<year>2024</year>
+<volume>30</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5753/jbcs.2024.4133</ee>
+<url>db/journals/jbcs/jbcs30.html#VieiraC24</url>
+<stream>streams/journals/jbcs</stream>
+</article>
+</r>
+<r><inproceedings key="conf/itsc/SoaresBC24" mdate="2025-05-06">
+<author pid="400/0177">Elton F. de S. Soares</author>
+<author pid="26/1208">Emilio Vital Brazil</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>Leveraging Bayesian Optimization to Enhance Self-Supervised Federated Learning of Monocular Depth Estimators.</title>
+<pages>2420-2425</pages>
+<year>2024</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC58415.2024.10920195</ee>
+<crossref>conf/itsc/2024</crossref>
+<url>db/conf/itsc/itsc2024.html#SoaresBC24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/SoaresC24" mdate="2024-12-09">
+<author pid="214/2120">Elton Figueiredo de S. Soares</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>Privacy-Preserving Training of Monocular Depth Estimators via Self-Supervised Federated Learning.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>VTC Fall</booktitle>
+<ee>https://doi.org/10.1109/VTC2024-Fall63153.2024.10757815</ee>
+<crossref>conf/vtc/2024f</crossref>
+<url>db/conf/vtc/vtc2024f.html#SoaresC24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/SoaresC24a" mdate="2024-12-09">
+<author pid="214/2120">Elton Figueiredo de S. Soares</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>Towards Continual Federated Learning of Monocular Depth for Autonomous Vehicles.</title>
+<pages>1-5</pages>
+<year>2024</year>
+<booktitle>VTC Fall</booktitle>
+<ee>https://doi.org/10.1109/VTC2024-Fall63153.2024.10757948</ee>
+<crossref>conf/vtc/2024f</crossref>
+<url>db/conf/vtc/vtc2024f.html#SoaresC24a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icumt/MartinsMLC23" mdate="2024-08-04">
+<author pid="362/9416">Camilla Martins</author>
+<author orcid="0000-0001-7799-4718" pid="298/0767">Pedro Nuno de Souza Moura</author>
+<author pid="90/3200">Sidney C. de Lucena</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>Container Scheduling in Kubernetes Clusters Using a Mixed Integer Linear Programming Approach.</title>
+<pages>140-145</pages>
+<year>2023</year>
+<booktitle>ICUMT</booktitle>
+<ee>https://doi.org/10.1109/ICUMT61075.2023.10333098</ee>
+<crossref>conf/icumt/2023</crossref>
+<url>db/conf/icumt/icumt2023.html#MartinsMLC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/VieiraC23" mdate="2025-05-06">
+<author orcid="0009-0000-5712-3958" pid="369/0677">Fl&#225;vio Vieira</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>FedWS: Dealing with Heterogeneous Data on Federated Learning.</title>
+<pages>2010-2015</pages>
+<year>2023</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC57777.2023.10422646</ee>
+<crossref>conf/itsc/2023</crossref>
+<url>db/conf/itsc/itsc2023.html#VieiraC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/SouzaLCD23" mdate="2025-05-06">
+<author pid="369/0626">Marcos Aur&#233;lio De P. Souza</author>
+<author pid="90/3200">Sidney Cunha de Lucena</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<author pid="01/5053">Guilherme de Melo Baptista Domingues</author>
+<title>Evaluating the influence of events on mobility-based data communities.</title>
+<pages>4209-4214</pages>
+<year>2023</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC57777.2023.10422184</ee>
+<crossref>conf/itsc/2023</crossref>
+<url>db/conf/itsc/itsc2023.html#SouzaLCD23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwcmc/ChristianiSRC23" mdate="2023-07-27">
+<author pid="352/6748">Daniel de M. C. Christiani</author>
+<author pid="175/1692">Jefferson E. Sim&#245;es</author>
+<author pid="209/2422">Ant&#244;nio A. de A. Rocha</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>DiCent: A Distributed Credit Incentive Mechanism for Opportunistic Networks.</title>
+<pages>830-835</pages>
+<year>2023</year>
+<booktitle>IWCMC</booktitle>
+<ee>https://doi.org/10.1109/IWCMC58020.2023.10182553</ee>
+<crossref>conf/iwcmc/2023</crossref>
+<url>db/conf/iwcmc/iwcmc2023.html#ChristianiSRC23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-04837" mdate="2023-10-20">
+<author pid="214/2120">Elton Figueiredo de Souza Soares</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>Federated Self-Supervised Learning of Monocular Depth Estimators for Autonomous Vehicles.</title>
+<year>2023</year>
+<volume>abs/2310.04837</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.04837</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-04837</url>
+</article>
+</r>
+<r><article key="journals/tits/FerreiraNCO22" mdate="2022-05-18">
+<author orcid="0000-0001-6088-9655" pid="156/3343">Danielle Lopes Ferreira</author>
+<author pid="27/3084">Bruno Astuto A. Nunes</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<author pid="o/KatiaObraczka">Katia Obraczka</author>
+<title>User Community Identification Through Fine-Grained Mobility Records for Smart City Applications.</title>
+<pages>4387-4401</pages>
+<year>2022</year>
+<volume>23</volume>
+<journal>IEEE Trans. Intell. Transp. Syst.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TITS.2020.3044328</ee>
+<url>db/journals/tits/tits23.html#FerreiraNCO22</url>
+</article>
+</r>
+<r><inproceedings key="conf/iwcmc/MedeirosSC22" mdate="2022-07-26">
+<author pid="308/9708">Thiago Correia Medeiros</author>
+<author pid="214/2120">Elton F. S. Soares</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>Elasticity of Intelligent Transportation System Applications in a Fog Computing Environment.</title>
+<pages>560-565</pages>
+<year>2022</year>
+<booktitle>IWCMC</booktitle>
+<ee>https://doi.org/10.1109/IWCMC55113.2022.9824638</ee>
+<crossref>conf/iwcmc/2022</crossref>
+<url>db/conf/iwcmc/iwcmc2022.html#MedeirosSC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwcmc/TeixeiraMC22" mdate="2024-08-04">
+<author pid="325/0254">Estevan Barbar&#225; Teixeira</author>
+<author orcid="0000-0001-7799-4718" pid="298/0767">Pedro Nuno de Souza Moura</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>Classification of Traffic Event Tweets in Portuguese Language Using Deep Learning.</title>
+<pages>566-571</pages>
+<year>2022</year>
+<booktitle>IWCMC</booktitle>
+<ee>https://doi.org/10.1109/IWCMC55113.2022.9825000</ee>
+<crossref>conf/iwcmc/2022</crossref>
+<url>db/conf/iwcmc/iwcmc2022.html#TeixeiraMC22</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmetrics/SimoesFMC21" mdate="2025-01-19">
+<author pid="175/1692">Jefferson E. Sim&#245;es</author>
+<author pid="77/9013">Eduardo Ferreira</author>
+<author pid="44/4915">Daniel S. Menasch&#233;</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>Blockchain Privacy Through Merge Avoidance and Mixing Services: a Hardness and an Impossibility Result.</title>
+<pages>8-11</pages>
+<year>2021</year>
+<volume>48</volume>
+<journal>SIGMETRICS Perform. Evaluation Rev.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3466826.3466831</ee>
+<ee>https://www.wikidata.org/entity/Q130878062</ee>
+<url>db/journals/sigmetrics/sigmetrics48.html#SimoesFMC21</url>
+</article>
+</r>
+<r><article key="journals/tits/SaraivaCFRSV21" mdate="2021-09-16">
+<author orcid="0000-0002-2784-6650" pid="241/6811">Tiago do Vale Saraiva</author>
+<author orcid="0000-0002-9979-6541" pid="83/4679">Carlos Alberto Vieira Campos</author>
+<author orcid="0000-0003-0012-4284" pid="170/5555">Ramon dos Reis Fontes</author>
+<author orcid="0000-0003-3109-4305" pid="70/2654">Christian Esteve Rothenberg</author>
+<author orcid="0000-0002-3936-7833" pid="98/1677">Sameh Sorour</author>
+<author orcid="0000-0001-6254-1660" pid="82/3084">Shahrokh Valaee</author>
+<title>An Application-Driven Framework for Intelligent Transportation Systems Using 5G Network Slicing.</title>
+<pages>5247-5260</pages>
+<year>2021</year>
+<volume>22</volume>
+<journal>IEEE Trans. Intell. Transp. Syst.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TITS.2021.3086064</ee>
+<url>db/journals/tits/tits22.html#SaraivaCFRSV21</url>
+</article>
+</r>
+<r><article key="journals/tvt/SoaresQC21" mdate="2021-06-11">
+<author orcid="0000-0002-7371-8035" pid="214/2120">Elton F. S. Soares</author>
+<author pid="192/4660">Carlos Alvaro de M. S. Quintella</author>
+<author orcid="0000-0002-9979-6541" pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>Smartphone-Based Real-Time Travel Mode Detection for Intelligent Transportation Systems.</title>
+<pages>1179-1189</pages>
+<year>2021</year>
+<volume>70</volume>
+<journal>IEEE Trans. Veh. Technol.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TVT.2021.3055413</ee>
+<url>db/journals/tvt/tvt70.html#SoaresQC21</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscc/MedeirosSC21" mdate="2021-12-17">
+<author pid="308/9708">Thiago Correia Medeiros</author>
+<author pid="214/2120">Elton F. S. Soares</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>An Intelligent Transportation System Application using Mobile Edge Computing.</title>
+<pages>1-6</pages>
+<year>2021</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC53001.2021.9631498</ee>
+<crossref>conf/iscc/2021</crossref>
+<url>db/conf/iscc/iscc2021.html#MedeirosSC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwcmc/SaraivaC21" mdate="2024-10-06">
+<author orcid="0000-0002-2784-6650" pid="241/6811">Tiago do Vale Saraiva</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>An approach using machine learning and public data to detect traffic jams.</title>
+<pages>675-680</pages>
+<year>2021</year>
+<booktitle>IWCMC</booktitle>
+<ee>https://doi.org/10.1109/IWCMC51323.2021.9498622</ee>
+<crossref>conf/iwcmc/2021</crossref>
+<url>db/conf/iwcmc/iwcmc2021.html#SaraivaC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/SaraivaGC21" mdate="2024-10-06">
+<author orcid="0000-0002-2784-6650" pid="241/6811">Tiago do Vale Saraiva</author>
+<author pid="56/5133">Rosario Girardi</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>Machine learning applied to network traffic for vehicular applications to predict the vehicle context.</title>
+<pages>1-5</pages>
+<year>2021</year>
+<booktitle>VTC Fall</booktitle>
+<ee>https://doi.org/10.1109/VTC2021-Fall52928.2021.9625538</ee>
+<crossref>conf/vtc/2021f</crossref>
+<url>db/conf/vtc/vtc2021f.html#SaraivaGC21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2101-00851" mdate="2021-06-11">
+<author pid="175/1692">Jefferson E. Sim&#245;es</author>
+<author pid="77/9013">Eduardo Ferreira</author>
+<author pid="44/4915">Daniel S. Menasch&#233;</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>Blockchain Privacy Through Merge Avoidance and Mixing Services: a Hardness and an Impossibility Result.</title>
+<year>2021</year>
+<volume>abs/2101.00851</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.00851</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-00851</url>
+</article>
+</r>
+<r><article key="journals/tsas/FerreiraNCO20" mdate="2023-08-28">
+<author orcid="0000-0001-6088-9655" pid="156/3343">Danielle Lopes Ferreira</author>
+<author pid="27/3084">Bruno Astuto A. Nunes</author>
+<author orcid="0000-0002-9979-6541" pid="83/4679">Carlos Alberto Vieira Campos</author>
+<author pid="o/KatiaObraczka">Katia Obraczka</author>
+<title>A Deep Learning Approach for Identifying User Communities Based on Geographical Preferences and Its Applications to Urban and Environmental Planning.</title>
+<pages>17:1-17:24</pages>
+<year>2020</year>
+<volume>6</volume>
+<journal>ACM Trans. Spatial Algorithms Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3380970</ee>
+<ee>https://www.wikidata.org/entity/Q115384044</ee>
+<url>db/journals/tsas/tsas6.html#FerreiraNCO20</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbrc/SoaresCL20" mdate="2022-04-09">
+<author orcid="0000-0002-7371-8035" pid="214/2120">Elton F. de Souza Soares</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<author pid="90/3200">Sidney Cunha de Lucena</author>
+<title>Real-Time Travel Mode Detection with Smartphone Sensing and Machine Learning.</title>
+<pages>73-80</pages>
+<year>2020</year>
+<booktitle>SBRC Companion</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc_estendido.2020.12404</ee>
+<crossref>conf/sbrc/2020c</crossref>
+<url>db/conf/sbrc/sbrc2020c.html#SoaresCL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/FariasC20" mdate="2021-06-11">
+<author pid="269/7811">Bruno Cunha Farias</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>Collaborative and distributed mechanisms for traffic jams detection and control using VANETs.</title>
+<pages>1-5</pages>
+<year>2020</year>
+<booktitle>VTC Spring</booktitle>
+<ee>https://doi.org/10.1109/VTC2020-Spring48590.2020.9128404</ee>
+<crossref>conf/vtc/2020s</crossref>
+<url>db/conf/vtc/vtc2020s.html#FariasC20</url>
+</inproceedings>
+</r>
+<r><article key="journals/access/SouzaFCJCM19" mdate="2022-01-18">
+<author orcid="0000-0003-2025-1889" pid="214/1942">Cl&#225;udio Diego Souza</author>
+<author orcid="0000-0001-6088-9655" pid="156/3343">Danielle Lopes Ferreira</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<author orcid="0000-0003-3595-3525" pid="167/8317">Antonio Carlos De Oliveira J&#250;nior</author>
+<author pid="32/10675">Kleber Vieira Cardoso</author>
+<author orcid="0000-0002-4310-2379" pid="51/7814">Waldir Moreira</author>
+<title>Employing Social Cooperation to Improve Data Discovery and Retrieval in Content-Centric Delay-Tolerant Networks.</title>
+<pages>137930-137944</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2019.2943080</ee>
+<url>db/journals/access/access7.html#SouzaFCJCM19</url>
+</article>
+</r>
+<r><article key="journals/fgcs/SoaresCL19" mdate="2021-06-11">
+<author pid="214/2120">Elton Figueiredo de S. Soares</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<author pid="90/3200">Sidney C. de Lucena</author>
+<title>Online travel mode detection method using automated machine learning and feature engineering.</title>
+<pages>1201-1212</pages>
+<year>2019</year>
+<volume>101</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2019.07.056</ee>
+<url>db/journals/fgcs/fgcs101.html#SoaresCL19</url>
+</article>
+</r>
+<r><article key="journals/tits/SoaresRBQC19" mdate="2025-01-19">
+<author orcid="0000-0002-7371-8035" pid="214/2120">Elton Figueiredo de S. Soares</author>
+<author orcid="0000-0001-8914-9132" pid="67/1904">Kate Revoredo</author>
+<author pid="b/FAraujoBaiao">Fernanda Bai&#227;o</author>
+<author pid="192/4660">Carlos Alvaro de M. S. Quintella</author>
+<author orcid="0000-0002-9979-6541" pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>A Combined Solution for Real-Time Travel Mode Detection and Trip Purpose Prediction.</title>
+<pages>4655-4664</pages>
+<year>2019</year>
+<volume>20</volume>
+<journal>IEEE Trans. Intell. Transp. Syst.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TITS.2019.2905601</ee>
+<ee>https://www.wikidata.org/entity/Q127895527</ee>
+<url>db/journals/tits/tits20.html#SoaresRBQC19</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/SoaresSCV19" mdate="2021-06-11">
+<author pid="214/2120">Elton Figueiredo de S. Soares</author>
+<author pid="23/7665">Hojjat Salehinejad</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<author pid="82/3084">Shahrokh Valaee</author>
+<title>Recurrent Neural Networks for Online Travel Mode Detection.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOBECOM38437.2019.9013316</ee>
+<crossref>conf/globecom/2019</crossref>
+<url>db/conf/globecom/globecom2019.html#SoaresSCV19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mass/FerreiraSOC19" mdate="2025-04-01">
+<author orcid="0000-0001-6088-9655" pid="156/3343">Danielle Lopes Ferreira</author>
+<author orcid="0000-0003-2025-1889" pid="214/1942">Cl&#225;udio Diego Souza</author>
+<author pid="o/KatiaObraczka">Katia Obraczka</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>Identifying User Communities Using Deep Learning and Its Application to Opportunistic Networking.</title>
+<pages>344-352</pages>
+<year>2019</year>
+<booktitle>MASS</booktitle>
+<ee>https://doi.org/10.1109/MASS.2019.00048</ee>
+<crossref>conf/mass/2019</crossref>
+<url>db/conf/mass/mass2019.html#FerreiraSOC19</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/19/SaraivaC19" mdate="2021-09-23">
+<author orcid="0000-0002-2784-6650" pid="241/6811">Tiago do Vale Saraiva</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>Realistic Vehicular Networks Simulations.</title>
+<pages>161-180</pages>
+<year>2019</year>
+<booktitle>Smart and Digital Cities</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-12255-3_10</ee>
+<crossref>books/sp/CCOO2019</crossref>
+<url>db/books/collections/CCOO2019.html#SaraivaC19</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/vtc/MouraSC18" mdate="2021-12-20">
+<author pid="239/2076">Helio de P. Moura</author>
+<author pid="175/1692">Jefferson E. Sim&#245;es</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>Modeling of Overlay Mode for Device-to-Device Inband Communications.</title>
+<pages>1-5</pages>
+<year>2018</year>
+<booktitle>VTC Fall</booktitle>
+<ee>https://doi.org/10.1109/VTCFall.2018.8690751</ee>
+<crossref>conf/vtc/2018f</crossref>
+<url>db/conf/vtc/vtc2018f.html#MouraSC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/SouzaFC17" mdate="2022-01-18">
+<author pid="214/1942">Cl&#225;udio Diego Souza</author>
+<author pid="156/3343">Danielle Lopes Ferreira</author>
+<author pid="83/4679">Carlos A. V. Campos</author>
+<title>DIRESC: Um protocolo para descoberta e recupera&#231;&#227;o de dados em redes centradas em conte&#250;do e tolerantes a atraso.</title>
+<year>2017</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://sol.sbc.org.br/index.php/sbrc/article/view/2669</ee>
+<crossref>conf/sbrc/2017</crossref>
+<url>db/conf/sbrc/sbrc2017.html#SouzaFC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/SoaresQC17" mdate="2022-01-27">
+<author pid="214/2120">Elton F. S. Soares</author>
+<author pid="192/4660">Carlos Alvaro de M. S. Quintella</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>CityTracks-RT: Uma aplica&#231;&#227;o para detec&#231;&#227;o do modo de transporte em tempo real nos centros urbanos.</title>
+<pages>222-229</pages>
+<year>2017</year>
+<booktitle>SBSI</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbsi.2017.6046</ee>
+<crossref>conf/sbsi/2017</crossref>
+<url>db/conf/sbsi/sbsi2017.html#SoaresQC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/SoaresQC17" mdate="2021-12-20">
+<author pid="214/2120">Elton Figueiredo de S. Soares</author>
+<author pid="192/4660">Carlos Alvaro de M. S. Quintella</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>Towards an Application for Real-Time Travel Mode Detection in Urban Centers.</title>
+<pages>1-5</pages>
+<year>2017</year>
+<booktitle>VTC Fall</booktitle>
+<ee>https://doi.org/10.1109/VTCFall.2017.8288311</ee>
+<crossref>conf/vtc/2017f</crossref>
+<url>db/conf/vtc/vtc2017f.html#SoaresQC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/SouzaFC17" mdate="2025-04-01">
+<author pid="214/1942">Cl&#225;udio Diego Souza</author>
+<author orcid="0000-0001-6088-9655" pid="156/3343">Danielle Lopes Ferreira</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>A Protocol for Data Discovery and Retrieval in Content-Centric and Delay-Tolerant Networks.</title>
+<pages>1-5</pages>
+<year>2017</year>
+<booktitle>VTC Fall</booktitle>
+<ee>https://doi.org/10.1109/VTCFall.2017.8288209</ee>
+<crossref>conf/vtc/2017f</crossref>
+<url>db/conf/vtc/vtc2017f.html#SouzaFC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/GuedesC16" mdate="2021-06-11">
+<author pid="192/4835">Bruno F. Guedes</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>A data aggregation scheme for traffic information systems in urban VANETs.</title>
+<pages>564-569</pages>
+<year>2016</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2016.7795610</ee>
+<crossref>conf/itsc/2016</crossref>
+<url>db/conf/itsc/itsc2016.html#GuedesC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/AlbuquerqueLC16" mdate="2021-06-11">
+<author orcid="0000-0003-2273-6054" pid="192/4828">Jose Carlos de Albuquerque</author>
+<author pid="90/3200">Sidney C. de Lucena</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>Evaluating data communications in natural disaster scenarios using opportunistic networks with Unmanned Aerial Vehicles.</title>
+<pages>1452-1457</pages>
+<year>2016</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2016.7795748</ee>
+<crossref>conf/itsc/2016</crossref>
+<url>db/conf/itsc/itsc2016.html#AlbuquerqueLC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/QuintellaAC16" mdate="2021-06-11">
+<author pid="192/4660">Carlos Alvaro de M. S. Quintella</author>
+<author pid="30/5342">Leila C. V. de Andrade</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>Detecting the transportation mode for context-aware systems using smartphones.</title>
+<pages>2261-2266</pages>
+<year>2016</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2016.7795921</ee>
+<crossref>conf/itsc/2016</crossref>
+<url>db/conf/itsc/itsc2016.html#QuintellaAC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/unet/GomesCLV16" mdate="2021-06-11">
+<author pid="189/4745">Elenilson da N&#243;brega Gomes</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<author pid="90/3200">Sidney C. de Lucena</author>
+<author pid="91/6813">Aline Carneiro Viana</author>
+<title>A Message Removal Mechanism for Delay Tolerant Networks.</title>
+<pages>43-55</pages>
+<year>2016</year>
+<booktitle>UNet</booktitle>
+<ee>https://doi.org/10.1007/978-981-10-1627-1_4</ee>
+<crossref>conf/unet/2016</crossref>
+<url>db/conf/unet/unet2016.html#GomesCLV16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwcmc/JuniorC15" mdate="2017-06-04">
+<author orcid="0000-0002-6298-0441" pid="168/4928">Nelson Machado Junior</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>SOCLEER: A social-based energy-efficient forwarding protocol for opportunistic networks.</title>
+<pages>757-762</pages>
+<year>2015</year>
+<booktitle>IWCMC</booktitle>
+<ee>https://doi.org/10.1109/IWCMC.2015.7289178</ee>
+<crossref>conf/iwcmc/2015</crossref>
+<url>db/conf/iwcmc/iwcmc2015.html#JuniorC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/MachadoCL14" mdate="2023-03-24">
+<author orcid="0000-0002-6298-0441" pid="168/4928">Nelson Machado</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<author pid="90/3200">Sidney Cunha de Lucena</author>
+<title>A Solution Proposal to the Preferred Nodes Problem in Social-Based Opportunistic Protocols.</title>
+<pages>42-51</pages>
+<year>2014</year>
+<booktitle>SBRC</booktitle>
+<ee>https://doi.org/10.1109/SBRC.2014.6</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBRC.2014.6</ee>
+<crossref>conf/sbrc/2014</crossref>
+<url>db/conf/sbrc/sbrc2014.html#MachadoCL14</url>
+</inproceedings>
+</r>
+<r><article key="journals/cm/OliveiraLCR13" mdate="2023-07-27">
+<author pid="128/4028">Alex Oliveira</author>
+<author pid="90/3200">Sidney C. de Lucena</author>
+<author pid="83/4679">Carlos A. V. Campos</author>
+<author pid="209/2422">Ant&#244;nio A. de A. Rocha</author>
+<title>Packet dispersion techniques over WiMAX links: challenges and problems.</title>
+<pages>154-159</pages>
+<year>2013</year>
+<volume>51</volume>
+<journal>IEEE Commun. Mag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MCOM.2013.6476881</ee>
+<url>db/journals/cm/cm51.html#OliveiraLCR13</url>
+</article>
+</r>
+<r><article key="journals/isys/Campos12" mdate="2024-02-21">
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<title>Editorial Vol. 5.</title>
+<year>2012</year>
+<volume>5</volume>
+<journal>Braz. J. Inf. Syst.</journal>
+<ee type="oa">https://doi.org/10.5753/isys.2012.207</ee>
+<url>db/journals/isys/isys5.html#Campos12</url>
+</article>
+</r>
+<r><inproceedings key="conf/wcnc/CruzCPFO12" mdate="2021-06-11">
+<author pid="115/6479">Ederval P. Ferreira Cruz</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<author orcid="0000-0002-8781-3914" pid="70/2771">Rafael Pasquini</author>
+<author pid="09/4901">Luis F. Faina</author>
+<author orcid="0000-0001-9181-8438" pid="88/4760">Rodolfo Oliveira</author>
+<title>Performance analysis of XOR-based routing in urban vehicular ad hoc networks.</title>
+<pages>2521-2525</pages>
+<year>2012</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC.2012.6214223</ee>
+<crossref>conf/wcnc/2012</crossref>
+<url>db/conf/wcnc/wcnc2012.html#CruzCPFO12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/new2an/CamposMHN11" mdate="2020-06-05">
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<author pid="28/3122">Lu&#237;s Felipe M. de Moraes</author>
+<author orcid="0000-0002-6717-8271" pid="27/9959">Eduardo M. Hargreaves</author>
+<author orcid="0000-0002-8890-7963" pid="27/3084">Bruno Astuto A. Nunes</author>
+<title>Node Mobility Modeling in Ad Hoc Networks through a Birth and Death Process.</title>
+<pages>238-250</pages>
+<year>2011</year>
+<booktitle>NEW2AN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-22875-9_22</ee>
+<crossref>conf/new2an/2011</crossref>
+<url>db/conf/new2an/new2an2011.html#CamposMHN11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/AzevedoBCM09" mdate="2020-06-05">
+<author pid="36/8335">Tiago S. Azevedo</author>
+<author pid="11/8335">Rafael L. Bezerra</author>
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<author pid="28/3122">Lu&#237;s Felipe M. de Moraes</author>
+<title>An analysis of human mobility using real traces.</title>
+<pages>2390-2395</pages>
+<year>2009</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC.2009.4917569</ee>
+<crossref>conf/wcnc/2009</crossref>
+<url>db/conf/wcnc/wcnc2009.html#AzevedoBCM09</url>
+</inproceedings>
+</r>
+<r><article key="journals/ejwcn/CamposM07" mdate="2020-08-27">
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<author pid="28/3122">Lu&#237;s Felipe M. de Moraes</author>
+<title>A Markovian Model Representation of Individual Mobility Scenarios in Ad Hoc Networks and Its Evaluation.</title>
+<year>2007</year>
+<volume>2007</volume>
+<journal>EURASIP J. Wirel. Commun. Netw.</journal>
+<ee type="oa">https://doi.org/10.1155/2007/35946</ee>
+<ee>https://www.wikidata.org/entity/Q59214647</ee>
+<url>db/journals/ejwcn/ejwcn2007.html#CamposM07</url>
+</article>
+</r>
+<r><inproceedings key="conf/conext/CamposM06" mdate="2020-06-05">
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<author pid="28/3122">Lu&#237;s Felipe M. de Moraes</author>
+<title>Investigating the user mobility in wireless mobile networks through real measurements.</title>
+<pages>58</pages>
+<year>2006</year>
+<booktitle>CoNEXT</booktitle>
+<ee>https://doi.org/10.1145/1368436.1368503</ee>
+<crossref>conf/conext/2006</crossref>
+<url>db/conf/conext/conext2006.html#CamposM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/CamposOM04" mdate="2020-06-05">
+<author pid="83/4679">Carlos Alberto Vieira Campos</author>
+<author pid="120/8155">Daniel C. Otero</author>
+<author pid="28/3122">Lu&#237;s Felipe M. de Moraes</author>
+<title>Realistic individual mobility Markovian models for mobile ad hoc networks.</title>
+<pages>1980-1985</pages>
+<year>2004</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC.2004.1311389</ee>
+<crossref>conf/wcnc/2004</crossref>
+<url>db/conf/wcnc/wcnc2004.html#CamposOM04</url>
+</inproceedings>
+</r>
+<coauthors n="52" nc="1">
+<co c="0"><na f="a/Albuquerque:Jose_Carlos_de" pid="192/4828">Jose Carlos de Albuquerque</na></co>
+<co c="0" n="2"><na f="a/Andrade:Leila_Cristina_V=_de" pid="30/5342">Leila Cristina V. de Andrade</na><na>Leila C. V. de Andrade</na></co>
+<co c="0"><na f="a/Azevedo:Tiago_S=" pid="36/8335">Tiago S. Azevedo</na></co>
+<co c="0"><na f="b/Bai=atilde=o:Fernanda" pid="b/FAraujoBaiao">Fernanda Bai&#227;o</na></co>
+<co c="0"><na f="b/Bezerra:Rafael_L=" pid="11/8335">Rafael L. Bezerra</na></co>
+<co c="0"><na f="b/Brazil:Emilio_Vital" pid="26/1208">Emilio Vital Brazil</na></co>
+<co c="0"><na f="c/Cardoso:Kleber_Vieira" pid="32/10675">Kleber Vieira Cardoso</na></co>
+<co c="0"><na f="c/Christiani:Daniel_de_M=_C=" pid="352/6748">Daniel de M. C. Christiani</na></co>
+<co c="0"><na f="c/Cruz:Ederval_P=_Ferreira" pid="115/6479">Ederval P. Ferreira Cruz</na></co>
+<co c="0"><na f="d/Domingues:Guilherme_de_Melo_Baptista" pid="01/5053">Guilherme de Melo Baptista Domingues</na></co>
+<co c="0"><na f="f/Faina:Luis_F=" pid="09/4901">Luis F. Faina</na></co>
+<co c="-1"><na f="f/Farias:Bruno_Cunha" pid="269/7811">Bruno Cunha Farias</na></co>
+<co c="0"><na f="f/Ferreira:Danielle_Lopes" pid="156/3343">Danielle Lopes Ferreira</na></co>
+<co c="0"><na f="f/Ferreira:Eduardo" pid="77/9013">Eduardo Ferreira</na></co>
+<co c="0"><na f="f/Fontes:Ramon_dos_Reis" pid="170/5555">Ramon dos Reis Fontes</na></co>
+<co c="0"><na f="g/Girardi:Rosario" pid="56/5133">Rosario Girardi</na></co>
+<co c="0"><na f="g/Gomes:Elenilson_da_N=oacute=brega" pid="189/4745">Elenilson da N&#243;brega Gomes</na></co>
+<co c="-1"><na f="g/Guedes:Bruno_F=" pid="192/4835">Bruno F. Guedes</na></co>
+<co c="0"><na f="h/Hargreaves:Eduardo_M=" pid="27/9959">Eduardo M. Hargreaves</na></co>
+<co c="0" n="2"><na f="j/Junior:Waldir_Aranha_Moreira" pid="51/7814">Waldir Aranha Moreira Junior</na><na>Waldir Moreira</na></co>
+<co c="0" n="2"><na f="l/Lucena:Sidney_C=_de" pid="90/3200">Sidney C. de Lucena</na><na>Sidney Cunha de Lucena</na></co>
+<co c="0" n="2"><na f="m/Machado:Nelson" pid="168/4928">Nelson Machado</na><na>Nelson Machado Junior</na></co>
+<co c="0"><na f="m/Martins:Camilla" pid="362/9416">Camilla Martins</na></co>
+<co c="0"><na f="m/Medeiros:Thiago_Correia" pid="308/9708">Thiago Correia Medeiros</na></co>
+<co c="0" n="2"><na f="m/Menasch=eacute=:Daniel_Sadoc" pid="44/4915">Daniel Sadoc Menasch&#233;</na><na>Daniel S. Menasch&#233;</na></co>
+<co c="0"><na f="m/Moraes:Lu=iacute=s_Felipe_M=_de" pid="28/3122">Lu&#237;s Felipe M. de Moraes</na></co>
+<co c="0"><na f="m/Moura:Helio_de_P=" pid="239/2076">Helio de P. Moura</na></co>
+<co c="0"><na f="m/Moura:Pedro_Nuno_de_Souza" pid="298/0767">Pedro Nuno de Souza Moura</na></co>
+<co c="0"><na f="n/Nunes:Bruno_Astuto_A=" pid="27/3084">Bruno Astuto A. Nunes</na></co>
+<co c="0"><na f="o/Obraczka:Katia" pid="o/KatiaObraczka">Katia Obraczka</na></co>
+<co c="0"><na f="o/Oliveira:Alex" pid="128/4028">Alex Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Rodolfo" pid="88/4760">Rodolfo Oliveira</na></co>
+<co c="0" n="2"><na f="o/Oliveira_Jr=:Antonio" pid="167/8317">Antonio Oliveira Jr.</na><na>Antonio Carlos De Oliveira J&#250;nior</na></co>
+<co c="0"><na f="o/Otero:Daniel_C=" pid="120/8155">Daniel C. Otero</na></co>
+<co c="0"><na f="p/Pasquini:Rafael" pid="70/2771">Rafael Pasquini</na></co>
+<co c="0"><na f="q/Quintella:Carlos_Alvaro_de_M=_S=" pid="192/4660">Carlos Alvaro de M. S. Quintella</na></co>
+<co c="0"><na f="r/Revoredo:Kate" pid="67/1904">Kate Revoredo</na></co>
+<co c="0"><na f="r/Rezende:Jos=eacute=_Ferreira_de" pid="r/JoseFerreiradeRezende">Jos&#233; Ferreira de Rezende</na></co>
+<co c="0" n="2"><na f="r/Rocha:Ant=ocirc=nio_Augusto_de_Arag=atilde=o" pid="209/2422">Ant&#244;nio Augusto de Arag&#227;o Rocha</na><na>Ant&#244;nio A. de A. Rocha</na></co>
+<co c="0"><na f="r/Rothenberg:Christian_Esteve" pid="70/2654">Christian Esteve Rothenberg</na></co>
+<co c="0"><na f="s/Salehinejad:Hojjat" pid="23/7665">Hojjat Salehinejad</na></co>
+<co c="0"><na f="s/Saraiva:Tiago_do_Vale" pid="241/6811">Tiago do Vale Saraiva</na></co>
+<co c="0" n="2"><na f="s/Sim=otilde=es:Jefferson_Elbert" pid="175/1692">Jefferson Elbert Sim&#245;es</na><na>Jefferson E. Sim&#245;es</na></co>
+<co c="0"><na f="s/Soares:Elton_F=_de_S=" pid="400/0177">Elton F. de S. Soares</na></co>
+<co c="0" n="4"><na f="s/Soares:Elton_F=_S=" pid="214/2120">Elton F. S. Soares</na><na>Elton Figueiredo de S. Soares</na><na>Elton F. de Souza Soares</na><na>Elton Figueiredo de Souza Soares</na></co>
+<co c="0"><na f="s/Sorour:Sameh" pid="98/1677">Sameh Sorour</na></co>
+<co c="0" n="2"><na f="s/Souza:Cl=aacute=udio_Diego" pid="214/1942">Cl&#225;udio Diego Souza</na><na>Cl&#225;udio Diego Teixeira de Souza</na></co>
+<co c="0"><na f="s/Souza:Marcos_Aur=eacute=lio_De_P=" pid="369/0626">Marcos Aur&#233;lio De P. Souza</na></co>
+<co c="0"><na f="t/Teixeira:Estevan_Barbar=aacute=" pid="325/0254">Estevan Barbar&#225; Teixeira</na></co>
+<co c="0"><na f="v/Valaee:Shahrokh" pid="82/3084">Shahrokh Valaee</na></co>
+<co c="0"><na f="v/Viana:Aline_Carneiro" pid="91/6813">Aline Carneiro Viana</na></co>
+<co c="-1"><na f="v/Vieira:Fl=aacute=vio" pid="369/0677">Fl&#225;vio Vieira</na></co>
+</coauthors>
+</dblpperson>
+

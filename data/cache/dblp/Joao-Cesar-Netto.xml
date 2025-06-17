@@ -1,0 +1,387 @@
+<?xml version="1.0"?>
+<dblpperson name="Jo&#227;o Cesar Netto" pid="49/10578" n="22">
+<person key="homepages/49/10578" mdate="2012-09-03">
+<author pid="49/10578">Jo&#227;o Cesar Netto</author>
+</person>
+<r><inproceedings key="conf/sbbd/SchenaNB22" mdate="2022-10-18">
+<author pid="329/9231">Rafael Schena</author>
+<author pid="49/10578">Jo&#227;o Cesar Netto</author>
+<author orcid="0000-0003-4967-1027" pid="00/3080">Karin Becker</author>
+<title>Aplica&#231;&#227;o de t&#233;cnicas de minera&#231;&#227;o em dados sint&#233;ticos para manuten&#231;&#227;o preditiva: um estudo de caso.</title>
+<pages>26-38</pages>
+<year>2022</year>
+<booktitle>SBBD</booktitle>
+<ee>https://doi.org/10.5753/sbbd.2022.224627</ee>
+<crossref>conf/sbbd/2022</crossref>
+<url>db/conf/sbbd/sbbd2022.html#SchenaNB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/SouzaNG19" mdate="2019-08-19">
+<author pid="247/1349">Matheus Maia de Souza</author>
+<author pid="49/10578">Jo&#227;o Cesar Netto</author>
+<author pid="37/2418">Renata Galante</author>
+<title>FFT-2PCA: A New Feature Extraction Method for Data-Based Fault Detection.</title>
+<pages>215-224</pages>
+<year>2019</year>
+<booktitle>DEXA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-27615-7_16</ee>
+<crossref>conf/dexa/2019-1</crossref>
+<url>db/conf/dexa/dexa2019-1.html#SouzaNG19</url>
+</inproceedings>
+</r>
+<r><article key="journals/imm/BertelliSSFBMNW17" mdate="2021-04-09">
+<author pid="199/9133">Guilherme Bertelli</author>
+<author pid="59/11459-3">Anderson Santos 0003</author>
+<author orcid="0000-0002-0116-6489" pid="193/9971">Ivanovitch Silva</author>
+<author pid="167/2184">Renato Fernandes</author>
+<author orcid="0000-0003-1558-0581" pid="63/7073">Dennis Brand&#227;o</author>
+<author orcid="0000-0003-2914-0050" pid="83/9958">Ivan M&#252;ller</author>
+<author pid="49/10578">Jo&#227;o Cesar Netto</author>
+<author pid="117/9039">Jean Michel Winter</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<title>Research activities on industrial wireless instrumentation: Brazilian perspective.</title>
+<pages>21-30</pages>
+<year>2017</year>
+<volume>20</volume>
+<journal>IEEE Instrum. Meas. Mag.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MIM.2017.7919129</ee>
+<url>db/journals/imm/imm20.html#BertelliSSFBMNW17</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbesc/ArcariCPNTSM17" mdate="2023-03-23">
+<author pid="247/1377">Felipe D'Agostini Arcari</author>
+<author pid="48/2043">Celso Maciel da Costa</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<author pid="49/10578">Jo&#227;o Cesar Netto</author>
+<author pid="210/3807">Guilherme Torres</author>
+<author pid="247/1349">Matheus Maia de Souza</author>
+<author orcid="0000-0003-2914-0050" pid="83/9958">Ivan M&#252;ller</author>
+<title>Development of a WirelessHART - EnOcean Adapter for Industrial Applications.</title>
+<pages>181-186</pages>
+<year>2017</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2017.31</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2017.31</ee>
+<crossref>conf/sbesc/2017</crossref>
+<url>db/conf/sbesc/sbesc2017.html#ArcariCPNTSM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/i2mtc/WinterPNSMC16" mdate="2021-04-08">
+<author pid="117/9039">Jean Michel Winter</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<author pid="49/10578">Jo&#227;o Cesar Netto</author>
+<author pid="193/9975">Fernando A. Souza</author>
+<author orcid="0000-0003-2914-0050" pid="83/9958">Ivan M&#252;ller</author>
+<author orcid="0000-0002-9599-9552" pid="33/9271">Sebastian Y. C. Catunda</author>
+<title>Analysis of a radio physical layer fault in WirelessHART networks.</title>
+<pages>1-5</pages>
+<year>2016</year>
+<booktitle>I2MTC</booktitle>
+<ee>https://doi.org/10.1109/I2MTC.2016.7520524</ee>
+<crossref>conf/i2mtc/2016</crossref>
+<url>db/conf/i2mtc/i2mtc2016.html#WinterPNSMC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indin/MullerWPBN16" mdate="2020-10-25">
+<author orcid="0000-0003-2914-0050" pid="83/9958">Ivan M&#252;ller</author>
+<author pid="117/9039">Jean Michel Winter</author>
+<author pid="00/2206">Carlos Eduardo Pereira</author>
+<author orcid="0000-0002-6615-6134" pid="143/0572">Valner Joao Brusamarello</author>
+<author pid="49/10578">Jo&#227;o Cesar Netto</author>
+<title>Energy consumption estimation for TDMA-based industrial wireless sensor networks.</title>
+<pages>625-630</pages>
+<year>2016</year>
+<booktitle>INDIN</booktitle>
+<ee>https://doi.org/10.1109/INDIN.2016.7819236</ee>
+<crossref>conf/indin/2016</crossref>
+<url>db/conf/indin/indin2016.html#MullerWPBN16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/WinterPNSCM16" mdate="2023-03-23">
+<author pid="117/9039">Jean Michel Winter</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<author pid="49/10578">Jo&#227;o Cesar Netto</author>
+<author pid="193/9975">Fernando A. Souza</author>
+<author pid="48/2043">Celso Maciel da Costa</author>
+<author orcid="0000-0003-2914-0050" pid="83/9958">Ivan M&#252;ller</author>
+<title>Evaluation of TDMA Robustness in WirelessHART Networks.</title>
+<pages>209-213</pages>
+<year>2016</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2016.040</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2016.040</ee>
+<crossref>conf/sbesc/2016</crossref>
+<url>db/conf/sbesc/sbesc2016.html#WinterPNSCM16</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijdsn/WinterMSSNBNP15" mdate="2022-01-03">
+<author pid="117/9039">Jean Michel Winter</author>
+<author orcid="0000-0003-2914-0050" pid="83/9958">Ivan M&#252;ller</author>
+<author pid="152/9894">Gloria Soatti</author>
+<author orcid="0000-0002-9865-6512" pid="02/234">Stefano Savazzi</author>
+<author orcid="0000-0001-7104-7015" pid="71/1544">Monica Nicoli</author>
+<author orcid="0000-0003-1872-4771" pid="24/3796">Leandro Buss Becker</author>
+<author pid="49/10578">Jo&#227;o Cesar Netto</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<title>Wireless Coexistence and Spectrum Sensing in Industrial Internet of Things: An Experimental Study.</title>
+<pages>627083:1-627083:12</pages>
+<year>2015</year>
+<volume>11</volume>
+<journal>Int. J. Distributed Sens. Networks</journal>
+<ee type="oa">https://doi.org/10.1155/2015/627083</ee>
+<ee>https://www.wikidata.org/entity/Q59109170</ee>
+<url>db/journals/ijdsn/ijdsn11.html#WinterMSSNBNP15</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbesc/GarciaENPM15" mdate="2023-03-23">
+<author orcid="0000-0003-3816-4900" pid="177/2526">Cristiane Silva Garcia</author>
+<author orcid="0000-0001-8557-0384" pid="44/9183">Diego Eckhard</author>
+<author pid="49/10578">Jo&#227;o Cesar Netto</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<author orcid="0000-0003-2914-0050" pid="83/9958">Ivan M&#252;ller</author>
+<title>Bluetooth Enabled Data Collector for Wireless Sensor Networks.</title>
+<pages>54-57</pages>
+<year>2015</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2015.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2015.17</ee>
+<crossref>conf/sbesc/2015</crossref>
+<url>db/conf/sbesc/sbesc2015.html#GarciaENPM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/i2mtc/MullerWBPN14" mdate="2021-04-08">
+<author orcid="0000-0003-2914-0050" pid="83/9958">Ivan M&#252;ller</author>
+<author pid="117/9039">Jean Michel Winter</author>
+<author orcid="0000-0002-6615-6134" pid="143/0572">Valner Jo&#227;o Brusamarello</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<author pid="49/10578">Jo&#227;o Cesar Netto</author>
+<title>Algorithm for estimation of energy consumption of industrial wireless sensor networks nodes.</title>
+<pages>440-444</pages>
+<year>2014</year>
+<booktitle>I2MTC</booktitle>
+<ee>https://doi.org/10.1109/I2MTC.2014.6860783</ee>
+<crossref>conf/i2mtc/2014</crossref>
+<url>db/conf/i2mtc/i2mtc2014.html#MullerWBPN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indin/WinterMPSBN14" mdate="2022-01-03">
+<author pid="117/9039">Jean Michel Winter</author>
+<author orcid="0000-0003-2914-0050" pid="83/9958">Ivan M&#252;ller</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<author orcid="0000-0002-9865-6512" pid="02/234">Stefano Savazzi</author>
+<author orcid="0000-0003-1872-4771" pid="24/3796">Leandro Buss Becker</author>
+<author pid="49/10578">Jo&#227;o Cesar Netto</author>
+<title>Coexistence issues in wireless networks for factory automation.</title>
+<pages>370-375</pages>
+<year>2014</year>
+<booktitle>INDIN</booktitle>
+<ee>https://doi.org/10.1109/INDIN.2014.6945541</ee>
+<crossref>conf/indin/2014</crossref>
+<url>db/conf/indin/indin2014.html#WinterMPSBN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indin/ArizaMWNPB14" mdate="2020-10-25">
+<author pid="154/5065">J. K. Ariza</author>
+<author orcid="0000-0003-2914-0050" pid="83/9958">Ivan M&#252;ller</author>
+<author pid="117/9039">Jean Michel Winter</author>
+<author pid="49/10578">Jo&#227;o Cesar Netto</author>
+<author pid="00/2206">Carlos Eduardo Pereira</author>
+<author orcid="0000-0002-6615-6134" pid="143/0572">Valner Joao Brusamarello</author>
+<title>WirelessHART localization algorithm.</title>
+<pages>690-695</pages>
+<year>2014</year>
+<booktitle>INDIN</booktitle>
+<ee>https://doi.org/10.1109/INDIN.2014.6945597</ee>
+<crossref>conf/indin/2014</crossref>
+<url>db/conf/indin/indin2014.html#ArizaMWNPB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indin/MachadoMWDPN14" mdate="2020-10-25">
+<author pid="154/5107">Tatiane Machado</author>
+<author orcid="0000-0003-2914-0050" pid="83/9958">Ivan M&#252;ller</author>
+<author pid="117/9039">Jean Michel Winter</author>
+<author pid="154/5073">Victor Dickow</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<author pid="49/10578">Jo&#227;o Cesar Netto</author>
+<title>WirelessHART network analyzer with coexistence detection.</title>
+<pages>696-701</pages>
+<year>2014</year>
+<booktitle>INDIN</booktitle>
+<ee>https://doi.org/10.1109/INDIN.2014.6945598</ee>
+<crossref>conf/indin/2014</crossref>
+<url>db/conf/indin/indin2014.html#MachadoMWDPN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/SotoMWPN14" mdate="2023-03-23">
+<author orcid="0000-0002-8863-9356" pid="171/6219">Viyils Sangregorio Soto</author>
+<author orcid="0000-0003-2914-0050" pid="83/9958">Ivan M&#252;ller</author>
+<author pid="117/9039">Jean Michel Winter</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<author pid="49/10578">Jo&#227;o Cesar Netto</author>
+<title>Control over WirelessHART Network through a Host Application: A WirelessHART Network Control Proposal.</title>
+<pages>91-96</pages>
+<year>2014</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2014.31</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2014.31</ee>
+<crossref>conf/sbesc/2014</crossref>
+<url>db/conf/sbesc/sbesc2014.html#SotoMWPN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iess/KunzelWMPN13" mdate="2020-10-25">
+<author pid="131/6304">Gustavo K&#252;nzel</author>
+<author pid="117/9039">Jean Michel Winter</author>
+<author orcid="0000-0003-2914-0050" pid="83/9958">Ivan M&#252;ller</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<author pid="49/10578">Jo&#227;o Cesar Netto</author>
+<title>A Passive Monitoring Tool for Evaluation of Routing in WirelessHART Networks.</title>
+<pages>159-170</pages>
+<year>2013</year>
+<booktitle>IESS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-38853-8_15</ee>
+<crossref>conf/iess/2013</crossref>
+<url>db/conf/iess/iess2013.html#KunzelWMPN13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indin/MullerWPN13" mdate="2020-10-25">
+<author orcid="0000-0003-2914-0050" pid="83/9958">Ivan M&#252;ller</author>
+<author pid="117/9039">Jean Michel Winter</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<author pid="49/10578">Jo&#227;o Cesar Netto</author>
+<title>WirelessHART Fast Collect: A decentralized approach for intermittent field devices.</title>
+<pages>254-259</pages>
+<year>2013</year>
+<booktitle>INDIN</booktitle>
+<ee>https://doi.org/10.1109/INDIN.2013.6622891</ee>
+<crossref>conf/indin/2013</crossref>
+<url>db/conf/indin/indin2013.html#MullerWPN13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/CovattiWMPN13" mdate="2023-03-23">
+<author pid="160/4467">Fernando Covatti</author>
+<author pid="117/9039">Jean Michel Winter</author>
+<author orcid="0000-0003-2914-0050" pid="83/9958">Ivan M&#252;ller</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<author pid="49/10578">Jo&#227;o Cesar Netto</author>
+<title>A WirelessHART and IEC 61850 Gateway Proposal.</title>
+<pages>173-174</pages>
+<year>2013</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2013.24</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2013.24</ee>
+<crossref>conf/sbesc/2013</crossref>
+<url>db/conf/sbesc/sbesc2013.html#CovattiWMPN13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clei/MarceloNP12" mdate="2017-09-16">
+<author pid="132/7206">Alisson Marcelo</author>
+<author pid="49/10578">Jo&#227;o Cesar Netto</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<title>Performance analysis of security layer on embedded web services.</title>
+<pages>1-11</pages>
+<year>2012</year>
+<crossref>conf/clei/2012</crossref>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI.2012.6427233</ee>
+<url>db/conf/clei/clei2012.html#MarceloNP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/new2an/MullerWFNP12" mdate="2022-06-23">
+<author orcid="0000-0003-2914-0050" pid="83/9958">Ivan M&#252;ller</author>
+<author pid="117/9039">Jean Michel Winter</author>
+<author orcid="0000-0003-4655-8889" pid="96/3201">Edison Pignaton de Freitas</author>
+<author pid="49/10578">Jo&#227;o Cesar Netto</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<title>Towards WirelessHART Protocol Decentralization: A Proposal Overview.</title>
+<pages>248-259</pages>
+<year>2012</year>
+<booktitle>NEW2AN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-32686-8_23</ee>
+<crossref>conf/new2an/2012</crossref>
+<url>db/conf/new2an/new2an2012.html#MullerWFNP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/KunzelWMPN12" mdate="2023-03-23">
+<author pid="131/6304">Gustavo K&#252;nzel</author>
+<author pid="117/9039">Jean Michel Winter</author>
+<author orcid="0000-0003-2914-0050" pid="83/9958">Ivan M&#252;ller</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<author pid="49/10578">Jo&#227;o Cesar Netto</author>
+<title>Passive Monitoring Software Tool for Evaluation of Deployed WirelessHART Networks.</title>
+<pages>7-12</pages>
+<year>2012</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2012.11</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2012.11</ee>
+<crossref>conf/sbesc/2012</crossref>
+<url>db/conf/sbesc/sbesc2012.html#KunzelWMPN12</url>
+</inproceedings>
+</r>
+<r><article key="journals/imm/MullerNP11" mdate="2020-10-26">
+<author orcid="0000-0003-2914-0050" pid="83/9958">Ivan M&#252;ller</author>
+<author pid="49/10578">Jo&#227;o Cesar Netto</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<title>WirelessHART field devices.</title>
+<pages>20-25</pages>
+<year>2011</year>
+<volume>14</volume>
+<journal>IEEE Instrum. Meas. Mag.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/MIM.2011.6086896</ee>
+<url>db/journals/imm/imm14.html#MullerNP11</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbesc/WinterLMPN11" mdate="2023-03-23">
+<author pid="117/9039">Jean Michel Winter</author>
+<author pid="160/4523">Carolina Lima</author>
+<author orcid="0000-0003-2914-0050" pid="83/9958">Ivan M&#252;ller</author>
+<author orcid="0000-0003-4315-4256" pid="00/2206">Carlos Eduardo Pereira</author>
+<author pid="49/10578">Jo&#227;o Cesar Netto</author>
+<title>WirelessHART Routing Analysis Software.</title>
+<pages>96-98</pages>
+<year>2011</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2011.21</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2011.21</ee>
+<crossref>conf/sbesc/2011</crossref>
+<url>db/conf/sbesc/sbesc2011.html#WinterLMPN11</url>
+</inproceedings>
+</r>
+<coauthors n="33" nc="1">
+<co c="0"><na f="a/Arcari:Felipe_D=Agostini" pid="247/1377">Felipe D'Agostini Arcari</na></co>
+<co c="0"><na f="a/Ariza:J=_K=" pid="154/5065">J. K. Ariza</na></co>
+<co c="0"><na f="b/Becker:Karin" pid="00/3080">Karin Becker</na></co>
+<co c="0"><na f="b/Becker:Leandro_Buss" pid="24/3796">Leandro Buss Becker</na></co>
+<co c="0"><na f="b/Bertelli:Guilherme" pid="199/9133">Guilherme Bertelli</na></co>
+<co c="0"><na f="b/Brand=atilde=o:Dennis" pid="63/7073">Dennis Brand&#227;o</na></co>
+<co c="0" n="2"><na f="b/Brusamarello:Valner_Jo=atilde=o" pid="143/0572">Valner Jo&#227;o Brusamarello</na><na>Valner Joao Brusamarello</na></co>
+<co c="0"><na f="c/Catunda:Sebastian_Y=_C=" pid="33/9271">Sebastian Y. C. Catunda</na></co>
+<co c="0"><na f="c/Costa:Celso_Maciel_da" pid="48/2043">Celso Maciel da Costa</na></co>
+<co c="0"><na f="c/Covatti:Fernando" pid="160/4467">Fernando Covatti</na></co>
+<co c="0"><na f="d/Dickow:Victor" pid="154/5073">Victor Dickow</na></co>
+<co c="0"><na f="e/Eckhard:Diego" pid="44/9183">Diego Eckhard</na></co>
+<co c="0"><na f="f/Fernandes:Renato" pid="167/2184">Renato Fernandes</na></co>
+<co c="0"><na f="f/Freitas:Edison_Pignaton_de" pid="96/3201">Edison Pignaton de Freitas</na></co>
+<co c="0"><na f="g/Galante:Renata" pid="37/2418">Renata Galante</na></co>
+<co c="0"><na f="g/Garcia:Cristiane_Silva" pid="177/2526">Cristiane Silva Garcia</na></co>
+<co c="0"><na f="k/K=uuml=nzel:Gustavo" pid="131/6304">Gustavo K&#252;nzel</na></co>
+<co c="0"><na f="l/Lima:Carolina" pid="160/4523">Carolina Lima</na></co>
+<co c="0"><na f="m/Machado:Tatiane" pid="154/5107">Tatiane Machado</na></co>
+<co c="0"><na f="m/Marcelo:Alisson" pid="132/7206">Alisson Marcelo</na></co>
+<co c="0"><na f="m/M=uuml=ller:Ivan" pid="83/9958">Ivan M&#252;ller</na></co>
+<co c="0"><na f="n/Nicoli:Monica" pid="71/1544">Monica Nicoli</na></co>
+<co c="0"><na f="p/Pereira:Carlos_Eduardo" pid="00/2206">Carlos Eduardo Pereira</na></co>
+<co c="0"><na f="s/Santos_0003:Anderson" pid="59/11459-3">Anderson Santos 0003</na></co>
+<co c="0"><na f="s/Savazzi:Stefano" pid="02/234">Stefano Savazzi</na></co>
+<co c="0"><na f="s/Schena:Rafael" pid="329/9231">Rafael Schena</na></co>
+<co c="0"><na f="s/Silva:Ivanovitch" pid="193/9971">Ivanovitch Silva</na></co>
+<co c="0"><na f="s/Soatti:Gloria" pid="152/9894">Gloria Soatti</na></co>
+<co c="0"><na f="s/Soto:Viyils_Sangregorio" pid="171/6219">Viyils Sangregorio Soto</na></co>
+<co c="0"><na f="s/Souza:Fernando_A=" pid="193/9975">Fernando A. Souza</na></co>
+<co c="0"><na f="s/Souza:Matheus_Maia_de" pid="247/1349">Matheus Maia de Souza</na></co>
+<co c="0"><na f="t/Torres:Guilherme" pid="210/3807">Guilherme Torres</na></co>
+<co c="0"><na f="w/Winter:Jean_Michel" pid="117/9039">Jean Michel Winter</na></co>
+</coauthors>
+</dblpperson>
+

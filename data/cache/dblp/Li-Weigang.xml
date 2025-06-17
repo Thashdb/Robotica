@@ -1,0 +1,1720 @@
+<?xml version="1.0"?>
+<dblpperson name="Weigang Li 0001" pid="l/WeigangLi" n="104">
+<person key="homepages/l/WeigangLi" mdate="2022-02-15">
+<author pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="l/WeigangLi">Li Weigang 0001</author>
+<note type="affiliation">University of Brasilia, Brazil</note>
+<url>https://www.cic.unb.br/~weigang/</url>
+<url>https://orcid.org/0000-0003-1826-1850</url>
+<url>https://www.scopus.com/authid/detail.uri?authorId=52163887600</url>
+</person>
+<homonyms n="4">
+<h f="l/Li:Weigang"><person publtype="disambiguation" key="homepages/285/2485" mdate="2021-02-17">
+<author pid="285/2485">Weigang Li</author>
+</person>
+</h>
+<h f="l/Li_0002:Weigang"><person key="homepages/285/2485-2" mdate="2025-01-10">
+<author pid="285/2485-2">Weigang Li 0002</author>
+<note type="affiliation">Intel Corporation, Shanghai, China</note>
+<url>https://orcid.org/0009-0004-8932-5801</url>
+<url>https://www.wikidata.org/entity/Q131114101</url>
+</person>
+</h>
+<h f="l/Li_0003:Weigang"><person key="homepages/285/2485-3" mdate="2021-02-16">
+<author pid="285/2485-3">Weigang Li 0003</author>
+<note type="affiliation">Harbin Institute of Technology, School of Computer Science and Technology, Information Retrieval Laboratory, China</note>
+</person>
+</h>
+<h f="l/Li_0004:Weigang"><person key="homepages/285/2485-4" mdate="2021-02-16">
+<author pid="285/2485-4">Weigang Li 0004</author>
+<note type="affiliation">Wuhan University of Science and Technology, School of Information Science and Engineering, China</note>
+</person>
+</h>
+</homonyms>
+<homonyms n="1">
+<h f="w/Weigang:Li"><name>Li Weigang</name>
+</h>
+</homonyms>
+<r><article key="journals/jclc/LiRBL25" mdate="2025-04-01">
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author orcid="0000-0001-7422-3213" pid="185/6785">Rafael Marconi Ramos</author>
+<author orcid="0000-0002-1288-7695" pid="385/1153">Pedro Carvalho Brom</author>
+<author orcid="0000-0003-4239-6288" pid="302/3803">Danilo Lelin Li</author>
+<title>Threshold Study for Hanzi Image Recognition: Defining Character and Component Limits in Chinese, Japanese, and Korean Script Processing.</title>
+<pages>2450011:1-2450011:29</pages>
+<year>2025</year>
+<month>March</month>
+<volume>35</volume>
+<journal>Int. J. Asian Lang. Process.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1142/S2717554524500115</ee>
+<url>db/journals/jclc/jclc35.html#LiRBL25</url>
+<stream>streams/journals/jclc</stream>
+</article>
+</r>
+<r><article key="journals/nca/EnamotoFL25" mdate="2025-03-07">
+<author orcid="0000-0003-0188-5966" pid="261/5043">Liriam Enamoto</author>
+<author orcid="0000-0001-6795-2768" pid="141/9518">Geraldo Pereira Rocha Filho</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<title>Empowering few-shot learning: a multimodal optimization framework.</title>
+<pages>3539-3560</pages>
+<year>2025</year>
+<month>February</month>
+<volume>37</volume>
+<journal>Neural Comput. Appl.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00521-024-10780-4</ee>
+<url>db/journals/nca/nca37.html#EnamotoFL25</url>
+<stream>streams/journals/nca</stream>
+</article>
+</r>
+<r><inproceedings key="conf/icaart/Bezerra025" mdate="2025-04-15">
+<author pid="385/1496">Yuri Fa&#231;anha Bezerra</author>
+<author pid="l/WeigangLi">Li Weigang 0001</author>
+<title>LLMQuoter: Enhancing RAG Capabilities Through Efficient Quote Extraction from Large Contexts.</title>
+<pages>1335-1342</pages>
+<year>2025</year>
+<booktitle>ICAART (3)</booktitle>
+<ee>https://doi.org/10.5220/0013358700003890</ee>
+<crossref>conf/icaart/2025-3</crossref>
+<url>db/conf/icaart/icaart2025-3.html#Bezerra025</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2501-05554" mdate="2025-02-19">
+<author pid="385/1496">Yuri Fa&#231;anha Bezerra</author>
+<author pid="l/WeigangLi">Weigang Li 0001</author>
+<title>LLMQuoter: Enhancing RAG Capabilities Through Efficient Quote Extraction From Large Contexts.</title>
+<year>2025</year>
+<month>January</month>
+<volume>abs/2501.05554</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2501.05554</ee>
+<url>db/journals/corr/corr2501.html#abs-2501-05554</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2504-16286" mdate="2025-05-23">
+<author pid="l/WeigangLi">Li Weigang 0001</author>
+<author pid="385/1153">Pedro Carvalho Brom</author>
+<title>The Paradox of Poetic Intent in Back-Translation: Evaluating the Quality of Large Language Models in Chinese Translation.</title>
+<year>2025</year>
+<month>April</month>
+<volume>abs/2504.16286</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2504.16286</ee>
+<url>db/journals/corr/corr2504.html#abs-2504-16286</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/eswa/SalehW24" mdate="2023-12-10">
+<author pid="167/4723">Ahmed Abdelfattah Saleh</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<title><i>TxLASM</i>: A novel language agnostic summarization model for text documents.</title>
+<pages>121433</pages>
+<year>2024</year>
+<month>March</month>
+<volume>237</volume>
+<journal>Expert Syst. Appl.</journal>
+<number>Part A</number>
+<ee>https://doi.org/10.1016/j.eswa.2023.121433</ee>
+<url>db/journals/eswa/eswa237.html#SalehW24</url>
+</article>
+</r>
+<r><article key="journals/jzusc/LiMLO24" mdate="2024-04-01">
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author orcid="0009-0004-3159-7804" pid="368/1136">Mayara Chew Marinho</author>
+<author orcid="0000-0003-0664-3149" pid="291/3270">Denise Leyi Li</author>
+<author orcid="0009-0001-0026-9240" pid="368/0756">Vitor Vasconcelos De Oliveira</author>
+<title>Six-Writings multimodal processing with pictophonetic coding to enhance Chinese language models.</title>
+<pages>84-105</pages>
+<year>2024</year>
+<month>January</month>
+<volume>25</volume>
+<journal>Frontiers Inf. Technol. Electron. Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1631/FITEE.2300384</ee>
+<url>db/journals/jzusc/jzusc25.html#LiMLO24</url>
+</article>
+</r>
+<r><inproceedings key="conf/ialp/LiRB24" mdate="2025-03-04">
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author orcid="0000-0001-7422-3213" pid="185/6785">Rafael Marconi Ramos</author>
+<author pid="385/1153">Pedro Carvalho Brom</author>
+<title>Threshold Determination for Chinese Character Image Processing in Multimodal Information Fusion.</title>
+<pages>43-48</pages>
+<year>2024</year>
+<booktitle>IALP</booktitle>
+<ee>https://doi.org/10.1109/IALP63756.2024.10661155</ee>
+<crossref>conf/ialp/2024</crossref>
+<url>db/conf/ialp/ialp2024.html#LiRB24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/MeloROFL0JSFBKC24" mdate="2024-12-12">
+<author pid="299/3177">Ma&#237;sa Kely de Melo</author>
+<author pid="337/1941">Silvia Ara&#250;jo dos Reis</author>
+<author pid="232/6607">Vin&#237;cius Di Oliveira</author>
+<author pid="333/0220">Allan Victor Almeida Faria</author>
+<author pid="195/0118">Ricardo de Lima</author>
+<author pid="l/WeigangLi">Li Weigang 0001</author>
+<author pid="131/9537">Jos&#233; Francisco Salm Junior</author>
+<author pid="392/6006">Joao Gabriel de Moraes Souza</author>
+<author pid="392/5962">V&#233;rica Freitas</author>
+<author pid="385/1153">Pedro Carvalho Brom</author>
+<author pid="187/5656">Herbert Kimura</author>
+<author pid="56/6618">Daniel Oliveira Cajueiro</author>
+<author pid="258/8281">Gladston Luiz da Silva</author>
+<author pid="09/3862">Victor Rafael R. Celestino</author>
+<title>Implementing AI for Enhanced Public Services Gov.br: A Methodology for the Brazilian Federal Government.</title>
+<pages>90-101</pages>
+<year>2024</year>
+<booktitle>WEBIST</booktitle>
+<ee>https://doi.org/10.5220/0012997000003825</ee>
+<crossref>conf/webist/2024</crossref>
+<url>db/conf/webist/webist2024.html#MeloROFL0JSFBKC24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/OliveiraB0BC24" mdate="2024-12-12">
+<author pid="232/6607">Vin&#237;cius Di Oliveira</author>
+<author pid="385/1496">Yuri Fa&#231;anha Bezerra</author>
+<author pid="l/WeigangLi">Li Weigang 0001</author>
+<author pid="385/1153">Pedro Carvalho Brom</author>
+<author pid="09/3862">Victor Rafael R. Celestino</author>
+<title>SLIM-RAFT: A Novel Fine-Tuning Approach to Improve Cross-Linguistic Performance for Mercosur Common Nomenclature.</title>
+<pages>234-241</pages>
+<year>2024</year>
+<booktitle>WEBIST</booktitle>
+<ee>https://doi.org/10.5220/0012943400003825</ee>
+<crossref>conf/webist/2024</crossref>
+<url>db/conf/webist/webist2024.html#OliveiraB0BC24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2408-03936" mdate="2025-03-03">
+<author pid="232/6607">Vin&#237;cius Di Oliveira</author>
+<author pid="385/1496">Yuri Fa&#231;anha Bezerra</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="385/1153">Pedro Carvalho Brom</author>
+<author pid="09/3862">Victor Rafael R. Celestino</author>
+<title>SLIM-RAFT: A Novel Fine-Tuning Approach to Improve Cross-Linguistic Performance for Mercosur Common Nomenclature.</title>
+<year>2024</year>
+<volume>abs/2408.03936</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2408.03936</ee>
+<url>db/journals/corr/corr2408.html#abs-2408-03936</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/access/SuZL23" mdate="2023-12-10">
+<author orcid="0000-0002-1076-8684" pid="241/6584">Yanyuan Su</author>
+<author pid="68/10186">Yaming Zhang</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<title>Multi-Stage Information Spreading Model in Simplicial Complexes Driven by Spatiotemporal Evolution of Public Health Emergency.</title>
+<pages>128316-128336</pages>
+<year>2023</year>
+<volume>11</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2023.3332656</ee>
+<url>db/journals/access/access11.html#SuZL23</url>
+</article>
+</r>
+<r><article key="journals/eswa/SalehW23" mdate="2023-07-07">
+<author orcid="0000-0002-4550-4910" pid="167/4723">Ahmed Abdelfattah Saleh</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<title>Deep self-organizing cube: A novel multi-dimensional classifier for multiple output learning.</title>
+<pages>120627</pages>
+<year>2023</year>
+<month>November</month>
+<volume>230</volume>
+<journal>Expert Syst. Appl.</journal>
+<ee>https://doi.org/10.1016/j.eswa.2023.120627</ee>
+<url>db/journals/eswa/eswa230.html#SalehW23</url>
+</article>
+</r>
+<r><inproceedings key="conf/fusion/EnamotoLFC23" mdate="2025-03-03">
+<author orcid="0000-0003-0188-5966" pid="261/5043">Liriam Enamoto</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="141/9518">Geraldo P. Rocha Filho</author>
+<author pid="44/6502">Paulo Costa 0003</author>
+<title>Generic Multimodal Gradient-based Meta Learner Framework.</title>
+<pages>1-8</pages>
+<year>2023</year>
+<booktitle>FUSION</booktitle>
+<ee>https://doi.org/10.23919/FUSION52260.2023.10224143</ee>
+<crossref>conf/fusion/2023</crossref>
+<url>db/conf/fusion/fusion2023.html#EnamotoLFC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpads/GarciaLHN23" mdate="2025-03-03">
+<author pid="372/9989">Cristiano P. Garcia</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="62/2188">Nina S. T. Hirata</author>
+<author orcid="0000-0003-4320-8795" pid="362/8313">Clovis Neumann</author>
+<title>ISUAM: Intelligent and Safe UAM with Deep Reinforcement Learning.</title>
+<pages>378-383</pages>
+<year>2023</year>
+<booktitle>ICPADS</booktitle>
+<ee>https://doi.org/10.1109/ICPADS60453.2023.00064</ee>
+<crossref>conf/icpads/2023</crossref>
+<url>db/conf/icpads/icpads2023.html#GarciaLHN23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iecon/MartinsCSWC23" mdate="2023-12-10">
+<author orcid="0000-0003-2446-2034" pid="361/4629">James de C. Martins</author>
+<author orcid="0000-0002-0326-1738" pid="361/3929">Gabriel A. Castro</author>
+<author pid="269/8347">Leonardo R. Souza</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<author orcid="0000-0002-8280-1551" pid="44/6502">Paulo C. G. Costa</author>
+<title>Identification of the Advanced Data Exfiltration by Human Activity Recognition using Transformer.</title>
+<pages>1-7</pages>
+<year>2023</year>
+<booktitle>IECON</booktitle>
+<ee>https://doi.org/10.1109/IECON51785.2023.10312631</ee>
+<crossref>conf/iecon/2023</crossref>
+<url>db/conf/iecon/iecon2023.html#MartinsCSWC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/CoelhoBVSS0NMOA23" mdate="2025-03-03">
+<author orcid="0000-0002-6517-1957" pid="362/7769">Jaqueline Gutierri Coelho</author>
+<author orcid="0000-0002-4938-2076" pid="362/8259">Guilherme Dantas Bispo</author>
+<author pid="163/9158">Guilherme Fay Vergara</author>
+<author pid="362/8229">Gabriela Mayumi Saiki</author>
+<author orcid="0000-0001-5182-0496" pid="362/7622">Andr&#233; Luiz Marques Serrano</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<author orcid="0000-0003-4320-8795" pid="362/8313">Clovis Neumann</author>
+<author pid="362/8200">Patricia Helena Martins</author>
+<author orcid="0009-0002-7020-5442" pid="362/7891">Welber Santos de Oliveira</author>
+<author pid="362/8233">Angela Brigida Albarello</author>
+<author pid="362/8278">Ricardo Accorsi Casonatto</author>
+<author pid="362/8031">Patr&#237;cia Missel</author>
+<author pid="362/7677">Roberto de Medeiros Junior</author>
+<author pid="51/3143">Jefferson de Oliveira Gomes</author>
+<author pid="362/8333">Carlos Rosano-Pe&#241;a</author>
+<author pid="362/8429">Caroline Cabral F. da Costa</author>
+<title>Enhancing Industrial Productivity Through AI-Driven Systematic Literature Reviews.</title>
+<pages>472-479</pages>
+<year>2023</year>
+<booktitle>WEBIST</booktitle>
+<ee>https://doi.org/10.5220/0012235000003584</ee>
+<crossref>conf/webist/2023</crossref>
+<url>db/conf/webist/webist2023.html#CoelhoBVSS0NMOA23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2301-03403" mdate="2025-03-03">
+<author pid="56/6618">Daniel Oliveira Cajueiro</author>
+<author orcid="0000-0001-6844-807X" pid="332/9795">Arthur Gomes Nery</author>
+<author pid="337/2402">Igor Tavares</author>
+<author pid="299/3177">Ma&#237;sa Kely de Melo</author>
+<author pid="337/1941">Silvia Ara&#250;jo dos Reis</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<author pid="09/3862">Victor Rafael Rezende Celestino</author>
+<title>A comprehensive review of automatic text summarization techniques: method, data, evaluation and coding.</title>
+<year>2023</year>
+<volume>abs/2301.03403</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2301.03403</ee>
+<url>db/journals/corr/corr2301.html#abs-2301-03403</url>
+</article>
+</r>
+<r><article key="journals/ijcat/EnamotoSMLF22" mdate="2022-09-21">
+<author pid="261/5043">Liriam Enamoto</author>
+<author pid="95/10305">Alan R. Santos</author>
+<author pid="62/4556">Ricardo Maia</author>
+<author pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="141/9518">Geraldo P. Rocha Filho</author>
+<title>Multi-label legal text classification with BiLSTM and attention.</title>
+<pages>369-378</pages>
+<year>2022</year>
+<volume>68</volume>
+<journal>Int. J. Comput. Appl. Technol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1504/IJCAT.2022.10050321</ee>
+<url>db/journals/ijcat/ijcat68.html#EnamotoSMLF22</url>
+</article>
+</r>
+<r><article key="journals/jam/ZhangTW22" mdate="2022-12-05">
+<author orcid="0000-0002-9479-079X" pid="68/10186">Yaming Zhang</author>
+<author orcid="0000-0001-6923-855X" pid="154/7006">Chaosheng Tang</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<title>Corrigendum to &#34;Cooperative and Competitive Dynamics Model for Information Propagation in Online Social Networks&#34;.</title>
+<pages>9840796:1-9840796:1</pages>
+<year>2022</year>
+<volume>2022</volume>
+<journal>J. Appl. Math.</journal>
+<ee type="oa">https://doi.org/10.1155/2022/9840796</ee>
+<url>db/journals/jam/jam2022.html#ZhangTW22</url>
+</article>
+</r>
+<r><article key="journals/jzusc/LiELF22" mdate="2022-08-08">
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author orcid="0000-0003-0188-5966" pid="261/5043">Liriam Enamoto</author>
+<author orcid="0000-0003-0664-3149" pid="291/3270">Denise Leyi Li</author>
+<author orcid="0000-0001-6795-2768" pid="141/9518">Geraldo Pereira Rocha Filho</author>
+<title>New directions for artificial intelligence: human, machine, biological, and quantum intelligence.</title>
+<pages>984-990</pages>
+<year>2022</year>
+<volume>23</volume>
+<journal>Frontiers Inf. Technol. Electron. Eng.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1631/FITEE.2100227</ee>
+<url>db/journals/jzusc/jzusc23.html#LiELF22</url>
+</article>
+</r>
+<r><inproceedings key="conf/uic/LiMFMAPFJR22" mdate="2025-03-03">
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="353/4701">Luiz Martins</author>
+<author pid="353/4600">Nikson Ferreira</author>
+<author pid="215/3482">Christian Miranda</author>
+<author orcid="0000-0002-3387-9686" pid="306/9802">Lucas S. Althoff</author>
+<author pid="353/4644">Walner Pessoa</author>
+<author orcid="0000-0002-1957-9943" pid="96/2885">Myl&#232;ne C. Q. Farias</author>
+<author pid="353/4661">Ricardo Jacobi</author>
+<author pid="353/4612">Mauricio Rincon</author>
+<title>Heuristic Once Learning for Image &#38; Text Duality Information Processing.</title>
+<pages>1353-1359</pages>
+<year>2022</year>
+<booktitle>SmartWorld/UIC/ScalCom/DigitalTwin/PriComp/Meta</booktitle>
+<ee>https://doi.org/10.1109/SmartWorld-UIC-ATC-ScalCom-DigitalTwin-PriComp-Metaverse56740.2022.00195</ee>
+<crossref>conf/uic/2022</crossref>
+<url>db/conf/uic/uic2022.html#LiMFMAPFJR22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/FariaMO0C22" mdate="2023-09-24">
+<author orcid="0000-0002-4300-9334" pid="333/0220">Allan Victor Almeida Faria</author>
+<author orcid="0000-0001-8120-9778" pid="299/3177">Ma&#237;sa Kely de Melo</author>
+<author orcid="0000-0001-5801-7620" pid="333/0121">Fl&#225;vio Augusto R. de Oliveira</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<author orcid="0000-0001-5913-2997" pid="09/3862">Victor Rafael Rezende Celestino</author>
+<title>Automated SLR with a Few Labeled Papers and a Fair Workload Metric.</title>
+<pages>1-23</pages>
+<year>2022</year>
+<booktitle>WEBIST (Revised Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-43088-6_1</ee>
+<crossref>conf/webist/2022sp</crossref>
+<url>db/conf/webist/webist2022sp.html#FariaMO0C22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/MeloF0NOBC22" mdate="2023-09-30">
+<author pid="299/3177">Ma&#237;sa Kely de Melo</author>
+<author orcid="0000-0002-4300-9334" pid="333/0220">Allan Victor Almeida Faria</author>
+<author pid="l/WeigangLi">Li Weigang 0001</author>
+<author orcid="0000-0001-6844-807X" pid="332/9795">Arthur Gomes Nery</author>
+<author pid="333/0121">Fl&#225;vio Augusto R. de Oliveira</author>
+<author pid="332/9964">Ian Teixeira Barreiro</author>
+<author pid="09/3862">Victor Rafael Rezende Celestino</author>
+<title>Few-shot Approach for Systematic Literature Review Classifications.</title>
+<pages>33-44</pages>
+<year>2022</year>
+<booktitle>WEBIST</booktitle>
+<ee>https://doi.org/10.5220/0011526400003318</ee>
+<crossref>conf/webist/2022</crossref>
+<url>db/conf/webist/webist2022.html#MeloF0NOBC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/Rocha0DFCMC22" mdate="2023-09-24">
+<author orcid="0000-0003-0481-6907" pid="333/0075">Carlos Alberto Alvares Rocha</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<author orcid="0000-0003-0998-0597" pid="37/2499">Marcos Vin&#237;cius Pinheiro Dib</author>
+<author orcid="0000-0002-4300-9334" pid="333/0220">Allan Victor Almeida Faria</author>
+<author orcid="0000-0001-5898-1655" pid="56/6618">Daniel Oliveira Cajueiro</author>
+<author orcid="0000-0001-8120-9778" pid="299/3177">Ma&#237;sa Kely de Melo</author>
+<author orcid="0000-0001-5913-2997" pid="09/3862">Victor Rafael Rezende Celestino</author>
+<title>Leveraging Transfer Learning for Long Text Classification with Limited Data.</title>
+<pages>98-120</pages>
+<year>2022</year>
+<booktitle>WEBIST (Revised Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-43088-6_6</ee>
+<crossref>conf/webist/2022sp</crossref>
+<url>db/conf/webist/webist2022sp.html#Rocha0DFCMC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/RochaD0NFCMC22" mdate="2023-09-30">
+<author pid="333/0075">Carlos Alberto Alvares Rocha</author>
+<author pid="37/2499">Marcos Vin&#237;cius Pinheiro Dib</author>
+<author pid="l/WeigangLi">Li Weigang 0001</author>
+<author pid="333/0034">Andrea Ferreira Portela Nunes</author>
+<author orcid="0000-0002-4300-9334" pid="333/0220">Allan Victor Almeida Faria</author>
+<author pid="56/6618">Daniel Oliveira Cajueiro</author>
+<author pid="299/3177">Ma&#237;sa Kely de Melo</author>
+<author pid="09/3862">Victor Rafael Rezende Celestino</author>
+<title>Using Transfer Learning To Classify Long Unstructured Texts with Small Amounts of Labeled Data.</title>
+<pages>201-213</pages>
+<year>2022</year>
+<booktitle>WEBIST</booktitle>
+<ee>https://doi.org/10.5220/0011527700003318</ee>
+<crossref>conf/webist/2022</crossref>
+<url>db/conf/webist/webist2022.html#RochaD0NFCMC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/Oliveira0F22" mdate="2022-11-14">
+<author pid="232/6607">Vin&#237;cius Di Oliveira</author>
+<author pid="l/WeigangLi">Li Weigang 0001</author>
+<author pid="141/9518">Geraldo Pereira Rocha Filho</author>
+<title>ELEVEN Data-Set: A Labeled Set of Descriptions of Goods Captured from Brazilian Electronic Invoices.</title>
+<pages>257-264</pages>
+<year>2022</year>
+<booktitle>WEBIST</booktitle>
+<ee>https://doi.org/10.5220/0011524800003318</ee>
+<crossref>conf/webist/2022</crossref>
+<url>db/conf/webist/webist2022.html#Oliveira0F22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/AlthoffFL22" mdate="2025-03-03">
+<author orcid="0000-0002-3387-9686" pid="306/9802">Lucas S. Althoff</author>
+<author orcid="0000-0002-1957-9943" pid="96/2885">Myl&#232;ne C. Q. Farias</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<title>Once Learning for Looking and Identifying Based on YOLO-v5 Object Detection.</title>
+<pages>298-304</pages>
+<year>2022</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/3539637.3557929</ee>
+<crossref>conf/webmedia/2022</crossref>
+<url>db/conf/webmedia/webmedia2022.html#AlthoffFL22</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijgi/CarvalhoMABPLBG21" mdate="2022-08-16">
+<author orcid="0000-0002-5619-8525" pid="253/4336">Osmar Luiz Ferreira de Carvalho Jr.</author>
+<author orcid="0000-0002-7685-8826" pid="269/3739">Rebeca dos Santos de Moura</author>
+<author orcid="0000-0003-1561-7583" pid="269/3403">Anesmar Olino de Albuquerque</author>
+<author orcid="0000-0003-3868-8704" pid="262/4308">Pablo Pozzobon de Bem</author>
+<author pid="310/7791">Rubens de Castro Pereira</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author orcid="0000-0002-4868-0629" pid="67/5182">D&#237;bio Leandro Borges</author>
+<author orcid="0000-0002-9555-043X" pid="91/8985">Renato Fontes Guimar&#227;es</author>
+<author orcid="0000-0003-4724-4064" pid="53/8987">Roberto Arnaldo Trancoso Gomes</author>
+<author orcid="0000-0002-0346-1684" pid="253/1984">Osmar Ab&#237;lio de Carvalho J&#250;nior</author>
+<title>Instance Segmentation for Governmental Inspection of Small Touristic Infrastructure in Beach Zones Using Multispectral High-Resolution WorldView-3 Imagery.</title>
+<pages>813</pages>
+<year>2021</year>
+<volume>10</volume>
+<journal>ISPRS Int. J. Geo Inf.</journal>
+<number>12</number>
+<ee type="oa">https://doi.org/10.3390/ijgi10120813</ee>
+<ee>https://www.wikidata.org/entity/Q112764920</ee>
+<url>db/journals/ijgi/ijgi10.html#CarvalhoMABPLBG21</url>
+</article>
+</r>
+<r><article key="journals/mta/EnamotoWF21" mdate="2022-10-02">
+<author orcid="0000-0003-0188-5966" pid="261/5043">Liriam Enamoto</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<author pid="141/9518">Geraldo P. Rocha Filho</author>
+<title>Generic framework for multilingual short text categorization using convolutional neural network.</title>
+<pages>13475-13490</pages>
+<year>2021</year>
+<volume>80</volume>
+<journal>Multim. Tools Appl.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1007/s11042-020-10314-9</ee>
+<url>db/journals/mta/mta80.html#EnamotoWF21</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccais/WeigangL21" mdate="2025-03-03">
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<author pid="309/6394">Denise Levi Li</author>
+<title>Formulation of Relationship in Bibliographic Networks Using Follow Model of Micro-Blogging.</title>
+<pages>40-45</pages>
+<year>2021</year>
+<booktitle>ICCAIS</booktitle>
+<ee>https://doi.org/10.1109/ICCAIS52680.2021.9624635</ee>
+<crossref>conf/iccais/2021</crossref>
+<url>db/conf/iccais/iccais2021.html#WeigangL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/DouradoGCW21" mdate="2025-03-03">
+<author pid="202/6257">Aloisio Dourado</author>
+<author pid="238/0188">Frederico Guth</author>
+<author pid="94/4509">Teofilo de Campos</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<title>Domain Adaptation for Holistic Skin Detection.</title>
+<pages>362-369</pages>
+<year>2021</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI54419.2021.00056</ee>
+<crossref>conf/sibgrapi/2021</crossref>
+<url>db/conf/sibgrapi/sibgrapi2021.html#DouradoGCW21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/KieckbuschFO021a" mdate="2023-03-11">
+<author pid="254/6236">Diego Santos Kieckbusch</author>
+<author orcid="0000-0001-6795-2768" pid="141/9518">Geraldo Pereira Rocha Filho</author>
+<author orcid="0000-0002-1295-5221" pid="232/6607">Vin&#237;cius Di Oliveira</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<title>Towards Intelligent Processing of Electronic Invoices: The General Framework and Case Study of Short Text Deep Learning in Brazil.</title>
+<pages>74-92</pages>
+<year>2021</year>
+<booktitle>WEBIST (Revised Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-24197-0_5</ee>
+<crossref>conf/webist/2021sp</crossref>
+<url>db/conf/webist/webist2021sp.html#KieckbuschFO021a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/OliveiraC0NF21" mdate="2022-11-14">
+<author pid="232/6607">Vin&#237;cius Di Oliveira</author>
+<author pid="198/2036">Ricardo Matos Chaim</author>
+<author pid="l/WeigangLi">Li Weigang 0001</author>
+<author pid="306/6187">Sergio Augusto Para Bittencourt Neto</author>
+<author pid="141/9518">Geraldo Pereira Rocha Filho</author>
+<title>Towards a Smart Identification of Tax Default Risk with Machine Learning.</title>
+<pages>422-429</pages>
+<year>2021</year>
+<booktitle>WEBIST</booktitle>
+<ee>https://doi.org/10.5220/0010712200003058</ee>
+<crossref>conf/webist/2021</crossref>
+<url>db/conf/webist/webist2021.html#OliveiraC0NF21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/KieckbuschFO021" mdate="2022-11-14">
+<author pid="254/6236">Diego S. Kieckbusch</author>
+<author pid="141/9518">Geraldo P. R. Filho</author>
+<author pid="232/6607">Vin&#237;cius Di Oliveira</author>
+<author pid="l/WeigangLi">Li Weigang 0001</author>
+<title>SCAN-NF: A CNN-based System for the Classification of Electronic Invoices through Short-text Product Description.</title>
+<pages>501-508</pages>
+<year>2021</year>
+<booktitle>WEBIST</booktitle>
+<ee>https://doi.org/10.5220/0010715200003058</ee>
+<crossref>conf/webist/2021</crossref>
+<url>db/conf/webist/webist2021.html#KieckbuschFO021</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-13155" mdate="2021-05-03">
+<author pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="261/5043">Liriam Enamoto</author>
+<author pid="291/3270">Denise Leyi Li</author>
+<author pid="141/9518">Geraldo Pereira Rocha Filho</author>
+<title>Watershed of Artificial Intelligence: Human Intelligence, Machine Intelligence, and Biological Intelligence.</title>
+<year>2021</year>
+<volume>abs/2104.13155</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.13155</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-13155</url>
+</article>
+</r>
+<r><article key="journals/adhoc/FilhoMNVWUPV20" mdate="2025-03-03">
+<author pid="141/9518">Geraldo P. Rocha Filho</author>
+<author orcid="0000-0003-2982-4006" pid="123/3499">Rodolfo I. Meneguette</author>
+<author pid="170/5542">Jos&#233; Rodrigues Torres Neto</author>
+<author orcid="0000-0002-9046-9499" pid="149/9198">Alan Valejo</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<author orcid="0000-0002-5591-3750" pid="68/1201">J&#243; Ueyama</author>
+<author pid="59/7537">Gustavo Pessin</author>
+<author pid="64/7382">Leandro A. Villas</author>
+<title>Enhancing intelligence in traffic management systems to aid in vehicle traffic congestion problems in smart cities.</title>
+<pages>102265</pages>
+<year>2020</year>
+<volume>107</volume>
+<journal>Ad Hoc Networks</journal>
+<ee>https://doi.org/10.1016/j.adhoc.2020.102265</ee>
+<url>db/journals/adhoc/adhoc107.html#FilhoMNVWUPV20</url>
+</article>
+</r>
+<r><article key="journals/fgcs/FilhoMMPGWUV20" mdate="2025-02-25">
+<author orcid="0000-0001-6795-2768" pid="141/9518">Geraldo P. Rocha Filho</author>
+<author orcid="0000-0003-2982-4006" pid="123/3499">Rodolfo I. Meneguette</author>
+<author pid="97/7509">Guilherme Maia</author>
+<author pid="59/7537">Gustavo Pessin</author>
+<author orcid="0000-0002-3771-2605" pid="115/5019">Vin&#237;cius P. Gon&#231;alves 0001</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<author orcid="0000-0002-5591-3750" pid="68/1201">J&#243; Ueyama</author>
+<author pid="64/7382">Leandro A. Villas</author>
+<title>A fog-enabled smart home solution for decision-making using smart objects.</title>
+<pages>18-27</pages>
+<year>2020</year>
+<volume>103</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2019.09.045</ee>
+<url>db/journals/fgcs/fgcs103.html#FilhoMMPGWUV20</url>
+</article>
+</r>
+<r><inproceedings key="conf/iecon/LeiteWBC20" mdate="2025-03-03">
+<author orcid="0009-0006-4023-8920" pid="279/0806">Daniel Val&#233;rio Leite</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<author pid="138/0496">Alexandre de Barros Barreto</author>
+<author pid="28/840">Ant&#244;nio M. F. Crespo</author>
+<title>Computational Solution to Prevent Aeronautics Accidents Cause by Wake Turbulence Using Machine Learning.</title>
+<pages>124-129</pages>
+<year>2020</year>
+<booktitle>IECON</booktitle>
+<ee>https://doi.org/10.1109/IECON43393.2020.9255032</ee>
+<crossref>conf/iecon/2020</crossref>
+<url>db/conf/iecon/iecon2020.html#LeiteWBC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esann/EnamotoL19" mdate="2022-08-02">
+<author pid="261/5043">Liriam Enamoto</author>
+<author pid="l/WeigangLi">Weigang Li 0001</author>
+<title>Multilingual short text categorization using convolutional neural network.</title>
+<year>2019</year>
+<booktitle>ESANN</booktitle>
+<ee type="oa">https://www.esann.org/sites/default/files/proceedings/legacy/es2019-19.pdf</ee>
+<crossref>conf/esann/2019</crossref>
+<url>db/conf/esann/esann2019.html#EnamotoL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icnc/SilvaCDW19" mdate="2025-03-03">
+<author pid="178/1580-4">Guilherme Silva 0004</author>
+<author pid="256/7340">Mirele Costa</author>
+<author orcid="0000-0001-8913-3755" pid="72/6853">Andr&#233; C. Drummond</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<title>Predictive Model for Brazilian Presidential Election Based on Analysis of Social Media.</title>
+<pages>46-53</pages>
+<year>2019</year>
+<booktitle>ICNC-FSKD</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-32591-6_5</ee>
+<crossref>conf/icnc/2019-2</crossref>
+<url>db/conf/icnc/icncfskd2019-2.html#SilvaCDW19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/KieckbuschFRFMW19" mdate="2025-03-03">
+<author pid="254/6236">Diego S. Kieckbusch</author>
+<author pid="141/9518">Geraldo P. Rocha Filho</author>
+<author pid="150/5797">Vitor Filincowsky Ribeiro</author>
+<author pid="192/4801">Jose Alexandre T. G. Fregnani</author>
+<author pid="254/6283">Bento S. Mattos</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<title>Negotiation Approach by Reinforcement Learning for Takeoff Sequencing Decision in Airports.</title>
+<pages>4477-4482</pages>
+<year>2019</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2019.8917497</ee>
+<crossref>conf/itsc/2019</crossref>
+<url>db/conf/itsc/itsc2019.html#KieckbuschFRFMW19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-06969" mdate="2021-02-15">
+<author orcid="0000-0002-5037-7178" pid="202/6257">Aloisio Dourado</author>
+<author pid="238/0188">Frederico Guth</author>
+<author orcid="0000-0001-6172-0229" pid="94/4509">Te&#243;filo Em&#237;dio de Campos</author>
+<author pid="l/WeigangLi">Weigang Li 0001</author>
+<title>Domain adaptation for holistic skin detection.</title>
+<year>2019</year>
+<volume>abs/1903.06969</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.06969</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-06969</url>
+</article>
+</r>
+<r><inproceedings key="conf/dcai/RodriguesCW18" mdate="2025-03-03">
+<author orcid="0000-0002-0785-4397" pid="266/2473">Natan de Souza Rodrigues</author>
+<author pid="131/8695">Leonardo L. B. V. Cruciol</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<title>A Genetic Algorithm Model for Slot Allocation Optimization to Brazilian CTOP Approach.</title>
+<pages>53-60</pages>
+<year>2018</year>
+<booktitle>DCAI</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-94649-8_7</ee>
+<crossref>conf/dcai/2018</crossref>
+<url>db/conf/dcai/dcai2018.html#RodriguesCW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/PamplonaLBSA18" mdate="2025-03-03">
+<author orcid="0000-0002-2800-7074" pid="192/5097">Daniel Alberto Pamplona</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="228/1469">Alexandre Gomes de Barros</author>
+<author orcid="0000-0001-5226-0435" pid="35/6726">Elcio Hideiti Shiguemori</author>
+<author pid="228/1661">Claudio Jorge Pinto Alves</author>
+<title>Supervised Neural Network with multilevel input layers for predicting of air traffic delays.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2018.8489511</ee>
+<crossref>conf/ijcnn/2018</crossref>
+<url>db/conf/ijcnn/ijcnn2018.html#PamplonaLBSA18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isda/RibeiroRFLG18" mdate="2025-03-03">
+<author pid="150/5797">Vitor Filincowsky Ribeiro</author>
+<author pid="241/3641">Henrique Torres de Almeida Rodrigues</author>
+<author pid="241/3576">Vitor Bona de Faria</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author orcid="0000-0002-4376-4292" pid="241/3517">Reinaldo Crispiniano Garcia</author>
+<title>Conflict Detection and Resolution with Local Search Algorithms for 4D-Navigation in ATM.</title>
+<pages>129-139</pages>
+<year>2018</year>
+<booktitle>ISDA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-16660-1_13</ee>
+<crossref>conf/isda/2018-2</crossref>
+<url>db/conf/isda/isda2018-2.html#RibeiroRFLG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isda/BarbosaBCMBL18" mdate="2025-03-03">
+<author pid="241/3574">Iuri Souza Ramos Barbosa</author>
+<author pid="231/5527">Igor Silva Bonomo</author>
+<author pid="131/8695">Leonardo L. B. V. Cruciol</author>
+<author pid="174/1732">Lucas Borges Monteiro</author>
+<author orcid="0000-0003-1254-8420" pid="155/4801">Vinicius Ruela Pereira Borges</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<title>Using Severe Convective Weather Information for Flight Planning.</title>
+<pages>140-149</pages>
+<year>2018</year>
+<booktitle>ISDA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-16660-1_14</ee>
+<crossref>conf/isda/2018-2</crossref>
+<url>db/conf/isda/isda2018-2.html#BarbosaBCMBL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/BonomoBMBBBW18" mdate="2025-03-03">
+<author pid="231/5527">Igor S. Bonomo</author>
+<author pid="231/5282">Iuri R. Barbosa</author>
+<author orcid="0000-0003-4941-9542" pid="174/1732">Lucas Borges Monteiro</author>
+<author pid="231/5253">Camila Bassetto</author>
+<author pid="138/0496">Alexandre de Barros Barreto</author>
+<author orcid="0000-0003-1254-8420" pid="155/4801">Vinicius Ruela Pereira Borges</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<title>Development of SWIM Registry for Air Traffic Management with the Blockchain Support.</title>
+<pages>3544-3549</pages>
+<year>2018</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2018.8569223</ee>
+<crossref>conf/itsc/2018</crossref>
+<url>db/conf/itsc/itsc2018.html#BonomoBMBBBW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kmo/CruciolOW18" mdate="2025-03-03">
+<author pid="131/8695">Leonardo L. B. V. Cruciol</author>
+<author pid="236/1561">Lucilia Oliveira</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<title>Game Theory Approach to Brazilian Air Traffic Management Using Collaborative Trajectory Options Program.</title>
+<pages>710-721</pages>
+<year>2018</year>
+<booktitle>KMO</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-95204-8_59</ee>
+<crossref>conf/kmo/2018</crossref>
+<url>db/conf/kmo/kmo2018.html#CruciolOW18</url>
+</inproceedings>
+</r>
+<r><article key="journals/jzusc/Weigang17" mdate="2022-01-03">
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<title>First and Others credit-assignment schema for evaluating the academic contribution of coauthors.</title>
+<pages>180-194</pages>
+<year>2017</year>
+<volume>18</volume>
+<journal>Frontiers Inf. Technol. Electron. Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1631/FITEE.1600991</ee>
+<url>db/journals/jzusc/jzusc18.html#Weigang17</url>
+</article>
+</r>
+<r><inproceedings key="conf/icnc/SalehW17" mdate="2025-03-03">
+<author pid="167/4723">Ahmed Abdelfattah Saleh</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<title>Language independent text summarization of western European languages using shape coding of text elements.</title>
+<pages>2221-2228</pages>
+<year>2017</year>
+<booktitle>ICNC-FSKD</booktitle>
+<ee>https://doi.org/10.1109/FSKD.2017.8393116</ee>
+<crossref>conf/icnc/2017</crossref>
+<url>db/conf/icnc/icnc2017.html#SalehW17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/LeiteWFO17" mdate="2025-03-03">
+<author pid="80/8766">Alessandro Ferreira Leite</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<author orcid="0000-0002-6187-7274" pid="192/4801">Jose Alexandre T. G. Fregnani</author>
+<author pid="64/4293">&#205;talo Romani de Oliveira</author>
+<title>Big data management and processing in the context of the system wide information management.</title>
+<pages>1-8</pages>
+<year>2017</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2017.8317715</ee>
+<crossref>conf/itsc/2017</crossref>
+<url>db/conf/itsc/itsc2017.html#LeiteWFO17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaccs/WeigangLRFO17" mdate="2024-10-06">
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<author pid="80/8766">Alessandro Ferreira Leite</author>
+<author pid="150/5797">Vitor Filincowsky Ribeiro</author>
+<author orcid="0000-0002-6187-7274" pid="192/4801">Jose Alexandre T. G. Fregnani</author>
+<author pid="64/4293">&#205;talo Romani de Oliveira</author>
+<title>Towards Intelligent System Wide Information Management for Air Traffic Management.</title>
+<pages>584-593</pages>
+<year>2017</year>
+<booktitle>SpaCCS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-72389-1_46</ee>
+<crossref>conf/spaccs/2017</crossref>
+<url>db/conf/spaccs/spaccs2017.html#WeigangLRFO17</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsw/ZhengW16" mdate="2021-02-15">
+<author pid="39/10241">Jianya Zheng</author>
+<author pid="l/WeigangLi">Li Weigang 0001</author>
+<title>Market Entry Game Application in e-Commerce.</title>
+<pages>589-597</pages>
+<year>2016</year>
+<volume>11</volume>
+<journal>J. Softw.</journal>
+<number>6</number>
+<ee>https://doi.org/10.17706/jsw.11.6.589-597</ee>
+<url>db/journals/jsw/jsw11.html#ZhengW16</url>
+</article>
+</r>
+<r><article key="journals/jzusc/CorchadoWBWL16" mdate="2025-03-03">
+<author orcid="0000-0002-2829-1829" pid="87/6349">Juan M. Corchado</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<author pid="12/3078">Javier Bajo</author>
+<author pid="84/3254-1">Fei Wu 0001</author>
+<author orcid="0000-0002-0499-5135" pid="92/250">Tiancheng Li</author>
+<title>Special issue on distributed computing and artificial intelligence.</title>
+<pages>281-282</pages>
+<year>2016</year>
+<volume>17</volume>
+<journal>Frontiers Inf. Technol. Electron. Eng.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1631/FITEE.DCAI2015</ee>
+<ee>https://www.wikidata.org/entity/Q62628440</ee>
+<url>db/journals/jzusc/jzusc17.html#CorchadoWBWL16</url>
+</article>
+</r>
+<r><article key="journals/tits/AlmeidaWML16" mdate="2021-05-15">
+<author pid="74/8766">C&#237;cero Roberto Ferreira de Almeida</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<author pid="233/2183">Giovani V. Meinerz</author>
+<author pid="183/7542">Leihong Li</author>
+<title>Satisficing Game Approach to Collaborative Decision Making Including Airport Management.</title>
+<pages>2262-2271</pages>
+<year>2016</year>
+<volume>17</volume>
+<journal>IEEE Trans. Intell. Transp. Syst.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TITS.2016.2516444</ee>
+<url>db/journals/tits/tits17.html#AlmeidaWML16</url>
+</article>
+</r>
+<r><article key="journals/tsmc/RibeiroLMYU16" mdate="2021-02-15">
+<author pid="150/5797">Vitor Filincowsky Ribeiro</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="36/2712">Viorel Milea</author>
+<author pid="29/2165">Yaeko Yamashita</author>
+<author pid="93/4547">Lorna Uden</author>
+<title>Collaborative Decision Making in Departure Sequencing With an Adapted Rubinstein Protocol.</title>
+<pages>248-259</pages>
+<year>2016</year>
+<volume>46</volume>
+<journal>IEEE Trans. Syst. Man Cybern. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSMC.2015.2421483</ee>
+<url>db/journals/tsmc/tsmc46.html#RibeiroLMYU16</url>
+</article>
+</r>
+<r><inproceedings key="conf/dcai/SiqueiraKW16" mdate="2025-03-03">
+<author pid="180/6205">Elton Sarmanho Siqueira</author>
+<author pid="180/6177">Patrick Cisuaka Kabongo</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<title>Comparison Study Between Chinese Family Tree and Occidental Family Tree.</title>
+<pages>61-69</pages>
+<year>2016</year>
+<booktitle>DCAI</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-40162-1_7</ee>
+<crossref>conf/dcai/2016</crossref>
+<url>db/conf/dcai/dcai2016.html#SiqueiraKW16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/RibeiroPFOL16" mdate="2025-03-03">
+<author pid="150/5797">Vitor Filincowsky Ribeiro</author>
+<author orcid="0000-0002-2800-7074" pid="192/5097">Daniel Alberto Pamplona</author>
+<author orcid="0000-0002-6187-7274" pid="192/4801">Jose Alexandre T. G. Fregnani</author>
+<author pid="64/4293">&#205;talo Romani de Oliveira</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<title>Modeling the swarm optimization to build effective Continuous Descent Arrival sequences.</title>
+<pages>760-765</pages>
+<year>2016</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2016.7795640</ee>
+<crossref>conf/itsc/2016</crossref>
+<url>db/conf/itsc/itsc2016.html#RibeiroPFOL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/KabongoRLRW16" mdate="2025-03-03">
+<author pid="180/6177">Patrick Cisuaka Kabongo</author>
+<author pid="192/4786">Thiago Mendon&#231;a Ferreira Ramos</author>
+<author pid="80/8766">Alessandro Ferreira Leite</author>
+<author orcid="0000-0002-2983-2180" pid="09/2442">C&#233;lia Ghedini Ralha</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<title>A multi-agent planning model for airport ground handling management.</title>
+<pages>2354-2359</pages>
+<year>2016</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2016.7795935</ee>
+<ee>https://www.wikidata.org/entity/Q62627893</ee>
+<crossref>conf/itsc/2016</crossref>
+<url>db/conf/itsc/itsc2016.html#KabongoRLRW16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/SantosCLL16" mdate="2023-03-10">
+<author pid="44/6137">La&#233;cio L. Santos</author>
+<author pid="43/283">Rommel N. Carvalho</author>
+<author pid="40/407">Marcelo Ladeira</author>
+<author pid="l/WeigangLi">Weigang Li 0001</author>
+<title>A New Algorithm for Generating Situation-Specific Bayesian Networks Using Bayes-Ball Method.</title>
+<pages>36-48</pages>
+<year>2016</year>
+<booktitle>URSW@ISWC</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1665/paper4.pdf</ee>
+<crossref>conf/semweb/2016ursw</crossref>
+<url>db/conf/semweb/ursw2016.html#SantosCLL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spaccs/Weigang16" mdate="2025-03-03">
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<title>Flexible Schema for Prediction of Collaborator's Credits.</title>
+<pages>218-228</pages>
+<year>2016</year>
+<booktitle>SpaCCS Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-49145-5_22</ee>
+<crossref>conf/spaccs/2016w</crossref>
+<url>db/conf/spaccs/spaccs2016w.html#Weigang16</url>
+</inproceedings>
+</r>
+<r><article key="journals/eswa/JuniorLM15" mdate="2025-03-03">
+<author pid="71/8766">Antonio Carlos de Arruda Junior</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="36/2712">Viorel Milea</author>
+<title>A new Airport Collaborative Decision Making algorithm based on Deferred Acceptance in a two-sided market.</title>
+<pages>3539-3550</pages>
+<year>2015</year>
+<volume>42</volume>
+<journal>Expert Syst. Appl.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/j.eswa.2014.11.060</ee>
+<url>db/journals/eswa/eswa42.html#JuniorLM15</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEcit/MonteiroLS15" mdate="2025-03-03">
+<author orcid="0000-0003-4941-9542" pid="174/1732">Lucas Borges Monteiro</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="167/4723">Ahmed Abdelfattah Saleh</author>
+<title>An Approach of Vector Space Model to Link Concrete Concepts with Wiki Entities.</title>
+<pages>313-320</pages>
+<year>2015</year>
+<booktitle>CIT/IUCC/DASC/PICom</booktitle>
+<ee>https://doi.org/10.1109/CIT/IUCC/DASC/PICOM.2015.45</ee>
+<crossref>conf/IEEEcit/2015</crossref>
+<url>db/conf/IEEEcit/cit-iucc-dasc-picom2015.html#MonteiroLS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dcai/LiZ15" mdate="2025-03-03">
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="39/10241">Jianya Zheng</author>
+<title>Retweeting Prediction Using Meta-Paths Aggregated with Follow Model in Online Social Networks.</title>
+<pages>11-19</pages>
+<year>2015</year>
+<booktitle>DCAI</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-19638-1_2</ee>
+<crossref>conf/dcai/2015</crossref>
+<url>db/conf/dcai/dcai2015.html#LiZ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fusion/RibeiroWL15" mdate="2021-08-09">
+<author pid="168/3036">Patricia L. V. Ribeiro</author>
+<author pid="l/WeigangLi">Li Weigang 0001</author>
+<author pid="92/250">Tiancheng Li</author>
+<title>A unified approach for domain-specific tweet sentiment analysis.</title>
+<pages>846-853</pages>
+<year>2015</year>
+<booktitle>FUSION</booktitle>
+<ee>https://ieeexplore.ieee.org/document/7266648/</ee>
+<crossref>conf/fusion/2015</crossref>
+<url>db/conf/fusion/fusion2015.html#RibeiroWL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fusion/SantosCLWLC15" mdate="2021-08-09">
+<author pid="44/6137">La&#233;cio L. Santos</author>
+<author pid="43/283">Rommel N. Carvalho</author>
+<author pid="40/407">Marcelo Ladeira</author>
+<author pid="l/WeigangLi">Li Weigang 0001</author>
+<author pid="52/3939">Kathryn B. Laskey</author>
+<author pid="44/6502">Paulo C. G. Costa</author>
+<title>Scalable uncertainty treatment using triplestores and the OWL 2 RL profile.</title>
+<pages>924-931</pages>
+<year>2015</year>
+<booktitle>FUSION</booktitle>
+<ee>https://ieeexplore.ieee.org/document/7266658/</ee>
+<crossref>conf/fusion/2015</crossref>
+<url>db/conf/fusion/fusion2015.html#SantosCLWLC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/ZhengLL15" mdate="2025-03-03">
+<author pid="39/10241">Jianya Zheng</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="18/10240">Daniel LeZhi Li</author>
+<title>A Game-theory based Model for Analyzing E-marketplace Competition.</title>
+<pages>650-657</pages>
+<year>2015</year>
+<booktitle>ICEIS (1)</booktitle>
+<ee>https://doi.org/10.5220/0005467706500657</ee>
+<crossref>conf/iceis/2015-1</crossref>
+<url>db/conf/iceis/iceis2015-1.html#ZhengLL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/WeigangDSL15" mdate="2023-03-10">
+<author pid="l/WeigangLi">Li Weigang 0001</author>
+<author pid="167/4640">Icaro Ara&#250;jo Dantas</author>
+<author pid="167/4723">Ahmed Abdelfattah Saleh</author>
+<author pid="18/10240">Daniel LeZhi Li</author>
+<title>Influential Analysis in Micro Scholar Social Networks.</title>
+<pages>22-28</pages>
+<year>2015</year>
+<booktitle>SocInf@IJCAI</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1398/SocInf2015_Paper4.pdf</ee>
+<crossref>conf/ijcai/2015socinf</crossref>
+<url>db/conf/ijcai/socinf2015.html#WeigangDSL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/CruciolCL15" mdate="2025-03-04">
+<author pid="131/8695">Leonardo L. B. V. Cruciol</author>
+<author pid="50/1000">John-Paul Clarke</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<title>Trajectory Option Set Planning Optimization under Uncertainty in CTOP.</title>
+<pages>2084-2089</pages>
+<year>2015</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2015.337</ee>
+<crossref>conf/itsc/2015</crossref>
+<url>db/conf/itsc/itsc2015.html#CruciolCL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kmo/SouzaLL15" mdate="2025-03-03">
+<author pid="166/2703">M&#225;rcio Augusto da Silva Souza</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="76/4960">Alair Pereira do Lago</author>
+<title>Stable Two-Sided Matching of Slot Allocation in Airport Collaborative Decision Making.</title>
+<pages>297-311</pages>
+<year>2015</year>
+<booktitle>KMO</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-21009-4_23</ee>
+<crossref>conf/kmo/2015</crossref>
+<url>db/conf/kmo/kmo2015.html#SouzaLL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/SantosCLLM15" mdate="2023-03-10">
+<author pid="44/6137">La&#233;cio L. dos Santos</author>
+<author pid="43/283">Rommel N. Carvalho</author>
+<author pid="40/407">Marcelo Ladeira</author>
+<author pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="136/7187">Gilson Lib&#243;rio Mendes</author>
+<title>PR-OWL 2 RL - A Language for Scalable Uncertainty Reasoning on the Semantic Web information.</title>
+<pages>14-25</pages>
+<year>2015</year>
+<booktitle>URSW@ISWC</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1479/paper2.pdf</ee>
+<crossref>conf/semweb/2015ursw</crossref>
+<url>db/conf/semweb/ursw2015.html#SantosCLLM15</url>
+</inproceedings>
+</r>
+<r><article key="journals/jam/ZhangTW14" mdate="2021-02-15">
+<author orcid="0000-0002-9479-079X" pid="68/10186">Yaming Zhang</author>
+<author orcid="0000-0001-6923-855X" pid="154/7006">Chaosheng Tang</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<title>Cooperative and Competitive Dynamics Model for Information Propagation in Online Social Networks.</title>
+<year>2014</year>
+<volume>2014</volume>
+<journal>J. Appl. Math.</journal>
+<ee type="oa">https://doi.org/10.1155/2014/610382</ee>
+<ee>https://www.wikidata.org/entity/Q59053773</ee>
+<url>db/journals/jam/jam2014.html#ZhangTW14</url>
+<pages>610382:1-610382:12</pages>
+</article>
+</r>
+<r><article key="journals/jzusc/WeigangSZMU14" mdate="2021-02-15">
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<author pid="70/2051">Edans F. de O. Sandes</author>
+<author pid="39/10241">Jianya Zheng</author>
+<author orcid="0000-0001-5191-5209" pid="m/AlbaCMAMelo">Alba Cristina Magalhaes Alves de Melo</author>
+<author pid="93/4547">Lorna Uden</author>
+<title>Querying dynamic communities in online social networks.</title>
+<pages>81-90</pages>
+<year>2014</year>
+<volume>15</volume>
+<journal>J. Zhejiang Univ. Sci. C</journal>
+<number>2</number>
+<ee>https://doi.org/10.1631/jzus.C1300281</ee>
+<url>db/journals/jzusc/jzusc15.html#WeigangSZMU14</url>
+</article>
+</r>
+<r><inproceedings key="conf/iceis/ZhengLLZX14" mdate="2021-02-15">
+<author pid="39/10241">Jianya Zheng</author>
+<author pid="18/10240">Daniel LeZhi Li</author>
+<author pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="17/146">Zi-Ke Zhang</author>
+<author pid="70/5833">Hongbo Xu</author>
+<title>e-Commerce Game Model - Balancing Platform Service Charges with Vendor Profitability.</title>
+<pages>613-619</pages>
+<year>2014</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0004888406130619</ee>
+<crossref>conf/iceis/2014-2</crossref>
+<url>db/conf/iceis/iceis2014-2.html#ZhengLLZX14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kmo/FerreiraRRVW14" mdate="2025-03-03">
+<author pid="150/5805">Deborah Mendes Ferreira</author>
+<author pid="150/5822">Lucas Pessoa Rosa</author>
+<author pid="150/5797">Vitor Filincowsky Ribeiro</author>
+<author orcid="0000-0002-6317-218X" pid="58/3882">Flavio de Barros Vidal</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<title>Genetic Algorithms and Game Theory for Airport Departure Decision Making: GeDMAN and CoDMAN.</title>
+<pages>3-14</pages>
+<year>2014</year>
+<booktitle>KMO</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-08618-7_1</ee>
+<crossref>conf/kmo/2014</crossref>
+<url>db/conf/kmo/kmo2014.html#FerreiraRRVW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mesa/AlmeidaLM14" mdate="2022-04-09">
+<author pid="74/8766">C&#237;cero R. F. Almeida</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="233/2183">Giovani V. Meinerz</author>
+<title>Satisficing Collaborative Decision Making and controlling for airport management.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>MESA</booktitle>
+<ee>https://doi.org/10.1109/MESA.2014.6935595</ee>
+<crossref>conf/mesa/2014</crossref>
+<url>db/conf/mesa/mesa2014.html#AlmeidaLM14</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijwet/LiZL13" mdate="2021-02-15">
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="39/10241">Jianya Zheng</author>
+<author pid="142/6967">Guiqiu Liu</author>
+<title>W-entropy method to measure the influence of the members from social networks.</title>
+<pages>369-394</pages>
+<year>2013</year>
+<volume>8</volume>
+<journal>Int. J. Web Eng. Technol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1504/IJWET.2013.059105</ee>
+<url>db/journals/ijwet/ijwet8.html#LiZL13</url>
+</article>
+</r>
+<r><inproceedings key="conf/hci/CruciolW13" mdate="2021-02-15">
+<author pid="131/8695">Leonardo L. B. V. Cruciol</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<title>AHPM as a Proposal to Improve Interaction with Air Traffic Controllers.</title>
+<pages>648-657</pages>
+<year>2013</year>
+<booktitle>HCI (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-39330-3_70</ee>
+<crossref>conf/hci/2013-4</crossref>
+<url>db/conf/hci/hci2013-4.html#CruciolW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kmo/ZhengLU13" mdate="2025-03-03">
+<author pid="39/10241">Jianya Zheng</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="93/4547">Lorna Uden</author>
+<title>Top-X Querying in Online Social Networks with MapReduce Solution.</title>
+<pages>397-410</pages>
+<year>2013</year>
+<booktitle>KMO</booktitle>
+<ee>https://doi.org/10.1007/978-94-007-7287-8_32</ee>
+<crossref>conf/kmo/2013</crossref>
+<url>db/conf/kmo/kmo2013.html#ZhengLU13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/AbreuCSMOLW13" mdate="2021-02-15">
+<author orcid="0000-0002-9603-789X" pid="142/7986">Carolina G. Abreu</author>
+<author pid="135/5098">Fl&#225;vio Costa</author>
+<author pid="44/6137">La&#233;cio L. Santos</author>
+<author pid="174/1732">Lucas Borges Monteiro</author>
+<author pid="135/5259">Luiz Fernando Peres de Oliveira</author>
+<author pid="97/8310">Patr&#237;cia Lustosa</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<title>Entity Extraction within Plain-Text Collections WISE 2013 Challenge - T1: Entity Linking Track.</title>
+<pages>491-496</pages>
+<year>2013</year>
+<booktitle>WISE (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-41230-1_42</ee>
+<crossref>conf/wise/2013-1</crossref>
+<url>db/conf/wise/wise2013-1.html#AbreuCSMOLW13</url>
+</inproceedings>
+</r>
+<r><article key="journals/cluster/LeiteMLMB12" mdate="2022-06-30">
+<author pid="80/8766">Alessandro Ferreira Leite</author>
+<author pid="16/8045">Hammurabi das Chagas Mendes</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author orcid="0000-0001-5191-5209" pid="m/AlbaCMAMelo">Alba Cristina Magalhaes Alves de Melo</author>
+<author pid="b/AzzedineBoukerche">Azzedine Boukerche</author>
+<title>An architecture for P2P bag-of-tasks execution with multiple task allocation policies in desktop grids.</title>
+<pages>351-361</pages>
+<year>2012</year>
+<volume>15</volume>
+<journal>Clust. Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10586-011-0154-y</ee>
+<url>db/journals/cluster/cluster15.html#LeiteMLMB12</url>
+</article>
+</r>
+<r><inproceedings key="conf/webist/LiZ12a" mdate="2021-02-15">
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="39/10241">Jianya Zheng</author>
+<title>Using W-Entropy Rank as a Unified Reference for Search Engines and Blogging Websites.</title>
+<pages>252-266</pages>
+<year>2012</year>
+<booktitle>WEBIST (Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-36608-6_16</ee>
+<crossref>conf/webist/2012sp</crossref>
+<url>db/conf/webist/webist2012sp.html#LiZ12a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/LiZ12" mdate="2021-02-15">
+<author pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="39/10241">Jianya Zheng</author>
+<title>W-entropy Rank - A Unified Reference for Search Engines.</title>
+<pages>616-624</pages>
+<year>2012</year>
+<booktitle>WEBIST</booktitle>
+<crossref>conf/webist/2012</crossref>
+<url>db/conf/webist/webist2012.html#LiZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/JuniorAMNL12" mdate="2021-02-15">
+<author pid="93/10697">Juarez Paulino da Silva J&#250;nior</author>
+<author pid="120/9602">Lucas Almeida</author>
+<author pid="120/9615">Felipe Modesto</author>
+<author pid="118/5474">Thiago F. Neves</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<title>An Investigation on Repost Activity Prediction for Social Media Events.</title>
+<pages>719-725</pages>
+<year>2012</year>
+<booktitle>WISE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-35063-4_58</ee>
+<crossref>conf/wise/2012</crossref>
+<url>db/conf/wise/wise2012.html#JuniorAMNL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/SandesWM12" mdate="2021-02-15">
+<author pid="70/2051">Edans Flavius de Oliveira Sandes</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<author orcid="0000-0001-5191-5209" pid="m/AlbaCMAMelo">Alba Cristina Magalhaes Alves de Melo</author>
+<title>Logical Model of Relationship for Online Social Networks and Performance Optimizing of Queries - WISE 2012 Challenge - T1: Performance Track Scalability Winner.</title>
+<pages>726-736</pages>
+<year>2012</year>
+<booktitle>WISE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-35063-4_59</ee>
+<crossref>conf/wise/2012</crossref>
+<url>db/conf/wise/wise2012.html#SandesWM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wism/LiZL11" mdate="2021-02-15">
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="39/10241">Jianya Zheng</author>
+<author pid="18/10240">Daniel LeZhi Li</author>
+<title>W-entropy Index: The Impact of the Members on Social Networks.</title>
+<pages>226-233</pages>
+<year>2011</year>
+<booktitle>WISM (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-23971-7_30</ee>
+<crossref>conf/wism/2011</crossref>
+<url>db/conf/wism/wism2011.html#LiZL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/CrespoW10" mdate="2023-03-24">
+<author pid="28/840">Ant&#244;nio M&#225;rcio Ferreira Crespo</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<title>Agent Evaluation Function Considering Airspace Dynamic Density.</title>
+<pages>392-396</pages>
+<year>2010</year>
+<booktitle>Web Intelligence/IAT Workshops</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2010.184</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2010.184</ee>
+<crossref>conf/iat/2010w</crossref>
+<url>db/conf/iat/iatw2010.html#CrespoW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/JuniorLACW10" mdate="2021-02-15">
+<author pid="71/8766">Antonio Carlos de Arruda Junior</author>
+<author pid="80/8766">Alessandro Ferreira Leite</author>
+<author pid="74/8766">C&#237;cero Roberto Ferreira de Almeida</author>
+<author pid="28/840">Ant&#244;nio M. F. Crespo</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<title>Fairness analysis with cost impact for Brasilia's Flight Information Region using reinforcement learning approach.</title>
+<pages>539-544</pages>
+<year>2010</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2010.5624988</ee>
+<crossref>conf/itsc/2010</crossref>
+<url>db/conf/itsc/itsc2010.html#JuniorLACW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/JuniorLAMW10" mdate="2021-02-15">
+<author pid="71/8766">Antonio Carlos de Arruda Junior</author>
+<author pid="80/8766">Alessandro Ferreira Leite</author>
+<author pid="74/8766">C&#237;cero Roberto Ferreira de Almeida</author>
+<author pid="m/AlbaCMAMelo">Alba Cristina Magalhaes Alves de Melo</author>
+<author pid="l/WeigangLi">Li Weigang 0001</author>
+<title>Impact Analysis Model for Bras&#237;lia Area Control Center using Multi-agent System with Reinforcement Learning.</title>
+<pages>499-502</pages>
+<year>2010</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2010</crossref>
+<url>db/conf/seke/seke2010.html#JuniorLAMW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/npc/MendesLBM09" mdate="2023-03-23">
+<author pid="16/8045">Hammurabi das Chagas Mendes</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="b/AzzedineBoukerche">Azzedine Boukerche</author>
+<author orcid="0000-0001-5191-5209" pid="m/AlbaCMAMelo">Alba Cristina Magalhaes Alves de Melo</author>
+<title>Bag-of-Tasks Self-Scheduling over Range-Queriable Search Overlays.</title>
+<pages>109-116</pages>
+<year>2009</year>
+<booktitle>NPC</booktitle>
+<ee>https://doi.org/10.1109/NPC.2009.37</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/NPC.2009.37</ee>
+<crossref>conf/npc/2009</crossref>
+<url>db/conf/npc/npc2009.html#MendesLBM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/SouzaWCC08" mdate="2022-01-28">
+<author pid="47/6465">Bueno Borges de Souza</author>
+<author pid="l/WeigangLi">Li Weigang 0001</author>
+<author pid="28/840">Ant&#244;nio M&#225;rcio Ferreira Crespo</author>
+<author pid="09/3862">Victor Rafael Rezende Celestino</author>
+<title>Flow Balancing Model for Air Traffc Flow Management.</title>
+<pages>417-421</pages>
+<year>2008</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2008</crossref>
+<url>db/conf/seke/seke2008.html#SouzaWCC08</url>
+</inproceedings>
+</r>
+<r><article key="journals/wias/WeigangB06" mdate="2021-02-15">
+<author pid="l/WeigangLi">Li Weigang 0001</author>
+<author pid="50/1177">Vin&#237;cius Guilherme Fracari Branco</author>
+<title>A web information system for determining the controllers of financial entities in central bank of Brazil.</title>
+<pages>99-116</pages>
+<year>2006</year>
+<volume>4</volume>
+<journal>Web Intell. Agent Syst.</journal>
+<number>1</number>
+<ee>http://content.iospress.com/articles/web-intelligence-and-agent-systems-an-international-journal/wia00082</ee>
+<url>db/journals/wias/wias4.html#WeigangB06</url>
+</article>
+</r>
+<r><inproceedings key="conf/fskd/AlvesWS06" mdate="2025-03-03">
+<author pid="06/3986">Daniela Pereira Alves</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<author pid="47/6465">Bueno Borges de Souza</author>
+<title>Using Meta-Level Control with Reinforcement Learning to Improve the Performance of the Agents.</title>
+<pages>1109-1112</pages>
+<year>2006</year>
+<crossref>conf/fskd/2006</crossref>
+<booktitle>FSKD</booktitle>
+<ee>https://doi.org/10.1007/11881599_138</ee>
+<url>db/conf/fskd/fskd2006.html#AlvesWS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fskd/LiDM05" mdate="2025-03-03">
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="37/2499">Marcos Vin&#237;cius Pinheiro Dib</author>
+<author pid="m/AlbaCMAMelo">Alba Cristina Magalhaes Alves de Melo</author>
+<title>Method to Balance the Communication Among Multi-agents in Real Time Traffic Synchronization.</title>
+<pages>1053-1062</pages>
+<year>2005</year>
+<crossref>conf/fskd/2005-1</crossref>
+<booktitle>FSKD (1)</booktitle>
+<ee>https://doi.org/10.1007/11539506_130</ee>
+<url>db/conf/fskd/fskd2005-1.html#LiDM05</url>
+</inproceedings>
+</r>
+<r><incollection key="series/sci/BrancoWA05" mdate="2021-02-15">
+<author pid="50/1177">Vin&#237;cius Guilherme Fracari Branco</author>
+<author pid="l/WeigangLi">Li Weigang 0001</author>
+<author pid="51/4502">Maria Pilar Estrela Abad</author>
+<title>An Algorithm for Determining the Controllers of Supervised Entities: A Case Study with the Brazilian Central Bank.</title>
+<pages>279-289</pages>
+<year>2005</year>
+<booktitle>Computational Intelligence for Modelling and Prediction</booktitle>
+<ee>https://doi.org/10.1007/10966518_20</ee>
+<crossref>series/sci/2005-2</crossref>
+<url>db/series/sci/sci2.html#BrancoWA05</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/ccgrid/BatistaSMW04" mdate="2023-03-24">
+<author pid="64/4374">Rodolfo Bezerra Batista</author>
+<author pid="86/1401">D. N. Silva</author>
+<author pid="m/AlbaCMAMelo">Alba Cristina Magalhaes Alves de Melo</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<title>Using a DSM application to locally align DNA sequences.</title>
+<pages>372-378</pages>
+<year>2004</year>
+<crossref>conf/ccgrid/2004</crossref>
+<booktitle>CCGRID</booktitle>
+<ee>https://doi.org/10.1109/CCGrid.2004.1336590</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CCGrid.2004.1336590</ee>
+<url>db/conf/ccgrid/ccgrid2004.html#BatistaSMW04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/WeigangCDM04" mdate="2021-02-15">
+<author pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="76/1225">Daniel Amaral Cardoso</author>
+<author pid="37/2499">Marcos Vin&#237;cius Pinheiro Dib</author>
+<author pid="m/AlbaCMAMelo">Alba Cristina Magalhaes Alves de Melo</author>
+<title>Distributed Knowledge Based System Using Grid Computing for Real Time Air Traffic Synchronization - ATFMGC.</title>
+<pages>396-401</pages>
+<year>2004</year>
+<crossref>conf/seke/2004</crossref>
+<booktitle>SEKE</booktitle>
+<url>db/conf/seke/seke2004.html#WeigangCDM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/WeigangDC04" mdate="2023-05-01">
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="37/2499">Marcos Vin&#237;cius Pinheiro Dib</author>
+<author pid="76/1225">Daniel Amaral Cardoso</author>
+<title>Grid Service Agents for Real Time Traffic Synchronization.</title>
+<pages>619-623</pages>
+<year>2004</year>
+<crossref>conf/webi/2004</crossref>
+<booktitle>Web Intelligence</booktitle>
+<ee>https://doi.org/10.1109/WI.2004.10142</ee>
+<url>db/conf/webi/webi2004.html#WeigangDC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccsa/BrancoWAD03" mdate="2021-02-15">
+<author pid="50/1177">Vin&#237;cius Guilherme Fracari Branco</author>
+<author pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="51/4502">Maria Pilar Estrela Abad</author>
+<author pid="d/JDenzinger">J&#246;rg Denzinger</author>
+<title>An Algorithm for Determining the Controllers of Supervised Entities at the First and Second Levels: A Case Study with the Brazilian Central Bank.</title>
+<pages>148-157</pages>
+<ee>https://doi.org/10.1007/3-540-44842-X_16</ee>
+<year>2003</year>
+<crossref>conf/iccsa/2003-3</crossref>
+<booktitle>ICCSA (3)</booktitle>
+<url>db/conf/iccsa/iccsa2003-3.html#BrancoWAD03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/TelesWR03" mdate="2025-03-03">
+<author pid="61/5257">Wesley Martins Teles</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author orcid="0000-0002-2983-2180" pid="09/2442">C&#233;lia Ghedini Ralha</author>
+<title>AntWeb - The Adaptive Web Server Based on the Ants? Behavior.</title>
+<pages>558-561</pages>
+<year>2003</year>
+<crossref>conf/webi/2003</crossref>
+<booktitle>Web Intelligence</booktitle>
+<ee>https://doi.org/10.1109/WI.2003.1241267</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI.2003.1241267</ee>
+<ee>https://www.wikidata.org/entity/Q62627995</ee>
+<url>db/conf/webi/webi2003.html#TelesWR03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dmkdttt/LiDTAMC02" mdate="2021-02-15">
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="37/2499">Marcos Vin&#237;cius Pinheiro Dib</author>
+<author pid="61/5257">Wesley Martins Teles</author>
+<author pid="181/9804">Vlaudemir Morais de Andrade</author>
+<author orcid="0000-0001-5191-5209" pid="m/AlbaCMAMelo">Alba C. M. A. Melo</author>
+<author pid="181/9953">Judas T. Cariolano</author>
+<title>Using ant-behavior-based simulation model AntWeb to improve website organization.</title>
+<pages>229-240</pages>
+<year>2002</year>
+<booktitle>Data Mining and Knowledge Discovery: Theory, Tools, and Technology</booktitle>
+<ee>https://doi.org/10.1117/12.460232</ee>
+<crossref>conf/dmkdttt/2002</crossref>
+<url>db/conf/dmkdttt/dmkdttt2002.html#LiDTAMC02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fskd/BrancoLRD02" mdate="2021-02-15">
+<author pid="50/1177">Vin&#237;cius Guilherme Fracari Branco</author>
+<author pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="49/1788">Ant&#244;nio Ribeiro</author>
+<author pid="37/2499">Marcos Vin&#237;cius Pinheiro Dib</author>
+<title>An Algorithm for Determining the Controllers of Supervised Entities at the First Level: Brazilian Central Bank Case Study.</title>
+<pages>240-244</pages>
+<year>2002</year>
+<crossref>conf/fskd/2002</crossref>
+<booktitle>FSKD</booktitle>
+<url>db/conf/fskd/fskd2002.html#BrancoLRD02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/LiS99" mdate="2022-04-09">
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Weigang Li 0001</author>
+<author pid="213/5497">Nilton Correia da Silva</author>
+<title>A study of parallel neural networks.</title>
+<pages>1113-1116</pages>
+<year>1999</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.1999.831112</ee>
+<crossref>conf/ijcnn/1999</crossref>
+<url>db/conf/ijcnn/ijcnn1999.html#LiS99</url>
+</inproceedings>
+</r>
+<coauthors n="172" nc="4">
+<co c="0"><na f="a/Abad:Maria_Pilar_Estrela" pid="51/4502">Maria Pilar Estrela Abad</na></co>
+<co c="0"><na f="a/Abreu:Carolina_G=" pid="142/7986">Carolina G. Abreu</na></co>
+<co c="0"><na f="a/Albarello:Angela_Brigida" pid="362/8233">Angela Brigida Albarello</na></co>
+<co c="0"><na f="a/Albuquerque:Anesmar_Olino_de" pid="269/3403">Anesmar Olino de Albuquerque</na></co>
+<co c="0" n="2"><na f="a/Almeida:C=iacute=cero_Roberto_Ferreira_de" pid="74/8766">C&#237;cero Roberto Ferreira de Almeida</na><na>C&#237;cero R. F. Almeida</na></co>
+<co c="0"><na f="a/Almeida:Lucas" pid="120/9602">Lucas Almeida</na></co>
+<co c="0"><na f="a/Althoff:Lucas_S=" pid="306/9802">Lucas S. Althoff</na></co>
+<co c="0"><na f="a/Alves:Claudio_Jorge_Pinto" pid="228/1661">Claudio Jorge Pinto Alves</na></co>
+<co c="0"><na f="a/Alves:Daniela_Pereira" pid="06/3986">Daniela Pereira Alves</na></co>
+<co c="0"><na f="a/Andrade:Vlaudemir_Morais_de" pid="181/9804">Vlaudemir Morais de Andrade</na></co>
+<co c="0"><na f="b/Bajo:Javier" pid="12/3078">Javier Bajo</na></co>
+<co c="0"><na f="b/Barbosa:Iuri_R=" pid="231/5282">Iuri R. Barbosa</na></co>
+<co c="0"><na f="b/Barbosa:Iuri_Souza_Ramos" pid="241/3574">Iuri Souza Ramos Barbosa</na></co>
+<co c="0"><na f="b/Barreiro:Ian_Teixeira" pid="332/9964">Ian Teixeira Barreiro</na></co>
+<co c="0"><na f="b/Barreto:Alexandre_de_Barros" pid="138/0496">Alexandre de Barros Barreto</na></co>
+<co c="0"><na f="b/Barros:Alexandre_Gomes_de" pid="228/1469">Alexandre Gomes de Barros</na></co>
+<co c="0"><na f="b/Bassetto:Camila" pid="231/5253">Camila Bassetto</na></co>
+<co c="0"><na f="b/Batista:Rodolfo_Bezerra" pid="64/4374">Rodolfo Bezerra Batista</na></co>
+<co c="0"><na f="b/Bem:Pablo_Pozzobon_de" pid="262/4308">Pablo Pozzobon de Bem</na></co>
+<co c="0"><na f="b/Bezerra:Yuri_Fa=ccedil=anha" pid="385/1496">Yuri Fa&#231;anha Bezerra</na></co>
+<co c="0"><na f="b/Bispo:Guilherme_Dantas" pid="362/8259">Guilherme Dantas Bispo</na></co>
+<co c="0" n="2"><na f="b/Bonomo:Igor_S=" pid="231/5527">Igor S. Bonomo</na><na>Igor Silva Bonomo</na></co>
+<co c="0"><na f="b/Borges:D=iacute=bio_Leandro" pid="67/5182">D&#237;bio Leandro Borges</na></co>
+<co c="0"><na f="b/Borges:Vinicius_Ruela_Pereira" pid="155/4801">Vinicius Ruela Pereira Borges</na></co>
+<co c="0"><na f="b/Boukerche:Azzedine" pid="b/AzzedineBoukerche">Azzedine Boukerche</na></co>
+<co c="0"><na f="b/Branco:Vin=iacute=cius_Guilherme_Fracari" pid="50/1177">Vin&#237;cius Guilherme Fracari Branco</na></co>
+<co c="0"><na f="b/Brom:Pedro_Carvalho" pid="385/1153">Pedro Carvalho Brom</na></co>
+<co c="0"><na f="c/Cajueiro:Daniel_Oliveira" pid="56/6618">Daniel Oliveira Cajueiro</na></co>
+<co c="0" n="2"><na f="c/Campos:Te=oacute=filo_Em=iacute=dio_de" pid="94/4509">Te&#243;filo Em&#237;dio de Campos</na><na>Teofilo de Campos</na></co>
+<co c="0"><na f="c/Cardoso:Daniel_Amaral" pid="76/1225">Daniel Amaral Cardoso</na></co>
+<co c="0"><na f="c/Cariolano:Judas_T=" pid="181/9953">Judas T. Cariolano</na></co>
+<co c="0" n="2"><na f="c/Carvalho:Osmar_Luiz_Ferreira_de" pid="253/4336">Osmar Luiz Ferreira de Carvalho</na><na>Osmar Luiz Ferreira de Carvalho Jr.</na></co>
+<co c="0"><na f="c/Carvalho:Rommel_N=" pid="43/283">Rommel N. Carvalho</na></co>
+<co c="0" n="2"><na f="c/Carvalho_Jr=:Osmar_Ab=iacute=lio_de" pid="253/1984">Osmar Ab&#237;lio de Carvalho Jr.</na><na>Osmar Ab&#237;lio de Carvalho J&#250;nior</na></co>
+<co c="0"><na f="c/Casonatto:Ricardo_Accorsi" pid="362/8278">Ricardo Accorsi Casonatto</na></co>
+<co c="0"><na f="c/Castro:Gabriel_A=" pid="361/3929">Gabriel A. Castro</na></co>
+<co c="0" n="2"><na f="c/Celestino:Victor_Rafael_R=" pid="09/3862">Victor Rafael R. Celestino</na><na>Victor Rafael Rezende Celestino</na></co>
+<co c="0"><na f="c/Chaim:Ricardo_Matos" pid="198/2036">Ricardo Matos Chaim</na></co>
+<co c="0"><na f="c/Clarke:John=Paul" pid="50/1000">John-Paul Clarke</na></co>
+<co c="0"><na f="c/Coelho:Jaqueline_Gutierri" pid="362/7769">Jaqueline Gutierri Coelho</na></co>
+<co c="0"><na f="c/Corchado:Juan_M=" pid="87/6349">Juan M. Corchado</na></co>
+<co c="0"><na f="c/Costa:Caroline_Cabral_F=_da" pid="362/8429">Caroline Cabral F. da Costa</na></co>
+<co c="0"><na f="c/Costa:Fl=aacute=vio" pid="135/5098">Fl&#225;vio Costa</na></co>
+<co c="1"><na f="c/Costa:Mirele" pid="256/7340">Mirele Costa</na></co>
+<co c="0" n="2"><na f="c/Costa:Paulo_C=_G=" pid="44/6502">Paulo C. G. Costa</na><na>Paulo Costa 0003</na></co>
+<co c="0" n="2"><na f="c/Crespo:Ant=ocirc=nio_M=_F=" pid="28/840">Ant&#244;nio M. F. Crespo</na><na>Ant&#244;nio M&#225;rcio Ferreira Crespo</na></co>
+<co c="0"><na f="c/Cruciol:Leonardo_L=_B=_V=" pid="131/8695">Leonardo L. B. V. Cruciol</na></co>
+<co c="0"><na f="d/Dantas:Icaro_Ara=uacute=jo" pid="167/4640">Icaro Ara&#250;jo Dantas</na></co>
+<co c="0"><na f="d/Denzinger:J=ouml=rg" pid="d/JDenzinger">J&#246;rg Denzinger</na></co>
+<co c="0"><na f="d/Dib:Marcos_Vin=iacute=cius_Pinheiro" pid="37/2499">Marcos Vin&#237;cius Pinheiro Dib</na></co>
+<co c="0"><na f="d/Dourado:Aloisio" pid="202/6257">Aloisio Dourado</na></co>
+<co c="1"><na f="d/Drummond:Andr=eacute=_C=" pid="72/6853">Andr&#233; C. Drummond</na></co>
+<co c="0"><na f="e/Enamoto:Liriam" pid="261/5043">Liriam Enamoto</na></co>
+<co c="0"><na f="f/Faria:Allan_Victor_Almeida" pid="333/0220">Allan Victor Almeida Faria</na></co>
+<co c="0"><na f="f/Faria:Vitor_Bona_de" pid="241/3576">Vitor Bona de Faria</na></co>
+<co c="0"><na f="f/Farias:Myl=egrave=ne_C=_Q=" pid="96/2885">Myl&#232;ne C. Q. Farias</na></co>
+<co c="0"><na f="f/Ferreira:Deborah_Mendes" pid="150/5805">Deborah Mendes Ferreira</na></co>
+<co c="0"><na f="f/Ferreira:Nikson" pid="353/4600">Nikson Ferreira</na></co>
+<co c="0" n="3"><na f="f/Filho:Geraldo_P=_R=" pid="141/9518">Geraldo P. R. Filho</na><na>Geraldo P. Rocha Filho</na><na>Geraldo Pereira Rocha Filho</na></co>
+<co c="0"><na f="f/Fregnani:Jose_Alexandre_T=_G=" pid="192/4801">Jose Alexandre T. G. Fregnani</na></co>
+<co c="0"><na f="f/Freitas:V=eacute=rica" pid="392/5962">V&#233;rica Freitas</na></co>
+<co c="0"><na f="g/Garcia:Cristiano_P=" pid="372/9989">Cristiano P. Garcia</na></co>
+<co c="0"><na f="g/Garcia:Reinaldo_Crispiniano" pid="241/3517">Reinaldo Crispiniano Garcia</na></co>
+<co c="0"><na f="g/Gomes:Jefferson_de_Oliveira" pid="51/3143">Jefferson de Oliveira Gomes</na></co>
+<co c="0"><na f="g/Gomes:Roberto_Arnaldo_Trancoso" pid="53/8987">Roberto Arnaldo Trancoso Gomes</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves_0001:Vin=iacute=cius_P=" pid="115/5019">Vin&#237;cius P. Gon&#231;alves 0001</na></co>
+<co c="0"><na f="g/Guimar=atilde=es:Renato_Fontes" pid="91/8985">Renato Fontes Guimar&#227;es</na></co>
+<co c="0"><na f="g/Guth:Frederico" pid="238/0188">Frederico Guth</na></co>
+<co c="0" n="2"><na f="h/Hirata:Nina_Sumiko_Tomita" pid="62/2188">Nina Sumiko Tomita Hirata</na><na>Nina S. T. Hirata</na></co>
+<co c="0"><na f="j/Jacobi:Ricardo" pid="353/4661">Ricardo Jacobi</na></co>
+<co c="0"><na f="j/Junior:Antonio_Carlos_de_Arruda" pid="71/8766">Antonio Carlos de Arruda Junior</na></co>
+<co c="0"><na f="j/Junior:Jos=eacute=_Francisco_Salm" pid="131/9537">Jos&#233; Francisco Salm Junior</na></co>
+<co c="0"><na f="j/J=uacute=nior:Juarez_Paulino_da_Silva" pid="93/10697">Juarez Paulino da Silva J&#250;nior</na></co>
+<co c="0"><na f="j/Junior:Roberto_de_Medeiros" pid="362/7677">Roberto de Medeiros Junior</na></co>
+<co c="0"><na f="k/Kabongo:Patrick_Cisuaka" pid="180/6177">Patrick Cisuaka Kabongo</na></co>
+<co c="0" n="2"><na f="k/Kieckbusch:Diego_S=" pid="254/6236">Diego S. Kieckbusch</na><na>Diego Santos Kieckbusch</na></co>
+<co c="0"><na f="k/Kimura:Herbert" pid="187/5656">Herbert Kimura</na></co>
+<co c="0"><na f="l/Ladeira:Marcelo" pid="40/407">Marcelo Ladeira</na></co>
+<co c="3"><na f="l/Lago:Alair_Pereira_do" pid="76/4960">Alair Pereira do Lago</na></co>
+<co c="0"><na f="l/Laskey:Kathryn_B=" pid="52/3939">Kathryn B. Laskey</na></co>
+<co c="0"><na f="l/Leite:Alessandro_Ferreira" pid="80/8766">Alessandro Ferreira Leite</na></co>
+<co c="0"><na f="l/Leite:Daniel_Val=eacute=rio" pid="279/0806">Daniel Val&#233;rio Leite</na></co>
+<co c="0"><na f="l/Li:Daniel_LeZhi" pid="18/10240">Daniel LeZhi Li</na></co>
+<co c="0"><na f="l/Li:Danilo_Lelin" pid="302/3803">Danilo Lelin Li</na></co>
+<co c="-1"><na f="l/Li:Denise_Levi" pid="309/6394">Denise Levi Li</na></co>
+<co c="0"><na f="l/Li:Denise_Leyi" pid="291/3270">Denise Leyi Li</na></co>
+<co c="0"><na f="l/Li:Leihong" pid="183/7542">Leihong Li</na></co>
+<co c="0"><na f="l/Li:Tiancheng" pid="92/250">Tiancheng Li</na></co>
+<co c="0"><na f="l/Lima:Ricardo_de" pid="195/0118">Ricardo de Lima</na></co>
+<co c="0"><na f="l/Liu:Guiqiu" pid="142/6967">Guiqiu Liu</na></co>
+<co c="0"><na f="l/Lustosa:Patr=iacute=cia" pid="97/8310">Patr&#237;cia Lustosa</na></co>
+<co c="0"><na f="m/Maia:Guilherme" pid="97/7509">Guilherme Maia</na></co>
+<co c="0"><na f="m/Maia:Ricardo" pid="62/4556">Ricardo Maia</na></co>
+<co c="0"><na f="m/Marinho:Mayara_Chew" pid="368/1136">Mayara Chew Marinho</na></co>
+<co c="0"><na f="m/Martins:James_de_C=" pid="361/4629">James de C. Martins</na></co>
+<co c="0"><na f="m/Martins:Luiz" pid="353/4701">Luiz Martins</na></co>
+<co c="0"><na f="m/Martins:Patricia_Helena" pid="362/8200">Patricia Helena Martins</na></co>
+<co c="0"><na f="m/Mattos:Bento_S=" pid="254/6283">Bento S. Mattos</na></co>
+<co c="0" n="2"><na f="m/Meinerz:Giovani_Volnei" pid="233/2183">Giovani Volnei Meinerz</na><na>Giovani V. Meinerz</na></co>
+<co c="0" n="2"><na f="m/Melo:Alba_Cristina_Magalhaes_Alves_de" pid="m/AlbaCMAMelo">Alba Cristina Magalhaes Alves de Melo</na><na>Alba C. M. A. Melo</na></co>
+<co c="0"><na f="m/Melo:Ma=iacute=sa_Kely_de" pid="299/3177">Ma&#237;sa Kely de Melo</na></co>
+<co c="0"><na f="m/Mendes:Gilson_Lib=oacute=rio" pid="136/7187">Gilson Lib&#243;rio Mendes</na></co>
+<co c="0" n="2"><na f="m/Mendes:Hammurabi" pid="16/8045">Hammurabi Mendes</na><na>Hammurabi das Chagas Mendes</na></co>
+<co c="0"><na f="m/Meneguette:Rodolfo_I=" pid="123/3499">Rodolfo I. Meneguette</na></co>
+<co c="0"><na f="m/Milea:Viorel" pid="36/2712">Viorel Milea</na></co>
+<co c="0"><na f="m/Miranda:Christian" pid="215/3482">Christian Miranda</na></co>
+<co c="0"><na f="m/Missel:Patr=iacute=cia" pid="362/8031">Patr&#237;cia Missel</na></co>
+<co c="0"><na f="m/Modesto:Felipe" pid="120/9615">Felipe Modesto</na></co>
+<co c="0"><na f="m/Monteiro:Lucas_Borges" pid="174/1732">Lucas Borges Monteiro</na></co>
+<co c="0"><na f="m/Moura:Rebeca_dos_Santos_de" pid="269/3739">Rebeca dos Santos de Moura</na></co>
+<co c="0"><na f="n/Nery:Arthur_Gomes" pid="332/9795">Arthur Gomes Nery</na></co>
+<co c="0"><na f="n/Neto:Jos=eacute=_Rodrigues_Torres" pid="170/5542">Jos&#233; Rodrigues Torres Neto</na></co>
+<co c="0"><na f="n/Neto:Sergio_Augusto_Para_Bittencourt" pid="306/6187">Sergio Augusto Para Bittencourt Neto</na></co>
+<co c="0"><na f="n/Neumann:Clovis" pid="362/8313">Clovis Neumann</na></co>
+<co c="0"><na f="n/Neves:Thiago_F=" pid="118/5474">Thiago F. Neves</na></co>
+<co c="0"><na f="n/Nunes:Andrea_Ferreira_Portela" pid="333/0034">Andrea Ferreira Portela Nunes</na></co>
+<co c="0"><na f="o/Oliveira:Fl=aacute=vio_Augusto_R=_de" pid="333/0121">Fl&#225;vio Augusto R. de Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:=Iacute=talo_Romani_de" pid="64/4293">&#205;talo Romani de Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Lucilia" pid="236/1561">Lucilia Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Luiz_Fernando_Peres_de" pid="135/5259">Luiz Fernando Peres de Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Vin=iacute=cius_Di" pid="232/6607">Vin&#237;cius Di Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Vitor_Vasconcelos_De" pid="368/0756">Vitor Vasconcelos De Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Welber_Santos_de" pid="362/7891">Welber Santos de Oliveira</na></co>
+<co c="0"><na f="p/Pamplona:Daniel_Alberto" pid="192/5097">Daniel Alberto Pamplona</na></co>
+<co c="0"><na f="p/Pereira:Rubens_de_Castro" pid="310/7791">Rubens de Castro Pereira</na></co>
+<co c="0"><na f="p/Pessin:Gustavo" pid="59/7537">Gustavo Pessin</na></co>
+<co c="0"><na f="p/Pessoa:Walner" pid="353/4644">Walner Pessoa</na></co>
+<co c="0"><na f="r/Ralha:C=eacute=lia_Ghedini" pid="09/2442">C&#233;lia Ghedini Ralha</na></co>
+<co c="0"><na f="r/Ramos:Rafael_Marconi" pid="185/6785">Rafael Marconi Ramos</na></co>
+<co c="0"><na f="r/Ramos:Thiago_Mendon=ccedil=a_Ferreira" pid="192/4786">Thiago Mendon&#231;a Ferreira Ramos</na></co>
+<co c="0"><na f="r/Reis:Silvia_Ara=uacute=jo_dos" pid="337/1941">Silvia Ara&#250;jo dos Reis</na></co>
+<co c="0"><na f="r/Ribeiro:Ant=ocirc=nio" pid="49/1788">Ant&#244;nio Ribeiro</na></co>
+<co c="0"><na f="r/Ribeiro:Patricia_L=_V=" pid="168/3036">Patricia L. V. Ribeiro</na></co>
+<co c="0"><na f="r/Ribeiro:Vitor_Filincowsky" pid="150/5797">Vitor Filincowsky Ribeiro</na></co>
+<co c="0"><na f="r/Rincon:Mauricio" pid="353/4612">Mauricio Rincon</na></co>
+<co c="0"><na f="r/Rocha:Carlos_Alberto_Alvares" pid="333/0075">Carlos Alberto Alvares Rocha</na></co>
+<co c="0"><na f="r/Rodrigues:Henrique_Torres_de_Almeida" pid="241/3641">Henrique Torres de Almeida Rodrigues</na></co>
+<co c="0" n="2"><na f="r/Rodrigues:Natan_de_S=" pid="266/2473">Natan de S. Rodrigues</na><na>Natan de Souza Rodrigues</na></co>
+<co c="0"><na f="r/Rosa:Lucas_Pessoa" pid="150/5822">Lucas Pessoa Rosa</na></co>
+<co c="0"><na f="r/Rosano=Pe=ntilde=a:Carlos" pid="362/8333">Carlos Rosano-Pe&#241;a</na></co>
+<co c="0"><na f="s/Saiki:Gabriela_Mayumi" pid="362/8229">Gabriela Mayumi Saiki</na></co>
+<co c="0"><na f="s/Saleh:Ahmed_Abdelfattah" pid="167/4723">Ahmed Abdelfattah Saleh</na></co>
+<co c="0" n="2"><na f="s/Sandes:Edans_Flavius_de_Oliveira" pid="70/2051">Edans Flavius de Oliveira Sandes</na><na>Edans F. de O. Sandes</na></co>
+<co c="0"><na f="s/Santos:Alan_R=" pid="95/10305">Alan R. Santos</na></co>
+<co c="0" n="2"><na f="s/Santos:La=eacute=cio_L=" pid="44/6137">La&#233;cio L. Santos</na><na>La&#233;cio L. dos Santos</na></co>
+<co c="0"><na f="s/Serrano:Andr=eacute=_Luiz_Marques" pid="362/7622">Andr&#233; Luiz Marques Serrano</na></co>
+<co c="0"><na f="s/Shiguemori:Elcio_Hideiti" pid="35/6726">Elcio Hideiti Shiguemori</na></co>
+<co c="0"><na f="s/Silva:D=_N=" pid="86/1401">D. N. Silva</na></co>
+<co c="0"><na f="s/Silva:Gladston_Luiz_da" pid="258/8281">Gladston Luiz da Silva</na></co>
+<co c="1"><na f="s/Silva_0004:Guilherme" pid="178/1580-4">Guilherme Silva 0004</na></co>
+<co c="0"><na f="s/Silva:Nilton_Correia_da" pid="213/5497">Nilton Correia da Silva</na></co>
+<co c="0"><na f="s/Siqueira:Elton_Sarmanho" pid="180/6205">Elton Sarmanho Siqueira</na></co>
+<co c="0"><na f="s/Souza:Bueno_Borges_de" pid="47/6465">Bueno Borges de Souza</na></co>
+<co c="0"><na f="s/Souza:Joao_Gabriel_de_Moraes" pid="392/6006">Joao Gabriel de Moraes Souza</na></co>
+<co c="0"><na f="s/Souza:Leonardo_R=" pid="269/8347">Leonardo R. Souza</na></co>
+<co c="3"><na f="s/Souza:M=aacute=rcio_Augusto_da_Silva" pid="166/2703">M&#225;rcio Augusto da Silva Souza</na></co>
+<co c="2"><na f="s/Su:Yanyuan" pid="241/6584">Yanyuan Su</na></co>
+<co c="2"><na f="t/Tang:Chaosheng" pid="154/7006">Chaosheng Tang</na></co>
+<co c="0"><na f="t/Tavares:Igor" pid="337/2402">Igor Tavares</na></co>
+<co c="0"><na f="t/Teles:Wesley_Martins" pid="61/5257">Wesley Martins Teles</na></co>
+<co c="0"><na f="u/Uden:Lorna" pid="93/4547">Lorna Uden</na></co>
+<co c="0" n="2"><na f="u/Ueyama:Jo" pid="68/1201">Jo Ueyama</na><na>J&#243; Ueyama</na></co>
+<co c="0"><na f="v/Valejo:Alan" pid="149/9198">Alan Valejo</na></co>
+<co c="0"><na f="v/Vergara:Guilherme_Fay" pid="163/9158">Guilherme Fay Vergara</na></co>
+<co c="0"><na f="v/Vidal:Flavio_de_Barros" pid="58/3882">Flavio de Barros Vidal</na></co>
+<co c="0"><na f="v/Villas:Leandro_A=" pid="64/7382">Leandro A. Villas</na></co>
+<co c="0"><na f="w/Wu_0001:Fei" pid="84/3254-1">Fei Wu 0001</na></co>
+<co c="0"><na f="x/Xu:Hongbo" pid="70/5833">Hongbo Xu</na></co>
+<co c="0"><na f="y/Yamashita:Yaeko" pid="29/2165">Yaeko Yamashita</na></co>
+<co c="2"><na f="z/Zhang:Yaming" pid="68/10186">Yaming Zhang</na></co>
+<co c="0"><na f="z/Zhang:Zi=Ke" pid="17/146">Zi-Ke Zhang</na></co>
+<co c="0"><na f="z/Zheng:Jianya" pid="39/10241">Jianya Zheng</na></co>
+</coauthors>
+</dblpperson>
+

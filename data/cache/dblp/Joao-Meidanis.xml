@@ -1,0 +1,811 @@
+<?xml version="1.0"?>
+<dblpperson name="Jo&#227;o Meidanis" pid="m/JoaoMeidanis" n="54">
+<person key="homepages/m/JoaoMeidanis" mdate="2024-05-01">
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<author pid="m/JoaoMeidanis">Joao Meidanis</author>
+<note type="affiliation">University of Campinas, Sao Paulo, Brazil</note>
+<url>http://www.dcc.unicamp.br/~meidanis/</url>
+<url>https://mathscinet.ams.org/mathscinet/MRAuthorID/311400</url>
+<url>https://mathgenealogy.org/id.php?id=75328</url>
+<url>https://orcid.org/0000-0001-7878-4990</url>
+<url>https://www.wikidata.org/entity/Q90428576</url>
+</person>
+<r><article key="journals/tcbb/ZanettiOMC24" mdate="2024-07-04">
+<author orcid="0000-0002-9955-7751" pid="133/2019">Jo&#227;o Paulo Pereira Zanetti</author>
+<author orcid="0000-0002-8292-9985" pid="370/4468">Lucas Peres Oliveira</author>
+<author orcid="0000-0001-7878-4990" pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<author orcid="0000-0002-6619-6013" pid="08/3182">Leonid Chindelevitch</author>
+<title>Counting Sorting Scenarios and Intermediate Genomes for the Rank Distance.</title>
+<pages>316-327</pages>
+<year>2024</year>
+<month>May - June</month>
+<volume>21</volume>
+<journal>IEEE ACM Trans. Comput. Biol. Bioinform.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCBB.2023.3277733</ee>
+<url>db/journals/tcbb/tcbb21.html#ZanettiOMC24</url>
+</article>
+</r>
+<r><article key="journals/bioinformatics/ZanettiOCM23" mdate="2024-04-27">
+<author pid="133/2019">Jo&#227;o Paulo Pereira Zanetti</author>
+<author orcid="0000-0002-8292-9985" pid="370/4468">Lucas Peres Oliveira</author>
+<author orcid="0000-0002-6619-6013" pid="08/3182">Leonid Chindelevitch</author>
+<author orcid="0000-0001-7878-4990" pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>Generalizations of the genomic rank distance to indels.</title>
+<year>2023</year>
+<month>March</month>
+<volume>39</volume>
+<journal>Bioinform.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1093/bioinformatics/btad087</ee>
+<url>db/journals/bioinformatics/bioinformatics39.html#ZanettiOCM23</url>
+</article>
+</r>
+<r><inproceedings key="conf/wob/BillerZM20" mdate="2021-01-09">
+<author orcid="0000-0002-2937-5397" pid="130/1127">Priscila Biller</author>
+<author orcid="0000-0002-9955-7751" pid="133/2019">Jo&#227;o Paulo Pereira Zanetti</author>
+<author orcid="0000-0001-7878-4990" pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>Center Genome with Respect to the Rank Distance.</title>
+<pages>141-149</pages>
+<year>2020</year>
+<booktitle>BSB</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-65775-8_13</ee>
+<crossref>conf/wob/2020</crossref>
+<url>db/conf/wob/bsb2020.html#BillerZM20</url>
+</inproceedings>
+</r>
+<r><article key="journals/almob/ChindelevitchLM19" mdate="2020-05-30">
+<author orcid="0000-0002-6619-6013" pid="08/3182">Leonid Chindelevitch</author>
+<author pid="192/1333">Sean La</author>
+<author pid="m/JoaoMeidanis">Joao Meidanis</author>
+<title>A cubic algorithm for the generalized rank median of three genomes.</title>
+<pages>16:1-16:16</pages>
+<year>2019</year>
+<volume>14</volume>
+<journal>Algorithms Mol. Biol.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s13015-019-0150-y</ee>
+<ee>https://www.wikidata.org/entity/Q91936373</ee>
+<url>db/journals/almob/almob14.html#ChindelevitchLM19</url>
+</article>
+</r>
+<r><article key="journals/tcbb/SankoffZZMLT19" mdate="2023-04-03">
+<author orcid="0000-0001-8415-5189" pid="66/977">David Sankoff</author>
+<author pid="98/1056">Chunfang Zheng</author>
+<author pid="47/722">Yue Zhang</author>
+<author orcid="0000-0001-7878-4990" pid="m/JoaoMeidanis">Joao Meidanis</author>
+<author pid="36/6343-2">Eric Lyons 0002</author>
+<author orcid="0000-0002-3460-8570" pid="03/8394">Haibao Tang</author>
+<title>Models for Similarity Distributions of Syntenic Homologs and Applications to Phylogenomics.</title>
+<pages>727-737</pages>
+<year>2019</year>
+<volume>16</volume>
+<journal>IEEE ACM Trans. Comput. Biol. Bioinform.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1109/TCBB.2018.2849377</ee>
+<ee>https://www.wikidata.org/entity/Q90720965</ee>
+<url>db/journals/tcbb/tcbb16.html#SankoffZZMLT19</url>
+</article>
+</r>
+<r><inproceedings key="conf/alcob/ZanettiCM19" mdate="2019-05-31">
+<author orcid="0000-0002-9955-7751" pid="133/2019">Jo&#227;o Paulo Pereira Zanetti</author>
+<author orcid="0000-0002-6619-6013" pid="08/3182">Leonid Chindelevitch</author>
+<author orcid="0000-0001-7878-4990" pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>Counting Sorting Scenarios and Intermediate Genomes for the Rank Distance.</title>
+<pages>137-151</pages>
+<year>2019</year>
+<booktitle>AlCoB</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-18174-1_10</ee>
+<crossref>conf/alcob/2019</crossref>
+<url>db/conf/alcob/alcob2019.html#ZanettiCM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/alcob/ZanettiCM19a" mdate="2019-05-31">
+<author orcid="0000-0002-9955-7751" pid="133/2019">Jo&#227;o Paulo Pereira Zanetti</author>
+<author orcid="0000-0002-6619-6013" pid="08/3182">Leonid Chindelevitch</author>
+<author orcid="0000-0001-7878-4990" pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>Generalizations of the Genomic Rank Distance to Indels.</title>
+<pages>152-164</pages>
+<year>2019</year>
+<booktitle>AlCoB</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-18174-1_11</ee>
+<crossref>conf/alcob/2019</crossref>
+<url>db/conf/alcob/alcob2019.html#ZanettiCM19a</url>
+</inproceedings>
+</r>
+<r><article key="journals/bmcbi/ChindelevitchZM18" mdate="2020-12-29">
+<author orcid="0000-0002-6619-6013" pid="08/3182">Leonid Chindelevitch</author>
+<author pid="133/2019">Jo&#227;o Paulo Pereira Zanetti</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>On the rank-distance median of 3 permutations.</title>
+<pages>43-62</pages>
+<year>2018</year>
+<volume>19-S</volume>
+<journal>BMC Bioinform.</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.1186/s12859-018-2131-4</ee>
+<ee>https://www.wikidata.org/entity/Q55340516</ee>
+<url>db/journals/bmcbi/bmcbi19S.html#ChindelevitchZM18</url>
+</article>
+</r>
+<r><inproceedings key="conf/recomb/ChindelevitchM18" mdate="2020-12-29">
+<author orcid="0000-0002-6619-6013" pid="08/3182">Leonid Chindelevitch</author>
+<author pid="m/JoaoMeidanis">Joao Meidanis</author>
+<title>A Cubic Algorithm for the Generalized Rank Median of Three Genomes.</title>
+<pages>3-27</pages>
+<year>2018</year>
+<booktitle>RECOMB-CG</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-00834-5_1</ee>
+<crossref>conf/recomb/2018cg</crossref>
+<url>db/conf/recomb/recomb-cg2018.html#ChindelevitchM18</url>
+</inproceedings>
+</r>
+<r><article key="journals/chb/SilvaMMSVOOJLB17" mdate="2020-10-26">
+<author orcid="0000-0001-6112-892X" pid="86/1791">Celmar Guimar&#227;es da Silva</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<author pid="61/669">Arnaldo Vieira Moura</author>
+<author pid="125/2697">Maria Ang&#233;lica Souza</author>
+<author orcid="0000-0003-0094-9104" pid="177/3421">Paulo Viadanna Jr.</author>
+<author orcid="0000-0003-3914-4602" pid="201/4389">Marcello R. de Oliveira</author>
+<author pid="199/9761">Maur&#237;cio Rossi de Oliveira</author>
+<author orcid="0000-0003-4889-4130" pid="201/4499">Lidianne H. Jardim</author>
+<author pid="177/3351">Gabriel A. Costa Lima</author>
+<author pid="177/3422">Rafael S. V. de Barros</author>
+<title>An improved visualization-based approach for project portfolio selection.</title>
+<pages>685-696</pages>
+<year>2017</year>
+<volume>73</volume>
+<journal>Comput. Hum. Behav.</journal>
+<ee>https://doi.org/10.1016/j.chb.2016.12.083</ee>
+<url>db/journals/chb/chb73.html#SilvaMMSVOOJLB17</url>
+</article>
+</r>
+<r><inproceedings key="conf/recomb/ChindelevitchM17" mdate="2020-12-29">
+<author orcid="0000-0002-6619-6013" pid="08/3182">Leonid Chindelevitch</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>On the Rank-Distance Median of 3 Permutations.</title>
+<pages>256-276</pages>
+<year>2017</year>
+<booktitle>RECOMB-CG</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-67979-2_14</ee>
+<crossref>conf/recomb/2017cg</crossref>
+<url>db/conf/recomb/recomb-cg2017.html#ChindelevitchM17</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/recomb/2017cg" mdate="2019-05-13">
+<editor pid="m/JoaoMeidanis">Joao Meidanis</editor>
+<editor pid="18/7026">Luay Nakhleh</editor>
+<title>Comparative Genomics - 15th International Workshop, RECOMB CG 2017, Barcelona, Spain, October 4-6, 2017, Proceedings</title>
+<booktitle>RECOMB-CG</booktitle>
+<publisher>Springer</publisher>
+<year>2017</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>10562</volume>
+<isbn>978-3-319-67978-5</isbn>
+<isbn>978-3-319-67979-2</isbn>
+<ee>https://doi.org/10.1007/978-3-319-67979-2</ee>
+<url>db/conf/recomb/recomb-cg2017.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/worldcist/SilvaMMSVLB16" mdate="2020-10-25">
+<author orcid="0000-0001-6112-892X" pid="86/1791">Celmar Guimar&#227;es da Silva</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<author pid="61/669">Arnaldo Vieira Moura</author>
+<author pid="125/2697">Maria Ang&#233;lica Souza</author>
+<author pid="177/3421">Paulo Viadanna Jr.</author>
+<author pid="177/3351">Gabriel A. Costa Lima</author>
+<author pid="177/3422">Rafael S. V. de Barros</author>
+<title>A Visualization-Based Approach for Project Portfolio Selection.</title>
+<pages>835-844</pages>
+<year>2016</year>
+<booktitle>WorldCIST (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-31232-3_79</ee>
+<crossref>conf/worldcist/2016-1</crossref>
+<url>db/conf/worldcist/worldcist2016-1.html#SilvaMMSVLB16</url>
+</inproceedings>
+</r>
+<r><article key="journals/jbcs/SilvaMSM14" mdate="2020-10-26">
+<author orcid="0000-0001-6112-892X" pid="86/1791">Celmar Guimar&#227;es da Silva</author>
+<author pid="141/5577">Marivaldo Felipe de Melo</author>
+<author pid="141/5547">Felipi de Paula e Silva</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>PQR sort: using PQR trees for binary matrix reorganization.</title>
+<pages>3:1-3:13</pages>
+<year>2014</year>
+<volume>20</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/1678-4804-20-3</ee>
+<ee>https://www.wikidata.org/entity/Q59319383</ee>
+<url>db/journals/jbcs/jbcs20.html#SilvaMSM14</url>
+</article>
+</r>
+<r><article key="journals/tcbb/BillerFM13" mdate="2023-04-03">
+<author pid="130/1127">Priscila Biller</author>
+<author pid="21/7416">Pedro Feij&#227;o</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>Rearrangement-Based Phylogeny Using the Single-Cut-or-Join Operation.</title>
+<pages>122-134</pages>
+<year>2013</year>
+<volume>10</volume>
+<journal>IEEE ACM Trans. Comput. Biol. Bioinform.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCBB.2012.168</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/TCBB.2012.168</ee>
+<ee>https://dl.acm.org/doi/10.1109/TCBB.2012.168</ee>
+<ee>https://www.wikidata.org/entity/Q34736487</ee>
+<url>db/journals/tcbb/tcbb10.html#BillerFM13</url>
+</article>
+</r>
+<r><article key="journals/tcbb/FeijaoM13" mdate="2023-04-03">
+<author pid="21/7416">Pedro Feij&#227;o</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>Extending the Algebraic Formalism for Genome Rearrangements to Include Linear Chromosomes.</title>
+<pages>819-831</pages>
+<year>2013</year>
+<volume>10</volume>
+<journal>IEEE ACM Trans. Comput. Biol. Bioinform.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCBB.2012.161</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/TCBB.2012.161</ee>
+<ee>https://dl.acm.org/doi/10.1109/TCBB.2012.161</ee>
+<ee>https://www.wikidata.org/entity/Q51133229</ee>
+<url>db/journals/tcbb/tcbb10.html#FeijaoM13</url>
+</article>
+</r>
+<r><inproceedings key="conf/wabi/ZanettiBM13" mdate="2017-05-25">
+<author pid="133/2019">Jo&#227;o Paulo Pereira Zanetti</author>
+<author pid="130/1127">Priscila Biller</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>On the Matrix Median Problem.</title>
+<pages>230-243</pages>
+<year>2013</year>
+<crossref>conf/wabi/2013</crossref>
+<booktitle>WABI</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-40453-5_18</ee>
+<url>db/conf/wabi/wabi2013.html#ZanettiBM13</url>
+</inproceedings>
+</r>
+<r><incollection key="books/daglib/p/MeidanisY13" mdate="2017-05-16">
+<author pid="m/JoaoMeidanis">Joao Meidanis</author>
+<author pid="64/6501">Sophia Yancopoulos</author>
+<title>The Emperor Has No Caps! A Comparison of DCJ and Algebraic Distances.</title>
+<pages>207-243</pages>
+<year>2013</year>
+<booktitle>Models and Algorithms for Genome Evolution</booktitle>
+<ee>https://doi.org/10.1007/978-1-4471-5298-9_10</ee>
+<crossref>books/daglib/0032286</crossref>
+<url>db/books/daglib/0032286.html#MeidanisY13</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/cse/MiraFSMMLSBF12" mdate="2023-03-24">
+<author pid="68/2446">Cleber V. G. Mira</author>
+<author pid="21/7416">Pedro Feij&#227;o</author>
+<author pid="125/2697">Maria Ang&#233;lica Souza</author>
+<author pid="61/669">Arnaldo Vieira Moura</author>
+<author pid="m/JoaoMeidanis">Joao Meidanis</author>
+<author pid="177/3351">Gabriel A. Costa Lima</author>
+<author pid="125/2724">Rafael Schmitz</author>
+<author pid="125/2694">Renato P. Bossolan</author>
+<author pid="125/2679">Italo T. Freitas</author>
+<title>A GRASP-based Heuristic for the Project Portfolio Selection Problem.</title>
+<pages>36-41</pages>
+<year>2012</year>
+<booktitle>CSE</booktitle>
+<ee>https://doi.org/10.1109/ICCSE.2012.102</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICCSE.2012.102</ee>
+<crossref>conf/cse/2012</crossref>
+<url>db/conf/cse/cse2012.html#MiraFSMMLSBF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wob/FeijaoM12" mdate="2017-05-19">
+<author pid="21/7416">Pedro Feij&#227;o</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>Extending the Algebraic Formalism for Genome Rearrangements to Include Linear Chromosomes.</title>
+<pages>13-24</pages>
+<year>2012</year>
+<booktitle>BSB</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31927-3_2</ee>
+<crossref>conf/wob/2012</crossref>
+<url>db/conf/wob/bsb2012.html#FeijaoM12</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcbb/FeijaoM11" mdate="2023-04-03">
+<author pid="21/7416">Pedro Feij&#227;o</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>SCJ: A Breakpoint-Like Distance that Simplifies Several Rearrangement Problems.</title>
+<pages>1318-1329</pages>
+<year>2011</year>
+<volume>8</volume>
+<journal>IEEE ACM Trans. Comput. Biol. Bioinform.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TCBB.2011.34</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/TCBB.2011.34</ee>
+<ee>https://dl.acm.org/doi/10.1109/TCBB.2011.34</ee>
+<ee>https://www.wikidata.org/entity/Q51600721</ee>
+<url>db/journals/tcbb/tcbb8.html#FeijaoM11</url>
+</article>
+</r>
+<r><inproceedings key="conf/eScience/MiraFDMJ11" mdate="2024-10-06">
+<author pid="68/2446">Cleber V. G. Mira</author>
+<author pid="21/7416">Pedro Feij&#227;o</author>
+<author pid="18/10762">Tiago Duque-Estrada</author>
+<author pid="m/JoaoMeidanis">Joao Meidanis</author>
+<author orcid="0000-0002-7945-2805" pid="07/10763">Carlos A. Joly</author>
+<title>The SinBiota 2.0 Biodiversity Information System.</title>
+<pages>142-149</pages>
+<year>2011</year>
+<booktitle>eScience</booktitle>
+<ee>https://doi.org/10.1109/eScience.2011.28</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/eScience.2011.28</ee>
+<crossref>conf/eScience/2011</crossref>
+<url>db/conf/eScience/eScience2011.html#MiraFDMJ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wabi/FeijaoM09" mdate="2017-05-25">
+<author pid="21/7416">Pedro Feij&#227;o</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>SCJ: A Variant of Breakpoint Distance for Which Sorting, Genome Median and Genome Halving Problems Are Easy.</title>
+<pages>85-96</pages>
+<year>2009</year>
+<booktitle>WABI</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04241-6_8</ee>
+<crossref>conf/wabi/2009</crossref>
+<url>db/conf/wabi/wabi2009.html#FeijaoM09</url>
+</inproceedings>
+</r>
+<r><article key="journals/dam/AlconCFGM07" mdate="2021-02-11">
+<author pid="29/5539">Liliana Alc&#243;n</author>
+<author pid="05/4738">M&#225;rcia R. Cerioli</author>
+<author orcid="0000-0002-6393-0876" pid="09/5415">Celina M. H. de Figueiredo</author>
+<author pid="80/1260">Marisa Gutierrez</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>Tree loop graphs.</title>
+<pages>686-694</pages>
+<year>2007</year>
+<volume>155</volume>
+<journal>Discret. Appl. Math.</journal>
+<number>6-7</number>
+<ee type="oa">https://doi.org/10.1016/j.dam.2005.01.001</ee>
+<url>db/journals/dam/dam155.html#AlconCFGM07</url>
+</article>
+</r>
+<r><inproceedings key="conf/itng/MiraM07" mdate="2023-03-24">
+<author pid="68/2446">Cleber V. G. Mira</author>
+<author pid="m/JoaoMeidanis">Joao Meidanis</author>
+<title>Sorting by Block-Interchanges and Signed Reversals.</title>
+<pages>670-676</pages>
+<year>2007</year>
+<crossref>conf/itng/2007</crossref>
+<booktitle>ITNG</booktitle>
+<ee>https://doi.org/10.1109/ITNG.2007.184</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ITNG.2007.184</ee>
+<url>db/conf/itng/itng2007.html#MiraM07</url>
+</inproceedings>
+</r>
+<r><article key="journals/endm/TellesM05" mdate="2020-02-20">
+<author pid="71/2226">Guilherme P. Telles</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>Building PQR trees in almost-linear time.</title>
+<pages>33-39</pages>
+<year>2005</year>
+<volume>19</volume>
+<journal>Electron. Notes Discret. Math.</journal>
+<ee>https://doi.org/10.1016/j.endm.2005.05.006</ee>
+<url>db/journals/endm/endm19.html#TellesM05</url>
+</article>
+</r>
+<r><article key="journals/endm/AlconCFGM05a" mdate="2020-02-20">
+<author pid="29/5539">Liliana Alc&#243;n</author>
+<author pid="05/4738">M&#225;rcia R. Cerioli</author>
+<author pid="09/5415">Celina M. H. de Figueiredo</author>
+<author pid="80/1260">Marisa Gutierrez</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>Non loop graphs with induced cycles.</title>
+<pages>289-295</pages>
+<year>2005</year>
+<volume>19</volume>
+<journal>Electron. Notes Discret. Math.</journal>
+<ee>https://doi.org/10.1016/j.endm.2005.05.039</ee>
+<url>db/journals/endm/endm19.html#AlconCFGM05a</url>
+</article>
+</r>
+<r><article key="journals/endm/AlconCFGM05" mdate="2020-02-20">
+<author pid="29/5539">Liliana Alc&#243;n</author>
+<author pid="05/4738">M&#225;rcia R. Cerioli</author>
+<author orcid="0000-0002-6393-0876" pid="09/5415">Celina M. H. de Figueiredo</author>
+<author pid="80/1260">Marisa Gutierrez</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>Loop Graphs and Asteroidal Sets.</title>
+<pages>179-183</pages>
+<year>2005</year>
+<volume>22</volume>
+<journal>Electron. Notes Discret. Math.</journal>
+<ee>https://doi.org/10.1016/j.endm.2005.06.038</ee>
+<url>db/journals/endm/endm22.html#AlconCFGM05</url>
+</article>
+</r>
+<r><article key="journals/endm/AlconFCGM04" mdate="2020-02-20">
+<author pid="29/5539">Liliana Alc&#243;n</author>
+<author orcid="0000-0002-6393-0876" pid="09/5415">Celina M. H. de Figueiredo</author>
+<author pid="05/4738">M&#225;rcia R. Cerioli</author>
+<author pid="80/1260">Marisa Gutierrez</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>Tree Loop Graphs.</title>
+<pages>17-23</pages>
+<year>2004</year>
+<volume>18</volume>
+<journal>Electron. Notes Discret. Math.</journal>
+<ee>https://doi.org/10.1016/j.endm.2004.06.003</ee>
+<url>db/journals/endm/endm18.html#AlconFCGM04</url>
+</article>
+</r>
+<r><article key="journals/dam/GutierrezM03" mdate="2021-02-11">
+<author pid="80/1260">Marisa Gutierrez</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>Recognizing clique graphs of directed edge path graphs.</title>
+<pages>297-304</pages>
+<year>2003</year>
+<volume>126</volume>
+<journal>Discret. Appl. Math.</journal>
+<number>2-3</number>
+<url>db/journals/dam/dam126.html#GutierrezM03</url>
+<ee type="oa">https://doi.org/10.1016/S0166-218X(02)00203-2</ee>
+</article>
+</r>
+<r><article key="journals/tcs/FigueiredoMMO03" mdate="2021-02-17">
+<author orcid="0000-0002-6393-0876" pid="09/5415">Celina M. H. de Figueiredo</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<author pid="42/6073">C&#233;lia Picinin de Mello</author>
+<author pid="73/2261">Carmen Ortiz</author>
+<title>Decompositions for the edge colouring of reduced indifference graphs.</title>
+<pages>145-155</pages>
+<year>2003</year>
+<number>1-3</number>
+<journal>Theor. Comput. Sci.</journal>
+<volume>297</volume>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(02)00636-9</ee>
+<url>db/journals/tcs/tcs297.html#FigueiredoMMO03</url>
+</article>
+</r>
+<r><inproceedings key="conf/spire/Meidanis03" mdate="2017-05-24">
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>Current Challenges in Bioinformatics.</title>
+<pages>16-27</pages>
+<ee>https://doi.org/10.1007/978-3-540-39984-1_2</ee>
+<year>2003</year>
+<crossref>conf/spire/2003</crossref>
+<booktitle>SPIRE</booktitle>
+<url>db/conf/spire/spire2003.html#Meidanis03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wob/DiasM03" mdate="2005-03-10">
+<author pid="93/6090">Zanoni Dias</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>The Syntenic Distance Problem Using Only Fusions and Fussions.</title>
+<pages>72-79</pages>
+<year>2003</year>
+<crossref>conf/wob/2003</crossref>
+<booktitle>WOB</booktitle>
+<url>db/conf/wob/wob2003.html#DiasM03</url>
+</inproceedings>
+</r>
+<r><article key="journals/arscom/GutierrezM02" mdate="2007-03-19">
+<author pid="80/1260">Marisa Gutierrez</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>On clique graph recognition.</title>
+<year>2002</year>
+<volume>63</volume>
+<journal>Ars Comb.</journal>
+<url>db/journals/arscom/arscom63.html#GutierrezM02</url>
+</article>
+</r>
+<r><article key="journals/jcb/MeidanisWD02" mdate="2021-03-02">
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<author orcid="0000-0001-6822-931X" pid="84/2668">Maria Em&#237;lia Telles Walter</author>
+<author pid="93/6090">Zanoni Dias</author>
+<title>A Lower Bound on the Reversal and Transposition Diameter.</title>
+<pages>743-745</pages>
+<year>2002</year>
+<volume>9</volume>
+<journal>J. Comput. Biol.</journal>
+<number>5</number>
+<url>db/journals/jcb/jcb9.html#MeidanisWD02</url>
+<ee>https://doi.org/10.1089/106652702761034163</ee>
+<ee>https://www.wikidata.org/entity/Q78678519</ee>
+</article>
+</r>
+<r><inproceedings key="conf/latin/BragaM02" mdate="2017-05-23">
+<author pid="65/6243">Mar&#237;lia D. V. Braga</author>
+<author pid="m/JoaoMeidanis">Joao Meidanis</author>
+<title>An Algorithm That Builds a Set of Strings Given Its Overlap Graph.</title>
+<pages>52-63</pages>
+<year>2002</year>
+<crossref>conf/latin/2002</crossref>
+<booktitle>LATIN</booktitle>
+<ee>https://doi.org/10.1007/3-540-45995-2_10</ee>
+<url>db/conf/latin/latin2002.html#BragaM02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spire/DiasM02" mdate="2017-05-24">
+<author pid="93/6090">Zanoni Dias</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>Sorting by Prefix Transpositions.</title>
+<pages>65-76</pages>
+<ee>https://doi.org/10.1007/3-540-45735-6_7</ee>
+<year>2002</year>
+<crossref>conf/spire/2002</crossref>
+<booktitle>SPIRE</booktitle>
+<url>db/conf/spire/spire2002.html#DiasM02</url>
+</inproceedings>
+</r>
+<r><article key="journals/endm/GutierrezM01" mdate="2020-02-20">
+<author pid="80/1260">Marisa Gutierrez</author>
+<author pid="m/JoaoMeidanis">Joao Meidanis</author>
+<title>The Clique Operator, Set Families, and Their Properties.</title>
+<pages>94-97</pages>
+<year>2001</year>
+<volume>7</volume>
+<journal>Electron. Notes Discret. Math.</journal>
+<ee>https://doi.org/10.1016/S1571-0653(04)00233-1</ee>
+<url>db/journals/endm/endm7.html#GutierrezM01</url>
+</article>
+</r>
+<r><article key="journals/jbcs/GutierrezM01" mdate="2020-05-20">
+<author pid="80/1260">Marisa Gutierrez</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>Algebraic theory for the clique operator.</title>
+<pages>53-64</pages>
+<year>2001</year>
+<volume>7</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>3</number>
+<url>db/journals/jbcs/jbcs7.html#GutierrezM01</url>
+</article>
+</r>
+<r><inproceedings key="conf/spire/DiasM01" mdate="2023-03-23">
+<author pid="93/6090">Zanoni Dias</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>Genome Rearrangements Distance by Fusion, Fission, and Transposition is Easy.</title>
+<pages>250-253</pages>
+<year>2001</year>
+<crossref>conf/spire/2001</crossref>
+<booktitle>SPIRE</booktitle>
+<url>db/conf/spire/spire2001.html#DiasM01</url>
+<ee>https://doi.org/10.1109/SPIRE.2001.989776</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SPIRE.2001.10004</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spire/WalterDM00" mdate="2023-03-23">
+<author orcid="0000-0001-6822-931X" pid="84/2668">Maria Em&#237;lia Telles Walter</author>
+<author pid="93/6090">Zanoni Dias</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>A New Approach for Approximating the Tranposition Distance.</title>
+<pages>199-208</pages>
+<year>2000</year>
+<crossref>conf/spire/2000</crossref>
+<booktitle>SPIRE</booktitle>
+<ee>https://doi.org/10.1109/SPIRE.2000.878196</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SPIRE.2000.878196</ee>
+<url>db/conf/spire/spire2000.html#WalterDM00</url>
+</inproceedings>
+</r>
+<r><article key="journals/ipl/FigueiredoMM99" mdate="2025-01-19">
+<author pid="09/5415">Celina M. H. de Figueiredo</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<author pid="42/6073">C&#233;lia Picinin de Mello</author>
+<title>Total-Chromatic Number and Chromatic Index of Dually Chordal Graphs.</title>
+<pages>147-152</pages>
+<year>1999</year>
+<volume>70</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl70.html#FigueiredoMM99</url>
+<ee>https://doi.org/10.1016/S0020-0190(99)00050-2</ee>
+<ee>https://www.wikidata.org/entity/Q127305885</ee>
+</article>
+</r>
+<r><article key="journals/dam/MeidanisPT98" mdate="2021-02-11">
+<author pid="m/JoaoMeidanis">Joao Meidanis</author>
+<author pid="40/3213">Oscar Porto</author>
+<author pid="71/2226">Guilherme P. Telles</author>
+<title>On the Consecutive Ones Property.</title>
+<pages>325-354</pages>
+<year>1998</year>
+<volume>88</volume>
+<journal>Discret. Appl. Math.</journal>
+<number>1-3</number>
+<ee type="oa">https://doi.org/10.1016/S0166-218X(98)00078-X</ee>
+<url>db/journals/dam/dam88.html#MeidanisPT98</url>
+</article>
+</r>
+<r><inproceedings key="conf/dimacs/Meidanis98" mdate="2022-06-09">
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>A simple toolkit for DNA fragment assembly.</title>
+<pages>271-288</pages>
+<year>1998</year>
+<booktitle>Mathematical Support for Molecular Biology</booktitle>
+<crossref>conf/dimacs/dimacs47</crossref>
+<url>db/conf/dimacs/dimacs47.html#Meidanis98</url>
+<ee type="archive">https://doi.org/10.1090/dimacs/047/14</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latin/GutierrezM98" mdate="2017-05-23">
+<author pid="80/1260">Marisa Gutierrez</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>On the Clique Operator.</title>
+<pages>261-272</pages>
+<ee>https://doi.org/10.1007/BFb0054327</ee>
+<year>1998</year>
+<crossref>conf/latin/1998</crossref>
+<booktitle>LATIN</booktitle>
+<url>db/conf/latin/latin98.html#GutierrezM98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spire/WalterDM98" mdate="2023-03-23">
+<author orcid="0000-0001-6822-931X" pid="84/2668">Maria Em&#237;lia Telles Walter</author>
+<author pid="93/6090">Zanoni Dias</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>Reversal and Transposition Distance of Linear Chromosomes.</title>
+<pages>96-102</pages>
+<year>1998</year>
+<crossref>conf/spire/1998</crossref>
+<booktitle>SPIRE</booktitle>
+<url>db/conf/spire/spire98.html#WalterDM98</url>
+<ee>https://doi.org/10.1109/SPIRE.1998.712988</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SPIRE.1998.712988</ee>
+</inproceedings>
+</r>
+<r><book key="books/daglib/0009528" mdate="2011-04-12">
+<author pid="61/7232">Jo&#227;o Carlos Setubal</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<title>Introduction to computational molecular biology.</title>
+<pages>I-XIII, 1-296</pages>
+<publisher>PWS Publishing Company</publisher>
+<year>1997</year>
+<isbn>978-0-534-95262-4</isbn>
+</book>
+</r>
+<r><article key="journals/tcs/FigueiredoMM97" mdate="2021-02-17">
+<author orcid="0000-0002-6393-0876" pid="09/5415">Celina M. H. de Figueiredo</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<author pid="42/6073">C&#233;lia Picinin de Mello</author>
+<title>On Edge-Colouring Indifference Graphs.</title>
+<pages>91-106</pages>
+<year>1997</year>
+<volume>181</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1</number>
+<url>db/journals/tcs/tcs181.html#FigueiredoMM97</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(96)00264-2</ee>
+</article>
+</r>
+<r><inproceedings key="conf/coopis/MeidanisVW96" mdate="2023-03-24">
+<author pid="m/JoaoMeidanis">Joao Meidanis</author>
+<author pid="v/GottfriedVossen">Gottfried Vossen</author>
+<author pid="w/MathiasWeske">Mathias Weske</author>
+<title>Using Workflow Management in DNA Sequencing.</title>
+<pages>114-123</pages>
+<year>1996</year>
+<crossref>conf/coopis/1996</crossref>
+<booktitle>CoopIS</booktitle>
+<url>db/conf/coopis/coopis96.html#MeidanisVW96</url>
+<ee>https://doi.org/10.1109/COOPIS.1996.555003</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/COOPIS.1996.555003</ee>
+</inproceedings>
+</r>
+<r><article key="journals/ipl/FigueiredoMM95" mdate="2019-10-19">
+<author orcid="0000-0002-6393-0876" pid="09/5415">Celina M. H. de Figueiredo</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<author pid="42/6073">C&#233;lia Picinin de Mello</author>
+<title>A Linear-Time Algorithm for Proper Interval Graph Recognition.</title>
+<pages>179-184</pages>
+<year>1995</year>
+<volume>56</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl56.html#FigueiredoMM95</url>
+<ee>https://doi.org/10.1016/0020-0190(95)00133-W</ee>
+</article>
+</r>
+<r><inproceedings key="conf/latin/FigueiredoMM95" mdate="2017-05-20">
+<author pid="09/5415">Celina M. H. de Figueiredo</author>
+<author pid="m/JoaoMeidanis">Jo&#227;o Meidanis</author>
+<author pid="42/6073">C&#233;lia Picinin de Mello</author>
+<title>On Edge-Colouring Indifference Graphs.</title>
+<pages>286-299</pages>
+<year>1995</year>
+<crossref>conf/latin/1995</crossref>
+<booktitle>LATIN</booktitle>
+<url>db/conf/latin/latin95.html#FigueiredoMM95</url>
+<ee>https://doi.org/10.1007/3-540-59175-3_96</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latin/MeidanisS95" mdate="2022-04-09">
+<author pid="m/JoaoMeidanis">Joao Meidanis</author>
+<author orcid="0000-0001-9174-2816" pid="61/7232">Jo&#227;o C. Setubal</author>
+<title>Multiple Alignment of Biological Sequences with Gap Flexibility.</title>
+<pages>411-426</pages>
+<year>1995</year>
+<crossref>conf/latin/1995</crossref>
+<booktitle>LATIN</booktitle>
+<url>db/conf/latin/latin95.html#MeidanisS95</url>
+<ee>https://doi.org/10.1007/3-540-59175-3_106</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/swat/JosephMT92" mdate="2017-05-20">
+<author pid="j/DeborahJoseph">Deborah Joseph</author>
+<author pid="m/JoaoMeidanis">Joao Meidanis</author>
+<author pid="61/5476">Prasoon Tiwari</author>
+<title>Determining DNA Sequence Similarity Using Maximum Independent Set Algorithms for Interval Graphs.</title>
+<pages>326-337</pages>
+<year>1992</year>
+<crossref>conf/swat/1992</crossref>
+<booktitle>SWAT</booktitle>
+<url>db/conf/swat/swat92.html#JosephMT92</url>
+<ee>https://doi.org/10.1007/3-540-55706-7_29</ee>
+</inproceedings>
+</r>
+<r><article key="journals/ipl/Meidanis91" mdate="2025-01-19">
+<author pid="m/JoaoMeidanis">Joao Meidanis</author>
+<title>Lower Bounds for Arithmetic Problems.</title>
+<pages>83-87</pages>
+<year>1991</year>
+<volume>38</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>2</number>
+<url>db/journals/ipl/ipl38.html#Meidanis91</url>
+<ee>https://doi.org/10.1016/0020-0190(91)90227-9</ee>
+<ee>https://www.wikidata.org/entity/Q127358838</ee>
+</article>
+</r>
+<coauthors n="46" nc="4">
+<co c="0"><na f="a/Alc=oacute=n:Liliana" pid="29/5539">Liliana Alc&#243;n</na></co>
+<co c="0"><na f="b/Barros:Rafael_S=_V=_de" pid="177/3422">Rafael S. V. de Barros</na></co>
+<co c="0"><na f="b/Biller:Priscila" pid="130/1127">Priscila Biller</na></co>
+<co c="0"><na f="b/Bossolan:Renato_P=" pid="125/2694">Renato P. Bossolan</na></co>
+<co c="0"><na f="b/Braga:Mar=iacute=lia_D=_V=" pid="65/6243">Mar&#237;lia D. V. Braga</na></co>
+<co c="0"><na f="c/Cerioli:M=aacute=rcia_R=" pid="05/4738">M&#225;rcia R. Cerioli</na></co>
+<co c="0"><na f="c/Chindelevitch:Leonid" pid="08/3182">Leonid Chindelevitch</na></co>
+<co c="0"><na f="d/Dias:Zanoni" pid="93/6090">Zanoni Dias</na></co>
+<co c="0"><na f="d/Duque=Estrada:Tiago" pid="18/10762">Tiago Duque-Estrada</na></co>
+<co c="0"><na f="f/Feij=atilde=o:Pedro" pid="21/7416">Pedro Feij&#227;o</na></co>
+<co c="0"><na f="f/Figueiredo:Celina_M=_H=_de" pid="09/5415">Celina M. H. de Figueiredo</na></co>
+<co c="0"><na f="f/Freitas:Italo_T=" pid="125/2679">Italo T. Freitas</na></co>
+<co c="0"><na f="g/Gutierrez:Marisa" pid="80/1260">Marisa Gutierrez</na></co>
+<co c="0"><na f="j/Jardim:Lidianne_H=" pid="201/4499">Lidianne H. Jardim</na></co>
+<co c="0"><na f="j/Joly:Carlos_A=" pid="07/10763">Carlos A. Joly</na></co>
+<co c="2"><na f="j/Joseph:Deborah" pid="j/DeborahJoseph">Deborah Joseph</na></co>
+<co c="0"><na f="l/La:Sean" pid="192/1333">Sean La</na></co>
+<co c="0"><na f="l/Lima:Gabriel_A=_Costa" pid="177/3351">Gabriel A. Costa Lima</na></co>
+<co c="1"><na f="l/Lyons_0002:Eric" pid="36/6343-2">Eric Lyons 0002</na></co>
+<co c="0"><na f="m/Mello:C=eacute=lia_Picinin_de" pid="42/6073">C&#233;lia Picinin de Mello</na></co>
+<co c="0"><na f="m/Melo:Marivaldo_Felipe_de" pid="141/5577">Marivaldo Felipe de Melo</na></co>
+<co c="0"><na f="m/Mira:Cleber_V=_G=" pid="68/2446">Cleber V. G. Mira</na></co>
+<co c="0"><na f="m/Moura:Arnaldo_Vieira" pid="61/669">Arnaldo Vieira Moura</na></co>
+<co c="-1"><na f="n/Nakhleh:Luay" pid="18/7026">Luay Nakhleh</na></co>
+<co c="0"><na f="o/Oliveira:Lucas_Peres" pid="370/4468">Lucas Peres Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Marcello_R=_de" pid="201/4389">Marcello R. de Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Maur=iacute=cio_Rossi_de" pid="199/9761">Maur&#237;cio Rossi de Oliveira</na></co>
+<co c="0"><na f="o/Ortiz:Carmen" pid="73/2261">Carmen Ortiz</na></co>
+<co c="0"><na f="p/Porto:Oscar" pid="40/3213">Oscar Porto</na></co>
+<co c="1"><na f="s/Sankoff:David" pid="66/977">David Sankoff</na></co>
+<co c="0"><na f="s/Schmitz:Rafael" pid="125/2724">Rafael Schmitz</na></co>
+<co c="0" n="2"><na f="s/Setubal:Jo=atilde=o_Carlos" pid="61/7232">Jo&#227;o Carlos Setubal</na><na>Jo&#227;o C. Setubal</na></co>
+<co c="0"><na f="s/Silva:Celmar_Guimar=atilde=es_da" pid="86/1791">Celmar Guimar&#227;es da Silva</na></co>
+<co c="0"><na f="s/Silva:Felipi_de_Paula_e" pid="141/5547">Felipi de Paula e Silva</na></co>
+<co c="0"><na f="s/Souza:Maria_Ang=eacute=lica" pid="125/2697">Maria Ang&#233;lica Souza</na></co>
+<co c="1"><na f="t/Tang:Haibao" pid="03/8394">Haibao Tang</na></co>
+<co c="0"><na f="t/Telles:Guilherme_P=" pid="71/2226">Guilherme P. Telles</na></co>
+<co c="2"><na f="t/Tiwari:Prasoon" pid="61/5476">Prasoon Tiwari</na></co>
+<co c="0"><na f="v/Viadanna_Jr=:Paulo" pid="177/3421">Paulo Viadanna Jr.</na></co>
+<co c="3"><na f="v/Vossen:Gottfried" pid="v/GottfriedVossen">Gottfried Vossen</na></co>
+<co c="0" n="2"><na f="w/Walter:Maria_Em=iacute=lia_M=_T=" pid="84/2668">Maria Em&#237;lia M. T. Walter</na><na>Maria Em&#237;lia Telles Walter</na></co>
+<co c="3"><na f="w/Weske:Mathias" pid="w/MathiasWeske">Mathias Weske</na></co>
+<co c="-1"><na f="y/Yancopoulos:Sophia" pid="64/6501">Sophia Yancopoulos</na></co>
+<co c="0"><na f="z/Zanetti:Jo=atilde=o_Paulo_Pereira" pid="133/2019">Jo&#227;o Paulo Pereira Zanetti</na></co>
+<co c="1"><na f="z/Zhang:Yue" pid="47/722">Yue Zhang</na></co>
+<co c="1"><na f="z/Zheng:Chunfang" pid="98/1056">Chunfang Zheng</na></co>
+</coauthors>
+</dblpperson>
+

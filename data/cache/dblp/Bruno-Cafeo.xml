@@ -1,0 +1,530 @@
+<?xml version="1.0"?>
+<dblpperson name="Bruno B. P. Cafeo" pid="46/10082" n="31">
+<person key="homepages/46/10082" mdate="2025-06-07">
+<author pid="46/10082">Bruno B. P. Cafeo</author>
+<author pid="46/10082">Bruno Barbieri Pontes Cafeo</author>
+<note type="affiliation">University of Campinas, Institute of Computing, Sao Paulo, Brazil</note>
+<note label="former" type="affiliation">Pontifical Catholic University of Rio de Janeiro, Brazil</note>
+<url>https://ic.unicamp.br/~cafeo/</url>
+<url>https://scholar.google.com/citations?user=FRfEKzcAAAAJ</url>
+<url>https://dl.acm.org/profile/81488667416</url>
+<url>https://orcid.org/0000-0002-9908-4384</url>
+<url>http://lattes.cnpq.br/8523160729458123</url>
+</person>
+<r><inproceedings key="conf/sbsi/BuenoBBCCF25" mdate="2025-06-06">
+<author pid="406/7918">Arthur Bueno</author>
+<author pid="09/5610">Carla I. M. Bezerra</author>
+<author pid="119/0140">Hudson Silva Borges</author>
+<author pid="46/10082">Bruno B. P. Cafeo</author>
+<author pid="22/4238">Maria Istela Cagnin</author>
+<author pid="168/6211">Awdren L. Font&#227;o</author>
+<title>Evolutionary Analysis of the Co-occurrence between Code Smells and Community Smells in Code Samples.</title>
+<pages>654-662</pages>
+<year>2025</year>
+<booktitle>SBSI</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbsi.2025.246612</ee>
+<crossref>conf/sbsi/2025</crossref>
+<url>db/conf/sbsi/sbsi2025.html#BuenoBBCCF25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcre/MilanoC24" mdate="2024-07-30">
+<author pid="367/3209">Karolina Milano</author>
+<author pid="46/10082">Bruno B. P. Cafeo</author>
+<title>Navigating Expertise in Configurable Software Systems through the Maze of Variability.</title>
+<pages>450-454</pages>
+<year>2024</year>
+<booktitle>SANER</booktitle>
+<ee>https://doi.org/10.1109/SANER60148.2024.00053</ee>
+<crossref>conf/wcre/2024</crossref>
+<url>db/conf/wcre/saner2024.html#MilanoC24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-10699" mdate="2024-02-02">
+<author pid="367/3209">Karolina Milano</author>
+<author pid="46/10082">Bruno B. P. Cafeo</author>
+<title>Navigating Expertise in Configurable Software Systems through the Maze of Variability.</title>
+<year>2024</year>
+<volume>abs/2401.10699</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.10699</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-10699</url>
+</article>
+</r>
+<r><article key="journals/jss/MenezesCH22" mdate="2022-01-08">
+<author orcid="0000-0002-6296-074X" pid="244/9557">Gabriel Menezes</author>
+<author pid="46/10082">Bruno B. P. Cafeo</author>
+<author orcid="0000-0003-4900-1330" pid="54/7440">Andr&#233; C. Hora</author>
+<title>How are framework code samples maintained and used by developers? The case of Android and Spring Boot.</title>
+<pages>111146</pages>
+<year>2022</year>
+<volume>185</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2021.111146</ee>
+<url>db/journals/jss/jss185.html#MenezesCH22</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbes/MenezesBFHC22" mdate="2025-01-19">
+<author pid="244/9557">Gabriel Menezes</author>
+<author pid="289/5316">Willian Marotzki Braga</author>
+<author pid="168/6211">Awdren de Lima Font&#227;o</author>
+<author pid="54/7440">Andr&#233; C. Hora</author>
+<author pid="46/10082">Bruno B. P. Cafeo</author>
+<title>Assessing the Impact of Code Samples Evolution on Developers' Questions.</title>
+<pages>321-330</pages>
+<year>2022</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3555228.3555250</ee>
+<ee>https://www.wikidata.org/entity/Q130871189</ee>
+<crossref>conf/sbes/2022</crossref>
+<url>db/conf/sbes/sbes2022.html#MenezesBFHC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/SoupinskiASWBCF22" mdate="2025-01-19">
+<author pid="329/3717">Felipe Soupinski</author>
+<author pid="183/4888">Pedro Arantes</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="119/0140">Hudson Borges</author>
+<author pid="46/10082">Bruno B. P. Cafeo</author>
+<author pid="168/6211">Awdren de Lima Font&#227;o</author>
+<title>&#34;We are dying!&#34; On Death Signals of Software Ecosystems.</title>
+<pages>363-369</pages>
+<year>2022</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3555228.3555264</ee>
+<ee>https://www.wikidata.org/entity/Q130890701</ee>
+<crossref>conf/sbes/2022</crossref>
+<url>db/conf/sbes/sbes2022.html#SoupinskiASWBCF22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/CunhaCVF22" mdate="2022-07-04">
+<author pid="323/4109">Ana Elisa da Silva Cunha</author>
+<author pid="46/10082">Bruno B. P. Cafeo</author>
+<author pid="117/5583">Davi Viana</author>
+<author pid="168/6211">Awdren L. Font&#227;o</author>
+<title>A Survey on Skills of DevRel professionals.</title>
+<pages>11:1-11:8</pages>
+<year>2022</year>
+<booktitle>SBSI</booktitle>
+<ee>https://doi.org/10.1145/3535511.3535522</ee>
+<crossref>conf/sbsi/2022</crossref>
+<url>db/conf/sbsi/sbsi2022.html#CunhaCVF22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vem/MeloMC22" mdate="2024-11-27">
+<author pid="356/0119">Matheus Melo</author>
+<author pid="244/9557">Gabriel Menezes</author>
+<author pid="46/10082">Bruno B. P. Cafeo</author>
+<title>Exploring Pull Requests in Code Samples.</title>
+<pages>36-40</pages>
+<year>2022</year>
+<booktitle>VEM</booktitle>
+<ee type="oa">https://doi.org/10.5753/vem.2022.226789</ee>
+<crossref>conf/vem/2022</crossref>
+<url>db/conf/vem/vem2022.html#MeloMC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/OliveiraAVCF21" mdate="2022-08-18">
+<author pid="184/6092">Raphael Oliveira</author>
+<author pid="303/3480">Camila Ajala</author>
+<author pid="117/5583">Davi Viana</author>
+<author pid="46/10082">Bruno B. P. Cafeo</author>
+<author pid="168/6211">Awdren L. Font&#227;o</author>
+<title>Developer Relations (DevRel) Roles: an Exploratory Study on Practitioners' opinions.</title>
+<pages>363-367</pages>
+<year>2021</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3474624.3474628</ee>
+<crossref>conf/sbes/2021</crossref>
+<url>db/conf/sbes/sbes2021.html#OliveiraAVCF21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/ShinzatoPCCF21" mdate="2022-03-29">
+<author pid="308/7499">Fl&#225;vio Shinzato</author>
+<author pid="11/6879">D&#233;bora Maria Barroso Paiva</author>
+<author pid="22/4238">Maria Istela Cagnin</author>
+<author pid="46/10082">Bruno B. P. Cafeo</author>
+<author pid="168/6211">Awdren L. Font&#227;o</author>
+<title>So you've graduated college and need to test apps: What barriers might you face?</title>
+<pages>28</pages>
+<year>2021</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3493244.3493264</ee>
+<ee type="oa">https://sol.sbc.org.br/index.php/sbqs/article/view/18590</ee>
+<crossref>conf/sbqs/2021</crossref>
+<url>db/conf/sbqs/sbqs2021.html#ShinzatoPCCF21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/FontaoCBSD20" mdate="2022-03-29">
+<author pid="168/6211">Awdren de Lima Font&#227;o</author>
+<author pid="46/10082">Bruno B. P. Cafeo</author>
+<author pid="266/3470">Bruno A. Bonif&#225;cio</author>
+<author orcid="0000-0003-4749-2551" pid="57/7989">Rodrigo Pereira dos Santos</author>
+<author pid="27/11253">Arilo Claudio Dias-Neto</author>
+<title>On Developer Relations Team's Reasons for Using Repositories.</title>
+<pages>187-188</pages>
+<year>2020</year>
+<booktitle>ICSE (Workshops)</booktitle>
+<ee>https://doi.org/10.1145/3387940.3392170</ee>
+<crossref>conf/icse/2020w</crossref>
+<url>db/conf/icse/icse2020w.html#FontaoCBSD20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/MassanoriCWF20" mdate="2025-01-19">
+<author pid="282/4775">Daniel Massanori</author>
+<author pid="46/10082">Bruno B. P. Cafeo</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="168/6211">Awdren de Lima Font&#227;o</author>
+<title>Death of a Software Ecosystem: a Developer Relations (DevRel) perspective.</title>
+<pages>399-404</pages>
+<year>2020</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3422392.3422445</ee>
+<ee>https://www.wikidata.org/entity/Q131118993</ee>
+<crossref>conf/sbes/2020</crossref>
+<url>db/conf/sbes/sbes2020.html#MassanoriCWF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vem/AndradeCDCB20" mdate="2024-11-27">
+<author pid="289/5261">Gleyberson Andrade</author>
+<author pid="49/1805">Elder Cirilo</author>
+<author pid="128/3287">Vinicius H. S. Durelli</author>
+<author pid="46/10082">Bruno B. P. Cafeo</author>
+<author pid="47/10086">Eiji Adachi Barbosa</author>
+<title>Data-Flow Analysis Heuristic for Vulnerability Detection on Configurable Systems.</title>
+<pages>25-32</pages>
+<year>2020</year>
+<booktitle>VEM</booktitle>
+<ee type="oa">https://sol.sbc.org.br/index.php/vem/article/view/14525</ee>
+<crossref>conf/vem/2020</crossref>
+<url>db/conf/vem/vem2020.html#AndradeCDCB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vem/BragaMFHC20" mdate="2024-11-27">
+<author pid="289/5316">Willian Marotzki Braga</author>
+<author pid="244/9557">Gabriel Menezes</author>
+<author pid="168/6211">Awdren de Lima Font&#227;o</author>
+<author pid="54/7440">Andr&#233; C. Hora</author>
+<author pid="46/10082">Bruno B. P. Cafeo</author>
+<title>Quero lhe usar! Uma An&#225;lise do P&#250;blico Alvo de Code Samples.</title>
+<pages>33-40</pages>
+<year>2020</year>
+<booktitle>VEM</booktitle>
+<ee type="oa">https://sol.sbc.org.br/index.php/vem/article/view/14526</ee>
+<crossref>conf/vem/2020</crossref>
+<url>db/conf/vem/vem2020.html#BragaMFHC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esem/MenezesCH19" mdate="2021-10-14">
+<author orcid="0000-0002-6296-074X" pid="244/9557">Gabriel Menezes</author>
+<author pid="46/10082">Bruno B. P. Cafeo</author>
+<author pid="54/7440">Andr&#233; C. Hora</author>
+<title>Framework Code Samples: How Are They Maintained and Used by Developers?</title>
+<pages>1-11</pages>
+<year>2019</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1109/ESEM.2019.8870139</ee>
+<crossref>conf/esem/2019</crossref>
+<url>db/conf/esem/esem2019.html#MenezesCH19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vamos/OliveiraCH19" mdate="2021-04-10">
+<author pid="236/0347">Raiza Oliveira</author>
+<author pid="46/10082">Bruno B. P. Cafeo</author>
+<author orcid="0000-0003-4900-1330" pid="54/7440">Andr&#233; C. Hora</author>
+<title>On the Evolution of Feature Dependencies: An Exploratory Study of Preprocessor-based Systems.</title>
+<pages>14:1-14:9</pages>
+<year>2019</year>
+<booktitle>VaMoS</booktitle>
+<ee>https://doi.org/10.1145/3302333.3302342</ee>
+<crossref>conf/vamos/2019</crossref>
+<url>db/conf/vamos/vamos2019.html#OliveiraCH19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-05564" mdate="2021-04-10">
+<author pid="244/9557">Gabriel Menezes</author>
+<author pid="46/10082">Bruno B. P. Cafeo</author>
+<author orcid="0000-0003-4900-1330" pid="54/7440">Andr&#233; C. Hora</author>
+<title>Framework Code Samples: How Are They Maintained and Used by Developers?</title>
+<year>2019</year>
+<volume>abs/1907.05564</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.05564</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-05564</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbes/CiriloCNGKL17" mdate="2020-11-06">
+<author pid="49/1805">Elder Cirilo</author>
+<author pid="46/10082">Bruno Barbieri Pontes Cafeo</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="g/AlessandroFGarcia">Alessandro Garcia 0001</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Lucena</author>
+<title>Comprehensibility of Heterogeneous Configuration Knowledge: A User Study.</title>
+<pages>124-133</pages>
+<year>2017</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3131151.3131173</ee>
+<crossref>conf/sbes/2017</crossref>
+<url>db/conf/sbes/sbes2017.html#CiriloCNGKL17</url>
+</inproceedings>
+</r>
+<r><article key="journals/infsof/CafeoCGDL16" mdate="2020-11-06">
+<author pid="46/10082">Bruno Barbieri Pontes Cafeo</author>
+<author pid="49/1805">Elder Cirilo</author>
+<author pid="g/AlessandroFGarcia">Alessandro Garcia 0001</author>
+<author pid="00/5041">Francisco Dantas</author>
+<author orcid="0000-0001-6016-8540" pid="79/5508">Jaejoon Lee</author>
+<title>Feature dependencies as change propagators: An exploratory study of software product lines.</title>
+<pages>37-49</pages>
+<year>2016</year>
+<volume>69</volume>
+<journal>Inf. Softw. Technol.</journal>
+<ee>https://doi.org/10.1016/j.infsof.2015.08.009</ee>
+<url>db/journals/infsof/infsof69.html#CafeoCGDL16</url>
+</article>
+</r>
+<r><inproceedings key="conf/aosd/CafeoHGAL16" mdate="2023-09-30">
+<author pid="46/10082">Bruno Barbieri Pontes Cafeo</author>
+<author pid="136/0997">Claus Hunsen</author>
+<author pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</author>
+<author orcid="0000-0003-3687-2233" pid="a/SvenApel">Sven Apel</author>
+<author orcid="0000-0001-6016-8540" pid="79/5508">Jaejoon Lee</author>
+<title>Segregating feature interfaces to support software product line maintenance.</title>
+<pages>1-12</pages>
+<year>2016</year>
+<booktitle>MODULARITY</booktitle>
+<ee>https://doi.org/10.1145/2889443.2889451</ee>
+<crossref>conf/aosd/2016</crossref>
+<url>db/conf/aosd/modularity2016.html#CafeoHGAL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/OizumiGSCZ16" mdate="2021-10-14">
+<author orcid="0000-0002-8956-5272" pid="121/2856">Willian Nalepa Oizumi</author>
+<author pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</author>
+<author pid="179/8618">Leonardo da Silva Sousa</author>
+<author pid="46/10082">Bruno Barbieri Pontes Cafeo</author>
+<author orcid="0000-0003-3046-6621" pid="179/8606">Yixue Zhao</author>
+<title>Code anomalies flock together: exploring code anomaly agglomerations for locating design problems.</title>
+<pages>440-451</pages>
+<year>2016</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/2884781.2884868</ee>
+<ee>https://ieeexplore.ieee.org/document/7886924/</ee>
+<crossref>conf/icse/2016</crossref>
+<url>db/conf/icse/icse2016.html#OizumiGSCZ16</url>
+</inproceedings>
+</r>
+<r><article key="journals/jbcs/FerrariCLLLMM15" mdate="2024-12-24">
+<author orcid="0000-0002-7339-8529" pid="48/5007">Fabiano Cutigi Ferrari</author>
+<author pid="46/10082">Bruno Barbieri Pontes Cafeo</author>
+<author pid="174/0840">Thiago G. Levin</author>
+<author pid="174/0786">J&#233;sus T. S. Lacerda</author>
+<author pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<author pid="79/216">Paulo C&#233;sar Masiero</author>
+<title>Testing of aspect-oriented programs: difficulties and lessons learned based on theoretical and practical experience.</title>
+<pages>20:1-20:25</pages>
+<year>2015</year>
+<volume>21</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s13173-015-0040-1</ee>
+<ee>https://www.wikidata.org/entity/Q59427558</ee>
+<url>db/journals/jbcs/jbcs21.html#FerrariCLLLMM15</url>
+</article>
+</r>
+<r><article key="journals/jss/AlbuquerqueCGBA15" mdate="2020-11-06">
+<author pid="159/3429">Diego Albuquerque</author>
+<author pid="46/10082">Bruno Barbieri Pontes Cafeo</author>
+<author pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</author>
+<author orcid="0000-0002-0044-503X" pid="b/SDJBarbosa">Simone Diniz Junqueira Barbosa</author>
+<author orcid="0000-0003-3580-2014" pid="a/SilviaMaraAbrahao">Silvia Abrah&#227;o</author>
+<author pid="98/6103">Ant&#243;nio Ribeiro</author>
+<title>Quantifying usability of domain-specific languages: An empirical study on software maintenance.</title>
+<pages>245-259</pages>
+<year>2015</year>
+<volume>101</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2014.11.051</ee>
+<url>db/journals/jss/jss101.html#AlbuquerqueCGBA15</url>
+</article>
+</r>
+<r><inproceedings key="conf/fie/OliveiraOCD15" mdate="2023-03-24">
+<author pid="128/3210">Rafael A. P. Oliveira</author>
+<author pid="94/8384">Lucas B. R. Oliveira</author>
+<author pid="46/10082">Bruno Barbieri Pontes Cafeo</author>
+<author pid="128/3287">Vinicius H. S. Durelli</author>
+<title>Evaluation and assessment of effects on exploring mutation testing in programming courses.</title>
+<pages>1-9</pages>
+<year>2015</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE.2015.7344051</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344051</ee>
+<crossref>conf/fie/2015</crossref>
+<url>db/conf/fie/fie2015.html#OliveiraOCD15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icce/OliveiraOCD14" mdate="2025-03-13">
+<author pid="128/3210">Rafael A. P. Oliveira</author>
+<author pid="94/8384">Lucas B. R. Oliveira</author>
+<author pid="46/10082">Bruno B. P. Cafeo</author>
+<author pid="128/3287">Vinicius H. S. Durelli</author>
+<title>On Using Mutation Testing for Teaching Programming to Novice Programmers.</title>
+<year>2014</year>
+<booktitle>ICCE</booktitle>
+<ee type="oa">https://doi.org/10.58459/icce.2014.413</ee>
+<crossref>conf/icce/2014</crossref>
+<url>db/conf/icce/icce2014.html#OliveiraOCD14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/Cafeo14" mdate="2018-11-06">
+<author pid="46/10082">Bruno Barbieri Pontes Cafeo</author>
+<title>Enhancing feature interfaces for supporting software product line maintenance.</title>
+<pages>710-713</pages>
+<year>2014</year>
+<booktitle>ICSE Companion</booktitle>
+<ee>https://doi.org/10.1145/2591062.2591089</ee>
+<crossref>conf/icse/2014c</crossref>
+<url>db/conf/icse/icse2014c.html#Cafeo14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/CafeoDCG13" mdate="2023-03-23">
+<author pid="46/10082">Bruno Barbieri Pontes Cafeo</author>
+<author pid="00/5041">Francisco Dantas</author>
+<author pid="49/1805">Elder Jos&#233; Reioli Cirilo</author>
+<author pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</author>
+<title>Towards indicators of instabilities in software product lines: An empirical evaluation of metrics.</title>
+<pages>69-75</pages>
+<year>2013</year>
+<booktitle>WETSoM</booktitle>
+<ee>https://doi.org/10.1109/WETSoM.2013.6619339</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WETSoM.2013.6619339</ee>
+<crossref>conf/icse/2013wetsom</crossref>
+<url>db/conf/icse/wetsom2013.html#CafeoDCG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/CafeoDGGCGL12" mdate="2023-03-24">
+<author pid="46/10082">Bruno Barbieri Pontes Cafeo</author>
+<author pid="00/5041">Francisco Dantas</author>
+<author pid="20/4998">Alessandro Cavalcante Gurgel</author>
+<author pid="126/6823">Everton T. Guimar&#227;es</author>
+<author pid="49/1805">Elder Cirilo</author>
+<author pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>Analysing the Impact of Feature Dependency Implementation on Product Line Stability: An Exploratory Study.</title>
+<pages>141-150</pages>
+<year>2012</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1109/SBES.2012.23</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBES.2012.23</ee>
+<crossref>conf/sbes/2012</crossref>
+<url>db/conf/sbes/sbes2012.html#CafeoDGGCGL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/CafeoM11" mdate="2023-03-24">
+<author pid="46/10082">Bruno Barbieri Pontes Cafeo</author>
+<author pid="79/216">Paulo C&#233;sar Masiero</author>
+<title>Contextual Integration Testing of Object-Oriented and Aspect-Oriented Programs: A Structural Approach for Java and AspectJ.</title>
+<pages>214-223</pages>
+<year>2011</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1109/SBES.2011.12</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBES.2011.12</ee>
+<crossref>conf/sbes/2011</crossref>
+<url>db/conf/sbes/sbes2011.html#CafeoM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/CafeoNFCR11" mdate="2018-11-24">
+<author pid="46/10082">Bruno Barbieri Pontes Cafeo</author>
+<author pid="29/3819">Joost Noppen</author>
+<author pid="48/5007">Fabiano Cutigi Ferrari</author>
+<author orcid="0000-0001-6293-3445" pid="83/1979">Ruzanna Chitchyan</author>
+<author orcid="0000-0002-0109-1341" pid="26/3330">Awais Rashid</author>
+<title>Inferring test results for dynamic software product lines.</title>
+<pages>500-503</pages>
+<year>2011</year>
+<booktitle>SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/2025113.2025203</ee>
+<ee>https://www.wikidata.org/entity/Q58596196</ee>
+<crossref>conf/sigsoft/2011</crossref>
+<url>db/conf/sigsoft/fse2011.html#CafeoNFCR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sugarloafplop/CafeoRBM10" mdate="2021-10-14">
+<author pid="46/10082">Bruno Barbieri Pontes Cafeo</author>
+<author orcid="0000-0001-6452-3466" pid="121/2210">Reginaldo R&#233;</author>
+<author orcid="0000-0003-4259-0785" pid="07/4304">Rosana Teresinha Vaccare Braga</author>
+<author pid="79/216">Paulo C&#233;sar Masiero</author>
+<title>A catalogue of stub and driver patterns to support integration testing of aspect-oriented programs.</title>
+<pages>8:1-8:14</pages>
+<year>2010</year>
+<booktitle>SugarLoafPLoP</booktitle>
+<ee>https://doi.org/10.1145/2581507.2581515</ee>
+<crossref>conf/sugarloafplop/2010</crossref>
+<url>db/conf/sugarloafplop/sugarloafplop2010.html#CafeoRBM10</url>
+</inproceedings>
+</r>
+<coauthors n="59" nc="1">
+<co c="0"><na f="a/Abrah=atilde=o:Silvia" pid="a/SilviaMaraAbrahao">Silvia Abrah&#227;o</na></co>
+<co c="0"><na f="a/Ajala:Camila" pid="303/3480">Camila Ajala</na></co>
+<co c="0"><na f="a/Albuquerque:Diego" pid="159/3429">Diego Albuquerque</na></co>
+<co c="0"><na f="a/Andrade:Gleyberson" pid="289/5261">Gleyberson Andrade</na></co>
+<co c="0"><na f="a/Apel:Sven" pid="a/SvenApel">Sven Apel</na></co>
+<co c="0"><na f="a/Arantes:Pedro" pid="183/4888">Pedro Arantes</na></co>
+<co c="0"><na f="b/Barbosa:Eiji_Adachi" pid="47/10086">Eiji Adachi Barbosa</na></co>
+<co c="0" n="2"><na f="b/Barbosa:Simone_D=_J=" pid="b/SDJBarbosa">Simone D. J. Barbosa</na><na>Simone Diniz Junqueira Barbosa</na></co>
+<co c="0"><na f="b/Bezerra:Carla_I=_M=" pid="09/5610">Carla I. M. Bezerra</na></co>
+<co c="0"><na f="b/Bonif=aacute=cio:Bruno_A=" pid="266/3470">Bruno A. Bonif&#225;cio</na></co>
+<co c="0" n="2"><na f="b/Borges:Hudson" pid="119/0140">Hudson Borges</na><na>Hudson Silva Borges</na></co>
+<co c="0" n="2"><na f="b/Braga:Rosana_T=_V=" pid="07/4304">Rosana T. V. Braga</na><na>Rosana Teresinha Vaccare Braga</na></co>
+<co c="0"><na f="b/Braga:Willian_Marotzki" pid="289/5316">Willian Marotzki Braga</na></co>
+<co c="0"><na f="b/Bueno:Arthur" pid="406/7918">Arthur Bueno</na></co>
+<co c="0"><na f="c/Cagnin:Maria_Istela" pid="22/4238">Maria Istela Cagnin</na></co>
+<co c="0"><na f="c/Chitchyan:Ruzanna" pid="83/1979">Ruzanna Chitchyan</na></co>
+<co c="0" n="2"><na f="c/Cirilo:Elder" pid="49/1805">Elder Cirilo</na><na>Elder Jos&#233; Reioli Cirilo</na></co>
+<co c="0"><na f="c/Cunha:Ana_Elisa_da_Silva" pid="323/4109">Ana Elisa da Silva Cunha</na></co>
+<co c="0"><na f="d/Dantas:Francisco" pid="00/5041">Francisco Dantas</na></co>
+<co c="0"><na f="d/Dias=Neto:Arilo_Claudio" pid="27/11253">Arilo Claudio Dias-Neto</na></co>
+<co c="0"><na f="d/Durelli:Vinicius_H=_S=" pid="128/3287">Vinicius H. S. Durelli</na></co>
+<co c="0"><na f="f/Ferrari:Fabiano_Cutigi" pid="48/5007">Fabiano Cutigi Ferrari</na></co>
+<co c="0" n="2"><na f="f/Font=atilde=o:Awdren_de_Lima" pid="168/6211">Awdren de Lima Font&#227;o</na><na>Awdren L. Font&#227;o</na></co>
+<co c="0" n="2"><na f="g/Garcia_0001:Alessandro_F=" pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</na><na>Alessandro Garcia 0001</na></co>
+<co c="0"><na f="g/Guimar=atilde=es:Everton_T=" pid="126/6823">Everton T. Guimar&#227;es</na></co>
+<co c="0"><na f="g/Gurgel:Alessandro_Cavalcante" pid="20/4998">Alessandro Cavalcante Gurgel</na></co>
+<co c="0"><na f="h/Hora:Andr=eacute=_C=" pid="54/7440">Andr&#233; C. Hora</na></co>
+<co c="0"><na f="h/Hunsen:Claus" pid="136/0997">Claus Hunsen</na></co>
+<co c="0"><na f="k/Kulesza:Uir=aacute=" pid="78/6010">Uir&#225; Kulesza</na></co>
+<co c="0"><na f="l/Lacerda:J=eacute=sus_T=_S=" pid="174/0786">J&#233;sus T. S. Lacerda</na></co>
+<co c="0"><na f="l/Lee:Jaejoon" pid="79/5508">Jaejoon Lee</na></co>
+<co c="0"><na f="l/Lemos:Ot=aacute=vio_Augusto_Lazzarini" pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</na></co>
+<co c="0"><na f="l/Levin:Thiago_G=" pid="174/0840">Thiago G. Levin</na></co>
+<co c="0" n="2"><na f="l/Lucena:Carlos_Jos=eacute=_Pereira_de" pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</na><na>Carlos Lucena</na></co>
+<co c="0"><na f="m/Maldonado:Jos=eacute=_Carlos" pid="28/2292">Jos&#233; Carlos Maldonado</na></co>
+<co c="0"><na f="m/Masiero:Paulo_C=eacute=sar" pid="79/216">Paulo C&#233;sar Masiero</na></co>
+<co c="0"><na f="m/Massanori:Daniel" pid="282/4775">Daniel Massanori</na></co>
+<co c="0"><na f="m/Melo:Matheus" pid="356/0119">Matheus Melo</na></co>
+<co c="0"><na f="m/Menezes:Gabriel" pid="244/9557">Gabriel Menezes</na></co>
+<co c="-1"><na f="m/Milano:Karolina" pid="367/3209">Karolina Milano</na></co>
+<co c="0"><na f="n/Noppen:Joost" pid="29/3819">Joost Noppen</na></co>
+<co c="0"><na f="n/Nunes:Ingrid" pid="48/5352">Ingrid Nunes</na></co>
+<co c="0"><na f="o/Oizumi:Willian_Nalepa" pid="121/2856">Willian Nalepa Oizumi</na></co>
+<co c="0"><na f="o/Oliveira:Lucas_B=_R=" pid="94/8384">Lucas B. R. Oliveira</na></co>
+<co c="0" n="2"><na f="o/Oliveira:Rafael_Alves_Paes_de" pid="128/3210">Rafael Alves Paes de Oliveira</na><na>Rafael A. P. Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Raiza" pid="236/0347">Raiza Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Raphael" pid="184/6092">Raphael Oliveira</na></co>
+<co c="0" n="2"><na f="p/Paiva:D=eacute=bora_M=_B=" pid="11/6879">D&#233;bora M. B. Paiva</na><na>D&#233;bora Maria Barroso Paiva</na></co>
+<co c="0"><na f="r/Rashid:Awais" pid="26/3330">Awais Rashid</na></co>
+<co c="0"><na f="r/R=eacute=:Reginaldo" pid="121/2210">Reginaldo R&#233;</na></co>
+<co c="0"><na f="r/Ribeiro:Ant=oacute=nio" pid="98/6103">Ant&#243;nio Ribeiro</na></co>
+<co c="0"><na f="s/Santos:Rodrigo_Pereira_dos" pid="57/7989">Rodrigo Pereira dos Santos</na></co>
+<co c="0"><na f="s/Shinzato:Fl=aacute=vio" pid="308/7499">Fl&#225;vio Shinzato</na></co>
+<co c="0"><na f="s/Soupinski:Felipe" pid="329/3717">Felipe Soupinski</na></co>
+<co c="0"><na f="s/Sousa:Leonardo_da_Silva" pid="179/8618">Leonardo da Silva Sousa</na></co>
+<co c="0"><na f="s/Steinmacher:Igor" pid="70/3474">Igor Steinmacher</na></co>
+<co c="0"><na f="v/Viana:Davi" pid="117/5583">Davi Viana</na></co>
+<co c="0" n="2"><na f="w/Wiese:Igor_Scaliante" pid="06/10439">Igor Scaliante Wiese</na><na>Igor Wiese</na></co>
+<co c="0"><na f="z/Zhao:Yixue" pid="179/8606">Yixue Zhao</na></co>
+</coauthors>
+</dblpperson>
+

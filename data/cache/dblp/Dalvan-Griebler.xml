@@ -1,0 +1,1479 @@
+<?xml version="1.0"?>
+<dblpperson name="Dalvan Griebler" pid="135/0603" n="90">
+<person key="homepages/135/0603" mdate="2020-05-12">
+<author pid="135/0603">Dalvan Griebler</author>
+<url>https://orcid.org/0000-0002-4690-3964</url>
+<url>https://www.wikidata.org/entity/Q93081562</url>
+</person>
+<r><article key="journals/csi/RockenbachAGF25" mdate="2024-10-22">
+<author orcid="0000-0002-2091-9626" pid="246/0565">Dinei A. Rockenbach</author>
+<author pid="265/3439">Gabriell Alves de Araujo</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>GSParLib: A multi-level programming interface unifying OpenCL and CUDA for expressing stream and data parallelism.</title>
+<pages>103922</pages>
+<year>2025</year>
+<volume>92</volume>
+<journal>Comput. Stand. Interfaces</journal>
+<ee>https://doi.org/10.1016/j.csi.2024.103922</ee>
+<url>db/journals/csi/csi92.html#RockenbachAGF25</url>
+<stream>streams/journals/csi</stream>
+</article>
+</r>
+<r><article key="journals/ijpp/LeonarczykMG25" mdate="2025-03-31">
+<author pid="373/6490">Ricardo Leonarczyk</author>
+<author pid="85/5541">Gabriele Mencagli</author>
+<author pid="135/0603">Dalvan Griebler</author>
+<title>Self-Adaptive Micro-Batching for Low-Latency GPU-Accelerated Stream Processing.</title>
+<pages>14</pages>
+<year>2025</year>
+<month>April</month>
+<volume>53</volume>
+<journal>Int. J. Parallel Program.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10766-025-00793-4</ee>
+<url>db/journals/ijpp/ijpp53.html#LeonarczykMG25</url>
+<stream>streams/journals/ijpp</stream>
+</article>
+</r>
+<r><article key="journals/tjs/CzarnulABGKKKKMMNOPR25" mdate="2025-05-25">
+<author pid="73/4985">Pawel Czarnul</author>
+<author pid="151/8563">Marcel Antal</author>
+<author pid="263/5541">Hamza Baniata</author>
+<author pid="135/0603">Dalvan Griebler</author>
+<author pid="k/AttilaKertesz">Attila Kert&#233;sz</author>
+<author pid="k/ChristophWKessler">Christoph W. Kessler</author>
+<author pid="238/5594">Andreas Kouloumpris</author>
+<author pid="405/8439">Salko Kovacic</author>
+<author pid="41/1545">Andr&#225;s M&#225;rkus</author>
+<author pid="10/2633">Maria K. Michael</author>
+<author pid="129/7698">Panagiota Nikolaou</author>
+<author pid="25/9378">Isil &#214;z</author>
+<author pid="43/1754">Radu Prodan</author>
+<author pid="42/9493">Gordana Rakic</author>
+<title>Optimization of resource-aware parallel and distributed computing: a review.</title>
+<pages>848</pages>
+<year>2025</year>
+<month>May</month>
+<volume>81</volume>
+<journal>J. Supercomput.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1007/s11227-025-07295-7</ee>
+<url>db/journals/tjs/tjs81.html#CzarnulABGKKKKMMNOPR25</url>
+<stream>streams/journals/tjs</stream>
+</article>
+</r>
+<r><inproceedings key="conf/cgo/HoffmannFGLP25" mdate="2025-03-07">
+<author orcid="0000-0002-1039-1290" pid="215/8800">Renato B. Hoffmann</author>
+<author orcid="0009-0008-0323-8950" pid="359/6445">Leonardo G. Fa&#233;</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-4223-2796" pid="309/9768">Xinliang David Li</author>
+<author orcid="0000-0002-0375-1657" pid="p/FMQPereira">Fernando Magno Quint&#227;o Pereira</author>
+<title>Automatic Synthesis of Specialized Hash Functions.</title>
+<pages>317-330</pages>
+<year>2025</year>
+<booktitle>CGO</booktitle>
+<ee>https://doi.org/10.1145/3696443.3708940</ee>
+<crossref>conf/cgo/2025</crossref>
+<url>db/conf/cgo/cgo2025.html#HoffmannFGLP25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/LoffHBMGB25" mdate="2025-05-18">
+<author pid="220/7415">J&#250;nior L&#246;ff</author>
+<author pid="215/8800">Renato B. Hoffmann</author>
+<author pid="02/2225">Nicola Bianchessi</author>
+<author pid="405/0629">Leonardo Mallmann</author>
+<author pid="135/0603">Dalvan Griebler</author>
+<author pid="05/3695">Walter Binder</author>
+<title>NPB-PSTL: C++ STL Algorithms with Parallel Execution Policies in NAS Parallel Benchmarks.</title>
+<pages>162-169</pages>
+<year>2025</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP66500.2025.00030</ee>
+<crossref>conf/pdp/2025</crossref>
+<url>db/conf/pdp/pdp2025.html#LoffHBMGB25</url>
+<stream>streams/conf/pdp</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-15536" mdate="2025-03-20">
+<author pid="400/6626">Eduardo M. Martins</author>
+<author pid="359/6445">Leonardo G. Fa&#233;</author>
+<author pid="215/8800">Renato B. Hoffmann</author>
+<author pid="02/2225">Nicola Bianchessi</author>
+<author pid="135/0603">Dalvan Griebler</author>
+<title>NPB-Rust: NAS Parallel Benchmarks in Rust.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.15536</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.15536</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-15536</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2503-12626" mdate="2025-04-13">
+<author pid="225/5214">Leonardo Rosa Amado</author>
+<author pid="177/7371">Adriano Vogel</author>
+<author pid="135/0603">Dalvan Griebler</author>
+<author pid="271/4713">Gabriel Paludo Licks</author>
+<author pid="s/EricSimon">Eric Simon</author>
+<author pid="10/985">Felipe Meneguzzi</author>
+<title>Automated Planning for Optimal Data Pipeline Instantiation.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.12626</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.12626</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-12626</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/fgcs/HoffmannGRF24" mdate="2024-08-22">
+<author orcid="0000-0002-1039-1290" pid="215/8800">Renato B. Hoffmann</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0001-5080-7660" pid="33/4917">Rodrigo da Rosa Righi</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Benchmarking parallel programming for single-board computers.</title>
+<pages>119-134</pages>
+<year>2024</year>
+<volume>161</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2024.07.003</ee>
+<url>db/journals/fgcs/fgcs161.html#HoffmannGRF24</url>
+<stream>streams/journals/fgcs</stream>
+</article>
+</r>
+<r><article key="journals/jpdc/MencagliTGFD24" mdate="2025-04-01">
+<author pid="85/5541">Gabriele Mencagli</author>
+<author pid="97/4161">Massimo Torquati</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0003-3824-5655" pid="275/6916">Alessandra Fais</author>
+<author pid="35/3852">Marco Danelutto</author>
+<title>General-purpose data stream processing on heterogeneous architectures with WindFlow.</title>
+<pages>104782</pages>
+<year>2024</year>
+<month>February</month>
+<volume>184</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<ee type="oa">https://doi.org/10.1016/j.jpdc.2023.104782</ee>
+<url>db/journals/jpdc/jpdc184.html#MencagliTGFD24</url>
+</article>
+</r>
+<r><article key="journals/tjs/GarciaGSGMF24" mdate="2024-08-04">
+<author orcid="0000-0003-4796-773X" pid="237/7420">Adriano Marques Garcia</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="79/5559">Claudio Schepke</author>
+<author pid="g/JoseDanielGarcia">Jos&#233; Daniel Garc&#237;a</author>
+<author pid="91/4494-1">Javier Fern&#225;ndez Mu&#241;oz</author>
+<author pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Performance and programmability of GrPPI for parallel stream processing on multi-cores.</title>
+<pages>12966-13000</pages>
+<year>2024</year>
+<month>June</month>
+<volume>80</volume>
+<journal>J. Supercomput.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1007/s11227-024-05934-z</ee>
+<url>db/journals/tjs/tjs80.html#GarciaGSGMF24</url>
+</article>
+</r>
+<r><article key="journals/tjs/VogelDTGF24" mdate="2024-12-09">
+<author orcid="0000-0003-3299-2641" pid="177/7371">Adriano Vogel</author>
+<author orcid="0000-0002-7433-376X" pid="35/3852">Marco Danelutto</author>
+<author orcid="0000-0001-6323-3459" pid="97/4161">Massimo Torquati</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Enhancing self-adaptation for efficient decision-making at run-time in streaming applications on multicores.</title>
+<pages>22213-22244</pages>
+<year>2024</year>
+<month>October</month>
+<volume>80</volume>
+<journal>J. Supercomput.</journal>
+<number>15</number>
+<ee type="oa">https://doi.org/10.1007/s11227-024-06191-w</ee>
+<url>db/journals/tjs/tjs80.html#VogelDTGF24</url>
+<stream>streams/journals/tjs</stream>
+</article>
+</r>
+<r><inproceedings key="conf/compsac/GomesAAMTRRGDTP24" mdate="2024-09-05">
+<author pid="384/5523">Carlos Falc&#227;o de Azevedo Gomes</author>
+<author pid="370/7350">Adriel Silva de Ara&#250;jo</author>
+<author pid="384/5588">Sunna Imtiaz Ahmad</author>
+<author pid="384/6179">Maur&#237;cio Cec&#237;lio Magnaguagno</author>
+<author pid="384/6078">Vinicius Crisosthemos Teixeira</author>
+<author pid="300/2437">Anushri Singh Rajapuri</author>
+<author pid="384/5976">Quinn Roederer</author>
+<author pid="135/0603">Dalvan Griebler</author>
+<author pid="384/5886">Vinicius Dutra</author>
+<author pid="384/5538">Hakan Turkkahraman</author>
+<author pid="20/700">M&#225;rcio Sarroglia Pinho</author>
+<title>Multiview Machine Learning Classification of Tooth Extraction in Orthodontics Using Intraoral Scans.</title>
+<pages>1977-1982</pages>
+<year>2024</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC61105.2024.00316</ee>
+<crossref>conf/compsac/2024</crossref>
+<url>db/conf/compsac/compsac2024.html#GomesAAMTRRGDTP24</url>
+<stream>streams/conf/compsac</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/LoffGFB24" mdate="2024-09-08">
+<author orcid="0000-0003-4824-4621" pid="220/7415">J&#250;nior L&#246;ff</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<author orcid="0000-0002-2477-2182" pid="05/3695">Walter Binder</author>
+<title>MPR: An MPI Framework for Distributed Self-adaptive Stream Processing.</title>
+<pages>400-414</pages>
+<year>2024</year>
+<booktitle>Euro-Par (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-69583-4_28</ee>
+<crossref>conf/europar/2024-3</crossref>
+<url>db/conf/europar/europar2024-3.html#LoffGFB24</url>
+<stream>streams/conf/europar</stream>
+</inproceedings>
+</r>
+<r><article key="journals/computing/VogelMGDF23" mdate="2023-05-17">
+<author orcid="0000-0003-3299-2641" pid="177/7371">Adriano Vogel</author>
+<author orcid="0000-0002-6263-7723" pid="85/5541">Gabriele Mencagli</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-7433-376X" pid="35/3852">Marco Danelutto</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Online and transparent self-adaptation of stream parallel patterns.</title>
+<pages>1039-1057</pages>
+<year>2023</year>
+<month>May</month>
+<volume>105</volume>
+<journal>Computing</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.1007/s00607-021-00998-8</ee>
+<url>db/journals/computing/computing105.html#VogelMGDF23</url>
+</article>
+</r>
+<r><article key="journals/computing/GarciaGSF23" mdate="2023-08-28">
+<author orcid="0000-0003-4796-773X" pid="237/7420">Adriano Marques Garcia</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0003-4118-8831" pid="79/5559">Claudio Schepke</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>SPBench: a framework for creating benchmarks of stream processing applications.</title>
+<pages>1077-1099</pages>
+<year>2023</year>
+<month>May</month>
+<volume>105</volume>
+<journal>Computing</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00607-021-01025-6</ee>
+<ee>https://www.wikidata.org/entity/Q114228808</ee>
+<url>db/journals/computing/computing105.html#GarciaGSF23</url>
+</article>
+</r>
+<r><article key="journals/csi/AndradeGSF23" mdate="2023-08-28">
+<author orcid="0000-0002-8442-7890" pid="304/9257">Gabriella Andrade</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0003-4749-2551" pid="57/7989">Rodrigo Pereira dos Santos</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>A parallel programming assessment for stream processing applications on multi-core systems.</title>
+<pages>103691</pages>
+<year>2023</year>
+<volume>84</volume>
+<journal>Comput. Stand. Interfaces</journal>
+<ee>https://doi.org/10.1016/j.csi.2022.103691</ee>
+<ee>https://www.wikidata.org/entity/Q114191770</ee>
+<url>db/journals/csi/csi84.html#AndradeGSF23</url>
+</article>
+</r>
+<r><article key="journals/ijpp/ErnstssonGK23" mdate="2023-02-28">
+<author orcid="0000-0001-6514-4601" pid="212/0109">August Ernstsson</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0001-5241-0026" pid="k/ChristophWKessler">Christoph W. Kessler</author>
+<title>Assessing Application Efficiency and Performance Portability in Single-Source Programming for Heterogeneous Parallel Systems.</title>
+<pages>61-82</pages>
+<year>2023</year>
+<month>February</month>
+<volume>51</volume>
+<journal>Int. J. Parallel Program.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s10766-022-00746-1</ee>
+<url>db/journals/ijpp/ijpp51.html#ErnstssonGK23</url>
+</article>
+</r>
+<r><article key="journals/spe/AraujoGRDF23" mdate="2023-01-31">
+<author pid="265/3439">Gabriell Alves de Araujo</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-2091-9626" pid="246/0565">Dinei A. Rockenbach</author>
+<author orcid="0000-0002-7433-376X" pid="35/3852">Marco Danelutto</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>NAS Parallel Benchmarks with CUDA and beyond.</title>
+<pages>53-80</pages>
+<year>2023</year>
+<volume>53</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1002/spe.3056</ee>
+<url>db/journals/spe/spe53.html#AraujoGRDF23</url>
+</article>
+</r>
+<r><article key="journals/tjs/GarciaGSF23" mdate="2024-05-07">
+<author orcid="0000-0003-4796-773X" pid="237/7420">Adriano Marques Garcia</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="79/5559">Claudio Schepke</author>
+<author pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Micro-batch and data frequency for stream processing on multi-cores.</title>
+<pages>9206-9244</pages>
+<year>2023</year>
+<month>May</month>
+<volume>79</volume>
+<journal>J. Supercomput.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1007/s11227-022-05024-y</ee>
+<url>db/journals/tjs/tjs79.html#GarciaGSF23</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/LeonarczykGMD23" mdate="2024-05-04">
+<author orcid="0000-0002-5202-5694" pid="373/6490">Ricardo Leonarczyk</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-6263-7723" pid="85/5541">Gabriele Mencagli</author>
+<author orcid="0000-0002-7433-376X" pid="35/3852">Marco Danelutto</author>
+<title>Evaluation of Adaptive Micro-batching Techniques for GPU-Accelerated Stream Processing.</title>
+<pages>81-92</pages>
+<year>2023</year>
+<booktitle>Euro-Par Workshops (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-50684-0_7</ee>
+<crossref>conf/europar/2023w1</crossref>
+<url>db/conf/europar/europar2023w1.html#LeonarczykGMD23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/VogelDGF23" mdate="2024-05-07">
+<author orcid="0000-0003-3299-2641" pid="177/7371">Adriano Vogel</author>
+<author pid="35/3852">Marco Danelutto</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Revisiting self-adaptation for efficient decision-making at run-time in parallel executions.</title>
+<pages>43-50</pages>
+<year>2023</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP59025.2023.00015</ee>
+<crossref>conf/pdp/2023</crossref>
+<url>db/conf/pdp/pdp2023.html#VogelDGF23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/GarciaGSSGMF23" mdate="2024-05-07">
+<author orcid="0000-0003-4796-773X" pid="237/7420">Adriano Marques Garcia</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="79/5559">Claudio Schepke</author>
+<author pid="348/7454">Andr&#233; Sacilotto Santos</author>
+<author pid="g/JoseDanielGarcia">Jos&#233; Daniel Garc&#237;a</author>
+<author pid="91/4494-1">Javier Fern&#225;ndez Mu&#241;oz</author>
+<author pid="f/LuizGustavoFernandes">Luiz G. L. Fernandes</author>
+<title>A Latency, Throughput, and Programmability Perspective of GrPPI for Streaming on Multi-cores.</title>
+<pages>164-168</pages>
+<year>2023</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP59025.2023.00033</ee>
+<crossref>conf/pdp/2023</crossref>
+<url>db/conf/pdp/pdp2023.html#GarciaGSSGMF23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/HoffmannFMG23" mdate="2024-05-07">
+<author pid="215/8800">Renato B. Hoffmann</author>
+<author pid="359/6445">Leonardo G. Fa&#233;</author>
+<author pid="38/6192">Isabel H. Manssour</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<title>Analyzing C++ Stream Parallelism in Shared-Memory when Porting to Flink and Storm.</title>
+<pages>46-53</pages>
+<year>2023</year>
+<booktitle>SBAC-PADW</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PADW60351.2023.00017</ee>
+<crossref>conf/sbac-pad/2023w</crossref>
+<url>db/conf/sbac-pad/sbac-pad2023w.html#HoffmannFMG23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/MaliszewskiGRRN23" mdate="2024-05-07">
+<author pid="229/2261">Anderson M. Maliszewski</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="117/7744">Eduardo Roloff</author>
+<author pid="33/4917">Rodrigo da Rosa Righi</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<title>Evaluation Model and Performance Analysis of NIC Aggregations in Containerized Private Clouds.</title>
+<pages>101-107</pages>
+<year>2023</year>
+<booktitle>SBAC-PADW</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PADW60351.2023.00025</ee>
+<crossref>conf/sbac-pad/2023w</crossref>
+<url>db/conf/sbac-pad/sbac-pad2023w.html#MaliszewskiGRRN23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/FerretoGR23" mdate="2024-05-07">
+<author pid="78/3004">Tiago C. Ferreto</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="95/5199">C&#233;sar A. F. De Rose</author>
+<title>Message from the General Chairs.</title>
+<pages>ix</pages>
+<year>2023</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD59825.2023.00005</ee>
+<crossref>conf/sbac-pad/2023</crossref>
+<url>db/conf/sbac-pad/sbac-pad2023.html#FerretoGR23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/FaeHG23" mdate="2025-01-19">
+<author orcid="0009-0008-0323-8950" pid="359/6445">Leonardo G. Fa&#233;</author>
+<author orcid="0000-0002-1039-1290" pid="215/8800">Renato B. Hoffmann</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<title>Source-to-Source Code Transformation on Rust for High-Level Stream Parallelism.</title>
+<pages>41-49</pages>
+<year>2023</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3624309.3624320</ee>
+<ee>https://www.wikidata.org/entity/Q130879971</ee>
+<crossref>conf/sblp/2023</crossref>
+<url>db/conf/sblp/sblp2023.html#FaeHG23</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/VogelGDF22" mdate="2022-05-13">
+<author orcid="0000-0003-3299-2641" pid="177/7371">Adriano Vogel</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-7433-376X" pid="35/3852">Marco Danelutto</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Self-adaptation on parallel stream processing: A systematic review.</title>
+<year>2022</year>
+<volume>34</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.1002/cpe.6759</ee>
+<url>db/journals/concurrency/concurrency34.html#VogelGDF22</url>
+</article>
+</r>
+<r><article key="journals/ijpp/LoffHPGF22" mdate="2024-08-04">
+<author orcid="0000-0003-4824-4621" pid="220/7415">J&#250;nior L&#246;ff</author>
+<author pid="215/8800">Renato B. Hoffmann</author>
+<author pid="250/3391">Ricardo Pieper</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>DSParLib: A C++ Template Library for Distributed Stream Parallelism.</title>
+<pages>454-485</pages>
+<year>2022</year>
+<volume>50</volume>
+<journal>Int. J. Parallel Program.</journal>
+<number>5-6</number>
+<ee>https://doi.org/10.1007/s10766-022-00737-2</ee>
+<url>db/journals/ijpp/ijpp50.html#LoffHPGF22</url>
+</article>
+</r>
+<r><article key="journals/tjs/HoffmannLGF22" mdate="2022-10-02">
+<author pid="215/8800">Renato B. Hoffmann</author>
+<author orcid="0000-0003-4824-4621" pid="220/7415">J&#250;nior L&#246;ff</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>OpenMP as runtime for providing high-level stream parallelism on multi-cores.</title>
+<pages>7655-7676</pages>
+<year>2022</year>
+<volume>78</volume>
+<journal>J. Supercomput.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s11227-021-04182-9</ee>
+<url>db/journals/tjs/tjs78.html#HoffmannLGF22</url>
+</article>
+</r>
+<r><article key="journals/vlc/LoffHGF22" mdate="2022-12-07">
+<author orcid="0000-0003-4824-4621" pid="220/7415">J&#250;nior L&#246;ff</author>
+<author orcid="0000-0002-1039-1290" pid="215/8800">Renato B. Hoffmann</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Combining stream with data parallelism abstractions for multi-cores.</title>
+<pages>101160</pages>
+<year>2022</year>
+<volume>73</volume>
+<journal>J. Comput. Lang.</journal>
+<ee>https://doi.org/10.1016/j.cola.2022.101160</ee>
+<url>db/journals/vlc/vlc73.html#LoffHGF22</url>
+</article>
+</r>
+<r><inproceedings key="conf/euromicro/AndradeGSKEF22" mdate="2024-05-07">
+<author pid="304/9257">Gabriella Andrade</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="57/7989">Rodrigo Pereira dos Santos</author>
+<author pid="k/ChristophWKessler">Christoph W. Kessler</author>
+<author orcid="0000-0001-6514-4601" pid="212/0109">August Ernstsson</author>
+<author pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Analyzing Programming Effort Model Accuracy of High-Level Parallel Programs for Stream Processing.</title>
+<pages>229-232</pages>
+<year>2022</year>
+<booktitle>SEAA</booktitle>
+<ee>https://doi.org/10.1109/SEAA56994.2022.00043</ee>
+<crossref>conf/euromicro/2022</crossref>
+<url>db/conf/euromicro/euromicro2022.html#AndradeGSKEF22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/GarciaGSF22" mdate="2023-06-26">
+<author orcid="0000-0003-4796-773X" pid="237/7420">Adriano Marques Garcia</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="79/5559">Claudio Schepke</author>
+<author pid="f/LuizGustavoFernandes">Luiz Gustavo Le&#227;o Fernandes</author>
+<title>Evaluating Micro-batch and Data Frequency for Stream Processing Applications on Multi-cores.</title>
+<pages>10-17</pages>
+<year>2022</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP55904.2022.00011</ee>
+<crossref>conf/pdp/2022</crossref>
+<url>db/conf/pdp/pdp2022.html#GarciaGSF22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/MencagliGD22" mdate="2022-12-07">
+<author pid="85/5541">Gabriele Mencagli</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="35/3852">Marco Danelutto</author>
+<title>Towards Parallel Data Stream Processing on System-on-Chip CPU+GPU Devices.</title>
+<pages>34-38</pages>
+<year>2022</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP55904.2022.00014</ee>
+<crossref>conf/pdp/2022</crossref>
+<url>db/conf/pdp/pdp2022.html#MencagliGD22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/RockenbachLAGF22" mdate="2025-01-19">
+<author orcid="0000-0002-2091-9626" pid="246/0565">Dinei A. Rockenbach</author>
+<author orcid="0000-0003-4824-4621" pid="220/7415">J&#250;nior L&#246;ff</author>
+<author pid="265/3439">Gabriell Alves de Araujo</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>High-Level Stream and Data Parallelism in C++ for GPUs.</title>
+<pages>41-49</pages>
+<year>2022</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3561320.3561327</ee>
+<ee>https://www.wikidata.org/entity/Q131119666</ee>
+<crossref>conf/sblp/2022</crossref>
+<url>db/conf/sblp/sblp2022.html#RockenbachLAGF22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/svr/BarthVGP22" mdate="2024-06-04">
+<author orcid="0009-0005-4260-0236" pid="342/9773">Vitor Barth</author>
+<author orcid="0000-0003-3299-2641" pid="177/7371">Adriano Vogel</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-8873-1005" pid="20/700">M&#225;rcio Sarroglia Pinho</author>
+<title>Open Source Augmented Reality in Data Center Infrastructure Maintenance.</title>
+<pages>151-156</pages>
+<year>2022</year>
+<booktitle>SVR</booktitle>
+<ee>https://doi.org/10.1145/3604479.3604527</ee>
+<crossref>conf/svr/2022</crossref>
+<url>db/conf/svr/svr2022.html#BarthVGP22</url>
+</inproceedings>
+</r>
+<r><article key="journals/cee/GomesRCG21" mdate="2021-07-25">
+<author orcid="0000-0003-0355-9240" pid="151/0313">M&#225;rcio Miguel Gomes</author>
+<author orcid="0000-0001-5080-7660" pid="33/4917">Rodrigo da Rosa Righi</author>
+<author orcid="0000-0003-3859-6199" pid="14/3505">Cristiano Andr&#233; da Costa</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<title>Simplifying IoT data stream enrichment and analytics in the edge.</title>
+<pages>107110</pages>
+<year>2021</year>
+<volume>92</volume>
+<journal>Comput. Electr. Eng.</journal>
+<ee>https://doi.org/10.1016/j.compeleceng.2021.107110</ee>
+<url>db/journals/cee/cee92.html#GomesRCG21</url>
+</article>
+</r>
+<r><article key="journals/concurrency/SteinRGTMDF21" mdate="2021-06-01">
+<author pid="237/8297">Charles Michael Stein</author>
+<author orcid="0000-0002-2091-9626" pid="246/0565">Dinei A. Rockenbach</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0001-6323-3459" pid="97/4161">Massimo Torquati</author>
+<author orcid="0000-0002-6263-7723" pid="85/5541">Gabriele Mencagli</author>
+<author orcid="0000-0002-7433-376X" pid="35/3852">Marco Danelutto</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Latency-aware adaptive micro-batching techniques for streamed data compression on graphics processing units.</title>
+<year>2021</year>
+<volume>33</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1002/cpe.5786</ee>
+<url>db/journals/concurrency/concurrency33.html#SteinRGTMDF21</url>
+</article>
+</r>
+<r><article key="journals/fgcs/LoffGMATDF21" mdate="2023-08-28">
+<author orcid="0000-0003-4824-4621" pid="220/7415">J&#250;nior L&#246;ff</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-6263-7723" pid="85/5541">Gabriele Mencagli</author>
+<author pid="265/3439">Gabriell Alves de Araujo</author>
+<author orcid="0000-0001-6323-3459" pid="97/4161">Massimo Torquati</author>
+<author orcid="0000-0002-7433-376X" pid="35/3852">Marco Danelutto</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>The NAS Parallel Benchmarks for evaluating C++ parallel programming frameworks on shared-memory architectures.</title>
+<pages>743-757</pages>
+<year>2021</year>
+<volume>125</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2021.07.021</ee>
+<ee>https://www.wikidata.org/entity/Q114174740</ee>
+<url>db/journals/fgcs/fgcs125.html#LoffGMATDF21</url>
+</article>
+</r>
+<r><article key="journals/spe/VogelGF21" mdate="2021-05-16">
+<author orcid="0000-0003-3299-2641" pid="177/7371">Adriano Vogel</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Providing high-level self-adaptive abstractions for stream parallelism on multicores.</title>
+<pages>1194-1217</pages>
+<year>2021</year>
+<volume>51</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/spe.2948</ee>
+<url>db/journals/spe/spe51.html#VogelGF21</url>
+</article>
+</r>
+<r><article key="journals/vlc/PieperLHGF21" mdate="2023-08-28">
+<author pid="250/3391">Ricardo Pieper</author>
+<author orcid="0000-0003-4824-4621" pid="220/7415">J&#250;nior L&#246;ff</author>
+<author orcid="0000-0002-1039-1290" pid="215/8800">Renato B. Hoffmann</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>High-level and efficient structured stream parallelism for rust on multi-cores.</title>
+<pages>101054</pages>
+<year>2021</year>
+<volume>65</volume>
+<journal>J. Comput. Lang.</journal>
+<ee>https://doi.org/10.1016/j.cola.2021.101054</ee>
+<ee>https://www.wikidata.org/entity/Q121019838</ee>
+<url>db/journals/vlc/vlc65.html#PieperLHGF21</url>
+</article>
+</r>
+<r><inproceedings key="conf/euromicro/AndradeGSDF21" mdate="2022-12-07">
+<author pid="304/9257">Gabriella Andrade</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0003-4749-2551" pid="57/7989">Rodrigo Pereira dos Santos</author>
+<author pid="35/3852">Marco Danelutto</author>
+<author pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Assessing Coding Metrics for Parallel Programming of Stream Processing Programs on Multi-cores.</title>
+<pages>291-295</pages>
+<year>2021</year>
+<booktitle>SEAA</booktitle>
+<ee>https://doi.org/10.1109/SEAA53835.2021.00044</ee>
+<crossref>conf/euromicro/2021</crossref>
+<url>db/conf/euromicro/euromicro2021.html#AndradeGSDF21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/GarciaGFS21" mdate="2024-05-07">
+<author orcid="0000-0003-4796-773X" pid="237/7420">Adriano Marques Garcia</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="f/LuizGustavoFernandes">Luiz G. L. Fernandes</author>
+<author pid="79/5559">Claudio Schepke</author>
+<title>Introducing a Stream Processing Framework for Assessing Parallel Programming Interfaces.</title>
+<pages>84-88</pages>
+<year>2021</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP52278.2021.00021</ee>
+<crossref>conf/pdp/2021</crossref>
+<url>db/conf/pdp/pdp2021.html#GarciaGFS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/VogelMGDF21" mdate="2024-05-07">
+<author orcid="0000-0003-3299-2641" pid="177/7371">Adriano Vogel</author>
+<author pid="85/5541">Gabriele Mencagli</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="35/3852">Marco Danelutto</author>
+<author pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Towards On-the-fly Self-Adaptation of Stream Parallel Patterns.</title>
+<pages>89-93</pages>
+<year>2021</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP52278.2021.00022</ee>
+<crossref>conf/pdp/2021</crossref>
+<url>db/conf/pdp/pdp2021.html#VogelMGDF21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/LoffHGF21" mdate="2022-12-07">
+<author orcid="0000-0003-4824-4621" pid="220/7415">Junior Loff</author>
+<author pid="215/8800">Renato B. Hoffmann</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>High-Level Stream and Data Parallelism in C++ for Multi-Cores.</title>
+<pages>41-48</pages>
+<year>2021</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3475061.3475078</ee>
+<crossref>conf/sblp/2021</crossref>
+<url>db/conf/sblp/sblp2021.html#LoffHGF21</url>
+</inproceedings>
+</r>
+<r><data key="data/10/LoffGMATDF21" mdate="2024-10-02">
+<author orcid="0000-0003-4824-4621" pid="220/7415">J&#250;nior L&#246;ff</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-6263-7723" pid="85/5541">Gabriele Mencagli</author>
+<author orcid="0000-0001-8179-2318" pid="265/3439">Gabriell Alves de Araujo</author>
+<author orcid="0000-0001-6323-3459" pid="97/4161">Massimo Torquati</author>
+<author orcid="0000-0002-7433-376X" pid="35/3852">Marco Danelutto</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>NPB-CPP: NAS Parallel Benchmarks for evaluating C++ parallel programming frameworks on shared-memory architectures.</title>
+<year>2021</year>
+<month>August</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.5230617</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="0" label="Version Z1.0" uri="https://doi.org/10.5281/zenodo.5230616" type="versionOf"></rel>
+</data>
+</r>
+<r><article key="journals/access/BordinGMGF20" mdate="2021-04-09">
+<author pid="282/0155">Maycon Viana Bordin</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-6263-7723" pid="85/5541">Gabriele Mencagli</author>
+<author orcid="0000-0002-8602-2336" pid="b/ClaudioFernandoResinGeyer">Cl&#225;udio F. R. Geyer</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Le&#227;o Fernandes</author>
+<title>DSPBench: A Suite of Benchmark Applications for Distributed Data Stream Processing Systems.</title>
+<pages>222900-222917</pages>
+<year>2020</year>
+<volume>8</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2020.3043948</ee>
+<url>db/journals/access/access8.html#BordinGMGF20</url>
+</article>
+</r>
+<r><article key="journals/tjs/GrieblerVSDF20" mdate="2025-01-19">
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0003-3299-2641" pid="177/7371">Adriano Vogel</author>
+<author pid="130/0727">Daniele De Sensi</author>
+<author orcid="0000-0002-7433-376X" pid="35/3852">Marco Danelutto</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Simplifying and implementing service level objectives for stream parallelism.</title>
+<pages>4603-4628</pages>
+<year>2020</year>
+<volume>76</volume>
+<journal>J. Supercomput.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s11227-019-02914-6</ee>
+<ee>https://www.wikidata.org/entity/Q125799744</ee>
+<url>db/journals/tjs/tjs76.html#GrieblerVSDF20</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccsa/GarciaSGSFN20" mdate="2022-01-04">
+<author orcid="0000-0003-4796-773X" pid="237/7420">Adriano Marques Garcia</author>
+<author orcid="0000-0001-5178-1036" pid="199/1097">Matheus S. Serpa</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0003-4118-8831" pid="79/5559">Claudio Schepke</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz G. L. Fernandes</author>
+<author orcid="0000-0002-9957-5861" pid="74/1262">Philippe O. A. Navaux</author>
+<title>The Impact of CPU Frequency Scaling on Power Consumption of Computing Infrastructures.</title>
+<pages>142-157</pages>
+<year>2020</year>
+<booktitle>ICCSA (6)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58817-5_12</ee>
+<crossref>conf/iccsa/2020-6</crossref>
+<url>db/conf/iccsa/iccsa2020-6.html#GarciaSGSFN20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccsa/MaliszewskiRGGN20" mdate="2020-10-06">
+<author orcid="0000-0001-5585-3471" pid="229/2261">Anderson M. Maliszewski</author>
+<author orcid="0000-0002-9989-8425" pid="117/7744">Eduardo Roloff</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-7561-5582" pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author orcid="0000-0002-9957-5861" pid="74/1262">Philippe O. A. Navaux</author>
+<title>Performance Impact of IEEE 802.3ad in Container-Based Clouds for HPC Applications.</title>
+<pages>158-167</pages>
+<year>2020</year>
+<booktitle>ICCSA (6)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58817-5_13</ee>
+<crossref>conf/iccsa/2020-6</crossref>
+<url>db/conf/iccsa/iccsa2020-6.html#MaliszewskiRGGN20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/MaliszewskiRCGG20" mdate="2024-05-07">
+<author pid="229/2261">Anderson M. Maliszewski</author>
+<author pid="117/7744">Eduardo Roloff</author>
+<author pid="164/9866">Emmanuell D. Carre&#241;o</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<title>Performance and Cost-aware HPC in Clouds: A Network Interconnection Assessment.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC50000.2020.9219554</ee>
+<crossref>conf/iscc/2020</crossref>
+<url>db/conf/iscc/iscc2020.html#MaliszewskiRCGG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/AraujoGDF20" mdate="2020-12-29">
+<author pid="265/3439">Gabriell Alves de Araujo</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-7433-376X" pid="35/3852">Marco Danelutto</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Efficient NAS Parallel Benchmark Kernels with CUDA.</title>
+<pages>9-16</pages>
+<year>2020</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP50117.2020.00009</ee>
+<crossref>conf/pdp/2020</crossref>
+<url>db/conf/pdp/pdp2020.html#AraujoGDF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/HoffmannGDF20" mdate="2022-12-07">
+<author pid="215/8800">Renato B. Hoffmann</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-7433-376X" pid="35/3852">Marco Danelutto</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Stream Parallelism Annotations for Multi-Core Frameworks.</title>
+<pages>48-55</pages>
+<year>2020</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3427081.3427088</ee>
+<crossref>conf/sblp/2020</crossref>
+<url>db/conf/sblp/sblp2020.html#HoffmannGDF20</url>
+</inproceedings>
+</r>
+<r><article key="journals/access/MencagliTGDF19" mdate="2020-12-29">
+<author orcid="0000-0002-6263-7723" pid="85/5541">Gabriele Mencagli</author>
+<author pid="97/4161">Massimo Torquati</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-7433-376X" pid="35/3852">Marco Danelutto</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Raising the Parallel Abstraction Level for Streaming Analytics Applications.</title>
+<pages>131944-131961</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2019.2941183</ee>
+<url>db/journals/access/access7.html#MencagliTGDF19</url>
+</article>
+</r>
+<r><article key="journals/ijpp/GrieblerHDF19" mdate="2020-12-29">
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-1039-1290" pid="215/8800">Renato B. Hoffmann</author>
+<author orcid="0000-0002-7433-376X" pid="35/3852">Marco Danelutto</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>High-Level and Productive Stream Parallelism for Dedup, Ferret, and Bzip2.</title>
+<pages>253-271</pages>
+<year>2019</year>
+<volume>47</volume>
+<journal>Int. J. Parallel Program.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10766-018-0558-x</ee>
+<url>db/journals/ijpp/ijpp47.html#GrieblerHDF19</url>
+</article>
+</r>
+<r><article key="journals/sensors/FischerRCGG19" mdate="2020-05-30">
+<author orcid="0000-0003-2954-9032" pid="194/1845">Gabriel Souto Fischer</author>
+<author orcid="0000-0001-5080-7660" pid="33/4917">Rodrigo da Rosa Righi</author>
+<author orcid="0000-0003-3859-6199" pid="14/3505">Cristiano Andr&#233; da Costa</author>
+<author pid="50/2867">Guilherme Galante</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<title>Towards Evaluating Proactive and Reactive Approaches on Reorganizing Human Resources in IoT-Based Smart Hospitals.</title>
+<pages>3800</pages>
+<year>2019</year>
+<volume>19</volume>
+<journal>Sensors</journal>
+<number>17</number>
+<ee type="oa">https://doi.org/10.3390/s19173800</ee>
+<ee>https://www.wikidata.org/entity/Q93081567</ee>
+<url>db/journals/sensors/sensors19.html#FischerRCGG19</url>
+</article>
+</r>
+<r><article key="journals/tjs/GrieblerHDF19" mdate="2025-01-19">
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-1039-1290" pid="215/8800">Renato B. Hoffmann</author>
+<author orcid="0000-0002-7433-376X" pid="35/3852">Marco Danelutto</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Stream parallelism with ordered data constraints on multi-core systems.</title>
+<pages>4042-4061</pages>
+<year>2019</year>
+<volume>75</volume>
+<journal>J. Supercomput.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1007/s11227-018-2482-7</ee>
+<ee>https://www.wikidata.org/entity/Q129517786</ee>
+<url>db/journals/tjs/tjs75.html#GrieblerHDF19</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/VogelGDF19" mdate="2020-06-16">
+<author orcid="0000-0003-3299-2641" pid="177/7371">Adriano Vogel</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-7433-376X" pid="35/3852">Marco Danelutto</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Minimizing Self-adaptation Overhead in Parallel Stream Processing for Multi-cores.</title>
+<pages>30-41</pages>
+<year>2019</year>
+<booktitle>Euro-Par Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-48340-1_3</ee>
+<crossref>conf/europar/2019w</crossref>
+<url>db/conf/europar/europar2019w.html#VogelGDF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/RockenbachSGMTD19" mdate="2020-12-29">
+<author orcid="0000-0002-2091-9626" pid="246/0565">Dinei A. Rockenbach</author>
+<author pid="237/8297">Charles Michael Stein</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="85/5541">Gabriele Mencagli</author>
+<author pid="97/4161">Massimo Torquati</author>
+<author orcid="0000-0002-7433-376X" pid="35/3852">Marco Danelutto</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Stream Processing on Multi-cores with GPUs: Parallel Programming Models' Challenges.</title>
+<pages>834-841</pages>
+<year>2019</year>
+<booktitle>IPDPS Workshops</booktitle>
+<ee>https://doi.org/10.1109/IPDPSW.2019.00137</ee>
+<crossref>conf/ipps/2019w</crossref>
+<url>db/conf/ipps/ipdps2019w.html#RockenbachSGMTD19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/MaliszewskiVGRF19" mdate="2020-09-05">
+<author pid="229/2261">Anderson M. Maliszewski</author>
+<author orcid="0000-0003-3299-2641" pid="177/7371">Adriano Vogel</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="117/7744">Eduardo Roloff</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<title>Minimizing Communication Overheads in Container-based Clouds for HPC Applications.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC47284.2019.8969716</ee>
+<crossref>conf/iscc/2019</crossref>
+<url>db/conf/iscc/iscc2019.html#MaliszewskiVGRF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/parco/VogelGFD19" mdate="2021-02-01">
+<author orcid="0000-0003-3299-2641" pid="177/7371">Adriano Vogel</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<author orcid="0000-0002-7433-376X" pid="35/3852">Marco Danelutto</author>
+<title>Seamless Parallelism Management for Video Stream Processing on Multi-Cores.</title>
+<pages>533-542</pages>
+<year>2019</year>
+<booktitle>PARCO</booktitle>
+<ee type="oa">https://doi.org/10.3233/APC200082</ee>
+<crossref>conf/parco/2019</crossref>
+<url>db/conf/parco/parco2019.html#VogelGFD19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/parco/RockenbachGDF19" mdate="2021-02-01">
+<author orcid="0000-0002-2091-9626" pid="246/0565">Dinei A. Rockenbach</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-7433-376X" pid="35/3852">Marco Danelutto</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>High-Level Stream Parallelism Abstractions with SPar Targeting GPUs.</title>
+<pages>543-552</pages>
+<year>2019</year>
+<booktitle>PARCO</booktitle>
+<ee type="oa">https://doi.org/10.3233/APC200083</ee>
+<crossref>conf/parco/2019</crossref>
+<url>db/conf/parco/parco2019.html#RockenbachGDF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/MaronVGF19" mdate="2020-09-05">
+<author pid="177/7154">Carlos A. F. Maron</author>
+<author orcid="0000-0003-3299-2641" pid="177/7371">Adriano Vogel</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Should PARSEC Benchmarks be More Parametric? A Case Study with Dedup.</title>
+<pages>217-221</pages>
+<year>2019</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/EMPDP.2019.8671592</ee>
+<crossref>conf/pdp/2019</crossref>
+<url>db/conf/pdp/pdp2019.html#MaronVGF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/SerpaMNCDGF19" mdate="2022-07-08">
+<author orcid="0000-0001-5178-1036" pid="199/1097">Matheus S. Serpa</author>
+<author pid="156/4617">Francis B. Moreira 0001</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<author pid="89/10101">Eduardo H. M. Cruz</author>
+<author pid="09/8557">Matthias Diener</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Memory Performance and Bottlenecks in Multicore and GPU Architectures.</title>
+<pages>233-236</pages>
+<year>2019</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/EMPDP.2019.8671628</ee>
+<crossref>conf/pdp/2019</crossref>
+<url>db/conf/pdp/pdp2019.html#SerpaMNCDGF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/SteinGDF19" mdate="2020-12-29">
+<author pid="237/8297">Charles Michael Stein</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-7433-376X" pid="35/3852">Marco Danelutto</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Stream Parallelism on the LZSS Data Compression Application for Multi-Cores with GPUs.</title>
+<pages>247-251</pages>
+<year>2019</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/EMPDP.2019.8671624</ee>
+<crossref>conf/pdp/2019</crossref>
+<url>db/conf/pdp/pdp2019.html#SteinGDF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/PieperGF19" mdate="2020-09-05">
+<author pid="250/3391">Ricardo Pieper</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Structured Stream Parallelism for Rust.</title>
+<pages>54-61</pages>
+<year>2019</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3355378.3355384</ee>
+<crossref>conf/sblp/2019</crossref>
+<url>db/conf/sblp/sblp2019.html#PieperGF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/VogelGSDF18" mdate="2020-12-29">
+<author orcid="0000-0003-3299-2641" pid="177/7371">Adriano Vogel</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="130/0727">Daniele De Sensi</author>
+<author orcid="0000-0002-7433-376X" pid="35/3852">Marco Danelutto</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Autonomic and Latency-Aware Degree of Parallelism Management in SPar.</title>
+<pages>28-39</pages>
+<year>2018</year>
+<booktitle>Euro-Par Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-10549-5_3</ee>
+<crossref>conf/europar/2018w</crossref>
+<url>db/conf/europar/europar2018w.html#VogelGSDF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/GrieblerSVDF18" mdate="2020-12-29">
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="130/0727">Daniele De Sensi</author>
+<author orcid="0000-0003-3299-2641" pid="177/7371">Adriano Vogel</author>
+<author orcid="0000-0002-7433-376X" pid="35/3852">Marco Danelutto</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Service Level Objectives via C++11 Attributes.</title>
+<pages>745-756</pages>
+<year>2018</year>
+<booktitle>Euro-Par Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-10549-5_58</ee>
+<crossref>conf/europar/2018w</crossref>
+<url>db/conf/europar/europar2018w.html#GrieblerSVDF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ieeehpcs/MaliszewskiGSDF18" mdate="2020-12-29">
+<author pid="229/2261">Anderson M. Maliszewski</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0003-4118-8831" pid="79/5559">Claudio Schepke</author>
+<author pid="59/7356">Alexander Ditter</author>
+<author pid="09/4727">Dietmar Fey</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>The NAS Benchmark Kernels for Single and Multi-Tenant Cloud Instances with LXC/KVM.</title>
+<pages>359-366</pages>
+<year>2018</year>
+<booktitle>HPCS</booktitle>
+<ee>https://doi.org/10.1109/HPCS.2018.00066</ee>
+<crossref>conf/ieeehpcs/2018</crossref>
+<url>db/conf/ieeehpcs/ieeehpcs2018.html#MaliszewskiGSDF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/GrieblerVMMSF18" mdate="2023-03-24">
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0003-3299-2641" pid="177/7371">Adriano Vogel</author>
+<author pid="177/7154">Carlos A. F. Maron</author>
+<author pid="229/2261">Anderson M. Maliszewski</author>
+<author orcid="0000-0003-4118-8831" pid="79/5559">Claudio Schepke</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Performance of Data Mining, Media, and Financial Applications under Private Cloud Conditions.</title>
+<pages>450-456</pages>
+<year>2018</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2018.8538759</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2018.8538759</ee>
+<crossref>conf/iscc/2018</crossref>
+<url>db/conf/iscc/iscc2018.html#GrieblerVMMSF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/RistaTGF18" mdate="2023-03-24">
+<author pid="206/0041">Cassiano Rista</author>
+<author orcid="0000-0002-1008-7838" pid="15/8203">Marcelo Teixeira</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Evaluating, Estimating, and Improving Network Performance in Container-based Clouds.</title>
+<pages>514-520</pages>
+<year>2018</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2018.8538558</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2018.8538558</ee>
+<crossref>conf/iscc/2018</crossref>
+<url>db/conf/iscc/iscc2018.html#RistaTGF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/GrieblerLMDF18" mdate="2023-03-24">
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0003-4824-4621" pid="220/7415">Junior Loff</author>
+<author pid="85/5541">Gabriele Mencagli</author>
+<author orcid="0000-0002-7433-376X" pid="35/3852">Marco Danelutto</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Efficient NAS Benchmark Kernels with C++ Parallel Programming.</title>
+<pages>733-740</pages>
+<year>2018</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP2018.2018.00120</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PDP2018.2018.00120</ee>
+<crossref>conf/pdp/2018</crossref>
+<url>db/conf/pdp/pdp2018.html#GrieblerLMDF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wscad/VogelRJEGMF18" mdate="2020-03-03">
+<author orcid="0000-0003-3299-2641" pid="177/7371">Adriano Vogel</author>
+<author pid="206/0041">Cassiano Rista</author>
+<author pid="258/4092">Gabriel Justo</author>
+<author pid="244/1601">Endrius Ewald</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="85/5541">Gabriele Mencagli</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Parallel Stream Processing with MPI for Video Analytics and Data Visualization.</title>
+<pages>102-116</pages>
+<year>2018</year>
+<booktitle>WSCAD (Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-41050-6_7</ee>
+<crossref>conf/wscad/2018s</crossref>
+<url>db/conf/wscad/wscad2018s.html#VogelRJEGMF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wscad/EwaldVRGMF18" mdate="2020-09-05">
+<author pid="244/1601">Endrius Ewald</author>
+<author orcid="0000-0003-3299-2641" pid="177/7371">Adriano Vogel</author>
+<author pid="206/0041">Cassiano Rista</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="38/6192">Isabel Harb Manssour</author>
+<author pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Parallel and Distributed Processing Support for a Geospatial Data Visualization DSL.</title>
+<pages>221-228</pages>
+<year>2018</year>
+<booktitle>WSCAD</booktitle>
+<ee>https://doi.org/10.1109/WSCAD.2018.00042</ee>
+<crossref>conf/wscad/2018</crossref>
+<url>db/conf/wscad/wscad2018.html#EwaldVRGMF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wscad/MaliszewskiGVS18" mdate="2020-12-29">
+<author pid="229/2261">Anderson Mattheus Maliszewski</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0003-3299-2641" pid="177/7371">Adriano Vogel</author>
+<author orcid="0000-0003-4118-8831" pid="79/5559">Claudio Schepke</author>
+<title>On the Performance of Multithreading Applications under Private Cloud Conditions.</title>
+<pages>273</pages>
+<year>2018</year>
+<booktitle>WSCAD</booktitle>
+<ee>https://doi.org/10.1109/WSCAD.2018.00055</ee>
+<crossref>conf/wscad/2018</crossref>
+<url>db/conf/wscad/wscad2018.html#MaliszewskiGVS18</url>
+</inproceedings>
+</r>
+<r><data key="data/10/GrieblerLMDF18" mdate="2024-08-29">
+<author pid="135/0603">Dalvan Griebler</author>
+<author pid="220/7415">Junior Loff</author>
+<author pid="85/5541">Gabriele Mencagli</author>
+<author orcid="0000-0002-7433-376X" pid="35/3852">Marco Danelutto</author>
+<author pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Efficient NAS Benchmark Kernels with C++ Parallel Programming Frameworks for Multi-Cores.</title>
+<year>2018</year>
+<month>March</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.1194594</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="0" label="Version 1" uri="https://doi.org/10.5281/zenodo.1194593" type="versionOf"></rel>
+</data>
+</r>
+<r><article key="journals/ppl/GrieblerDTF17" mdate="2020-12-29">
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-7433-376X" pid="35/3852">Marco Danelutto</author>
+<author orcid="0000-0001-6323-3459" pid="97/4161">Massimo Torquati</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>SPar: A DSL for High-Level and Productive Stream Parallelism.</title>
+<pages>1740005:1-1740005:20</pages>
+<year>2017</year>
+<volume>27</volume>
+<journal>Parallel Process. Lett.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1142/S0129626417400059</ee>
+<url>db/journals/ppl/ppl27.html#GrieblerDTF17</url>
+</article>
+</r>
+<r><inproceedings key="conf/compsac/LedurGMF17" mdate="2023-03-24">
+<author pid="166/4424">Cleverson Ledur</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="38/6192">Isabel Harb Manssour</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>A High-Level DSL for Geospatial Visualizations with Multi-core Parallelism Support.</title>
+<pages>298-304</pages>
+<year>2017</year>
+<booktitle>COMPSAC (1)</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2017.18</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/COMPSAC.2017.18</ee>
+<crossref>conf/compsac/2017-1</crossref>
+<url>db/conf/compsac/compsac2017-1.html#LedurGMF17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ieeehpcs/RistaGMF17" mdate="2018-11-02">
+<author pid="206/0041">Cassiano Rista</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="177/7154">Carlos A. F. Maron</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Improving the Network Performance of a Container-Based Cloud Environment for Hadoop Systems.</title>
+<pages>619-626</pages>
+<year>2017</year>
+<booktitle>HPCS</booktitle>
+<ee>https://doi.org/10.1109/HPCS.2017.97</ee>
+<crossref>conf/ieeehpcs/2017</crossref>
+<url>db/conf/ieeehpcs/ieeehpcs2017.html#RistaGMF17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/parco/GrieblerF17" mdate="2019-09-25">
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Towards Distributed Parallel Programming Support for the SPar DSL.</title>
+<pages>563-572</pages>
+<year>2017</year>
+<booktitle>PARCO</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-843-3-563</ee>
+<crossref>conf/parco/2017</crossref>
+<url>db/conf/parco/parco2017.html#GrieblerF17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/parco/GrieblerHDF17" mdate="2020-12-29">
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-1039-1290" pid="215/8800">Renato B. Hoffmann</author>
+<author orcid="0000-0002-7433-376X" pid="35/3852">Marco Danelutto</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Higher-Level Parallelism Abstractions for Video Applications with SPar.</title>
+<pages>698-707</pages>
+<year>2017</year>
+<booktitle>PARCO</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-843-3-698</ee>
+<crossref>conf/parco/2017</crossref>
+<url>db/conf/parco/parco2017.html#GrieblerHDF17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/VogelGSF17" mdate="2023-03-24">
+<author orcid="0000-0003-3299-2641" pid="177/7371">Adriano Vogel</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0003-4118-8831" pid="79/5559">Claudio Schepke</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>An Intra-Cloud Networking Performance Evaluation on CloudStack Environment.</title>
+<pages>468-472</pages>
+<year>2017</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP.2017.40</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PDP.2017.40</ee>
+<crossref>conf/pdp/2017</crossref>
+<url>db/conf/pdp/pdp2017.html#VogelGSF17</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ndltd/Griebler16" mdate="2023-04-27">
+<author pid="135/0603">Dalvan Griebler</author>
+<title>Domain-specific language &#38; support tools for high-level stream parallelism.</title>
+<year>2016</year>
+<school>Pontif&#237;cia Universidade Cat&#243;lica do Rio Grande do Sul, Porto Alegre, Brazil</school>
+<school>University of Pisa, Italy</school>
+<ee>https://etd.adm.unipi.it/theses/available/etd-04262016-173122/</ee>
+<ee>http://tede2.pucrs.br/tede2/handle/tede/6776</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:agregador.ibict.br.BDTD_PUC_RS:oai:tede2.pucrs.br:tede/6776</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:tede2.pucrs.br:tede/6776</ee>
+<note type="source">ndltd.org (oai:agregador.ibict.br.BDTD_PUC_RS:oai:tede2.pucrs.br:tede/6776)</note>
+<ee>https://opac.bncf.firenze.sbn.it/bncf-prod/resource?uri=TD20017185</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/pdp/VogelGMSF16" mdate="2023-03-24">
+<author orcid="0000-0003-3299-2641" pid="177/7371">Adriano Vogel</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="177/7154">Carlos A. F. Maron</author>
+<author orcid="0000-0003-4118-8831" pid="79/5559">Claudio Schepke</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Private IaaS Clouds: A Comparative Analysis of OpenNebula, CloudStack and OpenStack.</title>
+<pages>672-679</pages>
+<year>2016</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP.2016.75</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PDP.2016.75</ee>
+<crossref>conf/pdp/2016</crossref>
+<url>db/conf/pdp/pdp2016.html#VogelGMSF16</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijseke/AdornesGLF15" mdate="2020-07-22">
+<author pid="157/0382">Daniel Couto Adornes</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="166/4424">Cleverson Ledur</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Coding Productivity in MapReduce Applications for Distributed and Shared Memory Architectures.</title>
+<pages>1739-1742</pages>
+<year>2015</year>
+<volume>25</volume>
+<journal>Int. J. Softw. Eng. Knowl. Eng.</journal>
+<number>9-10</number>
+<ee>https://doi.org/10.1142/S0218194015710096</ee>
+<url>db/journals/ijseke/ijseke25.html#AdornesGLF15</url>
+</article>
+</r>
+<r><inproceedings key="conf/aiccsa/LedurGMF15" mdate="2023-03-24">
+<author pid="166/4424">Cleverson Ledur</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="38/6192">Isabel Harb Manssour</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Towards a Domain-Specific Language for geospatial data visualization maps with Big Data sets.</title>
+<pages>1-8</pages>
+<year>2015</year>
+<booktitle>AICCSA</booktitle>
+<ee>https://doi.org/10.1109/AICCSA.2015.7507178</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AICCSA.2015.7507178</ee>
+<crossref>conf/aiccsa/2015</crossref>
+<url>db/conf/aiccsa/aiccsa2015.html#LedurGMF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/parco/GrieblerDTF15" mdate="2020-12-29">
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-7433-376X" pid="35/3852">Marco Danelutto</author>
+<author orcid="0000-0001-6323-3459" pid="97/4161">Massimo Torquati</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>An Embedded C++ Domain-Specific Language for Stream Parallelism.</title>
+<pages>317-326</pages>
+<year>2015</year>
+<booktitle>PARCO</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-621-7-317</ee>
+<crossref>conf/parco/2015</crossref>
+<url>db/conf/parco/parco2015.html#GrieblerDTF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/AdornesGLF15" mdate="2021-02-03">
+<author pid="157/0382">Daniel Couto Adornes</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author pid="166/4424">Cleverson Ledur</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>A Unified MapReduce Domain-Specific Language for Distributed and Shared Memory Architectures.</title>
+<pages>619-624</pages>
+<year>2015</year>
+<booktitle>SEKE</booktitle>
+<ee type="oa">https://doi.org/10.18293/SEKE2015-204</ee>
+<crossref>conf/seke/2015</crossref>
+<url>db/conf/seke/seke2015.html#AdornesGLF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/RuiCGF14" mdate="2023-03-24">
+<author pid="144/4323">Fernando Rui</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Castro 0001</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Evaluating the Impact of Transactional Characteristics on the Performance of Transactional Memory Applications.</title>
+<pages>93-97</pages>
+<year>2014</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP.2014.57</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PDP.2014.57</ee>
+<crossref>conf/pdp/2014</crossref>
+<url>db/conf/pdp/pdp2014.html#RuiCGF14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/GrieblerAF14" mdate="2016-06-13">
+<author pid="135/0603">Dalvan Griebler</author>
+<author pid="157/0382">Daniel Couto Adornes</author>
+<author pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Performance and Usability Evaluation of a Pattern-Oriented Parallel Programming Interface for Multi-Core Architectures.</title>
+<pages>25-30</pages>
+<year>2014</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2014</crossref>
+<url>db/conf/seke/seke2014.html#GrieblerAF14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/GrieblerF13" mdate="2018-11-02">
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<title>Towards a Domain-Specific Language for Patterns-Oriented Parallel Programming.</title>
+<pages>105-119</pages>
+<year>2013</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-40922-6_8</ee>
+<crossref>conf/sblp/2013</crossref>
+<url>db/conf/sblp/sblp2013.html#GrieblerF13</url>
+</inproceedings>
+</r>
+<coauthors n="87" nc="1">
+<co c="0"><na f="a/Adornes:Daniel_Couto" pid="157/0382">Daniel Couto Adornes</na></co>
+<co c="0"><na f="a/Ahmad:Sunna_Imtiaz" pid="384/5588">Sunna Imtiaz Ahmad</na></co>
+<co c="0" n="2"><na f="a/Amado:Leonardo" pid="225/5214">Leonardo Amado</na><na>Leonardo Rosa Amado</na></co>
+<co c="0"><na f="a/Andrade:Gabriella" pid="304/9257">Gabriella Andrade</na></co>
+<co c="0"><na f="a/Antal:Marcel" pid="151/8563">Marcel Antal</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Adriel_Silva_de" pid="370/7350">Adriel Silva de Ara&#250;jo</na></co>
+<co c="0"><na f="a/Araujo:Gabriell_Alves_de" pid="265/3439">Gabriell Alves de Araujo</na></co>
+<co c="0"><na f="b/Baniata:Hamza" pid="263/5541">Hamza Baniata</na></co>
+<co c="0"><na f="b/Barth:Vitor" pid="342/9773">Vitor Barth</na></co>
+<co c="0"><na f="b/Bianchessi:Nicola" pid="02/2225">Nicola Bianchessi</na></co>
+<co c="0"><na f="b/Binder:Walter" pid="05/3695">Walter Binder</na></co>
+<co c="0"><na f="b/Bordin:Maycon_Viana" pid="282/0155">Maycon Viana Bordin</na></co>
+<co c="0"><na f="c/Carre=ntilde=o:Emmanuell_D=" pid="164/9866">Emmanuell D. Carre&#241;o</na></co>
+<co c="0"><na f="c/Castro_0001:M=aacute=rcio" pid="39/6633">M&#225;rcio Castro 0001</na></co>
+<co c="0"><na f="c/Costa:Cristiano_Andr=eacute=_da" pid="14/3505">Cristiano Andr&#233; da Costa</na></co>
+<co c="0" n="2"><na f="c/Cruz:Eduardo_Henrique_Molina_da" pid="89/10101">Eduardo Henrique Molina da Cruz</na><na>Eduardo H. M. Cruz</na></co>
+<co c="0"><na f="c/Czarnul:Pawel" pid="73/4985">Pawel Czarnul</na></co>
+<co c="0"><na f="d/Danelutto:Marco" pid="35/3852">Marco Danelutto</na></co>
+<co c="0"><na f="d/Diener:Matthias" pid="09/8557">Matthias Diener</na></co>
+<co c="0"><na f="d/Ditter:Alexander" pid="59/7356">Alexander Ditter</na></co>
+<co c="0"><na f="d/Dutra:Vinicius" pid="384/5886">Vinicius Dutra</na></co>
+<co c="0"><na f="e/Ernstsson:August" pid="212/0109">August Ernstsson</na></co>
+<co c="0"><na f="e/Ewald:Endrius" pid="244/1601">Endrius Ewald</na></co>
+<co c="0"><na f="f/Fa=eacute=:Leonardo_G=" pid="359/6445">Leonardo G. Fa&#233;</na></co>
+<co c="0"><na f="f/Fais:Alessandra" pid="275/6916">Alessandra Fais</na></co>
+<co c="0" n="3"><na f="f/Fernandes:Luiz_Gustavo" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</na><na>Luiz G. L. Fernandes</na><na>Luiz Gustavo Le&#227;o Fernandes</na></co>
+<co c="0" n="2"><na f="f/Fern=aacute=ndez_0001:Javier" pid="91/4494-1">Javier Fern&#225;ndez 0001</na><na>Javier Fern&#225;ndez Mu&#241;oz</na></co>
+<co c="0" n="2"><na f="f/Ferreto:Tiago" pid="78/3004">Tiago Ferreto</na><na>Tiago C. Ferreto</na></co>
+<co c="0"><na f="f/Fey:Dietmar" pid="09/4727">Dietmar Fey</na></co>
+<co c="0"><na f="f/Fischer:Gabriel_Souto" pid="194/1845">Gabriel Souto Fischer</na></co>
+<co c="0"><na f="g/Galante:Guilherme" pid="50/2867">Guilherme Galante</na></co>
+<co c="0"><na f="g/Garcia:Adriano_Marques" pid="237/7420">Adriano Marques Garcia</na></co>
+<co c="0"><na f="g/Garc=iacute=a:Jos=eacute=_Daniel" pid="g/JoseDanielGarcia">Jos&#233; Daniel Garc&#237;a</na></co>
+<co c="0"><na f="g/Gaspary:Luciano_Paschoal" pid="g/LPGaspary">Luciano Paschoal Gaspary</na></co>
+<co c="0" n="2"><na f="g/Geyer:Cl=aacute=udio_Fernando_Resin" pid="b/ClaudioFernandoResinGeyer">Cl&#225;udio Fernando Resin Geyer</na><na>Cl&#225;udio F. R. Geyer</na></co>
+<co c="0"><na f="g/Gomes:Carlos_Falc=atilde=o_de_Azevedo" pid="384/5523">Carlos Falc&#227;o de Azevedo Gomes</na></co>
+<co c="0"><na f="g/Gomes:M=aacute=rcio_Miguel" pid="151/0313">M&#225;rcio Miguel Gomes</na></co>
+<co c="0"><na f="h/Hoffmann:Renato_B=" pid="215/8800">Renato B. Hoffmann</na></co>
+<co c="0"><na f="j/Justo:Gabriel" pid="258/4092">Gabriel Justo</na></co>
+<co c="0"><na f="k/Kert=eacute=sz:Attila" pid="k/AttilaKertesz">Attila Kert&#233;sz</na></co>
+<co c="0"><na f="k/Kessler:Christoph_W=" pid="k/ChristophWKessler">Christoph W. Kessler</na></co>
+<co c="0"><na f="k/Kouloumpris:Andreas" pid="238/5594">Andreas Kouloumpris</na></co>
+<co c="0"><na f="k/Kovacic:Salko" pid="405/8439">Salko Kovacic</na></co>
+<co c="0"><na f="l/Ledur:Cleverson" pid="166/4424">Cleverson Ledur</na></co>
+<co c="0"><na f="l/Leonarczyk:Ricardo" pid="373/6490">Ricardo Leonarczyk</na></co>
+<co c="0"><na f="l/Li:Xinliang_David" pid="309/9768">Xinliang David Li</na></co>
+<co c="0"><na f="l/Licks:Gabriel_Paludo" pid="271/4713">Gabriel Paludo Licks</na></co>
+<co c="0" n="2"><na f="l/Loff:Junior" pid="220/7415">Junior Loff</na><na>J&#250;nior L&#246;ff</na></co>
+<co c="0"><na f="m/Magnaguagno:Maur=iacute=cio_Cec=iacute=lio" pid="384/6179">Maur&#237;cio Cec&#237;lio Magnaguagno</na></co>
+<co c="0" n="2"><na f="m/Maliszewski:Anderson_M=" pid="229/2261">Anderson M. Maliszewski</na><na>Anderson Mattheus Maliszewski</na></co>
+<co c="0"><na f="m/Mallmann:Leonardo" pid="405/0629">Leonardo Mallmann</na></co>
+<co c="0" n="2"><na f="m/Manssour:Isabel_H=" pid="38/6192">Isabel H. Manssour</na><na>Isabel Harb Manssour</na></co>
+<co c="0"><na f="m/M=aacute=rkus:Andr=aacute=s" pid="41/1545">Andr&#225;s M&#225;rkus</na></co>
+<co c="0"><na f="m/Maron:Carlos_A=_F=" pid="177/7154">Carlos A. F. Maron</na></co>
+<co c="0"><na f="m/Martins:Eduardo_M=" pid="400/6626">Eduardo M. Martins</na></co>
+<co c="0"><na f="m/Mencagli:Gabriele" pid="85/5541">Gabriele Mencagli</na></co>
+<co c="0"><na f="m/Meneguzzi:Felipe" pid="10/985">Felipe Meneguzzi</na></co>
+<co c="0"><na f="m/Michael:Maria_K=" pid="10/2633">Maria K. Michael</na></co>
+<co c="0"><na f="m/Moreira_0001:Francis_B=" pid="156/4617">Francis B. Moreira 0001</na></co>
+<co c="0" n="2"><na f="n/Navaux:Philippe_Olivier_Alexandre" pid="74/1262">Philippe Olivier Alexandre Navaux</na><na>Philippe O. A. Navaux</na></co>
+<co c="0"><na f="n/Nikolaou:Panagiota" pid="129/7698">Panagiota Nikolaou</na></co>
+<co c="0"><na f="=/=Ouml=z:Isil" pid="25/9378">Isil &#214;z</na></co>
+<co c="0"><na f="p/Pereira:Fernando_Magno_Quint=atilde=o" pid="p/FMQPereira">Fernando Magno Quint&#227;o Pereira</na></co>
+<co c="0"><na f="p/Pieper:Ricardo" pid="250/3391">Ricardo Pieper</na></co>
+<co c="0"><na f="p/Pinho:M=aacute=rcio_Sarroglia" pid="20/700">M&#225;rcio Sarroglia Pinho</na></co>
+<co c="0"><na f="p/Prodan:Radu" pid="43/1754">Radu Prodan</na></co>
+<co c="0"><na f="r/Rajapuri:Anushri_Singh" pid="300/2437">Anushri Singh Rajapuri</na></co>
+<co c="0"><na f="r/Rakic:Gordana" pid="42/9493">Gordana Rakic</na></co>
+<co c="0"><na f="r/Righi:Rodrigo_da_Rosa" pid="33/4917">Rodrigo da Rosa Righi</na></co>
+<co c="0"><na f="r/Rista:Cassiano" pid="206/0041">Cassiano Rista</na></co>
+<co c="0"><na f="r/Rockenbach:Dinei_A=" pid="246/0565">Dinei A. Rockenbach</na></co>
+<co c="0"><na f="r/Roederer:Quinn" pid="384/5976">Quinn Roederer</na></co>
+<co c="0"><na f="r/Roloff:Eduardo" pid="117/7744">Eduardo Roloff</na></co>
+<co c="0"><na f="r/Rose:C=eacute=sar_A=_F=_De" pid="95/5199">C&#233;sar A. F. De Rose</na></co>
+<co c="0"><na f="r/Rui:Fernando" pid="144/4323">Fernando Rui</na></co>
+<co c="0"><na f="s/Santos:Andr=eacute=_Sacilotto" pid="348/7454">Andr&#233; Sacilotto Santos</na></co>
+<co c="0"><na f="s/Santos:Rodrigo_Pereira_dos" pid="57/7989">Rodrigo Pereira dos Santos</na></co>
+<co c="0"><na f="s/Schepke:Claudio" pid="79/5559">Claudio Schepke</na></co>
+<co c="0"><na f="s/Sensi:Daniele_De" pid="130/0727">Daniele De Sensi</na></co>
+<co c="0"><na f="s/Serpa:Matheus_S=" pid="199/1097">Matheus S. Serpa</na></co>
+<co c="0"><na f="s/Simon:Eric" pid="s/EricSimon">Eric Simon</na></co>
+<co c="0"><na f="s/Stein:Charles_Michael" pid="237/8297">Charles Michael Stein</na></co>
+<co c="0"><na f="t/Teixeira:Marcelo" pid="15/8203">Marcelo Teixeira</na></co>
+<co c="0"><na f="t/Teixeira:Vinicius_Crisosthemos" pid="384/6078">Vinicius Crisosthemos Teixeira</na></co>
+<co c="0"><na f="t/Torquati:Massimo" pid="97/4161">Massimo Torquati</na></co>
+<co c="0"><na f="t/Turkkahraman:Hakan" pid="384/5538">Hakan Turkkahraman</na></co>
+<co c="0"><na f="v/Vogel:Adriano" pid="177/7371">Adriano Vogel</na></co>
+</coauthors>
+</dblpperson>
+

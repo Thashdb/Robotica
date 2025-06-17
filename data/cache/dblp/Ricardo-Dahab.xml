@@ -1,0 +1,1036 @@
+<?xml version="1.0"?>
+<dblpperson name="Ricardo Dahab" pid="79/6780" n="68">
+<person key="homepages/79/6780" mdate="2009-06-10">
+<author pid="79/6780">Ricardo Dahab</author>
+</person>
+<r><article key="journals/tr/RodriguesBD23" mdate="2023-12-31">
+<author orcid="0000-0002-6127-8917" pid="286/7127">Gustavo Eloi de Paula Rodrigues</author>
+<author orcid="0000-0001-8969-4683" pid="92/6995">Alexandre Melo Braga</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>Detecting Cryptography Misuses With Machine Learning: Graph Embeddings, Transfer Learning and Data Augmentation in Source Code Related Tasks.</title>
+<pages>1678-1689</pages>
+<year>2023</year>
+<month>December</month>
+<volume>72</volume>
+<journal>IEEE Trans. Reliab.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TR.2023.3237849</ee>
+<url>db/journals/tr/tr72.html#RodriguesBD23</url>
+</article>
+</r>
+<r><inproceedings key="conf/lagos/PeresD21" mdate="2023-10-21">
+<author pid="311/0229">L&#233;o Vieira Peres</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>Tutte's 3-flow Conjecture for almost even graphs.</title>
+<pages>280-288</pages>
+<year>2021</year>
+<booktitle>LAGOS</booktitle>
+<ee>https://doi.org/10.1016/j.procs.2021.11.035</ee>
+<ee>https://www.wikidata.org/entity/Q122962828</ee>
+<crossref>conf/lagos/2021</crossref>
+<url>db/conf/lagos/lagos2021.html#PeresD21</url>
+</inproceedings>
+</r>
+<r><article key="journals/amco/SilvaLD20" mdate="2024-09-25">
+<author pid="272/2151">Jo&#227;o Paulo da Silva</author>
+<author pid="l/JulioLopezHernandez">Julio L&#243;pez 0002</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>Isogeny formulas for Jacobi intersection and twisted hessian curves.</title>
+<pages>507-523</pages>
+<year>2020</year>
+<volume>14</volume>
+<journal>Adv. Math. Commun.</journal>
+<number>3</number>
+<ee>https://doi.org/10.3934/amc.2020048</ee>
+<url>db/journals/amco/amco14.html#SilvaLD20</url>
+</article>
+</r>
+<r><inproceedings key="conf/icmla/RodriguesBD20" mdate="2024-05-07">
+<author orcid="0000-0002-6127-8917" pid="286/7127">Gustavo Eloi de Paula Rodrigues</author>
+<author pid="92/6995">Alexandre Melo Braga</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>Using Graph Embeddings and Machine Learning to Detect Cryptography Misuse in Source Code.</title>
+<pages>1059-1066</pages>
+<year>2020</year>
+<booktitle>ICMLA</booktitle>
+<ee>https://doi.org/10.1109/ICMLA51294.2020.00171</ee>
+<crossref>conf/icmla/2020</crossref>
+<url>db/conf/icmla/icmla2020.html#RodriguesBD20</url>
+</inproceedings>
+</r>
+<r><article key="journals/toms/Faz-HernandezHD19" mdate="2024-09-25">
+<author orcid="0000-0001-5502-8666" pid="49/10243">Armando Faz-Hern&#225;ndez</author>
+<author pid="l/JulioLopezHernandez">Julio L&#243;pez 0002</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>High-performance Implementation of Elliptic Curve Cryptography Using Vector Instructions.</title>
+<pages>25:1-25:35</pages>
+<year>2019</year>
+<volume>45</volume>
+<journal>ACM Trans. Math. Softw.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3309759</ee>
+<ee>https://www.wikidata.org/entity/Q113310026</ee>
+<url>db/journals/toms/toms45.html#Faz-HernandezHD19</url>
+</article>
+</r>
+<r><article key="journals/tr/BragaDALV19" mdate="2022-08-16">
+<author orcid="0000-0001-8969-4683" pid="92/6995">Alexandre Melo Braga</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<author orcid="0000-0002-6044-4012" pid="97/7524">Nuno Antunes</author>
+<author orcid="0000-0003-0011-9901" pid="56/6126">Nuno Laranjeiro</author>
+<author orcid="0000-0001-5103-8541" pid="14/6260">Marco Vieira</author>
+<title>Understanding How to Use Static Analysis Tools for Detecting Cryptography Misuse in Software.</title>
+<pages>1384-1403</pages>
+<year>2019</year>
+<volume>68</volume>
+<journal>IEEE Trans. Reliab.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TR.2019.2937214</ee>
+<ee>https://www.wikidata.org/entity/Q111900130</ee>
+<url>db/journals/tr/tr68.html#BragaDALV19</url>
+</article>
+</r>
+<r><inproceedings key="conf/latincrypt/RodriguesFSSDL19" mdate="2024-09-25">
+<author pid="186/3754">F&#233;lix Carvalho Rodrigues</author>
+<author orcid="0000-0002-1025-4536" pid="209/5837">Hayato Fujii</author>
+<author pid="248/6634">Ana Clara Zoppi Serpa</author>
+<author pid="248/6641">Giuliano Sider</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<author pid="l/JulioLopezHernandez">Julio L&#243;pez 0002</author>
+<title>Fast White-Box Implementations of Dedicated Ciphers on the ARMv8 Architecture.</title>
+<pages>341-363</pages>
+<year>2019</year>
+<booktitle>LATINCRYPT</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-30530-7_17</ee>
+<crossref>conf/latincrypt/2019</crossref>
+<url>db/conf/latincrypt/latincrypt2019.html#RodriguesFSSDL19</url>
+</inproceedings>
+</r>
+<r><article key="journals/compsec/NavarroNGRD18" mdate="2020-06-15">
+<author orcid="0000-0002-8041-8743" pid="164/7337">Luiz C. Navarro</author>
+<author pid="195/8260">Alexandre K. W. Navarro</author>
+<author orcid="0000-0003-1766-5757" pid="115/4570">Andr&#233; Gr&#233;gio</author>
+<author pid="81/2446">Anderson Rocha 0001</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>Leveraging ontologies and machine-learning techniques for malware analysis into Android permissions ecosystems.</title>
+<pages>429-453</pages>
+<year>2018</year>
+<volume>78</volume>
+<journal>Comput. Secur.</journal>
+<ee>https://doi.org/10.1016/j.cose.2018.07.013</ee>
+<ee>https://www.wikidata.org/entity/Q60213526</ee>
+<url>db/journals/compsec/compsec78.html#NavarroNGRD18</url>
+</article>
+</r>
+<r><article key="journals/jvcir/NavarroNRD18" mdate="2024-05-07">
+<author orcid="0000-0002-8041-8743" pid="164/7337">Luiz C. Navarro</author>
+<author pid="195/8260">Alexandre K. W. Navarro</author>
+<author pid="81/2446">Anderson Rocha 0001</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>Connecting the dots: Toward accountable machine-learning printer attribution methods.</title>
+<pages>257-272</pages>
+<year>2018</year>
+<volume>53</volume>
+<journal>J. Vis. Commun. Image Represent.</journal>
+<ee>https://doi.org/10.1016/j.jvcir.2018.04.002</ee>
+<url>db/journals/jvcir/jvcir53.html#NavarroNRD18</url>
+</article>
+</r>
+<r><proceedings key="conf/pkc/2018-1" mdate="2020-05-01">
+<editor orcid="0000-0002-2447-4329" pid="67/2285">Michel Abdalla</editor>
+<editor pid="79/6780">Ricardo Dahab</editor>
+<title>Public-Key Cryptography - PKC 2018 - 21st IACR International Conference on Practice and Theory of Public-Key Cryptography, Rio de Janeiro, Brazil, March 25-29, 2018, Proceedings, Part I</title>
+<booktitle>Public Key Cryptography (1)</booktitle>
+<publisher>Springer</publisher>
+<year>2018</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>10769</volume>
+<isbn>978-3-319-76577-8</isbn>
+<isbn>978-3-319-76578-5</isbn>
+<ee>https://doi.org/10.1007/978-3-319-76578-5</ee>
+<url>db/conf/pkc/pkc2018-1.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/pkc/2018-2" mdate="2020-05-01">
+<editor orcid="0000-0002-2447-4329" pid="67/2285">Michel Abdalla</editor>
+<editor pid="79/6780">Ricardo Dahab</editor>
+<title>Public-Key Cryptography - PKC 2018 - 21st IACR International Conference on Practice and Theory of Public-Key Cryptography, Rio de Janeiro, Brazil, March 25-29, 2018, Proceedings, Part II</title>
+<booktitle>Public Key Cryptography (2)</booktitle>
+<publisher>Springer</publisher>
+<year>2018</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>10770</volume>
+<isbn>978-3-319-76580-8</isbn>
+<isbn>978-3-319-76581-5</isbn>
+<ee>https://doi.org/10.1007/978-3-319-76581-5</ee>
+<url>db/conf/pkc/pkc2018-2.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/OrtizADAC18" mdate="2020-05-11">
+<author pid="218/7237">Jheyne N. Ortiz</author>
+<author pid="218/7159">Robson R. de Araujo</author>
+<author pid="79/6780">Ricardo Dahab</author>
+<author pid="75/5361">Diego F. Aranha</author>
+<author pid="03/3887">Sueli I. R. Costa</author>
+<title>In Praise of Twisted Canonical Embedding.</title>
+<pages>356</pages>
+<year>2018</year>
+<volume>2018</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2018/356</ee>
+<url>db/journals/iacr/iacr2018.html#OrtizADAC18</url>
+</article>
+</r>
+<r><inproceedings key="conf/issre/BragaDALV17" mdate="2023-03-24">
+<author pid="92/6995">Alexandre Melo Braga</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<author orcid="0000-0002-6044-4012" pid="97/7524">Nuno Antunes</author>
+<author orcid="0000-0003-0011-9901" pid="56/6126">Nuno Laranjeiro</author>
+<author orcid="0000-0001-5103-8541" pid="14/6260">Marco Vieira</author>
+<title>Practical Evaluation of Static Analysis Tools for Cryptography: Benchmarking Method and Case Study.</title>
+<pages>170-181</pages>
+<year>2017</year>
+<booktitle>ISSRE</booktitle>
+<ee>https://doi.org/10.1109/ISSRE.2017.27</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISSRE.2017.27</ee>
+<crossref>conf/issre/2017</crossref>
+<url>db/conf/issre/issre2017.html#BragaDALV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/host/KawakamiOWDG16" mdate="2025-03-03">
+<author pid="41/8638">Henrique Kawakami</author>
+<author pid="49/219">David Ott</author>
+<author pid="59/6326">Hao Chi Wong</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<author orcid="0009-0002-3290-5958" pid="40/8638">Roberto Gallo</author>
+<title>ACBuilder: A tool for hardware architecture security evaluation.</title>
+<pages>97-102</pages>
+<year>2016</year>
+<booktitle>HOST</booktitle>
+<ee>https://doi.org/10.1109/HST.2016.7495564</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/HST.2016.7495564</ee>
+<crossref>conf/host/2016</crossref>
+<url>db/conf/host/host2016.html#KawakamiOWDG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icssa/BragaD16" mdate="2023-03-24">
+<author pid="92/6995">Alexandre Melo Braga</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>Towards a Methodology for the Development of Secure Cryptographic Software.</title>
+<pages>25-30</pages>
+<year>2016</year>
+<booktitle>ICSSA</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICSSA.2016.12</ee>
+<crossref>conf/icssa/2016</crossref>
+<url>db/conf/icssa/icssa2016.html#BragaD16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/qrs/BragaD16" mdate="2019-10-19">
+<author pid="92/6995">Alexandre Melo Braga</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>Mining Cryptography Misuse in Online Forums.</title>
+<pages>143-150</pages>
+<year>2016</year>
+<booktitle>QRS Companion</booktitle>
+<ee>https://doi.org/10.1109/QRS-C.2016.23</ee>
+<crossref>conf/qrs/2016c</crossref>
+<url>db/conf/qrs/qrs2016c.html#BragaD16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/IEEEares/KawakamiGDN15" mdate="2025-03-03">
+<author pid="41/8638">Henrique Kawakami</author>
+<author orcid="0009-0002-3290-5958" pid="40/8638">Roberto Gallo</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<author pid="168/4841">Erick Nascimento</author>
+<title>Hardware Security Evaluation Using Assurance Case Models.</title>
+<pages>193-198</pages>
+<year>2015</year>
+<booktitle>ARES</booktitle>
+<ee>https://doi.org/10.1109/ARES.2015.60</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ARES.2015.60</ee>
+<crossref>conf/IEEEares/2015</crossref>
+<url>db/conf/IEEEares/ares2015.html#KawakamiGDN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icits/DahabGM15" mdate="2019-10-19">
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<author orcid="0000-0001-7114-8377" pid="77/5607">Steven D. Galbraith</author>
+<author pid="85/3232">Eduardo Morais</author>
+<title>Adaptive Key Recovery Attacks on NTRU-Based Somewhat Homomorphic Encryption Schemes.</title>
+<pages>283-296</pages>
+<year>2015</year>
+<booktitle>ICITS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-17470-9_17</ee>
+<ee>https://www.wikidata.org/entity/Q61914007</ee>
+<crossref>conf/icits/2015</crossref>
+<url>db/conf/icits/icits2015.html#DahabGM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip11-8/GalloD15" mdate="2025-03-03">
+<author orcid="0009-0002-3290-5958" pid="40/8638">Roberto Gallo</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>Assurance Cases as a Didactic Tool for Information Security.</title>
+<pages>15-26</pages>
+<year>2015</year>
+<booktitle>World Conference on Information Security Education</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-18500-2_2</ee>
+<crossref>conf/ifip11-8/2015</crossref>
+<url>db/conf/ifip11-8/ifip11-8-2015.html#GalloD15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/space/NascimentoLD15" mdate="2024-09-25">
+<author pid="168/4841">Erick Nascimento</author>
+<author pid="l/JulioLopezHernandez">Julio L&#243;pez 0002</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>Efficient and Secure Elliptic Curve Cryptography for 8-bit AVR Microcontrollers.</title>
+<pages>289-309</pages>
+<year>2015</year>
+<booktitle>SPACE</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-24126-5_17</ee>
+<crossref>conf/space/2015</crossref>
+<url>db/conf/space/space2015.html#NascimentoLD15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wisec/GalloHDNKGJR15" mdate="2025-03-03">
+<author orcid="0009-0002-3290-5958" pid="40/8638">Roberto Gallo</author>
+<author pid="164/7478">Patricia Hongo</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<author orcid="0000-0002-8041-8743" pid="164/7337">Luiz C. Navarro</author>
+<author pid="41/8638">Henrique Kawakami</author>
+<author pid="164/7345">Kaio Galv&#227;o</author>
+<author pid="157/5989">Glauco Barroso Junquera</author>
+<author pid="164/7437">Luander Ribeiro</author>
+<title>Security and system architecture: comparison of Android customizations.</title>
+<pages>12:1-12:6</pages>
+<year>2015</year>
+<booktitle>WISEC</booktitle>
+<ee>https://doi.org/10.1145/2766498.2766519</ee>
+<crossref>conf/wisec/2015</crossref>
+<url>db/conf/wisec/wisec2015.html#GalloHDNKGJR15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/DahabGM15" mdate="2020-05-11">
+<author pid="79/6780">Ricardo Dahab</author>
+<author pid="77/5607">Steven D. Galbraith</author>
+<author pid="85/3232">Eduardo Morais</author>
+<title>Adaptive key recovery attacks on NTRU-based somewhat homomorphic encryption schemes.</title>
+<pages>127</pages>
+<year>2015</year>
+<volume>2015</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2015/127</ee>
+<url>db/journals/iacr/iacr2015.html#DahabGM15</url>
+</article>
+</r>
+<r><incollection key="books/sp/14/BarretoBDLMOPR14" mdate="2021-09-24">
+<author pid="62/1810">Paulo S. L. M. Barreto</author>
+<author pid="123/4673">Felipe Piazza Biasi</author>
+<author pid="79/6780">Ricardo Dahab</author>
+<author pid="l/JulioLopezHernandez">Julio C&#233;sar L&#243;pez-Hern&#225;ndez</author>
+<author pid="85/3232">Eduardo M. de Morais</author>
+<author pid="166/9170">Ana Karina D. S. de Oliveira</author>
+<author pid="68/9385">Geovandro C. C. F. Pereira</author>
+<author orcid="0000-0003-2992-6205" pid="135/8074">Jefferson E. Ricardini</author>
+<title>A Panorama of Post-quantum Cryptography.</title>
+<pages>387-439</pages>
+<year>2014</year>
+<booktitle>Open Problems in Mathematics and Computational Science</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-10683-0_16</ee>
+<ee>https://www.wikidata.org/entity/Q61603391</ee>
+<crossref>books/sp/K2014</crossref>
+<url>db/books/collections/K2014.html#BarretoBDLMOPR14</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/iacr/MoraisD14" mdate="2020-05-11">
+<author pid="85/3232">Eduardo Morais</author>
+<author pid="79/6780">Ricardo Dahab</author>
+<title>A key recovery attack to the scale-invariant NTRU-based somewhat homomorphic encryption scheme.</title>
+<pages>898</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2014/898</ee>
+<url>db/journals/iacr/iacr2014.html#MoraisD14</url>
+</article>
+</r>
+<r><article key="journals/aaecc/PivaD13" mdate="2019-10-19">
+<author orcid="0000-0002-6520-9767" pid="70/10328">Fabio Piva</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>E-commerce of digital items and the problem of item validation: introducing the concept of reversible degradation.</title>
+<pages>277-308</pages>
+<year>2013</year>
+<volume>24</volume>
+<journal>Appl. Algebra Eng. Commun. Comput.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1007/s00200-013-0197-9</ee>
+<url>db/journals/aaecc/aaecc24.html#PivaD13</url>
+</article>
+</r>
+<r><article key="journals/jss/GalloKD13" mdate="2025-03-03">
+<author orcid="0009-0002-3290-5958" pid="40/8638">Roberto Gallo</author>
+<author pid="41/8638">Henrique Kawakami</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>FORTUNA - A framework for the design and development of hardware-based secure systems.</title>
+<pages>2063-2076</pages>
+<year>2013</year>
+<volume>86</volume>
+<journal>J. Syst. Softw.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/j.jss.2013.03.059</ee>
+<ee>https://www.wikidata.org/entity/Q122898491</ee>
+<url>db/journals/jss/jss86.html#GalloKD13</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEares/CamaraGLD13" mdate="2024-09-25">
+<author pid="99/9086">Danilo F. C&#226;mara</author>
+<author pid="74/7604">Conrado Porto Lopes Gouv&#234;a</author>
+<author pid="l/JulioLopezHernandez">Julio L&#243;pez 0002</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>Fast Software Polynomial Multiplication on ARM Processors Using the NEON Engine.</title>
+<pages>137-154</pages>
+<year>2013</year>
+<booktitle>CD-ARES Workshops</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-40588-4_10</ee>
+<crossref>conf/IEEEares/2013cd-w</crossref>
+<url>db/conf/IEEEares/cd-ares2013w.html#CamaraGLD13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trustcom/GalloKD13" mdate="2025-03-03">
+<author orcid="0009-0002-3290-5958" pid="40/8638">Roberto Gallo</author>
+<author pid="41/8638">Henrique Kawakami</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>Case Study: On the Security of Key Storage on PCs.</title>
+<pages>1645-1651</pages>
+<year>2013</year>
+<booktitle>TrustCom/ISPA/IUCC</booktitle>
+<ee>https://doi.org/10.1109/TrustCom.2013.203</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/TrustCom.2013.203</ee>
+<crossref>conf/trustcom/2013</crossref>
+<url>db/conf/trustcom/trustcom2013.html#GalloKD13</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/cans/2013" mdate="2019-05-14">
+<editor orcid="0000-0002-2447-4329" pid="67/2285">Michel Abdalla</editor>
+<editor pid="n/CristinaNitaRotaru">Cristina Nita-Rotaru</editor>
+<editor pid="79/6780">Ricardo Dahab</editor>
+<title>Cryptology and Network Security - 12th International Conference, CANS 2013, Paraty, Brazil, November 20-22. 2013. Proceedings</title>
+<year>2013</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>8257</volume>
+<ee>https://doi.org/10.1007/978-3-319-02937-5</ee>
+<isbn>978-3-319-02936-8</isbn>
+<booktitle>CANS</booktitle>
+<url>db/conf/cans/cans2013.html</url>
+</proceedings>
+</r>
+<r><article key="journals/comcom/OliveiraAGSCLD11" mdate="2024-09-25">
+<author pid="22/175">Leonardo B. Oliveira</author>
+<author orcid="0000-0002-2457-0783" pid="75/5361">Diego F. Aranha</author>
+<author pid="74/7604">Conrado Porto Lopes Gouv&#234;a</author>
+<author pid="s/MichaelScott">Michael Scott</author>
+<author pid="99/9086">Danilo F. C&#226;mara</author>
+<author pid="l/JulioLopezHernandez">Julio L&#243;pez 0002</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>TinyPBC: Pairings for authenticated identity-based non-interactive key distribution in sensor networks.</title>
+<pages>485-493</pages>
+<year>2011</year>
+<volume>34</volume>
+<journal>Comput. Commun.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.comcom.2010.05.013</ee>
+<url>db/journals/comcom/comcom34.html#OliveiraAGSCLD11</url>
+</article>
+</r>
+<r><inproceedings key="conf/itw/SilvaCD11" mdate="2019-10-19">
+<author pid="54/8343">Rosemberg Silva</author>
+<author pid="71/9671">Antonio C. de A. Campello</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>LWE-based identification schemes.</title>
+<pages>292-296</pages>
+<year>2011</year>
+<booktitle>ITW</booktitle>
+<ee>https://doi.org/10.1109/ITW.2011.6089439</ee>
+<crossref>conf/itw/2011</crossref>
+<url>db/conf/itw/itw2011.html#SilvaCD11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nss/GalloKD11" mdate="2025-03-03">
+<author orcid="0009-0002-3290-5958" pid="40/8638">Roberto Gallo</author>
+<author pid="41/8638">Henrique Kawakami</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>FORTUNA - A probabilistic framework for early design stages of hardware-based secure systems.</title>
+<pages>184-191</pages>
+<year>2011</year>
+<booktitle>NSS</booktitle>
+<ee>https://doi.org/10.1109/ICNSS.2011.6059999</ee>
+<crossref>conf/nss/2011</crossref>
+<url>db/conf/nss/nss2011.html#GalloKD11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/secrypt/PivaD11" mdate="2011-10-27">
+<author pid="70/10328">Fabio Piva</author>
+<author pid="79/6780">Ricardo Dahab</author>
+<title>E-Commerce and Fair Exchange - The Problem of Item Validation.</title>
+<pages>317-324</pages>
+<year>2011</year>
+<booktitle>SECRYPT</booktitle>
+<crossref>conf/secrypt/2011</crossref>
+<url>db/conf/secrypt/secrypt2011.html#PivaD11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1109-0631" mdate="2018-08-13">
+<author pid="54/8343">Rosemberg Silva</author>
+<author pid="71/9671">Antonio Campello</author>
+<author pid="79/6780">Ricardo Dahab</author>
+<title>LWE-based Identification Schemes</title>
+<ee type="oa">http://arxiv.org/abs/1109.0631</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1109.0631</volume>
+<url>db/journals/corr/corr1109.html#abs-1109-0631</url>
+</article>
+</r>
+<r><article key="journals/amco/AranhaDLO10" mdate="2024-09-25">
+<author orcid="0000-0002-2457-0783" pid="75/5361">Diego F. Aranha</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<author pid="l/JulioLopezHernandez">Julio L&#243;pez 0002</author>
+<author pid="22/175">Leonardo B. Oliveira</author>
+<title>Efficient implementation of elliptic curve cryptography in wireless sensors.</title>
+<pages>169-187</pages>
+<year>2010</year>
+<volume>4</volume>
+<journal>Adv. Math. Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.3934/amc.2010.4.169</ee>
+<url>db/journals/amco/amco4.html#AranhaDLO10</url>
+</article>
+</r>
+<r><inproceedings key="conf/acsac/GalloKDALA10" mdate="2025-03-03">
+<author orcid="0009-0002-3290-5958" pid="40/8638">Roberto Gallo</author>
+<author pid="41/8638">Henrique Kawakami</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<author orcid="0000-0003-2064-034X" pid="19/8918">Rafael Azevedo</author>
+<author pid="42/8913">Saulo Lima</author>
+<author pid="a/GuidoAraujo">Guido Araujo</author>
+<title>T-DRE: a hardware trusted computing base for direct recording electronic vote machines.</title>
+<pages>191-198</pages>
+<year>2010</year>
+<booktitle>ACSAC</booktitle>
+<ee>https://doi.org/10.1145/1920261.1920291</ee>
+<crossref>conf/acsac/2010</crossref>
+<url>db/conf/acsac/acsac2010.html#GalloKDALA10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europki/GalloKD09" mdate="2025-03-03">
+<author orcid="0009-0002-3290-5958" pid="40/8638">Roberto Gallo</author>
+<author pid="41/8638">Henrique Kawakami</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>On Device Identity Establishment and Verification.</title>
+<pages>130-145</pages>
+<year>2009</year>
+<booktitle>EuroPKI</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-16441-5_9</ee>
+<crossref>conf/europki/2009</crossref>
+<url>db/conf/europki/europki2009.html#GalloKD09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/MagalhaesD09" mdate="2019-10-19">
+<author pid="72/7881">Karina Magalh&#227;es</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>SB-RAWVec - A Semi-Blind Watermarking Method for Vector Maps.</title>
+<pages>1-6</pages>
+<year>2009</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2009.5199433</ee>
+<crossref>conf/icc/2009</crossref>
+<url>db/conf/icc/icc2009.html#MagalhaesD09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ewsn/SzczechowiakOSCD08" mdate="2019-10-19">
+<author pid="36/3835">Piotr Szczechowiak</author>
+<author pid="22/175">Leonardo B. Oliveira</author>
+<author pid="s/MichaelScott">Michael Scott</author>
+<author orcid="0000-0002-6410-3899" pid="83/6296">Martin Collier</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>NanoECC: Testing the Limits of Elliptic Curve Cryptography in Sensor Networks.</title>
+<pages>305-320</pages>
+<year>2008</year>
+<crossref>conf/ewsn/2008</crossref>
+<booktitle>EWSN</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-77690-1_19</ee>
+<url>db/conf/ewsn/ewsn2008.html#SzczechowiakOSCD08</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijsn/OliveiraWLD07" mdate="2020-04-01">
+<author pid="22/175">Leonardo B. Oliveira</author>
+<author pid="59/6326">Hao Chi Wong</author>
+<author pid="l/AntonioAlfredoFerreiraLoureiro">Antonio Alfredo Ferreira Loureiro</author>
+<author pid="79/6780">Ricardo Dahab</author>
+<title>On the design of secure protocols for hierarchical sensor networks.</title>
+<pages>216-227</pages>
+<year>2007</year>
+<volume>2</volume>
+<journal>Int. J. Secur. Networks</journal>
+<number>3/4</number>
+<ee>https://doi.org/10.1504/IJSN.2007.013175</ee>
+<url>db/journals/ijsn/ijsn2.html#OliveiraWLD07</url>
+</article>
+</r>
+<r><article key="journals/sigpro/OliveiraFVWBDL07" mdate="2020-02-22">
+<author pid="22/175">Leonardo B. Oliveira</author>
+<author pid="29/2968">Adrian Carlos Ferreira</author>
+<author pid="84/3292">Marcos Aur&#233;lio Vila&#231;a</author>
+<author pid="59/6326">Hao Chi Wong</author>
+<author pid="b/MWBern">Marshall W. Bern</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<author pid="l/AntonioAlfredoFerreiraLoureiro">Antonio Alfredo Ferreira Loureiro</author>
+<title>SecLEACH - On the security of clustered sensor networks.</title>
+<pages>2882-2895</pages>
+<year>2007</year>
+<volume>87</volume>
+<journal>Signal Process.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1016/j.sigpro.2007.05.016</ee>
+<url>db/journals/sigpro/sigpro87.html#OliveiraFVWBDL07</url>
+</article>
+</r>
+<r><article key="journals/vlsisp/JuliatoALD07" mdate="2024-09-25">
+<author pid="81/4011">Marcio Juliato</author>
+<author pid="a/GuidoAraujo">Guido Araujo</author>
+<author pid="l/JulioLopezHernandez">Julio L&#243;pez 0002</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>A Custom Instruction Approach for Hardware and Software Implementations of Finite Field Arithmetic over F<sub>2<sup>163</sup></sub> using Gaussian Normal Bases.</title>
+<pages>59-76</pages>
+<year>2007</year>
+<volume>47</volume>
+<journal>J. VLSI Signal Process.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11265-006-0015-8</ee>
+<url>db/journals/vlsisp/vlsisp47.html#JuliatoALD07</url>
+</article>
+</r>
+<r><inproceedings key="conf/nca/OliveiraAMDLD07" mdate="2024-09-25">
+<author pid="22/175">Leonardo B. Oliveira</author>
+<author orcid="0000-0002-2457-0783" pid="75/5361">Diego F. Aranha</author>
+<author pid="85/3232">Eduardo Morais</author>
+<author pid="60/1856">Felipe Daguano</author>
+<author pid="l/JulioLopezHernandez">Julio L&#243;pez 0002</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>TinyTate: Computing the Tate Pairing in Resource-Constrained Sensor Nodes.</title>
+<pages>318-323</pages>
+<year>2007</year>
+<crossref>conf/nca/2007</crossref>
+<booktitle>NCA</booktitle>
+<ee>https://doi.org/10.1109/NCA.2007.48</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/NCA.2007.48</ee>
+<url>db/conf/nca/nca2007.html#OliveiraAMDLD07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pairing/DevegiliSD07" mdate="2019-10-19">
+<author pid="31/5270">Augusto Jun Devegili</author>
+<author pid="s/MichaelScott">Michael Scott</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>Implementing Cryptographic Pairings over Barreto-Naehrig Curves.</title>
+<pages>197-207</pages>
+<year>2007</year>
+<crossref>conf/pairing/2007</crossref>
+<booktitle>Pairing</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73489-5_10</ee>
+<url>db/conf/pairing/pairing2007.html#DevegiliSD07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/percom/OliveiraDLDL07" mdate="2024-09-25">
+<author pid="22/175">Leonardo B. Oliveira</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<author pid="l/JulioLopezHernandez">Julio L&#243;pez 0002</author>
+<author pid="60/1856">Felipe Daguano</author>
+<author pid="l/AntonioAlfredoFerreiraLoureiro">Antonio Alfredo Ferreira Loureiro</author>
+<title>Identity-Based Encryption for Sensor Networks.</title>
+<pages>290-294</pages>
+<year>2007</year>
+<crossref>conf/percom/2007w</crossref>
+<booktitle>PerCom Workshops</booktitle>
+<ee>https://doi.org/10.1109/PERCOMW.2007.56</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PERCOMW.2007.56</ee>
+<url>db/conf/percom/percomw2007.html#OliveiraDLDL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/percom/OliveiraLD07" mdate="2023-03-24">
+<author pid="22/175">Leonardo B. Oliveira</author>
+<author pid="l/AntonioAlfredoFerreiraLoureiro">Antonio Alfredo Ferreira Loureiro</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>SOS: Secure Overlay Sensornets.</title>
+<pages>548-553</pages>
+<year>2007</year>
+<crossref>conf/percom/2007w</crossref>
+<booktitle>PerCom Workshops</booktitle>
+<ee>https://doi.org/10.1109/PERCOMW.2007.107</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PERCOMW.2007.107</ee>
+<url>db/conf/percom/percomw2007.html#OliveiraLD07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/provsec/CastroD07" mdate="2017-05-21">
+<author pid="60/815">Rafael Castro</author>
+<author pid="79/6780">Ricardo Dahab</author>
+<title>Two Notes on the Security of Certificateless Signatures.</title>
+<pages>85-102</pages>
+<year>2007</year>
+<crossref>conf/provsec/2007</crossref>
+<booktitle>ProvSec</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-75670-5_6</ee>
+<url>db/conf/provsec/provsec2007.html#CastroD07</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/OliveiraAMDLD07" mdate="2024-09-25">
+<author pid="22/175">Leonardo B. Oliveira</author>
+<author pid="75/5361">Diego F. Aranha</author>
+<author pid="85/3232">Eduardo Morais</author>
+<author pid="60/1856">Felipe Daguano</author>
+<author pid="l/JulioLopezHernandez">Julio L&#243;pez 0002</author>
+<author pid="79/6780">Ricardo Dahab</author>
+<title>TinyTate: Identity-Based Encryption for Sensor Networks.</title>
+<pages>20</pages>
+<year>2007</year>
+<volume>2007</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2007/020</ee>
+<url>db/journals/iacr/iacr2007.html#OliveiraAMDLD07</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/DevegiliSD07" mdate="2020-05-11">
+<author pid="31/5270">Augusto Jun Devegili</author>
+<author pid="s/MichaelScott">Michael Scott</author>
+<author pid="79/6780">Ricardo Dahab</author>
+<title>Implementing Cryptographic Pairings over Barreto-Naehrig Curves.</title>
+<pages>390</pages>
+<year>2007</year>
+<volume>2007</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2007/390</ee>
+<url>db/journals/iacr/iacr2007.html#DevegiliSD07</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/CastroD07a" mdate="2020-05-11">
+<author pid="60/815">Rafael Castro</author>
+<author pid="79/6780">Ricardo Dahab</author>
+<title>Efficient Certificateless Signatures Suitable for Aggregation.</title>
+<pages>454</pages>
+<year>2007</year>
+<volume>2007</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2007/454</ee>
+<url>db/journals/iacr/iacr2007.html#CastroD07a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/OliveiraSLD07" mdate="2024-09-25">
+<author pid="22/175">Leonardo B. Oliveira</author>
+<author pid="s/MichaelScott">Michael Scott</author>
+<author pid="l/JulioLopezHernandez">Julio L&#243;pez 0002</author>
+<author pid="79/6780">Ricardo Dahab</author>
+<title>TinyPBC: Pairings for Authenticated Identity-Based Non-Interactive Key Distribution in Sensor Networks.</title>
+<pages>482</pages>
+<year>2007</year>
+<volume>2007</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2007/482</ee>
+<url>db/journals/iacr/iacr2007.html#OliveiraSLD07</url>
+</article>
+</r>
+<r><article key="journals/tc/DahabHHLLM06" mdate="2024-09-25">
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<author pid="73/4476">Darrel Hankerson</author>
+<author pid="92/1299">Fei Hu</author>
+<author pid="46/2485">Men Long</author>
+<author pid="l/JulioLopezHernandez">Julio L&#243;pez 0002</author>
+<author pid="61/3962">Alfred Menezes</author>
+<title>Software Multiplication Using Gaussian Normal Bases.</title>
+<pages>974-984</pages>
+<year>2006</year>
+<volume>55</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TC.2006.132</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2006.132</ee>
+<url>db/journals/tc/tc55.html#DahabHHLLM06</url>
+</article>
+</r>
+<r><inproceedings key="conf/itw/LopezD06" mdate="2024-09-25">
+<author pid="l/JulioLopezHernandez">Julio L&#243;pez 0002</author>
+<author pid="79/6780">Ricardo Dahab</author>
+<title>New Point Compression Algorithms for Binary Curves.</title>
+<pages>126-130</pages>
+<year>2006</year>
+<booktitle>ITW</booktitle>
+<ee>https://doi.org/10.1109/ITW.2006.1633795</ee>
+<crossref>conf/itw/2006</crossref>
+<url>db/conf/itw/itw2006.html#LopezD06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nca/OliveiraWBDL06" mdate="2023-03-23">
+<author pid="22/175">Leonardo B. Oliveira</author>
+<author pid="59/6326">Hao Chi Wong</author>
+<author pid="b/MWBern">Marshall W. Bern</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<author pid="l/AntonioAlfredoFerreiraLoureiro">Antonio Alfredo Ferreira Loureiro</author>
+<title>SecLEACH - A Random Key Distribution Solution for Securing Clustered Sensor Networks.</title>
+<pages>145-154</pages>
+<year>2006</year>
+<crossref>conf/nca/2006</crossref>
+<booktitle>NCA</booktitle>
+<ee>https://doi.org/10.1109/NCA.2006.48</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/NCA.2006.48</ee>
+<url>db/conf/nca/nca2006.html#OliveiraWBDL06</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/DevegiliOSD06" mdate="2020-05-11">
+<author pid="31/5270">Augusto Jun Devegili</author>
+<author pid="43/10756">Colm O'hEigeartaigh</author>
+<author pid="s/MichaelScott">Michael Scott</author>
+<author pid="79/6780">Ricardo Dahab</author>
+<title>Multiplication and Squaring on Pairing-Friendly Fields.</title>
+<pages>471</pages>
+<year>2006</year>
+<volume>2006</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">http://eprint.iacr.org/2006/471</ee>
+<url>db/journals/iacr/iacr2006.html#DevegiliOSD06</url>
+</article>
+</r>
+<r><article key="journals/arscom/SilvaD05" mdate="2006-05-23">
+<author pid="06/3823">Candida Nunes da Silva</author>
+<author pid="79/6780">Ricardo Dahab</author>
+<title>3-flow Conjecture and Matchings in Bipartite Graphs.</title>
+<year>2005</year>
+<volume>76</volume>
+<journal>Ars Comb.</journal>
+<url>db/journals/arscom/arscom76.html#SilvaD05</url>
+</article>
+</r>
+<r><inproceedings key="conf/fpt/JuliatoALD05" mdate="2020-08-12">
+<author pid="81/4011">Marcio Juliato</author>
+<author pid="a/GuidoAraujo">Guido Araujo</author>
+<author pid="l/JulioLopezHernandez">Julio C&#233;sar L&#243;pez-Hern&#225;ndez</author>
+<author pid="79/6780">Ricardo Dahab</author>
+<title>A custom instruction approach for hardware and software implementations of finite field arithmetic over F<sub>2<sup>63</sup></sub> using Gaussian normal bases.</title>
+<pages>5-12</pages>
+<year>2005</year>
+<crossref>conf/fpt/2005</crossref>
+<booktitle>FPT</booktitle>
+<url>db/conf/fpt/fpt2005.html#JuliatoALD05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mata/FerreiraD04" mdate="2017-05-25">
+<author pid="f/LucasCFerreira">Lucas C. Ferreira</author>
+<author pid="79/6780">Ricardo Dahab</author>
+<title>Optimistic Blinded-Key Signatures for ElGamal and Related Schemes.</title>
+<pages>254-263</pages>
+<ee>https://doi.org/10.1007/978-3-540-30178-3_24</ee>
+<year>2004</year>
+<crossref>conf/mata/2004</crossref>
+<booktitle>MATA</booktitle>
+<url>db/conf/mata/mata2004.html#FerreiraD04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isw/MonteiroD02" mdate="2017-05-21">
+<author pid="38/1324">Jos&#233; R. M. Monteiro</author>
+<author pid="79/6780">Ricardo Dahab</author>
+<title>An Attack on a Protocol for Certified Delivery.</title>
+<pages>428-436</pages>
+<year>2002</year>
+<crossref>conf/isw/2002</crossref>
+<booktitle>ISC</booktitle>
+<ee>https://doi.org/10.1007/3-540-45811-5_33</ee>
+<url>db/conf/isw/isc2002.html#MonteiroD02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/FerreiraD02" mdate="2018-11-06">
+<author pid="f/LucasCFerreira">Lucas C. Ferreira</author>
+<author pid="79/6780">Ricardo Dahab</author>
+<title>Blinded-key signatures: securing private keys embedded in mobile agents.</title>
+<pages>82-86</pages>
+<year>2002</year>
+<crossref>conf/sac/2002</crossref>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/508791.508808</ee>
+<url>db/conf/sac/sac2002.html#FerreiraD02</url>
+</inproceedings>
+</r>
+<r><article key="journals/endm/SilvaD01" mdate="2023-10-22">
+<author pid="06/3823">Candida Nunes da Silva</author>
+<author pid="79/6780">Ricardo Dahab</author>
+<title>Tutte's 3-flow Conjecture and Matchings in Bipartite Graphs.</title>
+<pages>114-117</pages>
+<year>2001</year>
+<volume>7</volume>
+<journal>Electron. Notes Discret. Math.</journal>
+<ee>https://doi.org/10.1016/S1571-0653(04)00238-0</ee>
+<ee>https://www.wikidata.org/entity/Q122902875</ee>
+<url>db/journals/endm/endm7.html#SilvaD01</url>
+</article>
+</r>
+<r><inproceedings key="conf/indocrypt/LopezD00" mdate="2024-09-25">
+<author pid="l/JulioLopezHernandez">Julio L&#243;pez 0002</author>
+<author pid="79/6780">Ricardo Dahab</author>
+<title>High-Speed Software Multiplication in F<sub>2m</sub>.</title>
+<pages>203-212</pages>
+<ee>https://doi.org/10.1007/3-540-44495-5_18</ee>
+<year>2000</year>
+<crossref>conf/indocrypt/2000</crossref>
+<booktitle>INDOCRYPT</booktitle>
+<url>db/conf/indocrypt/indocrypt2000.html#LopezD00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wecwis/FerreiraDAM00" mdate="2023-03-24">
+<author pid="f/LucasCFerreira">Lucas C. Ferreira</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<author pid="63/4961">Marcus Poggi de Arag&#227;o</author>
+<author pid="73/2503">Jo&#227;o A. P. Magalh&#227;es</author>
+<title>Two Approaches for Pay-per-Use Software Construction.</title>
+<pages>184-191</pages>
+<year>2000</year>
+<crossref>conf/wecwis/2000</crossref>
+<booktitle>WECWIS</booktitle>
+<ee>https://doi.org/10.1109/WECWIS.2000.853874</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WECWIS.2000.853874</ee>
+<url>db/conf/wecwis/wecwis2000.html#FerreiraDAM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ches/LopezD99" mdate="2024-09-25">
+<author pid="l/JulioLopezHernandez">Julio L&#243;pez 0002</author>
+<author pid="79/6780">Ricardo Dahab</author>
+<title>Fast Multiplication on Elliptic Curves over GF(2<sup>m</sup>) without Precomputation.</title>
+<pages>316-327</pages>
+<ee>https://doi.org/10.1007/3-540-48059-5_27</ee>
+<year>1999</year>
+<crossref>conf/ches/1999</crossref>
+<booktitle>CHES</booktitle>
+<url>db/conf/ches/ches1999.html#LopezD99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acsac/FerreiraD98" mdate="2023-03-23">
+<author pid="f/LucasCFerreira">Lucas C. Ferreira</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>A Scheme for Analyzing Electronic Payment Systems.</title>
+<pages>137-146</pages>
+<year>1998</year>
+<crossref>conf/acsac/1998</crossref>
+<booktitle>ACSAC</booktitle>
+<ee>https://doi.org/10.1109/CSAC.1998.738600</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CSAC.1998.738600</ee>
+<url>db/conf/acsac/acsac1998.html#FerreiraD98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sacrypt/LopezD98" mdate="2024-09-25">
+<author pid="l/JulioLopezHernandez">Julio L&#243;pez 0002</author>
+<author pid="79/6780">Ricardo Dahab</author>
+<title>Improved Algorithms for Elliptic Curve Arithmetic in GF(2<sup>n</sup>).</title>
+<pages>201-212</pages>
+<ee>https://doi.org/10.1007/3-540-48892-8_16</ee>
+<year>1998</year>
+<crossref>conf/sacrypt/1998</crossref>
+<booktitle>Selected Areas in Cryptography</booktitle>
+<url>db/conf/sacrypt/sacrypt1998.html#LopezD98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/BragaRD98" mdate="2024-01-16">
+<author pid="92/6995">Alexandre Melo Braga</author>
+<author pid="80/5752">Cec&#237;lia M. F. Rubira</author>
+<author pid="79/6780">Ricardo Dahab</author>
+<title>Um Sistema de Padr&#245;es para Software Criptogr&#225;fico Orientado a Objetos.</title>
+<pages>171-186</pages>
+<year>1998</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.1998.24026</ee>
+<crossref>conf/sbes/1998</crossref>
+<url>db/conf/sbes/sbes1998.html#BragaRD98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sccc/LopezD98" mdate="2024-09-25">
+<author pid="l/JulioLopezHernandez">Julio L&#243;pez 0002</author>
+<author orcid="0000-0002-7002-875X" pid="79/6780">Ricardo Dahab</author>
+<title>An Improvement of the Guajardo-Paar Method for Multiplication on Non-Supersingular Elliptic Curves.</title>
+<pages>91-95</pages>
+<year>1998</year>
+<crossref>conf/sccc/1998</crossref>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.1998.730787</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCCC.1998.730787</ee>
+<url>db/conf/sccc/sccc1998.html#LopezD98</url>
+</inproceedings>
+</r>
+<coauthors n="71" nc="2">
+<co c="0"><na f="a/Abdalla:Michel" pid="67/2285">Michel Abdalla</na></co>
+<co c="0"><na f="a/Antunes:Nuno" pid="97/7524">Nuno Antunes</na></co>
+<co c="1"><na f="a/Arag=atilde=o:Marcus_Poggi_de" pid="63/4961">Marcus Poggi de Arag&#227;o</na></co>
+<co c="0"><na f="a/Aranha:Diego_F=" pid="75/5361">Diego F. Aranha</na></co>
+<co c="0"><na f="a/Araujo:Guido" pid="a/GuidoAraujo">Guido Araujo</na></co>
+<co c="0"><na f="a/Araujo:Robson_R=_de" pid="218/7159">Robson R. de Araujo</na></co>
+<co c="0"><na f="a/Azevedo:Rafael" pid="19/8918">Rafael Azevedo</na></co>
+<co c="0"><na f="b/Barreto:Paulo_S=_L=_M=" pid="62/1810">Paulo S. L. M. Barreto</na></co>
+<co c="0"><na f="b/Bern:Marshall_W=" pid="b/MWBern">Marshall W. Bern</na></co>
+<co c="0" n="2"><na f="b/Biasi:Felipe_P=" pid="123/4673">Felipe P. Biasi</na><na>Felipe Piazza Biasi</na></co>
+<co c="0"><na f="b/Braga:Alexandre_Melo" pid="92/6995">Alexandre Melo Braga</na></co>
+<co c="0"><na f="c/C=acirc=mara:Danilo_F=" pid="99/9086">Danilo F. C&#226;mara</na></co>
+<co c="0" n="3"><na f="c/Campello_Jr=:Antonio_C=_de_A=" pid="71/9671">Antonio C. de A. Campello Jr.</na><na>Antonio C. de A. Campello</na><na>Antonio Campello</na></co>
+<co c="-1"><na f="c/Castro:Rafael" pid="60/815">Rafael Castro</na></co>
+<co c="0"><na f="c/Collier:Martin" pid="83/6296">Martin Collier</na></co>
+<co c="0" n="2"><na f="c/Costa:Sueli_I=_Rodrigues" pid="03/3887">Sueli I. Rodrigues Costa</na><na>Sueli I. R. Costa</na></co>
+<co c="0"><na f="d/Daguano:Felipe" pid="60/1856">Felipe Daguano</na></co>
+<co c="0"><na f="d/Devegili:Augusto_Jun" pid="31/5270">Augusto Jun Devegili</na></co>
+<co c="0"><na f="f/Faz=Hern=aacute=ndez:Armando" pid="49/10243">Armando Faz-Hern&#225;ndez</na></co>
+<co c="0"><na f="f/Ferreira:Adrian_Carlos" pid="29/2968">Adrian Carlos Ferreira</na></co>
+<co c="1"><na f="f/Ferreira:Lucas_C=" pid="f/LucasCFerreira">Lucas C. Ferreira</na></co>
+<co c="0"><na f="f/Fujii:Hayato" pid="209/5837">Hayato Fujii</na></co>
+<co c="0"><na f="g/Galbraith:Steven_D=" pid="77/5607">Steven D. Galbraith</na></co>
+<co c="0"><na f="g/Gallo:Roberto" pid="40/8638">Roberto Gallo</na></co>
+<co c="0"><na f="g/Galv=atilde=o:Kaio" pid="164/7345">Kaio Galv&#227;o</na></co>
+<co c="0"><na f="g/Gouv=ecirc=a:Conrado_Porto_Lopes" pid="74/7604">Conrado Porto Lopes Gouv&#234;a</na></co>
+<co c="0" n="2"><na f="g/Gr=eacute=gio:Andr=eacute=_Ricardo_Abed" pid="115/4570">Andr&#233; Ricardo Abed Gr&#233;gio</na><na>Andr&#233; Gr&#233;gio</na></co>
+<co c="0"><na f="h/Hankerson:Darrel" pid="73/4476">Darrel Hankerson</na></co>
+<co c="0"><na f="h/Hongo:Patricia" pid="164/7478">Patricia Hongo</na></co>
+<co c="0"><na f="h/Hu:Fei" pid="92/1299">Fei Hu</na></co>
+<co c="0"><na f="j/Juliato:Marcio" pid="81/4011">Marcio Juliato</na></co>
+<co c="0"><na f="j/Junquera:Glauco_Barroso" pid="157/5989">Glauco Barroso Junquera</na></co>
+<co c="0"><na f="k/Kawakami:Henrique" pid="41/8638">Henrique Kawakami</na></co>
+<co c="0"><na f="l/Laranjeiro:Nuno" pid="56/6126">Nuno Laranjeiro</na></co>
+<co c="0"><na f="l/Lima:Saulo" pid="42/8913">Saulo Lima</na></co>
+<co c="0"><na f="l/Long:Men" pid="46/2485">Men Long</na></co>
+<co c="0" n="2"><na f="l/L=oacute=pez_0002:Julio" pid="l/JulioLopezHernandez">Julio L&#243;pez 0002</na><na>Julio C&#233;sar L&#243;pez-Hern&#225;ndez</na></co>
+<co c="0"><na f="l/Loureiro:Antonio_Alfredo_Ferreira" pid="l/AntonioAlfredoFerreiraLoureiro">Antonio Alfredo Ferreira Loureiro</na></co>
+<co c="1"><na f="m/Magalh=atilde=es:Jo=atilde=o_A=_P=" pid="73/2503">Jo&#227;o A. P. Magalh&#227;es</na></co>
+<co c="0"><na f="m/Menezes:Alfred" pid="61/3962">Alfred Menezes</na></co>
+<co c="0" n="2"><na f="m/Mochetti:Karina" pid="72/7881">Karina Mochetti</na><na>Karina Magalh&#227;es</na></co>
+<co c="-1"><na f="m/Monteiro:Jos=eacute=_R=_M=" pid="38/1324">Jos&#233; R. M. Monteiro</na></co>
+<co c="0" n="2"><na f="m/Morais:Eduardo" pid="85/3232">Eduardo Morais</na><na>Eduardo M. de Morais</na></co>
+<co c="0"><na f="n/Nascimento:Erick" pid="168/4841">Erick Nascimento</na></co>
+<co c="0"><na f="n/Navarro:Alexandre_K=_W=" pid="195/8260">Alexandre K. W. Navarro</na></co>
+<co c="0"><na f="n/Navarro:Luiz_C=" pid="164/7337">Luiz C. Navarro</na></co>
+<co c="0"><na f="n/Nita=Rotaru:Cristina" pid="n/CristinaNitaRotaru">Cristina Nita-Rotaru</na></co>
+<co c="0"><na f="o/O=hEigeartaigh:Colm" pid="43/10756">Colm O'hEigeartaigh</na></co>
+<co c="0"><na f="o/Oliveira:Ana_Karina_D=_S=_de" pid="166/9170">Ana Karina D. S. de Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Leonardo_B=" pid="22/175">Leonardo B. Oliveira</na></co>
+<co c="0"><na f="o/Ortiz:Jheyne_N=" pid="218/7237">Jheyne N. Ortiz</na></co>
+<co c="0"><na f="o/Ott:David" pid="49/219">David Ott</na></co>
+<co c="0"><na f="p/Pereira:Geovandro_C=_C=_F=" pid="68/9385">Geovandro C. C. F. Pereira</na></co>
+<co c="-1"><na f="p/Peres:L=eacute=o_Vieira" pid="311/0229">L&#233;o Vieira Peres</na></co>
+<co c="-1"><na f="p/Piva:Fabio" pid="70/10328">Fabio Piva</na></co>
+<co c="0"><na f="r/Ribeiro:Luander" pid="164/7437">Luander Ribeiro</na></co>
+<co c="0"><na f="r/Ricardini:Jefferson_E=" pid="135/8074">Jefferson E. Ricardini</na></co>
+<co c="0"><na f="r/Rocha_0001:Anderson" pid="81/2446">Anderson Rocha 0001</na></co>
+<co c="0"><na f="r/Rodrigues:F=eacute=lix_Carvalho" pid="186/3754">F&#233;lix Carvalho Rodrigues</na></co>
+<co c="0"><na f="r/Rodrigues:Gustavo_Eloi_de_Paula" pid="286/7127">Gustavo Eloi de Paula Rodrigues</na></co>
+<co c="0"><na f="r/Rubira:Cec=iacute=lia_M=_F=" pid="80/5752">Cec&#237;lia M. F. Rubira</na></co>
+<co c="0"><na f="s/Scott:Michael" pid="s/MichaelScott">Michael Scott</na></co>
+<co c="0"><na f="s/Serpa:Ana_Clara_Zoppi" pid="248/6634">Ana Clara Zoppi Serpa</na></co>
+<co c="0"><na f="s/Sider:Giuliano" pid="248/6641">Giuliano Sider</na></co>
+<co c="-1"><na f="s/Silva:Candida_Nunes_da" pid="06/3823">Candida Nunes da Silva</na></co>
+<co c="0"><na f="s/Silva:Jo=atilde=o_Paulo_da" pid="272/2151">Jo&#227;o Paulo da Silva</na></co>
+<co c="0"><na f="s/Silva:Rosemberg" pid="54/8343">Rosemberg Silva</na></co>
+<co c="0"><na f="s/Szczechowiak:Piotr" pid="36/3835">Piotr Szczechowiak</na></co>
+<co c="0"><na f="v/Vieira:Marco" pid="14/6260">Marco Vieira</na></co>
+<co c="0"><na f="v/Vila=ccedil=a:Marcos_Aur=eacute=lio" pid="84/3292">Marcos Aur&#233;lio Vila&#231;a</na></co>
+<co c="0"><na f="w/Wong:Hao_Chi" pid="59/6326">Hao Chi Wong</na></co>
+</coauthors>
+</dblpperson>
+

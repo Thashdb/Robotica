@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Rita Suzana Pitangueira Maciel" pid="11/2049" n="90">
+<dblpperson name="Rita Suzana Pitangueira Maciel" pid="11/2049" n="93">
 <person key="homepages/11/2049" mdate="2025-01-10">
 <author pid="11/2049">Rita Suzana Pitangueira Maciel</author>
 <url>https://orcid.org/0000-0003-3159-6065</url>
@@ -36,6 +36,50 @@
 <url>db/journals/jss/jss219.html#PinheiroFMMKCS25</url>
 <stream>streams/journals/jss</stream>
 </article>
+</r>
+<r><inproceedings key="conf/sbsi/ProenciaMMCM25" mdate="2025-06-06">
+<author pid="266/3584">Edlane Cristine dos Santos Proencia</author>
+<author pid="231/4378">Ana Patr&#237;cia Fontes Magalh&#227;es Mascarenhas</author>
+<author pid="266/3455">Babacar Mane</author>
+<author pid="86/2938">Daniela Barreiro Claro</author>
+<author pid="11/2049">Rita Suzana Pitangueira Maciel</author>
+<title>Organizational Interoperability: A Systematic Mapping Study.</title>
+<pages>280-289</pages>
+<year>2025</year>
+<booktitle>SBSI</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbsi.2025.246474</ee>
+<crossref>conf/sbsi/2025</crossref>
+<url>db/conf/sbsi/sbsi2025.html#ProenciaMMCM25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/AraujoVMCVS25" mdate="2025-06-06">
+<author pid="148/4956">Allysson Allex Ara&#250;jo</author>
+<author pid="117/5583">Davi Viana</author>
+<author pid="11/2049">Rita Suzana Pitangueira Maciel</author>
+<author pid="233/5351">M&#244;nica Ximenes Carneiro da Cunha</author>
+<author pid="67/4885">George Valen&#231;a</author>
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<title>Front Matter.</title>
+<pages>i-xxv</pages>
+<year>2025</year>
+<booktitle>SBSI</booktitle>
+<ee>https://sol.sbc.org.br/index.php/sbsi/article/view/34314</ee>
+<crossref>conf/sbsi/2025</crossref>
+<url>db/conf/sbsi/sbsi2025.html#AraujoVMCVS25</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sbsi/2025" mdate="2025-06-06">
+<editor pid="233/5351">M&#244;nica Ximenes Carneiro da Cunha</editor>
+<editor pid="117/5583">Davi Viana</editor>
+<editor pid="11/2049">Rita Suzana Pitangueira Maciel</editor>
+<editor pid="148/4956">Allysson Allex Ara&#250;jo</editor>
+<title>Proceedings of the 21st Brazilian Symposium on Information Systems, SBSI 2025, Recife, Brazil, May 19-23, 2025</title>
+<booktitle>SBSI</booktitle>
+<publisher>SBC</publisher>
+<year>2025</year>
+<ee type="oa">https://doi.org/10.5753/sbsi.2025</ee>
+<url>db/conf/sbsi/sbsi2025.html</url>
+</proceedings>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-2503-17976" mdate="2025-04-15">
 <author pid="402/2934">Marcelo Pereira Barbosa</author>
@@ -717,9 +761,9 @@
 <url>db/conf/sbes/sbes2016.html#MagalhaesAM16</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sbsi/BittencourtPM16" mdate="2022-05-04">
+<r><inproceedings key="conf/sbsi/BittencourtPM16" mdate="2025-06-06">
 <author pid="266/3501">Joao Pedro Bittencourt</author>
-<author pid="266/3584">Edlane Proencia</author>
+<author pid="266/3584">Edlane Cristine dos Santos Proencia</author>
 <author pid="11/2049">Rita Suzana Pitangueira Maciel</author>
 <title>Modelando Servi&#231;os a partir de Processos de Neg&#243;cio: Uma Abordagem Dirigida a Modelos [Service Modeling from Business Process: A Model-Driven Approach].</title>
 <pages>293-300</pages>
@@ -1266,10 +1310,11 @@
 <url>db/conf/iastedSEA/iastedSEA2004.html#MacielFR04</url>
 </inproceedings>
 </r>
-<coauthors n="106" nc="3">
+<coauthors n="111" nc="3">
 <co c="0"><na f="a/Almeida:Thiago_R=_de" pid="11/9936">Thiago R. de Almeida</na></co>
 <co c="0" n="2"><na f="a/Andrade:Aline" pid="50/915">Aline Andrade</na><na>Aline Maria Santos Andrade</na></co>
 <co c="0"><na f="a/Antkiewicz:Michal" pid="24/6636">Michal Antkiewicz</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Allysson_Allex" pid="148/4956">Allysson Allex Ara&#250;jo</na></co>
 <co c="0"><na f="a/Argolo:Aline" pid="375/9747">Aline Argolo</na></co>
 <co c="0"><na f="a/Arize:Diego" pid="133/4312">Diego Arize</na></co>
 <co c="0"><na f="a/Azevedo:Sofia" pid="15/7514">Sofia Azevedo</na></co>
@@ -1291,6 +1336,7 @@
 <co c="0"><na f="c/Codabux:Zadia" pid="150/3264">Zadia Codabux</na></co>
 <co c="0"><na f="c/Conceicao:Renato" pid="51/9937">Renato Conceicao</na></co>
 <co c="0"><na f="c/Correal:Dar=iacute=o" pid="64/4496">Dar&#237;o Correal</na></co>
+<co c="0" n="2"><na f="c/Cunha:M=ocirc=nica_X=_C=" pid="233/5351">M&#244;nica X. C. Cunha</na><na>M&#244;nica Ximenes Carneiro da Cunha</na></co>
 <co c="0"><na f="c/Czarnecki_0001:Krzysztof" pid="72/6806">Krzysztof Czarnecki 0001</na></co>
 <co c="0"><na f="d/David:Jos=eacute=_Maria_N=" pid="63/4089">Jos&#233; Maria N. David</na></co>
 <co c="0"><na f="f/Falessi:Davide" pid="89/536">Davide Falessi</na></co>
@@ -1335,7 +1381,7 @@
 <co c="0" n="2"><na f="p/Perez:Boris" pid="37/10925">Boris Perez</na><na>Boris P&#233;rez</na></co>
 <co c="0" n="2"><na f="p/Pinheiro:Larissa_Barbosa_L=" pid="282/5483">Larissa Barbosa L. Pinheiro</na><na>Larissa Barbosa Leoncio Pinheiro</na></co>
 <co c="0"><na f="p/Pitangueira:Ant=ocirc=nio_Mauricio" pid="133/2160">Ant&#244;nio Mauricio Pitangueira</na></co>
-<co c="0"><na f="p/Proencia:Edlane" pid="266/3584">Edlane Proencia</na></co>
+<co c="0"><na f="p/Proencia:Edlane_Cristine_dos_Santos" pid="266/3584">Edlane Cristine dos Santos Proencia</na></co>
 <co c="0"><na f="q/Queiroz:Jo=atilde=o_Pedro_B=" pid="130/3555">Jo&#227;o Pedro B. Queiroz</na></co>
 <co c="0"><na f="q/Quinteiro:Gustavo" pid="293/7506">Gustavo Quinteiro</na></co>
 <co c="0"><na f="r/Ralha:C=eacute=lia_Ghedini" pid="09/2442">C&#233;lia Ghedini Ralha</na></co>
@@ -1356,6 +1402,7 @@
 <co c="0"><na f="s/Santos:Juliana_Concei=ccedil==atilde=o" pid="363/1560">Juliana Concei&#231;&#227;o Santos</na></co>
 <co c="0"><na f="s/Santos:K=eacute=cia_Souza_Santana" pid="296/5902">K&#233;cia Souza Santana Santos</na></co>
 <co c="0"><na f="s/Santos_0002:Nuno" pid="07/967-2">Nuno Santos 0002</na></co>
+<co c="0" n="2"><na f="s/Santos:Ronnie_E=_S=" pid="128/2872">Ronnie E. S. Santos</na><na>Ronnie de Souza Santos</na></co>
 <co c="0"><na f="s/Sarkar:Atrisha" pid="174/2019">Atrisha Sarkar</na></co>
 <co c="0" n="2"><na f="s/Seaman:Carolyn_B=" pid="s/CarolynBSeaman">Carolyn B. Seaman</na><na>Carolyn Seaman</na></co>
 <co c="0" n="2"><na f="s/Silva_0002:Bruno_da" pid="06/299">Bruno da Silva 0002</na><na>Bruno Carreiro da Silva</na></co>
@@ -1370,7 +1417,9 @@
 <co c="0"><na f="t/Teixeira:Juliana" pid="86/7440">Juliana Teixeira</na></co>
 <co c="0"><na f="t/Toledo:Guilherme_David_Garcia" pid="03/7640">Guilherme David Garcia Toledo</na></co>
 <co c="0"><na f="t/Tonella:Paolo" pid="54/2734">Paolo Tonella</na></co>
+<co c="0"><na f="v/Valen=ccedil=a:George" pid="67/4885">George Valen&#231;a</na></co>
 <co c="0"><na f="v/Valle:Pedro_Henrique_Dias" pid="169/4861">Pedro Henrique Dias Valle</na></co>
+<co c="0"><na f="v/Viana:Davi" pid="117/5583">Davi Viana</na></co>
 <co c="0"><na f="v/Vieira:Ricardo_Eug=ecirc=nio_Porto" pid="394/3197">Ricardo Eug&#234;nio Porto Vieira</na></co>
 <co c="0"><na f="z/Zayan:Dina" pid="129/8222">Dina Zayan</na></co>
 </coauthors>

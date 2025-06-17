@@ -1,0 +1,2040 @@
+<?xml version="1.0"?>
+<dblpperson name="C&#233;lio Vinicius N. de Albuquerque" pid="40/809" n="126">
+<person key="homepages/40/809" mdate="2022-01-26">
+<author pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<author pid="40/809">C&#233;lio Vinicius Neves de Albuquerque</author>
+<author pid="40/809">C&#233;lio Vinicius N. Albuquerque</author>
+<author pid="40/809">C&#233;lio Albuquerque 0001</author>
+<url>https://orcid.org/0000-0002-7959-6569</url>
+<note type="affiliation">Universidade Federal Fluminense, Niteroi, RJ, Brazil</note>
+</person>
+<homonyms n="1">
+<h f="a/Albuquerque:C=eacute=lio"><name>C&#233;lio Albuquerque</name>
+</h>
+</homonyms>
+<r><article key="journals/adt/QuincozesQPAM24" mdate="2025-01-19">
+<author pid="322/2925">Vagner Ereno Quincozes</author>
+<author orcid="0000-0001-6793-4033" pid="191/5671">Silvio E. Quincozes</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>Towards feature engineering for intrusion detection in IEC-61850 communication networks.</title>
+<pages>537-551</pages>
+<year>2024</year>
+<month>August</month>
+<volume>79</volume>
+<journal>Ann. des T&#233;l&#233;communications</journal>
+<number>7-8</number>
+<ee>https://doi.org/10.1007/s12243-024-01011-x</ee>
+<ee>https://www.wikidata.org/entity/Q128608012</ee>
+<url>db/journals/adt/adt79.html#QuincozesQPAM24</url>
+<stream>streams/journals/adt</stream>
+</article>
+</r>
+<r><article key="journals/simulation/BheringPOA24" mdate="2024-01-24">
+<author orcid="0000-0002-4114-8541" pid="237/2285">Fabiano Bhering</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="o/KatiaObraczka">Katia Obraczka</author>
+<author pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>Network performance estimator with applications to route selection for IoT multimedia applications.</title>
+<pages>23-37</pages>
+<year>2024</year>
+<month>January</month>
+<volume>100</volume>
+<journal>Simul.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1177/00375497231156618</ee>
+<url>db/journals/simulation/simulation100.html#BheringPOA24</url>
+</article>
+</r>
+<r><article key="journals/tdsc/Quincozes00M24" mdate="2024-10-15">
+<author orcid="0000-0001-6793-4033" pid="191/5671">Silvio Ereno Quincozes</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author orcid="0000-0002-9508-9815" pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>ERENO: A Framework for Generating Realistic IEC-61850 Intrusion Detection Datasets for Smart Grids.</title>
+<pages>3851-3865</pages>
+<year>2024</year>
+<volume>21</volume>
+<journal>IEEE Trans. Dependable Secur. Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TDSC.2023.3336857</ee>
+<url>db/journals/tdsc/tdsc21.html#Quincozes00M24</url>
+</article>
+</r>
+<r><inproceedings key="conf/cloudnet/QuincozesQAPM24" mdate="2025-03-03">
+<author orcid="0000-0002-6688-5572" pid="322/2925">Vagner Ereno Quincozes</author>
+<author orcid="0000-0001-6793-4033" pid="191/5671">Silvio E. Quincozes</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author orcid="0000-0002-9508-9815" pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>Efficient Feature Selection for Intrusion Detection Systems with Priority Queue-Based GRASP.</title>
+<pages>1-8</pages>
+<year>2024</year>
+<booktitle>CloudNet</booktitle>
+<ee>https://doi.org/10.1109/CloudNet62863.2024.10815746</ee>
+<crossref>conf/cloudnet/2024</crossref>
+<url>db/conf/cloudnet/cloudnet2024.html#QuincozesQAPM24</url>
+<stream>streams/conf/cloudnet</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccnc/GouveiaGCSRGMA24" mdate="2025-04-01">
+<author pid="337/1006">Brenda G. Gouveia</author>
+<author pid="270/7695">Iandra Galdino</author>
+<author pid="253/7360">Egberto Caballero</author>
+<author orcid="0000-0003-1439-762X" pid="123/3510">Julio C. H. Soto</author>
+<author pid="352/3463">Taiane Coelho Ramos</author>
+<author pid="91/1088">Raphael Guerra</author>
+<author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<author pid="40/809">C&#233;lio Vinicius N. Albuquerque</author>
+<title>Parameter tuning for accurate heart rate measurement using Wi-Fi signals.</title>
+<pages>407-411</pages>
+<year>2024</year>
+<booktitle>ICNC</booktitle>
+<ee>https://doi.org/10.1109/ICNC59896.2024.10556168</ee>
+<crossref>conf/iccnc/2024</crossref>
+<url>db/conf/iccnc/icnc2024.html#GouveiaGCSRGMA24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/OliveiraA0OB24" mdate="2025-03-03">
+<author pid="389/3631">Debora de Oliveira</author>
+<author pid="40/809">C&#233;lio Vinicius Neves de Albuquerque</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="o/KatiaObraczka">Katia Obraczka</author>
+<author pid="237/2285">Fabiano Bhering</author>
+<title>A Distributed Architecture for Dynamic Multipath Video Routing in Wireless Networks.</title>
+<pages>1-7</pages>
+<year>2024</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC61673.2024.10733693</ee>
+<crossref>conf/iscc/2024</crossref>
+<url>db/conf/iscc/iscc2024.html#OliveiraA0OB24</url>
+</inproceedings>
+</r>
+<r><article key="journals/access/GaldinoSCFRAM23" mdate="2023-08-18">
+<author pid="270/7695">Iandra Galdino</author>
+<author orcid="0000-0003-1439-762X" pid="123/3510">Julio C&#233;sar Huarachi Soto</author>
+<author orcid="0000-0003-1606-9283" pid="253/7360">Egberto Caballero</author>
+<author pid="171/5546">Vinicius C. Ferreira 0001</author>
+<author pid="352/3463">Taiane Coelho Ramos</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<author orcid="0000-0002-1233-9736" pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<title>eHealth CSI: A Wi-Fi CSI Dataset of Human Activities.</title>
+<pages>71003-71012</pages>
+<year>2023</year>
+<volume>11</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2023.3294429</ee>
+<url>db/journals/access/access11.html#GaldinoSCFRAM23</url>
+</article>
+</r>
+<r><article key="journals/tnsm/MattosCAM23" mdate="2023-07-07">
+<author orcid="0000-0002-1279-7366" pid="144/8416">Diogo Menezes Ferrazani Mattos</author>
+<author orcid="0000-0001-9702-2588" pid="239/3385">Gabriel Reis Carrara</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>Exploring Overlay Topology Cost-Termination Tradeoff in Blockchain Vicinity-Based Consensus.</title>
+<pages>1733-1744</pages>
+<year>2023</year>
+<month>June</month>
+<volume>20</volume>
+<journal>IEEE Trans. Netw. Serv. Manag.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TNSM.2022.3177363</ee>
+<url>db/journals/tnsm/tnsm20.html#MattosCAM23</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscc/CardosoASP23" mdate="2024-10-06">
+<author pid="355/7590">Alexandre F. Cardoso</author>
+<author pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<author pid="355/7847">Cledson de Souza</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<title>Asynchronous and Heterogeneous Wake-Up Schedules for IoT Neighbor Communication.</title>
+<pages>1311-1316</pages>
+<year>2023</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC58397.2023.10218191</ee>
+<crossref>conf/iscc/2023</crossref>
+<url>db/conf/iscc/iscc2023.html#CardosoASP23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latincom/SotoGCMA23" mdate="2025-04-01">
+<author orcid="0000-0003-1439-762X" pid="123/3510">Julio C&#233;sar Huarachi Soto</author>
+<author pid="270/7695">Iandra Galdino</author>
+<author pid="253/7360">Egberto Caballero</author>
+<author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<author pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>Single Person Identification Using Wi-Fi Signals.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>LATINCOM</booktitle>
+<ee>https://doi.org/10.1109/LATINCOM59467.2023.10361872</ee>
+<crossref>conf/latincom/2023</crossref>
+<url>db/conf/latincom/latincom2023.html#SotoGCMA23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wf-iot/VieiraRAMC23" mdate="2024-07-30">
+<author pid="281/0317">R&#244;mulo Vieira</author>
+<author pid="352/3167">Marcelo Rocha 0001</author>
+<author pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<author pid="03/6828">Pablo C&#233;sar</author>
+<title>RemixDrum: A Smart Musical Instrument for Music and Visual Art Remix.</title>
+<pages>1-7</pages>
+<year>2023</year>
+<booktitle>WF-IoT</booktitle>
+<ee>https://doi.org/10.1109/WF-IoT58464.2023.10539401</ee>
+<crossref>conf/wf-iot/2023</crossref>
+<url>db/conf/wf-iot/wf-iot2023.html#VieiraRAMC23</url>
+</inproceedings>
+</r>
+<r><article key="journals/adt/QuincozesPAMO22" mdate="2023-03-21">
+<author orcid="0000-0001-6793-4033" pid="191/5671">Silvio E. Quincozes</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<author pid="o/LuizSatoruOchi">Luiz Satoru Ochi</author>
+<title>An extended assessment of metaheuristics-based feature selection for intrusion detection in CPS perception layer.</title>
+<pages>457-471</pages>
+<year>2022</year>
+<volume>77</volume>
+<journal>Ann. des T&#233;l&#233;communications</journal>
+<number>7-8</number>
+<ee>https://doi.org/10.1007/s12243-022-00912-z</ee>
+<url>db/journals/adt/adt77.html#QuincozesPAMO22</url>
+</article>
+</r>
+<r><article key="journals/comcom/BalbiPVCMA22" mdate="2022-10-02">
+<author pid="64/10127">Helga Dolorico Balbi</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego Gimenez Passos 0001</author>
+<author orcid="0000-0003-3191-1985" pid="247/0245">Juan Lucas Vieira</author>
+<author pid="75/10038">Ricardo Campanha Carrano</author>
+<author pid="13/6767">Luiz Claudio Schara Magalh&#227;es</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<title>Towards a fast and stable filter for RSSI-based handoff algorithms in dense indoor WLANs.</title>
+<pages>19-32</pages>
+<year>2022</year>
+<volume>183</volume>
+<journal>Comput. Commun.</journal>
+<ee>https://doi.org/10.1016/j.comcom.2021.10.024</ee>
+<url>db/journals/comcom/comcom183.html#BalbiPVCMA22</url>
+</article>
+</r>
+<r><article key="journals/comcom/SotoGCFMA22" mdate="2022-12-05">
+<author orcid="0000-0003-1439-762X" pid="123/3510">Julio C&#233;sar Huarachi Soto</author>
+<author orcid="0000-0002-3564-2092" pid="270/7695">Iandra Galdino</author>
+<author orcid="0000-0003-1606-9283" pid="253/7360">Egberto Caballero</author>
+<author pid="171/5546">Vinicius C. Ferreira 0001</author>
+<author orcid="0000-0002-1233-9736" pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>A survey on vital signs monitoring based on Wi-Fi CSI data.</title>
+<pages>99-110</pages>
+<year>2022</year>
+<volume>195</volume>
+<journal>Comput. Commun.</journal>
+<ee>https://doi.org/10.1016/j.comcom.2022.08.004</ee>
+<url>db/journals/comcom/comcom195.html#SotoGCFMA22</url>
+</article>
+</r>
+<r><article key="journals/mms/BheringPOOA22" mdate="2023-01-15">
+<author orcid="0000-0002-4114-8541" pid="237/2285">Fabiano Pereira Bhering</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="o/LuizSatoruOchi">Luiz Satoru Ochi</author>
+<author pid="o/KatiaObraczka">Katia Obraczka</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>Wireless multipath video transmission: when IoT video applications meet networking - a survey.</title>
+<pages>831-850</pages>
+<year>2022</year>
+<volume>28</volume>
+<journal>Multim. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00530-021-00885-4</ee>
+<url>db/journals/mms/mms28.html#BheringPOOA22</url>
+</article>
+</r>
+<r><article key="journals/tnsm/QuincozesMPAOS22" mdate="2022-08-23">
+<author orcid="0000-0001-6793-4033" pid="191/5671">Silvio Ereno Quincozes</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<author orcid="0000-0002-5007-4513" pid="o/LuizSatoruOchi">Luiz Satoru Ochi</author>
+<author pid="316/0731">Vin&#237;cius Figueiredo dos Santos</author>
+<title>On the Performance of GRASP-Based Feature Selection for CPS Intrusion Detection.</title>
+<pages>614-626</pages>
+<year>2022</year>
+<volume>19</volume>
+<journal>IEEE Trans. Netw. Serv. Manag.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TNSM.2021.3088763</ee>
+<url>db/journals/tnsm/tnsm19.html#QuincozesMPAOS22</url>
+</article>
+</r>
+<r><inproceedings key="conf/ciot/RodriguesMMCMAM22" mdate="2024-02-20">
+<author pid="320/7445">Matheus B. de A. Rodrigues</author>
+<author pid="320/8308">Ana Carolina Rocha Mendes</author>
+<author pid="320/7657">Marcos Paulo C. de Mendon&#231;a</author>
+<author pid="239/3385">Gabriel R. Carrara</author>
+<author pid="13/6767">Luiz Claudio Schara Magalh&#227;es</author>
+<author pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<author pid="193/1420">Dianne S. V. Medeiros</author>
+<author pid="144/8416">Diogo M. F. Mattos</author>
+<title>An Efficient Strategy with High Availability for Dynamic Provisioning of Access Points in Large-Scale Wireless Networks.</title>
+<pages>92-99</pages>
+<year>2022</year>
+<booktitle>CIoT</booktitle>
+<ee>https://doi.org/10.1109/CIoT53061.2022.9766688</ee>
+<crossref>conf/ciot/2022</crossref>
+<url>db/conf/ciot/ciot2022.html#RodriguesMMCMAM22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloudnet/BheringPAO22" mdate="2023-03-21">
+<author orcid="0000-0002-4114-8541" pid="237/2285">Fabiano Bhering</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author pid="o/KatiaObraczka">Katia Obraczka</author>
+<title>Efficient Multipath Selection for IoT Video Transmission.</title>
+<pages>73-78</pages>
+<year>2022</year>
+<booktitle>CloudNet</booktitle>
+<ee>https://doi.org/10.1109/CloudNet55617.2022.9978786</ee>
+<crossref>conf/cloudnet/2022</crossref>
+<url>db/conf/cloudnet/cloudnet2022.html#BheringPAO22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csnet/QuincozesQAPM22" mdate="2025-03-03">
+<author orcid="0000-0002-6688-5572" pid="322/2925">Vagner Ereno Quincozes</author>
+<author orcid="0000-0001-6793-4033" pid="191/5671">Silvio E. Quincozes</author>
+<author pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>Feature Extraction for Intrusion Detection in IEC-61850 Communication Networks.</title>
+<pages>1-7</pages>
+<year>2022</year>
+<booktitle>CSNet</booktitle>
+<ee>https://doi.org/10.1109/CSNet56116.2022.9955599</ee>
+<crossref>conf/csnet/2022</crossref>
+<url>db/conf/csnet/csnet2022.html#QuincozesQAPM22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/SouzaAPP22" mdate="2022-12-20">
+<author pid="331/6538">Lucas M. A. de Souza</author>
+<author pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author pid="184/0841">Fernanda G. O. Passos</author>
+<author pid="47/4581">Diego G. Passos 0001</author>
+<title>Convergence-Time Analysis for the HTE Link Quality Estimator.</title>
+<pages>1-7</pages>
+<year>2022</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC55528.2022.9912892</ee>
+<crossref>conf/iscc/2022</crossref>
+<url>db/conf/iscc/iscc2022.html#SouzaAPP22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latincom/OliveiraMAL22" mdate="2023-01-09">
+<author pid="337/0721">Cleomar M&#225;rcio Marques de Oliveira</author>
+<author pid="32/6032">Igor Monteiro Moraes</author>
+<author pid="40/809">C&#233;lio Vinicius N. Albuquerque</author>
+<author pid="337/0931">Jos&#233; Jer&#244;nimo de Menezes Lima</author>
+<title>A Socio-Temporal Cache Prefetching Policy for the Multi-access Edge Computing Architecture.</title>
+<pages>1-6</pages>
+<year>2022</year>
+<booktitle>LATINCOM</booktitle>
+<ee>https://doi.org/10.1109/LATINCOM56090.2022.10000591</ee>
+<crossref>conf/latincom/2022</crossref>
+<url>db/conf/latincom/latincom2022.html#OliveiraMAL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latincom/SotoGGCFMA22" mdate="2025-04-01">
+<author orcid="0000-0003-1439-762X" pid="123/3510">Julio C&#233;sar Huarachi Soto</author>
+<author pid="270/7695">Iandra Galdino</author>
+<author pid="337/1006">Brenda G. Gouveia</author>
+<author pid="253/7360">Egberto Caballero</author>
+<author pid="171/5546">Vinicius C. Ferreira 0001</author>
+<author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<author pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>Wi-Fi CSI-based Human Presence Detection Using DTW Features and Machine Learning.</title>
+<pages>1-6</pages>
+<year>2022</year>
+<booktitle>LATINCOM</booktitle>
+<ee>https://doi.org/10.1109/LATINCOM56090.2022.10000702</ee>
+<crossref>conf/latincom/2022</crossref>
+<url>db/conf/latincom/latincom2022.html#SotoGGCFMA22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-15126" mdate="2024-10-06">
+<author pid="237/2285">Fabiano Pereira Bhering</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author pid="o/KatiaObraczka">Katia Obraczka</author>
+<title>Network Performance Estimator with Applications to Route Selection for IoT Multimedia Applications.</title>
+<year>2022</year>
+<volume>abs/2203.15126</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.15126</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-15126</url>
+</article>
+</r>
+<r><article key="journals/access/SoaresSMPQFACMA21" mdate="2022-10-04">
+<author orcid="0000-0003-0509-1207" pid="246/3959">Arthur Albuquerque Zopellaro Soares</author>
+<author orcid="0000-0002-8103-8953" pid="259/1978">Leonardo F. Soares</author>
+<author orcid="0000-0002-9887-4747" pid="131/4793">Douglas Paulo de Mattos</author>
+<author orcid="0000-0001-9843-3573" pid="289/6696">Paulo H. B. S. Pinheiro</author>
+<author orcid="0000-0001-6793-4033" pid="191/5671">Silvio E. Quincozes</author>
+<author pid="171/5546">Vinicius C. Ferreira 0001</author>
+<author orcid="0000-0001-7833-7752" pid="252/0369">Guilherme Henrique Apostolo</author>
+<author orcid="0000-0001-9702-2588" pid="239/3385">Gabriel R. Carrara</author>
+<author orcid="0000-0002-5919-7923" pid="32/6032">Igor M. Moraes</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author orcid="0000-0002-8068-2640" pid="165/3754">Yona Lopes</author>
+<author orcid="0000-0001-9481-6374" pid="88/3693">Natalia Castro Fernandes</author>
+<author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<title>Enabling Emulation and Evaluation of IEC 61850 Networks With TITAN.</title>
+<pages>49788-49805</pages>
+<year>2021</year>
+<volume>9</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2021.3068366</ee>
+<url>db/journals/access/access9.html#SoaresSMPQFACMA21</url>
+</article>
+</r>
+<r><article key="journals/cn/QuincozesAPM21" mdate="2022-08-23">
+<author orcid="0000-0001-6793-4033" pid="191/5671">Silvio E. Quincozes</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>A survey on intrusion detection and prevention systems in digital substations.</title>
+<pages>107679</pages>
+<year>2021</year>
+<volume>184</volume>
+<journal>Comput. Networks</journal>
+<ee>https://doi.org/10.1016/j.comnet.2020.107679</ee>
+<url>db/journals/cn/cn184.html#QuincozesAPM21</url>
+</article>
+</r>
+<r><article key="journals/ijista/MattosMPFMMA21" mdate="2024-10-06">
+<author pid="144/8416">Diogo Menezes Ferrazani Mattos</author>
+<author pid="193/1420">Dianne Scherly Varela de Medeiros</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="88/3693">Natalia Castro Fernandes</author>
+<author pid="21/5891">D&#233;bora Christina Muchaluat-Saade</author>
+<author pid="32/6032">Igor Monteiro Moraes</author>
+<author pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>Blockchain for smart grid security: applications, trends, and challenges.</title>
+<pages>296-309</pages>
+<year>2021</year>
+<volume>20</volume>
+<journal>Int. J. Intell. Syst. Technol. Appl.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1504/IJISTA.2021.121323</ee>
+<url>db/journals/ijista/ijista20.html#MattosMPFMMA21</url>
+</article>
+</r>
+<r><article key="journals/ijnm/MoraesAZ21" mdate="2022-01-26">
+<author pid="32/6032">Igor Monteiro Moraes</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author pid="47/772">Artur Ziviani</author>
+<title>Editorial for the special issue on research trends in network operations and management with selected papers from the ninth edition of the Latin American Network Operations and Management Symposium.</title>
+<year>2021</year>
+<volume>31</volume>
+<journal>Int. J. Netw. Manag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/nem.2153</ee>
+<url>db/journals/ijnm/ijnm31.html#MoraesAZ21</url>
+</article>
+</r>
+<r><article key="journals/ijnm/QuincozesSNAPM21" mdate="2022-10-02">
+<author orcid="0000-0001-6793-4033" pid="191/5671">Silvio E. Quincozes</author>
+<author pid="64/6563">Carlos Raniery Paula dos Santos</author>
+<author orcid="0000-0003-3228-4071" pid="76/5337">Raul Ceretta Nunes</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego Gimenez Passos 0001</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>Counselors network for intrusion detection.</title>
+<year>2021</year>
+<volume>31</volume>
+<journal>Int. J. Netw. Manag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/nem.2111</ee>
+<url>db/journals/ijnm/ijnm31.html#QuincozesSNAPM21</url>
+</article>
+</r>
+<r><article key="journals/ijnm/SoaresVQFULPFMM21" mdate="2023-03-21">
+<author pid="246/3959">Arthur Albuquerque Zopellaro Soares</author>
+<author orcid="0000-0003-3191-1985" pid="247/0245">Juan Lucas Vieira</author>
+<author orcid="0000-0001-6793-4033" pid="191/5671">Silvio E. Quincozes</author>
+<author pid="171/5546">Vinicius C. Ferreira 0001</author>
+<author pid="259/1971">Luana M. Uch&#244;a</author>
+<author orcid="0000-0002-8068-2640" pid="165/3754">Yona Lopes</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego Gimenez Passos 0001</author>
+<author orcid="0000-0001-9481-6374" pid="88/3693">Natalia Castro Fernandes</author>
+<author orcid="0000-0002-5919-7923" pid="32/6032">Igor Monteiro Moraes</author>
+<author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<title>SDN-based teleprotection and control power systems: A study of available controllers and their suitability.</title>
+<year>2021</year>
+<volume>31</volume>
+<journal>Int. J. Netw. Manag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/nem.2112</ee>
+<url>db/journals/ijnm/ijnm31.html#SoaresVQFULPFMM21</url>
+</article>
+</r>
+<r><article key="journals/sensors/LacerdaBAC21" mdate="2022-03-16">
+<author orcid="0000-0001-9028-3507" pid="257/5528">Paulo Lacerda</author>
+<author orcid="0000-0001-8649-9655" pid="225/9006">Bruno Barros</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author orcid="0000-0003-0782-2501" pid="c/AuraConci">Aura Conci</author>
+<title>Hyperparameter Optimization for COVID-19 Pneumonia Diagnosis Based on Chest CT.</title>
+<pages>2174</pages>
+<year>2021</year>
+<volume>21</volume>
+<journal>Sensors</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.3390/s21062174</ee>
+<ee>https://www.wikidata.org/entity/Q108126946</ee>
+<url>db/journals/sensors/sensors21.html#LacerdaBAC21</url>
+</article>
+</r>
+<r><article key="journals/sensors/BarrosLAC21" mdate="2022-01-26">
+<author orcid="0000-0001-8649-9655" pid="225/9006">Bruno Barros</author>
+<author orcid="0000-0001-9028-3507" pid="257/5528">Paulo Lacerda</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author orcid="0000-0003-0782-2501" pid="c/AuraConci">Aura Conci</author>
+<title>Pulmonary COVID-19: Learning Spatiotemporal Features Combining CNN and LSTM Networks for Lung Ultrasound Video Classification.</title>
+<pages>5486</pages>
+<year>2021</year>
+<volume>21</volume>
+<journal>Sensors</journal>
+<number>16</number>
+<ee type="oa">https://doi.org/10.3390/s21165486</ee>
+<url>db/journals/sensors/sensors21.html#BarrosLAC21</url>
+</article>
+</r>
+<r><article key="journals/sensors/CaballeroFLSMA21" mdate="2022-10-04">
+<author orcid="0000-0003-1606-9283" pid="253/7360">Egberto Caballero</author>
+<author pid="171/5546">Vinicius C. Ferreira 0001</author>
+<author orcid="0000-0002-1037-5928" pid="253/7210">Robson Ara&#250;jo Lima</author>
+<author orcid="0000-0003-1439-762X" pid="123/3510">Julio C&#233;sar Huarachi Soto</author>
+<author orcid="0000-0002-1233-9736" pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<title>BNS: A Framework for Wireless Body Area Network Realistic Simulations.</title>
+<pages>5504</pages>
+<year>2021</year>
+<volume>21</volume>
+<journal>Sensors</journal>
+<number>16</number>
+<ee type="oa">https://doi.org/10.3390/s21165504</ee>
+<url>db/journals/sensors/sensors21.html#CaballeroFLSMA21</url>
+</article>
+</r>
+<r><article key="journals/winet/PassosPSA21" mdate="2022-08-23">
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="184/0841">Fernanda G. O. Passos</author>
+<author pid="181/2757-7">Bruno dos Santos Silva</author>
+<author pid="40/809">C&#233;lio Albuquerque 0001</author>
+<title>Modeling the performance of the link quality hypothesis test estimator mechanism in wireless networks.</title>
+<pages>4065-4081</pages>
+<year>2021</year>
+<volume>27</volume>
+<journal>Wirel. Networks</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s11276-021-02717-9</ee>
+<url>db/journals/winet/winet27.html#PassosPSA21</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/CarraraMA21" mdate="2022-02-07">
+<author pid="239/3385">Gabriel Reis Carrara</author>
+<author pid="144/8416">Diogo Menezes Ferrazani Mattos</author>
+<author pid="40/809">C&#233;lio Vinicius Neves de Albuquerque</author>
+<title>Vicinity-based Consensus: A Fast in-Neighborhood Convergence Consensus Mechanism for Blockchain.</title>
+<pages>1-6</pages>
+<year>2021</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOBECOM46510.2021.9685110</ee>
+<crossref>conf/globecom/2021</crossref>
+<url>db/conf/globecom/globecom2021.html#CarraraMA21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/im/Vieira0BQDSLPAM21" mdate="2022-10-04">
+<author pid="247/0245">Juan Lucas Vieira</author>
+<author pid="171/5546">Vinicius C. Ferreira 0001</author>
+<author pid="193/1363">Ian Vilar Bastos</author>
+<author pid="191/5671">Silvio Ereno Quincozes</author>
+<author pid="259/1972">Wilker de Oliveira Delfino</author>
+<author pid="296/0828">Yago de Rezende dos Santos</author>
+<author pid="165/3754">Yona Lopes</author>
+<author pid="47/4581">Diego G. Passos 0001</author>
+<author pid="40/809">C&#233;lio Vinicius N. Albuquerque</author>
+<author pid="32/6032">Igor M. Moraes</author>
+<author pid="13/6767">Luiz Claudio Schara Magalh&#227;es</author>
+<author pid="88/3693">Natalia Castro Fernandes</author>
+<author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<title>THANOS: Teleprotection Holistic Application for ONOS Controller.</title>
+<pages>818-823</pages>
+<year>2021</year>
+<booktitle>IM</booktitle>
+<ee>https://ieeexplore.ieee.org/document/9463963</ee>
+<crossref>conf/im/2021</crossref>
+<url>db/conf/im/im2021.html#Vieira0BQDSLPAM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/SaraivaPA21" mdate="2022-08-23">
+<author pid="230/1863-2">Andr&#233; R. C. Saraiva</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="40/809">C&#233;lio Vinicius N. Albuquerque</author>
+<title>Evaluation of the reduction of NDT in WSN with asymmetric schedule-based asynchronous duty cycle mechanisms.</title>
+<pages>1-6</pages>
+<year>2021</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC53001.2021.9631398</ee>
+<crossref>conf/iscc/2021</crossref>
+<url>db/conf/iscc/iscc2021.html#SaraivaPA21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/Bhering0PO21" mdate="2023-03-21">
+<author orcid="0000-0002-4114-8541" pid="237/2285">Fabiano Pereira Bhering</author>
+<author pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author pid="47/4581">Diego G. Passos 0001</author>
+<author pid="o/KatiaObraczka">Katia Obraczka</author>
+<title>IAMVT: Mecanismo de Sele&#231;&#227;o de Rotas Multicaminhos para Aplica&#231;&#245;es de V&#237;deo Monitoramento.</title>
+<pages>294-307</pages>
+<year>2021</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc.2021.16728</ee>
+<crossref>conf/sbrc/2021</crossref>
+<url>db/conf/sbrc/sbrc2021.html#Bhering0PO21</url>
+</inproceedings>
+</r>
+<r><article key="journals/adt/ChicarinoAJR20" mdate="2022-01-26">
+<author pid="217/4114">Vanessa R. L. Chicarino</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author pid="217/3989">Emanuel Ferreira Jesus</author>
+<author pid="209/2422">Ant&#244;nio A. de A. Rocha</author>
+<title>On the detection of selfish mining and stalker attacks in blockchain networks.</title>
+<pages>143-152</pages>
+<year>2020</year>
+<volume>75</volume>
+<journal>Ann. des T&#233;l&#233;communications</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1007/s12243-019-00746-2</ee>
+<url>db/journals/adt/adt75.html#ChicarinoAJR20</url>
+</article>
+</r>
+<r><article key="journals/adt/CarraraBMAM20" mdate="2024-02-05">
+<author pid="239/3385">Gabriel R. Carrara</author>
+<author pid="260/9567">Leonardo M. Burle</author>
+<author orcid="0000-0002-0361-5903" pid="193/1420">Dianne S. V. Medeiros</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<author orcid="0000-0002-1279-7366" pid="144/8416">Diogo M. F. Mattos</author>
+<title>Consistency, availability, and partition tolerance in blockchain: a survey on the consensus mechanism over peer-to-peer networking.</title>
+<pages>163-174</pages>
+<year>2020</year>
+<volume>75</volume>
+<journal>Ann. des T&#233;l&#233;communications</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1007/s12243-020-00751-w</ee>
+<url>db/journals/adt/adt75.html#CarraraBMAM20</url>
+</article>
+</r>
+<r><article key="journals/comcom/BalbiPCMA20" mdate="2022-08-23">
+<author pid="64/10127">Helga Dolorico Balbi</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="75/10038">Ricardo Campanha Carrano</author>
+<author pid="13/6767">Luiz Claudio Schara Magalh&#227;es</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>Association stability and handoff latency tradeoff in dense IEEE 802.11 networks: A case study.</title>
+<pages>175-185</pages>
+<year>2020</year>
+<volume>159</volume>
+<journal>Comput. Commun.</journal>
+<ee>https://doi.org/10.1016/j.comcom.2020.04.059</ee>
+<url>db/journals/comcom/comcom159.html#BalbiPCMA20</url>
+</article>
+</r>
+<r><article key="journals/tccn/SousaPBCA20" mdate="2022-08-23">
+<author orcid="0000-0003-3892-1799" pid="156/8787">Cledson Oliveira de Sousa</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="64/10127">Helga Dolorico Balbi</author>
+<author pid="75/10038">Ricardo Campanha Carrano</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<title>BiRD - A Novel Bi-Dimensional Design to Multi-Channel Continuous Rendezvous in Cognitive Networks.</title>
+<pages>1031-1043</pages>
+<year>2020</year>
+<volume>6</volume>
+<journal>IEEE Trans. Cogn. Commun. Netw.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCCN.2020.2966623</ee>
+<url>db/journals/tccn/tccn6.html#SousaPBCA20</url>
+</article>
+</r>
+<r><article key="journals/wcl/PassosSA20" mdate="2022-08-23">
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author orcid="0000-0003-3892-1799" pid="156/8787">Cledson Oliveira de Sousa</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<title>An NDT Model for Block Designs Operating Under Asymmetrical Duty Cycling.</title>
+<pages>2116-2120</pages>
+<year>2020</year>
+<volume>9</volume>
+<journal>IEEE Wirel. Commun. Lett.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/LWC.2020.3014512</ee>
+<url>db/journals/wcl/wcl9.html#PassosSA20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cbms/FerreiraMA20" mdate="2022-10-04">
+<author pid="171/5546">Vinicius C. Ferreira 0001</author>
+<author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<title>B-Move: A Transmission Scheduler Based on Human Body Movements for WBANs.</title>
+<pages>315-320</pages>
+<year>2020</year>
+<booktitle>CBMS</booktitle>
+<ee>https://doi.org/10.1109/CBMS49503.2020.00066</ee>
+<crossref>conf/cbms/2020</crossref>
+<url>db/conf/cbms/cbms2020.html#FerreiraMA20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ciot/QuincozesPAOM20" mdate="2025-03-03">
+<author orcid="0000-0001-6793-4033" pid="191/5671">Silvio E. Quincozes</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author pid="o/LuizSatoruOchi">Luiz Satoru Ochi</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>GRASP-based Feature Selection for Intrusion Detection in CPS Perception Layer.</title>
+<pages>41-48</pages>
+<year>2020</year>
+<booktitle>CIoT</booktitle>
+<ee>https://doi.org/10.1109/CIoT50422.2020.9244207</ee>
+<crossref>conf/ciot/2020</crossref>
+<url>db/conf/ciot/ciot2020.html#QuincozesPAOM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ciot/BastosFMAM20" mdate="2025-04-01">
+<author orcid="0000-0003-1000-5211" pid="193/1363">Ian Vilar Bastos</author>
+<author pid="171/5546">Vinicius Corr&#234;a Ferreira</author>
+<author pid="21/5891">D&#233;bora Christina Muchaluat-Saade</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius Neves de Albuquerque</author>
+<author pid="32/6032">Igor Monteiro Moraes</author>
+<title>Path Recovery Algorithm Using Fast-Failover for Software-Defined Networks.</title>
+<pages>49-52</pages>
+<year>2020</year>
+<booktitle>CIoT</booktitle>
+<ee>https://doi.org/10.1109/CIoT50422.2020.9244292</ee>
+<crossref>conf/ciot/2020</crossref>
+<url>db/conf/ciot/ciot2020.html#BastosFMAM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/Lacerda0RSACC20" mdate="2022-01-26">
+<author orcid="0000-0001-9028-3507" pid="257/5528">Paulo Lacerda</author>
+<author pid="212/1675">Jos&#233; Gonz&#225;lez 0003</author>
+<author pid="275/7613">Nazareth Rocha</author>
+<author pid="66/4837">Fl&#225;vio Luiz Seixas</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author pid="59/5772">Esteban Clua</author>
+<author pid="c/AuraConci">Aura Conci</author>
+<title>A Parallel Method for Anatomical Structure Segmentation based on 3D Seeded Region Growing.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN48605.2020.9206630</ee>
+<crossref>conf/ijcnn/2020</crossref>
+<url>db/conf/ijcnn/ijcnn2020.html#Lacerda0RSACC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwssip/CaballeroFLAM20" mdate="2022-10-04">
+<author pid="253/7360">Egberto Caballero</author>
+<author pid="171/5546">Vinicius C. Ferreira 0001</author>
+<author pid="253/7210">Robson Ara&#250;jo Lima</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<title>LATOR: Link-Quality Aware and Thermal Aware On-Demand Routing Protocol for WBAN.</title>
+<pages>337-342</pages>
+<year>2020</year>
+<booktitle>IWSSIP</booktitle>
+<ee>https://doi.org/10.1109/IWSSIP48289.2020.9145292</ee>
+<crossref>conf/iwssip/2020</crossref>
+<url>db/conf/iwssip/iwssip2020.html#CaballeroFLAM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/UchoaQVPAM20" mdate="2023-03-21">
+<author pid="259/1971">Luana M. Uch&#244;a</author>
+<author orcid="0000-0001-6793-4033" pid="191/5671">Silvio E. Quincozes</author>
+<author orcid="0000-0003-3191-1985" pid="247/0245">Juan Lucas Vieira</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>Analysis of Smart Grid Fault Recovery Protocols.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS47738.2020.9110459</ee>
+<crossref>conf/noms/2020</crossref>
+<url>db/conf/noms/noms2020.html#UchoaQVPAM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/Rosillo0LAM20" mdate="2022-10-04">
+<author pid="253/7360">Egberto Caballero Rosillo</author>
+<author pid="171/5546">Vinicius C. Ferreira 0001</author>
+<author pid="253/7210">Robson Ara&#250;jo Lima</author>
+<author pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author pid="21/5891">D&#233;bora Christina Muchaluat-Saade</author>
+<title>LATOR: Protocolo de Roteamento Ciente de Qualidade com Preven&#231;&#227;o de Aquecimento para Redes Corporais sem Fio.</title>
+<pages>854-867</pages>
+<year>2020</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc.2020.12330</ee>
+<crossref>conf/sbrc/2020</crossref>
+<url>db/conf/sbrc/sbrc2020.html#Rosillo0LAM20</url>
+</inproceedings>
+</r>
+<r><article key="journals/cm/PassosBCA19" mdate="2022-08-23">
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="64/10127">Helga Dolorico Balbi</author>
+<author pid="75/10038">Ricardo Campanha Carrano</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>Asynchronous Radio Duty Cycling for Green IoT: State of the Art and Future Perspectives.</title>
+<pages>106-111</pages>
+<year>2019</year>
+<volume>57</volume>
+<journal>IEEE Commun. Mag.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/MCOM.001.1800381</ee>
+<url>db/journals/cm/cm57.html#PassosBCA19</url>
+</article>
+</r>
+<r><article key="journals/fgcs/RibeiroARP19" mdate="2025-01-19">
+<author pid="33/10759">Igor Cesar Gonzalez Ribeiro</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author orcid="0000-0001-9314-4035" pid="209/2422">Ant&#244;nio A. de A. Rocha</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<title>THOR: A framework to build an advanced metering infrastructure resilient to DAP failures in smart grids.</title>
+<pages>11-26</pages>
+<year>2019</year>
+<volume>99</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2019.03.021</ee>
+<ee>https://www.wikidata.org/entity/Q128200258</ee>
+<url>db/journals/fgcs/fgcs99.html#RibeiroARP19</url>
+</article>
+</r>
+<r><article key="journals/ijwin/BalbiCPA19" mdate="2025-01-19">
+<author orcid="0000-0002-7165-9617" pid="64/10127">Helga Dolorico Balbi</author>
+<author pid="75/10038">Ricardo Campanha Carrano</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<title>Revisiting Probabilistic Schedule-Based Asynchronous Duty Cycling.</title>
+<pages>24-38</pages>
+<year>2019</year>
+<volume>26</volume>
+<journal>Int. J. Wirel. Inf. Networks</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10776-018-0420-5</ee>
+<ee>https://www.wikidata.org/entity/Q128765378</ee>
+<url>db/journals/ijwin/ijwin26.html#BalbiCPA19</url>
+</article>
+</r>
+<r><inproceedings key="conf/giis/CarraraRAM19" mdate="2021-07-25">
+<author pid="239/3385">Gabriel R. Carrara</author>
+<author pid="245/3196">L&#250;cio Henrik A. Reis</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<author orcid="0000-0002-1279-7366" pid="144/8416">Diogo M. F. Mattos</author>
+<title>A Lightweight Strategy for Reliability of Consensus Mechanisms based on Software Defined Networks.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>GIIS</booktitle>
+<ee>https://doi.org/10.1109/GIIS48668.2019.9044954</ee>
+<crossref>conf/giis/2019</crossref>
+<url>db/conf/giis/giis2019.html#CarraraRAM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/OliveiraRCSMAFO19" mdate="2024-02-05">
+<author orcid="0000-0001-5739-5590" pid="239/3409">Marcela T. de Oliveira</author>
+<author pid="245/3196">L&#250;cio Henrik A. Reis</author>
+<author pid="75/10038">Ricardo Campanha Carrano</author>
+<author pid="66/4837">Fl&#225;vio Luiz Seixas</author>
+<author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<author orcid="0000-0001-9481-6374" pid="88/3693">Natalia Castro Fernandes</author>
+<author pid="o/SilviaDelgadoOlabarriaga">S&#237;lvia D. Olabarriaga</author>
+<author orcid="0000-0002-0361-5903" pid="193/1420">Dianne S. V. Medeiros</author>
+<author orcid="0000-0002-1279-7366" pid="144/8416">Diogo M. F. Mattos</author>
+<title>Towards a Blockchain-Based Secure Electronic Medical Record for Healthcare Applications.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2019.8761307</ee>
+<crossref>conf/icc/2019</crossref>
+<url>db/conf/icc/icc2019.html#OliveiraRCSMAFO19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icin/OliveiraCFACMM19" mdate="2024-02-05">
+<author orcid="0000-0001-5739-5590" pid="239/3409">Marcela Tuler de Oliveira</author>
+<author pid="239/3385">Gabriel R. Carrara</author>
+<author orcid="0000-0001-9481-6374" pid="88/3693">Natalia Castro Fernandes</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<author pid="75/10038">Ricardo Campanha Carrano</author>
+<author orcid="0000-0002-0361-5903" pid="193/1420">Dianne S. V. Medeiros</author>
+<author orcid="0000-0002-1279-7366" pid="144/8416">Diogo M. F. Mattos</author>
+<title>Towards a Performance Evaluation of Private Blockchain Frameworks using a Realistic Workload.</title>
+<pages>180-187</pages>
+<year>2019</year>
+<booktitle>ICIN</booktitle>
+<ee>https://doi.org/10.1109/ICIN.2019.8685888</ee>
+<crossref>conf/icin/2019</crossref>
+<url>db/conf/icin/icin2019.html#OliveiraCFACMM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/BalbiPCMA19" mdate="2022-08-23">
+<author pid="64/10127">Helga Dolorico Balbi</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="75/10038">Ricardo Campanha Carrano</author>
+<author pid="13/6767">Luiz Claudio Schara Magalh&#227;es</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<title>A Case Study of Association Instability in Dense IEEE 802.11 Networks.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC47284.2019.8969685</ee>
+<crossref>conf/iscc/2019</crossref>
+<url>db/conf/iscc/iscc2019.html#BalbiPCMA19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/NetoAM19" mdate="2021-05-19">
+<author orcid="0000-0001-9028-3507" pid="257/5528">Paulo Cezar Lacerda Neto</author>
+<author pid="40/809">C&#233;lio Vinicius Neves de Albuquerque</author>
+<author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<title>The Relative Smoothed Throughput Approach for Adaptive HTTP Streaming.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC47284.2019.8969628</ee>
+<crossref>conf/iscc/2019</crossref>
+<url>db/conf/iscc/iscc2019.html#NetoAM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lanoms/AbreuAM19" mdate="2020-03-12">
+<author pid="205/6721">Raphael Abreu</author>
+<author pid="40/809">C&#233;lio Vinicius Neves de Albuquerque</author>
+<author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<title>Latency-Aware Placement of Software Defined Network Controllers.</title>
+<year>2019</year>
+<booktitle>LANOMS</booktitle>
+<ee type="oa">http://dl.ifip.org/db/conf/lanoms/lanoms2019/196027_1.pdf</ee>
+<crossref>conf/lanoms/2019</crossref>
+<url>db/conf/lanoms/lanoms2019.html#AbreuAM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lanoms/BheringAPO19" mdate="2022-08-23">
+<author pid="237/2285">Fabiano Pereira Bhering</author>
+<author pid="40/809">C&#233;lio Vinicius Neves de Albuquerque</author>
+<author pid="47/4581">Diego G. Passos 0001</author>
+<author pid="o/LuizSatoruOchi">Luiz Satoru Ochi</author>
+<title>Multipath Selection Mechanism for Wireless Video-Surveillance Systems.</title>
+<year>2019</year>
+<booktitle>LANOMS</booktitle>
+<ee type="oa">http://dl.ifip.org/db/conf/lanoms/lanoms2019/196070_1.pdf</ee>
+<crossref>conf/lanoms/2019</crossref>
+<url>db/conf/lanoms/lanoms2019.html#BheringAPO19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lanoms/OliveiraMA19" mdate="2020-03-12">
+<author pid="259/1977">Cleomar Oliveira</author>
+<author pid="32/6032">Igor Monteiro Moraes</author>
+<author pid="40/809">C&#233;lio Vinicius Neves de Albuquerque</author>
+<title>A Cache Prefetch Policy based on User's Temporal-and-Social Behavior for Content Management in Wireless Access Networks.</title>
+<year>2019</year>
+<booktitle>LANOMS</booktitle>
+<ee type="oa">http://dl.ifip.org/db/conf/lanoms/lanoms2019/196373_1.pdf</ee>
+<crossref>conf/lanoms/2019</crossref>
+<url>db/conf/lanoms/lanoms2019.html#OliveiraMA19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lanoms/QuincozesSNAPM19" mdate="2022-08-23">
+<author pid="191/5671">Silvio E. Quincozes</author>
+<author pid="64/6563">Carlos Raniery Paula dos Santos</author>
+<author pid="76/5337">Raul Ceretta Nunes</author>
+<author pid="40/809">C&#233;lio Vinicius Neves de Albuquerque</author>
+<author pid="47/4581">Diego G. Passos 0001</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>A Counselors-Based Intrusion Detection Architecture.</title>
+<year>2019</year>
+<booktitle>LANOMS</booktitle>
+<ee type="oa">http://dl.ifip.org/db/conf/lanoms/lanoms2019/195690_1.pdf</ee>
+<crossref>conf/lanoms/2019</crossref>
+<url>db/conf/lanoms/lanoms2019.html#QuincozesSNAPM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lanoms/QuincozesSOCLMF19" mdate="2022-10-04">
+<author pid="191/5671">Silvio E. Quincozes</author>
+<author pid="246/3959">Arthur Albuquerque Zopellaro Soares</author>
+<author pid="259/1972">Wilker Oliveira</author>
+<author pid="259/1979">Eduardo B. Cordeiro</author>
+<author pid="253/7210">Robson Ara&#250;jo Lima</author>
+<author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<author pid="171/5546">Vinicius C. Ferreira 0001</author>
+<author pid="165/3754">Yona Lopes</author>
+<author pid="247/0245">Juan Lucas Vieira</author>
+<author pid="259/1971">Luana M. Uch&#244;a</author>
+<author pid="259/1988">H&#233;lio N. Cunha Neto</author>
+<author pid="259/1978">Leonardo F. Soares</author>
+<author pid="88/3693">Natalia Castro Fernandes</author>
+<author pid="47/4581">Diego G. Passos 0001</author>
+<author pid="40/809">C&#233;lio Vinicius Neves de Albuquerque</author>
+<title>Survey and Comparison of SDN Controllers for Teleprotection and Control Power Systems.</title>
+<year>2019</year>
+<booktitle>LANOMS</booktitle>
+<ee type="oa">http://dl.ifip.org/db/conf/lanoms/lanoms2019/196234_1.pdf</ee>
+<crossref>conf/lanoms/2019</crossref>
+<url>db/conf/lanoms/lanoms2019.html#QuincozesSOCLMF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mswim/LimaFCAM19" mdate="2022-10-04">
+<author pid="253/7210">Robson Ara&#250;jo Lima</author>
+<author pid="171/5546">Vinicius C. Ferreira 0001</author>
+<author pid="253/7360">Egberto Caballero</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius Neves de Albuquerque</author>
+<author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<title>Simulation of ISO/IEEE 11073 Personal Health Devices in WBANs.</title>
+<pages>221-224</pages>
+<year>2019</year>
+<booktitle>MSWiM</booktitle>
+<ee>https://doi.org/10.1145/3345768.3355939</ee>
+<crossref>conf/mswim/2019</crossref>
+<url>db/conf/mswim/mswim2019.html#LimaFCAM19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/lanoms/2019" mdate="2020-03-02">
+<editor pid="47/772">Artur Ziviani</editor>
+<editor pid="40/809">C&#233;lio Vinicius Neves de Albuquerque</editor>
+<editor pid="32/6032">Igor Monteiro Moraes</editor>
+<title>9th Latin American Network Operations and Management Symposium, LANOMS 2019, Niter&#243;i, Rio de Janeiro, Brazil, September 25-27, 2019.</title>
+<booktitle>LANOMS</booktitle>
+<publisher>IFIP</publisher>
+<year>2019</year>
+<isbn>978-3-903176-23-2</isbn>
+<ee>http://dl.ifip.org/db/conf/lanoms/lanoms2019/index.html</ee>
+<url>db/conf/lanoms/lanoms2019.html</url>
+</proceedings>
+</r>
+<r><article key="journals/scn/JesusCAR18" mdate="2023-08-28">
+<author orcid="0000-0003-4153-0393" pid="217/3989">Emanuel Ferreira Jesus</author>
+<author pid="217/4114">Vanessa R. L. Chicarino</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<author pid="209/2422">Ant&#244;nio A. de A. Rocha</author>
+<title>A Survey of How to Use Blockchain to Secure Internet of Things and the Stalker Attack.</title>
+<pages>9675050:1-9675050:27</pages>
+<year>2018</year>
+<volume>2018</volume>
+<journal>Secur. Commun. Networks</journal>
+<ee type="oa">https://doi.org/10.1155/2018/9675050</ee>
+<ee>https://www.wikidata.org/entity/Q121008367</ee>
+<url>db/journals/scn/scn2018.html#JesusCAR18</url>
+</article>
+</r>
+<r><article key="journals/simpra/PassosA18" mdate="2022-08-23">
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<title>AFTER: Algorithmic Framework for Throughput EstimatoRs for IEEE 802.11 networks.</title>
+<pages>143-160</pages>
+<year>2018</year>
+<volume>84</volume>
+<journal>Simul. Model. Pract. Theory</journal>
+<ee>https://doi.org/10.1016/j.simpat.2018.02.006</ee>
+<url>db/journals/simpra/simpra84.html#PassosA18</url>
+</article>
+</r>
+<r><article key="journals/tsg/RolimPAM18" mdate="2022-08-23">
+<author orcid="0000-0001-6483-6534" pid="174/1545">Guilherme Rolim</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author pid="32/6032">Igor M. Moraes</author>
+<title>MOSKOU: A Heuristic for Data Aggregator Positioning in Smart Grids.</title>
+<pages>6206-6213</pages>
+<year>2018</year>
+<volume>9</volume>
+<journal>IEEE Trans. Smart Grid</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TSG.2017.2706962</ee>
+<url>db/journals/tsg/tsg9.html#RolimPAM18</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscc/SaraivaPAC18" mdate="2023-05-15">
+<author pid="230/1863-2">Andre Saraiva 0002</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author pid="75/10038">Ricardo Campanha Carrano</author>
+<title>Reducing multi-hop communication latency of schedule-based asynchronous duty cycle mechanisms through low-resolution synchronization.</title>
+<pages>142-147</pages>
+<year>2018</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2018.8538477</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2018.8538477</ee>
+<crossref>conf/iscc/2018</crossref>
+<url>db/conf/iscc/iscc2018.html#SaraivaPAC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/SilvaPA18" mdate="2023-03-24">
+<author pid="181/2757-7">Bruno Silva 0007</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<title>Reducing the Variability in Routing Decisions in Wireless Mesh Networks.</title>
+<pages>504-507</pages>
+<year>2018</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2018.8538715</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2018.8538715</ee>
+<crossref>conf/iscc/2018</crossref>
+<url>db/conf/iscc/iscc2018.html#SilvaPA18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/JesusCAR18" mdate="2022-02-18">
+<author pid="217/3989">Emanuel Ferreira Jesus</author>
+<author pid="217/4114">Vanessa R. L. Chicarino</author>
+<author pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author pid="209/2422">Ant&#244;nio A. de A. Rocha</author>
+<title>Stalker - Uma Nova Estrat&#233;gia para o Atacante Ego&#237;sta em Blockchains.</title>
+<pages>519-532</pages>
+<year>2018</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc.2018.2439</ee>
+<crossref>conf/sbrc/2018</crossref>
+<url>db/conf/sbrc/sbrc2018.html#JesusCAR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/0007PA18" mdate="2022-08-23">
+<author pid="181/2757-7">Bruno Silva 0007</author>
+<author pid="47/4581">Diego G. Passos 0001</author>
+<author pid="40/809">C&#233;lio Albuquerque 0001</author>
+<title>Reduzindo a Variabilidade das Decis&#245;es de Roteamento em Redes em Malha Sem Fio.</title>
+<pages>1047-1060</pages>
+<year>2018</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc.2018.2477</ee>
+<crossref>conf/sbrc/2018</crossref>
+<url>db/conf/sbrc/sbrc2018.html#0007PA18</url>
+</inproceedings>
+</r>
+<r><article key="journals/csi/JulioBCMA17" mdate="2022-01-26">
+<author pid="191/1796">Eduardo Julio</author>
+<author pid="64/10127">Helga Dolorico Balbi</author>
+<author pid="75/10038">Ricardo Campanha Carrano</author>
+<author pid="13/6767">Luiz Claudio Schara Magalh&#227;es</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<title>Coexistence server in Cognitive Networks: A real implementation.</title>
+<pages>223-235</pages>
+<year>2017</year>
+<volume>50</volume>
+<journal>Comput. Stand. Interfaces</journal>
+<ee>https://doi.org/10.1016/j.csi.2016.10.007</ee>
+<url>db/journals/csi/csi50.html#JulioBCMA17</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/KniessASA17" mdate="2023-03-24">
+<author pid="148/0121">Janine Kniess</author>
+<author pid="a/LucianaArantes">Luciana Arantes</author>
+<author pid="10/216-1">Pierre Sens 0001</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>Saving Resources in Discovery Protocol on Delay-Sensitive Rescue Mobile Networks.</title>
+<pages>538-545</pages>
+<year>2017</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2017.81</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AINA.2017.81</ee>
+<crossref>conf/aina/2017</crossref>
+<url>db/conf/aina/aina2017.html#KniessASA17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/im/FerreiraCSAMP17" mdate="2022-10-04">
+<author pid="171/5546">Vinicius C. Ferreira 0001</author>
+<author pid="75/10038">Ricardo Campanha Carrano</author>
+<author pid="203/6448">Joacir O. Silva</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<title>Fault detection and diagnosis for solar-powered Wireless Mesh Networks using machine learning.</title>
+<pages>456-462</pages>
+<year>2017</year>
+<booktitle>IM</booktitle>
+<ee>https://doi.org/10.23919/INM.2017.7987312</ee>
+<crossref>conf/im/2017</crossref>
+<url>db/conf/im/im2017.html#FerreiraCSAMP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isie/NoceLFAM17" mdate="2021-10-14">
+<author pid="219/0755">Julia Noce</author>
+<author orcid="0000-0002-8068-2640" pid="165/3754">Yona Lopes</author>
+<author orcid="0000-0001-9481-6374" pid="88/3693">Natalia Castro Fernandes</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius Neves de Albuquerque</author>
+<author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<title>Identifying vulnerabilities in smart gric communication networks of electrical substations using GEESE 2.0.</title>
+<pages>111-116</pages>
+<year>2017</year>
+<booktitle>ISIE</booktitle>
+<ee>https://doi.org/10.1109/ISIE.2017.8001232</ee>
+<crossref>conf/isie/2017</crossref>
+<url>db/conf/isie/isie2017.html#NoceLFAM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mswim/SousaPCA17" mdate="2022-08-23">
+<author orcid="0000-0003-3892-1799" pid="156/8787">Cledson Oliveira de Sousa</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="75/10038">Ricardo Campanha Carrano</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<title>Multi-Channel Continuous Rendezvous in Cognitive Networks.</title>
+<pages>63-70</pages>
+<year>2017</year>
+<booktitle>MSWiM</booktitle>
+<ee>https://doi.org/10.1145/3127540.3127552</ee>
+<crossref>conf/mswim/2017</crossref>
+<url>db/conf/mswim/mswim2017.html#SousaPCA17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/SaraivaPCA17" mdate="2022-08-23">
+<author pid="230/1863-2">Andr&#233; R. C. Saraiva</author>
+<author pid="47/4581">Diego G. Passos 0001</author>
+<author pid="75/10038">Ricardo Campanha Carrano</author>
+<author pid="40/809">C&#233;lio Vinicius N. Albuquerque</author>
+<title>Reduzindo a lat&#234;ncia de comunica&#231;&#227;o em m&#250; ltiplos saltos dos mecanismos de duty cycle ass&#237;ncrono baseados em schedule atrav&#233;s de sincroniza&#231;&#227;o de baixa resolu&#231;&#227;o.</title>
+<year>2017</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://sol.sbc.org.br/index.php/sbrc/article/view/2651</ee>
+<crossref>conf/sbrc/2017</crossref>
+<url>db/conf/sbrc/sbrc2017.html#SaraivaPCA17</url>
+</inproceedings>
+</r>
+<r><article key="journals/ett/PassosSA16" mdate="2022-08-23">
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="165/1975">Felipe Souza</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<title>Linear mesh network planning for power transmission line management.</title>
+<pages>1396-1408</pages>
+<year>2016</year>
+<volume>27</volume>
+<journal>Trans. Emerg. Telecommun. Technol.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1002/ett.3064</ee>
+<url>db/journals/ett/ett27.html#PassosSA16</url>
+</article>
+</r>
+<r><article key="journals/ijwin/OliveiraSPNMMA16" mdate="2022-08-23">
+<author pid="90/4370">Etienne C. R. de Oliveira</author>
+<author orcid="0000-0002-0058-9260" pid="241/2605">Edelberto F. Silva</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="125/8670">Juliano Fischer Naves</author>
+<author pid="21/5891">D&#233;bora Christina Muchaluat-Saade</author>
+<author pid="32/6032">Igor M. Moraes</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<title>Context-Aware Routing in Delay and Disruption Tolerant Networks.</title>
+<pages>231-245</pages>
+<year>2016</year>
+<volume>23</volume>
+<journal>Int. J. Wirel. Inf. Networks</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10776-016-0315-2</ee>
+<url>db/journals/ijwin/ijwin23.html#OliveiraSPNMMA16</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscc/GuimaraesRAR16" mdate="2023-03-24">
+<author pid="152/9503">Flavio Guimaraes</author>
+<author pid="209/2422">Ant&#244;nio A. de A. Rocha</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<author pid="33/10759">Igor Cesar Gonzalez Ribeiro</author>
+<title>Modeling NDN PIT to analyze the limits of timeout on the effectiveness of flooding attacks.</title>
+<pages>1245-1250</pages>
+<year>2016</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2016.7543907</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2016.7543907</ee>
+<crossref>conf/iscc/2016</crossref>
+<url>db/conf/iscc/iscc2016.html#GuimaraesRAR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latincom/BulhoesPA16" mdate="2022-08-23">
+<author pid="193/5654">Rodolfo P. Bulhoes</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>Collision probability estimation in wireless networks.</title>
+<pages>1-6</pages>
+<year>2016</year>
+<booktitle>LATINCOM</booktitle>
+<ee>https://doi.org/10.1109/LATINCOM.2016.7811595</ee>
+<crossref>conf/latincom/2016</crossref>
+<url>db/conf/latincom/latincom2016.html#BulhoesPA16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nof/RibeiroRAG16" mdate="2022-02-23">
+<author pid="33/10759">Igor Cesar Gonzalez Ribeiro</author>
+<author pid="209/2422">Ant&#244;nio A. de A. Rocha</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author pid="152/9503">Flavio Guimaraes</author>
+<title>Content pollution mitigation for Content-Centric Networking.</title>
+<pages>1-5</pages>
+<year>2016</year>
+<booktitle>NOF</booktitle>
+<ee>https://doi.org/10.1109/NOF.2016.7810123</ee>
+<crossref>conf/nof/2016</crossref>
+<url>db/conf/nof/nof2016.html#RibeiroRAG16</url>
+</inproceedings>
+</r>
+<r><article key="journals/esi/KniessLA15" mdate="2020-09-08">
+<author pid="148/0121">Janine Kniess</author>
+<author pid="37/6173">Orlando Loques</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>Service discovery with time constraints in mobile ad hoc networks.</title>
+<pages>439-452</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Earth Sci. Informatics</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s12145-014-0164-4</ee>
+<url>db/journals/esi/esi8.html#KniessLA15</url>
+</article>
+</r>
+<r><article key="journals/ijdsn/KazienkoFMA15" mdate="2020-06-21">
+<author orcid="0000-0002-0159-3210" pid="49/8379">Juliano F. Kazienko</author>
+<author pid="183/5638">Paulo R. S. Silva Filho</author>
+<author pid="32/6032">Igor M. Moraes</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius Neves de Albuquerque</author>
+<title>On the Performance of a Secure Storage Mechanism for Key Distribution Architectures in Wireless Sensor Networks.</title>
+<pages>392495:1-392495:14</pages>
+<year>2015</year>
+<volume>11</volume>
+<journal>Int. J. Distributed Sens. Networks</journal>
+<ee type="oa">https://doi.org/10.1155/2015/392495</ee>
+<ee>https://www.wikidata.org/entity/Q59107878</ee>
+<url>db/journals/ijdsn/ijdsn11.html#KazienkoFMA15</url>
+</article>
+</r>
+<r><article key="journals/ol/NevesOA15" mdate="2020-07-03">
+<author pid="79/8724">Tiago Ara&#250;jo Neves</author>
+<author orcid="0000-0002-5007-4513" pid="o/LuizSatoruOchi">Luiz Satoru Ochi</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>A new hybrid heuristic for replica placement and request distribution in content distribution networks.</title>
+<pages>677-692</pages>
+<year>2015</year>
+<volume>9</volume>
+<journal>Optim. Lett.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s11590-014-0770-6</ee>
+<url>db/journals/ol/ol9.html#NevesOA15</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEcit/RolimPMA15" mdate="2022-08-23">
+<author pid="174/1545">Guilherme Rolim</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="32/6032">Igor M. Moraes</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<title>Modelling the Data Aggregator Positioning Problem in Smart Grids.</title>
+<pages>632-639</pages>
+<year>2015</year>
+<booktitle>CIT/IUCC/DASC/PICom</booktitle>
+<ee>https://doi.org/10.1109/CIT/IUCC/DASC/PICOM.2015.90</ee>
+<crossref>conf/IEEEcit/2015</crossref>
+<url>db/conf/IEEEcit/cit-iucc-dasc-picom2015.html#RolimPMA15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccnc/SiqueiraPMA15" mdate="2022-08-23">
+<author pid="165/5410">Bruno Siqueira</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="21/5891">D&#233;bora Christina Muchaluat-Saade</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<title>LIBR: ID-based routing for linear Wireless Mesh Networks.</title>
+<pages>461-466</pages>
+<year>2015</year>
+<booktitle>CCNC</booktitle>
+<ee>https://doi.org/10.1109/CCNC.2015.7158019</ee>
+<crossref>conf/ccnc/2015</crossref>
+<url>db/conf/ccnc/ccnc2015.html#SiqueiraPMA15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mswim/OkabayashiRPA15" mdate="2022-08-23">
+<author pid="170/2629">Vitor Hugo Okabayashi</author>
+<author pid="33/10759">Igor Cesar Gonzalez Ribeiro</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius Neves de Albuquerque</author>
+<title>A Resilient Dynamic Gateway Selection Algorithm Based on Quality Aware Metrics for Smart Grids.</title>
+<pages>91-98</pages>
+<year>2015</year>
+<booktitle>MSWiM</booktitle>
+<ee>https://doi.org/10.1145/2811587.2811613</ee>
+<crossref>conf/mswim/2015</crossref>
+<url>db/conf/mswim/mswim2015.html#OkabayashiRPA15</url>
+</inproceedings>
+</r>
+<r><article key="journals/adhoc/CarranoPMA14" mdate="2022-08-23">
+<author pid="75/10038">Ricardo Campanha Carrano</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="13/6767">Luiz Claudio Schara Magalh&#227;es</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>A comprehensive analysis on the use of schedule-based asynchronous duty cycling in wireless sensor networks.</title>
+<pages>142-164</pages>
+<year>2014</year>
+<volume>16</volume>
+<journal>Ad Hoc Networks</journal>
+<ee>https://doi.org/10.1016/j.adhoc.2013.12.009</ee>
+<url>db/journals/adhoc/adhoc16.html#CarranoPMA14</url>
+</article>
+</r>
+<r><article key="journals/comsur/CarranoPMA14" mdate="2022-08-23">
+<author pid="75/10038">Ricardo Campanha Carrano</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="13/6767">Luiz Claudio Schara Magalh&#227;es</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>Survey and Taxonomy of Duty Cycling Mechanisms in Wireless Sensor Networks.</title>
+<pages>181-194</pages>
+<year>2014</year>
+<volume>16</volume>
+<journal>IEEE Commun. Surv. Tutorials</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/SURV.2013.052213.00116</ee>
+<url>db/journals/comsur/comsur16.html#CarranoPMA14</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscc/OliveiraPA14" mdate="2023-03-24">
+<author pid="207/1344-1">Luiz F. S. Oliveira</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>Evaluating secondary transmission opportunities with full duplex radios.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2014.6912596</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2014.6912596</ee>
+<crossref>conf/iscc/2014</crossref>
+<url>db/conf/iscc/iscc2014.html#OliveiraPA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/SousaCMA14" mdate="2024-02-05">
+<author orcid="0000-0003-3892-1799" pid="156/8787">Cledson Sousa</author>
+<author pid="75/10038">Ricardo Campanha Carrano</author>
+<author pid="13/6767">Luiz Claudio Schara Magalh&#227;es</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>STELE: A Simple Technique for Local delay Estimation in WSN.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2014.6912533</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2014.6912533</ee>
+<crossref>conf/iscc/2014</crossref>
+<url>db/conf/iscc/iscc2014.html#SousaCMA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lcn/RibeiroRAG14" mdate="2023-03-24">
+<author pid="33/10759">Igor Cesar Gonzalez Ribeiro</author>
+<author pid="209/2422">Ant&#244;nio A. de A. Rocha</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<author pid="152/9503">Flavio Guimaraes</author>
+<title>On the possibility of mitigating content pollution in Content-Centric Networking.</title>
+<pages>498-501</pages>
+<year>2014</year>
+<booktitle>LCN</booktitle>
+<ee>https://doi.org/10.1109/LCN.2014.6925826</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LCN.2014.6925826</ee>
+<crossref>conf/lcn/2014</crossref>
+<url>db/conf/lcn/lcn2014.html#RibeiroRAG14</url>
+</inproceedings>
+</r>
+<r><article key="journals/cn/CarranoPMA13" mdate="2022-08-23">
+<author pid="75/10038">Ricardo Campanha Carrano</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="13/6767">Luiz Claudio Schara Magalh&#227;es</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>Nested block designs: Flexible and efficient schedule-based asynchronous duty cycling.</title>
+<pages>3316-3326</pages>
+<year>2013</year>
+<volume>57</volume>
+<journal>Comput. Networks</journal>
+<number>17</number>
+<ee>https://doi.org/10.1016/j.comnet.2013.07.020</ee>
+<url>db/journals/cn/cn57.html#CarranoPMA13</url>
+</article>
+</r>
+<r><article key="journals/csi/PassosCA13" mdate="2022-08-23">
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="75/10038">Ricardo Campanha Carrano</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<title>On the decrease in frame reception probability under heavy transmission loads in IEEE 802.11 networks.</title>
+<pages>374-379</pages>
+<year>2013</year>
+<volume>35</volume>
+<journal>Comput. Stand. Interfaces</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.csi.2012.10.006</ee>
+<url>db/journals/csi/csi35.html#PassosCA13</url>
+</article>
+</r>
+<r><article key="journals/scn/KazienkoRMA13" mdate="2022-02-23">
+<author orcid="0000-0002-0159-3210" pid="49/8379">Juliano F. Kazienko</author>
+<author pid="33/10759">Igor Cesar Gonzalez Ribeiro</author>
+<author pid="32/6032">Igor M. Moraes</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>SENSORLock: a lightweight key management scheme for wireless sensor networks.</title>
+<pages>1198-1210</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Secur. Commun. Networks</journal>
+<number>10</number>
+<ee>https://doi.org/10.1002/sec.686</ee>
+<url>db/journals/scn/scn6.html#KazienkoRMA13</url>
+</article>
+</r>
+<r><article key="journals/wcl/CarranoPMA13" mdate="2022-08-23">
+<author pid="75/10038">Ricardo Campanha Carrano</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="13/6767">Luiz Claudio Schara Magalh&#227;es</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<title>An Exact Model of the Neighbor Discovery Time for Schedule-Based Asynchronous Duty Cycling.</title>
+<pages>635-638</pages>
+<year>2013</year>
+<volume>2</volume>
+<journal>IEEE Wirel. Commun. Lett.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/WCL.2013.090313.130599</ee>
+<url>db/journals/wcl/wcl2.html#CarranoPMA13</url>
+</article>
+</r>
+<r><article key="journals/ton/PassosA12" mdate="2022-08-23">
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>A Joint Approach to Routing Metrics and Rate Adaptation in Wireless Mesh Networks.</title>
+<pages>999-1009</pages>
+<year>2012</year>
+<volume>20</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TNET.2011.2170585</ee>
+<url>db/journals/ton/ton20.html#PassosA12</url>
+</article>
+</r>
+<r><inproceedings key="conf/giis/BalbiFSCAMM12" mdate="2022-01-26">
+<author pid="64/10127">Helga Dolorico Balbi</author>
+<author orcid="0000-0001-9481-6374" pid="88/3693">Natalia Castro Fernandes</author>
+<author pid="165/1975">Felipe Souza</author>
+<author pid="75/10038">Ricardo Campanha Carrano</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<author pid="13/6767">Luiz Claudio Schara Magalh&#227;es</author>
+<title>Centralized channel allocation algorithm for IEEE 802.11 networks.</title>
+<pages>1-7</pages>
+<year>2012</year>
+<booktitle>GIIS</booktitle>
+<ee>https://doi.org/10.1109/GIIS.2012.6466657</ee>
+<crossref>conf/giis/2012</crossref>
+<url>db/conf/giis/giis2012.html#BalbiFSCAMM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/giis/SilvaOAM12" mdate="2020-09-05">
+<author orcid="0000-0002-0058-9260" pid="241/2605">Edelberto F. Silva</author>
+<author pid="90/4370">Etienne C. R. de Oliveira</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<title>Context adaptation in delay and disruption tolerant networks.</title>
+<pages>1-6</pages>
+<year>2012</year>
+<booktitle>GIIS</booktitle>
+<ee>https://doi.org/10.1109/GIIS.2012.6466663</ee>
+<crossref>conf/giis/2012</crossref>
+<url>db/conf/giis/giis2012.html#SilvaOAM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/PassosA12" mdate="2022-08-23">
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>Modeling the transmission of coded packets for coding aware routing.</title>
+<pages>118-124</pages>
+<year>2012</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2012.6503100</ee>
+<crossref>conf/globecom/2012</crossref>
+<url>db/conf/globecom/globecom2012.html#PassosA12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lcn/NavesMA12" mdate="2023-03-24">
+<author pid="125/8670">Juliano Fischer Naves</author>
+<author pid="32/6032">Igor Monteiro Moraes</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>LPS and LRF: Efficient buffer management policies for Delay and Disruption Tolerant Networks.</title>
+<pages>368-375</pages>
+<year>2012</year>
+<booktitle>LCN</booktitle>
+<ee>https://doi.org/10.1109/LCN.2012.6423649</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LCN.2012.6423649</ee>
+<crossref>conf/lcn/2012</crossref>
+<url>db/conf/lcn/lcn2012.html#NavesMA12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wd/CarranoPMA12" mdate="2022-08-23">
+<author pid="75/10038">Ricardo Campanha Carrano</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="13/6767">Luiz Claudio Schara Magalh&#227;es</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>Neighbor discovery time in schedule-based asynchronous duty cycling.</title>
+<pages>1-3</pages>
+<year>2012</year>
+<booktitle>Wireless Days</booktitle>
+<ee>https://doi.org/10.1109/WD.2012.6402841</ee>
+<crossref>conf/wd/2012</crossref>
+<url>db/conf/wd/wd2012.html#CarranoPMA12</url>
+</inproceedings>
+</r>
+<r><article key="journals/cleiej/KazienkoRMA11" mdate="2025-01-19">
+<author orcid="0000-0002-0159-3210" pid="49/8379">Juliano F. Kazienko</author>
+<author pid="33/10759">Igor Cesar Gonzalez Ribeiro</author>
+<author pid="32/6032">Igor M. Moraes</author>
+<author pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>Practical Evaluation of a Secure Key-Distribution and Storage Scheme for Wireless Sensor Networks Using TinyOS.</title>
+<year>2011</year>
+<volume>14</volume>
+<journal>CLEI Electron. J.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.19153/cleiej.14.1.8</ee>
+<ee>https://www.wikidata.org/entity/Q128958551</ee>
+<url>db/journals/cleiej/cleiej14.html#KazienkoRMA11</url>
+</article>
+</r>
+<r><article key="journals/comsur/CarranoMMA11" mdate="2020-04-09">
+<author pid="75/10038">Ricardo Campanha Carrano</author>
+<author pid="13/6767">Luiz Claudio Schara Magalh&#227;es</author>
+<author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>IEEE 802.11s Multihop MAC: A Tutorial.</title>
+<pages>52-67</pages>
+<year>2011</year>
+<volume>13</volume>
+<journal>IEEE Commun. Surv. Tutorials</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/SURV.2011.040210.00037</ee>
+<url>db/journals/comsur/comsur13.html#CarranoMMA11</url>
+</article>
+</r>
+<r><article key="journals/jisa/PassosACCD11" mdate="2022-08-23">
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<author orcid="0000-0002-8752-9382" pid="02/4935">Miguel Elias M. Campista</author>
+<author orcid="0000-0002-7789-3359" pid="51/7019">Lu&#237;s Henrique Maciel Kosmalski Costa</author>
+<author pid="18/2077">Otto Carlos Muniz Bandeira Duarte</author>
+<title>Minimum loss multiplicative routing metrics for wireless mesh networks.</title>
+<pages>201-214</pages>
+<year>2011</year>
+<volume>1</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s13174-010-0015-6</ee>
+<url>db/journals/jisa/jisa1.html#PassosACCD11</url>
+</article>
+</r>
+<r><inproceedings key="conf/latw/KniessLA11" mdate="2023-08-06">
+<author pid="148/0121">Janine Kniess</author>
+<author pid="37/6173">Orlando Loques</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>A fault-tolerant service discovery protocol for emergency search and rescue missions.</title>
+<pages>1-6</pages>
+<year>2011</year>
+<booktitle>LATW</booktitle>
+<ee>https://doi.org/10.1109/LATW.2011.5985903</ee>
+<crossref>conf/latw/2011</crossref>
+<url>db/conf/latw/latw2011.html#KniessLA11</url>
+</inproceedings>
+</r>
+<r><article key="journals/endm/NevesDOAU10" mdate="2022-04-09">
+<author pid="79/8724">Tiago Ara&#250;jo Neves</author>
+<author orcid="0000-0002-3831-5230" pid="41/2824">L&#250;cia M. A. Drummond</author>
+<author orcid="0000-0002-5007-4513" pid="o/LuizSatoruOchi">Luiz Satoru Ochi</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author orcid="0000-0002-8687-2613" pid="91/2066">Eduardo Uchoa</author>
+<title>Solving Replica Placement and Request Distribution in Content Distribution Networks.</title>
+<pages>89-96</pages>
+<year>2010</year>
+<volume>36</volume>
+<journal>Electron. Notes Discret. Math.</journal>
+<ee>https://doi.org/10.1016/j.endm.2010.05.012</ee>
+<url>db/journals/endm/endm36.html#NevesDOAU10</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEcit/KazienkoA10" mdate="2023-03-24">
+<author orcid="0000-0002-0159-3210" pid="49/8379">Juliano F. Kazienko</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>Secure Secret Key Distribution and Storage in Wireless Sensor Networks.</title>
+<pages>890-895</pages>
+<year>2010</year>
+<booktitle>CIT</booktitle>
+<ee>https://doi.org/10.1109/CIT.2010.166</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CIT.2010.166</ee>
+<crossref>conf/IEEEcit/2010</crossref>
+<url>db/conf/IEEEcit/IEEEcit2010.html#KazienkoA10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/OliveiraA09" mdate="2018-11-06">
+<author pid="90/4370">Etienne C. R. de Oliveira</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>NECTAR: a DTN routing protocol based on neighborhood contact history.</title>
+<pages>40-46</pages>
+<year>2009</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1529282.1529290</ee>
+<crossref>conf/sac/2009</crossref>
+<url>db/conf/sac/sac2009.html#OliveiraA09</url>
+</inproceedings>
+</r>
+<r><article key="journals/network/CampistaEMCDPAMR08" mdate="2022-08-23">
+<author orcid="0000-0002-8752-9382" pid="02/4935">Miguel Elias M. Campista</author>
+<author pid="46/6217">Pedro Miguel Esposito</author>
+<author pid="32/6032">Igor M. Moraes</author>
+<author orcid="0000-0002-7789-3359" pid="51/7019">Lu&#237;s Henrique Maciel Kosmalski Costa</author>
+<author pid="18/2077">Otto Carlos Muniz Bandeira Duarte</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<author orcid="0000-0002-2509-4010" pid="00/4946">Marcelo G. Rubinstein</author>
+<title>Routing Metrics and Protocols for Wireless Mesh Networks.</title>
+<pages>6-12</pages>
+<year>2008</year>
+<volume>22</volume>
+<journal>IEEE Netw.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MNET.2008.4435897</ee>
+<url>db/journals/network/network22.html#CampistaEMCDPAMR08</url>
+</article>
+</r>
+<r><article key="journals/wc/MoraesCCDDPAR08" mdate="2022-08-23">
+<author pid="32/6032">Igor M. Moraes</author>
+<author orcid="0000-0002-8752-9382" pid="02/4935">Miguel Elias M. Campista</author>
+<author orcid="0000-0002-7789-3359" pid="51/7019">Lu&#237;s Henrique Maciel Kosmalski Costa</author>
+<author pid="18/2077">Otto Carlos Muniz Bandeira Duarte</author>
+<author pid="71/10127">Jairo Leite Duarte</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<author orcid="0000-0002-2509-4010" pid="00/4946">Marcelo G. Rubinstein</author>
+<title>On the impact of user mobility on peer-to-peer video streaming.</title>
+<pages>54-62</pages>
+<year>2008</year>
+<volume>15</volume>
+<journal>IEEE Wirel. Commun.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/MWC.2008.4749748</ee>
+<url>db/journals/wc/wc15.html#MoraesCCDDPAR08</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscc/VallePAM08" mdate="2023-03-24">
+<author pid="05/4844">Rafael De T. Valle</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<title>Mesh Topology Viewer (MTV): an SVG-based interactive mesh network topology visualization tool.</title>
+<pages>292-297</pages>
+<year>2008</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2008.4625602</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2008.4625602</ee>
+<crossref>conf/iscc/2008</crossref>
+<url>db/conf/iscc/iscc2008.html#VallePAM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/MouraVARB07" mdate="2018-11-02">
+<author pid="21/4894">Nilmax Teones Moura</author>
+<author pid="85/399">Bruno A. Vianna</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<author pid="89/6061">Cristina Boeres</author>
+<title>MOS-Based Rate Adaption for VoIP Sources.</title>
+<pages>628-633</pages>
+<year>2007</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2007.108</ee>
+<crossref>conf/icc/2007</crossref>
+<url>db/conf/icc/icc2007.html#MouraVARB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lanoms/DuartePVOMA07" mdate="2022-08-23">
+<author pid="71/10127">Jairo Leite Duarte</author>
+<author orcid="0000-0002-9707-1176" pid="47/4581">Diego G. Passos 0001</author>
+<author pid="54/2896">Rafael L. Valle</author>
+<author pid="90/4370">Etienne C. R. de Oliveira</author>
+<author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>Management Issues on Wireless Mesh Networks.</title>
+<pages>8-19</pages>
+<year>2007</year>
+<booktitle>LANOMS</booktitle>
+<ee>https://doi.org/10.1109/LANOMS.2007.4362455</ee>
+<crossref>conf/lanoms/2007</crossref>
+<url>db/conf/lanoms/lanoms2007.html#DuartePVOMA07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip6-2/KniessA06" mdate="2018-11-02">
+<author pid="148/0121">Janine Kniess</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<title>A Survey of Application-level Multicast Group Communication and a Proposal for Intelligent Reflectors.</title>
+<pages>117-126</pages>
+<year>2006</year>
+<booktitle>Net-Con</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-0-387-34827-8_10</ee>
+<crossref>conf/ifip6-2/2006</crossref>
+<url>db/conf/ifip6-2/ifip6-2-2006.html#KniessA06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/ViannaMARB06" mdate="2018-11-06">
+<author pid="14/520">Bruno de Azevedo Vianna</author>
+<author pid="21/4894">Nilmax Teones Moura</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius Neves de Albuquerque</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<author pid="89/6061">Cristina Boeres</author>
+<title>adaMOS: MOS-adaptive VoIP sources.</title>
+<pages>223-232</pages>
+<year>2006</year>
+<crossref>conf/webmedia/2006</crossref>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/1186595.1186622</ee>
+<url>db/conf/webmedia/webmedia2006.html#ViannaMARB06</url>
+</inproceedings>
+</r>
+<r><article key="journals/ton/AlbuquerqueVS04" mdate="2022-01-26">
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author pid="79/2800">Brett J. Vickers</author>
+<author pid="74/6935">Tatsuya Suda</author>
+<title>Network border patrol: preventing congestion collapse and promoting fairness in the internet.</title>
+<pages>173-186</pages>
+<year>2004</year>
+<volume>12</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TNET.2003.820248</ee>
+<url>db/journals/ton/ton12.html#AlbuquerqueVS04</url>
+</article>
+</r>
+<r><article key="journals/cm/HongAOS01" mdate="2022-01-26">
+<author pid="03/372">Duke P. Hong</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author pid="47/248-1">Carlos Oliveira 0001</author>
+<author pid="74/6935">Tatsuya Suda</author>
+<title>Evaluating the impact of emerging streaming media applications on TCP/IP performance.</title>
+<pages>76-82</pages>
+<year>2001</year>
+<volume>39</volume>
+<journal>IEEE Commun. Mag.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/35.917507</ee>
+<ee>https://www.wikidata.org/entity/Q56952254</ee>
+<url>db/journals/cm/cm39.html#HongAOS01</url>
+</article>
+</r>
+<r><article key="journals/pe/AlbuquerqueVS00" mdate="2022-01-26">
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author pid="79/2800">Brett J. Vickers</author>
+<author pid="74/6935">Tatsuya Suda</author>
+<title>Credit-based source-adaptive multilayered video multicast.</title>
+<pages>135-159</pages>
+<year>2000</year>
+<volume>40</volume>
+<journal>Perform. Evaluation</journal>
+<number>1-3</number>
+<url>db/journals/pe/pe40.html#AlbuquerqueVS00</url>
+<ee>https://doi.org/10.1016/S0166-5316(99)00073-5</ee>
+</article>
+</r>
+<r><article key="journals/ton/VickersAS00" mdate="2022-01-26">
+<author pid="79/2800">Brett J. Vickers</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author pid="74/6935">Tatsuya Suda</author>
+<title>Source-adaptive multilayered multicast algorithms for real-time video distribution.</title>
+<pages>720-733</pages>
+<year>2000</year>
+<volume>8</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/90.893869</ee>
+<url>db/journals/ton/ton8.html#VickersAS00</url>
+</article>
+</r>
+<r><inproceedings key="conf/infocom/AlbuquerqueVS00" mdate="2023-03-23">
+<author pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author pid="79/2800">Brett J. Vickers</author>
+<author pid="74/6935">Tatsuya Suda</author>
+<title>Network Border Patrol.</title>
+<pages>322-331</pages>
+<year>2000</year>
+<crossref>conf/infocom/2000</crossref>
+<booktitle>INFOCOM</booktitle>
+<ee>https://doi.org/10.1109/INFCOM.2000.832202</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/INFCOM.2000.832202</ee>
+<url>db/conf/infocom/infocom2000-1.html#AlbuquerqueVS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/FerreiraAAOFM98" mdate="2022-01-28">
+<author orcid="0000-0001-7471-3888" pid="52/5794">Jo&#227;o Canas Ferreira</author>
+<author pid="29/5568">Jos&#233; Carlos Alves</author>
+<author pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author orcid="0000-0002-4061-1311" pid="82/1277">Jos&#233; Fernando Oliveira</author>
+<author orcid="0000-0002-7552-9924" pid="91/4977">Jos&#233; Soeiro Ferreira</author>
+<author pid="24/332">Jos&#233; Silva Matos</author>
+<title>Flexible hardware acceleration for nesting problems.</title>
+<pages>345-348</pages>
+<year>1998</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.1998.813337</ee>
+<crossref>conf/icecsys/1998</crossref>
+<url>db/conf/icecsys/icecsys1998.html#FerreiraAAOFM98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/VickersAS98" mdate="2023-03-23">
+<author pid="79/2800">Brett J. Vickers</author>
+<author pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author pid="74/6935">Tatsuya Suda</author>
+<title>Adaptive Multicast of Multi-Layered Video: Rate-Based and Credit-Based Approaches.</title>
+<pages>1073-1083</pages>
+<year>1998</year>
+<crossref>conf/infocom/1998</crossref>
+<booktitle>INFOCOM</booktitle>
+<url>db/conf/infocom/infocom1998-3.html#VickersAS98</url>
+<ee>https://doi.org/10.1109/INFCOM.1998.662917</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/INFCOM.1998.662917</ee>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-NI-9809104" mdate="2022-01-26">
+<author pid="79/2800">Brett J. Vickers</author>
+<author pid="40/809">C&#233;lio Albuquerque 0001</author>
+<author pid="74/6935">Tatsuya Suda</author>
+<title>Adaptive Multicast of Multi-Layered Video: Rate-Based and Credit-Based Approaches</title>
+<ee type="oa">https://arxiv.org/abs/cs/9809104</ee>
+<year>1998</year>
+<journal>CoRR</journal>
+<volume>cs.NI/9809104</volume>
+<url>db/journals/corr/corr9809.html#cs-NI-9809104</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscas/AlbuquerqueND94" mdate="2017-05-26">
+<author pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<author pid="83/4281">Marcelo D. Nunes</author>
+<author pid="18/2077">Otto Carlos Muniz Bandeira Duarte</author>
+<title>Performance Measurements in a Manufacturing Communication System.</title>
+<pages>69-72</pages>
+<year>1994</year>
+<crossref>conf/iscas/1994</crossref>
+<booktitle>ISCAS</booktitle>
+<url>db/conf/iscas/iscas1994-3.html#AlbuquerqueND94</url>
+<ee>https://doi.org/10.1109/ISCAS.1994.409104</ee>
+</inproceedings>
+</r>
+<coauthors n="119" nc="3">
+<co c="0"><na f="a/Abreu:Raphael" pid="205/6721">Raphael Abreu</na></co>
+<co c="1"><na f="a/Alves:Jos=eacute=_Carlos" pid="29/5568">Jos&#233; Carlos Alves</na></co>
+<co c="0"><na f="a/Apostolo:Guilherme_Henrique" pid="252/0369">Guilherme Henrique Apostolo</na></co>
+<co c="0"><na f="a/Arantes:Luciana" pid="a/LucianaArantes">Luciana Arantes</na></co>
+<co c="0"><na f="b/Balbi:Helga_Dolorico" pid="64/10127">Helga Dolorico Balbi</na></co>
+<co c="0"><na f="b/Barros:Bruno" pid="225/9006">Bruno Barros</na></co>
+<co c="0"><na f="b/Bastos:Ian_Vilar" pid="193/1363">Ian Vilar Bastos</na></co>
+<co c="0" n="2"><na f="b/Bhering:Fabiano_Pereira" pid="237/2285">Fabiano Pereira Bhering</na><na>Fabiano Bhering</na></co>
+<co c="0"><na f="b/Boeres:Cristina" pid="89/6061">Cristina Boeres</na></co>
+<co c="0"><na f="b/Bulhoes:Rodolfo_P=" pid="193/5654">Rodolfo P. Bulhoes</na></co>
+<co c="0"><na f="b/Burle:Leonardo_M=" pid="260/9567">Leonardo M. Burle</na></co>
+<co c="0" n="2"><na f="c/Caballero:Egberto" pid="253/7360">Egberto Caballero</na><na>Egberto Caballero Rosillo</na></co>
+<co c="0"><na f="c/Campista:Miguel_Elias_M=" pid="02/4935">Miguel Elias M. Campista</na></co>
+<co c="0"><na f="c/Cardoso:Alexandre_F=" pid="355/7590">Alexandre F. Cardoso</na></co>
+<co c="0"><na f="c/Carrano:Ricardo_Campanha" pid="75/10038">Ricardo Campanha Carrano</na></co>
+<co c="0" n="2"><na f="c/Carrara:Gabriel_R=" pid="239/3385">Gabriel R. Carrara</na><na>Gabriel Reis Carrara</na></co>
+<co c="0"><na f="c/C=eacute=sar:Pablo" pid="03/6828">Pablo C&#233;sar</na></co>
+<co c="0"><na f="c/Chicarino:Vanessa_R=_L=" pid="217/4114">Vanessa R. L. Chicarino</na></co>
+<co c="0" n="2"><na f="c/Clua:Esteban_Walter_Gonzalez" pid="59/5772">Esteban Walter Gonzalez Clua</na><na>Esteban Clua</na></co>
+<co c="0"><na f="c/Conci:Aura" pid="c/AuraConci">Aura Conci</na></co>
+<co c="0"><na f="c/Cordeiro:Eduardo_B=" pid="259/1979">Eduardo B. Cordeiro</na></co>
+<co c="0"><na f="c/Costa:Lu=iacute=s_Henrique_Maciel_Kosmalski" pid="51/7019">Lu&#237;s Henrique Maciel Kosmalski Costa</na></co>
+<co c="0"><na f="d/Drummond:L=uacute=cia_M=_A=" pid="41/2824">L&#250;cia M. A. Drummond</na></co>
+<co c="0"><na f="d/Duarte:Jairo_Leite" pid="71/10127">Jairo Leite Duarte</na></co>
+<co c="0" n="2"><na f="d/Duarte:Otto_Carlos_M=_B=" pid="18/2077">Otto Carlos M. B. Duarte</na><na>Otto Carlos Muniz Bandeira Duarte</na></co>
+<co c="0"><na f="e/Esposito:Pedro_Miguel" pid="46/6217">Pedro Miguel Esposito</na></co>
+<co c="0"><na f="f/Fernandes:Natalia_Castro" pid="88/3693">Natalia Castro Fernandes</na></co>
+<co c="1"><na f="f/Ferreira:Jo=atilde=o_Canas" pid="52/5794">Jo&#227;o Canas Ferreira</na></co>
+<co c="1"><na f="f/Ferreira:Jos=eacute=_Soeiro" pid="91/4977">Jos&#233; Soeiro Ferreira</na></co>
+<co c="0" n="2"><na f="f/Ferreira_0001:Vinicius_C=" pid="171/5546">Vinicius C. Ferreira 0001</na><na>Vinicius Corr&#234;a Ferreira</na></co>
+<co c="0"><na f="f/Filho:Paulo_R=_S=_Silva" pid="183/5638">Paulo R. S. Silva Filho</na></co>
+<co c="0"><na f="g/Galdino:Iandra" pid="270/7695">Iandra Galdino</na></co>
+<co c="0" n="2"><na f="g/Gonz=aacute=lez:Jos=eacute=_R=" pid="212/1675">Jos&#233; R. Gonz&#225;lez</na><na>Jos&#233; Gonz&#225;lez 0003</na></co>
+<co c="0"><na f="g/Gouveia:Brenda_G=" pid="337/1006">Brenda G. Gouveia</na></co>
+<co c="0"><na f="g/Guerra:Raphael" pid="91/1088">Raphael Guerra</na></co>
+<co c="0"><na f="g/Guimaraes:Flavio" pid="152/9503">Flavio Guimaraes</na></co>
+<co c="2"><na f="h/Hong:Duke_P=" pid="03/372">Duke P. Hong</na></co>
+<co c="0"><na f="j/Jesus:Emanuel_Ferreira" pid="217/3989">Emanuel Ferreira Jesus</na></co>
+<co c="0"><na f="j/Julio:Eduardo" pid="191/1796">Eduardo Julio</na></co>
+<co c="0"><na f="k/Kazienko:Juliano_F=" pid="49/8379">Juliano F. Kazienko</na></co>
+<co c="0"><na f="k/Kniess:Janine" pid="148/0121">Janine Kniess</na></co>
+<co c="0"><na f="l/Lima:Jos=eacute=_Jer=ocirc=nimo_de_Menezes" pid="337/0931">Jos&#233; Jer&#244;nimo de Menezes Lima</na></co>
+<co c="0"><na f="l/Lima:Robson_Ara=uacute=jo" pid="253/7210">Robson Ara&#250;jo Lima</na></co>
+<co c="0"><na f="l/Lopes:Yona" pid="165/3754">Yona Lopes</na></co>
+<co c="0"><na f="l/Loques:Orlando" pid="37/6173">Orlando Loques</na></co>
+<co c="0"><na f="m/Magalh=atilde=es:Luiz_Claudio_Schara" pid="13/6767">Luiz Claudio Schara Magalh&#227;es</na></co>
+<co c="1"><na f="m/Matos:Jos=eacute=_Silva" pid="24/332">Jos&#233; Silva Matos</na></co>
+<co c="0" n="2"><na f="m/Mattos:Diogo_M=_F=" pid="144/8416">Diogo M. F. Mattos</na><na>Diogo Menezes Ferrazani Mattos</na></co>
+<co c="0"><na f="m/Mattos:Douglas_Paulo_de" pid="131/4793">Douglas Paulo de Mattos</na></co>
+<co c="0" n="2"><na f="m/Medeiros:Dianne_S=_V=" pid="193/1420">Dianne S. V. Medeiros</na><na>Dianne Scherly Varela de Medeiros</na></co>
+<co c="0"><na f="m/Mendes:Ana_Carolina_Rocha" pid="320/8308">Ana Carolina Rocha Mendes</na></co>
+<co c="0"><na f="m/Mendon=ccedil=a:Marcos_Paulo_C=_de" pid="320/7657">Marcos Paulo C. de Mendon&#231;a</na></co>
+<co c="0" n="2"><na f="m/Moraes:Igor_M=" pid="32/6032">Igor M. Moraes</na><na>Igor Monteiro Moraes</na></co>
+<co c="0"><na f="m/Moss=eacute=:Daniel" pid="m/DanielMosse">Daniel Moss&#233;</na></co>
+<co c="0"><na f="m/Moura:Nilmax_Teones" pid="21/4894">Nilmax Teones Moura</na></co>
+<co c="0" n="2"><na f="m/Muchaluat=Saade:D=eacute=bora_C=" pid="21/5891">D&#233;bora C. Muchaluat-Saade</na><na>D&#233;bora Christina Muchaluat-Saade</na></co>
+<co c="0"><na f="n/Naves:Juliano_Fischer" pid="125/8670">Juliano Fischer Naves</na></co>
+<co c="0"><na f="n/Neto:H=eacute=lio_N=_Cunha" pid="259/1988">H&#233;lio N. Cunha Neto</na></co>
+<co c="0" n="2"><na f="n/Neto:Paulo_Cezar_Lacerda" pid="257/5528">Paulo Cezar Lacerda Neto</na><na>Paulo Lacerda</na></co>
+<co c="0"><na f="n/Neves:Tiago_Ara=uacute=jo" pid="79/8724">Tiago Ara&#250;jo Neves</na></co>
+<co c="0"><na f="n/Noce:Julia" pid="219/0755">Julia Noce</na></co>
+<co c="0"><na f="n/Nunes:Marcelo_D=" pid="83/4281">Marcelo D. Nunes</na></co>
+<co c="0"><na f="n/Nunes:Raul_Ceretta" pid="76/5337">Raul Ceretta Nunes</na></co>
+<co c="0"><na f="o/Obraczka:Katia" pid="o/KatiaObraczka">Katia Obraczka</na></co>
+<co c="0"><na f="o/Ochi:Luiz_Satoru" pid="o/LuizSatoruOchi">Luiz Satoru Ochi</na></co>
+<co c="0"><na f="o/Okabayashi:Vitor_Hugo" pid="170/2629">Vitor Hugo Okabayashi</na></co>
+<co c="0" n="2"><na f="o/Olabarriaga:S=iacute=lvia_Delgado" pid="o/SilviaDelgadoOlabarriaga">S&#237;lvia Delgado Olabarriaga</na><na>S&#237;lvia D. Olabarriaga</na></co>
+<co c="2"><na f="o/Oliveira_0001:Carlos" pid="47/248-1">Carlos Oliveira 0001</na></co>
+<co c="0"><na f="o/Oliveira:Cleomar" pid="259/1977">Cleomar Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Cleomar_M=aacute=rcio_Marques_de" pid="337/0721">Cleomar M&#225;rcio Marques de Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Debora_de" pid="389/3631">Debora de Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Etienne_C=_R=_de" pid="90/4370">Etienne C. R. de Oliveira</na></co>
+<co c="1"><na f="o/Oliveira:Jos=eacute=_Fernando" pid="82/1277">Jos&#233; Fernando Oliveira</na></co>
+<co c="0" n="2"><na f="o/Oliveira_0001:Luiz" pid="207/1344-1">Luiz Oliveira 0001</na><na>Luiz F. S. Oliveira</na></co>
+<co c="0" n="2"><na f="o/Oliveira:Marcela_Tuler_de" pid="239/3409">Marcela Tuler de Oliveira</na><na>Marcela T. de Oliveira</na></co>
+<co c="0" n="2"><na f="o/Oliveira:Wilker" pid="259/1972">Wilker Oliveira</na><na>Wilker de Oliveira Delfino</na></co>
+<co c="0" n="2"><na f="p/Passos_0001:Diego_G=" pid="47/4581">Diego G. Passos 0001</na><na>Diego Gimenez Passos 0001</na></co>
+<co c="0"><na f="p/Passos:Fernanda_G=_O=" pid="184/0841">Fernanda G. O. Passos</na></co>
+<co c="0"><na f="p/Pinheiro:Paulo_H=_B=_S=" pid="289/6696">Paulo H. B. S. Pinheiro</na></co>
+<co c="0" n="2"><na f="q/Quincozes:Silvio_E=" pid="191/5671">Silvio E. Quincozes</na><na>Silvio Ereno Quincozes</na></co>
+<co c="0"><na f="q/Quincozes:Vagner_Ereno" pid="322/2925">Vagner Ereno Quincozes</na></co>
+<co c="0"><na f="r/Ramos:Taiane_Coelho" pid="352/3463">Taiane Coelho Ramos</na></co>
+<co c="0"><na f="r/Rebello:Vinod_E=_F=" pid="79/2476">Vinod E. F. Rebello</na></co>
+<co c="0"><na f="r/Reis:L=uacute=cio_Henrik_A=" pid="245/3196">L&#250;cio Henrik A. Reis</na></co>
+<co c="0"><na f="r/Ribeiro:Igor_Cesar_Gonzalez" pid="33/10759">Igor Cesar Gonzalez Ribeiro</na></co>
+<co c="0" n="2"><na f="r/Rocha:Ant=ocirc=nio_Augusto_de_Arag=atilde=o" pid="209/2422">Ant&#244;nio Augusto de Arag&#227;o Rocha</na><na>Ant&#244;nio A. de A. Rocha</na></co>
+<co c="0" n="2"><na f="r/Rocha:Marcelo_Marques_da" pid="352/3167">Marcelo Marques da Rocha</na><na>Marcelo Rocha 0001</na></co>
+<co c="0"><na f="r/Rocha:Nazareth" pid="275/7613">Nazareth Rocha</na></co>
+<co c="0"><na f="r/Rodrigues:Matheus_B=_de_A=" pid="320/7445">Matheus B. de A. Rodrigues</na></co>
+<co c="0"><na f="r/Rolim:Guilherme" pid="174/1545">Guilherme Rolim</na></co>
+<co c="0"><na f="r/Rubinstein:Marcelo_G=" pid="00/4946">Marcelo G. Rubinstein</na></co>
+<co c="0"><na f="s/Santos:Carlos_Raniery_Paula_dos" pid="64/6563">Carlos Raniery Paula dos Santos</na></co>
+<co c="0"><na f="s/Santos:Vin=iacute=cius_Figueiredo_dos" pid="316/0731">Vin&#237;cius Figueiredo dos Santos</na></co>
+<co c="0"><na f="s/Santos:Yago_de_Rezende_dos" pid="296/0828">Yago de Rezende dos Santos</na></co>
+<co c="0" n="2"><na f="s/Saraiva:Andr=eacute=_R=_C=" pid="230/1863-2">Andr&#233; R. C. Saraiva</na><na>Andre Saraiva 0002</na></co>
+<co c="0"><na f="s/Seixas:Fl=aacute=vio_Luiz" pid="66/4837">Fl&#225;vio Luiz Seixas</na></co>
+<co c="0"><na f="s/Sens_0001:Pierre" pid="10/216-1">Pierre Sens 0001</na></co>
+<co c="0" n="2"><na f="s/Silva_0007:Bruno" pid="181/2757-7">Bruno Silva 0007</na><na>Bruno dos Santos Silva</na></co>
+<co c="0" n="2"><na f="s/Silva:Edelberto_Franco" pid="241/2605">Edelberto Franco Silva</na><na>Edelberto F. Silva</na></co>
+<co c="0"><na f="s/Silva:Joacir_O=" pid="203/6448">Joacir O. Silva</na></co>
+<co c="0"><na f="s/Siqueira:Bruno" pid="165/5410">Bruno Siqueira</na></co>
+<co c="0"><na f="s/Soares:Arthur_Albuquerque_Zopellaro" pid="246/3959">Arthur Albuquerque Zopellaro Soares</na></co>
+<co c="0"><na f="s/Soares:Leonardo_F=" pid="259/1978">Leonardo F. Soares</na></co>
+<co c="0" n="2"><na f="s/Soto:Julio_C=_H=" pid="123/3510">Julio C. H. Soto</na><na>Julio C&#233;sar Huarachi Soto</na></co>
+<co c="0" n="2"><na f="s/Sousa:Cledson" pid="156/8787">Cledson Sousa</na><na>Cledson Oliveira de Sousa</na></co>
+<co c="0"><na f="s/Souza:Cledson_de" pid="355/7847">Cledson de Souza</na></co>
+<co c="0"><na f="s/Souza:Felipe" pid="165/1975">Felipe Souza</na></co>
+<co c="0"><na f="s/Souza:Lucas_M=_A=_de" pid="331/6538">Lucas M. A. de Souza</na></co>
+<co c="2"><na f="s/Suda:Tatsuya" pid="74/6935">Tatsuya Suda</na></co>
+<co c="0"><na f="u/Uchoa:Eduardo" pid="91/2066">Eduardo Uchoa</na></co>
+<co c="0"><na f="u/Uch=ocirc=a:Luana_M=" pid="259/1971">Luana M. Uch&#244;a</na></co>
+<co c="0"><na f="v/Valle:Rafael_De_T=" pid="05/4844">Rafael De T. Valle</na></co>
+<co c="0"><na f="v/Valle:Rafael_L=" pid="54/2896">Rafael L. Valle</na></co>
+<co c="0"><na f="v/Vianna:Bruno_A=" pid="85/399">Bruno A. Vianna</na></co>
+<co c="0"><na f="v/Vianna:Bruno_de_Azevedo" pid="14/520">Bruno de Azevedo Vianna</na></co>
+<co c="2"><na f="v/Vickers:Brett_J=" pid="79/2800">Brett J. Vickers</na></co>
+<co c="0"><na f="v/Vieira:Juan_Lucas" pid="247/0245">Juan Lucas Vieira</na></co>
+<co c="0"><na f="v/Vieira:R=ocirc=mulo" pid="281/0317">R&#244;mulo Vieira</na></co>
+<co c="0"><na f="z/Ziviani:Artur" pid="47/772">Artur Ziviani</na></co>
+</coauthors>
+</dblpperson>
+

@@ -22,24 +22,26 @@ def create_p_file(prof_name):
         return
     line = '      var corebr_author = "' + prof_name + '"\n'
     out = open(file_name, 'w')
-    file1 = open('../_authors1.html', 'r')
-    file2 = open('../_authors2.html', 'r')
+    file1 = open('../authors1.html', 'r')
+    file2 = open('../authors2.html', 'r')
     out.write(file1.read())
     out.write(line)
     out.write(file2.read())
     out.close
 
 inst = {}
-reader1 = csv.reader(open("all-researchers.csv", 'r'))
+reader1 = csv.reader(open("../../data/configs/all-researchers.csv", 'r'))
+
 for p in reader1:
     prof = p[0]
     dept = p[1]
     inst[prof] = dept
 
 out = open('../profs.html','a')
-out2 = open('profs.csv','w')
+out2 = open('../../data/configs/profs/profs.csv','w')
 # out3 = open('../html/sitemap_p.txt','w')
-reader2 = csv.reader(open("./profs/all-authors.csv", 'r'))
+reader2 = csv.reader(open("../../data/configs/profs/all-authors.csv", 'r'))
+
 for p in reader2:
     prof = p[0]
     p2 = prof.replace(" ", "-")

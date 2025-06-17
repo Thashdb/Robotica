@@ -1,0 +1,1329 @@
+<?xml version="1.0"?>
+<dblpperson name="Geber L. Ramalho" pid="13/3685" n="83">
+<person key="homepages/13/3685" mdate="2019-10-11">
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="13/3685">Geber Lisboa Ramalho</author>
+<note type="affiliation">Federal University of Pernambuco, Recife, Brazil</note>
+<url>http://www.cin.ufpe.br/~glr/</url>
+</person>
+<r><inproceedings key="conf/lak/MelloJRPCCRG25" mdate="2025-05-20">
+<author orcid="0000-0003-3548-9670" pid="205/0582">Rafael Ferreira Mello</author>
+<author orcid="0000-0002-7617-5283" pid="397/6590">Cleon Pereira Junior</author>
+<author orcid="0000-0003-0343-3701" pid="228/2395">Luiz A. L. Rodrigues</author>
+<author orcid="0000-0003-4914-3347" pid="241/8680">Filipe Dwan Pereira</author>
+<author orcid="0000-0002-4235-5753" pid="130/8106">Luciano de Souza Cabral</author>
+<author orcid="0000-0002-4954-176X" pid="380/0391">Newarney T. Costa</author>
+<author orcid="0000-0001-8306-4410" pid="13/3685">Geber L. Ramalho</author>
+<author orcid="0000-0001-9265-1908" pid="67/5716">Dragan Gasevic</author>
+<title>Automatic Short Answer Grading in the LLM Era: Does GPT-4 with Prompt Engineering beat Traditional Models?</title>
+<pages>93-103</pages>
+<year>2025</year>
+<booktitle>LAK</booktitle>
+<ee>https://doi.org/10.1145/3706468.3706481</ee>
+<crossref>conf/lak/2025</crossref>
+<url>db/conf/lak/lak2025.html#MelloJRPCCRG25</url>
+</inproceedings>
+</r>
+<r><article key="journals/caeai/RodriguesPCGRM24" mdate="2025-05-09">
+<author pid="228/2395">Luiz A. L. Rodrigues</author>
+<author pid="241/8680">Filipe Dwan Pereira</author>
+<author pid="130/8106">Luciano de Souza Cabral</author>
+<author pid="67/5716">Dragan Gasevic</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author orcid="0000-0003-3548-9670" pid="205/0582">Rafael Ferreira Mello</author>
+<title>Assessing the quality of automatic-generated short answers using GPT-4.</title>
+<pages>100248</pages>
+<year>2024</year>
+<volume>7</volume>
+<journal>Comput. Educ. Artif. Intell.</journal>
+<ee type="oa">https://doi.org/10.1016/j.caeai.2024.100248</ee>
+<url>db/journals/caeai/caeai7.html#RodriguesPCGRM24</url>
+<stream>streams/journals/caeai</stream>
+</article>
+</r>
+<r><inproceedings key="conf/aied/RodriguesPCRGM24" mdate="2024-08-04">
+<author orcid="0000-0003-0343-3701" pid="228/2395">Luiz A. L. Rodrigues</author>
+<author orcid="0000-0003-4914-3347" pid="241/8680">Filipe Dwan Pereira</author>
+<author orcid="0000-0002-4235-5753" pid="130/8106">Luciano de Souza Cabral</author>
+<author orcid="0000-0001-8306-4410" pid="13/3685">Geber L. Ramalho</author>
+<author orcid="0000-0001-9265-1908" pid="67/5716">Dragan Gasevic</author>
+<author orcid="0000-0003-3548-9670" pid="205/0582">Rafael Ferreira Mello</author>
+<title>Can GPT4 Answer Educational Tests? Empirical Analysis of Answer Quality Based on Question Complexity and Difficulty.</title>
+<pages>192-205</pages>
+<year>2024</year>
+<booktitle>AIED (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-64302-6_14</ee>
+<crossref>conf/aied/2024-1</crossref>
+<url>db/conf/aied/aied2024-1.html#RodriguesPCRGM24</url>
+<stream>streams/conf/aied</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-04001" mdate="2023-03-15">
+<author pid="151/7689">Rodrigo Mello</author>
+<author pid="145/4681">Filipe Calegario</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>ELODIN: Naming Concepts in Embedding Spaces.</title>
+<year>2023</year>
+<volume>abs/2303.04001</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.04001</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-04001</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2309-12332" mdate="2023-12-04">
+<author pid="205/0582">Rafael Ferreira Mello</author>
+<author pid="166/4415">Elyda L. S. X. Freitas</author>
+<author pid="241/8680">Filipe Dwan Pereira</author>
+<author pid="130/8106">Luciano de Souza Cabral</author>
+<author pid="99/8925">Patr&#237;cia C. A. R. Tedesco</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Education in the age of Generative AI: Context and Recent Developments.</title>
+<year>2023</year>
+<volume>abs/2309.12332</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2309.12332</ee>
+<url>db/journals/corr/corr2309.html#abs-2309-12332</url>
+</article>
+</r>
+<r><inproceedings key="conf/educon/CarvalhoERAR22" mdate="2023-12-01">
+<author pid="320/4756">Emmanuel Carvalho</author>
+<author pid="320/3946">Ayrton Eusebio</author>
+<author orcid="0000-0001-8164-8754" pid="320/3660">Guilherme Ranoya</author>
+<author pid="146/7437">Cristiano C. Ara&#250;jo</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>A Proposal For Micromanagement Of People Through Rpg Cards In Education For Innovation.</title>
+<pages>822-828</pages>
+<year>2022</year>
+<booktitle>EDUCON</booktitle>
+<ee>https://doi.org/10.1109/EDUCON52537.2022.9766495</ee>
+<crossref>conf/educon/2022</crossref>
+<url>db/conf/educon/educon2022.html#CarvalhoERAR22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hci/XimenesR22" mdate="2022-12-01">
+<author pid="153/0262">Bianca H. Ximenes</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>The Best of Both Worlds: Mixed Systems with ML and Humans in the Loop to Combat Fake Information.</title>
+<pages>583-597</pages>
+<year>2022</year>
+<booktitle>HCI (43)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-21707-4_42</ee>
+<crossref>conf/hci/2022-43</crossref>
+<url>db/conf/hci/hci2022-43.html#XimenesR22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/PeixotoPFR22" mdate="2022-12-01">
+<author pid="81/8107">Eduardo Peixoto</author>
+<author pid="320/5779">Hector Paulo</author>
+<author pid="150/9014">A. C&#233;sar C. Fran&#231;a</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>A Mapping Study about Digital Transformation of Organizational Culture and Business Models.</title>
+<pages>408-417</pages>
+<year>2022</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0010991600003179</ee>
+<crossref>conf/iceis/2022-2</crossref>
+<url>db/conf/iceis/iceis2022-2.html#PeixotoPFR22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cig/MoreiraRBR21" mdate="2022-12-01">
+<author pid="308/4635">&#193;tila Moreira</author>
+<author pid="181/2808">Francisco Ramos</author>
+<author pid="308/5151">Fl&#225;via Barros</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Economic Indicators for Decision-Making inOperating Massive Multiplayer Online.</title>
+<pages>1-9</pages>
+<year>2021</year>
+<booktitle>CoG</booktitle>
+<ee>https://doi.org/10.1109/CoG52621.2021.9619016</ee>
+<crossref>conf/cig/2021</crossref>
+<url>db/conf/cig/cog2021.html#MoreiraRBR21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/istas/FalcaoMR21" mdate="2021-12-15">
+<author pid="308/7550">Jo&#227;o Pontual de Arruda Falc&#227;o</author>
+<author pid="m/SRdeLemosMeira">Silvio Romero de Lemos Meira</author>
+<author pid="13/3685">Geber Lisboa Ramalho</author>
+<title>Algorithmic pragmatism: First steps.</title>
+<pages>1-8</pages>
+<year>2021</year>
+<booktitle>ISTAS</booktitle>
+<ee>https://doi.org/10.1109/ISTAS52410.2021.9629190</ee>
+<crossref>conf/istas/2021</crossref>
+<url>db/conf/istas/istas2021.html#FalcaoMR21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/istas/XimenesR21" mdate="2022-03-11">
+<author pid="153/0262">Bianca H. Ximenes</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Concrete ethical guidelines and best practices in machine learning development.</title>
+<pages>1-8</pages>
+<year>2021</year>
+<booktitle>ISTAS</booktitle>
+<ee>https://doi.org/10.1109/ISTAS52410.2021.9728979</ee>
+<crossref>conf/istas/2021</crossref>
+<url>db/conf/istas/istas2021.html#XimenesR21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-13266" mdate="2021-05-04">
+<author pid="145/4681">Filipe Calegario</author>
+<author pid="186/1719">Jo&#227;o Tragtenberg</author>
+<author pid="51/2005">Giordano Cabral 0001</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Batebit Controller: Popularizing Digital Musical Instruments Development Process.</title>
+<year>2021</year>
+<volume>abs/2104.13266</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.13266</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-13266</url>
+</article>
+</r>
+<r><article key="journals/iwc/ScholzR19" mdate="2020-03-13">
+<author pid="179/0985">Ricardo E. P. Scholz</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Lowering the Usability Entry Barrier to Interactive Poetics Experimentation in Dance.</title>
+<pages>59-82</pages>
+<year>2019</year>
+<volume>31</volume>
+<journal>Interact. Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1093/iwc/iwz004</ee>
+<url>db/journals/iwc/iwc31.html#ScholzR19</url>
+</article>
+</r>
+<r><article key="journals/te/MedeirosRF19" mdate="2021-10-14">
+<author orcid="0000-0002-2853-6865" pid="131/9326">Rodrigo Pessoa Medeiros</author>
+<author pid="13/3685">Geber Lisboa Ramalho</author>
+<author orcid="0000-0003-2775-4913" pid="10/5013">Taciana Pontual Falc&#227;o</author>
+<title>A Systematic Literature Review on Teaching and Learning Introductory Programming in Higher Education.</title>
+<pages>77-90</pages>
+<year>2019</year>
+<volume>62</volume>
+<journal>IEEE Trans. Educ.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TE.2018.2864133</ee>
+<url>db/journals/te/te62.html#MedeirosRF19</url>
+</article>
+</r>
+<r><inproceedings key="conf/nime/TragtenbergCCR19" mdate="2023-04-04">
+<author pid="186/1719">Jo&#227;o Tragtenberg</author>
+<author pid="145/4681">Filipe Calegario</author>
+<author pid="51/2005">Giordano Cabral 0001</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Towards the Concept of Digital Dance and Music Instruments.</title>
+<pages>89-94</pages>
+<year>2019</year>
+<booktitle>NIME</booktitle>
+<ee type="oa">https://doi.org/10.5281/zenodo.3672878</ee>
+<crossref>conf/nime/2019</crossref>
+<url>db/conf/nime/nime2019.html#TragtenbergCCR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/svr/JacomeOATR19" mdate="2022-10-02">
+<author orcid="0000-0002-5376-8713" pid="254/8475">Jarbas J&#225;come</author>
+<author pid="254/8489">Maria Oliveira 0002</author>
+<author pid="254/8483">Fernando Alvim</author>
+<author orcid="0000-0003-4685-3634" pid="12/6264">Veronica Teichrieb</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Mixed Reality, Mamulengos and MamuLEDs.</title>
+<pages>252-259</pages>
+<year>2019</year>
+<booktitle>SVR</booktitle>
+<ee>https://doi.org/10.1109/SVR.2019.00050</ee>
+<crossref>conf/svr/2019</crossref>
+<url>db/conf/svr/svr2019.html#JacomeOATR19</url>
+</inproceedings>
+</r>
+<r><article key="journals/ieeemm/CalegarioWHCR17" mdate="2025-04-01">
+<author orcid="0000-0001-8364-0887" pid="145/4681">Filipe Calegario</author>
+<author orcid="0000-0002-9169-4313" pid="78/3830">Marcelo M. Wanderley</author>
+<author pid="57/1739">St&#233;phane Huot</author>
+<author pid="51/2005">Giordano Cabral 0001</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>A Method and Toolkit for Digital Musical Instruments: Generating Ideas and Prototypes.</title>
+<pages>63-71</pages>
+<year>2017</year>
+<volume>24</volume>
+<journal>IEEE Multim.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MMUL.2017.18</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MMUL.2017.18</ee>
+<url>db/journals/ieeemm/ieeemm24.html#CalegarioWHCR17</url>
+</article>
+</r>
+<r><inproceedings key="conf/ismir/ScholzRC16" mdate="2020-03-12">
+<author pid="179/0985">Ricardo E. P. Scholz</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="51/2005">Giordano Cabral 0001</author>
+<title>Cross Task Study on MIREX Recent Results: An Index for Evolution Measurement and Some Stagnation Hypotheses.</title>
+<pages>372-378</pages>
+<year>2016</year>
+<booktitle>ISMIR</booktitle>
+<ee type="oa">https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/054_Paper.pdf</ee>
+<crossref>conf/ismir/2016</crossref>
+<url>db/conf/ismir/ismir2016.html#ScholzRC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nime/BarbosaCTCRW15" mdate="2023-04-04">
+<author pid="159/4320">Jer&#244;nimo Barbosa</author>
+<author pid="145/4681">Filipe Calegario</author>
+<author pid="186/1719">Jo&#227;o Tragtenberg</author>
+<author pid="51/2005">Giordano Cabral 0001</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="78/3830">Marcelo M. Wanderley</author>
+<title>Designing dmis for popular music in the brazilian northeast: lessons learned.</title>
+<pages>277-280</pages>
+<year>2015</year>
+<booktitle>NIME</booktitle>
+<ee type="oa">https://doi.org/10.5281/zenodo.1179008</ee>
+<crossref>conf/nime/2015</crossref>
+<url>db/conf/nime/nime2015.html#BarbosaCTCRW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hci/MedeirosCCR14" mdate="2019-10-19">
+<author pid="131/9326">Rodrigo Pessoa Medeiros</author>
+<author orcid="0000-0001-8364-0887" pid="145/4681">Filipe Calegario</author>
+<author pid="51/2005">Giordano Cabral 0001</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Challenges in Designing New Interfaces for Musical Expression.</title>
+<pages>643-652</pages>
+<year>2014</year>
+<booktitle>HCI (8)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-07668-3_62</ee>
+<crossref>conf/hci/2014-8</crossref>
+<url>db/conf/hci/hci2014-8.html#MedeirosCCR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbgames/SouzaRQ14" mdate="2023-03-23">
+<author pid="156/6858">Thiago A. Souza</author>
+<author pid="13/3685">Geber Lisboa Ramalho</author>
+<author pid="37/4229">S&#233;rgio Ricardo de Melo Queiroz</author>
+<title>Resource Management in Complex Environments: Applying to Real Time Strategy Games.</title>
+<pages>21-30</pages>
+<year>2014</year>
+<booktitle>SBGames</booktitle>
+<ee>https://doi.org/10.1109/SBGAMES.2014.27</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBGAMES.2014.27</ee>
+<crossref>conf/sbgames/2014</crossref>
+<url>db/conf/sbgames/sbgames2014.html#SouzaRQ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbgames/AlbuquerqueRCSF14" mdate="2023-03-23">
+<author pid="156/6896">Marco Tulio C. F. Albuquerque</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="15/6998">Vincent Corruble</author>
+<author orcid="0000-0001-6661-5970" pid="s/AndreSantos">Andre Lu&#237;s de Medeiros Santos</author>
+<author pid="94/2962">Fred Freitas</author>
+<title>Helping Developers to Look Deeper inside Game Sessions.</title>
+<pages>31-40</pages>
+<year>2014</year>
+<booktitle>SBGames</booktitle>
+<ee>https://doi.org/10.1109/SBGAMES.2014.28</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBGAMES.2014.28</ee>
+<crossref>conf/sbgames/2014</crossref>
+<url>db/conf/sbgames/sbgames2014.html#AlbuquerqueRCSF14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbgames/FilhoMR14" mdate="2023-03-23">
+<author pid="156/7147">Vicente Vieira Filho</author>
+<author pid="156/7148">Atila Valgueiro Malta Moreira</author>
+<author pid="13/3685">Geber Lisboa Ramalho</author>
+<title>Deepening the Understanding of Mobile Game.</title>
+<pages>183-192</pages>
+<year>2014</year>
+<booktitle>SBGames</booktitle>
+<ee>https://doi.org/10.1109/SBGAMES.2014.31</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBGAMES.2014.31</ee>
+<crossref>conf/sbgames/2014</crossref>
+<url>db/conf/sbgames/sbgames2014.html#FilhoMR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbgames/CarvalhoMMAFR14" mdate="2023-03-23">
+<author pid="156/7139">Leonardo V. de Carvalho</author>
+<author pid="156/7148">Atila Valgueiro Malta Moreira</author>
+<author pid="156/7003">Icaro V. M. Moreira</author>
+<author pid="156/6896">Marco Tulio C. F. Albuquerque</author>
+<author pid="156/7147">Vicente Vieira Filho</author>
+<author pid="13/3685">Geber Lisboa Ramalho</author>
+<title>Case Study of a Mobile HTML5 Multiplayer Game Portal.</title>
+<pages>202-209</pages>
+<year>2014</year>
+<booktitle>SBGames</booktitle>
+<ee>https://doi.org/10.1109/SBGAMES.2014.32</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBGAMES.2014.32</ee>
+<crossref>conf/sbgames/2014</crossref>
+<url>db/conf/sbgames/sbgames2014.html#CarvalhoMMAFR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nime/BarbosaCTRC13" mdate="2023-04-04">
+<author pid="159/4320">Jer&#244;nimo Barbosa</author>
+<author pid="145/4681">Filipe Calegario</author>
+<author pid="12/6264">Veronica Teichrieb</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="51/2005">Giordano Cabral 0001</author>
+<title>A Drawing-Based Digital Music Instrument.</title>
+<pages>551-556</pages>
+<year>2013</year>
+<booktitle>NIME</booktitle>
+<ee type="oa">https://doi.org/10.5281/zenodo.1178566</ee>
+<crossref>conf/nime/2013</crossref>
+<url>db/conf/nime/nime2013.html#BarbosaCTRC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nime/BarbosaCTRM12" mdate="2023-04-04">
+<author pid="159/4320">Jer&#244;nimo Barbosa</author>
+<author pid="145/4681">Filipe Calegario</author>
+<author pid="12/6264">Veronica Teichrieb</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="159/4346">Patrick McGlynn</author>
+<title>Considering Audience's View Towards an Evaluation Methodology for Digital Musical Instruments.</title>
+<year>2012</year>
+<booktitle>NIME</booktitle>
+<ee type="oa">https://doi.org/10.5281/zenodo.1178209</ee>
+<crossref>conf/nime/2012</crossref>
+<url>db/conf/nime/nime2012.html#BarbosaCTRM12</url>
+</inproceedings>
+</r>
+<r><article key="journals/software/FurtadoSRA11" mdate="2024-04-25">
+<author pid="90/4251">Andr&#233; Wilson Brotto Furtado</author>
+<author orcid="0000-0001-6661-5970" pid="s/AndreSantos">Andr&#233; L. M. Santos</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="a/EduardoSantanadeAlmeida">Eduardo Santana de Almeida</author>
+<title>Improving Digital Game Development with Software Product Lines.</title>
+<pages>30-37</pages>
+<year>2011</year>
+<volume>28</volume>
+<journal>IEEE Softw.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MS.2011.101</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MS.2011.101</ee>
+<ee>https://orkg.org/orkg/resource/R25579</ee>
+<url>db/journals/software/software28.html#FurtadoSRA11</url>
+</article>
+</r>
+<r><inproceedings key="conf/iat/PouletCSR11" mdate="2023-03-24">
+<author pid="87/8121">Cyril Poulet</author>
+<author pid="15/6998">Vincent Corruble</author>
+<author pid="f/AEFallahSeghrouchni">Amal El Fallah Seghrouchni</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>The Open System Setting in Timed Multiagent Patrolling.</title>
+<pages>373-376</pages>
+<year>2011</year>
+<booktitle>IAT</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2011.115</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2011.115</ee>
+<crossref>conf/iat/2011</crossref>
+<url>db/conf/iat/iat2011.html#PouletCSR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/FurtadoSR11" mdate="2022-12-07">
+<author pid="90/4251">Andr&#233; Wilson Brotto Furtado</author>
+<author orcid="0000-0001-6661-5970" pid="s/AndreSantos">Andr&#233; L. M. Santos</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>SharpLudus revisited: from ad hoc and monolithic digital game DSLs to effectively customized DSM approaches.</title>
+<pages>57-62</pages>
+<year>2011</year>
+<booktitle>SPLASH Workshops</booktitle>
+<ee>https://doi.org/10.1145/2095050.2095061</ee>
+<crossref>conf/oopsla/2011w</crossref>
+<url>db/conf/oopsla/splash2011w.html#FurtadoSR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbgames/SilvaRSRT11" mdate="2024-10-11">
+<author pid="162/0769">Andre Silva</author>
+<author pid="92/4715">Fernando Rocha</author>
+<author pid="46/7641">Artur L. dos Santos</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author orcid="0000-0003-4685-3634" pid="12/6264">Veronica Teichrieb</author>
+<title>GPU Pathfinding Optimization.</title>
+<pages>158-163</pages>
+<year>2011</year>
+<booktitle>SBGames</booktitle>
+<ee>https://doi.org/10.1109/SBGAMES.2011.35</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBGAMES.2011.35</ee>
+<crossref>conf/sbgames/2011</crossref>
+<url>db/conf/sbgames/sbgames2011.html#SilvaRSRT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictai/SampaioRT10" mdate="2023-03-24">
+<author pid="78/8870">Pablo Azevedo Sampaio</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="99/8925">Patr&#237;cia C. A. R. Tedesco</author>
+<title>The Gravitational Strategy for the Timed Patrolling.</title>
+<pages>113-120</pages>
+<year>2010</year>
+<booktitle>ICTAI (1)</booktitle>
+<ee>https://doi.org/10.1109/ICTAI.2010.24</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICTAI.2010.24</ee>
+<crossref>conf/ictai/2010-1</crossref>
+<url>db/conf/ictai/ictai2010-1.html#SampaioRT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbia/BarbosaSRT10" mdate="2022-08-18">
+<author pid="83/8694">Pablo Barbosa</author>
+<author pid="50/8694">Danielle R. D. Silva</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="99/8925">Patr&#237;cia Azevedo Tedesco</author>
+<title>Simulating the Emergence of Social Relationship Networks in Groups of Believable Agents: The X-BARIM Model.</title>
+<pages>133-142</pages>
+<year>2010</year>
+<booktitle>SBIA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-16138-4_14</ee>
+<crossref>conf/sbia/2010</crossref>
+<url>db/conf/sbia/sbia2010.html#BarbosaSRT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/splc/FurtadoSR10" mdate="2022-12-07">
+<author pid="90/4251">Andr&#233; Wilson Brotto Furtado</author>
+<author orcid="0000-0001-6661-5970" pid="s/AndreSantos">Andr&#233; L. M. Santos</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Streamlining Domain Analysis for Digital Games Product Lines.</title>
+<pages>316-330</pages>
+<year>2010</year>
+<booktitle>SPLC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15579-6_22</ee>
+<crossref>conf/splc/2010</crossref>
+<url>db/conf/splc/splc2010.html#FurtadoSR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icaart/MoreiraRT09" mdate="2022-01-31">
+<author pid="30/104">Daniel M. D. Moreira</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="99/8925">Patr&#237;cia Azevedo Tedesco</author>
+<title>SimPatrol - Towards the Establishment of Multi-Agent Patrolling as a Benchmark for Multi-Agent Systems.</title>
+<pages>570-575</pages>
+<year>2009</year>
+<booktitle>ICAART</booktitle>
+<crossref>conf/icaart/2009</crossref>
+<url>db/conf/icaart/icaart2009.html#MoreiraRT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbgames/FilhoSTSR09" mdate="2023-03-23">
+<author pid="23/11456">Marconi Madruga Filho</author>
+<author pid="152/4305">Allan J. S. Souza</author>
+<author pid="99/8925">Patr&#237;cia C. A. R. Tedesco</author>
+<author pid="50/8694">Danielle R. D. Silva</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>An Integrated Development Model for Character-Based Games.</title>
+<pages>191-196</pages>
+<year>2009</year>
+<booktitle>SBGames</booktitle>
+<ee>https://doi.org/10.1109/SBGAMES.2009.30</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBGAMES.2009.30</ee>
+<crossref>conf/sbgames/2009</crossref>
+<url>db/conf/sbgames/sbgames2009.html#FilhoSTSR09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/DahiaRTCG09" mdate="2022-01-14">
+<author pid="128/2807">M&#225;rcio Dahia</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author pid="51/2005">Giordano Cabral 0001</author>
+<author pid="128/2895">Marcela Guerra</author>
+<title>Improving audio files availability in file sharing networks.</title>
+<pages>16</pages>
+<year>2009</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/1858477.1858493</ee>
+<crossref>conf/webmedia/2009</crossref>
+<url>db/conf/webmedia/webmedia2009.html#DahiaRTCG09</url>
+</inproceedings>
+</r>
+<r><article key="journals/cie/TrintaPFR08" mdate="2022-01-14">
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author pid="11/3507">Davi Pedrosa</author>
+<author pid="31/2870">Carlos Ferraz</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Evaluating a middleware for crossmedia games.</title>
+<year>2008</year>
+<volume>6</volume>
+<journal>Comput. Entertain.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1394021.1394033</ee>
+<url>db/journals/cie/cie6.html#TrintaPFR08</url>
+<pages>40:1-40:19</pages>
+</article>
+</r>
+<r><article key="journals/jbcs/SampaioRT08" mdate="2022-06-13">
+<author pid="78/8870">Pablo Azevedo Sampaio</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="99/8925">Patr&#237;cia Azevedo Tedesco</author>
+<title>CinBalada: A Multiagent Rhythm Factory.</title>
+<pages>31-49</pages>
+<year>2008</year>
+<volume>14</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/BF03192563</ee>
+<url>db/journals/jbcs/jbcs14.html#SampaioRT08</url>
+</article>
+</r>
+<r><inproceedings key="conf/ismir/ScholzR08" mdate="2020-03-12">
+<author pid="179/0985">Ricardo E. P. Scholz</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>COCHONUT: Recognizing Complex Chords from MIDI Guitar Sequences.</title>
+<pages>27-32</pages>
+<year>2008</year>
+<booktitle>ISMIR</booktitle>
+<ee type="oa">http://ismir2008.ismir.net/papers/ISMIR2008_200.pdf</ee>
+<crossref>conf/ismir/2008</crossref>
+<url>db/conf/ismir/ismir2008.html#ScholzR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismir/LimaR08" mdate="2020-03-12">
+<author pid="65/7645">Ernesto Trajano de Lima</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>On Rhythmic Pattern Extraction in Bossa Nova Music.</title>
+<pages>641-646</pages>
+<year>2008</year>
+<booktitle>ISMIR</booktitle>
+<ee type="oa">http://ismir2008.ismir.net/papers/ISMIR2008_238.pdf</ee>
+<crossref>conf/ismir/2008</crossref>
+<url>db/conf/ismir/ismir2008.html#LimaR08</url>
+</inproceedings>
+</r>
+<r><article key="journals/iee/FurtadoSR07" mdate="2020-05-22">
+<author pid="90/4251">Andr&#233; Wilson Brotto Furtado</author>
+<author orcid="0000-0001-6661-5970" pid="s/AndreSantos">Andr&#233; L. M. Santos</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Computer games software factory and edutainment platform for microsoft .NET.</title>
+<pages>280-293</pages>
+<year>2007</year>
+<volume>1</volume>
+<journal>IET Softw.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1049/iet-sen:20070023</ee>
+<url>db/journals/iet-sen/iet-sen1.html#FurtadoSR07</url>
+</article>
+</r>
+<r><article key="journals/taosd/AlvesMCVBR07" mdate="2022-02-18">
+<author pid="15/5448">Vander Alves</author>
+<author pid="55/6875">Pedro Matos</author>
+<author pid="51/1196">Leonardo Cole</author>
+<author pid="71/4614">Alexandre M. L. de Vasconcelos</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Extracting and Evolving Code in Product Lines with Aspect-Oriented Programming.</title>
+<pages>117-142</pages>
+<year>2007</year>
+<volume>4</volume>
+<journal>LNCS Trans. Aspect Oriented Softw. Dev.</journal>
+<ee>https://doi.org/10.1007/978-3-540-77042-8_5</ee>
+<crossref>journals/taosd/2007-4</crossref>
+<url>db/journals/taosd/taosd4.html#AlvesMCVBR07</url>
+</article>
+</r>
+<r><inproceedings key="conf/gameon/FilhoSMWTR07" mdate="2014-06-22">
+<author pid="77/8342">Vicente V. Filho</author>
+<author pid="86/6670">Clauirton de Albuquerque Siebra</author>
+<author pid="06/8342">Jos&#233; C. Moura</author>
+<author pid="17/8342">Renan T. Weber</author>
+<author pid="99/8925">Patr&#237;cia C. A. R. Tedesco</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Evaluation of Multiagent Teams via a New Approach for Strategic Game Simulator.</title>
+<pages>48-52</pages>
+<year>2007</year>
+<booktitle>GAMEON</booktitle>
+<crossref>conf/gameon/2007</crossref>
+<url>db/conf/gameon/gameon2007.html#FilhoSMWTR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/TrintaPFR07" mdate="2022-01-14">
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author pid="11/3507">Davi Pedrosa</author>
+<author pid="31/2870">Carlos Ferraz</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Evaluating a middleware for crossmedia games.</title>
+<pages>43-48</pages>
+<year>2007</year>
+<booktitle>MPAC</booktitle>
+<ee>https://doi.org/10.1145/1376866.1376874</ee>
+<crossref>conf/middleware/2007mpac</crossref>
+<url>db/conf/middleware/mpac2007.html#TrintaPFR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/percom/TrintaPFR07" mdate="2023-03-24">
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author pid="11/3507">Davi Pedrosa</author>
+<author pid="31/2870">Carlos Ferraz</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Scenarios and Middleware Services for Pervasive Multiplatform Networked Games.</title>
+<pages>593-596</pages>
+<year>2007</year>
+<crossref>conf/percom/2007w</crossref>
+<booktitle>PerCom Workshops</booktitle>
+<ee>https://doi.org/10.1109/PERCOMW.2007.102</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PERCOMW.2007.102</ee>
+<url>db/conf/percom/percomw2007.html#TrintaPFR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/re/AlvesRD07" mdate="2023-03-24">
+<author pid="93/9961">Carina Frota Alves</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="65/1960">Alexandre L. G. Damasceno</author>
+<title>Challenges in Requirements Engineering for Mobile Games Development: The Meantime Case Study.</title>
+<pages>275-280</pages>
+<year>2007</year>
+<booktitle>RE</booktitle>
+<ee>https://doi.org/10.1109/RE.2007.53</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RE.2007.53</ee>
+<crossref>conf/re/2007</crossref>
+<url>db/conf/re/re2007.html#AlvesRD07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/SilvaSTRM07" mdate="2024-01-08">
+<author pid="50/8694">Danielle R. D. Silva</author>
+<author pid="88/9961">Andr&#233; Felipe Lemos Santana</author>
+<author pid="99/8925">Patr&#237;cia Restelli Tedesco</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="03/6598">Hermano Perrelli de Moura</author>
+<title>Um Retrato da Gest&#227;o de Pessoas em Projetos de Software: A Vis&#227;o do Gerente vs. A do Desenvolvedor.</title>
+<pages>289-305</pages>
+<year>2007</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2007.21312</ee>
+<crossref>conf/sbes/2007</crossref>
+<url>db/conf/sbes/sbes2007.html#SilvaSTRM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aiide/AndradeRGC06" mdate="2021-02-10">
+<author pid="24/78">Gustavo Andrade</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="43/5447">Alex Sandro Gomes</author>
+<author pid="15/6998">Vincent Corruble</author>
+<title>Dynamic Game Balancing: An Evaluation of User Satisfaction.</title>
+<pages>3-8</pages>
+<year>2006</year>
+<crossref>conf/aiide/2006</crossref>
+<booktitle>AIIDE</booktitle>
+<url>db/conf/aiide/aiide2006.html#AndradeRGC06</url>
+<ee type="oa">http://www.aaai.org/Library/AIIDE/2006/aiide06-005.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aiide/MadeiraCR06" mdate="2021-02-10">
+<author pid="86/345">Charles A. G. Madeira</author>
+<author pid="15/6998">Vincent Corruble</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Designing a Reinforcement Learning-based Adaptive AI for Large-Scale Strategy Games.</title>
+<pages>121-123</pages>
+<year>2006</year>
+<crossref>conf/aiide/2006</crossref>
+<booktitle>AIIDE</booktitle>
+<url>db/conf/aiide/aiide2006.html#MadeiraCR06</url>
+<ee type="oa">http://www.aaai.org/Library/AIIDE/2006/aiide06-026.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iberamia/MenezesTR06" mdate="2022-01-31">
+<author pid="81/5623">Talita Menezes</author>
+<author pid="99/8925">Patr&#237;cia Azevedo Tedesco</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Negotiator Agents for the Patrolling Task.</title>
+<pages>48-57</pages>
+<year>2006</year>
+<crossref>conf/iberamia/2006</crossref>
+<booktitle>IBERAMIA-SBIA</booktitle>
+<ee>https://doi.org/10.1007/11874850_9</ee>
+<url>db/conf/iberamia/iberamia2006.html#MenezesTR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/netgames/TrintaFR06" mdate="2022-01-14">
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author pid="31/2870">Carlos Ferraz</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Middleware services for pervasive multiplatform networked games.</title>
+<pages>39</pages>
+<year>2006</year>
+<crossref>conf/netgames/2006</crossref>
+<booktitle>NETGAMES</booktitle>
+<ee>https://doi.org/10.1145/1230040.1230049</ee>
+<url>db/conf/netgames/netgames2006.html#TrintaFR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/TrintaFR06" mdate="2022-01-14">
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author pid="31/2870">Carlos Ferraz</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Scenarios and middleware services for pervasive multiplatform networked games.</title>
+<pages>243-252</pages>
+<year>2006</year>
+<crossref>conf/webmedia/2006</crossref>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/1186595.1186624</ee>
+<url>db/conf/webmedia/webmedia2006.html#TrintaFR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/AndradeRSC05" mdate="2019-10-11">
+<author pid="24/78">Gustavo Andrade</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="70/4838">Hugo Santana</author>
+<author pid="15/6998">Vincent Corruble</author>
+<title>Automatic computer game balancing: a reinforcement learning approach.</title>
+<pages>1111-1112</pages>
+<year>2005</year>
+<crossref>conf/atal/2005</crossref>
+<booktitle>AAMAS</booktitle>
+<ee>https://doi.org/10.1145/1082473.1082648</ee>
+<url>db/conf/atal/aamas2005.html#AndradeRSC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/AndradeRSC05" mdate="2023-03-24">
+<author pid="24/78">Gustavo Andrade</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="70/4838">Hugo Santana</author>
+<author pid="15/6998">Vincent Corruble</author>
+<title>Challenge-Sensitive Action Selection: an Application to Game Balancing.</title>
+<pages>194-200</pages>
+<year>2005</year>
+<crossref>conf/iat/2005</crossref>
+<booktitle>IAT</booktitle>
+<ee>https://doi.org/10.1109/IAT.2005.52</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IAT.2005.52</ee>
+<url>db/conf/iat/iat2005.html#AndradeRSC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/MadieraCR05" mdate="2023-03-24">
+<author pid="86/345">Charles A. G. Madeira</author>
+<author pid="15/6998">Vincent Corruble</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Generating Adequate Representations for Learning from Interaction in Complex Multiagent Simulations.</title>
+<pages>512-515</pages>
+<year>2005</year>
+<crossref>conf/iat/2005</crossref>
+<booktitle>IAT</booktitle>
+<ee>https://doi.org/10.1109/IAT.2005.79</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IAT.2005.79</ee>
+<url>db/conf/iat/iat2005.html#MadieraCR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/AlvesCVSDBR05" mdate="2023-03-24">
+<author orcid="0000-0003-1573-048X" pid="15/5448">Vander Alves</author>
+<author pid="10/6876">Ivan Cardim</author>
+<author pid="53/6576">Heitor Vital</author>
+<author pid="31/6697">Pedro H. M. Sampaio</author>
+<author pid="65/1960">Alexandre L. G. Damasceno</author>
+<author orcid="0000-0002-0381-2843" pid="b/PauloBorba">Paulo Borba</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Comparative Analysis of Porting Strategies in J2ME Games.</title>
+<pages>123-132</pages>
+<year>2005</year>
+<crossref>conf/icsm/2005</crossref>
+<booktitle>ICSM</booktitle>
+<ee>https://doi.org/10.1109/ICSM.2005.30</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICSM.2005.30</ee>
+<url>db/conf/icsm/icsm2005.html#AlvesCVSDBR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ism/ScholzDR05" mdate="2023-03-24">
+<author pid="179/0985">Ricardo E. P. Scholz</author>
+<author pid="22/4144">V&#237;tor Dantas</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Automating Functional Harmonic Analysis: The Funchal System.</title>
+<pages>759-764</pages>
+<year>2005</year>
+<crossref>conf/ism/2005</crossref>
+<booktitle>ISM</booktitle>
+<ee>https://doi.org/10.1109/ISM.2005.39</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISM.2005.39</ee>
+<url>db/conf/ism/ism2005.html#ScholzDR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/splc/AlvesMCBR05" mdate="2019-10-11">
+<author orcid="0000-0003-1573-048X" pid="15/5448">Vander Alves</author>
+<author pid="01/1353">Pedro Matos Jr.</author>
+<author pid="51/1196">Leonardo Cole</author>
+<author orcid="0000-0002-0381-2843" pid="b/PauloBorba">Paulo Borba</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Extracting and Evolving Mobile Games Product Lines.</title>
+<pages>70-81</pages>
+<year>2005</year>
+<crossref>conf/splc/2005</crossref>
+<booktitle>SPLC</booktitle>
+<ee>https://doi.org/10.1007/11554844_8</ee>
+<url>db/conf/splc/splc2005.html#AlvesMCBR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/SantanaRCR04" mdate="2023-03-24">
+<author pid="70/4838">Hugo Santana</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="15/6998">Vincent Corruble</author>
+<author pid="74/3742">Bohdana Ratitch</author>
+<title>Multi-Agent Patrolling with Reinforcement Learning.</title>
+<pages>1122-1129</pages>
+<year>2004</year>
+<crossref>conf/atal/2004</crossref>
+<booktitle>AAMAS</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AAMAS.2004.10176</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1018881</ee>
+<url>db/conf/atal/aamas2004.html#SantanaRCR04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/GalvaoBNR04" mdate="2023-03-24">
+<author pid="71/1879">Adjamir M. Galv&#227;o</author>
+<author pid="b/FlaviaABarros">Fl&#225;via A. Barros</author>
+<author pid="60/2746">Andr&#233; M. M. Neves</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Persona-AIML: An Architecture Developing Chatterbots with Personality.</title>
+<pages>1266-1267</pages>
+<year>2004</year>
+<crossref>conf/atal/2004</crossref>
+<booktitle>AAMAS</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AAMAS.2004.10163</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1018912</ee>
+<url>db/conf/atal/aamas2004.html#GalvaoBNR04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/ChevaleyreSR04" mdate="2023-03-24">
+<author pid="55/5658">Yann Chevaleyre</author>
+<author pid="61/1925">Fran&#231;ois Semp&#233;</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>A Theoretical Analysis of Multi-Agent Patrolling Strategies.</title>
+<pages>1524-1525</pages>
+<year>2004</year>
+<crossref>conf/atal/2004</crossref>
+<booktitle>AAMAS</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AAMAS.2004.10221</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1019013</ee>
+<url>db/conf/atal/aamas2004.html#ChevaleyreSR04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iberamia/GalvaoBNR04" mdate="2019-10-11">
+<author pid="71/1879">Adjamir M. Galv&#227;o</author>
+<author pid="b/FlaviaABarros">Fl&#225;via A. Barros</author>
+<author pid="60/2746">Andr&#233; M. M. Neves</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Adding Personality to Chatterbots Using the Persona-AIML Architecture.</title>
+<pages>963-973</pages>
+<ee>https://doi.org/10.1007/978-3-540-30498-2_96</ee>
+<year>2004</year>
+<crossref>conf/iberamia/2004</crossref>
+<booktitle>IBERAMIA</booktitle>
+<url>db/conf/iberamia/iberamia2004.html#GalvaoBNR04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmc/LimaDSR04" mdate="2022-05-04">
+<author pid="65/7645">Ernesto Trajano de Lima</author>
+<author pid="128/2807">M&#225;rcio Dahia</author>
+<author pid="70/4838">Hugo Santana</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Automatic Discovery of Right Hand Fingering in Guitar Accompaniment.</title>
+<year>2004</year>
+<booktitle>ICMC</booktitle>
+<ee type="oa">https://hdl.handle.net/2027/spo.bbp2372.2004.080</ee>
+<crossref>conf/icmc/2004</crossref>
+<url>db/conf/icmc/icmc2004.html#LimaDSR04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbia/AlmeidaRSTMCC04" mdate="2022-01-31">
+<author pid="73/2922">Alessandro Almeida</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="70/4838">Hugo Santana</author>
+<author pid="99/8925">Patr&#237;cia Azevedo Tedesco</author>
+<author pid="81/5623">Talita Menezes</author>
+<author pid="15/6998">Vincent Corruble</author>
+<author pid="55/5658">Yann Chevaleyre</author>
+<title>Recent Advances on Multi-agent Patrolling.</title>
+<pages>474-483</pages>
+<ee>https://doi.org/10.1007/978-3-540-28645-5_48</ee>
+<year>2004</year>
+<crossref>conf/sbia/2004</crossref>
+<booktitle>SBIA</booktitle>
+<url>db/conf/sbia/sbia2004.html#AlmeidaRSTMCC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbia/PinhoRPT04" mdate="2022-01-31">
+<author pid="87/4766">Orlando Pinho Jr.</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="58/3360">Gustavo de Paula</author>
+<author pid="99/8925">Patr&#237;cia Azevedo Tedesco</author>
+<title>Sequential Bilateral Negotiation.</title>
+<pages>526-535</pages>
+<ee>https://doi.org/10.1007/978-3-540-28645-5_53</ee>
+<year>2004</year>
+<crossref>conf/sbia/2004</crossref>
+<booktitle>SBIA</booktitle>
+<url>db/conf/sbia/sbia2004.html#PinhoRPT04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/MenezesRM02" mdate="2019-10-11">
+<author pid="06/6988">Luis Carlos de Sousa Menezes</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="03/6598">Hermano Perrelli de Moura</author>
+<title>Modular definition of agent-oriented languages using action semantics.</title>
+<pages>948-949</pages>
+<year>2002</year>
+<crossref>conf/atal/2002</crossref>
+<booktitle>AAMAS</booktitle>
+<ee>https://doi.org/10.1145/544862.544962</ee>
+<url>db/conf/atal/aamas2002.html#MenezesRM02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gameon/CorrubleMR02" mdate="2019-10-11">
+<author pid="15/6998">Vincent Corruble</author>
+<author pid="86/345">Charles A. G. Madeira</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Steps toward Building of a Good AI for Complex Wargame-Type Simulation Games.</title>
+<year>2002</year>
+<crossref>conf/gameon/2002</crossref>
+<booktitle>GAME-ON</booktitle>
+<url>db/conf/gameon/gameon2002.html#CorrubleMR02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mabs/MachadoRZD02" mdate="2022-10-02">
+<author orcid="0000-0003-1188-131X" pid="84/2665">Aydano Machado</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author orcid="0000-0002-5597-7922" pid="78/2478">Jean-Daniel Zucker</author>
+<author pid="73/2108">Alexis Drogoul</author>
+<title>Multi-agent Patrolling: An Empirical Analysis of Alternative Architectures.</title>
+<pages>155-170</pages>
+<year>2002</year>
+<crossref>conf/mabs/2002</crossref>
+<booktitle>MABS</booktitle>
+<ee>https://doi.org/10.1007/3-540-36483-8_11</ee>
+<url>db/conf/mabs/mabs2002.html#MachadoRZD02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbia/BezerraCRZ02" mdate="2019-10-11">
+<author pid="75/1673">Byron L. D. Bezerra</author>
+<author pid="65/6740">Francisco de A. T. de Carvalho</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="78/2478">Jean-Daniel Zucker</author>
+<title>Speeding up Recommender Systems with Meta-prototypes.</title>
+<pages>227-236</pages>
+<year>2002</year>
+<crossref>conf/sbia/2002</crossref>
+<booktitle>SBIA</booktitle>
+<ee>https://doi.org/10.1007/3-540-36127-8_22</ee>
+<url>db/conf/sbia/sbia2002.html#BezerraCRZ02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbia/TeixeiraCRC02" mdate="2019-10-11">
+<author pid="71/6930">Ivan R. Teixeira</author>
+<author pid="65/6740">Francisco de A. T. de Carvalho</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="15/6998">Vincent Corruble</author>
+<title>ActiveCP: A Method for Speeding up User Preferences Acquisition in Collaborative Filtering Systems.</title>
+<pages>237-247</pages>
+<year>2002</year>
+<crossref>conf/sbia/2002</crossref>
+<booktitle>SBIA</booktitle>
+<ee>https://doi.org/10.1007/3-540-36127-8_23</ee>
+<url>db/conf/sbia/sbia2002.html#TeixeiraCRC02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbia/QueirozCRC02" mdate="2021-06-02">
+<author pid="37/4229">S&#233;rgio Ricardo de Melo Queiroz</author>
+<author pid="65/6740">Francisco de A. T. de Carvalho</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="15/6998">Vincent Corruble</author>
+<title>Making Recommendations for Groups Using Collaborative Filtering and Fuzzy Majority.</title>
+<pages>248-258</pages>
+<year>2002</year>
+<crossref>conf/sbia/2002</crossref>
+<booktitle>SBIA</booktitle>
+<ee>https://doi.org/10.1007/3-540-36127-8_24</ee>
+<url>db/conf/sbia/sbia2002.html#QueirozCRC02</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sbia/2002" mdate="2019-10-11">
+<editor pid="64/1847">Guilherme Bittencourt</editor>
+<editor pid="13/3685">Geber L. Ramalho</editor>
+<title>Advances in Artificial Intelligence, 16th Brazilian Symposium on Artificial Intelligence, SBIA 2002, Porto de Galinhas/Recife, Brazil, November 11-14, 2002, Proceedings</title>
+<booktitle>SBIA</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>2507</volume>
+<publisher>Springer</publisher>
+<year>2002</year>
+<isbn>3-540-00124-7</isbn>
+<ee>https://doi.org/10.1007/3-540-36127-8</ee>
+<url>db/conf/sbia/sbia2002.html</url>
+</proceedings>
+</r>
+<r><article key="journals/rita/BattaiolaDFSCKDPR01" mdate="2019-10-11">
+<author pid="86/3948">Andr&#233; Luiz Battaiola</author>
+<author pid="79/3011">Rodrigo G. Domingues</author>
+<author pid="36/3530">Bruno Feij&#243;</author>
+<author pid="07/3751">Dilza Szwarcman</author>
+<author pid="59/5772">Esteban Walter Gonzalez Clua</author>
+<author pid="95/5599">Lauro E. Kosovitz</author>
+<author pid="96/1990">Marcelo Dreux</author>
+<author pid="79/1727">Carlos A. Pessoa</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Desenvolvimento de Jogos em Computadores e Celulares.</title>
+<pages>7-46</pages>
+<year>2001</year>
+<volume>8</volume>
+<journal>RITA</journal>
+<number>2</number>
+<url>db/journals/rita/rita8.html#BattaiolaDFSCKDPR01</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/AlbuquerqueHPSR01" mdate="2020-12-29">
+<author pid="17/1764">Ryan L. Albuquerque</author>
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="58/3360">Gustavo de Paula</author>
+<author pid="s/JSSichman">Jaime Sim&#227;o Sichman</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>KSACI: A Handheld Device Infrastructure for Agents Communication.</title>
+<pages>423-435</pages>
+<year>2001</year>
+<crossref>conf/atal/2001</crossref>
+<booktitle>ATAL</booktitle>
+<ee>https://doi.org/10.1007/3-540-45448-9_32</ee>
+<url>db/conf/atal/atal2001.html#AlbuquerqueHPSR01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/SilvaR01" mdate="2019-02-22">
+<author pid="33/1137-1">Ricardo Martins de Abreu Silva</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Ant system for the set covering problem.</title>
+<pages>3129-3133</pages>
+<year>2001</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/ICSMC.2001.971999</ee>
+<crossref>conf/smc/2001</crossref>
+<url>db/conf/smc/smc2001.html#SilvaR01</url>
+</inproceedings>
+</r>
+<r><article key="journals/vr/SilvaSVAFFR00" mdate="2020-06-18">
+<author pid="95/6527">D. R. Silva</author>
+<author pid="86/6670">Clauirton de Albuquerque Siebra</author>
+<author pid="29/9682">J. L. Valadares</author>
+<author pid="35/9682">A. L. Almeida</author>
+<author pid="f/ACFrery">Alejandro C. Frery</author>
+<author pid="63/9681">J. Rocha Falc&#227;o</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>A Synthetic Actor model for long-term computer games.</title>
+<pages>107-116</pages>
+<year>2000</year>
+<volume>5</volume>
+<journal>Virtual Real.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/BF01424341</ee>
+<url>db/journals/vr/vr5.html#SilvaSVAFFR00</url>
+</article>
+</r>
+<r><inproceedings key="conf/amec/PaulaRR00" mdate="2019-10-11">
+<author pid="58/3360">Gustavo de Paula</author>
+<author pid="97/4307">Francisco S. Ramos</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Bilateral Negotiation for Agent-Mediated Electronic Commerce.</title>
+<pages>1-14</pages>
+<year>2000</year>
+<crossref>conf/amec/2000</crossref>
+<booktitle>AMEC</booktitle>
+<ee>https://doi.org/10.1007/3-540-44723-7_1</ee>
+<url>db/conf/amec/amec2000.html#PaulaRR00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbia/FilhoR00" mdate="2019-10-11">
+<author pid="52/3160">Carlos Santos da Figueira Filho</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>JEOPS - The Java Embedded Object Production System.</title>
+<pages>53-62</pages>
+<ee>https://doi.org/10.1007/3-540-44399-1_7</ee>
+<year>2000</year>
+<crossref>conf/sbia/2000</crossref>
+<booktitle>IBERAMIA-SBIA</booktitle>
+<url>db/conf/sbia/sbia2000.html#FilhoR00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hci/SiebraR99" mdate="2019-10-11">
+<author pid="87/1199">Sandra de Albuquerque Siebra</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Athena: An User-Centered Adaptive Interface.</title>
+<pages>346-350</pages>
+<year>1999</year>
+<crossref>conf/hci/1999-1</crossref>
+<booktitle>HCI (1)</booktitle>
+<url>db/conf/hci/hci1999-1.html#SiebraR99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hci/RamalhoBCCLMMV99" mdate="2022-02-21">
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="b/FlaviaABarros">Fl&#225;via A. Barros</author>
+<author pid="37/2399">S&#233;rgio Cavalcante</author>
+<author pid="c/AnaCavalcanti">Ana Cavalcanti 0001</author>
+<author pid="82/3907">Manoel Lima</author>
+<author pid="m/SRdeLemosMeira">Silvio Romero de Lemos Meira</author>
+<author pid="03/6598">Hermano P. Moura</author>
+<author pid="71/4614">Alexandre M. L. de Vasconcelos</author>
+<title>Cyber Rally: An experience of democratic use of the internet.</title>
+<pages>402-406</pages>
+<year>1999</year>
+<crossref>conf/hci/1999-2</crossref>
+<booktitle>HCI (2)</booktitle>
+<url>db/conf/hci/hci1999-2.html#RamalhoBCCLMMV99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/RamalhoG94" mdate="2023-09-04">
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="g/JGGanascia">Jean-Gabriel Ganascia</author>
+<title>Simulating Creativity in Jazz Performance.</title>
+<pages>108-113</pages>
+<year>1994</year>
+<crossref>conf/aaai/1994-1</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai94-1.html#RamalhoG94</url>
+<ee type="archive">http://www.aaai.org/Library/AAAI/1994/aaai94-017.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/ZuckerCTR94" mdate="2019-10-11">
+<author pid="78/2478">Jean-Daniel Zucker</author>
+<author pid="15/6998">Vincent Corruble</author>
+<author pid="26/3443">J. Thomas</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>DICE: A Discovery Environment Integrating Inductive Bias.</title>
+<pages>275-286</pages>
+<year>1994</year>
+<crossref>conf/kdd/1994</crossref>
+<booktitle>KDD Workshop</booktitle>
+<url>db/conf/kdd/kdd94.html#ZuckerCTR94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aied/RamalhoG93" mdate="2019-10-11">
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="g/JGGanascia">Jean-Gabriel Ganascia</author>
+<title>The Role of Musical Memory in Creativity and Learning: A Study of Jazz Performance.</title>
+<pages>143-156</pages>
+<year>1993</year>
+<crossref>conf/aied/1993</crossref>
+<booktitle>Music Education: An Artificial Intelligence Approach</booktitle>
+<url>db/conf/aied/aied1993.html#RamalhoG93</url>
+<ee>https://doi.org/10.1007/978-1-4471-3571-5_9</ee>
+</inproceedings>
+</r>
+<coauthors n="131" nc="3">
+<co c="0"><na f="a/Albuquerque:Marco_Tulio_C=_F=" pid="156/6896">Marco Tulio C. F. Albuquerque</na></co>
+<co c="0"><na f="a/Albuquerque:Ryan_L=" pid="17/1764">Ryan L. Albuquerque</na></co>
+<co c="0"><na f="a/Almeida:A=_L=" pid="35/9682">A. L. Almeida</na></co>
+<co c="0"><na f="a/Almeida:Alessandro" pid="73/2922">Alessandro Almeida</na></co>
+<co c="0"><na f="a/Almeida:Eduardo_Santana_de" pid="a/EduardoSantanadeAlmeida">Eduardo Santana de Almeida</na></co>
+<co c="0" n="2"><na f="a/Alves_0001:Carina" pid="93/9961">Carina Alves 0001</na><na>Carina Frota Alves</na></co>
+<co c="0"><na f="a/Alves:Vander" pid="15/5448">Vander Alves</na></co>
+<co c="0"><na f="a/Alvim:Fernando" pid="254/8483">Fernando Alvim</na></co>
+<co c="0"><na f="a/Andrade:Gustavo" pid="24/78">Gustavo Andrade</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Cristiano_C=" pid="146/7437">Cristiano C. Ara&#250;jo</na></co>
+<co c="0"><na f="b/Barbosa:Jer=ocirc=nimo" pid="159/4320">Jer&#244;nimo Barbosa</na></co>
+<co c="0"><na f="b/Barbosa:Pablo" pid="83/8694">Pablo Barbosa</na></co>
+<co c="2"><na f="b/Barros:Fl=aacute=via" pid="308/5151">Fl&#225;via Barros</na></co>
+<co c="0" n="2"><na f="b/Barros:Fl=aacute=via_de_Almeida" pid="b/FlaviaABarros">Fl&#225;via de Almeida Barros</na><na>Fl&#225;via A. Barros</na></co>
+<co c="1"><na f="b/Battaiola:Andr=eacute=_Luiz" pid="86/3948">Andr&#233; Luiz Battaiola</na></co>
+<co c="0"><na f="b/Bezerra:Byron_L=_D=" pid="75/1673">Byron L. D. Bezerra</na></co>
+<co c="0"><na f="b/Bittencourt:Guilherme" pid="64/1847">Guilherme Bittencourt</na></co>
+<co c="0"><na f="b/Borba:Paulo" pid="b/PauloBorba">Paulo Borba</na></co>
+<co c="0"><na f="c/Cabral_0001:Giordano" pid="51/2005">Giordano Cabral 0001</na></co>
+<co c="0"><na f="c/Cabral:Luciano_de_Souza" pid="130/8106">Luciano de Souza Cabral</na></co>
+<co c="0"><na f="c/Calegario:Filipe" pid="145/4681">Filipe Calegario</na></co>
+<co c="0"><na f="c/Cardim:Ivan" pid="10/6876">Ivan Cardim</na></co>
+<co c="0"><na f="c/Carvalho:Emmanuel" pid="320/4756">Emmanuel Carvalho</na></co>
+<co c="0"><na f="c/Carvalho:Francisco_de_A=_T=_de" pid="65/6740">Francisco de A. T. de Carvalho</na></co>
+<co c="0"><na f="c/Carvalho:Leonardo_V=_de" pid="156/7139">Leonardo V. de Carvalho</na></co>
+<co c="0"><na f="c/Cavalcante:S=eacute=rgio" pid="37/2399">S&#233;rgio Cavalcante</na></co>
+<co c="0"><na f="c/Cavalcanti_0001:Ana" pid="c/AnaCavalcanti">Ana Cavalcanti 0001</na></co>
+<co c="0"><na f="c/Chevaleyre:Yann" pid="55/5658">Yann Chevaleyre</na></co>
+<co c="1"><na f="c/Clua:Esteban_Walter_Gonzalez" pid="59/5772">Esteban Walter Gonzalez Clua</na></co>
+<co c="0"><na f="c/Cole:Leonardo" pid="51/1196">Leonardo Cole</na></co>
+<co c="0"><na f="c/Corruble:Vincent" pid="15/6998">Vincent Corruble</na></co>
+<co c="0"><na f="c/Costa:Newarney_T=" pid="380/0391">Newarney T. Costa</na></co>
+<co c="0"><na f="d/Dahia:M=aacute=rcio" pid="128/2807">M&#225;rcio Dahia</na></co>
+<co c="0"><na f="d/Damasceno:Alexandre_L=_G=" pid="65/1960">Alexandre L. G. Damasceno</na></co>
+<co c="0"><na f="d/Dantas:V=iacute=tor" pid="22/4144">V&#237;tor Dantas</na></co>
+<co c="1"><na f="d/Domingues:Rodrigo_G=" pid="79/3011">Rodrigo G. Domingues</na></co>
+<co c="1"><na f="d/Dreux:Marcelo" pid="96/1990">Marcelo Dreux</na></co>
+<co c="0"><na f="d/Drogoul:Alexis" pid="73/2108">Alexis Drogoul</na></co>
+<co c="0"><na f="e/Eusebio:Ayrton" pid="320/3946">Ayrton Eusebio</na></co>
+<co c="0"><na f="f/Falc=atilde=o:J=_Rocha" pid="63/9681">J. Rocha Falc&#227;o</na></co>
+<co c="0"><na f="f/Falc=atilde=o:Jo=atilde=o_Pontual_de_Arruda" pid="308/7550">Jo&#227;o Pontual de Arruda Falc&#227;o</na></co>
+<co c="0"><na f="f/Falc=atilde=o:Taciana_Pontual" pid="10/5013">Taciana Pontual Falc&#227;o</na></co>
+<co c="1"><na f="f/Feij=oacute=:Bruno" pid="36/3530">Bruno Feij&#243;</na></co>
+<co c="0" n="2"><na f="f/Ferraz:Carlos_A=_G=" pid="31/2870">Carlos A. G. Ferraz</na><na>Carlos Ferraz</na></co>
+<co c="-1"><na f="f/Filho:Carlos_Santos_da_Figueira" pid="52/3160">Carlos Santos da Figueira Filho</na></co>
+<co c="0"><na f="f/Filho:Marconi_Madruga" pid="23/11456">Marconi Madruga Filho</na></co>
+<co c="0"><na f="f/Filho:Vicente_V=" pid="77/8342">Vicente V. Filho</na></co>
+<co c="0"><na f="f/Filho:Vicente_Vieira" pid="156/7147">Vicente Vieira Filho</na></co>
+<co c="0"><na f="f/Fran=ccedil=a:A=_C=eacute=sar_C=" pid="150/9014">A. C&#233;sar C. Fran&#231;a</na></co>
+<co c="0"><na f="f/Freitas:Elyda_L=_S=_X=" pid="166/4415">Elyda L. S. X. Freitas</na></co>
+<co c="0"><na f="f/Freitas:Fred" pid="94/2962">Fred Freitas</na></co>
+<co c="0"><na f="f/Frery:Alejandro_C=" pid="f/ACFrery">Alejandro C. Frery</na></co>
+<co c="0"><na f="f/Furtado:Andr=eacute=_Wilson_Brotto" pid="90/4251">Andr&#233; Wilson Brotto Furtado</na></co>
+<co c="0"><na f="g/Galv=atilde=o:Adjamir_M=" pid="71/1879">Adjamir M. Galv&#227;o</na></co>
+<co c="0"><na f="g/Ganascia:Jean=Gabriel" pid="g/JGGanascia">Jean-Gabriel Ganascia</na></co>
+<co c="0"><na f="g/Gasevic:Dragan" pid="67/5716">Dragan Gasevic</na></co>
+<co c="0"><na f="g/Gomes:Alex_Sandro" pid="43/5447">Alex Sandro Gomes</na></co>
+<co c="0"><na f="g/Guerra:Marcela" pid="128/2895">Marcela Guerra</na></co>
+<co c="0"><na f="h/H=uuml=bner:Jomi_Fred" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</na></co>
+<co c="0"><na f="h/Huot:St=eacute=phane" pid="57/1739">St&#233;phane Huot</na></co>
+<co c="0"><na f="j/J=aacute=come:Jarbas" pid="254/8475">Jarbas J&#225;come</na></co>
+<co c="0"><na f="j/Junior:Cleon_Pereira" pid="397/6590">Cleon Pereira Junior</na></co>
+<co c="1"><na f="k/Kosovitz:Lauro_E=" pid="95/5599">Lauro E. Kosovitz</na></co>
+<co c="0"><na f="l/Lima:Ernesto_Trajano_de" pid="65/7645">Ernesto Trajano de Lima</na></co>
+<co c="0"><na f="l/Lima:Manoel" pid="82/3907">Manoel Lima</na></co>
+<co c="0"><na f="m/Machado:Aydano" pid="84/2665">Aydano Machado</na></co>
+<co c="0"><na f="m/Madeira:Charles_A=_G=" pid="86/345">Charles A. G. Madeira</na></co>
+<co c="0"><na f="m/Matos:Pedro" pid="55/6875">Pedro Matos</na></co>
+<co c="0"><na f="m/Matos_Jr=:Pedro" pid="01/1353">Pedro Matos Jr.</na></co>
+<co c="0"><na f="m/McGlynn:Patrick" pid="159/4346">Patrick McGlynn</na></co>
+<co c="0"><na f="m/Medeiros:Rodrigo_Pessoa" pid="131/9326">Rodrigo Pessoa Medeiros</na></co>
+<co c="0"><na f="m/Meira:Silvio_Romero_de_Lemos" pid="m/SRdeLemosMeira">Silvio Romero de Lemos Meira</na></co>
+<co c="0" n="2"><na f="m/Mello:Rafael_Ferreira_Leite_de" pid="205/0582">Rafael Ferreira Leite de Mello</na><na>Rafael Ferreira Mello</na></co>
+<co c="0"><na f="m/Mello:Rodrigo" pid="151/7689">Rodrigo Mello</na></co>
+<co c="0"><na f="m/Menezes:Luis_Carlos_de_Sousa" pid="06/6988">Luis Carlos de Sousa Menezes</na></co>
+<co c="0"><na f="m/Menezes:Talita" pid="81/5623">Talita Menezes</na></co>
+<co c="2"><na f="m/Moreira:=Aacute=tila" pid="308/4635">&#193;tila Moreira</na></co>
+<co c="0"><na f="m/Moreira:Atila_Valgueiro_Malta" pid="156/7148">Atila Valgueiro Malta Moreira</na></co>
+<co c="0"><na f="m/Moreira:Daniel_M=_D=" pid="30/104">Daniel M. D. Moreira</na></co>
+<co c="0"><na f="m/Moreira:Icaro_V=_M=" pid="156/7003">Icaro V. M. Moreira</na></co>
+<co c="0" n="2"><na f="m/Moura:Hermano_Perrelli_de" pid="03/6598">Hermano Perrelli de Moura</na><na>Hermano P. Moura</na></co>
+<co c="0"><na f="m/Moura:Jos=eacute=_C=" pid="06/8342">Jos&#233; C. Moura</na></co>
+<co c="0"><na f="n/Neves:Andr=eacute=_M=_M=" pid="60/2746">Andr&#233; M. M. Neves</na></co>
+<co c="0"><na f="o/Oliveira_0002:Maria" pid="254/8489">Maria Oliveira 0002</na></co>
+<co c="0"><na f="p/Paula:Gustavo_de" pid="58/3360">Gustavo de Paula</na></co>
+<co c="0"><na f="p/Paulo:Hector" pid="320/5779">Hector Paulo</na></co>
+<co c="0"><na f="p/Pedrosa:Davi" pid="11/3507">Davi Pedrosa</na></co>
+<co c="0"><na f="p/Peixoto:Eduardo" pid="81/8107">Eduardo Peixoto</na></co>
+<co c="0" n="2"><na f="p/Pereira:Filipe_D=" pid="241/8680">Filipe D. Pereira</na><na>Filipe Dwan Pereira</na></co>
+<co c="1"><na f="p/Pessoa:Carlos_A=" pid="79/1727">Carlos A. Pessoa</na></co>
+<co c="0"><na f="p/Pinho_Jr=:Orlando" pid="87/4766">Orlando Pinho Jr.</na></co>
+<co c="0"><na f="p/Poulet:Cyril" pid="87/8121">Cyril Poulet</na></co>
+<co c="0"><na f="q/Queiroz:S=eacute=rgio_Ricardo_de_Melo" pid="37/4229">S&#233;rgio Ricardo de Melo Queiroz</na></co>
+<co c="2"><na f="r/Ramos:Francisco" pid="181/2808">Francisco Ramos</na></co>
+<co c="0"><na f="r/Ramos:Francisco_S=" pid="97/4307">Francisco S. Ramos</na></co>
+<co c="0"><na f="r/Ranoya:Guilherme" pid="320/3660">Guilherme Ranoya</na></co>
+<co c="0"><na f="r/Ratitch:Bohdana" pid="74/3742">Bohdana Ratitch</na></co>
+<co c="0"><na f="r/Rocha:Fernando" pid="92/4715">Fernando Rocha</na></co>
+<co c="0"><na f="r/Rodrigues:Luiz_A=_L=" pid="228/2395">Luiz A. L. Rodrigues</na></co>
+<co c="0"><na f="s/Sampaio:Pablo_Azevedo" pid="78/8870">Pablo Azevedo Sampaio</na></co>
+<co c="0"><na f="s/Sampaio:Pedro_H=_M=" pid="31/6697">Pedro H. M. Sampaio</na></co>
+<co c="0"><na f="s/Santana:Andr=eacute=_Felipe_Lemos" pid="88/9961">Andr&#233; Felipe Lemos Santana</na></co>
+<co c="0"><na f="s/Santana:Hugo" pid="70/4838">Hugo Santana</na></co>
+<co c="0" n="2"><na f="s/Santos:Andr=eacute=_L=_M=" pid="s/AndreSantos">Andr&#233; L. M. Santos</na><na>Andre Lu&#237;s de Medeiros Santos</na></co>
+<co c="0"><na f="s/Santos:Artur_L=_dos" pid="46/7641">Artur L. dos Santos</na></co>
+<co c="0"><na f="s/Scholz:Ricardo_E=_P=" pid="179/0985">Ricardo E. P. Scholz</na></co>
+<co c="0"><na f="s/Seghrouchni:Amal_El_Fallah" pid="f/AEFallahSeghrouchni">Amal El Fallah Seghrouchni</na></co>
+<co c="0"><na f="s/Semp=eacute=:Fran=ccedil=ois" pid="61/1925">Fran&#231;ois Semp&#233;</na></co>
+<co c="0"><na f="s/Sichman:Jaime_Sim=atilde=o" pid="s/JSSichman">Jaime Sim&#227;o Sichman</na></co>
+<co c="0" n="2"><na f="s/Siebra:Clauirton" pid="86/6670">Clauirton Siebra</na><na>Clauirton de Albuquerque Siebra</na></co>
+<co c="0"><na f="s/Siebra:Sandra_de_Albuquerque" pid="87/1199">Sandra de Albuquerque Siebra</na></co>
+<co c="0"><na f="s/Silva:Andre" pid="162/0769">Andre Silva</na></co>
+<co c="0"><na f="s/Silva:D=_R=" pid="95/6527">D. R. Silva</na></co>
+<co c="0"><na f="s/Silva:Danielle_R=_D=" pid="50/8694">Danielle R. D. Silva</na></co>
+<co c="-1"><na f="s/Silva:Ricardo_Martins_de_Abreu" pid="33/1137-1">Ricardo Martins de Abreu Silva</na></co>
+<co c="0"><na f="s/Souza:Allan_J=_S=" pid="152/4305">Allan J. S. Souza</na></co>
+<co c="0"><na f="s/Souza:Thiago_A=" pid="156/6858">Thiago A. Souza</na></co>
+<co c="1"><na f="s/Szwarcman:Dilza" pid="07/3751">Dilza Szwarcman</na></co>
+<co c="0" n="3"><na f="t/Tedesco:Patr=iacute=cia_C=_A=_R=" pid="99/8925">Patr&#237;cia C. A. R. Tedesco</na><na>Patr&#237;cia Azevedo Tedesco</na><na>Patr&#237;cia Restelli Tedesco</na></co>
+<co c="0"><na f="t/Teichrieb:Veronica" pid="12/6264">Veronica Teichrieb</na></co>
+<co c="0"><na f="t/Teixeira:Ivan_R=" pid="71/6930">Ivan R. Teixeira</na></co>
+<co c="0"><na f="t/Thomas:J=" pid="26/3443">J. Thomas</na></co>
+<co c="0"><na f="t/Tragtenberg:Jo=atilde=o" pid="186/1719">Jo&#227;o Tragtenberg</na></co>
+<co c="0"><na f="t/Trinta:Fernando_A=_M=" pid="126/6814">Fernando A. M. Trinta</na></co>
+<co c="0"><na f="v/Valadares:J=_L=" pid="29/9682">J. L. Valadares</na></co>
+<co c="0"><na f="v/Vasconcelos:Alexandre_M=_L=_de" pid="71/4614">Alexandre M. L. de Vasconcelos</na></co>
+<co c="0"><na f="v/Vital:Heitor" pid="53/6576">Heitor Vital</na></co>
+<co c="0"><na f="w/Wanderley:Marcelo_M=" pid="78/3830">Marcelo M. Wanderley</na></co>
+<co c="0"><na f="w/Weber:Renan_T=" pid="17/8342">Renan T. Weber</na></co>
+<co c="0"><na f="x/Ximenes:Bianca_H=" pid="153/0262">Bianca H. Ximenes</na></co>
+<co c="0"><na f="z/Zucker:Jean=Daniel" pid="78/2478">Jean-Daniel Zucker</na></co>
+</coauthors>
+</dblpperson>
+

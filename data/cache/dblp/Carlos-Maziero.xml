@@ -1,0 +1,937 @@
+<?xml version="1.0"?>
+<dblpperson name="Carlos Maziero" pid="m/CarlosMaziero" n="62">
+<person key="homepages/m/CarlosMaziero" mdate="2025-01-10">
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<author pid="m/CarlosMaziero">Carlos Alberto Maziero</author>
+<url>http://www.ppgia.pucpr.br/~maziero/</url>
+<url>https://orcid.org/0000-0003-2592-3664</url>
+<url>https://www.wikidata.org/entity/Q130868237</url>
+</person>
+<r><inproceedings key="conf/icissp/HeinrichWOM24" mdate="2024-04-02">
+<author pid="288/7661">Tiago Heinrich</author>
+<author pid="134/4589">Newton Carlos Will</author>
+<author pid="91/1540">Rafael R. Obelheiro</author>
+<author pid="m/CarlosMaziero">Carlos Alberto Maziero</author>
+<title>Anywhere on Earth: A Look at Regional Characteristics of DRDoS Attacks.</title>
+<pages>21-29</pages>
+<year>2024</year>
+<booktitle>ICISSP</booktitle>
+<ee>https://doi.org/10.5220/0012252700003648</ee>
+<crossref>conf/icissp/2024</crossref>
+<url>db/conf/icissp/icissp2024.html#HeinrichWOM24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icissp/HeinrichWOM24a" mdate="2024-04-02">
+<author pid="288/7661">Tiago Heinrich</author>
+<author pid="134/4589">Newton Carlos Will</author>
+<author pid="91/1540">Rafael R. Obelheiro</author>
+<author pid="m/CarlosMaziero">Carlos Alberto Maziero</author>
+<title>A Categorical Data Approach for Anomaly Detection in WebAssembly Applications.</title>
+<pages>275-284</pages>
+<year>2024</year>
+<booktitle>ICISSP</booktitle>
+<ee>https://doi.org/10.5220/0012252800003648</ee>
+<crossref>conf/icissp/2024</crossref>
+<url>db/conf/icissp/icissp2024.html#HeinrichWOM24a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icissp/WillM24" mdate="2024-04-02">
+<author pid="134/4589">Newton Carlos Will</author>
+<author pid="m/CarlosMaziero">Carlos Alberto Maziero</author>
+<title>Enclave Management Models for Safe Execution of Software Components.</title>
+<pages>474-485</pages>
+<year>2024</year>
+<booktitle>ICISSP</booktitle>
+<ee>https://doi.org/10.5220/0012322600003648</ee>
+<crossref>conf/icissp/2024</crossref>
+<url>db/conf/icissp/icissp2024.html#WillM24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/FrasaoHFWOM24" mdate="2025-03-03">
+<author pid="386/9629">Anderson Aparecido do Carmo Fras&#227;o</author>
+<author pid="288/7661">Tiago Heinrich</author>
+<author orcid="0000-0003-1544-6315" pid="224/6851">Vinicius Fulber-Garcia</author>
+<author pid="134/4589">Newton Carlos Will</author>
+<author pid="91/1540">Rafael R. Obelheiro</author>
+<author pid="m/CarlosMaziero">Carlos Alberto Maziero</author>
+<title>I See Syscalls by the Seashore: An Anomaly-based IDS for Containers Leveraging Sysdig Data.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC61673.2024.10733595</ee>
+<crossref>conf/iscc/2024</crossref>
+<url>db/conf/iscc/iscc2024.html#FrasaoHFWOM24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/secrypt/HelpaHBWOM24" mdate="2024-09-05">
+<author pid="384/6219">Calebe Helpa</author>
+<author pid="288/7661">Tiago Heinrich</author>
+<author pid="212/3475">Marcus Botacin</author>
+<author pid="134/4589">Newton Carlos Will</author>
+<author pid="91/1540">Rafael R. Obelheiro</author>
+<author pid="m/CarlosMaziero">Carlos Alberto Maziero</author>
+<title>The Use of the DWARF Debugging Format for the Identification of Potentially Unwanted Applications (PUAs) in WebAssembly Binaries.</title>
+<pages>442-449</pages>
+<year>2024</year>
+<booktitle>SECRYPT</booktitle>
+<ee>https://doi.org/10.5220/0012754500003767</ee>
+<crossref>conf/secrypt/2024</crossref>
+<url>db/conf/secrypt/secrypt2024.html#HelpaHBWOM24</url>
+</inproceedings>
+</r>
+<r><article key="journals/csur/WillM23" mdate="2025-01-19">
+<author pid="134/4589">Newton Carlos Will</author>
+<author orcid="0000-0003-2592-3664" pid="m/CarlosMaziero">Carlos Alberto Maziero</author>
+<title>Intel Software Guard Extensions Applications: A Survey.</title>
+<pages>322:1-322:38</pages>
+<year>2023</year>
+<volume>55</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>14s</number>
+<ee>https://doi.org/10.1145/3593021</ee>
+<ee>https://www.wikidata.org/entity/Q131109793</ee>
+<url>db/journals/csur/csur55.html#WillM23</url>
+</article>
+</r>
+<r><inproceedings key="conf/syscon/LemosHWOM23" mdate="2023-06-09">
+<author pid="320/9727">Rodrigo Lemos</author>
+<author pid="288/7661">Tiago Heinrich</author>
+<author pid="134/4589">Newton Carlos Will</author>
+<author pid="91/1540">Rafael R. Obelheiro</author>
+<author pid="m/CarlosMaziero">Carlos Alberto Maziero</author>
+<title>Inspecting Binder Transactions to Detect Anomalies in Android.</title>
+<pages>1-8</pages>
+<year>2023</year>
+<booktitle>SysCon</booktitle>
+<ee>https://doi.org/10.1109/SysCon53073.2023.10131073</ee>
+<crossref>conf/syscon/2023</crossref>
+<url>db/conf/syscon/syscon2023.html#LemosHWOM23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/imc/HeinrichMWO22" mdate="2023-03-21">
+<author orcid="0000-0002-8017-1293" pid="288/7661">Tiago Heinrich</author>
+<author pid="m/CarlosMaziero">Carlos Alberto Maziero</author>
+<author pid="134/4589">Newton Carlos Will</author>
+<author pid="91/1540">Rafael R. Obelheiro</author>
+<title>How DRDoS attacks vary across the globe?</title>
+<pages>760-761</pages>
+<year>2022</year>
+<booktitle>IMC</booktitle>
+<ee>https://doi.org/10.1145/3517745.3563026</ee>
+<crossref>conf/imc/2022</crossref>
+<url>db/conf/imc/imc2022.html#HeinrichMWO22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/secrypt/ViescinskiHWM22" mdate="2023-03-21">
+<author pid="294/6908">Amanda B. Viescinski</author>
+<author orcid="0000-0002-8017-1293" pid="288/7661">Tiago Heinrich</author>
+<author pid="134/4589">Newton Carlos Will</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>Behavior Modeling of a Distributed Application for Anomaly Detection.</title>
+<pages>333-340</pages>
+<year>2022</year>
+<booktitle>SECRYPT</booktitle>
+<ee>https://doi.org/10.5220/0011267200003283</ee>
+<crossref>conf/secrypt/2022</crossref>
+<url>db/conf/secrypt/secrypt2022.html#ViescinskiHWM22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/syscon/LemosHMW22" mdate="2023-03-21">
+<author pid="320/9727">Rodrigo Lemos</author>
+<author orcid="0000-0002-8017-1293" pid="288/7661">Tiago Heinrich</author>
+<author pid="m/CarlosMaziero">Carlos Alberto Maziero</author>
+<author pid="134/4589">Newton Carlos Will</author>
+<title>Is It Safe? Identifying Malicious Apps Through the Use of Metadata and Inter-Process Communication.</title>
+<pages>1-8</pages>
+<year>2022</year>
+<booktitle>SysCon</booktitle>
+<ee>https://doi.org/10.1109/SysCon53536.2022.9773881</ee>
+<crossref>conf/syscon/2022</crossref>
+<url>db/conf/syscon/syscon2022.html#LemosHMW22</url>
+</inproceedings>
+</r>
+<r><article key="journals/cluster/ViegasSBSSMM21" mdate="2022-12-07">
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo Viegas 0001</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair O. Santin</author>
+<author pid="194/8621">Juliana Bachtold</author>
+<author pid="168/6335">Darlan Segalin</author>
+<author pid="29/1165">Maicon Stihler</author>
+<author pid="84/2247">Arlindo L. Marcon Jr.</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>Enhancing service maintainability by monitoring and auditing SLA in cloud computing.</title>
+<pages>1659-1674</pages>
+<year>2021</year>
+<volume>24</volume>
+<journal>Clust. Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10586-020-03209-9</ee>
+<url>db/journals/cluster/cluster24.html#ViegasSBSSMM21</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscc/CastanhelHCM21" mdate="2023-03-21">
+<author pid="308/9653">Gabriel R. Castanhel</author>
+<author orcid="0000-0002-8017-1293" pid="288/7661">Tiago Heinrich</author>
+<author pid="235/8319">Fabr&#237;cio Ceschin</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>Taking a Peek: An Evaluation of Anomaly Detection Using System calls for Containers.</title>
+<pages>1-6</pages>
+<year>2021</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC53001.2021.9631251</ee>
+<crossref>conf/iscc/2021</crossref>
+<url>db/conf/iscc/iscc2021.html#CastanhelHCM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pam/HeinrichOM21" mdate="2021-04-07">
+<author orcid="0000-0002-8017-1293" pid="288/7661">Tiago Heinrich</author>
+<author orcid="0000-0002-4014-6691" pid="91/1540">Rafael R. Obelheiro</author>
+<author orcid="0000-0003-2592-3664" pid="m/CarlosMaziero">Carlos Alberto Maziero</author>
+<title>New Kids on the DRDoS Block: Characterizing Multiprotocol and Carpet Bombing Attacks.</title>
+<pages>269-283</pages>
+<year>2021</year>
+<booktitle>PAM</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-72582-2_16</ee>
+<crossref>conf/pam/2021</crossref>
+<url>db/conf/pam/pam2021.html#HeinrichOM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/syscon/WillHVM21" mdate="2023-03-21">
+<author pid="134/4589">Newton Carlos Will</author>
+<author orcid="0000-0002-8017-1293" pid="288/7661">Tiago Heinrich</author>
+<author pid="294/6908">Amanda B. Viescinski</author>
+<author pid="m/CarlosMaziero">Carlos Alberto Maziero</author>
+<title>Trusted Inter-Process Communication Using Hardware Enclaves.</title>
+<pages>1-7</pages>
+<year>2021</year>
+<booktitle>SysCon</booktitle>
+<ee>https://doi.org/10.1109/SysCon48628.2021.9447066</ee>
+<crossref>conf/syscon/2021</crossref>
+<url>db/conf/syscon/syscon2021.html#WillHVM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/syscon/WillM20" mdate="2021-05-18">
+<author pid="134/4589">Newton Carlos Will</author>
+<author pid="m/CarlosMaziero">Carlos Alberto Maziero</author>
+<title>Using a Shared SGX Enclave in the UNIX PAM Authentication Service.</title>
+<pages>1-7</pages>
+<year>2020</year>
+<booktitle>SysCon</booktitle>
+<ee>https://doi.org/10.1109/SysCon47679.2020.9275837</ee>
+<crossref>conf/syscon/2020</crossref>
+<url>db/conf/syscon/syscon2020.html#WillM20</url>
+</inproceedings>
+</r>
+<r><article key="journals/csur/MannesM19" mdate="2025-01-19">
+<author pid="85/8933">Elisa Mannes</author>
+<author orcid="0000-0003-2592-3664" pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>Naming Content on the Network Layer: A Security Analysis of the Information-Centric Network Model.</title>
+<pages>44:1-44:28</pages>
+<year>2019</year>
+<volume>52</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3311888</ee>
+<ee>https://www.wikidata.org/entity/Q130868238</ee>
+<url>db/journals/csur/csur52.html#MannesM19</url>
+</article>
+</r>
+<r><inproceedings key="conf/sec/LanoeHTM19" mdate="2019-06-17">
+<author pid="234/0201">David Lano&#235;</author>
+<author pid="53/2930">Michel Hurfin</author>
+<author pid="85/5807">Eric Totel</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>An Efficient and Scalable Intrusion Detection System on Logs of Distributed Applications.</title>
+<pages>49-63</pages>
+<year>2019</year>
+<booktitle>SEC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-22312-0_4</ee>
+<crossref>conf/sec/2019</crossref>
+<url>db/conf/sec/sec2019.html#LanoeHTM19</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/KraemerMRT18" mdate="2024-08-04">
+<author orcid="0000-0003-2795-4675" pid="137/0505">Alessandro Kraemer</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<author orcid="0009-0005-8679-2874" pid="81/1910">Olivier Richard</author>
+<author pid="15/6997">Denis Trystram</author>
+<title>Reducing the number of response time service level objective violations by a cloud-HPC convergence scheduler.</title>
+<year>2018</year>
+<volume>30</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1002/cpe.4352</ee>
+<url>db/journals/concurrency/concurrency30.html#KraemerMRT18</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscc/CondeMW18" mdate="2023-03-24">
+<author pid="230/1876">Rafael C. R. Conde</author>
+<author pid="m/CarlosMaziero">Carlos Alberto Maziero</author>
+<author orcid="0000-0003-2976-4533" pid="134/4589">Newton Carlos Will</author>
+<title>Using Intel SGX to Protect Authentication Credentials in an Untrusted Operating System.</title>
+<pages>158-163</pages>
+<year>2018</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2018.8538470</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2018.8538470</ee>
+<crossref>conf/iscc/2018</crossref>
+<url>db/conf/iscc/iscc2018.html#CondeMW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/RezendeMM18" mdate="2025-01-19">
+<author pid="222/3535">Daniel Rezende</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<author pid="85/8933">Elisa Mannes</author>
+<title>A distributed online certificate status protocol for named data networks.</title>
+<pages>2102-2108</pages>
+<year>2018</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3167132.3167358</ee>
+<ee>https://www.wikidata.org/entity/Q130961311</ee>
+<crossref>conf/sac/2018</crossref>
+<url>db/conf/sac/sac2018.html#RezendeMM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fedcsis/BarrivieraM17" mdate="2023-08-07">
+<author pid="206/3323">Rodolfo Barriviera</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>A model for context-sensitive usage control in healthcare information systems.</title>
+<pages>199-205</pages>
+<year>2017</year>
+<booktitle>FedCSIS (Communication Papers)</booktitle>
+<ee type="archive">https://doi.org/10.15439/2017F439</ee>
+<crossref>conf/fedcsis/2017c</crossref>
+<url>db/conf/fedcsis/fedcsis2017c.html#BarrivieraM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/MannesMLB16" mdate="2018-11-02">
+<author pid="85/8933">Elisa Mannes</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<author pid="176/0916">Luiz Carlos Lassance</author>
+<author orcid="0000-0001-5159-9517" pid="60/10839">F&#225;bio Borges</author>
+<title>Assessing the impact of cryptographic access control solutions on multimedia delivery in information-centric networks.</title>
+<pages>427-435</pages>
+<year>2016</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2016.7502840</ee>
+<crossref>conf/noms/2016</crossref>
+<url>db/conf/noms/noms2016.html#MannesMLB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/DionysioNM16" mdate="2023-03-23">
+<author pid="193/9970">Stephany Zanchi Dionysio</author>
+<author orcid="0000-0003-2847-5369" pid="82/5501">Luiz Nacamura</author>
+<author pid="m/CarlosMaziero">Carlos Alberto Maziero</author>
+<title>Improving Network I/O Performance in Virtual Machines through Workload Profile Clustering.</title>
+<pages>32-39</pages>
+<year>2016</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2016.014</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2016.014</ee>
+<crossref>conf/sbesc/2016</crossref>
+<url>db/conf/sbesc/sbesc2016.html#DionysioNM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/FontouraMW16" mdate="2023-03-23">
+<author pid="193/9990">Felipe Michels Fontoura</author>
+<author pid="m/CarlosMaziero">Carlos Alberto Maziero</author>
+<author orcid="0000-0002-1415-5527" pid="60/2173">Marco Aur&#233;lio Wehrmeister</author>
+<title>Cryptographic API for Embedded Applications.</title>
+<pages>174-179</pages>
+<year>2016</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2016.034</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2016.034</ee>
+<crossref>conf/sbesc/2016</crossref>
+<url>db/conf/sbesc/sbesc2016.html#FontouraMW16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/MannesMLB15" mdate="2023-03-24">
+<author pid="85/8933">Elisa Mannes</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<author pid="176/0916">Luiz Lassance</author>
+<author orcid="0000-0001-5159-9517" pid="60/10839">F&#225;bio Borges</author>
+<title>Optimized access control enforcement over encrypted content in information-centric networks.</title>
+<pages>924-929</pages>
+<year>2015</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2015.7405632</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2015.7405632</ee>
+<crossref>conf/iscc/2015</crossref>
+<url>db/conf/iscc/iscc2015.html#MannesMLB15</url>
+</inproceedings>
+</r>
+<r><article key="journals/jbcs/MazieroSS13" mdate="2020-05-20">
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<author pid="53/11233">Douglas dos Santos</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<title>Evaluation of desktop operating systems under thrashing conditions.</title>
+<pages>29-42</pages>
+<year>2013</year>
+<volume>19</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s13173-012-0080-8</ee>
+<url>db/journals/jbcs/jbcs19.html#MazieroSS13</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/AndradeLCM13" mdate="2023-03-24">
+<author pid="131/8096">Gil Eduardo de Andrade</author>
+<author pid="72/1641">Luiz Augusto de Paula Lima</author>
+<author pid="92/3492">Alcides Calsavara</author>
+<author pid="m/CarlosMaziero">Carlos Alberto Maziero</author>
+<title>Routing Protocol Based on the Position, Velocity, and Direction of the Nodes.</title>
+<pages>971-976</pages>
+<year>2013</year>
+<booktitle>AINA Workshops</booktitle>
+<ee>https://doi.org/10.1109/WAINA.2013.138</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WAINA.2013.138</ee>
+<crossref>conf/aina/2013w</crossref>
+<url>db/conf/aina/ainaw2013.html#AndradeLCM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/OlsenM12" mdate="2023-03-23">
+<author pid="160/5707">Diogo Olsen</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>A Context Manager for General-Purpose Operating Systems.</title>
+<pages>157-160</pages>
+<year>2012</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2012.38</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2012.38</ee>
+<crossref>conf/sbesc/2012</crossref>
+<url>db/conf/sbesc/sbesc2012.html#OlsenM12</url>
+</inproceedings>
+</r>
+<r><article key="journals/jnca/TeigaoMS11" mdate="2020-02-24">
+<author pid="00/1593">Rafael Teigao</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<title>Applying a usage control model in an operating system kernel.</title>
+<pages>1342-1352</pages>
+<year>2011</year>
+<volume>34</volume>
+<journal>J. Netw. Comput. Appl.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.jnca.2011.03.019</ee>
+<url>db/journals/jnca/jnca34.html#TeigaoMS11</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbesc/AraujoMN11" mdate="2023-03-23">
+<author pid="160/4621">Priscila Vriesman Araujo</author>
+<author pid="m/CarlosMaziero">Carlos Alberto Maziero</author>
+<author pid="62/6863">J&#250;lio C&#233;sar Nievola</author>
+<title>Automatic Classification of Processes in a General-Purpose Operating System.</title>
+<pages>33-38</pages>
+<year>2011</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2011.33</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2011.33</ee>
+<crossref>conf/sbesc/2011</crossref>
+<url>db/conf/sbesc/sbesc2011.html#AraujoMN11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ACISicis/LoestMML09" mdate="2023-03-24">
+<author pid="49/7434">S&#233;rgio Raymundo Loest</author>
+<author pid="62/7435">Marcelo Cheminn Madruga</author>
+<author pid="m/CarlosMaziero">Carlos Alberto Maziero</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<title>BackupIT: An Intrusion-Tolerant Cooperative Backup System.</title>
+<pages>724-729</pages>
+<year>2009</year>
+<booktitle>ACIS-ICIS</booktitle>
+<ee>https://doi.org/10.1109/ICIS.2009.47</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICIS.2009.47</ee>
+<crossref>conf/ACISicis/2009</crossref>
+<url>db/conf/ACISicis/ACISicis2009.html#LoestMML09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/im/SilvaSJMT09" mdate="2018-11-02">
+<author pid="69/8448">Edemilson da Silva</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<author pid="27/4997">Edgard Jamhour</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<author pid="71/458">Emir Toktar</author>
+<title>Applying quorum role in network management.</title>
+<pages>591-597</pages>
+<year>2009</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2009.5188866</ee>
+<crossref>conf/im/2009</crossref>
+<url>db/conf/im/im2009.html#SilvaSJMT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isads/MadrugaLM09" mdate="2023-03-23">
+<author pid="62/7435">Marcelo Cheminn Madruga</author>
+<author pid="49/7434">S&#233;rgio Raymundo Loest</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>Using transparent files in a fault tolerant distributed file system.</title>
+<pages>109-114</pages>
+<year>2009</year>
+<booktitle>ISADS</booktitle>
+<ee>https://doi.org/10.1109/ISADS.2009.5207347</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISADS.2009.5207347</ee>
+<crossref>conf/isads/2009</crossref>
+<url>db/conf/isads/isads2009.html#MadrugaLM09</url>
+</inproceedings>
+</r>
+<r><article key="journals/cleiej/OliveiraM08" mdate="2025-01-19">
+<author pid="73/1741">Leonardo de Oliveira</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>A Trust Model for a Group of E-mail Servers.</title>
+<year>2008</year>
+<volume>11</volume>
+<journal>CLEI Electron. J.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.19153/cleiej.11.2.1</ee>
+<ee>https://www.wikidata.org/entity/Q129075973</ee>
+<url>db/journals/cleiej/cleiej11.html#OliveiraM08</url>
+</article>
+</r>
+<r><article key="journals/ieeesp/SantinCM08" mdate="2020-03-15">
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<author pid="68/2928">Regivaldo G. Costa</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>A Three-Ballot-Based Secure Electronic Voting System.</title>
+<pages>14-21</pages>
+<year>2008</year>
+<volume>6</volume>
+<journal>IEEE Secur. Priv.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MSP.2008.56</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MSP.2008.56</ee>
+<ee>https://www.wikidata.org/entity/Q29013596</ee>
+<url>db/journals/ieeesp/ieeesp6.html#SantinCM08</url>
+</article>
+</r>
+<r><inproceedings key="conf/cse/KageyamaMS08" mdate="2023-03-24">
+<author pid="17/4054">Edson Kageyama</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<title>An Experimental Peer-to-Peer E-mail System.</title>
+<pages>203-208</pages>
+<year>2008</year>
+<booktitle>CSE</booktitle>
+<ee>https://doi.org/10.1109/CSE.2008.9</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CSE.2008.9</ee>
+<crossref>conf/cse/2008</crossref>
+<url>db/conf/cse/cse2008.html#KageyamaMS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cse/OliveiraM08" mdate="2023-03-24">
+<author pid="73/1741">Leonardo de Oliveira</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>A Trust Model Applied to E-mail Servers.</title>
+<pages>436-443</pages>
+<year>2008</year>
+<booktitle>CSE</booktitle>
+<ee>https://doi.org/10.1109/CSE.2008.10</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CSE.2008.10</ee>
+<crossref>conf/cse/2008</crossref>
+<url>db/conf/cse/cse2008.html#OliveiraM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/KageyamaMS08" mdate="2018-11-06">
+<author pid="17/4054">Edson Kageyama</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<title>A pull-based e-mail architecture.</title>
+<pages>468-472</pages>
+<year>2008</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1363686.1363802</ee>
+<crossref>conf/sac/2008</crossref>
+<url>db/conf/sac/sac2008.html#KageyamaMS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sec/RaguenetM08" mdate="2018-06-26">
+<author pid="71/4012">Inez Raguenet</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>A Fuzzy Model for the Composition of Intrusion Detectors.</title>
+<pages>237-251</pages>
+<year>2008</year>
+<booktitle>SEC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-0-387-09699-5_16</ee>
+<crossref>conf/sec/2008</crossref>
+<url>db/conf/sec/sec2008.html#RaguenetM08</url>
+</inproceedings>
+</r>
+<r><article key="journals/cn/LaureanoMJ07" mdate="2020-02-19">
+<author pid="08/1099">Marcos Laureano</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<author pid="27/4997">Edgard Jamhour</author>
+<title>Protecting host-based intrusion detectors through virtual machines.</title>
+<pages>1275-1283</pages>
+<year>2007</year>
+<volume>51</volume>
+<journal>Comput. Networks</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/j.comnet.2006.09.007</ee>
+<url>db/journals/cn/cn51.html#LaureanoMJ07</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccnc/UchoaPSM07" mdate="2021-10-14">
+<author pid="94/8862">Andre Gustavo Degraf Uchoa</author>
+<author orcid="0000-0001-6108-6272" pid="12/1494">Marcelo Eduardo Pellenz</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<author pid="m/CarlosMaziero">Carlos Alberto Maziero</author>
+<title>A Three-Pass Protocol for Cryptography Based on Padding for Wireless Networks.</title>
+<pages>287-291</pages>
+<year>2007</year>
+<booktitle>CCNC</booktitle>
+<ee>https://doi.org/10.1109/CCNC.2007.63</ee>
+<crossref>conf/ccnc/2007</crossref>
+<url>db/conf/ccnc/ccnc2007.html#UchoaPSM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/TeigaoMS07" mdate="2018-11-02">
+<author pid="00/1593">Rafael Teigao</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<title>A Grammar for Specifying Usage Control Policies.</title>
+<pages>1379-1384</pages>
+<year>2007</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2007.232</ee>
+<crossref>conf/icc/2007</crossref>
+<url>db/conf/icc/icc2007.html#TeigaoMS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip3/NabhenM06" mdate="2018-06-26">
+<author pid="14/383">Ricardo Nabhen</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>Some Experiences in Using Virtual Machines for Teaching Computer Networks.</title>
+<pages>93-104</pages>
+<year>2006</year>
+<crossref>conf/ifip3/2006</crossref>
+<booktitle>Education for the 21st Century</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-0-387-34731-8_11</ee>
+<url>db/conf/ifip3/ifip3-2006.html#NabhenM06</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ladc/2005" mdate="2019-05-14">
+<editor pid="m/CarlosMaziero">Carlos Alberto Maziero</editor>
+<editor pid="12/423">Jo&#227;o Gabriel Silva</editor>
+<editor pid="50/915">Aline Maria Santos Andrade</editor>
+<editor pid="49/9862">Fl&#225;vio Morais de Assis Silva</editor>
+<title>Dependable Computing, Second Latin-American Symposium, LADC 2005, Salvador, Brazil, October 25-28, 2005, Proceedings</title>
+<volume>3747</volume>
+<year>2005</year>
+<isbn>3-540-29572-0</isbn>
+<booktitle>LADC</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<ee>https://doi.org/10.1007/11572329</ee>
+<url>db/conf/ladc/ladc2005.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/euromicro/KropiwiecJM04" mdate="2023-03-24">
+<author pid="43/3713">C&#225;ssio Ditzel Kropiwiec</author>
+<author pid="27/4997">Edgard Jamhour</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>A Framework for Protecting Web Sevices with IPsec.</title>
+<pages>290-297</pages>
+<year>2004</year>
+<crossref>conf/euromicro/2004</crossref>
+<booktitle>EUROMICRO</booktitle>
+<ee>https://doi.org/10.1109/EURMIC.2004.1333383</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/EURMIC.2004.1333383</ee>
+<url>db/conf/euromicro/euromicro2004.html#KropiwiecJM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euromicro/LaureanoMJ04" mdate="2023-03-24">
+<author pid="08/1099">Marcos Laureano</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<author pid="27/4997">Edgard Jamhour</author>
+<title>Intrusion Detection in Virtual Machine Environments.</title>
+<pages>520-525</pages>
+<year>2004</year>
+<crossref>conf/euromicro/2004</crossref>
+<booktitle>EUROMICRO</booktitle>
+<ee>https://doi.org/10.1109/EURMIC.2004.1333416</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/EURMIC.2004.1333416</ee>
+<url>db/conf/euromicro/euromicro2004.html#LaureanoMJ04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ict/ToktarJM04" mdate="2017-05-23">
+<author pid="71/458">Emir Toktar</author>
+<author pid="27/4997">Edgard Jamhour</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>A XML Policy-Based Approach for RSVP.</title>
+<pages>1204-1209</pages>
+<ee>https://doi.org/10.1007/978-3-540-27824-5_156</ee>
+<year>2004</year>
+<crossref>conf/ict/2004</crossref>
+<booktitle>ICT</booktitle>
+<url>db/conf/ict/ict2004.html#ToktarJM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/KropiwiecJM04" mdate="2023-03-24">
+<author pid="43/3713">C&#225;ssio Ditzel Kropiwiec</author>
+<author pid="27/4997">Edgard Jamhour</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>A framework for protecting Web services with IPsec.</title>
+<pages>393-398</pages>
+<year>2004</year>
+<crossref>conf/iscc/2004</crossref>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2004.1358436</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2004.1358436</ee>
+<url>db/conf/iscc/iscc2004.html#KropiwiecJM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/policy/ToktarJM04" mdate="2023-03-23">
+<author pid="71/458">Emir Toktar</author>
+<author pid="27/4997">Edgard Jamhour</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>RSVP Policy Control using XACML.</title>
+<pages>87-</pages>
+<year>2004</year>
+<crossref>conf/policy/2004</crossref>
+<booktitle>POLICY</booktitle>
+<ee>https://doi.org/10.1109/POLICY.2004.1309153</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/POLICY.2004.1309153</ee>
+<url>db/conf/policy/policy2004.html#ToktarJM04</url>
+</inproceedings>
+</r>
+<r><article key="journals/jbcs/JamhourSM03" mdate="2020-05-20">
+<author pid="27/4997">Edgard Jamhour</author>
+<author pid="77/6034">Simone Storoz</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>Global Mobile IPv6 Addressing using Transition Mechanisms.</title>
+<pages>44-57</pages>
+<year>2003</year>
+<volume>8</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>3</number>
+<url>db/journals/jbcs/jbcs8.html#JamhourSM03</url>
+</article>
+</r>
+<r><inproceedings key="conf/cms/SantinFM03" mdate="2017-05-19">
+<author pid="38/5417">Altair Olivo Santin</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>Extending the SDSI / SPKI Model through Federation Webs.</title>
+<pages>132-145</pages>
+<ee>https://doi.org/10.1007/978-3-540-45184-6_11</ee>
+<year>2003</year>
+<crossref>conf/cms/2003</crossref>
+<booktitle>Communications and Multimedia Security</booktitle>
+<url>db/conf/cms/cms2003.html#SantinFM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsom/NabhenJM03" mdate="2017-05-25">
+<author pid="14/383">Ricardo Nabhen</author>
+<author pid="27/4997">Edgard Jamhour</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>A Policy-based Framework for RBAC.</title>
+<pages>181-193</pages>
+<ee>https://doi.org/10.1007/978-3-540-39671-0_16</ee>
+<year>2003</year>
+<crossref>conf/dsom/2003</crossref>
+<booktitle>DSOM</booktitle>
+<url>db/conf/dsom/dsom2003.html#NabhenJM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icics/NabhenJM03" mdate="2017-05-23">
+<author pid="14/383">Ricardo Nabhen</author>
+<author pid="27/4997">Edgard Jamhour</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>A Policy Based Framework for Access Control.</title>
+<pages>47-59</pages>
+<ee>https://doi.org/10.1007/978-3-540-39927-8_5</ee>
+<year>2003</year>
+<crossref>conf/icics/2003</crossref>
+<booktitle>ICICS</booktitle>
+<url>db/conf/icics/icics2003.html#NabhenJM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ladc/BorchardtMJ03" mdate="2017-05-21">
+<author pid="48/3299">Mauro Borchardt</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<author pid="27/4997">Edgard Jamhour</author>
+<title>An Architecture for On-the-Fly File Integrity Checking.</title>
+<pages>117-126</pages>
+<ee>https://doi.org/10.1007/978-3-540-45214-0_11</ee>
+<year>2003</year>
+<crossref>conf/ladc/2003</crossref>
+<booktitle>LADC</booktitle>
+<url>db/conf/ladc/ladc2003.html#BorchardtMJ03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lcn/NabhenJM03" mdate="2023-03-24">
+<author pid="14/383">Ricardo Nabhen</author>
+<author pid="27/4997">Edgard Jamhour</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>RBPIM: A PCIM-Based Framework for RBAC.</title>
+<pages>52-</pages>
+<year>2003</year>
+<crossref>conf/lcn/2003</crossref>
+<booktitle>LCN</booktitle>
+<ee>https://doi.org/10.1109/LCN.2003.1243112</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LCN.2003.1243112</ee>
+<url>db/conf/lcn/lcn2003.html#NabhenJM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/SouzaM01" mdate="2024-01-10">
+<author pid="193/4200">Cristina Ver&#231;osa P&#233;rez Barrios de Souza</author>
+<author pid="m/CarlosMaziero">Carlos Alberto Maziero</author>
+<title>Intercess&#227;o em Tempo de Implanta&#231;&#227;o - uma Abordagem Reflexiva para a Plataforma J2EE&#8482; -.</title>
+<pages>286-301</pages>
+<year>2001</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2001.23995</ee>
+<crossref>conf/sbes/2001</crossref>
+<url>db/conf/sbes/sbes2001.html#SouzaM01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsrt/VardanegaM00" mdate="2023-03-23">
+<author pid="78/3529">Fernando Vard&#226;nega</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>A Generic Rollback Manager for Optimistic HLA Simulations.</title>
+<pages>79-88</pages>
+<year>2000</year>
+<crossref>conf/dsrt/2000</crossref>
+<booktitle>DS-RT</booktitle>
+<ee>https://doi.org/10.1109/DISRTA.2000.874066</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DISRTA.2000.874066</ee>
+<url>db/conf/dsrt/dsrt2000.html#VardanegaM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sccc/VardanegaM99" mdate="2023-03-23">
+<author pid="78/3529">Fernando Vard&#226;nega</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>Using Computational Reflection in Optimistic Distributed Simulations.</title>
+<pages>1-8</pages>
+<year>1999</year>
+<crossref>conf/sccc/1999</crossref>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.1999.810147</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCCC.1999.810147</ee>
+<url>db/conf/sccc/sccc1999.html#VardanegaM99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sccc/LungFM99" mdate="2023-03-23">
+<author pid="65/85">Lau Cheuk Lung</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>MetaFT-A Reflective Approach to Implement Replication Techniques in CORBA.</title>
+<pages>25-34</pages>
+<year>1999</year>
+<crossref>conf/sccc/1999</crossref>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.1999.810150</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCCC.1999.810150</ee>
+<url>db/conf/sccc/sccc1999.html#LungFM99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isads/FragaMLF97" mdate="2024-01-24">
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<author pid="37/6173">Orlando Gomes Loques Filho</author>
+<title>Implementing replicated services in open systems using a reflective approach.</title>
+<pages>273-280</pages>
+<year>1997</year>
+<booktitle>ISADS</booktitle>
+<ee>https://doi.org/10.1109/ISADS.1997.590631</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISADS.1997.590631</ee>
+<crossref>conf/isads/1997</crossref>
+<url>db/conf/isads/isads1997.html#FragaMLF97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icci/IngelsMR92" mdate="2002-04-15">
+<author pid="46/1445">Philippe Ingels</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<author pid="r/MichelRaynal">Michel Raynal</author>
+<title>A Distributed Kernel for Virtual Time Driven Applications.</title>
+<pages>457-460</pages>
+<year>1992</year>
+<crossref>conf/icci/1992</crossref>
+<booktitle>ICCI</booktitle>
+<url>db/conf/icci/icci1992.html#IngelsMR92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/MazieroF88" mdate="2024-01-08">
+<author pid="m/CarlosMaziero">Carlos Alberto Maziero</author>
+<author pid="37/5635">Jean-Marie Farines</author>
+<title>Ambiente de Concep&#231;&#227;o de Software para Sistemas Distribu&#237;dos, Baseado em Rede de Petri.</title>
+<pages>150-157</pages>
+<year>1988</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.1988.24253</ee>
+<crossref>conf/sbes/1988</crossref>
+<url>db/conf/sbes/sbes1988.html#MazieroF88</url>
+</inproceedings>
+</r>
+<coauthors n="68" nc="7">
+<co c="4" n="2"><na f="a/Andrade:Aline" pid="50/915">Aline Andrade</na><na>Aline Maria Santos Andrade</na></co>
+<co c="0"><na f="a/Andrade:Gil_Eduardo_de" pid="131/8096">Gil Eduardo de Andrade</na></co>
+<co c="0"><na f="a/Araujo:Priscila_Vriesman" pid="160/4621">Priscila Vriesman Araujo</na></co>
+<co c="4" n="2"><na f="a/Assis_0001:Fl=aacute=vio" pid="49/9862">Fl&#225;vio Assis 0001</na><na>Fl&#225;vio Morais de Assis Silva</na></co>
+<co c="0"><na f="b/Bachtold:Juliana" pid="194/8621">Juliana Bachtold</na></co>
+<co c="-1"><na f="b/Barriviera:Rodolfo" pid="206/3323">Rodolfo Barriviera</na></co>
+<co c="0"><na f="b/Borchardt:Mauro" pid="48/3299">Mauro Borchardt</na></co>
+<co c="2"><na f="b/Borges:F=aacute=bio" pid="60/10839">F&#225;bio Borges</na></co>
+<co c="0"><na f="b/Botacin:Marcus" pid="212/3475">Marcus Botacin</na></co>
+<co c="0"><na f="c/Calsavara:Alcides" pid="92/3492">Alcides Calsavara</na></co>
+<co c="0"><na f="c/Castanhel:Gabriel_R=" pid="308/9653">Gabriel R. Castanhel</na></co>
+<co c="0" n="2"><na f="c/Ceschin:Fabricio" pid="235/8319">Fabricio Ceschin</na><na>Fabr&#237;cio Ceschin</na></co>
+<co c="0"><na f="c/Conde:Rafael_C=_R=" pid="230/1876">Rafael C. R. Conde</na></co>
+<co c="0"><na f="c/Costa:Regivaldo_G=" pid="68/2928">Regivaldo G. Costa</na></co>
+<co c="6"><na f="d/Dionysio:Stephany_Zanchi" pid="193/9970">Stephany Zanchi Dionysio</na></co>
+<co c="0"><na f="f/Farines:Jean=Marie" pid="37/5635">Jean-Marie Farines</na></co>
+<co c="5"><na f="f/Fontoura:Felipe_Michels" pid="193/9990">Felipe Michels Fontoura</na></co>
+<co c="0"><na f="f/Fraga:Joni_da_Silva" pid="257/5489">Joni da Silva Fraga</na></co>
+<co c="0"><na f="f/Fras=atilde=o:Anderson_Aparecido_do_Carmo" pid="386/9629">Anderson Aparecido do Carmo Fras&#227;o</na></co>
+<co c="0"><na f="f/Fulber=Garcia:Vinicius" pid="224/6851">Vinicius Fulber-Garcia</na></co>
+<co c="0"><na f="h/Heinrich:Tiago" pid="288/7661">Tiago Heinrich</na></co>
+<co c="0"><na f="h/Helpa:Calebe" pid="384/6219">Calebe Helpa</na></co>
+<co c="1"><na f="h/Hurfin:Michel" pid="53/2930">Michel Hurfin</na></co>
+<co c="1"><na f="i/Ingels:Philippe" pid="46/1445">Philippe Ingels</na></co>
+<co c="0"><na f="j/Jamhour:Edgard" pid="27/4997">Edgard Jamhour</na></co>
+<co c="0"><na f="k/Kageyama:Edson" pid="17/4054">Edson Kageyama</na></co>
+<co c="3"><na f="k/Kraemer:Alessandro" pid="137/0505">Alessandro Kraemer</na></co>
+<co c="0"><na f="k/Kropiwiec:C=aacute=ssio_Ditzel" pid="43/3713">C&#225;ssio Ditzel Kropiwiec</na></co>
+<co c="1"><na f="l/Lano=euml=:David" pid="234/0201">David Lano&#235;</na></co>
+<co c="2" n="2"><na f="l/Lassance:Luiz" pid="176/0916">Luiz Lassance</na><na>Luiz Carlos Lassance</na></co>
+<co c="0"><na f="l/Laureano:Marcos" pid="08/1099">Marcos Laureano</na></co>
+<co c="0"><na f="l/Lemos:Rodrigo" pid="320/9727">Rodrigo Lemos</na></co>
+<co c="0"><na f="l/Lima:Luiz_Augusto_de_Paula" pid="72/1641">Luiz Augusto de Paula Lima</na></co>
+<co c="0"><na f="l/Loest:S=eacute=rgio_Raymundo" pid="49/7434">S&#233;rgio Raymundo Loest</na></co>
+<co c="0" n="2"><na f="l/Loques:Orlando" pid="37/6173">Orlando Loques</na><na>Orlando Gomes Loques Filho</na></co>
+<co c="0"><na f="l/Lung:Lau_Cheuk" pid="65/85">Lau Cheuk Lung</na></co>
+<co c="0"><na f="m/Madruga:Marcelo_Cheminn" pid="62/7435">Marcelo Cheminn Madruga</na></co>
+<co c="2"><na f="m/Mannes:Elisa" pid="85/8933">Elisa Mannes</na></co>
+<co c="0"><na f="m/Marcon_Jr=:Arlindo_L=" pid="84/2247">Arlindo L. Marcon Jr.</na></co>
+<co c="0"><na f="n/Nabhen:Ricardo" pid="14/383">Ricardo Nabhen</na></co>
+<co c="6"><na f="n/Nacamura:Luiz" pid="82/5501">Luiz Nacamura</na></co>
+<co c="0" n="2"><na f="n/Nievola:J=uacute=lio_C=" pid="62/6863">J&#250;lio C. Nievola</na><na>J&#250;lio C&#233;sar Nievola</na></co>
+<co c="0"><na f="o/Obelheiro:Rafael_R=" pid="91/1540">Rafael R. Obelheiro</na></co>
+<co c="-1"><na f="o/Oliveira:Leonardo_de" pid="73/1741">Leonardo de Oliveira</na></co>
+<co c="-1"><na f="o/Olsen:Diogo" pid="160/5707">Diogo Olsen</na></co>
+<co c="0"><na f="p/Pellenz:Marcelo_Eduardo" pid="12/1494">Marcelo Eduardo Pellenz</na></co>
+<co c="-1"><na f="r/Raguenet:Inez" pid="71/4012">Inez Raguenet</na></co>
+<co c="1"><na f="r/Raynal:Michel" pid="r/MichelRaynal">Michel Raynal</na></co>
+<co c="2"><na f="r/Rezende:Daniel" pid="222/3535">Daniel Rezende</na></co>
+<co c="3"><na f="r/Richard:Olivier" pid="81/1910">Olivier Richard</na></co>
+<co c="0" n="2"><na f="s/Santin:Altair_Olivo" pid="38/5417">Altair Olivo Santin</na><na>Altair O. Santin</na></co>
+<co c="0"><na f="s/Santos:Douglas_dos" pid="53/11233">Douglas dos Santos</na></co>
+<co c="0"><na f="s/Segalin:Darlan" pid="168/6335">Darlan Segalin</na></co>
+<co c="0"><na f="s/Silva:Edemilson_da" pid="69/8448">Edemilson da Silva</na></co>
+<co c="4"><na f="s/Silva:Jo=atilde=o_Gabriel" pid="12/423">Jo&#227;o Gabriel Silva</na></co>
+<co c="-1"><na f="s/Souza:Cristina_Ver=ccedil=osa_P=eacute=rez_Barrios_de" pid="193/4200">Cristina Ver&#231;osa P&#233;rez Barrios de Souza</na></co>
+<co c="0"><na f="s/Stihler:Maicon" pid="29/1165">Maicon Stihler</na></co>
+<co c="0"><na f="s/Storoz:Simone" pid="77/6034">Simone Storoz</na></co>
+<co c="0"><na f="t/Teigao:Rafael" pid="00/1593">Rafael Teigao</na></co>
+<co c="0"><na f="t/Toktar:Emir" pid="71/458">Emir Toktar</na></co>
+<co c="1"><na f="t/Totel:Eric" pid="85/5807">Eric Totel</na></co>
+<co c="3"><na f="t/Trystram:Denis" pid="15/6997">Denis Trystram</na></co>
+<co c="0"><na f="u/Uchoa:Andre_Gustavo_Degraf" pid="94/8862">Andre Gustavo Degraf Uchoa</na></co>
+<co c="-1"><na f="v/Vard=acirc=nega:Fernando" pid="78/3529">Fernando Vard&#226;nega</na></co>
+<co c="0"><na f="v/Viegas_0001:Eduardo" pid="120/2495-1">Eduardo Viegas 0001</na></co>
+<co c="0"><na f="v/Viescinski:Amanda_B=" pid="294/6908">Amanda B. Viescinski</na></co>
+<co c="5" n="2"><na f="w/Wehrmeister:Marco_A=" pid="60/2173">Marco A. Wehrmeister</na><na>Marco Aur&#233;lio Wehrmeister</na></co>
+<co c="0"><na f="w/Will:Newton_Carlos" pid="134/4589">Newton Carlos Will</na></co>
+</coauthors>
+</dblpperson>
+

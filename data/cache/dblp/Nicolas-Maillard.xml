@@ -1,0 +1,582 @@
+<?xml version="1.0"?>
+<dblpperson name="Nicolas Maillard" pid="58/1754" n="33">
+<person key="homepages/58/1754" mdate="2023-10-03">
+<author pid="58/1754">Nicolas Maillard</author>
+<url>https://orcid.org/0000-0002-4534-1250</url>
+</person>
+<r><inproceedings key="conf/carla/RoloffCVDSHSMGN16" mdate="2023-09-30">
+<author pid="117/7744">Eduardo Roloff</author>
+<author orcid="0000-0002-5011-1003" pid="164/9866">Emmanuell Diaz Carre&#241;o</author>
+<author pid="199/1109">Jimmy K. M. Valverde-S&#225;nchez</author>
+<author orcid="0000-0002-9064-7806" pid="09/8557">Matthias Diener</author>
+<author orcid="0000-0001-5178-1036" pid="199/1097">Matheus da Silva Serpa</author>
+<author pid="45/9756">Guillaume Houzeaux</author>
+<author pid="57/3743">Lucas Mello Schnorr</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<title>Performance Evaluation of Multiple Cloud Data Centers Allocations for HPC.</title>
+<pages>18-32</pages>
+<year>2016</year>
+<booktitle>CARLA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-57972-6_2</ee>
+<crossref>conf/carla/2016</crossref>
+<url>db/conf/carla/carla2016.html#RoloffCVDSHSMGN16</url>
+</inproceedings>
+</r>
+<r><article key="journals/pc/LimaGDRM15" mdate="2023-09-30">
+<author orcid="0000-0002-2670-6963" pid="98/8779">Jo&#227;o V. F. Lima</author>
+<author pid="48/1575">Thierry Gautier</author>
+<author pid="10/1770">Vincent Danjean</author>
+<author pid="74/2662">Bruno Raffin</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<title>Design and analysis of scheduling strategies for multi-CPU and multi-GPU architectures.</title>
+<pages>37-52</pages>
+<year>2015</year>
+<volume>44</volume>
+<journal>Parallel Comput.</journal>
+<ee>https://doi.org/10.1016/j.parco.2015.03.001</ee>
+<url>db/journals/pc/pc44.html#LimaGDRM15</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/MorRM14" mdate="2023-09-30">
+<author pid="182/3712">Stefano Drimon Kurz Mor</author>
+<author pid="82/5170">Jean-Louis Roch</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<title>Generic Deterministic Random Number Generation in Dynamic-Multithreaded Platforms.</title>
+<pages>427-438</pages>
+<year>2014</year>
+<booktitle>Euro-Par</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-09873-9_36</ee>
+<crossref>conf/europar/2014</crossref>
+<url>db/conf/europar/europar2014.html#MorRM14</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijpp/SchepkeMSH13" mdate="2023-09-30">
+<author orcid="0000-0003-4118-8831" pid="79/5559">Claudio Schepke</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author pid="18/5577-1">J&#246;rg Schneider 0001</author>
+<author pid="34/173">Hans-Ulrich Heiss</author>
+<title>Online Mesh Refinement for Parallel Atmospheric Models.</title>
+<pages>552-569</pages>
+<year>2013</year>
+<volume>41</volume>
+<journal>Int. J. Parallel Program.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10766-012-0235-4</ee>
+<url>db/journals/ijpp/ijpp41.html#SchepkeMSH13</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipps/GautierLMR13" mdate="2023-09-30">
+<author pid="48/1575">Thierry Gautier</author>
+<author orcid="0000-0002-2670-6963" pid="98/8779">Jo&#227;o V. F. Lima</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author pid="74/2662">Bruno Raffin</author>
+<title>XKaapi: A Runtime System for Data-Flow Task Programming on Heterogeneous Architectures.</title>
+<pages>1299-1308</pages>
+<year>2013</year>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2013.66</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IPDPS.2013.66</ee>
+<crossref>conf/ipps/2013</crossref>
+<url>db/conf/ipps/ipdps2013.html#GautierLMR13</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijitcc/OsthoffBKPNSPGMDW12" mdate="2020-06-04">
+<author pid="76/6443">Carla Osthoff</author>
+<author pid="99/9377">Francieli Zanon Boito</author>
+<author pid="15/3219">Rodrigo Virote Kassick</author>
+<author pid="75/2582">La&#233;rcio Lima Pilla</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<author pid="79/5559">Claudio Schepke</author>
+<author pid="39/5694">Jairo Panetta</author>
+<author pid="43/10076">Pablo Javier Grunmann</author>
+<author pid="58/1754">Nicolas Maillard</author>
+<author pid="37/2809">Pedro Leite da Silva Dias</author>
+<author pid="73/10076">Robert L. Walko</author>
+<title>Atmospheric models hybrid OpenMP/MPI implementation multicore cluster evaluation.</title>
+<pages>212-233</pages>
+<year>2012</year>
+<volume>2</volume>
+<journal>Int. J. Inf. Technol. Commun. Convergence</journal>
+<number>3</number>
+<ee>https://doi.org/10.1504/IJITCC.2012.050411</ee>
+<url>db/journals/ijitcc/ijitcc2.html#OsthoffBKPNSPGMDW12</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbac-pad/LimaGMD12" mdate="2023-09-30">
+<author orcid="0000-0002-2670-6963" pid="98/8779">Jo&#227;o V. F. Lima</author>
+<author pid="48/1575">Thierry Gautier</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author pid="10/1770">Vincent Danjean</author>
+<title>Exploiting Concurrent GPU Operations for Efficient Work Stealing on Multi-GPUs.</title>
+<pages>75-82</pages>
+<year>2012</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2012.28</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2012.28</ee>
+<crossref>conf/sbac-pad/2012</crossref>
+<url>db/conf/sbac-pad/sbac-pad2012.html#LimaGMD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wscad/PintoM12" mdate="2023-09-30">
+<author pid="235/7229">Vin&#237;cius Garcia Pinto</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<title>Work Stealing on Hybrid Architectures.</title>
+<pages>17-24</pages>
+<year>2012</year>
+<booktitle>WSCAD-SSC</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WSCAD-SSC.2012.28</ee>
+<crossref>conf/wscad/2012</crossref>
+<url>db/conf/wscad/wscad2012.html#PintoM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wscad/SchepkeM12" mdate="2023-09-30">
+<author orcid="0000-0003-4118-8831" pid="79/5559">Claudio Schepke</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<title>Exploring Multi-level Parallelism in Atmospheric Applications.</title>
+<pages>41-48</pages>
+<year>2012</year>
+<booktitle>WSCAD-SSC</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WSCAD-SSC.2012.13</ee>
+<crossref>conf/wscad/2012</crossref>
+<url>db/conf/wscad/wscad2012.html#SchepkeM12</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijhpsa/MorM11" mdate="2023-09-30">
+<author pid="182/3712">Stefano Drimon Kurz Mor</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<title>Dynamic workload balancing deques for branch and bound algorithms in the message passing interface.</title>
+<pages>77-86</pages>
+<year>2011</year>
+<volume>3</volume>
+<journal>Int. J. High Perform. Syst. Archit.</journal>
+<number>2/3</number>
+<ee>https://doi.org/10.1504/IJHPSA.2011.040461</ee>
+<url>db/journals/ijhpsa/ijhpsa3.html#MorM11</url>
+</article>
+</r>
+<r><article key="journals/ijrc/RutzigBMAFMNC11" mdate="2023-09-30">
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus B. Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="37/7381">Felipe Lopes Madruga</author>
+<author orcid="0000-0003-2440-2664" pid="47/7939">Marco A. Z. Alves</author>
+<author orcid="0000-0001-9722-1093" pid="13/4670">Henrique C. Freitas</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<title>Boosting Parallel Applications Performance on Applying DIM Technique in a Multiprocessing Environment.</title>
+<year>2011</year>
+<volume>2011</volume>
+<journal>Int. J. Reconfigurable Comput.</journal>
+<ee type="oa">https://doi.org/10.1155/2011/546962</ee>
+<ee>https://www.wikidata.org/entity/Q58688481</ee>
+<url>db/journals/ijrc/ijrc2011.html#RutzigBMAFMNC11</url>
+<pages>546962:1-546962:13</pages>
+</article>
+</r>
+<r><inproceedings key="conf/ispa/OsthoffGBKPNSPMDW11" mdate="2023-09-30">
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author pid="43/10076">Pablo Javier Grunmann</author>
+<author pid="99/9377">Francieli Zanon Boito</author>
+<author pid="15/3219">Rodrigo Kassick</author>
+<author orcid="0000-0003-0997-586X" pid="75/2582">La&#233;rcio Lima Pilla</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<author orcid="0000-0003-4118-8831" pid="79/5559">Claudio Schepke</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author orcid="0000-0002-4051-2962" pid="37/2809">Pedro Leite da Silva Dias</author>
+<author pid="73/10076">Robert L. Walko</author>
+<title>Improving Performance on Atmospheric Models through a Hybrid OpenMP/MPI Implementation.</title>
+<pages>69-74</pages>
+<year>2011</year>
+<booktitle>ISPA</booktitle>
+<ee>https://doi.org/10.1109/ISPA.2011.56</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISPA.2011.56</ee>
+<crossref>conf/ispa/2011</crossref>
+<url>db/conf/ispa/ispa2011.html#OsthoffGBKPNSPMDW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/SchepkeMSH11" mdate="2023-09-30">
+<author orcid="0000-0003-4118-8831" pid="79/5559">Claudio Schepke</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author pid="18/5577-1">J&#246;rg Schneider 0001</author>
+<author pid="34/173">Hans-Ulrich Heiss</author>
+<title>Why Online Dynamic Mesh Refinement is Better for Parallel Climatological Models.</title>
+<pages>168-175</pages>
+<year>2011</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2011.14</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2011.14</ee>
+<crossref>conf/sbac-pad/2011</crossref>
+<url>db/conf/sbac-pad/sbac-pad2011.html#SchepkeMSH11</url>
+</inproceedings>
+</r>
+<r><article key="journals/ppl/RighiPMCN10" mdate="2023-09-30">
+<author pid="33/4917">Rodrigo da Rosa Righi</author>
+<author orcid="0000-0003-0997-586X" pid="75/2582">La&#233;rcio Lima Pilla</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author pid="79/6098">Alexandre Carissimi</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<title>Observing the Impact of Multiple Metrics and Runtime Adaptations on BSP Process Rescheduling.</title>
+<pages>123-144</pages>
+<year>2010</year>
+<volume>20</volume>
+<journal>Parallel Process. Lett.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1142/S0129626410000107</ee>
+<url>db/journals/ppl/ppl20.html#RighiPMCN10</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdcn/CeraGRMN10" mdate="2024-08-04">
+<author pid="35/2207">M&#225;rcia C. Cera</author>
+<author pid="09/306">Yiannis Georgiou</author>
+<author orcid="0009-0005-8679-2874" pid="81/1910">Olivier Richard</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<title>Supporting Malleability in Parallel Architectures with Dynamic CPUSETsMapping and Dynamic MPI.</title>
+<pages>242-257</pages>
+<year>2010</year>
+<booktitle>ICDCN</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11322-2_26</ee>
+<crossref>conf/icdcn/2010</crossref>
+<url>db/conf/icdcn/icdcn2010.html#CeraGRMN10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/RutzigMAFBMNC10" mdate="2023-09-30">
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus B. Rutzig</author>
+<author pid="37/7381">Felipe Lopes Madruga</author>
+<author orcid="0000-0003-2440-2664" pid="47/7939">Marco A. Z. Alves</author>
+<author orcid="0000-0001-9722-1093" pid="13/4670">Henrique Cota de Freitas</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<title>TLP and ILP exploitation through a reconfigurable multiprocessor system.</title>
+<pages>1-8</pages>
+<year>2010</year>
+<booktitle>IPDPS Workshops</booktitle>
+<ee>https://doi.org/10.1109/IPDPSW.2010.5470743</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IPDPSW.2010.5470743</ee>
+<crossref>conf/ipps/2010w</crossref>
+<url>db/conf/ipps/ipdps2010w.html#RutzigMAFBMNC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pvm/CeraLMN10" mdate="2023-09-30">
+<author pid="35/2207">M&#225;rcia C. Cera</author>
+<author pid="98/8779">Jo&#227;o V. F. Lima</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<title>Challenges and Issues of Supporting Task Parallelism in MPI.</title>
+<pages>302-305</pages>
+<year>2010</year>
+<booktitle>EuroMPI</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15646-5_34</ee>
+<crossref>conf/pvm/2010</crossref>
+<url>db/conf/pvm/eurompi2010.html#CeraLMN10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/OsthoffSPGMNDL10" mdate="2023-09-30">
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author orcid="0000-0003-4118-8831" pid="79/5559">Claudio Schepke</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author pid="43/10076">Pablo Javier Grunmann</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<author orcid="0000-0002-4051-2962" pid="37/2809">Pedro Leite da Silva Dias</author>
+<author pid="161/5375">Pedro Pais Lopes</author>
+<title>I/O Performance Evaluation on Multicore Clusters with Atmospheric Model Environment.</title>
+<pages>49-54</pages>
+<year>2010</year>
+<booktitle>SBAC-PAD (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PADW.2010.15</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PADW.2010.15</ee>
+<crossref>conf/sbac-pad/2010w</crossref>
+<url>db/conf/sbac-pad/sbac-pad2010w.html#OsthoffSPGMNDL10</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijhpsa/LimaM09" mdate="2023-09-30">
+<author pid="98/8779">Jo&#227;o V. F. Lima</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<title>Online mapping of MPI-2 dynamic tasks to processes and threads.</title>
+<pages>81-89</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Int. J. High Perform. Syst. Archit.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1504/IJHPSA.2009.032025</ee>
+<url>db/journals/ijhpsa/ijhpsa2.html#LimaM09</url>
+</article>
+</r>
+<r><article key="journals/ijpp/SchepkeMN09" mdate="2023-09-30">
+<author orcid="0000-0003-4118-8831" pid="79/5559">Claudio Schepke</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<title>Parallel Lattice Boltzmann Method with Blocked Partitioning.</title>
+<pages>593-611</pages>
+<year>2009</year>
+<volume>37</volume>
+<journal>Int. J. Parallel Program.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s10766-009-0113-x</ee>
+<url>db/journals/ijpp/ijpp37.html#SchepkeMN09</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscc/SchneiderGHFRRRMN09" mdate="2023-09-30">
+<author pid="18/5577-1">J&#246;rg Schneider 0001</author>
+<author pid="09/7380">Julius Gehr</author>
+<author pid="34/173">Hans-Ulrich Heiss</author>
+<author pid="78/3004">Tiago Ferreto</author>
+<author orcid="0000-0003-0070-0157" pid="95/5199">C&#233;sar A. F. De Rose</author>
+<author pid="33/4917">Rodrigo da Rosa Righi</author>
+<author pid="29/1398">Eduardo Rocha Rodrigues</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<title>Design of a Grid workflow for a climate application.</title>
+<pages>793-799</pages>
+<year>2009</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2009.5202233</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2009.5202233</ee>
+<crossref>conf/iscc/2009</crossref>
+<url>db/conf/iscc/iscc2009.html#SchneiderGHFRRRMN09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cse/RighiPCMN08" mdate="2023-09-30">
+<author pid="33/4917">Rodrigo da Rosa Righi</author>
+<author orcid="0000-0003-0997-586X" pid="75/2582">La&#233;rcio Lima Pilla</author>
+<author pid="79/6098">Alexandre Carissimi</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<title>ICE: Managing Multiple Clusters Using Web Services.</title>
+<pages>64-71</pages>
+<year>2008</year>
+<booktitle>CSE</booktitle>
+<ee>https://doi.org/10.1109/CSE.2008.61</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CSE.2008.61</ee>
+<crossref>conf/cse/2008</crossref>
+<url>db/conf/cse/cse2008.html#RighiPCMN08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/TraoreRMGB08" mdate="2023-09-30">
+<author pid="53/763">Daouda Traor&#233;</author>
+<author pid="82/5170">Jean-Louis Roch</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author pid="48/1575">Thierry Gautier</author>
+<author pid="70/1074">Julien Bernard 0001</author>
+<title>Deque-Free Work-Optimal Parallel STL Algorithms.</title>
+<pages>887-897</pages>
+<year>2008</year>
+<booktitle>Euro-Par</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85451-7_95</ee>
+<crossref>conf/europar/2008</crossref>
+<url>db/conf/europar/europar2008.html#TraoreRMGB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/SchepkeM07" mdate="2023-10-13">
+<author orcid="0000-0003-4118-8831" pid="79/5559">Claudio Schepke</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<title>Performance Improvement of the Parallel Lattice Boltzmann Method Through Blocked Data Distributions.</title>
+<pages>71-78</pages>
+<year>2007</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2007.12</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2007.12</ee>
+<crossref>conf/sbac-pad/2007</crossref>
+<url>db/conf/sbac-pad/sbac-pad2007.html#SchepkeM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/MathiasBCM07" mdate="2023-10-13">
+<author pid="11/3129">Elton N. Mathias</author>
+<author pid="03/1165">Fran&#231;oise Baude</author>
+<author pid="59/1673">Vincent Cav&#233;</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<title>A Component-Oriented Support for Hierarchical MPI Programming on Multi-Cluster Grid Environments.</title>
+<pages>135-142</pages>
+<year>2007</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2007.37</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2007.37</ee>
+<crossref>conf/sbac-pad/2007</crossref>
+<url>db/conf/sbac-pad/sbac-pad2007.html#MathiasBCM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/PezziCMMN07" mdate="2023-10-13">
+<author pid="22/1603">Guilherme P. Pezzi</author>
+<author pid="35/2207">M&#225;rcia C. Cera</author>
+<author pid="11/3129">Elton N. Mathias</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<title>On-line Scheduling of MPI-2 Programs with Hierarchical Work Stealing.</title>
+<pages>247-254</pages>
+<year>2007</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2007.36</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2007.36</ee>
+<crossref>conf/sbac-pad/2007</crossref>
+<url>db/conf/sbac-pad/sbac-pad2007.html#PezziCMMN07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccgrid/MarquezanRSCMN06" mdate="2023-03-24">
+<author pid="70/345">Clarissa Cassales Marquezan</author>
+<author pid="33/4917">Rodrigo da Rosa Righi</author>
+<author pid="57/3743">Lucas Mello Schnorr</author>
+<author pid="79/6098">Alexandre Carissimi</author>
+<author pid="58/1754">Nicolas Maillard</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<title>ICE: A Service Oriented Approach to Uniform the Access and Management of Cluster Environments.</title>
+<pages>54</pages>
+<year>2006</year>
+<crossref>conf/ccgrid/2006</crossref>
+<booktitle>CCGRID</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CCGRID.2006.144</ee>
+<url>db/conf/ccgrid/ccgrid2006.html#MarquezanRSCMN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jsspp/CeraPPMN06" mdate="2023-09-30">
+<author pid="35/2207">M&#225;rcia C. Cera</author>
+<author pid="22/1603">Guilherme P. Pezzi</author>
+<author pid="06/5321">Maur&#237;cio L. Pilla</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<title>Scheduling Dynamically Spawned Processes in MPI-2.</title>
+<pages>33-46</pages>
+<year>2006</year>
+<crossref>conf/jsspp/2006</crossref>
+<booktitle>JSSPP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-71035-6_2</ee>
+<url>db/conf/jsspp/jsspp2006.html#CeraPPMN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pvm/CeraPMMN06" mdate="2023-09-30">
+<author pid="35/2207">M&#225;rcia C. Cera</author>
+<author pid="22/1603">Guilherme P. Pezzi</author>
+<author pid="11/3129">Elton N. Mathias</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<title>Improving the Dynamic Creation of Processes in MPI-2.</title>
+<pages>247-255</pages>
+<year>2006</year>
+<crossref>conf/pvm/2006</crossref>
+<booktitle>PVM/MPI</booktitle>
+<ee>https://doi.org/10.1007/11846802_37</ee>
+<url>db/conf/pvm/pvm2006.html#CeraPMMN06</url>
+</inproceedings>
+</r>
+<r><article key="journals/pc/RichardMRN05" mdate="2023-09-30">
+<author pid="91/1927-2">Bruno Richard 0002</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author orcid="0000-0003-0070-0157" pid="95/5199">C&#233;sar A. F. De Rose</author>
+<author pid="16/1128">Reynaldo Novaes</author>
+<title>The I-Cluster Cloud: distributed management of idle resources for intense computing.</title>
+<pages>813-838</pages>
+<year>2005</year>
+<volume>31</volume>
+<journal>Parallel Comput.</journal>
+<number>8-9</number>
+<ee>https://doi.org/10.1016/j.parco.2005.06.001</ee>
+<url>db/journals/pc/pc31.html#RichardMRN05</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbac-pad/SilvaPMD05" mdate="2023-09-30">
+<author pid="74/2994">Rafael Ennes Silva</author>
+<author pid="22/1603">Guilherme P. Pezzi</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author pid="04/6896">Tiaraj&#250; Asmuz Diverio</author>
+<title>Automatic Data-Flow Graph Generation of MPI Programs.</title>
+<pages>93-100</pages>
+<year>2005</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/CAHPC.2005.15</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CAHPC.2005.15</ee>
+<crossref>conf/sbac-pad/2005</crossref>
+<url>db/conf/sbac-pad/sbac-pad2005.html#SilvaPMD05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/RoseBMSNRR02" mdate="2023-09-30">
+<author pid="95/5199">C&#233;sar A. F. De Rose</author>
+<author pid="54/3152">Franco Blanco</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author pid="68/3610">Katia Barbosa Saikoski</author>
+<author pid="16/1128">Reynaldo Novaes</author>
+<author pid="81/1910">Olivier Richard</author>
+<author pid="91/1927-2">Bruno Richard 0002</author>
+<title>The Virtual Cluster: A Dynamic Environment for Exploitation of Idle Network Resources.</title>
+<pages>141-150</pages>
+<year>2002</year>
+<crossref>conf/sbac-pad/2002</crossref>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/CAHPC.2002.1180770</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CAHPC.2002.1180770</ee>
+<url>db/conf/sbac-pad/sbac-pad2002.html#RoseBMSNRR02</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Maillard01" mdate="2020-07-21">
+<author pid="58/1754">Nicolas Maillard</author>
+<title>Calcul Haute-Performance et M&#233;canique Quantique : analyse des ordonnancements en temps et en m&#233;moire. (High-Performance Computing and Quantum Mechanics : Analysis of Time and Memory Efficient Algorithms).</title>
+<year>2001</year>
+<school>Joseph Fourier University, Grenoble, France</school>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-00004684</ee>
+</phdthesis>
+</r>
+<coauthors n="57" nc="1">
+<co c="0"><na f="a/Alves:Marco_A=_Z=" pid="47/7939">Marco A. Z. Alves</na></co>
+<co c="0"><na f="b/Baude:Fran=ccedil=oise" pid="03/1165">Fran&#231;oise Baude</na></co>
+<co c="0"><na f="b/Beck:Antonio_Carlos_Schneider" pid="02/7021">Antonio Carlos Schneider Beck</na></co>
+<co c="0"><na f="b/Bernard_0001:Julien" pid="70/1074">Julien Bernard 0001</na></co>
+<co c="0"><na f="b/Blanco:Franco" pid="54/3152">Franco Blanco</na></co>
+<co c="0"><na f="b/Boito:Francieli_Zanon" pid="99/9377">Francieli Zanon Boito</na></co>
+<co c="0"><na f="c/Carissimi:Alexandre" pid="79/6098">Alexandre Carissimi</na></co>
+<co c="0" n="2"><na f="c/Carre=ntilde=o:Emmanuell_D=" pid="164/9866">Emmanuell D. Carre&#241;o</na><na>Emmanuell Diaz Carre&#241;o</na></co>
+<co c="0"><na f="c/Carro:Luigi" pid="25/5214">Luigi Carro</na></co>
+<co c="0"><na f="c/Cav=eacute=:Vincent" pid="59/1673">Vincent Cav&#233;</na></co>
+<co c="0"><na f="c/Cera:M=aacute=rcia_C=" pid="35/2207">M&#225;rcia C. Cera</na></co>
+<co c="0"><na f="d/Danjean:Vincent" pid="10/1770">Vincent Danjean</na></co>
+<co c="0"><na f="d/Dias:Pedro_Leite_da_Silva" pid="37/2809">Pedro Leite da Silva Dias</na></co>
+<co c="0"><na f="d/Diener:Matthias" pid="09/8557">Matthias Diener</na></co>
+<co c="0"><na f="d/Diverio:Tiaraj=uacute=_Asmuz" pid="04/6896">Tiaraj&#250; Asmuz Diverio</na></co>
+<co c="0"><na f="f/Ferreto:Tiago" pid="78/3004">Tiago Ferreto</na></co>
+<co c="0" n="2"><na f="f/Freitas:Henrique_Cota_de" pid="13/4670">Henrique Cota de Freitas</na><na>Henrique C. Freitas</na></co>
+<co c="0"><na f="g/Gaspary:Luciano_Paschoal" pid="g/LPGaspary">Luciano Paschoal Gaspary</na></co>
+<co c="0"><na f="g/Gautier:Thierry" pid="48/1575">Thierry Gautier</na></co>
+<co c="0"><na f="g/Gehr:Julius" pid="09/7380">Julius Gehr</na></co>
+<co c="0"><na f="g/Georgiou:Yiannis" pid="09/306">Yiannis Georgiou</na></co>
+<co c="0"><na f="g/Grunmann:Pablo_Javier" pid="43/10076">Pablo Javier Grunmann</na></co>
+<co c="0" n="2"><na f="h/Hei=szlig=:Hans=Ulrich" pid="34/173">Hans-Ulrich Hei&#223;</na><na>Hans-Ulrich Heiss</na></co>
+<co c="0"><na f="h/Houzeaux:Guillaume" pid="45/9756">Guillaume Houzeaux</na></co>
+<co c="0" n="2"><na f="k/Kassick:Rodrigo" pid="15/3219">Rodrigo Kassick</na><na>Rodrigo Virote Kassick</na></co>
+<co c="0"><na f="l/Lima:Jo=atilde=o_V=_F=" pid="98/8779">Jo&#227;o V. F. Lima</na></co>
+<co c="0"><na f="l/Lopes:Pedro_Pais" pid="161/5375">Pedro Pais Lopes</na></co>
+<co c="0"><na f="m/Madruga:Felipe_Lopes" pid="37/7381">Felipe Lopes Madruga</na></co>
+<co c="0"><na f="m/Marquezan:Clarissa_Cassales" pid="70/345">Clarissa Cassales Marquezan</na></co>
+<co c="0"><na f="m/Mathias:Elton_N=" pid="11/3129">Elton N. Mathias</na></co>
+<co c="0"><na f="m/Mor:Stefano_Drimon_Kurz" pid="182/3712">Stefano Drimon Kurz Mor</na></co>
+<co c="0" n="2"><na f="n/Navaux:Philippe_Olivier_Alexandre" pid="74/1262">Philippe Olivier Alexandre Navaux</na><na>Philippe O. A. Navaux</na></co>
+<co c="0"><na f="n/Novaes:Reynaldo" pid="16/1128">Reynaldo Novaes</na></co>
+<co c="0"><na f="o/Osthoff:Carla" pid="76/6443">Carla Osthoff</na></co>
+<co c="0"><na f="p/Panetta:Jairo" pid="39/5694">Jairo Panetta</na></co>
+<co c="0"><na f="p/Pezzi:Guilherme_P=" pid="22/1603">Guilherme P. Pezzi</na></co>
+<co c="0"><na f="p/Pilla:La=eacute=rcio_Lima" pid="75/2582">La&#233;rcio Lima Pilla</na></co>
+<co c="0"><na f="p/Pilla:Maur=iacute=cio_L=" pid="06/5321">Maur&#237;cio L. Pilla</na></co>
+<co c="0"><na f="p/Pinto:Vin=iacute=cius_Garcia" pid="235/7229">Vin&#237;cius Garcia Pinto</na></co>
+<co c="0"><na f="r/Raffin:Bruno" pid="74/2662">Bruno Raffin</na></co>
+<co c="0"><na f="r/Richard_0002:Bruno" pid="91/1927-2">Bruno Richard 0002</na></co>
+<co c="0"><na f="r/Richard:Olivier" pid="81/1910">Olivier Richard</na></co>
+<co c="0"><na f="r/Righi:Rodrigo_da_Rosa" pid="33/4917">Rodrigo da Rosa Righi</na></co>
+<co c="0"><na f="r/Roch:Jean=Louis" pid="82/5170">Jean-Louis Roch</na></co>
+<co c="0"><na f="r/Rodrigues:Eduardo_Rocha" pid="29/1398">Eduardo Rocha Rodrigues</na></co>
+<co c="0"><na f="r/Roloff:Eduardo" pid="117/7744">Eduardo Roloff</na></co>
+<co c="0"><na f="r/Rose:C=eacute=sar_A=_F=_De" pid="95/5199">C&#233;sar A. F. De Rose</na></co>
+<co c="0"><na f="r/Rutzig:Mateus_B=" pid="13/3791">Mateus B. Rutzig</na></co>
+<co c="0"><na f="s/Saikoski:Katia_Barbosa" pid="68/3610">Katia Barbosa Saikoski</na></co>
+<co c="0"><na f="s/Schepke:Claudio" pid="79/5559">Claudio Schepke</na></co>
+<co c="0"><na f="s/Schneider_0001:J=ouml=rg" pid="18/5577-1">J&#246;rg Schneider 0001</na></co>
+<co c="0"><na f="s/Schnorr:Lucas_Mello" pid="57/3743">Lucas Mello Schnorr</na></co>
+<co c="0" n="2"><na f="s/Serpa:Matheus_S=" pid="199/1097">Matheus S. Serpa</na><na>Matheus da Silva Serpa</na></co>
+<co c="0"><na f="s/Silva:Rafael_Ennes" pid="74/2994">Rafael Ennes Silva</na></co>
+<co c="0"><na f="t/Traor=eacute=:Daouda" pid="53/763">Daouda Traor&#233;</na></co>
+<co c="0"><na f="v/Valverde=S=aacute=nchez:Jimmy_K=_M=" pid="199/1109">Jimmy K. M. Valverde-S&#225;nchez</na></co>
+<co c="0"><na f="w/Walko:Robert_L=" pid="73/10076">Robert L. Walko</na></co>
+</coauthors>
+</dblpperson>
+

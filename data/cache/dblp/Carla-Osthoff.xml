@@ -1,0 +1,876 @@
+<?xml version="1.0"?>
+<dblpperson name="Carla Osthoff" pid="76/6443" n="47">
+<person key="homepages/76/6443" mdate="2022-10-27">
+<author pid="76/6443">Carla Osthoff</author>
+<author pid="76/6443">Carla Osthoff Ferreira de Barros</author>
+<author pid="76/6443">Carla Barros Osthoff Ferreira de Barros</author>
+<note type="affiliation">National Laboratory for Scientific Computing, Petr&#243;polis, Brazil</note>
+<url>https://orcid.org/0000-0002-4694-7182</url>
+<url>http://lattes.cnpq.br/7170508510503648</url>
+</person>
+<r><article key="journals/jpdc/CarneiroBOSN23" mdate="2023-11-01">
+<author orcid="0000-0002-2809-055X" pid="220/7391">Andr&#233; Ramos Carneiro</author>
+<author orcid="0000-0002-3915-1135" pid="177/2482">Jean Luca Bez</author>
+<author pid="76/6443">Carla Osthoff</author>
+<author pid="57/3743">Lucas Mello Schnorr</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<title>Uncovering I/O demands on HPC platforms: Peeking under the hood of Santos Dumont.</title>
+<pages>104744</pages>
+<year>2023</year>
+<month>December</month>
+<volume>182</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<ee type="oa">https://doi.org/10.1016/j.jpdc.2023.104744</ee>
+<url>db/journals/jpdc/jpdc182.html#CarneiroBOSN23</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccsa/TaipeTRCBOCO23" mdate="2023-10-07">
+<author orcid="0000-0002-0054-6148" pid="351/2605">Stiw Harrison Herrera Taipe</author>
+<author orcid="0000-0001-7581-7646" pid="12/6785">Thiago Teixeira</author>
+<author orcid="0000-0002-4418-840X" pid="351/2502">Weber Ribeiro</author>
+<author orcid="0000-0002-2809-055X" pid="220/7391">Andr&#233; Ramos Carneiro</author>
+<author orcid="0000-0002-9566-6731" pid="244/1373">Marcio Rentes Borges</author>
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author orcid="0000-0003-0467-3424" pid="179/6870">Frederico Lu&#237;s Cabral</author>
+<author orcid="0000-0003-4863-542X" pid="10/51">Sanderson L. Gonzaga de Oliveira</author>
+<title>An Evaluation of Direct and Indirect Memory Accesses in Fluid Flow Simulator.</title>
+<pages>38-54</pages>
+<year>2023</year>
+<booktitle>ICCSA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-36805-9_3</ee>
+<crossref>conf/iccsa/2023-1</crossref>
+<url>db/conf/iccsa/iccsa2023-1.html#TaipeTRCBOCO23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/PortoCOOBC23" mdate="2025-04-01">
+<author orcid="0009-0008-9940-4991" pid="50/894">Alexandre H. L. Porto</author>
+<author orcid="0000-0003-0293-8564" pid="258/3990">Micaella Coelho</author>
+<author orcid="0000-0002-2151-7418" pid="75/2286">Kary A. C. S. Oca&#241;a</author>
+<author pid="76/6443">Carla Osthoff</author>
+<author pid="99/9377">Francieli Boito</author>
+<author orcid="0000-0002-1932-334X" pid="72/10829">Douglas de O. Cardoso</author>
+<title>An Exploratory Study of Deep Learning for Predicting Computational Tasks Behavior in HPC Systems.</title>
+<pages>9-15</pages>
+<year>2023</year>
+<booktitle>SBAC-PADW</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PADW60351.2023.00012</ee>
+<crossref>conf/sbac-pad/2023w</crossref>
+<url>db/conf/sbac-pad/sbac-pad2023w.html#PortoCOOBC23</url>
+</inproceedings>
+</r>
+<r><article key="journals/cys/CruzCGCCGBNOO22" mdate="2025-03-14">
+<author pid="335/9913">Lucas Cruz</author>
+<author pid="258/3990">Micaella Coelho</author>
+<author pid="244/3660">Marcelo Galheigo</author>
+<author pid="220/7391">Andr&#233; Ramos Carneiro</author>
+<author pid="06/9562-1">Diego Carvalho 0001</author>
+<author pid="63/1981">Luiz M. R. Gadelha Jr.</author>
+<author pid="99/9377">Francieli Zanon Boito</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<author pid="76/6443">Carla Osthoff</author>
+<author pid="75/2286">Kary A. C. S. Oca&#241;a</author>
+<title>Parallel Performance and I/O Profiling of HPC RNA-Seq Applications.</title>
+<year>2022</year>
+<volume>26</volume>
+<journal>Computaci&#243;n y Sistemas</journal>
+<number>4</number>
+<ee type="archive">https://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/4437</ee>
+<url>db/journals/cys/cys26.html#CruzCGCCGBNOO22</url>
+</article>
+</r>
+<r><article key="journals/superfri/VelhoFSBWSCC22" mdate="2024-10-06">
+<author pid="91/7660">Haroldo F. de Campos Velho</author>
+<author pid="204/2887">Helaine Cristina Morais Furtado</author>
+<author pid="321/9168">Sabrina B. M. Sambatti</author>
+<author pid="76/6443">Carla Barros Osthoff Ferreira de Barros</author>
+<author pid="321/9139">Maria E. S. Welter</author>
+<author pid="179/6860">Roberto Pinto Souto</author>
+<author orcid="0000-0003-1592-6327" pid="06/9562-1">Diego Carvalho 0001</author>
+<author orcid="0000-0002-1932-334X" pid="72/10829">Douglas de O. Cardoso</author>
+<title>Data Assimilation by Neural Network for Ocean Circulation: Parallel Implementation.</title>
+<pages>74-86</pages>
+<year>2022</year>
+<volume>9</volume>
+<journal>Supercomput. Front. Innov.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.14529/jsfi220105</ee>
+<url>db/journals/superfri/superfri9.html#VelhoFSBWSCC22</url>
+</article>
+</r>
+<r><inproceedings key="conf/carla/OcanaCCTGC0GBNO22" mdate="2025-03-03">
+<author orcid="0000-0002-2151-7418" pid="75/2286">Kary A. C. S. Oca&#241;a</author>
+<author pid="335/9913">Lucas Cruz</author>
+<author orcid="0000-0003-0293-8564" pid="258/3990">Micaella Coelho</author>
+<author pid="335/9970">Rafael Terra</author>
+<author pid="244/3660">Marcelo Galheigo</author>
+<author pid="220/7391">Andre Ramos Carneiro</author>
+<author orcid="0000-0003-1592-6327" pid="06/9562-1">Diego Carvalho 0001</author>
+<author orcid="0000-0002-8122-9522" pid="63/1981">Luiz M. R. Gadelha Jr.</author>
+<author pid="99/9377">Francieli Zanon Boito</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<author pid="76/6443">Carla Osthoff</author>
+<title>ParslRNA-Seq: An Efficient and Scalable RNAseq Analysis Workflow for Studies of Differentiated Gene Expression.</title>
+<pages>174-189</pages>
+<year>2022</year>
+<booktitle>CARLA</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-23821-5_13</ee>
+<crossref>conf/carla/2022</crossref>
+<url>db/conf/carla/carla2022.html#OcanaCCTGC0GBNO22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccsa/CabralOO22" mdate="2022-07-18">
+<author pid="179/6870">Frederico Lu&#237;s Cabral</author>
+<author pid="76/6443">Carla Osthoff</author>
+<author pid="10/51">Sanderson L. Gonzaga de Oliveira</author>
+<title>Reducing Cache Miss Rate Using Thread Oversubscription to Accelerate an MPI-OpenMP-Based 2-D Hopmoc Method.</title>
+<pages>337-353</pages>
+<year>2022</year>
+<booktitle>ICCSA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-10522-7_24</ee>
+<crossref>conf/iccsa/2022-1</crossref>
+<url>db/conf/iccsa/iccsa2022-1.html#CabralOO22</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/carla/2022" mdate="2022-12-23">
+<editor orcid="0000-0002-9957-5861" pid="74/1262">Philippe O. A. Navaux</editor>
+<editor orcid="0000-0002-3227-8651" pid="179/6857">Carlos J. Barrios</editor>
+<editor orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</editor>
+<editor pid="44/7795">Gin&#233;s D. Guerrero</editor>
+<title>High Performance Computing - 9th Latin American Conference, CARLA 2022, Porto Alegre, Brazil, September 26-30, 2022, Revised Selected Papers</title>
+<booktitle>CARLA</booktitle>
+<publisher>Springer</publisher>
+<year>2022</year>
+<series href="db/series/ccis/index.html">Communications in Computer and Information Science</series>
+<volume>1660</volume>
+<isbn>978-3-031-23820-8</isbn>
+<isbn>978-3-031-23821-5</isbn>
+<ee>https://doi.org/10.1007/978-3-031-23821-5</ee>
+<url>db/conf/carla/carla2022.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/CarneiroBOSN21" mdate="2022-01-04">
+<author pid="220/7391">Andr&#233; Ramos Carneiro</author>
+<author pid="177/2482">Jean Luca Bez</author>
+<author pid="76/6443">Carla Osthoff</author>
+<author pid="57/3743">Lucas Mello Schnorr</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<title>HPC Data Storage at a Glance: The Santos Dumont Experience.</title>
+<pages>157-166</pages>
+<year>2021</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD53543.2021.00027</ee>
+<crossref>conf/sbac-pad/2021</crossref>
+<url>db/conf/sbac-pad/sbac-pad2021.html#CarneiroBOSN21</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/CabralOOCBK20" mdate="2023-08-28">
+<author orcid="0000-0003-0467-3424" pid="179/6870">Frederico Lu&#237;s Cabral</author>
+<author orcid="0000-0003-4863-542X" pid="10/51">Sanderson L. Gonzaga de Oliveira</author>
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author pid="209/7036">Gabriel P. Costa</author>
+<author orcid="0000-0003-3874-784X" pid="88/8768">Diego N. Brand&#227;o</author>
+<author pid="50/10">Mauricio Kischinhevsky</author>
+<title>An evaluation of MPI and OpenMP paradigms in finite-difference explicit methods for PDEs on shared-memory multi- and manycore systems.</title>
+<year>2020</year>
+<volume>32</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>20</number>
+<ee>https://doi.org/10.1002/cpe.5642</ee>
+<ee>https://www.wikidata.org/entity/Q114237991</ee>
+<url>db/journals/concurrency/concurrency32.html#CabralOOCBK20</url>
+</article>
+</r>
+<r><article key="journals/fgcs/OcanaGOGPGOV20" mdate="2025-03-03">
+<author orcid="0000-0002-2151-7418" pid="75/2286">Kary A. C. S. Oca&#241;a</author>
+<author pid="244/3660">Marcelo Galheigo</author>
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author orcid="0000-0002-8122-9522" pid="63/1981">Luiz M. R. Gadelha Jr.</author>
+<author pid="p/FabioPorto">F&#225;bio Porto 0001</author>
+<author orcid="0000-0002-0746-4014" pid="96/1748">Ant&#244;nio Tadeu A. Gomes</author>
+<author pid="68/7553-1">Daniel de Oliveira 0001</author>
+<author pid="v/AnaTerezaRVasconcelos">Ana Tereza Ribeiro de Vasconcelos</author>
+<title>BioinfoPortal: A scientific gateway for integrating bioinformatics applications on the Brazilian national high-performance computing network.</title>
+<pages>192-214</pages>
+<year>2020</year>
+<volume>107</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2020.01.030</ee>
+<url>db/journals/fgcs/fgcs107.html#OcanaGOGPGOV20</url>
+</article>
+</r>
+<r><article key="journals/ijhpca/BezCPGBFODMN20" mdate="2025-01-19">
+<author orcid="0000-0002-3915-1135" pid="177/2482">Jean Luca Bez</author>
+<author pid="220/7391">Andre Ramos Carneiro</author>
+<author pid="238/4989">Pablo Jos&#233; Pavan</author>
+<author orcid="0000-0003-1685-7722" pid="260/9142">Val&#233;ria Soldera Girelli</author>
+<author pid="99/9377">Francieli Zanon Boito</author>
+<author pid="220/7396">Bruno Alves Fagundes</author>
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author orcid="0000-0002-4051-2962" pid="37/2809">Pedro Leite da Silva Dias</author>
+<author orcid="0000-0003-1047-7462" pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<title>I/O performance of the Santos Dumont supercomputer.</title>
+<year>2020</year>
+<volume>34</volume>
+<journal>Int. J. High Perform. Comput. Appl.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1177/1094342019868526</ee>
+<ee>https://www.wikidata.org/entity/Q127253610</ee>
+<url>db/journals/ijhpca/ijhpca34.html#BezCPGBFODMN20</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccsa/RobainaOKOS20" mdate="2022-08-08">
+<author pid="70/8769">Diogo T. Robaina</author>
+<author pid="10/51">Sanderson L. Gonzaga de Oliveira</author>
+<author pid="50/10">Mauricio Kischinhevsky</author>
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author pid="73/1177">Alexandre da Costa Sena</author>
+<title>A Convergence Analysis of a Multistep Method Applied to an Advection-Diffusion Equation in 1-D.</title>
+<pages>3-18</pages>
+<year>2020</year>
+<booktitle>ICCSA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58799-4_1</ee>
+<crossref>conf/iccsa/2020-1</crossref>
+<url>db/conf/iccsa/iccsa2020-1.html#RobainaOKOS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccsa/OliveiraCO20" mdate="2022-04-09">
+<author pid="10/51">Sanderson L. Gonzaga de Oliveira</author>
+<author pid="92/6905">C. Carvalho</author>
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<title>The Influence of Reordering Algorithms on the Convergence of a Preconditioned Restarted GMRES Method.</title>
+<pages>19-32</pages>
+<year>2020</year>
+<booktitle>ICCSA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58799-4_2</ee>
+<crossref>conf/iccsa/2020-1</crossref>
+<url>db/conf/iccsa/iccsa2020-1.html#OliveiraCO20</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/wscad/2018s" mdate="2020-02-14">
+<editor orcid="0000-0001-7683-3437" pid="223/4725">Calebe P. Bianchini</editor>
+<editor orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</editor>
+<editor orcid="0000-0002-1560-2704" pid="96/5652">Paulo Souza 0001</editor>
+<editor pid="234/5964">Renato Ferreira</editor>
+<title>High Performance Computing Systems - 19th Symposium, WSCAD 2018, S&#227;o Paulo, Brazil, October 1-3, 2018, Revised Selected Papers</title>
+<booktitle>WSCAD (Selected Papers)</booktitle>
+<publisher>Springer</publisher>
+<year>2020</year>
+<series href="db/series/ccis/index.html">Communications in Computer and Information Science</series>
+<volume>1171</volume>
+<isbn>978-3-030-41049-0</isbn>
+<isbn>978-3-030-41050-6</isbn>
+<ee>https://doi.org/10.1007/978-3-030-41050-6</ee>
+<url>db/conf/wscad/wscad2018s.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/carla/OcanaOCGCO019" mdate="2025-03-03">
+<author orcid="0000-0002-2151-7418" pid="75/2286">Kary A. C. S. Oca&#241;a</author>
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author orcid="0000-0003-0293-8564" pid="258/3990">Micaella Coelho</author>
+<author pid="244/3660">Marcelo Galheigo</author>
+<author pid="258/4026">Isabela Canuto</author>
+<author pid="54/8935">Douglas E. M. de Oliveira</author>
+<author orcid="0000-0001-9346-7651" pid="68/7553-1">Daniel de Oliveira 0001</author>
+<title>Performance Evaluation of Parallel Inference of Large Phylogenetic Trees in Santos Dumont Supercomputer: A Practical Approach.</title>
+<pages>448-463</pages>
+<year>2019</year>
+<booktitle>CARLA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-41005-6_31</ee>
+<crossref>conf/carla/2019</crossref>
+<url>db/conf/carla/carla2019.html#OcanaOCGCO019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccgrid/GautherotGOGGOP19" mdate="2022-03-04">
+<author orcid="0000-0002-2151-7418" pid="75/2286">Kary Ann del Carmen Oca&#241;a Gautherot</author>
+<author pid="244/3660">Marcelo Galheigo</author>
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author orcid="0000-0002-8122-9522" pid="63/1981">Luiz M. R. Gadelha Jr.</author>
+<author orcid="0000-0002-0746-4014" pid="96/1748">Ant&#244;nio Tadeu A. Gomes</author>
+<author pid="68/7553-1">Daniel de Oliveira 0001</author>
+<author pid="p/FabioPorto">F&#225;bio Porto 0001</author>
+<author pid="v/AnaTerezaRVasconcelos">Ana Tereza Ribeiro de Vasconcelos</author>
+<title>Towards a Science Gateway for Bioinformatics: Experiences in the Brazilian System of High Performance Computing.</title>
+<pages>638-647</pages>
+<year>2019</year>
+<booktitle>CCGRID</booktitle>
+<ee>https://doi.org/10.1109/CCGRID.2019.00082</ee>
+<crossref>conf/ccgrid/2019</crossref>
+<url>db/conf/ccgrid/ccgrid2019.html#GautherotGOGGOP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccsa/OliveiraAOO19" mdate="2024-07-18">
+<author pid="10/51">Sanderson L. Gonzaga de Oliveira</author>
+<author pid="182/5254">Alexandre Augusto Alberto Moreira de Abreu</author>
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author pid="243/7327">L. N. Henderson Guedes de Oliveira</author>
+<title>A Variant of the George-Liu Algorithm.</title>
+<pages>3-12</pages>
+<year>2019</year>
+<booktitle>ICCSA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-24289-3_1</ee>
+<crossref>conf/iccsa/2019-1</crossref>
+<url>db/conf/iccsa/iccsa2019-1.html#OliveiraAOO19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccsa/OliveiraOO19" mdate="2020-03-27">
+<author pid="10/51">Sanderson L. Gonzaga de Oliveira</author>
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author pid="243/7327">L. N. Henderson Guedes de Oliveira</author>
+<title>An Experimental Analysis of Heuristics for Profile Reduction.</title>
+<pages>25-36</pages>
+<year>2019</year>
+<booktitle>ICCSA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-24289-3_3</ee>
+<crossref>conf/iccsa/2019-1</crossref>
+<url>db/conf/iccsa/iccsa2019-1.html#OliveiraOO19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/OliveiraCO19" mdate="2020-02-25">
+<author pid="10/51">Sanderson L. Gonzaga de Oliveira</author>
+<author pid="01/5042">Cl&#225;udio Carvalho</author>
+<author pid="76/6443">Carla Osthoff</author>
+<title>The Effect of Symmetric Permutations on the Convergence of a Restarted GMRES Solver with ILU-Type Preconditioners.</title>
+<pages>3219-3230</pages>
+<year>2019</year>
+<booktitle>WSC</booktitle>
+<ee>https://doi.org/10.1109/WSC40007.2019.9004742</ee>
+<crossref>conf/wsc/2019</crossref>
+<url>db/conf/wsc/wsc2019.html#OliveiraCO19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/RobainaOKOS19" mdate="2022-08-08">
+<author pid="70/8769">Diogo T. Robaina</author>
+<author pid="10/51">Sanderson L. Gonzaga de Oliveira</author>
+<author pid="50/10">Mauricio Kischinhevsky</author>
+<author pid="76/6443">Carla Osthoff</author>
+<author pid="73/1177">Alexandre da Costa Sena</author>
+<title>Numerical Simulations of the 1-D Modified Burgers Equation.</title>
+<pages>3231-3242</pages>
+<year>2019</year>
+<booktitle>WSC</booktitle>
+<ee>https://doi.org/10.1109/WSC40007.2019.9004661</ee>
+<crossref>conf/wsc/2019</crossref>
+<url>db/conf/wsc/wsc2019.html#RobainaOKOS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/carla/CabralOSCOBK18" mdate="2022-12-07">
+<author pid="179/6870">Frederico Lu&#237;s Cabral</author>
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author pid="179/6860">Roberto Pinto Souto</author>
+<author pid="209/7036">Gabriel P. Costa</author>
+<author pid="10/51">Sanderson L. Gonzaga de Oliveira</author>
+<author orcid="0000-0003-3874-784X" pid="88/8768">Diego N. Brand&#227;o</author>
+<author pid="50/10">Mauricio Kischinhevsky</author>
+<title>Fine-Tuning an OpenMP-Based TVD-Hopmoc Method Using Intel&#174; Parallel Studio XE Tools on Intel&#174; Xeon&#174; Architectures.</title>
+<pages>194-209</pages>
+<year>2018</year>
+<booktitle>CARLA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-16205-4_15</ee>
+<crossref>conf/carla/2018</crossref>
+<url>db/conf/carla/carla2018.html#CabralOSCOBK18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccS/CabralOCOBK18" mdate="2022-12-07">
+<author pid="179/6870">Frederico Lu&#237;s Cabral</author>
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author pid="209/7036">Gabriel P. Costa</author>
+<author pid="10/51">Sanderson L. Gonzaga de Oliveira</author>
+<author orcid="0000-0003-3874-784X" pid="88/8768">Diego N. Brand&#227;o</author>
+<author pid="50/10">Mauricio Kischinhevsky</author>
+<title>An OpenMP Implementation of the TVD-Hopmoc Method Based on a Synchronization Mechanism Using Locks Between Adjacent Threads on Xeon Phi (TM) Accelerators.</title>
+<pages>701-707</pages>
+<year>2018</year>
+<booktitle>ICCS (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93713-7_67</ee>
+<crossref>conf/iccS/2018-3</crossref>
+<url>db/conf/iccS/iccS2018-3.html#CabralOCOBK18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccsa/BrandaoOKOC18" mdate="2018-07-10">
+<author orcid="0000-0003-3874-784X" pid="88/8768">Diego N. Brand&#227;o</author>
+<author orcid="0000-0003-4863-542X" pid="10/51">Sanderson L. Gonzaga de Oliveira</author>
+<author orcid="0000-0002-6863-5067" pid="50/10">Mauricio Kischinhevsky</author>
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author orcid="0000-0003-0467-3424" pid="179/6870">Frederico Lu&#237;s Cabral</author>
+<title>A Total Variation Diminishing Hopmoc Scheme for Numerical Time Integration of Evolutionary Differential Equations.</title>
+<pages>53-66</pages>
+<year>2018</year>
+<booktitle>ICCSA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-95162-1_4</ee>
+<crossref>conf/iccsa/2018-1</crossref>
+<url>db/conf/iccsa/iccsa2018-1.html#BrandaoOKOC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/CarneiroBBFON18" mdate="2023-09-30">
+<author pid="220/7391">Andre Ramos Carneiro</author>
+<author orcid="0000-0002-3915-1135" pid="177/2482">Jean Luca Bez</author>
+<author pid="99/9377">Francieli Zanon Boito</author>
+<author pid="220/7396">Bruno Alves Fagundes</author>
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<title>Collective I/O Performance on the Santos Dumont Supercomputer.</title>
+<pages>45-52</pages>
+<year>2018</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP2018.2018.00015</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PDP2018.2018.00015</ee>
+<crossref>conf/pdp/2018</crossref>
+<url>db/conf/pdp/pdp2018.html#CarneiroBBFON18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vecpar/CabralOSCOBK18" mdate="2022-12-07">
+<author pid="179/6870">Frederico Lu&#237;s Cabral</author>
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author pid="179/6860">Roberto Pinto Souto</author>
+<author pid="209/7036">Gabriel P. Costa</author>
+<author pid="10/51">Sanderson L. Gonzaga de Oliveira</author>
+<author orcid="0000-0003-3874-784X" pid="88/8768">Diego N. Brand&#227;o</author>
+<author pid="50/10">Mauricio Kischinhevsky</author>
+<title>An Improved OpenMP Implementation of the TVD-Hopmoc Method Based on a Cluster of Points.</title>
+<pages>132-145</pages>
+<year>2018</year>
+<booktitle>VECPAR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-15996-2_10</ee>
+<crossref>conf/vecpar/2018</crossref>
+<url>db/conf/vecpar/vecpar2018.html#CabralOSCOBK18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wscad/TeixeiraCOBS18" mdate="2020-03-27">
+<author pid="12/6785">Thiago Teixeira</author>
+<author pid="179/6870">Frederico Lu&#237;s Cabral</author>
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author pid="244/1373">Marcio Rentes Borges</author>
+<author pid="179/6860">Roberto Pinto Souto</author>
+<title>Analysis of Optimization Opportunities for Intel Xeon Phi and Intel Xeon Scalable Processors Environments of a Numerical Method for the Biphasic Flow of Fluids in Porous Media.</title>
+<pages>237-242</pages>
+<year>2018</year>
+<booktitle>WSCAD</booktitle>
+<ee>https://doi.org/10.1109/WSCAD.2018.00044</ee>
+<crossref>conf/wscad/2018</crossref>
+<url>db/conf/wscad/wscad2018.html#TeixeiraCOBS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/carla/Sanchez-TapiaSL17" mdate="2020-10-25">
+<author orcid="0000-0002-3521-4338" pid="211/5911">Andrea S&#225;nchez-Tapia</author>
+<author orcid="0000-0002-6869-0293" pid="39/2925">Marinez Ferreira de Siqueira</author>
+<author pid="211/5909">Rafael Oliveira Lima</author>
+<author pid="172/8116">Felipe Sodr&#233; M. Barros</author>
+<author pid="211/5908">Guilherme M. Gall</author>
+<author orcid="0000-0002-8122-9522" pid="63/1981">Luiz M. R. Gadelha Jr.</author>
+<author pid="172/8325">Lu&#237;s Alexandre Estev&#227;o da Silva</author>
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<title>Model-R: A Framework for Scalable and Reproducible Ecological Niche Modeling.</title>
+<pages>218-232</pages>
+<year>2017</year>
+<booktitle>CARLA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-73353-1_15</ee>
+<ee>https://www.wikidata.org/entity/Q57046351</ee>
+<crossref>conf/carla/2017</crossref>
+<url>db/conf/carla/carla2017.html#Sanchez-TapiaSL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/CabralOCBKO17" mdate="2023-03-23">
+<author pid="179/6870">Frederico Lu&#237;s Cabral</author>
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author pid="209/7036">Gabriel P. Costa</author>
+<author orcid="0000-0003-3874-784X" pid="88/8768">Diego N. Brand&#227;o</author>
+<author pid="50/10">Mauricio Kischinhevsky</author>
+<author pid="10/51">Sanderson L. Gonzaga de Oliveira</author>
+<title>Tuning Up TVD HOPMOC Method on Intel MIC Xeon Phi Architectures with Intel Parallel Studio Tools.</title>
+<pages>19-24</pages>
+<year>2017</year>
+<booktitle>SBAC-PAD (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PADW.2017.12</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PADW.2017.12</ee>
+<crossref>conf/sbac-pad/2017w</crossref>
+<url>db/conf/sbac-pad/sbac-pad2017w.html#CabralOCBKO17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/SilvaWOAZ16" mdate="2020-03-12">
+<author pid="251/2435">Daniel Nascimento Ramos da Silva</author>
+<author pid="49/9059">Klaus Wehmuth</author>
+<author pid="76/6443">Carla Osthoff</author>
+<author pid="00/4729">Ana Paula Appel</author>
+<author pid="47/772">Artur Ziviani</author>
+<title>An&#225;lise de Desempenho de Plataformas de Processamento de Grafos.</title>
+<pages>16-27</pages>
+<year>2016</year>
+<booktitle>SBBD</booktitle>
+<ee type="oa">http://sbbd2016.fpc.ufba.br/sbbd2016/sbbd/sbbd_f001.pdf</ee>
+<crossref>conf/sbbd/2016</crossref>
+<url>db/conf/sbbd/sbbd2016.html#SilvaWOAZ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/carla/CabralOBK15" mdate="2022-12-07">
+<author pid="179/6870">Frederico Lu&#237;s Cabral</author>
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author orcid="0000-0003-3874-784X" pid="88/8768">Diego N. Brand&#227;o</author>
+<author pid="50/10">Mauricio Kischinhevsky</author>
+<title>Fine-Tuning Xeon Architecture Vectorization and Parallelization of a Numerical Method for Convection-Diffusion Equations.</title>
+<pages>131-144</pages>
+<year>2015</year>
+<booktitle>CARLA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-26928-3_10</ee>
+<crossref>conf/carla/2015</crossref>
+<url>db/conf/carla/carla2015.html#CabralOBK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/CabralORN15" mdate="2023-03-23">
+<author pid="179/6870">Frederico Lu&#237;s Cabral</author>
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author pid="15/1367">Daniel Ramos</author>
+<author pid="177/2484">Rafael Nardes</author>
+<title>MDACCER: Modified Distributed Assessment of the Closeness CEntrality Ranking in Complex Networks for Massively Parallel Environments.</title>
+<pages>43-48</pages>
+<year>2015</year>
+<booktitle>SBAC-PAD (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PADW.2015.28</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PADW.2015.28</ee>
+<crossref>conf/sbac-pad/2015w</crossref>
+<url>db/conf/sbac-pad/sbac-pad2015w.html#CabralORN15</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/carla/2015" mdate="2020-03-19">
+<editor pid="76/6443">Carla Osthoff</editor>
+<editor pid="74/1262">Philippe Olivier Alexandre Navaux</editor>
+<editor pid="179/6857">Carlos Jaime Barrios Hern&#225;ndez</editor>
+<editor pid="37/2809">Pedro Leite da Silva Dias</editor>
+<title>High Performance Computing - Second Latin American Conference, CARLA 2015, Petr&#243;polis, Brazil, August 26-28, 2015, Proceedings</title>
+<booktitle>CARLA</booktitle>
+<publisher>Springer</publisher>
+<year>2015</year>
+<series href="db/series/ccis/index.html">Communications in Computer and Information Science</series>
+<volume>565</volume>
+<isbn>978-3-319-26927-6</isbn>
+<ee>https://doi.org/10.1007/978-3-319-26928-3</ee>
+<url>db/conf/carla/carla2015.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/iccsa/CabralOKB14" mdate="2023-03-24">
+<author pid="179/6870">Frederico Lu&#237;s Cabral</author>
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author pid="50/10">Mauricio Kischinhevsky</author>
+<author orcid="0000-0003-3874-784X" pid="88/8768">Diego N. Brand&#227;o</author>
+<title>Hybrid MPI/OpenMP/OpenACC Implementations for the Solution of Convection-Diffusion Equations with the HOPMOC Method.</title>
+<pages>196-199</pages>
+<year>2014</year>
+<booktitle>ICCSA (Workshops/Short Papers/Posters)</booktitle>
+<ee>https://doi.org/10.1109/ICCSA.2014.44</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICCSA.2014.44</ee>
+<crossref>conf/iccsa/2014-w</crossref>
+<url>db/conf/iccsa/iccsa2014-w.html#CabralOKB14</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijitcc/OsthoffBKPNSPGMDW12" mdate="2020-06-04">
+<author pid="76/6443">Carla Osthoff</author>
+<author pid="99/9377">Francieli Zanon Boito</author>
+<author pid="15/3219">Rodrigo Virote Kassick</author>
+<author pid="75/2582">La&#233;rcio Lima Pilla</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<author pid="79/5559">Claudio Schepke</author>
+<author pid="39/5694">Jairo Panetta</author>
+<author pid="43/10076">Pablo Javier Grunmann</author>
+<author pid="58/1754">Nicolas Maillard</author>
+<author pid="37/2809">Pedro Leite da Silva Dias</author>
+<author pid="73/10076">Robert L. Walko</author>
+<title>Atmospheric models hybrid OpenMP/MPI implementation multicore cluster evaluation.</title>
+<pages>212-233</pages>
+<year>2012</year>
+<volume>2</volume>
+<journal>Int. J. Inf. Technol. Commun. Convergence</journal>
+<number>3</number>
+<ee>https://doi.org/10.1504/IJITCC.2012.050411</ee>
+<url>db/journals/ijitcc/ijitcc2.html#OsthoffBKPNSPGMDW12</url>
+</article>
+</r>
+<r><inproceedings key="conf/sccc/OsthoffSDPL12" mdate="2023-03-23">
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author orcid="0000-0002-2081-0751" pid="179/6860">Roberto Pinto Souto</author>
+<author orcid="0000-0002-4051-2962" pid="37/2809">Pedro Leite da Silva Dias</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author pid="161/5375">Pedro Pais Lopes</author>
+<title>Atmospheric Model Cluster Performance Evaluation on Hybrid MPI/OpenMP/Cuda Programming Model Platform.</title>
+<pages>216-222</pages>
+<year>2012</year>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.2012.32</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCCC.2012.32</ee>
+<crossref>conf/sccc/2012</crossref>
+<url>db/conf/sccc/sccc2012.html#OsthoffSDPL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispa/OsthoffGBKPNSPMDW11" mdate="2023-09-30">
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author pid="43/10076">Pablo Javier Grunmann</author>
+<author pid="99/9377">Francieli Zanon Boito</author>
+<author pid="15/3219">Rodrigo Kassick</author>
+<author orcid="0000-0003-0997-586X" pid="75/2582">La&#233;rcio Lima Pilla</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<author orcid="0000-0003-4118-8831" pid="79/5559">Claudio Schepke</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author orcid="0000-0002-4051-2962" pid="37/2809">Pedro Leite da Silva Dias</author>
+<author pid="73/10076">Robert L. Walko</author>
+<title>Improving Performance on Atmospheric Models through a Hybrid OpenMP/MPI Implementation.</title>
+<pages>69-74</pages>
+<year>2011</year>
+<booktitle>ISPA</booktitle>
+<ee>https://doi.org/10.1109/ISPA.2011.56</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISPA.2011.56</ee>
+<crossref>conf/ispa/2011</crossref>
+<url>db/conf/ispa/ispa2011.html#OsthoffGBKPNSPMDW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/OsthoffSPGMNDL10" mdate="2023-09-30">
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author orcid="0000-0003-4118-8831" pid="79/5559">Claudio Schepke</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author pid="43/10076">Pablo Javier Grunmann</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<author orcid="0000-0002-4051-2962" pid="37/2809">Pedro Leite da Silva Dias</author>
+<author pid="161/5375">Pedro Pais Lopes</author>
+<title>I/O Performance Evaluation on Multicore Clusters with Atmospheric Model Environment.</title>
+<pages>49-54</pages>
+<year>2010</year>
+<booktitle>SBAC-PAD (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PADW.2010.15</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PADW.2010.15</ee>
+<crossref>conf/sbac-pad/2010w</crossref>
+<url>db/conf/sbac-pad/sbac-pad2010w.html#OsthoffSPGMNDL10</url>
+</inproceedings>
+</r>
+<r><article key="journals/jcc/AgostiniSMOP06" mdate="2021-10-14">
+<author pid="94/1211">Flavia P. Agostini</author>
+<author orcid="0000-0002-4293-6144" pid="20/6215">Diogo De O. Soares-Pinto</author>
+<author pid="16/393">Marcelo A. Moret</author>
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author orcid="0000-0002-5454-560X" pid="281/9108">Pedro Geraldo Pascutti</author>
+<title>Generalized simulated annealing applied to protein folding studies.</title>
+<pages>1142-1155</pages>
+<year>2006</year>
+<volume>27</volume>
+<journal>J. Comput. Chem.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1002/jcc.20428</ee>
+<ee>https://www.wikidata.org/entity/Q83865966</ee>
+<url>db/journals/jcc/jcc27.html#AgostiniSMOP06</url>
+</article>
+</r>
+<r><inproceedings key="conf/vecpar/VassalloOOBSS06" mdate="2022-04-09">
+<author pid="94/2187">Alexandre Vassallo</author>
+<author pid="25/6512">Cristiane Oliveira</author>
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author pid="23/2399">Halisson Brito</author>
+<author pid="92/5960">Julia Celia M. Strauch</author>
+<author pid="m/JMoreiradeSouza">Jano Moreira de Souza</author>
+<title>Execution Management of Scientific Models on Computational Grids.</title>
+<pages>670-678</pages>
+<year>2006</year>
+<crossref>conf/vecpar/2006</crossref>
+<booktitle>VECPAR</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-71351-7_53</ee>
+<url>db/conf/vecpar/vecpar2006.html#VassalloOOBSS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/BritoSSO05" mdate="2012-09-18">
+<author pid="23/2399">Halisson Brito</author>
+<author pid="92/5960">Julia Celia M. Strauch</author>
+<author pid="m/JMoreiradeSouza">Jano Moreira de Souza</author>
+<author pid="76/6443">Carla Osthoff</author>
+<title>Scientific Models Management in Computational Grids.</title>
+<pages>113-116</pages>
+<year>2005</year>
+<crossref>conf/ssdbm/2005</crossref>
+<booktitle>SSDBM</booktitle>
+<url>db/conf/ssdbm/ssdbm2005.html#BritoSSO05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wob/WilterOOGHDBLNP05" mdate="2023-09-30">
+<author pid="79/791">Alan Wilter</author>
+<author pid="76/6443">Carla Osthoff</author>
+<author pid="25/6512">Cristiane Oliveira</author>
+<author orcid="0000-0003-4855-040X" pid="276/0799">Diego Enry Barreto Gomes</author>
+<author pid="44/5919">Eduardo Hill</author>
+<author pid="56/3189">Laurent Emmanuel Dardenne</author>
+<author pid="69/1418">Patr&#237;cia M. Barros</author>
+<author pid="87/2432">Pedro A. A. G. L. Loureiro</author>
+<author pid="16/1128">Reynaldo Novaes</author>
+<author pid="281/9108">Pedro Geraldo Pascutti</author>
+<title>The BioPAU&#193; Project: A Portal for Molecular Dynamics Using Grid Environment.</title>
+<pages>214-217</pages>
+<year>2005</year>
+<crossref>conf/wob/2005</crossref>
+<booktitle>BSB</booktitle>
+<ee>https://doi.org/10.1007/11532323_26</ee>
+<url>db/conf/wob/bsb2005.html#WilterOOGHDBLNP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wob/AgostiniOPVP03" mdate="2021-03-11">
+<author pid="94/1211">Flavia P. Agostini</author>
+<author pid="76/6443">Carla Osthoff</author>
+<author pid="281/9108">Pedro Geraldo Pascutti</author>
+<author pid="01/5212">Alex Vassalo</author>
+<author pid="77/5982">Diogo Pinto</author>
+<title>A Grid Alternative Solution for Protein Folding Studies Applications.</title>
+<pages>145-148</pages>
+<year>2003</year>
+<crossref>conf/wob/2003</crossref>
+<booktitle>WOB</booktitle>
+<url>db/conf/wob/wob2003.html#AgostiniOPVP03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wob/VeronezOP03" mdate="2021-03-11">
+<author pid="74/2574">Cleverson Veronez</author>
+<author pid="76/6443">Carla Osthoff</author>
+<author pid="281/9108">Pedro Geraldo Pascutti</author>
+<title>HIV-I Protease Mutants Molecular Dynamics Research on Grid Computing Environment.</title>
+<pages>161-164</pages>
+<year>2003</year>
+<crossref>conf/wob/2003</crossref>
+<booktitle>WOB</booktitle>
+<url>db/conf/wob/wob2003.html#VeronezOP03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oois/OsthoffBAMA02" mdate="2024-05-07">
+<author orcid="0000-0002-4694-7182" pid="76/6443">Carla Osthoff</author>
+<author pid="b/CristianaBentes">Cristiana Bentes</author>
+<author pid="29/1893">Daniel Ariosto</author>
+<author orcid="0000-0002-0870-3371" pid="m/MartaLQueirosMattoso">Marta Mattoso</author>
+<author pid="05/439">Claudio Luis de Amorim</author>
+<title>Evaluating the DSMIO Cache-Coherence Algorithm in Cluster-Based Parallel ODBMS.</title>
+<pages>286-297</pages>
+<year>2002</year>
+<crossref>conf/oois/2002</crossref>
+<booktitle>OOIS</booktitle>
+<ee>https://doi.org/10.1007/3-540-46102-7_33</ee>
+<url>db/conf/oois/oois2002.html#OsthoffBAMA02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/OsthoffBAMA02" mdate="2003-11-27">
+<author pid="76/6443">Carla Osthoff</author>
+<author pid="b/CristianaBentes">Cristiana Bentes</author>
+<author pid="29/1893">Daniel Ariosto</author>
+<author pid="m/MartaLQueirosMattoso">Marta Mattoso</author>
+<author pid="05/439">Claudio Luis de Amorim</author>
+<title>Avalia&#231;&#227;o de Sistemas de Coer&#234;ncia de Cache em Arquiteturas ODBMs Cliente-Servidor.</title>
+<pages>68-82</pages>
+<year>2002</year>
+<crossref>conf/sbbd/2002</crossref>
+<booktitle>SBBD</booktitle>
+<url>db/conf/sbbd/sbbd2002.html#OsthoffBAMA02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/OsthoffMSBA00" mdate="2003-10-06">
+<author pid="76/6443">Carla Osthoff</author>
+<author pid="m/MartaLQueirosMattoso">Marta Mattoso</author>
+<author pid="b/CristianaBentes">Cristiana Bentes Seidel</author>
+<author pid="85/2722">Ricardo Bianchini</author>
+<author pid="05/439">Claudio Luis de Amorim</author>
+<title>Avalia&#231;&#227;o do Algoritmo de Coer&#234;ncia de Cache de Disco DSMIO.</title>
+<pages>273-286</pages>
+<year>2000</year>
+<crossref>conf/sbbd/2000</crossref>
+<booktitle>SBBD</booktitle>
+<url>db/conf/sbbd/sbbd2000.html#OsthoffMSBA00</url>
+</inproceedings>
+</r>
+<coauthors n="94" nc="2">
+<co c="0"><na f="a/Abreu:Alexandre_Augusto_Alberto_Moreira_de" pid="182/5254">Alexandre Augusto Alberto Moreira de Abreu</na></co>
+<co c="0"><na f="a/Agostini:Flavia_P=" pid="94/1211">Flavia P. Agostini</na></co>
+<co c="0"><na f="a/Amorim:Claudio_Luis_de" pid="05/439">Claudio Luis de Amorim</na></co>
+<co c="0"><na f="a/Appel:Ana_Paula" pid="00/4729">Ana Paula Appel</na></co>
+<co c="0"><na f="a/Ariosto:Daniel" pid="29/1893">Daniel Ariosto</na></co>
+<co c="0"><na f="b/Barros:Felipe_Sodr=eacute=_M=" pid="172/8116">Felipe Sodr&#233; M. Barros</na></co>
+<co c="0"><na f="b/Barros:Patr=iacute=cia_M=" pid="69/1418">Patr&#237;cia M. Barros</na></co>
+<co c="0" n="2"><na f="b/Bentes:Cristiana" pid="b/CristianaBentes">Cristiana Bentes</na><na>Cristiana Bentes Seidel</na></co>
+<co c="0"><na f="b/Bez:Jean_Luca" pid="177/2482">Jean Luca Bez</na></co>
+<co c="1" n="2"><na f="b/Bianchini:Calebe_de_Paula" pid="223/4725">Calebe de Paula Bianchini</na><na>Calebe P. Bianchini</na></co>
+<co c="0"><na f="b/Bianchini:Ricardo" pid="85/2722">Ricardo Bianchini</na></co>
+<co c="0" n="2"><na f="b/Boito:Francieli_Zanon" pid="99/9377">Francieli Zanon Boito</na><na>Francieli Boito</na></co>
+<co c="0"><na f="b/Borges:Marcio_Rentes" pid="244/1373">Marcio Rentes Borges</na></co>
+<co c="0"><na f="b/Brand=atilde=o:Diego_N=" pid="88/8768">Diego N. Brand&#227;o</na></co>
+<co c="0"><na f="b/Brito:Halisson" pid="23/2399">Halisson Brito</na></co>
+<co c="0"><na f="c/Cabral:Frederico_Lu=iacute=s" pid="179/6870">Frederico Lu&#237;s Cabral</na></co>
+<co c="0"><na f="c/Canuto:Isabela" pid="258/4026">Isabela Canuto</na></co>
+<co c="0"><na f="c/Cardoso:Douglas_de_O=" pid="72/10829">Douglas de O. Cardoso</na></co>
+<co c="0" n="2"><na f="c/Carneiro:Andre_Ramos" pid="220/7391">Andre Ramos Carneiro</na><na>Andr&#233; Ramos Carneiro</na></co>
+<co c="0"><na f="c/Carvalho:C=" pid="92/6905">C. Carvalho</na></co>
+<co c="0"><na f="c/Carvalho:Cl=aacute=udio" pid="01/5042">Cl&#225;udio Carvalho</na></co>
+<co c="0"><na f="c/Carvalho_0001:Diego" pid="06/9562-1">Diego Carvalho 0001</na></co>
+<co c="0"><na f="c/Coelho:Micaella" pid="258/3990">Micaella Coelho</na></co>
+<co c="0"><na f="c/Costa:Gabriel_P=" pid="209/7036">Gabriel P. Costa</na></co>
+<co c="0"><na f="c/Cruz:Lucas" pid="335/9913">Lucas Cruz</na></co>
+<co c="0"><na f="d/Dardenne:Laurent_Emmanuel" pid="56/3189">Laurent Emmanuel Dardenne</na></co>
+<co c="0"><na f="d/Dias:Pedro_Leite_da_Silva" pid="37/2809">Pedro Leite da Silva Dias</na></co>
+<co c="0"><na f="f/Fagundes:Bruno_Alves" pid="220/7396">Bruno Alves Fagundes</na></co>
+<co c="1"><na f="f/Ferreira:Renato" pid="234/5964">Renato Ferreira</na></co>
+<co c="0"><na f="f/Furtado:Helaine_Cristina_Morais" pid="204/2887">Helaine Cristina Morais Furtado</na></co>
+<co c="0"><na f="g/Gadelha_Jr=:Luiz_M=_R=" pid="63/1981">Luiz M. R. Gadelha Jr.</na></co>
+<co c="0"><na f="g/Galheigo:Marcelo" pid="244/3660">Marcelo Galheigo</na></co>
+<co c="0"><na f="g/Gall:Guilherme_M=" pid="211/5908">Guilherme M. Gall</na></co>
+<co c="0"><na f="g/Girelli:Val=eacute=ria_Soldera" pid="260/9142">Val&#233;ria Soldera Girelli</na></co>
+<co c="0"><na f="g/Gomes:Ant=ocirc=nio_Tadeu_A=" pid="96/1748">Ant&#244;nio Tadeu A. Gomes</na></co>
+<co c="0"><na f="g/Gomes:Diego_Enry_Barreto" pid="276/0799">Diego Enry Barreto Gomes</na></co>
+<co c="0"><na f="g/Grunmann:Pablo_Javier" pid="43/10076">Pablo Javier Grunmann</na></co>
+<co c="0"><na f="g/Guerrero:Gin=eacute=s_D=" pid="44/7795">Gin&#233;s D. Guerrero</na></co>
+<co c="0" n="2"><na f="h/Hern=aacute=ndez:Carlos_Jaime_Barrios" pid="179/6857">Carlos Jaime Barrios Hern&#225;ndez</na><na>Carlos J. Barrios</na></co>
+<co c="0"><na f="h/Hill:Eduardo" pid="44/5919">Eduardo Hill</na></co>
+<co c="0" n="2"><na f="k/Kassick:Rodrigo" pid="15/3219">Rodrigo Kassick</na><na>Rodrigo Virote Kassick</na></co>
+<co c="0"><na f="k/Kischinhevsky:Mauricio" pid="50/10">Mauricio Kischinhevsky</na></co>
+<co c="0"><na f="l/Lima:Rafael_Oliveira" pid="211/5909">Rafael Oliveira Lima</na></co>
+<co c="0"><na f="l/Lopes:Pedro_Pais" pid="161/5375">Pedro Pais Lopes</na></co>
+<co c="0"><na f="l/Loureiro:Pedro_A=_A=_G=_L=" pid="87/2432">Pedro A. A. G. L. Loureiro</na></co>
+<co c="0"><na f="m/Maillard:Nicolas" pid="58/1754">Nicolas Maillard</na></co>
+<co c="0"><na f="m/Mattoso:Marta" pid="m/MartaLQueirosMattoso">Marta Mattoso</na></co>
+<co c="0"><na f="m/M=eacute=haut:Jean=Fran=ccedil=ois" pid="63/4133">Jean-Fran&#231;ois M&#233;haut</na></co>
+<co c="0"><na f="m/Moret:Marcelo_A=" pid="16/393">Marcelo A. Moret</na></co>
+<co c="0"><na f="n/Nardes:Rafael" pid="177/2484">Rafael Nardes</na></co>
+<co c="0" n="2"><na f="n/Navaux:Philippe_Olivier_Alexandre" pid="74/1262">Philippe Olivier Alexandre Navaux</na><na>Philippe O. A. Navaux</na></co>
+<co c="0"><na f="n/Novaes:Reynaldo" pid="16/1128">Reynaldo Novaes</na></co>
+<co c="0" n="2"><na f="o/Oca=ntilde=a:Kary_A=_C=_S=" pid="75/2286">Kary A. C. S. Oca&#241;a</na><na>Kary Ann del Carmen Oca&#241;a Gautherot</na></co>
+<co c="0"><na f="o/Oliveira:Cristiane" pid="25/6512">Cristiane Oliveira</na></co>
+<co c="0"><na f="o/Oliveira_0001:Daniel_de" pid="68/7553-1">Daniel de Oliveira 0001</na></co>
+<co c="0"><na f="o/Oliveira:Douglas_E=_M=_de" pid="54/8935">Douglas E. M. de Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:L=_N=_Henderson_Guedes_de" pid="243/7327">L. N. Henderson Guedes de Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Sanderson_L=_Gonzaga_de" pid="10/51">Sanderson L. Gonzaga de Oliveira</na></co>
+<co c="0"><na f="p/Panetta:Jairo" pid="39/5694">Jairo Panetta</na></co>
+<co c="0"><na f="p/Pascutti:Pedro_Geraldo" pid="281/9108">Pedro Geraldo Pascutti</na></co>
+<co c="0" n="2"><na f="p/Pavan:Pablo_J=" pid="238/4989">Pablo J. Pavan</na><na>Pablo Jos&#233; Pavan</na></co>
+<co c="0"><na f="p/Pilla:La=eacute=rcio_Lima" pid="75/2582">La&#233;rcio Lima Pilla</na></co>
+<co c="0"><na f="p/Pinto:Diogo" pid="77/5982">Diogo Pinto</na></co>
+<co c="0"><na f="p/Porto:Alexandre_H=_L=" pid="50/894">Alexandre H. L. Porto</na></co>
+<co c="0"><na f="p/Porto_0001:F=aacute=bio" pid="p/FabioPorto">F&#225;bio Porto 0001</na></co>
+<co c="0"><na f="r/Ramos:Daniel" pid="15/1367">Daniel Ramos</na></co>
+<co c="0"><na f="r/Ribeiro:Weber" pid="351/2502">Weber Ribeiro</na></co>
+<co c="0"><na f="r/Robaina:Diogo_T=" pid="70/8769">Diogo T. Robaina</na></co>
+<co c="0"><na f="s/Sambatti:Sabrina_B=_M=" pid="321/9168">Sabrina B. M. Sambatti</na></co>
+<co c="0"><na f="s/S=aacute=nchez=Tapia:Andrea" pid="211/5911">Andrea S&#225;nchez-Tapia</na></co>
+<co c="0"><na f="s/Schepke:Claudio" pid="79/5559">Claudio Schepke</na></co>
+<co c="0"><na f="s/Schnorr:Lucas_Mello" pid="57/3743">Lucas Mello Schnorr</na></co>
+<co c="0"><na f="s/Sena:Alexandre_da_Costa" pid="73/1177">Alexandre da Costa Sena</na></co>
+<co c="0"><na f="s/Silva:Daniel_Nascimento_Ramos_da" pid="251/2435">Daniel Nascimento Ramos da Silva</na></co>
+<co c="0"><na f="s/Silva:Lu=iacute=s_Alexandre_Estev=atilde=o_da" pid="172/8325">Lu&#237;s Alexandre Estev&#227;o da Silva</na></co>
+<co c="0"><na f="s/Siqueira:Marinez_Ferreira_de" pid="39/2925">Marinez Ferreira de Siqueira</na></co>
+<co c="0"><na f="s/Soares=Pinto:Diogo_De_O=" pid="20/6215">Diogo De O. Soares-Pinto</na></co>
+<co c="0"><na f="s/Souto:Roberto_Pinto" pid="179/6860">Roberto Pinto Souto</na></co>
+<co c="0"><na f="s/Souza:Jano_Moreira_de" pid="m/JMoreiradeSouza">Jano Moreira de Souza</na></co>
+<co c="1" n="2"><na f="s/Souza:Paulo_Sergio_Lopes_de" pid="96/5652">Paulo Sergio Lopes de Souza</na><na>Paulo Souza 0001</na></co>
+<co c="0"><na f="s/Strauch:Julia_Celia_M=" pid="92/5960">Julia Celia M. Strauch</na></co>
+<co c="0"><na f="t/Taipe:Stiw_Harrison_Herrera" pid="351/2605">Stiw Harrison Herrera Taipe</na></co>
+<co c="0"><na f="t/Teixeira:Thiago" pid="12/6785">Thiago Teixeira</na></co>
+<co c="0"><na f="t/Terra:Rafael" pid="335/9970">Rafael Terra</na></co>
+<co c="0"><na f="v/Vasconcelos:Ana_Tereza_Ribeiro_de" pid="v/AnaTerezaRVasconcelos">Ana Tereza Ribeiro de Vasconcelos</na></co>
+<co c="0"><na f="v/Vassallo:Alexandre" pid="94/2187">Alexandre Vassallo</na></co>
+<co c="0"><na f="v/Vassalo:Alex" pid="01/5212">Alex Vassalo</na></co>
+<co c="0"><na f="v/Velho:Haroldo_F=_de_Campos" pid="91/7660">Haroldo F. de Campos Velho</na></co>
+<co c="0"><na f="v/Veronez:Cleverson" pid="74/2574">Cleverson Veronez</na></co>
+<co c="0"><na f="w/Walko:Robert_L=" pid="73/10076">Robert L. Walko</na></co>
+<co c="0"><na f="w/Wehmuth:Klaus" pid="49/9059">Klaus Wehmuth</na></co>
+<co c="0"><na f="w/Welter:Maria_E=_S=" pid="321/9139">Maria E. S. Welter</na></co>
+<co c="0"><na f="w/Wilter:Alan" pid="79/791">Alan Wilter</na></co>
+<co c="0"><na f="z/Ziviani:Artur" pid="47/772">Artur Ziviani</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,901 @@
+<?xml version="1.0"?>
+<dblpperson name="Eduardo Viegas 0001" pid="120/2495-1" n="56">
+<person key="homepages/120/2495-1" mdate="2023-03-28">
+<author pid="120/2495-1">Eduardo Viegas 0001</author>
+<author pid="120/2495-1">Eduardo K. Viegas</author>
+<author pid="120/2495-1">Eduardo Kugler Viegas</author>
+<note type="affiliation">Technology Innovation Institute, Abu Dhabi, UAE</note>
+<note label="former" type="affiliation">Pontifical Catholic University of Parana, Curitiba, Parana, Brazil</note>
+<url>https://orcid.org/0000-0002-5050-6363</url>
+</person>
+<homonyms n="3">
+<h f="v/Viegas:Eduardo"><name>Eduardo Viegas</name>
+</h>
+<h f="v/Viegas_0002:Eduardo"><person key="homepages/120/2495-2" mdate="2020-11-01">
+<author pid="120/2495-2">Eduardo Viegas 0002</author>
+<note type="affiliation">Imperial College London, UK</note>
+<url>https://orcid.org/0000-0003-2422-0254</url>
+<url>https://www.wikidata.org/entity/Q88498182</url>
+</person>
+</h>
+<h f="v/Viegas_0003:Eduardo"><person key="homepages/120/2495-3" mdate="2020-03-31">
+<author pid="120/2495-3">Eduardo Viegas 0003</author>
+<note type="affiliation">Silicon Laboratories Inc., Austin, TX, USA</note>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/jnca/RodriguesVSE25" mdate="2025-04-01">
+<author pid="401/2167">Miguel G. Rodrigues</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair O. Santin</author>
+<author orcid="0000-0002-1418-3245" pid="90/6263">Fabr&#237;cio Enembreck</author>
+<title>A MLOps architecture for near real-time distributed Stream Learning operation deployment.</title>
+<pages>104169</pages>
+<year>2025</year>
+<volume>238</volume>
+<journal>J. Netw. Comput. Appl.</journal>
+<ee>https://doi.org/10.1016/j.jnca.2025.104169</ee>
+<url>db/journals/jnca/jnca238.html#RodriguesVSE25</url>
+<stream>streams/journals/jnca</stream>
+</article>
+</r>
+<r><inproceedings key="conf/aina/RodriguesVESLF25" mdate="2025-05-07">
+<author pid="401/2167">Miguel G. Rodrigues</author>
+<author pid="120/2495-1">Eduardo K. Viegas</author>
+<author pid="90/6263">Fabr&#237;cio Enembreck</author>
+<author pid="38/5417">Altair O. Santin</author>
+<author pid="404/2539">Juliano S. Langaro</author>
+<author pid="404/1645">Adilson G. Filho</author>
+<title>On the Challenges of Implementing MLOps for Stream Learning Algorithms.</title>
+<pages>377-388</pages>
+<year>2025</year>
+<booktitle>AINA (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-87769-8_33</ee>
+<crossref>conf/aina/2025-3</crossref>
+<url>db/conf/aina/aina2025-3.html#RodriguesVESLF25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/SimioniVSH25" mdate="2025-05-31">
+<author pid="395/5892">Jo&#227;o A. Simioni</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo Kugler Viegas</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair O. Santin</author>
+<author pid="298/9962">Pedro Horchulhack</author>
+<title>An Early Exit Deep Neural Network for Fast Inference Intrusion Detection.</title>
+<pages>730-737</pages>
+<year>2025</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3672608.3707974</ee>
+<crossref>conf/sac/2025</crossref>
+<url>db/conf/sac/sac2025.html#SimioniVSH25</url>
+</inproceedings>
+</r>
+<r><article key="journals/jnca/HorchulhackVSRT24" mdate="2025-01-19">
+<author pid="298/9962">Pedro Horchulhack</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair O. Santin</author>
+<author pid="184/9890">Felipe Ramos</author>
+<author pid="222/8056">Pietro Tedeschi</author>
+<title>Detection of quality of service degradation on multi-tenant containerized services.</title>
+<pages>103839</pages>
+<year>2024</year>
+<volume>224</volume>
+<journal>J. Netw. Comput. Appl.</journal>
+<ee>https://doi.org/10.1016/j.jnca.2024.103839</ee>
+<ee>https://www.wikidata.org/entity/Q128817550</ee>
+<url>db/journals/jnca/jnca224.html#HorchulhackVSRT24</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/OliveiraS0H24" mdate="2025-03-03">
+<author pid="373/0859">Juarez Oliveira</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair O. Santin</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo Viegas 0001</author>
+<author pid="298/9962">Pedro Horchulhack</author>
+<title>A Non-interactive One-Time Password-Based Method to Enhance the Vault Security.</title>
+<pages>201-213</pages>
+<year>2024</year>
+<booktitle>AINA (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-57916-5_18</ee>
+<crossref>conf/aina/2024-4</crossref>
+<url>db/conf/aina/aina2024-4.html#OliveiraS0H24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/AbreuVS24" mdate="2024-08-04">
+<author pid="373/0955">Mykaele F. Abreu</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author pid="38/5417">Altair O. Santin</author>
+<title>A Review of Social Network Regulations and Mechanisms for Safeguarding Children's Privacy.</title>
+<pages>427-438</pages>
+<year>2024</year>
+<booktitle>AINA (5)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-57931-8_41</ee>
+<crossref>conf/aina/2024-5</crossref>
+<url>db/conf/aina/aina2024-5.html#AbreuVS24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmla/NunesVS24" mdate="2025-03-27">
+<author pid="401/0895">Mateus Nunes</author>
+<author pid="120/2495-1">Eduardo K. Viegas</author>
+<author pid="38/5417">Altair O. Santin</author>
+<title>Towards a Feasible Palm Vein Verification Scheme Using Deep Autoencoder and Siamese Networks.</title>
+<pages>483-489</pages>
+<year>2024</year>
+<booktitle>ICMLA</booktitle>
+<ee>https://doi.org/10.1109/ICMLA61862.2024.00071</ee>
+<crossref>conf/icmla/2024</crossref>
+<url>db/conf/icmla/icmla2024.html#NunesVS24</url>
+<stream>streams/conf/icmla</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmla/FransoziGV24" mdate="2025-03-27">
+<author pid="401/0884">Philipe Fransozi</author>
+<author pid="272/6183">Jhonatan Geremias</author>
+<author pid="120/2495-1">Eduardo K. Viegas</author>
+<title>A Multi-View Android Malware Detection Model Through Multi-Objective Optimization.</title>
+<pages>1011-1015</pages>
+<year>2024</year>
+<booktitle>ICMLA</booktitle>
+<ee>https://doi.org/10.1109/ICMLA61862.2024.00151</ee>
+<crossref>conf/icmla/2024</crossref>
+<url>db/conf/icmla/icmla2024.html#FransoziGV24</url>
+<stream>streams/conf/icmla</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iecon/PaulaVS24" mdate="2025-05-28">
+<author pid="406/0356">Andr&#233; L. de S. Paula</author>
+<author pid="120/2495-1">Eduardo K. Viegas</author>
+<author pid="38/5417">Altair O. Santin</author>
+<title>Passive Identification of Rogue Industrial Access Points Using a One-Class Machine Learning Model.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>IECON</booktitle>
+<ee>https://doi.org/10.1109/IECON55916.2024.10905362</ee>
+<crossref>conf/iecon/2024</crossref>
+<url>db/conf/iecon/iecon2024.html#PaulaVS24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/OliveiraVSHM24" mdate="2024-09-19">
+<author pid="294/0973">Paulo Roberto de Oliveira</author>
+<author pid="120/2495-1">Eduardo K. Viegas</author>
+<author pid="38/5417">Altair O. Santin</author>
+<author pid="298/9962">Pedro Horchulhack</author>
+<author pid="165/3703">Everton de Matos</author>
+<title>Toward a Reliable Network-Based Intrusion Detection Model for SCADA: A Classification with Reject Option Approach.</title>
+<pages>1-8</pages>
+<year>2024</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN60899.2024.10650735</ee>
+<crossref>conf/ijcnn/2024</crossref>
+<url>db/conf/ijcnn/ijcnn2024.html#OliveiraVSHM24</url>
+<stream>streams/conf/ijcnn</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwcmc/HorchulhackVSS24" mdate="2025-01-24">
+<author pid="298/9962">Pedro Horchulhack</author>
+<author pid="120/2495-1">Eduardo K. Viegas</author>
+<author pid="38/5417">Altair O. Santin</author>
+<author pid="395/5892">Jo&#227;o A. Simioni</author>
+<title>Network-based Intrusion Detection Through Image-based CNN and Transfer Learning.</title>
+<pages>386-391</pages>
+<year>2024</year>
+<booktitle>IWCMC</booktitle>
+<ee>https://doi.org/10.1109/IWCMC61514.2024.10592364</ee>
+<crossref>conf/iwcmc/2024</crossref>
+<url>db/conf/iwcmc/iwcmc2024.html#HorchulhackVSS24</url>
+</inproceedings>
+</r>
+<r><article key="journals/compsec/SantosVST23" mdate="2023-09-24">
+<author pid="261/8247">Roger Robson dos Santos</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair O. Santin</author>
+<author orcid="0000-0003-3324-3706" pid="222/8056">Pietro Tedeschi</author>
+<title>Federated learning for reliable model updates in network-based intrusion detection.</title>
+<pages>103413</pages>
+<year>2023</year>
+<month>October</month>
+<volume>133</volume>
+<journal>Comput. Secur.</journal>
+<ee>https://doi.org/10.1016/j.cose.2023.103413</ee>
+<url>db/journals/compsec/compsec133.html#SantosVST23</url>
+</article>
+</r>
+<r><article key="journals/iotm/ViegasST23" mdate="2024-08-04">
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair O. Santin</author>
+<author pid="222/8056">Pietro Tedeschi</author>
+<title>Toward a Reliable Evaluation of Machine Learning Schemes for Network-Based Intrusion Detection.</title>
+<pages>70-75</pages>
+<year>2023</year>
+<month>June</month>
+<volume>6</volume>
+<journal>IEEE Internet Things Mag.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/IOTM.001.2300106</ee>
+<url>db/journals/iotm/iotm6.html#ViegasST23</url>
+</article>
+</r>
+<r><article key="journals/tnsm/SantosVSC23" mdate="2023-07-27">
+<author pid="261/8247">Roger Robson dos Santos</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair O. Santin</author>
+<author orcid="0000-0002-1299-8950" pid="261/8540">Vinicius Vielmo Cogo</author>
+<title>Reinforcement Learning for Intrusion Detection: More Model Longness and Fewer Updates.</title>
+<pages>2040-2055</pages>
+<year>2023</year>
+<month>June</month>
+<volume>20</volume>
+<journal>IEEE Trans. Netw. Serv. Manag.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1109/TNSM.2022.3207094</ee>
+<url>db/journals/tnsm/tnsm20.html#SantosVSC23</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/ViegasMOS23" mdate="2024-09-19">
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author pid="165/3703">Everton de Matos</author>
+<author pid="294/0973">Paulo Roberto de Oliveira</author>
+<author pid="38/5417">Altair O. Santin</author>
+<title>A Dynamic Machine Learning Scheme for Reliable Network-Based Intrusion Detection.</title>
+<pages>439-451</pages>
+<year>2023</year>
+<booktitle>AINA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-28451-9_39</ee>
+<crossref>conf/aina/2023-2</crossref>
+<url>db/conf/aina/aina2023-2.html#ViegasMOS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/MatosVTH23" mdate="2024-08-04">
+<author pid="165/3703">Everton de Matos</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo Viegas 0001</author>
+<author pid="165/3802">Ram&#227;o Tiago Tiburski</author>
+<author pid="33/5648">Fabiano Hessel</author>
+<title>Context-Aware Security in the Internet of Things: A Review.</title>
+<pages>518-531</pages>
+<year>2023</year>
+<booktitle>AINA (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-28694-0_49</ee>
+<crossref>conf/aina/2023-3</crossref>
+<url>db/conf/aina/aina2023-3.html#MatosVTH23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccnc/GeremiasVSBH23" mdate="2024-08-04">
+<author pid="272/6183">Jhonatan Geremias</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair O. Santin</author>
+<author pid="98/5101">Alceu S. Britto Jr.</author>
+<author pid="298/9962">Pedro Horchulhack</author>
+<title>Towards a Reliable Hierarchical Android Malware Detection Through Image-based CNN.</title>
+<pages>242-247</pages>
+<year>2023</year>
+<booktitle>CCNC</booktitle>
+<ee>https://doi.org/10.1109/CCNC51644.2023.10060381</ee>
+<crossref>conf/ccnc/2023</crossref>
+<url>db/conf/ccnc/ccnc2023.html#GeremiasVSBH23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccnc/NabilaVAL23" mdate="2024-08-04">
+<author pid="342/8083">Abdul Rahman Ba Nabila</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author pid="127/1647">Abdelrahman AlMahmoud</author>
+<author pid="170/0468">Willian T. Lunardi</author>
+<title>A Generative Adversarial Network-based Attack for Audio-based Condition Monitoring Systems.</title>
+<pages>275-280</pages>
+<year>2023</year>
+<booktitle>CCNC</booktitle>
+<ee>https://doi.org/10.1109/CCNC51644.2023.10060644</ee>
+<crossref>conf/ccnc/2023</crossref>
+<url>db/conf/ccnc/ccnc2023.html#NabilaVAL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/KattaV23" mdate="2024-08-04">
+<author pid="251/1198">Sai Srinadhu Katta</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo Kugler Viegas</author>
+<title>Towards a Reliable and Lightweight Onboard Fault Detection in Autonomous Unmanned Aerial Vehicles.</title>
+<pages>1284-1290</pages>
+<year>2023</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA48891.2023.10161183</ee>
+<crossref>conf/icra/2023</crossref>
+<url>db/conf/icra/icra2023.html#KattaV23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/ShresthaPV23" mdate="2024-10-06">
+<author pid="282/1762">Samridha Shrestha</author>
+<author orcid="0000-0001-6980-2077" pid="364/4107">Saurabh Pathak</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<title>Towards a Robust Adversarial Patch Attack Against Unmanned Aerial Vehicles Object Detection.</title>
+<pages>3256-3263</pages>
+<year>2023</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS55552.2023.10342460</ee>
+<url>db/conf/iros/iros2023.html#ShresthaPV23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trustcom/MatosLVALKOB23" mdate="2024-08-04">
+<author pid="165/3703">Everton de Matos</author>
+<author pid="376/9857">Conor Lennon</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author pid="330/9731">Markku Ahvenj&#228;rvi</author>
+<author pid="22/7723">Hannu Lyytinen</author>
+<author pid="245/5984">Ivan Kuznetsov</author>
+<author pid="376/8575">Joonas Onatsu</author>
+<author pid="376/9203">Anh Huy Bui</author>
+<title>Integrating VirtIO and QEMU on seL4 for Enhanced Devices Virtualization Support.</title>
+<pages>1076-1085</pages>
+<year>2023</year>
+<booktitle>TrustCom</booktitle>
+<ee>https://doi.org/10.1109/TrustCom60117.2023.00149</ee>
+<crossref>conf/trustcom/2023</crossref>
+<url>db/conf/trustcom/trustcom2023.html#MatosLVALKOB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trustcom/OliveiraSHVM23" mdate="2024-09-19">
+<author pid="294/0973">Paulo Roberto de Oliveira</author>
+<author pid="38/5417">Altair O. Santin</author>
+<author pid="298/9962">Pedro Horchulhack</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author pid="165/3703">Everton de Matos</author>
+<title>A Dynamic Network-based Intrusion Detection Model for Industrial Control Systems.</title>
+<pages>1496-1501</pages>
+<year>2023</year>
+<booktitle>TrustCom</booktitle>
+<ee>https://doi.org/10.1109/TrustCom60117.2023.00204</ee>
+<crossref>conf/trustcom/2023</crossref>
+<url>db/conf/trustcom/trustcom2023.html#OliveiraSHVM23</url>
+</inproceedings>
+</r>
+<r><article key="journals/cn/HorchulhackVS22" mdate="2022-01-08">
+<author pid="298/9962">Pedro Horchulhack</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair O. Santin</author>
+<title>Toward feasible machine learning model updates in network-based intrusion detection.</title>
+<pages>108618</pages>
+<year>2022</year>
+<volume>202</volume>
+<journal>Comput. Networks</journal>
+<ee>https://doi.org/10.1016/j.comnet.2021.108618</ee>
+<url>db/journals/cn/cn202.html#HorchulhackVS22</url>
+</article>
+</r>
+<r><inproceedings key="conf/csnet/HorchulhackVL22" mdate="2024-08-04">
+<author pid="298/9962">Pedro Horchulhack</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author orcid="0000-0002-4170-4341" pid="167/9022">Martin Andreoni Lopez</author>
+<title>A Stream Learning Intrusion Detection System for Concept Drifting Network Traffic.</title>
+<pages>1-7</pages>
+<year>2022</year>
+<booktitle>CSNet</booktitle>
+<ee>https://doi.org/10.1109/CSNet56116.2022.9955620</ee>
+<crossref>conf/csnet/2022</crossref>
+<url>db/conf/csnet/csnet2022.html#HorchulhackVL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/HorchulhackVSG22" mdate="2024-08-04">
+<author pid="298/9962">Pedro Horchulhack</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author pid="38/5417">Altair O. Santin</author>
+<author pid="272/6183">Jhonatan Geremias</author>
+<title>Intrusion Detection Model Updates Through GAN Data Augmentation and Transfer Learning.</title>
+<pages>2668-2673</pages>
+<year>2022</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOBECOM48099.2022.10000666</ee>
+<crossref>conf/globecom/2022</crossref>
+<url>db/conf/globecom/globecom2022.html#HorchulhackVSG22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/HorchulhackVS22" mdate="2024-08-04">
+<author pid="298/9962">Pedro Horchulhack</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author pid="38/5417">Altair O. Santin</author>
+<title>Detection of Service Provider Hardware Over-commitment in Container Orchestration Environments.</title>
+<pages>6354-6359</pages>
+<year>2022</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOBECOM48099.2022.10001375</ee>
+<crossref>conf/globecom/2022</crossref>
+<url>db/conf/globecom/globecom2022.html#HorchulhackVS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iecon/DuarteVS22" mdate="2024-08-04">
+<author pid="336/7032">Edwin P. Duarte</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author pid="38/5417">Altair O. Santin</author>
+<title>A Machine Learning-Based Digital Twin Model for Pressure Prediction in the Fuel Injection System.</title>
+<pages>1-6</pages>
+<year>2022</year>
+<booktitle>IECON</booktitle>
+<ee>https://doi.org/10.1109/IECON49645.2022.9968945</ee>
+<crossref>conf/iecon/2022</crossref>
+<url>db/conf/iecon/iecon2022.html#DuarteVS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwcmc/GeremiasVSBH22" mdate="2024-08-04">
+<author pid="272/6183">Jhonatan Geremias</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author pid="38/5417">Altair O. Santin</author>
+<author pid="98/5101">Alceu S. Britto Jr.</author>
+<author pid="298/9962">Pedro Horchulhack</author>
+<title>Towards Multi-view Android Malware Detection Through Image-based Deep Learning.</title>
+<pages>572-577</pages>
+<year>2022</year>
+<booktitle>IWCMC</booktitle>
+<ee>https://doi.org/10.1109/IWCMC55113.2022.9824985</ee>
+<crossref>conf/iwcmc/2022</crossref>
+<url>db/conf/iwcmc/iwcmc2022.html#GeremiasVSBH22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/GeremiasVBS22" mdate="2024-08-04">
+<author pid="272/6183">Jhonatan Geremias</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author pid="98/5101">Alceu S. Britto Jr.</author>
+<author pid="38/5417">Altair O. Santin</author>
+<title>A motion-based approach for real-time detection of pornographic content in videos.</title>
+<pages>1066-1073</pages>
+<year>2022</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3477314.3507306</ee>
+<crossref>conf/sac/2022</crossref>
+<url>db/conf/sac/sac2022.html#GeremiasVBS22</url>
+</inproceedings>
+</r>
+<r><article key="journals/cluster/ViegasSBSSMM21" mdate="2022-12-07">
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo Viegas 0001</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair O. Santin</author>
+<author pid="194/8621">Juliana Bachtold</author>
+<author pid="168/6335">Darlan Segalin</author>
+<author pid="29/1165">Maicon Stihler</author>
+<author pid="84/2247">Arlindo L. Marcon Jr.</author>
+<author pid="m/CarlosMaziero">Carlos Maziero</author>
+<title>Enhancing service maintainability by monitoring and auditing SLA in cloud computing.</title>
+<pages>1659-1674</pages>
+<year>2021</year>
+<volume>24</volume>
+<journal>Clust. Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10586-020-03209-9</ee>
+<url>db/journals/cluster/cluster24.html#ViegasSBSSMM21</url>
+</article>
+</r>
+<r><article key="journals/tnse/ViegasSA21" mdate="2024-08-04">
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo Viegas 0001</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<author pid="176/5736">Vilmar Abreu</author>
+<title>Machine Learning Intrusion Detection in Big Data Era: A Multi-Objective Approach for Longer Model Lifespans.</title>
+<pages>366-376</pages>
+<year>2021</year>
+<volume>8</volume>
+<journal>IEEE Trans. Netw. Sci. Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TNSE.2020.3038618</ee>
+<url>db/journals/tnse/tnse8.html#ViegasSA21</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/SantosVS21" mdate="2024-08-04">
+<author pid="261/8247">Roger Robson dos Santos</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair O. Santin</author>
+<title>Improving Intrusion Detection Confidence Through a Moving Target Defense Strategy.</title>
+<pages>1-6</pages>
+<year>2021</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOBECOM46510.2021.9685075</ee>
+<crossref>conf/globecom/2021</crossref>
+<url>db/conf/globecom/globecom2021.html#SantosVS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/SantosVS21a" mdate="2024-08-04">
+<author pid="261/8247">Roger Robson dos Santos</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair O. Santin</author>
+<title>A Reminiscent Intrusion Detection Model Based on Deep Autoencoders and Transfer Learning.</title>
+<pages>1-6</pages>
+<year>2021</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOBECOM46510.2021.9685724</ee>
+<crossref>conf/globecom/2021</crossref>
+<url>db/conf/globecom/globecom2021.html#SantosVS21a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/RamosVSHSE21" mdate="2024-08-04">
+<author pid="184/9890">Felipe Ramos</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair O. Santin</author>
+<author pid="298/9962">Pedro Horchulhack</author>
+<author pid="261/8247">Roger Robson dos Santos</author>
+<author orcid="0000-0001-9816-2531" pid="298/9557">Allan Espindola</author>
+<title>A Machine Learning Model for Detection of Docker-based APP Overbooking on Kubernetes.</title>
+<pages>1-6</pages>
+<year>2021</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC42927.2021.9500259</ee>
+<crossref>conf/icc/2021</crossref>
+<url>db/conf/icc/icc2021.html#RamosVSHSE21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/TomioVSS21" mdate="2024-08-04">
+<author pid="299/0007">Rivaldo L. Tomio</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair O. Santin</author>
+<author pid="261/8247">Roger Robson dos Santos</author>
+<title>A Multi-View Intrusion Detection Model for Reliable and Autonomous Model Updates.</title>
+<pages>1-6</pages>
+<year>2021</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC42927.2021.9500831</ee>
+<crossref>conf/icc/2021</crossref>
+<url>db/conf/icc/icc2021.html#TomioVSS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wimob/EspindolaVTPS21" mdate="2024-08-04">
+<author orcid="0000-0001-9816-2531" pid="298/9557">Allan Espindola</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author pid="307/3907">Andre Traleski</author>
+<author pid="12/1494">Marcelo E. Pellenz</author>
+<author pid="38/5417">Altair O. Santin</author>
+<title>A Deep Autoencoder and RNN Model for Indoor Localization with Variable Propagation Loss.</title>
+<pages>391-396</pages>
+<year>2021</year>
+<booktitle>WiMob</booktitle>
+<ee>https://doi.org/10.1109/WiMob52687.2021.9606346</ee>
+<crossref>conf/wimob/2021</crossref>
+<url>db/conf/wimob/wimob2021.html#EspindolaVTPS21</url>
+</inproceedings>
+</r>
+<r><article key="journals/fgcs/MallmannSVSG20" mdate="2024-08-04">
+<author pid="272/6298">Jackson Mallmann</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo Kugler Viegas</author>
+<author pid="261/8247">Roger Robson dos Santos</author>
+<author pid="272/6183">Jhonatan Geremias</author>
+<title>PPCensor: Architecture for real-time pornography detection in video streaming.</title>
+<pages>945-955</pages>
+<year>2020</year>
+<volume>112</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2020.06.017</ee>
+<url>db/journals/fgcs/fgcs112.html#MallmannSVSG20</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/ViegasSCA20" mdate="2024-08-04">
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author pid="261/8150">Altair Santin Santin</author>
+<author orcid="0000-0002-1299-8950" pid="261/8540">Vinicius Vielmo Cogo</author>
+<author pid="176/5736">Vilmar Abreu</author>
+<title>Facing the Unknown: A Stream Learning Intrusion Detection System for Reliable Model Updates.</title>
+<pages>898-909</pages>
+<year>2020</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-44041-1_78</ee>
+<crossref>conf/aina/2020</crossref>
+<url>db/conf/aina/aina2020.html#ViegasSCA20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/AbreuSVC20" mdate="2024-08-04">
+<author pid="176/5736">Vilmar Abreu</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author orcid="0000-0002-1299-8950" pid="261/8540">Vinicius Vielmo Cogo</author>
+<title>Identity and Access Management for IoT in Smart Grid.</title>
+<pages>1215-1226</pages>
+<year>2020</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-44041-1_104</ee>
+<crossref>conf/aina/2020</crossref>
+<url>db/conf/aina/aina2020.html#AbreuSVC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/SantosVSC20" mdate="2024-08-04">
+<author pid="261/8247">Roger Robson dos Santos</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo Kugler Viegas</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair O. Santin</author>
+<author orcid="0000-0002-1299-8950" pid="261/8540">Vinicius Vielmo Cogo</author>
+<title>A Long-Lasting Reinforcement Learning Intrusion Detection Model.</title>
+<pages>1437-1448</pages>
+<year>2020</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-44041-1_121</ee>
+<crossref>conf/aina/2020</crossref>
+<url>db/conf/aina/aina2020.html#SantosVSC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/ViegasSCA20" mdate="2024-08-04">
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<author orcid="0000-0002-1299-8950" pid="261/8540">Vinicius Vielmo Cogo</author>
+<author pid="176/5736">Vilmar Abreu</author>
+<title>A Reliable Semi-Supervised Intrusion Detection Model: One Year of Network Traffic Anomalies.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC40277.2020.9148916</ee>
+<crossref>conf/icc/2020</crossref>
+<url>db/conf/icc/icc2020.html#ViegasSCA20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iecon/BulleSVS20" mdate="2024-08-04">
+<author pid="279/0716">Bruno B. Bulle</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair O. Santin</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author pid="261/8247">Roger Robson dos Santos</author>
+<title>A Host-based Intrusion Detection Model Based on OS Diversity for SCADA.</title>
+<pages>691-696</pages>
+<year>2020</year>
+<booktitle>IECON</booktitle>
+<ee>https://doi.org/10.1109/IECON43393.2020.9255062</ee>
+<crossref>conf/iecon/2020</crossref>
+<url>db/conf/iecon/iecon2020.html#BulleSVS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/GeremiasSVB20" mdate="2024-08-04">
+<author pid="272/6183">Jhonatan Geremias</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair O. Santin</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author pid="98/5101">Alceu S. Britto Jr.</author>
+<title>Towards Real-time Video Content Detection in Resource Constrained Devices.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN48605.2020.9207125</ee>
+<crossref>conf/ijcnn/2020</crossref>
+<url>db/conf/ijcnn/ijcnn2020.html#GeremiasSVB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/SanzLVS20" mdate="2020-07-23">
+<author pid="215/2866">Igor Jochem Sanz</author>
+<author pid="167/9022">Martin Andreoni Lopez</author>
+<author pid="120/2495-1">Eduardo Kugler Viegas</author>
+<author pid="270/4041">Vinicius Rodrigues Sanches</author>
+<title>A Lightweight Network-based Android Malware Detection System.</title>
+<pages>695-703</pages>
+<year>2020</year>
+<booktitle>Networking</booktitle>
+<ee>https://ieeexplore.ieee.org/document/9142796</ee>
+<crossref>conf/networking/2020</crossref>
+<url>db/conf/networking/networking2020.html#SanzLVS20</url>
+</inproceedings>
+</r>
+<r><article key="journals/fgcs/ViegasSBN19" mdate="2025-03-03">
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo Viegas 0001</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<author orcid="0000-0002-8386-1628" pid="68/1448">Alysson Bessani</author>
+<author orcid="0000-0003-0411-4542" pid="24/4061">Nuno Neves 0001</author>
+<title>BigFlow: Real-time and reliable anomaly-based intrusion detection for high-speed networks.</title>
+<pages>473-485</pages>
+<year>2019</year>
+<volume>93</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2018.09.051</ee>
+<url>db/journals/fgcs/fgcs93.html#ViegasSBN19</url>
+</article>
+</r>
+<r><article key="journals/jnca/VicentiniSVA19" mdate="2025-01-19">
+<author pid="223/1191">Cleverton Vicentini</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo Viegas 0001</author>
+<author pid="176/5736">Vilmar Abreu</author>
+<title>SDN-based and multitenant-aware resource provisioning mechanism for cloud-based big data streaming.</title>
+<pages>133-149</pages>
+<year>2019</year>
+<volume>126</volume>
+<journal>J. Netw. Comput. Appl.</journal>
+<ee>https://doi.org/10.1016/j.jnca.2018.11.005</ee>
+<ee>https://www.wikidata.org/entity/Q128914625</ee>
+<url>db/journals/jnca/jnca126.html#VicentiniSVA19</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbrc/ViegasS19" mdate="2022-04-09">
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo K. Viegas</author>
+<author pid="38/5417">Altair O. Santin</author>
+<title>Towards Reliable Intrusion Detection in High Speed Networks.</title>
+<pages>169-176</pages>
+<year>2019</year>
+<booktitle>SBRC Companion</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc_estendido.2019.7785</ee>
+<crossref>conf/sbrc/2019c</crossref>
+<url>db/conf/sbrc/sbrc2019c.html#ViegasS19</url>
+</inproceedings>
+</r>
+<r><article key="journals/compsec/ViegasSOFJP18" mdate="2023-08-28">
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo Viegas 0001</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<author pid="207/1344-3">Luiz Oliveira 0003</author>
+<author pid="151/4538">Andr&#233; Fran&#231;a 0001</author>
+<author pid="03/2187">Ricardo P. Jasinski</author>
+<author pid="58/421">Volnei A. Pedroni</author>
+<title>A reliable and energy-efficient classifier combination scheme for intrusion detection in embedded systems.</title>
+<pages>16-32</pages>
+<year>2018</year>
+<volume>78</volume>
+<journal>Comput. Secur.</journal>
+<ee>https://doi.org/10.1016/j.cose.2018.05.014</ee>
+<ee>https://www.wikidata.org/entity/Q115059614</ee>
+<url>db/journals/compsec/compsec78.html#ViegasSOFJP18</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccgrid/VicentiniSVA18" mdate="2023-03-24">
+<author pid="223/1191">Cleverton Vicentini</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo Viegas 0001</author>
+<author pid="176/5736">Vilmar Abreu</author>
+<title>A Machine Learning Auditing Model for Detection of Multi-Tenancy Issues Within Tenant Domain.</title>
+<pages>543-552</pages>
+<year>2018</year>
+<booktitle>CCGrid</booktitle>
+<ee>https://doi.org/10.1109/CCGRID.2018.00081</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CCGRID.2018.00081</ee>
+<crossref>conf/ccgrid/2018</crossref>
+<url>db/conf/ccgrid/ccgrid2018.html#VicentiniSVA18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/ViegasSAO18" mdate="2023-03-24">
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo Viegas 0001</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<author pid="176/5736">Vilmar Abreu</author>
+<author pid="o/LuizSOliveira">Luiz S. Oliveira</author>
+<title>Enabling Anomaly-based Intrusion Detection Through Model Generalization.</title>
+<pages>934-939</pages>
+<year>2018</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2018.8538524</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2018.8538524</ee>
+<crossref>conf/iscc/2018</crossref>
+<url>db/conf/iscc/iscc2018.html#ViegasSAO18</url>
+</inproceedings>
+</r>
+<r><article key="journals/cn/ViegasSO17" mdate="2020-03-31">
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo Viegas 0001</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<author pid="o/LuizSOliveira">Luiz S. Oliveira</author>
+<title>Toward a reliable anomaly-based intrusion detection in real-world environments.</title>
+<pages>200-216</pages>
+<year>2017</year>
+<volume>127</volume>
+<journal>Comput. Networks</journal>
+<ee>https://doi.org/10.1016/j.comnet.2017.08.013</ee>
+<url>db/journals/cn/cn127.html#ViegasSO17</url>
+</article>
+</r>
+<r><article key="journals/tc/ViegasSFJPO17" mdate="2021-08-21">
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo Viegas 0001</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<author pid="151/4538">Andr&#233; Fran&#231;a 0001</author>
+<author pid="03/2187">Ricardo P. Jasinski</author>
+<author pid="58/421">Volnei A. Pedroni</author>
+<author pid="o/LuizSOliveira">Luiz S. Oliveira</author>
+<title>Towards an Energy-Efficient Anomaly-Based Intrusion Detection Engine for Embedded Systems.</title>
+<pages>163-177</pages>
+<year>2017</year>
+<volume>66</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TC.2016.2560839</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2016.2560839</ee>
+<ee>https://www.wikidata.org/entity/Q56115738</ee>
+<url>db/journals/tc/tc66.html#ViegasSFJPO17</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/ViegasSNBA17" mdate="2020-03-31">
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo Viegas 0001</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<author pid="24/4061">Nuno Ferreira Neves</author>
+<author orcid="0000-0002-8386-1628" pid="68/1448">Alysson Bessani</author>
+<author pid="176/5736">Vilmar Abreu</author>
+<title>A Resilient Stream Learning Intrusion Detection Mechanism for Real-Time Analysis of Network Traffic.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2017.8254495</ee>
+<crossref>conf/globecom/2017</crossref>
+<url>db/conf/globecom/globecom2017.html#ViegasSNBA17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/AbreuSVS17" mdate="2020-03-31">
+<author pid="176/5736">Vilmar Abreu</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo Viegas 0001</author>
+<author pid="29/1165">Maicon Stihler</author>
+<title>A multi-domain role activation model.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2017.7997247</ee>
+<ee>https://www.wikidata.org/entity/Q60961423</ee>
+<crossref>conf/icc/2017</crossref>
+<url>db/conf/icc/icc2017.html#AbreuSVS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/ViegasSAO17" mdate="2023-03-24">
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo Viegas 0001</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<author pid="176/5736">Vilmar Abreu</author>
+<author pid="o/LuizSOliveira">Luiz S. Oliveira</author>
+<title>Stream learning and anomaly-based intrusion detection in the adversarial settings.</title>
+<pages>773-778</pages>
+<year>2017</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2017.8024621</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2017.8024621</ee>
+<crossref>conf/iscc/2017</crossref>
+<url>db/conf/iscc/iscc2017.html#ViegasSAO17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latincom/RibeiroSAMV16" mdate="2020-03-31">
+<author pid="193/5587">Rafael Ribeiro</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<author pid="176/5736">Vilmar Abreu</author>
+<author pid="21/8523">Jo&#227;o Eugenio Marynowski</author>
+<author orcid="0000-0002-5050-6363" pid="120/2495-1">Eduardo Viegas 0001</author>
+<title>Providing security and privacy in smart house through mobile cloud computing.</title>
+<pages>1-6</pages>
+<year>2016</year>
+<booktitle>LATINCOM</booktitle>
+<ee>https://doi.org/10.1109/LATINCOM.2016.7811599</ee>
+<crossref>conf/latincom/2016</crossref>
+<url>db/conf/latincom/latincom2016.html#RibeiroSAMV16</url>
+</inproceedings>
+</r>
+<coauthors n="61" nc="1">
+<co c="0"><na f="a/Abreu:Mykaele_F=" pid="373/0955">Mykaele F. Abreu</na></co>
+<co c="0"><na f="a/Abreu:Vilmar" pid="176/5736">Vilmar Abreu</na></co>
+<co c="0"><na f="a/Ahvenj=auml=rvi:Markku" pid="330/9731">Markku Ahvenj&#228;rvi</na></co>
+<co c="0"><na f="a/AlMahmoud:Abdelrahman" pid="127/1647">Abdelrahman AlMahmoud</na></co>
+<co c="0"><na f="b/Bachtold:Juliana" pid="194/8621">Juliana Bachtold</na></co>
+<co c="0" n="2"><na f="b/Bessani:Alysson_Neves" pid="68/1448">Alysson Neves Bessani</na><na>Alysson Bessani</na></co>
+<co c="0"><na f="b/Britto_Jr=:Alceu_S=" pid="98/5101">Alceu S. Britto Jr.</na></co>
+<co c="0"><na f="b/Bui:Anh_Huy" pid="376/9203">Anh Huy Bui</na></co>
+<co c="0"><na f="b/Bulle:Bruno_B=" pid="279/0716">Bruno B. Bulle</na></co>
+<co c="0"><na f="c/Cogo:Vinicius_Vielmo" pid="261/8540">Vinicius Vielmo Cogo</na></co>
+<co c="0"><na f="d/Duarte:Edwin_P=" pid="336/7032">Edwin P. Duarte</na></co>
+<co c="0"><na f="e/Enembreck:Fabr=iacute=cio" pid="90/6263">Fabr&#237;cio Enembreck</na></co>
+<co c="0"><na f="e/Espindola:Allan" pid="298/9557">Allan Espindola</na></co>
+<co c="0"><na f="f/Filho:Adilson_G=" pid="404/1645">Adilson G. Filho</na></co>
+<co c="0"><na f="f/Fran=ccedil=a_0001:Andr=eacute=" pid="151/4538">Andr&#233; Fran&#231;a 0001</na></co>
+<co c="0"><na f="f/Fransozi:Philipe" pid="401/0884">Philipe Fransozi</na></co>
+<co c="0"><na f="g/Geremias:Jhonatan" pid="272/6183">Jhonatan Geremias</na></co>
+<co c="0"><na f="h/Hessel:Fabiano" pid="33/5648">Fabiano Hessel</na></co>
+<co c="0"><na f="h/Horchulhack:Pedro" pid="298/9962">Pedro Horchulhack</na></co>
+<co c="0"><na f="j/Jasinski:Ricardo_P=" pid="03/2187">Ricardo P. Jasinski</na></co>
+<co c="-1"><na f="k/Katta:Sai_Srinadhu" pid="251/1198">Sai Srinadhu Katta</na></co>
+<co c="0"><na f="k/Kuznetsov:Ivan" pid="245/5984">Ivan Kuznetsov</na></co>
+<co c="0"><na f="l/Langaro:Juliano_S=" pid="404/2539">Juliano S. Langaro</na></co>
+<co c="0"><na f="l/Lennon:Conor" pid="376/9857">Conor Lennon</na></co>
+<co c="0"><na f="l/Lopez:Martin_Andreoni" pid="167/9022">Martin Andreoni Lopez</na></co>
+<co c="0" n="2"><na f="l/Lunardi:Willian_Tessaro" pid="170/0468">Willian Tessaro Lunardi</na><na>Willian T. Lunardi</na></co>
+<co c="0"><na f="l/Lyytinen:Hannu" pid="22/7723">Hannu Lyytinen</na></co>
+<co c="0"><na f="m/Mallmann:Jackson" pid="272/6298">Jackson Mallmann</na></co>
+<co c="0"><na f="m/Marcon_Jr=:Arlindo_L=" pid="84/2247">Arlindo L. Marcon Jr.</na></co>
+<co c="0"><na f="m/Marynowski:Jo=atilde=o_Eugenio" pid="21/8523">Jo&#227;o Eugenio Marynowski</na></co>
+<co c="0"><na f="m/Matos:Everton_de" pid="165/3703">Everton de Matos</na></co>
+<co c="0"><na f="m/Maziero:Carlos" pid="m/CarlosMaziero">Carlos Maziero</na></co>
+<co c="0"><na f="n/Nabila:Abdul_Rahman_Ba" pid="342/8083">Abdul Rahman Ba Nabila</na></co>
+<co c="0" n="2"><na f="n/Neves_0001:Nuno" pid="24/4061">Nuno Neves 0001</na><na>Nuno Ferreira Neves</na></co>
+<co c="0"><na f="n/Nunes:Mateus" pid="401/0895">Mateus Nunes</na></co>
+<co c="0"><na f="o/Oliveira:Juarez" pid="373/0859">Juarez Oliveira</na></co>
+<co c="0"><na f="o/Oliveira_0003:Luiz" pid="207/1344-3">Luiz Oliveira 0003</na></co>
+<co c="0" n="2"><na f="o/Oliveira:Luiz_Eduardo_Soares_de" pid="o/LuizSOliveira">Luiz Eduardo Soares de Oliveira</na><na>Luiz S. Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Paulo_Roberto_de" pid="294/0973">Paulo Roberto de Oliveira</na></co>
+<co c="0"><na f="o/Onatsu:Joonas" pid="376/8575">Joonas Onatsu</na></co>
+<co c="0"><na f="p/Pathak:Saurabh" pid="364/4107">Saurabh Pathak</na></co>
+<co c="0"><na f="p/Paula:Andr=eacute=_L=_de_S=" pid="406/0356">Andr&#233; L. de S. Paula</na></co>
+<co c="0"><na f="p/Pedroni:Volnei_A=" pid="58/421">Volnei A. Pedroni</na></co>
+<co c="0" n="2"><na f="p/Pellenz:Marcelo_Eduardo" pid="12/1494">Marcelo Eduardo Pellenz</na><na>Marcelo E. Pellenz</na></co>
+<co c="0"><na f="r/Ramos:Felipe" pid="184/9890">Felipe Ramos</na></co>
+<co c="0"><na f="r/Ribeiro:Rafael" pid="193/5587">Rafael Ribeiro</na></co>
+<co c="0"><na f="r/Rodrigues:Miguel_G=" pid="401/2167">Miguel G. Rodrigues</na></co>
+<co c="0"><na f="s/Sanches:Vinicius_Rodrigues" pid="270/4041">Vinicius Rodrigues Sanches</na></co>
+<co c="0" n="2"><na f="s/Santin:Altair_Olivo" pid="38/5417">Altair Olivo Santin</na><na>Altair O. Santin</na></co>
+<co c="0"><na f="s/Santin:Altair_Santin" pid="261/8150">Altair Santin Santin</na></co>
+<co c="0"><na f="s/Santos:Roger_Robson_dos" pid="261/8247">Roger Robson dos Santos</na></co>
+<co c="0"><na f="s/Sanz:Igor_Jochem" pid="215/2866">Igor Jochem Sanz</na></co>
+<co c="0"><na f="s/Segalin:Darlan" pid="168/6335">Darlan Segalin</na></co>
+<co c="0"><na f="s/Shrestha:Samridha" pid="282/1762">Samridha Shrestha</na></co>
+<co c="0"><na f="s/Simioni:Jo=atilde=o_A=" pid="395/5892">Jo&#227;o A. Simioni</na></co>
+<co c="0"><na f="s/Stihler:Maicon" pid="29/1165">Maicon Stihler</na></co>
+<co c="0"><na f="t/Tedeschi:Pietro" pid="222/8056">Pietro Tedeschi</na></co>
+<co c="0"><na f="t/Tiburski:Ram=atilde=o_Tiago" pid="165/3802">Ram&#227;o Tiago Tiburski</na></co>
+<co c="0"><na f="t/Tomio:Rivaldo_L=" pid="299/0007">Rivaldo L. Tomio</na></co>
+<co c="0"><na f="t/Traleski:Andre" pid="307/3907">Andre Traleski</na></co>
+<co c="0"><na f="v/Vicentini:Cleverton" pid="223/1191">Cleverton Vicentini</na></co>
+</coauthors>
+</dblpperson>
+

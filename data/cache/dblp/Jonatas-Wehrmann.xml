@@ -1,0 +1,463 @@
+<?xml version="1.0"?>
+<dblpperson name="Jonatas Wehrmann" pid="189/4618" n="32">
+<person key="homepages/189/4618" mdate="2019-11-20">
+<author pid="189/4618">Jonatas Wehrmann</author>
+<url>https://orcid.org/0000-0001-9930-0908</url>
+</person>
+<r><inproceedings key="conf/ijcnn/BarrosAW24" mdate="2024-09-19">
+<author pid="385/5221">Ramiro N. Barros</author>
+<author pid="385/5648">Kristen K. Arguello</author>
+<author pid="189/4618">Jonatas Wehrmann</author>
+<title>Anchor Your Embeddings Through the Storm: Mitigating Instance-to-Document Semantic Gap.</title>
+<pages>1-8</pages>
+<year>2024</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN60899.2024.10650518</ee>
+<crossref>conf/ijcnn/2024</crossref>
+<url>db/conf/ijcnn/ijcnn2024.html#BarrosAW24</url>
+<stream>streams/conf/ijcnn</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bmvc/PereiraW22" mdate="2023-02-16">
+<author pid="340/1754">Vinicius G. Pereira</author>
+<author pid="189/4618">Jonatas Wehrmann</author>
+<title>Teaching StyleGAN to Read: Improving Text-to-image Synthesis with U2C Transfer Learning.</title>
+<pages>512</pages>
+<year>2022</year>
+<booktitle>BMVC</booktitle>
+<ee>https://bmvc2022.mpi-inf.mpg.de/512/</ee>
+<crossref>conf/bmvc/2022</crossref>
+<url>db/conf/bmvc/bmvc2022.html#PereiraW22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/VenturelliGW22" mdate="2024-10-06">
+<author orcid="0000-0002-2271-3162" pid="321/3303">Matheus K. Venturelli</author>
+<author pid="321/3453">Pedro H. Gomes</author>
+<author pid="189/4618">Jonatas Wehrmann</author>
+<title>Looks Like Magic: Transfer Learning in GANs to Generate New Card Illustrations.</title>
+<pages>1-8</pages>
+<year>2022</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN55064.2022.9892463</ee>
+<crossref>conf/ijcnn/2022</crossref>
+<url>db/conf/ijcnn/ijcnn2022.html#VenturelliGW22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/WehrmannPB22" mdate="2024-08-04">
+<author pid="189/4618">Jonatas Wehrmann</author>
+<author pid="313/8924">Ot&#225;vio Parraga</author>
+<author orcid="0000-0002-0782-9482" pid="33/1197">Rodrigo C. Barros</author>
+<title>COBE: A Natural Language Code Search Robustness Benchmark.</title>
+<pages>1-8</pages>
+<year>2022</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN55064.2022.9892610</ee>
+<crossref>conf/ijcnn/2022</crossref>
+<url>db/conf/ijcnn/ijcnn2022.html#WehrmannPB22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-14442" mdate="2022-06-01">
+<author pid="321/3303">Matheus K. Venturelli</author>
+<author pid="321/3453">Pedro H. Gomes</author>
+<author pid="189/4618">Jonatas Wehrmann</author>
+<title>Looks Like Magic: Transfer Learning in GANs to Generate New Card Illustrations.</title>
+<year>2022</year>
+<volume>abs/2205.14442</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.14442</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-14442</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/WehrmannKB20" mdate="2024-08-04">
+<author pid="189/4618">Jonatas Wehrmann</author>
+<author pid="249/8377">Camila Kolling</author>
+<author orcid="0000-0002-0782-9482" pid="33/1197">Rodrigo C. Barros</author>
+<title>Adaptive Cross-Modal Embeddings for Image-Text Alignment.</title>
+<pages>12313-12320</pages>
+<year>2020</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v34i07.6915</ee>
+<crossref>conf/aaai/2020</crossref>
+<url>db/conf/aaai/aaai2020.html#WehrmannKB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/KollingWB20" mdate="2024-08-04">
+<author pid="249/8377">Camila Kolling</author>
+<author pid="189/4618">Jonatas Wehrmann</author>
+<author orcid="0000-0002-0782-9482" pid="33/1197">Rodrigo C. Barros</author>
+<title>Component Analysis for Visual Question Answering Architectures.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN48605.2020.9206679</ee>
+<crossref>conf/ijcnn/2020</crossref>
+<url>db/conf/ijcnn/ijcnn2020.html#KollingWB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/SouzaWR20" mdate="2020-10-06">
+<author pid="219/9003">Douglas M. Souza</author>
+<author pid="189/4618">Jonatas Wehrmann</author>
+<author pid="22/1939">Duncan D. Ruiz</author>
+<title>Efficient Neural Architecture for Text-to-Image Synthesis.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN48605.2020.9207584</ee>
+<crossref>conf/ijcnn/2020</crossref>
+<url>db/conf/ijcnn/ijcnn2020.html#SouzaWR20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-05104" mdate="2020-02-14">
+<author pid="249/8377">Camila Kolling</author>
+<author pid="189/4618">Jonatas Wehrmann</author>
+<author pid="33/1197">Rodrigo C. Barros</author>
+<title>Component Analysis for Visual Question Answering Architectures.</title>
+<year>2020</year>
+<volume>abs/2002.05104</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.05104</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-05104</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-11437" mdate="2020-04-28">
+<author pid="219/9003">Douglas M. Souza</author>
+<author pid="189/4618">Jonatas Wehrmann</author>
+<author pid="22/1939">Duncan D. Ruiz</author>
+<title>Efficient Neural Architecture for Text-to-Image Synthesis.</title>
+<year>2020</year>
+<volume>abs/2004.11437</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.11437</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-11437</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccv/WehrmannLSB19" mdate="2024-08-04">
+<author pid="189/4618">Jonatas Wehrmann</author>
+<author pid="218/9505">Maur&#237;cio Armani Lopes</author>
+<author pid="219/9003">Douglas M. Souza</author>
+<author orcid="0000-0002-0782-9482" pid="33/1197">Rodrigo C. Barros</author>
+<title>Language-Agnostic Visual-Semantic Embeddings.</title>
+<pages>5803-5812</pages>
+<year>2019</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2019.00590</ee>
+<crossref>conf/iccv/2019</crossref>
+<url>db/conf/iccv/iccv2019.html#WehrmannLSB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/SimoesWB19" mdate="2024-08-04">
+<author pid="189/4552">Gabriel S. Sim&#245;es</author>
+<author pid="189/4618">Jonatas Wehrmann</author>
+<author orcid="0000-0002-0782-9482" pid="33/1197">Rodrigo C. Barros</author>
+<title>Attention-based Adversarial Training for Seamless Nudity Censorship.</title>
+<pages>1-8</pages>
+<year>2019</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2019.8851849</ee>
+<crossref>conf/ijcnn/2019</crossref>
+<url>db/conf/ijcnn/ijcnn2019.html#SimoesWB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/WehrmannKB19" mdate="2024-08-04">
+<author pid="189/4618">Jonatas Wehrmann</author>
+<author pid="249/8377">Camila Kolling</author>
+<author orcid="0000-0002-0782-9482" pid="33/1197">Rodrigo C. Barros</author>
+<title>Fast and Efficient Text Classification with Class-based Embeddings.</title>
+<pages>1-8</pages>
+<year>2019</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2019.8851837</ee>
+<crossref>conf/ijcnn/2019</crossref>
+<url>db/conf/ijcnn/ijcnn2019.html#WehrmannKB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/NeuhausCWRM19" mdate="2024-10-06">
+<author orcid="0000-0002-7100-2068" pid="246/8210">Priscilla Neuhaus</author>
+<author orcid="0000-0002-4022-0142" pid="152/4323">Julia Couto 0002</author>
+<author pid="189/4618">Jonatas Wehrmann</author>
+<author pid="22/1939">Duncan Dubugras Alcoba Ruiz</author>
+<author orcid="0000-0003-3549-6168" pid="10/985">Felipe Meneguzzi</author>
+<title>GADIS: A Genetic Algorithm for Database Index Selection (S).</title>
+<pages>39-54</pages>
+<year>2019</year>
+<booktitle>SEKE</booktitle>
+<ee type="oa">https://doi.org/10.18293/SEKE2019-135</ee>
+<crossref>conf/seke/2019</crossref>
+<url>db/conf/seke/seke2019.html#NeuhausCWRM19</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijon/WehrmannSBC18" mdate="2019-10-19">
+<author orcid="0000-0001-9930-0908" pid="189/4618">Jonatas Wehrmann</author>
+<author pid="189/4552">Gabriel S. Simoes</author>
+<author orcid="0000-0002-0782-9482" pid="33/1197">Rodrigo C. Barros</author>
+<author pid="11/2111">Victor F. Cavalcante</author>
+<title>Adult content detection in videos with convolutional and recurrent neural networks.</title>
+<pages>432-438</pages>
+<year>2018</year>
+<volume>272</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2017.07.012</ee>
+<url>db/journals/ijon/ijon272.html#WehrmannSBC18</url>
+</article>
+</r>
+<r><article key="journals/prl/WehrmannMB18" mdate="2020-02-22">
+<author orcid="0000-0001-9930-0908" pid="189/4618">Jonatas Wehrmann</author>
+<author pid="202/1685">Anderson Mattjie</author>
+<author orcid="0000-0002-0782-9482" pid="33/1197">Rodrigo C. Barros</author>
+<title>Order embeddings and character-level convolutions for multimodal alignment.</title>
+<pages>15-22</pages>
+<year>2018</year>
+<volume>102</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2017.11.020</ee>
+<url>db/journals/prl/prl102.html#WehrmannMB18</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/WehrmannB18" mdate="2023-03-24">
+<author orcid="0000-0001-9930-0908" pid="189/4618">Jonatas Wehrmann</author>
+<author orcid="0000-0002-0782-9482" pid="33/1197">Rodrigo C. Barros</author>
+<title>Bidirectional Retrieval Made Simple.</title>
+<pages>7718-7726</pages>
+<year>2018</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_cvpr_2018/html/Wehrmann_Bidirectional_Retrieval_Made_CVPR_2018_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2018.00805</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2018.00805</ee>
+<crossref>conf/cvpr/2018</crossref>
+<url>db/conf/cvpr/cvpr2018.html#WehrmannB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/WehrmannLB18" mdate="2022-10-26">
+<author pid="189/4618">Jonatas Wehrmann</author>
+<author pid="218/9505">Mauricio A. Lopes</author>
+<author pid="33/1197">Rodrigo C. Barros</author>
+<title>Self-Attention for Synopsis-Based Multi-Label Movie Genre Classification.</title>
+<pages>236-241</pages>
+<year>2018</year>
+<booktitle>FLAIRS</booktitle>
+<ee type="archive">https://aaai.org/ocs/index.php/FLAIRS/FLAIRS18/paper/view/17686</ee>
+<crossref>conf/flairs/2018</crossref>
+<url>db/conf/flairs/flairs2018.html#WehrmannLB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/WehrmannCB18" mdate="2019-04-03">
+<author pid="189/4618">Jonatas Wehrmann</author>
+<author pid="94/7227">Ricardo Cerri</author>
+<author pid="33/1197">Rodrigo C. Barros</author>
+<title>Hierarchical Multi-Label Classification Networks.</title>
+<pages>5225-5234</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/wehrmann18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#WehrmannCB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/GhilardiSWMB18" mdate="2019-10-19">
+<author orcid="0000-0002-4873-0534" pid="189/8725">Marcelo Cabral Ghilardi</author>
+<author pid="189/4552">Gabriel S. Simoes</author>
+<author orcid="0000-0001-9930-0908" pid="189/4618">Jonatas Wehrmann</author>
+<author pid="38/6192">Isabel Harb Manssour</author>
+<author orcid="0000-0002-0782-9482" pid="33/1197">Rodrigo C. Barros</author>
+<title>Real-Time Detection of Pedestrian Traffic Lights for Visually-Impaired People.</title>
+<pages>1-8</pages>
+<year>2018</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2018.8489516</ee>
+<crossref>conf/ijcnn/2018</crossref>
+<url>db/conf/ijcnn/ijcnn2018.html#GhilardiSWMB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/MoreSWB18" mdate="2023-02-10">
+<author pid="262/3191">Martin D. M&#243;re</author>
+<author pid="219/9003">Douglas M. Souza</author>
+<author orcid="0000-0001-9930-0908" pid="189/4618">Jonatas Wehrmann</author>
+<author orcid="0000-0002-0782-9482" pid="33/1197">Rodrigo C. Barros</author>
+<title>Seamless Nudity Censorship: an Image-to-Image Translation Approach based on Adversarial Training.</title>
+<pages>1-8</pages>
+<year>2018</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2018.8489407</ee>
+<crossref>conf/ijcnn/2018</crossref>
+<url>db/conf/ijcnn/ijcnn2018.html#MoreSWB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/WehrmannBB18" mdate="2019-10-19">
+<author orcid="0000-0001-9930-0908" pid="189/4618">Jonatas Wehrmann</author>
+<author pid="201/5232">Willian E. Becker</author>
+<author orcid="0000-0002-0782-9482" pid="33/1197">Rodrigo C. Barros</author>
+<title>A multi-task neural network for multilingual sentiment classification and language detection on Twitter.</title>
+<pages>1805-1812</pages>
+<year>2018</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3167132.3167325</ee>
+<crossref>conf/sac/2018</crossref>
+<url>db/conf/sac/sac2018.html#WehrmannBB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wacv/WehrmannLMB18" mdate="2023-03-24">
+<author orcid="0000-0001-9930-0908" pid="189/4618">Jonatas Wehrmann</author>
+<author pid="218/9505">Mauricio A. Lopes</author>
+<author pid="262/3191">Martin D. M&#243;re</author>
+<author orcid="0000-0002-0782-9482" pid="33/1197">Rodrigo C. Barros</author>
+<title>Fast Self-Attentive Multimodal Retrieval.</title>
+<pages>1871-1878</pages>
+<year>2018</year>
+<booktitle>WACV</booktitle>
+<ee>https://doi.org/10.1109/WACV.2018.00207</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WACV.2018.00207</ee>
+<crossref>conf/wacv/2018</crossref>
+<url>db/conf/wacv/wacv2018.html#WehrmannLMB18</url>
+</inproceedings>
+</r>
+<r><article key="journals/asc/WehrmannB17" mdate="2019-10-19">
+<author orcid="0000-0001-9930-0908" pid="189/4618">Jonatas Wehrmann</author>
+<author orcid="0000-0002-0782-9482" pid="33/1197">Rodrigo C. Barros</author>
+<title>Movie genre classification: A multi-label approach based on convolutions through time.</title>
+<pages>973-982</pages>
+<year>2017</year>
+<volume>61</volume>
+<journal>Appl. Soft Comput.</journal>
+<ee>https://doi.org/10.1016/j.asoc.2017.08.029</ee>
+<url>db/journals/asc/asc61.html#WehrmannB17</url>
+</article>
+</r>
+<r><inproceedings key="conf/flairs/BeckerWCB17" mdate="2022-10-26">
+<author pid="201/5232">Willian Becker</author>
+<author pid="189/4618">Jonatas Wehrmann</author>
+<author pid="177/2452">Henry E. L. Cagnini</author>
+<author pid="33/1197">Rodrigo C. Barros</author>
+<title>An Efficient Deep Neural Architecture for Multilingual Sentiment Analysis in Twitter.</title>
+<pages>246-251</pages>
+<year>2017</year>
+<booktitle>FLAIRS</booktitle>
+<ee type="oa">https://aaai.org/ocs/index.php/FLAIRS/FLAIRS17/paper/view/15404</ee>
+<crossref>conf/flairs/2017</crossref>
+<url>db/conf/flairs/flairs2017.html#BeckerWCB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/FilhoWB17" mdate="2019-10-19">
+<author pid="202/6302">Ralph Jose Rassweiler Filho</author>
+<author orcid="0000-0001-9930-0908" pid="189/4618">Jonatas Wehrmann</author>
+<author orcid="0000-0002-0782-9482" pid="33/1197">Rodrigo C. Barros</author>
+<title>Leveraging deep visual features for content-based movie recommender systems.</title>
+<pages>604-611</pages>
+<year>2017</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2017.7965908</ee>
+<crossref>conf/ijcnn/2017</crossref>
+<url>db/conf/ijcnn/ijcnn2017.html#FilhoWB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/WehrmannBCB17" mdate="2019-10-19">
+<author orcid="0000-0001-9930-0908" pid="189/4618">Jonatas Wehrmann</author>
+<author pid="201/5232">Willian Becker</author>
+<author orcid="0000-0003-3889-2959" pid="177/2452">Henry E. L. Cagnini</author>
+<author orcid="0000-0002-0782-9482" pid="33/1197">Rodrigo C. Barros</author>
+<title>A character-based convolutional neural network for language-agnostic Twitter sentiment analysis.</title>
+<pages>2384-2391</pages>
+<year>2017</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2017.7966145</ee>
+<crossref>conf/ijcnn/2017</crossref>
+<url>db/conf/ijcnn/ijcnn2017.html#WehrmannBCB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/WehrmannB17" mdate="2019-10-19">
+<author orcid="0000-0001-9930-0908" pid="189/4618">Jonatas Wehrmann</author>
+<author orcid="0000-0002-0782-9482" pid="33/1197">Rodrigo C. Barros</author>
+<title>Convolutions through time for multi-label movie genre classification.</title>
+<pages>114-119</pages>
+<year>2017</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3019612.3019641</ee>
+<crossref>conf/sac/2017</crossref>
+<url>db/conf/sac/sac2017.html#WehrmannB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/WehrmannBDC17" mdate="2019-12-27">
+<author orcid="0000-0001-9930-0908" pid="189/4618">Jonatas Wehrmann</author>
+<author orcid="0000-0002-0782-9482" pid="33/1197">Rodrigo C. Barros</author>
+<author pid="180/8271">Silvia N. das D&#244;res</author>
+<author orcid="0000-0002-2582-1695" pid="94/7227">Ricardo Cerri</author>
+<title>Hierarchical multi-label classification with chained neural networks.</title>
+<pages>790-795</pages>
+<year>2017</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3019612.3019664</ee>
+<crossref>conf/sac/2017</crossref>
+<url>db/conf/sac/sac2017.html#WehrmannBDC17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/WehrmannMB17" mdate="2018-08-13">
+<author pid="189/4618">Jonatas Wehrmann</author>
+<author pid="202/1685">Anderson Mattjie</author>
+<author pid="33/1197">Rodrigo C. Barros</author>
+<title>Order embeddings and character-level convolutions for multimodal alignment.</title>
+<year>2017</year>
+<volume>abs/1706.00999</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1706.00999</ee>
+<url>db/journals/corr/corr1706.html#WehrmannMB17</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/WehrmannBSPR16" mdate="2023-03-24">
+<author orcid="0000-0001-9930-0908" pid="189/4618">Jonatas Wehrmann</author>
+<author orcid="0000-0002-0782-9482" pid="33/1197">Rodrigo C. Barros</author>
+<author pid="189/4552">Gabriel S. Simoes</author>
+<author pid="194/6142">Thomas S. Paula</author>
+<author pid="22/1939">Duncan Dubugras Alcoba Ruiz</author>
+<title>(Deep) Learning from Frames.</title>
+<pages>1-6</pages>
+<year>2016</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2016.012</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2016.012</ee>
+<crossref>conf/bracis/2016</crossref>
+<url>db/conf/bracis/bracis2016.html#WehrmannBSPR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/SimoesWBR16" mdate="2019-10-19">
+<author pid="189/4552">Gabriel S. Simoes</author>
+<author orcid="0000-0001-9930-0908" pid="189/4618">Jonatas Wehrmann</author>
+<author orcid="0000-0002-0782-9482" pid="33/1197">Rodrigo C. Barros</author>
+<author pid="22/1939">Duncan D. Ruiz</author>
+<title>Movie genre classification with Convolutional Neural Networks.</title>
+<pages>259-266</pages>
+<year>2016</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2016.7727207</ee>
+<crossref>conf/ijcnn/2016</crossref>
+<url>db/conf/ijcnn/ijcnn2016.html#SimoesWBR16</url>
+</inproceedings>
+</r>
+<coauthors n="26" nc="3">
+<co c="1"><na f="a/Arguello:Kristen_K=" pid="385/5648">Kristen K. Arguello</na></co>
+<co c="1"><na f="b/Barros:Ramiro_N=" pid="385/5221">Ramiro N. Barros</na></co>
+<co c="0"><na f="b/Barros:Rodrigo_C=" pid="33/1197">Rodrigo C. Barros</na></co>
+<co c="0" n="2"><na f="b/Becker:Willian" pid="201/5232">Willian Becker</na><na>Willian E. Becker</na></co>
+<co c="0"><na f="c/Cagnini:Henry_E=_L=" pid="177/2452">Henry E. L. Cagnini</na></co>
+<co c="0"><na f="c/Cavalcante:Victor_F=" pid="11/2111">Victor F. Cavalcante</na></co>
+<co c="0"><na f="c/Cerri:Ricardo" pid="94/7227">Ricardo Cerri</na></co>
+<co c="0"><na f="c/Couto_0002:Julia" pid="152/4323">Julia Couto 0002</na></co>
+<co c="0"><na f="d/D=ocirc=res:Silvia_N=_das" pid="180/8271">Silvia N. das D&#244;res</na></co>
+<co c="0"><na f="f/Filho:Ralph_Jose_Rassweiler" pid="202/6302">Ralph Jose Rassweiler Filho</na></co>
+<co c="0"><na f="g/Ghilardi:Marcelo_Cabral" pid="189/8725">Marcelo Cabral Ghilardi</na></co>
+<co c="2"><na f="g/Gomes:Pedro_H=" pid="321/3453">Pedro H. Gomes</na></co>
+<co c="0"><na f="k/Kolling:Camila" pid="249/8377">Camila Kolling</na></co>
+<co c="0" n="2"><na f="l/Lopes:Mauricio_A=" pid="218/9505">Mauricio A. Lopes</na><na>Maur&#237;cio Armani Lopes</na></co>
+<co c="0" n="2"><na f="m/Manssour:Isabel_H=" pid="38/6192">Isabel H. Manssour</na><na>Isabel Harb Manssour</na></co>
+<co c="0"><na f="m/Mattjie:Anderson" pid="202/1685">Anderson Mattjie</na></co>
+<co c="0"><na f="m/Meneguzzi:Felipe" pid="10/985">Felipe Meneguzzi</na></co>
+<co c="0"><na f="m/M=oacute=re:Martin_D=" pid="262/3191">Martin D. M&#243;re</na></co>
+<co c="0"><na f="n/Neuhaus:Priscilla" pid="246/8210">Priscilla Neuhaus</na></co>
+<co c="0"><na f="p/Parraga:Ot=aacute=vio" pid="313/8924">Ot&#225;vio Parraga</na></co>
+<co c="0"><na f="p/Paula:Thomas_S=" pid="194/6142">Thomas S. Paula</na></co>
+<co c="-1"><na f="p/Pereira:Vinicius_G=" pid="340/1754">Vinicius G. Pereira</na></co>
+<co c="0" n="2"><na f="r/Ruiz:Duncan_Dubugras_Alcoba" pid="22/1939">Duncan Dubugras Alcoba Ruiz</na><na>Duncan D. Ruiz</na></co>
+<co c="0" n="2"><na f="s/Simoes:Gabriel_S=" pid="189/4552">Gabriel S. Simoes</na><na>Gabriel S. Sim&#245;es</na></co>
+<co c="0"><na f="s/Souza:Douglas_M=" pid="219/9003">Douglas M. Souza</na></co>
+<co c="2"><na f="v/Venturelli:Matheus_K=" pid="321/3303">Matheus K. Venturelli</na></co>
+</coauthors>
+</dblpperson>
+

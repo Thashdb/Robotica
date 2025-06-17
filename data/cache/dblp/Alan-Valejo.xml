@@ -1,0 +1,549 @@
+<?xml version="1.0"?>
+<dblpperson name="Alan Valejo" pid="149/9198" n="32">
+<person key="homepages/149/9198" mdate="2022-02-10">
+<author pid="149/9198">Alan Valejo</author>
+<author pid="149/9198">Alan Dem&#233;trius Baria Valejo</author>
+<note type="affiliation">University of S&#227;o Paulo, S&#227;o Carlos, Brazil</note>
+<url>https://orcid.org/0000-0002-9046-9499</url>
+</person>
+<r><inproceedings key="conf/sac/SantosMVL25" mdate="2025-05-31">
+<author orcid="0009-0006-7225-7974" pid="358/4861">N&#237;colas Roque dos Santos</author>
+<author pid="233/5442">Diego Minatel</author>
+<author pid="149/9198">Alan Dem&#233;trius Baria Valejo</author>
+<author orcid="0000-0003-3112-4746" pid="60/5946">Alneu de Andrade Lopes</author>
+<title>One-mode Projection of Bipartite Graphs for Text Classification using Graph Neural Networks.</title>
+<pages>645-647</pages>
+<year>2025</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3672608.3707879</ee>
+<crossref>conf/sac/2025</crossref>
+<url>db/conf/sac/sac2025.html#SantosMVL25</url>
+</inproceedings>
+</r>
+<r><article key="journals/tnse/ValejoAFFZYLZ24" mdate="2025-01-19">
+<author orcid="0000-0002-9046-9499" pid="149/9198">Alan Dem&#233;trius Baria Valejo</author>
+<author orcid="0000-0001-7589-4377" pid="307/8489">Paulo Eduardo Althoff</author>
+<author orcid="0000-0001-5275-8356" pid="124/7230">Thiago de Paulo Faleiros</author>
+<author orcid="0000-0001-6795-2768" pid="141/9518">Geraldo Pereira Rocha Filho</author>
+<author orcid="0009-0009-4361-8517" pid="323/9150">Yu-tao Zhu</author>
+<author orcid="0000-0002-4693-7072" pid="307/9335">Jianglong Yan</author>
+<author orcid="0000-0001-5675-5590" pid="82/10774">Weiguang Liu</author>
+<author orcid="0000-0002-1502-6604" pid="63/5422-1">Liang Zhao 0001</author>
+<title>Coarsening Algorithm Based on Multi-Label Propagation for Knowledge Discovery in Bipartite Networks.</title>
+<pages>1799-1809</pages>
+<year>2024</year>
+<month>March - April</month>
+<volume>11</volume>
+<journal>IEEE Trans. Netw. Sci. Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TNSE.2023.3331655</ee>
+<ee>https://www.wikidata.org/entity/Q126368414</ee>
+<url>db/journals/tnse/tnse11.html#ValejoAFFZYLZ24</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/FaleirosAV24" mdate="2025-02-25">
+<author pid="124/7230">Thiago de Paulo Faleiros</author>
+<author pid="307/8489">Paulo Eduardo Althoff</author>
+<author pid="149/9198">Alan Dem&#233;trius Baria Valejo</author>
+<title>Analyzing the Impact of Coarsening on k-Partite Network Classification.</title>
+<pages>156-168</pages>
+<year>2024</year>
+<booktitle>BRACIS (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-79029-4_11</ee>
+<crossref>conf/bracis/2024-1</crossref>
+<url>db/conf/bracis/bracis2024-1.html#FaleirosAV24</url>
+<stream>streams/conf/bracis</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsaa/SantosMVL24" mdate="2024-11-06">
+<author pid="358/4861">N&#237;colas Roque dos Santos</author>
+<author pid="233/5442">Diego Minatel</author>
+<author pid="149/9198">Alan Dem&#233;trius Baria Valejo</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>Semi-Supervised Coarsening of Bipartite Graphs for Text Classification via Graph Neural Network.</title>
+<pages>1-10</pages>
+<year>2024</year>
+<booktitle>DSAA</booktitle>
+<ee>https://doi.org/10.1109/DSAA61799.2024.10722822</ee>
+<crossref>conf/dsaa/2024</crossref>
+<url>db/conf/dsaa/dsaa2024.html#SantosMVL24</url>
+</inproceedings>
+</r>
+<r><article key="journals/ans/AlthoffVF23" mdate="2023-12-20">
+<author pid="307/8489">Paulo Eduardo Althoff</author>
+<author pid="149/9198">Alan Dem&#233;trius Baria Valejo</author>
+<author pid="124/7230">Thiago de Paulo Faleiros</author>
+<title>Coarsening effects on k-partite network classification.</title>
+<pages>82</pages>
+<year>2023</year>
+<month>December</month>
+<volume>8</volume>
+<journal>Appl. Netw. Sci.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s41109-023-00606-y</ee>
+<url>db/journals/ans/ans8.html#AlthoffVF23</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/GattoVFC23" mdate="2023-11-09">
+<author orcid="0000-0002-3322-6407" pid="302/7725">Elaine Cec&#237;lia Gatto</author>
+<author orcid="0000-0002-9046-9499" pid="149/9198">Alan Dem&#233;trius Baria Valejo</author>
+<author orcid="0000-0002-4248-1207" pid="61/2542">Mauri Ferrandin</author>
+<author orcid="0000-0002-2582-1695" pid="94/7227">Ricardo Cerri</author>
+<title>Community Detection for Multi-label Classification.</title>
+<pages>78-93</pages>
+<year>2023</year>
+<booktitle>BRACIS (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-45368-7_6</ee>
+<crossref>conf/bracis/2023-1</crossref>
+<url>db/conf/bracis/bracis2023-1.html#GattoVFC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ciarp/SantosMVL23" mdate="2024-10-06">
+<author pid="358/4861">N&#237;colas Roque dos Santos</author>
+<author orcid="0000-0002-4735-0337" pid="233/5442">Diego Minatel</author>
+<author pid="149/9198">Alan Dem&#233;trius Baria Valejo</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>Bipartite Graph Coarsening for Text Classification Using Graph Neural Networks.</title>
+<pages>589-604</pages>
+<year>2023</year>
+<booktitle>CIARP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-49018-7_42</ee>
+<crossref>conf/ciarp/2023</crossref>
+<url>db/conf/ciarp/ciarp2023.html#SantosMVL23</url>
+</inproceedings>
+</r>
+<r><article key="journals/frma/ValejoFLZO22" mdate="2024-07-19">
+<author pid="149/9198">Alan Dem&#233;trius Baria Valejo</author>
+<author pid="92/10263">Renato Fabbri</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<author pid="63/5422-1">Liang Zhao 0001</author>
+<author pid="57/1706">Maria Cristina Ferreira de Oliveira</author>
+<title>Multilevel Coarsening for Interactive Visualization of Large Bipartite Networks.</title>
+<year>2022</year>
+<month>July</month>
+<volume>7</volume>
+<journal>Frontiers Res. Metrics Anal.</journal>
+<ee type="oa">https://doi.org/10.3389/frma.2022.855165</ee>
+<url>db/journals/frma/frma7.html#ValejoFLZO22</url>
+</article>
+</r>
+<r><article key="journals/nca/NobreNVVPVF22" mdate="2022-10-02">
+<author orcid="0000-0003-3360-2844" pid="327/8274">Renato A. Nobre</author>
+<author pid="313/3233">Khalil C. do Nascimento</author>
+<author orcid="0000-0002-3272-2521" pid="54/1692">Patr&#237;cia A. Vargas</author>
+<author orcid="0000-0002-9046-9499" pid="149/9198">Alan Dem&#233;trius Baria Valejo</author>
+<author pid="59/7537">Gustavo Pessin</author>
+<author pid="64/7382">Leandro A. Villas</author>
+<author orcid="0000-0001-6795-2768" pid="141/9518">Geraldo P. Rocha Filho</author>
+<title>AURORA: an autonomous agent-oriented hybrid trading service.</title>
+<pages>2217-2232</pages>
+<year>2022</year>
+<volume>34</volume>
+<journal>Neural Comput. Appl.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00521-021-06508-3</ee>
+<url>db/journals/nca/nca34.html#NobreNVVPVF22</url>
+</article>
+</r>
+<r><proceedings key="conf/simbig/2021" mdate="2022-06-10">
+<editor orcid="0000-0003-0996-2356" pid="81/11205">Juan Antonio Lossio-Ventura</editor>
+<editor orcid="0000-0001-8664-9692" pid="119/6669">Jorge Valverde-Rebaza</editor>
+<editor orcid="0000-0003-2794-8152" pid="119/9158">Eduardo D&#237;az</editor>
+<editor orcid="0000-0003-2621-8342" pid="118/8594">Denisse Mu&#241;ante</editor>
+<editor orcid="0000-0002-6136-0566" pid="255/6764">Carlos Gavidia-Calderon</editor>
+<editor orcid="0000-0002-9046-9499" pid="149/9198">Alan Dem&#233;trius Baria Valejo</editor>
+<editor orcid="0000-0001-5252-4728" pid="61/11335">Hugo Alatrista-Salas</editor>
+<title>Information Management and Big Data - 8th Annual International Conference, SIMBig 2021, Virtual Event, December 1-3, 2021, Proceedings</title>
+<booktitle>SIMBig</booktitle>
+<publisher>Springer</publisher>
+<year>2022</year>
+<series href="db/series/ccis/index.html">Communications in Computer and Information Science</series>
+<volume>1577</volume>
+<isbn>978-3-031-04446-5</isbn>
+<isbn>978-3-031-04447-2</isbn>
+<ee>https://doi.org/10.1007/978-3-031-04447-2</ee>
+<url>db/conf/simbig/simbig2021.html</url>
+</proceedings>
+</r>
+<r><article key="journals/csur/ValejoFFOL20" mdate="2022-11-23">
+<author orcid="0000-0002-9046-9499" pid="149/9198">Alan Valejo</author>
+<author pid="256/0313">Vin&#237;cius Ferreira 0001</author>
+<author pid="92/10263">Renato Fabbri</author>
+<author orcid="0000-0002-4729-5104" pid="57/1706">Maria Cristina Ferreira de Oliveira</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>A Critical Survey of the Multilevel Method in Complex Networks.</title>
+<pages>39:1-39:35</pages>
+<year>2021</year>
+<volume>53</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3379347</ee>
+<url>db/journals/csur/csur53.html#ValejoFFOL20</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/ValejoAFCYLZ21" mdate="2024-07-16">
+<author orcid="0000-0002-9046-9499" pid="149/9198">Alan Dem&#233;trius Baria Valejo</author>
+<author pid="307/8489">Paulo Eduardo Althoff</author>
+<author pid="124/7230">Thiago de Paulo Faleiros</author>
+<author pid="307/9198">Maria L&#237;gia Chuerubim</author>
+<author orcid="0000-0002-4693-7072" pid="307/9335">Jianglong Yan</author>
+<author pid="82/10774">Weiguang Liu</author>
+<author pid="63/5422-1">Liang Zhao 0001</author>
+<title>Coarsening Algorithm via Semi-synchronous Label Propagation for Bipartite Networks.</title>
+<pages>437-452</pages>
+<year>2021</year>
+<booktitle>BRACIS (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-91702-9_29</ee>
+<crossref>conf/bracis/2021-1</crossref>
+<url>db/conf/bracis/bracis2021-1.html#ValejoAFCYLZ21</url>
+</inproceedings>
+</r>
+<r><article key="journals/adhoc/FilhoMNVWUPV20" mdate="2025-03-03">
+<author pid="141/9518">Geraldo P. Rocha Filho</author>
+<author orcid="0000-0003-2982-4006" pid="123/3499">Rodolfo I. Meneguette</author>
+<author pid="170/5542">Jos&#233; Rodrigues Torres Neto</author>
+<author orcid="0000-0002-9046-9499" pid="149/9198">Alan Valejo</author>
+<author orcid="0000-0003-1826-1850" pid="l/WeigangLi">Li Weigang 0001</author>
+<author orcid="0000-0002-5591-3750" pid="68/1201">J&#243; Ueyama</author>
+<author pid="59/7537">Gustavo Pessin</author>
+<author pid="64/7382">Leandro A. Villas</author>
+<title>Enhancing intelligence in traffic management systems to aid in vehicle traffic congestion problems in smart cities.</title>
+<pages>102265</pages>
+<year>2020</year>
+<volume>107</volume>
+<journal>Ad Hoc Networks</journal>
+<ee>https://doi.org/10.1016/j.adhoc.2020.102265</ee>
+<url>db/journals/adhoc/adhoc107.html#FilhoMNVWUPV20</url>
+</article>
+</r>
+<r><article key="journals/ida/FaleirosVL20" mdate="2024-10-06">
+<author orcid="0000-0001-5275-8356" pid="124/7230">Thiago de Paulo Faleiros</author>
+<author orcid="0000-0002-9046-9499" pid="149/9198">Alan Valejo</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>Unsupervised learning of textual pattern based on Propagation in Bipartite Graph.</title>
+<pages>543-565</pages>
+<year>2020</year>
+<volume>24</volume>
+<journal>Intell. Data Anal.</journal>
+<number>3</number>
+<ee>https://doi.org/10.3233/IDA-194528</ee>
+<url>db/journals/ida/ida24.html#FaleirosVL20</url>
+</article>
+</r>
+<r><article key="journals/kais/ValejoGROL20" mdate="2025-01-19">
+<author orcid="0000-0002-9046-9499" pid="149/9198">Alan Valejo</author>
+<author pid="382/3593">Fabiana G&#243;es</author>
+<author pid="263/7876">Luzia Romanetto</author>
+<author orcid="0000-0002-4729-5104" pid="57/1706">Maria Cristina Ferreira de Oliveira</author>
+<author orcid="0000-0003-3112-4746" pid="60/5946">Alneu de Andrade Lopes</author>
+<title>A benchmarking tool for the generation of bipartite network models with overlapping communities.</title>
+<pages>1641-1669</pages>
+<year>2020</year>
+<volume>62</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10115-019-01411-9</ee>
+<ee>https://www.wikidata.org/entity/Q126992812</ee>
+<url>db/journals/kais/kais62.html#ValejoGROL20</url>
+</article>
+</r>
+<r><article key="journals/kbs/ValejoFOL20" mdate="2024-10-06">
+<author orcid="0000-0002-9046-9499" pid="149/9198">Alan Valejo</author>
+<author orcid="0000-0001-5275-8356" pid="124/7230">Thiago de Paulo Faleiros</author>
+<author orcid="0000-0002-4729-5104" pid="57/1706">Maria Cristina Ferreira de Oliveira</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>A coarsening method for bipartite networks via weight-constrained label propagation.</title>
+<pages>105678</pages>
+<year>2020</year>
+<volume>195</volume>
+<journal>Knowl. Based Syst.</journal>
+<ee>https://doi.org/10.1016/j.knosys.2020.105678</ee>
+<url>db/journals/kbs/kbs195.html#ValejoFOL20</url>
+</article>
+</r>
+<r><inproceedings key="conf/grapp/CintraVLO20" mdate="2020-05-06">
+<author pid="262/8328">Diego S. Cintra</author>
+<author pid="149/9198">Alan Valejo</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<author pid="57/1706">Maria Cristina Ferreira de Oliveira</author>
+<title>Visualization to Assist Interpretation of the Multilevel Paradigm in Bipartite Graphs.</title>
+<pages>133-140</pages>
+<year>2020</year>
+<booktitle>VISIGRAPP (3: IVAPP)</booktitle>
+<ee>https://doi.org/10.5220/0008903501330140</ee>
+<crossref>conf/grapp/2020ivapp</crossref>
+<url>db/conf/grapp/ivapp2020.html#CintraVLO20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/FerreiraVL19" mdate="2022-10-04">
+<author pid="256/0313">Vin&#237;cius Ferreira 0001</author>
+<author pid="149/9198">Alan Valejo</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>A Scalability Approach Based on Multilevel Optimization for Link Prediction Methods.</title>
+<pages>365-370</pages>
+<year>2019</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2019.00071</ee>
+<crossref>conf/bracis/2019</crossref>
+<url>db/conf/bracis/bracis2019.html#FerreiraVL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/FerreiraVVV19" mdate="2022-10-04">
+<author pid="256/0313">Vin&#237;cius Ferreira 0001</author>
+<author pid="149/9198">Alan Valejo</author>
+<author orcid="0000-0002-8627-1316" pid="152/8437">Paola Valdivia</author>
+<author orcid="0000-0001-8664-9692" pid="119/6669">Jorge Valverde-Rebaza</author>
+<title>Exploiting Geographical Data to Improve Recommender Systems for Business Opportunities in Urban Areas.</title>
+<pages>568-573</pages>
+<year>2019</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2019.00105</ee>
+<crossref>conf/bracis/2019</crossref>
+<url>db/conf/bracis/bracis2019.html#FerreiraVVV19</url>
+</inproceedings>
+</r>
+<r><article key="journals/cn/FilhoVFVGU18" mdate="2022-12-07">
+<author orcid="0000-0001-6795-2768" pid="141/9518">Geraldo P. R. Filho</author>
+<author orcid="0000-0002-3372-3366" pid="64/7382">Leandro A. Villas</author>
+<author pid="145/0548">Heitor Freitas</author>
+<author orcid="0000-0002-9046-9499" pid="149/9198">Alan Valejo</author>
+<author pid="86/4704">Daniel L. Guidoni</author>
+<author orcid="0000-0002-5591-3750" pid="68/1201">J&#243; Ueyama</author>
+<title>ResiDI: Towards a smarter smart home system for decision-making using wireless sensors and actuators.</title>
+<pages>54-69</pages>
+<year>2018</year>
+<volume>135</volume>
+<journal>Comput. Networks</journal>
+<ee>https://doi.org/10.1016/j.comnet.2018.02.009</ee>
+<url>db/journals/cn/cn135.html#FilhoVFVGU18</url>
+</article>
+</r>
+<r><article key="journals/kbs/ValejoOFL18" mdate="2025-01-19">
+<author orcid="0000-0002-9046-9499" pid="149/9198">Alan Valejo</author>
+<author orcid="0000-0002-4729-5104" pid="57/1706">Maria Cristina Ferreira de Oliveira</author>
+<author orcid="0000-0001-6795-2768" pid="141/9518">Geraldo P. R. Filho</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>Multilevel approach for combinatorial optimization in bipartite network.</title>
+<pages>45-61</pages>
+<year>2018</year>
+<volume>151</volume>
+<journal>Knowl. Based Syst.</journal>
+<ee>https://doi.org/10.1016/j.knosys.2018.03.021</ee>
+<ee>https://www.wikidata.org/entity/Q130108870</ee>
+<url>db/journals/kbs/kbs151.html#ValejoOFL18</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/MinatelVL18" mdate="2023-03-24">
+<author orcid="0000-0002-4735-0337" pid="233/5442">Diego Minatel</author>
+<author pid="149/9198">Alan Valejo</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>Trajectory Network Assessment Based on Analysis of Stay Points Cluster.</title>
+<pages>564-569</pages>
+<year>2018</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2018.00103</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2018.00103</ee>
+<crossref>conf/bracis/2018</crossref>
+<url>db/conf/bracis/bracis2018.html#MinatelVL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/FilhoNVMVU18" mdate="2025-02-25">
+<author pid="141/9518">Geraldo P. R. Filho</author>
+<author pid="170/5542">Jos&#233; Rodrigues Torres Neto</author>
+<author pid="149/9198">Alan Valejo</author>
+<author pid="123/3499">Rodolfo I. Meneguette</author>
+<author pid="64/7382">Leandro A. Villas</author>
+<author pid="68/1201">J&#243; Ueyama</author>
+<title>Um Sistema de Controle Neuro-Fog para Infraestruturas Residenciais via Objetos Inteligentes.</title>
+<pages>351-364</pages>
+<year>2018</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc.2018.2427</ee>
+<crossref>conf/sbrc/2018</crossref>
+<url>db/conf/sbrc/sbrc2018.html#FilhoNVMVU18</url>
+</inproceedings>
+</r>
+<r><article key="journals/apin/GoncalvesCVFJPU17" mdate="2022-12-07">
+<author orcid="0000-0002-3771-2605" pid="115/5019">Vin&#237;cius Pereira Gon&#231;alves</author>
+<author pid="63/484">Eduardo P. Costa</author>
+<author orcid="0000-0002-9046-9499" pid="149/9198">Alan Valejo</author>
+<author pid="141/9518">Geraldo P. R. Filho</author>
+<author pid="50/10892">Thienne M. Johnson</author>
+<author orcid="0000-0002-7411-9229" pid="59/7537">Gustavo Pessin</author>
+<author orcid="0000-0002-5591-3750" pid="68/1201">J&#243; Ueyama</author>
+<title>Enhancing intelligence in multimodal emotion assessments.</title>
+<pages>470-486</pages>
+<year>2017</year>
+<volume>46</volume>
+<journal>Appl. Intell.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10489-016-0842-7</ee>
+<url>db/journals/apin/apin46.html#GoncalvesCVFJPU17</url>
+</article>
+</r>
+<r><article key="journals/ijon/BertonFVVL17" mdate="2024-10-06">
+<author pid="48/8572">Lilian Berton</author>
+<author orcid="0000-0001-5275-8356" pid="124/7230">Thiago de Paulo Faleiros</author>
+<author orcid="0000-0002-9046-9499" pid="149/9198">Alan Valejo</author>
+<author orcid="0000-0001-8664-9692" pid="119/6669">Jorge Carlos Valverde-Rebaza</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>RGCLI: Robust Graph that Considers Labeled Instances for Semi-Supervised Learning.</title>
+<pages>238-248</pages>
+<year>2017</year>
+<volume>226</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2016.11.053</ee>
+<url>db/journals/ijon/ijon226.html#BertonFVVL17</url>
+</article>
+</r>
+<r><inproceedings key="conf/simbig/ValejoFFOL17" mdate="2023-03-10">
+<author pid="149/9198">Alan Valejo</author>
+<author pid="256/0313">Vin&#237;cius Ferreira 0001</author>
+<author pid="141/9518">Geraldo P. R. Filho</author>
+<author pid="57/1706">Maria Cristina Ferreira de Oliveira</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>One-mode Projection-based Multilevel Approach for Community Detection in Bipartite Networks.</title>
+<pages>101-108</pages>
+<year>2017</year>
+<booktitle>SIMBig</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2029/paper8.pdf</ee>
+<crossref>conf/simbig/2017</crossref>
+<url>db/conf/simbig/simbig2017.html#ValejoFFOL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/simbig/ValejoFOL17" mdate="2022-10-04">
+<author orcid="0000-0002-9046-9499" pid="149/9198">Alan Valejo</author>
+<author pid="256/0313">Vin&#237;cius Ferreira 0001</author>
+<author orcid="0000-0002-4729-5104" pid="57/1706">Maria Cristina Ferreira de Oliveira</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>Community Detection in Bipartite Network: A Modified Coarsening Approach.</title>
+<pages>123-136</pages>
+<year>2017</year>
+<booktitle>SIMBig (Revised Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-90596-9_9</ee>
+<crossref>conf/simbig/2017s</crossref>
+<url>db/conf/simbig/simbig2017s.html#ValejoFOL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/Valverde-Rebaza15" mdate="2024-10-06">
+<author orcid="0000-0001-8664-9692" pid="119/6669">Jorge Carlos Valverde-Rebaza</author>
+<author pid="149/9198">Alan Valejo</author>
+<author pid="48/8572">Lilian Berton</author>
+<author orcid="0000-0001-5275-8356" pid="124/7230">Thiago de Paulo Faleiros</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>A na&#239;ve Bayes model based on ovelapping groups for link prediction in online social networks.</title>
+<pages>1136-1141</pages>
+<year>2015</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2695664.2695719</ee>
+<crossref>conf/sac/2015</crossref>
+<url>db/conf/sac/sac2015.html#Valverde-Rebaza15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/ValejoVL14" mdate="2023-03-24">
+<author pid="149/9198">Alan Valejo</author>
+<author orcid="0000-0001-8664-9692" pid="119/6669">Jorge Carlos Valverde-Rebaza</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>A Multilevel Approach for Overlapping Community Detection.</title>
+<pages>390-395</pages>
+<year>2014</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2014.76</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2014.76</ee>
+<crossref>conf/bracis/2014</crossref>
+<url>db/conf/bracis/bracis2014.html#ValejoVL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ideas/ValejoVDL14" mdate="2018-11-06">
+<author pid="149/9198">Alan Valejo</author>
+<author pid="119/6669">Jorge Carlos Valverde-Rebaza</author>
+<author pid="76/7439">Brett Drury</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>Multilevel refinement based on neighborhood similarity.</title>
+<pages>67-76</pages>
+<year>2014</year>
+<booktitle>IDEAS</booktitle>
+<ee>https://doi.org/10.1145/2628194.2628227</ee>
+<crossref>conf/ideas/2014</crossref>
+<url>db/conf/ideas/ideas2014.html#ValejoVDL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/propor/DruryCVVPL14" mdate="2022-10-02">
+<author pid="76/7439">Brett Drury</author>
+<author pid="151/5285">Paula Christina Figueira Cardoso</author>
+<author orcid="0000-0001-8664-9692" pid="119/6669">Jorge Carlos Valverde-Rebaza</author>
+<author pid="149/9198">Alan Valejo</author>
+<author pid="09/7552">Fabio Pereira</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>An Open Source Tool for Crowd-Sourcing the Manual Annotation of Texts.</title>
+<pages>268-273</pages>
+<year>2014</year>
+<booktitle>PROPOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-09761-9_31</ee>
+<crossref>conf/propor/2014</crossref>
+<url>db/conf/propor/propor2014.html#DruryCVVPL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/propor/ValejoDVL14" mdate="2017-05-24">
+<author pid="149/9198">Alan Valejo</author>
+<author pid="76/7439">Brett Drury</author>
+<author pid="119/6669">Jorge Carlos Valverde-Rebaza</author>
+<author pid="60/5946">Alneu de Andrade Lopes</author>
+<title>Identification of Related Brazilian Portuguese Verb Groups Using Overlapping Community Detection.</title>
+<pages>292-297</pages>
+<year>2014</year>
+<booktitle>PROPOR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-09761-9_35</ee>
+<crossref>conf/propor/2014</crossref>
+<url>db/conf/propor/propor2014.html#ValejoDVL14</url>
+</inproceedings>
+</r>
+<coauthors n="45" nc="1">
+<co c="0"><na f="a/Althoff:Paulo_Eduardo" pid="307/8489">Paulo Eduardo Althoff</na></co>
+<co c="0" n="2"><na f="a/Arzapalo:Denisse_Mu=ntilde=ante" pid="118/8594">Denisse Mu&#241;ante Arzapalo</na><na>Denisse Mu&#241;ante</na></co>
+<co c="0"><na f="b/Berton:Lilian" pid="48/8572">Lilian Berton</na></co>
+<co c="0"><na f="c/Cardoso:Paula_Christina_Figueira" pid="151/5285">Paula Christina Figueira Cardoso</na></co>
+<co c="0"><na f="c/Cerri:Ricardo" pid="94/7227">Ricardo Cerri</na></co>
+<co c="0"><na f="c/Chuerubim:Maria_L=iacute=gia" pid="307/9198">Maria L&#237;gia Chuerubim</na></co>
+<co c="0"><na f="c/Cintra:Diego_S=" pid="262/8328">Diego S. Cintra</na></co>
+<co c="0"><na f="c/Costa:Eduardo_P=" pid="63/484">Eduardo P. Costa</na></co>
+<co c="0"><na f="d/D=iacute=az:Eduardo" pid="119/9158">Eduardo D&#237;az</na></co>
+<co c="0"><na f="d/Drury:Brett" pid="76/7439">Brett Drury</na></co>
+<co c="0"><na f="f/Fabbri:Renato" pid="92/10263">Renato Fabbri</na></co>
+<co c="0"><na f="f/Faleiros:Thiago_de_Paulo" pid="124/7230">Thiago de Paulo Faleiros</na></co>
+<co c="0"><na f="f/Ferrandin:Mauri" pid="61/2542">Mauri Ferrandin</na></co>
+<co c="0"><na f="f/Ferreira_0001:Vin=iacute=cius" pid="256/0313">Vin&#237;cius Ferreira 0001</na></co>
+<co c="0" n="3"><na f="f/Filho:Geraldo_P=_R=" pid="141/9518">Geraldo P. R. Filho</na><na>Geraldo P. Rocha Filho</na><na>Geraldo Pereira Rocha Filho</na></co>
+<co c="0"><na f="f/Freitas:Heitor" pid="145/0548">Heitor Freitas</na></co>
+<co c="0"><na f="g/Gatto:Elaine_Cec=iacute=lia" pid="302/7725">Elaine Cec&#237;lia Gatto</na></co>
+<co c="0"><na f="g/Gavidia=Calderon:Carlos" pid="255/6764">Carlos Gavidia-Calderon</na></co>
+<co c="0"><na f="g/G=oacute=es:Fabiana" pid="382/3593">Fabiana G&#243;es</na></co>
+<co c="0" n="2"><na f="g/Gon=ccedil=alves_0001:Vin=iacute=cius_P=" pid="115/5019">Vin&#237;cius P. Gon&#231;alves 0001</na><na>Vin&#237;cius Pereira Gon&#231;alves</na></co>
+<co c="0"><na f="g/Guidoni:Daniel_L=" pid="86/4704">Daniel L. Guidoni</na></co>
+<co c="0"><na f="j/Johnson:Thienne_M=" pid="50/10892">Thienne M. Johnson</na></co>
+<co c="0" n="2"><na f="l/Li_0001:Weigang" pid="l/WeigangLi">Weigang Li 0001</na><na>Li Weigang 0001</na></co>
+<co c="0"><na f="l/Liu:Weiguang" pid="82/10774">Weiguang Liu</na></co>
+<co c="0"><na f="l/Lopes:Alneu_de_Andrade" pid="60/5946">Alneu de Andrade Lopes</na></co>
+<co c="0"><na f="l/Lossio=Ventura:Juan_Antonio" pid="81/11205">Juan Antonio Lossio-Ventura</na></co>
+<co c="0"><na f="m/Meneguette:Rodolfo_I=" pid="123/3499">Rodolfo I. Meneguette</na></co>
+<co c="0"><na f="m/Minatel:Diego" pid="233/5442">Diego Minatel</na></co>
+<co c="0"><na f="n/Nascimento:Khalil_C=_do" pid="313/3233">Khalil C. do Nascimento</na></co>
+<co c="0"><na f="n/Neto:Jos=eacute=_Rodrigues_Torres" pid="170/5542">Jos&#233; Rodrigues Torres Neto</na></co>
+<co c="0" n="2"><na f="n/Nobre:Renato_Avellar" pid="327/8274">Renato Avellar Nobre</na><na>Renato A. Nobre</na></co>
+<co c="0"><na f="o/Oliveira:Maria_Cristina_Ferreira_de" pid="57/1706">Maria Cristina Ferreira de Oliveira</na></co>
+<co c="0"><na f="p/Pereira:Fabio" pid="09/7552">Fabio Pereira</na></co>
+<co c="0"><na f="p/Pessin:Gustavo" pid="59/7537">Gustavo Pessin</na></co>
+<co c="0"><na f="r/Romanetto:Luzia" pid="263/7876">Luzia Romanetto</na></co>
+<co c="0" n="2"><na f="s/Salas:Hugo_Alatrista" pid="61/11335">Hugo Alatrista Salas</na><na>Hugo Alatrista-Salas</na></co>
+<co c="0"><na f="s/Santos:N=iacute=colas_Roque_dos" pid="358/4861">N&#237;colas Roque dos Santos</na></co>
+<co c="0" n="2"><na f="u/Ueyama:Jo" pid="68/1201">Jo Ueyama</na><na>J&#243; Ueyama</na></co>
+<co c="0"><na f="v/Valdivia:Paola" pid="152/8437">Paola Valdivia</na></co>
+<co c="0" n="2"><na f="v/Valverde=Rebaza:Jorge_Carlos" pid="119/6669">Jorge Carlos Valverde-Rebaza</na><na>Jorge Valverde-Rebaza</na></co>
+<co c="0" n="2"><na f="v/Vargas:Patr=iacute=cia_Am=acirc=ncio" pid="54/1692">Patr&#237;cia Am&#226;ncio Vargas</na><na>Patr&#237;cia A. Vargas</na></co>
+<co c="0"><na f="v/Villas:Leandro_A=" pid="64/7382">Leandro A. Villas</na></co>
+<co c="0"><na f="y/Yan:Jianglong" pid="307/9335">Jianglong Yan</na></co>
+<co c="0"><na f="z/Zhao_0001:Liang" pid="63/5422-1">Liang Zhao 0001</na></co>
+<co c="0" n="2"><na f="z/Zhu:Yu=Tao" pid="323/9150">Yu-Tao Zhu</na><na>Yu-tao Zhu</na></co>
+</coauthors>
+</dblpperson>
+

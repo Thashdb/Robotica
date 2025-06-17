@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
-<dblpperson name="Marco Antonio Simoes Teixeira" pid="210/3781" n="32">
-<person key="homepages/210/3781" mdate="2024-08-28">
+<dblpperson name="Marco Antonio Simoes Teixeira" pid="210/3781" n="33">
+<person key="homepages/210/3781" mdate="2025-06-02">
 <author pid="210/3781">Marco Antonio Simoes Teixeira</author>
 <author pid="210/3781">Marco Ant&#244;nio Sim&#245;es Teixeira</author>
 <author pid="210/3781">Marco Teixeira 0001</author>
 <note type="affiliation">Pontificia Universidade Cat&#243;lica do Paran&#225;, PUCPR, PPGIa, Curitiba, Parana, Brazil</note>
 <note type="affiliation">Universidade Tecnologica Federal do Paran&#225;, UTFPR, Curitiba, Parana, Brazil</note>
-<note type="affiliation" label="PhD 2021">Federal University of Technology, Department of Electrical and Computer Engineering, Paran&#225;, Curitiba, Brazil</note>
+<note label="PhD 2021" type="affiliation">Federal University of Technology, Department of Electrical and Computer Engineering, Paran&#225;, Curitiba, Brazil</note>
 <url>https://orcid.org/0000-0002-0372-312X</url>
 <url>https://www.wikidata.org/entity/Q102051095</url>
 </person>
@@ -16,6 +16,22 @@
 </person>
 </h>
 </homonyms>
+<r><inproceedings key="conf/icit2/GuntherCASPT25" mdate="2025-06-10">
+<author pid="407/0136">Gustavo Andreas G&#252;nther</author>
+<author pid="406/8742">Pedro Henrique Almeida da Cruz</author>
+<author pid="407/0086">Jo&#225;o Pedro Barcelos de Assis</author>
+<author pid="38/3598">Carlos N. Silla</author>
+<author pid="12/1494">Marcelo Eduardo Pellenz</author>
+<author pid="210/3781">Marco Ant&#244;nio Sim&#245;es Teixeira</author>
+<title>Perception System for Autonomous Vehicles: Object Detection, Motion Tracking, and Future Position Prediction.</title>
+<pages>1-6</pages>
+<year>2025</year>
+<booktitle>ICIT</booktitle>
+<ee>https://doi.org/10.1109/ICIT63637.2025.10965297</ee>
+<crossref>conf/icit2/2025</crossref>
+<url>db/conf/icit2/icit2025.html#GuntherCASPT25</url>
+</inproceedings>
+</r>
 <r><article key="journals/ral/TerresTNAO24" mdate="2024-01-13">
 <author orcid="0000-0001-9573-1727" pid="254/0338">Vinicius de Vargas Terres</author>
 <author orcid="0000-0002-0372-312X" pid="210/3781">Marco Antonio Simoes Teixeira</author>
@@ -537,14 +553,16 @@
 <url>db/conf/larc/lars2016.html#SantosTOAN16</url>
 </inproceedings>
 </r>
-<coauthors n="40" nc="1">
+<coauthors n="45" nc="2">
 <co c="0" n="2"><na f="a/Arruda:L=uacute=cia_V=_R=" pid="64/3877">L&#250;cia V. R. Arruda</na><na>L&#250;cia Val&#233;ria Ramos de Arruda</na></co>
+<co c="1"><na f="a/Assis:Jo=aacute=o_Pedro_Barcelos_de" pid="407/0086">Jo&#225;o Pedro Barcelos de Assis</na></co>
 <co c="0"><na f="a/Augusto:Mario_Ezequiel" pid="204/2720">Mario Ezequiel Augusto</na></co>
 <co c="0"><na f="b/Barioni:Carina_Toledo_Scoparo" pid="395/9513">Carina Toledo Scoparo Barioni</na></co>
 <co c="0"><na f="b/Barioni:Wilson_Eduardo" pid="337/9089">Wilson Eduardo Barioni</na></co>
 <co c="0" n="2"><na f="b/Berger:Guido_S=" pid="321/9267">Guido S. Berger</na><na>Guido Szekir</na></co>
 <co c="0"><na f="c/Cantieri:Alvaro_Rog=eacute=rio" pid="211/8353">Alvaro Rog&#233;rio Cantieri</na></co>
 <co c="0"><na f="c/Cerbaro:Jonathan" pid="283/9632">Jonathan Cerbaro</na></co>
+<co c="1"><na f="c/Cruz:Pedro_Henrique_Almeida_da" pid="406/8742">Pedro Henrique Almeida da Cruz</na></co>
 <co c="0"><na f="c/Cziulik:Carlos" pid="197/0995">Carlos Cziulik</na></co>
 <co c="0"><na f="d/Dalmedico:Nicolas" pid="210/3801">Nicolas Dalmedico</na></co>
 <co c="0"><na f="d/Daros:Filipe_Testa" pid="374/1424">Filipe Testa Daros</na></co>
@@ -553,6 +571,7 @@
 <co c="0"><na f="f/Ferraz:Matheus_F=" pid="338/5364">Matheus F. Ferraz</na></co>
 <co c="0"><na f="f/Fonseca:Mario_Jambeiro" pid="364/1083">Mario Jambeiro Fonseca</na></co>
 <co c="0"><na f="g/G=uuml=nther:Gustavo" pid="364/1011">Gustavo G&#252;nther</na></co>
+<co c="1"><na f="g/G=uuml=nther:Gustavo_Andreas" pid="407/0136">Gustavo Andreas G&#252;nther</na></co>
 <co c="0"><na f="k/Kalempa:Vivian_Cremer" pid="253/2983">Vivian Cremer Kalempa</na></co>
 <co c="0"><na f="k/Koubaa:Anis" pid="31/348">Anis Koubaa</na></co>
 <co c="0"><na f="l/Latini:Igor_Pardal" pid="337/9286">Igor Pardal Latini</na></co>
@@ -567,11 +586,13 @@
 <co c="0"><na f="o/Oliveira:Andr=eacute=_Schneider_de" pid="160/1451">Andr&#233; Schneider de Oliveira</na></co>
 <co c="0"><na f="p/Palar:Piatan_Sfair" pid="254/0382">Piatan Sfair Palar</na></co>
 <co c="0"><na f="p/Passarin:Thiago_Alberto_Rigo" pid="207/9603">Thiago Alberto Rigo Passarin</na></co>
+<co c="1"><na f="p/Pellenz:Marcelo_Eduardo" pid="12/1494">Marcelo Eduardo Pellenz</na></co>
 <co c="0"><na f="p/Piardi:Luis" pid="217/4571">Luis Piardi</na></co>
 <co c="0"><na f="p/Pipa:Daniel_Rodrigues" pid="145/4746">Daniel Rodrigues Pipa</na></co>
 <co c="0"><na f="r/Ramos:Julio_Endress" pid="250/4910">Julio Endress Ramos</na></co>
 <co c="0"><na f="r/Rohrich:Ronnier_Frates" pid="254/0324">Ronnier Frates Rohrich</na></co>
 <co c="0"><na f="s/Santos:Higor_Barbosa" pid="210/3800">Higor Barbosa Santos</na></co>
+<co c="1" n="2"><na f="s/Silla_Jr=:Carlos_Nascimento" pid="38/3598">Carlos Nascimento Silla Jr.</na><na>Carlos N. Silla</na></co>
 <co c="0"><na f="s/Slongo:Juliano_Scholz" pid="254/0403">Juliano Scholz Slongo</na></co>
 <co c="0"><na f="s/Sousa:Alex_Luiz_De" pid="283/9501">Alex Luiz De Sousa</na></co>
 <co c="0" n="2"><na f="t/Terres:Vinicius_Vargas" pid="254/0338">Vinicius Vargas Terres</na><na>Vinicius de Vargas Terres</na></co>

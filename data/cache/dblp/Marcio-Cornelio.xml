@@ -1,0 +1,339 @@
+<?xml version="1.0"?>
+<dblpperson name="M&#225;rcio Corn&#233;lio" pid="03/3763" n="20">
+<person key="homepages/03/3763" mdate="2016-01-25">
+<author pid="03/3763">M&#225;rcio Corn&#233;lio</author>
+<author pid="03/3763">M&#225;rcio Lopes Corn&#233;lio</author>
+<url>http://www.cin.ufpe.br/~mlc2/</url>
+<url>http://lattes.cnpq.br/3776948564582273</url>
+<note type="affiliation">Universidade Federal de Pernambuco, Brazil</note>
+</person>
+<r><article key="journals/scp/CornelioR19" mdate="2025-01-19">
+<author pid="03/3763">M&#225;rcio Corn&#233;lio</author>
+<author pid="r/AWRoscoe">A. W. Roscoe 0001</author>
+<title>Guest editorial for the special issue from the 18th Brazilian Symposium on Formal Methods (SBMF 2015).</title>
+<pages>82-83</pages>
+<year>2019</year>
+<volume>181</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee>https://doi.org/10.1016/j.scico.2019.07.001</ee>
+<ee>https://www.wikidata.org/entity/Q127596932</ee>
+<url>db/journals/scp/scp181.html#CornelioR19</url>
+</article>
+</r>
+<r><article key="journals/sosym/LimaMCCISHLL17" mdate="2025-03-03">
+<author orcid="0000-0003-1859-8437" pid="35/7686-1">Lucas Lima 0001</author>
+<author orcid="0000-0003-2233-9091" pid="90/9827">Alvaro Miyazawa</author>
+<author orcid="0000-0002-0831-1976" pid="c/AnaCavalcanti">Ana Cavalcanti 0001</author>
+<author pid="03/3763">M&#225;rcio Corn&#233;lio</author>
+<author pid="72/4526">Juliano Iyoda</author>
+<author pid="s/AugustoSampaio">Augusto Sampaio 0001</author>
+<author pid="202/1240">Ralph Hains</author>
+<author pid="98/11493">Adrian Larkham</author>
+<author pid="202/1162">Vaughan Lewis</author>
+<title>An integrated semantics for reasoning about SysML design models using refinement.</title>
+<pages>875-902</pages>
+<year>2017</year>
+<volume>16</volume>
+<journal>Softw. Syst. Model.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10270-015-0492-y</ee>
+<url>db/journals/sosym/sosym16.html#LimaMCCISHLL17</url>
+</article>
+</r>
+<r><proceedings key="conf/sbmf/2015" mdate="2019-05-14">
+<editor pid="03/3763">M&#225;rcio Corn&#233;lio</editor>
+<editor pid="r/AWRoscoe">Bill Roscoe</editor>
+<title>Formal Methods: Foundations and Applications - 18th Brazilian Symposium, SBMF 2015, Belo Horizonte, Brazil, September 21-22, 2015, Proceedings</title>
+<booktitle>SBMF</booktitle>
+<publisher>Springer</publisher>
+<year>2016</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>9526</volume>
+<isbn>978-3-319-29472-8</isbn>
+<ee>https://doi.org/10.1007/978-3-319-29473-5</ee>
+<url>db/conf/sbmf/sbmf2015.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/aosd/RebeloLBRLZCT14" mdate="2021-12-27">
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author pid="66/2755">Gary T. Leavens</author>
+<author pid="78/8636">Mehdi Bagherzadeh 0001</author>
+<author orcid="0000-0002-9410-9562" pid="r/HrideshRajan">Hridesh Rajan</author>
+<author pid="34/3170">Ricardo Massa Ferreira Lima</author>
+<author pid="z/DMZimmerman">Daniel M. Zimmerman</author>
+<author pid="03/3763">M&#225;rcio Corn&#233;lio</author>
+<author pid="04/7056">Thomas Th&#252;m</author>
+<title>Modularizing crosscutting contracts with AspectJML.</title>
+<pages>21-24</pages>
+<year>2014</year>
+<booktitle>MODULARITY (Companion)</booktitle>
+<ee>https://doi.org/10.1145/2584469.2584476</ee>
+<crossref>conf/aosd/2014</crossref>
+<url>db/conf/aosd/modularity2014c.html#RebeloLBRLZCT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aosd/RebeloLBRLZCT14a" mdate="2021-04-09">
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author pid="66/2755">Gary T. Leavens</author>
+<author pid="78/8636">Mehdi Bagherzadeh 0001</author>
+<author orcid="0000-0002-9410-9562" pid="r/HrideshRajan">Hridesh Rajan</author>
+<author pid="34/3170">Ricardo Massa Ferreira Lima</author>
+<author pid="z/DMZimmerman">Daniel M. Zimmerman</author>
+<author pid="03/3763">M&#225;rcio Corn&#233;lio</author>
+<author pid="04/7056">Thomas Th&#252;m</author>
+<title>AspectJML: modular specification and runtime checking for crosscutting contracts.</title>
+<pages>157-168</pages>
+<year>2014</year>
+<booktitle>MODULARITY</booktitle>
+<ee>https://doi.org/10.1145/2577080.2577084</ee>
+<crossref>conf/aosd/2014</crossref>
+<url>db/conf/aosd/modularity2014.html#RebeloLBRLZCT14a</url>
+</inproceedings>
+</r>
+<r><article key="journals/scp/RebeloLLCMO13" mdate="2022-04-04">
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author pid="34/3170">Ricardo Massa Ferreira Lima</author>
+<author pid="66/2755">Gary T. Leavens</author>
+<author pid="03/3763">M&#225;rcio Corn&#233;lio</author>
+<author pid="m/AlexandreMota">Alexandre Mota 0001</author>
+<author pid="90/3912">C&#233;sar A. L. de Oliveira</author>
+<title>Optimizing generated aspect-oriented assertion checking code for JML using program transformations: An empirical study.</title>
+<pages>1137-1156</pages>
+<year>2013</year>
+<volume>78</volume>
+<journal>Sci. Comput. Program.</journal>
+<number>8</number>
+<ee type="oa">https://doi.org/10.1016/j.scico.2012.09.003</ee>
+<url>db/journals/scp/scp78.html#RebeloLLCMO13</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbmf/LimaDC13" mdate="2021-01-23">
+<author pid="35/7686-1">Lucas Lima 0001</author>
+<author orcid="0000-0002-1268-6308" pid="29/7127">Andr&#233; Didier</author>
+<author pid="03/3763">M&#225;rcio Corn&#233;lio</author>
+<title>A Formal Semantics for SysML Activity Diagrams.</title>
+<pages>179-194</pages>
+<year>2013</year>
+<booktitle>SBMF</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-41071-0_13</ee>
+<crossref>conf/sbmf/2013</crossref>
+<url>db/conf/sbmf/sbmf2013.html#LimaDC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/CarvalhoSLC13" mdate="2017-05-17">
+<author pid="42/8744">Renata Medeiros de Carvalho</author>
+<author pid="131/5647">Nat&#225;lia Cabral Silva</author>
+<author pid="34/3170">Ricardo Massa Ferreira Lima</author>
+<author pid="03/3763">M&#225;rcio Corn&#233;lio</author>
+<title>ReFlex: An Efficient Graph-Based Rule Engine to Execute Declarative Processes.</title>
+<pages>1379-1384</pages>
+<year>2013</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/SMC.2013.238</ee>
+<crossref>conf/smc/2013</crossref>
+<url>db/conf/smc/smc2013.html#CarvalhoSLC13</url>
+</inproceedings>
+</r>
+<r><article key="journals/infsof/OliveiraBLC10" mdate="2020-02-20">
+<author orcid="0000-0002-5614-229X" pid="80/3742">Adriano L. I. Oliveira</author>
+<author pid="25/909">Petr&#244;nio L. Braga</author>
+<author pid="34/3170">Ricardo Massa Ferreira Lima</author>
+<author pid="03/3763">M&#225;rcio Corn&#233;lio</author>
+<title>GA-based method for feature selection and parameters optimization for machine learning regression applied to software effort estimation.</title>
+<pages>1155-1166</pages>
+<year>2010</year>
+<volume>52</volume>
+<journal>Inf. Softw. Technol.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1016/j.infsof.2010.05.009</ee>
+<url>db/journals/infsof/infsof52.html#OliveiraBLC10</url>
+</article>
+</r>
+<r><article key="journals/scp/CornelioCS10" mdate="2024-06-12">
+<author pid="03/3763">M&#225;rcio Corn&#233;lio</author>
+<author orcid="0000-0002-0831-1976" pid="c/AnaCavalcanti">Ana Cavalcanti 0001</author>
+<author pid="s/AugustoSampaio">Augusto Sampaio 0001</author>
+<title>Sound refactorings.</title>
+<pages>106-133</pages>
+<year>2010</year>
+<volume>75</volume>
+<journal>Sci. Comput. Program.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1016/j.scico.2009.10.001</ee>
+<url>db/journals/scp/scp75.html#CornelioCS10</url>
+</article>
+</r>
+<r><inproceedings key="journals/corr/abs-1003-4800" mdate="2025-03-03">
+<author pid="60/7998">Gabriel Falconieri Freitas</author>
+<author pid="03/3763">M&#225;rcio Corn&#233;lio</author>
+<author orcid="0000-0002-9423-7556" pid="91/4481">Tiago Massoni</author>
+<author orcid="0000-0002-5562-4449" pid="10/3240">Rohit Gheyi</author>
+<title>Object-oriented Programming Laws for Annotated Java Programs</title>
+<booktitle>RULE</booktitle>
+<year>2009</year>
+<pages>65-76</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.21.6</ee>
+<ee type="oa">http://arxiv.org/abs/1003.4800</ee>
+<crossref>journals/corr/abs-1003-5758</crossref>
+<url>db/series/eptcs/eptcs21.html#abs-1003-4800</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icst/RebeloLCS08" mdate="2023-03-23">
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author pid="34/3170">Ricardo Massa Ferreira Lima</author>
+<author pid="03/3763">M&#225;rcio Corn&#233;lio</author>
+<author orcid="0000-0002-4428-2535" pid="58/232">S&#233;rgio Soares</author>
+<title>A JML Compiler Based on AspectJ.</title>
+<pages>541-544</pages>
+<year>2008</year>
+<booktitle>ICST</booktitle>
+<ee>https://doi.org/10.1109/ICST.2008.14</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICST.2008.14</ee>
+<crossref>conf/icst/2008</crossref>
+<url>db/conf/icst/icst2008.html#RebeloLCS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/RebeloSLFC08" mdate="2025-01-19">
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author orcid="0000-0002-4428-2535" pid="58/232">S&#233;rgio Soares</author>
+<author pid="34/3170">Ricardo Massa Ferreira Lima</author>
+<author pid="75/1089">Leopoldo Ferreira</author>
+<author pid="03/3763">M&#225;rcio Corn&#233;lio</author>
+<title>Implementing Java modeling language contracts with AspectJ.</title>
+<pages>228-233</pages>
+<year>2008</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1363686.1363745</ee>
+<ee>https://www.wikidata.org/entity/Q131121990</ee>
+<crossref>conf/sac/2008</crossref>
+<url>db/conf/sac/sac2008.html#RebeloSLFC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecoop/SantosMC07" mdate="2010-07-16">
+<author pid="34/984">Alexandre A. Santos</author>
+<author pid="01/8311">Luis Menezes</author>
+<author pid="03/3763">M&#225;rcio Corn&#233;lio</author>
+<title>Flexible Transformation Language.</title>
+<pages>9-10</pages>
+<year>2007</year>
+<booktitle>WRT</booktitle>
+<ee>http://netfiles.uiuc.edu/dig/RefactoringWorkshop/</ee>
+<crossref>conf/ecoop/2007wrt</crossref>
+<url>db/conf/ecoop/wrt2007.html#SantosMC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/JuniorSC07" mdate="2023-01-24">
+<author pid="25/6461">Antonio Carvalho J&#250;nior</author>
+<author pid="26/5446">Leila Silva</author>
+<author pid="03/3763">M&#225;rcio Corn&#233;lio</author>
+<title>Using CafeOBJ to Mechanise Refactoring Proofs and Application.</title>
+<pages>39-61</pages>
+<year>2005</year>
+<crossref>conf/sbmf/2005</crossref>
+<booktitle>SBMF</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2007.03.014</ee>
+<url>db/journals/entcs/entcs184.html#JuniorSC07</url>
+</inproceedings>
+</r>
+<r><article key="journals/scp/BorbaSCC04" mdate="2024-06-12">
+<author orcid="0000-0002-0381-2843" pid="b/PauloBorba">Paulo Borba</author>
+<author pid="s/AugustoSampaio">Augusto Sampaio 0001</author>
+<author orcid="0000-0002-0831-1976" pid="c/AnaCavalcanti">Ana Cavalcanti 0001</author>
+<author pid="03/3763">M&#225;rcio Corn&#233;lio</author>
+<title>Algebraic reasoning for object-oriented programming.</title>
+<pages>53-100</pages>
+<year>2004</year>
+<volume>52</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee type="oa">https://doi.org/10.1016/j.scico.2004.03.003</ee>
+<url>db/journals/scp/scp52.html#BorbaSCC04</url>
+</article>
+</r>
+<r><inproceedings key="journals/entcs/CornelioCS05" mdate="2024-06-12">
+<author pid="03/3763">M&#225;rcio Corn&#233;lio</author>
+<author pid="c/AnaCavalcanti">Ana Cavalcanti 0001</author>
+<author pid="s/AugustoSampaio">Augusto Sampaio 0001</author>
+<title>Refactoring Towards a Layered Architecture.</title>
+<pages>281-300</pages>
+<year>2004</year>
+<crossref>conf/sbmf/2004</crossref>
+<booktitle>SBMF</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2005.03.015</ee>
+<url>db/journals/entcs/entcs130.html#CornelioCS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecoop/BorbaSC03" mdate="2024-06-12">
+<author pid="b/PauloBorba">Paulo Borba</author>
+<author pid="s/AugustoSampaio">Augusto Sampaio 0001</author>
+<author pid="03/3763">M&#225;rcio Corn&#233;lio</author>
+<title>A Refinement Algebra for Object-Oriented Programming.</title>
+<pages>457-482</pages>
+<ee>https://doi.org/10.1007/978-3-540-45070-2_20</ee>
+<year>2003</year>
+<crossref>conf/ecoop/2003</crossref>
+<booktitle>ECOOP</booktitle>
+<url>db/conf/ecoop/ecoop2003.html#BorbaSC03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/CornelioCS02" mdate="2024-06-12">
+<author pid="03/3763">M&#225;rcio Corn&#233;lio</author>
+<author pid="c/AnaCavalcanti">Ana Cavalcanti 0001</author>
+<author pid="s/AugustoSampaio">Augusto Sampaio 0001</author>
+<title>Refactoring by Transformation.</title>
+<year>2002</year>
+<crossref>conf/refine/2002</crossref>
+<booktitle>Refine</booktitle>
+<ee type="oa">https://doi.org/10.1016/S1571-0661(05)82564-2</ee>
+<url>db/conf/refine/refine2002.html#CornelioCS02</url>
+<pages>311-330</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsr/CornelioB00" mdate="2017-05-23">
+<author pid="03/3763">M&#225;rcio Corn&#233;lio</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<title>Structuring Meachanisms for an Object-Oriented Formal Specification Language.</title>
+<pages>402-419</pages>
+<year>2000</year>
+<crossref>conf/icsr/2000</crossref>
+<booktitle>ICSR</booktitle>
+<url>db/conf/icsr/icsr2000.html#CornelioB00</url>
+<ee>https://doi.org/10.1007/978-3-540-44995-9_24</ee>
+</inproceedings>
+</r>
+<coauthors n="33" nc="2">
+<co c="0"><na f="b/Bagherzadeh_0001:Mehdi" pid="78/8636">Mehdi Bagherzadeh 0001</na></co>
+<co c="0"><na f="b/Borba:Paulo" pid="b/PauloBorba">Paulo Borba</na></co>
+<co c="0"><na f="b/Braga:Petr=ocirc=nio_L=" pid="25/909">Petr&#244;nio L. Braga</na></co>
+<co c="0"><na f="c/Carvalho:Renata_Medeiros_de" pid="42/8744">Renata Medeiros de Carvalho</na></co>
+<co c="0"><na f="c/Cavalcanti_0001:Ana" pid="c/AnaCavalcanti">Ana Cavalcanti 0001</na></co>
+<co c="0"><na f="d/Didier:Andr=eacute=" pid="29/7127">Andr&#233; Didier</na></co>
+<co c="0"><na f="f/Ferreira:Leopoldo" pid="75/1089">Leopoldo Ferreira</na></co>
+<co c="0"><na f="f/Freitas:Gabriel_Falconieri" pid="60/7998">Gabriel Falconieri Freitas</na></co>
+<co c="0"><na f="g/Gheyi:Rohit" pid="10/3240">Rohit Gheyi</na></co>
+<co c="0"><na f="h/Hains:Ralph" pid="202/1240">Ralph Hains</na></co>
+<co c="0"><na f="i/Iyoda:Juliano" pid="72/4526">Juliano Iyoda</na></co>
+<co c="0"><na f="j/J=uacute=nior:Antonio_Carvalho" pid="25/6461">Antonio Carvalho J&#250;nior</na></co>
+<co c="0"><na f="l/Larkham:Adrian" pid="98/11493">Adrian Larkham</na></co>
+<co c="0"><na f="l/Leavens:Gary_T=" pid="66/2755">Gary T. Leavens</na></co>
+<co c="0"><na f="l/Lewis:Vaughan" pid="202/1162">Vaughan Lewis</na></co>
+<co c="0"><na f="l/Lima_0001:Lucas" pid="35/7686-1">Lucas Lima 0001</na></co>
+<co c="0"><na f="l/Lima:Ricardo_Massa_Ferreira" pid="34/3170">Ricardo Massa Ferreira Lima</na></co>
+<co c="0"><na f="m/Massoni:Tiago" pid="91/4481">Tiago Massoni</na></co>
+<co c="1"><na f="m/Menezes:Luis" pid="01/8311">Luis Menezes</na></co>
+<co c="0"><na f="m/Miyazawa:Alvaro" pid="90/9827">Alvaro Miyazawa</na></co>
+<co c="0"><na f="m/Mota_0001:Alexandre" pid="m/AlexandreMota">Alexandre Mota 0001</na></co>
+<co c="0" n="2"><na f="o/Oliveira:Adriano_Lorena_In=aacute=cio_de" pid="80/3742">Adriano Lorena In&#225;cio de Oliveira</na><na>Adriano L. I. Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:C=eacute=sar_A=_L=_de" pid="90/3912">C&#233;sar A. L. de Oliveira</na></co>
+<co c="0"><na f="r/Rajan:Hridesh" pid="r/HrideshRajan">Hridesh Rajan</na></co>
+<co c="0"><na f="r/Reb=ecirc=lo:Henrique" pid="27/5017">Henrique Reb&#234;lo</na></co>
+<co c="0" n="2"><na f="r/Roscoe_0001:A=_W=" pid="r/AWRoscoe">A. W. Roscoe 0001</na><na>Bill Roscoe</na></co>
+<co c="0"><na f="s/Sampaio_0001:Augusto" pid="s/AugustoSampaio">Augusto Sampaio 0001</na></co>
+<co c="1"><na f="s/Santos:Alexandre_A=" pid="34/984">Alexandre A. Santos</na></co>
+<co c="0"><na f="s/Silva:Leila" pid="26/5446">Leila Silva</na></co>
+<co c="0"><na f="s/Silva:Nat=aacute=lia_Cabral" pid="131/5647">Nat&#225;lia Cabral Silva</na></co>
+<co c="0"><na f="s/Soares:S=eacute=rgio" pid="58/232">S&#233;rgio Soares</na></co>
+<co c="0"><na f="t/Th=uuml=m:Thomas" pid="04/7056">Thomas Th&#252;m</na></co>
+<co c="0"><na f="z/Zimmerman:Daniel_M=" pid="z/DMZimmerman">Daniel M. Zimmerman</na></co>
+</coauthors>
+</dblpperson>
+

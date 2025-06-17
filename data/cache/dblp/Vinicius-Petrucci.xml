@@ -1,0 +1,737 @@
+<?xml version="1.0"?>
+<dblpperson name="Vinicius Petrucci" pid="80/2060" n="44">
+<person key="homepages/80/2060" mdate="2009-06-09">
+<author pid="80/2060">Vinicius Petrucci</author>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2412-12491" mdate="2025-01-21">
+<author pid="395/2315">Rohit Sehgal</author>
+<author pid="395/2167">Vishal Tanna</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="395/3523">Anil Godbole</author>
+<title>Optimizing System Memory Bandwidth with Micron CXL Memory Expansion Modules on Intel Xeon 6 Processors.</title>
+<year>2024</year>
+<volume>abs/2412.12491</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2412.12491</ee>
+<url>db/journals/corr/corr2412.html#abs-2412-12491</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/sc/ZacariasCP23" mdate="2025-01-19">
+<author orcid="0000-0003-3276-0488" pid="255/2780">Felippe Vieira Zacarias</author>
+<author orcid="0000-0002-9392-0521" pid="51/7182">Paul M. Carpenter</author>
+<author orcid="0000-0002-5671-7575" pid="80/2060">Vinicius Petrucci</author>
+<title>Dynamic Memory Provisioning on Disaggregated HPC Systems.</title>
+<pages>973-982</pages>
+<year>2023</year>
+<booktitle>SC Workshops</booktitle>
+<ee>https://doi.org/10.1145/3624062.3624174</ee>
+<ee>https://www.wikidata.org/entity/Q130954182</ee>
+<crossref>conf/sc/2023w</crossref>
+<url>db/conf/sc/sc2023w.html#ZacariasCP23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iiswc/MouraMP22" mdate="2023-01-04">
+<author pid="249/3650">Diego Moura</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<title>Performance Characterization of AutoNUMA Memory Tiering on Graph Analytics.</title>
+<pages>171-184</pages>
+<year>2022</year>
+<booktitle>IISWC</booktitle>
+<ee>https://doi.org/10.1109/IISWC55918.2022.00024</ee>
+<crossref>conf/iiswc/2022</crossref>
+<url>db/conf/iiswc/iiswc2022.html#MouraMP22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcse/WuPAKOP21" mdate="2025-01-19">
+<author pid="16/4485">Zhen Wu</author>
+<author pid="314/7218">Rachel Puckett</author>
+<author pid="65/4407">Wonsun Ahn</author>
+<author pid="60/6179">Sherif M. Khattab</author>
+<author pid="117/3290-2">Luis Oliveira 0002</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<title>The Effect of Animations Using Real-world Analogies on Diverse Computer Systems Students.</title>
+<pages>1172</pages>
+<year>2022</year>
+<booktitle>SIGCSE (2)</booktitle>
+<ee>https://doi.org/10.1145/3478432.3499206</ee>
+<ee>https://www.wikidata.org/entity/Q131117842</ee>
+<crossref>conf/sigcse/2022-2</crossref>
+<url>db/conf/sigcse/sigcse2022-2.html#WuPAKOP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcse/WuPAKOP21a" mdate="2025-01-19">
+<author pid="16/4485">Zhen Wu</author>
+<author pid="314/7218">Rachel Puckett</author>
+<author pid="65/4407">Wonsun Ahn</author>
+<author pid="60/6179">Sherif M. Khattab</author>
+<author pid="117/3290-2">Luis Oliveira 0002</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<title>Laundry Overflow: Engaging Diverse Students in CyberSecurity using Interactive Analogies.</title>
+<pages>1180</pages>
+<year>2022</year>
+<booktitle>SIGCSE (2)</booktitle>
+<ee>https://doi.org/10.1145/3478432.3499252</ee>
+<ee>https://www.wikidata.org/entity/Q131111313</ee>
+<crossref>conf/sigcse/2022-2</crossref>
+<url>db/conf/sigcse/sigcse2022-2.html#WuPAKOP21a</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2211-02195" mdate="2022-11-09">
+<author pid="249/3650">Diego Moura</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>Learning to Rank Graph-based Application Objects on Heterogeneous Memories.</title>
+<year>2022</year>
+<volume>abs/2211.02195</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2211.02195</ee>
+<url>db/journals/corr/corr2211.html#abs-2211-02195</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2212-04344" mdate="2023-01-02">
+<author pid="249/3650">Diego Moura</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>Performance Characterization of AutoNUMA Memory Tiering on Graph Analytics.</title>
+<year>2022</year>
+<volume>abs/2212.04344</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2212.04344</ee>
+<url>db/journals/corr/corr2212.html#abs-2212-04344</url>
+</article>
+</r>
+<r><article key="journals/jpdc/ZacariasPNCM21" mdate="2022-01-04">
+<author orcid="0000-0003-3276-0488" pid="255/2780">Felippe Vieira Zacarias</author>
+<author orcid="0000-0002-5671-7575" pid="80/2060">Vinicius Petrucci</author>
+<author pid="137/2967">Rajiv Nishtala</author>
+<author pid="51/7182">Paul M. Carpenter</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>Intelligent colocation of HPC workloads.</title>
+<pages>125-137</pages>
+<year>2021</year>
+<volume>151</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<ee>https://doi.org/10.1016/j.jpdc.2021.02.010</ee>
+<url>db/journals/jpdc/jpdc151.html#ZacariasPNCM21</url>
+</article>
+</r>
+<r><article key="journals/tecs/SilvaLPGP21" mdate="2023-08-28">
+<author pid="228/5945">Junio Cezar Ribeiro da Silva</author>
+<author pid="281/0106">Lorena Le&#227;o</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="g/AbdoulayeGamatie">Abdoulaye Gamati&#233;</author>
+<author pid="p/FMQPereira">Fernando Magno Quint&#227;o Pereira</author>
+<title>Mapping Computations in Heterogeneous Multicore Systems with Statistical Regression on Program Inputs.</title>
+<pages>112:1-112:35</pages>
+<year>2021</year>
+<volume>20</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/3478288</ee>
+<ee>https://www.wikidata.org/entity/Q114071155</ee>
+<url>db/journals/tecs/tecs20.html#SilvaLPGP21</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccgrid/MedeirosAP21" mdate="2021-08-06">
+<author pid="298/8749">Daniel Ara&#250;jo de Medeiros</author>
+<author pid="298/8588">Denilson das Merc&#234;s Amorim</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<title>Profile-guided Frequency Scaling for Latency-Critical Search Workloads.</title>
+<pages>304-313</pages>
+<year>2021</year>
+<booktitle>CCGRID</booktitle>
+<ee>https://doi.org/10.1109/CCGrid51090.2021.00040</ee>
+<crossref>conf/ccgrid/2021</crossref>
+<url>db/conf/ccgrid/ccgrid2021.html#MedeirosAP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpads/ZacariasCP21" mdate="2022-05-09">
+<author pid="255/2780">Felippe Vieira Zacarias</author>
+<author pid="51/7182">Paul M. Carpenter</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<title>Improving HPC System Throughput and Response Time using Memory Disaggregation.</title>
+<pages>283-290</pages>
+<year>2021</year>
+<booktitle>ICPADS</booktitle>
+<ee>https://doi.org/10.1109/ICPADS53394.2021.00041</ee>
+<crossref>conf/icpads/2021</crossref>
+<url>db/conf/icpads/icpads2021.html#ZacariasCP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/memsys/MouraPM21" mdate="2025-01-19">
+<author pid="249/3650">Diego Moura</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>Learning to Rank Graph-based Application Objects on Heterogeneous Memories.</title>
+<pages>5:1-5:14</pages>
+<year>2021</year>
+<booktitle>MEMSYS</booktitle>
+<ee>https://doi.org/10.1145/3488423.3519324</ee>
+<ee>https://www.wikidata.org/entity/Q130974334</ee>
+<crossref>conf/memsys/2021</crossref>
+<url>db/conf/memsys/memsys2021.html#MouraPM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pmbs-ws/ZacariasCP21" mdate="2022-01-04">
+<author pid="255/2780">Felippe Vieira Zacarias</author>
+<author pid="51/7182">Paul M. Carpenter</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<title>Memory Demands in Disaggregated HPC: How Accurate Do We Need to Be?</title>
+<pages>1-6</pages>
+<year>2021</year>
+<booktitle>PMBS</booktitle>
+<ee>https://doi.org/10.1109/PMBS54543.2021.00006</ee>
+<crossref>conf/pmbs-ws/2021</crossref>
+<url>db/conf/pmbs-ws/pmbs-ws2021.html#ZacariasCP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtss/MassaLAP21" mdate="2022-07-25">
+<author orcid="0000-0001-7266-2052" pid="53/8452">Ernesto Massa</author>
+<author pid="07/2481">George Lima 0001</author>
+<author pid="39/4827">Bj&#246;rn Andersson</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<title>Heterogeneous Quasi-Partitioned Scheduling.</title>
+<pages>266-278</pages>
+<year>2021</year>
+<booktitle>RTSS</booktitle>
+<ee>https://doi.org/10.1109/RTSS52674.2021.00033</ee>
+<crossref>conf/rtss/2021</crossref>
+<url>db/conf/rtss/rtss2021.html#MassaLAP21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-09019" mdate="2022-01-04">
+<author pid="255/2780">Felippe Vieira Zacarias</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="137/2967">Rajiv Nishtala</author>
+<author pid="51/7182">Paul M. Carpenter</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>Intelligent colocation of HPC workloads.</title>
+<year>2021</year>
+<volume>abs/2103.09019</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.09019</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-09019</url>
+</article>
+</r>
+<r><inproceedings key="conf/hpca/NishtalaPCS20" mdate="2022-01-04">
+<author pid="137/2967">Rajiv Nishtala</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="51/7182">Paul M. Carpenter</author>
+<author pid="53/1727">Magnus Sj&#228;lander</author>
+<title>Twig: Multi-Agent Task Management for Colocated Latency-Critical Cloud Services.</title>
+<pages>167-179</pages>
+<year>2020</year>
+<booktitle>HPCA</booktitle>
+<ee>https://doi.org/10.1109/HPCA47549.2020.00023</ee>
+<crossref>conf/hpca/2020</crossref>
+<url>db/conf/hpca/hpca2020.html#NishtalaPCS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/SilvaLPGP20" mdate="2020-12-16">
+<author pid="228/5945">Junio Cezar R. da Silva</author>
+<author pid="281/0106">Lorena Le&#227;o</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="g/AbdoulayeGamatie">Abdoulaye Gamati&#233;</author>
+<author pid="p/FMQPereira">Fernando M. Q. Pereira</author>
+<title>Mapping Computations in Heterogeneous Multicore Systems with Statistical Regression on Inputs.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC51047.2020.9277863</ee>
+<crossref>conf/sbesc/2020</crossref>
+<url>db/conf/sbesc/sbesc2020.html#SilvaLPGP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppopp/NovaesPGP19" mdate="2025-01-19">
+<author pid="235/2524">Marcelo Novaes</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="g/AbdoulayeGamatie">Abdoulaye Gamati&#233;</author>
+<author pid="p/FMQPereira">Fernando Magno Quint&#227;o Pereira</author>
+<title>Compiler-assisted adaptive program scheduling in big.LITTLE systems: poster.</title>
+<pages>429-430</pages>
+<year>2019</year>
+<booktitle>PPoPP</booktitle>
+<ee>https://doi.org/10.1145/3293883.3301493</ee>
+<ee>https://www.wikidata.org/entity/Q130826095</ee>
+<crossref>conf/ppopp/2019</crossref>
+<url>db/conf/ppopp/ppopp2019.html#NovaesPGP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/ZacariasPNCM19" mdate="2022-01-04">
+<author orcid="0000-0003-3276-0488" pid="255/2780">Felippe Vieira Zacarias</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="137/2967">Rajiv Nishtala</author>
+<author pid="51/7182">Paul M. Carpenter</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>Intelligent Colocation of Workloads for Enhanced Server Efficiency.</title>
+<pages>120-127</pages>
+<year>2019</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2019.00030</ee>
+<crossref>conf/sbac-pad/2019</crossref>
+<url>db/conf/sbac-pad/sbac-pad2019.html#ZacariasPNCM19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-07038" mdate="2019-04-01">
+<author pid="235/2524">Marcelo Novaes</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="g/AbdoulayeGamatie">Abdoulaye Gamati&#233;</author>
+<author pid="p/FMQPereira">Fernando Magno Quint&#227;o Pereira</author>
+<title>Compiler-assisted Adaptive Program Scheduling in big.LITTLE Systems.</title>
+<year>2019</year>
+<volume>abs/1903.07038</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.07038</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-07038</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-09844" mdate="2022-01-04">
+<author pid="137/2967">Rajiv Nishtala</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="51/7182">Paul M. Carpenter</author>
+<author pid="04/3016">Xavier Martorell</author>
+<title>Hurry-up: Scaling Web Search on Big/Little Multi-core Architectures.</title>
+<year>2019</year>
+<volume>abs/1912.09844</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.09844</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-09844</url>
+</article>
+</r>
+<r><article key="journals/sensors/MichelettoPSOMO18" mdate="2024-01-23">
+<author orcid="0000-0002-1891-3137" pid="177/2494">Matias J. Micheletto</author>
+<author orcid="0000-0002-5671-7575" pid="80/2060">Vinicius Petrucci</author>
+<author orcid="0000-0003-0382-477X" pid="42/5556">Rodrigo M. Santos</author>
+<author pid="79/4776">Javier Orozco</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<author orcid="0000-0002-0431-8767" pid="58/3679">Sergio F. Ochoa</author>
+<author orcid="0000-0002-9414-646X" pid="26/398">Roc Meseguer</author>
+<title>Flying Real-Time Network to Coordinate Disaster Relief Activities in Urban Areas.</title>
+<pages>1662</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Sensors</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.3390/s18051662</ee>
+<ee>https://www.wikidata.org/entity/Q55237471</ee>
+<url>db/journals/sensors/sensors18.html#MichelettoPSOMO18</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbrc/MeloP18" mdate="2022-02-18">
+<author pid="310/9189">Renato Melo</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<title>Efici&#234;ncia Energ&#233;tica em Navega&#231;&#227;o Web usando DVFS.</title>
+<pages>141-154</pages>
+<year>2018</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc.2018.2412</ee>
+<crossref>conf/sbrc/2018</crossref>
+<url>db/conf/sbrc/sbrc2018.html#MeloP18</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigops/LiPM17" mdate="2020-07-14">
+<author pid="193/9959">Cha V. Li</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>Exploring Machine Learning for Thread Characterization on Heterogeneous Multiprocessors.</title>
+<pages>113-123</pages>
+<year>2017</year>
+<volume>51</volume>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3139645.3139664</ee>
+<url>db/journals/sigops/sigops51.html#LiPM17</url>
+</article>
+</r>
+<r><article key="journals/tocs/NishtalaCPM17" mdate="2025-01-19">
+<author pid="137/2967">Rajiv Nishtala</author>
+<author pid="51/7182">Paul M. Carpenter</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="04/3016">Xavier Martorell</author>
+<title>The Hipster Approach for Improving Cloud System Efficiency.</title>
+<pages>8:1-8:28</pages>
+<year>2017</year>
+<volume>35</volume>
+<journal>ACM Trans. Comput. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3144168</ee>
+<ee>https://www.wikidata.org/entity/Q131125450</ee>
+<url>db/journals/tocs/tocs35.html#NishtalaCPM17</url>
+</article>
+</r>
+<r><inproceedings key="conf/hpca/NishtalaCPM17" mdate="2023-03-24">
+<author orcid="0000-0002-5321-6759" pid="137/2967">Rajiv Nishtala</author>
+<author orcid="0000-0002-9392-0521" pid="51/7182">Paul M. Carpenter</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<author orcid="0000-0002-0417-3430" pid="04/3016">Xavier Martorell</author>
+<title>Hipster: Hybrid Task Manager for Latency-Critical Cloud Workloads.</title>
+<pages>409-420</pages>
+<year>2017</year>
+<booktitle>HPCA</booktitle>
+<ee>https://doi.org/10.1109/HPCA.2017.13</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/HPCA.2017.13</ee>
+<crossref>conf/hpca/2017</crossref>
+<url>db/conf/hpca/hpca2017.html#NishtalaCPM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ucami/SantosOMPOM17" mdate="2019-12-27">
+<author pid="42/5556">Rodrigo M. Santos</author>
+<author pid="79/4776">Javier Orozco</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="58/3679">Sergio F. Ochoa</author>
+<author orcid="0000-0002-9414-646X" pid="26/398">Roc Meseguer</author>
+<title>Flying Real-Time Network for Disaster Assistance.</title>
+<pages>591-602</pages>
+<year>2017</year>
+<booktitle>UCAmI</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-67585-5_58</ee>
+<crossref>conf/ucami/2017</crossref>
+<url>db/conf/ucami/ucami2017.html#SantosOMPOM17</url>
+</inproceedings>
+</r>
+<r><article key="journals/micro/HauswaldLZLRKDM16" mdate="2017-05-20">
+<author pid="148/9903">Johann Hauswald</author>
+<author pid="29/5459">Michael A. Laurenzano</author>
+<author pid="89/5923">Yunqi Zhang</author>
+<author pid="16/6465">Cheng Li</author>
+<author pid="159/0076">Austin Rovinski</author>
+<author pid="159/0084">Arjun Khurana</author>
+<author pid="83/1613">Ronald G. Dreslinski</author>
+<author pid="m/TrevorNMudge">Trevor N. Mudge</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="35/1464">Lingjia Tang</author>
+<author pid="48/6796">Jason Mars</author>
+<title>Sirius Implications for Future Warehouse-Scale Computers.</title>
+<pages>42-53</pages>
+<year>2016</year>
+<volume>36</volume>
+<journal>IEEE Micro</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MM.2016.37</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MM.2016.37</ee>
+<url>db/journals/micro/micro36.html#HauswaldLZLRKDM16</url>
+</article>
+</r>
+<r><article key="journals/tocs/HauswaldLZYKLRK16" mdate="2018-11-06">
+<author pid="148/9903">Johann Hauswald</author>
+<author pid="29/5459">Michael A. Laurenzano</author>
+<author pid="89/5923">Yunqi Zhang</author>
+<author pid="94/8072">Hailong Yang</author>
+<author pid="145/9197">Yiping Kang</author>
+<author pid="16/6465">Cheng Li</author>
+<author pid="159/0076">Austin Rovinski</author>
+<author pid="159/0084">Arjun Khurana</author>
+<author pid="83/1613">Ronald G. Dreslinski</author>
+<author pid="m/TrevorNMudge">Trevor N. Mudge</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="35/1464">Lingjia Tang</author>
+<author pid="48/6796">Jason Mars</author>
+<title>Designing Future Warehouse-Scale Computers for Sirius, an End-to-End Voice and Vision Personal Assistant.</title>
+<pages>2:1-2:32</pages>
+<year>2016</year>
+<volume>34</volume>
+<journal>ACM Trans. Comput. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2870631</ee>
+<url>db/journals/tocs/tocs34.html#HauswaldLZYKLRK16</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbac-pad/NishtalaMPM16" mdate="2023-03-23">
+<author orcid="0000-0002-5321-6759" pid="137/2967">Rajiv Nishtala</author>
+<author orcid="0000-0002-0417-3430" pid="04/3016">Xavier Martorell</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>REPP-H: Runtime Estimation of Power and Performance on Heterogeneous Data Centers.</title>
+<pages>150-157</pages>
+<year>2016</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2016.27</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2016.27</ee>
+<crossref>conf/sbac-pad/2016</crossref>
+<url>db/conf/sbac-pad/sbac-pad2016.html#NishtalaMPM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/LiPM16" mdate="2023-03-23">
+<author pid="193/9959">Cha V. Li</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>Predicting Thread Profiles across Core Types via Machine Learning on Heterogeneous Multiprocessors.</title>
+<pages>56-62</pages>
+<year>2016</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2016.017</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2016.017</ee>
+<crossref>conf/sbesc/2016</crossref>
+<url>db/conf/sbesc/sbesc2016.html#LiPM16</url>
+</inproceedings>
+</r>
+<r><article key="journals/tecs/PetrucciLMMGG15" mdate="2020-09-08">
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="37/6173">Orlando Loques</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<author pid="m/RamiGMelhem">Rami G. Melhem</author>
+<author pid="68/11426">Neven Abou Gazala</author>
+<author pid="55/5514">Sameh Gobriel</author>
+<title>Energy-Efficient Thread Assignment Optimization for Heterogeneous Multicore Systems.</title>
+<pages>15:1-15:26</pages>
+<year>2015</year>
+<volume>14</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2566618</ee>
+<url>db/journals/tecs/tecs14.html#PetrucciLMMGG15</url>
+</article>
+</r>
+<r><inproceedings key="conf/asplos/HauswaldLZLRKDM15" mdate="2021-07-07">
+<author pid="148/9903">Johann Hauswald</author>
+<author pid="29/5459">Michael A. Laurenzano</author>
+<author pid="89/5923">Yunqi Zhang</author>
+<author pid="16/6465">Cheng Li</author>
+<author pid="159/0076">Austin Rovinski</author>
+<author pid="159/0084">Arjun Khurana</author>
+<author pid="83/1613">Ronald G. Dreslinski</author>
+<author pid="m/TrevorNMudge">Trevor N. Mudge</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="35/1464">Lingjia Tang</author>
+<author pid="48/6796">Jason Mars</author>
+<title>Sirius: An Open End-to-End Voice and Vision Personal Assistant and Its Implications for Future Warehouse Scale Computers.</title>
+<pages>223-238</pages>
+<year>2015</year>
+<booktitle>ASPLOS</booktitle>
+<ee>https://doi.org/10.1145/2694344.2694347</ee>
+<ee>https://doi.org/10.1145/2775054.2694347</ee>
+<ee>https://doi.org/10.1145/2786763.2694347</ee>
+<crossref>conf/asplos/2015</crossref>
+<url>db/conf/asplos/asplos2015.html#HauswaldLZLRKDM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpca/PetrucciLDZMMT15" mdate="2023-03-24">
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="29/5459">Michael A. Laurenzano</author>
+<author pid="99/2827">John Doherty</author>
+<author pid="89/5923">Yunqi Zhang</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<author pid="48/6796">Jason Mars</author>
+<author pid="35/1464">Lingjia Tang</author>
+<title>Octopus-Man: QoS-driven task management for heterogeneous multicores in warehouse-scale computers.</title>
+<pages>246-258</pages>
+<year>2015</year>
+<booktitle>HPCA</booktitle>
+<ee>https://doi.org/10.1109/HPCA.2015.7056037</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/HPCA.2015.7056037</ee>
+<crossref>conf/hpca/2015</crossref>
+<url>db/conf/hpca/hpca2015.html#PetrucciLDZMMT15</url>
+</inproceedings>
+</r>
+<r><article key="journals/eswa/MassonVMPPSD13" mdate="2020-10-26">
+<author pid="00/11352">Renaud Masson</author>
+<author orcid="0000-0001-5183-8485" pid="40/11481">Thibaut Vidal</author>
+<author pid="130/8181">Julien Michallet</author>
+<author orcid="0000-0001-5414-1405" pid="25/11483">Puca Huachi Vaz Penna</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<author orcid="0000-0002-9244-9969" pid="37/882-1">Anand Subramanian 0001</author>
+<author pid="130/8168">Hugues Dubedout</author>
+<title>An iterated local search heuristic for multi-capacity bin packing and machine reassignment problems.</title>
+<pages>5266-5275</pages>
+<year>2013</year>
+<volume>40</volume>
+<journal>Expert Syst. Appl.</journal>
+<number>13</number>
+<ee>https://doi.org/10.1016/j.eswa.2013.03.037</ee>
+<url>db/journals/eswa/eswa40.html#MassonVMPPSD13</url>
+</article>
+</r>
+<r><inproceedings key="conf/emsoft/NishtalaMP13" mdate="2017-09-16">
+<author orcid="0000-0002-5321-6759" pid="137/2967">Rajiv Nishtala</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<title>Energy-aware thread co-location in heterogeneous multicore processors.</title>
+<pages>21:1-21:9</pages>
+<year>2013</year>
+<booktitle>EMSOFT</booktitle>
+<ee>https://doi.org/10.1109/EMSOFT.2013.6658599</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2555775</ee>
+<crossref>conf/emsoft/2013</crossref>
+<url>db/conf/emsoft/emsoft2013.html#NishtalaMP13</url>
+</inproceedings>
+</r>
+<r><article key="journals/candie/KramerPSU12" mdate="2020-10-26">
+<author orcid="0000-0003-4720-7546" pid="120/2141">Hugo Harry Kramer</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<author orcid="0000-0002-9244-9969" pid="37/882-1">Anand Subramanian 0001</author>
+<author orcid="0000-0002-8687-2613" pid="91/2066">Eduardo Uchoa</author>
+<title>A column generation approach for power-aware optimization of virtualized heterogeneous server clusters.</title>
+<pages>652-662</pages>
+<year>2012</year>
+<volume>63</volume>
+<journal>Comput. Ind. Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.cie.2011.07.023</ee>
+<url>db/journals/candie/candie63.html#KramerPSU12</url>
+</article>
+</r>
+<r><inproceedings key="conf/icppw/LuginiPM12" mdate="2023-03-24">
+<author pid="121/1912">Luca Lugini</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>Online Thread Assignment for Heterogeneous Multicore Systems.</title>
+<pages>538-544</pages>
+<year>2012</year>
+<booktitle>ICPP Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICPPW.2012.73</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICPPW.2012.73</ee>
+<crossref>conf/icppw/2012</crossref>
+<url>db/conf/icppw/icppw2012.html#LuginiPM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/osdi/PetrucciLM12" mdate="2021-02-02">
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="37/6173">Orlando Loques</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>Lucky Scheduling for Energy-Efficient Heterogeneous Multi-Core Systems.</title>
+<year>2012</year>
+<booktitle>HotPower</booktitle>
+<ee type="oa">https://www.usenix.org/conference/hotpower12/workshop-program/presentation/petrucci</ee>
+<crossref>conf/osdi/2012hotpower</crossref>
+<url>db/conf/osdi/hotpower2012.html#PetrucciLM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtas/PetrucciLMMGG12" mdate="2023-03-23">
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="37/6173">Orlando Loques</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<author pid="m/RamiGMelhem">Rami G. Melhem</author>
+<author pid="68/11426">Neven Abou Gazala</author>
+<author pid="55/5514">Sameh Gobriel</author>
+<title>Thread Assignment Optimization with Real-Time Performance and Memory Bandwidth Guarantees for Energy-Efficient Heterogeneous Multi-core Systems.</title>
+<pages>263-272</pages>
+<year>2012</year>
+<booktitle>IEEE Real-Time and Embedded Technology and Applications Symposium</booktitle>
+<ee>https://doi.org/10.1109/RTAS.2012.13</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RTAS.2012.13</ee>
+<crossref>conf/rtas/2012</crossref>
+<url>db/conf/rtas/rtas2012.html#PetrucciLMMGG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccgrid/PetrucciCLLM11" mdate="2023-03-24">
+<author pid="80/2060">Vinicius Petrucci</author>
+<author orcid="0000-0001-7519-3167" pid="09/939">Enrique V. Carrera</author>
+<author pid="37/6173">Orlando Loques</author>
+<author pid="10/5959">Julius C. B. Leite</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>Optimized Management of Power and Performance for Virtualized Heterogeneous Server Clusters.</title>
+<pages>23-32</pages>
+<year>2011</year>
+<booktitle>CCGRID</booktitle>
+<ee>https://doi.org/10.1109/CCGrid.2011.15</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CCGrid.2011.15</ee>
+<crossref>conf/ccgrid/2011</crossref>
+<url>db/conf/ccgrid/ccgrid2011.html#PetrucciCLLM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eenergy/PetrucciLM10" mdate="2018-11-06">
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="37/6173">Orlando Loques</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>A dynamic optimization model for power and performance management of virtualized clusters.</title>
+<pages>225-233</pages>
+<year>2010</year>
+<booktitle>e-Energy</booktitle>
+<ee>https://doi.org/10.1145/1791314.1791350</ee>
+<crossref>conf/eenergy/2010</crossref>
+<url>db/conf/eenergy/eenergy2010.html#PetrucciLM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/PetrucciLM10" mdate="2018-11-06">
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="37/6173">Orlando Loques</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>Dynamic optimization of power and performance for virtualized server clusters.</title>
+<pages>263-264</pages>
+<year>2010</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1774088.1774144</ee>
+<crossref>conf/sac/2010</crossref>
+<url>db/conf/sac/sac2010.html#PetrucciLM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/PetrucciLM09" mdate="2018-11-06">
+<author pid="80/2060">Vinicius Petrucci</author>
+<author pid="37/6173">Orlando Loques</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>A framework for dynamic adaptation of power-aware server clusters.</title>
+<pages>1034-1039</pages>
+<year>2009</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1529282.1529509</ee>
+<crossref>conf/sac/2009</crossref>
+<url>db/conf/sac/sac2009.html#PetrucciLM09</url>
+</inproceedings>
+</r>
+<coauthors n="60" nc="5">
+<co c="0"><na f="a/Ahn:Wonsun" pid="65/4407">Wonsun Ahn</na></co>
+<co c="4"><na f="a/Amorim:Denilson_das_Merc=ecirc=s" pid="298/8588">Denilson das Merc&#234;s Amorim</na></co>
+<co c="0"><na f="a/Andersson:Bj=ouml=rn" pid="39/4827">Bj&#246;rn Andersson</na></co>
+<co c="0"><na f="c/Carpenter:Paul_M=" pid="51/7182">Paul M. Carpenter</na></co>
+<co c="0"><na f="c/Carrera:Enrique_V=" pid="09/939">Enrique V. Carrera</na></co>
+<co c="0"><na f="d/Doherty:John" pid="99/2827">John Doherty</na></co>
+<co c="0"><na f="d/Dreslinski:Ronald_G=" pid="83/1613">Ronald G. Dreslinski</na></co>
+<co c="1"><na f="d/Dubedout:Hugues" pid="130/8168">Hugues Dubedout</na></co>
+<co c="2"><na f="g/Gamati=eacute=:Abdoulaye" pid="g/AbdoulayeGamatie">Abdoulaye Gamati&#233;</na></co>
+<co c="0"><na f="g/Gazala:Neven_Abou" pid="68/11426">Neven Abou Gazala</na></co>
+<co c="0"><na f="g/Gobriel:Sameh" pid="55/5514">Sameh Gobriel</na></co>
+<co c="3"><na f="g/Godbole:Anil" pid="395/3523">Anil Godbole</na></co>
+<co c="0"><na f="h/Hauswald:Johann" pid="148/9903">Johann Hauswald</na></co>
+<co c="0"><na f="k/Kang:Yiping" pid="145/9197">Yiping Kang</na></co>
+<co c="0"><na f="k/Khattab:Sherif_M=" pid="60/6179">Sherif M. Khattab</na></co>
+<co c="0"><na f="k/Khurana:Arjun" pid="159/0084">Arjun Khurana</na></co>
+<co c="1"><na f="k/Kramer:Hugo_Harry" pid="120/2141">Hugo Harry Kramer</na></co>
+<co c="0" n="2"><na f="l/Laurenzano:Michael" pid="29/5459">Michael Laurenzano</na><na>Michael A. Laurenzano</na></co>
+<co c="2"><na f="l/Le=atilde=o:Lorena" pid="281/0106">Lorena Le&#227;o</na></co>
+<co c="0"><na f="l/Leite:Julius_C=_B=" pid="10/5959">Julius C. B. Leite</na></co>
+<co c="0"><na f="l/Li:Cha_V=" pid="193/9959">Cha V. Li</na></co>
+<co c="0"><na f="l/Li:Cheng" pid="16/6465">Cheng Li</na></co>
+<co c="0"><na f="l/Lima_0001:George" pid="07/2481">George Lima 0001</na></co>
+<co c="0"><na f="l/Loques:Orlando" pid="37/6173">Orlando Loques</na></co>
+<co c="0"><na f="l/Lugini:Luca" pid="121/1912">Luca Lugini</na></co>
+<co c="0"><na f="m/Mars:Jason" pid="48/6796">Jason Mars</na></co>
+<co c="0"><na f="m/Martorell:Xavier" pid="04/3016">Xavier Martorell</na></co>
+<co c="0"><na f="m/Massa:Ernesto" pid="53/8452">Ernesto Massa</na></co>
+<co c="1"><na f="m/Masson:Renaud" pid="00/11352">Renaud Masson</na></co>
+<co c="4"><na f="m/Medeiros:Daniel_Ara=uacute=jo_de" pid="298/8749">Daniel Ara&#250;jo de Medeiros</na></co>
+<co c="0"><na f="m/Melhem:Rami_G=" pid="m/RamiGMelhem">Rami G. Melhem</na></co>
+<co c="-1"><na f="m/Melo:Renato" pid="310/9189">Renato Melo</na></co>
+<co c="0"><na f="m/Meseguer:Roc" pid="26/398">Roc Meseguer</na></co>
+<co c="1"><na f="m/Michallet:Julien" pid="130/8181">Julien Michallet</na></co>
+<co c="0"><na f="m/Micheletto:Matias_J=" pid="177/2494">Matias J. Micheletto</na></co>
+<co c="0"><na f="m/Moss=eacute=:Daniel" pid="m/DanielMosse">Daniel Moss&#233;</na></co>
+<co c="0"><na f="m/Moura:Diego" pid="249/3650">Diego Moura</na></co>
+<co c="0"><na f="m/Mudge:Trevor_N=" pid="m/TrevorNMudge">Trevor N. Mudge</na></co>
+<co c="0"><na f="n/Nishtala:Rajiv" pid="137/2967">Rajiv Nishtala</na></co>
+<co c="2"><na f="n/Novaes:Marcelo" pid="235/2524">Marcelo Novaes</na></co>
+<co c="0"><na f="o/Ochoa:Sergio_F=" pid="58/3679">Sergio F. Ochoa</na></co>
+<co c="0"><na f="o/Oliveira_0002:Luis" pid="117/3290-2">Luis Oliveira 0002</na></co>
+<co c="0"><na f="o/Orozco:Javier" pid="79/4776">Javier Orozco</na></co>
+<co c="1"><na f="p/Penna:Puca_Huachi_Vaz" pid="25/11483">Puca Huachi Vaz Penna</na></co>
+<co c="2" n="2"><na f="p/Pereira:Fernando_Magno_Quint=atilde=o" pid="p/FMQPereira">Fernando Magno Quint&#227;o Pereira</na><na>Fernando M. Q. Pereira</na></co>
+<co c="0"><na f="p/Puckett:Rachel" pid="314/7218">Rachel Puckett</na></co>
+<co c="0"><na f="r/Rovinski:Austin" pid="159/0076">Austin Rovinski</na></co>
+<co c="0"><na f="s/Santos:Rodrigo_M=" pid="42/5556">Rodrigo M. Santos</na></co>
+<co c="3"><na f="s/Sehgal:Rohit" pid="395/2315">Rohit Sehgal</na></co>
+<co c="2" n="2"><na f="s/Silva:Junio_Cezar_R=_da" pid="228/5945">Junio Cezar R. da Silva</na><na>Junio Cezar Ribeiro da Silva</na></co>
+<co c="0"><na f="s/Sj=auml=lander:Magnus" pid="53/1727">Magnus Sj&#228;lander</na></co>
+<co c="1"><na f="s/Subramanian_0001:Anand" pid="37/882-1">Anand Subramanian 0001</na></co>
+<co c="0"><na f="t/Tang:Lingjia" pid="35/1464">Lingjia Tang</na></co>
+<co c="3"><na f="t/Tanna:Vishal" pid="395/2167">Vishal Tanna</na></co>
+<co c="1"><na f="u/Uchoa:Eduardo" pid="91/2066">Eduardo Uchoa</na></co>
+<co c="1"><na f="v/Vidal:Thibaut" pid="40/11481">Thibaut Vidal</na></co>
+<co c="0"><na f="w/Wu:Zhen" pid="16/4485">Zhen Wu</na></co>
+<co c="0"><na f="y/Yang:Hailong" pid="94/8072">Hailong Yang</na></co>
+<co c="0"><na f="z/Zacarias:Felippe_Vieira" pid="255/2780">Felippe Vieira Zacarias</na></co>
+<co c="0"><na f="z/Zhang:Yunqi" pid="89/5923">Yunqi Zhang</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,2109 @@
+<?xml version="1.0"?>
+<dblpperson name="Cl&#225;udio R. Jung" pid="07/5754" n="143">
+<person key="homepages/07/5754" mdate="2017-12-11">
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<url>https://orcid.org/0000-0002-4711-5783</url>
+</person>
+<r><article key="journals/jvcir/KirstenJ25" mdate="2025-05-01">
+<author orcid="0000-0001-6611-5327" pid="296/1676">Lucas N. Kirsten</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Cell tracking-by-detection using elliptical bounding boxes.</title>
+<pages>104425</pages>
+<year>2025</year>
+<volume>108</volume>
+<journal>J. Vis. Commun. Image Represent.</journal>
+<ee>https://doi.org/10.1016/j.jvcir.2025.104425</ee>
+<url>db/journals/jvcir/jvcir108.html#KirstenJ25</url>
+<stream>streams/journals/jvcir</stream>
+</article>
+</r>
+<r><inproceedings key="conf/wacv/KirstenAMOFCSVL25" mdate="2025-04-23">
+<author pid="296/1676">Lucas N. Kirsten</author>
+<author pid="382/4001">Angelo Angonezi</author>
+<author pid="66/4485">Jose Marques</author>
+<author pid="22/6644">Fernanda Oliveira</author>
+<author pid="382/3639">Juliano Faccioni</author>
+<author pid="382/4101">Camila Cassel</author>
+<author pid="382/4130">D&#233;bora Santos de Sousa</author>
+<author pid="382/3879">Samlai Vedovatto</author>
+<author pid="382/3825">Guido Lenz</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Oriented Cell Dataset: A Dataset and Benchmark for Oriented Cell Detection and Applications.</title>
+<pages>3996-4005</pages>
+<year>2025</year>
+<booktitle>WACV</booktitle>
+<ee>https://doi.org/10.1109/WACV61041.2025.00393</ee>
+<crossref>conf/wacv/2025</crossref>
+<url>db/conf/wacv/wacv2025.html#KirstenAMOFCSVL25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wacv/Murrugarra-Llerena25" mdate="2025-05-31">
+<author orcid="0000-0001-7650-0579" pid="294/8779">Jeffri Murrugarra-Llerena</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Noise-Aware Evaluation of Object Detectors.</title>
+<pages>9322-9331</pages>
+<year>2025</year>
+<booktitle>WACV</booktitle>
+<ee>https://doi.org/10.1109/WACV61041.2025.00903</ee>
+<crossref>conf/wacv/2025</crossref>
+<url>db/conf/wacv/wacv2025.html#Murrugarra-Llerena25</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-01565" mdate="2025-04-01">
+<author pid="294/8779">Jeffri Murrugarra-Llerena</author>
+<author orcid="0009-0005-7191-8227" pid="399/2801">Jose Henrique Lima Marques</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>GauCho: Gaussian Distributions with Cholesky Decomposition for Oriented Object Detection.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.01565</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.01565</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-01565</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/access/BergmannMKSJTFGS24" mdate="2024-08-22">
+<author pid="309/4427">Matheus A. Bergmann</author>
+<author orcid="0000-0001-8947-9182" pid="208/7446">Larissa Ferreira Rodrigues Moreira</author>
+<author orcid="0000-0002-7911-8890" pid="275/7529">Breno Krohling</author>
+<author orcid="0000-0001-6788-2667" pid="141/6127">Thiago L. T. da Silveira</author>
+<author orcid="0000-0002-4711-5783" pid="07/5754">Cl&#225;udio R. Jung</author>
+<author pid="383/5761">Jianchen Tang</author>
+<author pid="383/6205">Marcelo Viana Feitosa</author>
+<author pid="383/4796">Renan Lopes Braga Gomes</author>
+<author orcid="0009-0005-1048-7056" pid="383/5239">Bruno Niederauer Soares</author>
+<title>An Approach Based on LiDAR and Spherical Images for Automated Vegetation Inspection in Urban Power Distribution Lines.</title>
+<pages>105119-105130</pages>
+<year>2024</year>
+<volume>12</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2024.3431466</ee>
+<url>db/journals/access/access12.html#BergmannMKSJTFGS24</url>
+<stream>streams/journals/access</stream>
+</article>
+</r>
+<r><article key="journals/tip/MurrugarraLlerenaKZJ24" mdate="2024-02-10">
+<author orcid="0000-0001-7650-0579" pid="294/8779">Jeffri Murrugarra-Llerena</author>
+<author orcid="0000-0001-6611-5327" pid="296/1676">Lucas N. Kirsten</author>
+<author pid="234/2352">Luis Felipe de Araujo Zeni</author>
+<author orcid="0000-0002-4711-5783" pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Probabilistic Intersection-Over-Union for Training and Evaluation of Oriented Object Detectors.</title>
+<pages>671-681</pages>
+<year>2024</year>
+<volume>33</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<ee>https://doi.org/10.1109/TIP.2023.3348697</ee>
+<url>db/journals/tip/tip33.html#MurrugarraLlerenaKZJ24</url>
+</article>
+</r>
+<r><inproceedings key="conf/icip/StringhiniLSJ24" mdate="2025-05-05">
+<author pid="252/2926">R&#244;mulo Marconato Stringhini</author>
+<author pid="343/4200">Thiago S. Lermen</author>
+<author pid="141/6127">Thiago L. T. da Silveira</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Single-Panorama Classification of 3D Objects Using Horizontally Stacked Dilated Convolutions.</title>
+<pages>3436-3442</pages>
+<year>2024</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP51287.2024.10647442</ee>
+<crossref>conf/icip/2024</crossref>
+<url>db/conf/icip/icip2024.html#StringhiniLSJ24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/StringhiniSJ24" mdate="2024-11-22">
+<author pid="252/2926">R&#244;mulo Marconato Stringhini</author>
+<author pid="141/6127">Thiago L. T. da Silveira</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Spherically-Weighted Horizontally Dilated Convolutions for Omnidirectional Image Processing.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI62404.2024.10716273</ee>
+<crossref>conf/sibgrapi/2024</crossref>
+<url>db/conf/sibgrapi/sibgrapi2024.html#StringhiniSJ24</url>
+</inproceedings>
+</r>
+<r><data key="data/10/AngoneziOFCSVLJK24" mdate="2024-08-07">
+<author pid="382/4001">Angelo Angonezi</author>
+<author pid="22/6644">Fernanda Oliveira</author>
+<author pid="382/3639">Juliano Faccioni</author>
+<author pid="382/4101">Camila Cassel</author>
+<author pid="382/4130">D&#233;bora Santos de Sousa</author>
+<author pid="382/3879">Samlai Vedovatto</author>
+<author orcid="0000-0003-4077-6316" pid="382/3825">Guido Lenz</author>
+<author orcid="0000-0002-4711-5783" pid="07/5754">Cl&#225;udio R. Jung</author>
+<author orcid="0000-0001-6611-5327" pid="296/1676">Lucas N. Kirsten</author>
+<title>Oriented Cell Dataset (OCD).</title>
+<year>2024</year>
+<month>May</month>
+<ee>https://doi.org/10.21227/3rk2-b882</ee>
+<publisher>IEEE DataPort</publisher>
+<stream>streams/repo/ieeedataport</stream>
+</data>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-09252" mdate="2024-02-01">
+<author pid="141/6127">Thiago Lopes Trugillo da Silveira</author>
+<author pid="309/4369">Paulo Gamarra Lessa Pinto</author>
+<author pid="294/8779">Jeffri Erwin Murrugarra-Llerena</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>3D Scene Geometry Estimation from 360&#176; Imagery: A Survey.</title>
+<year>2024</year>
+<volume>abs/2401.09252</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.09252</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-09252</url>
+</article>
+</r>
+<r><article key="journals/cg/SilveiraJ23" mdate="2023-07-20">
+<author pid="141/6127">Thiago L. T. da Silveira</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Omnidirectional visual computing: Foundations, challenges, and applications.</title>
+<pages>89-101</pages>
+<year>2023</year>
+<month>June</month>
+<volume>113</volume>
+<journal>Comput. Graph.</journal>
+<ee>https://doi.org/10.1016/j.cag.2023.05.011</ee>
+<url>db/journals/cg/cg113.html#SilveiraJ23</url>
+</article>
+</r>
+<r><article key="journals/csur/SilveiraPMJ23" mdate="2024-03-22">
+<author orcid="0000-0001-6788-2667" pid="141/6127">Thiago L. T. da Silveira</author>
+<author pid="309/4369">Paulo G. L. Pinto</author>
+<author orcid="0000-0001-7650-0579" pid="294/8779">Jeffri Murrugarra-Llerena</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>3D Scene Geometry Estimation from 360&#176; Imagery: A Survey.</title>
+<pages>68:1-68:39</pages>
+<year>2023</year>
+<volume>55</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3519021</ee>
+<url>db/journals/csur/csur55.html#SilveiraPMJ23</url>
+</article>
+</r>
+<r><article key="journals/jvcir/SilveiraPLJ23" mdate="2023-09-30">
+<author orcid="0000-0001-6788-2667" pid="141/6127">Thiago L. T. da Silveira</author>
+<author pid="309/4369">Paulo G. L. Pinto</author>
+<author orcid="0000-0003-1327-5356" pid="343/4200">Thiago S. Lermen</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Omnidirectional 2.5D representation for COVID-19 diagnosis using chest CTs.</title>
+<pages>103775</pages>
+<year>2023</year>
+<month>March</month>
+<volume>91</volume>
+<journal>J. Vis. Commun. Image Represent.</journal>
+<ee>https://doi.org/10.1016/j.jvcir.2023.103775</ee>
+<url>db/journals/jvcir/jvcir91.html#SilveiraPLJ23</url>
+</article>
+</r>
+<r><inproceedings key="conf/sibgrapi/FreitasGCJ23" mdate="2025-03-03">
+<author orcid="0009-0006-0111-3981" pid="373/4796">Pedro S. de Freitas</author>
+<author pid="10/5372">Wilson Gavi&#227;o</author>
+<author pid="c/JoaoLuizDihlComba">Jo&#227;o Comba</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>REIS: A Visual Analytics Tool for Rendering and Exploring Instance Segmentation of Point Clouds.</title>
+<pages>67-72</pages>
+<year>2023</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI59091.2023.10347129</ee>
+<crossref>conf/sibgrapi/2023</crossref>
+<url>db/conf/sibgrapi/sibgrapi2023.html#FreitasGCJ23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/PaulaJ23" mdate="2024-05-07">
+<author orcid="0000-0001-5849-0290" pid="137/3902">Mauricio Braga de Paula</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Fast Traffic Sign Detection for Two-Way Roads using Detachable Onboard Cameras.</title>
+<pages>103-108</pages>
+<year>2023</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI59091.2023.10347130</ee>
+<crossref>conf/sibgrapi/2023</crossref>
+<url>db/conf/sibgrapi/sibgrapi2023.html#PaulaJ23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/AlbuquerqueJ23" mdate="2024-04-22">
+<author pid="373/4903">Eliton Albuquerque</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Multispectral Image Segmentation With Dimensionality Reduction Using Autoencoders.</title>
+<pages>229-234</pages>
+<year>2023</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI59091.2023.10347038</ee>
+<crossref>conf/sibgrapi/2023</crossref>
+<url>db/conf/sibgrapi/sibgrapi2023.html#AlbuquerqueJ23</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sbc/23/SilveiraJ23" mdate="2024-01-02">
+<author pid="141/6127">Thiago L. T. da Silveira</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Processamento de Imagens Omnidirecionais e Aplica&#231;&#245;es.</title>
+<pages>29-52</pages>
+<year>2023</year>
+<booktitle>Escola de Computa&#231;&#227;o PPGC/UFRGS 50 Anos</booktitle>
+<ee>https://doi.org/10.5753/sbc.13058.5.2</ee>
+<crossref>books/sbc/23/2023SCC</crossref>
+<url>db/books/collections/SCC2023.html#SilveiraJ23</url>
+</incollection>
+</r>
+<r><incollection key="books/sbc/23/BazzanTPJSCLMSM23" mdate="2024-01-02">
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="156/7135">Anderson R. Tavares</author>
+<author pid="359/5827">Andr&#233; G. Pereira</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<author pid="s/JacobScharcanski">Jacob Scharcanski</author>
+<author pid="121/5033">Joel Lu&#237;s Carbonera</author>
+<author pid="l/LCLamb">Lu&#237;s C. Lamb</author>
+<author pid="81/9882">Mariana Recamonde Mendoza</author>
+<author pid="141/6127">Thiago L. T. da Silveira</author>
+<author pid="o/VivianeMoreiraOrengo">Viviane P. Moreira</author>
+<title>&#34;A Nova Eletricidade&#34;: Aplica&#231;&#245;es, Riscos e Tend&#234;ncias da IA Moderna.</title>
+<pages>167-209</pages>
+<year>2023</year>
+<booktitle>Escola de Computa&#231;&#227;o PPGC/UFRGS 50 Anos</booktitle>
+<ee>https://doi.org/10.5753/sbc.13058.5.8</ee>
+<crossref>books/sbc/23/2023SCC</crossref>
+<url>db/books/collections/SCC2023.html#BazzanTPJSCLMSM23</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-04895" mdate="2024-08-04">
+<author orcid="0000-0001-6611-5327" pid="296/1676">Lucas N. Kirsten</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Cell Tracking-by-detection using Elliptical Bounding Boxes.</title>
+<year>2023</year>
+<volume>abs/2310.04895</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.04895</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-04895</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-18324" mdate="2023-11-02">
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="156/7135">Anderson R. Tavares</author>
+<author pid="359/5827">Andr&#233; G. Pereira</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<author pid="s/JacobScharcanski">Jacob Scharcanski</author>
+<author pid="121/5033">Joel Luis Carbonera</author>
+<author pid="l/LCLamb">Lu&#237;s C. Lamb</author>
+<author pid="81/9882">Mariana Recamonde Mendoza</author>
+<author pid="141/6127">Thiago L. T. da Silveira</author>
+<author pid="o/VivianeMoreiraOrengo">Viviane P. Moreira</author>
+<title>&#34;A Nova Eletricidade: Aplica&#231;&#245;es, Riscos e Tend&#234;ncias da IA Moderna - &#34;The New Electricity&#34;: Applications, Risks, and Trends in Current AI.</title>
+<year>2023</year>
+<volume>abs/2310.18324</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.18324</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-18324</url>
+</article>
+</r>
+<r><article key="journals/tip/KaraaliHJ22" mdate="2024-10-06">
+<author orcid="0000-0002-4154-4181" pid="78/9874">Ali Karaali</author>
+<author orcid="0000-0002-9274-209X" pid="56/5068">Naomi Harte</author>
+<author orcid="0000-0002-4711-5783" pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Deep Multi-Scale Feature Learning for Defocus Blur Estimation.</title>
+<pages>1097-1106</pages>
+<year>2022</year>
+<volume>31</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<ee>https://doi.org/10.1109/TIP.2021.3139243</ee>
+<url>db/journals/tip/tip31.html#KaraaliHJ22</url>
+</article>
+</r>
+<r><article key="journals/tits/SilvaJ22" mdate="2022-06-13">
+<author pid="208/7483">Sergio Montazzolli Silva</author>
+<author orcid="0000-0002-4711-5783" pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>A Flexible Approach for Automatic License Plate Recognition in Unconstrained Scenarios.</title>
+<pages>5693-5703</pages>
+<year>2022</year>
+<volume>23</volume>
+<journal>IEEE Trans. Intell. Transp. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TITS.2021.3055946</ee>
+<url>db/journals/tits/tits23.html#SilvaJ22</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/Murrugarra-Llerena22" mdate="2024-08-04">
+<author orcid="0000-0001-7650-0579" pid="294/8779">Jeffri Murrugarra-Llerena</author>
+<author orcid="0000-0001-6611-5327" pid="296/1676">Lucas N. Kirsten</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Can we trust bounding box annotations for object detection?</title>
+<pages>4812-4821</pages>
+<year>2022</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee>https://doi.org/10.1109/CVPRW56347.2022.00528</ee>
+<crossref>conf/cvpr/2022w</crossref>
+<url>db/conf/cvpr/cvpr2022w.html#Murrugarra-Llerena22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/Murrugarra-Llerena22a" mdate="2024-03-21">
+<author orcid="0000-0001-7650-0579" pid="294/8779">Jeffri Murrugarra-Llerena</author>
+<author pid="141/6127">Thiago Lopes Trugillo da Silveira</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Pose Estimation for Two-View Panoramas based on Keypoint Matching: a Comparative Study and Critical Analysis.</title>
+<pages>5198-5207</pages>
+<year>2022</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee>https://doi.org/10.1109/CVPRW56347.2022.00568</ee>
+<crossref>conf/cvpr/2022w</crossref>
+<url>db/conf/cvpr/cvpr2022w.html#Murrugarra-Llerena22a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/KaraaliJ22" mdate="2023-02-03">
+<author pid="78/9874">Ali Karaali</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>SVBR-Net: A Non-Blind Spatially Varying Defocus Blur Removal Network.</title>
+<pages>566-570</pages>
+<year>2022</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP46576.2022.9897897</ee>
+<crossref>conf/icip/2022</crossref>
+<url>db/conf/icip/icip2022.html#KaraaliJ22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/OliveiraSWJ22" mdate="2023-02-03">
+<author pid="243/6499">Adriano Q. de Oliveira</author>
+<author pid="141/6127">Thiago L. T. da Silveira</author>
+<author pid="79/1265">Marcelo Walter</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>A Temporally Coherent Background Model for DIBR View Synthesis.</title>
+<pages>3682-3686</pages>
+<year>2022</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP46576.2022.9897758</ee>
+<crossref>conf/icip/2022</crossref>
+<url>db/conf/icip/icip2022.html#OliveiraSWJ22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/SilveiraJ22" mdate="2023-01-09">
+<author pid="141/6127">Thiago L. T. da Silveira</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Visual Computing in 360&#176;: Foundations, Challenges, and Applications.</title>
+<pages>302-307</pages>
+<year>2022</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI55357.2022.9991750</ee>
+<crossref>conf/sibgrapi/2022</crossref>
+<url>db/conf/sibgrapi/sibgrapi2022.html#SilveiraJ22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-12930" mdate="2022-07-04">
+<author pid="78/9874">Ali Karaali</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>SVBR-NET: A Non-Blind Spatially Varying Defocus Blur Removal Network.</title>
+<year>2022</year>
+<volume>abs/2206.12930</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.12930</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-12930</url>
+</article>
+</r>
+<r><article key="journals/mva/AlmeidaJ21" mdate="2020-11-11">
+<author pid="152/8517">Igor Rodrigues de Almeida</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Crowd flow estimation from calibrated cameras.</title>
+<pages>7</pages>
+<year>2021</year>
+<volume>32</volume>
+<journal>Mach. Vis. Appl.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00138-020-01132-y</ee>
+<url>db/journals/mva/mva32.html#AlmeidaJ21</url>
+</article>
+</r>
+<r><article key="journals/sigpro/SilveiraOWJ21" mdate="2022-12-07">
+<author orcid="0000-0001-6788-2667" pid="141/6127">Thiago L. T. da Silveira</author>
+<author orcid="0000-0003-3257-4984" pid="243/6499">Adriano Q. de Oliveira</author>
+<author orcid="0000-0002-5634-8765" pid="79/1265">Marcelo Walter</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Fast and accurate superpixel algorithms for 360&#8728; images.</title>
+<pages>108277</pages>
+<year>2021</year>
+<volume>189</volume>
+<journal>Signal Process.</journal>
+<ee>https://doi.org/10.1016/j.sigpro.2021.108277</ee>
+<url>db/journals/sigpro/sigpro189.html#SilveiraOWJ21</url>
+</article>
+</r>
+<r><article key="journals/tip/OliveiraSWJ21" mdate="2021-12-15">
+<author orcid="0000-0003-3257-4984" pid="243/6499">Adriano Q. de Oliveira</author>
+<author orcid="0000-0001-6788-2667" pid="141/6127">Thiago L. T. da Silveira</author>
+<author orcid="0000-0002-5634-8765" pid="79/1265">Marcelo Walter</author>
+<author orcid="0000-0002-4711-5783" pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>A Hierarchical Superpixel-Based Approach for DIBR View Synthesis.</title>
+<pages>6408-6419</pages>
+<year>2021</year>
+<volume>30</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<ee>https://doi.org/10.1109/TIP.2021.3092817</ee>
+<url>db/journals/tip/tip30.html#OliveiraSWJ21</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/BortolozzoSJ21" mdate="2021-07-08">
+<author pid="281/7125">Marcelo Bortolozzo</author>
+<author pid="13/3981">Rodrigo Schramm</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Improving the Classification of Rare Chords With Unlabeled Data.</title>
+<pages>3390-3394</pages>
+<year>2021</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP39728.2021.9413701</ee>
+<crossref>conf/icassp/2021</crossref>
+<url>db/conf/icassp/icassp2021.html#BortolozzoSJ21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/BergmannPSJ21" mdate="2021-12-28">
+<author pid="309/4427">Matheus A. Bergmann</author>
+<author pid="309/4369">Paulo G. L. Pinto</author>
+<author pid="141/6127">Thiago L. T. da Silveira</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Gravity Alignment for Single Panorama Depth Inference.</title>
+<pages>41-48</pages>
+<year>2021</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI54419.2021.00015</ee>
+<crossref>conf/sibgrapi/2021</crossref>
+<url>db/conf/sibgrapi/sibgrapi2021.html#BergmannPSJ21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2106-06072" mdate="2023-10-20">
+<author pid="294/8779">Jeffri Murrugarra-Llerena</author>
+<author pid="234/2352">Luis Felipe de Araujo Zeni</author>
+<author pid="296/1676">Lucas N. Kirsten</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Gaussian Bounding Boxes and Probabilistic Intersection-over-Union for Object Detection.</title>
+<year>2021</year>
+<volume>abs/2106.06072</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2106.06072</ee>
+<url>db/journals/corr/corr2106.html#abs-2106-06072</url>
+</article>
+</r>
+<r><article key="journals/jvcir/SilvaJ20" mdate="2020-10-17">
+<author pid="208/7483">Sergio Montazzolli Silva</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Real-time license plate detection and recognition using deep convolutional neural networks.</title>
+<pages>102773</pages>
+<year>2020</year>
+<volume>71</volume>
+<journal>J. Vis. Commun. Image Represent.</journal>
+<ee>https://doi.org/10.1016/j.jvcir.2020.102773</ee>
+<url>db/journals/jvcir/jvcir71.html#SilvaJ20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/ZeniJ20" mdate="2021-08-30">
+<author pid="234/2352">Luis Felipe de Araujo Zeni</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Distilling Knowledge from Refinement in Multiple Instance Detection Networks.</title>
+<pages>3324-3333</pages>
+<year>2020</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee type="oa">https://openaccess.thecvf.com/content_CVPRW_2020/html/w45/Zeni_Distilling_Knowledge_From_Refinement_in_Multiple_Instance_Detection_Networks_CVPRW_2020_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPRW50498.2020.00392</ee>
+<crossref>conf/cvpr/2020w</crossref>
+<url>db/conf/cvpr/cvprw2020.html#ZeniJ20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/DornellesJ20" mdate="2020-12-07">
+<author pid="279/9823">Thiago Dornelles</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Online frame-to-model pipeline to 3D reconstruction with depth cameras using RGB-D information.</title>
+<pages>132-139</pages>
+<year>2020</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI51738.2020.00026</ee>
+<crossref>conf/sibgrapi/2020</crossref>
+<url>db/conf/sibgrapi/sibgrapi2020.html#DornellesJ20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/AvelarTSJL20" mdate="2025-05-31">
+<author orcid="0000-0002-0347-7002" pid="227/2525">Pedro H. C. Avelar</author>
+<author pid="156/7135">Anderson R. Tavares</author>
+<author orcid="0000-0001-6788-2667" pid="141/6127">Thiago L. T. da Silveira</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<author pid="l/LCLamb">Lu&#237;s C. Lamb</author>
+<title>Superpixel Image Classification with Graph Attention Networks.</title>
+<pages>203-209</pages>
+<year>2020</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI51738.2020.00035</ee>
+<crossref>conf/sibgrapi/2020</crossref>
+<url>db/conf/sibgrapi/sibgrapi2020.html#AvelarTSJL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/ZeniJ20" mdate="2020-12-03">
+<author pid="234/2352">Luis Felipe de Araujo Zeni</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Weakly Supervised Character Detection for License Plate Recognition.</title>
+<pages>218-225</pages>
+<year>2020</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI51738.2020.00037</ee>
+<crossref>conf/sibgrapi/2020</crossref>
+<url>db/conf/sibgrapi/sibgrapi2020.html#ZeniJ20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-05544" mdate="2020-02-14">
+<author pid="227/2525">Pedro H. C. Avelar</author>
+<author pid="156/7135">Anderson R. Tavares</author>
+<author pid="141/6127">Thiago L. T. da Silveira</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<author pid="l/LCLamb">Lu&#237;s C. Lamb</author>
+<title>Superpixel Image Classification with Graph Attention Networks.</title>
+<year>2020</year>
+<volume>abs/2002.05544</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.05544</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-05544</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-10943" mdate="2020-04-28">
+<author pid="234/2352">Luis Felipe de Araujo Zeni</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Distilling Knowledge from Refinement in Multiple Instance Detection Networks.</title>
+<year>2020</year>
+<volume>abs/2004.10943</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.10943</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-10943</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-11939" mdate="2020-09-30">
+<author pid="78/9874">Ali Karaali</author>
+<author pid="56/5068">Naomi Harte</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Deep Multi-Scale Feature Learning for Defocus Blur Estimation.</title>
+<year>2020</year>
+<volume>abs/2009.11939</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.11939</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-11939</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-07055" mdate="2021-01-02">
+<author pid="281/7125">Marcelo Bortolozzo</author>
+<author pid="13/3981">Rodrigo Schramm</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Improving the Classification of Rare Chords with Unlabeled Data.</title>
+<year>2020</year>
+<volume>abs/2012.07055</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.07055</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-07055</url>
+</article>
+</r>
+<r><inproceedings key="conf/ca/KnobRJM19" mdate="2019-06-27">
+<author pid="224/9438">Paulo Knob</author>
+<author pid="229/0794">Gabriel Wetzel Rockenbach</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="92/5311">Soraia Raupp Musse</author>
+<title>Optimal Group Distribution based on Thermal and Psycho-Social Aspects.</title>
+<pages>59-64</pages>
+<year>2019</year>
+<booktitle>CASA</booktitle>
+<ee>https://doi.org/10.1145/3328756.3328765</ee>
+<crossref>conf/ca/2019</crossref>
+<url>db/conf/ca/casa2019.html#KnobRJM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/SilveiraJ19" mdate="2025-03-03">
+<author orcid="0000-0001-6788-2667" pid="141/6127">Thiago L. T. da Silveira</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Perturbation Analysis of the 8-Point Algorithm: A Case Study for Wide FoV Cameras.</title>
+<pages>11757-11766</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/da_Silveira_Perturbation_Analysis_of_the_8-Point_Algorithm_A_Case_Study_for_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.01203</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#SilveiraJ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/OliveiraSWJ19" mdate="2022-12-07">
+<author orcid="0000-0003-3257-4984" pid="243/6499">Adriano Q. de Oliveira</author>
+<author orcid="0000-0001-6788-2667" pid="141/6127">Thiago L. T. da Silveira</author>
+<author orcid="0000-0002-5634-8765" pid="79/1265">Marcelo Walter</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>On the Performance of DIBR Methods When Using Depth Maps from State-of-the-art Stereo Matching Algorithms.</title>
+<pages>2272-2276</pages>
+<year>2019</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2019.8683879</ee>
+<crossref>conf/icassp/2019</crossref>
+<url>db/conf/icassp/icassp2019.html#OliveiraSWJ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vr/SilveiraJ19" mdate="2019-09-25">
+<author orcid="0000-0001-6788-2667" pid="141/6127">Thiago L. T. da Silveira</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Dense 3D Scene Reconstruction from Multiple Spherical Images for 3-DoF+ VR Applications.</title>
+<pages>9-18</pages>
+<year>2019</year>
+<booktitle>VR</booktitle>
+<ee>https://doi.org/10.1109/VR.2019.8798281</ee>
+<crossref>conf/vr/2019</crossref>
+<url>db/conf/vr/vr2019.html#SilveiraJ19</url>
+</inproceedings>
+</r>
+<r><article key="journals/presence/ChenJMMWFBCB17" mdate="2021-03-29">
+<author pid="93/6789">L. Chen</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<author pid="92/5311">Soraia Raupp Musse</author>
+<author pid="226/4151">M. Moneimne</author>
+<author pid="79/2975">C. Wang</author>
+<author pid="24/6529">Renate Fruchter</author>
+<author pid="226/4177">V. Bazjanac</author>
+<author pid="87/3288">G. Chen</author>
+<author pid="b/NIBadler">Norman I. Badler</author>
+<title>Crowd Simulation Incorporating Thermal Environments and Responsive Behaviors.</title>
+<year>2018</year>
+<volume>26</volume>
+<journal>Presence Teleoperators Virtual Environ.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1162/PRES_a_00308</ee>
+<url>db/journals/presence/presence26.html#ChenJMMWFBCB17</url>
+</article>
+</r>
+<r><article key="journals/prl/CruzJF18" mdate="2020-02-22">
+<author orcid="0000-0002-5377-8487" pid="230/0312">Edwin Alberto Silva Cruz</author>
+<author orcid="0000-0002-4711-5783" pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="230/0525">Carlos Humberto Esparza Franco</author>
+<title>Facial expression recognition using temporal POEM features.</title>
+<pages>13-21</pages>
+<year>2018</year>
+<volume>114</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2017.08.008</ee>
+<url>db/journals/prl/prl114.html#CruzJF18</url>
+</article>
+</r>
+<r><article key="journals/spl/OliveiraWJ18" mdate="2025-01-19">
+<author orcid="0000-0003-3257-4984" pid="243/6499">Adriano Q. de Oliveira</author>
+<author orcid="0000-0002-5634-8765" pid="79/1265">Marcelo Walter</author>
+<author orcid="0000-0002-4711-5783" pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>An Artifact-Type Aware DIBR Method for View Synthesis.</title>
+<pages>1705-1709</pages>
+<year>2018</year>
+<volume>25</volume>
+<journal>IEEE Signal Process. Lett.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/LSP.2018.2870342</ee>
+<ee>https://www.wikidata.org/entity/Q129234620</ee>
+<url>db/journals/spl/spl25.html#OliveiraWJ18</url>
+</article>
+</r>
+<r><article key="journals/tip/KaraaliJ18" mdate="2020-05-10">
+<author orcid="0000-0002-4154-4181" pid="78/9874">Ali Karaali</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Edge-Based Defocus Blur Estimation With Adaptive Scale Selection.</title>
+<pages>1126-1137</pages>
+<year>2018</year>
+<volume>27</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TIP.2017.2771563</ee>
+<ee>https://www.wikidata.org/entity/Q48514816</ee>
+<url>db/journals/tip/tip27.html#KaraaliJ18</url>
+</article>
+</r>
+<r><inproceedings key="conf/eccv/SilvaJ18" mdate="2018-11-02">
+<author orcid="0000-0003-2444-3175" pid="208/7483">Sergio Montazzolli Silva</author>
+<author orcid="0000-0002-4711-5783" pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>License Plate Detection and Recognition in Unconstrained Scenarios.</title>
+<pages>593-609</pages>
+<year>2018</year>
+<booktitle>ECCV (12)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-01258-8_36</ee>
+<crossref>conf/eccv/2018-12</crossref>
+<url>db/conf/eccv/eccv2018-12.html#SilvaJ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/KaraaliJP18" mdate="2019-09-16">
+<author orcid="0000-0002-4154-4181" pid="78/9874">Ali Karaali</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author orcid="0000-0003-4599-0549" pid="62/1773">Fran&#231;ois Piti&#233;</author>
+<title>Temporal Consistency for Still Image Based Defocus Blur Estimation Methods.</title>
+<pages>1088-1092</pages>
+<year>2018</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2018.8451778</ee>
+<crossref>conf/icip/2018</crossref>
+<url>db/conf/icip/icip2018.html#KaraaliJP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/SilveiraDJ18" mdate="2019-05-29">
+<author orcid="0000-0001-6788-2667" pid="141/6127">Thiago Lopes Trugillo da Silveira</author>
+<author pid="141/9938">Lorenzo P. Dal'Aqua</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Indoor Depth Estimation from Single Spherical Images.</title>
+<pages>2935-2939</pages>
+<year>2018</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2018.8451769</ee>
+<crossref>conf/icip/2018</crossref>
+<url>db/conf/icip/icip2018.html#SilveiraDJ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/ZeniJ18" mdate="2023-03-24">
+<author pid="234/2352">Luis Felipe de Araujo Zeni</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Real-Time Gender Detection in the Wild Using Deep Neural Networks.</title>
+<pages>118-125</pages>
+<year>2018</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2018.00022</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRAPI.2018.00022</ee>
+<crossref>conf/sibgrapi/2018</crossref>
+<url>db/conf/sibgrapi/sibgrapi2018.html#ZeniJ18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-10499" mdate="2018-10-05">
+<author pid="40/5646">Gustavo F&#252;hr</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<title>Collective behavior recognition using compact descriptors.</title>
+<year>2018</year>
+<volume>abs/1809.10499</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.10499</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-10499</url>
+</article>
+</r>
+<r><book key="books/sp/CassolMJB17" mdate="2017-12-11">
+<author pid="28/11115">Vin&#237;cius J. Cassol</author>
+<author pid="92/5311">Soraia Raupp Musse</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<author pid="b/NIBadler">Norman I. Badler</author>
+<title>Simulating Crowds in Egress Scenarios</title>
+<publisher>Springer</publisher>
+<year>2017</year>
+<pages>1-107</pages>
+<isbn>978-3-319-65201-6</isbn>
+<ee>https://doi.org/10.1007/978-3-319-65202-3</ee>
+</book>
+</r>
+<r><article key="journals/cg/FickelJ17" mdate="2020-02-19">
+<author pid="00/8013">Guilherme P. Fickel</author>
+<author orcid="0000-0002-4711-5783" pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Disparity map estimation and view synthesis using temporally adaptive triangular meshes.</title>
+<pages>43-52</pages>
+<year>2017</year>
+<volume>68</volume>
+<journal>Comput. Graph.</journal>
+<ee>https://doi.org/10.1016/j.cag.2017.08.007</ee>
+<url>db/journals/cg/cg68.html#FickelJ17</url>
+</article>
+</r>
+<r><article key="journals/cga/CassolTJUFBKBM17" mdate="2023-09-30">
+<author pid="28/11115">Vin&#237;cius J. Cassol</author>
+<author pid="205/0363">Estevao Smania Testa</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author orcid="0000-0003-2059-7206" pid="20/241-10">Muhammad Usman 0010</author>
+<author pid="f/PetrosFaloutsos">Petros Faloutsos</author>
+<author pid="147/5478">Glen Berseth</author>
+<author pid="08/4943">Mubbasir Kapadia</author>
+<author pid="b/NIBadler">Norman I. Badler</author>
+<author orcid="0000-0002-3278-217X" pid="92/5311">Soraia Raupp Musse</author>
+<title>Evaluating and Optimizing Evacuation Plans for Crowd Egress.</title>
+<pages>60-71</pages>
+<year>2017</year>
+<volume>37</volume>
+<journal>IEEE Computer Graphics and Applications</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/MCG.2017.3271454</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MCG.2017.3271454</ee>
+<ee>https://www.wikidata.org/entity/Q38614451</ee>
+<url>db/journals/cga/cga37.html#CassolTJUFBKBM17</url>
+</article>
+</r>
+<r><article key="journals/tcsv/AlmeidaCBMJ17" mdate="2020-08-25">
+<author pid="152/8517">Igor Rodrigues de Almeida</author>
+<author pid="28/11115">Vin&#237;cius Jurinic Cassol</author>
+<author pid="b/NIBadler">Norman I. Badler</author>
+<author orcid="0000-0002-3278-217X" pid="92/5311">Soraia Raupp Musse</author>
+<author orcid="0000-0002-4711-5783" pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Detection of Global and Local Motion Changes in Human Crowds.</title>
+<pages>603-612</pages>
+<year>2017</year>
+<volume>27</volume>
+<journal>IEEE Trans. Circuits Syst. Video Technol.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TCSVT.2016.2596199</ee>
+<url>db/journals/tcsv/tcsv27.html#AlmeidaCBMJ17</url>
+</article>
+</r>
+<r><article key="journals/tcsv/FuhrJ17" mdate="2020-08-25">
+<author pid="40/5646">Gustavo F&#252;hr</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Camera Self-Calibration Based on Nonlinear Optimization and Applications in Surveillance Systems.</title>
+<pages>1132-1142</pages>
+<year>2017</year>
+<volume>27</volume>
+<journal>IEEE Trans. Circuits Syst. Video Technol.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TCSVT.2015.2511812</ee>
+<url>db/journals/tcsv/tcsv27.html#FuhrJ17</url>
+</article>
+</r>
+<r><inproceedings key="conf/iva/BiancoMBCJB17" mdate="2017-12-12">
+<author pid="166/1962">Cliceres Mack Dal Bianco</author>
+<author pid="92/5311">Soraia Raupp Musse</author>
+<author pid="08/4768">Adriana Braun</author>
+<author pid="205/1822">Rodrigo Poli Caetani</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<author pid="b/NIBadler">Norman I. Badler</author>
+<title>Predicting Future Crowd Motion Including Event Treatment.</title>
+<pages>101-104</pages>
+<year>2017</year>
+<booktitle>IVA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-67401-8_11</ee>
+<crossref>conf/iva/2017</crossref>
+<url>db/conf/iva/iva2017.html#BiancoMBCJB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/SilvaJ17" mdate="2023-03-24">
+<author pid="208/7483">Sergio Montazzolli</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Real-Time Brazilian License Plate Detection and Recognition Using Deep Convolutional Neural Networks.</title>
+<pages>55-62</pages>
+<year>2017</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2017.14</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRAPI.2017.14</ee>
+<crossref>conf/sibgrapi/2017</crossref>
+<url>db/conf/sibgrapi/sibgrapi2017.html#SilvaJ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/SilveiraJ17" mdate="2023-03-24">
+<author orcid="0000-0001-6788-2667" pid="141/6127">Thiago Lopes Trugillo da Silveira</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Evaluation of Keypoint Extraction and Matching for Pose Estimation Using Pairs of Spherical Images.</title>
+<pages>374-381</pages>
+<year>2017</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2017.56</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRAPI.2017.56</ee>
+<crossref>conf/sibgrapi/2017</crossref>
+<url>db/conf/sibgrapi/sibgrapi2017.html#SilveiraJ17</url>
+</inproceedings>
+</r>
+<r><article key="journals/taco/FernandesWJNCR16" mdate="2025-01-19">
+<author orcid="0000-0002-3504-9862" pid="05/5022-1">Fernando Fernandes 0001</author>
+<author pid="192/3862">Lucas Weigel</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<author pid="25/5214">Luigi Carro</author>
+<author orcid="0000-0002-0821-1879" pid="64/5340">Paolo Rech</author>
+<title>Evaluation of Histogram of Oriented Gradients Soft Errors Criticality for Automotive Applications.</title>
+<pages>38:1-38:25</pages>
+<year>2016</year>
+<volume>13</volume>
+<journal>ACM Trans. Archit. Code Optim.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1145/2998573</ee>
+<ee>https://www.wikidata.org/entity/Q130979012</ee>
+<url>db/journals/taco/taco13.html#FernandesWJNCR16</url>
+</article>
+</r>
+<r><article key="journals/tomccap/SchrammNJ16" mdate="2020-05-10">
+<author pid="13/3981">Rodrigo Schramm</author>
+<author pid="170/1980">Helena de Souza Nunes</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Audiovisual Tool for Solf&#232;ge Assessment.</title>
+<pages>9:1-9:21</pages>
+<year>2016</year>
+<volume>13</volume>
+<journal>ACM Trans. Multim. Comput. Commun. Appl.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3007194</ee>
+<url>db/journals/tomccap/tomccap13.html#SchrammNJ16</url>
+</article>
+</r>
+<r><inproceedings key="conf/icip/KaraaliJ16" mdate="2017-11-06">
+<author orcid="0000-0002-4154-4181" pid="78/9874">Ali Karaali</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Image retargeting based on spatially varying defocus blur map.</title>
+<pages>2693-2697</pages>
+<year>2016</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2016.7532848</ee>
+<crossref>conf/icip/2016</crossref>
+<url>db/conf/icip/icip2016.html#KaraaliJ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iva/BiancoBMJB16" mdate="2017-09-16">
+<author pid="166/1962">Cliceres Mack Dal Bianco</author>
+<author pid="08/4768">Adriana Braun</author>
+<author orcid="0000-0002-3278-217X" pid="92/5311">Soraia Raupp Musse</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="b/NIBadler">Norman I. Badler</author>
+<title>Fast-Forwarding Crowd Simulations.</title>
+<pages>208-217</pages>
+<year>2016</year>
+<booktitle>IVA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-47665-0_19</ee>
+<crossref>conf/iva/2016</crossref>
+<url>db/conf/iva/iva2016.html#BiancoBMJB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/FuhrJP16" mdate="2023-09-30">
+<author pid="40/5646">Gustavo F&#252;hr</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author orcid="0000-0001-5849-0290" pid="137/3902">Mauricio Braga de Paula</author>
+<title>On the Use of Calibration for Pedestrian Detection in On-Board Vehicular Cameras.</title>
+<pages>80-87</pages>
+<year>2016</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2016.020</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRAPI.2016.020</ee>
+<crossref>conf/sibgrapi/2016</crossref>
+<url>db/conf/sibgrapi/sibgrapi2016.html#FuhrJP16</url>
+</inproceedings>
+</r>
+<r><article key="journals/tits/PaulaJ15" mdate="2023-09-30">
+<author orcid="0000-0001-5849-0290" pid="137/3902">Mauricio Braga de Paula</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Automatic Detection and Classification of Road Lane Markings Using Onboard Vehicular Cameras.</title>
+<pages>3160-3169</pages>
+<year>2015</year>
+<volume>16</volume>
+<journal>IEEE Trans. Intell. Transp. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TITS.2015.2438714</ee>
+<url>db/journals/tits/tits16.html#PaulaJ15</url>
+</article>
+</r>
+<r><article key="journals/tmm/SchrammJM15" mdate="2024-08-04">
+<author pid="13/3981">Rodrigo Schramm</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author orcid="0000-0002-8306-9585" pid="84/752">Eduardo Reck Miranda</author>
+<title>Dynamic Time Warping for Music Conducting Gestures Evaluation.</title>
+<pages>243-255</pages>
+<year>2015</year>
+<volume>17</volume>
+<journal>IEEE Trans. Multim.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TMM.2014.2377553</ee>
+<url>db/journals/tmm/tmm17.html#SchrammJM15</url>
+</article>
+</r>
+<r><article key="journals/tmm/MinottoJL15" mdate="2020-10-01">
+<author pid="67/10729">Vicente Peruffo Minotto</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="22/3933">Bowon Lee</author>
+<title>Multimodal Multi-Channel On-Line Speaker Diarization Using Sensor Fusion Through SVM.</title>
+<pages>1694-1705</pages>
+<year>2015</year>
+<volume>17</volume>
+<journal>IEEE Trans. Multim.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TMM.2015.2463722</ee>
+<url>db/journals/tmm/tmm17.html#MinottoJL15</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/OliveiraFWJ15" mdate="2022-12-07">
+<author orcid="0000-0003-3257-4984" pid="243/6499">Adriano Q. de Oliveira</author>
+<author pid="00/8013">Guilherme P. Fickel</author>
+<author orcid="0000-0002-5634-8765" pid="79/1265">Marcelo Walter</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Selective hole-filling for depth-image based rendering.</title>
+<pages>1186-1190</pages>
+<year>2015</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2015.7178157</ee>
+<crossref>conf/icassp/2015</crossref>
+<url>db/conf/icassp/icassp2015.html#OliveiraFWJ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/WeberJG15" mdate="2017-05-25">
+<author pid="172/9785">Henrique Weber</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="54/3620">Dan Gelb</author>
+<title>Hand and object segmentation from RGB-D images for interaction with planar surfaces.</title>
+<pages>2984-2988</pages>
+<year>2015</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2015.7351350</ee>
+<crossref>conf/icip/2015</crossref>
+<url>db/conf/icip/icip2015.html#WeberJG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/MontazzolliJG15" mdate="2020-10-17">
+<author pid="208/7483">Sergio Montazzolli</author>
+<author pid="07/5754">Cl&#225;udio R. Jung</author>
+<author pid="54/3620">Dan Gelb</author>
+<title>Audiovisual voice activity detection using off-the-shelf cameras.</title>
+<pages>3886-3890</pages>
+<year>2015</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2015.7351533</ee>
+<crossref>conf/icip/2015</crossref>
+<url>db/conf/icip/icip2015.html#MontazzolliJG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/WeberJ15" mdate="2017-05-25">
+<author pid="172/9785">Henrique Weber</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Low-cost license plate detection using a calibrated camera.</title>
+<pages>4763-4767</pages>
+<year>2015</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2015.7351711</ee>
+<crossref>conf/icip/2015</crossref>
+<url>db/conf/icip/icip2015.html#WeberJ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismir/SchrammNJ15" mdate="2020-03-12">
+<author pid="13/3981">Rodrigo Schramm</author>
+<author pid="170/1980">Helena de Souza Nunes</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Automatic Solf&#232;ge Assessment.</title>
+<pages>183-189</pages>
+<year>2015</year>
+<booktitle>ISMIR</booktitle>
+<ee type="oa">http://ismir2015.uma.es/articles/75_Paper.pdf</ee>
+<crossref>conf/ismir/2015</crossref>
+<url>db/conf/ismir/ismir2015.html#SchrammNJ15</url>
+</inproceedings>
+</r>
+<r><article key="journals/eswa/PaulaJS14" mdate="2023-09-30">
+<author orcid="0000-0001-5849-0290" pid="137/3902">Mauricio Braga de Paula</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="133/7509">Luiz Gonzaga da Silveira Jr.</author>
+<title>Automatic on-the-fly extrinsic camera calibration of onboard vehicular cameras.</title>
+<pages>1997-2007</pages>
+<year>2014</year>
+<volume>41</volume>
+<journal>Expert Syst. Appl.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.eswa.2013.08.096</ee>
+<url>db/journals/eswa/eswa41.html#PaulaJS14</url>
+</article>
+</r>
+<r><article key="journals/eswa/SeewaldGVMJ14" mdate="2021-04-09">
+<author pid="149/9191">Lucas Adams Seewald</author>
+<author orcid="0000-0002-7661-2447" pid="133/7509">Luiz Gonzaga Jr.</author>
+<author orcid="0000-0002-5914-3546" pid="146/3467">Maur&#237;cio Roberto Veronez</author>
+<author pid="67/10729">Vicente Peruffo Minotto</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Combining SRP-PHAT and two Kinects for 3D Sound Source Localization.</title>
+<pages>7106-7113</pages>
+<year>2014</year>
+<volume>41</volume>
+<journal>Expert Syst. Appl.</journal>
+<number>16</number>
+<ee>https://doi.org/10.1016/j.eswa.2014.05.033</ee>
+<url>db/journals/eswa/eswa41.html#SeewaldGVMJ14</url>
+</article>
+</r>
+<r><article key="journals/prl/FuhrJ14" mdate="2020-02-22">
+<author pid="40/5646">Gustavo F&#252;hr</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Combining patch matching and detection for robust pedestrian tracking in monocular calibrated cameras.</title>
+<pages>11-20</pages>
+<year>2014</year>
+<volume>39</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2013.08.031</ee>
+<url>db/journals/prl/prl39.html#FuhrJ14</url>
+</article>
+</r>
+<r><article key="journals/tmm/MinottoJL14" mdate="2020-10-01">
+<author pid="67/10729">Vicente P. Minotto</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="22/3933">Bowon Lee</author>
+<title>Simultaneous-Speaker Voice Activity Detection and Localization Using Mid-Fusion of SVM and HMMs.</title>
+<pages>1032-1044</pages>
+<year>2014</year>
+<volume>16</volume>
+<journal>IEEE Trans. Multim.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TMM.2014.2305632</ee>
+<url>db/journals/tmm/tmm16.html#MinottoJL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/SchrammJ14" mdate="2017-05-19">
+<author pid="13/3981">Rodrigo Schramm</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Temporally coherent stereo matching using kinematic constraints.</title>
+<pages>554-558</pages>
+<year>2014</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2014.6853657</ee>
+<crossref>conf/icassp/2014</crossref>
+<url>db/conf/icassp/icassp2014.html#SchrammJ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/JacquesJM14" mdate="2020-12-10">
+<author orcid="0000-0001-6785-7146" pid="123/3235">J&#250;lio Cezar Silveira Jacques J&#250;nior</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author orcid="0000-0002-3278-217X" pid="92/5311">Soraia Raupp Musse</author>
+<title>Head-shoulder human contour estimation in still images.</title>
+<pages>278-282</pages>
+<year>2014</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2014.7025055</ee>
+<crossref>conf/icip/2014</crossref>
+<url>db/conf/icip/icip2014.html#JacquesJM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/KaraaliJ14" mdate="2017-09-16">
+<author orcid="0000-0002-4154-4181" pid="78/9874">Ali Karaali</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Adaptive scale selection for multiresolution defocus blur estimation.</title>
+<pages>4597-4601</pages>
+<year>2014</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2014.7025932</ee>
+<crossref>conf/icip/2014</crossref>
+<url>db/conf/icip/icip2014.html#KaraaliJ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/FickelJL14" mdate="2017-05-25">
+<author pid="00/8013">Guilherme P. Fickel</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="22/3933">Bowon Lee</author>
+<title>Multiview image and video interpolation using weighted vector median filters.</title>
+<pages>5387-5391</pages>
+<year>2014</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2014.7026090</ee>
+<crossref>conf/icip/2014</crossref>
+<url>db/conf/icip/icip2014.html#FickelJL14</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijhpca/MinottoJSL13" mdate="2020-03-12">
+<author pid="67/10729">Vicente Peruffo Minotto</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="133/7509">Luiz Gonzaga da Silveira Jr.</author>
+<author pid="22/3933">Bowon Lee</author>
+<title>GPU-based approaches for real-time sound source localization using the SRP-PHAT algorithm.</title>
+<pages>291-306</pages>
+<year>2013</year>
+<volume>27</volume>
+<journal>Int. J. High Perform. Comput. Appl.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1177/1094342012452166</ee>
+<url>db/journals/ijhpca/ijhpca27.html#MinottoJSL13</url>
+</article>
+</r>
+<r><article key="journals/jmiv/BinsDJ13" mdate="2020-06-08">
+<author pid="03/3334">Jos&#233; Bins</author>
+<author orcid="0000-0002-9486-8534" pid="49/6237">Leandro Lorenzett Dihl</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Target Tracking Using Multiple Patches and Weighted Vector Median Filters.</title>
+<pages>293-307</pages>
+<year>2013</year>
+<volume>45</volume>
+<journal>J. Math. Imaging Vis.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10851-012-0354-y</ee>
+<url>db/journals/jmiv/jmiv45.html#BinsDJ13</url>
+</article>
+</r>
+<r><article key="journals/jstsp/MinottoLSJL13" mdate="2021-04-09">
+<author pid="67/10729">Vicente P. Minotto</author>
+<author pid="34/8739">Carlos B. O. Lopes</author>
+<author orcid="0000-0002-9223-4693" pid="s/JacobScharcanski">Jacob Scharcanski</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="22/3933">Bowon Lee</author>
+<title>Audiovisual Voice Activity Detection Based on Microphone Arrays and Color Information.</title>
+<pages>147-156</pages>
+<year>2013</year>
+<volume>7</volume>
+<journal>IEEE J. Sel. Top. Signal Process.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/JSTSP.2012.2237379</ee>
+<url>db/journals/jstsp/jstsp7.html#MinottoLSJL13</url>
+</article>
+</r>
+<r><article key="journals/tip/FickelJMSC13" mdate="2020-05-10">
+<author pid="00/8013">Guilherme Pinto Fickel</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="72/3684">Tom Malzbender</author>
+<author pid="50/2052">Ramin Samadani</author>
+<author pid="63/1231">W. Bruce Culbertson</author>
+<title>Stereo Matching and View Interpolation Based on Image Domain Triangulation.</title>
+<pages>3353-3365</pages>
+<year>2013</year>
+<volume>22</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TIP.2013.2264819</ee>
+<ee>https://www.wikidata.org/entity/Q44382888</ee>
+<url>db/journals/tip/tip22.html#FickelJMSC13</url>
+</article>
+</r>
+<r><inproceedings key="conf/icip/FuhrFDJMS13" mdate="2018-09-11">
+<author pid="40/5646">Gustavo F&#252;hr</author>
+<author pid="00/8013">Guilherme Pinto Fickel</author>
+<author pid="141/9938">Lorenzo P. Dal'Aqua</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="72/3684">Tom Malzbender</author>
+<author pid="50/2052">Ramin Samadani</author>
+<title>An evaluation of stereo matching methods for view interpolation.</title>
+<pages>403-407</pages>
+<year>2013</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2013.6738083</ee>
+<crossref>conf/icip/2013</crossref>
+<url>db/conf/icip/icip2013.html#FuhrFDJMS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/JacquesDJM13" mdate="2020-12-10">
+<author orcid="0000-0001-6785-7146" pid="123/3235">J&#250;lio Cezar Silveira Jacques J&#250;nior</author>
+<author orcid="0000-0002-9486-8534" pid="49/6237">Leandro Lorenzett Dihl</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author orcid="0000-0002-3278-217X" pid="92/5311">Soraia Raupp Musse</author>
+<title>Self-occlusion and 3D pose estimation in still images.</title>
+<pages>2539-2543</pages>
+<year>2013</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2013.6738523</ee>
+<crossref>conf/icip/2013</crossref>
+<url>db/conf/icip/icip2013.html#JacquesDJM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/AlmeidaJ13" mdate="2023-03-24">
+<author pid="152/8517">Igor Rodrigues de Almeida</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Change Detection in Human Crowds.</title>
+<pages>63-69</pages>
+<year>2013</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2013.18</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRAPI.2013.18</ee>
+<crossref>conf/sibgrapi/2013</crossref>
+<url>db/conf/sibgrapi/sibgrapi2013.html#AlmeidaJ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/PaulaJ13" mdate="2023-09-30">
+<author orcid="0000-0001-5849-0290" pid="137/3902">Mauricio Braga de Paula</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Real-Time Detection and Classification of Road Lane Markings.</title>
+<pages>83-90</pages>
+<year>2013</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2013.21</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRAPI.2013.21</ee>
+<crossref>conf/sibgrapi/2013</crossref>
+<url>db/conf/sibgrapi/sibgrapi2013.html#PaulaJ13</url>
+</inproceedings>
+</r>
+<r><article key="journals/cg/BichoRMJPM12" mdate="2020-02-19">
+<author orcid="0000-0002-6572-1496" pid="94/2876">Alessandro de Lima Bicho</author>
+<author pid="42/7360">Rafael Ara&#250;jo Rodrigues</author>
+<author orcid="0000-0002-3278-217X" pid="92/5311">Soraia Raupp Musse</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="55/7360">Marcelo Paravisi</author>
+<author pid="12/5396">L&#233;o Pini Magalh&#227;es</author>
+<title>Simulating crowds based on a space colonization algorithm.</title>
+<pages>70-79</pages>
+<year>2012</year>
+<volume>36</volume>
+<journal>Comput. Graph.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.cag.2011.12.004</ee>
+<url>db/journals/cg/cg36.html#BichoRMJPM12</url>
+</article>
+</r>
+<r><article key="journals/jvca/MusseCJ12" mdate="2020-07-16">
+<author orcid="0000-0002-3278-217X" pid="92/5311">Soraia Raupp Musse</author>
+<author pid="28/11115">Vin&#237;cius J. Cassol</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Towards a quantitative approach for comparing crowds.</title>
+<pages>49-57</pages>
+<year>2012</year>
+<volume>23</volume>
+<journal>Comput. Animat. Virtual Worlds</journal>
+<number>1</number>
+<ee>https://doi.org/10.1002/cav.1423</ee>
+<url>db/journals/jvca/jvca23.html#MusseCJ12</url>
+</article>
+</r>
+<r><article key="journals/prl/BlauthMJLK12" mdate="2020-02-22">
+<author pid="66/10727">Dante A. Blauth</author>
+<author pid="67/10729">Vicente P. Minotto</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="22/3933">Bowon Lee</author>
+<author pid="39/2685">Ton Kalker</author>
+<title>Voice activity detection and speaker localization using audiovisual cues.</title>
+<pages>373-380</pages>
+<year>2012</year>
+<volume>33</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.patrec.2011.09.002</ee>
+<url>db/journals/prl/prl33.html#BlauthMJLK12</url>
+</article>
+</r>
+<r><inproceedings key="conf/icip/JuniorJM12" mdate="2017-11-06">
+<author orcid="0000-0001-6785-7146" pid="123/3235">J&#250;lio C. S. Jacques J&#250;nior</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author orcid="0000-0002-3278-217X" pid="92/5311">Soraia Raupp Musse</author>
+<title>Skeleton-based human segmentation in still images.</title>
+<pages>141-144</pages>
+<year>2012</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2012.6466815</ee>
+<crossref>conf/icip/2012</crossref>
+<url>db/conf/icip/icip2012.html#JuniorJM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/FickelJSM12" mdate="2017-05-25">
+<author pid="00/8013">Guilherme P. Fickel</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="50/2052">Ramin Samadani</author>
+<author pid="72/3684">Tom Malzbender</author>
+<title>Stereo matching based on image triangulation for view synthesis.</title>
+<pages>2733-2736</pages>
+<year>2012</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2012.6467464</ee>
+<crossref>conf/icip/2012</crossref>
+<url>db/conf/icip/icip2012.html#FickelJSM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/FuhrJ12" mdate="2023-03-24">
+<author pid="40/5646">Gustavo F&#252;hr</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Robust Patch-Based Pedestrian Tracking Using Monocular Calibrated Cameras.</title>
+<pages>166-173</pages>
+<year>2012</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2012.31</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRAPI.2012.31</ee>
+<crossref>conf/sibgrapi/2012</crossref>
+<url>db/conf/sibgrapi/sibgrapi2012.html#FuhrJ12</url>
+</inproceedings>
+</r>
+<r><article key="journals/prl/Jung11" mdate="2020-02-22">
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Image processing, computer vision and pattern recognition in Latin America.</title>
+<pages>1-2</pages>
+<year>2011</year>
+<volume>32</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.patrec.2010.09.015</ee>
+<url>db/journals/prl/prl32.html#Jung11</url>
+</article>
+</r>
+<r><inproceedings key="conf/icip/LopesGSJ11" mdate="2021-04-09">
+<author pid="34/8739">Carlos B. O. Lopes</author>
+<author pid="14/10698">Andre L. Gon&#231;alves</author>
+<author orcid="0000-0002-9223-4693" pid="s/JacobScharcanski">Jacob Scharcanski</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Color-based lips extraction applied to voice activity detection.</title>
+<pages>1057-1060</pages>
+<year>2011</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2011.6115606</ee>
+<crossref>conf/icip/2011</crossref>
+<url>db/conf/icip/icip2011.html#LopesGSJ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/ParolinFJMS11" mdate="2023-03-24">
+<author pid="51/10197">Alessandro Parolin</author>
+<author pid="00/8013">Guilherme P. Fickel</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="72/3684">Thomas Malzbender</author>
+<author pid="50/2052">Ramin Samadani</author>
+<title>Bilayer video segmentation for videoconferencing applications.</title>
+<pages>1-6</pages>
+<year>2011</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2011.6011871</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICME.2011.6011871</ee>
+<crossref>conf/icmcs/2011</crossref>
+<url>db/conf/icmcs/icme2011.html#ParolinFJMS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbgames/BraunSJDBMJTK11" mdate="2023-03-23">
+<author pid="118/8328">Henry Braun</author>
+<author pid="65/10802">Humberto Souto</author>
+<author orcid="0000-0001-6785-7146" pid="123/3235">J&#250;lio C. S. Jacques J&#250;nior</author>
+<author orcid="0000-0002-9486-8534" pid="49/6237">Leandro Lorenzett Dihl</author>
+<author pid="08/4768">Adriana Braun</author>
+<author orcid="0000-0002-3278-217X" pid="92/5311">Soraia Raupp Musse</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="93/6295">Marcelo Resende Thielo</author>
+<author pid="k/RenatoKeshet">Renato Keshet</author>
+<title>Making Them Alive.</title>
+<pages>182-188</pages>
+<year>2011</year>
+<booktitle>SBGames</booktitle>
+<ee>https://doi.org/10.1109/SBGAMES.2011.28</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBGAMES.2011.28</ee>
+<crossref>conf/sbgames/2011</crossref>
+<url>db/conf/sbgames/sbgames2011.html#BraunSJDBMJTK11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/DihlJB11" mdate="2023-03-24">
+<author orcid="0000-0002-9486-8534" pid="49/6237">Leandro Lorenzett Dihl</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="03/3334">Jos&#233; Bins</author>
+<title>Robust Adaptive Patch-Based Object Tracking Using Weighted Vector Median Filters.</title>
+<pages>149-156</pages>
+<year>2011</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2011.29</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRAPI.2011.29</ee>
+<crossref>conf/sibgrapi/2011</crossref>
+<url>db/conf/sibgrapi/sibgrapi2011.html#DihlJB11</url>
+</inproceedings>
+</r>
+<r><article key="journals/aai/RodriguesBPJMM10" mdate="2020-08-25">
+<author pid="42/7360">Rafael Ara&#250;jo Rodrigues</author>
+<author orcid="0000-0002-6572-1496" pid="94/2876">Alessandro de Lima Bicho</author>
+<author pid="55/7360">Marcelo Paravisi</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="12/5396">L&#233;o Pini Magalh&#227;es</author>
+<author orcid="0000-0002-3278-217X" pid="92/5311">Soraia Raupp Musse</author>
+<title>An Interactive Model for Steering Behaviors of Groups of Characters.</title>
+<pages>594-616</pages>
+<year>2010</year>
+<volume>24</volume>
+<journal>Appl. Artif. Intell.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1080/08839514.2010.492167</ee>
+<url>db/journals/aai/aai24.html#RodriguesBPJMM10</url>
+</article>
+</r>
+<r><article key="journals/ppl/SilveiraCJJM10" mdate="2020-12-10">
+<author pid="06/7987">C&#233;sar L. B. Silveira</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author orcid="0000-0001-6785-7146" pid="123/3235">J&#250;lio Cezar Silveira Jacques Jr.</author>
+<author orcid="0000-0002-3278-217X" pid="92/5311">Soraia Raupp Musse</author>
+<title>An Improved Background Subtraction Algorithm and Concurrent Implementations.</title>
+<pages>71-89</pages>
+<year>2010</year>
+<volume>20</volume>
+<journal>Parallel Process. Lett.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1142/S0129626410000065</ee>
+<url>db/journals/ppl/ppl20.html#SilveiraCJJM10</url>
+</article>
+</r>
+<r><article key="journals/spm/JuniorMJ10" mdate="2020-12-10">
+<author orcid="0000-0001-6785-7146" pid="123/3235">J&#250;lio Cezar Silveira Jacques J&#250;nior</author>
+<author orcid="0000-0002-3278-217X" pid="92/5311">Soraia Raupp Musse</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Crowd Analysis Using Computer Vision Techniques.</title>
+<pages>66-77</pages>
+<year>2010</year>
+<volume>27</volume>
+<journal>IEEE Signal Process. Mag.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MSP.2010.937394</ee>
+<url>db/journals/spm/spm27.html#JuniorMJ10</url>
+</article>
+</r>
+<r><inproceedings key="conf/icip/JacquesDJTKM10" mdate="2020-12-10">
+<author orcid="0000-0001-6785-7146" pid="123/3235">J&#250;lio Cezar Silveira Jacques J&#250;nior</author>
+<author orcid="0000-0002-9486-8534" pid="49/6237">Leandro Lorenzett Dihl</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="93/6295">Marcelo Resende Thielo</author>
+<author pid="k/RenatoKeshet">Renato Keshet</author>
+<author orcid="0000-0002-3278-217X" pid="92/5311">Soraia Raupp Musse</author>
+<title>Human upper body identification from images.</title>
+<pages>1717-1720</pages>
+<year>2010</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2010.5653552</ee>
+<crossref>conf/icip/2010</crossref>
+<url>db/conf/icip/icip2010.html#JacquesDJTKM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/ParolinHJ10" mdate="2023-03-24">
+<author pid="51/10197">Alessandro Parolin</author>
+<author pid="18/6827">Eduardo Herzer</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Semi-automated Diagnosis of Melanoma through the Analysis of Dermatological Images.</title>
+<pages>71-78</pages>
+<year>2010</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2010.18</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRAPI.2010.18</ee>
+<crossref>conf/sibgrapi/2010</crossref>
+<url>db/conf/sibgrapi/sibgrapi2010.html#ParolinHJ10</url>
+</inproceedings>
+</r>
+<r><article key="journals/jstsp/JungS09" mdate="2021-04-09">
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author orcid="0000-0002-9223-4693" pid="s/JacobScharcanski">Jacob Scharcanski</author>
+<title>Sharpening Dermatological Color Images in the Wavelet Domain.</title>
+<pages>4-13</pages>
+<year>2009</year>
+<volume>3</volume>
+<journal>IEEE J. Sel. Top. Signal Process.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/JSTSP.2008.2011113</ee>
+<url>db/journals/jstsp/jstsp3.html#JungS09</url>
+</article>
+</r>
+<r><article key="journals/tmm/Jung09" mdate="2020-10-01">
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Efficient Background Subtraction and Shadow Removal for Monochromatic Video Sequences.</title>
+<pages>571-577</pages>
+<year>2009</year>
+<volume>11</volume>
+<journal>IEEE Trans. Multim.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TMM.2009.2012924</ee>
+<url>db/journals/tmm/tmm11.html#Jung09</url>
+</article>
+</r>
+<r><inproceedings key="conf/icip/JungS09" mdate="2017-05-25">
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="s/AmirSaid">Amir Said</author>
+<title>Object tracking using multiple fragments.</title>
+<pages>889-892</pages>
+<year>2009</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2009.5414243</ee>
+<crossref>conf/icip/2009</crossref>
+<url>db/conf/icip/icip2009.html#JungS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ism/ScottJBSK09" mdate="2023-03-24">
+<author pid="23/8414">Dario Scott</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="03/3334">Jos&#233; Bins</author>
+<author pid="s/AmirSaid">Amir Said</author>
+<author pid="39/2685">Antonius A. C. M. Kalker</author>
+<title>Video Based VAD Using Adaptive Color Information.</title>
+<pages>80-87</pages>
+<year>2009</year>
+<booktitle>ISM</booktitle>
+<ee>https://doi.org/10.1109/ISM.2009.41</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISM.2009.41</ee>
+<crossref>conf/ism/2009</crossref>
+<url>db/conf/ism/ism2009.html#ScottJBSK09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ism/BinsJDS09" mdate="2023-03-24">
+<author pid="03/3334">Jos&#233; Bins</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author orcid="0000-0002-9486-8534" pid="49/6237">Leandro Lorenzett Dihl</author>
+<author pid="s/AmirSaid">Amir Said</author>
+<title>Feature-Based Face Tracking for Videoconferencing Applications.</title>
+<pages>227-234</pages>
+<year>2009</year>
+<booktitle>ISM</booktitle>
+<ee>https://doi.org/10.1109/ISM.2009.33</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISM.2009.33</ee>
+<crossref>conf/ism/2009</crossref>
+<url>db/conf/ism/ism2009.html#BinsJDS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iva/RodriguesBPJMM09" mdate="2017-11-06">
+<author pid="42/7360">Rafael Ara&#250;jo Rodrigues</author>
+<author orcid="0000-0002-6572-1496" pid="94/2876">Alessandro de Lima Bicho</author>
+<author pid="55/7360">Marcelo Paravisi</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="12/5396">L&#233;o Pini Magalh&#227;es</author>
+<author orcid="0000-0002-3278-217X" pid="92/5311">Soraia Raupp Musse</author>
+<title>Tree Paths: A New Model for Steering Behaviors.</title>
+<pages>358-371</pages>
+<year>2009</year>
+<booktitle>IVA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04380-2_39</ee>
+<crossref>conf/iva/2009</crossref>
+<url>db/conf/iva/iva2009.html#RodriguesBPJMM09</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcsv/JungHM08" mdate="2021-06-13">
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="294/7776">Luciano Hennemann</author>
+<author orcid="0000-0002-3278-217X" pid="92/5311">Soraia Raupp Musse</author>
+<title>Event Detection Using Trajectory Clustering and 4-D Histograms.</title>
+<pages>1565-1575</pages>
+<year>2008</year>
+<volume>18</volume>
+<journal>IEEE Trans. Circuits Syst. Video Technol.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TCSVT.2008.2005600</ee>
+<url>db/journals/tcsv/tcsv18.html#JungHM08</url>
+</article>
+</r>
+<r><article key="journals/ivc/Jung07" mdate="2020-02-20">
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Combining wavelets and watersheds for robust multiscale image segmentation.</title>
+<pages>24-33</pages>
+<year>2007</year>
+<volume>25</volume>
+<journal>Image Vis. Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.imavis.2006.01.002</ee>
+<url>db/journals/ivc/ivc25.html#Jung07</url>
+</article>
+</r>
+<r><article key="journals/jvca/MusseJJB07" mdate="2020-12-10">
+<author orcid="0000-0002-3278-217X" pid="92/5311">Soraia Raupp Musse</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author orcid="0000-0001-6785-7146" pid="123/3235">J&#250;lio Cezar Silveira Jacques Jr.</author>
+<author pid="08/4768">Adriana Braun</author>
+<title>Using computer vision to simulate the motion of virtual agents.</title>
+<pages>83-93</pages>
+<year>2007</year>
+<volume>18</volume>
+<journal>Comput. Animat. Virtual Worlds</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cav.163</ee>
+<url>db/journals/jvca/jvca18.html#MusseJJB07</url>
+</article>
+</r>
+<r><article key="journals/paa/JacquesBSMJ07" mdate="2020-12-10">
+<author orcid="0000-0001-6785-7146" pid="123/3235">J&#250;lio Cezar Silveira Jacques Jr.</author>
+<author pid="08/4768">Adriana Braun</author>
+<author pid="10/1320">John Soldera</author>
+<author orcid="0000-0002-3278-217X" pid="92/5311">Soraia Raupp Musse</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Understanding people motion in video sequences using Voronoi diagrams.</title>
+<pages>321-332</pages>
+<year>2007</year>
+<volume>10</volume>
+<journal>Pattern Anal. Appl.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10044-007-0070-1</ee>
+<url>db/journals/paa/paa10.html#JacquesBSMJ07</url>
+</article>
+</r>
+<r><article key="journals/prl/Jung07" mdate="2020-02-22">
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Unsupervised multiscale segmentation of color images.</title>
+<pages>523-533</pages>
+<year>2007</year>
+<volume>28</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.patrec.2006.10.001</ee>
+<url>db/journals/prl/prl28.html#Jung07</url>
+</article>
+</r>
+<r><article key="journals/vc/IgnacioJ07" mdate="2020-06-04">
+<author pid="92/2009">Ubirat&#227; A. Ign&#225;cio</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Block-based image inpainting in the wavelet domain.</title>
+<pages>733-741</pages>
+<year>2007</year>
+<volume>23</volume>
+<journal>Vis. Comput.</journal>
+<number>9-11</number>
+<ee>https://doi.org/10.1007/s00371-007-0139-2</ee>
+<url>db/journals/vc/vc23.html#IgnacioJ07</url>
+</article>
+</r>
+<r><inproceedings key="conf/graphite/MelloJW07" mdate="2022-12-07">
+<author pid="73/5690">V. B. Mello</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author orcid="0000-0002-5634-8765" pid="79/1265">Marcelo Walter</author>
+<title>Virtual woodcuts from images.</title>
+<pages>103-109</pages>
+<year>2007</year>
+<booktitle>GRAPHITE</booktitle>
+<ee>https://doi.org/10.1145/1321261.1321280</ee>
+<crossref>conf/graphite/2007</crossref>
+<url>db/conf/graphite/graphite2007.html#MelloJW07</url>
+</inproceedings>
+</r>
+<r><article key="journals/cgf/ToniettoWJ06" mdate="2022-12-07">
+<author pid="48/1977">Leandro Tonietto</author>
+<author orcid="0000-0002-5634-8765" pid="79/1265">Marcelo Walter</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>A Randomized Approach for Patch-based Texture Synthesis using Wavelets.</title>
+<pages>675-684</pages>
+<year>2006</year>
+<volume>25</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>4</number>
+<ee>https://doi.org/10.1111/j.1467-8659.2006.00989.x</ee>
+<url>db/journals/cgf/cgf25.html#ToniettoWJ06</url>
+</article>
+</r>
+<r><article key="journals/cmig/ScharcanskiJ06" mdate="2021-04-09">
+<author orcid="0000-0002-9223-4693" pid="s/JacobScharcanski">Jacob Scharcanski</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Denoising and enhancing digital mammographic images for visual screening.</title>
+<pages>243-254</pages>
+<year>2006</year>
+<volume>30</volume>
+<journal>Comput. Medical Imaging Graph.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.compmedimag.2006.05.002</ee>
+<ee>https://www.wikidata.org/entity/Q39762142</ee>
+<url>db/journals/cmig/cmig30.html#ScharcanskiJ06</url>
+</article>
+</r>
+<r><inproceedings key="conf/icip/JacquesJM06" mdate="2020-12-10">
+<author orcid="0000-0001-6785-7146" pid="123/3235">J&#250;lio Cezar Silveira Jacques Jr.</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author orcid="0000-0002-3278-217X" pid="92/5311">Soraia Raupp Musse</author>
+<title>A Background Subtraction Model Adapted to Illumination Changes.</title>
+<pages>1817-1820</pages>
+<year>2006</year>
+<crossref>conf/icip/2006</crossref>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2006.312599</ee>
+<url>db/conf/icip/icip2006.html#JacquesJM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/JungJSM06" mdate="2023-03-24">
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author orcid="0000-0001-6785-7146" pid="123/3235">J&#250;lio Cezar Silveira Jacques Jr.</author>
+<author pid="10/1320">John Soldera</author>
+<author orcid="0000-0002-3278-217X" pid="92/5311">Soraia Raupp Musse</author>
+<title>Detection of Unusual Motion Using Computer Vision.</title>
+<pages>349-356</pages>
+<year>2006</year>
+<crossref>conf/sibgrapi/2006</crossref>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2006.11</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRAPI.2006.11</ee>
+<url>db/conf/sibgrapi/sibgrapi2006.html#JungJSM06</url>
+</inproceedings>
+</r>
+<r><article key="journals/ivc/JungS05" mdate="2021-04-09">
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author orcid="0000-0002-9223-4693" pid="s/JacobScharcanski">Jacob Scharcanski</author>
+<title>Robust watershed segmentation using wavelets.</title>
+<pages>661-669</pages>
+<year>2005</year>
+<volume>23</volume>
+<journal>Image Vis. Comput.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/j.imavis.2005.03.001</ee>
+<url>db/journals/ivc/ivc23.html#JungS05</url>
+</article>
+</r>
+<r><article key="journals/ivc/JungK05" mdate="2020-02-20">
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="46/2394">Christian Roberto Kelber</author>
+<title>Lane following and lane departure using a linear-parabolic model.</title>
+<pages>1192-1202</pages>
+<year>2005</year>
+<volume>23</volume>
+<journal>Image Vis. Comput.</journal>
+<number>13</number>
+<ee>https://doi.org/10.1016/j.imavis.2005.07.018</ee>
+<url>db/journals/ivc/ivc23.html#JungK05</url>
+</article>
+</r>
+<r><inproceedings key="conf/sibgrapi/JungK05" mdate="2023-03-24">
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="46/2394">Christian Roberto Kelber</author>
+<title>An Improved Linear-Parabolic Model for Lane Following and Curve Detection.</title>
+<pages>131-138</pages>
+<year>2005</year>
+<crossref>conf/sibgrapi/2005</crossref>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2005.10</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRAPI.2005.10</ee>
+<url>db/conf/sibgrapi/sibgrapi2005.html#JungK05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/JacquesJM05" mdate="2023-03-24">
+<author orcid="0000-0001-6785-7146" pid="123/3235">J&#250;lio Cezar Silveira Jacques Jr.</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author orcid="0000-0002-3278-217X" pid="92/5311">Soraia Raupp Musse</author>
+<title>Background Subtraction and Shadow Detection in Grayscale Video Sequences.</title>
+<pages>189-196</pages>
+<year>2005</year>
+<crossref>conf/sibgrapi/2005</crossref>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2005.15</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRAPI.2005.15</ee>
+<url>db/conf/sibgrapi/sibgrapi2005.html#JacquesJM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/ToniettoWJ05" mdate="2023-03-24">
+<author pid="48/1977">Leandro Tonietto</author>
+<author orcid="0000-0002-5634-8765" pid="79/1265">Marcelo Walter</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Patch-Based Texture Synthesis Using Wavelets.</title>
+<pages>383-389</pages>
+<year>2005</year>
+<crossref>conf/sibgrapi/2005</crossref>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2005.37</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRAPI.2005.37</ee>
+<url>db/conf/sibgrapi/sibgrapi2005.html#ToniettoWJ05</url>
+</inproceedings>
+</r>
+<r><article key="journals/jei/JungS04" mdate="2021-04-09">
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author orcid="0000-0002-9223-4693" pid="s/JacobScharcanski">Jacob Scharcanski</author>
+<title>Wavelet transform approach to adaptive image denoising and enhancement.</title>
+<pages>278-285</pages>
+<year>2004</year>
+<volume>13</volume>
+<journal>J. Electronic Imaging</journal>
+<number>2</number>
+<ee>https://doi.org/10.1117/1.1683247</ee>
+<url>db/journals/jei/jei13.html#JungS04</url>
+</article>
+</r>
+<r><inproceedings key="conf/sibgrapi/ScharcanskiJ04" mdate="2023-03-24">
+<author orcid="0000-0002-9223-4693" pid="s/JacobScharcanski">Jacob Scharcanski</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>An Adaptive Approach to Mammographic Image Denoising and Enhancement.</title>
+<pages>2-9</pages>
+<year>2004</year>
+<crossref>conf/sibgrapi/2004</crossref>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRA.2004.1352936</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRA.2004.1352936</ee>
+<url>db/conf/sibgrapi/sibgrapi2004.html#ScharcanskiJ04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/JungK04" mdate="2023-03-24">
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="46/2394">Christian Roberto Kelber</author>
+<title>A Robust Linear-Parabolic Model for Lane Following.</title>
+<pages>72-79</pages>
+<year>2004</year>
+<crossref>conf/sibgrapi/2004</crossref>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRA.2004.1352945</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRA.2004.1352945</ee>
+<url>db/conf/sibgrapi/sibgrapi2004.html#JungK04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/JungS04" mdate="2023-03-24">
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="13/3981">Rodrigo Schramm</author>
+<title>Rectangle Detection based on a Windowed Hough Transform.</title>
+<pages>113-120</pages>
+<year>2004</year>
+<crossref>conf/sibgrapi/2004</crossref>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRA.2004.1352951</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRA.2004.1352951</ee>
+<url>db/conf/sibgrapi/sibgrapi2004.html#JungS04</url>
+</inproceedings>
+</r>
+<r><article key="journals/prl/JungS03" mdate="2021-04-09">
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author orcid="0000-0002-9223-4693" pid="s/JacobScharcanski">Jacob Scharcanski</author>
+<title>Adaptive image denoising and edge enhancement in scale-space using the wavelet transform.</title>
+<pages>965-971</pages>
+<year>2003</year>
+<volume>24</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/S0167-8655(02)00220-9</ee>
+<url>db/journals/prl/prl24.html#JungS03</url>
+</article>
+</r>
+<r><inproceedings key="conf/sibgrapi/Jung03" mdate="2023-03-24">
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Multiscale Image Segmentation Using Wavelets and Watersheds.</title>
+<pages>278-286</pages>
+<year>2003</year>
+<crossref>conf/sibgrapi/2003</crossref>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRA.2003.1241020</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRA.2003.1241020</ee>
+<url>db/conf/sibgrapi/sibgrapi2003.html#Jung03</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ndltd/Jung02" mdate="2022-05-04">
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<title>Filtragem de imagens com preserva&#231;&#227;o das bordas usando a Transformada Wavelet.</title>
+<year>2002</year>
+<school>Universidade Federal do Rio Grande do Sul, Porto Alegre, Brazil</school>
+<ee>https://hdl.handle.net/10183/2478</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:agregador.ibict.br.BDTD_UFRGS:oai:www.lume.ufrgs.br:10183/2478</ee>
+<note type="source">ndltd.org (oai:agregador.ibict.br.BDTD_UFRGS:oai:www.lume.ufrgs.br:10183/2478)</note>
+</phdthesis>
+</r>
+<r><article key="journals/tip/ScharcanskiJC02" mdate="2021-04-09">
+<author orcid="0000-0002-9223-4693" pid="s/JacobScharcanski">Jacob Scharcanski</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="46/1543">Robin T. Clarke</author>
+<title>Adaptive image denoising using scale and space consistency.</title>
+<pages>1092-1101</pages>
+<year>2002</year>
+<volume>11</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TIP.2002.802528</ee>
+<ee>https://www.wikidata.org/entity/Q80631890</ee>
+<url>db/journals/tip/tip11.html#ScharcanskiJC02</url>
+</article>
+</r>
+<r><inproceedings key="conf/sibgrapi/JungS02" mdate="2023-03-24">
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author orcid="0000-0002-9223-4693" pid="s/JacobScharcanski">Jacob Scharcanski</author>
+<title>Robust Watershed Segmentation Using the Wavelet Transform.</title>
+<pages>131-137</pages>
+<year>2002</year>
+<crossref>conf/sibgrapi/2002</crossref>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRA.2002.1167135</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRA.2002.1167135</ee>
+<url>db/conf/sibgrapi/sibgrapi2002.html#JungS02</url>
+</inproceedings>
+</r>
+<r><article key="journals/jei/JungS01" mdate="2021-04-09">
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author orcid="0000-0002-9223-4693" pid="s/JacobScharcanski">Jacob Scharcanski</author>
+<title>Wavelet-based method for image filtering using scale-space continuity.</title>
+<pages>511-520</pages>
+<year>2001</year>
+<volume>10</volume>
+<journal>J. Electronic Imaging</journal>
+<number>2</number>
+<ee>https://doi.org/10.1117/1.1351170</ee>
+<url>db/journals/jei/jei10.html#JungS01</url>
+</article>
+</r>
+<r><inproceedings key="conf/sibgrapi/JungS01" mdate="2023-03-24">
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author orcid="0000-0002-9223-4693" pid="s/JacobScharcanski">Jacob Scharcanski</author>
+<title>Adaptative Image Denoising in Scale-Space Using the Wavelet Transform.</title>
+<pages>172-178</pages>
+<year>2001</year>
+<crossref>conf/sibgrapi/2001</crossref>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2001.963052</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRAPI.2001.963052</ee>
+<url>db/conf/sibgrapi/sibgrapi2001.html#JungS01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/JungS00" mdate="2023-03-24">
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author pid="s/JacobScharcanski">Jacob Scharcanski</author>
+<title>Stochastic Texture Image Retrieval and Similarity Matching.</title>
+<pages>178-184</pages>
+<year>2000</year>
+<crossref>conf/sibgrapi/2000</crossref>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRA.2000.883911</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRA.2000.883911</ee>
+<url>db/conf/sibgrapi/sibgrapi2000.html#JungS00</url>
+</inproceedings>
+</r>
+<coauthors n="116" nc="4">
+<co c="-1"><na f="a/Albuquerque:Eliton" pid="373/4903">Eliton Albuquerque</na></co>
+<co c="0"><na f="a/Almeida:Igor_Rodrigues_de" pid="152/8517">Igor Rodrigues de Almeida</na></co>
+<co c="0"><na f="a/Angonezi:Angelo" pid="382/4001">Angelo Angonezi</na></co>
+<co c="0"><na f="a/Avelar:Pedro_H=_C=" pid="227/2525">Pedro H. C. Avelar</na></co>
+<co c="0"><na f="b/Badler:Norman_I=" pid="b/NIBadler">Norman I. Badler</na></co>
+<co c="0"><na f="b/Bazjanac:V=" pid="226/4177">V. Bazjanac</na></co>
+<co c="0"><na f="b/Bazzan:Ana_L=_C=" pid="b/AnaLCBazzan">Ana L. C. Bazzan</na></co>
+<co c="0"><na f="b/Bergmann:Matheus_A=" pid="309/4427">Matheus A. Bergmann</na></co>
+<co c="0"><na f="b/Berseth:Glen" pid="147/5478">Glen Berseth</na></co>
+<co c="0"><na f="b/Bianco:Cliceres_Mack_Dal" pid="166/1962">Cliceres Mack Dal Bianco</na></co>
+<co c="0"><na f="b/Bicho:Alessandro_de_Lima" pid="94/2876">Alessandro de Lima Bicho</na></co>
+<co c="0"><na f="b/Bins:Jos=eacute=" pid="03/3334">Jos&#233; Bins</na></co>
+<co c="0"><na f="b/Blauth:Dante_A=" pid="66/10727">Dante A. Blauth</na></co>
+<co c="1"><na f="b/Bortolozzo:Marcelo" pid="281/7125">Marcelo Bortolozzo</na></co>
+<co c="0"><na f="b/Braun:Adriana" pid="08/4768">Adriana Braun</na></co>
+<co c="0"><na f="b/Braun:Henry" pid="118/8328">Henry Braun</na></co>
+<co c="0"><na f="c/Caetani:Rodrigo_Poli" pid="205/1822">Rodrigo Poli Caetani</na></co>
+<co c="0" n="2"><na f="c/Carbonera:Joel_Luis" pid="121/5033">Joel Luis Carbonera</na><na>Joel Lu&#237;s Carbonera</na></co>
+<co c="0"><na f="c/Carro:Luigi" pid="25/5214">Luigi Carro</na></co>
+<co c="0"><na f="c/Cassel:Camila" pid="382/4101">Camila Cassel</na></co>
+<co c="0" n="2"><na f="c/Cassol:Vin=iacute=cius_Jurinic" pid="28/11115">Vin&#237;cius Jurinic Cassol</na><na>Vin&#237;cius J. Cassol</na></co>
+<co c="0" n="2"><na f="c/Cavalheiro:Gerson_G=_H=" pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</na><na>Gerson Geraldo Homrich Cavalheiro</na></co>
+<co c="0"><na f="c/Chen:G=" pid="87/3288">G. Chen</na></co>
+<co c="0"><na f="c/Chen:L=" pid="93/6789">L. Chen</na></co>
+<co c="0"><na f="c/Clarke:Robin_T=" pid="46/1543">Robin T. Clarke</na></co>
+<co c="0" n="2"><na f="c/Comba:Jo=atilde=o_Luiz_Dihl" pid="c/JoaoLuizDihlComba">Jo&#227;o Luiz Dihl Comba</na><na>Jo&#227;o Comba</na></co>
+<co c="3"><na f="c/Cruz:Edwin_Alberto_Silva" pid="230/0312">Edwin Alberto Silva Cruz</na></co>
+<co c="0"><na f="c/Culbertson:W=_Bruce" pid="63/1231">W. Bruce Culbertson</na></co>
+<co c="0"><na f="d/Dal=Aqua:Lorenzo_P=" pid="141/9938">Lorenzo P. Dal'Aqua</na></co>
+<co c="0" n="2"><na f="d/Dihl:Leandro" pid="49/6237">Leandro Dihl</na><na>Leandro Lorenzett Dihl</na></co>
+<co c="-1"><na f="d/Dornelles:Thiago" pid="279/9823">Thiago Dornelles</na></co>
+<co c="0"><na f="f/Faccioni:Juliano" pid="382/3639">Juliano Faccioni</na></co>
+<co c="0"><na f="f/Faloutsos:Petros" pid="f/PetrosFaloutsos">Petros Faloutsos</na></co>
+<co c="0"><na f="f/Feitosa:Marcelo_Viana" pid="383/6205">Marcelo Viana Feitosa</na></co>
+<co c="0" n="2"><na f="f/Fickel:Guilherme_P=" pid="00/8013">Guilherme P. Fickel</na><na>Guilherme Pinto Fickel</na></co>
+<co c="3"><na f="f/Franco:Carlos_Humberto_Esparza" pid="230/0525">Carlos Humberto Esparza Franco</na></co>
+<co c="0"><na f="f/Freitas:Pedro_S=_de" pid="373/4796">Pedro S. de Freitas</na></co>
+<co c="0"><na f="f/Fruchter:Renate" pid="24/6529">Renate Fruchter</na></co>
+<co c="0"><na f="f/F=uuml=hr:Gustavo" pid="40/5646">Gustavo F&#252;hr</na></co>
+<co c="0"><na f="g/Gavi=atilde=o:Wilson" pid="10/5372">Wilson Gavi&#227;o</na></co>
+<co c="0"><na f="g/Gelb:Dan" pid="54/3620">Dan Gelb</na></co>
+<co c="0"><na f="g/Gomes:Renan_Lopes_Braga" pid="383/4796">Renan Lopes Braga Gomes</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Andre_L=" pid="14/10698">Andre L. Gon&#231;alves</na></co>
+<co c="0" n="3"><na f="g/Gonzaga_0001:Luiz" pid="133/7509">Luiz Gonzaga 0001</na><na>Luiz Gonzaga Jr.</na><na>Luiz Gonzaga da Silveira Jr.</na></co>
+<co c="2"><na f="h/Harte:Naomi" pid="56/5068">Naomi Harte</na></co>
+<co c="0"><na f="h/Hennemann:Luciano" pid="294/7776">Luciano Hennemann</na></co>
+<co c="0"><na f="h/Herzer:Eduardo" pid="18/6827">Eduardo Herzer</na></co>
+<co c="-1"><na f="i/Ign=aacute=cio:Ubirat=atilde=_A=" pid="92/2009">Ubirat&#227; A. Ign&#225;cio</na></co>
+<co c="0" n="3"><na f="j/J=uacute=nior:J=uacute=lio_C=_S=_Jacques" pid="123/3235">J&#250;lio C. S. Jacques J&#250;nior</na><na>J&#250;lio Cezar Silveira Jacques J&#250;nior</na><na>J&#250;lio Cezar Silveira Jacques Jr.</na></co>
+<co c="0" n="2"><na f="k/Kalker:Ton" pid="39/2685">Ton Kalker</na><na>Antonius A. C. M. Kalker</na></co>
+<co c="0"><na f="k/Kapadia:Mubbasir" pid="08/4943">Mubbasir Kapadia</na></co>
+<co c="2"><na f="k/Karaali:Ali" pid="78/9874">Ali Karaali</na></co>
+<co c="-1"><na f="k/Kelber:Christian_Roberto" pid="46/2394">Christian Roberto Kelber</na></co>
+<co c="0"><na f="k/Keshet:Renato" pid="k/RenatoKeshet">Renato Keshet</na></co>
+<co c="0"><na f="k/Kirsten:Lucas_N=" pid="296/1676">Lucas N. Kirsten</na></co>
+<co c="0"><na f="k/Knob:Paulo" pid="224/9438">Paulo Knob</na></co>
+<co c="0"><na f="k/Krohling:Breno" pid="275/7529">Breno Krohling</na></co>
+<co c="0"><na f="l/Lamb:Lu=iacute=s_C=" pid="l/LCLamb">Lu&#237;s C. Lamb</na></co>
+<co c="0"><na f="l/Lee:Bowon" pid="22/3933">Bowon Lee</na></co>
+<co c="0"><na f="l/Lenz:Guido" pid="382/3825">Guido Lenz</na></co>
+<co c="0"><na f="l/Lermen:Thiago_S=" pid="343/4200">Thiago S. Lermen</na></co>
+<co c="0"><na f="l/Lopes:Carlos_B=_O=" pid="34/8739">Carlos B. O. Lopes</na></co>
+<co c="0"><na f="m/Magalh=atilde=es:L=eacute=o_Pini" pid="12/5396">L&#233;o Pini Magalh&#227;es</na></co>
+<co c="0" n="2"><na f="m/Malzbender:Thomas" pid="72/3684">Thomas Malzbender</na><na>Tom Malzbender</na></co>
+<co c="0"><na f="m/Marques:Jose" pid="66/4485">Jose Marques</na></co>
+<co c="0"><na f="m/Marques:Jose_Henrique_Lima" pid="399/2801">Jose Henrique Lima Marques</na></co>
+<co c="0"><na f="m/Mello:V=_B=" pid="73/5690">V. B. Mello</na></co>
+<co c="0"><na f="m/Mendoza:Mariana_Recamonde" pid="81/9882">Mariana Recamonde Mendoza</na></co>
+<co c="0" n="2"><na f="m/Minotto:Vicente_P=" pid="67/10729">Vicente P. Minotto</na><na>Vicente Peruffo Minotto</na></co>
+<co c="1"><na f="m/Miranda:Eduardo_Reck" pid="84/752">Eduardo Reck Miranda</na></co>
+<co c="0"><na f="m/Moneimne:M=" pid="226/4151">M. Moneimne</na></co>
+<co c="0" n="2"><na f="m/Moreira:Viviane_Pereira" pid="o/VivianeMoreiraOrengo">Viviane Pereira Moreira</na><na>Viviane P. Moreira</na></co>
+<co c="0" n="2"><na f="m/Murrugarra=Llerena:Jeffri" pid="294/8779">Jeffri Murrugarra-Llerena</na><na>Jeffri Erwin Murrugarra-Llerena</na></co>
+<co c="0"><na f="m/Musse:Soraia_Raupp" pid="92/5311">Soraia Raupp Musse</na></co>
+<co c="0" n="2"><na f="n/Navaux:Philippe_Olivier_Alexandre" pid="74/1262">Philippe Olivier Alexandre Navaux</na><na>Philippe O. A. Navaux</na></co>
+<co c="1"><na f="n/Nunes:Helena_de_Souza" pid="170/1980">Helena de Souza Nunes</na></co>
+<co c="0"><na f="o/Oliveira:Adriano_Q=_de" pid="243/6499">Adriano Q. de Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Fernanda" pid="22/6644">Fernanda Oliveira</na></co>
+<co c="0"><na f="p/Paravisi:Marcelo" pid="55/7360">Marcelo Paravisi</na></co>
+<co c="0"><na f="p/Parolin:Alessandro" pid="51/10197">Alessandro Parolin</na></co>
+<co c="0"><na f="p/Paula:Mauricio_Braga_de" pid="137/3902">Mauricio Braga de Paula</na></co>
+<co c="0"><na f="p/Pereira:Andr=eacute=_G=" pid="359/5827">Andr&#233; G. Pereira</na></co>
+<co c="0" n="2"><na f="p/Pinto:Paulo_G=_L=" pid="309/4369">Paulo G. L. Pinto</na><na>Paulo Gamarra Lessa Pinto</na></co>
+<co c="2"><na f="p/Piti=eacute=:Fran=ccedil=ois" pid="62/1773">Fran&#231;ois Piti&#233;</na></co>
+<co c="0"><na f="r/Rech:Paolo" pid="64/5340">Paolo Rech</na></co>
+<co c="0" n="2"><na f="r/Rockenbach:Gabriel" pid="229/0794">Gabriel Rockenbach</na><na>Gabriel Wetzel Rockenbach</na></co>
+<co c="0" n="2"><na f="r/Rodrigues:Larissa_Ferreira" pid="208/7446">Larissa Ferreira Rodrigues</na><na>Larissa Ferreira Rodrigues Moreira</na></co>
+<co c="0"><na f="r/Rodrigues:Rafael_Ara=uacute=jo" pid="42/7360">Rafael Ara&#250;jo Rodrigues</na></co>
+<co c="0"><na f="s/Said:Amir" pid="s/AmirSaid">Amir Said</na></co>
+<co c="0"><na f="s/Samadani:Ramin" pid="50/2052">Ramin Samadani</na></co>
+<co c="0" n="2"><na f="s/Santos_0001:Fernando" pid="05/5022-1">Fernando Santos 0001</na><na>Fernando Fernandes 0001</na></co>
+<co c="0"><na f="s/Scharcanski:Jacob" pid="s/JacobScharcanski">Jacob Scharcanski</na></co>
+<co c="1"><na f="s/Schramm:Rodrigo" pid="13/3981">Rodrigo Schramm</na></co>
+<co c="0"><na f="s/Scott:Dario" pid="23/8414">Dario Scott</na></co>
+<co c="0"><na f="s/Seewald:Lucas_Adams" pid="149/9191">Lucas Adams Seewald</na></co>
+<co c="0" n="2"><na f="s/Silva:Sergio_Montazzolli" pid="208/7483">Sergio Montazzolli Silva</na><na>Sergio Montazzolli</na></co>
+<co c="0"><na f="s/Silveira:C=eacute=sar_L=_B=" pid="06/7987">C&#233;sar L. B. Silveira</na></co>
+<co c="0" n="2"><na f="s/Silveira:Thiago_L=_T=_da" pid="141/6127">Thiago L. T. da Silveira</na><na>Thiago Lopes Trugillo da Silveira</na></co>
+<co c="0"><na f="s/Soares:Bruno_Niederauer" pid="383/5239">Bruno Niederauer Soares</na></co>
+<co c="0"><na f="s/Soldera:John" pid="10/1320">John Soldera</na></co>
+<co c="0"><na f="s/Sousa:D=eacute=bora_Santos_de" pid="382/4130">D&#233;bora Santos de Sousa</na></co>
+<co c="0"><na f="s/Souto:Humberto" pid="65/10802">Humberto Souto</na></co>
+<co c="0"><na f="s/Stringhini:R=ocirc=mulo_Marconato" pid="252/2926">R&#244;mulo Marconato Stringhini</na></co>
+<co c="0"><na f="t/Tang:Jianchen" pid="383/5761">Jianchen Tang</na></co>
+<co c="0"><na f="t/Tavares:Anderson_R=" pid="156/7135">Anderson R. Tavares</na></co>
+<co c="0"><na f="t/Testa:Estevao_Smania" pid="205/0363">Estevao Smania Testa</na></co>
+<co c="0" n="2"><na f="t/Thielo:Marcelo" pid="93/6295">Marcelo Thielo</na><na>Marcelo Resende Thielo</na></co>
+<co c="0"><na f="t/Tonietto:Leandro" pid="48/1977">Leandro Tonietto</na></co>
+<co c="0"><na f="u/Usman_0010:Muhammad" pid="20/241-10">Muhammad Usman 0010</na></co>
+<co c="0"><na f="v/Vedovatto:Samlai" pid="382/3879">Samlai Vedovatto</na></co>
+<co c="0"><na f="v/Veronez:Maur=iacute=cio_Roberto" pid="146/3467">Maur&#237;cio Roberto Veronez</na></co>
+<co c="0"><na f="w/Walter:Marcelo" pid="79/1265">Marcelo Walter</na></co>
+<co c="0"><na f="w/Wang:C=" pid="79/2975">C. Wang</na></co>
+<co c="0"><na f="w/Weber:Henrique" pid="172/9785">Henrique Weber</na></co>
+<co c="0"><na f="w/Weigel:Lucas" pid="192/3862">Lucas Weigel</na></co>
+<co c="0"><na f="z/Zeni:Luis_Felipe_de_Araujo" pid="234/2352">Luis Felipe de Araujo Zeni</na></co>
+</coauthors>
+</dblpperson>
+

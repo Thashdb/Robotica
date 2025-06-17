@@ -1,0 +1,598 @@
+<?xml version="1.0"?>
+<dblpperson name="Rodrigo Geraldo Ribeiro" pid="204/6610" n="41">
+<person key="homepages/204/6610" mdate="2017-08-21">
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+</person>
+<r><inproceedings key="conf/cgo/AugustoPVRP25" mdate="2025-03-12">
+<author orcid="0009-0001-8096-9991" pid="397/8469">Kael Soares Augusto</author>
+<author pid="304/6041">Vin&#237;cius Pacheco</author>
+<author orcid="0000-0001-9152-4114" pid="11/6979">Marcos A. M. Vieira</author>
+<author orcid="0000-0003-0131-5154" pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author orcid="0000-0002-0375-1657" pid="p/FMQPereira">Fernando Magno Quint&#227;o Pereira</author>
+<title>Honey Potion: An eBPF Backend for Elixir.</title>
+<pages>660-674</pages>
+<year>2025</year>
+<booktitle>CGO</booktitle>
+<ee>https://doi.org/10.1145/3696443.3708923</ee>
+<crossref>conf/cgo/2025</crossref>
+<url>db/conf/cgo/cgo2025.html#AugustoPVRP25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itp/SoldevilaRZ24" mdate="2024-09-02">
+<author pid="202/2338">Mallku Soldevila</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="89/9225">Beta Ziliani</author>
+<title>Redex2Coq: Towards a Theory of Decidability of Redex's Reduction Semantics.</title>
+<pages>34:1-34:18</pages>
+<year>2024</year>
+<booktitle>ITP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ITP.2024.34</ee>
+<crossref>conf/itp/2024</crossref>
+<url>db/conf/itp/itp2024.html#SoldevilaRZ24</url>
+</inproceedings>
+</r>
+<r><data key="data/11/SoldevilaRZ24" mdate="2025-01-15">
+<author orcid="0000-0002-8653-8084" pid="202/2338">Mallku Soldevila</author>
+<author orcid="0000-0003-0131-5154" pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author orcid="0000-0001-7071-6010" pid="89/9225">Beta Ziliani</author>
+<title>redex2coq.</title>
+<year>2024</year>
+<month>November</month>
+<ee type="oa">https://doi.org/10.4230/artifacts.22490</ee>
+<publisher>DROPS Artifacts</publisher>
+<stream>streams/repo/drops</stream>
+</data>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-03488" mdate="2024-09-02">
+<author pid="202/2338">Mallku Soldevila</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="89/9225">Beta Ziliani</author>
+<title>Redex -&#62; Coq: towards a theory of decidability of Redex's reduction semantics.</title>
+<year>2024</year>
+<volume>abs/2402.03488</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.03488</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-03488</url>
+</article>
+</r>
+<r><inproceedings key="conf/sac/CardosoPPRR23" mdate="2023-07-21">
+<author orcid="0000-0003-4174-8616" pid="239/8548">Elton M. Cardoso</author>
+<author pid="330/2732">Regina Sarah Monferrari Amorim De Paula</author>
+<author pid="330/3007">Daniel Freitas Pereira</author>
+<author pid="119/2191">Leonardo Vieira dos Santos Reis</author>
+<author orcid="0000-0003-0131-5154" pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<title>Type-based Termination Analysis for Parsing Expression Grammars.</title>
+<pages>1372-1379</pages>
+<year>2023</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3555776.3577620</ee>
+<crossref>conf/sac/2023</crossref>
+<url>db/conf/sac/sac2023.html#CardosoPPRR23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/CardosoRRE23" mdate="2023-11-09">
+<author orcid="0000-0003-4174-8616" pid="239/8548">Elton Maximo Cardoso</author>
+<author orcid="0000-0003-0131-5154" pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author orcid="0000-0002-1167-5332" pid="119/2191">Leonardo Vieira dos Santos Reis</author>
+<author orcid="0009-0000-0480-8064" pid="359/6793">Marcos Emiliano</author>
+<title>A Haskell Library for Adaptable Parsing Expression Grammars.</title>
+<pages>73-81</pages>
+<year>2023</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3624309.3624313</ee>
+<crossref>conf/sblp/2023</crossref>
+<url>db/conf/sblp/sblp2023.html#CardosoRRE23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/CardosoRR23" mdate="2025-01-19">
+<author orcid="0000-0003-4174-8616" pid="239/8548">Elton Maximo Cardoso</author>
+<author orcid="0000-0002-1167-5332" pid="119/2191">Leonardo Vieira dos Santos Reis</author>
+<author orcid="0000-0003-0131-5154" pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<title>A Verified Operational Semantics for Regular Expression Parsing.</title>
+<pages>82-90</pages>
+<year>2023</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3624309.3624317</ee>
+<ee>https://www.wikidata.org/entity/Q130953238</ee>
+<crossref>conf/sblp/2023</crossref>
+<url>db/conf/sblp/sblp2023.html#CardosoRR23</url>
+</inproceedings>
+</r>
+<r><article key="journals/vlc/FeitosaR22" mdate="2023-08-28">
+<author pid="226/4565">Samuel da Silva Feitosa</author>
+<author orcid="0000-0003-0131-5154" pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<title>An intrinsically-typed solution for the list-machine benchmark.</title>
+<pages>101085</pages>
+<year>2022</year>
+<volume>68</volume>
+<journal>J. Comput. Lang.</journal>
+<ee>https://doi.org/10.1016/j.cola.2021.101085</ee>
+<ee>https://www.wikidata.org/entity/Q114196123</ee>
+<url>db/journals/vlc/vlc68.html#FeitosaR22</url>
+</article>
+</r>
+<r><inproceedings key="conf/haskell/ConceicaoBFCR22" mdate="2022-10-20">
+<author pid="244/1579">Jonathas Augusto de Oliveira Concei&#231;&#227;o</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="226/4565">Samuel da Silva Feitosa</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<title>Open transactional actions: interacting with non-transactional resources in STM Haskell.</title>
+<pages>54-65</pages>
+<year>2022</year>
+<booktitle>Haskell</booktitle>
+<ee>https://doi.org/10.1145/3546189.3549924</ee>
+<crossref>conf/haskell/2022</crossref>
+<url>db/conf/haskell/haskell2022.html#ConceicaoBFCR22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/CardosoPPRR22" mdate="2022-10-06">
+<author pid="239/8548">Elton Maximo Cardoso</author>
+<author pid="330/3007">Daniel Freitas Pereira</author>
+<author pid="330/2732">Regina Sarah Monferrari Amorim De Paula</author>
+<author pid="119/2191">Leonardo Vieira dos Santos Reis</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<title>A Type-Directed Algorithm to Generate Random Well-Formed Parsing Expression Grammars.</title>
+<pages>8-14</pages>
+<year>2022</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3561320.3561326</ee>
+<crossref>conf/sblp/2022</crossref>
+<url>db/conf/sblp/sblp2022.html#CardosoPPRR22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbmf/AmaroFR22" mdate="2022-12-25">
+<author orcid="0000-0001-7684-8428" pid="269/7762">Maycon Amaro</author>
+<author pid="226/4565">Samuel da Silva Feitosa</author>
+<author orcid="0000-0003-0131-5154" pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<title>A Sound Strategy to Compile General Recursion into Finite Depth Pattern Matching.</title>
+<pages>39-54</pages>
+<year>2022</year>
+<booktitle>SBMF</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-22476-8_3</ee>
+<crossref>conf/sbmf/2022</crossref>
+<url>db/conf/sbmf/sbmf2022.html#AmaroFR22</url>
+</inproceedings>
+</r>
+<r><article key="journals/cleiej/CardosoAFRBR21" mdate="2022-01-25">
+<author pid="239/8548">Elton M. Cardoso</author>
+<author pid="269/7762">Maycon Amaro</author>
+<author pid="226/4565">Samuel da Silva Feitosa</author>
+<author pid="119/2191">Leonardo Vieira dos Santos Reis</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<title>The Design of a Verified Derivative-Based Parsing Tool for Regular Expressions.</title>
+<year>2021</year>
+<volume>24</volume>
+<journal>CLEI Electron. J.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.19153/cleiej.24.3.2</ee>
+<url>db/journals/cleiej/cleiej24.html#CardosoAFRBR21</url>
+</article>
+</r>
+<r><article key="journals/cleiej/FeitosaRB21" mdate="2022-01-25">
+<author pid="226/4565">Samuel da Silva Feitosa</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>Towards an Extrinsic Formalization of Featherweight Java in Agda.</title>
+<year>2021</year>
+<volume>24</volume>
+<journal>CLEI Electron. J.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.19153/cleiej.24.3.3</ee>
+<url>db/journals/cleiej/cleiej24.html#FeitosaRB21</url>
+</article>
+</r>
+<r><inproceedings key="conf/sblp/KrausSRF21" mdate="2021-10-26">
+<author pid="304/5641">Luiz Felipe Kraus</author>
+<author pid="304/5541">Bruno Schafaschek</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="226/4565">Samuel da Silva Feitosa</author>
+<title>Synthesis of Random Real-World Java Programs from Preexisting Libraries.</title>
+<pages>108-115</pages>
+<year>2021</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3475061.3475087</ee>
+<crossref>conf/sblp/2021</crossref>
+<url>db/conf/sblp/sblp2021.html#KrausSRF21</url>
+</inproceedings>
+</r>
+<r><article key="journals/rita/BoisRA20" mdate="2021-02-17">
+<author orcid="0000-0002-6790-5184" pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author orcid="0000-0001-7684-8428" pid="269/7762">Maycon Amaro</author>
+<title>A Mechanized Proof of a Textbook Type Unification Algorithm.</title>
+<pages>13-24</pages>
+<year>2020</year>
+<volume>27</volume>
+<journal>RITA</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.22456/2175-2745.100968</ee>
+<url>db/journals/rita/rita27.html#BoisRA20</url>
+</article>
+</r>
+<r><article key="journals/scp/FeitosaRB20" mdate="2021-10-14">
+<author pid="226/4565">Samuel da Silva Feitosa</author>
+<author orcid="0000-0003-0131-5154" pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>A type-directed algorithm to generate random well-typed Java 8 programs.</title>
+<pages>102494</pages>
+<year>2020</year>
+<volume>196</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee>https://doi.org/10.1016/j.scico.2020.102494</ee>
+<url>db/journals/scp/scp196.html#FeitosaRB20</url>
+</article>
+</r>
+<r><article key="journals/toplas/MeloRGP20" mdate="2020-12-11">
+<author pid="183/1862">Leandro T. C. Melo</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="207/6551">Breno Campos Ferreira Guimar&#227;es</author>
+<author pid="p/FMQPereira">Fernando Magno Quint&#227;o Pereira</author>
+<title>Type Inference for C: Applications to the Static Analysis of Incomplete Programs.</title>
+<pages>15:1-15:71</pages>
+<year>2020</year>
+<volume>42</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3421472</ee>
+<url>db/journals/toplas/toplas42.html#MeloRGP20</url>
+</article>
+</r>
+<r><inproceedings key="conf/sblp/FeitosaR20" mdate="2021-10-26">
+<author pid="226/4565">Samuel da Silva Feitosa</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<title>An Intrinsically-Typed Solution for the List-Machine Benchmark.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3427081.3427082</ee>
+<crossref>conf/sblp/2020</crossref>
+<url>db/conf/sblp/sblp2020.html#FeitosaR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/SasdelliACFR20" mdate="2021-10-26">
+<author pid="304/5974">Felipe Sasdelli</author>
+<author pid="269/7762">Maycon Amaro</author>
+<author pid="239/8548">Elton M. Cardoso</author>
+<author pid="226/4565">Samuel da Silva Feitosa</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<title>Syntax vs Semantics: Comparing Consistency Proofs for Minimal Propositional Logics.</title>
+<pages>9-16</pages>
+<year>2020</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3427081.3427083</ee>
+<crossref>conf/sblp/2020</crossref>
+<url>db/conf/sblp/sblp2020.html#SasdelliACFR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nime/BoisR19" mdate="2023-04-04">
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<title>HMusic: A domain specific language for music programming and live coding.</title>
+<pages>381-386</pages>
+<year>2019</year>
+<booktitle>NIME</booktitle>
+<ee type="oa">https://doi.org/10.5281/zenodo.3673003</ee>
+<crossref>conf/nime/2019</crossref>
+<url>db/conf/nime/nime2019.html#BoisR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/CardosoRRBBI19" mdate="2022-12-07">
+<author pid="239/8548">Elton M. Cardoso</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="119/2191">Leonardo Vieira dos Santos Reis</author>
+<author orcid="0000-0002-3471-0452" pid="91/739">Mariza A. S. Bigonha</author>
+<author pid="67/5401">Roberto S. Bigonha</author>
+<author pid="26/6772">Vladimir Oliveira Di Iorio</author>
+<title>An attribute language definition for adaptable parsing expression grammars.</title>
+<pages>1518-1525</pages>
+<year>2019</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3297280.3299738</ee>
+<crossref>conf/sac/2019</crossref>
+<url>db/conf/sac/sac2019.html#CardosoRRBBI19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/FeitosaMRB19" mdate="2019-10-09">
+<author pid="226/4565">Samuel da Silva Feitosa</author>
+<author pid="96/8524">Alejandro Serrano Mena</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>An Inherently-Typed Formalization for Featherweight Java.</title>
+<pages>11-18</pages>
+<year>2019</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3355378.3355385</ee>
+<crossref>conf/sblp/2019</crossref>
+<url>db/conf/sblp/sblp2019.html#FeitosaMRB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/RibeiroRFC19" mdate="2019-10-09">
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="119/2191">Leonardo Vieira dos Santos Reis</author>
+<author pid="226/4565">Samuel da Silva Feitosa</author>
+<author pid="239/8548">Elton M. Cardoso</author>
+<title>Towards Typed Semantics for Parsing Expression Grammars.</title>
+<pages>70-77</pages>
+<year>2019</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3355378.3355388</ee>
+<crossref>conf/sblp/2019</crossref>
+<url>db/conf/sblp/sblp2019.html#RibeiroRFC19</url>
+</inproceedings>
+</r>
+<r><article key="journals/pacmpl/MeloRAP18" mdate="2021-02-17">
+<author pid="183/1862">Leandro T. C. Melo</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="211/9180">Marcus R. de Ara&#250;jo</author>
+<author pid="p/FMQPereira">Fernando Magno Quint&#227;o Pereira</author>
+<title>Inference of static semantics for incomplete C programs.</title>
+<pages>29:1-29:28</pages>
+<year>2018</year>
+<volume>2</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>POPL</number>
+<ee type="oa">https://doi.org/10.1145/3158117</ee>
+<url>db/journals/pacmpl/pacmpl2.html#MeloRAP18</url>
+</article>
+</r>
+<r><article key="journals/rita/FeitosaRB18" mdate="2020-02-03">
+<author orcid="0000-0002-9485-4845" pid="226/4565">Samuel da Silva Feitosa</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>Formal Semantics for Java-like Languages and Research Opportunities.</title>
+<pages>62-74</pages>
+<year>2018</year>
+<volume>25</volume>
+<journal>RITA</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.22456/2175-2745.80912</ee>
+<url>db/journals/rita/rita25.html#FeitosaRB18</url>
+</article>
+</r>
+<r><inproceedings key="conf/sblp/FeitosaRB18" mdate="2018-11-21">
+<author pid="226/4565">Samuel da Silva Feitosa</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>Property-based testing for lambda expressions semantics in featherweight Java.</title>
+<pages>43-50</pages>
+<year>2018</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3264637.3264643</ee>
+<crossref>conf/sblp/2018</crossref>
+<url>db/conf/sblp/sblp2018.html#FeitosaRB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/MoreiraVR18" mdate="2025-05-01">
+<author orcid="0000-0003-0275-5717" pid="228/5922">Gabriela Moreira</author>
+<author orcid="0000-0001-7581-4146" pid="154/5102">Cristiano D. Vasconcellos</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<title>Type inference for GADTs, outsidein and anti-unification.</title>
+<pages>51-58</pages>
+<year>2018</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3264637.3264644</ee>
+<crossref>conf/sblp/2018</crossref>
+<url>db/conf/sblp/sblp2018.html#MoreiraVR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/DelfinoR18" mdate="2025-01-19">
+<author pid="228/5920">Thales Ant&#244;nio Delfino</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<title>Towards certified virtual machine-based regular expression parsing.</title>
+<pages>67-74</pages>
+<year>2018</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3264637.3264646</ee>
+<ee>https://www.wikidata.org/entity/Q130955159</ee>
+<crossref>conf/sblp/2018</crossref>
+<url>db/conf/sblp/sblp2018.html#DelfinoR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbmf/FeitosaRB18" mdate="2019-05-10">
+<author pid="226/4565">Samuel da Silva Feitosa</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>A Type-Directed Algorithm to Generate Well-Typed Featherweight Java Programs.</title>
+<pages>39-55</pages>
+<year>2018</year>
+<booktitle>SBMF</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-03044-5_4</ee>
+<crossref>conf/sbmf/2018</crossref>
+<url>db/conf/sbmf/sbmf2018.html#FeitosaRB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wscad/ConceicaoBR18" mdate="2019-07-05">
+<author pid="244/1579">Jonathas Augusto de Oliveira Concei&#231;&#227;o</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<title>Transactional Boosting on Glasgow Haskell Compiler.</title>
+<pages>191-197</pages>
+<year>2018</year>
+<booktitle>WSCAD</booktitle>
+<ee>https://doi.org/10.1109/WSCAD.2018.00038</ee>
+<crossref>conf/wscad/2018</crossref>
+<url>db/conf/wscad/wscad2018.html#ConceicaoBR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/FeitosaRB19" mdate="2022-08-16">
+<author pid="226/4565">Samuel da Silva Feitosa</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>Generating Random Well-Typed Featherweight Java Programs Using QuickCheck.</title>
+<pages>3-20</pages>
+<year>2018</year>
+<crossref>conf/clei/2018s</crossref>
+<booktitle>CLEI Selected Papers</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2019.04.002</ee>
+<ee>https://www.wikidata.org/entity/Q113317477</ee>
+<url>db/journals/entcs/entcs342.html#FeitosaRB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/RibeiroB17" mdate="2018-11-06">
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<title>Certified Bit-Coded Regular Expression Parsing.</title>
+<pages>4:1-4:8</pages>
+<year>2017</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3125374.3125381</ee>
+<crossref>conf/sblp/2017</crossref>
+<url>db/conf/sblp/sblp2017.html#RibeiroB17</url>
+</inproceedings>
+</r>
+<r><article key="journals/scp/CamaraoFR16" mdate="2022-06-01">
+<author pid="27/4510">Carlos Camar&#227;o 0001</author>
+<author pid="79/1464">Luc&#237;lia Figueiredo</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<title>Ambiguity and constrained polymorphism.</title>
+<pages>1-19</pages>
+<year>2016</year>
+<volume>124</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee type="oa">https://doi.org/10.1016/j.scico.2016.03.007</ee>
+<url>db/journals/scp/scp124.html#CamaraoFR16</url>
+</article>
+</r>
+<r><inproceedings key="conf/sblp/LopesRC16" mdate="2022-06-01">
+<author pid="174/3138-2">Raul Lopes 0002</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="27/4510">Carlos Camar&#227;o 0001</author>
+<title>Certified Derivative-Based Parsing of Regular Expressions.</title>
+<pages>95-109</pages>
+<year>2016</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-45279-1_7</ee>
+<crossref>conf/sblp/2016</crossref>
+<url>db/conf/sblp/sblp2016.html#LopesRC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/RibeiroCFV16" mdate="2022-06-01">
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="27/4510">Carlos Camar&#227;o 0001</author>
+<author pid="79/1464">Luc&#237;lia Figueiredo</author>
+<author orcid="0000-0001-7581-4146" pid="154/5102">Cristiano D. Vasconcellos</author>
+<title>Optional Type Classes for Haskell.</title>
+<pages>125-139</pages>
+<year>2016</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-45279-1_9</ee>
+<crossref>conf/sblp/2016</crossref>
+<url>db/conf/sblp/sblp2016.html#RibeiroCFV16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/GelainVCR15" mdate="2022-06-01">
+<author pid="169/2297">Adelaine Gelain</author>
+<author orcid="0000-0001-7581-4146" pid="154/5102">Cristiano D. Vasconcellos</author>
+<author pid="27/4510">Carlos Camar&#227;o 0001</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<title>Type Inference for GADTs and Anti-unification.</title>
+<pages>16-30</pages>
+<year>2015</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-24012-1_2</ee>
+<crossref>conf/sblp/2015</crossref>
+<url>db/conf/sblp/sblp2015.html#GelainVCR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbmf/RibeiroC15" mdate="2022-06-01">
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="27/4510">Carlos Camar&#227;o 0001</author>
+<title>A Mechanized Textbook Proof of a Type Unification Algorithm.</title>
+<pages>127-141</pages>
+<year>2015</year>
+<booktitle>SBMF</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-29473-5_8</ee>
+<crossref>conf/sbmf/2015</crossref>
+<url>db/conf/sbmf/sbmf2015.html#RibeiroC15</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ndltd/Ribeiro13" mdate="2022-05-04">
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<title>Classes de tipos com m&#250;ltiplos par&#226;metros e opcionais em haskell.</title>
+<year>2013</year>
+<school>Federal University of Minas Gerais, Brazil</school>
+<ee>https://hdl.handle.net/1843/ESBF-9GMJLU</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:agregador.ibict.br.BDTD_UFMG:oai:bibliotecadigital.ufmg.br:MTD2BR-ESBF-9GMJLU</ee>
+<note type="source">ndltd.org (oai:agregador.ibict.br.BDTD_UFMG:oai:bibliotecadigital.ufmg.br:MTD2BR-ESBF-9GMJLU)</note>
+</phdthesis>
+</r>
+<r><article key="journals/jbcs/RibeiroC13" mdate="2022-06-01">
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="27/4510">Carlos Camar&#227;o 0001</author>
+<title>Ambiguity and context-dependent overloading.</title>
+<pages>313-324</pages>
+<year>2013</year>
+<volume>19</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1007/s13173-013-0103-0</ee>
+<url>db/journals/jbcs/jbcs19.html#RibeiroC13</url>
+</article>
+</r>
+<r><article key="journals/jbcs/RibeiroCF13" mdate="2022-06-01">
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="27/4510">Carlos Camar&#227;o 0001</author>
+<author pid="79/1464">Luc&#237;lia Figueiredo</author>
+<title>Terminating constraint set satisfiability and simplification algorithms for context-dependent overloading.</title>
+<pages>423-432</pages>
+<year>2013</year>
+<volume>19</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1007/s13173-013-0107-9</ee>
+<url>db/journals/jbcs/jbcs19.html#RibeiroCF13</url>
+</article>
+</r>
+<r><article key="journals/jbcs/RibeiroFC13" mdate="2022-06-01">
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<author pid="79/1464">Luc&#237;lia Figueiredo</author>
+<author pid="27/4510">Carlos Camar&#227;o 0001</author>
+<title>Mechanized metatheory for a &#955;-calculus with trust types.</title>
+<pages>433-443</pages>
+<year>2013</year>
+<volume>19</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1007/s13173-013-0119-5</ee>
+<url>db/journals/jbcs/jbcs19.html#RibeiroFC13</url>
+</article>
+</r>
+<coauthors n="33" nc="3">
+<co c="0"><na f="a/Amaro:Maycon" pid="269/7762">Maycon Amaro</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Marcus_R=_de" pid="211/9180">Marcus R. de Ara&#250;jo</na></co>
+<co c="0"><na f="a/Augusto:Kael_Soares" pid="397/8469">Kael Soares Augusto</na></co>
+<co c="0" n="2"><na f="b/Bigonha:Mariza_Andrade_da_Silva" pid="91/739">Mariza Andrade da Silva Bigonha</na><na>Mariza A. S. Bigonha</na></co>
+<co c="0" n="2"><na f="b/Bigonha:Roberto_da_Silva" pid="67/5401">Roberto da Silva Bigonha</na><na>Roberto S. Bigonha</na></co>
+<co c="0"><na f="b/Bois:Andr=eacute=_Rauber_Du" pid="21/3472">Andr&#233; Rauber Du Bois</na></co>
+<co c="1"><na f="c/Camar=atilde=o_0001:Carlos" pid="27/4510">Carlos Camar&#227;o 0001</na></co>
+<co c="0" n="2"><na f="c/Cardoso:Elton_M=" pid="239/8548">Elton M. Cardoso</na><na>Elton Maximo Cardoso</na></co>
+<co c="0" n="2"><na f="c/Cavalheiro:Gerson_G=_H=" pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</na><na>Gerson Geraldo Homrich Cavalheiro</na></co>
+<co c="0"><na f="c/Concei=ccedil==atilde=o:Jonathas_Augusto_de_Oliveira" pid="244/1579">Jonathas Augusto de Oliveira Concei&#231;&#227;o</na></co>
+<co c="-1"><na f="d/Delfino:Thales_Ant=ocirc=nio" pid="228/5920">Thales Ant&#244;nio Delfino</na></co>
+<co c="0"><na f="e/Emiliano:Marcos" pid="359/6793">Marcos Emiliano</na></co>
+<co c="0"><na f="f/Feitosa:Samuel_da_Silva" pid="226/4565">Samuel da Silva Feitosa</na></co>
+<co c="1"><na f="f/Figueiredo:Luc=iacute=lia" pid="79/1464">Luc&#237;lia Figueiredo</na></co>
+<co c="1"><na f="g/Gelain:Adelaine" pid="169/2297">Adelaine Gelain</na></co>
+<co c="0"><na f="g/Guimar=atilde=es:Breno_Campos_Ferreira" pid="207/6551">Breno Campos Ferreira Guimar&#227;es</na></co>
+<co c="0"><na f="i/Iorio:Vladimir_Oliveira_Di" pid="26/6772">Vladimir Oliveira Di Iorio</na></co>
+<co c="0"><na f="k/Kraus:Luiz_Felipe" pid="304/5641">Luiz Felipe Kraus</na></co>
+<co c="1"><na f="l/Lopes_0002:Raul" pid="174/3138-2">Raul Lopes 0002</na></co>
+<co c="0"><na f="m/Melo:Leandro_T=_C=" pid="183/1862">Leandro T. C. Melo</na></co>
+<co c="1"><na f="m/Moreira:Gabriela" pid="228/5922">Gabriela Moreira</na></co>
+<co c="0"><na f="p/Pacheco:Vin=iacute=cius" pid="304/6041">Vin&#237;cius Pacheco</na></co>
+<co c="0"><na f="p/Paula:Regina_Sarah_Monferrari_Amorim_De" pid="330/2732">Regina Sarah Monferrari Amorim De Paula</na></co>
+<co c="0"><na f="p/Pereira:Daniel_Freitas" pid="330/3007">Daniel Freitas Pereira</na></co>
+<co c="0"><na f="p/Pereira:Fernando_Magno_Quint=atilde=o" pid="p/FMQPereira">Fernando Magno Quint&#227;o Pereira</na></co>
+<co c="0"><na f="r/Reis:Leonardo_Vieira_dos_Santos" pid="119/2191">Leonardo Vieira dos Santos Reis</na></co>
+<co c="0"><na f="s/Sasdelli:Felipe" pid="304/5974">Felipe Sasdelli</na></co>
+<co c="0"><na f="s/Schafaschek:Bruno" pid="304/5541">Bruno Schafaschek</na></co>
+<co c="0" n="2"><na f="s/Serrano_0001:Alejandro" pid="96/8524">Alejandro Serrano 0001</na><na>Alejandro Serrano Mena</na></co>
+<co c="2"><na f="s/Soldevila:Mallku" pid="202/2338">Mallku Soldevila</na></co>
+<co c="1"><na f="v/Vasconcellos:Cristiano_D=" pid="154/5102">Cristiano D. Vasconcellos</na></co>
+<co c="0"><na f="v/Vieira:Marcos_A=_M=" pid="11/6979">Marcos A. M. Vieira</na></co>
+<co c="2"><na f="z/Ziliani:Beta" pid="89/9225">Beta Ziliani</na></co>
+</coauthors>
+</dblpperson>
+

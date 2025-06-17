@@ -1,0 +1,1003 @@
+<?xml version="1.0"?>
+<dblpperson name="Siang Wun Song" pid="s/SiangWunSong" n="68">
+<person key="homepages/s/SiangWunSong" mdate="2020-07-14">
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<author pid="s/SiangWunSong">S. W. Song 0001</author>
+<note type="affiliation">University of Sao Paulo, Brazil</note>
+<url>http://www.ime.usp.br/~song/</url>
+<url>https://mathgenealogy.org/id.php?id=50314</url>
+</person>
+<homonyms n="2">
+<h f="s/Song:S=_W="><name>S. W. Song</name>
+</h>
+<h f="s/Song_0002:S=_W="><person key="homepages/21/1638" mdate="2020-09-18">
+<author pid="21/1638">Shaowen Song</author>
+<author pid="21/1638">S. W. Song 0002</author>
+<note type="affiliation">Wilfrid Laurier University, Waterloo, Canada</note>
+<url>https://www.wlu.ca/academics/faculties/faculty-of-science/faculty-profiles/shaowen-song/index.html</url>
+<url>https://www.linkedin.com/in/shaowen-song-ph-d-627b0812</url>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/concurrency/Carastan-Santos19" mdate="2020-03-02">
+<author orcid="0000-0002-1878-8137" pid="165/2057">Danilo Carastan-Santos</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<author pid="50/5026">Luiz C. S. Rozante</author>
+<author pid="31/4450">Raphael Y. de Camargo</author>
+<title>A hybrid CPU-GPU-MIC algorithm for minimal hitting set enumeration.</title>
+<year>2019</year>
+<volume>31</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1002/cpe.5087</ee>
+<url>db/journals/concurrency/concurrency31.html#Carastan-Santos19</url>
+</article>
+</r>
+<r><article key="journals/ijhpca/VasconcellosCMS19" mdate="2022-10-02">
+<author orcid="0000-0003-3369-1533" pid="78/10539">Jucele Franca de Alencar Vasconcellos</author>
+<author pid="c/EdsonCaceres">Edson Norberto C&#225;ceres</author>
+<author pid="12/2927">Henrique Mongelli</author>
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<author pid="d/FKHADehne">Frank Dehne</author>
+<author pid="74/1053">Jayme Luiz Szwarcfiter</author>
+<title>New BSP/CGM algorithms for spanning trees.</title>
+<year>2019</year>
+<volume>33</volume>
+<journal>Int. J. High Perform. Comput. Appl.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1177/1094342018803672</ee>
+<url>db/journals/ijhpca/ijhpca33.html#VasconcellosCMS19</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbac-pad/VasconcellosCMS18" mdate="2022-10-02">
+<author orcid="0000-0003-3369-1533" pid="78/10539">Jucele Franca de Alencar Vasconcellos</author>
+<author pid="c/EdsonCaceres">Edson Norberto C&#225;ceres</author>
+<author pid="12/2927">Henrique Mongelli</author>
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<title>A New Efficient Parallel Algorithm for Minimum Spanning Tree.</title>
+<pages>107-114</pages>
+<year>2018</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/CAHPC.2018.8645917</ee>
+<crossref>conf/sbac-pad/2018</crossref>
+<url>db/conf/sbac-pad/sbac-pad2018.html#VasconcellosCMS18</url>
+</inproceedings>
+</r>
+<r><article key="journals/fgcs/Carastan-Santos17" mdate="2020-02-19">
+<author orcid="0000-0002-1878-8137" pid="165/2057">Danilo Carastan-Santos</author>
+<author pid="31/4450">Raphael Y. de Camargo</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<author orcid="0000-0002-5472-6670" pid="50/5026">Luiz C. S. Rozante</author>
+<title>Finding exact hitting set solutions for systems biology applications using heterogeneous GPU clusters.</title>
+<pages>418-429</pages>
+<year>2017</year>
+<volume>67</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2016.02.009</ee>
+<url>db/journals/fgcs/fgcs67.html#Carastan-Santos17</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbac-pad/VasconcellosCMS17" mdate="2023-03-23">
+<author orcid="0000-0003-3369-1533" pid="78/10539">Jucele Franca de Alencar Vasconcellos</author>
+<author pid="c/EdsonCaceres">Edson Norberto C&#225;ceres</author>
+<author pid="12/2927">Henrique Mongelli</author>
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<title>A Parallel Algorithm for Minimum Spanning Tree on GPU.</title>
+<pages>67-72</pages>
+<year>2017</year>
+<booktitle>SBAC-PAD (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PADW.2017.20</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PADW.2017.20</ee>
+<crossref>conf/sbac-pad/2017w</crossref>
+<url>db/conf/sbac-pad/sbac-pad2017w.html#VasconcellosCMS17</url>
+</inproceedings>
+</r>
+<r><article key="journals/jbcs/LimaBFCGMS16" mdate="2020-10-26">
+<author pid="57/10701">Anderson C. Lima</author>
+<author orcid="0000-0002-7760-4051" pid="163/9188">Rodrigo G. Branco</author>
+<author pid="145/0588">Samuel Ferraz</author>
+<author pid="c/EdsonCaceres">Edson Norberto C&#225;ceres</author>
+<author pid="164/9617">Roussian R. A. Gaioso</author>
+<author orcid="0000-0002-9641-2565" pid="120/9618">Wellington Santos Martins</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>Solving the maximum subsequence sum and related problems using BSP/CGM model and multi-GPU CUDA.</title>
+<pages>7:1-7:13</pages>
+<year>2016</year>
+<volume>22</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s13173-016-0045-4</ee>
+<ee>https://www.wikidata.org/entity/Q59459572</ee>
+<url>db/journals/jbcs/jbcs22.html#LimaBFCGMS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccgrid/Carastan-Santos15" mdate="2025-01-19">
+<author orcid="0000-0002-1878-8137" pid="165/2057">Danilo Carastan-Santos</author>
+<author pid="31/4450">Raphael Yokoingawa de Camargo</author>
+<author pid="89/3723">David Correa Martins</author>
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<author orcid="0000-0002-5472-6670" pid="50/5026">Luiz Carlos Silva Rozante</author>
+<author pid="59/11211">Fabrizio Ferreira Borelli</author>
+<title>A Multi-GPU Hitting Set Algorithm for GRNs Inference.</title>
+<pages>313-322</pages>
+<year>2015</year>
+<booktitle>CCGRID</booktitle>
+<ee>https://doi.org/10.1109/CCGrid.2015.29</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CCGrid.2015.29</ee>
+<ee>https://www.wikidata.org/entity/Q131117575</ee>
+<crossref>conf/ccgrid/2015</crossref>
+<url>db/conf/ccgrid/ccgrid2015.html#Carastan-Santos15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccS/LimaBCGFSM15" mdate="2020-10-25">
+<author pid="57/10701">Anderson C. Lima</author>
+<author orcid="0000-0002-7760-4051" pid="163/9188">Rodrigo G. Branco</author>
+<author pid="c/EdsonCaceres">Edson Norberto C&#225;ceres</author>
+<author pid="164/9617">Roussian R. A. Gaioso</author>
+<author pid="145/0588">Samuel Ferraz</author>
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<author orcid="0000-0002-9641-2565" pid="120/9618">Wellington Santos Martins</author>
+<title>Efficient BSP/CGM Algorithms for the Maximum Subsequence Sum and Related Problems<sup>1</sup>.</title>
+<pages>2754-2758</pages>
+<year>2015</year>
+<booktitle>ICCS</booktitle>
+<ee>https://doi.org/10.1016/j.procs.2015.05.421</ee>
+<crossref>conf/iccS/2015</crossref>
+<url>db/conf/iccS/iccS2015.html#LimaBCGFSM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccS/FinglerCMS14" mdate="2017-05-21">
+<author pid="121/1919">Henrique Fingler</author>
+<author pid="c/EdsonCaceres">Edson Norberto C&#225;ceres</author>
+<author pid="12/2927">Henrique Mongelli</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>A CUDA based Solution to the Multidimensional Knapsack Problem Using the Ant Colony Optimization.</title>
+<pages>84-94</pages>
+<year>2014</year>
+<booktitle>ICCS</booktitle>
+<ee>https://doi.org/10.1016/j.procs.2014.05.008</ee>
+<crossref>conf/iccS/2014</crossref>
+<url>db/conf/iccS/iccS2014.html#FinglerCMS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/FerreiraCS14" mdate="2023-03-23">
+<author pid="156/4580">Cleber S. Ferreira</author>
+<author pid="31/4450">Raphael Y. de Camargo</author>
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<title>A Parallel Maximum Subarray Algorithm on GPUs.</title>
+<pages>12-17</pages>
+<year>2014</year>
+<booktitle>SBAC-PAD (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PADW.2014.15</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PADW.2014.15</ee>
+<crossref>conf/sbac-pad/2014w</crossref>
+<url>db/conf/sbac-pad/sbac-pad2014w.html#FerreiraCS14</url>
+</inproceedings>
+</r>
+<r><article key="journals/jbcs/AlvesCCSS13" mdate="2021-10-21">
+<author pid="a/CarlosERAlves">Carlos Eduardo Rodrigues Alves</author>
+<author pid="c/EdsonCaceres">E. N. C&#225;ceres</author>
+<author orcid="0000-0002-0915-6613" pid="150/5247">Amaury Ant&#244;nio de Castro Jr.</author>
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<author pid="74/1053">Jayme Luiz Szwarcfiter</author>
+<title>Parallel transitive closure algorithm.</title>
+<pages>161-166</pages>
+<year>2013</year>
+<volume>19</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s13173-012-0089-z</ee>
+<url>db/journals/jbcs/jbcs19.html#AlvesCCSS13</url>
+</article>
+</r>
+<r><article key="journals/tpds/AlvesCS13" mdate="2020-10-02">
+<author pid="a/CarlosERAlves">Carlos Eduardo Rodrigues Alves</author>
+<author pid="c/EdsonCaceres">Edson Norberto C&#225;ceres</author>
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<title>Finding All Maximal Contiguous Subsequences of a Sequence of Numbers in O(1) Communication Rounds.</title>
+<pages>724-733</pages>
+<year>2013</year>
+<volume>24</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TPDS.2012.149</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPDS.2012.149</ee>
+<url>db/journals/tpds/tpds24.html#AlvesCS13</url>
+</article>
+</r>
+<r><inproceedings key="conf/icppw/CaceresFMS12" mdate="2023-03-24">
+<author pid="c/EdsonCaceres">Edson Norberto C&#225;ceres</author>
+<author pid="121/1919">Henrique Fingler</author>
+<author pid="12/2927">Henrique Mongelli</author>
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<title>Ant Colony System Based Solutions to the Quadratic Assignment Problem on GPGPU.</title>
+<pages>314-322</pages>
+<year>2012</year>
+<booktitle>ICPP Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICPPW.2012.47</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICPPW.2012.47</ee>
+<crossref>conf/icppw/2012</crossref>
+<url>db/conf/icppw/icppw2012.html#CaceresFMS12</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/CamargoRS11" mdate="2020-03-02">
+<author pid="31/4450">Raphael Y. de Camargo</author>
+<author orcid="0000-0002-5472-6670" pid="50/5026">Luiz C. S. Rozante</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>A multi-GPU algorithm for large-scale neuronal networks.</title>
+<pages>556-572</pages>
+<year>2011</year>
+<volume>23</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/cpe.1665</ee>
+<url>db/journals/concurrency/concurrency23.html#CamargoRS11</url>
+</article>
+</r>
+<r><article key="journals/concurrency/CaceresMLNS10" mdate="2020-03-02">
+<author pid="c/EdsonCaceres">E. N. C&#225;ceres</author>
+<author pid="12/2927">Henrique Mongelli</author>
+<author pid="82/7891">L. Loureiro</author>
+<author pid="93/1345">Christiane Nishibe</author>
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<title>Performance results of running parallel applications on the InteGrade.</title>
+<pages>375-393</pages>
+<year>2010</year>
+<volume>22</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/cpe.1524</ee>
+<url>db/journals/concurrency/concurrency22.html#CaceresMLNS10</url>
+</article>
+</r>
+<r><article key="journals/ita/CaceresSS10" mdate="2020-06-04">
+<author pid="c/EdsonCaceres">Edson Norberto C&#225;ceres</author>
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<author pid="74/1053">Jayme Luiz Szwarcfiter</author>
+<title>Parallel Algorithms for Maximal Cliques in Circle Graphs and Unrestricted Depth Search.</title>
+<pages>293-311</pages>
+<year>2010</year>
+<volume>44</volume>
+<journal>RAIRO Theor. Informatics Appl.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1051/ita/2010016</ee>
+<url>db/journals/ita/ita44.html#CaceresSS10</url>
+</article>
+</r>
+<r><inproceedings key="conf/ieeehpcs/CaceresMNS10" mdate="2017-05-21">
+<author pid="c/EdsonCaceres">Edson Norberto C&#225;ceres</author>
+<author pid="12/2927">Henrique Mongelli</author>
+<author pid="93/1345">Christiane Nishibe</author>
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<title>Experimental results of a coarse-grained parallel algorithm for spanning tree and connected components.</title>
+<pages>631-637</pages>
+<year>2010</year>
+<booktitle>HPCS</booktitle>
+<ee>https://doi.org/10.1109/HPCS.2010.5547062</ee>
+<crossref>conf/ieeehpcs/2010</crossref>
+<url>db/conf/ieeehpcs/ieeehpcs2010.html#CaceresMNS10</url>
+</inproceedings>
+</r>
+<r><article key="journals/dam/AlvesCS08" mdate="2021-02-11">
+<author pid="a/CarlosERAlves">Carlos Eduardo Rodrigues Alves</author>
+<author pid="c/EdsonCaceres">E. N. C&#225;ceres</author>
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<title>An all-substrings common subsequence algorithm.</title>
+<pages>1025-1035</pages>
+<year>2008</year>
+<volume>156</volume>
+<journal>Discret. Appl. Math.</journal>
+<number>7</number>
+<ee type="oa">https://doi.org/10.1016/j.dam.2007.05.056</ee>
+<url>db/journals/dam/dam156.html#AlvesCS08</url>
+</article>
+</r>
+<r><inproceedings key="conf/ica3pp/AlvesCS07" mdate="2017-05-26">
+<author pid="a/CarlosERAlves">Carlos Eduardo Rodrigues Alves</author>
+<author pid="c/EdsonCaceres">Edson Norberto C&#225;ceres</author>
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<title>Efficient Representations of Row-Sorted 1-Variant Matrices for Parallel String Applications.</title>
+<pages>60-71</pages>
+<year>2007</year>
+<crossref>conf/ica3pp/2007</crossref>
+<booktitle>ICA3PP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-72905-1_6</ee>
+<url>db/conf/ica3pp/ica3pp2007.html#AlvesCS07</url>
+</inproceedings>
+</r>
+<r><article key="journals/algorithmica/AlvesCS06" mdate="2017-05-17">
+<author pid="a/CarlosERAlves">Carlos E. R. Alves</author>
+<author pid="c/EdsonCaceres">Edson C&#225;ceres</author>
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<title>A Coarse-Grained Parallel Algorithm for the All-Substrings Longest Common Subsequence Problem.</title>
+<pages>301-335</pages>
+<year>2006</year>
+<volume>45</volume>
+<journal>Algorithmica</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00453-006-1216-z</ee>
+<url>db/journals/algorithmica/algorithmica45.html#AlvesCS06</url>
+</article>
+</r>
+<r><inproceedings key="conf/aPcsac/OkudaSY06" mdate="2017-05-24">
+<author pid="02/4999">Kunio Okuda</author>
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<author pid="82/3838">Marcos Tatsuo Yamamoto</author>
+<title>Reliable Systolic Computing Through Redundancy.</title>
+<pages>423-429</pages>
+<year>2006</year>
+<crossref>conf/aPcsac/2006</crossref>
+<booktitle>Asia-Pacific Computer Systems Architecture Conference</booktitle>
+<ee>https://doi.org/10.1007/11859802_39</ee>
+<url>db/conf/aPcsac/aPcsac2006.html#OkudaSY06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/AlvesCS06" mdate="2017-05-24">
+<author pid="a/CarlosERAlves">Carlos E. R. Alves</author>
+<author pid="c/EdsonCaceres">Edson Norberto C&#225;ceres</author>
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<title>A BSP/CGM Algorithm for Finding All Maximal Contiguous Subsequences of a Sequence of Numbers.</title>
+<pages>831-840</pages>
+<year>2006</year>
+<crossref>conf/europar/2006</crossref>
+<booktitle>Euro-Par</booktitle>
+<ee>https://doi.org/10.1007/11823285_87</ee>
+<url>db/conf/europar/europar2006.html#AlvesCS06</url>
+</inproceedings>
+</r>
+<r><article key="journals/endm/AlvesCS05" mdate="2020-02-20">
+<author pid="a/CarlosERAlves">Carlos Eduardo Rodrigues Alves</author>
+<author pid="c/EdsonCaceres">Edson Norberto C&#225;ceres</author>
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<title>An all-substrings common subsequence algorithm.</title>
+<pages>133-139</pages>
+<year>2005</year>
+<volume>19</volume>
+<journal>Electron. Notes Discret. Math.</journal>
+<ee>https://doi.org/10.1016/j.endm.2005.05.019</ee>
+<url>db/journals/endm/endm19.html#AlvesCS05</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccS/HayashidaOPS05" mdate="2020-03-27">
+<author pid="17/3529">Ulisses Kendi Hayashida</author>
+<author pid="02/4999">Kunio Okuda</author>
+<author orcid="0000-0002-7798-3979" pid="39/5694">Jairo Panetta</author>
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<title>Generating Parallel Algorithms for Cluster and Grid Computing.</title>
+<pages>509-516</pages>
+<year>2005</year>
+<crossref>conf/iccS/2005-1</crossref>
+<booktitle>International Conference on Computational Science (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/11428831_63</ee>
+<url>db/conf/iccS/iccS2005-1.html#HayashidaOPS05</url>
+</inproceedings>
+</r>
+<r><article key="journals/dam/ReedSS04" mdate="2021-02-11">
+<author pid="r/BruceAReed">Bruce A. Reed</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<author pid="74/1053">Jayme Luiz Szwarcfiter</author>
+<title>Preface.</title>
+<pages>1</pages>
+<year>2004</year>
+<volume>141</volume>
+<journal>Discret. Appl. Math.</journal>
+<number>1-3</number>
+<ee type="oa">https://doi.org/10.1016/S0166-218X(03)00362-7</ee>
+<url>db/journals/dam/dam141.html#ReedSS04</url>
+</article>
+</r>
+<r><inproceedings key="conf/europar/CaceresDMSS04" mdate="2017-05-24">
+<author pid="c/EdsonCaceres">Edson Norberto C&#225;ceres</author>
+<author pid="d/FKHADehne">Frank K. H. A. Dehne</author>
+<author pid="12/2927">Henrique Mongelli</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<author pid="74/1053">Jayme Luiz Szwarcfiter</author>
+<title>A Coarse-Grained Parallel Algorithm for Spanning Tree and Connected Components.</title>
+<pages>828-831</pages>
+<ee>https://doi.org/10.1007/978-3-540-27866-5_110</ee>
+<year>2004</year>
+<crossref>conf/europar/2004</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar2004.html#CaceresDMSS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pvm/AlvesCS04" mdate="2017-05-19">
+<author pid="a/CarlosERAlves">Carlos E. R. Alves</author>
+<author pid="c/EdsonCaceres">Edson C&#225;ceres</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>BSP/CGM Algorithms for Maximum Subsequence and Maximum Subarray.</title>
+<pages>139-146</pages>
+<ee>https://doi.org/10.1007/978-3-540-30218-6_24</ee>
+<year>2004</year>
+<crossref>conf/pvm/2004</crossref>
+<booktitle>PVM/MPI</booktitle>
+<url>db/conf/pvm/pvm2004.html#AlvesCS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wea/HanashiroMS04" mdate="2017-05-17">
+<author pid="75/2449">Erik J. Hanashiro</author>
+<author pid="12/2927">Henrique Mongelli</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>Efficient Implementation of the BSP/CGM Parallel Vertex Cover FPT Algorithm.</title>
+<pages>253-268</pages>
+<ee>https://doi.org/10.1007/978-3-540-24838-5_19</ee>
+<year>2004</year>
+<crossref>conf/wea/2004</crossref>
+<booktitle>WEA</booktitle>
+<url>db/conf/wea/wea2004.html#HanashiroMS04</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijhpca/RuchkysS03" mdate="2020-04-27">
+<author pid="97/7521">D. P. Ruchkys</author>
+<author pid="s/SiangWunSong">S. W. Song 0001</author>
+<title>A Parallel Solution to Infer Genetic Network Architectures in Gene Expression Analysis.</title>
+<pages>163-172</pages>
+<year>2003</year>
+<volume>17</volume>
+<journal>Int. J. High Perform. Comput. Appl.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1177/1094342003017002006</ee>
+<url>db/journals/ijhpca/ijhpca17.html#RuchkysS03</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccsa/AlvesCDS03" mdate="2017-05-24">
+<author pid="a/CarlosERAlves">Carlos E. R. Alves</author>
+<author pid="c/EdsonCaceres">Edson C&#225;ceres</author>
+<author pid="d/FKHADehne">Frank K. H. A. Dehne</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>A Parallel Wavefront Algorithm for Efficient Biological Sequence Comparison.</title>
+<pages>249-258</pages>
+<ee>https://doi.org/10.1007/3-540-44843-8_27</ee>
+<year>2003</year>
+<crossref>conf/iccsa/2003-2</crossref>
+<booktitle>ICCSA (2)</booktitle>
+<url>db/conf/iccsa/iccsa2003-2.html#AlvesCDS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/AlvesCS03" mdate="2023-03-24">
+<author pid="a/CarlosERAlves">Carlos E. R. Alves</author>
+<author pid="c/EdsonCaceres">Edson C&#225;ceres</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>A BSP/CGM Algorithm for the All-Substrings Longest Common Subsequence Problem.</title>
+<pages>57</pages>
+<year>2003</year>
+<crossref>conf/ipps/2003</crossref>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2003.1213150</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IPDPS.2003.1213150</ee>
+<url>db/conf/ipps/ipdps2003.html#AlvesCS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pvm/AlvesCCSS03" mdate="2021-10-21">
+<author pid="a/CarlosERAlves">Carlos E. R. Alves</author>
+<author pid="c/EdsonCaceres">Edson C&#225;ceres</author>
+<author pid="150/5247">Amaury Ant&#244;nio de Castro Jr.</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<author pid="74/1053">Jayme Luiz Szwarcfiter</author>
+<title>Efficient Parallel Implementation of Transitive Closure of Digraphs.</title>
+<pages>126-133</pages>
+<ee>https://doi.org/10.1007/978-3-540-39924-7_21</ee>
+<year>2003</year>
+<crossref>conf/pvm/2003</crossref>
+<booktitle>PVM/MPI</booktitle>
+<url>db/conf/pvm/pvm2003.html#AlvesCCSS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/AlmeidaACS03" mdate="2023-03-23">
+<author orcid="0000-0001-5615-1746" pid="09/2799">Nalvo F. Almeida Jr.</author>
+<author pid="a/CarlosERAlves">Carlos E. R. Alves</author>
+<author pid="c/EdsonCaceres">Edson C&#225;ceres</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>Comparison of Genomes Using High-Performance Parallel Computing.</title>
+<pages>142-148</pages>
+<year>2003</year>
+<crossref>conf/sbac-pad/2003</crossref>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/CAHPC.2003.1250332</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CAHPC.2003.1250332</ee>
+<url>db/conf/sbac-pad/sbac-pad2003.html#AlmeidaACS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wob/AlvesCS03" mdate="2006-11-06">
+<author pid="a/CarlosERAlves">Carlos E. R. Alves</author>
+<author pid="c/EdsonCaceres">Edson C&#225;ceres</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>Computing Maximum Subsequence in Parallel.</title>
+<pages>80-87</pages>
+<year>2003</year>
+<crossref>conf/wob/2003</crossref>
+<booktitle>WOB</booktitle>
+<url>db/conf/wob/wob2003.html#AlvesCS03</url>
+</inproceedings>
+</r>
+<r><article key="journals/algorithmica/DehneFCSR02" mdate="2017-05-17">
+<author pid="d/FKHADehne">Frank K. H. A. Dehne</author>
+<author pid="f/AfonsoFerreira">Afonso Ferreira</author>
+<author pid="c/EdsonCaceres">Edson C&#225;ceres</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<author pid="70/5059">Alessandro Roncato</author>
+<title>Efficient Parallel Graph Algorithms for Coarse-Grained Multicomputers and BSP.</title>
+<pages>183-200</pages>
+<year>2002</year>
+<volume>33</volume>
+<journal>Algorithmica</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00453-001-0109-4</ee>
+<url>db/journals/algorithmica/algorithmica33.html#DehneFCSR02</url>
+</article>
+</r>
+<r><inproceedings key="conf/pdcs/CaceresSS02" mdate="2006-09-26">
+<author pid="c/EdsonCaceres">Edson Norberto C&#225;ceres</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<author pid="74/1053">Jayme Luiz Szwarcfiter</author>
+<title>A Parallel Algorithm for Transitive Closure.</title>
+<pages>114-116</pages>
+<year>2002</year>
+<crossref>conf/pdcs/2002</crossref>
+<booktitle>IASTED PDCS</booktitle>
+<url>db/conf/pdcs/pdcs2002.html#CaceresSS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/RuchkysS02" mdate="2023-03-23">
+<author pid="00/238">D. Ruchkys</author>
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<title>A Parallel Approximation Hitting Set Algorithm for Gene Expression Analysis.</title>
+<pages>75-81</pages>
+<year>2002</year>
+<crossref>conf/sbac-pad/2002</crossref>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/CAHPC.2002.1180762</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CAHPC.2002.1180762</ee>
+<url>db/conf/sbac-pad/sbac-pad2002.html#RuchkysS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wob/AlvesCDS02" mdate="2006-11-06">
+<author pid="a/CarlosERAlves">Carlos E. R. Alves</author>
+<author pid="c/EdsonCaceres">Edson C&#225;ceres</author>
+<author pid="d/FKHADehne">Frank K. H. A. Dehne</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>A CGM/BSP Parallel Similarity Algorithm.</title>
+<pages>1-8</pages>
+<year>2002</year>
+<crossref>conf/wob/2002</crossref>
+<booktitle>WOB</booktitle>
+<url>db/conf/wob/wob2002.html#AlvesCDS02</url>
+</inproceedings>
+</r>
+<r><article key="journals/ppl/MongelliS01" mdate="2020-03-24">
+<author pid="12/2927">Henrique Mongelli</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>Parallel Pattern Matching with Scaling.</title>
+<pages>125-138</pages>
+<year>2001</year>
+<volume>11</volume>
+<journal>Parallel Process. Lett.</journal>
+<number>1</number>
+<url>db/journals/ppl/ppl11.html#MongelliS01</url>
+<ee>https://doi.org/10.1142/S0129626401000476</ee>
+</article>
+</r>
+<r><inproceedings key="conf/iccS/CaceresSS01" mdate="2017-05-21">
+<author pid="c/EdsonCaceres">Edson C&#225;ceres</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<author pid="74/1053">Jayme Luiz Szwarcfiter</author>
+<title>A Coarse-Grained Parallel Algorithm for Maximal Cliques in Circle Graphs.</title>
+<pages>638-647</pages>
+<year>2001</year>
+<crossref>conf/iccS/2001-2</crossref>
+<booktitle>International Conference on Computational Science (2)</booktitle>
+<ee>https://doi.org/10.1007/3-540-45718-6_69</ee>
+<url>db/conf/iccS/iccS2001-2.html#CaceresSS01</url>
+</inproceedings>
+</r>
+<r><article key="journals/join/FerreiraGS00" mdate="2020-06-05">
+<author pid="f/AfonsoFerreira">Afonso Ferreira</author>
+<author pid="g/AlfredoGoldman">Alfredo Goldman</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>Broadcasting in Bus Interconnection Networks.</title>
+<pages>73-94</pages>
+<year>2000</year>
+<volume>1</volume>
+<journal>J. Interconnect. Networks</journal>
+<number>2</number>
+<url>db/journals/join/join1.html#FerreiraGS00</url>
+<ee>https://doi.org/10.1142/S0219265900000068</ee>
+</article>
+</r>
+<r><article key="journals/scpe/Song00" mdate="2024-07-01">
+<author pid="s/SiangWunSong">S. W. Song 0001</author>
+<title>Design of Efficient and Scalable Parallel Algorithms.</title>
+<year>2000</year>
+<volume>3</volume>
+<journal>Parallel Distributed Comput. Pract.</journal>
+<number>3</number>
+<ee>http://www.scpe.org/index.php/scpe/article/view/194</ee>
+<url>db/journals/scpe/scpe3.html#Song00</url>
+</article>
+</r>
+<r><inproceedings key="conf/pdpta/CaceresCS00" mdate="2004-01-15">
+<author pid="c/EdsonCaceres">Edson C&#225;ceres</author>
+<author pid="30/4766">Albert Chan</author>
+<author pid="d/FKHADehne">Frank K. H. A. Dehne</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>Coarse Grained Parallel Graph Planarity Testing.</title>
+<year>2000</year>
+<crossref>conf/pdpta/2000</crossref>
+<booktitle>PDPTA</booktitle>
+<url>db/conf/pdpta/pdpta2000.html#CaceresCS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/OkudaS00" mdate="2022-06-02">
+<author pid="02/4999">Kunio Okuda</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>Revisiting Hamiltonian Decomposition of the Hypercube.</title>
+<pages>55-60</pages>
+<year>2000</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://dl.acm.org/doi/10.5555/827245.827332</ee>
+<crossref>conf/sbcci/2000</crossref>
+<url>db/conf/sbcci/sbcci2000.html#OkudaS00</url>
+</inproceedings>
+</r>
+<r><article key="journals/algorithmica/SaukasS99" mdate="2020-04-27">
+<author pid="21/6157">E. L. G. Saukas</author>
+<author pid="s/SiangWunSong">S. W. Song 0001</author>
+<title>A Note on Parallel Selection on Coarse-Grained Multicomputers.</title>
+<pages>371-380</pages>
+<year>1999</year>
+<volume>24</volume>
+<journal>Algorithmica</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1007/PL00008268</ee>
+<url>db/journals/algorithmica/algorithmica24.html#SaukasS99</url>
+</article>
+</r>
+<r><article key="journals/ijfcs/MongelliS99" mdate="2017-05-27">
+<author pid="12/2927">Henrique Mongelli</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>Parallel Range Minima on Coarse Grained Multicomputers.</title>
+<pages>375-390</pages>
+<year>1999</year>
+<volume>10</volume>
+<journal>Int. J. Found. Comput. Sci.</journal>
+<number>4</number>
+<url>db/journals/ijfcs/ijfcs10.html#MongelliS99</url>
+<ee>https://doi.org/10.1142/S0129054199000277</ee>
+</article>
+</r>
+<r><inproceedings key="conf/ipps/MongelliS99" mdate="2017-05-23">
+<author pid="12/2927">Henrique Mongelli</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>A Range Minima Parallel Algorithm for Coarse Grained Multicomputers.</title>
+<pages>1075-1084</pages>
+<year>1999</year>
+<crossref>conf/ipps/1999w</crossref>
+<booktitle>IPPS/SPDP Workshops</booktitle>
+<url>db/conf/ipps/ippsw1999.html#MongelliS99</url>
+<ee>https://doi.org/10.1007/BFb0097993</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sc/SaukasS98" mdate="2023-03-24">
+<author pid="21/6157">E. L. G. Saukas</author>
+<author pid="s/SiangWunSong">S. W. Song 0001</author>
+<title>Efficient Selection Algorithms on Distributed Memory Computers.</title>
+<pages>20</pages>
+<year>1998</year>
+<booktitle>SC</booktitle>
+<ee>https://doi.org/10.1109/SC.1998.10054</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SC.1998.10054</ee>
+<ee>http://dl.acm.org/citation.cfm?id=509078</ee>
+<crossref>conf/sc/1998</crossref>
+<url>db/conf/sc/sc1998.html#SaukasS98</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijpp/DehneS97" mdate="2020-04-01">
+<author pid="d/FKHADehne">Frank Dehne</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>Randomized parallel list ranking for distributed memory multiprocessors.</title>
+<pages>1-16</pages>
+<year>1997</year>
+<volume>25</volume>
+<journal>Int. J. Parallel Program.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/BF02700044</ee>
+<url>db/journals/ijpp/ijpp25.html#DehneS97</url>
+</article>
+</r>
+<r><article key="journals/tpds/HamdiS97" mdate="2020-10-02">
+<author pid="38/6823">Mounir Hamdi</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>Embedding Hierarchical Hypercube Networks into the Hypercube.</title>
+<pages>897-902</pages>
+<ee>https://doi.org/10.1109/71.615435</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/71.615435</ee>
+<ee>https://www.wikidata.org/entity/Q56959389</ee>
+<year>1997</year>
+<volume>8</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>9</number>
+<url>db/journals/tpds/tpds8.html#HamdiS97</url>
+</article>
+</r>
+<r><inproceedings key="conf/icalp/CaceresDFFRRSS97" mdate="2024-05-07">
+<author pid="c/EdsonCaceres">Edson C&#225;ceres</author>
+<author pid="d/FKHADehne">Frank K. H. A. Dehne</author>
+<author pid="f/AfonsoFerreira">Afonso Ferreira</author>
+<author pid="96/778">Paola Flocchini</author>
+<author pid="74/1681">Ingo Rieping</author>
+<author pid="70/5059">Alessandro Roncato</author>
+<author orcid="0000-0002-7954-3918" pid="s/NicolaSantoro">Nicola Santoro</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>Efficient Parallel Graph Algorithms For Coarse Grained Multicomputers and BSP.</title>
+<pages>390-400</pages>
+<year>1997</year>
+<crossref>conf/icalp/1997</crossref>
+<booktitle>ICALP</booktitle>
+<url>db/conf/icalp/icalp97.html#CaceresDFFRRSS97</url>
+<ee>https://doi.org/10.1007/3-540-63165-8_195</ee>
+</inproceedings>
+</r>
+<r><article key="journals/paapp/FerreiraLS96" mdate="2025-01-19">
+<author pid="f/AfonsoFerreira">Afonso Ferreira</author>
+<author pid="g/AlfredoGoldman">Alfredo Goldman vel Lejbman</author>
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<title>Gossiping in Bus Interconnection Networks.</title>
+<pages>309-331</pages>
+<year>1996</year>
+<volume>8</volume>
+<journal>Parallel Algorithms Appl.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1080/10637199608915559</ee>
+<ee>https://www.wikidata.org/entity/Q126248068</ee>
+<url>db/journals/paapp/paapp8.html#FerreiraLS96</url>
+</article>
+</r>
+<r><inproceedings key="conf/asian/DehneS96" mdate="2017-05-22">
+<author pid="d/FKHADehne">Frank K. H. A. Dehne</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>Randomized Parallel List Ranking for Distributed Memory Multiprocessors.</title>
+<pages>1-10</pages>
+<year>1996</year>
+<crossref>conf/asian/1996</crossref>
+<booktitle>ASIAN</booktitle>
+<url>db/conf/asian/asian96.html#DehneS96</url>
+<ee>https://doi.org/10.1007/BFb0027774</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/HamdiS96" mdate="2023-03-24">
+<author pid="38/6823">Mounir Hamdi</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>On Embedding Various Networks into the Hypercube Using Matrix Transformations.</title>
+<pages>650-654</pages>
+<year>1996</year>
+<crossref>conf/ipps/1996</crossref>
+<booktitle>IPPS</booktitle>
+<ee>https://doi.org/10.1109/IPPS.1996.508126</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IPPS.1996.508126</ee>
+<url>db/conf/ipps/ipps1996.html#HamdiS96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ics/HamdiS95" mdate="2018-11-06">
+<author pid="38/6823">Mounir Hamdi</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>Efficient Embeddings into the Hypercube Using Matrix Transformations.</title>
+<pages>280-288</pages>
+<year>1995</year>
+<crossref>conf/ics/1995</crossref>
+<booktitle>International Conference on Supercomputing</booktitle>
+<ee>https://doi.org/10.1145/224538.224572</ee>
+<url>db/conf/ics/ics1995.html#HamdiS95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/parco/HamdiS95" mdate="2023-02-10">
+<author pid="38/6823">Mounir Hamdi</author>
+<author pid="s/SiangWunSong">S. W. Song 0001</author>
+<title>Matrix Representation of Network Embeddings in a Hypercube.</title>
+<pages>629-632</pages>
+<year>1995</year>
+<booktitle>PARCO</booktitle>
+<crossref>conf/parco/1995</crossref>
+<url>db/conf/parco/parco1995.html#HamdiS95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conpar/FerreiraLS94" mdate="2017-05-17">
+<author pid="f/AfonsoFerreira">Afonso Ferreira</author>
+<author pid="g/AlfredoGoldman">Alfredo Goldman vel Lejbman</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>Broadcasting in Bus Interconnection Networks.</title>
+<pages>797-807</pages>
+<year>1994</year>
+<crossref>conf/conpar/1994</crossref>
+<booktitle>CONPAR</booktitle>
+<url>db/conf/conpar/conpar1994.html#FerreiraLS94</url>
+<ee>https://doi.org/10.1007/3-540-58430-7_69</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dimacs/Song94" mdate="2022-06-09">
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<title>Towards a simple construction method for Hamiltonian decomposition of the hypercube.</title>
+<pages>297-306</pages>
+<year>1994</year>
+<booktitle>Interconnection Networks and Mapping and Scheduling Parallel Computations</booktitle>
+<crossref>conf/dimacs/dimacs21</crossref>
+<url>db/conf/dimacs/dimacs21.html#Song94</url>
+<ee type="archive">https://doi.org/10.1090/dimacs/021/20</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/SanchesS94" mdate="2023-03-24">
+<author pid="82/1743">Carlos Alberto Alonso Sanches</author>
+<author pid="s/SiangWunSong">S. W. Song 0001</author>
+<title>SIMD Algorithms for Matrix Multiplication on the Hypercube.</title>
+<pages>492-496</pages>
+<year>1994</year>
+<crossref>conf/ipps/1994</crossref>
+<booktitle>IPPS</booktitle>
+<url>db/conf/ipps/ipps1994.html#SanchesS94</url>
+<ee>https://doi.org/10.1109/IPPS.1994.288258</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IPPS.1994.288258</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/parle/FerreiraLS94" mdate="2017-05-20">
+<author pid="f/AfonsoFerreira">Afonso Ferreira</author>
+<author pid="g/AlfredoGoldman">Alfredo Goldman vel Lejbman</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>Bus-Based Parallel Computers: A Viable Way for Massive Parallelism.</title>
+<pages>553-564</pages>
+<year>1994</year>
+<crossref>conf/parle/1994</crossref>
+<booktitle>PARLE</booktitle>
+<url>db/conf/parle/parle94.html#FerreiraLS94</url>
+<ee>https://doi.org/10.1007/3-540-58184-7_130</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asap/RissetS93" mdate="2020-03-30">
+<author pid="73/1025">Tanguy Risset</author>
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<title>A real-time systolic algorithm for on-the-fly hidden surface removal.</title>
+<pages>238-249</pages>
+<year>1993</year>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.1993.397148</ee>
+<crossref>conf/asap/1993</crossref>
+<url>db/conf/asap/asap1993.html#RissetS93</url>
+</inproceedings>
+</r>
+<r><article key="journals/integration/FerreiraS92" mdate="2020-02-20">
+<author pid="f/AfonsoFerreira">Afonso G. Ferreira</author>
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<title>Achieving optimality for gate matrix layout and PLA folding: a graph theoretic approach.</title>
+<pages>173-195</pages>
+<year>1992</year>
+<volume>14</volume>
+<journal>Integr.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/0167-9260(92)90025-T</ee>
+<url>db/journals/integration/integration14.html#FerreiraS92</url>
+</article>
+</r>
+<r><article key="journals/pc/RobertS92" mdate="2024-02-05">
+<author orcid="0000-0003-2361-055X" pid="r/YvesRobert">Yves Robert</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>Revisiting cycle shrinking.</title>
+<pages>481-496</pages>
+<year>1992</year>
+<volume>18</volume>
+<journal>Parallel Comput.</journal>
+<number>5</number>
+<url>db/journals/pc/pc18.html#RobertS92</url>
+<ee>https://doi.org/10.1016/0167-8191(92)90084-K</ee>
+</article>
+</r>
+<r><inproceedings key="conf/latin/FerreiraS92" mdate="2017-05-20">
+<author pid="f/AfonsoFerreira">Afonso Ferreira</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>Achieving Optimality for Gate Matrix Layout and PLA Folding: a Graph Theoretic Approach.</title>
+<pages>139-153</pages>
+<year>1992</year>
+<crossref>conf/latin/1992</crossref>
+<booktitle>LATIN</booktitle>
+<url>db/conf/latin/latin92.html#FerreiraS92</url>
+<ee>https://doi.org/10.1007/BFb0023825</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/parle/RobertS92" mdate="2024-02-05">
+<author orcid="0000-0003-2361-055X" pid="r/YvesRobert">Yves Robert</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<title>New Techniques for Cycle Shrinking.</title>
+<pages>449-464</pages>
+<year>1992</year>
+<crossref>conf/parle/1992</crossref>
+<booktitle>PARLE</booktitle>
+<url>db/conf/parle/parle92.html#RobertS92</url>
+<ee>https://doi.org/10.1007/3-540-55599-4_104</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ftcs/MenzilciogluKS89" mdate="2020-04-28">
+<author pid="97/6240">Onat Menzilcioglu</author>
+<author pid="k/HTKung">H. T. Kung 0001</author>
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<title>Comprehensive evaluation of a two-dimensional configurable array.</title>
+<pages>93-100</pages>
+<year>1989</year>
+<booktitle>FTCS</booktitle>
+<ee>https://doi.org/10.1109/FTCS.1989.105549</ee>
+<crossref>conf/ftcs/1989</crossref>
+<url>db/conf/ftcs/ftcs1989.html#MenzilciogluKS89</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/Song81" mdate="2020-04-27">
+<ee type="oa">http://sites.computer.org/debull/81DEC-CD.pdf</ee>
+<author pid="s/SiangWunSong">S. W. Song 0001</author>
+<title>A Survey and Taxonomy of Database Machines.</title>
+<pages>3-13</pages>
+<year>1981</year>
+<volume>4</volume>
+<journal>IEEE Database Eng. Bull.</journal>
+<number>2</number>
+<url>db/journals/debu/debu4.html#Song81</url>
+</article>
+</r>
+<r><inproceedings key="conf/focs/KungS77" mdate="2023-03-23">
+<title>An Efficient Parallel Garbage Collection System and Its Correctness Proof</title>
+<author pid="k/HTKung">H. T. Kung 0001</author>
+<author pid="s/SiangWunSong">S. W. Song 0001</author>
+<pages>120-131</pages>
+<crossref>conf/focs/FOCS18</crossref>
+<year>1977</year>
+<booktitle>FOCS</booktitle>
+<url>db/conf/focs/focs77.html#KungS77</url>
+<ee>https://doi.org/10.1109/SFCS.1977.5</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SFCS.1977.5</ee>
+</inproceedings>
+</r>
+<coauthors n="44" nc="2">
+<co c="0" n="2"><na f="a/Almeida_Jr=:Nalvo_F=_de" pid="09/2799">Nalvo F. de Almeida Jr.</na><na>Nalvo F. Almeida Jr.</na></co>
+<co c="0" n="2"><na f="a/Alves:Carlos_Eduardo_Rodrigues" pid="a/CarlosERAlves">Carlos Eduardo Rodrigues Alves</na><na>Carlos E. R. Alves</na></co>
+<co c="0" n="2"><na f="b/Borelli:Fabrizio_F=" pid="59/11211">Fabrizio F. Borelli</na><na>Fabrizio Ferreira Borelli</na></co>
+<co c="0"><na f="b/Branco:Rodrigo_G=" pid="163/9188">Rodrigo G. Branco</na></co>
+<co c="0" n="3"><na f="c/C=aacute=ceres:Edson" pid="c/EdsonCaceres">Edson C&#225;ceres</na><na>Edson Norberto C&#225;ceres</na><na>E. N. C&#225;ceres</na></co>
+<co c="0" n="2"><na f="c/Camargo:Raphael_Y=_de" pid="31/4450">Raphael Y. de Camargo</na><na>Raphael Yokoingawa de Camargo</na></co>
+<co c="0"><na f="c/Carastan=Santos:Danilo" pid="165/2057">Danilo Carastan-Santos</na></co>
+<co c="0"><na f="c/Chan:Albert" pid="30/4766">Albert Chan</na></co>
+<co c="0" n="2"><na f="d/Dehne:Frank" pid="d/FKHADehne">Frank Dehne</na><na>Frank K. H. A. Dehne</na></co>
+<co c="0"><na f="f/Ferraz:Samuel" pid="145/0588">Samuel Ferraz</na></co>
+<co c="0" n="2"><na f="f/Ferreira:Afonso" pid="f/AfonsoFerreira">Afonso Ferreira</na><na>Afonso G. Ferreira</na></co>
+<co c="0"><na f="f/Ferreira:Cleber_S=" pid="156/4580">Cleber S. Ferreira</na></co>
+<co c="0"><na f="f/Fingler:Henrique" pid="121/1919">Henrique Fingler</na></co>
+<co c="0"><na f="f/Flocchini:Paola" pid="96/778">Paola Flocchini</na></co>
+<co c="0"><na f="g/Gaioso:Roussian_R=_A=" pid="164/9617">Roussian R. A. Gaioso</na></co>
+<co c="0" n="2"><na f="g/Goldman:Alfredo" pid="g/AlfredoGoldman">Alfredo Goldman</na><na>Alfredo Goldman vel Lejbman</na></co>
+<co c="-1"><na f="h/Hamdi:Mounir" pid="38/6823">Mounir Hamdi</na></co>
+<co c="0"><na f="h/Hanashiro:Erik_J=" pid="75/2449">Erik J. Hanashiro</na></co>
+<co c="0"><na f="h/Hayashida:Ulisses_Kendi" pid="17/3529">Ulisses Kendi Hayashida</na></co>
+<co c="0" n="2"><na f="j/Junior:Amaury_Ant=ocirc=nio_de_Castro" pid="150/5247">Amaury Ant&#244;nio de Castro Junior</na><na>Amaury Ant&#244;nio de Castro Jr.</na></co>
+<co c="1"><na f="k/Kung_0001:H=_T=" pid="k/HTKung">H. T. Kung 0001</na></co>
+<co c="0"><na f="l/Lima:Anderson_C=" pid="57/10701">Anderson C. Lima</na></co>
+<co c="0"><na f="l/Loureiro:L=" pid="82/7891">L. Loureiro</na></co>
+<co c="0"><na f="m/Martins:Wellington_Santos" pid="120/9618">Wellington Santos Martins</na></co>
+<co c="0" n="2"><na f="m/Martins_Jr=:David_Correa" pid="89/3723">David Correa Martins Jr.</na><na>David Correa Martins</na></co>
+<co c="1"><na f="m/Menzilcioglu:Onat" pid="97/6240">Onat Menzilcioglu</na></co>
+<co c="0"><na f="m/Mongelli:Henrique" pid="12/2927">Henrique Mongelli</na></co>
+<co c="0"><na f="n/Nishibe:Christiane" pid="93/1345">Christiane Nishibe</na></co>
+<co c="0"><na f="o/Okuda:Kunio" pid="02/4999">Kunio Okuda</na></co>
+<co c="0"><na f="p/Panetta:Jairo" pid="39/5694">Jairo Panetta</na></co>
+<co c="0"><na f="r/Reed:Bruce_A=" pid="r/BruceAReed">Bruce A. Reed</na></co>
+<co c="0"><na f="r/Rieping:Ingo" pid="74/1681">Ingo Rieping</na></co>
+<co c="0"><na f="r/Risset:Tanguy" pid="73/1025">Tanguy Risset</na></co>
+<co c="0"><na f="r/Robert:Yves" pid="r/YvesRobert">Yves Robert</na></co>
+<co c="0"><na f="r/Roncato:Alessandro" pid="70/5059">Alessandro Roncato</na></co>
+<co c="0" n="2"><na f="r/Rozante:Luiz_C=_S=" pid="50/5026">Luiz C. S. Rozante</na><na>Luiz Carlos Silva Rozante</na></co>
+<co c="-1"><na f="r/Ruchkys:D=" pid="00/238">D. Ruchkys</na></co>
+<co c="-1"><na f="r/Ruchkys:D=_P=" pid="97/7521">D. P. Ruchkys</na></co>
+<co c="-1" n="2"><na f="s/Sanches:Carlos_A=_A=" pid="82/1743">Carlos A. A. Sanches</na><na>Carlos Alberto Alonso Sanches</na></co>
+<co c="0"><na f="s/Santoro:Nicola" pid="s/NicolaSantoro">Nicola Santoro</na></co>
+<co c="-1"><na f="s/Saukas:E=_L=_G=" pid="21/6157">E. L. G. Saukas</na></co>
+<co c="0"><na f="s/Szwarcfiter:Jayme_Luiz" pid="74/1053">Jayme Luiz Szwarcfiter</na></co>
+<co c="0" n="2"><na f="v/Vasconcellos:Jucele_F=_A=" pid="78/10539">Jucele F. A. Vasconcellos</na><na>Jucele Franca de Alencar Vasconcellos</na></co>
+<co c="0"><na f="y/Yamamoto:Marcos_Tatsuo" pid="82/3838">Marcos Tatsuo Yamamoto</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,2770 @@
+<?xml version="1.0"?>
+<dblpperson name="Paulo F. Pires" pid="69/1904" n="153">
+<person key="homepages/69/1904" mdate="2018-12-10">
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="69/1904">Paulo de Figueiredo Pires</author>
+<note type="affiliation">Federal University of Rio de Janeiro, Brazil</note>
+<url>https://orcid.org/0000-0001-5064-4793</url>
+<url>https://www.wikidata.org/entity/Q56882618</url>
+</person>
+<r><article key="journals/cluster/SilvaBDP24" mdate="2024-08-12">
+<author pid="156/1878">Thiago Pereira da Silva</author>
+<author pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo de Figueiredo Pires</author>
+<title>An online ensemble method for auto-scaling NFV-based applications in the edge.</title>
+<pages>4255-4279</pages>
+<year>2024</year>
+<month>July</month>
+<volume>27</volume>
+<journal>Clust. Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10586-024-04465-9</ee>
+<url>db/journals/cluster/cluster27.html#SilvaBDP24</url>
+<stream>streams/journals/cluster</stream>
+</article>
+</r>
+<r><article key="journals/cn/VieiraMBNPMOD24" mdate="2024-07-19">
+<author orcid="0000-0003-3191-1985" pid="247/0245">Juan Lucas Vieira</author>
+<author pid="215/2864">Evandro L. C. Macedo</author>
+<author pid="276/4307">Anselmo Luiz &#201;den Battisti</author>
+<author pid="219/0755">Julia Noce</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<author pid="338/7961">Ana Cristina Bernardo de Oliveira</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<title>Mobility-aware SFC migration in dynamic 5G-Edge networks.</title>
+<pages>110571</pages>
+<year>2024</year>
+<volume>250</volume>
+<journal>Comput. Networks</journal>
+<ee>https://doi.org/10.1016/j.comnet.2024.110571</ee>
+<url>db/journals/cn/cn250.html#VieiraMBNPMOD24</url>
+</article>
+</r>
+<r><article key="journals/sncs/MacedoBVNPMOD24" mdate="2023-12-13">
+<author pid="215/2864">Evandro L. C. Macedo</author>
+<author pid="276/4307">Anselmo Luiz &#201;den Battisti</author>
+<author pid="247/0245">Juan Lucas Vieira</author>
+<author pid="219/0755">Julia Noce</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<author pid="338/7961">Ana Cristina Bernardo de Oliveira</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<title>Distributed Auction-Based SFC Placement in a Multi-domain 5G Environment.</title>
+<pages>48</pages>
+<year>2024</year>
+<month>January</month>
+<volume>5</volume>
+<journal>SN Comput. Sci.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s42979-023-02291-1</ee>
+<url>db/journals/sncs/sncs5.html#MacedoBVNPMOD24</url>
+</article>
+</r>
+<r><inproceedings key="conf/bcca/LimaMSDPBR24" mdate="2025-02-21">
+<author pid="397/4867">Rayan G. Lima</author>
+<author pid="215/2864">Evandro L. C. Macedo</author>
+<author pid="156/1878">Thiago Pereira da Silva</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="389/3639">Antonio A. de A. Rocha</author>
+<title>Auction-Based Resource Allocation Using a Layer-2 Blockchain.</title>
+<pages>255-262</pages>
+<year>2024</year>
+<booktitle>BCCA</booktitle>
+<ee>https://doi.org/10.1109/BCCA62388.2024.10844476</ee>
+<crossref>conf/bcca/2024</crossref>
+<url>db/conf/bcca/bcca2024.html#LimaMSDPBR24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloudnet/SilvaBBSRDBMOP23" mdate="2025-04-01">
+<author pid="156/1878">Thiago Pereira da Silva</author>
+<author pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="276/4307">Anselmo Luiz &#201;den Battisti</author>
+<author pid="230/1863-2">Andre Saraiva 0002</author>
+<author pid="389/3639">Antonio A. de A. Rocha</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0003-1000-5211" pid="193/1363">Ian Vilar Bastos</author>
+<author pid="215/2864">Evandro L. C. Macedo</author>
+<author pid="338/7961">Ana Cristina Bernardo de Oliveira</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<title>A MAPE-K and Queueing Theory Approach for VNF Auto-scaling in Edge Computing.</title>
+<pages>144-152</pages>
+<year>2023</year>
+<booktitle>CloudNet</booktitle>
+<ee>https://doi.org/10.1109/CloudNet59005.2023.10490065</ee>
+<crossref>conf/cloudnet/2023</crossref>
+<url>db/conf/cloudnet/cloudnet2023.html#SilvaBBSRDBMOP23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/netsoft/VieiraBMPMDO23" mdate="2023-08-06">
+<author pid="247/0245">Juan Lucas Vieira</author>
+<author pid="276/4307">Anselmo Luiz &#201;den Battisti</author>
+<author pid="215/2864">Evandro L. C. Macedo</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="21/5891">D&#233;bora C. Muchaluat-Saade</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="338/7961">Ana Cristina Bernardo de Oliveira</author>
+<title>Dynamic and Mobility-Aware VNF Placement in 5G-Edge Computing Environments.</title>
+<pages>53-61</pages>
+<year>2023</year>
+<booktitle>NetSoft</booktitle>
+<ee>https://doi.org/10.1109/NetSoft57336.2023.10175437</ee>
+<crossref>conf/netsoft/2023</crossref>
+<url>db/conf/netsoft/netsoft2023.html#VieiraBMPMDO23</url>
+</inproceedings>
+</r>
+<r><article key="journals/fi/BattistiMJBDMPM22" mdate="2023-02-10">
+<author orcid="0000-0003-3916-2368" pid="276/4307">Anselmo Luiz &#201;den Battisti</author>
+<author orcid="0000-0001-5430-2168" pid="215/2864">Evandro Luiz Cardoso Macedo</author>
+<author orcid="0000-0001-7375-213X" pid="190/1360">Marina Ivanov Pereira Josu&#233;</author>
+<author orcid="0000-0002-8544-0181" pid="136/0595">Hugo Barbalho</author>
+<author orcid="0000-0001-5334-8279" pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0002-1233-9736" pid="21/5891">D&#233;bora Christina Muchaluat-Saade</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0001-7163-4666" pid="131/4793">Douglas Paulo de Mattos</author>
+<author pid="338/7961">Ana Cristina Bernardo de Oliveira</author>
+<title>A Novel Strategy for VNF Placement in Edge Computing Environments.</title>
+<pages>361</pages>
+<year>2022</year>
+<volume>14</volume>
+<journal>Future Internet</journal>
+<number>12</number>
+<ee type="oa">https://doi.org/10.3390/fi14120361</ee>
+<url>db/journals/fi/fi14.html#BattistiMJBDMPM22</url>
+</article>
+</r>
+<r><article key="journals/percom/SilvaNBDPL22" mdate="2023-01-15">
+<author orcid="0000-0002-3353-053X" pid="156/1878">Thiago Pereira da Silva</author>
+<author pid="272/4760">Aluizio Rocha Neto</author>
+<author pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="39/1923">Frederico Lopes</author>
+<title>Online machine learning for auto-scaling in the edge computing.</title>
+<pages>101722</pages>
+<year>2022</year>
+<volume>87</volume>
+<journal>Pervasive Mob. Comput.</journal>
+<ee>https://doi.org/10.1016/j.pmcj.2022.101722</ee>
+<url>db/journals/percom/percom87.html#SilvaNBDPL22</url>
+</article>
+</r>
+<r><article key="journals/sensors/FilhoMCSBPOD22" mdate="2022-05-18">
+<author orcid="0000-0003-4735-8715" pid="319/0583">Carlos Poncinelli Filho</author>
+<author orcid="0000-0003-2930-2953" pid="172/3670">Elias L. Marques</author>
+<author orcid="0000-0002-8012-5852" pid="158/5207">Victor Chang 0001</author>
+<author pid="319/0336">Leonardo dos Santos</author>
+<author orcid="0000-0001-8801-827X" pid="88/5413">Fl&#225;via Bernardini</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0002-5007-4513" pid="o/LuizSatoruOchi">Luiz S. Ochi</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<title>A Systematic Literature Review on Distributed Machine Learning in Edge Computing.</title>
+<pages>2665</pages>
+<year>2022</year>
+<volume>22</volume>
+<journal>Sensors</journal>
+<number>7</number>
+<ee type="oa">https://doi.org/10.3390/s22072665</ee>
+<url>db/journals/sensors/sensors22.html#FilhoMCSBPOD22</url>
+</article>
+</r>
+<r><article key="journals/tiot/XavierDPALZ22" mdate="2024-08-04">
+<author orcid="0000-0002-4715-0626" pid="137/2846">Tiago C. S. Xavier</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="05/439">Cl&#225;udio L. Amorim</author>
+<author pid="64/6025-58">Wei Li 0058</author>
+<author pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<title>Managing Heterogeneous and Time-Sensitive IoT Applications through Collaborative and Energy-Aware Resource Allocation.</title>
+<pages>10:1-10:28</pages>
+<year>2022</year>
+<volume>3</volume>
+<journal>ACM Trans. Internet Things</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3488248</ee>
+<url>db/journals/tiot/tiot3.html#XavierDPALZ22</url>
+</article>
+</r>
+<r><article key="journals/toit/SilvaBLNDPR22" mdate="2023-05-01">
+<author orcid="0000-0002-3353-053X" pid="156/1878">Thiago Pereira da Silva</author>
+<author pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="39/1923">Frederico Lopes</author>
+<author pid="272/4760">Aluizio Rocha Neto</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0002-3069-132X" pid="16/9780">Atslands Rego da Rocha</author>
+<title>Fog Computing Platforms for Smart City Applications: A Survey.</title>
+<pages>96:1-96:32</pages>
+<year>2022</year>
+<month>November</month>
+<volume>22</volume>
+<journal>ACM Trans. Internet Techn.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3488585</ee>
+<url>db/journals/toit/toit22.html#SilvaBLNDPR22</url>
+</article>
+</r>
+<r><article key="journals/information/NetoSBDPL21" mdate="2025-01-19">
+<author orcid="0000-0003-1531-1488" pid="272/4760">Aluizio Rocha Neto</author>
+<author orcid="0000-0002-3353-053X" pid="156/1878">Thiago Pereira da Silva</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Batista</author>
+<author orcid="0000-0001-5334-8279" pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="39/1923">Frederico Lopes</author>
+<title>Leveraging Edge Intelligence for Video Analytics in Smart City Applications.</title>
+<pages>14</pages>
+<year>2021</year>
+<volume>12</volume>
+<journal>Inf.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.3390/info12010014</ee>
+<ee>https://www.wikidata.org/entity/Q125758864</ee>
+<url>db/journals/information/information12.html#NetoSBDPL21</url>
+</article>
+</r>
+<r><article key="journals/jidm/EscobarSLGBZPDC21" mdate="2021-11-30">
+<author pid="268/6708">Luciana E. G. Escobar</author>
+<author pid="181/9020">Rebecca Salles</author>
+<author pid="307/4398">Janio Lima</author>
+<author pid="307/4319">Cristiane Gea</author>
+<author pid="238/1303">Lais Baroni</author>
+<author pid="47/772">Artur Ziviani</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="120/7486">Rafaelli Coutinho</author>
+<author pid="202/6385">Laura Assis</author>
+<author pid="24/788">Eduardo S. Ogasawara</author>
+<title>Evaluating Temporal Bias in Time Series Event Detection Methods.</title>
+<year>2021</year>
+<volume>12</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>3</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1968</ee>
+<url>db/journals/jidm/jidm12.html#EscobarSLGBZPDC21</url>
+</article>
+</r>
+<r><article key="journals/ojiot/XavierPD21" mdate="2021-08-30">
+<author pid="137/2846">Tiago C. S. Xavier</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<title>Data-Centric Edge Federation: A Multi-Edge Architecture for Data Stream Processing of IoT Applications.</title>
+<pages>104-115</pages>
+<year>2021</year>
+<volume>7</volume>
+<journal>Open J. Internet Things</journal>
+<number>1</number>
+<ee type="oa">https://www.ronpub.com/ojiot/OJIOT_2021v7i1n10_Xavier.html</ee>
+<url>db/journals/ojiot/ojiot7.html#XavierPD21</url>
+</article>
+</r>
+<r><inproceedings key="conf/dasc/SilvaNBLDP21" mdate="2022-03-23">
+<author pid="156/1878">Thiago Pereira da Silva</author>
+<author pid="272/4760">Alu&#237;zio F. Rocha Neto</author>
+<author pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="39/1923">Frederico Lopes</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<title>Horizontal Auto-Scaling in Edge Computing Environment using Online Machine Learning.</title>
+<pages>161-168</pages>
+<year>2021</year>
+<booktitle>DASC/PiCom/CBDCom/CyberSciTech</booktitle>
+<ee>https://doi.org/10.1109/DASC-PICom-CBDCom-CyberSciTech52372.2021.00038</ee>
+<crossref>conf/dasc/2021</crossref>
+<url>db/conf/dasc/dasc2021.html#SilvaNBLDP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/NetoSBLDP21" mdate="2023-02-12">
+<author pid="272/4760">Aluizio Rocha Neto</author>
+<author orcid="0000-0002-3353-053X" pid="156/1878">Thiago Pereira da Silva</author>
+<author pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="39/1923">Frederico Lopes</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<title>Optimizing Resource Allocation in Edge-distributed Stream Processing.</title>
+<pages>156-166</pages>
+<year>2021</year>
+<booktitle>WEBIST</booktitle>
+<ee>https://doi.org/10.5220/0010714700003058</ee>
+<crossref>conf/webist/2021</crossref>
+<url>db/conf/webist/webist2021.html#NetoSBLDP21</url>
+</inproceedings>
+</r>
+<r><article key="journals/jnca/CalmonSDPACOA20" mdate="2025-03-03">
+<author orcid="0000-0002-4715-0626" pid="137/2846">Tiago C. S. Xavier</author>
+<author pid="76/9779">Igor Le&#227;o dos Santos</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0002-6791-1760" pid="96/3992">Marcelo Pitanga Alves</author>
+<author pid="247/9473">Tiago Salviano Calmon</author>
+<author pid="134/0906">Ana C. Oliveira</author>
+<author pid="05/439">Cl&#225;udio L. Amorim</author>
+<title>Collaborative resource allocation for Cloud of Things systems.</title>
+<pages>102592</pages>
+<year>2020</year>
+<volume>159</volume>
+<journal>J. Netw. Comput. Appl.</journal>
+<ee>https://doi.org/10.1016/j.jnca.2020.102592</ee>
+<url>db/journals/jnca/jnca159.html#CalmonSDPACOA20</url>
+</article>
+</r>
+<r><article key="journals/jss/CostaPD20" mdate="2020-09-10">
+<author pid="24/5736-3">Bruno Costa 0003</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<title>Towards the adoption of OMG standards in the development of SOA-based IoT systems.</title>
+<pages>110720</pages>
+<year>2020</year>
+<volume>169</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2020.110720</ee>
+<url>db/journals/jss/jss169.html#CostaPD20</url>
+</article>
+</r>
+<r><article key="journals/ojiot/NetoSBDPL20" mdate="2021-01-29">
+<author pid="272/4760">Aluizio Rocha Neto</author>
+<author pid="156/1878">Thiago Pereira da Silva</author>
+<author pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="39/1923">Frederico Lopes</author>
+<title>An Architecture for Distributed Video Stream Processing in IoMT Systems.</title>
+<pages>89-104</pages>
+<year>2020</year>
+<volume>6</volume>
+<journal>Open J. Internet Things</journal>
+<number>1</number>
+<ee type="oa">https://www.ronpub.com/ojiot/OJIOT_2020v6i1n09_Neto.html</ee>
+<url>db/journals/ojiot/ojiot6.html#NetoSBDPL20</url>
+</article>
+</r>
+<r><article key="journals/www/AlvesDSP20" mdate="2025-01-19">
+<author orcid="0000-0002-6791-1760" pid="96/3992">Marcelo Pitanga Alves</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="76/9779">Igor Le&#227;o dos Santos</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<title>LW-CoEdge: a lightweight virtualization model and collaboration process for edge computing.</title>
+<pages>1127-1175</pages>
+<year>2020</year>
+<volume>23</volume>
+<journal>World Wide Web</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11280-019-00722-9</ee>
+<ee>https://www.wikidata.org/entity/Q126829965</ee>
+<url>db/journals/www/www23.html#AlvesDSP20</url>
+</article>
+</r>
+<r><inproceedings key="conf/coinco/DelicatoP20" mdate="2022-05-27">
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<title>Challenges in developing collaborative IoT systems.</title>
+<pages>25-33</pages>
+<year>2020</year>
+<booktitle>CIC</booktitle>
+<ee>https://doi.org/10.1109/CIC50333.2020.00014</ee>
+<crossref>conf/coinco/2020</crossref>
+<url>db/conf/coinco/cic2020.html#DelicatoP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/DiasDPRN20" mdate="2022-04-09">
+<author pid="194/3324">Di&#243;genes Dias</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0002-3069-132X" pid="16/9780">Atslands Rego da Rocha</author>
+<author pid="67/5214">Elisa Yumi Nakagawa</author>
+<title>An overview of reference architectures for cloud of things.</title>
+<pages>1498-1505</pages>
+<year>2020</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3341105.3374038</ee>
+<crossref>conf/sac/2020</crossref>
+<url>db/conf/sac/sac2020.html#DiasDPRN20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/SallesEBZZKDPMC20" mdate="2021-04-29">
+<author orcid="0000-0002-1001-3839" pid="181/9020">Rebecca Salles</author>
+<author pid="268/6708">Luciana E. G. Escobar</author>
+<author pid="238/1303">Lais Baroni</author>
+<author pid="290/4335">Roccio Zorrilla</author>
+<author pid="47/772">Artur Ziviani</author>
+<author pid="290/4461">Vincius Kreischer</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="04/5468">Luciano Maia</author>
+<author pid="120/7486">Rafaelli Coutinho</author>
+<author pid="202/6385">Laura Assis</author>
+<author pid="24/788">Eduardo S. Ogasawara</author>
+<title>Harbinger: Um framework para integra&#231;&#227;o e an&#225;lise de m&#233;todos de detec&#231;&#227;o de eventos em s&#233;ries temporais.</title>
+<pages>73-84</pages>
+<year>2020</year>
+<booktitle>SBBD</booktitle>
+<ee>https://doi.org/10.5753/sbbd.2020.13626</ee>
+<crossref>conf/sbbd/2020</crossref>
+<url>db/conf/sbbd/sbbd2020.html#SallesEBZZKDPMC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/XavierDPMSA20" mdate="2022-01-14">
+<author pid="137/2846">Tiago Cariolano de Souza Xavier</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo de Figueiredo Pires</author>
+<author pid="215/2864">Evandro Luiz Cardoso Macedo</author>
+<author pid="76/9779">Igor Le&#227;o dos Santos</author>
+<author pid="05/439">Claudio Luis de Amorim</author>
+<title>Aloca&#231;&#227;o de Recursos na Nuvem de Dispositivos.</title>
+<pages>323-336</pages>
+<year>2020</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc.2020.12292</ee>
+<crossref>conf/sbrc/2020</crossref>
+<url>db/conf/sbrc/sbrc2020.html#XavierDPMSA20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/AlvesDSP20" mdate="2022-01-14">
+<author orcid="0000-0002-6791-1760" pid="96/3992">Marcelo Pitanga Alves</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="76/9779">Igor Le&#227;o dos Santos</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<title>Architecture for Virtualization and Collaboration in Edge Computing: an implementation based on FIWARE building blocks.</title>
+<pages>686-699</pages>
+<year>2020</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc.2020.12318</ee>
+<crossref>conf/sbrc/2020</crossref>
+<url>db/conf/sbrc/sbrc2020.html#AlvesDSP20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-01713" mdate="2020-07-06">
+<author pid="24/5736-3">Bruno Costa 0003</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<title>Towards the Adoption of OMG Standards in the Development of SOA-Based IoT Systems.</title>
+<year>2020</year>
+<volume>abs/2007.01713</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.01713</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-01713</url>
+</article>
+</r>
+<r><article key="journals/jisa/GomesCBTCCDP19" mdate="2023-09-30">
+<author pid="151/3335">Porf&#237;rio Gomes</author>
+<author orcid="0000-0002-2475-5075" pid="77/10661">Everton Cavalcante</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="83/3190">Chantal Taconet</author>
+<author orcid="0000-0002-1252-7374" pid="92/612">Denis Conan</author>
+<author orcid="0000-0002-1591-6754" pid="99/1431">Sophie Chabridon</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<title>A semantic-based discovery service for the Internet of Things.</title>
+<pages>10:1-10:14</pages>
+<year>2019</year>
+<volume>10</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s13174-019-0109-8</ee>
+<url>db/journals/jisa/jisa10.html#GomesCBTCCDP19</url>
+</article>
+</r>
+<r><article key="journals/ojiot/SantosDPAOC19" mdate="2021-01-29">
+<author pid="76/9779">Igor Le&#227;o dos Santos</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="96/3992">Marcelo Pitanga Alves</author>
+<author pid="93/530">Ana Liz S. Oliveira</author>
+<author pid="247/9473">Tiago Salviano Calmon</author>
+<title>Data-Centric Resource Management in Edge-Cloud Systems for the IoT.</title>
+<pages>29-46</pages>
+<year>2019</year>
+<volume>5</volume>
+<journal>Open J. Internet Things</journal>
+<number>1</number>
+<ee type="oa">https://www.ronpub.com/ojiot/OJIOT_2019v5i1n03_Santos.html</ee>
+<url>db/journals/ojiot/ojiot5.html#SantosDPAOC19</url>
+</article>
+</r>
+<r><inproceedings key="conf/er/SilvaSCORWLPSVS19" mdate="2023-03-10">
+<author pid="251/2435">Daniel Nascimento Ramos da Silva</author>
+<author pid="251/2402">Adolfo Sim&#245;es</author>
+<author pid="151/2531">Carlos Cardoso</author>
+<author pid="54/8935">Douglas E. M. de Oliveira</author>
+<author pid="198/1276">Jo&#227;o N. Rittmeyer</author>
+<author pid="49/9059">Klaus Wehmuth</author>
+<author pid="181/6562">Hermano Lustosa</author>
+<author pid="251/2419">Rafael S. Pereira 0001</author>
+<author pid="228/1754">Yania Molina Souto</author>
+<author pid="251/2337">Luciana E. G. Vignoli</author>
+<author pid="181/9020">Rebecca Salles</author>
+<author pid="251/2391">Heleno de S. C. Jr</author>
+<author pid="47/772">Artur Ziviani</author>
+<author pid="24/788">Eduardo S. Ogasawara</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo de Figueiredo Pires</author>
+<author pid="224/8376">Hardy Leonardo da Cunha Pereira Pinto</author>
+<author pid="04/5468">Luciano Maia</author>
+<author pid="p/FabioPorto">F&#225;bio Porto 0001</author>
+<title>A Conceptual Vision Toward the Management of Machine Learning Models.</title>
+<pages>15-27</pages>
+<year>2019</year>
+<booktitle>ER Forum/Posters/Demos</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2469/ERForum2.pdf</ee>
+<crossref>conf/er/2019f</crossref>
+<url>db/conf/er/erf2019.html#SilvaSCORWLPSVS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wf-iot/0003PD19" mdate="2019-07-25">
+<author pid="24/5736-3">Bruno Costa 0003</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<title>Modeling SOA-Based IoT Applications with SoaML4IoT.</title>
+<pages>496-501</pages>
+<year>2019</year>
+<booktitle>WF-IoT</booktitle>
+<ee>https://doi.org/10.1109/WF-IoT.2019.8767218</ee>
+<crossref>conf/wf-iot/2019</crossref>
+<url>db/conf/wf-iot/wf-iot2019.html#0003PD19</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/19/SantosDPPZ19" mdate="2020-02-12">
+<author pid="76/9779">Igor Le&#227;o dos Santos</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="32/4359">Luci Pirmez</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<title>Resource Allocation and Task Scheduling in the Cloud of Sensors.</title>
+<pages>265-305</pages>
+<year>2019</year>
+<booktitle>Mission-Oriented Sensor Networks and Systems (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-91146-5_8</ee>
+<crossref>books/sp/Aa2019</crossref>
+<url>db/books/collections/Aa2019.html#SantosDPPZ19</url>
+</incollection>
+</r>
+<r><incollection key="books/sp/19/AquinoPFDP19" mdate="2020-02-12">
+<author pid="184/0625">Gabriel Aquino</author>
+<author pid="32/4359">Luci Pirmez</author>
+<author pid="125/8102">Claudio M. de Farias</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<title>A Data Fusion Algorithm for Multiple Applications in Wireless Sensor Networks.</title>
+<pages>533-568</pages>
+<year>2019</year>
+<booktitle>Mission-Oriented Sensor Networks and Systems (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-91146-5_14</ee>
+<crossref>books/sp/Aa2019</crossref>
+<url>db/books/collections/Aa2019.html#AquinoPFDP19</url>
+</incollection>
+</r>
+<r><article key="journals/cm/LiYDPTKZ18" mdate="2025-01-19">
+<author pid="64/6025-58">Wei Li 0058</author>
+<author pid="88/3999-2">Ting Yang 0002</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0002-1235-9673" pid="t/ZahirTari">Zahir Tari</author>
+<author orcid="0009-0007-6641-9735" pid="k/SameeUllahKhan">Samee U. Khan</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<title>On Enabling Sustainable Edge Computing with Renewable Energy Resources.</title>
+<pages>94-101</pages>
+<year>2018</year>
+<volume>56</volume>
+<journal>IEEE Commun. Mag.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MCOM.2018.1700888</ee>
+<ee>https://www.wikidata.org/entity/Q129798138</ee>
+<url>db/journals/cm/cm56.html#LiYDPTKZ18</url>
+</article>
+</r>
+<r><article key="journals/jpdc/NanLBDPZ18" mdate="2024-03-20">
+<author pid="191/4615">Yucen Nan</author>
+<author pid="64/6025-58">Wei Li 0058</author>
+<author orcid="0000-0003-1874-1766" pid="72/3664-1">Wei Bao 0001</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<title>A dynamic tradeoff data processing framework for delay-sensitive applications in Cloud of Things systems.</title>
+<pages>53-66</pages>
+<year>2018</year>
+<volume>112</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<ee>https://doi.org/10.1016/j.jpdc.2017.09.009</ee>
+<url>db/journals/jpdc/jpdc112.html#NanLBDPZ18</url>
+</article>
+</r>
+<r><inproceedings key="conf/dasc/SantosADPPLZK18" mdate="2025-03-03">
+<author orcid="0000-0002-9473-3728" pid="76/9779">Igor Le&#227;o dos Santos</author>
+<author orcid="0000-0002-6791-1760" pid="96/3992">Marcelo Pitanga Alves</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="32/4359">Luci Pirmez</author>
+<author pid="64/6025-58">Wei Li 0058</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<author orcid="0009-0007-6641-9735" pid="k/SameeUllahKhan">Samee U. Khan</author>
+<title>A System Architecture for Cloud of Sensors.</title>
+<pages>666-672</pages>
+<year>2018</year>
+<booktitle>DASC/PiCom/DataCom/CyberSciTech</booktitle>
+<ee>https://doi.org/10.1109/DASC/PiCom/DataCom/CyberSciTec.2018.00118</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DASC/PiCom/DataCom/CyberSciTec.2018.00118</ee>
+<crossref>conf/dasc/2018</crossref>
+<url>db/conf/dasc/dasc2018.html#SantosADPPLZK18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ic2e/CostaPD18" mdate="2023-03-23">
+<author pid="24/5736-3">Bruno Costa 0003</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<title>CoAP-XED: Enabling Relaxed Requests to IoT Sensing Resources.</title>
+<pages>298-303</pages>
+<year>2018</year>
+<booktitle>IC2E</booktitle>
+<ee>https://doi.org/10.1109/IC2E.2018.00058</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IC2E.2018.00058</ee>
+<crossref>conf/ic2e/2018</crossref>
+<url>db/conf/ic2e/ic2e2018.html#CostaPD18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GottinPDCCVSPPR18" mdate="2025-01-19">
+<author pid="138/4550">Vinicius M. Gottin</author>
+<author pid="219/8278">Edward Pacheco</author>
+<author pid="61/9170">Jonas Dias</author>
+<author pid="46/2581">Angelo E. M. Ciarlini</author>
+<author pid="24/5736-3">Bruno Costa 0003</author>
+<author pid="219/8319">Wagner Vieira</author>
+<author pid="228/1754">Yania Molina Souto</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="p/FabioPorto">F&#225;bio Porto 0001</author>
+<author orcid="0000-0002-5053-9501" pid="198/1276">Jo&#227;o Guilherme Nobre Rittmeyer</author>
+<title>Automatic Caching Decision for Scientific Dataflow Execution in Apache Spark.</title>
+<pages>2:1-2:10</pages>
+<year>2018</year>
+<booktitle>BeyondMR@SIGMOD</booktitle>
+<ee>https://doi.org/10.1145/3206333.3206339</ee>
+<ee>https://www.wikidata.org/entity/Q131112961</ee>
+<crossref>conf/sigmod/2018beyondmr</crossref>
+<url>db/conf/sigmod/beyondmr2018.html#GottinPDCCVSPPR18</url>
+</inproceedings>
+</r>
+<r><book key="series/sbcs/DelicatoPB17" mdate="2017-05-16">
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="b/TVBatista">Tha&#237;s Batista</author>
+<title>Resource Management for Internet of Things</title>
+<year>2017</year>
+<pages>1-112</pages>
+<series href="db/series/sbcs/index.html">Springer Briefs in Computer Science</series>
+<publisher>Springer</publisher>
+<isbn>978-3-319-54246-1</isbn>
+<isbn>978-3-319-54247-8</isbn>
+<ee>https://doi.org/10.1007/978-3-319-54247-8</ee>
+</book>
+</r>
+<r><article key="journals/access/NanLBDPDZ17" mdate="2024-03-20">
+<author orcid="0000-0002-0379-2280" pid="191/4615">Yucen Nan</author>
+<author pid="64/6025-58">Wei Li 0058</author>
+<author orcid="0000-0003-1874-1766" pid="72/3664-1">Wei Bao 0001</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="76/305">Yong Dou</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<title>Adaptive Energy-Aware Computation Offloading for Cloud of Things Systems.</title>
+<pages>23947-23957</pages>
+<year>2017</year>
+<volume>5</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2017.2766165</ee>
+<url>db/journals/access/access5.html#NanLBDPDZ17</url>
+</article>
+</r>
+<r><article key="journals/adhoc/PortocarreroDPC17" mdate="2018-08-06">
+<author pid="133/3555">Jes&#250;s M. T. Portocarrero</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="24/5736-3">Bruno Costa 0003</author>
+<author orcid="0000-0003-4731-3226" pid="64/6025-58">Wei Li 0058</author>
+<author orcid="0000-0002-1239-7880" pid="88/5542">Weisheng Si</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<title>RAMSES: A new reference architecture for self-adaptive middleware in Wireless Sensor Networks.</title>
+<pages>3-27</pages>
+<year>2017</year>
+<volume>55</volume>
+<journal>Ad Hoc Networks</journal>
+<ee>https://doi.org/10.1016/j.adhoc.2016.11.004</ee>
+<url>db/journals/adhoc/adhoc55.html#PortocarreroDPC17</url>
+</article>
+</r>
+<r><article key="journals/fgcs/LiSDPPWSZK17" mdate="2023-09-30">
+<author orcid="0000-0003-4731-3226" pid="64/6025-58">Wei Li 0058</author>
+<author orcid="0000-0002-9473-3728" pid="76/9779">Igor Le&#227;o dos Santos</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="32/4359">Luci Pirmez</author>
+<author pid="24/4105-6">Wei Wei 0006</author>
+<author orcid="0000-0003-2631-9223" pid="49/594">Houbing Song</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<author orcid="0009-0007-6641-9735" pid="k/SameeUllahKhan">Samee Khan</author>
+<title>System modelling and performance evaluation of a three-tier Cloud of Things.</title>
+<pages>104-125</pages>
+<year>2017</year>
+<volume>70</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2016.06.019</ee>
+<ee>https://www.wikidata.org/entity/Q56938678</ee>
+<url>db/journals/fgcs/fgcs70.html#LiSDPPWSZK17</url>
+</article>
+</r>
+<r><article key="journals/fgcs/FariasBPDPRSCB17" mdate="2021-10-14">
+<author orcid="0000-0002-2384-085X" pid="125/8102">Claudio M. de Farias</author>
+<author pid="167/1804">Italo C. Brito</author>
+<author pid="32/4359">Luci Pirmez</author>
+<author orcid="0000-0001-5334-8279" pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0001-8833-7967" pid="173/8035">Taniro Chacon Rodrigues</author>
+<author orcid="0000-0002-9473-3728" pid="76/9779">Igor Le&#227;o dos Santos</author>
+<author pid="50/943">Luiz F. R. C. Carmo</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<title>COMFIT: A development environment for the Internet of Things.</title>
+<pages>128-144</pages>
+<year>2017</year>
+<volume>75</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2016.06.031</ee>
+<url>db/journals/fgcs/fgcs75.html#FariasBPDPRSCB17</url>
+</article>
+</r>
+<r><article key="journals/itpro/PereiraSBDPK17" mdate="2023-09-30">
+<author pid="85/8921">Jorge Pereira</author>
+<author pid="199/3996">Evaldo O. da Silva</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Batista</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author orcid="0009-0007-6641-9735" pid="k/SameeUllahKhan">Samee U. Khan</author>
+<title>Cloud Adoption in Brazil.</title>
+<pages>50-56</pages>
+<year>2017</year>
+<volume>19</volume>
+<journal>IT Prof.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MITP.2017.27</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MITP.2017.27</ee>
+<url>db/journals/itpro/itpro19.html#PereiraSBDPK17</url>
+</article>
+</r>
+<r><article key="journals/jnca/AlvesPRDFPSZ17" mdate="2021-10-14">
+<author pid="188/6155">Maicon Melo Alves</author>
+<author pid="32/4359">Luci Pirmez</author>
+<author pid="52/618">Silvana Rossetto</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="125/8102">Claudio M. de Farias</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0002-9473-3728" pid="76/9779">Igor Le&#227;o dos Santos</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<title>Damage prediction for wind turbines using wireless sensor and actuator networks.</title>
+<pages>123-140</pages>
+<year>2017</year>
+<volume>80</volume>
+<journal>J. Netw. Comput. Appl.</journal>
+<ee>https://doi.org/10.1016/j.jnca.2016.12.027</ee>
+<url>db/journals/jnca/jnca80.html#AlvesPRDFPSZ17</url>
+</article>
+</r>
+<r><article key="journals/sosym/RodriguesDBPP17" mdate="2021-07-25">
+<author orcid="0000-0001-8833-7967" pid="173/8035">Taniro Rodrigues</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="32/4359">Luci Pirmez</author>
+<title>An approach based on the domain perspective to develop WSAN applications.</title>
+<pages>949-977</pages>
+<year>2017</year>
+<volume>16</volume>
+<journal>Softw. Syst. Model.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10270-015-0498-5</ee>
+<url>db/journals/sosym/sosym16.html#RodriguesDBPP17</url>
+</article>
+</r>
+<r><inproceedings key="conf/acsw/FariasPDP0ZJJ17" mdate="2018-11-06">
+<author pid="125/8102">Claudio M. de Farias</author>
+<author pid="32/4359">Luci Pirmez</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="64/6025-58">Wei Li 0058</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<author pid="169/1652">Emanuele N. de L. F. Jorge</author>
+<author pid="20/5153">Reyes Ju&#225;rez-Ram&#237;rez</author>
+<title>GROWN: a control and decision system for smart greenhouses using wireless sensor networks.</title>
+<pages>48:1-48:8</pages>
+<year>2017</year>
+<booktitle>ACSW</booktitle>
+<ee>https://doi.org/10.1145/3014812.3014862</ee>
+<crossref>conf/acsw/2017</crossref>
+<url>db/conf/acsw/acsw2017.html#FariasPDP0ZJJ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasc/CostaPD17" mdate="2023-03-23">
+<author pid="24/5736-3">Bruno Costa 0003</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<title>Specifying Functional Requirements and QoS Parameters for IoT Systems.</title>
+<pages>407-414</pages>
+<year>2017</year>
+<booktitle>DASC/PiCom/DataCom/CyberSciTech</booktitle>
+<ee>https://doi.org/10.1109/DASC-PICom-DataCom-CyberSciTec.2017.83</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DASC-PICom-DataCom-CyberSciTec.2017.83</ee>
+<crossref>conf/dasc/2017</crossref>
+<url>db/conf/dasc/dasc2017.html#CostaPD17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gpc/MonteiroDPPM17" mdate="2017-05-26">
+<author pid="199/4972">Leonardo C. Monteiro</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="32/4359">Luci Pirmez</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="94/10660">Claudio Miceli</author>
+<title>DPCAS: Data Prediction with Cubic Adaptive Sampling for Wireless Sensor Networks.</title>
+<pages>353-368</pages>
+<year>2017</year>
+<booktitle>GPC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-57186-7_27</ee>
+<crossref>conf/gpc/2017</crossref>
+<url>db/conf/gpc/gpc2017.html#MonteiroDPPM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icnsc/FariasPDPGFCT17" mdate="2023-08-28">
+<author pid="125/8102">Claudio M. de Farias</author>
+<author pid="32/4359">Luci Pirmez</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0003-1469-9484" pid="57/7356">Antonio Guerrieri</author>
+<author orcid="0000-0002-4039-891X" pid="f/GiancarloFortino">Giancarlo Fortino</author>
+<author orcid="0000-0001-8400-1083" pid="133/8758">Francesco Cauteruccio</author>
+<author orcid="0000-0002-3090-7223" pid="t/GiorgioTerracina">Giorgio Terracina</author>
+<title>A multisensor data fusion algorithm using the hidden correlations in Multiapplication Wireless Sensor data streams.</title>
+<pages>96-102</pages>
+<year>2017</year>
+<booktitle>ICNSC</booktitle>
+<ee>https://doi.org/10.1109/ICNSC.2017.8000074</ee>
+<ee>https://www.wikidata.org/entity/Q118173646</ee>
+<crossref>conf/icnsc/2017</crossref>
+<url>db/conf/icnsc/icnsc2017.html#FariasPDPGFCT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mswim/BaoLDPYZZ17" mdate="2025-02-21">
+<author orcid="0000-0003-1874-1766" pid="72/3664-1">Wei Bao 0001</author>
+<author pid="64/6025-58">Wei Li 0058</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="15/2771-1">Dong Yuan 0001</author>
+<author orcid="0000-0002-5405-6419" pid="60/6545">Bing Bing Zhou</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<title>Cost-Effective Processing in Fog-Integrated Internet of Things Ecosystems.</title>
+<pages>99-108</pages>
+<year>2017</year>
+<booktitle>MSWiM</booktitle>
+<ee>https://doi.org/10.1145/3127540.3127547</ee>
+<ee>https://www.wikidata.org/entity/Q130993271</ee>
+<crossref>conf/mswim/2017</crossref>
+<url>db/conf/mswim/mswim2017.html#BaoLDPYZZ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/AlvesDP17" mdate="2025-03-03">
+<author orcid="0000-0002-6791-1760" pid="96/3992">Marcelo Pitanga Alves</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<title>IoTA-MD: a model-driven approach for applying QoS attributes in the development of the IoT systems.</title>
+<pages>1773-1780</pages>
+<year>2017</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3019612.3019800</ee>
+<crossref>conf/sac/2017</crossref>
+<url>db/conf/sac/sac2017.html#AlvesDP17</url>
+</inproceedings>
+</r>
+<r><article key="journals/comcom/CavalcantePAMMB16" mdate="2021-07-25">
+<author orcid="0000-0002-2475-5075" pid="77/10661">Everton Cavalcante</author>
+<author pid="85/8921">Jorge Pereira</author>
+<author orcid="0000-0002-6791-1760" pid="96/3992">Marcelo Pitanga Alves</author>
+<author pid="151/3289">Pedro Maia</author>
+<author pid="132/6566">Roniceli Moura</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<title>On the interplay of Internet of Things and Cloud Computing: A systematic mapping study.</title>
+<pages>17-33</pages>
+<year>2016</year>
+<volume>89-90</volume>
+<journal>Comput. Commun.</journal>
+<ee>https://doi.org/10.1016/j.comcom.2016.03.012</ee>
+<url>db/journals/comcom/comcom89.html#CavalcantePAMMB16</url>
+</article>
+</r>
+<r><article key="journals/csur/Farias0DPZPS16" mdate="2020-10-26">
+<author pid="125/8102">Claudio M. de Farias</author>
+<author pid="64/6025-58">Wei Li 0058</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="32/4359">Luci Pirmez</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0002-2980-8877" pid="02/4334">Jos&#233; Neuman de Souza</author>
+<title>A Systematic Review of Shared Sensor Networks.</title>
+<pages>51:1-51:50</pages>
+<year>2016</year>
+<volume>48</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2851510</ee>
+<url>db/journals/csur/csur48.html#Farias0DPZPS16</url>
+</article>
+</r>
+<r><article key="journals/jss/CostaPDM16" mdate="2020-02-24">
+<author orcid="0000-0001-9655-8698" pid="24/5736-3">Bruno Costa 0003</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="05/4541">Paulo Merson</author>
+<title>Evaluating REST architectures - Approach, tooling and guidelines.</title>
+<pages>156-180</pages>
+<year>2016</year>
+<volume>112</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2015.09.039</ee>
+<url>db/journals/jss/jss112.html#CostaPDM16</url>
+</article>
+</r>
+<r><article key="journals/tc/SantosPCPDKZ16" mdate="2023-09-30">
+<author orcid="0000-0002-9473-3728" pid="76/9779">Igor Le&#227;o dos Santos</author>
+<author pid="32/4359">Luci Pirmez</author>
+<author pid="50/943">Luiz F. R. C. Carmo</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0009-0007-6641-9735" pid="k/SameeUllahKhan">Samee Ullah Khan</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<title>A Decentralized Damage Detection System for Wireless Sensor and Actuator Networks.</title>
+<pages>1363-1376</pages>
+<year>2016</year>
+<volume>65</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TC.2015.2479608</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2015.2479608</ee>
+<url>db/journals/tc/tc65.html#SantosPCPDKZ16</url>
+</article>
+</r>
+<r><inproceedings key="conf/dasc/CostaPD0Z16" mdate="2023-03-23">
+<author pid="24/5736-3">Bruno Costa 0003</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="64/6025-58">Wei Li 0058</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<title>Design and Analysis of IoT Applications: A Model-Driven Approach.</title>
+<pages>392-399</pages>
+<year>2016</year>
+<booktitle>DASC/PiCom/DataCom/CyberSciTech</booktitle>
+<ee>https://doi.org/10.1109/DASC-PICom-DataCom-CyberSciTec.2016.81</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DASC-PICom-DataCom-CyberSciTec.2016.81</ee>
+<crossref>conf/dasc/2016</crossref>
+<url>db/conf/dasc/dasc2016.html#CostaPD0Z16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euromicro/CostaPD16" mdate="2023-03-24">
+<author pid="24/5736-3">Bruno Costa 0003</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<title>Modeling IoT Applications with SysML4IoT.</title>
+<pages>157-164</pages>
+<year>2016</year>
+<booktitle>SEAA</booktitle>
+<ee>https://doi.org/10.1109/SEAA.2016.19</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SEAA.2016.19</ee>
+<crossref>conf/euromicro/2016</crossref>
+<url>db/conf/euromicro/euromicro2016.html#CostaPD16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fusion/AquinoPFDP16" mdate="2021-08-09">
+<author pid="184/0625">Gabriel Aquino</author>
+<author pid="32/4359">Luci Pirmez</author>
+<author pid="125/8102">Claudio M. de Farias</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<title>Hephaestus: A multisensor data fusion algorithm for multiple applications on wireless sensor networks.</title>
+<pages>59-66</pages>
+<year>2016</year>
+<booktitle>FUSION</booktitle>
+<ee>https://ieeexplore.ieee.org/document/7527870/</ee>
+<crossref>conf/fusion/2016</crossref>
+<url>db/conf/fusion/fusion2016.html#AquinoPFDP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nca/Nan0BDPZ16" mdate="2024-03-20">
+<author pid="191/4615">Yucen Nan</author>
+<author pid="64/6025-58">Wei Li 0058</author>
+<author orcid="0000-0003-1874-1766" pid="72/3664-1">Wei Bao 0001</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<title>Cost-effective processing for Delay-sensitive applications in Cloud of Things systems.</title>
+<pages>162-169</pages>
+<year>2016</year>
+<booktitle>NCA</booktitle>
+<ee>https://doi.org/10.1109/NCA.2016.7778612</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/NCA.2016.7778612</ee>
+<crossref>conf/nca/2016</crossref>
+<url>db/conf/nca/nca2016.html#Nan0BDPZ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/PortocarreroDPR16" mdate="2021-07-25">
+<author pid="133/3555">Jes&#250;s M. T. Portocarrero</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0001-8833-7967" pid="173/8035">Taniro Chacon Rodrigues</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<title>SAMSON: self-adaptive middleware for wireless sensor networks.</title>
+<pages>1315-1322</pages>
+<year>2016</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2851613.2851766</ee>
+<crossref>conf/sac/2016</crossref>
+<url>db/conf/sac/sac2016.html#PortocarreroDPR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ucami/GomesCBTCCDP16" mdate="2023-09-30">
+<author pid="151/3335">Porf&#237;rio Gomes</author>
+<author orcid="0000-0002-2475-5075" pid="77/10661">Everton Cavalcante</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Batista</author>
+<author pid="83/3190">Chantal Taconet</author>
+<author orcid="0000-0002-1591-6754" pid="99/1431">Sophie Chabridon</author>
+<author orcid="0000-0002-1252-7374" pid="92/612">Denis Conan</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<title>A QoC-Aware Discovery Service for the Internet of Things.</title>
+<pages>344-355</pages>
+<year>2016</year>
+<booktitle>UCAmI (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-48799-1_39</ee>
+<crossref>conf/ucami/2016-2</crossref>
+<url>db/conf/ucami/ucami2016-2.html#GomesCBTCCDP16</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/16/Farias0DPPZ16" mdate="2019-08-06">
+<author pid="125/8102">Claudio M. de Farias</author>
+<author pid="64/6025-58">Wei Li 0058</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="32/4359">Luci Pirmez</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<title>SERAPH: Service Allocation Algorithm for the Execution of Multiple Applications in Heterogeneous Shared Sensor and Actuator Networks.</title>
+<pages>93-113</pages>
+<year>2016</year>
+<crossref>books/sp/guerrieri2016</crossref>
+<booktitle>Management of Cyber Physical Objects in the Future Internet of Things</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-26869-9_5</ee>
+<url>db/books/collections/Guerrieri2016.html#Farias0DPPZ16</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/IEEEcit/ImanDFPSP15" mdate="2021-10-14">
+<author orcid="0000-0003-4930-653X" pid="174/1723">Mohammadreza Iman</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="125/8102">Claudio M. de Farias</author>
+<author pid="32/4359">Luci Pirmez</author>
+<author orcid="0000-0002-9473-3728" pid="76/9779">Igor Le&#227;o dos Santos</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<title>THESEUS: A Routing System for Shared Sensor Networks.</title>
+<pages>108-115</pages>
+<year>2015</year>
+<booktitle>CIT/IUCC/DASC/PICom</booktitle>
+<ee>https://doi.org/10.1109/CIT/IUCC/DASC/PICOM.2015.18</ee>
+<crossref>conf/IEEEcit/2015</crossref>
+<url>db/conf/IEEEcit/cit-iucc-dasc-picom2015.html#ImanDFPSP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecsa/PortocarreroDPN15" mdate="2018-11-06">
+<author pid="133/3555">Jes&#250;s M. T. Portocarrero</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0002-7754-4298" pid="67/5214">Elisa Yumi Nakagawa</author>
+<author pid="32/153">Fl&#225;vio Oquendo</author>
+<title>Self-Adaptive Middleware for Wireless Sensor Networks: A Reference Architecture.</title>
+<pages>12:1-12:8</pages>
+<year>2015</year>
+<booktitle>ECSA Workshops</booktitle>
+<ee>https://doi.org/10.1145/2797433.2797445</ee>
+<crossref>conf/ecsa/2015w</crossref>
+<url>db/conf/ecsa/ecsa2015w.html#PortocarreroDPN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecsa/CostaPDO15" mdate="2018-11-06">
+<author pid="24/5736-3">Bruno Costa 0003</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="32/153">Fl&#225;vio Oquendo</author>
+<title>Towards a View-Based Process for Designing and Documenting RESTful Service Architectures.</title>
+<pages>50:1-50:7</pages>
+<year>2015</year>
+<booktitle>ECSA Workshops</booktitle>
+<ee>https://doi.org/10.1145/2797433.2797485</ee>
+<crossref>conf/ecsa/2015w</crossref>
+<url>db/conf/ecsa/ecsa2015w.html#CostaPDO15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euc/RodriguesBDP15" mdate="2023-03-24">
+<author orcid="0000-0001-8833-7967" pid="173/8035">Taniro Chacon Rodrigues</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo de Figueiredo Pires</author>
+<title>Architecture-Driven Development Approach for WSAN Applications.</title>
+<pages>68-75</pages>
+<year>2015</year>
+<booktitle>EUC</booktitle>
+<ee>https://doi.org/10.1109/EUC.2015.15</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/EUC.2015.15</ee>
+<crossref>conf/euc/2015</crossref>
+<url>db/conf/euc/euc2015.html#RodriguesBDP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/GomesCRBDP15" mdate="2025-01-19">
+<author pid="151/3335">Porf&#237;rio Gomes</author>
+<author orcid="0000-0002-2475-5075" pid="77/10661">Everton Cavalcante</author>
+<author orcid="0000-0001-8833-7967" pid="173/8035">Taniro Rodrigues</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<title>A Federated Discovery Service for the Internet of Things.</title>
+<pages>25-30</pages>
+<year>2015</year>
+<booktitle>M4IoT@Middleware</booktitle>
+<ee>https://doi.org/10.1145/2836127.2836129</ee>
+<ee>https://www.wikidata.org/entity/Q130926146</ee>
+<crossref>conf/middleware/2015m4iot</crossref>
+<url>db/conf/middleware/m4iot2015.html#GomesCRBDP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/MaiaBCDBP15" mdate="2023-03-24">
+<author pid="151/3289">Pedro Maia</author>
+<author orcid="0000-0002-7039-4477" pid="63/8008">Augusto Baffa</author>
+<author orcid="0000-0002-2475-5075" pid="77/10661">Everton Cavalcante</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Batista</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<title>A Middleware Platform for Integrating Devices and Developing Applications in E-Health.</title>
+<pages>10-18</pages>
+<year>2015</year>
+<booktitle>SBRC</booktitle>
+<ee>https://doi.org/10.1109/SBRC.2015.13</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBRC.2015.13</ee>
+<crossref>conf/sbrc/2015</crossref>
+<url>db/conf/sbrc/sbrc2015.html#MaiaBCDBP15</url>
+</inproceedings>
+</r>
+<r><article key="journals/comcom/HuangZDP14" mdate="2020-02-20">
+<author pid="01/5437">Ge Huang</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<title>Long term and large scale time synchronization in wireless sensor networks.</title>
+<pages>77-91</pages>
+<year>2014</year>
+<volume>37</volume>
+<journal>Comput. Commun.</journal>
+<ee>https://doi.org/10.1016/j.comcom.2013.10.003</ee>
+<url>db/journals/comcom/comcom37.html#HuangZDP14</url>
+</article>
+</r>
+<r><article key="journals/concurrency/LiDPZ14" mdate="2020-03-02">
+<author pid="64/6025-58">Wei Li 0058</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<title>Energy-efficient task allocation with quality of service provisioning for concurrent applications in multi-functional wireless sensor network systems.</title>
+<pages>1869-1888</pages>
+<year>2014</year>
+<volume>26</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1002/cpe.3107</ee>
+<url>db/journals/concurrency/concurrency26.html#LiDPZ14</url>
+</article>
+</r>
+<r><article key="journals/jpdc/LiDPLZMP14" mdate="2020-02-22">
+<author pid="64/6025-58">Wei Li 0058</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0001-8560-6199" pid="52/6328">Young Choon Lee</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<author pid="94/10660">Claudio Miceli</author>
+<author pid="32/4359">Luci Pirmez</author>
+<title>Efficient allocation of resources in multiple heterogeneous Wireless Sensor Networks.</title>
+<pages>1775-1788</pages>
+<year>2014</year>
+<volume>74</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.jpdc.2013.09.012</ee>
+<url>db/journals/jpdc/jpdc74.html#LiDPLZMP14</url>
+</article>
+</r>
+<r><article key="journals/js/PortocarreroDPG14" mdate="2019-06-02">
+<author pid="133/3555">Jes&#250;s M. T. Portocarrero</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="88/1249">Nadia G&#225;mez</author>
+<author orcid="0000-0002-5677-7156" pid="59/1161">Lidia Fuentes</author>
+<author pid="171/1728">David Ludovino</author>
+<author orcid="0000-0003-0942-6289" pid="f/PauloJPFerreira">Paulo Ferreira 0001</author>
+<title>Autonomic Wireless Sensor Networks: A Systematic Literature Review.</title>
+<pages>782789:1-782789:13</pages>
+<year>2014</year>
+<volume>2014</volume>
+<journal>J. Sensors</journal>
+<ee type="oa">https://doi.org/10.1155/2014/782789</ee>
+<ee>https://www.wikidata.org/entity/Q59061967</ee>
+<url>db/journals/js/js2014.html#PortocarreroDPG14</url>
+</article>
+</r>
+<r><article key="journals/paapp/LopesDBCPPFM14" mdate="2023-02-12">
+<author orcid="0000-0002-1108-8875" pid="39/1923">Frederico Lopes</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author orcid="0000-0002-2475-5075" pid="77/10661">Everton Cavalcante</author>
+<author orcid="0000-0002-3353-053X" pid="156/1878">Thiago Pereira da Silva</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0003-0942-6289" pid="f/PauloJPFerreira">Paulo Ferreira 0001</author>
+<author pid="86/6919">Reginaldo Mendes</author>
+<title>OpenCOPI: middleware integration for Ubiquitous Computing.</title>
+<pages>178-212</pages>
+<year>2014</year>
+<volume>29</volume>
+<journal>Int. J. Parallel Emergent Distributed Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1080/17445760.2013.831415</ee>
+<url>db/journals/paapp/paapp29.html#LopesDBCPPFM14</url>
+</article>
+</r>
+<r><article key="journals/soca/HuergoPDCCB14" mdate="2021-07-25">
+<author pid="148/4291">Rosane S. Huergo</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="24/5736-3">Bruno Costa 0003</author>
+<author orcid="0000-0002-2475-5075" pid="77/10661">Everton Cavalcante</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Batista</author>
+<title>A systematic survey of service identification methods.</title>
+<pages>199-219</pages>
+<year>2014</year>
+<volume>8</volume>
+<journal>Serv. Oriented Comput. Appl.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11761-014-0161-y</ee>
+<url>db/journals/soca/soca8.html#HuergoPDCCB14</url>
+</article>
+</r>
+<r><inproceedings key="conf/cibse/MachadoSBLDP14" mdate="2024-10-14">
+<author pid="150/5455">Carlos Alberto Machado</author>
+<author pid="60/8143">Eduardo Silva 0001</author>
+<author pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="16/4360">Jair C. Leite</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<title>Uma Linguagem de Descri&#231;&#227;o Arquitetural para Sistemas Ub&#237;quos.</title>
+<pages>123-136</pages>
+<year>2014</year>
+<booktitle>CIbSE</booktitle>
+<crossref>conf/cibse/2014</crossref>
+<url>db/conf/cibse/cibse2014.html#MachadoSBLDP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecsa/MaiaCGBDP14" mdate="2021-07-25">
+<author pid="151/3289">Pedro Maia</author>
+<author orcid="0000-0002-2475-5075" pid="77/10661">Everton Cavalcante</author>
+<author pid="151/3335">Porf&#237;rio Gomes</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<title>On the Development of Systems-of-Systems based on the Internet of Things: A Systematic Mapping.</title>
+<pages>23:1-23:8</pages>
+<year>2014</year>
+<booktitle>ECSA Workshops</booktitle>
+<ee>https://doi.org/10.1145/2642803.2642828</ee>
+<crossref>conf/ecsa/2014w</crossref>
+<url>db/conf/ecsa/ecsa2014w.html#MaiaCGBDP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecsa/SilvaCBODP14" mdate="2024-10-14">
+<author pid="60/8143">Eduardo Silva 0001</author>
+<author orcid="0000-0002-2475-5075" pid="77/10661">Everton Cavalcante</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="32/153">Fl&#225;vio Oquendo</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<title>On the Characterization of Missions of Systems-of-Systems.</title>
+<pages>26:1-26:8</pages>
+<year>2014</year>
+<booktitle>ECSA Workshops</booktitle>
+<ee>https://doi.org/10.1145/2642803.2642829</ee>
+<crossref>conf/ecsa/2014w</crossref>
+<url>db/conf/ecsa/ecsa2014w.html#SilvaCBODP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euc/PiresCBDBC14" mdate="2023-03-24">
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0002-2475-5075" pid="77/10661">Everton Cavalcante</author>
+<author pid="133/1538">Thomaz Barros</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="24/5736-3">Bruno Costa 0003</author>
+<title>A Platform for Integrating Physical Devices in the Internet of Things.</title>
+<pages>234-241</pages>
+<year>2014</year>
+<booktitle>EUC</booktitle>
+<ee>https://doi.org/10.1109/EUC.2014.42</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/EUC.2014.42</ee>
+<crossref>conf/euc/2014</crossref>
+<url>db/conf/euc/euc2014.html#PiresCBDBC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icais/PortocarreroDPB14" mdate="2021-07-25">
+<author pid="133/3555">Jes&#250;s M. T. Portocarrero</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<title>Reference Architecture for Self-adaptive Management in Wireless Sensor Networks.</title>
+<pages>110-120</pages>
+<year>2014</year>
+<booktitle>ICAIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-11298-5_12</ee>
+<crossref>conf/icais/2014</crossref>
+<url>db/conf/icais/icais2014.html#PortocarreroDPB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mownet/MaiaBCBDPZ14" mdate="2021-07-25">
+<author pid="151/3289">Pedro Maia</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Batista</author>
+<author orcid="0000-0002-2475-5075" pid="77/10661">Everton Cavalcante</author>
+<author orcid="0000-0002-7039-4477" pid="63/8008">Augusto Baffa</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<title>A Web Platform for Interconnecting Body Sensors and Improving Health Care.</title>
+<pages>135-142</pages>
+<year>2014</year>
+<booktitle>MoWNet</booktitle>
+<ee>https://doi.org/10.1016/j.procs.2014.10.041</ee>
+<crossref>conf/mownet/2014</crossref>
+<url>db/conf/mownet/mownet2014.html#MaiaBCBDPZ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/HuergoPD14" mdate="2018-11-06">
+<author pid="148/4291">Rosane S. Huergo</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<title>A method to identify services using master data and artifact-centric modeling approach.</title>
+<pages>1225-1230</pages>
+<year>2014</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2554850.2554973</ee>
+<crossref>conf/sac/2014</crossref>
+<url>db/conf/sac/sac2014.html#HuergoPD14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wicsa/CostaPDM14" mdate="2023-03-24">
+<author pid="24/5736-3">Bruno Costa 0003</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="05/4541">Paulo Merson</author>
+<title>Evaluating a Representational State Transfer (REST) Architecture: What is the Impact of REST in My Architecture?</title>
+<pages>105-114</pages>
+<year>2014</year>
+<booktitle>WICSA</booktitle>
+<ee>https://doi.org/10.1109/WICSA.2014.29</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WICSA.2014.29</ee>
+<crossref>conf/wicsa/2014</crossref>
+<url>db/conf/wicsa/wicsa2014.html#CostaPDM14</url>
+</inproceedings>
+</r>
+<r><book key="series/sbcs/DelicatoPB13" mdate="2017-05-16">
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<title>Middleware Solutions for the Internet of Things.</title>
+<year>2013</year>
+<pages>i-x, 1-78</pages>
+<publisher>Springer</publisher>
+<series href="db/series/sbcs/index.html">Springer Briefs in Computer Science</series>
+<isbn>978-1-4471-5480-8</isbn>
+<isbn>978-1-4471-5481-5</isbn>
+<ee>https://doi.org/10.1007/978-1-4471-5481-5</ee>
+</book>
+</r>
+<r><article key="journals/jss/KuleszaSCCBLMSFACFPDPSCBLLMBBCSSSVACRPR13" mdate="2025-03-03">
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author orcid="0000-0002-4428-2535" pid="58/232">S&#233;rgio Soares</author>
+<author orcid="0000-0001-5172-9641" pid="c/ChristinavonFlachGChavez">Christina Chavez</author>
+<author orcid="0000-0002-6389-3630" pid="f/FCFilho">Fernando Castor</author>
+<author orcid="0000-0002-0381-2843" pid="b/PauloBorba">Paulo Borba</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<author pid="79/216">Paulo C&#233;sar Masiero</author>
+<author pid="64/4218">Cl&#225;udio Sant'Anna</author>
+<author orcid="0000-0002-7339-8529" pid="48/5007">Fabiano Cutigi Ferrari</author>
+<author orcid="0000-0003-1573-048X" pid="15/5448">Vander Alves</author>
+<author pid="61/561">Roberta Coelho</author>
+<author pid="03/335">Eduardo Figueiredo 0001</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0002-0092-4495" pid="93/1270">Eduardo Piveta</author>
+<author pid="06/4462">Carla T. L. L. Silva</author>
+<author pid="37/1266">Valter Vieira de Camargo</author>
+<author orcid="0000-0003-4259-0785" pid="07/4304">Rosana T. V. Braga</author>
+<author pid="l/JCSdoPradoLeite">Julio Leite</author>
+<author orcid="0000-0001-6481-5311" pid="80/3784">Ot&#225;vio Lemos</author>
+<author orcid="0000-0002-2972-9423" pid="79/4708">Nabor C. Mendon&#231;a</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author orcid="0000-0002-2380-2829" pid="21/824">Rodrigo Bonif&#225;cio</author>
+<author orcid="0000-0002-4706-5616" pid="39/2172">N&#233;lio Cacho</author>
+<author orcid="0000-0003-1772-6062" pid="f/LyreneFernandesdS">Lyrene Fernandes da Silva</author>
+<author pid="58/3312">Arndt von Staa</author>
+<author pid="11/8143">F&#225;bio Fagundes Silveira</author>
+<author orcid="0000-0002-8180-7548" pid="o/MarcoTuliodeOliveiraValente">Marco T&#250;lio Valente</author>
+<author orcid="0000-0002-7988-7008" pid="31/5316">Fernanda M. R. Alencar</author>
+<author orcid="0000-0002-4635-7297" pid="c/JBdCastro">Jaelson Castro</author>
+<author orcid="0000-0002-9688-719X" pid="17/200">Ricardo Argenton Ramos</author>
+<author pid="p/RosangelaPenteado">Ros&#226;ngela A. D. Penteado</author>
+<author orcid="0000-0003-4549-7105" pid="80/5752">Cec&#237;lia M. F. Rubira</author>
+<title>The crosscutting impact of the AOSD Brazilian research community.</title>
+<pages>905-933</pages>
+<year>2013</year>
+<volume>86</volume>
+<journal>J. Syst. Softw.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.jss.2012.08.031</ee>
+<ee>https://www.wikidata.org/entity/Q57495904</ee>
+<url>db/journals/jss/jss86.html#KuleszaSCCBLMSFACFPDPSCBLLMBBCSSSVACRPR13</url>
+</article>
+</r>
+<r><article key="journals/sigmobile/DelicatoPSPAB13" mdate="2020-05-17">
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="133/3555">Jes&#250;s M. T. Portocarrero</author>
+<author pid="133/3579">Jos&#233; R. Silva</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="52/8384">Rodrigo P. M. de Ara&#250;jo</author>
+<author pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<title>MARINE: MiddlewAre for resource and mIssion-oriented sensor NEtworks.</title>
+<pages>40-54</pages>
+<year>2013</year>
+<volume>17</volume>
+<journal>ACM SIGMOBILE Mob. Comput. Commun. Rev.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2502935.2502944</ee>
+<url>db/journals/sigmobile/sigmobile17.html#DelicatoPSPAB13</url>
+</article>
+</r>
+<r><inproceedings key="conf/dais/CavalcanteBLAMRADP13" mdate="2024-01-08">
+<author orcid="0000-0002-2475-5075" pid="77/10661">Everton Cavalcante</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author orcid="0000-0002-1108-8875" pid="39/1923">Frederico Lopes</author>
+<author pid="00/7175-2">Andr&#233; Almeida 0002</author>
+<author pid="82/6280">Ana L&#250;cia de Moura</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author pid="35/2785">Gustavo Alves</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<title>Autonomous Adaptation of Cloud Applications.</title>
+<pages>175-180</pages>
+<year>2013</year>
+<booktitle>DAIS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-38541-4_14</ee>
+<crossref>conf/dais/2013</crossref>
+<url>db/conf/dais/dais2013.html#CavalcanteBLAMRADP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecoop/DelicatoPBCCB13" mdate="2021-07-25">
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="77/10661">Everton Cavalcante</author>
+<author pid="24/5736-3">Bruno Costa 0003</author>
+<author pid="133/1538">Thomaz Barros</author>
+<title>Towards an IoT ecosystem.</title>
+<pages>25-28</pages>
+<year>2013</year>
+<booktitle>SESoS</booktitle>
+<ee>https://doi.org/10.1145/2489850.2489855</ee>
+<crossref>conf/ecoop/2013sesos</crossref>
+<url>db/conf/ecoop/sesos2013.html#DelicatoPBCCB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/AlmeidaCBCLDP13" mdate="2024-01-08">
+<author pid="00/7175-2">Andr&#233; Almeida 0002</author>
+<author pid="77/10661">Everton Cavalcante</author>
+<author pid="b/TVBatista">Tha&#237;s Batista</author>
+<author pid="39/2172">N&#233;lio Cacho</author>
+<author pid="39/1923">Frederico Lopes</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<title>Dynamic Adaptation of Cloud Computing Applications.</title>
+<pages>67-72</pages>
+<year>2013</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2013</crossref>
+<url>db/conf/seke/seke2013.html#AlmeidaCBCLDP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/SilvaBLDP13" mdate="2020-08-17">
+<author pid="156/1878">Thiago Pereira da Silva</author>
+<author pid="b/TVBatista">Tha&#237;s Batista</author>
+<author pid="39/1923">Frederico Lopes</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<title>Automatic Generation of Semantic Web Services.</title>
+<pages>662-667</pages>
+<year>2013</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2013</crossref>
+<url>db/conf/seke/seke2013.html#SilvaBLDP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sesena/DantasRBDPLZ13" mdate="2023-03-23">
+<author pid="15/10661">Priscilla Dantas</author>
+<author orcid="0000-0001-8833-7967" pid="173/8035">Taniro Rodrigues</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="64/6025-58">Wei Li 0058</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<title>LWiSSy: A domain specific language to model wireless sensor and actuators network systems.</title>
+<pages>7-12</pages>
+<year>2013</year>
+<booktitle>SESENA</booktitle>
+<ee>https://doi.org/10.1109/SESENA.2013.6612258</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SESENA.2013.6612258</ee>
+<crossref>conf/sesena/2013</crossref>
+<url>db/conf/sesena/sesena2013.html#DantasRBDPLZ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sesena/RodriguesBDPZ13" mdate="2023-03-23">
+<author orcid="0000-0001-8833-7967" pid="173/8035">Taniro Rodrigues</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<title>Model-driven approach for building efficient Wireless Sensor and Actuator Network applications.</title>
+<pages>43-48</pages>
+<year>2013</year>
+<booktitle>SESENA</booktitle>
+<ee>https://doi.org/10.1109/SESENA.2013.6612265</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SESENA.2013.6612265</ee>
+<crossref>conf/sesena/2013</crossref>
+<url>db/conf/sesena/sesena2013.html#RodriguesBDPZ13</url>
+</inproceedings>
+</r>
+<r><article key="journals/jpdc/HuangZDP12" mdate="2020-02-22">
+<author pid="01/5437">Ge Huang</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<title>An accurate on-demand time synchronization protocol for wireless sensor networks.</title>
+<pages>1332-1346</pages>
+<year>2012</year>
+<volume>72</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/j.jpdc.2012.06.003</ee>
+<url>db/journals/jpdc/jpdc72.html#HuangZDP12</url>
+</article>
+</r>
+<r><inproceedings key="conf/latincloud/CavalcanteBLDPR12" mdate="2021-07-25">
+<author orcid="0000-0002-2475-5075" pid="77/10661">Everton Cavalcante</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Batista</author>
+<author orcid="0000-0002-1108-8875" pid="39/1923">Frederico Lopes</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author pid="82/6280">Ana L&#250;cia de Moura</author>
+<author pid="86/6919">Reginaldo Mendes</author>
+<title>Optimizing services selection in a cloud multiplatform scenario.</title>
+<pages>31-36</pages>
+<year>2012</year>
+<booktitle>LatinCloud</booktitle>
+<ee>https://doi.org/10.1109/LatinCloud.2012.6508154</ee>
+<crossref>conf/latincloud/2012</crossref>
+<url>db/conf/latincloud/latincloud2012.html#CavalcanteBLDPR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/AlmeidaCBLDPAC12" mdate="2024-01-08">
+<author orcid="0000-0002-9716-9915" pid="00/7175-2">Andr&#233; Almeida 0002</author>
+<author orcid="0000-0002-2475-5075" pid="77/10661">Everton Cavalcante</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author orcid="0000-0002-1108-8875" pid="39/1923">Frederico Lopes</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="35/2785">Gustavo Alves</author>
+<author pid="39/2172">N&#233;lio Cacho</author>
+<title>Towards an SPL-based monitoring middleware strategy for cloud computing applications.</title>
+<pages>9</pages>
+<year>2012</year>
+<booktitle>MGC@Middleware</booktitle>
+<ee>https://doi.org/10.1145/2405136.2405145</ee>
+<crossref>conf/middleware/2012mgc</crossref>
+<url>db/conf/middleware/mgc2012.html#AlmeidaCBLDPAC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mswim/LiDPZ12" mdate="2018-11-06">
+<author pid="64/6025-58">Wei Li 0058</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<title>Energy-efficient three-phase task scheduling heuristic for supporting distributed applications in cyber-physical systems.</title>
+<pages>229-238</pages>
+<year>2012</year>
+<booktitle>MSWiM</booktitle>
+<ee>https://doi.org/10.1145/2387238.2387278</ee>
+<crossref>conf/mswim/2012</crossref>
+<url>db/conf/mswim/mswim2012.html#LiDPZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/splc/CavalcanteABCLDSP12" mdate="2024-01-08">
+<author orcid="0000-0002-2475-5075" pid="77/10661">Everton Cavalcante</author>
+<author orcid="0000-0002-9716-9915" pid="00/7175-2">Andr&#233; Almeida 0002</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author orcid="0000-0002-4706-5616" pid="39/2172">N&#233;lio Cacho</author>
+<author orcid="0000-0002-1108-8875" pid="39/1923">Frederico Lopes</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="118/3931">Thiago S. Sena</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<title>Exploiting software product lines to develop cloud computing applications.</title>
+<pages>179-187</pages>
+<year>2012</year>
+<booktitle>SPLC (2)</booktitle>
+<ee>https://doi.org/10.1145/2364412.2364442</ee>
+<crossref>conf/splc/2012-2</crossref>
+<url>db/conf/splc/splc2012-2.html#CavalcanteABCLDSP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/LopesBCPDPF12" mdate="2021-07-25">
+<author orcid="0000-0002-1108-8875" pid="39/1923">Frederico Araujo da Silva Lopes</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author orcid="0000-0002-2475-5075" pid="77/10661">Everton Ranielly de Sousa Cavalcante</author>
+<author pid="156/1878">Thiago Pereira da Silva</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo de Figueiredo Pires</author>
+<author orcid="0000-0003-0942-6289" pid="f/PauloJPFerreira">Paulo Ferreira 0001</author>
+<title>Dynamic and semantic web services composition for ubiquitous computing.</title>
+<pages>151-160</pages>
+<year>2012</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/2382636.2382671</ee>
+<crossref>conf/webmedia/2012</crossref>
+<url>db/conf/webmedia/webmedia2012.html#LopesBCPDPF12</url>
+</inproceedings>
+</r>
+<r><article key="journals/jucs/PiresOB11" mdate="2021-02-17">
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="32/153">Fl&#225;vio Oquendo</author>
+<author pid="55/3179">Ana Paula Terra Bacelo</author>
+<title>Software Components, Architectures and Reuse.</title>
+<pages>635-638</pages>
+<year>2011</year>
+<volume>17</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>5</number>
+<ee type="oa">http://www.jucs.org/jucs_17_5/software_components_architectures_and</ee>
+<url>db/journals/jucs/jucs17.html#PiresOB11</url>
+</article>
+</r>
+<r><article key="journals/re/PiresDCBDS11" mdate="2021-07-25">
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="83/9634">Raphael C&#243;be</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="55/5533">Joseph G. Davis</author>
+<author pid="63/9631">Joo Hee Song</author>
+<title>Integrating ontologies, model driven, and CNL in a multi-viewed approach for requirements engineering.</title>
+<pages>133-160</pages>
+<year>2011</year>
+<volume>16</volume>
+<journal>Requir. Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00766-011-0116-1</ee>
+<url>db/journals/re/re16.html#PiresDCBDS11</url>
+</article>
+</r>
+<r><inproceedings key="conf/aiccsa/TaheriZDP11" mdate="2023-03-24">
+<author pid="60/739">Javid Taheri</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<title>Fuzz-SSVS: A Fuzzy logic based voting scheme to improve protein secondary structure prediction.</title>
+<pages>60-66</pages>
+<year>2011</year>
+<booktitle>AICCSA</booktitle>
+<ee>https://doi.org/10.1109/AICCSA.2011.6126592</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AICCSA.2011.6126592</ee>
+<crossref>conf/aiccsa/2011</crossref>
+<url>db/conf/aiccsa/aiccsa2011.html#TaheriZDP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aiccsa/MendesPDBTZ11" mdate="2023-03-24">
+<author pid="86/6919">Reginaldo Mendes</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="60/739">Javid Taheri</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<title>Using semantic Web to build and execute ad-hoc processes.</title>
+<pages>233-240</pages>
+<year>2011</year>
+<booktitle>AICCSA</booktitle>
+<ee>https://doi.org/10.1109/AICCSA.2011.6126597</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AICCSA.2011.6126597</ee>
+<crossref>conf/aiccsa/2011</crossref>
+<url>db/conf/aiccsa/aiccsa2011.html#MendesPDBTZ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cbse/PiresDPFM11" mdate="2018-11-06">
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0002-5376-742X" pid="95/101">M&#243;nica Pinto</author>
+<author orcid="0000-0002-5677-7156" pid="59/1161">Lidia Fuentes</author>
+<author pid="22/7475">&#201;berton Marinho</author>
+<title>Software evolution in AOSD: a MDA-based approach.</title>
+<pages>193-198</pages>
+<year>2011</year>
+<booktitle>CBSE</booktitle>
+<ee>https://doi.org/10.1145/2000229.2000257</ee>
+<crossref>conf/cbse/2011</crossref>
+<url>db/conf/cbse/cbse2011.html#PiresDPFM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euc/RodriguesDDPPBMZ11" mdate="2023-03-24">
+<author orcid="0000-0001-8833-7967" pid="173/8035">Taniro Rodrigues</author>
+<author pid="15/10661">Priscilla Dantas</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="32/4359">Luci Pirmez</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="94/10660">Claudio Miceli</author>
+<author orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<title>Model-Driven Development of Wireless Sensor Network Applications.</title>
+<pages>11-18</pages>
+<year>2011</year>
+<booktitle>EUC</booktitle>
+<ee>https://doi.org/10.1109/EUC.2011.50</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/EUC.2011.50</ee>
+<crossref>conf/euc/2011</crossref>
+<url>db/conf/euc/euc2011.html#RodriguesDDPPBMZ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euc/LopesPCBDPF11" mdate="2023-03-24">
+<author orcid="0000-0002-1108-8875" pid="39/1923">Frederico Lopes</author>
+<author orcid="0000-0002-3353-053X" pid="156/1878">Thiago Pereira da Silva</author>
+<author orcid="0000-0002-2475-5075" pid="77/10661">Everton Cavalcante</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0003-0942-6289" pid="f/PauloJPFerreira">Paulo Ferreira 0001</author>
+<title>AdaptUbiFlow: Selection and Adaptation in Workflows for Ubiquitous Computing.</title>
+<pages>63-71</pages>
+<year>2011</year>
+<booktitle>EUC</booktitle>
+<ee>https://doi.org/10.1109/EUC.2011.12</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/EUC.2011.12</ee>
+<crossref>conf/euc/2011</crossref>
+<url>db/conf/euc/euc2011.html#LopesPCBDPF11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ncca/CavalcanteLBCDP11" mdate="2023-03-24">
+<author orcid="0000-0002-2475-5075" pid="77/10661">Everton Cavalcante</author>
+<author orcid="0000-0002-1108-8875" pid="39/1923">Frederico Lopes</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author orcid="0000-0002-4706-5616" pid="39/2172">N&#233;lio Cacho</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<title>Cloud Integrator: Building Value-Added Services on the Cloud.</title>
+<pages>135-142</pages>
+<year>2011</year>
+<crossref>conf/ncca/2011</crossref>
+<booktitle>NCCA</booktitle>
+<ee>https://doi.org/10.1109/NCCA.2011.29</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/NCCA.2011.29</ee>
+<url>db/conf/ncca/ncca2011.html#CavalcanteLBCDP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/ChavezKSBLMSPFCCSAMFCSPBCSLSLPDBVRBAC11" mdate="2025-03-03">
+<author orcid="0000-0001-5172-9641" pid="c/ChristinavonFlachGChavez">Christina Chavez</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author orcid="0000-0002-4428-2535" pid="58/232">S&#233;rgio Soares</author>
+<author orcid="0000-0002-0381-2843" pid="b/PauloBorba">Paulo Borba</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<author pid="79/216">Paulo C&#233;sar Masiero</author>
+<author pid="64/4218">Cl&#225;udio Sant'Anna</author>
+<author orcid="0000-0002-0092-4495" pid="93/1270">Eduardo Piveta</author>
+<author pid="48/5007">Fabiano Cutigi Ferrari</author>
+<author orcid="0000-0002-6389-3630" pid="f/FCFilho">Fernando Castor</author>
+<author pid="61/561">Roberta Coelho</author>
+<author orcid="0000-0003-1772-6062" pid="f/LyreneFernandesdS">Lyrene Fernandes da Silva</author>
+<author orcid="0000-0003-1573-048X" pid="15/5448">Vander Alves</author>
+<author orcid="0000-0002-2972-9423" pid="79/4708">Nabor C. Mendon&#231;a</author>
+<author pid="03/335">Eduardo Figueiredo 0001</author>
+<author pid="37/1266">Valter Vieira de Camargo</author>
+<author pid="06/4462">Carla T. L. L. Silva</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author orcid="0000-0002-4706-5616" pid="39/2172">N&#233;lio Cacho</author>
+<author pid="58/3312">Arndt von Staa</author>
+<author orcid="0000-0002-0355-0265" pid="l/JCSdoPradoLeite">Julio C&#233;sar Sampaio do Prado Leite</author>
+<author pid="11/8143">F&#225;bio Fagundes Silveira</author>
+<author orcid="0000-0001-6481-5311" pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="p/RosangelaPenteado">Ros&#226;ngela A. D. Penteado</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0003-4259-0785" pid="07/4304">Rosana T. V. Braga</author>
+<author orcid="0000-0002-8180-7548" pid="o/MarcoTuliodeOliveiraValente">Marco T&#250;lio Valente</author>
+<author orcid="0000-0002-9688-719X" pid="17/200">Ricardo Argenton Ramos</author>
+<author orcid="0000-0002-2380-2829" pid="21/824">Rodrigo Bonif&#225;cio</author>
+<author orcid="0000-0002-7988-7008" pid="31/5316">Fernanda M. R. Alencar</author>
+<author orcid="0000-0002-4635-7297" pid="c/JBdCastro">Jaelson Castro</author>
+<title>The AOSD Research Community in Brazil and Its Crosscutting Impact.</title>
+<pages>72-81</pages>
+<year>2011</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1109/SBES.2011.10</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBES.2011.10</ee>
+<ee>https://www.wikidata.org/entity/Q57495937</ee>
+<crossref>conf/sbes/2011</crossref>
+<url>db/conf/sbes/sbes2011.html#ChavezKSBLMSPFCCSAMFCSPBCSLSLPDBVRBAC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/BatistaMSKFMGBRBSMFDP11" mdate="2024-02-05">
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author orcid="0000-0002-2972-9423" pid="79/4708">Nabor C. Mendon&#231;a</author>
+<author orcid="0000-0003-0267-268X" pid="61/5350">Am&#233;rico Sampaio</author>
+<author orcid="0000-0002-3087-9234" pid="74/2714">Carlos Alberto Kamienski</author>
+<author orcid="0000-0003-2046-602X" pid="f/NelsonLSdaFonseca">Nelson L. S. da Fonseca</author>
+<author orcid="0000-0002-1180-2637" pid="m/EdmundoRobertoMauroMadeira">Edmundo R. M. Madeira</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author orcid="0000-0001-9578-3623" pid="b/KarinKooganBreitman">Karin K. Breitman</author>
+<author pid="s/DjamelSadok">Djamel Sadok</author>
+<author pid="m/SRdeLemosMeira">Silvio Meira 0001</author>
+<author pid="09/6789">Stenio F. L. Fernandes</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<title>AltoStratus: A Collaboration Network Focused on the New Research Challenges and Opportunities in Cloud Computing.</title>
+<pages>138-143</pages>
+<year>2011</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1109/SBES.2011.32</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBES.2011.32</ee>
+<crossref>conf/sbes/2011</crossref>
+<url>db/conf/sbes/sbes2011.html#BatistaMSKFMGBRBSMFDP11</url>
+</inproceedings>
+</r>
+<r><article key="journals/cn/PirmezCDPCPP10" mdate="2025-03-03">
+<author pid="32/4359">Luci Pirmez</author>
+<author pid="44/467">Jaime Cesar de Carvalho Jr.</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-9924-0079" pid="61/2851">F&#225;bio Protti</author>
+<author pid="50/943">Luiz Fernando Rust C. Carmo</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="88/5568">Marcos Pirmez</author>
+<title>SUTIL - Network selection based on utility function and integer linear programming.</title>
+<pages>2117-2136</pages>
+<year>2010</year>
+<volume>54</volume>
+<journal>Comput. Networks</journal>
+<number>13</number>
+<ee>https://doi.org/10.1016/j.comnet.2010.03.007</ee>
+<url>db/journals/cn/cn54.html#PirmezCDPCPP10</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecbs/DelicatoPPB10" mdate="2023-03-23">
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="32/4359">Luci Pirmez</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<title>Wireless Sensor Networks as a Service.</title>
+<pages>410-417</pages>
+<year>2010</year>
+<booktitle>ECBS</booktitle>
+<ee>https://doi.org/10.1109/ECBS.2010.54</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ECBS.2010.54</ee>
+<crossref>conf/ecbs/2010</crossref>
+<url>db/conf/ecbs/ecbs2010.html#DelicatoPPB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecsa/SaraivaPBDPKAFMS10" mdate="2021-07-25">
+<author pid="60/8383">Diego Saraiva</author>
+<author pid="74/4999">Lucas Pereira</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="52/8384">Rodrigo P. M. de Ara&#250;jo</author>
+<author pid="99/8383">T&#225;ssia Freitas</author>
+<author pid="78/1400">Sindolfo Miranda Filho</author>
+<author pid="53/8383">Ana Liz S. Souto</author>
+<title>Architecting a Model-Driven Aspect-Oriented Product Line for a Digital TV Middleware: A Refactoring Experience.</title>
+<pages>166-181</pages>
+<year>2010</year>
+<booktitle>ECSA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15114-9_14</ee>
+<crossref>conf/ecsa/2010</crossref>
+<url>db/conf/ecsa/ecsa2010.html#SaraivaPBDPKAFMS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobimedia/PiresTC10" mdate="2017-12-20">
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="120/6134">Luis Teixeira</author>
+<author orcid="0000-0002-6200-8492" pid="78/7512">Lu&#237;s Miguel Campos</author>
+<title>Seamless Handover: The Hurricane Media Independent Handover (MIH) Complete Reference Implementation.</title>
+<pages>331-346</pages>
+<year>2010</year>
+<booktitle>MobiMedia</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-35155-6_27</ee>
+<crossref>conf/mobimedia/2010</crossref>
+<url>db/conf/mobimedia/mobimedia2010.html#PiresTC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobiquitous/RodriguesDDPMPHZ10" mdate="2017-05-21">
+<author pid="173/8035">Taniro Rodrigues</author>
+<author pid="15/10661">Priscilla Dantas</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="94/10660">Claudio Miceli</author>
+<author pid="32/4359">Luci Pirmez</author>
+<author pid="01/5437">Ge Huang</author>
+<author pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<title>A Model-Based Approach for Building Ubiquitous Applications Based on Wireless Sensor Network.</title>
+<pages>350-352</pages>
+<year>2010</year>
+<booktitle>MobiQuitous</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-29154-8_38</ee>
+<ee>http://eudl.eu/doi/10.1007/978-3-642-29154-8_38</ee>
+<crossref>conf/mobiquitous/2010</crossref>
+<url>db/conf/mobiquitous/mobiquitous2010.html#RodriguesDDPMPHZ10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobiquitous/HuangDPZ10" mdate="2017-05-21">
+<author pid="01/5437">Ge Huang</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="z/AlbertYZomaya">Albert Y. Zomaya</author>
+<title>Probabilistic Distance Estimation in Wireless Sensor Networks.</title>
+<pages>353-357</pages>
+<year>2010</year>
+<booktitle>MobiQuitous</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-29154-8_39</ee>
+<ee>http://eudl.eu/doi/10.1007/978-3-642-29154-8_39</ee>
+<crossref>conf/mobiquitous/2010</crossref>
+<url>db/conf/mobiquitous/mobiquitous2010.html#HuangDPZ10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcars/RodriguesDDPMP10" mdate="2023-03-23">
+<author orcid="0000-0001-8833-7967" pid="173/8035">Taniro Rodrigues</author>
+<author pid="15/10661">Priscilla Dantas</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="94/10660">Claudio Miceli</author>
+<author pid="32/4359">Luci Pirmez</author>
+<title>Using MDA for Building Wireless Sensor Network Applications.</title>
+<pages>110-119</pages>
+<year>2010</year>
+<booktitle>SBCARS</booktitle>
+<ee>https://doi.org/10.1109/SBCARS.2010.21</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBCARS.2010.21</ee>
+<crossref>conf/sbcars/2010</crossref>
+<url>db/conf/sbcars/sbcars2010.html#RodriguesDDPMP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adhoc-now/DelicatoFGP09" mdate="2017-05-29">
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0002-5677-7156" pid="59/1161">Lidia Fuentes</author>
+<author pid="88/1249">Nadia G&#225;mez</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<title>A Middleware Family for VANETs.</title>
+<pages>379-384</pages>
+<year>2009</year>
+<booktitle>ADHOC-NOW</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04383-3_31</ee>
+<crossref>conf/adhoc-now/2009</crossref>
+<url>db/conf/adhoc-now/adhoc-now2009.html#DelicatoFGP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/comsware/LopesDBP09" mdate="2022-04-09">
+<author orcid="0000-0002-1108-8875" pid="39/1923">Frederico Lopes</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Batista</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<title>Context-based heterogeneous middleware integration.</title>
+<pages>13-18</pages>
+<year>2009</year>
+<booktitle>WMUPS@COMSWARE</booktitle>
+<ee>https://doi.org/10.1145/1551693.1551696</ee>
+<crossref>conf/comsware/2009wmups</crossref>
+<url>db/conf/comsware/wmups2009.html#LopesDBP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/PintoFVPD09" mdate="2022-01-03">
+<author orcid="0000-0002-5376-742X" pid="95/101">M&#243;nica Pinto</author>
+<author orcid="0000-0002-5677-7156" pid="59/1161">Lidia Fuentes</author>
+<author pid="65/3195">Juan A. Valenzuela</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<title>Promoting the software evolution in AOSD with early aspects: Architecture-oriented model-based pointcuts.</title>
+<pages>31-37</pages>
+<year>2009</year>
+<booktitle>EA@ICSE</booktitle>
+<ee>https://doi.org/10.1109/EA.2009.5071581</ee>
+<crossref>conf/icse/2009ea</crossref>
+<url>db/conf/icse/ea2009.html#PintoFVPD09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwann/DelicatoFGP09" mdate="2017-06-04">
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0002-5677-7156" pid="59/1161">Lidia Fuentes</author>
+<author pid="88/1249">Nadia G&#225;mez</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<title>Variabilities of Wireless and Actuators Sensor Network Middleware for Ambient Assisted Living.</title>
+<pages>851-858</pages>
+<year>2009</year>
+<booktitle>IWANN (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02481-8_129</ee>
+<crossref>conf/iwann/2009-2</crossref>
+<url>db/conf/iwann/iwann2009-2.html#DelicatoFGP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/DelicatoSPOBP09" mdate="2021-07-25">
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="28/546">Isanio L. Araujo Santos</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="93/530">Ana Liz S. Oliveira</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="32/4359">Luci Pirmez</author>
+<title>Using aspects and dynamic composition to provide context-aware adaptation for mobile applications.</title>
+<pages>456-460</pages>
+<year>2009</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1529282.1529381</ee>
+<crossref>conf/sac/2009</crossref>
+<url>db/conf/sac/sac2009.html#DelicatoSPOBP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/MendesPDB09" mdate="2021-07-25">
+<author pid="86/6919">Reginaldo Mendes</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<title>WebFlowAH: an environment for ad-hoc specification and execution of web services-based processes.</title>
+<pages>692-693</pages>
+<year>2009</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1529282.1529426</ee>
+<crossref>conf/sac/2009</crossref>
+<url>db/conf/sac/sac2009.html#MendesPDB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcars/FernandesDPKB09" mdate="2024-11-27">
+<author pid="126/6835">Victor H. Fernandes</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<title>CrossMDA2: Uma Abordagem Baseada em Modelos para Ger&#234;ncia de Evolu&#231;&#227;o de Pointcuts Uma estrat&#233;gia baseada em Metamodelo para Gere&#231;&#227;o de C&#243;digo Orientado a Objetos.</title>
+<pages>195-208</pages>
+<year>2009</year>
+<booktitle>SBCARS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbcars.2009.24111</ee>
+<crossref>conf/sbcars/2009</crossref>
+<url>db/conf/sbcars/sbcars2009.html#FernandesDPKB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/FreitasBDP09" mdate="2023-03-24">
+<author pid="99/8383">T&#225;ssia Freitas</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Batista</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<title>Metrics for Evaluation of Aspect-Oriented Middleware.</title>
+<pages>73-82</pages>
+<year>2009</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1109/SBES.2009.13</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBES.2009.13</ee>
+<crossref>conf/sbes/2009</crossref>
+<url>db/conf/sbes/sbes2009.html#FreitasBDP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/LopesDBP09" mdate="2021-07-25">
+<author orcid="0000-0002-1108-8875" pid="39/1923">Frederico Lopes</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<title>A platform based on web services for context middleware integration.</title>
+<pages>13</pages>
+<year>2009</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/1858477.1858490</ee>
+<crossref>conf/webmedia/2009</crossref>
+<url>db/conf/webmedia/webmedia2009.html#LopesDBP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wicsa/PintoFVPDM09" mdate="2023-03-24">
+<author orcid="0000-0002-5376-742X" pid="95/101">M&#243;nica Pinto</author>
+<author orcid="0000-0002-5677-7156" pid="59/1161">Lidia Fuentes</author>
+<author pid="65/3195">Juan A. Valenzuela</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="22/7475">&#201;berton Marinho</author>
+<title>On the need of architectural patterns in AOSD for software evolution.</title>
+<pages>245-248</pages>
+<year>2009</year>
+<booktitle>WICSA/ECSA</booktitle>
+<ee>https://doi.org/10.1109/WICSA.2009.5290811</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WICSA.2009.5290811</ee>
+<crossref>conf/wicsa/2009</crossref>
+<url>db/conf/wicsa/wicsa2009.html#PintoFVPDM09</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/comsware/2009wmups" mdate="2022-04-26">
+<editor pid="88/4289">Fl&#225;via Coimbra Delicato</editor>
+<editor pid="69/1904">Paulo F. Pires</editor>
+<title>Proceedings of the 2009 Workshop on Middleware for Ubiquitous and Pervasive Systems, WMUPS '09, Dublin, Ireland, June 16, 2009</title>
+<booktitle>WMUPS@COMSWARE</booktitle>
+<publisher>ACM</publisher>
+<year>2009</year>
+<isbn>978-1-60558-532-1</isbn>
+<ee>https://doi.org/10.1145/1551693</ee>
+<url>db/conf/comsware/wmups2009.html</url>
+</proceedings>
+</r>
+<r><article key="journals/jucs/AlvesPDC08" mdate="2025-03-03">
+<author orcid="0000-0002-6791-1760" pid="96/3992">Marcelo Pitanga Alves</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="78/4279">Maria Luiza Machado Campos</author>
+<title>CrossMDA: a Model-driven Approach for Aspect Management.</title>
+<pages>1314-1343</pages>
+<year>2008</year>
+<volume>14</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>8</number>
+<url>db/journals/jucs/jucs14.html#AlvesPDC08</url>
+<ee type="oa">https://doi.org/10.3217/jucs-014-08-1314</ee>
+</article>
+</r>
+<r><inproceedings key="conf/sbcars/MarinhoBDP08" mdate="2024-11-27">
+<author pid="22/7475">&#201;berton Marinho</author>
+<author pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<title>Uma Estrat&#233;gia para Integra&#231;&#227;o de Restri&#231;&#245;es Arquiteturais em Design Rules.</title>
+<pages>38-41</pages>
+<year>2008</year>
+<booktitle>SBCARS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbcars.2008.46257</ee>
+<crossref>conf/sbcars/2008</crossref>
+<url>db/conf/sbcars/sbcars2008.html#MarinhoBDP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/SantosDPBOP08" mdate="2024-01-08">
+<author pid="28/546">Isanio L. Araujo Santos</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="b/TVBatista">Tha&#237;s Batista</author>
+<author pid="93/530">Ana Liz Souto Oliveira</author>
+<author pid="32/4359">Luci Pirmez</author>
+<title>Usando Aspectos e Composi&#231;&#227;o Din&#226;mica para prover Adapta&#231;&#227;o Ciente ao Contexto em Sistemas Ub&#237;quos.</title>
+<pages>188-203</pages>
+<year>2008</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2008.21332</ee>
+<crossref>conf/sbes/2008</crossref>
+<url>db/conf/sbes/sbes2008.html#SantosDPBOP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/PiresDFE08" mdate="2024-01-08">
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="326/7202">Milene Fiorio</author>
+<author pid="326/7134">Carlo O. Emmanoel</author>
+<title>ArchiMDAs: Um Arcabou&#231;o de Seguran&#231;a Baseado em Transforma&#231;&#245;es MDA.</title>
+<pages>314-329</pages>
+<year>2008</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2008.21340</ee>
+<crossref>conf/sbes/2008</crossref>
+<url>db/conf/sbes/sbes2008.html#PiresDFE08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wimob/PirmezJDCPP08" mdate="2023-03-24">
+<author pid="32/4359">Luci Pirmez</author>
+<author pid="44/467">Jaime Cesar de Carvalho Jr.</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="50/943">Luiz Fernando Rust C. Carmo</author>
+<author pid="88/5568">Marcos Pirmez</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<title>User's Profile-Driven Resource Reservation for WiMAX Networks.</title>
+<pages>304-309</pages>
+<year>2008</year>
+<booktitle>WiMob</booktitle>
+<ee>https://doi.org/10.1109/WiMob.2008.109</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WiMob.2008.109</ee>
+<crossref>conf/wimob/2008</crossref>
+<url>db/conf/wimob/wimob2008.html#PirmezJDCPP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fuzzIEEE/PirmezDPMR07" mdate="2017-06-02">
+<author pid="32/4359">Luci Pirmez</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="21/1891">Ana L. Mostardinha</author>
+<author pid="74/3545">Nelson S. de Rezende</author>
+<title>Applying Fuzzy Logic for Decision-making on Wireless Sensor Networks.</title>
+<pages>1-6</pages>
+<year>2007</year>
+<booktitle>FUZZ-IEEE</booktitle>
+<ee>https://doi.org/10.1109/FUZZY.2007.4295421</ee>
+<crossref>conf/fuzzIEEE/2007</crossref>
+<url>db/conf/fuzzIEEE/fuzzIEEE2007.html#PirmezDPMR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcars/AlvesPDC07" mdate="2024-11-27">
+<author pid="96/3992">Marcelo Pitanga Alves</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="78/4279">Maria Luiza Machado Campos</author>
+<title>CrossMDA: Arcabou&#231;o para integra&#231;&#227;o de interesses transversais no desenvolvimento orientado a modelos.</title>
+<pages>177-190</pages>
+<year>2007</year>
+<booktitle>SBCARS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbcars.2007.24127</ee>
+<crossref>conf/sbcars/2007</crossref>
+<url>db/conf/sbcars/sbcars2007.html#AlvesPDC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/widm/LagesPPD07" mdate="2018-11-06">
+<author pid="16/1455">Alexandre G. Lages</author>
+<author pid="32/4359">Luci Pirmez</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<title>Satya: a reputation-based approach for service discovery and selection in service oriented architectures.</title>
+<pages>153-160</pages>
+<year>2007</year>
+<crossref>conf/widm/2007</crossref>
+<booktitle>WIDM</booktitle>
+<ee>https://doi.org/10.1145/1316902.1316927</ee>
+<url>db/conf/widm/widm2007.html#LagesPPD07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mwcn/DelicatoPPR06" mdate="2023-03-21">
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="32/4359">Luci Pirmez</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0002-5660-6488" pid="r/JoseFerreiradeRezende">Jos&#233; Ferreira de Rezende</author>
+<title>Exploiting Web Technologies to Build Autonomic Wireless Sensor Networks.</title>
+<pages>99-114</pages>
+<year>2006</year>
+<booktitle>MWCN</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-0-387-34736-3_7</ee>
+<crossref>conf/mwcn/2006</crossref>
+<url>db/conf/mwcn/mwcn2006.html#DelicatoPPR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/LealPCD06" mdate="2017-05-25">
+<author pid="37/3412">Luciana N. Leal</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="78/4279">Maria Luiza Machado Campos</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<title>Natural MDA: Controlled Natural Language for Action Specifications on Model Driven Development.</title>
+<pages>551-568</pages>
+<year>2006</year>
+<crossref>conf/otm/2006-1</crossref>
+<booktitle>OTM Conferences (1)</booktitle>
+<ee>https://doi.org/10.1007/11914853_33</ee>
+<url>db/conf/otm/otm2006-1.html#LealPCD06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/GomesCPC06" mdate="2024-01-08">
+<author pid="326/7809">Maria Cristina F. Gomes</author>
+<author pid="78/4279">Maria Luiza M. Campos</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="62/6535">Linair Maria Campos</author>
+<title>Certifica&#231;&#227;o da Utiliza&#231;&#227;o de Padr&#245;es de Projeto no Desenvolvimento Orientado a Modelos.</title>
+<pages>65-80</pages>
+<year>2006</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2006.21205</ee>
+<crossref>conf/sbes/2006</crossref>
+<url>db/conf/sbes/sbes2006.html#GomesCPC06</url>
+</inproceedings>
+</r>
+<r><article key="journals/bioinformatics/DavilaLMSSCMWPGCC05" mdate="2020-03-02">
+<author orcid="0000-0002-6918-7673" pid="69/4027">Alberto M. R. D&#225;vila</author>
+<author pid="97/3941">Daniel M. Lorenzini</author>
+<author orcid="0000-0002-0079-7991" pid="m/PabloNMendes">Pablo N. Mendes</author>
+<author pid="14/3429">Thiago S. Satake</author>
+<author pid="34/784">Gabriel R. Sousa</author>
+<author pid="62/6535">Linair Maria Campos</author>
+<author pid="87/6269">Camila J. Mazzoni</author>
+<author orcid="0000-0001-5003-6595" pid="58/3243">Glauber Wagner</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0001-8916-8296" pid="04/521">Edmundo C. Grisard</author>
+<author orcid="0000-0003-4965-9941" pid="c/MariaClaudiaReisCavalcanti">Maria Cl&#225;udia Reis Cavalcanti</author>
+<author pid="78/4279">Maria Luiza Machado Campos</author>
+<title>GARSA: genomic analysis resources for sequence annotation.</title>
+<pages>4302-4303</pages>
+<year>2005</year>
+<volume>21</volume>
+<journal>Bioinform.</journal>
+<number>23</number>
+<ee>https://doi.org/10.1093/bioinformatics/bti705</ee>
+<ee>https://www.wikidata.org/entity/Q48117961</ee>
+<url>db/journals/bioinformatics/bioinformatics21.html#DavilaLMSSCMWPGCC05</url>
+</article>
+</r>
+<r><article key="journals/cluster/DelicatoPPC05" mdate="2020-09-29">
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="32/4359">Luci Pirmez</author>
+<author pid="50/943">Luiz F. Rust da Costa Carmo</author>
+<title>A Service Approach for Architecting Application Independent Wireless Sensor Networks.</title>
+<pages>211-221</pages>
+<year>2005</year>
+<volume>8</volume>
+<journal>Clust. Comput.</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.1007/s10586-005-6186-4</ee>
+<url>db/journals/cluster/cluster8.html#DelicatoPPC05</url>
+</article>
+</r>
+<r><article key="journals/dke/CavalcantiTBRBPCM05" mdate="2024-02-15">
+<author orcid="0000-0003-4965-9941" pid="c/MariaClaudiaReisCavalcanti">Maria Cl&#225;udia Cavalcanti</author>
+<author pid="78/2486">Rafael Targino</author>
+<author orcid="0000-0001-7932-7134" pid="b/FAraujoBaiao">Fernanda Ara&#250;jo Bai&#227;o</author>
+<author pid="27/1981">Shaila C. R&#246;ssle</author>
+<author pid="20/3486">Paulo Mascarello Bisch</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="78/4279">Maria Luiza Machado Campos</author>
+<author orcid="0000-0002-0870-3371" pid="m/MartaLQueirosMattoso">Marta Mattoso</author>
+<title>Managing structural genomic workflows using Web services.</title>
+<pages>45-74</pages>
+<year>2005</year>
+<volume>53</volume>
+<journal>Data Knowl. Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.datak.2004.06.013</ee>
+<url>db/journals/dke/dke53.html#CavalcantiTBRBPCM05</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecweb/AlvesPDC05" mdate="2025-03-03">
+<author orcid="0000-0002-6791-1760" pid="96/3992">Marcelo Pitanga Alves</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="78/4279">Maria Luiza Machado Campos</author>
+<title>MiddLog: A Web Service Approach for Application Logging.</title>
+<pages>337-347</pages>
+<year>2005</year>
+<crossref>conf/ecweb/2005</crossref>
+<booktitle>EC-Web</booktitle>
+<ee>https://doi.org/10.1007/11545163_34</ee>
+<url>db/conf/ecweb/ecweb2005.html#AlvesPDC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/DelicatoPRPR05" mdate="2023-03-21">
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="50/943">Luiz F. Rust da Costa Carmo</author>
+<author pid="32/4359">Luci Pirmez</author>
+<author orcid="0000-0002-5660-6488" pid="r/JoseFerreiradeRezende">Jos&#233; Ferreira de Rezende</author>
+<title>Reflective middleware for wireless sensor networks.</title>
+<pages>1155-1159</pages>
+<year>2005</year>
+<crossref>conf/sac/2005</crossref>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1066677.1066937</ee>
+<url>db/conf/sac/sac2005.html#DelicatoPRPR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icws/CruzCPC04" mdate="2023-03-24">
+<author pid="65/591">S&#233;rgio Manuel Serra da Cruz</author>
+<author pid="78/4279">Maria Luiza Machado Campos</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="62/6535">Linair Maria Campos</author>
+<title>Monitoring E-Business Web Services Usage through a Log Based Architecture.</title>
+<pages>61-69</pages>
+<year>2004</year>
+<crossref>conf/icws/2004</crossref>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2004.1314724</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICWS.2004.1314724</ee>
+<url>db/conf/icws/icws2004.html#CruzCPC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icws/CostaPM04" mdate="2023-03-24">
+<author pid="93/3481">Luiz A. G. da Costa</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0002-0870-3371" pid="m/MartaLQueirosMattoso">Marta Mattoso</author>
+<title>Automatic Composition of Web Services with Contingency Plans.</title>
+<pages>454-461</pages>
+<year>2004</year>
+<crossref>conf/icws/2004</crossref>
+<booktitle>ICWS</booktitle>
+<ee>https://doi.org/10.1109/ICWS.2004.1314770</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICWS.2004.1314770</ee>
+<url>db/conf/icws/icws2004.html#CostaPM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/la-web/CostaPM04" mdate="2023-03-24">
+<author pid="93/3481">Luiz A. G. da Costa</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0002-0870-3371" pid="m/MartaLQueirosMattoso">Marta Mattoso</author>
+<title>WebComposer: A Tool for Composition and Execution of Web Service-Based Workflows.</title>
+<pages>30-37</pages>
+<year>2004</year>
+<crossref>conf/la-web/2004</crossref>
+<booktitle>WebMedia/LA-WEB</booktitle>
+<ee>https://doi.org/10.1109/WEBMED.2004.1348142</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WEBMED.2004.1348142</ee>
+<url>db/conf/la-web/la-web2004.html#CostaPM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/CamposP04" mdate="2005-03-17">
+<author pid="78/4279">Maria Luiza Machado Campos</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<title>Web Sem&#226;ntica e Servi&#231;os Web: Automatizando a Integra&#231;&#227;o de Recursos na Web.</title>
+<pages>2</pages>
+<year>2004</year>
+<crossref>conf/sbbd/2004</crossref>
+<booktitle>SBBD</booktitle>
+<url>db/conf/sbbd/sbbd2004.html#CamposP04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexaw/CavalcantiBRBTPCM03" mdate="2024-02-15">
+<author orcid="0000-0003-4965-9941" pid="c/MariaClaudiaReisCavalcanti">Maria Cl&#225;udia Cavalcanti</author>
+<author orcid="0000-0001-7932-7134" pid="b/FAraujoBaiao">Fernanda Ara&#250;jo Bai&#227;o</author>
+<author pid="27/1981">Shaila C. R&#246;ssle</author>
+<author orcid="0000-0002-3136-3520" pid="20/3486">Paulo Mascarello Bisch</author>
+<author pid="78/2486">Rafael Targino</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="78/4279">Maria Luiza Machado Campos</author>
+<author orcid="0000-0002-0870-3371" pid="m/MartaLQueirosMattoso">Marta Mattoso</author>
+<title>Structural Genomic Workflows Supported by Web Services.</title>
+<pages>45-49</pages>
+<year>2003</year>
+<crossref>conf/dexaw/2003</crossref>
+<booktitle>DEXA Workshops</booktitle>
+<ee>https://doi.org/10.1109/DEXA.2003.1231996</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DEXA.2003.1231996</ee>
+<url>db/conf/dexaw/dexaw2003.html#CavalcantiBRBTPCM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcsw/DelicatoPPC03" mdate="2023-03-24">
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="32/4359">Luci Pirmez</author>
+<author pid="50/943">Luiz F. Rust da Costa Carmo</author>
+<title>A Flexible Web Service Based Architecture for Wireless Sensor Networks.</title>
+<pages>730-735</pages>
+<year>2003</year>
+<crossref>conf/icdcsw/2003</crossref>
+<booktitle>ICDCS Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDCSW.2003.1203639</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDCSW.2003.1203639</ee>
+<url>db/conf/icdcsw/icdcsw2003.html#DelicatoPPC03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/DelicatoPPC03" mdate="2017-05-25">
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="32/4359">Luci Pirmez</author>
+<author pid="50/943">Luiz F. Rust da Costa Carmo</author>
+<title>A Flexible Middleware System for Wireless Sensor Networks.</title>
+<pages>474-492</pages>
+<ee>https://doi.org/10.1007/3-540-44892-6_24</ee>
+<year>2003</year>
+<crossref>conf/middleware/2003</crossref>
+<booktitle>Middleware</booktitle>
+<url>db/conf/middleware/middleware2003.html#DelicatoPPC03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/saint/PiresBM03" mdate="2023-03-23">
+<author pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0002-1481-1942" pid="29/5198">Mario R. F. Benevides</author>
+<author orcid="0000-0002-0870-3371" pid="m/MartaLQueirosMattoso">Marta Mattoso</author>
+<title>Mediating Heterogeneous Web Services.</title>
+<pages>344-347</pages>
+<year>2003</year>
+<crossref>conf/saint/2003</crossref>
+<booktitle>SAINT</booktitle>
+<ee>https://doi.org/10.1109/SAINT.2003.1183068</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SAINT.2003.1183068</ee>
+<url>db/conf/saint/saint2003.html#PiresBM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/CruzCCP03" mdate="2003-10-06">
+<author pid="65/591">S&#233;rgio Manuel Serra da Cruz</author>
+<author pid="62/6535">Linair Maria Campos</author>
+<author pid="78/4279">Maria Luiza Machado Campos</author>
+<author pid="69/1904">Paulo F. Pires</author>
+<title>A Data Mart Approach for Monitoring Web Services Usage and Evaluating Quality of Services.</title>
+<pages>267-280</pages>
+<year>2003</year>
+<crossref>conf/sbbd/2003</crossref>
+<booktitle>SBBD</booktitle>
+<url>db/conf/sbbd/sbbd2003.html#CruzCCP03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jit/PiresBM02" mdate="2017-05-26">
+<author pid="69/1904">Paulo F. Pires</author>
+<author pid="29/5198">Mario R. F. Benevides</author>
+<author pid="m/MartaLQueirosMattoso">Marta Mattoso</author>
+<title>Building Reliable Web Services Compositions.</title>
+<pages>59-72</pages>
+<year>2002</year>
+<crossref>conf/jit/2002</crossref>
+<booktitle>Web, Web-Services, and Database Systems</booktitle>
+<ee>https://doi.org/10.1007/3-540-36560-5_5</ee>
+<url>db/conf/jit/webdb2002.html#PiresBM02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/PiresBM00" mdate="2019-10-19">
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0002-1481-1942" pid="29/5198">Mario R. F. Benevides</author>
+<author orcid="0000-0002-0870-3371" pid="m/MartaLQueirosMattoso">Marta Mattoso</author>
+<title>Mechanisms for Specifying Communication Behavior in Object Oriented Database.</title>
+<pages>389-397</pages>
+<year>2000</year>
+<crossref>conf/sac/2000-1</crossref>
+<booktitle>SAC (1)</booktitle>
+<url>db/conf/sac/sac2000-1.html#PiresBM00</url>
+<ee>https://doi.org/10.1145/335603.335847</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tools/PiresM97" mdate="2023-03-23">
+<author pid="69/1904">Paulo de Figueiredo Pires</author>
+<author pid="m/MartaLQueirosMattoso">Marta L. Queiros Mattoso</author>
+<title>A CORBA Based Architecture for Heterogeneous Information Source Interoperability.</title>
+<pages>33-51</pages>
+<year>1997</year>
+<crossref>conf/tools/25-1997</crossref>
+<booktitle>TOOLS (25)</booktitle>
+<ee>https://doi.org/10.1109/TOOLS.1997.681860</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/TOOLS.1997.681860</ee>
+<url>db/conf/tools/tools25-1997.html#PiresM97</url>
+</inproceedings>
+</r>
+<coauthors n="216" nc="2">
+<co c="0"><na f="a/Alencar:Fernanda_M=_R=" pid="31/5316">Fernanda M. R. Alencar</na></co>
+<co c="0"><na f="a/Almeida_0002:Andr=eacute=" pid="00/7175-2">Andr&#233; Almeida 0002</na></co>
+<co c="0"><na f="a/Alves:Gustavo" pid="35/2785">Gustavo Alves</na></co>
+<co c="0"><na f="a/Alves:Maicon_Melo" pid="188/6155">Maicon Melo Alves</na></co>
+<co c="0"><na f="a/Alves:Marcelo_Pitanga" pid="96/3992">Marcelo Pitanga Alves</na></co>
+<co c="0"><na f="a/Alves:Vander" pid="15/5448">Vander Alves</na></co>
+<co c="0" n="2"><na f="a/Amorim:Claudio_Luis_de" pid="05/439">Claudio Luis de Amorim</na><na>Cl&#225;udio L. Amorim</na></co>
+<co c="0"><na f="a/Aquino:Gabriel" pid="184/0625">Gabriel Aquino</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Rodrigo_P=_M=_de" pid="52/8384">Rodrigo P. M. de Ara&#250;jo</na></co>
+<co c="0"><na f="a/Assis:Laura" pid="202/6385">Laura Assis</na></co>
+<co c="0"><na f="b/Bacelo:Ana_Paula_Terra" pid="55/3179">Ana Paula Terra Bacelo</na></co>
+<co c="0"><na f="b/Baffa:Augusto" pid="63/8008">Augusto Baffa</na></co>
+<co c="0" n="2"><na f="b/Bai=atilde=o:Fernanda" pid="b/FAraujoBaiao">Fernanda Bai&#227;o</na><na>Fernanda Ara&#250;jo Bai&#227;o</na></co>
+<co c="0"><na f="b/Bao_0001:Wei" pid="72/3664-1">Wei Bao 0001</na></co>
+<co c="0"><na f="b/Barbalho:Hugo" pid="136/0595">Hugo Barbalho</na></co>
+<co c="0"><na f="b/Barcellos:Marinho_P=" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</na></co>
+<co c="0"><na f="b/Baroni:Lais" pid="238/1303">Lais Baroni</na></co>
+<co c="0"><na f="b/Barros:Thomaz" pid="133/1538">Thomaz Barros</na></co>
+<co c="0"><na f="b/Bastos:Ian_Vilar" pid="193/1363">Ian Vilar Bastos</na></co>
+<co c="0" n="2"><na f="b/Batista:Tha=iacute=s_Vasconcelos" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</na><na>Tha&#237;s Batista</na></co>
+<co c="0"><na f="b/Battisti:Anselmo_Luiz_=Eacute=den" pid="276/4307">Anselmo Luiz &#201;den Battisti</na></co>
+<co c="0"><na f="b/Benevides:Mario_R=_F=" pid="29/5198">Mario R. F. Benevides</na></co>
+<co c="0" n="2"><na f="b/Bernardini:Flavia" pid="88/5413">Flavia Bernardini</na><na>Fl&#225;via Bernardini</na></co>
+<co c="0"><na f="b/Bisch:Paulo_Mascarello" pid="20/3486">Paulo Mascarello Bisch</na></co>
+<co c="0"><na f="b/Bonif=aacute=cio:Rodrigo" pid="21/824">Rodrigo Bonif&#225;cio</na></co>
+<co c="0"><na f="b/Borba:Paulo" pid="b/PauloBorba">Paulo Borba</na></co>
+<co c="0"><na f="b/Braga:Rosana_T=_V=" pid="07/4304">Rosana T. V. Braga</na></co>
+<co c="0"><na f="b/Breitman:Karin_K=" pid="b/KarinKooganBreitman">Karin K. Breitman</na></co>
+<co c="0"><na f="b/Brito:Italo_C=" pid="167/1804">Italo C. Brito</na></co>
+<co c="0"><na f="c/Cacho:N=eacute=lio" pid="39/2172">N&#233;lio Cacho</na></co>
+<co c="0"><na f="c/Calmon:Tiago_Salviano" pid="247/9473">Tiago Salviano Calmon</na></co>
+<co c="0"><na f="c/Camargo:Valter_Vieira_de" pid="37/1266">Valter Vieira de Camargo</na></co>
+<co c="0"><na f="c/Campos:Linair_Maria" pid="62/6535">Linair Maria Campos</na></co>
+<co c="1"><na f="c/Campos:Lu=iacute=s_Miguel" pid="78/7512">Lu&#237;s Miguel Campos</na></co>
+<co c="0" n="2"><na f="c/Campos:Maria_Luiza_M=" pid="78/4279">Maria Luiza M. Campos</na><na>Maria Luiza Machado Campos</na></co>
+<co c="0"><na f="c/Cardoso:Carlos" pid="151/2531">Carlos Cardoso</na></co>
+<co c="0" n="4"><na f="c/Carmo:Luiz_Fernando_Rust_da_Costa" pid="50/943">Luiz Fernando Rust da Costa Carmo</na><na>Luiz Fernando Rust C. Carmo</na><na>Luiz F. Rust da Costa Carmo</na><na>Luiz F. R. C. Carmo</na></co>
+<co c="0"><na f="c/Carvalho_Jr=:Jaime_Cesar_de" pid="44/467">Jaime Cesar de Carvalho Jr.</na></co>
+<co c="0" n="2"><na f="c/Castro:Jaelson_Brelaz_de" pid="c/JBdCastro">Jaelson Brelaz de Castro</na><na>Jaelson Castro</na></co>
+<co c="0"><na f="c/Cauteruccio:Francesco" pid="133/8758">Francesco Cauteruccio</na></co>
+<co c="0" n="2"><na f="c/Cavalcante:Everton" pid="77/10661">Everton Cavalcante</na><na>Everton Ranielly de Sousa Cavalcante</na></co>
+<co c="0" n="2"><na f="c/Cavalcanti:Maria_Cl=aacute=udia" pid="c/MariaClaudiaReisCavalcanti">Maria Cl&#225;udia Cavalcanti</na><na>Maria Cl&#225;udia Reis Cavalcanti</na></co>
+<co c="0"><na f="c/Chabridon:Sophie" pid="99/1431">Sophie Chabridon</na></co>
+<co c="0"><na f="c/Chang_0001:Victor" pid="158/5207">Victor Chang 0001</na></co>
+<co c="0" n="2"><na f="c/Chavez:Christina_von_Flach_G=" pid="c/ChristinavonFlachGChavez">Christina von Flach G. Chavez</na><na>Christina Chavez</na></co>
+<co c="0"><na f="c/Ciarlini:Angelo_E=_M=" pid="46/2581">Angelo E. M. Ciarlini</na></co>
+<co c="0"><na f="c/C=oacute=be:Raphael" pid="83/9634">Raphael C&#243;be</na></co>
+<co c="0"><na f="c/Coelho:Roberta" pid="61/561">Roberta Coelho</na></co>
+<co c="0"><na f="c/Conan:Denis" pid="92/612">Denis Conan</na></co>
+<co c="0"><na f="c/Costa_0003:Bruno" pid="24/5736-3">Bruno Costa 0003</na></co>
+<co c="0"><na f="c/Costa:Luiz_A=_G=_da" pid="93/3481">Luiz A. G. da Costa</na></co>
+<co c="0" n="2"><na f="c/Coutinho:Rafaelli_de_C=" pid="120/7486">Rafaelli de C. Coutinho</na><na>Rafaelli Coutinho</na></co>
+<co c="0"><na f="c/Cruz:S=eacute=rgio_Manuel_Serra_da" pid="65/591">S&#233;rgio Manuel Serra da Cruz</na></co>
+<co c="0"><na f="d/Dantas:Priscilla" pid="15/10661">Priscilla Dantas</na></co>
+<co c="0"><na f="d/D=aacute=vila:Alberto_M=_R=" pid="69/4027">Alberto M. R. D&#225;vila</na></co>
+<co c="0"><na f="d/Davis:Joseph_G=" pid="55/5533">Joseph G. Davis</na></co>
+<co c="0"><na f="d/Delicato:Fl=aacute=via_Coimbra" pid="88/4289">Fl&#225;via Coimbra Delicato</na></co>
+<co c="0" n="2"><na f="d/Dias:Diogenes" pid="194/3324">Diogenes Dias</na><na>Di&#243;genes Dias</na></co>
+<co c="0"><na f="d/Dias:Jonas" pid="61/9170">Jonas Dias</na></co>
+<co c="0"><na f="d/Dou:Yong" pid="76/305">Yong Dou</na></co>
+<co c="0"><na f="e/Emmanoel:Carlo_O=" pid="326/7134">Carlo O. Emmanoel</na></co>
+<co c="0"><na f="e/Escobar:Luciana_E=_G=" pid="268/6708">Luciana E. G. Escobar</na></co>
+<co c="0"><na f="f/Farias:Claudio_M=_de" pid="125/8102">Claudio M. de Farias</na></co>
+<co c="0"><na f="f/Fernandes:Stenio_F=_L=" pid="09/6789">Stenio F. L. Fernandes</na></co>
+<co c="0"><na f="f/Fernandes:Victor_H=" pid="126/6835">Victor H. Fernandes</na></co>
+<co c="0"><na f="f/Ferrari:Fabiano_Cutigi" pid="48/5007">Fabiano Cutigi Ferrari</na></co>
+<co c="0"><na f="f/Ferreira_0001:Paulo" pid="f/PauloJPFerreira">Paulo Ferreira 0001</na></co>
+<co c="0"><na f="f/Figueiredo_0001:Eduardo" pid="03/335">Eduardo Figueiredo 0001</na></co>
+<co c="0"><na f="f/Filho:Carlos_Poncinelli" pid="319/0583">Carlos Poncinelli Filho</na></co>
+<co c="0" n="2"><na f="f/Filho:Fernando_Castor" pid="f/FCFilho">Fernando Castor Filho</na><na>Fernando Castor</na></co>
+<co c="0"><na f="f/Filho:Sindolfo_Miranda" pid="78/1400">Sindolfo Miranda Filho</na></co>
+<co c="0"><na f="f/Fiorio:Milene" pid="326/7202">Milene Fiorio</na></co>
+<co c="0"><na f="f/Fonseca:Nelson_L=_S=_da" pid="f/NelsonLSdaFonseca">Nelson L. S. da Fonseca</na></co>
+<co c="0"><na f="f/Fortino:Giancarlo" pid="f/GiancarloFortino">Giancarlo Fortino</na></co>
+<co c="0"><na f="f/Freitas:T=aacute=ssia" pid="99/8383">T&#225;ssia Freitas</na></co>
+<co c="0"><na f="f/Fuentes:Lidia" pid="59/1161">Lidia Fuentes</na></co>
+<co c="0"><na f="g/G=aacute=mez:Nadia" pid="88/1249">Nadia G&#225;mez</na></co>
+<co c="0"><na f="g/Gaspary:Luciano_Paschoal" pid="g/LPGaspary">Luciano Paschoal Gaspary</na></co>
+<co c="0"><na f="g/Gea:Cristiane" pid="307/4319">Cristiane Gea</na></co>
+<co c="0"><na f="g/Gomes:Maria_Cristina_F=" pid="326/7809">Maria Cristina F. Gomes</na></co>
+<co c="0"><na f="g/Gomes:Porf=iacute=rio" pid="151/3335">Porf&#237;rio Gomes</na></co>
+<co c="0"><na f="g/Gottin:Vinicius_M=" pid="138/4550">Vinicius M. Gottin</na></co>
+<co c="0"><na f="g/Grisard:Edmundo_C=" pid="04/521">Edmundo C. Grisard</na></co>
+<co c="0"><na f="g/Guerrieri:Antonio" pid="57/7356">Antonio Guerrieri</na></co>
+<co c="0"><na f="h/Huang:Ge" pid="01/5437">Ge Huang</na></co>
+<co c="0"><na f="h/Huergo:Rosane_S=" pid="148/4291">Rosane S. Huergo</na></co>
+<co c="0"><na f="i/Iman:Mohammadreza" pid="174/1723">Mohammadreza Iman</na></co>
+<co c="0"><na f="j/Jorge:Emanuele_N=_de_L=_F=" pid="169/1652">Emanuele N. de L. F. Jorge</na></co>
+<co c="0" n="2"><na f="j/Josu=eacute=:Marina" pid="190/1360">Marina Josu&#233;</na><na>Marina Ivanov Pereira Josu&#233;</na></co>
+<co c="0"><na f="j/Jr:Heleno_de_S=_C=" pid="251/2391">Heleno de S. C. Jr</na></co>
+<co c="0"><na f="j/Ju=aacute=rez=Ram=iacute=rez:Reyes" pid="20/5153">Reyes Ju&#225;rez-Ram&#237;rez</na></co>
+<co c="0" n="2"><na f="k/Kamienski:Carlos" pid="74/2714">Carlos Kamienski</na><na>Carlos Alberto Kamienski</na></co>
+<co c="0" n="3"><na f="k/Khan:Samee_Ullah" pid="k/SameeUllahKhan">Samee Ullah Khan</na><na>Samee U. Khan</na><na>Samee Khan</na></co>
+<co c="0"><na f="k/Kreischer:Vincius" pid="290/4461">Vincius Kreischer</na></co>
+<co c="0"><na f="k/Kulesza:Uir=aacute=" pid="78/6010">Uir&#225; Kulesza</na></co>
+<co c="0"><na f="l/Lages:Alexandre_G=" pid="16/1455">Alexandre G. Lages</na></co>
+<co c="0"><na f="l/Leal:Luciana_N=" pid="37/3412">Luciana N. Leal</na></co>
+<co c="0"><na f="l/Lee:Young_Choon" pid="52/6328">Young Choon Lee</na></co>
+<co c="0"><na f="l/Leite:Jair_C=" pid="16/4360">Jair C. Leite</na></co>
+<co c="0" n="2"><na f="l/Leite:Julio_C=eacute=sar_Sampaio_do_Prado" pid="l/JCSdoPradoLeite">Julio C&#233;sar Sampaio do Prado Leite</na><na>Julio Leite</na></co>
+<co c="0" n="2"><na f="l/Lemos:Ot=aacute=vio_Augusto_Lazzarini" pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</na><na>Ot&#225;vio Lemos</na></co>
+<co c="0"><na f="l/Li_0058:Wei" pid="64/6025-58">Wei Li 0058</na></co>
+<co c="0"><na f="l/Lima:Janio" pid="307/4398">Janio Lima</na></co>
+<co c="0"><na f="l/Lima:Rayan_G=" pid="397/4867">Rayan G. Lima</na></co>
+<co c="0" n="2"><na f="l/Lopes:Frederico" pid="39/1923">Frederico Lopes</na><na>Frederico Araujo da Silva Lopes</na></co>
+<co c="0"><na f="l/Lorenzini:Daniel_M=" pid="97/3941">Daniel M. Lorenzini</na></co>
+<co c="0"><na f="l/Lucena:Carlos_Jos=eacute=_Pereira_de" pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</na></co>
+<co c="0"><na f="l/Ludovino:David" pid="171/1728">David Ludovino</na></co>
+<co c="0"><na f="l/Lustosa:Hermano" pid="181/6562">Hermano Lustosa</na></co>
+<co c="0" n="2"><na f="m/Macedo:Evandro_L=_C=" pid="215/2864">Evandro L. C. Macedo</na><na>Evandro Luiz Cardoso Macedo</na></co>
+<co c="0"><na f="m/Machado:Carlos_Alberto" pid="150/5455">Carlos Alberto Machado</na></co>
+<co c="0" n="2"><na f="m/Madeira:Edmundo_Roberto_Mauro" pid="m/EdmundoRobertoMauroMadeira">Edmundo Roberto Mauro Madeira</na><na>Edmundo R. M. Madeira</na></co>
+<co c="0"><na f="m/Maia:Luciano" pid="04/5468">Luciano Maia</na></co>
+<co c="0"><na f="m/Maia:Pedro" pid="151/3289">Pedro Maia</na></co>
+<co c="0"><na f="m/Marinho:=Eacute=berton" pid="22/7475">&#201;berton Marinho</na></co>
+<co c="0"><na f="m/Marques:Elias_L=" pid="172/3670">Elias L. Marques</na></co>
+<co c="0"><na f="m/Masiero:Paulo_C=eacute=sar" pid="79/216">Paulo C&#233;sar Masiero</na></co>
+<co c="0"><na f="m/Mattos:Douglas_Paulo_de" pid="131/4793">Douglas Paulo de Mattos</na></co>
+<co c="0" n="2"><na f="m/Mattoso:Marta" pid="m/MartaLQueirosMattoso">Marta Mattoso</na><na>Marta L. Queiros Mattoso</na></co>
+<co c="0"><na f="m/Mazzoni:Camila_J=" pid="87/6269">Camila J. Mazzoni</na></co>
+<co c="0" n="2"><na f="m/Meira:Silvio_Romero_de_Lemos" pid="m/SRdeLemosMeira">Silvio Romero de Lemos Meira</na><na>Silvio Meira 0001</na></co>
+<co c="0"><na f="m/Mendes:Pablo_N=" pid="m/PabloNMendes">Pablo N. Mendes</na></co>
+<co c="0"><na f="m/Mendes:Reginaldo" pid="86/6919">Reginaldo Mendes</na></co>
+<co c="0" n="2"><na f="m/Mendon=ccedil=a:Nabor_das_Chagas" pid="79/4708">Nabor das Chagas Mendon&#231;a</na><na>Nabor C. Mendon&#231;a</na></co>
+<co c="0"><na f="m/Merson:Paulo" pid="05/4541">Paulo Merson</na></co>
+<co c="0"><na f="m/Miceli:Claudio" pid="94/10660">Claudio Miceli</na></co>
+<co c="0"><na f="m/Monteiro:Leonardo_C=" pid="199/4972">Leonardo C. Monteiro</na></co>
+<co c="0"><na f="m/Mostardinha:Ana_L=" pid="21/1891">Ana L. Mostardinha</na></co>
+<co c="0"><na f="m/Moura:Ana_L=uacute=cia_de" pid="82/6280">Ana L&#250;cia de Moura</na></co>
+<co c="0"><na f="m/Moura:Roniceli" pid="132/6566">Roniceli Moura</na></co>
+<co c="0" n="2"><na f="m/Muchaluat=Saade:D=eacute=bora_C=" pid="21/5891">D&#233;bora C. Muchaluat-Saade</na><na>D&#233;bora Christina Muchaluat-Saade</na></co>
+<co c="0"><na f="n/Nakagawa:Elisa_Yumi" pid="67/5214">Elisa Yumi Nakagawa</na></co>
+<co c="0"><na f="n/Nan:Yucen" pid="191/4615">Yucen Nan</na></co>
+<co c="0" n="2"><na f="n/Neto:Aluizio_Rocha" pid="272/4760">Aluizio Rocha Neto</na><na>Alu&#237;zio F. Rocha Neto</na></co>
+<co c="0"><na f="n/Noce:Julia" pid="219/0755">Julia Noce</na></co>
+<co c="0" n="2"><na f="o/Ochi:Luiz_Satoru" pid="o/LuizSatoruOchi">Luiz Satoru Ochi</na><na>Luiz S. Ochi</na></co>
+<co c="0"><na f="o/Ogasawara:Eduardo_S=" pid="24/788">Eduardo S. Ogasawara</na></co>
+<co c="0"><na f="o/Oliveira:Ana_C=" pid="134/0906">Ana C. Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Ana_Cristina_Bernardo_de" pid="338/7961">Ana Cristina Bernardo de Oliveira</na></co>
+<co c="0" n="2"><na f="o/Oliveira:Ana_Liz_S=" pid="93/530">Ana Liz S. Oliveira</na><na>Ana Liz Souto Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Douglas_E=_M=_de" pid="54/8935">Douglas E. M. de Oliveira</na></co>
+<co c="0"><na f="o/Oquendo:Fl=aacute=vio" pid="32/153">Fl&#225;vio Oquendo</na></co>
+<co c="0"><na f="p/Pacheco:Edward" pid="219/8278">Edward Pacheco</na></co>
+<co c="0"><na f="p/Penteado:Ros=acirc=ngela_A=_D=" pid="p/RosangelaPenteado">Ros&#226;ngela A. D. Penteado</na></co>
+<co c="0"><na f="p/Pereira:Jorge" pid="85/8921">Jorge Pereira</na></co>
+<co c="0"><na f="p/Pereira:Lucas" pid="74/4999">Lucas Pereira</na></co>
+<co c="0"><na f="p/Pereira_0001:Rafael_S=" pid="251/2419">Rafael S. Pereira 0001</na></co>
+<co c="0"><na f="p/Pinto:Hardy_Leonardo_da_Cunha_Pereira" pid="224/8376">Hardy Leonardo da Cunha Pereira Pinto</na></co>
+<co c="0"><na f="p/Pinto:M=oacute=nica" pid="95/101">M&#243;nica Pinto</na></co>
+<co c="0"><na f="p/Pirmez:Luci" pid="32/4359">Luci Pirmez</na></co>
+<co c="0"><na f="p/Pirmez:Marcos" pid="88/5568">Marcos Pirmez</na></co>
+<co c="0"><na f="p/Piveta:Eduardo" pid="93/1270">Eduardo Piveta</na></co>
+<co c="0"><na f="p/Porto_0001:F=aacute=bio" pid="p/FabioPorto">F&#225;bio Porto 0001</na></co>
+<co c="0"><na f="p/Portocarrero:Jes=uacute=s_M=_T=" pid="133/3555">Jes&#250;s M. T. Portocarrero</na></co>
+<co c="0"><na f="p/Protti:F=aacute=bio" pid="61/2851">F&#225;bio Protti</na></co>
+<co c="0"><na f="r/Ramos:Ricardo_Argenton" pid="17/200">Ricardo Argenton Ramos</na></co>
+<co c="0"><na f="r/Rezende:Jos=eacute=_Ferreira_de" pid="r/JoseFerreiradeRezende">Jos&#233; Ferreira de Rezende</na></co>
+<co c="0"><na f="r/Rezende:Nelson_S=_de" pid="74/3545">Nelson S. de Rezende</na></co>
+<co c="0" n="2"><na f="r/Rittmeyer:Jo=atilde=o_N=" pid="198/1276">Jo&#227;o N. Rittmeyer</na><na>Jo&#227;o Guilherme Nobre Rittmeyer</na></co>
+<co c="0"><na f="r/Rocha:Antonio_A=_de_A=" pid="389/3639">Antonio A. de A. Rocha</na></co>
+<co c="0"><na f="r/Rocha:Atslands_Rego_da" pid="16/9780">Atslands Rego da Rocha</na></co>
+<co c="0" n="2"><na f="r/Rodrigues:Taniro" pid="173/8035">Taniro Rodrigues</na><na>Taniro Chacon Rodrigues</na></co>
+<co c="0"><na f="r/Rodriguez:Noemi_de_La_Rocque" pid="95/2066">Noemi de La Rocque Rodriguez</na></co>
+<co c="0"><na f="r/Rossetto:Silvana" pid="52/618">Silvana Rossetto</na></co>
+<co c="0"><na f="r/R=ouml=ssle:Shaila_C=" pid="27/1981">Shaila C. R&#246;ssle</na></co>
+<co c="0"><na f="r/Rubira:Cec=iacute=lia_M=_F=" pid="80/5752">Cec&#237;lia M. F. Rubira</na></co>
+<co c="0" n="2"><na f="s/Sadok:Djamel_Fawzi_Hadj" pid="s/DjamelSadok">Djamel Fawzi Hadj Sadok</na><na>Djamel Sadok</na></co>
+<co c="0"><na f="s/Salles:Rebecca" pid="181/9020">Rebecca Salles</na></co>
+<co c="0"><na f="s/Sampaio:Am=eacute=rico" pid="61/5350">Am&#233;rico Sampaio</na></co>
+<co c="0"><na f="s/Sant=Anna:Cl=aacute=udio" pid="64/4218">Cl&#225;udio Sant'Anna</na></co>
+<co c="0"><na f="s/Santos:Igor_Le=atilde=o_dos" pid="76/9779">Igor Le&#227;o dos Santos</na></co>
+<co c="0"><na f="s/Santos:Isanio_L=_Araujo" pid="28/546">Isanio L. Araujo Santos</na></co>
+<co c="0"><na f="s/Santos:Leonardo_dos" pid="319/0336">Leonardo dos Santos</na></co>
+<co c="0" n="2"><na f="s/Saraiva:Andr=eacute=_R=_C=" pid="230/1863-2">Andr&#233; R. C. Saraiva</na><na>Andre Saraiva 0002</na></co>
+<co c="0"><na f="s/Saraiva:Diego" pid="60/8383">Diego Saraiva</na></co>
+<co c="0"><na f="s/Satake:Thiago_S=" pid="14/3429">Thiago S. Satake</na></co>
+<co c="0"><na f="s/Sena:Thiago_S=" pid="118/3931">Thiago S. Sena</na></co>
+<co c="0"><na f="s/Si:Weisheng" pid="88/5542">Weisheng Si</na></co>
+<co c="0"><na f="s/Silva:Carla_T=_L=_L=" pid="06/4462">Carla T. L. L. Silva</na></co>
+<co c="0"><na f="s/Silva:Daniel_Nascimento_Ramos_da" pid="251/2435">Daniel Nascimento Ramos da Silva</na></co>
+<co c="0"><na f="s/Silva_0001:Eduardo" pid="60/8143">Eduardo Silva 0001</na></co>
+<co c="0"><na f="s/Silva:Evaldo_O=_da" pid="199/3996">Evaldo O. da Silva</na></co>
+<co c="0"><na f="s/Silva:Jos=eacute=_R=" pid="133/3579">Jos&#233; R. Silva</na></co>
+<co c="0"><na f="s/Silva:Lyrene_Fernandes_da" pid="f/LyreneFernandesdS">Lyrene Fernandes da Silva</na></co>
+<co c="0"><na f="s/Silva:Thiago_Pereira_da" pid="156/1878">Thiago Pereira da Silva</na></co>
+<co c="0"><na f="s/Silveira:F=aacute=bio_Fagundes" pid="11/8143">F&#225;bio Fagundes Silveira</na></co>
+<co c="0"><na f="s/Sim=otilde=es:Adolfo" pid="251/2402">Adolfo Sim&#245;es</na></co>
+<co c="0"><na f="s/Soares:S=eacute=rgio" pid="58/232">S&#233;rgio Soares</na></co>
+<co c="0"><na f="s/Song:Houbing" pid="49/594">Houbing Song</na></co>
+<co c="0"><na f="s/Song:Joo_Hee" pid="63/9631">Joo Hee Song</na></co>
+<co c="0"><na f="s/Sousa:Gabriel_R=" pid="34/784">Gabriel R. Sousa</na></co>
+<co c="0"><na f="s/Souto:Ana_Liz_S=" pid="53/8383">Ana Liz S. Souto</na></co>
+<co c="0"><na f="s/Souto:Yania_Molina" pid="228/1754">Yania Molina Souto</na></co>
+<co c="0"><na f="s/Souza:Jos=eacute=_Neuman_de" pid="02/4334">Jos&#233; Neuman de Souza</na></co>
+<co c="0"><na f="s/Staa:Arndt_von" pid="58/3312">Arndt von Staa</na></co>
+<co c="0"><na f="t/Taconet:Chantal" pid="83/3190">Chantal Taconet</na></co>
+<co c="0"><na f="t/Taheri:Javid" pid="60/739">Javid Taheri</na></co>
+<co c="0"><na f="t/Targino:Rafael" pid="78/2486">Rafael Targino</na></co>
+<co c="0"><na f="t/Tari:Zahir" pid="t/ZahirTari">Zahir Tari</na></co>
+<co c="1"><na f="t/Teixeira:Luis" pid="120/6134">Luis Teixeira</na></co>
+<co c="0"><na f="t/Terracina:Giorgio" pid="t/GiorgioTerracina">Giorgio Terracina</na></co>
+<co c="0"><na f="v/Valente:Marco_T=uacute=lio" pid="o/MarcoTuliodeOliveiraValente">Marco T&#250;lio Valente</na></co>
+<co c="0"><na f="v/Valenzuela:Juan_A=" pid="65/3195">Juan A. Valenzuela</na></co>
+<co c="0"><na f="v/Vieira:Juan_Lucas" pid="247/0245">Juan Lucas Vieira</na></co>
+<co c="0"><na f="v/Vieira:Wagner" pid="219/8319">Wagner Vieira</na></co>
+<co c="0"><na f="v/Vignoli:Luciana_E=_G=" pid="251/2337">Luciana E. G. Vignoli</na></co>
+<co c="0"><na f="w/Wagner:Glauber" pid="58/3243">Glauber Wagner</na></co>
+<co c="0"><na f="w/Wehmuth:Klaus" pid="49/9059">Klaus Wehmuth</na></co>
+<co c="0"><na f="w/Wei_0006:Wei" pid="24/4105-6">Wei Wei 0006</na></co>
+<co c="0" n="2"><na f="x/Xavier:Tiago_C=_S=" pid="137/2846">Tiago C. S. Xavier</na><na>Tiago Cariolano de Souza Xavier</na></co>
+<co c="0"><na f="y/Yang_0002:Ting" pid="88/3999-2">Ting Yang 0002</na></co>
+<co c="0"><na f="y/Yuan_0001:Dong" pid="15/2771-1">Dong Yuan 0001</na></co>
+<co c="0"><na f="z/Zhou:Bing_Bing" pid="60/6545">Bing Bing Zhou</na></co>
+<co c="0"><na f="z/Ziviani:Artur" pid="47/772">Artur Ziviani</na></co>
+<co c="0"><na f="z/Zomaya:Albert_Y=" pid="z/AlbertYZomaya">Albert Y. Zomaya</na></co>
+<co c="0"><na f="z/Zorrilla:Roccio" pid="290/4335">Roccio Zorrilla</na></co>
+</coauthors>
+</dblpperson>
+

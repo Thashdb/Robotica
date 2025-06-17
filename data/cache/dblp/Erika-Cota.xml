@@ -1,0 +1,1044 @@
+<?xml version="1.0"?>
+<dblpperson name="&#201;rika F. Cota" pid="c/ErikaFCota" n="64">
+<person key="homepages/c/ErikaFCota" mdate="2018-12-21">
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<note type="affiliation">Federal University of Rio Grande do Sul, Porto Alegre, Brazil</note>
+<url>http://www.inf.ufrgs.br/~erika/</url>
+<url>https://orcid.org/0000-0001-7431-7738</url>
+</person>
+<r><inproceedings key="conf/sbes/NiemiecBC22" mdate="2025-01-19">
+<author orcid="0000-0003-3290-4162" pid="303/3134">William Niemiec</author>
+<author pid="22/19">Rafael Borges</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<title>Mobilex: a generic framework for cross-platform mobile development based on web language.</title>
+<pages>347-352</pages>
+<year>2022</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3555228.3555274</ee>
+<ee>https://www.wikidata.org/entity/Q130869615</ee>
+<crossref>conf/sbes/2022</crossref>
+<url>db/conf/sbes/sbes2022.html#NiemiecBC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/NiemiecSC21" mdate="2024-10-06">
+<author orcid="0000-0003-3290-4162" pid="303/3134">William Niemiec</author>
+<author pid="282/4990">Keslley Silva</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<title>ExecutionFlow: a tool to compute test paths of Java methods and constructors.</title>
+<pages>221-226</pages>
+<year>2021</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3474624.3476014</ee>
+<crossref>conf/sbes/2021</crossref>
+<url>db/conf/sbes/sbes2021.html#NiemiecSC21</url>
+</inproceedings>
+</r>
+<r><article key="journals/scp/0001DMCCB20" mdate="2021-12-25">
+<author pid="r/LeilaRibeiro">Leila Ribeiro 0001</author>
+<author pid="53/6206">Lucio Mauro Duarte</author>
+<author pid="33/4758">Rodrigo Machado</author>
+<author orcid="0000-0003-0590-8205" pid="143/6780">Andrei Costa</author>
+<author orcid="0000-0001-7431-7738" pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="187/9585">Jonas Santos Bezerra</author>
+<title>Use case evolution analysis based on graph transformation with negative application conditions.</title>
+<pages>102495</pages>
+<year>2020</year>
+<volume>198</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee>https://doi.org/10.1016/j.scico.2020.102495</ee>
+<url>db/journals/scp/scp198.html#0001DMCCB20</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbes/SilvaC20" mdate="2022-08-18">
+<author pid="282/4990">Keslley Silva</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<title>Predicting Prime Path Coverage Using Regression Analysis.</title>
+<pages>263-272</pages>
+<year>2020</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3422392.3422413</ee>
+<crossref>conf/sbes/2020</crossref>
+<url>db/conf/sbes/sbes2020.html#SilvaC20</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijbis/SantosTCF19" mdate="2023-06-26">
+<author pid="166/2221">Carlos Habekost dos Santos</author>
+<author orcid="0000-0002-0620-9302" pid="29/181">Lucin&#233;ia Heloisa Thom</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author orcid="0000-0001-6261-1497" pid="83/468">Marcelo Fantinato</author>
+<title>Supporting BPMN tool developers through meta-algorithms.</title>
+<pages>460-488</pages>
+<year>2019</year>
+<volume>32</volume>
+<journal>Int. J. Bus. Inf. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1504/IJBIS.2019.103793</ee>
+<url>db/journals/ijbis/ijbis32.html#SantosTCF19</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-13592" mdate="2019-12-02">
+<author pid="r/LeilaRibeiro">Leila Ribeiro 0001</author>
+<author pid="53/6206">Lucio Mauro Duarte</author>
+<author pid="33/4758">Rodrigo Machado</author>
+<author pid="143/6780">Andrei Costa</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="187/9585">Jonas Santos Bezerra</author>
+<title>Use Case Evolution Analysis based on Graph Transformation with Negative Application Conditions.</title>
+<year>2019</year>
+<volume>abs/1910.13592</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.13592</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-13592</url>
+</article>
+</r>
+<r><article key="journals/spe/FernandesMC18" mdate="2020-10-20">
+<author pid="171/6208">Thiago Soares Fernandes</author>
+<author orcid="0000-0002-9224-2781" pid="50/3403">&#193;lvaro Freitas Moreira</author>
+<author orcid="0000-0001-7431-7738" pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<title>EPE-Mobile - A framework for early performance estimation of mobile applications.</title>
+<pages>85-104</pages>
+<year>2018</year>
+<volume>48</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1002/spe.2518</ee>
+<url>db/journals/spe/spe48.html#FernandesMC18</url>
+</article>
+</r>
+<r><article key="journals/ijmi/CotaRBCSC17" mdate="2020-02-21">
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="r/LeilaRibeiro">Leila Ribeiro 0001</author>
+<author orcid="0000-0002-8089-3691" pid="187/9585">Jonas Santos Bezerra</author>
+<author pid="143/6780">Andrei Costa</author>
+<author pid="202/6459">Rosiana Estefane da Silva</author>
+<author pid="202/6614">Gl&#225;ucia Cota</author>
+<title>Using formal methods for content validation of medical procedure documents.</title>
+<pages>10-25</pages>
+<year>2017</year>
+<volume>104</volume>
+<journal>Int. J. Medical Informatics</journal>
+<ee>https://doi.org/10.1016/j.ijmedinf.2017.04.012</ee>
+<ee>https://www.wikidata.org/entity/Q54686700</ee>
+<url>db/journals/ijmi/ijmi104.html#CotaRBCSC17</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/VieiraFCC15" mdate="2021-08-09">
+<author pid="155/4369">Andrws Vieira</author>
+<author pid="155/4367">Pedro Faustini</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<title>NFRs early estimation through software metrics.</title>
+<pages>329-332</pages>
+<year>2015</year>
+<booktitle>DATE</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2755827</ee>
+<ee>https://ieeexplore.ieee.org/document/7092409/</ee>
+<crossref>conf/date/2015</crossref>
+<url>db/conf/date/date2015.html#VieiraFCC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/BezerraCRC16" mdate="2022-11-10">
+<author orcid="0000-0002-8089-3691" pid="187/9585">Jonas Santos Bezerra</author>
+<author pid="143/6780">Andrei Costa</author>
+<author pid="r/LeilaRibeiro">Leila Ribeiro 0001</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<title>Formal Verification of Health Assessment Tools: a Case Study.</title>
+<pages>31-50</pages>
+<year>2015</year>
+<crossref>conf/weit/2015</crossref>
+<booktitle>WEIT</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2016.09.005</ee>
+<ee>https://www.wikidata.org/entity/Q113317668</ee>
+<url>db/journals/entcs/entcs324.html#BezerraCRC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/VieiraFC14" mdate="2024-10-06">
+<author pid="155/4369">Andrws Vieira</author>
+<author orcid="0000-0002-9961-1252" pid="155/4367">Pedro Faustini</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<title>Using Software Metrics to Estimate the Impact of Maintenance in the Performance of Embedded Software.</title>
+<pages>521-525</pages>
+<year>2014</year>
+<booktitle>ICSME</booktitle>
+<ee>https://doi.org/10.1109/ICSME.2014.86</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICSME.2014.86</ee>
+<crossref>conf/icsm/2014</crossref>
+<url>db/conf/icsm/icsme2014.html#VieiraFC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/FernandesCM14" mdate="2023-03-23">
+<author pid="171/6208">Thiago Soares Fernandes</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="50/3403">&#193;lvaro Freitas Moreira</author>
+<title>Performance Evaluation of Android Applications: A Case Study.</title>
+<pages>79-84</pages>
+<year>2014</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2014.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2014.17</ee>
+<crossref>conf/sbesc/2014</crossref>
+<url>db/conf/sbesc/sbesc2014.html#FernandesCM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/VieiraFCC14" mdate="2024-10-06">
+<author pid="155/4369">Andrws Vieira</author>
+<author orcid="0000-0002-9961-1252" pid="155/4367">Pedro Faustini</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<title>Early Estimation of NFRs for Embedded System Using Design Metrics.</title>
+<pages>85-90</pages>
+<year>2014</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2014.13</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2014.13</ee>
+<crossref>conf/sbesc/2014</crossref>
+<url>db/conf/sbesc/sbesc2014.html#VieiraFCC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wadt/OliveiraRCDNR14" mdate="2019-12-02">
+<author pid="185/0387">Marcos Oliveira Jr.</author>
+<author pid="r/LeilaRibeiro">Leila Ribeiro 0001</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="53/6206">Lucio Mauro Duarte</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="185/0374">Filipe Reis</author>
+<title>Use Case Analysis Based on Formal Methods: An Empirical Study.</title>
+<pages>110-130</pages>
+<year>2014</year>
+<booktitle>WADT</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-28114-8_7</ee>
+<crossref>conf/wadt/2014</crossref>
+<url>db/conf/wadt/wadt2014.html#OliveiraRCDNR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/weit/JuniorRDC13" mdate="2023-03-24">
+<author orcid="0000-0001-7160-3720" pid="143/6766">Marcos Antonio de Oliveira Junior</author>
+<author pid="r/LeilaRibeiro">Leila Ribeiro 0001</author>
+<author pid="53/6206">Lucio Mauro Duarte</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<title>Specification of Models Based on Contexts using Graph Grammars.</title>
+<pages>129-134</pages>
+<year>2013</year>
+<booktitle>WEIT</booktitle>
+<ee>https://doi.org/10.1109/WEIT.2013.36</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WEIT.2013.36</ee>
+<crossref>conf/weit/2013</crossref>
+<url>db/conf/weit/weit2013.html#JuniorRDC13</url>
+</inproceedings>
+</r>
+<r><article key="journals/et/HerveMALKC11" mdate="2020-09-11">
+<author pid="99/5691">Marcos Barcellos Herv&#233;</author>
+<author pid="37/5807">Marcelo de Souza Moraes</author>
+<author pid="24/6597">Pedro Almeida</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<author orcid="0000-0001-5767-8582" pid="l/FGdLimaKastensmidt">Fernanda Lima Kastensmidt</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<title>Functional Test of Mesh-Based NoCs with Deterministic Routing: Integrating the Test of Interconnects and Routers.</title>
+<pages>635-646</pages>
+<year>2011</year>
+<volume>27</volume>
+<journal>J. Electron. Test.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s10836-011-5246-3</ee>
+<url>db/journals/et/et27.html#HerveMALKC11</url>
+</article>
+</r>
+<r><article key="journals/jpdc/ConcattoAFHKCL11" mdate="2023-07-28">
+<author pid="71/6401">Caroline Concatto</author>
+<author pid="29/9486">Jo&#227;o Almeida</author>
+<author pid="30/9486">Guilherme Fachini</author>
+<author pid="99/5691">Marcos Herv&#233;</author>
+<author orcid="0000-0001-5767-8582" pid="l/FGdLimaKastensmidt">Fernanda Lima Kastensmidt</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<title>Improving the yield of NoC-based systems through fault diagnosis and adaptive routing.</title>
+<pages>664-674</pages>
+<year>2011</year>
+<volume>71</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/j.jpdc.2010.10.014</ee>
+<url>db/journals/jpdc/jpdc71.html#ConcattoAFHKCL11</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/Cota10" mdate="2016-04-05">
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<title>Embedded software testing: What kind of problem is this?</title>
+<pages>1486</pages>
+<year>2010</year>
+<booktitle>DATE</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1871283</ee>
+<crossref>conf/date/2010</crossref>
+<url>db/conf/date/date2010.html#Cota10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/BragaCKL10" mdate="2017-09-16">
+<author pid="26/9429">Matheus Braga</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author orcid="0000-0001-5767-8582" pid="l/FGdLimaKastensmidt">Fernanda Lima Kastensmidt</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<title>Efficiently using data splitting and retransmission to tolerate faults in networks-on-chip interconnects.</title>
+<pages>4101-4104</pages>
+<year>2010</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2010.5537611</ee>
+<crossref>conf/iscas/2010</crossref>
+<url>db/conf/iscas/iscas2010.html#BragaCKL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latw/HerveAKCL10" mdate="2023-08-06">
+<author pid="99/5691">Marcos Herv&#233;</author>
+<author pid="24/6597">Pedro Almeida</author>
+<author orcid="0000-0001-5767-8582" pid="l/FGdLimaKastensmidt">Fernanda Lima Kastensmidt</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<title>Concurrent test of Network-on-Chip interconnects and routers.</title>
+<pages>1-6</pages>
+<year>2010</year>
+<booktitle>LATW</booktitle>
+<ee>https://doi.org/10.1109/LATW.2010.5550355</ee>
+<crossref>conf/latw/2010</crossref>
+<url>db/conf/latw/latw2010.html#HerveAKCL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latw/TorriFSCCC10" mdate="2025-03-03">
+<author pid="352/7660">Lucas Torri</author>
+<author pid="30/9486">Guilherme Fachini</author>
+<author orcid="0000-0001-6587-425X" pid="17/8121">Leonardo Steinfeld</author>
+<author pid="352/8104">Vesmar Camara</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<title>An evaluation of free/open source static analysis tools applied to embedded software.</title>
+<pages>1-6</pages>
+<year>2010</year>
+<booktitle>LATW</booktitle>
+<ee>https://doi.org/10.1109/LATW.2010.5550368</ee>
+<crossref>conf/latw/2010</crossref>
+<url>db/conf/latw/latw2010.html#TorriFSCCC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi/BotelhoKLCC10" mdate="2017-05-24">
+<author pid="96/8746">Mariza Botelho</author>
+<author pid="l/FGdLimaKastensmidt">Fernanda Lima Kastensmidt</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="25/5214">Luigi Carro</author>
+<title>A broad strategy to detect crosstalk faults in network-on-chip interconnects.</title>
+<pages>298-303</pages>
+<year>2010</year>
+<booktitle>VLSI-SoC</booktitle>
+<ee>https://doi.org/10.1109/VLSISOC.2010.5642677</ee>
+<crossref>conf/vlsi/2010soc</crossref>
+<url>db/conf/vlsi/vlsisoc2010.html#BotelhoKLCC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vts/LubaszewskiC10" mdate="2017-05-25">
+<author pid="22/680">Marcelo Lubaszewski</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<title>Special session 12B: Embedded tutorial test and fault tolerance of networks-on-chip.</title>
+<pages>354</pages>
+<year>2010</year>
+<booktitle>VTS</booktitle>
+<ee>https://doi.org/10.1109/VTS.2010.5469530</ee>
+<crossref>conf/vts/2010</crossref>
+<url>db/conf/vts/vts2010.html#LubaszewskiC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iolts/ConcattoAKCLH09" mdate="2023-07-28">
+<author pid="71/6401">Caroline Concatto</author>
+<author pid="24/6597">Pedro Almeida</author>
+<author orcid="0000-0001-5767-8582" pid="l/FGdLimaKastensmidt">Fernanda Lima Kastensmidt</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<author pid="99/5691">Marcos Herv&#233;</author>
+<title>Improving yield of torus nocs through fault-diagnosis-and-repair of interconnect faults.</title>
+<pages>61-66</pages>
+<year>2009</year>
+<booktitle>IOLTS</booktitle>
+<ee>https://doi.org/10.1109/IOLTS.2009.5195984</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IOLTS.2009.5195984</ee>
+<crossref>conf/iolts/2009</crossref>
+<url>db/conf/iolts/iolts2009.html#ConcattoAKCLH09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latw/BequePC09" mdate="2023-08-01">
+<author pid="353/0244">Lucieli Tolfo Beque</author>
+<author pid="353/0951">Thiago Dai Pra</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<title>Testing requirements for an embedded operating system: The exception handling case study.</title>
+<pages>1-6</pages>
+<year>2009</year>
+<booktitle>LATW</booktitle>
+<ee>https://doi.org/10.1109/LATW.2009.4813804</ee>
+<crossref>conf/latw/2009</crossref>
+<url>db/conf/latw/latw2009.html#BequePC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latw/HerveCKL09" mdate="2023-08-06">
+<author pid="99/5691">Marcos Barcellos Herv&#233;</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author orcid="0000-0001-5767-8582" pid="l/FGdLimaKastensmidt">Fernanda Lima Kastensmidt</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<title>NoC interconnection functional testing: Using boundary-scan to reduce the overall testing time.</title>
+<pages>1-6</pages>
+<year>2009</year>
+<booktitle>LATW</booktitle>
+<ee>https://doi.org/10.1109/LATW.2009.4813801</ee>
+<crossref>conf/latw/2009</crossref>
+<url>db/conf/latw/latw2009.html#HerveCKL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nocs/HerveCKL09" mdate="2023-07-28">
+<author pid="99/5691">Marcos Herv&#233;</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author orcid="0000-0001-5767-8582" pid="l/FGdLimaKastensmidt">Fernanda Lima Kastensmidt</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<title>Diagnosis of interconnect shorts in mesh NoCs.</title>
+<pages>256-265</pages>
+<year>2009</year>
+<booktitle>NOCS</booktitle>
+<ee>https://doi.org/10.1109/NOCS.2009.5071475</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/NOCS.2009.5071475</ee>
+<crossref>conf/nocs/2009</crossref>
+<url>db/conf/nocs/nocs2009.html#HerveCKL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/ConcattoMCKSCK09" mdate="2018-11-06">
+<author pid="71/6401">Caroline Concatto</author>
+<author pid="70/5033">Debora Matos</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<author orcid="0000-0001-5767-8582" pid="l/FGdLimaKastensmidt">Fernanda Lima Kastensmidt</author>
+<author pid="00/4529">Altamiro Amadeu Susin</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="94/2009">M&#225;rcio Eduardo Kreutz</author>
+<title>Fault tolerant mechanism to improve yield in NoCs using a reconfigurable router.</title>
+<year>2009</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1145/1601896.1601929</ee>
+<crossref>conf/sbcci/2009</crossref>
+<url>db/conf/sbcci/sbcci2009.html#ConcattoMCKSCK09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/CotaCPRL09" mdate="2025-03-03">
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<author pid="38/1381">Felipe Pinto</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Augusto da Luz Reis</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<title>Resource-and-time-aware test strategy for configurable quaternary logic blocks.</title>
+<year>2009</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1145/1601896.1601922</ee>
+<crossref>conf/sbcci/2009</crossref>
+<url>db/conf/sbcci/sbcci2009.html#CotaCPRL09</url>
+</inproceedings>
+</r>
+<r><article key="journals/tc/CotaKCHAMAL08" mdate="2023-07-28">
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author orcid="0000-0001-5767-8582" pid="l/FGdLimaKastensmidt">Fernanda Gusm&#227;o de Lima Kastensmidt</author>
+<author pid="73/2991">Maico Cassel</author>
+<author pid="99/5691">Marcos Herv&#233;</author>
+<author pid="24/6597">Pedro Almeida</author>
+<author orcid="0000-0002-8923-2814" pid="37/5038">Paulo Meirelles</author>
+<author orcid="0000-0001-8432-3162" pid="41/1314">Alexandre M. Amory</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<title>A High-Fault-Coverage Approach for the Test of Data, Control and Handshake Interconnects in Mesh Networks-on-Chip.</title>
+<pages>1202-1215</pages>
+<year>2008</year>
+<volume>57</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TC.2008.62</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2008.62</ee>
+<url>db/journals/tc/tc57.html#CotaKCHAMAL08</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscas/MoratelliGCL08" mdate="2019-10-19">
+<author orcid="0000-0002-0739-0430" pid="123/2384">Carlos Roberto Moratelli</author>
+<author pid="44/129">Felipe Ghellar</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<title>A fault-tolerant, DFA-resistant AES core.</title>
+<pages>244-247</pages>
+<year>2008</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2008.4541400</ee>
+<crossref>conf/iscas/2008</crossref>
+<url>db/conf/iscas/iscas2008.html#MoratelliGCL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/DalmassoCFR08" mdate="2023-03-24">
+<author pid="31/4092">Julien Dalmasso</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="23/6156">Marie-Lise Flottes</author>
+<author pid="75/1130">Bruno Rouzeyre</author>
+<title>Improving the Test of NoC-Based SoCs with Help of Compression Schemes.</title>
+<pages>139-144</pages>
+<year>2008</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2008.86</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISVLSI.2008.86</ee>
+<crossref>conf/isvlsi/2008</crossref>
+<url>db/conf/isvlsi/isvlsi2008.html#DalmassoCFR08</url>
+</inproceedings>
+</r>
+<r><article key="journals/dt/FrantzCKCC07" mdate="2025-03-03">
+<author orcid="0000-0002-7226-4908" pid="23/358">Arthur Pereira Frantz</author>
+<author pid="73/2991">Maico Cassel</author>
+<author orcid="0000-0001-5767-8582" pid="l/FGdLimaKastensmidt">Fernanda Lima Kastensmidt</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<title>Crosstalk- and SEU-Aware Networks on Chips.</title>
+<pages>340-350</pages>
+<year>2007</year>
+<volume>24</volume>
+<journal>IEEE Des. Test Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/MDT.2007.128</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MDT.2007.128</ee>
+<url>db/journals/dt/dt24.html#FrantzCKCC07</url>
+</article>
+</r>
+<r><inproceedings key="conf/itc/CotaKCMAL07" mdate="2023-03-23">
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author orcid="0000-0001-5767-8582" pid="l/FGdLimaKastensmidt">Fernanda Lima Kastensmidt</author>
+<author pid="73/2991">Maico Cassel</author>
+<author orcid="0000-0002-8923-2814" pid="37/5038">Paulo Meirelles</author>
+<author orcid="0000-0001-8432-3162" pid="41/1314">Alexandre M. Amory</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<title>Redefining and testing interconnect faults in Mesh NoCs.</title>
+<pages>1-10</pages>
+<year>2007</year>
+<booktitle>ITC</booktitle>
+<ee>https://doi.org/10.1109/TEST.2007.4437574</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/TEST.2007.4437574</ee>
+<crossref>conf/itc/2007</crossref>
+<url>db/conf/itc/itc2007.html#CotaKCMAL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/SpechtRCLCW07" mdate="2019-10-19">
+<author pid="80/1592">Emilena Specht</author>
+<author pid="52/5699">Ricardo Miotto Redin</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<author orcid="0000-0003-1571-165X" pid="l/LCLamb">Lu&#237;s da Cunha Lamb</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="r/FlavioRechWagner">Fl&#225;vio Rech Wagner</author>
+<title>Analysis of the use of declarative languages for enhanced embedded system software development.</title>
+<pages>324-329</pages>
+<year>2007</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1145/1284480.1284565</ee>
+<crossref>conf/sbcci/2007</crossref>
+<url>db/conf/sbcci/sbcci2007.html#SpechtRCLCW07</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcad/CotaL06" mdate="2020-09-24">
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="63/623">Chunsheng Liu</author>
+<title>Constraint-Driven Test Scheduling for NoC-Based Systems.</title>
+<pages>2465-2478</pages>
+<year>2006</year>
+<volume>25</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TCAD.2006.881331</ee>
+<url>db/journals/tcad/tcad25.html#CotaL06</url>
+</article>
+</r>
+<r><inproceedings key="conf/iolts/FrantzCCK06" mdate="2025-03-03">
+<author orcid="0000-0002-7226-4908" pid="23/358">Arthur Pereira Frantz</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author orcid="0000-0001-5767-8582" pid="l/FGdLimaKastensmidt">Fernanda Lima Kastensmidt</author>
+<title>Evaluating SEU and Crosstalk Effects in Network-on-Chip Routers.</title>
+<pages>191-192</pages>
+<year>2006</year>
+<crossref>conf/iolts/2006</crossref>
+<booktitle>IOLTS</booktitle>
+<ee>https://doi.org/10.1109/IOLTS.2006.33</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IOLTS.2006.33</ee>
+<url>db/conf/iolts/iolts2006.html#FrantzCCK06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itc/FrantzKCC06" mdate="2025-03-03">
+<author orcid="0000-0002-7226-4908" pid="23/358">Arthur Pereira Frantz</author>
+<author orcid="0000-0001-5767-8582" pid="l/FGdLimaKastensmidt">Fernanda Lima Kastensmidt</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<title>Dependable Network-on-Chip Router Able to Simultaneously Tolerate Soft Errors and Crosstalk.</title>
+<pages>1-9</pages>
+<year>2006</year>
+<booktitle>ITC</booktitle>
+<ee>https://doi.org/10.1109/TEST.2006.297635</ee>
+<crossref>conf/itc/2006</crossref>
+<url>db/conf/itc/itc2006.html#FrantzKCC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/MoratelliCL06" mdate="2019-10-19">
+<author orcid="0000-0002-0739-0430" pid="123/2384">Carlos Roberto Moratelli</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<title>A cryptography core tolerant to DFA fault attacks.</title>
+<pages>190-195</pages>
+<year>2006</year>
+<crossref>conf/sbcci/2006</crossref>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1145/1150343.1150393</ee>
+<url>db/conf/sbcci/sbcci2006.html#MoratelliCL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/FrantzKCC06" mdate="2025-03-03">
+<author orcid="0000-0002-7226-4908" pid="23/358">Arthur Pereira Frantz</author>
+<author pid="l/FGdLimaKastensmidt">Fernanda Lima Kastensmidt</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<title>Evaluation of SEU and crosstalk effects in network-on-chip switches.</title>
+<pages>202-207</pages>
+<year>2006</year>
+<crossref>conf/sbcci/2006</crossref>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1145/1150343.1150395</ee>
+<url>db/conf/sbcci/sbcci2006.html#FrantzKCC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itc/AmoryBCLM05" mdate="2023-03-23">
+<author orcid="0000-0001-8432-3162" pid="41/1314">Alexandre M. Amory</author>
+<author pid="61/1123">Eduardo Wenzel Bri&#227;o</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<author orcid="0000-0001-6126-6847" pid="m/FernandoGehmMoraes">Fernando Gehm Moraes</author>
+<title>A scalable test strategy for network-on-chip routers.</title>
+<pages>9</pages>
+<year>2005</year>
+<booktitle>ITC</booktitle>
+<ee>https://doi.org/10.1109/TEST.2005.1584020</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/TEST.2005.1584020</ee>
+<crossref>conf/itc/2005</crossref>
+<url>db/conf/itc/itc2005.html#AmoryBCLM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/MoraesCCWL05" mdate="2018-11-06">
+<author pid="37/5807">Marcelo de Souza Moraes</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="r/FlavioRechWagner">Fl&#225;vio Rech Wagner</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<title>A constraint-based solution for on-line testing of processors embedded in real-time applications.</title>
+<pages>68-73</pages>
+<year>2005</year>
+<crossref>conf/sbcci/2005</crossref>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1145/1081081.1081104</ee>
+<url>db/conf/sbcci/sbcci2005.html#MoraesCCWL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vts/LiuISC05" mdate="2023-03-24">
+<author pid="63/623">Chunsheng Liu</author>
+<author pid="16/1135">Vikram Iyengar</author>
+<author pid="50/3826">Jiangfan Shi</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<title>Power-Aware Test Scheduling in Network-on-Chip Using Variable-Rate On-Chip Clocking.</title>
+<pages>349-354</pages>
+<year>2005</year>
+<crossref>conf/vts/2005</crossref>
+<booktitle>VTS</booktitle>
+<ee>https://doi.org/10.1109/VTS.2005.66</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/VTS.2005.66</ee>
+<url>db/conf/vts/vts2005.html#LiuISC05</url>
+</inproceedings>
+</r>
+<r><article key="journals/et/CotaCLO04" mdate="2020-09-11">
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<author pid="o/AlexOrailoglu">Alex Orailoglu</author>
+<title>Searching for Global Test Costs Optimization in Core-Based Systems.</title>
+<pages>357-373</pages>
+<year>2004</year>
+<volume>20</volume>
+<journal>J. Electron. Test.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1023/B:JETT.0000039604.64927.0f</ee>
+<url>db/journals/et/et20.html#CotaCLO04</url>
+</article>
+</r>
+<r><article key="journals/todaes/CotaCL04" mdate="2018-11-06">
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<title>Reusing an on-chip network for the test of core-based systems.</title>
+<pages>471-499</pages>
+<year>2004</year>
+<volume>9</volume>
+<journal>ACM Trans. Design Autom. Electr. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1027084.1027088</ee>
+<url>db/journals/todaes/todaes9.html#CotaCL04</url>
+</article>
+</r>
+<r><inproceedings key="conf/itc/LiuSCP04" mdate="2023-03-23">
+<author pid="63/623">Chunsheng Liu</author>
+<author pid="12/854">Hamid Sharif</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="p/DhirajKPradhan">Dhiraj K. Pradhan</author>
+<title>Test Scheduling for Network-on-Chip with BIST and Precedence Constraints.</title>
+<pages>1369-1378</pages>
+<year>2004</year>
+<crossref>conf/itc/2004</crossref>
+<booktitle>ITC</booktitle>
+<ee>https://doi.org/10.1109/TEST.2004.1387412</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ITC.2004.176</ee>
+<url>db/conf/itc/itc2004.html#LiuSCP04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/AndradeCL04" mdate="2018-11-06">
+<author pid="97/4168">Antonio Andrade Jr.</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<title>Improving mixed-signal SOC testing: a power-aware reuse-based approach with analog BIST.</title>
+<pages>105-110</pages>
+<year>2004</year>
+<crossref>conf/sbcci/2004</crossref>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1145/1016568.1016601</ee>
+<url>db/conf/sbcci/sbcci2004.html#AndradeCL04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/AmoryCLM04" mdate="2022-10-02">
+<author orcid="0000-0001-8432-3162" pid="41/1314">Alexandre M. Amory</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<author orcid="0000-0001-6126-6847" pid="m/FernandoGehmMoraes">Fernando Gehm Moraes</author>
+<title>Reducing test time with processor reuse in network-on-chip based systems.</title>
+<pages>111-116</pages>
+<year>2004</year>
+<crossref>conf/sbcci/2004</crossref>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1145/1016568.1016602</ee>
+<url>db/conf/sbcci/sbcci2004.html#AmoryCLM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itc/CotaCWL03" mdate="2023-03-23">
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="r/FlavioRechWagner">Fl&#225;vio Rech Wagner</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<title>Power-aware NoC Reuse on the Testing of Core-based Systems.</title>
+<pages>612-621</pages>
+<year>2003</year>
+<crossref>conf/itc/2003</crossref>
+<booktitle>ITC</booktitle>
+<ee>https://doi.org/10.1109/TEST.2003.1270888</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/TEST.2003.1270888</ee>
+<url>db/conf/itc/itc2003.html#CotaCWL03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vts/CotaKZCLS03" mdate="2023-03-24">
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="94/2009">M&#225;rcio Eduardo Kreutz</author>
+<author orcid="0000-0003-3039-4410" pid="23/1335">Cesar A. Zeferino</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<author pid="00/4529">Altamiro Amadeu Susin</author>
+<title>The Impact of NoC Reuse on the Testing of Core-based Systems.</title>
+<pages>128-133</pages>
+<year>2003</year>
+<crossref>conf/vts/2003</crossref>
+<booktitle>VTS</booktitle>
+<ee>https://doi.org/10.1109/VTEST.2003.1197643</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/VTEST.2003.1197643</ee>
+<url>db/conf/vts/vts2003.html#CotaKZCLS03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/CotaCLO02" mdate="2023-03-24">
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<author pid="o/AlexOrailoglu">Alex Orailoglu</author>
+<title>Test Planning and Design Space Exploration in a Core-Based Environment.</title>
+<pages>478-485</pages>
+<year>2002</year>
+<crossref>conf/date/2002</crossref>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2002.998316</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DATE.2002.998316</ee>
+<ee>http://dl.acm.org/citation.cfm?id=874546</ee>
+<url>db/conf/date/date2002.html#CotaCLO02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latw/CotaCOL02" mdate="2023-07-26">
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="o/AlexOrailoglu">Alex Orailoglu</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<title>Generic and Detailed Search for TAM Definition in Core-Based Systems.</title>
+<pages>160-164</pages>
+<year>2002</year>
+<booktitle>LATW</booktitle>
+<crossref>conf/latw/2002</crossref>
+<url>db/conf/latw/latw2002.html#CotaCOL02</url>
+</inproceedings>
+</r>
+<r><article key="journals/et/CotaLRCVLR01" mdate="2025-03-03">
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="l/FGdLimaKastensmidt">Fernanda Lima 0001</author>
+<author pid="82/2028">Sana Rezgui</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<author pid="91/912">Raoul Velazco</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Reis 0001</author>
+<title>Synthesis of an 8051-Like Micro-Controller Tolerant to Transient Faults.</title>
+<pages>149-161</pages>
+<year>2001</year>
+<volume>17</volume>
+<journal>J. Electron. Test.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1023/A:1011125927317</ee>
+<url>db/journals/et/et17.html#CotaLRCVLR01</url>
+</article>
+</r>
+<r><inproceedings key="conf/latw/CotaCL01" mdate="2023-07-25">
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<title>A Test Method for a Broad Class of DSP Circuits.</title>
+<pages>214-219</pages>
+<year>2001</year>
+<booktitle>LATW</booktitle>
+<crossref>conf/latw/2001</crossref>
+<url>db/conf/latw/latw2001.html#CotaCL01</url>
+</inproceedings>
+</r>
+<r><article key="journals/tim/CotaNCL00" mdate="2023-09-30">
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author orcid="0000-0002-8525-6229" pid="42/280">Marcelo Negreiros</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<title>A new adaptive analog test and diagnosis system.</title>
+<pages>223-227</pages>
+<year>2000</year>
+<volume>49</volume>
+<journal>IEEE Trans. Instrum. Meas.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/19.843053</ee>
+<url>db/journals/tim/tim49.html#CotaNCL00</url>
+</article>
+</r>
+<r><inproceedings key="conf/ats/CarroCLBAR00" mdate="2023-03-24">
+<author pid="25/5214">Luigi Carro</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<author pid="22/4520">Yves Bertrand</author>
+<author pid="49/2745">Florence Aza&#239;s</author>
+<author pid="08/6904">Michel Renovell</author>
+<title>TI-BIST: a temperature independent analog BIST for switched-capacitor filters.</title>
+<pages>78-83</pages>
+<year>2000</year>
+<crossref>conf/ats/2000</crossref>
+<booktitle>Asian Test Symposium</booktitle>
+<ee>https://doi.org/10.1109/ATS.2000.893606</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ATS.2000.893606</ee>
+<url>db/conf/ats/ats2000.html#CarroCLBAR00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/CotaRABCL00" mdate="2023-03-24">
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="08/6904">Michel Renovell</author>
+<author pid="49/2745">Florence Aza&#239;s</author>
+<author pid="22/4520">Yves Bertrand</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<title>Reuse of Existing Resources for Analog BIST of a Switch Capacitor Filte.</title>
+<pages>226-230</pages>
+<year>2000</year>
+<crossref>conf/date/2000</crossref>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2000.840043</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DATE.2000.840043</ee>
+<ee>https://doi.org/10.1145/343647.343767</ee>
+<url>db/conf/date/date2000.html#CotaRABCL00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latw/CarroRCLBA00" mdate="2023-07-25">
+<author pid="25/5214">Luigi Carro</author>
+<author pid="08/6904">Michel Renovell</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<author pid="22/4520">Yves Bertrand</author>
+<author pid="49/2745">Florence Aza&#239;s</author>
+<title>On the Temperature Dependencies of Analog BIST.</title>
+<pages>88-93</pages>
+<year>2000</year>
+<booktitle>LATW</booktitle>
+<crossref>conf/latw/2000</crossref>
+<url>db/conf/latw/latw2000.html#CarroRCLBA00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latw/CotaLVR00" mdate="2023-07-25">
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<author pid="352/3326">Raoul Velasco</author>
+<author pid="82/2028">Sana Rezgui</author>
+<title>Synthesis of a 8051-Like Microcontroller Tolerant to Transient Faults.</title>
+<pages>134-139</pages>
+<year>2000</year>
+<booktitle>LATW</booktitle>
+<crossref>conf/latw/2000</crossref>
+<url>db/conf/latw/latw2000.html#CotaLVR00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/LimaCCL0VR00" mdate="2022-06-02">
+<author pid="l/FGdLimaKastensmidt">Fernanda Gusm&#227;o de Lima</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<author pid="r/RAdaLuzReis">Ricardo Reis 0001</author>
+<author pid="91/912">Raoul Velazco</author>
+<author pid="82/2028">Sana Rezgui</author>
+<title>Designing a Radiation Hardened 8051-Like Micro-Controller.</title>
+<pages>255-262</pages>
+<year>2000</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://dl.acm.org/doi/10.5555/827245.827277</ee>
+<crossref>conf/sbcci/2000</crossref>
+<url>db/conf/sbcci/sbcci2000.html#LimaCCL0VR00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/CotaCL99" mdate="2023-03-24">
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<title>A Method to Diagnose Faults in Linear Analog Circuits using an Adaptive Tester.</title>
+<pages>184-188</pages>
+<year>1999</year>
+<crossref>conf/date/1999</crossref>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.1999.761119</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DATE.1999.761119</ee>
+<ee>https://doi.org/10.1145/307418.307487</ee>
+<url>db/conf/date/date1999.html#CotaCL99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itc/CharlotMCLC99" mdate="2023-03-23">
+<author pid="15/6481">Beno&#238;t Charlot</author>
+<author pid="78/6168">Salvador Mir</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<author pid="09/6431">Bernard Courtois</author>
+<title>Fault modeling of suspended thermal MEMS.</title>
+<pages>319-328</pages>
+<year>1999</year>
+<crossref>conf/itc/1999</crossref>
+<booktitle>ITC</booktitle>
+<url>db/conf/itc/itc1999.html#CharlotMCLC99</url>
+<ee>https://doi.org/10.1109/TEST.1999.805646</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/TEST.1999.805646</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/LubaszewskiCC98" mdate="2023-03-24">
+<author pid="22/680">Marcelo Lubaszewski</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="09/6431">Bernard Courtois</author>
+<title>Microsystems Testing: an Approach and Open Problems.</title>
+<pages>524-528</pages>
+<year>1998</year>
+<crossref>conf/date/1998</crossref>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.1998.655908</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DATE.1998.655908</ee>
+<ee>http://dl.acm.org/citation.cfm?id=368290</ee>
+<url>db/conf/date/date1998.html#LubaszewskiCC98</url>
+</inproceedings>
+</r>
+<r><article key="journals/jbcs/CotaDL97" mdate="2020-05-20">
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="91/1401">Jos&#233; Di Elias Dom&#234;nico</author>
+<author pid="22/680">Marcelo Lubaszewski</author>
+<title>A CAT Tool for Frequency-domain Testing and Diagnosis on Analog.</title>
+<year>1997</year>
+<volume>4</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>2</number>
+<url>db/journals/jbcs/jbcs4.html#CotaDL97</url>
+</article>
+</r>
+<coauthors n="76" nc="3">
+<co c="0"><na f="a/Almeida:Jo=atilde=o" pid="29/9486">Jo&#227;o Almeida</na></co>
+<co c="0"><na f="a/Almeida:Pedro" pid="24/6597">Pedro Almeida</na></co>
+<co c="0"><na f="a/Amory:Alexandre_M=" pid="41/1314">Alexandre M. Amory</na></co>
+<co c="0"><na f="a/Andrade_Jr=:Antonio" pid="97/4168">Antonio Andrade Jr.</na></co>
+<co c="0"><na f="a/Aza=iuml=s:Florence" pid="49/2745">Florence Aza&#239;s</na></co>
+<co c="2"><na f="b/Beque:Lucieli_Tolfo" pid="353/0244">Lucieli Tolfo Beque</na></co>
+<co c="0"><na f="b/Bertrand:Yves" pid="22/4520">Yves Bertrand</na></co>
+<co c="0"><na f="b/Bezerra:Jonas_Santos" pid="187/9585">Jonas Santos Bezerra</na></co>
+<co c="1"><na f="b/Borges:Rafael" pid="22/19">Rafael Borges</na></co>
+<co c="0"><na f="b/Botelho:Mariza" pid="96/8746">Mariza Botelho</na></co>
+<co c="0"><na f="b/Braga:Matheus" pid="26/9429">Matheus Braga</na></co>
+<co c="0"><na f="b/Bri=atilde=o:Eduardo_Wenzel" pid="61/1123">Eduardo Wenzel Bri&#227;o</na></co>
+<co c="0"><na f="c/Camara:Vesmar" pid="352/8104">Vesmar Camara</na></co>
+<co c="0"><na f="c/Carro:Luigi" pid="25/5214">Luigi Carro</na></co>
+<co c="0"><na f="c/Cassel:Maico" pid="73/2991">Maico Cassel</na></co>
+<co c="0"><na f="c/Charlot:Beno=icirc=t" pid="15/6481">Beno&#238;t Charlot</na></co>
+<co c="0"><na f="c/Concatto:Caroline" pid="71/6401">Caroline Concatto</na></co>
+<co c="0"><na f="c/Costa:Andrei" pid="143/6780">Andrei Costa</na></co>
+<co c="0"><na f="c/Cota:Gl=aacute=ucia" pid="202/6614">Gl&#225;ucia Cota</na></co>
+<co c="0"><na f="c/Courtois:Bernard" pid="09/6431">Bernard Courtois</na></co>
+<co c="0"><na f="d/Dalmasso:Julien" pid="31/4092">Julien Dalmasso</na></co>
+<co c="0"><na f="d/Dom=ecirc=nico:Jos=eacute=_Di_Elias" pid="91/1401">Jos&#233; Di Elias Dom&#234;nico</na></co>
+<co c="0"><na f="d/Duarte:Lucio_Mauro" pid="53/6206">Lucio Mauro Duarte</na></co>
+<co c="0"><na f="f/Fachini:Guilherme" pid="30/9486">Guilherme Fachini</na></co>
+<co c="0"><na f="f/Fantinato:Marcelo" pid="83/468">Marcelo Fantinato</na></co>
+<co c="0"><na f="f/Faustini:Pedro" pid="155/4367">Pedro Faustini</na></co>
+<co c="0"><na f="f/Fernandes:Thiago_Soares" pid="171/6208">Thiago Soares Fernandes</na></co>
+<co c="0"><na f="f/Flottes:Marie=Lise" pid="23/6156">Marie-Lise Flottes</na></co>
+<co c="0"><na f="f/Frantz:Arthur_Pereira" pid="23/358">Arthur Pereira Frantz</na></co>
+<co c="0"><na f="g/Ghellar:Felipe" pid="44/129">Felipe Ghellar</na></co>
+<co c="0" n="2"><na f="h/Herv=eacute=:Marcos" pid="99/5691">Marcos Herv&#233;</na><na>Marcos Barcellos Herv&#233;</na></co>
+<co c="0"><na f="i/Iyengar:Vikram" pid="16/1135">Vikram Iyengar</na></co>
+<co c="0"><na f="j/Junior:Marcos_Antonio_de_Oliveira" pid="143/6766">Marcos Antonio de Oliveira Junior</na></co>
+<co c="0" n="4"><na f="k/Kastensmidt:Fernanda_Lima" pid="l/FGdLimaKastensmidt">Fernanda Lima Kastensmidt</na><na>Fernanda Gusm&#227;o de Lima Kastensmidt</na><na>Fernanda Gusm&#227;o de Lima</na><na>Fernanda Lima 0001</na></co>
+<co c="0"><na f="k/Kreutz:M=aacute=rcio_Eduardo" pid="94/2009">M&#225;rcio Eduardo Kreutz</na></co>
+<co c="0" n="2"><na f="l/Lamb:Lu=iacute=s_C=" pid="l/LCLamb">Lu&#237;s C. Lamb</na><na>Lu&#237;s da Cunha Lamb</na></co>
+<co c="0"><na f="l/Liu:Chunsheng" pid="63/623">Chunsheng Liu</na></co>
+<co c="0"><na f="l/Lubaszewski:Marcelo" pid="22/680">Marcelo Lubaszewski</na></co>
+<co c="0"><na f="m/Machado:Rodrigo" pid="33/4758">Rodrigo Machado</na></co>
+<co c="0"><na f="m/Matos:Debora" pid="70/5033">Debora Matos</na></co>
+<co c="0"><na f="m/Meirelles:Paulo" pid="37/5038">Paulo Meirelles</na></co>
+<co c="0"><na f="m/Mir:Salvador" pid="78/6168">Salvador Mir</na></co>
+<co c="0"><na f="m/Moraes:Fernando_Gehm" pid="m/FernandoGehmMoraes">Fernando Gehm Moraes</na></co>
+<co c="0"><na f="m/Moraes:Marcelo_de_Souza" pid="37/5807">Marcelo de Souza Moraes</na></co>
+<co c="0" n="2"><na f="m/Moratelli:Carlos" pid="123/2384">Carlos Moratelli</na><na>Carlos Roberto Moratelli</na></co>
+<co c="0" n="2"><na f="m/Moreira:=Aacute=lvaro_F=" pid="50/3403">&#193;lvaro F. Moreira</na><na>&#193;lvaro Freitas Moreira</na></co>
+<co c="0"><na f="n/Negreiros:Marcelo" pid="42/280">Marcelo Negreiros</na></co>
+<co c="1"><na f="n/Niemiec:William" pid="303/3134">William Niemiec</na></co>
+<co c="0"><na f="n/Nunes:Ingrid" pid="48/5352">Ingrid Nunes</na></co>
+<co c="0"><na f="o/Oliveira_Jr=:Marcos" pid="185/0387">Marcos Oliveira Jr.</na></co>
+<co c="0"><na f="o/Orailoglu:Alex" pid="o/AlexOrailoglu">Alex Orailoglu</na></co>
+<co c="0"><na f="p/Pinto:Felipe" pid="38/1381">Felipe Pinto</na></co>
+<co c="2"><na f="p/Pra:Thiago_Dai" pid="353/0951">Thiago Dai Pra</na></co>
+<co c="0"><na f="p/Pradhan:Dhiraj_K=" pid="p/DhirajKPradhan">Dhiraj K. Pradhan</na></co>
+<co c="0"><na f="r/Redin:Ricardo_Miotto" pid="52/5699">Ricardo Miotto Redin</na></co>
+<co c="0"><na f="r/Reis:Filipe" pid="185/0374">Filipe Reis</na></co>
+<co c="0" n="2"><na f="r/Reis:Ricardo_Augusto_da_Luz" pid="r/RAdaLuzReis">Ricardo Augusto da Luz Reis</na><na>Ricardo Reis 0001</na></co>
+<co c="0"><na f="r/Renovell:Michel" pid="08/6904">Michel Renovell</na></co>
+<co c="0"><na f="r/Rezgui:Sana" pid="82/2028">Sana Rezgui</na></co>
+<co c="0"><na f="r/Ribeiro_0001:Leila" pid="r/LeilaRibeiro">Leila Ribeiro 0001</na></co>
+<co c="0"><na f="r/Rouzeyre:Bruno" pid="75/1130">Bruno Rouzeyre</na></co>
+<co c="0"><na f="s/Santos:Carlos_Habekost_dos" pid="166/2221">Carlos Habekost dos Santos</na></co>
+<co c="0"><na f="s/Sharif:Hamid" pid="12/854">Hamid Sharif</na></co>
+<co c="0"><na f="s/Shi:Jiangfan" pid="50/3826">Jiangfan Shi</na></co>
+<co c="1"><na f="s/Silva:Keslley" pid="282/4990">Keslley Silva</na></co>
+<co c="0"><na f="s/Silva:Rosiana_Estefane_da" pid="202/6459">Rosiana Estefane da Silva</na></co>
+<co c="0"><na f="s/Specht:Emilena" pid="80/1592">Emilena Specht</na></co>
+<co c="0"><na f="s/Steinfeld:Leonardo" pid="17/8121">Leonardo Steinfeld</na></co>
+<co c="0"><na f="s/Susin:Altamiro_Amadeu" pid="00/4529">Altamiro Amadeu Susin</na></co>
+<co c="0"><na f="t/Thom:Lucin=eacute=ia_Heloisa" pid="29/181">Lucin&#233;ia Heloisa Thom</na></co>
+<co c="0"><na f="t/Torri:Lucas" pid="352/7660">Lucas Torri</na></co>
+<co c="0"><na f="v/Velasco:Raoul" pid="352/3326">Raoul Velasco</na></co>
+<co c="0"><na f="v/Velazco:Raoul" pid="91/912">Raoul Velazco</na></co>
+<co c="0"><na f="v/Vieira:Andrws" pid="155/4369">Andrws Vieira</na></co>
+<co c="0"><na f="w/Wagner:Fl=aacute=vio_Rech" pid="r/FlavioRechWagner">Fl&#225;vio Rech Wagner</na></co>
+<co c="0"><na f="z/Zeferino:Cesar_A=" pid="23/1335">Cesar A. Zeferino</na></co>
+</coauthors>
+</dblpperson>
+

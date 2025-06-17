@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<dblpperson name="Vin&#237;cius Garcia Pinto" pid="235/7229" n="9">
+<person key="homepages/235/7229" mdate="2019-02-16">
+<author pid="235/7229">Vin&#237;cius Garcia Pinto</author>
+</person>
+<r><inproceedings key="conf/pdp/NesiPSL23" mdate="2023-06-07">
+<author pid="223/1149">Lucas Leandro Nesi</author>
+<author pid="235/7229">Vin&#237;cius Garcia Pinto</author>
+<author pid="57/3743">Lucas Mello Schnorr</author>
+<author pid="68/6937">Arnaud Legrand</author>
+<title>Summarizing task-based applications behavior over many nodes through progression clustering.</title>
+<pages>35-42</pages>
+<year>2023</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP59025.2023.00014</ee>
+<crossref>conf/pdp/2023</crossref>
+<url>db/conf/pdp/pdp2023.html#NesiPSL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/PintoNMS21" mdate="2021-06-28">
+<author pid="235/7229">Vin&#237;cius Garcia Pinto</author>
+<author pid="223/1149">Lucas Leandro Nesi</author>
+<author pid="244/1533">Marcelo Cogo Miletto</author>
+<author pid="57/3743">Lucas Mello Schnorr</author>
+<title>Providing In-depth Performance Analysis for Heterogeneous Task-based Applications with StarVZ.</title>
+<pages>16-25</pages>
+<year>2021</year>
+<booktitle>IPDPS Workshops</booktitle>
+<ee>https://doi.org/10.1109/IPDPSW52791.2021.00013</ee>
+<crossref>conf/ipps/2021w</crossref>
+<url>db/conf/ipps/ipdps2021w.html#PintoNMS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/DagostiniSPVGS21" mdate="2025-04-09">
+<author pid="295/7841">Jessica Imlau Dagostini</author>
+<author pid="295/8198">Henrique Corr&#234;a Pereira da Silva</author>
+<author pid="235/7229">Vin&#237;cius Garcia Pinto</author>
+<author orcid="0000-0003-0801-7934" pid="295/7851">Roberto Machado Velho</author>
+<author pid="71/8697">Eduardo S. L. Gastal</author>
+<author pid="57/3743">Lucas Mello Schnorr</author>
+<title>Improving Workload Balance of a Marine CSEM Inversion Application.</title>
+<pages>704-713</pages>
+<year>2021</year>
+<booktitle>IPDPS Workshops</booktitle>
+<ee>https://doi.org/10.1109/IPDPSW52791.2021.00107</ee>
+<crossref>conf/ipps/2021w</crossref>
+<url>db/conf/ipps/ipdps2021w.html#DagostiniSPVGS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/LimaFPSN19" mdate="2020-12-29">
+<author pid="98/8779">Joao Vicente Ferreira Lima</author>
+<author orcid="0000-0001-6081-5904" pid="237/7437">Gabriel Freytag</author>
+<author pid="235/7229">Vin&#237;cius Garcia Pinto</author>
+<author orcid="0000-0003-4118-8831" pid="79/5559">Claudio Schepke</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<title>A Dynamic Task-Based D3Q19 Lattice-Boltzmann Method for Heterogeneous Architectures.</title>
+<pages>108-115</pages>
+<year>2019</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/EMPDP.2019.8671583</ee>
+<crossref>conf/pdp/2019</crossref>
+<url>db/conf/pdp/pdp2019.html#LimaFPSN19</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Pinto18" mdate="2020-07-21">
+<author pid="235/7229">Vin&#237;cius Garcia Pinto</author>
+<title>Performance Analysis Strategies for Task-based Applications on Hybrid Platforms. (Strat&#233;gies d'analyse de performance pour les applications bas&#233;es sur t&#226;ches sur plates-formes hybrides).</title>
+<year>2018</year>
+<school>Universidade Federal do Rio Grande do Sul, Porto Alegre, Brazil</school>
+<school>Grenoble Alpes University, France</school>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-01962333</ee>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-02063804</ee>
+</phdthesis>
+</r>
+<r><article key="journals/concurrency/PintoSSLTD18" mdate="2025-01-19">
+<author orcid="0000-0002-6845-9358" pid="235/7229">Vin&#237;cius Garcia Pinto</author>
+<author orcid="0000-0003-4828-9942" pid="57/3743">Lucas Mello Schnorr</author>
+<author orcid="0000-0001-8272-9177" pid="129/7569">Luka Stanisic</author>
+<author orcid="0000-0002-8415-1046" pid="68/6937">Arnaud Legrand</author>
+<author orcid="0000-0001-6411-809X" pid="52/1362">Samuel Thibault</author>
+<author orcid="0000-0002-1304-8404" pid="10/1770">Vincent Danjean</author>
+<title>A visual performance analysis framework for task-based parallel applications running on hybrid clusters.</title>
+<year>2018</year>
+<volume>30</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1002/cpe.4472</ee>
+<ee>https://www.wikidata.org/entity/Q130013414</ee>
+<url>db/journals/concurrency/concurrency30.html#PintoSSLTD18</url>
+</article>
+</r>
+<r><inproceedings key="conf/sc/PintoSLSTD16" mdate="2019-04-25">
+<author pid="235/7229">Vin&#237;cius Garcia Pinto</author>
+<author pid="129/7569">Luka Stanisic</author>
+<author pid="68/6937">Arnaud Legrand</author>
+<author pid="57/3743">Lucas Mello Schnorr</author>
+<author pid="52/1362">Samuel Thibault</author>
+<author pid="10/1770">Vincent Danjean</author>
+<title>Analyzing Dynamic Task-Based Applications on Hybrid Platforms: An Agile Scripting Approach.</title>
+<pages>17-24</pages>
+<year>2016</year>
+<booktitle>VPA@SC</booktitle>
+<ee>https://doi.org/10.1109/VPA.2016.008</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3019118</ee>
+<crossref>conf/sc/2016vpa</crossref>
+<url>db/conf/sc/vpa2016.html#PintoSLSTD16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/PintoHS15" mdate="2023-03-23">
+<author pid="235/7229">Vin&#237;cius Garcia Pinto</author>
+<author pid="177/2471">Vinicius Alves Herbstrith</author>
+<author pid="57/3743">Lucas Mello Schnorr</author>
+<title>Replicating the Performance Evaluation of an N-Body Application on a Manycore Accelerator.</title>
+<pages>19-24</pages>
+<year>2015</year>
+<booktitle>SBAC-PAD (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PADW.2015.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PADW.2015.17</ee>
+<crossref>conf/sbac-pad/2015w</crossref>
+<url>db/conf/sbac-pad/sbac-pad2015w.html#PintoHS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wscad/PintoM12" mdate="2023-09-30">
+<author pid="235/7229">Vin&#237;cius Garcia Pinto</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<title>Work Stealing on Hybrid Architectures.</title>
+<pages>17-24</pages>
+<year>2012</year>
+<booktitle>WSCAD-SSC</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WSCAD-SSC.2012.28</ee>
+<crossref>conf/wscad/2012</crossref>
+<url>db/conf/wscad/wscad2012.html#PintoM12</url>
+</inproceedings>
+</r>
+<coauthors n="17" nc="1">
+<co c="0"><na f="d/Dagostini:Jessica_Imlau" pid="295/7841">Jessica Imlau Dagostini</na></co>
+<co c="0"><na f="d/Danjean:Vincent" pid="10/1770">Vincent Danjean</na></co>
+<co c="0"><na f="f/Freytag:Gabriel" pid="237/7437">Gabriel Freytag</na></co>
+<co c="0"><na f="g/Gastal:Eduardo_S=_L=" pid="71/8697">Eduardo S. L. Gastal</na></co>
+<co c="0"><na f="h/Herbstrith:Vinicius_Alves" pid="177/2471">Vinicius Alves Herbstrith</na></co>
+<co c="0"><na f="l/Legrand:Arnaud" pid="68/6937">Arnaud Legrand</na></co>
+<co c="0" n="2"><na f="l/Lima:Jo=atilde=o_V=_F=" pid="98/8779">Jo&#227;o V. F. Lima</na><na>Joao Vicente Ferreira Lima</na></co>
+<co c="0"><na f="m/Maillard:Nicolas" pid="58/1754">Nicolas Maillard</na></co>
+<co c="0" n="2"><na f="m/Miletto:Marcelo" pid="244/1533">Marcelo Miletto</na><na>Marcelo Cogo Miletto</na></co>
+<co c="0" n="2"><na f="n/Navaux:Philippe_Olivier_Alexandre" pid="74/1262">Philippe Olivier Alexandre Navaux</na><na>Philippe O. A. Navaux</na></co>
+<co c="0"><na f="n/Nesi:Lucas_Leandro" pid="223/1149">Lucas Leandro Nesi</na></co>
+<co c="0"><na f="s/Schepke:Claudio" pid="79/5559">Claudio Schepke</na></co>
+<co c="0"><na f="s/Schnorr:Lucas_Mello" pid="57/3743">Lucas Mello Schnorr</na></co>
+<co c="0"><na f="s/Silva:Henrique_Corr=ecirc=a_Pereira_da" pid="295/8198">Henrique Corr&#234;a Pereira da Silva</na></co>
+<co c="0"><na f="s/Stanisic:Luka" pid="129/7569">Luka Stanisic</na></co>
+<co c="0"><na f="t/Thibault:Samuel" pid="52/1362">Samuel Thibault</na></co>
+<co c="0"><na f="v/Velho:Roberto_Machado" pid="295/7851">Roberto Machado Velho</na></co>
+</coauthors>
+</dblpperson>
+
