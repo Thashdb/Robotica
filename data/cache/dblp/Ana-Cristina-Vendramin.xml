@@ -1,8 +1,40 @@
 <?xml version="1.0"?>
-<dblpperson name="Ana Cristina B. Kochem Vendramin" pid="96/9459" n="10">
+<dblpperson name="Ana Cristina B. Kochem Vendramin" pid="96/9459" n="12">
 <person key="homepages/96/9459" mdate="2011-04-19">
 <author pid="96/9459">Ana Cristina B. Kochem Vendramin</author>
 </person>
+<r><article key="journals/jisa/VenturaMVP25" mdate="2025-06-16">
+<author pid="407/4571">Heitor Tonel Ventura</author>
+<author pid="407/3257">Raian de Almeida Moretti</author>
+<author pid="96/9459">Ana Cristina B. Kochem Vendramin</author>
+<author pid="72/10701">Daniel Fernando Pigatto</author>
+<title>Intrusion detection in vehicular networks using machine learning.</title>
+<pages>174-193</pages>
+<year>2025</year>
+<volume>16</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5753/jisa.2025.5017</ee>
+<url>db/journals/jisa/jisa16.html#VenturaMVP25</url>
+<stream>streams/journals/jisa</stream>
+</article>
+</r>
+<r><article key="journals/jisa/CruzVPS25" mdate="2025-06-16">
+<author pid="407/3491">Diogo Vinicius Martins Da Cruz</author>
+<author pid="96/9459">Ana Cristina B. Kochem Vendramin</author>
+<author pid="72/10701">Daniel Fernando Pigatto</author>
+<author pid="94/13">Juliana de Santi</author>
+<title>A Fuzzy Inference System for DDoS Identification in Fog Computing based on Energy Consumption.</title>
+<pages>209-223</pages>
+<year>2025</year>
+<volume>16</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5753/jisa.2025.5161</ee>
+<url>db/journals/jisa/jisa16.html#CruzVPS25</url>
+<stream>streams/journals/jisa</stream>
+</article>
+</r>
 <r><article key="journals/jirs/BasilioVMM20" mdate="2020-10-06">
 <author pid="165/3647">Giovanna G. Basilio</author>
 <author orcid="0000-0002-1234-0884" pid="96/9459">Ana Cristina B. Kochem Vendramin</author>
@@ -149,19 +181,24 @@
 <url>db/conf/sccc/sccc2010.html#ColanziAPVP10</url>
 </inproceedings>
 </r>
-<coauthors n="14" nc="1">
+<coauthors n="19" nc="1">
 <co c="0" n="2"><na f="a/Assun=ccedil==atilde=o:Wesley_K=_G=" pid="90/9459">Wesley K. G. Assun&#231;&#227;o</na><na>Wesley Klewerton Guez Assun&#231;&#227;o</na></co>
 <co c="0"><na f="b/Basilio:Giovanna_G=" pid="165/3647">Giovanna G. Basilio</na></co>
 <co c="0"><na f="c/Colanzi:Thelma_Elita" pid="84/1707">Thelma Elita Colanzi</na></co>
+<co c="0"><na f="c/Cruz:Diogo_Vinicius_Martins_Da" pid="407/3491">Diogo Vinicius Martins Da Cruz</na></co>
 <co c="0" n="3"><na f="d/Delgado:Myriam" pid="80/3289">Myriam Delgado</na><na>Myriam Regattieri Delgado</na><na>Myriam Regattieri de Biase da Silva Delgado</na></co>
 <co c="0"><na f="f/Filho:Pedro_Luiz_de_Paula" pid="98/3369">Pedro Luiz de Paula Filho</na></co>
 <co c="0"><na f="f/Fonseca:Mauro" pid="37/786">Mauro Fonseca</na></co>
 <co c="0"><na f="m/Mendes:Luis_Guilherme_Bergamini" pid="233/5469">Luis Guilherme Bergamini Mendes</na></co>
 <co c="0"><na f="m/Monego:Hermes_Irineu_Del" pid="05/2740">Hermes Irineu Del Monego</na></co>
+<co c="0"><na f="m/Moretti:Raian_de_Almeida" pid="407/3257">Raian de Almeida Moretti</na></co>
 <co c="0"><na f="m/Munaretto:Anelise" pid="09/2276">Anelise Munaretto</na></co>
 <co c="0"><na f="o/Oliveira:Jaquinei_de" pid="164/8729">Jaquinei de Oliveira</na></co>
 <co c="0"><na f="p/Pereira:Diogo_Augusto_Barros" pid="29/9459">Diogo Augusto Barros Pereira</na></co>
+<co c="0" n="2"><na f="p/Pigatto:Daniel_F=" pid="72/10701">Daniel F. Pigatto</na><na>Daniel Fernando Pigatto</na></co>
 <co c="0" n="2"><na f="p/Pozo:Aurora_T=_R=" pid="p/AuroraPozo">Aurora T. R. Pozo</na><na>Aurora Trinidad Ramirez Pozo</na></co>
+<co c="0"><na f="s/Santi:Juliana_de" pid="94/13">Juliana de Santi</na></co>
+<co c="0"><na f="v/Ventura:Heitor_Tonel" pid="407/4571">Heitor Tonel Ventura</na></co>
 <co c="0"><na f="v/Viana:Aline_Carneiro" pid="91/6813">Aline Carneiro Viana</na></co>
 <co c="0"><na f="z/Zorzo:Carlos_Alberto" pid="42/10759">Carlos Alberto Zorzo</na></co>
 </coauthors>

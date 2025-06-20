@@ -532,8 +532,8 @@ def add_new_paper(weight, doi, title, dblp, url, year, venue, global_department)
     # Atualiza a pontuação do departamento com base no peso do artigo
     Global.score[global_department] += get_paper_score(weight)
 
+# Verifica se o artigo é indexável (se possui 'journal' ou 'booktitle' e está no intervalo de anos permitido)
 def is_paper_indexable(dblp):
-    # Verifica se o artigo é indexável (se possui 'journal' ou 'booktitle' e está no intervalo de anos permitido)
     if not isinstance(dblp, dict):
         return False
     if ('journal' in dblp) or ('booktitle' in dblp):

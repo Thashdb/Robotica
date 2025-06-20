@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Alessandra Alaniz Macedo" pid="m/AlessandraAMacedo" n="49">
+<dblpperson name="Alessandra Alaniz Macedo" pid="m/AlessandraAMacedo" n="50">
 <person key="homepages/m/AlessandraAMacedo" mdate="2020-02-14">
 <author pid="m/AlessandraAMacedo">Alessandra Alaniz Macedo</author>
 <author pid="m/AlessandraAMacedo">Alessandra A. Macedo</author>
@@ -8,6 +8,21 @@
 <url>https://orcid.org/0000-0001-5271-3086</url>
 <url>https://www.wikidata.org/entity/Q84148215</url>
 </person>
+<r><article key="journals/jbcs/PersonaMM25" mdate="2025-06-10">
+<author pid="358/4794">Leandro Persona</author>
+<author pid="271/4655">Fernando Meloni</author>
+<author pid="m/AlessandraAMacedo">Alessandra Alaniz Macedo</author>
+<title>A Lightweight Method for Recognition of Emotions through Facial Geometry with Normalized Landmarks.</title>
+<pages>325-337</pages>
+<year>2025</year>
+<volume>31</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>1</number>
+<ee>https://doi.org/10.5753/jbcs.2025.4456</ee>
+<url>db/journals/jbcs/jbcs31.html#PersonaMM25</url>
+<stream>streams/journals/jbcs</stream>
+</article>
+</r>
 <r><inproceedings key="conf/propor/RodriguesMCSCLASG24" mdate="2025-03-12">
 <author pid="258/8788">Ana Carolina Rodrigues</author>
 <author pid="m/AlessandraAMacedo">Alessandra A. Macedo</author>

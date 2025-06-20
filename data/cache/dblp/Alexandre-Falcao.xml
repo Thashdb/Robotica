@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Alexandre X. Falc&#227;o" pid="f/AlexandreXFalcao" n="312">
+<dblpperson name="Alexandre X. Falc&#227;o" pid="f/AlexandreXFalcao" n="313">
 <person key="homepages/f/AlexandreXFalcao" mdate="2025-01-30">
 <author pid="f/AlexandreXFalcao">Alexandre X. Falc&#227;o</author>
 <author pid="f/AlexandreXFalcao">Alexandre Xavier Falc&#227;o</author>
@@ -24,6 +24,23 @@
 <ee>https://doi.org/10.1016/j.ins.2024.121671</ee>
 <url>db/journals/isci/isci692.html#AparcoCardenasGFR25</url>
 <stream>streams/journals/isci</stream>
+</article>
+</r>
+<r><article key="journals/jbcs/BelemPCGF25" mdate="2025-06-10">
+<author pid="236/6043">Felipe de Castro Bel&#233;m</author>
+<author pid="73/7168">Benjamin Perret</author>
+<author pid="97/6870">Jean Cousty</author>
+<author pid="08/3856">Silvio Jamil Ferzoli Guimar&#227;es</author>
+<author pid="f/AlexandreXFalcao">Alexandre X. Falc&#227;o</author>
+<title>Efficient Multiscale Object-based Superpixel Framework.</title>
+<pages>355-372</pages>
+<year>2025</year>
+<volume>31</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>1</number>
+<ee>https://doi.org/10.5753/jbcs.2025.4278</ee>
+<url>db/journals/jbcs/jbcs31.html#BelemPCGF25</url>
+<stream>streams/journals/jbcs</stream>
 </article>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-2504-11112" mdate="2025-05-21">

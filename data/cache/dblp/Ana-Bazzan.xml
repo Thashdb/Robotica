@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Ana L. C. Bazzan" pid="b/AnaLCBazzan" n="250">
+<dblpperson name="Ana L. C. Bazzan" pid="b/AnaLCBazzan" n="251">
 <person key="homepages/b/AnaLCBazzan" mdate="2022-02-15">
 <author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
 <author pid="b/AnaLCBazzan">Ana L&#250;cia C. Bazzan</author>
@@ -22,6 +22,21 @@
 <ee>https://doi.org/10.5753/jbcs.2025.3747</ee>
 <url>db/journals/jbcs/jbcs31.html#DinkelbergSB25</url>
 <stream>streams/journals/jbcs</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-00787" mdate="2025-06-18">
+<author pid="250/5118">Lucas N. Alegre</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="407/7248">Andr&#233; Barreto</author>
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<title>Constructing an Optimal Behavior Basis for the Option Keyboard.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.00787</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.00787</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-00787</url>
+<stream>streams/journals/corr</stream>
 </article>
 </r>
 <r><article key="journals/aicom/BazzanDLV24" mdate="2024-05-16">
@@ -3373,7 +3388,7 @@
 <ee>https://doi.org/10.1007/3-540-61859-7_8</ee>
 </inproceedings>
 </r>
-<coauthors n="246" nc="8">
+<coauthors n="247" nc="8">
 <co c="1"><na f="a/Abad:Zahra_Shakeri_Hossein" pid="19/9106">Zahra Shakeri Hossein Abad</na></co>
 <co c="0"><na f="a/Abdoos:Monireh" pid="80/867">Monireh Abdoos</na></co>
 <co c="0"><na f="a/Abel:Mara" pid="a/MaraAbel">Mara Abel</na></co>
@@ -3394,6 +3409,7 @@
 <co c="0"><na f="a/Azzi:Guilherme_G=" pid="139/6047">Guilherme G. Azzi</na></co>
 <co c="0"><na f="b/Baraviera:Alexandre_Tavares" pid="12/958">Alexandre Tavares Baraviera</na></co>
 <co c="0"><na f="b/Barbieri:Matheus" pid="199/6476">Matheus Barbieri</na></co>
+<co c="0"><na f="b/Barreto:Andr=eacute=" pid="407/7248">Andr&#233; Barreto</na></co>
 <co c="0"><na f="b/Basso:Daniel_M=" pid="95/1438">Daniel M. Basso</na></co>
 <co c="0"><na f="b/Basso:Eduardo_W=" pid="99/6575">Eduardo W. Basso</na></co>
 <co c="0" n="2"><na f="b/Batista:Gustavo" pid="85/1649">Gustavo Batista</na><na>Gustavo E. A. P. A. Batista</na></co>

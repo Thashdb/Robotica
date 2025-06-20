@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Augusto Sampaio 0001" pid="s/AugustoSampaio" n="149">
+<dblpperson name="Augusto Sampaio 0001" pid="s/AugustoSampaio" n="150">
 <person key="homepages/s/AugustoSampaio" mdate="2024-06-27">
 <author pid="s/AugustoSampaio">Augusto Sampaio 0001</author>
 <author pid="s/AugustoSampaio">Augusto C. A. Sampaio</author>
@@ -167,6 +167,21 @@
 <url>db/conf/sbmf/sbmf2024.html#FerreiraASRA24</url>
 <stream>streams/conf/sbmf</stream>
 </inproceedings>
+</r>
+<r><proceedings key="conf/birthday/2024woodcock" mdate="2025-06-18">
+<editor orcid="0000-0002-9889-9514" pid="14/4971">Simon Foster 0001</editor>
+<editor orcid="0000-0001-6593-577X" pid="s/AugustoSampaio">Augusto Sampaio 0001</editor>
+<title>The Application of Formal Methods - Essays Dedicated to Jim Woodcock on the Occasion of His Retirement</title>
+<booktitle>The Application of Formal Methods</booktitle>
+<publisher>Springer</publisher>
+<year>2024</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>14900</volume>
+<isbn>978-3-031-67113-5</isbn>
+<isbn>978-3-031-67114-2</isbn>
+<ee>https://doi.org/10.1007/978-3-031-67114-2</ee>
+<url>db/conf/birthday/woodcock2024.html</url>
+</proceedings>
 </r>
 <r><inproceedings key="conf/birthday/000100OSZ23" mdate="2024-06-12">
 <author orcid="0000-0001-7955-2702" pid="w/JWoodcock">Jim Woodcock 0001</author>

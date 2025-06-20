@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Alet&#233;ia P. F. Ara&#250;jo" pid="38/2179" n="87">
+<dblpperson name="Alet&#233;ia P. F. Ara&#250;jo" pid="38/2179" n="88">
 <person key="homepages/38/2179" mdate="2024-08-20">
 <author pid="38/2179">Alet&#233;ia P. F. Ara&#250;jo</author>
 <author pid="38/2179">Alet&#233;ia Patr&#237;cia Favacho de Ara&#250;jo</author>
@@ -58,6 +58,21 @@
 <ee>https://doi.org/10.1007/s42979-024-02895-1</ee>
 <url>db/journals/sncs/sncs5.html#CarvalhoKA24</url>
 </article>
+</r>
+<r><inproceedings key="conf/fie/ValeHRAS24" mdate="2025-06-17">
+<author pid="407/5567">Mariana Alencar do Vale</author>
+<author pid="20/1662">Maristela Holanda</author>
+<author pid="09/2442">C&#233;lia G. Ralha</author>
+<author pid="38/2179">Aleteia Araujo</author>
+<author pid="03/6463">Dilma Da Silva</author>
+<title>Graduate Programs in Computing at the University of Brasilia: Comparison of Academic Papers and Collaborations by Gender.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10892921</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#ValeHRAS24</url>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/noms/SantosFBCAM24" mdate="2025-03-03">
 <author pid="380/6221">Luan Borges Dos Santos</author>
@@ -814,7 +829,7 @@
 </r>
 <r><inproceedings key="conf/closer/FariaHRCRHBA18" mdate="2022-05-17">
 <author pid="218/4694">Heitor Faria</author>
-<author pid="218/4917">Rodrigo Hagstrom</author>
+<author pid="407/5174">Rodrigo Hagstrom</author>
 <author pid="201/2761">Marco Antonio Sousa Reis</author>
 <author pid="218/4815">Breno G. S. Costa</author>
 <author pid="86/10587">Edward de Oliveira Ribeiro</author>
@@ -1343,7 +1358,7 @@
 <url>db/conf/pdpta/pdpta1999-6.html#AraujoSSS99</url>
 </inproceedings>
 </r>
-<coauthors n="127" nc="1">
+<coauthors n="128" nc="1">
 <co c="0"><na f="a/Aires:Bruno" pid="157/0786">Bruno Aires</na></co>
 <co c="0"><na f="a/Almeida:Rodrigo_F=" pid="181/6584">Rodrigo F. Almeida</na></co>
 <co c="0"><na f="a/Alves:Gabriela" pid="131/3188">Gabriela Alves</na></co>
@@ -1388,7 +1403,7 @@
 <co c="0"><na f="g/Gomes:Juliana_Betini_Fachini" pid="334/8069">Juliana Betini Fachini Gomes</na></co>
 <co c="0"><na f="g/Gondim:Jo=atilde=o_J=_C=" pid="190/9496">Jo&#227;o J. C. Gondim</na></co>
 <co c="0"><na f="g/Guimar=acirc=es:Valeria" pid="169/3783">Valeria Guimar&#226;es</na></co>
-<co c="0"><na f="h/Hagstrom:Rodrigo" pid="218/4917">Rodrigo Hagstrom</na></co>
+<co c="0" n="2"><na f="h/Hagstrom:Rodrigo_Ot=aacute=vio_Ribeiro" pid="407/5174">Rodrigo Ot&#225;vio Ribeiro Hagstrom</na><na>Rodrigo Hagstrom</na></co>
 <co c="0" n="2"><na f="h/Holanda:Maristela" pid="20/1662">Maristela Holanda</na><na>Maristela T. Holanda</na></co>
 <co c="0"><na f="h/Hondo:Fernanda" pid="169/3792">Fernanda Hondo</na></co>
 <co c="0"><na f="i/Ishikawa:Edison" pid="04/4959">Edison Ishikawa</na></co>
@@ -1431,7 +1446,7 @@
 <co c="0"><na f="p/Papad=oacute=polis:Alexandre_Vinhadelli" pid="263/3539">Alexandre Vinhadelli Papad&#243;polis</na></co>
 <co c="0"><na f="p/Pinheiro:Rodrigo" pid="60/6427">Rodrigo Pinheiro</na></co>
 <co c="0"><na f="p/Puttini:Ricardo_Staciarini" pid="46/6088">Ricardo Staciarini Puttini</na></co>
-<co c="0"><na f="r/Ralha:C=eacute=lia_Ghedini" pid="09/2442">C&#233;lia Ghedini Ralha</na></co>
+<co c="0" n="2"><na f="r/Ralha:C=eacute=lia_Ghedini" pid="09/2442">C&#233;lia Ghedini Ralha</na><na>C&#233;lia G. Ralha</na></co>
 <co c="0"><na f="r/Ramos:Guilherme_Novaes" pid="70/4743">Guilherme Novaes Ramos</na></co>
 <co c="0"><na f="r/Rebello:Vinod_E=_F=" pid="79/2476">Vinod E. F. Rebello</na></co>
 <co c="0"><na f="r/Reis:Marco_Antonio_Sousa" pid="201/2761">Marco Antonio Sousa Reis</na></co>
@@ -1466,6 +1481,7 @@
 <co c="0" n="2"><na f="t/Toffanello:Andre" pid="131/3180">Andre Toffanello</na><na>Andre Amaro Toffanello</na></co>
 <co c="0"><na f="t/Togawa:Roberto_C=" pid="42/6162">Roberto C. Togawa</na></co>
 <co c="0"><na f="u/Urrutia:Sebasti=aacute=n" pid="u/SebastianUrrutia">Sebasti&#225;n Urrutia</na></co>
+<co c="0"><na f="v/Vale:Mariana_Alencar_do" pid="407/5567">Mariana Alencar do Vale</na></co>
 <co c="0"><na f="v/Vergara:Guilherme" pid="193/7904">Guilherme Vergara</na></co>
 <co c="0" n="2"><na f="v/Victorino:M=aacute=rcio" pid="58/5054">M&#225;rcio Victorino</na><na>M&#225;rcio de Carvalho Victorino</na></co>
 <co c="0"><na f="v/Vidal:Flavio_de_Barros" pid="58/3882">Flavio de Barros Vidal</na></co>

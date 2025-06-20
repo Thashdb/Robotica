@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Anderson R. Tavares" pid="156/7135" n="40">
+<dblpperson name="Anderson R. Tavares" pid="156/7135" n="41">
 <person key="homepages/156/7135" mdate="2021-03-02">
 <author pid="156/7135">Anderson R. Tavares</author>
 <author pid="156/7135">Anderson Rocha Tavares</author>
@@ -19,6 +19,19 @@
 <ee>https://doi.org/10.1016/j.entcom.2024.100843</ee>
 <url>db/journals/entcom/entcom52.html#LemosVTMC25</url>
 <stream>streams/journals/entcom</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-00186" mdate="2025-06-18">
+<author pid="118/5194">Rafael C. Pinto</author>
+<author pid="156/7135">Anderson R. Tavares</author>
+<title>Neuroevolution of Self-Attention Over Proto-Objects.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.00186</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.00186</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-00186</url>
+<stream>streams/journals/corr</stream>
 </article>
 </r>
 <r><inproceedings key="conf/bracis/NunesPBSFBT24" mdate="2025-05-31">

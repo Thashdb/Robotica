@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Alceu S. Britto Jr." pid="98/5101" n="211">
+<dblpperson name="Alceu S. Britto Jr." pid="98/5101" n="212">
 <person key="homepages/98/5101" mdate="2024-05-01">
 <author pid="98/5101">Alceu S. Britto Jr.</author>
 <author pid="98/5101">Alceu de Souza Britto Jr.</author>
@@ -9,12 +9,12 @@
 <url>https://orcid.org/0000-0002-3064-3563</url>
 <url>http://lattes.cnpq.br/4251936710939364</url>
 </person>
-<r><article key="journals/inffus/BarbozaAJSC25" mdate="2025-06-03">
-<author pid="351/0862">Eduardo V. L. Barboza</author>
+<r><article key="journals/inffus/BarbozaAJSC25" mdate="2025-06-11">
+<author orcid="0009-0006-5556-2619" pid="351/0862">Eduardo V. L. Barboza</author>
 <author pid="123/2286">Paulo R. Lisboa de Almeida</author>
 <author pid="98/5101">Alceu de Souza Britto Junior</author>
 <author pid="99/2787">Robert Sabourin</author>
-<author pid="05/10069">Rafael M. O. Cruz</author>
+<author orcid="0000-0001-9446-1040" pid="05/10069">Rafael M. O. Cruz</author>
 <title>IncA-DES: An incremental and adaptive dynamic ensemble selection approach using online K-d tree neighborhood search for data streams with concept drift.</title>
 <pages>103272</pages>
 <year>2025</year>
@@ -75,11 +75,11 @@
 <stream>streams/journals/nca</stream>
 </article>
 </r>
-<r><article key="journals/tist/GarciaAKBB25" mdate="2025-05-31">
-<author pid="210/3674">Cristiano Mesquita Garcia</author>
+<r><article key="journals/tist/GarciaAKBB25" mdate="2025-06-11">
+<author orcid="0000-0002-7475-146X" pid="210/3674">Cristiano Mesquita Garcia</author>
 <author orcid="0000-0002-7197-5951" pid="119/0098">Ramon Ab&#237;lio</author>
-<author pid="37/4335">Alessandro Lameiras Koerich</author>
-<author pid="98/5101">Alceu de Souza Britto Jr.</author>
+<author orcid="0000-0001-5879-7014" pid="37/4335">Alessandro Lameiras Koerich</author>
+<author orcid="0000-0002-3064-3563" pid="98/5101">Alceu de Souza Britto Jr.</author>
 <author orcid="0000-0001-9928-854X" pid="148/4305">Jean Paul Barddal</author>
 <title>Concept Drift Adaptation in Text Stream Mining Settings: A Systematic Review.</title>
 <pages>27:1-27:67</pages>
@@ -169,6 +169,22 @@
 <crossref>conf/icmla/2024</crossref>
 <url>db/conf/icmla/icmla2024.html#PintoBH24</url>
 <stream>streams/conf/icmla</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/MenonNBKJ24" mdate="2025-06-10">
+<author pid="245/2667">Luciana Trinkaus Menon</author>
+<author pid="375/7112">Luiz Carlos Ribeiro Neduziak</author>
+<author pid="148/4305">Jean Paul Barddal</author>
+<author pid="37/4335">Alessandro Lameiras Koerich</author>
+<author pid="98/5101">Alceu de Souza Britto Junior</author>
+<title>Dynamic Modality and View Selection for Emotion Recognition: An Experimental Study on Missing Modality Evaluation.</title>
+<pages>151-166</pages>
+<year>2024</year>
+<booktitle>ICPR (Workshops and Challenges, 4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-88217-3_11</ee>
+<crossref>conf/icpr/2024-w4</crossref>
+<url>db/conf/icpr/icpr2024-w4.html#MenonNBKJ24</url>
+<stream>streams/conf/icpr</stream>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/icpr/RBBK24" mdate="2025-01-03">

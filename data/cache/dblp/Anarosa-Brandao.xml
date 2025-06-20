@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Anarosa A. F. Brand&#227;o" pid="68/870" n="79">
+<dblpperson name="Anarosa A. F. Brand&#227;o" pid="68/870" n="83">
 <person key="homepages/68/870" mdate="2018-03-12">
 <author pid="68/870">Anarosa A. F. Brand&#227;o</author>
 <author pid="68/870">Anarosa Alves Franco Brand&#227;o</author>
@@ -69,6 +69,69 @@
 <crossref>conf/aied/2024-2</crossref>
 <url>db/conf/aied/aied2024-2.html#SaesBFP24</url>
 <stream>streams/conf/aied</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/HagstromRBBL24" mdate="2025-06-17">
+<author pid="407/5174">Rodrigo Hagstrom</author>
+<author pid="407/5130">Calebe Rezende</author>
+<author pid="22/6910">Le&#244;nidas de Oliveira Brand&#227;o</author>
+<author pid="68/870">Anarosa Alves Franco Brand&#227;o</author>
+<author pid="280/6874">Priscila da Silva Neves Lima</author>
+<title>What Concepts of Computational Thinking are Being Effectively Used in K12 Education: A Systematic Mapping.</title>
+<pages>1-9</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10892901</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#HagstromRBBL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/LimaSBHB24" mdate="2025-06-17">
+<author pid="280/6874">Priscila da Silva Neves Lima</author>
+<author pid="280/6409">Laira das Almas Silva</author>
+<author pid="68/870">Anarosa Alves Franco Brand&#227;o</author>
+<author pid="407/5174">Rodrigo Ot&#225;vio Ribeiro Hagstrom</author>
+<author pid="22/6910">Le&#244;nidas de Oliveira Brand&#227;o</author>
+<title>How Digital Games are Engaging Our Children Toward STEM Careers?</title>
+<pages>1-9</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10892917</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#LimaSBHB24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/RehderSGBSMPBAG24" mdate="2025-06-17">
+<author pid="10/8123">Gustavo Pamplona Rehder</author>
+<author pid="254/8716">Ariana Lacorte Caniato Serrano</author>
+<author pid="407/5699">Jos&#233; B. Grimoni</author>
+<author pid="68/870">Anarosa A. F. Brand&#227;o</author>
+<author pid="407/5131">Magno M. T. Silva</author>
+<author pid="407/5349">Henrique T. Moriya</author>
+<author pid="70/9314">Cristiano M. Panazio</author>
+<author pid="407/5239">Edson Barbero</author>
+<author pid="327/5011">Marco I. Alayo</author>
+<author pid="407/5155">Irineu G. N. Gianesi</author>
+<author pid="216/1200">Antonio C. Seabra</author>
+<title>Innovative Competency-Based Electrical Engineering Curriculum.</title>
+<pages>1-5</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10893505</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#RehderSGBSMPBAG24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/SilvaB24" mdate="2025-06-17">
+<author pid="407/5197">Fl&#225;vio Lopes da Silva</author>
+<author pid="68/870">Anarosa Alves Franco Brand&#227;o</author>
+<title>Innovative Approaches in Education: A Systematic Literature Review on Computer-Supported Collaborative Activities and Digital Inclusion for Youth and Adult Education.</title>
+<pages>1-9</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10893287</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#SilvaB24</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/ijcnn/SantoPGBC24" mdate="2025-03-03">
@@ -1182,14 +1245,16 @@
 <url>db/conf/selmas/selmas2002.html#SilvaGBCLA02</url>
 </inproceedings>
 </r>
-<coauthors n="111" nc="3">
+<coauthors n="124" nc="4">
+<co c="1"><na f="a/Alayo:Marco_I=" pid="327/5011">Marco I. Alayo</na></co>
 <co c="0"><na f="a/Alencar:Paulo_S=_C=" pid="a/PauloSCAlencar">Paulo S. C. Alencar</na></co>
 <co c="0"><na f="a/Alvares:Danilo" pid="216/6273">Danilo Alvares</na></co>
 <co c="0"><na f="a/Amaral:Larissa_Mangolim" pid="319/9724">Larissa Mangolim Amaral</na></co>
 <co c="0"><na f="a/Auzende:Odette" pid="61/6683">Odette Auzende</na></co>
+<co c="1"><na f="b/Barbero:Edson" pid="407/5239">Edson Barbero</na></co>
 <co c="0"><na f="b/Barbosa:Ellen_Francine" pid="66/2060">Ellen Francine Barbosa</na></co>
 <co c="0"><na f="b/Belbachir:Assia" pid="135/9017">Assia Belbachir</na></co>
-<co c="1"><na f="b/Bevilacqua:Joyce_da_Silva" pid="32/5181">Joyce da Silva Bevilacqua</na></co>
+<co c="2"><na f="b/Bevilacqua:Joyce_da_Silva" pid="32/5181">Joyce da Silva Bevilacqua</na></co>
 <co c="0"><na f="b/Bittencourt:Ig_Ibert" pid="11/2860">Ig Ibert Bittencourt</na></co>
 <co c="0"><na f="b/Boissier:Olivier" pid="44/5374">Olivier Boissier</na></co>
 <co c="0" n="2"><na f="b/Borges:Simone_de_Sousa" pid="148/4422">Simone de Sousa Borges</na><na>Simone S. Borges</na></co>
@@ -1224,12 +1289,15 @@
 <co c="0"><na f="f/Freitas:Elthon_Manhas_de" pid="276/7416">Elthon Manhas de Freitas</na></co>
 <co c="0"><na f="f/Furtado:=Eacute=der_F=" pid="286/2574">&#201;der F. Furtado</na></co>
 <co c="0"><na f="g/Garcia_0001:Alessandro_F=" pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</na></co>
-<co c="1"><na f="g/Giannella:Maria_L=uacute=cia_Cardillo_Correa" pid="247/6964">Maria L&#250;cia Cardillo Correa Giannella</na></co>
+<co c="1"><na f="g/Gianesi:Irineu_G=_N=" pid="407/5155">Irineu G. N. Gianesi</na></co>
+<co c="2"><na f="g/Giannella:Maria_L=uacute=cia_Cardillo_Correa" pid="247/6964">Maria L&#250;cia Cardillo Correa Giannella</na></co>
 <co c="0"><na f="g/Giroire:H=eacute=l=egrave=ne" pid="54/485">H&#233;l&#232;ne Giroire</na></co>
 <co c="0"><na f="g/Gomes:Guilherme_M=" pid="193/5211">Guilherme M. Gomes</na></co>
 <co c="0"><na f="g/Gramacho:Givanildo_de_Sousa" pid="385/4283">Givanildo de Sousa Gramacho</na></co>
 <co c="0"><na f="g/Grava:Ricardo_S=" pid="329/4817">Ricardo S. Grava</na></co>
+<co c="1"><na f="g/Grimoni:Jos=eacute=_B=" pid="407/5699">Jos&#233; B. Grimoni</na></co>
 <co c="0"><na f="g/Guessoum:Zahia" pid="78/2701">Zahia Guessoum</na></co>
+<co c="0" n="2"><na f="h/Hagstrom:Rodrigo_Ot=aacute=vio_Ribeiro" pid="407/5174">Rodrigo Ot&#225;vio Ribeiro Hagstrom</na><na>Rodrigo Hagstrom</na></co>
 <co c="0"><na f="h/H=uuml=bner:Jomi_Fred" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</na></co>
 <co c="0"><na f="i/Isotani:Seiji" pid="83/1033">Seiji Isotani</na></co>
 <co c="0" n="2"><na f="j/Jaques:Patr=iacute=cia_A=" pid="j/PatriciaAugustinJaques">Patr&#237;cia A. Jaques</na><na>Patr&#237;cia Augustin Jaques</na></co>
@@ -1245,9 +1313,10 @@
 <co c="0"><na f="m/Matos:Vin=iacute=cius_B=" pid="329/4725">Vin&#237;cius B. Matos</na></co>
 <co c="0"><na f="m/Mau=aacute=:Denis_Deratani" pid="53/10263">Denis Deratani Mau&#225;</na></co>
 <co c="0"><na f="m/Mokhtari:A=iuml=cha" pid="19/5783">A&#239;cha Mokhtari</na></co>
+<co c="1"><na f="m/Moriya:Henrique_T=" pid="407/5349">Henrique T. Moriya</na></co>
 <co c="0"><na f="m/Moro:Luis_Fernando_de_S=" pid="125/2898">Luis Fernando de S. Moro</na></co>
 <co c="0"><na f="m/Motheo:Laura_C=" pid="329/5599">Laura C. Motheo</na></co>
-<co c="2"><na f="m/Muramatsu:Fabio_Tsuyoshi" pid="171/6735">Fabio Tsuyoshi Muramatsu</na></co>
+<co c="3"><na f="m/Muramatsu:Fabio_Tsuyoshi" pid="171/6735">Fabio Tsuyoshi Muramatsu</na></co>
 <co c="0"><na f="n/Nardin:Luis_G=" pid="40/6463">Luis G. Nardin</na></co>
 <co c="0" n="2"><na f="n/Nascimento:Marcos_Devaner_do" pid="182/4137">Marcos Devaner do Nascimento</na><na>Marcos D. do Nascimento</na></co>
 <co c="0"><na f="n/Nascimento:Mauricio_G=_F=" pid="193/4588">Mauricio G. F. Nascimento</na></co>
@@ -1256,30 +1325,37 @@
 <co c="0" n="2"><na f="o/Oliveira:Francisco_C=_M=_B=" pid="151/4184">Francisco C. M. B. Oliveira</na><na>Francisco C. de M. B. Oliveira</na></co>
 <co c="0"><na f="o/Oliveira:Jo=atilde=o_Lucas_dos_Santos" pid="280/6517">Jo&#227;o Lucas dos Santos Oliveira</na></co>
 <co c="0"><na f="o/Oliveira:Thiago" pid="177/3362">Thiago Oliveira</na></co>
+<co c="1" n="2"><na f="p/Panazio:Cristiano" pid="70/9314">Cristiano Panazio</na><na>Cristiano M. Panazio</na></co>
 <co c="0"><na f="p/Pantoja:Carlos_Eduardo" pid="117/6146">Carlos Eduardo Pantoja</na></co>
 <co c="0"><na f="p/Paschoal:Andr=eacute=_F=_A=" pid="305/0187">Andr&#233; F. A. Paschoal</na></co>
 <co c="0"><na f="p/Pasin:Marcia" pid="141/6166">Marcia Pasin</na></co>
 <co c="0"><na f="p/Paula:Fraulein_Vidigal_de" pid="280/6322">Fraulein Vidigal de Paula</na></co>
 <co c="0"><na f="p/Pedro:Lais_Z=" pid="151/4291">Lais Z. Pedro</na></co>
 <co c="0" n="2"><na f="p/Pellicer:Lucas_F=_A=_O=" pid="256/0052">Lucas F. A. O. Pellicer</na><na>Lucas Francisco Amaral Orosco Pellicer</na></co>
-<co c="1"><na f="p/Pereira:Jo=atilde=o_Paulo_Arag=atilde=o" pid="247/6956">Jo&#227;o Paulo Arag&#227;o Pereira</na></co>
+<co c="2"><na f="p/Pereira:Jo=atilde=o_Paulo_Arag=atilde=o" pid="247/6956">Jo&#227;o Paulo Arag&#227;o Pereira</na></co>
 <co c="0" n="2"><na f="p/Peres:Sarajane_Marques" pid="69/171">Sarajane Marques Peres</na><na>Sarajane M. Peres</na></co>
 <co c="0"><na f="p/Pinto:F=aacute=bio_Avigo_de_Castro" pid="274/2366">F&#225;bio Avigo de Castro Pinto</na></co>
 <co c="0"><na f="p/Pirozelli:Paulo" pid="305/0290">Paulo Pirozelli</na></co>
 <co c="0"><na f="p/Prado:Reginaldo_do" pid="193/2724">Reginaldo do Prado</na></co>
 <co c="0"><na f="q/Queiroz:Bruno" pid="159/0154">Bruno Queiroz</na></co>
 <co c="0"><na f="r/Ramos:Renato" pid="244/4944">Renato Ramos</na></co>
+<co c="1"><na f="r/Rehder:Gustavo_Pamplona" pid="10/8123">Gustavo Pamplona Rehder</na></co>
 <co c="0"><na f="r/Reis:Helena_Macedo" pid="125/2998">Helena Macedo Reis</na></co>
+<co c="0"><na f="r/Rezende:Calebe" pid="407/5130">Calebe Rezende</na></co>
 <co c="0"><na f="r/Ribeiro:Romenig_da_Silva" pid="193/4075">Romenig da Silva Ribeiro</na></co>
 <co c="-1"><na f="r/Rocha_0001:Vladimir" pid="142/5502">Vladimir Rocha 0001</na></co>
 <co c="0"><na f="r/Rodrigues:Jose_Roberto_A=" pid="193/4740">Jose Roberto A. Rodrigues</na></co>
 <co c="0"><na f="r/Rodrigues:Patricia_Alves" pid="193/1123">Patricia Alves Rodrigues</na></co>
 <co c="0"><na f="s/Saes:Keylla_Ramos" pid="380/9757">Keylla Ramos Saes</na></co>
 <co c="0"><na f="s/Santo:Felipe_Oliveira_do_Esp=iacute=rito" pid="385/4194">Felipe Oliveira do Esp&#237;rito Santo</na></co>
+<co c="1"><na f="s/Seabra:Antonio_C=" pid="216/1200">Antonio C. Seabra</na></co>
 <co c="0"><na f="s/Seghrouchni:Amal_El_Fallah" pid="f/AEFallahSeghrouchni">Amal El Fallah Seghrouchni</na></co>
+<co c="1"><na f="s/Serrano:Ariana_Lacorte_Caniato" pid="254/8716">Ariana Lacorte Caniato Serrano</na></co>
 <co c="0"><na f="s/Sichman:Jaime_Sim=atilde=o" pid="s/JSSichman">Jaime Sim&#227;o Sichman</na></co>
+<co c="-1"><na f="s/Silva:Fl=aacute=vio_Lopes_da" pid="407/5197">Fl&#225;vio Lopes da Silva</na></co>
 <co c="0"><na f="s/Silva:Laira_das_Almas" pid="280/6409">Laira das Almas Silva</na></co>
 <co c="0" n="2"><na f="s/Silva:Lidiane_Castro" pid="151/4465">Lidiane Castro Silva</na><na>Lidiane C. Silva</na></co>
+<co c="1"><na f="s/Silva:Magno_M=_T=" pid="407/5131">Magno M. T. Silva</na></co>
 <co c="0"><na f="s/Silva:Viviane_Torres_da" pid="72/2728">Viviane Torres da Silva</na></co>
 <co c="0"><na f="s/Silveira:Igor_Cataneo" pid="212/6617">Igor Cataneo Silveira</na></co>
 <co c="0"><na f="s/Silveira:Marcos_Gabriel_Gelorme" pid="366/5474">Marcos Gabriel Gelorme Silveira</na></co>
@@ -1292,7 +1368,7 @@
 <co c="-1"><na f="u/Uematsu:Akira_A=_de_Moura_Galv=atilde=o" pid="364/4770">Akira A. de Moura Galv&#227;o Uematsu</na></co>
 <co c="0"><na f="v/Vercouter:Laurent" pid="10/2920">Laurent Vercouter</na></co>
 <co c="0"><na f="v/Viterbo:Jos=eacute=" pid="15/374">Jos&#233; Viterbo</na></co>
-<co c="2"><na f="v/Vitorello:Tomas_Monteiro" pid="171/6720">Tomas Monteiro Vitorello</na></co>
+<co c="3"><na f="v/Vitorello:Tomas_Monteiro" pid="171/6720">Tomas Monteiro Vitorello</na></co>
 <co c="0"><na f="z/Ziadi:Tewfik" pid="54/4415">Tewfik Ziadi</na></co>
 </coauthors>
 </dblpperson>
