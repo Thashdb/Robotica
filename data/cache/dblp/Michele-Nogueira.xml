@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Michele Nogueira Lima" pid="22/4022" n="199">
+<dblpperson name="Michele Nogueira Lima" pid="22/4022" n="200">
 <person key="homepages/22/4022" mdate="2022-11-20">
 <author pid="22/4022">Michele Nogueira Lima</author>
 <author pid="22/4022">Michele Nogueira</author>
@@ -10,6 +10,25 @@
 <url>https://ieeexplore.ieee.org/author/37848030500</url>
 <note type="affiliation">Federal University of Parana, Curitiba, Brazil</note>
 </person>
+<r><article key="journals/jsac/AloqailyZANDC25" mdate="2025-06-17">
+<author pid="143/1232">Moayad Aloqaily</author>
+<author pid="04/2024-1">Qian Zhang 0001</author>
+<author pid="380/0895">Martin Andreoni</author>
+<author pid="22/4022">Michele Nogueira</author>
+<author pid="22/5535">Xiaojiang Du</author>
+<author pid="59/146">Ang Chen</author>
+<title>Guest Editorial: Special Issue on Zero Trust for Next-Generation Networking.</title>
+<pages>1901-1907</pages>
+<year>2025</year>
+<month>June</month>
+<volume>43</volume>
+<journal>IEEE J. Sel. Areas Commun.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/JSAC.2025.3558644</ee>
+<url>db/journals/jsac/jsac43.html#AloqailyZANDC25</url>
+<stream>streams/journals/jsac</stream>
+</article>
+</r>
 <r><article publtype="informal" key="journals/corr/abs-2503-14618" mdate="2025-04-14">
 <author pid="337/8500">Leonardo H. de Melo</author>
 <author pid="298/2263">Gustavo de Carvalho Bertoli</author>
@@ -2893,13 +2912,14 @@
 <url>db/conf/secrypt/secrypt2008.html#SilvaSAL08</url>
 </inproceedings>
 </r>
-<coauthors n="242" nc="6">
+<coauthors n="246" nc="6">
 <co c="0"><na f="a/Achir:Nadjib" pid="64/7015">Nadjib Achir</na></co>
 <co c="0"><na f="a/Albano:Lucas" pid="383/6236">Lucas Albano</na></co>
 <co c="0"><na f="a/Albini:Luiz_Carlos_Pessoa" pid="78/5871">Luiz Carlos Pessoa Albini</na></co>
 <co c="0"><na f="a/Almeida:Danilo_Dami=atilde=o" pid="252/9983">Danilo Dami&#227;o Almeida</na></co>
 <co c="0"><na f="a/Aloqaily:Moayad" pid="143/1232">Moayad Aloqaily</na></co>
 <co c="0"><na f="a/Andrade:Everaldo" pid="182/2995">Everaldo Andrade</na></co>
+<co c="0"><na f="a/Andreoni:Martin" pid="380/0895">Martin Andreoni</na></co>
 <co c="0"><na f="a/Aranha:Diego_F=" pid="75/5361">Diego F. Aranha</na></co>
 <co c="0"><na f="a/Ara=uacute=jo:Alex_Medeiros_de" pid="337/8485">Alex Medeiros de Ara&#250;jo</na></co>
 <co c="0"><na f="a/Ara=uacute=jo:Juliana_C=_Carvalho_de" pid="258/8408">Juliana C. Carvalho de Ara&#250;jo</na></co>
@@ -2939,6 +2959,7 @@
 <co c="0"><na f="c/Cervantes:Christian" pid="164/7956">Christian Cervantes</na></co>
 <co c="-1"><na f="c/Chandrakumar:Bhargavi" pid="165/1968">Bhargavi Chandrakumar</na></co>
 <co c="0"><na f="c/Chemouil:Prosper" pid="98/4051">Prosper Chemouil</na></co>
+<co c="0"><na f="c/Chen:Ang" pid="59/146">Ang Chen</na></co>
 <co c="0"><na f="c/Chen:Longbiao" pid="02/11346">Longbiao Chen</na></co>
 <co c="0"><na f="c/Chessa:Stefano" pid="74/5008">Stefano Chessa</na></co>
 <co c="0"><na f="c/Choi:Baek=Young" pid="06/4941">Baek-Young Choi</na></co>
@@ -2953,6 +2974,7 @@
 <co c="0"><na f="d/Dhaou:Riadh" pid="59/6789">Riadh Dhaou</na></co>
 <co c="0"><na f="d/Dias:Kelvin_Lopes" pid="09/4470">Kelvin Lopes Dias</na></co>
 <co c="0"><na f="d/Doverspike:Robert_D=" pid="55/6547">Robert D. Doverspike</na></co>
+<co c="0"><na f="d/Du:Xiaojiang" pid="22/5535">Xiaojiang Du</na></co>
 <co c="0"><na f="d/Dumas:Pierre=Yves" pid="128/3569">Pierre-Yves Dumas</na></co>
 <co c="0"><na f="e/Elias:Erik_Miguel_de" pid="299/6098">Erik Miguel de Elias</na></co>
 <co c="0" n="2"><na f="e/Ergen:Sinem_Coleri" pid="19/6445">Sinem Coleri Ergen</na><na>Sinem Coleri</na></co>
@@ -3134,6 +3156,7 @@
 <co c="0"><na f="y/Yuan:Wendong" pid="228/5934">Wendong Yuan</na></co>
 <co c="0"><na f="y/Yury:Alisson" pid="274/2010">Alisson Yury</na></co>
 <co c="0"><na f="z/Zhang_0001:Daqing" pid="83/1359-1">Daqing Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang_0001:Qian" pid="04/2024-1">Qian Zhang 0001</na></co>
 <co c="1"><na f="z/Zissis:Georges" pid="119/5510">Georges Zissis</na></co>
 <co c="0"><na f="z/Zola:Wagner_M=_Nunan" pid="162/0882">Wagner M. Nunan Zola</na></co>
 </coauthors>

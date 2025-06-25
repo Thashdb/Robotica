@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="C&#233;sar Lincoln C. Mattos" pid="150/2808" n="48">
+<dblpperson name="C&#233;sar Lincoln C. Mattos" pid="150/2808" n="49">
 <person key="homepages/150/2808" mdate="2025-06-06">
 <author pid="150/2808">C&#233;sar Lincoln C. Mattos</author>
 <author pid="150/2808">C&#233;sar Lincoln Cavalcante Mattos</author>
@@ -18,6 +18,27 @@
 <ee>https://doi.org/10.1016/j.jisa.2025.103971</ee>
 <url>db/journals/istr/istr89.html#PonteRM25</url>
 <stream>streams/journals/istr</stream>
+</article>
+</r>
+<r><article key="journals/jcisd/AlmeidaASGCRMSS25" mdate="2025-06-15">
+<author pid="407/2553">Diego S. Almeida</author>
+<author pid="407/2584">Matheus V. Almeida</author>
+<author pid="407/2737">Jean V. Sampaio</author>
+<author pid="407/2471">Eduardo M. Gaieta</author>
+<author pid="407/2606">Andrielly H. S. Costa</author>
+<author pid="407/2445">Francisco F. A. Rabelo</author>
+<author pid="150/2808">C&#233;sar Lincoln Cavalcante Mattos</author>
+<author pid="135/1598">Geraldo Rodrigues Sartori</author>
+<author pid="316/0106">Jo&#227;o Herminio Martins Da Silva</author>
+<title>AbSet: A Standardized Data Set of Antibody Structures for Machine Learning Applications.</title>
+<pages>4767-4774</pages>
+<year>2025</year>
+<volume>65</volume>
+<journal>J. Chem. Inf. Model.</journal>
+<number>10</number>
+<ee type="oa">https://doi.org/10.1021/acs.jcim.5c00410</ee>
+<url>db/journals/jcisd/jcisd65.html#AlmeidaASGCRMSS25</url>
+<stream>streams/journals/jcisd</stream>
 </article>
 </r>
 <r><inproceedings key="conf/sbsi/MarquesMCMMM25" mdate="2025-06-06">
@@ -710,10 +731,12 @@
 <url>db/journals/nca/nca22.html#MattosB13</url>
 </article>
 </r>
-<coauthors n="81" nc="1">
+<coauthors n="89" nc="2">
 <co c="0"><na f="a/Acu=ntilde=a:Gonzalo" pid="77/5602">Gonzalo Acu&#241;a</na></co>
 <co c="0"><na f="a/Alencar:Alisson_S=_C=" pid="156/3796">Alisson S. C. Alencar</na></co>
+<co c="1"><na f="a/Almeida:Diego_S=" pid="407/2553">Diego S. Almeida</na></co>
 <co c="0"><na f="a/Almeida:Jefferson_S=" pid="193/7128">Jefferson S. Almeida</na></co>
+<co c="1"><na f="a/Almeida:Matheus_V=" pid="407/2584">Matheus V. Almeida</na></co>
 <co c="0"><na f="=/=Aacute=lvarez:Mauricio_A=" pid="00/9830">Mauricio A. &#193;lvarez</na></co>
 <co c="0" n="2"><na f="b/Barreto:Guilherme_De_A=" pid="72/3054">Guilherme De A. Barreto</na><na>Guilherme A. Barreto</na></co>
 <co c="0"><na f="b/Barros:Patr=iacute=cia_Vieira_da_Silva" pid="165/3739">Patr&#237;cia Vieira da Silva Barros</na></co>
@@ -721,6 +744,7 @@
 <co c="0"><na f="c/Cabral_0001:Lucas" pid="258/3795-1">Lucas Cabral 0001</na></co>
 <co c="0"><na f="c/Caldas:Weslley_L=" pid="177/2455">Weslley L. Caldas</na></co>
 <co c="0" n="2"><na f="c/Cavalcanti:Francisco_Rodrigo_Porto" pid="65/2535">Francisco Rodrigo Porto Cavalcanti</na><na>Francisco Rodrigo P. Cavalcanti</na></co>
+<co c="1"><na f="c/Costa:Andrielly_H=_S=" pid="407/2606">Andrielly H. S. Costa</na></co>
 <co c="0" n="2"><na f="c/Cruz:L=iacute=via_A=" pid="119/6746">L&#237;via A. Cruz</na><na>L&#237;via Almada Cruz</na></co>
 <co c="0"><na f="d/Dai:Zhenwen" pid="72/3954">Zhenwen Dai</na></co>
 <co c="0"><na f="d/Damasevicius:Robertas" pid="15/3403" type="noshow">Robertas Damasevicius</na></co>
@@ -733,6 +757,7 @@
 <co c="0"><na f="f/Forth:Jeremy" pid="91/697">Jeremy Forth</na></co>
 <co c="0" n="2"><na f="f/Franco:Wellington" pid="22/7983">Wellington Franco</na><na>Jos&#233; Wellington Franco da Silva</na></co>
 <co c="0"><na f="f/Freitas:Luis_A=" pid="241/7251">Luis A. Freitas</na></co>
+<co c="1"><na f="g/Gaieta:Eduardo_M=" pid="407/2471">Eduardo M. Gaieta</na></co>
 <co c="0" n="3"><na f="g/Gomes:Jo=atilde=o_Paulo_Pordeus" pid="163/4376">Jo&#227;o Paulo Pordeus Gomes</na><na>Jo&#227;o P. P. Gomes</na><na>Jo&#227;o Gomes 0002</na></co>
 <co c="0"><na f="g/Gomes:Samuel_Luz" pid="209/7569">Samuel Luz Gomes</na></co>
 <co c="0"><na f="g/Guimar=atilde=es:Matheus_T=" pid="266/0237">Matheus T. Guimar&#227;es</na></co>
@@ -768,6 +793,7 @@
 <co c="0"><na f="p/Paulino:Arthur_L=_A=" pid="273/8220">Arthur L. A. Paulino</na></co>
 <co c="0"><na f="p/Ponte:Francisco_R=_P=_da" pid="230/1885">Francisco R. P. da Ponte</na></co>
 <co c="0"><na f="p/Ponte:Francisco_Rodrigo_Parente_da" pid="395/7179">Francisco Rodrigo Parente da Ponte</na></co>
+<co c="1"><na f="r/Rabelo:Francisco_F=_A=" pid="407/2445">Francisco F. A. Rabelo</na></co>
 <co c="0"><na f="r/Rebou=ccedil=as:Eliz=acirc=ngela_de_S=" pid="201/6726">Eliz&#226;ngela de S. Rebou&#231;as</na></co>
 <co c="0" n="2"><na f="r/Rego:Paulo_A=_L=" pid="67/10788">Paulo A. L. Rego</na><na>Paulo Antonio Leal Rego</na></co>
 <co c="0"><na f="r/Rocha:Atslands_Rego_da" pid="16/9780">Atslands Rego da Rocha</na></co>
@@ -776,8 +802,11 @@
 <co c="0"><na f="r/Rodrigues:Emanuel_Bezerra" pid="236/3772">Emanuel Bezerra Rodrigues</na></co>
 <co c="0"><na f="r/Rodrigues:Leonardo_Ramos" pid="188/1890">Leonardo Ramos Rodrigues</na></co>
 <co c="0"><na f="r/Ross:Magnus" pid="294/9158">Magnus Ross</na></co>
+<co c="1"><na f="s/Sampaio:Jean_V=" pid="407/2737">Jean V. Sampaio</na></co>
 <co c="0"><na f="s/Santos:Jos=eacute=_Daniel_A=" pid="66/11104">Jos&#233; Daniel A. Santos</na></co>
+<co c="1"><na f="s/Sartori:Geraldo_Rodrigues" pid="135/1598">Geraldo Rodrigues Sartori</na></co>
 <co c="0"><na f="s/Silva:Francisco_Airton" pid="165/3596">Francisco Airton Silva</na></co>
+<co c="1"><na f="s/Silva:Jo=atilde=o_Herminio_Martins_Da" pid="316/0106">Jo&#227;o Herminio Martins Da Silva</na></co>
 <co c="0"><na f="s/Silva:Maria_de_Lourdes_Maia" pid="290/4403">Maria de Lourdes Maia Silva</na></co>
 <co c="0"><na f="s/Silva:Paulo_Mateus_Moura_da" pid="255/9598">Paulo Mateus Moura da Silva</na></co>
 <co c="0"><na f="s/Silva:Ticiana_L=_Coelho_da" pid="131/5507">Ticiana L. Coelho da Silva</na></co>

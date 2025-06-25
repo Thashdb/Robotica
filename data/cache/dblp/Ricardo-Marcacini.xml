@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Ricardo M. Marcacini" pid="69/8767" n="80">
+<dblpperson name="Ricardo M. Marcacini" pid="69/8767" n="81">
 <person key="homepages/69/8767" mdate="2025-01-10">
 <author pid="69/8767">Ricardo M. Marcacini</author>
 <author pid="69/8767">Ricardo Marcondes Marcacini</author>
@@ -17,6 +17,23 @@
 <ee type="oa">https://doi.org/10.1109/ACCESS.2025.3547813</ee>
 <url>db/journals/access/access13.html#TomitaM25</url>
 <stream>streams/journals/access</stream>
+</article>
+</r>
+<r><article key="journals/ail/OliveiraNFM25" mdate="2025-06-16">
+<author pid="83/10363">Vitor Oliveira</author>
+<author pid="249/2396">Gabriel Nogueira</author>
+<author pid="124/7230">Thiago de Paulo Faleiros</author>
+<author pid="69/8767">Ricardo M. Marcacini</author>
+<title>Combining prompt-based language models and weak supervision for labeling named entity recognition on legal documents.</title>
+<pages>361-381</pages>
+<year>2025</year>
+<month>June</month>
+<volume>33</volume>
+<journal>Artif. Intell. Law</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10506-023-09388-1</ee>
+<url>db/journals/ail/ail33.html#OliveiraNFM25</url>
+<stream>streams/journals/ail</stream>
 </article>
 </r>
 <r><article key="journals/isci/GoloJSM25" mdate="2025-04-01">
@@ -86,9 +103,9 @@
 <url>db/conf/coling/coling2025.html#LealJMCGSLGA25</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sac/CarmoGGMM25" mdate="2025-05-31">
-<author pid="343/4807">Paulo Viviurka Do Carmo</author>
-<author pid="302/7005">Marcos Paulo Silva G&#244;lo</author>
+<r><inproceedings key="conf/sac/CarmoGGMM25" mdate="2025-06-11">
+<author orcid="0000-0002-8550-4368" pid="343/4807">Paulo Viviurka Do Carmo</author>
+<author orcid="0000-0002-9093-8195" pid="302/7005">Marcos Paulo Silva G&#244;lo</author>
 <author orcid="0009-0007-8348-2357" pid="353/3227">Jonas Gwozdz</author>
 <author orcid="0000-0002-3111-9405" pid="128/2566">Edgard Marx</author>
 <author orcid="0000-0002-2309-3487" pid="69/8767">Ricardo Marcondes Marcacini</author>
@@ -1137,7 +1154,7 @@
 <url>db/conf/seke/seke2010.html#MarcaciniR10</url>
 </inproceedings>
 </r>
-<coauthors n="89" nc="4">
+<coauthors n="91" nc="4">
 <co c="1" n="2"><na f="a/Alu=iacute=sio:Sandra_M=" pid="86/332">Sandra M. Alu&#237;sio</na><na>Sandra Maria Alu&#237;sio</na></co>
 <co c="0" n="2"><na f="a/Amorim:Evelin" pid="55/11498">Evelin Amorim</na><na>Evelin Carvalho Freire de Amorim</na></co>
 <co c="0" n="2"><na f="a/Ara=uacute=jo:Adailton_Ferreira_de" pid="291/2856">Adailton Ferreira de Ara&#250;jo</na><na>Adailton Ferreira Araujo</na></co>
@@ -1197,8 +1214,10 @@
 <co c="0"><na f="m/Moura:Maria_Fernanda" pid="220/3755">Maria Fernanda Moura</na></co>
 <co c="0"><na f="m/Murrugarra=Llerena:Nils" pid="160/4470">Nils Murrugarra-Llerena</na></co>
 <co c="0" n="2"><na f="n/Nogueira_0001:Bruno_M=" pid="73/991">Bruno M. Nogueira 0001</na><na>Bruno Magalh&#227;es Nogueira 0001</na></co>
+<co c="0"><na f="n/Nogueira:Gabriel" pid="249/2396">Gabriel Nogueira</na></co>
 <co c="0"><na f="o/Oliveira:Cintia_Carvalho" pid="190/1421">Cintia Carvalho Oliveira</na></co>
 <co c="0"><na f="o/Oliveira:Daniele_Carvalho" pid="190/1403">Daniele Carvalho Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Vitor" pid="83/10363">Vitor Oliveira</na></co>
 <co c="0"><na f="p/Padua:Renan_de" pid="13/11391">Renan de Padua</na></co>
 <co c="0"><na f="p/Parmezan:Antonio_Rafael_Sabino" pid="177/1796">Antonio Rafael Sabino Parmezan</na></co>
 <co c="0"><na f="p/Pilon:Alan" pid="343/6001">Alan Pilon</na></co>

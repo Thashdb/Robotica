@@ -1,10 +1,27 @@
 <?xml version="1.0"?>
-<dblpperson name="Rafael Maiani de Mello" pid="121/2507" n="62">
+<dblpperson name="Rafael Maiani de Mello" pid="121/2507" n="63">
 <person key="homepages/121/2507" mdate="2025-01-10">
 <author pid="121/2507">Rafael Maiani de Mello</author>
 <url>https://orcid.org/0000-0002-9877-3946</url>
 <url>https://www.wikidata.org/entity/Q130828602</url>
 </person>
+<r><article key="journals/ese/CerqueiraMCT25" mdate="2025-06-23">
+<author pid="283/1271">Diego Andr&#233; Cerqueira</author>
+<author pid="121/2507">Rafael Maiani de Mello</author>
+<author pid="408/0253">J&#233;ssica Soares da Costa</author>
+<author pid="t/GuilhermeTravassos">Guilherme Horta Travassos</author>
+<title>Experimental Evaluation of a Checklist-Based Inspection Technique to Verify the Compliance of Software Systems with the Brazilian General Data Protection Law.</title>
+<pages>122</pages>
+<year>2025</year>
+<month>October</month>
+<volume>30</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s10664-025-10681-7</ee>
+<url>db/journals/ese/ese30.html#CerqueiraMCT25</url>
+<stream>streams/journals/ese</stream>
+</article>
+</r>
 <r><article key="journals/isys/SouzaSSBSVM24" mdate="2025-03-03">
 <author pid="250/9008">Adriano Neves de Souza</author>
 <author pid="396/2425">Fernanda dos Santos</author>
@@ -993,7 +1010,7 @@
 <url>db/conf/sbes/sbes2010.html#MelloPT10</url>
 </inproceedings>
 </r>
-<coauthors n="85" nc="2">
+<coauthors n="86" nc="2">
 <co c="0"><na f="a/Almeida:Eduardo_Santana_de" pid="a/EduardoSantanadeAlmeida">Eduardo Santana de Almeida</na></co>
 <co c="0"><na f="a/Amaral:Guilherme" pid="245/8726">Guilherme Amaral</na></co>
 <co c="0"><na f="a/Arriel:Johny" pid="376/0229">Johny Arriel</na></co>
@@ -1014,6 +1031,7 @@
 <co c="0"><na f="c/Colanzi:Thelma_Elita" pid="84/1707">Thelma Elita Colanzi</na></co>
 <co c="0"><na f="c/Conte:Tayana" pid="48/5">Tayana Conte</na></co>
 <co c="0"><na f="c/Correia:Jo=atilde=o_Lucas" pid="221/1636">Jo&#227;o Lucas Correia</na></co>
+<co c="0"><na f="c/Costa:J=eacute=ssica_Soares_da" pid="408/0253">J&#233;ssica Soares da Costa</na></co>
 <co c="0"><na f="c/Costa:Jos=eacute=_Aldo_Silva_da" pid="282/5221">Jos&#233; Aldo Silva da Costa</na></co>
 <co c="0"><na f="c/Coutinho:Daniel" pid="87/1273">Daniel Coutinho</na></co>
 <co c="0" n="2"><na f="d/Damian:Adriana_Lopes" pid="166/2222">Adriana Lopes Damian</na><na>Adriana Lopes</na></co>

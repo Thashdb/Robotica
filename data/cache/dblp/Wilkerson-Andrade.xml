@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Wilkerson de L. Andrade" pid="64/298" n="55">
+<dblpperson name="Wilkerson de L. Andrade" pid="64/298" n="58">
 <person key="homepages/64/298" mdate="2021-07-24">
 <author pid="64/298">Wilkerson de L. Andrade</author>
 <author pid="64/298">Wilkerson de Lucena Andrade</author>
@@ -19,6 +19,45 @@
 <crossref>conf/compsac/2024</crossref>
 <url>db/conf/compsac/compsac2024.html#LimaAA24</url>
 <stream>streams/conf/compsac</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/AraujoAO24" mdate="2025-06-17">
+<author pid="309/4734">Elaine Cristina Juvino De Ara&#250;jo</author>
+<author pid="64/298">Wilkerson de L. Andrade</author>
+<author pid="93/530">Ana Liz Souto Oliveira</author>
+<title>Perceptions about Teaching Programming in the Neurodiverse Students' Context.</title>
+<pages>1-9</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10892904</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#AraujoAO24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/MeiraGA24" mdate="2025-06-17">
+<author pid="407/5461">An&#225;lia Cristina B. T. Meira</author>
+<author pid="g/DaltonSereyGuerrero">Dalton Dario Serey Guerrero</author>
+<author pid="64/298">Wilkerson de L. Andrade</author>
+<title>A Systematic Literature Review on the Use of Software Testing and Programming with Novice Students.</title>
+<pages>1-7</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10893450</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#MeiraGA24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/SouzaAS24" mdate="2025-06-18">
+<author pid="237/7013">Isabelle M. L. Souza</author>
+<author pid="64/298">Wilkerson de L. Andrade</author>
+<author pid="76/1241">L&#237;via M. R. Sampaio</author>
+<title>Understanding CTProgER's Impact on High School Students' Programming Learning.</title>
+<pages>1-9</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10893507</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#SouzaAS24</url>
 </inproceedings>
 </r>
 <r><article key="journals/jserd/CoutinhoAM23" mdate="2024-12-24">
@@ -764,7 +803,7 @@
 <url>db/conf/geoinfo/geoinfo2005.html#AlmeidaBSCNCAC05</url>
 </inproceedings>
 </r>
-<coauthors n="51" nc="1">
+<coauthors n="52" nc="1">
 <co c="0"><na f="a/Almeida:Dami=atilde=o_Ribeiro_de" pid="16/2109">Dami&#227;o Ribeiro de Almeida</na></co>
 <co c="0"><na f="a/Almeida:Diego_R=" pid="59/7512">Diego R. Almeida</na></co>
 <co c="0"><na f="a/Almeida:Diego_Rodrigues_de" pid="282/5179">Diego Rodrigues de Almeida</na></co>
@@ -795,6 +834,7 @@
 <co c="0" n="2"><na f="m/Machado:Patr=iacute=cia_Duarte_de_Lima" pid="33/5476">Patr&#237;cia Duarte de Lima Machado</na><na>Patr&#237;cia D. L. Machado</na></co>
 <co c="0"><na f="m/Marchand:Herv=eacute=" pid="44/4811">Herv&#233; Marchand</na></co>
 <co c="0"><na f="m/Marques:Arthur" pid="149/4176">Arthur Marques</na></co>
+<co c="0"><na f="m/Meira:An=aacute=lia_Cristina_B=_T=" pid="407/5461">An&#225;lia Cristina B. T. Meira</na></co>
 <co c="0"><na f="m/Melo:Monilly_Ramos_Araujo_de" pid="236/5358">Monilly Ramos Araujo de Melo</na></co>
 <co c="0"><na f="m/Mongiovi:Melina" pid="55/10322">Melina Mongiovi</na></co>
 <co c="0"><na f="m/Moraes:Alan" pid="121/2930">Alan Moraes</na></co>

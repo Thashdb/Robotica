@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Nabor das Chagas Mendon&#231;a" pid="79/4708" n="68">
+<dblpperson name="Nabor das Chagas Mendon&#231;a" pid="79/4708" n="69">
 <person key="homepages/79/4708" mdate="2023-09-17">
 <author pid="79/4708">Nabor das Chagas Mendon&#231;a</author>
 <author pid="79/4708">Nabor Chagas Mendon&#231;a</author>
@@ -29,6 +29,21 @@
 <url>db/journals/spe/spe55.html#AderaldoCVMCG25</url>
 <stream>streams/journals/spe</stream>
 </article>
+</r>
+<r><inproceedings key="conf/icsa/LinharesWZRM25" mdate="2025-06-12">
+<author pid="388/6616">Pedro Fiuza Linhares</author>
+<author pid="388/6757">Pedro H. Gaya Wanderley</author>
+<author pid="388/5283">Marza De Sousa Zaranza</author>
+<author pid="56/6060">Maria Andr&#233;ia Formico Rodrigues</author>
+<author pid="79/4708">Nabor C. Mendon&#231;a</author>
+<title>Design and Evaluation of an Event-Driven Cloud-Based Architecture for a Remote Patient Monitoring System.</title>
+<pages>77-84</pages>
+<year>2025</year>
+<booktitle>ICSA Companion</booktitle>
+<ee>https://doi.org/10.1109/ICSA-C65153.2025.00019</ee>
+<crossref>conf/icsa/2025c</crossref>
+<url>db/conf/icsa/icsa2025c.html#LinharesWZRM25</url>
+</inproceedings>
 </r>
 <r><article key="journals/toce/Mendonca24" mdate="2025-01-19">
 <author orcid="0000-0002-2972-9423" pid="79/4708">Nabor C. Mendon&#231;a</author>

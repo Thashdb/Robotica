@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Renata H. S. Reiser" pid="61/2221" n="119">
+<dblpperson name="Renata H. S. Reiser" pid="61/2221" n="120">
 <person key="homepages/61/2221" mdate="2020-01-08">
 <author pid="61/2221">Renata H. S. Reiser</author>
 <author pid="61/2221">Renata Hax Sander Reiser</author>
@@ -421,6 +421,22 @@
 <ee>https://doi.org/10.1016/j.suscom.2020.100475</ee>
 <url>db/journals/suscom/suscom29.html#NevesLRYP21</url>
 </article>
+</r>
+<r><inproceedings key="conf/eusflat/SilvaSFYSBR21" mdate="2025-06-11">
+<author pid="205/1572">Lidiane Costa da Silva</author>
+<author pid="221/8776">Guilherme Bayer Schneider</author>
+<author pid="407/1157">Bruna Freitas</author>
+<author pid="y/AdenauerCYamin">Adenauer C. Yamin</author>
+<author pid="74/4379">H&#233;lida S. Santos</author>
+<author pid="32/3731">Benjam&#237;n R. C. Bedregal</author>
+<author pid="61/2221">Renata Reiser</author>
+<title>Extending Representability on the Set of Intervals Endowed with Admissible Orders for the Construction of Interval-valued Fuzzy Operators.</title>
+<year>2021</year>
+<booktitle>IFSA/EUSFLAT/AGOP</booktitle>
+<ee>https://doi.org/10.2991/asum.k.210827.008</ee>
+<crossref>conf/eusflat/2021</crossref>
+<url>db/conf/eusflat/eusflat2021.html#SilvaSFYSBR21</url>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/fuzzIEEE/OliveiraMSPYRB21" mdate="2025-03-03">
 <author orcid="0000-0002-7069-7136" pid="273/7599">Lizandro de Souza Oliveira</author>
@@ -1776,7 +1792,7 @@
 <note type="source">ndltd.org (oai:lume56.ufrgs.br:10183/10417)</note>
 </phdthesis>
 </r>
-<coauthors n="94" nc="1">
+<coauthors n="95" nc="1">
 <co c="0"><na f="a/Abeijon:Ana_Maria" pid="136/7758">Ana Maria Abeijon</na></co>
 <co c="0"><na f="a/Agostini:Lucas_Barreiro" pid="244/4324">Lucas Barreiro Agostini</na></co>
 <co c="0"><na f="a/Aguiar:Marilton_S=_de" pid="02/284">Marilton S. de Aguiar</na></co>
@@ -1816,6 +1832,7 @@
 <co c="0"><na f="f/Ferreira:Fabr=iacute=cio_Neitzke" pid="333/9929">Fabr&#237;cio Neitzke Ferreira</na></co>
 <co c="0"><na f="f/Foss:Luciana" pid="24/37">Luciana Foss</na></co>
 <co c="0"><na f="f/Franco:Francisco_Dias" pid="361/1141">Francisco Dias Franco</na></co>
+<co c="0"><na f="f/Freitas:Bruna" pid="407/1157">Bruna Freitas</na></co>
 <co c="0"><na f="g/Galvao:Alessandra" pid="329/0888">Alessandra Galvao</na></co>
 <co c="0" n="2"><na f="g/G=oacute=mez:Javier" pid="99/4502">Javier G&#243;mez</na><na>Javier Gomez</na></co>
 <co c="0"><na f="g/Gon=ccedil=alves:Bruno_Cabreira" pid="367/4893">Bruno Cabreira Gon&#231;alves</na></co>

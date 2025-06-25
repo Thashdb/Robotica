@@ -80,7 +80,7 @@ def init_arxiv_cache():
 def output_arxiv_cache():
     # Salva o cache do arXiv em um arquivo CSV
     if Global.arxiv_cache:
-        f = open('../../data/cache/arxiv/' + Global.area_prefix + '-arxiv-cache.csv', 'w')
+        f = open('../../data/cache/arxiv/' + Global.area_prefix + '-arxiv-cache.csv', 'w', encoding="utf-8", newline='')
         for doi in Global.arxiv_cache:
             f.write(doi)
             f.write(',')
@@ -131,7 +131,7 @@ def outuput_everything():
 def output_venues_confs(result):
     # Exibe as conferências em um arquivo CSV
     if len(result) > 0:
-        f = open("../../data/" + Global.area_prefix + '-out-confs.csv', 'w')
+        f = open("../../data/" + Global.area_prefix + '-out-confs.csv', 'w', encoding="utf-8", newline='')
         for conf in result:
             f.write(conf[0])
             f.write(',')
@@ -142,7 +142,7 @@ def output_venues_confs(result):
 def output_venues_journals(result):
     # Exibe os jornais em um arquivo CSV
     if len(result) > 0:
-        f = open("../../data/" + Global.area_prefix + '-out-journals.csv', 'w')
+        f = open("../../data/" + Global.area_prefix + '-out-journals.csv', 'w', encoding="utf-8", newline='')
         for journal in result:
             f.write(journal[0])
             f.write(',')
@@ -207,7 +207,7 @@ def output_papers():
     sorted_papers = sorted(out2, key=lambda x: x[1][0], reverse=True)
 
     # Abre um arquivo CSV para salvar os artigos processados
-    f = open("../../data/" + Global.area_prefix + '-out-papers.csv', 'w')
+    f = open("../../data/" + Global.area_prefix + '-out-papers.csv', 'w', encoding="utf-8", newline='')
     for i in range(0, len(sorted_papers)):
         paper = sorted_papers[i][1]
         write_paper(f, True, paper)
@@ -218,7 +218,7 @@ def output_prof_papers(prof):
     prof = prof.replace(" ", "-")
 
     # Abre um arquivo CSV específico para armazenar os artigos do professor
-    f = open("../../data/configs/profs/papers/" + Global.area_prefix + "-" + prof + '-papers.csv', 'w')
+    f = open("../../data/configs/profs/papers/" + Global.area_prefix + "-" + prof + '-papers.csv', 'w', encoding="utf-8", newline='')
 
     # Escreve todos os artigos do professor usando o identificador 'pid_papers' armazenado em Global
     for url in Global.pid_papers:
@@ -228,7 +228,7 @@ def output_prof_papers(prof):
 
 def write_scores(sorted_scores):
     # Abre um arquivo CSV para salvar as pontuações dos departamentos
-    f = open("../../data/" + Global.area_prefix + '-out-scores.csv', 'w')
+    f = open("../../data/" + Global.area_prefix + '-out-scores.csv', 'w', encoding="utf-8", newline='')
 
     # Escreve as pontuações dos departamentos no arquivo
     for i in range(0, len(sorted_scores)):
@@ -257,7 +257,7 @@ def output_scores():
 
 def write_profs(sorted_profs):
     # Abre um arquivo CSV para salvar a lista de professores e suas pontuações
-    f = open("../../data/" + Global.area_prefix + '-out-profs.csv', 'w')
+    f = open("../../data/" + Global.area_prefix + '-out-profs.csv', 'w', encoding="utf-8", newline='')
 
     # Escreve o nome do departamento e a pontuação dos professores no arquivo
     for i in range(0, len(sorted_profs)):
@@ -295,7 +295,7 @@ def output_profs_list():
     profs = sorted(profs, key=lambda x: x[0])
 
     # Abre um arquivo CSV para salvar a lista de professores
-    f = open("../../data/" + Global.area_prefix + '-out-profs-list.csv', 'w')
+    f = open("../../data/" + Global.area_prefix + '-out-profs-list.csv', 'w', encoding="utf-8", newline='')
     for i in range(0, len(profs)):
         f.write(str(profs[i][0]))   # Nome do professor
         f.write(',')
@@ -347,7 +347,7 @@ def output_search_box_list():
     # Ordena os professores em ordem alfabética
     profs.sort()
 
-    f = open("../all-authors.csv", 'w')
+    f = open("../all-authors.csv", 'w', encoding="utf-8", newline='')
     for p in profs:
         f.write(p)
         f.write('\n')

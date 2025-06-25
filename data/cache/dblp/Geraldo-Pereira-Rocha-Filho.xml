@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Geraldo P. R. Filho" pid="141/9518" n="96">
+<dblpperson name="Geraldo P. R. Filho" pid="141/9518" n="99">
 <person key="homepages/141/9518" mdate="2020-05-12">
 <author pid="141/9518">Geraldo P. R. Filho</author>
 <author pid="141/9518">Geraldo P. Rocha Filho</author>
@@ -58,6 +58,62 @@
 <number>1</number>
 <ee type="oa">https://doi.org/10.5753/jisa.2025.5034</ee>
 <url>db/journals/jisa/jisa16.html#RodriguesFSFVBAG25</url>
+<stream>streams/journals/jisa</stream>
+</article>
+</r>
+<r><article key="journals/jisa/AndradeFMMSDSG25" mdate="2025-06-16">
+<author pid="273/3378">C&#233;sar Augusto Borges de Andrade</author>
+<author pid="141/9518">Geraldo Pereira Rocha Filho</author>
+<author pid="123/3499">Rodolfo I. Meneguette</author>
+<author pid="156/1363">Jo&#227;o Paulo A. Maranh&#227;o</author>
+<author pid="246/8230">Ricardo Sant'Ana</author>
+<author pid="93/5582">Julio Cesar Duarte</author>
+<author pid="362/7622">Andr&#233; Luiz Marques Serrano</author>
+<author pid="115/5019">Vin&#237;cius P. Gon&#231;alves 0001</author>
+<title>Lightweight Malware Classification with FORTUNATE: Precision Meets Computational Efficiency.</title>
+<pages>87-104</pages>
+<year>2025</year>
+<volume>16</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5753/jisa.2025.4905</ee>
+<url>db/journals/jisa/jisa16.html#AndradeFMMSDSG25</url>
+<stream>streams/journals/jisa</stream>
+</article>
+</r>
+<r><article key="journals/jisa/FilhoMMSGSG25" mdate="2025-06-16">
+<author pid="141/9518">Geraldo P. Rocha Filho</author>
+<author pid="123/3499">Rodolfo I. Meneguette</author>
+<author pid="124/2039">F&#225;bio L&#250;cio Lopes de Mendon&#231;a</author>
+<author pid="407/4343">Andr&#233; L. Marques Serrano</author>
+<author pid="86/4704">Daniel L. Guidoni</author>
+<author pid="165/3596">Francisco Airton Silva</author>
+<author pid="115/5019">Vin&#237;cius P. Gon&#231;alves 0001</author>
+<title>Towards an efficient solution to mitigate the forest fire problem based on unmanned aerial vehicles and wireless sensors.</title>
+<pages>142-152</pages>
+<year>2025</year>
+<volume>16</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5753/jisa.2025.4995</ee>
+<url>db/journals/jisa/jisa16.html#FilhoMMSGSG25</url>
+<stream>streams/journals/jisa</stream>
+</article>
+</r>
+<r><article key="journals/jisa/SilvaNFVM25" mdate="2025-06-16">
+<author pid="256/6281">Marco Antonio Colombo da Silva</author>
+<author pid="143/5644">Luis Hideo Vasconcelos Nakamura</author>
+<author pid="141/9518">Geraldo P. Rocha Filho</author>
+<author pid="v/LuisVeiga">Lu&#237;s Veiga</author>
+<author pid="123/3499">Rodolfo Ipolito Meneguette</author>
+<title>ONSPRIDE: An Ontology-based Framework for Privacy by Design in Distributed Networks Apps.</title>
+<pages>163-177</pages>
+<year>2025</year>
+<volume>16</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5753/jisa.2025.5046</ee>
+<url>db/journals/jisa/jisa16.html#SilvaNFVM25</url>
 <stream>streams/journals/jisa</stream>
 </article>
 </r>
@@ -1597,11 +1653,12 @@
 <url>db/conf/ihc/ihc2013.html#GoncalvesNUGFS13</url>
 </inproceedings>
 </r>
-<coauthors n="175" nc="2">
+<coauthors n="178" nc="2">
 <co c="0"><na f="a/Akabane:Ademar_Takeo" pid="41/11063">Ademar Takeo Akabane</na></co>
 <co c="0"><na f="a/Albuquerque:Robson_de_Oliveira" pid="68/5982">Robson de Oliveira Albuquerque</na></co>
 <co c="0"><na f="a/Althoff:Paulo_Eduardo" pid="307/8489">Paulo Eduardo Althoff</na></co>
 <co c="0"><na f="a/Andrade:C=eacute=sar_A=_B=" pid="396/0907">C&#233;sar A. B. Andrade</na></co>
+<co c="0"><na f="a/Andrade:C=eacute=sar_Augusto_Borges_de" pid="273/3378">C&#233;sar Augusto Borges de Andrade</na></co>
 <co c="0"><na f="a/Andrade:Fernando_R=_H=" pid="178/7446">Fernando R. H. Andrade</na></co>
 <co c="0"><na f="a/Antunes:Emerson_de_O=" pid="331/2197">Emerson de O. Antunes</na></co>
 <co c="0" n="2"><na f="a/Ara=uacute=jo:Alet=eacute=ia_P=_F=" pid="38/2179">Alet&#233;ia P. F. Ara&#250;jo</na><na>Aleteia Araujo</na></co>
@@ -1746,10 +1803,11 @@
 <co c="0"><na f="s/Sartori:Bruno" pid="292/2321">Bruno Sartori</na></co>
 <co c="0"><na f="s/Schulz:Daniel" pid="80/1315">Daniel Schulz</na></co>
 <co c="0"><na f="s/Seraphini:Sibelius" pid="117/6234">Sibelius Seraphini</na></co>
+<co c="0"><na f="s/Serrano:Andr=eacute=_L=_Marques" pid="407/4343">Andr&#233; L. Marques Serrano</na></co>
 <co c="0"><na f="s/Serrano:Andr=eacute=_Luiz_Marques" pid="362/7622">Andr&#233; Luiz Marques Serrano</na></co>
 <co c="0"><na f="s/Silva:Cristiano_M=" pid="147/1083">Cristiano M. Silva</na></co>
 <co c="0"><na f="s/Silva:Francisco_Airton" pid="165/3596">Francisco Airton Silva</na></co>
-<co c="0"><na f="s/Silva:Marco_A=_C=_da" pid="256/6281">Marco A. C. da Silva</na></co>
+<co c="0" n="2"><na f="s/Silva:Marco_A=_C=_da" pid="256/6281">Marco A. C. da Silva</na><na>Marco Antonio Colombo da Silva</na></co>
 <co c="0"><na f="s/Silva:Mateus_C=" pid="186/9422">Mateus C. Silva</na></co>
 <co c="0" n="2"><na f="s/Silva_0001:Thiago_H=" pid="42/10062">Thiago H. Silva 0001</na><na>Thiago Henrique Silva</na></co>
 <co c="0"><na f="s/Sobreira:Sandro_G=_A=" pid="348/8796">Sandro G. A. Sobreira</na></co>
@@ -1766,6 +1824,7 @@
 <co c="0" n="2"><na f="v/Valentini:Edivaldo_P=" pid="230/1798">Edivaldo P. Valentini</na><na>Edivaldo Pastori Valentini</na></co>
 <co c="0" n="2"><na f="v/Vargas:Patr=iacute=cia_Am=acirc=ncio" pid="54/1692">Patr&#237;cia Am&#226;ncio Vargas</na><na>Patr&#237;cia A. Vargas</na></co>
 <co c="0"><na f="v/Vartiainen:Johanna" pid="47/8140">Johanna Vartiainen</na></co>
+<co c="0"><na f="v/Veiga:Lu=iacute=s" pid="v/LuisVeiga">Lu&#237;s Veiga</na></co>
 <co c="0"><na f="v/Vergara:Guilherme_Fay" pid="163/9158">Guilherme Fay Vergara</na></co>
 <co c="0" n="3"><na f="v/Villas:Leandro_A=" pid="64/7382">Leandro A. Villas</na><na>Leandro Villas</na><na>Leandro Aparecido Villas</na></co>
 <co c="0"><na f="v/Vitorino:Alex" pid="378/0378">Alex Vitorino</na></co>

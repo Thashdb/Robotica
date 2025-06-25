@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Dalton Serey Guerrero" pid="g/DaltonSereyGuerrero" n="42">
+<dblpperson name="Dalton Serey Guerrero" pid="g/DaltonSereyGuerrero" n="43">
 <person key="homepages/g/DaltonSereyGuerrero" mdate="2021-05-15">
 <author pid="g/DaltonSereyGuerrero">Dalton Serey Guerrero</author>
 <author pid="g/DaltonSereyGuerrero">Dalton Serey</author>
@@ -10,6 +10,19 @@
 <note type="affiliation">Federal University of Campina Grande, Brazil</note>
 <url>http://www.dsc.ufcg.edu.br/~dalton/</url>
 </person>
+<r><inproceedings key="conf/fie/MeiraGA24" mdate="2025-06-17">
+<author pid="407/5461">An&#225;lia Cristina B. T. Meira</author>
+<author pid="g/DaltonSereyGuerrero">Dalton Dario Serey Guerrero</author>
+<author pid="64/298">Wilkerson de L. Andrade</author>
+<title>A Systematic Literature Review on the Use of Software Testing and Programming with Novice Students.</title>
+<pages>1-7</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10893450</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#MeiraGA24</url>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/fie/OliveiraAGM21" mdate="2024-02-19">
 <author pid="93/530">Ana Liz Souto Oliveira</author>
 <author pid="64/298">Wilkerson de L. Andrade</author>
@@ -620,7 +633,7 @@
 <url>db/conf/smc/smc1998.html#CostaGFP98</url>
 </inproceedings>
 </r>
-<coauthors n="60" nc="1">
+<coauthors n="61" nc="1">
 <co c="0"><na f="a/Andrade:Wilkerson_de_L=" pid="64/298">Wilkerson de L. Andrade</na></co>
 <co c="0"><na f="a/Ara=uacute=jo:Eliane" pid="23/3519">Eliane Ara&#250;jo</na></co>
 <co c="0"><na f="b/Barbosa:Paulo_E=_S=" pid="58/2700">Paulo E. S. Barbosa</na></co>
@@ -650,6 +663,7 @@
 <co c="0"><na f="m/Massoni:Tiago" pid="91/4481">Tiago Massoni</na></co>
 <co c="0"><na f="m/Medeiros:Ana_K=_A=_de" pid="220/6534">Ana K. A. de Medeiros</na></co>
 <co c="0"><na f="m/Medeiros:Klaudio_H=_M=" pid="237/6802">Klaudio H. M. Medeiros</na></co>
+<co c="0"><na f="m/Meira:An=aacute=lia_Cristina_B=_T=" pid="407/5461">An&#225;lia Cristina B. T. Meira</na></co>
 <co c="0"><na f="m/Melcher:Elmar_U=_K=" pid="60/6732">Elmar U. K. Melcher</na></co>
 <co c="0"><na f="m/Melo:Izabela" pid="192/8893">Izabela Melo</na></co>
 <co c="0"><na f="m/Melo:Monilly_Ramos_Araujo_de" pid="236/5358">Monilly Ramos Araujo de Melo</na></co>

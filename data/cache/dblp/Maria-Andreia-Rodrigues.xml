@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Maria Andr&#233;ia F. Rodrigues" pid="56/6060" n="74">
+<dblpperson name="Maria Andr&#233;ia F. Rodrigues" pid="56/6060" n="75">
 <person key="homepages/56/6060" mdate="2024-05-01">
 <author pid="56/6060">Maria Andr&#233;ia F. Rodrigues</author>
 <author pid="56/6060">Maria Andr&#233;ia Formico Rodrigues</author>
@@ -32,6 +32,21 @@
 <url>db/journals/entcom/entcom52.html#BarbosaR25a</url>
 <stream>streams/journals/entcom</stream>
 </article>
+</r>
+<r><inproceedings key="conf/icsa/LinharesWZRM25" mdate="2025-06-12">
+<author pid="388/6616">Pedro Fiuza Linhares</author>
+<author pid="388/6757">Pedro H. Gaya Wanderley</author>
+<author pid="388/5283">Marza De Sousa Zaranza</author>
+<author pid="56/6060">Maria Andr&#233;ia Formico Rodrigues</author>
+<author pid="79/4708">Nabor C. Mendon&#231;a</author>
+<title>Design and Evaluation of an Event-Driven Cloud-Based Architecture for a Remote Patient Monitoring System.</title>
+<pages>77-84</pages>
+<year>2025</year>
+<booktitle>ICSA Companion</booktitle>
+<ee>https://doi.org/10.1109/ICSA-C65153.2025.00019</ee>
+<crossref>conf/icsa/2025c</crossref>
+<url>db/conf/icsa/icsa2025c.html#LinharesWZRM25</url>
+</inproceedings>
 </r>
 <r><article key="journals/sbcjis/RodriguesOT24" mdate="2024-08-22">
 <author orcid="0000-0003-1181-2971" pid="56/6060">Maria Andr&#233;ia Formico Rodrigues</author>

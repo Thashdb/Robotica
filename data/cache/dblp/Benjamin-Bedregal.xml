@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Benjam&#237;n R. C. Bedregal" pid="32/3731" n="273">
+<dblpperson name="Benjam&#237;n R. C. Bedregal" pid="32/3731" n="274">
 <person key="homepages/32/3731" mdate="2020-05-20">
 <author pid="32/3731">Benjam&#237;n R. C. Bedregal</author>
 <author pid="32/3731">Benjam&#237;n Ren&#233; Callejas Bedregal</author>
@@ -897,6 +897,22 @@
 <ee>https://doi.org/10.1109/TFUZZ.2020.2994997</ee>
 <url>db/journals/tfs/tfs29.html#LimaPBB21</url>
 </article>
+</r>
+<r><inproceedings key="conf/eusflat/SilvaSFYSBR21" mdate="2025-06-11">
+<author pid="205/1572">Lidiane Costa da Silva</author>
+<author pid="221/8776">Guilherme Bayer Schneider</author>
+<author pid="407/1157">Bruna Freitas</author>
+<author pid="y/AdenauerCYamin">Adenauer C. Yamin</author>
+<author pid="74/4379">H&#233;lida S. Santos</author>
+<author pid="32/3731">Benjam&#237;n R. C. Bedregal</author>
+<author pid="61/2221">Renata Reiser</author>
+<title>Extending Representability on the Set of Intervals Endowed with Admissible Orders for the Construction of Interval-valued Fuzzy Operators.</title>
+<year>2021</year>
+<booktitle>IFSA/EUSFLAT/AGOP</booktitle>
+<ee>https://doi.org/10.2991/asum.k.210827.008</ee>
+<crossref>conf/eusflat/2021</crossref>
+<url>db/conf/eusflat/eusflat2021.html#SilvaSFYSBR21</url>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/fuzzIEEE/OliveiraMSPYRB21" mdate="2025-03-03">
 <author orcid="0000-0002-7069-7136" pid="273/7599">Lizandro de Souza Oliveira</author>
@@ -4000,7 +4016,7 @@
 <ee>https://doi.org/10.1007/3-540-59175-3_89</ee>
 </inproceedings>
 </r>
-<coauthors n="187" nc="6">
+<coauthors n="188" nc="6">
 <co c="1"><na f="a/Abdullah:Saleem" pid="89/10354">Saleem Abdullah</na></co>
 <co c="0"><na f="a/Acampora:Giovanni" pid="33/5907">Giovanni Acampora</na></co>
 <co c="0"><na f="a/Aci=oacute=ly:Benedito_Melo" pid="99/1622">Benedito Melo Aci&#243;ly</na></co>
@@ -4068,6 +4084,7 @@
 <co c="0"><na f="f/Foss:Luciana" pid="24/37">Luciana Foss</na></co>
 <co c="0"><na f="f/Fraz=atilde=o:Heloisa" pid="273/7503">Heloisa Fraz&#227;o</na></co>
 <co c="0"><na f="f/Freddo:Ricardo" pid="220/0636">Ricardo Freddo</na></co>
+<co c="0"><na f="f/Freitas:Bruna" pid="407/1157">Bruna Freitas</na></co>
 <co c="0"><na f="g/Galafassi:Cristiano" pid="84/11271">Cristiano Galafassi</na></co>
 <co c="0"><na f="g/Galar:Mikel" pid="81/7615">Mikel Galar</na></co>
 <co c="0"><na f="g/Galvao:Alessandra" pid="329/0888">Alessandra Galvao</na></co>

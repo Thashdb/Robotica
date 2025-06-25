@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Rayson Laroca" pid="215/5013" n="57">
+<dblpperson name="Rayson Laroca" pid="215/5013" n="58">
 <person key="homepages/215/5013" mdate="2020-06-24">
 <author pid="215/5013">Rayson Laroca</author>
 <url>https://orcid.org/0000-0003-1943-2711</url>
@@ -30,6 +30,23 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2504.19347</ee>
 <url>db/journals/corr/corr2504.html#abs-2504-19347</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-06393" mdate="2025-06-23">
+<author pid="332/0795">Valfride Nascimento</author>
+<author pid="386/1476">Gabriel E. Lima</author>
+<author pid="285/2877">Rafael O. Ribeiro</author>
+<author pid="78/6398">William Robson Schwartz</author>
+<author pid="215/5013">Rayson Laroca</author>
+<author pid="10/2834">David Menotti</author>
+<title>Toward Advancing License Plate Super-Resolution in Real-World Scenarios: A Dataset and Benchmark.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.06393</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.06393</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-06393</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>

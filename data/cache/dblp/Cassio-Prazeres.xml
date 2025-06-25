@@ -1,9 +1,26 @@
 <?xml version="1.0"?>
-<dblpperson name="C&#225;ssio V. S. Prazeres" pid="06/710" n="50">
+<dblpperson name="C&#225;ssio V. S. Prazeres" pid="06/710" n="51">
 <person key="homepages/06/710" mdate="2010-01-29">
 <author pid="06/710">C&#225;ssio V. S. Prazeres</author>
 <author pid="06/710">C&#225;ssio Vinicius Serafim Prazeres</author>
 </person>
+<r><article key="journals/adhoc/FerreiraFCPFP25" mdate="2025-06-18">
+<author pid="407/6063">J. V. G. Ferreira</author>
+<author pid="407/6254">M. E. S. Freire</author>
+<author pid="285/9873">Edson M. Cruz</author>
+<author pid="06/710">C&#225;ssio V. S. Prazeres</author>
+<author pid="29/2875">Gustavo B. Figueiredo</author>
+<author pid="94/4865">Maycon Leone Maciel Peixoto</author>
+<title>Leading the Way: Reducing network traffic in vehicular Ad Hoc networks through cluster leader algorithms.</title>
+<pages>103932</pages>
+<year>2025</year>
+<volume>178</volume>
+<journal>Ad Hoc Networks</journal>
+<ee>https://doi.org/10.1016/j.adhoc.2025.103932</ee>
+<url>db/journals/adhoc/adhoc178.html#FerreiraFCPFP25</url>
+<stream>streams/journals/adhoc</stream>
+</article>
+</r>
 <r><inproceedings key="conf/iotbd/Sousa0P25" mdate="2025-05-31">
 <author pid="230/1775">Nilson Rodrigues Sousa</author>
 <author orcid="0000-0002-6082-9211" pid="247/4387">George Pinto 0001</author>
@@ -38,10 +55,10 @@
 <url>db/conf/iotbd/iotbd2025.html#SeixasM0CSMADPF25</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sac/MaiaFMFAPFP25" mdate="2025-05-31">
-<author pid="285/9508">Adriano H. O. Maia</author>
-<author pid="404/9435">Marcus Freire</author>
-<author pid="404/9514">Thiago Mello</author>
+<r><inproceedings key="conf/sac/MaiaFMFAPFP25" mdate="2025-06-11">
+<author orcid="0009-0007-1739-4295" pid="285/9508">Adriano H. O. Maia</author>
+<author orcid="0009-0005-7195-4607" pid="404/9435">Marcus Freire</author>
+<author orcid="0009-0003-4860-1008" pid="404/9514">Thiago Mello</author>
 <author orcid="0000-0002-3323-0246" pid="167/8003">Roberto Rodrigues Filho</author>
 <author orcid="0000-0002-9312-6715" pid="190/3461">Eduardo Almeida</author>
 <author pid="06/710">C&#225;ssio V. S. Prazeres</author>
@@ -765,7 +782,7 @@
 <url>db/conf/webmedia/webmedia2006.html#PrazeresT06</url>
 </inproceedings>
 </r>
-<coauthors n="81" nc="4">
+<coauthors n="84" nc="4">
 <co c="0" n="2"><na f="a/Alencar:Brenno_de_Mello" pid="239/8792">Brenno de Mello Alencar</na><na>Brenno Mello</na></co>
 <co c="0"><na f="a/Almeida:Eduardo" pid="190/3461">Eduardo Almeida</na></co>
 <co c="0"><na f="a/Almeida:Eduardo_Santana_de" pid="a/EduardoSantanadeAlmeida">Eduardo Santana de Almeida</na></co>
@@ -791,14 +808,17 @@
 <co c="0"><na f="c/Correa:Diego" pid="267/2797">Diego Correa</na></co>
 <co c="0"><na f="c/Costa:Ramon_Dias" pid="170/1626">Ramon Dias Costa</na></co>
 <co c="0"><na f="c/Coutinho:Ant=oacute=nio" pid="34/474">Ant&#243;nio Coutinho</na></co>
+<co c="0"><na f="c/Cruz:Edson_M=" pid="285/9873">Edson M. Cruz</na></co>
 <co c="0"><na f="d/Delicato:Fl=aacute=via_Coimbra" pid="88/4289">Fl&#225;via Coimbra Delicato</na></co>
 <co c="0"><na f="d/Donta:Praveen_Kumar" pid="284/1267">Praveen Kumar Donta</na></co>
 <co c="0"><na f="d/Dur=atilde=o:Frederico_Ara=uacute=jo" pid="22/4396">Frederico Ara&#250;jo Dur&#227;o</na></co>
 <co c="0"><na f="d/Dustdar:Schahram" pid="d/SDustdar">Schahram Dustdar</na></co>
 <co c="0"><na f="f/Ferreira:Eduardo" pid="77/9013">Eduardo Ferreira</na></co>
+<co c="0"><na f="f/Ferreira:J=_V=_G=" pid="407/6063">J. V. G. Ferreira</na></co>
 <co c="0" n="2"><na f="f/Figueiredo:Gustavo_B=" pid="29/2875">Gustavo B. Figueiredo</na><na>Gustavo Bittencourt Figueiredo</na></co>
 <co c="0"><na f="f/Filho:Roberto_Rodrigues" pid="167/8003">Roberto Rodrigues Filho</na></co>
 <co c="2"><na f="f/Filho:Tito_Gardel_do_Prado" pid="170/1609">Tito Gardel do Prado Filho</na></co>
+<co c="0"><na f="f/Freire:M=_E=_S=" pid="407/6254">M. E. S. Freire</na></co>
 <co c="0"><na f="f/Freire:Marcus" pid="404/9435">Marcus Freire</na></co>
 <co c="1"><na f="g/Goularte:Rudinei" pid="48/414">Rudinei Goularte</na></co>
 <co c="0"><na f="g/Gramacho:Sergio_Luis_Dias_Lima" pid="143/5630">Sergio Luis Dias Lima Gramacho</na></co>

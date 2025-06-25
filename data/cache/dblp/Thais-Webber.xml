@@ -1,11 +1,12 @@
 <?xml version="1.0"?>
-<dblpperson name="Thais Webber" pid="94/2275" n="61">
-<person key="homepages/94/2275" mdate="2021-07-24">
+<dblpperson name="Thais Webber" pid="94/2275" n="63">
+<person key="homepages/94/2275" mdate="2025-06-24">
 <author pid="94/2275">Thais Webber</author>
 <url>https://scholar.google.com/citations?user=WD7uu2gAAAAJ</url>
 <url>https://dl.acm.org/profile/81500644936</url>
 <url>https://dl.acm.org/profile/81346490308</url>
 <url>https://orcid.org/0000-0002-8091-6021</url>
+<note type="affiliation">Aston University, Birmingham, UK</note>
 </person>
 <r><article key="journals/iot/CzeksterWFM25" mdate="2025-01-25">
 <author orcid="0000-0002-6636-4398" pid="56/500">Ricardo M. Czekster</author>
@@ -21,6 +22,32 @@
 <url>db/journals/iot/iot29.html#CzeksterWFM25</url>
 <stream>streams/journals/iot</stream>
 </article>
+</r>
+<r><inproceedings key="conf/educon/HakobyanLW25" mdate="2025-06-13">
+<author pid="119/3348">Lilit Hakobyan</author>
+<author pid="38/5487">Richard Lee</author>
+<author pid="94/2275">Thais Webber</author>
+<title>Virtual Tools and Student Engagement: Insights from Engineering Education.</title>
+<pages>1-10</pages>
+<year>2025</year>
+<booktitle>EDUCON</booktitle>
+<ee>https://doi.org/10.1109/EDUCON62633.2025.11016523</ee>
+<crossref>conf/educon/2025</crossref>
+<url>db/conf/educon/educon2025.html#HakobyanLW25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/c3ai/HineWB24" mdate="2025-06-24">
+<author pid="350/7061">Ariane Hine</author>
+<author pid="94/2275">Thais Webber</author>
+<author pid="f/JulianaKusterFilipe">Juliana Bowles</author>
+<title>Enhancing and Personalising Endometriosis Care with Causal Machine Learning.</title>
+<pages>3-25</pages>
+<year>2024</year>
+<booktitle>C3AI</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-74443-3_1</ee>
+<crossref>conf/c3ai/2024</crossref>
+<url>db/conf/c3ai/c3ai2024.html#HineWB24</url>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/datamod/LetoWAW24" mdate="2025-05-09">
 <author pid="404/4050">Daniel Leto</author>
@@ -940,7 +967,7 @@
 <url>db/conf/europar/europar2004.html#BaldoFRVW04</url>
 </inproceedings>
 </r>
-<coauthors n="89" nc="2">
+<coauthors n="91" nc="3">
 <co c="1"><na f="a/Alamino:Roberto" pid="40/8911">Roberto Alamino</na></co>
 <co c="0"><na f="a/Amory:Alexandre_M=" pid="41/1314">Alexandre M. Amory</na></co>
 <co c="0"><na f="b/Baldo:Lucas" pid="13/2378">Lucas Baldo</na></co>
@@ -977,12 +1004,14 @@
 <co c="0"><na f="g/Given=Wilson:Thomas" pid="08/8877">Thomas Given-Wilson</na></co>
 <co c="0"><na f="g/Grando:Fernando" pid="123/2490">Fernando Grando</na></co>
 <co c="0"><na f="g/Guarese:Giuliano_B=_M=" pid="160/5671">Giuliano B. M. Guarese</na></co>
+<co c="2"><na f="h/Hakobyan:Lilit" pid="119/3348">Lilit Hakobyan</na></co>
 <co c="0"><na f="h/Hessel:Fabiano" pid="33/5648">Fabiano Hessel</na></co>
 <co c="0"><na f="h/Hine:Ariane" pid="350/7061">Ariane Hine</na></co>
 <co c="0"><na f="h/Huang:Wanting" pid="16/8245">Wanting Huang</na></co>
 <co c="0"><na f="j/Jandrey:Alessandra_H=" pid="242/7077">Alessandra H. Jandrey</na></co>
 <co c="0"><na f="k/Kessler:Gabriela_Zucchetti" pid="236/8623">Gabriela Zucchetti Kessler</na></co>
 <co c="0"><na f="k/Kipper:Liane_Mahlmann" pid="153/6187">Liane Mahlmann Kipper</na></co>
+<co c="2"><na f="l/Lee:Richard" pid="38/5487">Richard Lee</na></co>
 <co c="0"><na f="l/Legay:Axel" pid="52/579">Axel Legay</na></co>
 <co c="1"><na f="l/Leto:Daniel" pid="404/4050">Daniel Leto</na></co>
 <co c="0"><na f="l/Lima:Antonio_M=_de" pid="83/8734">Antonio M. de Lima</na></co>

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Carlos Kamienski" pid="74/2714" n="104">
+<dblpperson name="Carlos Kamienski" pid="74/2714" n="105">
 <person key="homepages/74/2714" mdate="2020-05-12">
 <author pid="74/2714">Carlos Kamienski</author>
 <author pid="74/2714">Carlos Alberto Kamienski</author>
@@ -159,6 +159,22 @@
 <crossref>conf/dcoss/2024</crossref>
 <url>db/conf/dcoss/dcoss2024.html#KamienskiZBF24</url>
 <stream>streams/conf/dcoss</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/TrombetaSCSKK24" mdate="2025-06-17">
+<author pid="268/7085">Lucas Trombeta</author>
+<author pid="407/5661">Dener Edson O. G. Da Silva</author>
+<author pid="407/5571">Bruna Cunha Carvalho</author>
+<author pid="407/5254">Felipe Augusto Anon Da Silva</author>
+<author pid="30/2339">Jo&#227;o Henrique Kleinschmidt</author>
+<author pid="74/2714">Carlos Alberto Kamienski</author>
+<title>P4Checkers: Exploring Modern Network Concepts Through a Classic Game.</title>
+<pages>1-8</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10893518</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#TrombetaSCSKK24</url>
 </inproceedings>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-2410-10532" mdate="2024-11-25">
@@ -1630,7 +1646,7 @@
 <url>db/conf/lanoms/lanoms2001.html#KamienskiS01</url>
 </inproceedings>
 </r>
-<coauthors n="140" nc="2">
+<coauthors n="144" nc="2">
 <co c="0"><na f="a/Aguzzi:Cristiano" pid="207/5774">Cristiano Aguzzi</na></co>
 <co c="0"><na f="a/Alves:Gustavo" pid="35/2785">Gustavo Alves</na></co>
 <co c="0"><na f="a/Alves:Rafael_Gomes" pid="261/2254">Rafael Gomes Alves</na></co>
@@ -1655,6 +1671,7 @@
 <co c="0"><na f="c/Caetano:Bruno_Tadeu" pid="148/4437">Bruno Tadeu Caetano</na></co>
 <co c="0"><na f="c/Callado:Arthur_C=" pid="38/2140">Arthur C. Callado</na></co>
 <co c="0"><na f="c/Camponogara:Glauber" pid="256/6282">Glauber Camponogara</na></co>
+<co c="0"><na f="c/Carvalho:Bruna_Cunha" pid="407/5571">Bruna Cunha Carvalho</na></co>
 <co c="0"><na f="c/Cavalcante:Everton" pid="77/10661">Everton Cavalcante</na></co>
 <co c="0"><na f="c/Cavalcanti_0001:Dave" pid="19/3125">Dave Cavalcanti 0001</na></co>
 <co c="0"><na f="c/Cerqueira:Eduardo" pid="18/4139">Eduardo Cerqueira</na></co>
@@ -1743,6 +1760,8 @@
 <co c="1"><na f="s/Schweitzer:Christiane_Marie" pid="58/5434">Christiane Marie Schweitzer</na></co>
 <co c="0"><na f="s/Sciullo:Luca" pid="232/4513">Luca Sciullo</na></co>
 <co c="0"><na f="s/Silva:Dener" pid="233/0873">Dener Silva</na></co>
+<co c="0"><na f="s/Silva:Dener_Edson_O=_G=_Da" pid="407/5661">Dener Edson O. G. Da Silva</na></co>
+<co c="0"><na f="s/Silva:Felipe_Augusto_Anon_Da" pid="407/5254">Felipe Augusto Anon Da Silva</na></co>
 <co c="0"><na f="s/Silva:Scheila_de_Avila_e" pid="258/6566">Scheila de Avila e Silva</na></co>
 <co c="0"><na f="s/Silva:Tarciana" pid="20/5076">Tarciana Silva</na></co>
 <co c="0"><na f="s/Silvestre:Guthemberg" pid="03/8298">Guthemberg Silvestre</na></co>
@@ -1762,6 +1781,7 @@
 <co c="0"><na f="t/Toscano:Attilio" pid="230/1287">Attilio Toscano</na></co>
 <co c="0"><na f="t/Tran:Anh_Lan_Ho" pid="212/0570">Anh Lan Ho Tran</na></co>
 <co c="0"><na f="t/Trindade:Andrea" pid="273/5136">Andrea Trindade</na></co>
+<co c="0"><na f="t/Trombeta:Lucas" pid="268/7085">Lucas Trombeta</na></co>
 <co c="0"><na f="t/Trotta:Angelo" pid="133/4880">Angelo Trotta</na></co>
 <co c="0"><na f="v/Viana:Davi" pid="117/5583">Davi Viana</na></co>
 <co c="0"><na f="v/Viola:Fabio" pid="75/8107">Fabio Viola</na></co>

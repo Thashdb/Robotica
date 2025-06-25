@@ -1,8 +1,22 @@
 <?xml version="1.0"?>
-<dblpperson name="Marcos M. Raimundo" pid="214/2368" n="14">
-<person key="homepages/214/2368" mdate="2018-02-14">
+<dblpperson name="Marcos M. Raimundo" pid="214/2368" n="15">
+<person key="homepages/214/2368" mdate="2025-06-24">
 <author pid="214/2368">Marcos M. Raimundo</author>
+<author pid="214/2368">Marcos Medeiros Raimundo</author>
 </person>
+<r><inproceedings key="conf/fat/PereiraVR25" mdate="2025-06-24">
+<author pid="408/1284">Jansen Silva de Brito Pereira</author>
+<author pid="341/1469">Giovani Valdrighi</author>
+<author pid="214/2368">Marcos Medeiros Raimundo</author>
+<title>M&#178;FGB: A Min-Max Gradient Boosting Framework for Subgroup Fairness.</title>
+<pages>3106-3118</pages>
+<year>2025</year>
+<booktitle>FAccT</booktitle>
+<ee>https://doi.org/10.1145/3715275.3732197</ee>
+<crossref>conf/fat/2025</crossref>
+<url>db/conf/fat/facct2025.html#PereiraVR25</url>
+</inproceedings>
+</r>
 <r><article publtype="informal" key="journals/corr/abs-2504-12458" mdate="2025-05-22">
 <author pid="388/2202">Jansen S. B. Pereira</author>
 <author pid="341/1469">Giovani Valdrighi</author>
@@ -205,7 +219,7 @@
 <url>db/conf/ciarp/ciarp2017.html#BeserraRZ17</url>
 </inproceedings>
 </r>
-<coauthors n="24" nc="2">
+<coauthors n="25" nc="2">
 <co c="0"><na f="a/Adorno:Sergio" pid="279/9220">Sergio Adorno</na></co>
 <co c="1"><na f="b/Beserra:Fernando_S=" pid="214/2405">Fernando S. Beserra</na></co>
 <co c="0"><na f="b/Bocca:Felipe_F=" pid="388/2514">Felipe F. Bocca</na></co>
@@ -220,6 +234,7 @@
 <co c="0"><na f="n/Nery:Marcelo_Batista" pid="286/8864">Marcelo Batista Nery</na></co>
 <co c="0"><na f="n/Nonato:Luis_Gustavo" pid="59/17">Luis Gustavo Nonato</na></co>
 <co c="0"><na f="p/Pereira:Jansen_S=_B=" pid="388/2202">Jansen S. B. Pereira</na></co>
+<co c="0"><na f="p/Pereira:Jansen_Silva_de_Brito" pid="408/1284">Jansen Silva de Brito Pereira</na></co>
 <co c="0"><na f="p/Poco:Jorge" pid="55/9845">Jorge Poco</na></co>
 <co c="0" n="2"><na f="r/Resck:Lucas" pid="315/0757">Lucas Resck</na><na>Lucas E. Resck</na></co>
 <co c="0"><na f="r/Ribeiro:Athyrson_M=" pid="388/3657">Athyrson M. Ribeiro</na></co>

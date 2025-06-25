@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Rosa Maria Vicari" pid="v/RosaMariaVicari" n="130">
+<dblpperson name="Rosa Maria Vicari" pid="v/RosaMariaVicari" n="132">
 <person key="homepages/v/RosaMariaVicari" mdate="2021-10-28">
 <author pid="v/RosaMariaVicari">Rosa Maria Vicari</author>
 <author pid="v/RosaMariaVicari">Rosa Vicari</author>
@@ -8,6 +8,37 @@
 <url>http://www.inf.ufrgs.br/~rosa/</url>
 <url>https://orcid.org/0000-0002-6909-6405</url>
 </person>
+<r><inproceedings key="conf/fie/BrongarPVSB24" mdate="2025-06-17">
+<author pid="407/4927">Andrew Flores Brongar</author>
+<author pid="407/5347">Jordan Zitzke Pinho</author>
+<author pid="v/RosaMariaVicari">Rosa Vicari</author>
+<author pid="407/5362">Gisele Moraes Simas</author>
+<author pid="193/1032">Regina Barwaldt</author>
+<title>Improving Translation from Portuguese to Brazilian Sign Language with Speech-to-Text Integration Through Natural Language Processing.</title>
+<pages>1-8</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10892852</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#BrongarPVSB24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/SilveiraARGVB24" mdate="2025-06-17">
+<author pid="407/5617">Lisiane Corr&#234;a Gomes Silveira</author>
+<author pid="407/5007">Patr&#237;cia Warnke de Alvarenga</author>
+<author pid="366/5544">Luis Otoni Meireles Ribeiro</author>
+<author pid="407/5648">Eder Mateus Gon&#231;alves</author>
+<author pid="v/RosaMariaVicari">Rosa Vicari</author>
+<author pid="193/1032">Regina Barwaldt</author>
+<title>Exploring the Potential of Artificial Intelligence in Special Education: A Bibliometric Analysis to Support Educators and Students with Autism Spectrum Disorder (ASD).</title>
+<pages>1-9</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10893218</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#SilveiraARGVB24</url>
+</inproceedings>
+</r>
 <r><article key="journals/aiedu/GalafassiGVR23" mdate="2023-03-11">
 <author orcid="0000-0002-6922-5019" pid="84/11271">Cristiano Galafassi</author>
 <author pid="162/6001">Fabiane Flores Penteado Galafassi</author>
@@ -1844,9 +1875,10 @@
 <ee>https://www.wikidata.org/entity/Q58289129</ee>
 </article>
 </r>
-<coauthors n="170" nc="4">
+<coauthors n="178" nc="5">
 <co c="0"><na f="a/Alegre:Brazil_Porto" pid="193/5156">Brazil Porto Alegre</na></co>
-<co c="1"><na f="a/Almeida:Vinicius_N=oacute=bile_de" pid="51/1150">Vinicius N&#243;bile de Almeida</na></co>
+<co c="2"><na f="a/Almeida:Vinicius_N=oacute=bile_de" pid="51/1150">Vinicius N&#243;bile de Almeida</na></co>
+<co c="1"><na f="a/Alvarenga:Patr=iacute=cia_Warnke_de" pid="407/5007">Patr&#237;cia Warnke de Alvarenga</na></co>
 <co c="0"><na f="a/Alvares:Luis_Ot=aacute=vio" pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</na></co>
 <co c="0"><na f="a/Andrade:Adja_Ferreira_de" pid="09/1220">Adja Ferreira de Andrade</na></co>
 <co c="0"><na f="a/Andrioti:G=" pid="44/1371">G. Andrioti</na></co>
@@ -1856,6 +1888,7 @@
 <co c="0" n="2"><na f="b/Barbosa:Jorge_L=_V=" pid="72/3050">Jorge L. V. Barbosa</na><na>Jorge Luis Vict&#243;ria Barbosa</na></co>
 <co c="0" n="2"><na f="b/Barrera:Luisa_Fernanda" pid="41/9523">Luisa Fernanda Barrera</na><na>Luisa Fernanda Barrera-Le&#243;n</na></co>
 <co c="0"><na f="b/Barros:Paulo_R=" pid="121/4124">Paulo R. Barros</na></co>
+<co c="1"><na f="b/Barwaldt:Regina" pid="193/1032">Regina Barwaldt</na></co>
 <co c="0"><na f="b/Basso:Daniel_M=" pid="95/1438">Daniel M. Basso</na></co>
 <co c="0"><na f="b/Bazzan:Ana_L=_C=" pid="b/AnaLCBazzan">Ana L. C. Bazzan</na></co>
 <co c="0"><na f="b/Behr:Andr=eacute=" pid="64/3388">Andr&#233; Behr</na></co>
@@ -1869,6 +1902,7 @@
 <co c="0"><na f="b/Botelho:Andrea" pid="302/7315">Andrea Botelho</na></co>
 <co c="-1"><na f="b/Botelho:Francisco_Villa_Ulh=ocirc=a" pid="77/7351">Francisco Villa Ulh&#244;a Botelho</na></co>
 <co c="0"><na f="b/Brijaldo:M=oacute=nica" pid="166/2515">M&#243;nica Brijaldo</na></co>
+<co c="1"><na f="b/Brongar:Andrew_Flores" pid="407/4927">Andrew Flores Brongar</na></co>
 <co c="0"><na f="b/Brusius:Carlos" pid="292/2655">Carlos Brusius</na></co>
 <co c="0"><na f="c/Cabrera=Paniagua:Daniel" pid="99/744">Daniel Cabrera-Paniagua</na></co>
 <co c="0"><na f="c/Cadavid:Juli=aacute=n_Moreno" pid="13/543">Juli&#225;n Moreno Cadavid</na></co>
@@ -1892,7 +1926,7 @@
 <co c="0"><na f="d/Dowling:Sasja" pid="36/1714">Sasja Dowling</na></co>
 <co c="0" n="2"><na f="d/Duque:N=eacute=stor_D=" pid="121/4262">N&#233;stor D. Duque</na><na>N&#233;stor Dar&#237;o Duque-M&#233;ndez</na></co>
 <co c="0"><na f="f/Fabregat:Ram=oacute=n" pid="46/3811">Ram&#243;n Fabregat</na></co>
-<co c="2"><na f="f/Fagundes:L=eacute=a_Da_Cruz" pid="72/4178">L&#233;a Da Cruz Fagundes</na></co>
+<co c="4"><na f="f/Fagundes:L=eacute=a_Da_Cruz" pid="72/4178">L&#233;a Da Cruz Fagundes</na></co>
 <co c="0"><na f="f/Fagundes:Moser_Silva" pid="11/2749">Moser Silva Fagundes</na></co>
 <co c="0"><na f="f/Felix:Neusa" pid="16/684">Neusa Felix</na></co>
 <co c="0"><na f="f/Fernandez:Monica" pid="89/3363">Monica Fernandez</na></co>
@@ -1910,10 +1944,11 @@
 <co c="0"><na f="g/Gluz:Jo=atilde=o_Carlos" pid="55/3847">Jo&#227;o Carlos Gluz</na></co>
 <co c="0"><na f="g/Gomes:Eduardo_Rodrigues" pid="29/1561">Eduardo Rodrigues Gomes</na></co>
 <co c="0"><na f="g/Gomes:Lucas" pid="145/7833">Lucas Gomes</na></co>
+<co c="1"><na f="g/Gon=ccedil=alves:Eder_Mateus" pid="407/5648">Eder Mateus Gon&#231;alves</na></co>
 <co c="0"><na f="g/Gon=ccedil=alves:Leandro" pid="62/3696">Leandro Gon&#231;alves</na></co>
 <co c="0"><na f="g/Gonz=aacute=lez=Vargas:Juan_Camilo" pid="175/6200">Juan Camilo Gonz&#225;lez-Vargas</na></co>
 <co c="0"><na f="g/Grabowska:Anna" pid="32/4310">Anna Grabowska</na></co>
-<co c="0"><na f="g/Guedes:Gilleanes_Thorwald_Araujo" pid="87/7540">Gilleanes Thorwald Araujo Guedes</na></co>
+<co c="0" n="2"><na f="g/Guedes:Gilleanes_T=_A=" pid="87/7540">Gilleanes T. A. Guedes</na><na>Gilleanes Thorwald Araujo Guedes</na></co>
 <co c="0"><na f="g/Guerra:H=eacute=lia" pid="95/7572">H&#233;lia Guerra</na></co>
 <co c="0"><na f="h/Hezemans:Marijke" pid="82/417">Marijke Hezemans</na></co>
 <co c="0"><na f="h/H=uuml=bner:Jomi_Fred" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</na></co>
@@ -1947,7 +1982,7 @@
 <co c="0"><na f="m/Mossmann:Marcel" pid="145/7782">Marcel Mossmann</na></co>
 <co c="0"><na f="m/Motola:Ronaldo" pid="33/8871">Ronaldo Motola</na></co>
 <co c="0"><na f="m/Moussalle:Neila_Maria" pid="81/4415">Neila Maria Moussalle</na></co>
-<co c="1"><na f="n/Nakayama:Lauro" pid="80/5334">Lauro Nakayama</na></co>
+<co c="2"><na f="n/Nakayama:Lauro" pid="80/5334">Lauro Nakayama</na></co>
 <co c="0"><na f="n/Nicolao:Mariano" pid="08/5061">Mariano Nicolao</na></co>
 <co c="0"><na f="n/Novo:Paulo" pid="292/4414">Paulo Novo</na></co>
 <co c="0"><na f="n/Nozawa:Erika_H=" pid="148/4415">Erika H. Nozawa</na></co>
@@ -1969,6 +2004,7 @@
 <co c="0"><na f="p/Perotto:Filipo_Studzinski" pid="73/6452">Filipo Studzinski Perotto</na></co>
 <co c="0"><na f="p/Pesty:Sylvie" pid="76/4643">Sylvie Pesty</na></co>
 <co c="0"><na f="p/Pimenta:Marcelo_Soares" pid="p/MarceloSoaresPimenta">Marcelo Soares Pimenta</na></co>
+<co c="1"><na f="p/Pinho:Jordan_Zitzke" pid="407/5347">Jordan Zitzke Pinho</na></co>
 <co c="0"><na f="p/Pomares=Quimbaya:Alexandra" pid="46/729">Alexandra Pomares-Quimbaya</na></co>
 <co c="0"><na f="p/Prieta:Fernando_de_la" pid="81/8228">Fernando de la Prieta</na></co>
 <co c="0"><na f="p/Primo:Tiago_Thompsen" pid="34/9982">Tiago Thompsen Primo</na></co>
@@ -1978,6 +2014,7 @@
 <co c="0"><na f="r/Resp=iacute=cio:Ana" pid="92/1755">Ana Resp&#237;cio</na></co>
 <co c="0"><na f="r/Ribeiro:Alexandre" pid="81/4768">Alexandre Ribeiro</na></co>
 <co c="0"><na f="r/Ribeiro:Alexandre_Moreto" pid="118/0946">Alexandre Moreto Ribeiro</na></co>
+<co c="1"><na f="r/Ribeiro:Luis_Otoni_Meireles" pid="366/5544">Luis Otoni Meireles Ribeiro</na></co>
 <co c="0"><na f="r/Ritzen:Magda" pid="53/4933">Magda Ritzen</na></co>
 <co c="0"><na f="r/Rocha:Heloisa_Vieira_da" pid="r/HeloisaVieiradaRocha">Heloisa Vieira da Rocha</na></co>
 <co c="0"><na f="r/Rodr=iacute=guez:Paula" pid="121/4081">Paula Rodr&#237;guez</na></co>
@@ -1988,7 +2025,7 @@
 <co c="0"><na f="s/Santos:Elder_Rizzon" pid="74/5905">Elder Rizzon Santos</na></co>
 <co c="0"><na f="s/Schreiner:Paulo" pid="201/2138">Paulo Schreiner</na></co>
 <co c="0"><na f="s/Seixas:Louise_J=" pid="18/4566">Louise J. Seixas</na></co>
-<co c="2"><na f="s/Seixas:Louise_Jeanty_de" pid="07/5364">Louise Jeanty de Seixas</na></co>
+<co c="4"><na f="s/Seixas:Louise_Jeanty_de" pid="07/5364">Louise Jeanty de Seixas</na></co>
 <co c="0"><na f="s/Self:John_A=" pid="53/3149">John A. Self</na></co>
 <co c="0"><na f="s/Silva:Adriane_Borda_Almeida_da" pid="08/2641">Adriane Borda Almeida da Silva</na></co>
 <co c="0"><na f="s/Silva:Jo=atilde=o_Luis_Tavares_da" pid="119/6704">Jo&#227;o Luis Tavares da Silva</na></co>
@@ -1997,8 +2034,10 @@
 <co c="0"><na f="s/Silva:Michele" pid="86/3738">Michele Silva</na></co>
 <co c="0"><na f="s/Silva:Michele_dos_Santos_da" pid="38/553">Michele dos Santos da Silva</na></co>
 <co c="-1"><na f="s/Silva=Sprock:Antonio" pid="137/6441">Antonio Silva-Sprock</na></co>
+<co c="1"><na f="s/Silveira:Lisiane_Corr=ecirc=a_Gomes" pid="407/5617">Lisiane Corr&#234;a Gomes Silveira</na></co>
 <co c="0"><na f="s/Silveira:Ricardo_Azambuja" pid="48/5786">Ricardo Azambuja Silveira</na></co>
 <co c="0"><na f="s/Silvestre:Andr=eacute=_M=" pid="88/7008">Andr&#233; M. Silvestre</na></co>
+<co c="1"><na f="s/Simas:Gisele_Moraes" pid="407/5362">Gisele Moraes Simas</na></co>
 <co c="0"><na f="s/Souto:Maria_Aparecida_M=" pid="23/757">Maria Aparecida M. Souto</na></co>
 <co c="0"><na f="s/Sperb:Josu=eacute=_Klafke" pid="32/2019">Josu&#233; Klafke Sperb</na></co>
 <co c="0"><na f="s/Syslo:Maciej_M=" pid="88/6717">Maciej M. Syslo</na></co>
@@ -2013,7 +2052,7 @@
 <co c="0"><na f="w/Wainer:Ricardo" pid="73/6325">Ricardo Wainer</na></co>
 <co c="0"><na f="w/Warpechowski:Mariusa" pid="77/3594">Mariusa Warpechowski</na></co>
 <co c="0"><na f="w/Weert:Tom_J=_van" pid="25/4441">Tom J. van Weert</na></co>
-<co c="1"><na f="w/Wulfhorst:Rodolfo_Daniel" pid="51/4591">Rodolfo Daniel Wulfhorst</na></co>
+<co c="2"><na f="w/Wulfhorst:Rodolfo_Daniel" pid="51/4591">Rodolfo Daniel Wulfhorst</na></co>
 <co c="0"><na f="z/Zanella:Renata" pid="22/6465">Renata Zanella</na></co>
 </coauthors>
 </dblpperson>

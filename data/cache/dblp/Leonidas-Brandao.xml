@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Le&#244;nidas de Oliveira Brand&#227;o" pid="22/6910" n="38">
+<dblpperson name="Le&#244;nidas de Oliveira Brand&#227;o" pid="22/6910" n="40">
 <person key="homepages/22/6910" mdate="2022-02-15">
 <author pid="22/6910">Le&#244;nidas de Oliveira Brand&#227;o</author>
 <url>https://scholar.google.com/citations?user=rLL3ruwAAAAJ</url>
@@ -8,6 +8,36 @@
 <url>https://www.wikidata.org/entity/Q102397271</url>
 <url>http://lattes.cnpq.br/5618622435626525</url>
 </person>
+<r><inproceedings key="conf/fie/HagstromRBBL24" mdate="2025-06-17">
+<author pid="407/5174">Rodrigo Hagstrom</author>
+<author pid="407/5130">Calebe Rezende</author>
+<author pid="22/6910">Le&#244;nidas de Oliveira Brand&#227;o</author>
+<author pid="68/870">Anarosa Alves Franco Brand&#227;o</author>
+<author pid="280/6874">Priscila da Silva Neves Lima</author>
+<title>What Concepts of Computational Thinking are Being Effectively Used in K12 Education: A Systematic Mapping.</title>
+<pages>1-9</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10892901</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#HagstromRBBL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/LimaSBHB24" mdate="2025-06-17">
+<author pid="280/6874">Priscila da Silva Neves Lima</author>
+<author pid="280/6409">Laira das Almas Silva</author>
+<author pid="68/870">Anarosa Alves Franco Brand&#227;o</author>
+<author pid="407/5174">Rodrigo Ot&#225;vio Ribeiro Hagstrom</author>
+<author pid="22/6910">Le&#244;nidas de Oliveira Brand&#227;o</author>
+<title>How Digital Games are Engaging Our Children Toward STEM Careers?</title>
+<pages>1-9</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10892917</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#LimaSBHB24</url>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/fie/LimaSFMB23" mdate="2024-01-23">
 <author pid="280/6874">Priscila da Silva Neves Lima</author>
 <author pid="280/6409">Laira das Almas Silva</author>
@@ -576,7 +606,7 @@
 <url>db/journals/deds/deds5.html#HumesBG95</url>
 </article>
 </r>
-<coauthors n="65" nc="3">
+<coauthors n="67" nc="3">
 <co c="0"><na f="a/Alvares:Danilo" pid="216/6273">Danilo Alvares</na></co>
 <co c="0"><na f="a/Auzende:Odette" pid="61/6683">Odette Auzende</na></co>
 <co c="0"><na f="b/Barbosa:Ellen_Francine" pid="66/2060">Ellen Francine Barbosa</na></co>
@@ -602,6 +632,7 @@
 <co c="0"><na f="g/Giroire:H=eacute=l=egrave=ne" pid="54/485">H&#233;l&#232;ne Giroire</na></co>
 <co c="0"><na f="g/Gomes:Guilherme_M=" pid="193/5211">Guilherme M. Gomes</na></co>
 <co c="2"><na f="h/Haar:Ewout_ter" pid="366/5322">Ewout ter Haar</na></co>
+<co c="0" n="2"><na f="h/Hagstrom:Rodrigo_Ot=aacute=vio_Ribeiro" pid="407/5174">Rodrigo Ot&#225;vio Ribeiro Hagstrom</na><na>Rodrigo Hagstrom</na></co>
 <co c="0"><na f="h/Hashimoto:Ronaldo_Fumio" pid="72/2665">Ronaldo Fumio Hashimoto</na></co>
 <co c="0"><na f="h/Humes_Jr=:Carlos" pid="86/4600">Carlos Humes Jr.</na></co>
 <co c="1"><na f="i/Ibarra:Manuel_J=" pid="132/7103">Manuel J. Ibarra</na></co>
@@ -626,6 +657,7 @@
 <co c="0"><na f="p/Prado:Reginaldo_do" pid="193/2724">Reginaldo do Prado</na></co>
 <co c="0"><na f="r/Redmiles:David_F=" pid="84/6534">David F. Redmiles</na></co>
 <co c="0"><na f="r/Reis:Helena_Macedo" pid="125/2998">Helena Macedo Reis</na></co>
+<co c="0"><na f="r/Rezende:Calebe" pid="407/5130">Calebe Rezende</na></co>
 <co c="0"><na f="r/Ribeiro:Romenig_da_Silva" pid="193/4075">Romenig da Silva Ribeiro</na></co>
 <co c="0"><na f="r/Rodrigues:Jose_Roberto_A=" pid="193/4740">Jose Roberto A. Rodrigues</na></co>
 <co c="0"><na f="r/Rodrigues:Patricia_Alves" pid="193/1123">Patricia Alves Rodrigues</na></co>

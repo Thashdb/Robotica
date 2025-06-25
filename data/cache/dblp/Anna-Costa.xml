@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Anna Helena Reali Costa" pid="r/AnnaHelenaRealiCosta" n="129">
+<dblpperson name="Anna Helena Reali Costa" pid="r/AnnaHelenaRealiCosta" n="130">
 <person key="homepages/r/AnnaHelenaRealiCosta" mdate="2022-11-02">
 <author pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</author>
 <author pid="r/AnnaHelenaRealiCosta">Anna H. R. Costa</author>
@@ -25,6 +25,21 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2504.21174</ee>
 <url>db/journals/corr/corr2504.html#abs-2504-21174</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-12100" mdate="2025-06-23">
+<author pid="408/0628">Isabela Pereira Gregio</author>
+<author pid="378/1046">Ian Pons</author>
+<author pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</author>
+<author pid="191/2742">Artur Jord&#227;o</author>
+<title>Improving Fairness in LLMs Through Testing-Time Adversaries.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.12100</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.12100</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-12100</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -1901,7 +1916,7 @@
 <url>db/journals/jbcs/jbcs4.html#CostaRBB98</url>
 </article>
 </r>
-<coauthors n="157" nc="6">
+<coauthors n="158" nc="6">
 <co c="0"><na f="a/Alcantara:Lucas_Lauton_de" pid="405/8239">Lucas Lauton de Alcantara</na></co>
 <co c="0"><na f="a/Alcoforado:Alexandre" pid="308/6909">Alexandre Alcoforado</na></co>
 <co c="0"><na f="a/Almeida:Aislan_C=" pid="211/8167">Aislan C. Almeida</na></co>
@@ -1961,6 +1976,7 @@
 <co c="0" n="2"><na f="g/Gomi:Edson_S=" pid="117/5619">Edson S. Gomi</na><na>Edson Satoshi Gomi</na></co>
 <co c="0"><na f="g/Grava:Ricardo_S=" pid="329/4817">Ricardo S. Grava</na></co>
 <co c="0"><na f="g/Graves:Catharine_de_Vita" pid="322/6780">Catharine de Vita Graves</na></co>
+<co c="0"><na f="g/Gregio:Isabela_Pereira" pid="408/0628">Isabela Pereira Gregio</na></co>
 <co c="1"><na f="g/Grosky:William_I=" pid="g/WilliamIGrosky">William I. Grosky</na></co>
 <co c="0"><na f="h/Homem:Thiago_Pedro_Donadon" pid="182/1219">Thiago Pedro Donadon Homem</na></co>
 <co c="2" n="2"><na f="h/Hruschka:Eduardo_R=" pid="31/4579">Eduardo R. Hruschka</na><na>Eduardo Raul Hruschka</na></co>

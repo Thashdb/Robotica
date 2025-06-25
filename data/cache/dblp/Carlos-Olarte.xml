@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Carlos Olarte" pid="o/CarlosOlarte" n="94">
+<dblpperson name="Carlos Olarte" pid="o/CarlosOlarte" n="95">
 <person key="homepages/o/CarlosOlarte" mdate="2025-05-13">
 <author pid="o/CarlosOlarte">Carlos Olarte</author>
 <author pid="o/CarlosOlarte">Carlos Alberto Olarte</author>
@@ -23,6 +23,21 @@
 <ee type="oa">https://doi.org/10.4230/LIPIcs.CSL.2025.4</ee>
 <crossref>conf/csl/2025</crossref>
 <url>db/conf/csl/csl2025.html#PimentelOLFF25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nfm/OlarteORR25" mdate="2025-06-16">
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="322/3852">Daniel Osorio</author>
+<author pid="144/7593">Carlos Ram&#237;rez 0002</author>
+<author pid="56/2819">Camilo Rocha</author>
+<title>Algorithmic Analysis of Event-B in Rewriting Logic.</title>
+<pages>275-293</pages>
+<year>2025</year>
+<booktitle>NFM</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-93706-4_16</ee>
+<crossref>conf/nfm/2025</crossref>
+<url>db/conf/nfm/nfm2025.html#OlarteORR25</url>
+<stream>streams/conf/nfm</stream>
 </inproceedings>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-2504-17605" mdate="2025-05-23">

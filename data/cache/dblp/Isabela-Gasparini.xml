@@ -1,9 +1,26 @@
 <?xml version="1.0"?>
-<dblpperson name="Isabela Gasparini" pid="83/667" n="118">
+<dblpperson name="Isabela Gasparini" pid="83/667" n="119">
 <person key="homepages/83/667" mdate="2024-02-05">
 <author pid="83/667">Isabela Gasparini</author>
 <url>https://orcid.org/0000-0002-8094-9261</url>
 </person>
+<r><inproceedings key="conf/educon/FrigoCSVOGM25" mdate="2025-06-13">
+<author pid="15/4443">Luciana Bolan Frigo</author>
+<author pid="407/2929">Joice P. Cardoso</author>
+<author pid="407/2959">Maria T. S. Santos</author>
+<author pid="15/374">Jos&#233; Viterbo</author>
+<author pid="84/4026">Fabr&#237;cio de Oliveira Ourique</author>
+<author pid="83/667">Isabela Gasparini</author>
+<author pid="407/3069">Analucia S. Morales</author>
+<title>What Do the Data Reveal About Women and Men in Technology?</title>
+<pages>1-10</pages>
+<year>2025</year>
+<booktitle>EDUCON</booktitle>
+<ee>https://doi.org/10.1109/EDUCON62633.2025.11016522</ee>
+<crossref>conf/educon/2025</crossref>
+<url>db/conf/educon/educon2025.html#FrigoCSVOGM25</url>
+</inproceedings>
+</r>
 <r><article publtype="informal" key="journals/corr/abs-2503-22741" mdate="2025-04-21">
 <author pid="389/1911">La&#237;s P. V. Vossen</author>
 <author pid="83/667">Isabela Gasparini</author>
@@ -1767,7 +1784,7 @@
 <url>db/conf/sbsi/sbsi2006.html#PiaiaG06</url>
 </inproceedings>
 </r>
-<coauthors n="164" nc="2">
+<coauthors n="169" nc="2">
 <co c="0"><na f="a/Abdelnour=Nocera:Jos=eacute=_L=" pid="59/3873">Jos&#233; L. Abdelnour-Nocera</na></co>
 <co c="0"><na f="a/Agudelo:Leonardo_Parra" pid="134/3013">Leonardo Parra Agudelo</na></co>
 <co c="0"><na f="a/Aguiar:Gilberto" pid="266/3463">Gilberto Aguiar</na></co>
@@ -1793,6 +1810,7 @@
 <co c="0"><na f="b/Borges:Simone_de_Sousa" pid="148/4422">Simone de Sousa Borges</na></co>
 <co c="0"><na f="b/Boscarioli:Clodis" pid="97/993">Clodis Boscarioli</na></co>
 <co c="0"><na f="b/Bouzeghoub:Amel" pid="88/5898">Amel Bouzeghoub</na></co>
+<co c="0"><na f="c/Cardoso:Joice_P=" pid="407/2929">Joice P. Cardoso</na></co>
 <co c="0"><na f="c/Carmo:=Ecirc=rica_Peters_Do" pid="272/2249">&#202;rica Peters Do Carmo</na></co>
 <co c="0"><na f="c/Carvalho:Guilherme_Xavier_de" pid="266/4819">Guilherme Xavier de Carvalho</na></co>
 <co c="0" n="2"><na f="c/Carvalho:Leandro_S=_G=" pid="48/91">Leandro S. G. Carvalho</na><na>Leandro Galv&#227;o 0001</na></co>
@@ -1818,6 +1836,7 @@
 <co c="0"><na f="e/Eyharabide:Victoria" pid="02/7351">Victoria Eyharabide</na></co>
 <co c="0"><na f="f/Falc=atilde=o:Taciana_Pontual" pid="10/5013">Taciana Pontual Falc&#227;o</na></co>
 <co c="0"><na f="f/Felipe:Daniel" pid="296/5711">Daniel Felipe</na></co>
+<co c="0" n="2"><na f="f/Frigo:Luciana" pid="15/4443">Luciana Frigo</na><na>Luciana Bolan Frigo</na></co>
 <co c="0" n="2"><na f="f/Furtado:Elizabeth" pid="55/6805">Elizabeth Furtado</na><na>Elizabeth Sucupira Furtado</na></co>
 <co c="0"><na f="g/Gadelha:Bruno" pid="77/7361">Bruno Gadelha</na></co>
 <co c="0"><na f="g/Galv=atilde=o:Vin=iacute=cius_Ferreira" pid="215/7041">Vin&#237;cius Ferreira Galv&#227;o</na></co>
@@ -1864,6 +1883,7 @@
 <co c="0"><na f="m/Mizoguchi:Riichiro" pid="16/645">Riichiro Mizoguchi</na></co>
 <co c="0"><na f="m/Moissa:Barbara" pid="141/9582">Barbara Moissa</na></co>
 <co c="0"><na f="m/Moraes:Sergio_De" pid="132/4076">Sergio De Moraes</na></co>
+<co c="0"><na f="m/Morales:Analucia_S=" pid="407/3069">Analucia S. Morales</na></co>
 <co c="0"><na f="n/Nakazoni:Irmgard_A=_H=_C=" pid="189/8951">Irmgard A. H. C. Nakazoni</na></co>
 <co c="0"><na f="n/N=eacute=ris:V=acirc=nia_Paula_de_Almeida" pid="233/8402">V&#226;nia Paula de Almeida N&#233;ris</na></co>
 <co c="0"><na f="n/Neumann:Knut" pid="291/5854">Knut Neumann</na></co>
@@ -1876,6 +1896,7 @@
 <co c="0" n="2"><na f="o/Oliveira:Jos=eacute=_Palazzo_M=_de" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</na><na>Jos&#233; Palazzo Moreira de Oliveira</na></co>
 <co c="0"><na f="o/Oliveira:Leander_Cordeiro_de" pid="193/1252">Leander Cordeiro de Oliveira</na></co>
 <co c="0"><na f="o/Oliveira:Wilk" pid="241/7016">Wilk Oliveira</na></co>
+<co c="0" n="2"><na f="o/Ourique:Fabr=iacute=cio" pid="84/4026">Fabr&#237;cio Ourique</na><na>Fabr&#237;cio de Oliveira Ourique</na></co>
 <co c="0"><na f="p/Paiva:Ranilson_Oscar_Ara=uacute=jo" pid="145/7842">Ranilson Oscar Ara&#250;jo Paiva</na></co>
 <co c="0" n="2"><na f="p/Palomino:Paula_T=" pid="248/4032">Paula T. Palomino</na><na>Paula Toledo Palomino</na></co>
 <co c="0" n="2"><na f="p/Pereira:Filipe_D=" pid="241/8680">Filipe D. Pereira</na><na>Filipe Dwan Pereira</na></co>
@@ -1906,6 +1927,7 @@
 <co c="0"><na f="s/Santos:Diego_Alessandro_Pereira_dos" pid="348/6263">Diego Alessandro Pereira dos Santos</na></co>
 <co c="0"><na f="s/Santos:Gilm=aacute=rio_Barbosa_dos" pid="53/3257">Gilm&#225;rio Barbosa dos Santos</na></co>
 <co c="0"><na f="s/Santos:J=aacute=rio_Jos=eacute=" pid="148/4342">J&#225;rio Jos&#233; Santos</na></co>
+<co c="0"><na f="s/Santos:Maria_T=_S=" pid="407/2959">Maria T. S. Santos</na></co>
 <co c="0"><na f="s/Scheibel:Glaucio" pid="145/3379">Glaucio Scheibel</na></co>
 <co c="0"><na f="s/Schiaffino:Silvia_N=" pid="36/1730">Silvia N. Schiaffino</na></co>
 <co c="0"><na f="s/Schiehl:Edson_Pedro" pid="135/2651">Edson Pedro Schiehl</na></co>

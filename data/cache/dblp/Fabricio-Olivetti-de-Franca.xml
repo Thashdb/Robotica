@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Fabr&#237;cio Olivetti de Fran&#231;a" pid="92/5258" n="109">
+<dblpperson name="Fabr&#237;cio Olivetti de Fran&#231;a" pid="92/5258" n="110">
 <person key="homepages/92/5258" mdate="2025-01-10">
 <author pid="92/5258">Fabr&#237;cio Olivetti de Fran&#231;a</author>
 <url>https://orcid.org/0000-0002-2741-8736</url>
@@ -53,6 +53,25 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2501.17859</ee>
 <url>db/journals/corr/corr2501.html#abs-2501-17859</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-03977" mdate="2025-06-20">
+<author pid="227/5884">Guilherme Seidyo Imai Aldeia</author>
+<author pid="266/1993">Hengzhe Zhang</author>
+<author pid="267/1469">Geoffrey F. Bomarito</author>
+<author pid="205/2493">Miles D. Cranmer</author>
+<author pid="144/6172">Alcides Fonseca</author>
+<author pid="17/10524">Bogdan Burlacu</author>
+<author pid="148/0921">William G. La Cava</author>
+<author pid="92/5258">Fabr&#237;cio Olivetti de Fran&#231;a</author>
+<title>Call for Action: towards the next generation of symbolic regression benchmark.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.03977</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.03977</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-03977</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -1488,7 +1507,7 @@
 <url>db/conf/iconip/iconip2004.html#FrancaZC04</url>
 </inproceedings>
 </r>
-<coauthors n="91" nc="4">
+<coauthors n="92" nc="4">
 <co c="0"><na f="a/Affenzeller:Michael" pid="79/3445">Michael Affenzeller</na></co>
 <co c="0"><na f="a/Aldeia:Guilherme_Seidyo_Imai" pid="227/5884">Guilherme Seidyo Imai Aldeia</na></co>
 <co c="-1"><na f="a/Ara=uacute=jo:Karine_da_Silva_Miras_de" pid="179/2416">Karine da Silva Miras de Ara&#250;jo</na></co>
@@ -1579,6 +1598,7 @@
 <co c="1"><na f="y/Yamakami:Akebo" pid="81/1738">Akebo Yamakami</na></co>
 <co c="0"><na f="z/Zenisek:Jan" pid="201/7815">Jan Zenisek</na></co>
 <co c="0"><na f="z/Zhang:H=" pid="18/6324">H. Zhang</na></co>
+<co c="0"><na f="z/Zhang:Hengzhe" pid="266/1993">Hengzhe Zhang</na></co>
 <co c="1"><na f="z/Zuben:Fernando_J=_Von" pid="76/1954">Fernando J. Von Zuben</na></co>
 </coauthors>
 </dblpperson>

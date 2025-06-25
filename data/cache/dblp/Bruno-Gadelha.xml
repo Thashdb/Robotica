@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Bruno Gadelha" pid="77/7361" n="89">
+<dblpperson name="Bruno Gadelha" pid="77/7361" n="90">
 <person key="homepages/77/7361" mdate="2025-01-10">
 <author pid="77/7361">Bruno Gadelha</author>
 <author pid="77/7361">Bruno F. Gadelha</author>
@@ -24,7 +24,7 @@
 <stream>streams/journals/ijhci</stream>
 </article>
 </r>
-<r><article key="journals/jbcs/CostaMMGCB25" mdate="2025-03-07">
+<r><article key="journals/jbcs/CostaMMGCB25" mdate="2025-06-15">
 <author orcid="0000-0001-9919-2089" pid="189/5932">Simone Dornelas Costa</author>
 <author orcid="0009-0001-6916-6055" pid="366/5921">Carolina De Freitas Manso</author>
 <author orcid="0000-0002-3645-7606" pid="229/5358">Leonardo Carneiro Marques</author>
@@ -37,7 +37,7 @@
 <volume>31</volume>
 <journal>J. Braz. Comput. Soc.</journal>
 <number>1</number>
-<ee>https://doi.org/10.5753/jbcs.2025.4351</ee>
+<ee type="oa">https://doi.org/10.5753/jbcs.2025.4351</ee>
 <url>db/journals/jbcs/jbcs31.html#CostaMMGCB25</url>
 <stream>streams/journals/jbcs</stream>
 </article>
@@ -76,6 +76,22 @@
 <ee>https://doi.org/10.5220/0013481200003932</ee>
 <crossref>conf/csedu/2025-2</crossref>
 <url>db/conf/csedu/csedu2025-2.html#GomesSM0LSCG25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csee/BernardoFPPGC25" mdate="2025-06-23">
+<author pid="64/328">Jo&#227;o Bernardo</author>
+<author pid="407/8421">Jo&#227;o Frota</author>
+<author pid="407/9868">Thais Pessoa</author>
+<author pid="91/10360">Marcela Pessoa</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>A Journey Through Cyberium: Creating User Stories for a Dystopic World to Teach Requirements Engineering.</title>
+<pages>276-286</pages>
+<year>2025</year>
+<booktitle>CSEE&#38;T</booktitle>
+<ee>https://doi.org/10.1109/CSEET66350.2025.00035</ee>
+<crossref>conf/csee/2025</crossref>
+<url>db/conf/csee/csee2025.html#BernardoFPPGC25</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/iceis/SantosFSCOG25" mdate="2025-05-02">
@@ -1431,7 +1447,7 @@
 <url>db/conf/sbsc/sbsc2008.html#GadelhaGFJ08</url>
 </inproceedings>
 </r>
-<coauthors n="157" nc="1">
+<coauthors n="160" nc="1">
 <co c="0"><na f="a/Aguiar:Brenda" pid="293/6790">Brenda Aguiar</na></co>
 <co c="0"><na f="a/Ahmed_0001:Iftekhar" pid="57/5553">Iftekhar Ahmed 0001</na></co>
 <co c="0"><na f="a/Albuquerque:Adriano_Bessa" pid="64/6515">Adriano Bessa Albuquerque</na></co>
@@ -1448,6 +1464,7 @@
 <co c="0"><na f="b/Barbosa:Mois=eacute=s" pid="313/9015">Mois&#233;s Barbosa</na></co>
 <co c="0" n="2"><na f="b/Barcellos:Monalessa_Perini" pid="97/7540">Monalessa Perini Barcellos</na><na>Monalessa P. Barcellos</na></co>
 <co c="0"><na f="b/Barreto:Leonardo" pid="49/1881">Leonardo Barreto</na></co>
+<co c="0"><na f="b/Bernardo:Jo=atilde=o" pid="64/328">Jo&#227;o Bernardo</na></co>
 <co c="0"><na f="b/Bezerra:Carla_I=_M=" pid="09/5610">Carla I. M. Bezerra</na></co>
 <co c="0"><na f="b/Brand=atilde=o:Adriano" pid="222/9120">Adriano Brand&#227;o</na></co>
 <co c="0"><na f="b/Bremgartner:Vitor" pid="125/1852">Vitor Bremgartner</na></co>
@@ -1485,6 +1502,7 @@
 <co c="0" n="3"><na f="f/Fran=ccedil=a:Breno_B=_N=_de" pid="122/4837">Breno B. N. de Fran&#231;a</na><na>Breno Bernard Nicolau de Fran&#231;a</na><na>Breno de Fran&#231;a</na></co>
 <co c="0"><na f="f/Freitas:Gabriel" pid="279/8539">Gabriel Freitas</na></co>
 <co c="0" n="2"><na f="f/Freitas:Rosiane_de" pid="47/7842">Rosiane de Freitas</na><na>Rosiane Rodrigues</na></co>
+<co c="0"><na f="f/Frota:Jo=atilde=o" pid="407/8421">Jo&#227;o Frota</na></co>
 <co c="0"><na f="f/Fuks:Hugo" pid="21/5671">Hugo Fuks</na></co>
 <co c="0" n="2"><na f="g/Garcia:Vinicius_Cardoso" pid="g/ViniciusCardosoGarcia">Vinicius Cardoso Garcia</na><na>Vinicius C. Garcia</na></co>
 <co c="0"><na f="g/Gasparini:Isabela" pid="83/667">Isabela Gasparini</na></co>
@@ -1544,6 +1562,7 @@
 <co c="0"><na f="o/Oran:Ana_Carolina" pid="172/1825">Ana Carolina Oran</na></co>
 <co c="0"><na f="p/Paiva:La=iacute=sa_O=" pid="306/9205">La&#237;sa O. Paiva</na></co>
 <co c="0"><na f="p/Pessoa:Marcela" pid="91/10360">Marcela Pessoa</na></co>
+<co c="0"><na f="p/Pessoa:Thais" pid="407/9868">Thais Pessoa</na></co>
 <co c="0"><na f="p/Pires_0001:Fernanda" pid="248/4027">Fernanda Pires 0001</na></co>
 <co c="0"><na f="r/Ramos:David_Brito" pid="225/0649">David Brito Ramos</na></co>
 <co c="0" n="2"><na f="r/Ramos:Ilmara_M=_M=" pid="225/0642">Ilmara M. M. Ramos</na><na>Ilmara Monteverde Martins Ramos</na></co>

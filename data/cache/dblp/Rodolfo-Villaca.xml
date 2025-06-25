@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Rodolfo da Silva Villa&#231;a" pid="31/1899" n="68">
+<dblpperson name="Rodolfo da Silva Villa&#231;a" pid="31/1899" n="69">
 <person key="homepages/31/1899" mdate="2009-06-09">
 <author pid="31/1899">Rodolfo da Silva Villa&#231;a</author>
 </person>
@@ -58,6 +58,22 @@
 <crossref>conf/aina/2025-3</crossref>
 <url>db/conf/aina/aina2025-3.html#BottacinZMMVMMR25</url>
 </inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-11231" mdate="2025-06-23">
+<author pid="407/9292">Mateus N. Bragatto</author>
+<author pid="407/8526">Jo&#227;o Paulo M. Clevelares</author>
+<author pid="117/6192">Cristina K. Dominicini</author>
+<author pid="31/1899">Rodolfo da Silva Villa&#231;a</author>
+<author pid="40/654">F&#225;bio L. Verdi</author>
+<title>MM-INT: Telemetry in Programmable Switches with Multiple Queues using Source-based Multipath Routing.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.11231</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.11231</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-11231</url>
+<stream>streams/journals/corr</stream>
+</article>
 </r>
 <r><article key="journals/iot/SarmentoRMNRMV24" mdate="2025-05-31">
 <author pid="370/9368">Eduardo Montagner de Moraes Sarmento</author>
@@ -1125,7 +1141,7 @@
 <url>db/conf/ict/ict2004.html#RamosGVD04</url>
 </inproceedings>
 </r>
-<coauthors n="141" nc="2">
+<coauthors n="143" nc="2">
 <co c="0"><na f="a/Aguiar:Edilson_de" pid="91/6358">Edilson de Aguiar</na></co>
 <co c="0"><na f="a/Almeida:Lucas_R=" pid="342/4190">Lucas R. Almeida</na></co>
 <co c="1"><na f="a/Almeida:Marcela_Alves_de" pid="162/9328">Marcela Alves de Almeida</na></co>
@@ -1141,6 +1157,7 @@
 <co c="0" n="2"><na f="b/Both:Cristiano_Bonato" pid="07/2040">Cristiano Bonato Both</na><na>Cristiano Both</na></co>
 <co c="0"><na f="b/Bottacin:Wadham" pid="404/3733">Wadham Bottacin</na></co>
 <co c="0"><na f="b/Braga:Raphael" pid="229/2276">Raphael Braga</na></co>
+<co c="0"><na f="b/Bragatto:Mateus_N=" pid="407/9292">Mateus N. Bragatto</na></co>
 <co c="0"><na f="b/Brotto:Guilherme" pid="389/3804">Guilherme Brotto</na></co>
 <co c="0"><na f="c/Camargos:L=aacute=saro_J=" pid="54/1243">L&#225;saro J. Camargos</na></co>
 <co c="0"><na f="c/Cardoso:Diego_G=" pid="251/8024">Diego G. Cardoso</na></co>
@@ -1150,6 +1167,7 @@
 <co c="0" n="2"><na f="c/Ceravolo:Isabella" pid="251/8138">Isabella Ceravolo</na><na>Isabella de A. Ceravolo</na></co>
 <co c="0"><na f="c/Charpinel:Sergio" pid="180/2967">Sergio Charpinel</na></co>
 <co c="0"><na f="c/Ciarelli:Patrick_Marques" pid="34/1018">Patrick Marques Ciarelli</na></co>
+<co c="0"><na f="c/Clevelares:Jo=atilde=o_Paulo_M=" pid="407/8526">Jo&#227;o Paulo M. Clevelares</na></co>
 <co c="0"><na f="c/Coelho:Paulo_R=_S=_L=" pid="67/310">Paulo R. S. L. Coelho</na></co>
 <co c="0"><na f="c/Coelho:Willen_Borges" pid="396/0860">Willen Borges Coelho</na></co>
 <co c="0"><na f="c/Collins:Diarmuid" pid="196/1730">Diarmuid Collins</na></co>
@@ -1256,7 +1274,7 @@
 <co c="0"><na f="v/Valentim:Rodolfo_V=" pid="237/7754">Rodolfo V. Valentim</na></co>
 <co c="0"><na f="v/Vassallo:Raquel_Frizera" pid="93/6360">Raquel Frizera Vassallo</na></co>
 <co c="0"><na f="v/Vassoler:Gilmar_L=" pid="152/6032">Gilmar L. Vassoler</na></co>
-<co c="0"><na f="v/Verdi:F=aacute=bio_Luciano" pid="40/654">F&#225;bio Luciano Verdi</na></co>
+<co c="0" n="2"><na f="v/Verdi:F=aacute=bio_Luciano" pid="40/654">F&#225;bio Luciano Verdi</na><na>F&#225;bio L. Verdi</na></co>
 <co c="0"><na f="v/Vieira:Alex_Borges" pid="02/4387">Alex Borges Vieira</na></co>
 <co c="0"><na f="v/Villas:Leandro_A=" pid="64/7382">Leandro A. Villas</na></co>
 <co c="0"><na f="v/Vogt:Francisco_Germano" pid="334/9032">Francisco Germano Vogt</na></co>

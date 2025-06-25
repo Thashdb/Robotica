@@ -1,10 +1,27 @@
 <?xml version="1.0"?>
-<dblpperson name="Alexandre C. B. Delbem" pid="92/3940" n="116">
+<dblpperson name="Alexandre C. B. Delbem" pid="92/3940" n="117">
 <person key="homepages/92/3940" mdate="2017-10-24">
 <author pid="92/3940">Alexandre C. B. Delbem</author>
 <author pid="92/3940">Alexandre Cl&#225;udio Botazzo Delbem</author>
 <author pid="92/3940">Alexandre N. Delbem</author>
 </person>
+<r><article key="journals/jocs/JuniorSDVLH25" mdate="2025-06-23">
+<author pid="408/0658">C&#233;sar Magno Leite de Oliveira J&#250;nior</author>
+<author pid="82/9539">Antonio Mauro Saraiva</author>
+<author pid="92/3940">Alexandre Cl&#225;udio Botazzo Delbem</author>
+<author pid="91/7660">Haroldo Fraga de Campos Velho</author>
+<author pid="407/8432">Ger&#244;nimo Gallarreta Zubiaurre Lemos</author>
+<author pid="203/7873">Fabr&#237;cio Pereira H&#228;rter</author>
+<title>Data assimilation by cellular neural network applied to Lorenz-63 system.</title>
+<pages>102587</pages>
+<year>2025</year>
+<volume>90</volume>
+<journal>J. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.jocs.2025.102587</ee>
+<url>db/journals/jocs/jocs90.html#JuniorSDVLH25</url>
+<stream>streams/journals/jocs</stream>
+</article>
+</r>
 <r><article publtype="informal" key="journals/corr/abs-2504-18651" mdate="2025-05-31">
 <author pid="331/1678">Filipi Miranda Soares</author>
 <author pid="82/9539">Antonio Mauro Saraiva</author>
@@ -1719,7 +1736,7 @@
 <url>db/conf/ki/ki2003.html#PolicastroCD03</url>
 </inproceedings>
 </r>
-<coauthors n="171" nc="4">
+<coauthors n="175" nc="4">
 <co c="0"><na f="a/Alberto:Lu=iacute=s_F=_C=" pid="28/3260">Lu&#237;s F. C. Alberto</na></co>
 <co c="0"><na f="a/Albuquerque:Jo=atilde=o_Porto_de" pid="34/3940">Jo&#227;o Porto de Albuquerque</na></co>
 <co c="1"><na f="a/Ali:Afaq" pid="250/8564">Afaq Ali</na></co>
@@ -1786,12 +1803,15 @@
 <co c="0"><na f="g/Gois:Marcilyanne_Moreira" pid="127/1487">Marcilyanne Moreira Gois</na></co>
 <co c="0"><na f="g/Goldberg:David_E=" pid="g/DavidEGoldberg">David E. Goldberg</na></co>
 <co c="0"><na f="g/Guimar=atilde=es:Frederico_G=" pid="04/4216">Frederico G. Guimar&#227;es</na></co>
+<co c="0"><na f="h/H=auml=rter:Fabr=iacute=cio_Pereira" pid="203/7873">Fabr&#237;cio Pereira H&#228;rter</na></co>
 <co c="0"><na f="h/Honda:Karen" pid="28/89">Karen Honda</na></co>
+<co c="0"><na f="j/J=uacute=nior:C=eacute=sar_Magno_Leite_de_Oliveira" pid="408/0658">C&#233;sar Magno Leite de Oliveira J&#250;nior</na></co>
 <co c="0"><na f="j/J=uacute=nior:Cl=aacute=udio_Bielenki" pid="360/1462">Cl&#225;udio Bielenki J&#250;nior</na></co>
 <co c="0"><na f="j/Junior:Dorival_Leao_Pinto" pid="44/5627">Dorival Leao Pinto Junior</na></co>
 <co c="0"><na f="j/J=uacute=nior:S=eacute=rgio_Carlos_Mazucato" pid="149/9932">S&#233;rgio Carlos Mazucato J&#250;nior</na></co>
 <co c="2"><na f="k/Krebs:Hermano_Igo" pid="82/9967">Hermano Igo Krebs</na></co>
 <co c="0"><na f="l/Laureano:Gustavo_Teodoro" pid="130/6472">Gustavo Teodoro Laureano</na></co>
+<co c="0"><na f="l/Lemos:Ger=ocirc=nimo_Gallarreta_Zubiaurre" pid="407/8432">Ger&#244;nimo Gallarreta Zubiaurre Lemos</na></co>
 <co c="0"><na f="l/Libralao:Giampaolo_L=" pid="83/5880">Giampaolo L. Libralao</na></co>
 <co c="0"><na f="l/Lima:Roney_Lopes" pid="182/0242">Roney Lopes Lima</na></co>
 <co c="0" n="3"><na f="l/London_Jr=:Jo=atilde=o_Bosco_A=" pid="153/4268">Jo&#227;o Bosco A. London Jr.</na><na>Jo&#227;o Bosco Augusto London Junior</na><na>Jo&#227;o B. A. London Jr.</na></co>
@@ -1885,6 +1905,7 @@
 <co c="0" n="2"><na f="t/Toledo:Claudio_Fabiano_Motta" pid="07/5259">Claudio Fabiano Motta Toledo</na><na>Cl&#225;udio Toledo 0001</na></co>
 <co c="0"><na f="t/Travieso:Gonzalo" pid="10/1957">Gonzalo Travieso</na></co>
 <co c="0"><na f="v/Vargas:Danilo_Vasconcellos" pid="40/9358">Danilo Vasconcellos Vargas</na></co>
+<co c="0" n="2"><na f="v/Velho:Haroldo_F=_de_Campos" pid="91/7660">Haroldo F. de Campos Velho</na><na>Haroldo Fraga de Campos Velho</na></co>
 <co c="0" n="2"><na f="v/Vermeulen=Jourdan:Laetitia" pid="v/LaetitiaVermeulenJourdan">Laetitia Vermeulen-Jourdan</na><na>Laetitia Jourdan</na></co>
 <co c="0"><na f="v/Vittori:Karla" pid="39/4608">Karla Vittori</na></co>
 <co c="0"><na f="w/Wang:Shenghui" pid="328/7639">Shenghui Wang</na></co>

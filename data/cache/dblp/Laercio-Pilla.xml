@@ -1,11 +1,30 @@
 <?xml version="1.0"?>
-<dblpperson name="La&#233;rcio Lima Pilla" pid="75/2582" n="66">
+<dblpperson name="La&#233;rcio Lima Pilla" pid="75/2582" n="67">
 <person key="homepages/75/2582" mdate="2025-01-10">
 <author pid="75/2582">La&#233;rcio Lima Pilla</author>
 <note type="affiliation">University of Bordeaux, France</note>
 <url>https://orcid.org/0000-0003-0997-586X</url>
 <url>https://www.wikidata.org/entity/Q130970841</url>
 </person>
+<r><article key="journals/jpdc/OrhanPBCATJL25" mdate="2025-06-16">
+<author pid="400/0091">Diane Orhan</author>
+<author pid="75/2582">La&#233;rcio Lima Pilla</author>
+<author pid="66/2364">Denis Barthou</author>
+<author pid="176/1183">Adrien Cassagne</author>
+<author pid="86/706">Olivier Aumage</author>
+<author pid="16/9874">Romain Tajan</author>
+<author pid="31/6022">Christophe J&#233;go</author>
+<author pid="60/4351">Camille Leroux</author>
+<title>Optimal scheduling algorithms for software-defined radio pipelined and replicated task chains on multicore architectures.</title>
+<pages>105106</pages>
+<year>2025</year>
+<volume>204</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<ee>https://doi.org/10.1016/j.jpdc.2025.105106</ee>
+<url>db/journals/jpdc/jpdc204.html#OrhanPBCATJL25</url>
+<stream>streams/journals/jpdc</stream>
+</article>
+</r>
 <r><article publtype="informal" key="journals/corr/abs-2502-10000" mdate="2025-03-17">
 <author pid="400/0091">Diane Orhan</author>
 <author pid="400/1310">Yacine Idouar</author>
@@ -1047,7 +1066,7 @@
 <url>db/conf/sbac-pad/sbac-pad2008.html#RighiPCN08</url>
 </inproceedings>
 </r>
-<coauthors n="105" nc="2">
+<coauthors n="107" nc="2">
 <co c="0"><na f="a/Alberti:Ant=ocirc=nio_Marcos" pid="51/4339">Ant&#244;nio Marcos Alberti</na></co>
 <co c="0" n="3"><na f="a/Almeida:Sheiny_Fabre" pid="196/3710">Sheiny Fabre Almeida</na><na>Sheiny Almeida</na><na>Sheiny Fabre</na></co>
 <co c="0"><na f="a/Alves:Marco_A=_Z=" pid="47/7939">Marco A. Z. Alves</na></co>
@@ -1111,6 +1130,7 @@
 <co c="0"><na f="k/Korkmaz:Esragul" pid="312/3789">Esragul Korkmaz</na></co>
 <co c="0"><na f="k/Kornd=ouml=rfer:Jonas_H=_M=uuml=ller" pid="247/6464">Jonas H. M&#252;ller Kornd&#246;rfer</na></co>
 <co c="0" n="2"><na f="k/Koslovski:Guilherme_P=" pid="26/5509">Guilherme P. Koslovski</na><na>Guilherme Pi&#234;gas Koslovski</na></co>
+<co c="0"><na f="l/Leroux:Camille" pid="60/4351">Camille Leroux</na></co>
 <co c="0"><na f="l/Livramento:Vinicius_S=" pid="78/9849">Vinicius S. Livramento</na></co>
 <co c="0"><na f="l/Lunardi:Caio_B=" pid="151/4112">Caio B. Lunardi</na></co>
 <co c="0"><na f="m/Maillard:Nicolas" pid="58/1754">Nicolas Maillard</na></co>
@@ -1148,6 +1168,7 @@
 <co c="0"><na f="s/Scravaglieri:Lana" pid="353/7831">Lana Scravaglieri</na></co>
 <co c="0"><na f="s/Serpa:Matheus_S=" pid="199/1097">Matheus S. Serpa</na></co>
 <co c="0"><na f="s/Silvestri_0001:Francesco" pid="02/6456-1">Francesco Silvestri 0001</na></co>
+<co c="0"><na f="t/Tajan:Romain" pid="16/9874">Romain Tajan</na></co>
 <co c="0"><na f="t/Tesser:Rafael_Keller" pid="06/11160">Rafael Keller Tesser</na></co>
 <co c="0"><na f="t/Torres:Giovane_O=" pid="192/7464">Giovane O. Torres</na></co>
 <co c="0"><na f="v/Velho:Pedro" pid="05/2623">Pedro Velho</na></co>

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Markus Endler" pid="e/MarkusEndler" n="149">
+<dblpperson name="Markus Endler" pid="e/MarkusEndler" n="150">
 <person key="homepages/e/MarkusEndler" mdate="2022-10-30">
 <author pid="e/MarkusEndler">Markus Endler</author>
 <note type="affiliation">Pontifical Catholic University of Rio de Janeiro, Brazil</note>
@@ -13,6 +13,21 @@
 <url>http://lattes.cnpq.br/6505039023842313</url>
 <url>https://ieeexplore.ieee.org/author/37266368800</url>
 </person>
+<r><inproceedings key="conf/icsr/BessalCAEP25" mdate="2025-06-23">
+<author pid="408/0192">Jo&#227;o Marcello Bessal</author>
+<author pid="367/9064">Millena Cavalcanti</author>
+<author pid="57/2898">Mathieu Acher</author>
+<author pid="e/MarkusEndler">Markus Endler</author>
+<author pid="139/6642">Juliana Alves Pereira</author>
+<title>Unveiling the Impact of Sampling on Feature Selection for Performance Prediction in Configurable Systems.</title>
+<pages>55-66</pages>
+<year>2025</year>
+<booktitle>ICSR</booktitle>
+<ee>https://doi.org/10.1109/ICSR66718.2025.00012</ee>
+<crossref>conf/icsr/2025</crossref>
+<url>db/conf/icsr/icsr2025.html#BessalCAEP25</url>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/iceis/AraujoKEC24" mdate="2024-06-05">
 <author pid="278/2444">Gabriel Araujo</author>
 <author pid="38/3792">Marcos Kalinowski</author>
@@ -2155,7 +2170,8 @@
 <url>db/conf/cds/cds1992.html#EndlerW92</url>
 </inproceedings>
 </r>
-<coauthors n="167" nc="3">
+<coauthors n="170" nc="3">
+<co c="0"><na f="a/Acher:Mathieu" pid="57/2898">Mathieu Acher</na></co>
 <co c="0" n="2"><na f="a/Alencar:Paulo_S=_C=" pid="a/PauloSCAlencar">Paulo S. C. Alencar</na><na>Paulo Alencar 0001</na></co>
 <co c="0"><na f="a/Almeida:Vitor" pid="358/3250">Vitor Almeida</na></co>
 <co c="0"><na f="a/Almeida:Vitor_Pinheiro_de" pid="156/7079">Vitor Pinheiro de Almeida</na></co>
@@ -2174,6 +2190,7 @@
 <co c="0" n="2"><na f="b/Batista:Daniel_M=" pid="20/833">Daniel M. Batista</na><na>Daniel Mac&#234;do Batista</na></co>
 <co c="0"><na f="b/Baz=iacute=lio:Carlos" pid="54/4339">Carlos Baz&#237;lio</na></co>
 <co c="0"><na f="b/Benedito:Fernando" pid="242/2418">Fernando Benedito</na></co>
+<co c="0"><na f="b/Bessal:Jo=atilde=o_Marcello" pid="408/0192">Jo&#227;o Marcello Bessal</na></co>
 <co c="0"><na f="b/Bhowmik:Sukanya" pid="154/4287">Sukanya Bhowmik</na></co>
 <co c="0"><na f="b/Branco:Adriano" pid="137/0622">Adriano Branco</na></co>
 <co c="0"><na f="b/Braun:Iris" pid="02/4655">Iris Braun</na></co>
@@ -2261,6 +2278,7 @@
 <co c="-1"><na f="p/Pantoja:Victor" pid="188/8719">Victor Pantoja</na></co>
 <co c="0" n="3"><na f="p/Paulon:Marcelo" pid="281/8664">Marcelo Paulon</na><na>Marcelo Paulon J. V.</na><na>Marcelo J. V. Paulon</na></co>
 <co c="0"><na f="p/Pereira:Jos=eacute=_Daniel" pid="180/8382">Jos&#233; Daniel Pereira</na></co>
+<co c="0"><na f="p/Pereira:Juliana_Alves" pid="139/6642">Juliana Alves Pereira</na></co>
 <co c="0"><na f="p/Pereira:Rafael" pid="16/7994">Rafael Pereira</na></co>
 <co c="0"><na f="p/Perricone:Breno" pid="314/6043">Breno Perricone</na></co>
 <co c="0"><na f="p/Pisani:Fl=aacute=via" pid="194/1471">Fl&#225;via Pisani</na></co>

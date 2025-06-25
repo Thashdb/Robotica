@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Eduardo Figueiredo 0001" pid="03/335" n="171">
+<dblpperson name="Eduardo Figueiredo 0001" pid="03/335" n="172">
 <person key="homepages/03/335" mdate="2022-02-15">
 <author pid="03/335">Eduardo Figueiredo 0001</author>
 <author pid="03/335">Eduardo Magno Lages Figueiredo</author>
@@ -29,6 +29,23 @@
 <ee>https://doi.org/10.5220/0013295200003932</ee>
 <crossref>conf/csedu/2025-2</crossref>
 <url>db/conf/csedu/csedu2025-2.html#ConstantinoG025</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/saner/NunesFSNFS25" mdate="2025-06-10">
+<author pid="355/9953">Henrique Gomes Nunes</author>
+<author pid="03/335">Eduardo Figueiredo 0001</author>
+<author pid="155/7275">Larissa Rocha Soares</author>
+<author pid="00/9162">Sarah Nadi</author>
+<author pid="232/9239">Fischer Ferreira</author>
+<author pid="141/9466">Geanderson E. dos Santos</author>
+<title>Evaluating the Effectiveness of LLMs in Fixing Maintainability Issues in Real-World Projects.</title>
+<pages>669-680</pages>
+<year>2025</year>
+<booktitle>SANER</booktitle>
+<ee>https://doi.org/10.1109/SANER64311.2025.00069</ee>
+<crossref>conf/saner/2025</crossref>
+<url>db/conf/saner/saner2025.html#NunesFSNFS25</url>
+<stream>streams/conf/saner</stream>
 </inproceedings>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-2502-02368" mdate="2025-05-01">

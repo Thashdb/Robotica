@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Fabr&#237;cio Benevenuto" pid="90/2878" n="214">
+<dblpperson name="Fabr&#237;cio Benevenuto" pid="90/2878" n="217">
 <person key="homepages/90/2878" mdate="2021-07-24">
 <author pid="90/2878">Fabr&#237;cio Benevenuto</author>
 <author pid="90/2878">Fabr&#237;cio Benevenuto de Souza</author>
@@ -22,6 +22,35 @@
 <ee type="oa">https://aclanthology.org/2025.coling-main.446/</ee>
 <crossref>conf/coling/2025</crossref>
 <url>db/conf/coling/coling2025.html#SallesVB25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwsm/KansaonMZB25" mdate="2025-06-10">
+<author pid="250/3696">Daniel Kansaon</author>
+<author pid="210/0839">Philipe de Freitas Melo</author>
+<author pid="184/5969">Savvas Zannettou</author>
+<author pid="90/2878">Fabr&#237;cio Benevenuto</author>
+<title>From Fake News to Real Protests: WhatsApp's Role in Brazilian Political Coordination.</title>
+<pages>1007-1020</pages>
+<year>2025</year>
+<booktitle>ICWSM</booktitle>
+<ee>https://doi.org/10.1609/icwsm.v19i1.35857</ee>
+<crossref>conf/icwsm/2025</crossref>
+<url>db/conf/icwsm/icwsm2025.html#KansaonMZB25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwsm/MeloKCRB25" mdate="2025-06-10">
+<author pid="210/0839">Philipe de Freitas Melo</author>
+<author pid="250/3696">Daniel Kansaon</author>
+<author pid="328/2031">Jo&#227;o M. M. Couto</author>
+<author pid="223/4293">Julio C. S. Reis</author>
+<author pid="90/2878">Fabr&#237;cio Benevenuto</author>
+<title>A Sticker is Worth a Thousand Words: Characterizing the Use and Abuse of Stickers on WhatsApp Political Groups in Brazil.</title>
+<pages>1210-1223</pages>
+<year>2025</year>
+<booktitle>ICWSM</booktitle>
+<ee>https://doi.org/10.1609/icwsm.v19i1.35869</ee>
+<crossref>conf/icwsm/2025</crossref>
+<url>db/conf/icwsm/icwsm2025.html#MeloKCRB25</url>
 </inproceedings>
 </r>
 <r><article key="journals/cacm/BenevenutoM24" mdate="2024-10-06">
@@ -70,6 +99,19 @@
 <url>db/journals/snam/snam14.html#CoutoRB24</url>
 <stream>streams/journals/snam</stream>
 </article>
+</r>
+<r><inproceedings key="conf/asunam/CoutoRB24" mdate="2025-06-16">
+<author pid="328/2031">Jo&#227;o M. M. Couto</author>
+<author pid="223/4293">Julio C. S. Reis</author>
+<author pid="90/2878">Fabr&#237;cio Benevenuto</author>
+<title>Can Computer Network Attributes Be Useful for Identifying Low-Credibility Websites? A Case Study in Brazil.</title>
+<pages>423</pages>
+<year>2024</year>
+<booktitle>ASONAM (Workshops)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-85386-9_31</ee>
+<crossref>conf/asunam/2024w</crossref>
+<url>db/conf/asunam/asonam2024w.html#CoutoRB24</url>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/icwsm/HoseiniMBFZ24" mdate="2024-06-03">
 <author pid="247/5191">Mohamad Hoseini</author>

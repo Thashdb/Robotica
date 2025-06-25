@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Seiji Isotani" pid="83/1033" n="220">
+<dblpperson name="Seiji Isotani" pid="83/1033" n="221">
 <person key="homepages/83/1033" mdate="2024-05-01">
 <author pid="83/1033">Seiji Isotani</author>
 <url>https://en.wikipedia.org/wiki/Seiji_Isotani</url>
@@ -51,6 +51,22 @@
 <url>db/journals/uais/uais24.html#SilvaTCEBI25</url>
 <stream>streams/journals/uais</stream>
 </article>
+</r>
+<r><inproceedings key="conf/educon/JurginaAIRPM25" mdate="2025-06-13">
+<author pid="348/3823">Laura Quevedo Jurgina</author>
+<author pid="348/3926">Lui Gill Aquini</author>
+<author pid="83/1033">Seiji Isotani</author>
+<author pid="380/8094">Leomar Soares da Rosa</author>
+<author pid="34/9982">Tiago Thompsen Primo</author>
+<author pid="11/4978">Fernando Moreira</author>
+<title>Usability Evaluation of a Multisensory Tool for Literacy of Children and Young People with Down Syndrome.</title>
+<pages>1-10</pages>
+<year>2025</year>
+<booktitle>EDUCON</booktitle>
+<ee>https://doi.org/10.1109/EDUCON62633.2025.11016567</ee>
+<crossref>conf/educon/2025</crossref>
+<url>db/conf/educon/educon2025.html#JurginaAIRPM25</url>
+</inproceedings>
 </r>
 <r><article key="journals/access/QueirogaSPCBIMMC24" mdate="2024-09-08">
 <author pid="269/6865">Emanuel Marques Queiroga</author>
@@ -3624,7 +3640,7 @@
 <url>db/conf/its/its2004.html#BrandoIM04</url>
 </inproceedings>
 </r>
-<coauthors n="282" nc="2">
+<coauthors n="286" nc="2">
 <co c="0"><na f="a/Adams:Deanne" pid="77/10120">Deanne Adams</na></co>
 <co c="0"><na f="a/Alamri:Ahmed" pid="241/8694">Ahmed Alamri</na></co>
 <co c="0"><na f="a/Albuquerque:Antonio_R=_P=_L=_de" pid="38/6097">Antonio R. P. L. de Albuquerque</na></co>
@@ -3647,6 +3663,7 @@
 <co c="0"><na f="a/Amorim:Luiz" pid="180/1117">Luiz Amorim</na></co>
 <co c="0"><na f="a/Andrade:Ester" pid="341/4952">Ester Andrade</na></co>
 <co c="0"><na f="a/Andrade:Fernando_R=_H=" pid="178/7446">Fernando R. H. Andrade</na></co>
+<co c="0"><na f="a/Aquini:Lui_Gill" pid="348/3926">Lui Gill Aquini</na></co>
 <co c="0"><na f="a/Assis:Luiz_F=_F=_G=" pid="147/5801">Luiz F. F. G. Assis</na></co>
 <co c="0" n="2"><na f="=/=Aacute=vila:Thiago_Jos=eacute=_Tavares" pid="294/6345">Thiago Jos&#233; Tavares &#193;vila</na><na>Thiago &#193;vila</na></co>
 <co c="0" n="2"><na f="a/Avila=Santos:Anderson_P=" pid="166/2163">Anderson P. Avila-Santos</na><na>Anderson Paulo Avila Santos</na></co>
@@ -3748,6 +3765,7 @@
 <co c="0"><na f="j/Juli:Marcelo_Camargo_De" pid="367/5458">Marcelo Camargo De Juli</na></co>
 <co c="0"><na f="j/Junior:Hermino_B=_F=" pid="296/5307">Hermino B. F. Junior</na></co>
 <co c="0"><na f="j/Junior:Valdir_Amancio_Pereira" pid="177/3440">Valdir Amancio Pereira Junior</na></co>
+<co c="0"><na f="j/Jurgina:Laura_Quevedo" pid="348/3823">Laura Quevedo Jurgina</na></co>
 <co c="0"><na f="k/Karaosmanoglu:Sukran" pid="277/8319">Sukran Karaosmanoglu</na></co>
 <co c="0" n="2"><na f="k/Klock:Ana_C=_T=" pid="165/3946">Ana C. T. Klock</na><na>Ana Carolina Tom&#233; Klock</na></co>
 <co c="0"><na f="l/Ladeira:Lucas_Zanco" pid="240/3559">Lucas Zanco Ladeira</na></co>
@@ -3784,6 +3802,7 @@
 <co c="0"><na f="m/Mizoguchi:Riichiro" pid="16/645">Riichiro Mizoguchi</na></co>
 <co c="0"><na f="m/Morais:Felipe_de" pid="130/8279">Felipe de Morais</na></co>
 <co c="0" n="2"><na f="m/Moreira:Dilvan_de_Abreu" pid="89/2110">Dilvan de Abreu Moreira</na><na>Dilvan A. Moreira</na></co>
+<co c="0"><na f="m/Moreira:Fernando" pid="11/4978">Fernando Moreira</na></co>
 <co c="0"><na f="m/Morettin=Zupelari:Marina" pid="221/3652">Marina Morettin-Zupelari</na></co>
 <co c="0"><na f="m/Moro:Luis_Fernando_de_S=" pid="125/2898">Luis Fernando de S. Moro</na></co>
 <co c="0"><na f="m/Moura:Janine_Gomes" pid="29/464">Janine Gomes Moura</na></co>
@@ -3852,6 +3871,7 @@
 <co c="0"><na f="r/Romero_0001:Crist=oacute=bal" pid="41/536">Crist&#243;bal Romero 0001</na></co>
 <co c="0"><na f="r/Rosa:Bruno_Alexandre_Barreiros" pid="340/6482">Bruno Alexandre Barreiros Rosa</na></co>
 <co c="0"><na f="r/Rosa:Daniel_Carneiro" pid="299/3039">Daniel Carneiro Rosa</na></co>
+<co c="0"><na f="r/Rosa:Leomar_Soares_da" pid="380/8094">Leomar Soares da Rosa</na></co>
 <co c="0"><na f="r/Rubi:Geiseane_L=" pid="148/4394">Geiseane L. Rubi</na></co>
 <co c="0"><na f="s/Santos:Ana_Cl=aacute=udia_Guimar=atilde=es" pid="295/8553">Ana Cl&#225;udia Guimar&#227;es Santos</na></co>
 <co c="0"><na f="s/Santos:Daniel_Soares" pid="166/4491">Daniel Soares Santos</na></co>

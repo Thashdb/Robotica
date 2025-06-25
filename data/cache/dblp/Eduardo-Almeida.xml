@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Eduardo Santana de Almeida" pid="a/EduardoSantanadeAlmeida" n="243">
+<dblpperson name="Eduardo Santana de Almeida" pid="a/EduardoSantanadeAlmeida" n="244">
 <person key="homepages/a/EduardoSantanadeAlmeida" mdate="2025-01-10">
 <author pid="a/EduardoSantanadeAlmeida">Eduardo Santana de Almeida</author>
 <author pid="a/EduardoSantanadeAlmeida">Eduardo Santana De Almeida</author>
@@ -28,10 +28,10 @@
 <stream>streams/journals/infsof</stream>
 </article>
 </r>
-<r><article key="journals/tosem/SouzaANBP25" mdate="2025-05-31">
+<r><article key="journals/tosem/SouzaANBP25" mdate="2025-06-11">
 <author pid="352/5240">Leandro O. Souza</author>
-<author pid="a/EduardoSantanadeAlmeida">Eduardo Santana de Almeida</author>
-<author pid="17/9372">Paulo Anselmo da Mota Silveira Neto</author>
+<author orcid="0000-0002-9312-6715" pid="a/EduardoSantanadeAlmeida">Eduardo Santana de Almeida</author>
+<author orcid="0000-0003-0197-8249" pid="17/9372">Paulo Anselmo da Mota Silveira Neto</author>
 <author orcid="0000-0003-0771-7891" pid="47/1088">Earl T. Barr</author>
 <author orcid="0000-0002-7833-6044" pid="23/8779">Justyna Petke</author>
 <title>Software Product Line Engineering via Software Transplantation.</title>
@@ -81,6 +81,22 @@
 <ee>https://doi.org/10.5220/0013201900003944</ee>
 <crossref>conf/iotbd/2025</crossref>
 <url>db/conf/iotbd/iotbd2025.html#SeixasM0CSMADPF25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/msr/TafreshipourIHA25" mdate="2025-06-23">
+<author pid="386/4668">Mahan Tafreshipour</author>
+<author pid="372/0375">Aaron Imani</author>
+<author pid="16/3126">Eric Huang</author>
+<author pid="a/EduardoSantanadeAlmeida">Eduardo Santana de Almeida</author>
+<author pid="19/3622">Thomas Zimmermann</author>
+<author pid="57/5553">Iftekhar Ahmed 0001</author>
+<title>Prompting in the Wild: An Empirical Study of Prompt Evolution in Software Repositories.</title>
+<pages>686-698</pages>
+<year>2025</year>
+<booktitle>MSR</booktitle>
+<ee>https://doi.org/10.1109/MSR66628.2025.00106</ee>
+<crossref>conf/msr/2025</crossref>
+<url>db/conf/msr/msr2025.html#TafreshipourIHA25</url>
 </inproceedings>
 </r>
 <r><article key="journals/tosem/SantanaNAA24" mdate="2025-01-19">

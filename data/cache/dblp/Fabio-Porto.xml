@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="F&#225;bio Porto 0001" pid="p/FabioPorto" n="141">
+<dblpperson name="F&#225;bio Porto 0001" pid="p/FabioPorto" n="142">
 <person key="homepages/p/FabioPorto" mdate="2025-01-10">
 <author pid="p/FabioPorto">F&#225;bio Porto 0001</author>
 <author pid="p/FabioPorto">F&#225;bio Andr&#233; Machado Porto</author>
@@ -14,6 +14,30 @@
 <h f="p/Porto:F=aacute=bio"><name>F&#225;bio Porto</name>
 </h>
 </homonyms>
+<r><inproceedings key="conf/sigmod/BeedkarBGFKLMP025" mdate="2025-06-23">
+<author pid="54/5149">Kaustubh Beedkar</author>
+<author pid="408/0103">Aur&#233;lien Bertrand</author>
+<author pid="238/4339">Haralampos Gavriilidis</author>
+<author pid="227/0779">Augusto Jos&#233; Fonseca</author>
+<author pid="65/1457">Zoi Kaoudi</author>
+<author pid="123/5452">Mingxi Liu</author>
+<author pid="m/VMarkl">Volker Markl</author>
+<author pid="408/0863">Juri Petersen</author>
+<author pid="p/FabioPorto">F&#225;bio Porto 0001</author>
+<author pid="355/0181">V&#237;ctor Ribeiro</author>
+<author pid="407/8567">Mads Sejer Pedersen</author>
+<author pid="385/4415">Lucas Giusti Tavares</author>
+<author pid="407/9479">Michalis Vargiamis</author>
+<author pid="54/1474-1">Chen Xu 0001</author>
+<title>Apache Wayang in Action: Enabling Data Systems Integration via a Unified Data Analytics Framework.</title>
+<pages>35-38</pages>
+<year>2025</year>
+<booktitle>SIGMOD Conference Companion</booktitle>
+<ee>https://doi.org/10.1145/3722212.3725081</ee>
+<crossref>conf/sigmod/2025c</crossref>
+<url>db/conf/sigmod/sigmod2025c.html#BeedkarBGFKLMP025</url>
+</inproceedings>
+</r>
 <r><article key="journals/bmcbi/CostaGDRRSSP24" mdate="2025-03-03">
 <author pid="228/9334">Raquel Lopes Costa</author>
 <author orcid="0000-0002-8122-9522" pid="63/1981">Luiz M. R. Gadelha Jr.</author>
@@ -2245,7 +2269,7 @@
 <url>db/conf/tools/tools26-1998.html#PortoSC98</url>
 </inproceedings>
 </r>
-<coauthors n="234" nc="1">
+<coauthors n="244" nc="1">
 <co c="0"><na f="a/Aberer:Karl" pid="a/KarlAberer">Karl Aberer</na></co>
 <co c="0"><na f="a/Abrah=atilde=o:Felipe_S=" pid="192/1839">Felipe S. Abrah&#227;o</na></co>
 <co c="0"><na f="a/Akbarinia:Reza" pid="25/3618">Reza Akbarinia</na></co>
@@ -2266,7 +2290,9 @@
 <co c="0"><na f="b/Bassini:Adriana" pid="118/2699">Adriana Bassini</na></co>
 <co c="0" n="2"><na f="b/Batista:Evelyn" pid="234/1633">Evelyn Batista</na><na>Evelyn Concei&#231;&#227;o Santos Batista</na></co>
 <co c="0"><na f="b/Bazaz:Amin" pid="275/9367">Amin Bazaz</na></co>
+<co c="0"><na f="b/Beedkar:Kaustubh" pid="54/5149">Kaustubh Beedkar</na></co>
 <co c="0"><na f="b/Belloze:Kele_T=" pid="118/8417">Kele T. Belloze</na></co>
+<co c="0"><na f="b/Bertrand:Aur=eacute=lien" pid="408/0103">Aur&#233;lien Bertrand</na></co>
 <co c="0"><na f="b/Bezerra_0002:Eduardo" pid="128/2820">Eduardo Bezerra 0002</na></co>
 <co c="0"><na f="b/Blanco:Pablo" pid="121/6730">Pablo Blanco</na></co>
 <co c="0"><na f="b/Boeres:Cristina" pid="89/6061">Cristina Boeres</na></co>
@@ -2327,6 +2353,7 @@
 <co c="0"><na f="g/Galheigo:Marcelo" pid="244/3660">Marcelo Galheigo</na></co>
 <co c="0"><na f="g/Garibaldi:Jonathan_M=" pid="97/4637">Jonathan M. Garibaldi</na></co>
 <co c="0"><na f="g/Gaspar:Daniel" pid="19/4084">Daniel Gaspar</na></co>
+<co c="0"><na f="g/Gavriilidis:Haralampos" pid="238/4339">Haralampos Gavriilidis</na></co>
 <co c="0"><na f="g/Giraldi:Gilson_A=" pid="05/6423">Gilson A. Giraldi</na></co>
 <co c="0"><na f="g/Gomes:Ant=ocirc=nio_Tadeu_A=" pid="96/1748">Ant&#244;nio Tadeu A. Gomes</na></co>
 <co c="0" n="2"><na f="g/Gomi:Edson_S=" pid="117/5619">Edson S. Gomi</na><na>Edson Satoshi Gomi</na></co>
@@ -2344,6 +2371,7 @@
 <co c="0"><na f="i/Iza=uacute=:Leonardo" pid="329/8878">Leonardo Iza&#250;</na></co>
 <co c="0"><na f="j/Joly:Alexis" pid="97/5026">Alexis Joly</na></co>
 <co c="0"><na f="j/Jr:Heleno_de_S=_C=" pid="251/2391">Heleno de S. C. Jr</na></co>
+<co c="0"><na f="k/Kaoudi:Zoi" pid="65/1457">Zoi Kaoudi</na></co>
 <co c="0"><na f="k/Keet:C=_Maria" pid="42/559">C. Maria Keet</na></co>
 <co c="0"><na f="k/Khan:Falaah_Arif" pid="242/0540">Falaah Arif Khan</na></co>
 <co c="0"><na f="k/Khatibi:Amir" pid="198/1311">Amir Khatibi</na></co>
@@ -2359,12 +2387,14 @@
 <co c="0"><na f="l/Lima:Leonardo_Silva_de" pid="56/1747">Leonardo Silva de Lima</na></co>
 <co c="0"><na f="l/Liroz=Gistau:Miguel" pid="117/7537">Miguel Liroz-Gistau</na></co>
 <co c="0"><na f="l/Liu_0003:Ji" pid="51/4433-3">Ji Liu 0003</na></co>
+<co c="0"><na f="l/Liu:Mingxi" pid="123/5452">Mingxi Liu</na></co>
 <co c="0" n="2"><na f="l/Lustosa:Hermano" pid="181/6562">Hermano Lustosa</na><na>Hermano Louren&#231;o Souza Lustosa</na></co>
 <co c="0" n="2"><na f="m/Mac=ecirc=do:Jos=eacute=_A=_F=_de" pid="f/JAFernandesdeMacedo">Jos&#233; A. F. de Mac&#234;do</na><na>Jos&#233; Ant&#244;nio Fernandes de Mac&#234;do</na></co>
 <co c="0"><na f="m/Magalh=atilde=es:Marcelo" pid="321/9049">Marcelo Magalh&#227;es</na></co>
 <co c="0"><na f="m/Magalh=atilde=es:Regis_Pires" pid="119/3890">Regis Pires Magalh&#227;es</na></co>
 <co c="0"><na f="m/Maia:Luciano" pid="04/5468">Luciano Maia</na></co>
 <co c="0"><na f="m/Maia:Macedo_Sousa" pid="135/9991">Macedo Sousa Maia</na></co>
+<co c="0"><na f="m/Markl:Volker" pid="m/VMarkl">Volker Markl</na></co>
 <co c="0"><na f="m/Marques:Celso" pid="329/9646">Celso Marques</na></co>
 <co c="0"><na f="m/Masseglia:Florent" pid="m/FlorentMasseglia">Florent Masseglia</na></co>
 <co c="0"><na f="m/Mattoso:Marta" pid="m/MartaLQueirosMattoso">Marta Mattoso</na></co>
@@ -2399,11 +2429,13 @@
 <co c="0"><na f="p/Paix=atilde=o:Ellen" pid="385/6006">Ellen Paix&#227;o</na></co>
 <co c="0"><na f="p/Palazzi:Daniele_C=" pid="118/2652">Daniele C. Palazzi</na></co>
 <co c="0"><na f="p/Parent:Christine" pid="94/6041">Christine Parent</na></co>
+<co c="0"><na f="p/Pedersen:Mads_Sejer" pid="407/8567">Mads Sejer Pedersen</na></co>
 <co c="0"><na f="p/Pedroso:Marcel" pid="268/6850">Marcel Pedroso</na></co>
 <co c="0"><na f="p/Pena:Eduardo_H=_M=" pid="156/8798">Eduardo H. M. Pena</na></co>
 <co c="0"><na f="p/Pereira:Luiz_Ant=ocirc=nio_M=" pid="19/4289">Luiz Ant&#244;nio M. Pereira</na></co>
 <co c="0" n="2"><na f="p/Pereira_0001:Rafael_S=" pid="251/2419">Rafael S. Pereira 0001</na><na>Rafael Silva Pereira</na></co>
 <co c="0"><na f="p/Perosi:Fabio" pid="224/9143">Fabio Perosi</na></co>
+<co c="0"><na f="p/Petersen:Juri" pid="408/0863">Juri Petersen</na></co>
 <co c="0"><na f="p/Picouet:Philippe" pid="p/PPicouet">Philippe Picouet</na></co>
 <co c="0"><na f="p/Pinheiro:Jo=atilde=o_Carlos" pid="00/9489">Jo&#227;o Carlos Pinheiro</na></co>
 <co c="0"><na f="p/Pinto:Hardy_Leonardo_da_Cunha_Pereira" pid="224/8376">Hardy Leonardo da Cunha Pereira Pinto</na></co>
@@ -2465,6 +2497,7 @@
 <co c="0"><na f="t/Tsan:Brian" pid="266/1393">Brian Tsan</na></co>
 <co c="0"><na f="v/Valduriez:Patrick" pid="v/PatrickValduriez">Patrick Valduriez</na></co>
 <co c="0"><na f="v/Vangenot:Christelle" pid="v/ChristelleVangenot">Christelle Vangenot</na></co>
+<co c="0"><na f="v/Vargiamis:Michalis" pid="407/9479">Michalis Vargiamis</na></co>
 <co c="0"><na f="v/Vasconcelos:Ana_Tereza_Ribeiro_de" pid="v/AnaTerezaRVasconcelos">Ana Tereza Ribeiro de Vasconcelos</na></co>
 <co c="0" n="3"><na f="v/Vidal:V=acirc=nia_M=_P=" pid="98/4928">V&#226;nia M. P. Vidal</na><na>V&#226;nia Maria P. Vidal</na><na>V&#226;nia Maria Ponte Vidal</na></co>
 <co c="0"><na f="v/Vieira:Wagner" pid="219/8319">Wagner Vieira</na></co>
@@ -2473,6 +2506,7 @@
 <co c="0"><na f="v/Vu:Le=Hung" pid="55/3091">Le-Hung Vu</na></co>
 <co c="0"><na f="w/Wehmuth:Klaus" pid="49/9059">Klaus Wehmuth</na></co>
 <co c="0"><na f="x/Xavier:E=" pid="153/5972">E. Xavier</na></co>
+<co c="0"><na f="x/Xu_0001:Chen" pid="54/1474-1">Chen Xu 0001</na></co>
 <co c="0"><na f="y/Yokoyama:Daniel" pid="125/2997">Daniel Yokoyama</na></co>
 <co c="0"><na f="y/Yoneshigue=Valentin:Yocie" pid="259/7101">Yocie Yoneshigue-Valentin</na></co>
 <co c="0"><na f="z/Zenil:Hector" pid="z/HectorZenilChavez">Hector Zenil</na></co>

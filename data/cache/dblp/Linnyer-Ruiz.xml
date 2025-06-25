@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Linnyer B. Ruiz" pid="76/825" n="110">
+<dblpperson name="Linnyer B. Ruiz" pid="76/825" n="111">
 <person key="homepages/76/825" mdate="2025-02-25">
 <author pid="76/825">Linnyer B. Ruiz</author>
 <author pid="76/825">Linnyer Beatrys Ruiz</author>
@@ -36,6 +36,19 @@
 <ee>https://doi.org/10.5220/0013193200003929</ee>
 <crossref>conf/iceis/2025-1</crossref>
 <url>db/conf/iceis/iceis2025-1.html#SanchesPA25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/syscon/SanchesPA25" mdate="2025-06-12">
+<author pid="403/6720">Hugo Eduardo Sanches</author>
+<author pid="148/7259">Ayslan Trevizan Possebom</author>
+<author pid="76/825">Linnyer Beatrys Ruiz Aylon</author>
+<title>AREF - Argumentative Rule-Based Explanatory Framework.</title>
+<pages>1-8</pages>
+<year>2025</year>
+<booktitle>SysCon</booktitle>
+<ee>https://doi.org/10.1109/SysCon64521.2025.11014845</ee>
+<crossref>conf/syscon/2025</crossref>
+<url>db/conf/syscon/syscon2025.html#SanchesPA25</url>
 </inproceedings>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-2503-08939" mdate="2025-04-13">

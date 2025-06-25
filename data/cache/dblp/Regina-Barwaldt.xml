@@ -1,10 +1,55 @@
 <?xml version="1.0"?>
-<dblpperson name="Regina Barwaldt" pid="193/1032" n="22">
+<dblpperson name="Regina Barwaldt" pid="193/1032" n="25">
 <person key="homepages/193/1032" mdate="2023-10-03">
 <author pid="193/1032">Regina Barwaldt</author>
 <note type="affiliation">Federal University of Rio Grande, Brazil</note>
 <url>https://orcid.org/0000-0002-0382-3892</url>
 </person>
+<r><inproceedings key="conf/fie/BrongarPSB24" mdate="2025-06-17">
+<author pid="407/4927">Andrew Flores Brongar</author>
+<author pid="407/5347">Jordan Zitzke Pinho</author>
+<author pid="407/5362">Gisele Moraes Simas</author>
+<author pid="193/1032">Regina Barwaldt</author>
+<title>Enhancing Education for Deaf People: A Systematic Review of NLP Strategies for Automatic Translation From Portuguese to Brazilian Sign Language.</title>
+<pages>1-8</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10892982</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#BrongarPSB24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/BrongarPVSB24" mdate="2025-06-17">
+<author pid="407/4927">Andrew Flores Brongar</author>
+<author pid="407/5347">Jordan Zitzke Pinho</author>
+<author pid="v/RosaMariaVicari">Rosa Vicari</author>
+<author pid="407/5362">Gisele Moraes Simas</author>
+<author pid="193/1032">Regina Barwaldt</author>
+<title>Improving Translation from Portuguese to Brazilian Sign Language with Speech-to-Text Integration Through Natural Language Processing.</title>
+<pages>1-8</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10892852</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#BrongarPVSB24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/SilveiraARGVB24" mdate="2025-06-17">
+<author pid="407/5617">Lisiane Corr&#234;a Gomes Silveira</author>
+<author pid="407/5007">Patr&#237;cia Warnke de Alvarenga</author>
+<author pid="366/5544">Luis Otoni Meireles Ribeiro</author>
+<author pid="407/5648">Eder Mateus Gon&#231;alves</author>
+<author pid="v/RosaMariaVicari">Rosa Vicari</author>
+<author pid="193/1032">Regina Barwaldt</author>
+<title>Exploring the Potential of Artificial Intelligence in Special Education: A Bibliometric Analysis to Support Educators and Students with Autism Spectrum Disorder (ASD).</title>
+<pages>1-9</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10893218</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#SilveiraARGVB24</url>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/fie/LemosBR23" mdate="2024-01-23">
 <author pid="366/5502">Derlain Monteiro de Lemos</author>
 <author pid="193/1032">Regina Barwaldt</author>
@@ -331,17 +376,20 @@
 <ee>http://hdl.handle.net/10183/86066</ee>
 </phdthesis>
 </r>
-<coauthors n="44" nc="2">
+<coauthors n="51" nc="2">
+<co c="0"><na f="a/Alvarenga:Patr=iacute=cia_Warnke_de" pid="407/5007">Patr&#237;cia Warnke de Alvarenga</na></co>
 <co c="0" n="2"><na f="a/Amaral:Mar=iacute=lia_A=" pid="54/3094">Mar&#237;lia A. Amaral</na><na>Mar&#237;lia Abrah&#227;o Amaral</na></co>
 <co c="0" n="2"><na f="b/Billa:Cl=eacute=o_Zanella" pid="50/2400">Cl&#233;o Zanella Billa</na><na>Cl&#233;o Z. Billa</na></co>
 <co c="0"><na f="b/Borba:Albano" pid="286/2526">Albano Borba</na></co>
 <co c="0" n="3"><na f="b/Botelho:Silvia_Silva_da_Costa" pid="43/4171">Silvia Silva da Costa Botelho</na><na>Silvia S. C. Botelho</na><na>Silvia Botelho</na></co>
+<co c="0"><na f="b/Brongar:Andrew_Flores" pid="407/4927">Andrew Flores Brongar</na></co>
 <co c="0"><na f="c/Canez:Alexsander_Vasconcelos" pid="256/0139">Alexsander Vasconcelos Canez</na></co>
 <co c="0"><na f="c/Costa:Rita_Carolina_Alamino_Borges_da" pid="280/6948">Rita Carolina Alamino Borges da Costa</na></co>
 <co c="0"><na f="e/Esp=iacute=ndola:Dan=uacute=bia_Bueno" pid="28/7687">Dan&#250;bia Bueno Esp&#237;ndola</na></co>
 <co c="0"><na f="f/Freitas:Andr=eacute=_Luis_Castro_de" pid="235/0966">Andr&#233; Luis Castro de Freitas</na></co>
 <co c="0"><na f="f/Freitas:Bruna_dos_Santos" pid="255/9508">Bruna dos Santos Freitas</na></co>
 <co c="0"><na f="g/Gentil:Nara=iacute=na_Zerwes" pid="286/2325">Nara&#237;na Zerwes Gentil</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Eder_Mateus" pid="407/5648">Eder Mateus Gon&#231;alves</na></co>
 <co c="0"><na f="g/Gon=ccedil=alves:Eder_Mateus_Nunes" pid="58/4651">Eder Mateus Nunes Gon&#231;alves</na></co>
 <co c="0"><na f="g/Gon=ccedil=alves:Marcos_Ceron" pid="286/2686">Marcos Ceron Gon&#231;alves</na></co>
 <co c="0"><na f="g/Granada:Rafael_Pinto" pid="237/6745">Rafael Pinto Granada</na></co>
@@ -360,9 +408,10 @@
 <co c="0"><na f="o/Otero:Tiago_Fossati" pid="280/6446">Tiago Fossati Otero</na></co>
 <co c="0"><na f="p/Pereira:Lidiane_Maciel" pid="366/5424">Lidiane Maciel Pereira</na></co>
 <co c="0" n="2"><na f="p/Pias:Marcelo" pid="82/5985">Marcelo Pias</na><na>Marcelo Rita Pias</na></co>
+<co c="0"><na f="p/Pinho:Jordan_Zitzke" pid="407/5347">Jordan Zitzke Pinho</na></co>
 <co c="0"><na f="p/Pinho:Paulo_Cesar_Ramos" pid="280/6648">Paulo Cesar Ramos Pinho</na></co>
 <co c="0" n="2"><na f="r/Ribeiro:Luciano_M=" pid="232/9130">Luciano M. Ribeiro</na><na>Luciano Maciel Ribeiro</na></co>
-<co c="0"><na f="r/Ribeiro:Luis_Otoni" pid="366/5544">Luis Otoni Ribeiro</na></co>
+<co c="0" n="2"><na f="r/Ribeiro:Luis_Otoni_Meireles" pid="366/5544">Luis Otoni Meireles Ribeiro</na><na>Luis Otoni Ribeiro</na></co>
 <co c="1"><na f="r/Rocha:Carlos_Rodrigues" pid="357/3249">Carlos Rodrigues Rocha</na></co>
 <co c="0" n="2"><na f="r/Rodrigues_0004:Ricardo" pid="132/6292-4">Ricardo Rodrigues 0004</na><na>Ricardo Nagel Rodrigues</na></co>
 <co c="0"><na f="s/Santos_0005:Anderson" pid="366/5756">Anderson Santos 0005</na></co>
@@ -371,11 +420,14 @@
 <co c="0"><na f="s/Santos:Miguel" pid="08/8173">Miguel Santos</na></co>
 <co c="0"><na f="s/Santos:Rafael" pid="55/2973">Rafael Santos</na></co>
 <co c="0"><na f="s/Sartori:Joelson" pid="255/9468">Joelson Sartori</na></co>
+<co c="0"><na f="s/Silveira:Lisiane_Corr=ecirc=a_Gomes" pid="407/5617">Lisiane Corr&#234;a Gomes Silveira</na></co>
+<co c="0"><na f="s/Simas:Gisele_Moraes" pid="407/5362">Gisele Moraes Simas</na></co>
 <co c="0"><na f="s/Sp=iacute=dola:Dan=uacute=bia" pid="286/2296">Dan&#250;bia Sp&#237;dola</na></co>
 <co c="0"><na f="t/Topin:Luiz_Oscar_Homann_de" pid="255/9825">Luiz Oscar Homann de Topin</na></co>
 <co c="0"><na f="t/Torres:M=aacute=rcio" pid="286/2605">M&#225;rcio Torres</na></co>
 <co c="0"><na f="t/Torres:M=aacute=rcio_Josu=eacute=_Ramos" pid="280/6682">M&#225;rcio Josu&#233; Ramos Torres</na></co>
 <co c="0"><na f="v/Vargas:Andr=eacute=" pid="280/6501">Andr&#233; Vargas</na></co>
+<co c="0" n="2"><na f="v/Vicari:Rosa_Maria" pid="v/RosaMariaVicari">Rosa Maria Vicari</na><na>Rosa Vicari</na></co>
 </coauthors>
 </dblpperson>
 

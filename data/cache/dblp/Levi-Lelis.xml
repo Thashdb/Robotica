@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Levi Lelis" pid="82/7788" n="93">
+<dblpperson name="Levi Lelis" pid="82/7788" n="94">
 <person key="homepages/82/7788" mdate="2024-06-05">
 <author pid="82/7788">Levi Lelis</author>
 <author pid="82/7788">Levi H. S. Lelis</author>
@@ -20,6 +20,18 @@
 <journal>Trans. Mach. Learn. Res.</journal>
 <ee type="oa">https://openreview.net/forum?id=tP1PBrMUlX</ee>
 <url>db/journals/tmlr/tmlr2024.html#RahmanETPL24</url>
+</article>
+</r>
+<r><article key="journals/tmlr/SadmineBL24" mdate="2025-06-17">
+<author pid="370/2367">Quazi Asif Sadmine</author>
+<author pid="17/9304">Hendrik Baier</author>
+<author pid="82/7788">Levi Lelis</author>
+<title>Language Models Speed Up Local Search for Finding Programmatic Policies.</title>
+<year>2024</year>
+<volume>2024</volume>
+<journal>Trans. Mach. Learn. Res.</journal>
+<ee type="oa">https://openreview.net/forum?id=tBkj2I1mJY</ee>
+<url>db/journals/tmlr/tmlr2024.html#SadmineBL24</url>
 </article>
 </r>
 <r><inproceedings key="conf/aaai/AmeenL24" mdate="2024-04-02">
@@ -1227,7 +1239,7 @@
 <url>db/conf/icdm/icdm2009.html#LelisS09</url>
 </inproceedings>
 </r>
-<coauthors n="75" nc="4">
+<coauthors n="77" nc="5">
 <co c="0"><na f="a/Abdollahi:Fatemeh" pid="347/7104">Fatemeh Abdollahi</na></co>
 <co c="0"><na f="a/Abisrror:Marvin" pid="183/0968">Marvin Abisrror</na></co>
 <co c="0"><na f="a/Ahmad:Zaheen_Farraz" pid="183/0903">Zaheen Farraz Ahmad</na></co>
@@ -1236,6 +1248,7 @@
 <co c="0"><na f="a/Amaral:Jos=eacute=_Nelson" pid="a/JoseNelsonAmaral">Jos&#233; Nelson Amaral</na></co>
 <co c="0"><na f="a/Ameen:Saqib" pid="352/2610">Saqib Ameen</na></co>
 <co c="0"><na f="a/Arfaee:Shahab_Jabbari" pid="03/9798">Shahab Jabbari Arfaee</na></co>
+<co c="2"><na f="b/Baier:Hendrik" pid="17/9304">Hendrik Baier</na></co>
 <co c="0"><na f="b/Barley:Mike" pid="43/1584">Mike Barley</na></co>
 <co c="0"><na f="b/Barriga:Nicolas_A=" pid="40/7660">Nicolas A. Barriga</na></co>
 <co c="0"><na f="b/Bashir:Zahra" pid="321/1792">Zahra Bashir</na></co>
@@ -1243,9 +1256,9 @@
 <co c="0" n="2"><na f="b/Bowling:Michael_H=" pid="71/5161">Michael H. Bowling</na><na>Michael Bowling</na></co>
 <co c="0"><na f="b/Bulitko:Vadim" pid="b/VadimBulitko">Vadim Bulitko</na></co>
 <co c="0"><na f="c/Carvalho:Tales_Henrique" pid="382/3544">Tales Henrique Carvalho</na></co>
-<co c="2"><na f="c/Chaimowicz:Luiz" pid="c/LuizChaimowicz">Luiz Chaimowicz</na></co>
+<co c="3"><na f="c/Chaimowicz:Luiz" pid="c/LuizChaimowicz">Luiz Chaimowicz</na></co>
 <co c="0"><na f="c/Chen:Eugene" pid="52/6968">Eugene Chen</na></co>
-<co c="3"><na f="d/Dechter:Rina" pid="d/RDechter">Rina Dechter</na></co>
+<co c="4"><na f="d/Dechter:Rina" pid="d/RDechter">Rina Dechter</na></co>
 <co c="0"><na f="e/Emireddy:Thirupathi_Reddy" pid="382/5827">Thirupathi Reddy Emireddy</na></co>
 <co c="0"><na f="e/Epp:Carrie_Demmans" pid="91/9735">Carrie Demmans Epp</na></co>
 <co c="0"><na f="f/Felner:Ariel" pid="43/5063">Ariel Felner</na></co>
@@ -1271,17 +1284,18 @@
 <co c="0"><na f="o/Onta=ntilde==oacute=n:Santiago" pid="o/SantiagoOntanon">Santiago Onta&#241;&#243;n</na></co>
 <co c="-1"><na f="o/Orfanos:Spyros" pid="354/6185">Spyros Orfanos</na></co>
 <co c="0"><na f="o/Orseau:Laurent" pid="79/1040">Laurent Orseau</na></co>
-<co c="3"><na f="o/Otten:Lars" pid="32/2145">Lars Otten</na></co>
+<co c="4"><na f="o/Otten:Lars" pid="32/2145">Lars Otten</na></co>
 <co c="0"><na f="p/Padovani:Rafael_R=" pid="206/2327">Rafael R. Padovani</na></co>
 <co c="0"><na f="p/Parhizkar:Elham" pid="164/4070">Elham Parhizkar</na></co>
 <co c="0"><na f="p/Paudel:Jeeva" pid="39/7538">Jeeva Paudel</na></co>
 <co c="0"><na f="p/Pendurkar:Sumedh" pid="248/4090">Sumedh Pendurkar</na></co>
 <co c="0"><na f="p/Pereira:Andr=eacute=_Grahl" pid="17/8199">Andr&#233; Grahl Pereira</na></co>
 <co c="0"><na f="p/Pereira:Leonardo_T=" pid="193/4136">Leonardo T. Pereira</na></co>
-<co c="2"><na f="p/Pereira:Lucas_V=_S=" pid="319/2446">Lucas V. S. Pereira</na></co>
+<co c="3"><na f="p/Pereira:Lucas_V=_S=" pid="319/2446">Lucas V. S. Pereira</na></co>
 <co c="1"><na f="p/Pereira:Mois=eacute=s_Henrique" pid="284/2227">Mois&#233;s Henrique Pereira</na></co>
 <co c="0"><na f="r/Rahman:Habibur" pid="121/4151">Habibur Rahman</na></co>
 <co c="0"><na f="r/Reis:Willian_M=_P=" pid="170/5295">Willian M. P. Reis</na></co>
+<co c="2"><na f="s/Sadmine:Quazi_Asif" pid="370/2367">Quazi Asif Sadmine</na></co>
 <co c="0"><na f="s/Sander_0001:J=ouml=rg" pid="s/JorgSander">J&#246;rg Sander 0001</na></co>
 <co c="0"><na f="s/Sharon:Guni" pid="73/9853">Guni Sharon</na></co>
 <co c="0"><na f="s/Silva:Cleyton_R=" pid="217/3979">Cleyton R. Silva</na></co>

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Maristela Holanda" pid="20/1662" n="131">
+<dblpperson name="Maristela Holanda" pid="20/1662" n="134">
 <person key="homepages/20/1662" mdate="2022-12-07">
 <author pid="20/1662">Maristela Holanda</author>
 <author pid="20/1662">Maristela T. Holanda</author>
@@ -35,6 +35,49 @@
 <ee type="oa">https://doi.org/10.5753/rbie.2024.3329</ee>
 <url>db/journals/rbie/rbie32.html#HolandaBCSS24</url>
 </article>
+</r>
+<r><inproceedings key="conf/fie/HolandaVCS24" mdate="2025-06-17">
+<author pid="20/1662">Maristela Holanda</author>
+<author pid="407/5598">Manuella Valadares</author>
+<author pid="61/4342">Suxia Cui</author>
+<author pid="03/6463">Dilma Da Silva</author>
+<title>A Quantitative Study of Publications about Underrepresented Minority Undergraduate Students in Computer Science Majors in the United States.</title>
+<pages>1-8</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10893151</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#HolandaVCS24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/SimmonsHCS24" mdate="2025-06-17">
+<author pid="407/5573">Archer Simmons</author>
+<author pid="20/1662">Maristela Holanda</author>
+<author pid="265/5926">Christiana Chamon</author>
+<author pid="03/6463">Dilma Da Silva</author>
+<title>AI Generated Code Plagiarism Detection in Computer Science Courses: A Literature Mapping.</title>
+<pages>1-7</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10893117</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#SimmonsHCS24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/ValeHRAS24" mdate="2025-06-17">
+<author pid="407/5567">Mariana Alencar do Vale</author>
+<author pid="20/1662">Maristela Holanda</author>
+<author pid="09/2442">C&#233;lia G. Ralha</author>
+<author pid="38/2179">Aleteia Araujo</author>
+<author pid="03/6463">Dilma Da Silva</author>
+<title>Graduate Programs in Computing at the University of Brasilia: Comparison of Academic Papers and Collaborations by Gender.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10892921</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#ValeHRAS24</url>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/lawcc/HolandaGEGGMRMF24" mdate="2025-01-20">
 <author pid="20/1662">Maristela Holanda</author>
@@ -1214,7 +1257,7 @@
 </r>
 <r><inproceedings key="conf/closer/FariaHRCRHBA18" mdate="2022-05-17">
 <author pid="218/4694">Heitor Faria</author>
-<author pid="218/4917">Rodrigo Hagstrom</author>
+<author pid="407/5174">Rodrigo Hagstrom</author>
 <author pid="201/2761">Marco Antonio Sousa Reis</author>
 <author pid="218/4815">Breno G. S. Costa</author>
 <author pid="86/10587">Edward de Oliveira Ribeiro</author>
@@ -1942,7 +1985,7 @@
 <url>db/conf/sbbd/sbbd2006.html#HolandaBF06</url>
 </inproceedings>
 </r>
-<coauthors n="168" nc="3">
+<coauthors n="172" nc="3">
 <co c="-1"><na f="a/Adriana:Jane" pid="218/2923">Jane Adriana</na></co>
 <co c="0"><na f="a/Aires:Bruno" pid="157/0786">Bruno Aires</na></co>
 <co c="0"><na f="a/Albuquerque:Robson_de_Oliveira" pid="68/5982">Robson de Oliveira Albuquerque</na></co>
@@ -1980,6 +2023,7 @@
 <co c="0"><na f="c/Concei=ccedil==atilde=o:Wanderson" pid="334/8375">Wanderson Concei&#231;&#227;o</na></co>
 <co c="0"><na f="c/Costa:Breno_G=_S=" pid="218/4815">Breno G. S. Costa</na></co>
 <co c="0"><na f="c/Costa:Maria_Teresa_Leao" pid="366/4454">Maria Teresa Leao Costa</na></co>
+<co c="0"><na f="c/Cui:Suxia" pid="61/4342">Suxia Cui</na></co>
 <co c="0"><na f="d/D=aacute=vila:Alberto_M=_R=" pid="69/4027">Alberto M. R. D&#225;vila</na></co>
 <co c="0"><na f="d/Degrossi:L=iacute=via_Castro" pid="147/5771">L&#237;via Castro Degrossi</na></co>
 <co c="0"><na f="d/Dias:Lucas_Benevides" pid="218/7929">Lucas Benevides Dias</na></co>
@@ -2009,7 +2053,7 @@
 <co c="0"><na f="g/Gr=oslash=nli:Tor=Morten" pid="49/3681">Tor-Morten Gr&#248;nli</na></co>
 <co c="0"><na f="g/Guimar=acirc=es:Valeria" pid="169/3783">Valeria Guimar&#226;es</na></co>
 <co c="0"><na f="h/Haeusler:Edward_Hermann" pid="93/6371">Edward Hermann Haeusler</na></co>
-<co c="0"><na f="h/Hagstrom:Rodrigo" pid="218/4917">Rodrigo Hagstrom</na></co>
+<co c="0" n="2"><na f="h/Hagstrom:Rodrigo_Ot=aacute=vio_Ribeiro" pid="407/5174">Rodrigo Ot&#225;vio Ribeiro Hagstrom</na><na>Rodrigo Hagstrom</na></co>
 <co c="0"><na f="h/Hansen:Luiza" pid="280/6267">Luiza Hansen</na></co>
 <co c="0"><na f="h/Hara:Carmem_S=" pid="26/3914">Carmem S. Hara</na></co>
 <co c="0"><na f="h/Hondo:Fernanda" pid="169/3792">Fernanda Hondo</na></co>
@@ -2061,7 +2105,7 @@
 <co c="0"><na f="p/Poletti:Jo=atilde=o_Victor" pid="242/4041">Jo&#227;o Victor Poletti</na></co>
 <co c="0" n="2"><na f="p/Ponti:Moacir" pid="69/5836">Moacir Ponti</na><na>Moacir Antonelli Ponti</na></co>
 <co c="0"><na f="p/Porto_0001:F=aacute=bio" pid="p/FabioPorto">F&#225;bio Porto 0001</na></co>
-<co c="0"><na f="r/Ralha:C=eacute=lia_Ghedini" pid="09/2442">C&#233;lia Ghedini Ralha</na></co>
+<co c="0" n="2"><na f="r/Ralha:C=eacute=lia_Ghedini" pid="09/2442">C&#233;lia Ghedini Ralha</na><na>C&#233;lia G. Ralha</na></co>
 <co c="0"><na f="r/Ramos:Guilherme_Novaes" pid="70/4743">Guilherme Novaes Ramos</na></co>
 <co c="1" n="2"><na f="r/Ravent=oacute=s:Gabriela_Mar=iacute=n" pid="89/5292">Gabriela Mar&#237;n Ravent&#243;s</na><na>Gabriela Mar&#237;n-Ravent&#243;s</na></co>
 <co c="0" n="2"><na f="r/Reis:Ana_Carla_B=" pid="166/9188">Ana Carla B. Reis</na><na>Ana Carla Bittencourt Reis</na></co>
@@ -2093,6 +2137,7 @@
 <co c="0" n="2"><na f="s/Silva:Waldeyr_M=_C=" pid="193/7874">Waldeyr M. C. Silva</na><na>Waldeyr Mendes Cordeiro da Silva</na></co>
 <co c="0"><na f="s/Silveira:Rodrigo_da_Fonseca" pid="258/8336">Rodrigo da Fonseca Silveira</na></co>
 <co c="0"><na f="s/Silvestre:Ana_Sofia_S=" pid="360/1335">Ana Sofia S. Silvestre</na></co>
+<co c="0"><na f="s/Simmons:Archer" pid="407/5573">Archer Simmons</na></co>
 <co c="0"><na f="s/Soares:Hanani_E=_F=" pid="360/0599">Hanani E. F. Soares</na></co>
 <co c="0"><na f="s/Sousa:Aline_Barros_de" pid="377/5243">Aline Barros de Sousa</na></co>
 <co c="0"><na f="s/Souza:Damires" pid="30/3043">Damires Souza</na></co>
@@ -2102,6 +2147,8 @@
 <co c="0"><na f="t/Togawa:Roberto_C=" pid="42/6162">Roberto C. Togawa</na></co>
 <co c="0"><na f="t/Torres:Ricardo_da_Silva" pid="s/RicardodaSilvaTorres">Ricardo da Silva Torres</na></co>
 <co c="0"><na f="t/Tutida:Hugo_Hiroshi_Silva" pid="366/5469">Hugo Hiroshi Silva Tutida</na></co>
+<co c="0"><na f="v/Valadares:Manuella" pid="407/5598">Manuella Valadares</na></co>
+<co c="0"><na f="v/Vale:Mariana_Alencar_do" pid="407/5567">Mariana Alencar do Vale</na></co>
 <co c="0"><na f="v/Valente:Aline_S=_Oliveira" pid="314/9990">Aline S. Oliveira Valente</na></co>
 <co c="0"><na f="v/Vergara:Guilherme" pid="193/7904">Guilherme Vergara</na></co>
 <co c="0" n="2"><na f="v/Victorino:M=aacute=rcio" pid="58/5054">M&#225;rcio Victorino</na><na>M&#225;rcio de Carvalho Victorino</na></co>

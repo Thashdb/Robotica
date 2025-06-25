@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Edna Dias Canedo" pid="118/8796" n="211">
+<dblpperson name="Edna Dias Canedo" pid="118/8796" n="220">
 <person key="homepages/118/8796" mdate="2022-11-27">
 <author pid="118/8796">Edna Dias Canedo</author>
 <url>https://dl.acm.org/profile/81508706852</url>
@@ -122,6 +122,39 @@
 <crossref>conf/sbsi/2025</crossref>
 <url>db/conf/sbsi/sbsi2025.html#Amorim0MSC25</url>
 </inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-02857" mdate="2025-06-20">
+<author pid="407/7752">Angelica Pereira Souza</author>
+<author pid="199/5439">Anderson G. Uch&#244;a</author>
+<author pid="118/8796">Edna Dias Canedo</author>
+<author pid="139/6642">Juliana Alves Pereira</author>
+<author pid="219/0439">Claudia Pinto Pereira</author>
+<author pid="391/1439">Larissa Rocha 0002</author>
+<title>Overcoming Obstacles: Challenges of Gender Inequality in Undergraduate ICT Programs.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.02857</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.02857</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-02857</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-03866" mdate="2025-06-20">
+<author pid="407/7539">J&#250;lia Rocha Fortunato</author>
+<author pid="407/7773">Luana Ribeiro Soares</author>
+<author pid="407/7743">Gabriela Silva Alves</author>
+<author pid="118/8796">Edna Dias Canedo</author>
+<author pid="127/9811">Fabiana Freitas Mendes</author>
+<title>Enhancing Women's Experiences in Software Engineering.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.03866</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.03866</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-03866</url>
+<stream>streams/journals/corr</stream>
+</article>
 </r>
 <r><article key="journals/data/RodriguesSLCMAO24" mdate="2024-04-01">
 <author orcid="0000-0002-4502-2153" pid="266/7528">Gabriel Arquelau Pimenta Rodrigues</author>
@@ -442,6 +475,99 @@
 <ee>https://doi.org/10.1145/3701625</ee>
 <url>db/conf/sbqs/sbqs2024.html</url>
 </proceedings>
+</r>
+<r><data key="data/11/AmorimCP24" mdate="2025-06-23">
+<author orcid="0009-0001-7933-1552" pid="408/0280">Giovanni Amorim</author>
+<author orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</author>
+<author orcid="0000-0003-2509-8633" pid="407/9252">Rodrigo dos Santos Pereira</author>
+<title>Supplementary Documents for the Article: Adopting Micro-Frontends: Impacts and Challenges - A Systematic Mapping Study.</title>
+<year>2024</year>
+<month>June</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.11880989</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.11880988" type="versionOf"></rel>
+</data>
+</r>
+<r><data key="data/11/CanedoCO24" mdate="2025-06-23">
+<author orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</author>
+<author orcid="0009-0003-9888-2135" pid="407/9909">Isabelle Alex Caldas</author>
+<author pid="407/9104">Nataly Lacerda Oliveira</author>
+<title>Exploring Gender Perspectives on Parenthood Experiences among Fathers and Mothers in the ICT Field.</title>
+<year>2024</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.11194381</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.11194380" type="versionOf"></rel>
+</data>
+</r>
+<r><data key="data/11/CanedoRSM24" mdate="2025-06-23">
+<author orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</author>
+<author orcid="0000-0002-8069-5249" pid="155/7275">Larissa Rocha 0001</author>
+<author orcid="0000-0002-0304-0804" pid="266/5167">Geovana Ramos Sousa Silva</author>
+<author orcid="0000-0002-1724-2044" pid="127/9811">Fabiana Freitas Mendes</author>
+<title>Supplementary Material for &#34;Do you think there is no gender inequality in Software Engineering?&#34;.</title>
+<year>2024</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.11154782</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.11154781" type="versionOf"></rel>
+</data>
+</r>
+<r><data key="data/11/GoncalvesCMS24" mdate="2025-06-23">
+<author orcid="0000-0002-3355-9527" pid="343/1223">Larissa Pereira Gon&#231;alves</author>
+<author orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</author>
+<author orcid="0000-0001-7100-7304" pid="124/2039">F&#225;bio L&#250;cio Lopes de Mendon&#231;a</author>
+<author orcid="0000-0001-7617-6609" pid="167/7908">Daniel Alves da Silva</author>
+<title>Supplementary Material for Requirements documentation containing natural language: A Systematic Tertiary Literature Review.</title>
+<year>2024</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.11200356</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.11200355" type="versionOf"></rel>
+</data>
+</r>
+<r><data key="data/11/GoncalvesCMS24a" mdate="2025-06-23">
+<author orcid="0000-0002-3355-9527" pid="343/1223">Larissa Pereira Gon&#231;alves</author>
+<author orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</author>
+<author orcid="0000-0001-7100-7304" pid="124/2039">F&#225;bio L&#250;cio Lopes de Mendon&#231;a</author>
+<author orcid="0000-0001-7617-6609" pid="167/7908">Daniel Alves da Silva</author>
+<title>Supplementary Material for Requirements documentation containing natural language: A Systematic Tertiary Literature Review.</title>
+<year>2024</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.11217791</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="2" label="Version 2" uri="https://doi.org/10.5281/zenodo.11200355" type="versionOf"></rel>
+</data>
+</r>
+<r><data key="data/11/GoncalvesCS24" mdate="2025-06-23">
+<author orcid="0000-0002-3355-9527" pid="343/1223">Larissa Pereira Gon&#231;alves</author>
+<author orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</author>
+<author orcid="0000-0002-0304-0804" pid="266/5167">Geovana R. S. Silva</author>
+<title>Supplementary Material for Documentation artifacts for conversation-related requirements specification in chatbots: a systematic review and a meta-model proposal.</title>
+<year>2024</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.11187626</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="2" label="Version 2" uri="https://doi.org/10.5281/zenodo.11187351" type="versionOf"></rel>
+</data>
+</r>
+<r><data key="data/11/SilvaC24" mdate="2025-06-11">
+<author orcid="0000-0002-0304-0804" pid="266/5167">Geovana Ramos Sousa Silva</author>
+<author orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</author>
+<title>Privacy Requirements for Chatbot Conversation-Driven Development: A Systematic Review.</title>
+<year>2024</year>
+<month>March</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.10800538</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.10800537" type="versionOf"></rel>
+</data>
 </r>
 <r><article key="journals/ijegr/CanedoBGSMCS23" mdate="2025-03-03">
 <author orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</author>
@@ -816,11 +942,11 @@
 <url>db/conf/sbqs/sbqs2023.html</url>
 </proceedings>
 </r>
-<r><data key="data/11/CanedoCSMB23" mdate="2025-06-03">
+<r><data key="data/11/CanedoCSMB23" mdate="2025-06-16">
 <author orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</author>
 <author orcid="0000-0002-2783-4473" pid="206/3903">Ang&#233;lica Toffano Seidel Calazans</author>
 <author orcid="0000-0002-0304-0804" pid="266/5167">Geovana R. S. Silva</author>
-<author orcid="0000-0002-4188-1241" pid="206/3930">Eloisa Toffano Seidel Masson</author>
+<author pid="206/3930">Eloisa Toffano Seidel Masson</author>
 <author orcid="0000-0002-7556-4367" pid="11/5777">Isabel Sofia Brito</author>
 <title>Supplementary Material for: On the Challenges to Documenting Requirements in Agile Software Development: A Practitioners' Perspective.</title>
 <year>2023</year>
@@ -861,7 +987,7 @@
 <rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.7888624" type="versionOf"></rel>
 </data>
 </r>
-<r><data key="data/11/FerraoSCM23" mdate="2025-06-03">
+<r><data publtype="version" key="data/11/FerraoSCM23" mdate="2025-06-18">
 <author orcid="0000-0002-8372-0358" pid="292/2197">S&#226;mmara &#201;llen Renner Ferr&#227;o</author>
 <author orcid="0000-0002-0304-0804" pid="266/5167">Geovana Ramos Sousa Silva</author>
 <author orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</author>
@@ -872,7 +998,7 @@
 <ee type="oa">https://doi.org/10.5281/zenodo.10080624</ee>
 <publisher>Zenodo</publisher>
 <stream>streams/repo/zenodo</stream>
-<rel sort="2" label="Version 2" uri="https://doi.org/10.5281/zenodo.6590218" type="versionOf"></rel>
+<rel sort="2" label="Version 2" uri="https://doi.org/10.5281/zenodo.6590218" type="versionOf">data/11/FerraoCSM22a</rel>
 </data>
 </r>
 <r><data key="data/11/MesquitaSC23" mdate="2025-05-27">
@@ -1054,11 +1180,11 @@
 <url>db/conf/iccsa/iccsa2022-1.html#AlmeidaC22</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/iceis/CancadoBCFMAC22" mdate="2022-10-02">
+<r><inproceedings key="conf/iceis/CancadoBCFMAC22" mdate="2025-06-11">
 <author pid="282/4717">Emille Catarine Rodrigues Can&#231;ado</author>
 <author orcid="0000-0002-8083-7278" pid="286/2026">Ian Nery Bandeira</author>
 <author pid="226/2825">Pedro Henrique Teixeira Costa</author>
-<author pid="22/8193">Jos&#233; Fortes</author>
+<author pid="407/2084">Jos&#233; Fortes Neto</author>
 <author pid="320/5968">Daniel Carvalho Moreira</author>
 <author pid="233/8485">Luis Henrique Vieira Amaral</author>
 <author orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</author>
@@ -1286,7 +1412,7 @@
 <rel sort="1" label="Version 1.0.0-alpha" uri="https://doi.org/10.5281/zenodo.7359001" type="versionOf"></rel>
 </data>
 </r>
-<r><data key="data/11/FerraoC22" mdate="2025-05-13">
+<r><data publtype="version" key="data/11/FerraoC22" mdate="2025-06-18">
 <author pid="292/2197">S&#226;mmara &#201;llen Renner Ferr&#227;o</author>
 <author orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</author>
 <title>Pacote de Reprodu&#231;&#227;o da taxonomia para requisitos de privacidade.</title>
@@ -1295,10 +1421,10 @@
 <ee type="oa">https://doi.org/10.5281/zenodo.6391815</ee>
 <publisher>Zenodo</publisher>
 <stream>streams/repo/zenodo</stream>
-<rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.6391814" type="versionOf"></rel>
+<rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.6391814" type="versionOf">data/11/FerraoC22b</rel>
 </data>
 </r>
-<r><data key="data/11/FerraoC22a" mdate="2025-05-20">
+<r><data publtype="version" key="data/11/FerraoC22a" mdate="2025-06-18">
 <author pid="292/2197">S&#226;mmara &#201;llen Renner Ferr&#227;o</author>
 <author orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</author>
 <title>Pacote de Reprodu&#231;&#227;o da taxonomia para requisitos de privacidade.</title>
@@ -1307,10 +1433,10 @@
 <ee type="oa">https://doi.org/10.5281/zenodo.6975709</ee>
 <publisher>Zenodo</publisher>
 <stream>streams/repo/zenodo</stream>
-<rel sort="2" label="Version 2" uri="https://doi.org/10.5281/zenodo.6391814" type="versionOf"></rel>
+<rel sort="2" label="Version 2" uri="https://doi.org/10.5281/zenodo.6391814" type="versionOf">data/11/FerraoC22b</rel>
 </data>
 </r>
-<r><data key="data/11/FerraoCSM22" mdate="2025-05-16">
+<r><data publtype="version" key="data/11/FerraoCSM22" mdate="2025-06-18">
 <author orcid="0000-0002-8372-0358" pid="292/2197">S&#226;mmara &#201;llen Renner Ferr&#227;o</author>
 <author orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</author>
 <author orcid="0000-0002-0304-0804" pid="266/5167">Geovana Ramos Sousa Silva</author>
@@ -1321,7 +1447,7 @@
 <ee type="oa">https://doi.org/10.5281/zenodo.6590219</ee>
 <publisher>Zenodo</publisher>
 <stream>streams/repo/zenodo</stream>
-<rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.6590218" type="versionOf"></rel>
+<rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.6590218" type="versionOf">data/11/FerraoCSM22a</rel>
 </data>
 </r>
 <r><article key="journals/ijbpim/CanedoASAJN21" mdate="2025-03-03">
@@ -1718,9 +1844,9 @@
 <url>db/journals/jaihc/jaihc11.html#FerreiraC20</url>
 </article>
 </r>
-<r><article key="journals/jserd/MendoncaFLMBCLS20" mdate="2025-05-31">
+<r><article key="journals/jserd/MendoncaFLMBCLS20" mdate="2025-06-11">
 <author orcid="0000-0001-7391-9622" pid="217/3743">Walter Lucas Monteiro de Mendon&#231;a</author>
-<author pid="22/8193">Jos&#233; Fortes</author>
+<author pid="407/2084">Jos&#233; Fortes Neto</author>
 <author pid="292/6661">Francisco Vitor Lopes</author>
 <author pid="217/3732">Diego Marcilio</author>
 <author pid="21/824">Rodrigo Bonif&#225;cio</author>
@@ -3161,7 +3287,7 @@
 <url>db/conf/trustcom/trustcom2012.html#JuniorCAD12</url>
 </inproceedings>
 </r>
-<coauthors n="277" nc="3">
+<coauthors n="287" nc="5">
 <co c="0"><na f="a/Abbas:Cl=aacute=udia_Jacy_Barenco" pid="121/9602">Cl&#225;udia Jacy Barenco Abbas</na></co>
 <co c="0"><na f="a/Agilar:Everton" pid="183/9268">Everton Agilar</na></co>
 <co c="0"><na f="a/Alarc=atilde=o:Ana_Paula_de_Aguiar" pid="301/6701">Ana Paula de Aguiar Alarc&#227;o</na></co>
@@ -3174,9 +3300,11 @@
 <co c="0"><na f="a/Almeida:Paulo_Santos_De" pid="288/6549">Paulo Santos De Almeida</na></co>
 <co c="0"><na f="a/Almeida:Rodrigo" pid="183/9230">Rodrigo Almeida</na></co>
 <co c="0"><na f="a/Althoff:Lucas_Dos_Santos" pid="288/6733">Lucas Dos Santos Althoff</na></co>
+<co c="0"><na f="a/Alves:Gabriela_Silva" pid="407/7743">Gabriela Silva Alves</na></co>
 <co c="0"><na f="a/Amaral:Luis_Henrique_Vieira" pid="233/8485">Luis Henrique Vieira Amaral</na></co>
+<co c="3"><na f="a/Amorim:Giovanni" pid="408/0280">Giovanni Amorim</na></co>
 <co c="0"><na f="a/Amorim:Giovanni_Cunha_de" pid="403/7030">Giovanni Cunha de Amorim</na></co>
-<co c="2"><na f="a/Amorim_0001:Tiago" pid="87/10510">Tiago Amorim 0001</na></co>
+<co c="4"><na f="a/Amorim_0001:Tiago" pid="87/10510">Tiago Amorim 0001</na></co>
 <co c="0" n="2"><na f="a/Amvame=Nze:Georges" pid="60/3512">Georges Amvame-Nze</na><na>Georges Daniel Amvame Nze</na></co>
 <co c="0"><na f="a/Ancini:Gabriel" pid="388/4063">Gabriel Ancini</na></co>
 <co c="0"><na f="a/Andrade:Guilherme" pid="117/4708">Guilherme Andrade</na></co>
@@ -3205,11 +3333,12 @@
 <co c="0"><na f="c/Cagnin:Maria_Istela" pid="22/4238">Maria Istela Cagnin</na></co>
 <co c="0"><na f="c/Calado:Paulo_M=_R=_O=" pid="211/4844">Paulo M. R. O. Calado</na></co>
 <co c="0"><na f="c/Calazans:Ang=eacute=lica_Toffano_Seidel" pid="206/3903">Ang&#233;lica Toffano Seidel Calazans</na></co>
+<co c="1"><na f="c/Caldas:Isabelle_Alex" pid="407/9909">Isabelle Alex Caldas</na></co>
 <co c="0"><na f="c/Caldas:Luan_Pignata" pid="350/0879">Luan Pignata Caldas</na></co>
 <co c="0"><na f="c/C=acirc=mara:Alberto_Leite" pid="226/9930">Alberto Leite C&#226;mara</na></co>
 <co c="0" n="2"><na f="c/Cam=otilde=es:Renato" pid="293/7353">Renato Cam&#245;es</na><na>Renato Jos&#233; da Silva Cam&#245;es</na></co>
 <co c="0"><na f="c/Can=ccedil=ado:Emille_Catarine_Rodrigues" pid="282/4717">Emille Catarine Rodrigues Can&#231;ado</na></co>
-<co c="1"><na f="c/Cardoso:Cristiane_Naves" pid="249/1716">Cristiane Naves Cardoso</na></co>
+<co c="2"><na f="c/Cardoso:Cristiane_Naves" pid="249/1716">Cristiane Naves Cardoso</na></co>
 <co c="0"><na f="c/Cardoso:Maxwell_de_Oliveira" pid="229/5406">Maxwell de Oliveira Cardoso</na></co>
 <co c="0"><na f="c/Carvalho:Antonio" pid="217/3730">Antonio Carvalho</na></co>
 <co c="0"><na f="c/Carvalho:Artur_Potiguara" pid="266/5357">Artur Potiguara Carvalho</na></co>
@@ -3262,7 +3391,7 @@
 <co c="0" n="2"><na f="f/Figueiredo:Rejane_Maria_da_Costa" pid="177/4576">Rejane Maria da Costa Figueiredo</na><na>Rejane M. da C. Figueiredo</na></co>
 <co c="0" n="2"><na f="f/Filho:Fernando_Castor" pid="f/FCFilho">Fernando Castor Filho</na><na>Fernando Castor</na></co>
 <co c="0" n="2"><na f="f/Font=atilde=o:Awdren_de_Lima" pid="168/6211">Awdren de Lima Font&#227;o</na><na>Awdren L. Font&#227;o</na></co>
-<co c="0"><na f="f/Fortes:Jos=eacute=" pid="22/8193">Jos&#233; Fortes</na></co>
+<co c="0"><na f="f/Fortunato:J=uacute=lia_Rocha" pid="407/7539">J&#250;lia Rocha Fortunato</na></co>
 <co c="0" n="3"><na f="f/Fran=ccedil=a:Breno_B=_N=_de" pid="122/4837">Breno B. N. de Fran&#231;a</na><na>Breno Bernard Nicolau de Fran&#231;a</na><na>Breno de Fran&#231;a</na></co>
 <co c="0"><na f="f/Freitas:Edison_Pignaton_de" pid="96/3201">Edison Pignaton de Freitas</na></co>
 <co c="0"><na f="f/Freitas:S=eacute=rgio_Ant=ocirc=nio_Andrade_de" pid="24/7722">S&#233;rgio Ant&#244;nio Andrade de Freitas</na></co>
@@ -3304,7 +3433,7 @@
 <co c="0"><na f="l/Lucena:Tiago_Franklin_R=" pid="177/4608">Tiago Franklin R. Lucena</na></co>
 <co c="0"><na f="l/Luz:Welder_Pinheiro" pid="227/3293">Welder Pinheiro Luz</na></co>
 <co c="0" n="2"><na f="m/Machado:Ivan_do_Carmo" pid="33/9369">Ivan do Carmo Machado</na><na>Ivan Machado 0001</na></co>
-<co c="1"><na f="m/Machado:Michelangelo_da_R=" pid="249/1713">Michelangelo da R. Machado</na></co>
+<co c="2"><na f="m/Machado:Michelangelo_da_R=" pid="249/1713">Michelangelo da R. Machado</na></co>
 <co c="0"><na f="m/Machado:Thiago_Veras" pid="286/2464">Thiago Veras Machado</na></co>
 <co c="0"><na f="m/Maia:Marcelo_de_Almeida" pid="97/4668">Marcelo de Almeida Maia</na></co>
 <co c="0"><na f="m/Maldonado:Jos=eacute=_Carlos" pid="28/2292">Jos&#233; Carlos Maldonado</na></co>
@@ -3342,12 +3471,14 @@
 <co c="0"><na f="n/Nakagawa:Elisa_Yumi" pid="67/5214">Elisa Yumi Nakagawa</na></co>
 <co c="0"><na f="n/Neto:Adolfo_Gustavo_Serra_Seca" pid="84/2417">Adolfo Gustavo Serra Seca Neto</na></co>
 <co c="0" n="3"><na f="n/Neto:Crescencio_Rodrigues_Lima" pid="65/10587">Crescencio Rodrigues Lima Neto</na><na>Crescencio Lima</na><na>Cresc&#234;ncio Lima</na></co>
+<co c="0"><na f="n/Neto:Jos=eacute=_Fortes" pid="407/2084">Jos&#233; Fortes Neto</na></co>
 <co c="0"><na f="n/Nunes:Rafael_Rabelo" pid="302/8645">Rafael Rabelo Nunes</na></co>
 <co c="0"><na f="o/Okimoto:M=aacute=rcio_Vinicius" pid="243/7332">M&#225;rcio Vinicius Okimoto</na></co>
 <co c="0"><na f="o/Oliveira:Caio" pid="350/6846">Caio Oliveira</na></co>
 <co c="0"><na f="o/Oliveira:Caio_Matheus_Campos_de" pid="237/6675">Caio Matheus Campos de Oliveira</na></co>
 <co c="0"><na f="o/Oliveira:Edgard_Costa" pid="96/6097">Edgard Costa Oliveira</na></co>
 <co c="0"><na f="o/Oliveira:Jo=atilde=o_Paulo_Couto_De" pid="406/7538">Jo&#227;o Paulo Couto De Oliveira</na></co>
+<co c="1"><na f="o/Oliveira:Nataly_Lacerda" pid="407/9104">Nataly Lacerda Oliveira</na></co>
 <co c="0" n="2"><na f="o/Oliveira:Sandro_R=_B=" pid="47/4435">Sandro R. B. Oliveira</na><na>Sandro Ronaldo Bezerra Oliveira</na></co>
 <co c="0"><na f="o/Oran:Ana_Carolina" pid="172/1825">Ana Carolina Oran</na></co>
 <co c="0"><na f="o/Orozco:Ana_Lucila_Sandoval" pid="15/9059">Ana Lucila Sandoval Orozco</na></co>
@@ -3362,6 +3493,8 @@
 <co c="0"><na f="p/Pedrosa:Glauco_Vitor" pid="09/2386">Glauco Vitor Pedrosa</na></co>
 <co c="0"><na f="p/Pereira:Ca=iacute=que_de_Paula" pid="201/2580">Ca&#237;que de Paula Pereira</na></co>
 <co c="0"><na f="p/Pereira:Claudia_Pinto" pid="219/0439">Claudia Pinto Pereira</na></co>
+<co c="0"><na f="p/Pereira:Juliana_Alves" pid="139/6642">Juliana Alves Pereira</na></co>
+<co c="3"><na f="p/Pereira:Rodrigo_dos_Santos" pid="407/9252">Rodrigo dos Santos Pereira</na></co>
 <co c="0"><na f="p/Pergentino:Ana_Carolina_Dos_Santos" pid="266/5936">Ana Carolina Dos Santos Pergentino</na></co>
 <co c="0"><na f="p/Pinheiro:Alexandre" pid="146/6557">Alexandre Pinheiro</na></co>
 <co c="0"><na f="p/Pinheiro:Gabriel_P=_M=" pid="259/8921">Gabriel P. M. Pinheiro</na></co>
@@ -3416,7 +3549,9 @@
 <co c="0"><na f="s/Silva:Rita_de_C=aacute=ssia_da" pid="177/4666">Rita de C&#225;ssia da Silva</na></co>
 <co c="0"><na f="s/Silva:Wander_Cleber_Pereira_Da" pid="200/1729">Wander Cleber Pereira Da Silva</na></co>
 <co c="0" n="3"><na f="s/Soares:Larissa_Rocha" pid="155/7275">Larissa Rocha Soares</na><na>Larissa Rocha 0001</na><na>Larissa Soares 0001</na></co>
+<co c="0"><na f="s/Soares:Luana_Ribeiro" pid="407/7773">Luana Ribeiro Soares</na></co>
 <co c="0"><na f="s/Soares:S=eacute=rgio" pid="58/232">S&#233;rgio Soares</na></co>
+<co c="0"><na f="s/Souza:Angelica_Pereira" pid="407/7752">Angelica Pereira Souza</na></co>
 <co c="0"><na f="s/Souza:Clarisse_Sieckenius_de" pid="09/2802">Clarisse Sieckenius de Souza</na></co>
 <co c="0"><na f="s/Souza:Jo=atilde=o_Carlos_F=eacute=lix" pid="292/3985">Jo&#227;o Carlos F&#233;lix Souza</na></co>
 <co c="0"><na f="s/Souza:Leomar_Camargo_de" pid="277/2892">Leomar Camargo de Souza</na></co>
@@ -3427,6 +3562,7 @@
 <co c="-1"><na f="s/Suzuki:Jessica" pid="223/0518">Jessica Suzuki</na></co>
 <co c="0"><na f="t/Torres:Adriano" pid="344/1780">Adriano Torres</na></co>
 <co c="0"><na f="t/Torres:Kennedy_Santos" pid="280/6589">Kennedy Santos Torres</na></co>
+<co c="0"><na f="u/Uch=ocirc=a:Anderson_G=" pid="199/5439">Anderson G. Uch&#244;a</na></co>
 <co c="0"><na f="v/Vale:Ana_Paula_Morais_do" pid="277/3264">Ana Paula Morais do Vale</na></co>
 <co c="0"><na f="v/Valen=ccedil=a:Karine" pid="238/5382">Karine Valen&#231;a</na></co>
 <co c="0"><na f="v/Valentim:Natasha_M=_Costa" pid="135/0795">Natasha M. Costa Valentim</na></co>
@@ -3436,7 +3572,7 @@
 <co c="0"><na f="v/Viana:Davi" pid="117/5583">Davi Viana</na></co>
 <co c="0"><na f="v/Vidotti:Maur=iacute=cio_F=" pid="201/9901">Maur&#237;cio F. Vidotti</na></co>
 <co c="0"><na f="v/Vin=iacute=cius:Marcos" pid="278/9802">Marcos Vin&#237;cius</na></co>
-<co c="2"><na f="v/Vogelsang:Andreas" pid="19/8725">Andreas Vogelsang</na></co>
+<co c="4"><na f="v/Vogelsang:Andreas" pid="19/8725">Andreas Vogelsang</na></co>
 <co c="0"><na f="w/Wanderley:Fernando" pid="118/4045">Fernando Wanderley</na></co>
 <co c="0"><na f="z/Zacarias:Eliakim" pid="193/0940">Eliakim Zacarias</na></co>
 </coauthors>

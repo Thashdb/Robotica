@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Humberto Torres Marques-Neto" pid="49/2329" n="67">
+<dblpperson name="Humberto Torres Marques-Neto" pid="49/2329" n="68">
 <person key="homepages/49/2329" mdate="2025-01-10">
 <author pid="49/2329">Humberto Torres Marques-Neto</author>
 <author pid="49/2329">Humberto T. Marques-Neto</author>
@@ -7,8 +7,8 @@
 <url>https://orcid.org/0000-0002-3164-8323</url>
 <url>https://www.wikidata.org/entity/Q131014550</url>
 </person>
-<r><inproceedings key="conf/websci/SilvaGMA25" mdate="2025-05-31">
-<author pid="405/9836">Luana Assis Silva</author>
+<r><inproceedings key="conf/websci/SilvaGMA25" mdate="2025-06-11">
+<author orcid="0009-0005-1742-7494" pid="405/9836">Luana Assis Silva</author>
 <author orcid="0009-0000-4532-5958" pid="21/9882">K&#234;nia Carolina Gon&#231;alves</author>
 <author orcid="0000-0002-3164-8323" pid="49/2329">Humberto T. Marques-Neto</author>
 <author orcid="0000-0001-9142-2919" pid="34/5480">Jussara M. Almeida</author>
@@ -66,6 +66,20 @@
 <ee>https://doi.org/10.1145/3703412.3703417</ee>
 <crossref>conf/aiml2/2024</crossref>
 <url>db/conf/aiml2/aiml2024.html#LopesGBM24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asunam/CruzPAM24" mdate="2025-06-16">
+<author pid="382/9516">Jo&#227;o Paulo Oliveira Cruz</author>
+<author pid="184/8925">Lucia C. Passaro</author>
+<author pid="34/5480">Jussara M. Almeida</author>
+<author pid="49/2329">Humberto Torres Marques-Neto</author>
+<title>Characterizing Fashion Influencers' Behavior on Instagram.</title>
+<pages>427</pages>
+<year>2024</year>
+<booktitle>ASONAM (Workshops)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-85386-9_33</ee>
+<crossref>conf/asunam/2024w</crossref>
+<url>db/conf/asunam/asonam2024w.html#CruzPAM24</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/iceis/MachadoBM24" mdate="2024-06-05">

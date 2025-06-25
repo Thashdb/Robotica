@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Maycon Leone Maciel Peixoto" pid="94/4865" n="66">
+<dblpperson name="Maycon Leone Maciel Peixoto" pid="94/4865" n="67">
 <person key="homepages/94/4865" mdate="2021-01-15">
 <author pid="94/4865">Maycon Leone Maciel Peixoto</author>
 <author pid="94/4865">Maycon L. M. Peixoto</author>
@@ -8,6 +8,23 @@
 <url>https://www.wikidata.org/entity/Q92853500</url>
 <url>http://lattes.cnpq.br/5003713680310544</url>
 </person>
+<r><article key="journals/adhoc/FerreiraFCPFP25" mdate="2025-06-18">
+<author pid="407/6063">J. V. G. Ferreira</author>
+<author pid="407/6254">M. E. S. Freire</author>
+<author pid="285/9873">Edson M. Cruz</author>
+<author pid="06/710">C&#225;ssio V. S. Prazeres</author>
+<author pid="29/2875">Gustavo B. Figueiredo</author>
+<author pid="94/4865">Maycon Leone Maciel Peixoto</author>
+<title>Leading the Way: Reducing network traffic in vehicular Ad Hoc networks through cluster leader algorithms.</title>
+<pages>103932</pages>
+<year>2025</year>
+<volume>178</volume>
+<journal>Ad Hoc Networks</journal>
+<ee>https://doi.org/10.1016/j.adhoc.2025.103932</ee>
+<url>db/journals/adhoc/adhoc178.html#FerreiraFCPFP25</url>
+<stream>streams/journals/adhoc</stream>
+</article>
+</r>
 <r><article key="journals/cn/BarbosaBMFSKBTP25" mdate="2025-01-25">
 <author pid="313/6497">Matheus T. M. Barbosa</author>
 <author orcid="0000-0001-8246-149X" pid="151/0856">Eric Bernardes Chagas Barros</author>
@@ -1063,7 +1080,7 @@
 <url>db/conf/wise/wise2007w.html#MonacoSP07</url>
 </inproceedings>
 </r>
-<coauthors n="124" nc="2">
+<coauthors n="126" nc="2">
 <co c="0"><na f="a/Almeida:Eduardo_Santana_de" pid="a/EduardoSantanadeAlmeida">Eduardo Santana de Almeida</na></co>
 <co c="0"><na f="a/Almeida:Erlon_Pereira" pid="394/2259">Erlon Pereira Almeida</na></co>
 <co c="0"><na f="a/Alves:Diego_Cardoso" pid="185/2305">Diego Cardoso Alves</na></co>
@@ -1094,11 +1111,13 @@
 <co c="0"><na f="f/Ferreira:Carlos_Henrique_Gomes" pid="191/5948">Carlos Henrique Gomes Ferreira</na></co>
 <co c="0"><na f="f/Ferreira:Eduardo" pid="77/9013">Eduardo Ferreira</na></co>
 <co c="0"><na f="f/Ferreira:Ibirisol_F=" pid="168/4972">Ibirisol F. Ferreira</na></co>
+<co c="0"><na f="f/Ferreira:J=_V=_G=" pid="407/6063">J. V. G. Ferreira</na></co>
 <co c="0"><na f="f/Ferreira:Rafael_Sobrinho" pid="229/2340">Rafael Sobrinho Ferreira</na></co>
 <co c="0" n="2"><na f="f/Figueiredo:Gustavo_B=" pid="29/2875">Gustavo B. Figueiredo</na><na>Gustavo Bittencourt Figueiredo</na></co>
 <co c="0" n="2"><na f="f/Filho:Dionisio_Machado_Leite" pid="157/3019">Dionisio Machado Leite Filho</na><na>Dionisio Leite</na></co>
 <co c="0" n="3"><na f="f/Filho:Geraldo_P=_R=" pid="141/9518">Geraldo P. R. Filho</na><na>Geraldo P. Rocha Filho</na><na>Geraldo Pereira Rocha Filho</na></co>
 <co c="0"><na f="f/Fran=ccedil=a:Tamise_S=" pid="311/1862">Tamise S. Fran&#231;a</na></co>
+<co c="0"><na f="f/Freire:M=_E=_S=" pid="407/6254">M. E. S. Freire</na></co>
 <co c="0" n="2"><na f="f/Frinhani:Rafael_de_Magalhaes_Dias" pid="206/0088">Rafael de Magalhaes Dias Frinhani</na><na>Rafael M. D. Frinhani</na></co>
 <co c="0"><na f="g/Gama:Eduardo_S=" pid="229/2338">Eduardo S. Gama</na></co>
 <co c="0" n="2"><na f="g/Genez:Thiago_A=_L=" pid="26/11528">Thiago A. L. Genez</na><na>Thiago Augusto Lopes Genez</na></co>

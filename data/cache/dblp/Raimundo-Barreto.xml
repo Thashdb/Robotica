@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Raimundo S. Barreto" pid="04/562" n="102">
+<dblpperson name="Raimundo S. Barreto" pid="04/562" n="103">
 <person key="homepages/04/562" mdate="2022-05-06">
 <author pid="04/562">Raimundo S. Barreto</author>
 <author pid="04/562">Raimundo da Silva Barreto</author>
@@ -25,6 +25,23 @@
 <ee>https://doi.org/10.1007/s00607-024-01391-x</ee>
 <url>db/journals/computing/computing107.html#AssayagSBCPO25</url>
 <stream>streams/journals/computing</stream>
+</article>
+</r>
+<r><article key="journals/jisa/BessaFSBF25" mdate="2025-06-16">
+<author pid="309/6460">Jo&#227;o Alfredo Bessa</author>
+<author pid="359/6672">Ricardo Miranda Filho</author>
+<author pid="394/2846">Girlana Souza</author>
+<author pid="04/562">Raimundo S. Barreto</author>
+<author pid="47/7842">Rosiane de Freitas</author>
+<title>Log parsers' performance on raw logs from Android devices.</title>
+<pages>105-116</pages>
+<year>2025</year>
+<volume>16</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5753/jisa.2025.5049</ee>
+<url>db/journals/jisa/jisa16.html#BessaFSBF25</url>
+<stream>streams/journals/jisa</stream>
 </article>
 </r>
 <r><article key="journals/esl/AlencarBOS24" mdate="2024-06-18">
@@ -1569,7 +1586,7 @@
 <url>db/conf/sbac-pad/sbac-pad2003.html#BarretoMC03</url>
 </inproceedings>
 </r>
-<coauthors n="133" nc="1">
+<coauthors n="134" nc="1">
 <co c="0"><na f="a/Alencar:Marcio_Aurelio_dos_Santos" pid="152/1691">Marcio Aurelio dos Santos Alencar</na></co>
 <co c="0" n="2"><na f="a/Almeida:Jo=atilde=o_Dallyson_Sousa_de" pid="90/11315">Jo&#227;o Dallyson Sousa de Almeida</na><na>Jo&#227;o Almeida 0003</na></co>
 <co c="0"><na f="a/Alves:Gabriel" pid="83/83">Gabriel Alves</na></co>
@@ -1585,6 +1602,7 @@
 <co c="0"><na f="b/Becker:Leandro_Buss" pid="24/3796">Leandro Buss Becker</na></co>
 <co c="0"><na f="b/Bentes:Larissa" pid="190/3524">Larissa Bentes</na></co>
 <co c="0"><na f="b/Bessa:Arthur" pid="90/4172">Arthur Bessa</na></co>
+<co c="0"><na f="b/Bessa:Jo=atilde=o_Alfredo" pid="309/6460">Jo&#227;o Alfredo Bessa</na></co>
 <co c="0"><na f="b/Bezerra:Daniella_Rodrigues" pid="157/7452">Daniella Rodrigues Bezerra</na></co>
 <co c="0"><na f="b/Bonfim:Ricardo" pid="388/7888">Ricardo Bonfim</na></co>
 <co c="0"><na f="b/Braga:Frederico" pid="16/4575">Frederico Braga</na></co>

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Jo&#227;o Brunet" pid="41/4431" n="19">
+<dblpperson name="Jo&#227;o Brunet" pid="41/4431" n="20">
 <person key="homepages/41/4431" mdate="2009-06-10">
 <author pid="41/4431">Jo&#227;o Brunet</author>
 </person>
@@ -15,6 +15,21 @@
 <crossref>conf/csedu/2025-2</crossref>
 <url>db/conf/csedu/csedu2025-2.html#OliveiraSB25</url>
 </inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-01568" mdate="2025-06-18">
+<author pid="407/7282">Filipe Paiva</author>
+<author pid="41/4431">Jo&#227;o Brunet</author>
+<author pid="140/9447">Thiago Emmanuel Pereira</author>
+<author pid="407/6906">Wendell Oliveira</author>
+<title>A Defect Taxonomy for Infrastructure as Code: A Replication Study.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.01568</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.01568</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-01568</url>
+<stream>streams/journals/corr</stream>
+</article>
 </r>
 <r><inproceedings key="conf/fie/SantosABM22" mdate="2024-02-19">
 <author pid="211/5152">Jucelio S. Santos</author>
@@ -275,7 +290,7 @@
 <url>db/conf/sac/sac2008.html#PiresBR08</url>
 </inproceedings>
 </r>
-<coauthors n="30" nc="3">
+<coauthors n="32" nc="3">
 <co c="-1"><na f="a/Andrade:Raul" pid="218/4503">Raul Andrade</na></co>
 <co c="0"><na f="a/Andrade:Wilkerson_de_L=" pid="64/298">Wilkerson de L. Andrade</na></co>
 <co c="1" n="2"><na f="b/Barnett_0001:Michael" pid="69/2517-1">Michael Barnett 0001</na><na>Mike Barnett 0001</na></co>
@@ -296,6 +311,8 @@
 <co c="0"><na f="m/Miranda:Luis_Fernando" pid="135/1339">Luis Fernando Miranda</na></co>
 <co c="0"><na f="m/Murphy:Gail_C=" pid="95/712">Gail C. Murphy</na></co>
 <co c="2"><na f="o/Oliveira:Caio" pid="350/6846">Caio Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Wendell" pid="407/6906">Wendell Oliveira</na></co>
+<co c="0"><na f="p/Paiva:Filipe" pid="407/7282">Filipe Paiva</na></co>
 <co c="0"><na f="p/Pereira:Thiago_Emmanuel" pid="140/9447">Thiago Emmanuel Pereira</na></co>
 <co c="0"><na f="p/Pires:Waldemar" pid="43/1207">Waldemar Pires</na></co>
 <co c="0"><na f="q/Quaresma:David" pid="232/8131">David Quaresma</na></co>

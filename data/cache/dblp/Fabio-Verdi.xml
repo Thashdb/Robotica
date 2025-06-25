@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="F&#225;bio Luciano Verdi" pid="40/654" n="83">
+<dblpperson name="F&#225;bio Luciano Verdi" pid="40/654" n="85">
 <person key="homepages/40/654" mdate="2022-02-14">
 <author pid="40/654">F&#225;bio Luciano Verdi</author>
 <author pid="40/654">F&#225;bio L. Verdi</author>
@@ -35,6 +35,37 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2502.00671</ee>
 <url>db/journals/corr/corr2502.html#abs-2502-00671</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-11231" mdate="2025-06-23">
+<author pid="407/9292">Mateus N. Bragatto</author>
+<author pid="407/8526">Jo&#227;o Paulo M. Clevelares</author>
+<author pid="117/6192">Cristina K. Dominicini</author>
+<author pid="31/1899">Rodolfo da Silva Villa&#231;a</author>
+<author pid="40/654">F&#225;bio L. Verdi</author>
+<title>MM-INT: Telemetry in Programmable Switches with Multiple Queues using Source-based Multipath Routing.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.11231</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.11231</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-11231</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-11973" mdate="2025-06-23">
+<author pid="274/1001">Alireza Shirmarz</author>
+<author pid="290/8478">Ariel G&#243;es de Castro</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="70/2654">Christian Esteve Rothenberg</author>
+<title>CGReplay: Capture and Replay of Cloud Gaming Traffic for QoE/QoS Assessment.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.11973</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.11973</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-11973</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -1203,7 +1234,7 @@
 <url>db/conf/dsom/dsom2001.html#VerdiM01</url>
 </inproceedings>
 </r>
-<coauthors n="102" nc="4">
+<coauthors n="106" nc="4">
 <co c="0"><na f="a/Alberti:Ant=ocirc=nio_Marcos" pid="51/4339">Ant&#244;nio Marcos Alberti</na></co>
 <co c="2"><na f="a/Almeida:Jurandy" pid="30/2806">Jurandy Almeida</na></co>
 <co c="0"><na f="a/Almeida:Leandro_C=_de" pid="263/9934">Leandro C. de Almeida</na></co>
@@ -1211,18 +1242,22 @@
 <co c="0"><na f="b/Baliosian:Javier" pid="12/4344">Javier Baliosian</na></co>
 <co c="0"><na f="b/Beraldo:Lucian" pid="298/3236">Lucian Beraldo</na></co>
 <co c="0"><na f="b/Bernardos:Carlos_J=" pid="94/4416">Carlos J. Bernardos</na></co>
+<co c="0"><na f="b/Bragatto:Mateus_N=" pid="407/9292">Mateus N. Bragatto</na></co>
 <co c="0"><na f="c/Cardoso:Kleber_Vieira" pid="32/10675">Kleber Vieira Cardoso</na></co>
 <co c="0"><na f="c/Cardozo:Eleri" pid="92/2659">Eleri Cardozo</na></co>
 <co c="0"><na f="c/Carvalho:Cl=aacute=udio" pid="01/5042">Cl&#225;udio Carvalho</na></co>
+<co c="0"><na f="c/Castro:Ariel_G=oacute=es_de" pid="290/8478">Ariel G&#243;es de Castro</na></co>
 <co c="0"><na f="c/Cavalcanti_0001:Dave" pid="19/3125">Dave Cavalcanti 0001</na></co>
 <co c="0"><na f="c/Cesila:Celso_Henrique" pid="267/2872">Celso Henrique Cesila</na></co>
 <co c="0"><na f="c/Chieng:David" pid="65/1705">David Chieng</na></co>
 <co c="0"><na f="c/Chiesa:Marco" pid="78/9826">Marco Chiesa</na></co>
 <co c="0"><na f="c/Clayman:Stuart" pid="72/6669">Stuart Clayman</na></co>
+<co c="0"><na f="c/Clevelares:Jo=atilde=o_Paulo_M=" pid="407/8526">Jo&#227;o Paulo M. Clevelares</na></co>
 <co c="0" n="2"><na f="c/Contreras_0001:Luis_M=" pid="118/9656">Luis M. Contreras 0001</na><na>Luis Miguel Contreras Murillo</na></co>
 <co c="1"><na f="c/Cores:Fernando" pid="09/4813">Fernando Cores</na></co>
 <co c="0" n="2"><na f="c/Correa:Sand" pid="81/3896">Sand Correa</na><na>Sand Luz Correa</na></co>
 <co c="0"><na f="c/Costa:Kevin_B=" pid="199/7767">Kevin B. Costa</na></co>
+<co c="0"><na f="d/Dominicini:Cristina_K=" pid="117/6192">Cristina K. Dominicini</na></co>
 <co c="0"><na f="d/Duarte:R=" pid="70/2970">R. Duarte</na></co>
 <co c="0" n="2"><na f="f/Filho:Alberto_E=_Schaeffer" pid="89/1649">Alberto E. Schaeffer Filho</na><na>Alberto Egon Schaeffer Filho</na></co>
 <co c="3"><na f="f/Frate:Marcelo" pid="242/8357">Marcelo Frate</na></co>

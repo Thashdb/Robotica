@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Nina Sumiko Tomita Hirata" pid="62/2188" n="84">
+<dblpperson name="Nina Sumiko Tomita Hirata" pid="62/2188" n="85">
 <person key="homepages/62/2188" mdate="2022-02-15">
 <author pid="62/2188">Nina Sumiko Tomita Hirata</author>
 <author pid="62/2188">Nina S. T. Hirata</author>
@@ -11,7 +11,7 @@
 <url>https://www.wikidata.org/entity/Q79705573</url>
 <url>http://lattes.cnpq.br/0644408634493034</url>
 </person>
-<r><inproceedings key="conf/naacl/ChenPCCHHHK25" mdate="2025-05-21">
+<r><inproceedings key="conf/naacl/ChenPCCHHHK25" mdate="2025-06-13">
 <author pid="232/2460">Runjin Chen</author>
 <author pid="390/4122">Gabriel J. Perin</author>
 <author pid="267/9662">Xuxi Chen</author>
@@ -24,6 +24,7 @@
 <pages>3265-3280</pages>
 <year>2025</year>
 <booktitle>NAACL (Long Papers)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2025.naacl-long.168</ee>
 <ee type="oa">https://aclanthology.org/2025.naacl-long.168/</ee>
 <crossref>conf/naacl/2025-1</crossref>
 <url>db/conf/naacl/naacl2025-1.html#ChenPCCHHHK25</url>
@@ -85,6 +86,22 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2502.04602</ee>
 <url>db/journals/corr/corr2502.html#abs-2502-04602</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-05681" mdate="2025-06-23">
+<author pid="312/5418">Giulio Cesare Mastrocinque Santo</author>
+<author pid="408/0217">Patr&#237;cia Izar</author>
+<author pid="407/9741">Irene Delval</author>
+<author pid="407/8158">Victor de Napole Gregolin</author>
+<author pid="62/2188">Nina S. T. Hirata</author>
+<title>Fine-Tuning Video-Text Contrastive Model for Primate Behavior Retrieval from Unlabeled Raw Videos.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.05681</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.05681</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-05681</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -1157,13 +1174,13 @@
 <url>db/conf/ismm/ismm1996.html#BarreraTST96</url>
 </inproceedings>
 </r>
-<coauthors n="62" nc="6">
+<coauthors n="66" nc="7">
 <co c="0"><na f="a/Abello:Antonio_A=" pid="216/8175">Antonio A. Abello</na></co>
-<co c="5"><na f="a/Abramo:L=_Raul" pid="299/1985">L. Raul Abramo</na></co>
+<co c="6"><na f="a/Abramo:L=_Raul" pid="299/1985">L. Raul Abramo</na></co>
 <co c="0"><na f="b/Barrera:Junior" pid="96/271">Junior Barrera</na></co>
 <co c="0" n="2"><na f="b/Batista:Daniel_M=" pid="20/833">Daniel M. Batista</na><na>Daniel Mac&#234;do Batista</na></co>
 <co c="-1"><na f="b/Belussi:Luiz" pid="53/10802">Luiz Belussi</na></co>
-<co c="3"><na f="b/Blanger:Leonardo" pid="254/8218">Leonardo Blanger</na></co>
+<co c="4"><na f="b/Blanger:Leonardo" pid="254/8218">Leonardo Blanger</na></co>
 <co c="0"><na f="b/Brun:Marcel" pid="25/4372">Marcel Brun</na></co>
 <co c="0"><na f="c/Canu:St=eacute=phane" pid="17/122">St&#233;phane Canu</na></co>
 <co c="1"><na f="c/Chen:Runjin" pid="232/2460">Runjin Chen</na></co>
@@ -1173,13 +1190,15 @@
 <co c="0"><na f="d/Dantas:Daniel_Oliveira" pid="172/9424">Daniel Oliveira Dantas</na></co>
 <co c="0"><na f="d/Delgado:Karina_Valdivia" pid="30/6146">Karina Valdivia Delgado</na></co>
 <co c="0"><na f="d/Dellamonica_Jr=:Domingos" pid="87/6602">Domingos Dellamonica Jr.</na></co>
+<co c="3"><na f="d/Delval:Irene" pid="407/9741">Irene Delval</na></co>
 <co c="-1"><na f="d/Dornelles:Marta_M=" pid="59/7785">Marta M. Dornelles</na></co>
 <co c="0"><na f="d/Dougherty:Edward_R=" pid="90/3909">Edward R. Dougherty</na></co>
 <co c="0"><na f="e/Espadoto:Mateus" pid="236/5860">Mateus Espadoto</na></co>
 <co c="0"><na f="f/Falc=atilde=o:Alexandre_X=" pid="f/AlexandreXFalcao">Alexandre X. Falc&#227;o</na></co>
 <co c="0"><na f="f/Fernandez:Mariela_Atausinchi" pid="170/3090">Mariela Atausinchi Fernandez</na></co>
-<co c="4"><na f="g/Garcia:Cristiano_P=" pid="372/9989">Cristiano P. Garcia</na></co>
+<co c="5"><na f="g/Garcia:Cristiano_P=" pid="372/9989">Cristiano P. Garcia</na></co>
 <co c="0"><na f="g/Goulart:Antonio_Jose_Homsi" pid="86/10762">Antonio Jose Homsi Goulart</na></co>
+<co c="3"><na f="g/Gregolin:Victor_de_Napole" pid="407/8158">Victor de Napole Gregolin</na></co>
 <co c="1"><na f="h/Han:Yan" pid="79/4311">Yan Han</na></co>
 <co c="0"><na f="h/Hashimoto:Ronaldo_Fumio" pid="72/2665">Ronaldo Fumio Hashimoto</na></co>
 <co c="0"><na f="h/Hayashi:Sergio_Y=" pid="334/6438">Sergio Y. Hayashi</na></co>
@@ -1188,12 +1207,13 @@
 <co c="-1"><na f="h/Honda:Willian_Y=" pid="63/9555">Willian Y. Honda</na></co>
 <co c="1"><na f="h/Hong:Junyuan" pid="185/1316">Junyuan Hong</na></co>
 <co c="0"><na f="h/Humes_Jr=:Carlos" pid="86/4600">Carlos Humes Jr.</na></co>
-<co c="3"><na f="j/Jiang_0001:Xiaoyi" pid="j/XiaoyiJiang">Xiaoyi Jiang 0001</na></co>
+<co c="3"><na f="i/Izar:Patr=iacute=cia" pid="408/0217">Patr&#237;cia Izar</na></co>
+<co c="4"><na f="j/Jiang_0001:Xiaoyi" pid="j/XiaoyiJiang">Xiaoyi Jiang 0001</na></co>
 <co c="2" n="2"><na f="j/Julca=Aguilar:Frank_D=" pid="39/11338">Frank D. Julca-Aguilar</na><na>Frank Dennis Julca-Aguilar</na></co>
 <co c="1"><na f="k/Kailkhura:Bhavya" pid="132/8938">Bhavya Kailkhura</na></co>
 <co c="0"><na f="k/Kerren:Andreas" pid="44/6743">Andreas Kerren</na></co>
 <co c="-1"><na f="k/Klava:Bruno" pid="06/1636">Bruno Klava</na></co>
-<co c="4"><na f="l/Li_0001:Weigang" pid="l/WeigangLi">Weigang Li 0001</na></co>
+<co c="5"><na f="l/Li_0001:Weigang" pid="l/WeigangLi">Weigang Li 0001</na></co>
 <co c="0"><na f="l/Lopes:Rubens_M=" pid="126/4422">Rubens M. Lopes</na></co>
 <co c="0"><na f="m/Madeira:Heraldo_Maciel_Fran=ccedil=a" pid="27/2878">Heraldo Maciel Fran&#231;a Madeira</na></co>
 <co c="2" n="2"><na f="m/Maia:Ana_L=_L=_M=" pid="208/7559">Ana L. L. M. Maia</na><na>Ana Lucia Lima Marreiros Maia</na></co>
@@ -1205,14 +1225,15 @@
 <co c="0"><na f="m/Morimitsu:Alexandre" pid="152/8511">Alexandre Morimitsu</na></co>
 <co c="2"><na f="m/Mouch=egrave=re:Harold" pid="67/3209">Harold Mouch&#232;re</na></co>
 <co c="0"><na f="n/Neto:Eduardo_Lopes_Pereira" pid="275/8376">Eduardo Lopes Pereira Neto</na></co>
-<co c="4"><na f="n/Neumann:Clovis" pid="362/8313">Clovis Neumann</na></co>
+<co c="5"><na f="n/Neumann:Clovis" pid="362/8313">Clovis Neumann</na></co>
 <co c="0" n="2"><na f="o/Oliveira:Artur_A=_M=" pid="255/5275">Artur A. M. Oliveira</na><na>Artur Andr&#233; Almeida de Macedo Oliveira</na></co>
 <co c="1"><na f="p/Perin:Gabriel_J=" pid="390/4122">Gabriel J. Perin</na></co>
 <co c="-1"><na f="r/Ribeiro:Victor_Nascimento" pid="397/2361">Victor Nascimento Ribeiro</na></co>
 <co c="0" n="2"><na f="r/Rodrigues:Francisco_Caio_M=" pid="170/1331">Francisco Caio M. Rodrigues</na><na>Francisco Caio Maia Rodrigues</na></co>
-<co c="5"><na f="r/Rodrigues:Nat=aacute=lia_V=_N=" pid="299/1916">Nat&#225;lia V. N. Rodrigues</na></co>
+<co c="6"><na f="r/Rodrigues:Nat=aacute=lia_V=_N=" pid="299/1916">Nat&#225;lia V. N. Rodrigues</na></co>
+<co c="3"><na f="s/Santo:Giulio_Cesare_Mastrocinque" pid="312/5418">Giulio Cesare Mastrocinque Santo</na></co>
 <co c="0"><na f="s/Santos:Carlos_S=" pid="60/231">Carlos S. Santos</na></co>
-<co c="3"><na f="s/Silva:Augusto_C=eacute=sar_Monteiro" pid="279/9400">Augusto C&#233;sar Monteiro Silva</na></co>
+<co c="4"><na f="s/Silva:Augusto_C=eacute=sar_Monteiro" pid="279/9400">Augusto C&#233;sar Monteiro Silva</na></co>
 <co c="0" n="2"><na f="s/Silva:Fl=aacute=vio_S=_Corr=ecirc=a_da" pid="52/550">Fl&#225;vio S. Corr&#234;a da Silva</na><na>Fl&#225;vio Soares Corr&#234;a da Silva</na></co>
 <co c="0"><na f="s/Silva:Paulo_J=_S=" pid="66/6061">Paulo J. S. Silva</na></co>
 <co c="0"><na f="t/Telea:Alexandru_C=" pid="t/AlexandruTelea">Alexandru C. Telea</na></co>

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Rodrigo De Souza Couto" pid="152/6069" n="68">
+<dblpperson name="Rodrigo De Souza Couto" pid="152/6069" n="69">
 <person key="homepages/152/6069" mdate="2022-10-06">
 <author pid="152/6069">Rodrigo De Souza Couto</author>
 <author pid="152/6069">Rodrigo S. Couto 0001</author>
@@ -11,6 +11,20 @@
 <h f="c/Couto:Rodrigo_S="><name>Rodrigo S. Couto</name>
 </h>
 </homonyms>
+<r><article key="journals/adhoc/AndradeCC25" mdate="2025-06-18">
+<author pid="407/6328">Ian H. de Andrade</author>
+<author pid="51/7019">Lu&#237;s Henrique M. K. Costa</author>
+<author pid="152/6069">Rodrigo De Souza Couto</author>
+<title>Battery life optimization in LoRa networks using spreading factor reallocation.</title>
+<pages>103911</pages>
+<year>2025</year>
+<volume>177</volume>
+<journal>Ad Hoc Networks</journal>
+<ee>https://doi.org/10.1016/j.adhoc.2025.103911</ee>
+<url>db/journals/adhoc/adhoc177.html#AndradeCC25</url>
+<stream>streams/journals/adhoc</stream>
+</article>
+</r>
 <r><article key="journals/csur/PSCPC25" mdate="2025-01-19">
 <author orcid="0000-0003-1128-5964" pid="392/2711">Haseena Rahmath P</author>
 <author orcid="0000-0002-2064-5805" pid="49/9551">Vishal Srivastava</author>
@@ -990,9 +1004,10 @@
 <url>db/conf/nof/nof2011.html#PisaCCNFCCDP11</url>
 </inproceedings>
 </r>
-<coauthors n="67" nc="1">
+<coauthors n="68" nc="1">
 <co c="0"><na f="a/Amaral:Jorge_Lu=iacute=s_Machado_do" pid="49/3336">Jorge Lu&#237;s Machado do Amaral</na></co>
 <co c="0"><na f="a/Amorim:Marcelo_Dias_de" pid="02/1588">Marcelo Dias de Amorim</na></co>
+<co c="0"><na f="a/Andrade:Ian_H=_de" pid="407/6328">Ian H. de Andrade</na></co>
 <co c="0"><na f="a/Antunes:Hugo" pid="214/5245">Hugo Antunes</na></co>
 <co c="0"><na f="a/Arruda:Daniel_O=_De" pid="396/0145">Daniel O. De Arruda</na></co>
 <co c="0"><na f="a/Avena:Vinicius_O=" pid="396/1164">Vinicius O. Avena</na></co>

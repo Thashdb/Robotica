@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="H&#233;lida Salles Santos" pid="74/4379" n="54">
+<dblpperson name="H&#233;lida Salles Santos" pid="74/4379" n="55">
 <person key="homepages/74/4379" mdate="2019-11-20">
 <author pid="74/4379">H&#233;lida Salles Santos</author>
 <author pid="74/4379">H&#233;lida S. Santos</author>
@@ -414,6 +414,22 @@
 <ee>https://doi.org/10.1002/int.22374</ee>
 <url>db/journals/ijis/ijis36.html#MatzenauerRSBB21</url>
 </article>
+</r>
+<r><inproceedings key="conf/eusflat/SilvaSFYSBR21" mdate="2025-06-11">
+<author pid="205/1572">Lidiane Costa da Silva</author>
+<author pid="221/8776">Guilherme Bayer Schneider</author>
+<author pid="407/1157">Bruna Freitas</author>
+<author pid="y/AdenauerCYamin">Adenauer C. Yamin</author>
+<author pid="74/4379">H&#233;lida S. Santos</author>
+<author pid="32/3731">Benjam&#237;n R. C. Bedregal</author>
+<author pid="61/2221">Renata Reiser</author>
+<title>Extending Representability on the Set of Intervals Endowed with Admissible Orders for the Construction of Interval-valued Fuzzy Operators.</title>
+<year>2021</year>
+<booktitle>IFSA/EUSFLAT/AGOP</booktitle>
+<ee>https://doi.org/10.2991/asum.k.210827.008</ee>
+<crossref>conf/eusflat/2021</crossref>
+<url>db/conf/eusflat/eusflat2021.html#SilvaSFYSBR21</url>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/iceis/GarciaTBLSD21" mdate="2021-05-31">
 <author pid="293/6866">Nathan Formentin Garcia</author>
@@ -886,7 +902,7 @@
 <url>db/conf/fuzzIEEE/fuzzIEEE2006.html#BedregalSC06</url>
 </inproceedings>
 </r>
-<coauthors n="73" nc="1">
+<coauthors n="75" nc="1">
 <co c="0"><na f="a/Asiain:Alfredo" pid="242/3408">Alfredo Asiain</na></co>
 <co c="0"><na f="a/Asmus:Tiago_da_Cruz" pid="16/10789">Tiago da Cruz Asmus</na></co>
 <co c="0"><na f="a/Avila:Anderson_Braga_de" pid="180/8423">Anderson Braga de Avila</na></co>
@@ -903,6 +919,7 @@
 <co c="0"><na f="c/Callejas=Bedregal:Roberto" pid="99/6921">Roberto Callejas-Bedregal</na></co>
 <co c="0"><na f="c/Camargo:Heloisa_A=" pid="28/2620">Heloisa A. Camargo</na></co>
 <co c="0"><na f="c/Cardoso:Samuel" pid="403/7020">Samuel Cardoso</na></co>
+<co c="0" n="2"><na f="c/Costa:Lidiane" pid="205/1572">Lidiane Costa</na><na>Lidiane Costa da Silva</na></co>
 <co c="0"><na f="c/Couso:In=eacute=s" pid="46/733">In&#233;s Couso</na></co>
 <co c="0"><na f="c/Cruz:Anderson_Paiva" pid="39/4378">Anderson Paiva Cruz</na></co>
 <co c="0"><na f="d/Dias:Camila_Alves" pid="222/7377">Camila Alves Dias</na></co>
@@ -911,6 +928,7 @@
 <co c="0" n="2"><na f="d/Drews=Jr:Paulo_L=_J=" pid="76/7747">Paulo L. J. Drews-Jr</na><na>Paulo Drews Jr.</na></co>
 <co c="0"><na f="f/Fern=aacute=ndez_0002:Javier" pid="91/4494-2">Javier Fern&#225;ndez 0002</na></co>
 <co c="0"><na f="f/Ferreira:Fabr=iacute=cio_Neitzke" pid="333/9929">Fabr&#237;cio Neitzke Ferreira</na></co>
+<co c="0"><na f="f/Freitas:Bruna" pid="407/1157">Bruna Freitas</na></co>
 <co c="0"><na f="f/Fumanal:Javier" pid="250/5495">Javier Fumanal</na></co>
 <co c="0"><na f="g/Galvao:Alessandra" pid="329/0888">Alessandra Galvao</na></co>
 <co c="0"><na f="g/Garcia:Nathan_Formentin" pid="293/6866">Nathan Formentin Garcia</na></co>

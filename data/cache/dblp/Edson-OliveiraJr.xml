@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Edson OliveiraJr" pid="04/2051" n="116">
+<dblpperson name="Edson OliveiraJr" pid="04/2051" n="118">
 <person key="homepages/04/2051" mdate="2025-05-29">
 <author pid="04/2051">Edson OliveiraJr</author>
 <author pid="04/2051">Edson Oliveira Jr.</author>
@@ -60,6 +60,23 @@
 <stream>streams/journals/di</stream>
 </article>
 </r>
+<r><article key="journals/jbcs/OliveiraFMRO25" mdate="2025-06-10">
+<author pid="384/9557">Renan R. de Oliveira</author>
+<author pid="132/3828">Leandro Alexandre Freitas</author>
+<author pid="51/7814">Waldir Moreira</author>
+<author pid="203/8117">Maria Ribeiro</author>
+<author pid="04/2051">Edson Oliveira Jr.</author>
+<title>Data sharing-based approach for Federated Learning tasks on Edge Devices.</title>
+<pages>310-324</pages>
+<year>2025</year>
+<volume>31</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>1</number>
+<ee>https://doi.org/10.5753/jbcs.2025.3682</ee>
+<url>db/journals/jbcs/jbcs31.html#OliveiraFMRO25</url>
+<stream>streams/journals/jbcs</stream>
+</article>
+</r>
 <r><inproceedings key="conf/iceis/CordeiroO25" mdate="2025-05-02">
 <author pid="217/0482">Andr&#233; F. R. Cordeiro</author>
 <author pid="04/2051">Edson Oliveira Jr.</author>
@@ -100,6 +117,21 @@
 <url>db/journals/jucs/jucs30.html#PoltronieriZBO24</url>
 <stream>streams/journals/jucs</stream>
 </article>
+</r>
+<r><inproceedings key="conf/fie/LuzMTOB24" mdate="2025-06-17">
+<author pid="322/1829">Carlos Danilo Luz</author>
+<author pid="407/5610">Elaine I. Moreira</author>
+<author pid="175/1765">Nelson Ten&#243;rio</author>
+<author pid="04/2051">Edson OliveiraJr</author>
+<author pid="66/2060">Ellen F. Barbosa</author>
+<title>Teaching and Learning of Introduction to Software Engineering Experimentation to Distance-Learning Students: A Quasi-Experiment.</title>
+<pages>1-9</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10893353</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#LuzMTOB24</url>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/sbqs/Alexandre0CCB24" mdate="2025-01-25">
 <author orcid="0009-0008-7235-7582" pid="388/7813">Mariana Alexandre</author>
@@ -1695,13 +1727,13 @@
 <ee>https://doi.org/10.1109/IRI.2003.1251403</ee>
 </inproceedings>
 </r>
-<coauthors n="144" nc="3">
+<coauthors n="149" nc="4">
 <co c="0"><na f="a/Aleixo:Fellipe_Ara=uacute=jo" pid="80/8921">Fellipe Ara&#250;jo Aleixo</na></co>
 <co c="0"><na f="a/Alexandre:Mariana" pid="388/7813">Mariana Alexandre</na></co>
 <co c="0" n="2"><na f="a/Allian:Ana_P=" pid="205/5812">Ana P. Allian</na><na>Ana Paula Allian</na></co>
 <co c="0"><na f="a/Am=acirc=ncio:Francisco_Dione_de_Sousa" pid="250/8866">Francisco Dione de Sousa Am&#226;ncio</na></co>
 <co c="0" n="2"><na f="a/Amaral:Aline_M=_M=_M=" pid="201/2418">Aline M. M. M. Amaral</na><na>Aline Maria Malachini Miotto Amaral</na></co>
-<co c="1"><na f="a/Amoui:Mehdi" pid="03/6660">Mehdi Amoui</na></co>
+<co c="2"><na f="a/Amoui:Mehdi" pid="03/6660">Mehdi Amoui</na></co>
 <co c="0"><na f="a/Andrade:Luiz_C=_M=" pid="337/8755">Luiz C. M. Andrade</na></co>
 <co c="0" n="2"><na f="a/Assun=ccedil==atilde=o:Wesley_K=_G=" pid="90/9459">Wesley K. G. Assun&#231;&#227;o</na><na>Wesley Klewerton Guez Assun&#231;&#227;o</na></co>
 <co c="0"><na f="a/Ayala:Claudia_P=" pid="62/2993">Claudia P. Ayala</na></co>
@@ -1748,8 +1780,9 @@
 <co c="0"><na f="f/Filho:Nem=eacute=sio_Freitas_Duarte" pid="129/2332">Nem&#233;sio Freitas Duarte Filho</na></co>
 <co c="0"><na f="f/Fiori:Diego_R=" pid="120/6766">Diego R. Fiori</na></co>
 <co c="0"><na f="f/Fragal:Vanderson_H=" pid="136/0477">Vanderson H. Fragal</na></co>
-<co c="2"><na f="f/Fran=ccedil=a:Joyce_M=_S=" pid="117/6134">Joyce M. S. Fran&#231;a</na></co>
+<co c="3"><na f="f/Fran=ccedil=a:Joyce_M=_S=" pid="117/6134">Joyce M. S. Fran&#231;a</na></co>
 <co c="0"><na f="f/Freire:Willian_Marques" pid="248/3656">Willian Marques Freire</na></co>
+<co c="1"><na f="f/Freitas:Leandro_Alexandre" pid="132/3828">Leandro Alexandre Freitas</na></co>
 <co c="0"><na f="f/Furtado:Viviane_R=" pid="266/6080">Viviane R. Furtado</na></co>
 <co c="0"><na f="g/Galster:Matthias" pid="19/654">Matthias Galster</na></co>
 <co c="0" n="2"><na f="g/Garcia_0001:Alessandro_F=" pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</na><na>Alessandro Fabricio Garcia</na></co>
@@ -1762,13 +1795,14 @@
 <co c="0" n="2"><na f="h/Huzita:Elisa_H=_M=" pid="37/17">Elisa H. M. Huzita</na><na>Elisa Hatsue Moriya Huzita</na></co>
 <co c="0"><na f="j/Junior:Antonio_C=_Contieri" pid="121/2862">Antonio C. Contieri Junior</na></co>
 <co c="0"><na f="j/Junior:Venilton_Falvo" pid="157/0527">Venilton Falvo Junior</na></co>
+<co c="1" n="2"><na f="j/Junior:Waldir_Aranha_Moreira" pid="51/7814">Waldir Aranha Moreira Junior</na><na>Waldir Moreira</na></co>
 <co c="0"><na f="k/Kalinowski:Marcos" pid="38/3792">Marcos Kalinowski</na></co>
 <co c="0"><na f="k/Kulesza:Uir=aacute=" pid="78/6010">Uir&#225; Kulesza</na></co>
 <co c="0"><na f="k/Kuspil:Jonathan" pid="362/4871">Jonathan Kuspil</na></co>
 <co c="0"><na f="l/Lanceloti:Leandro_A=" pid="127/7986">Leandro A. Lanceloti</na></co>
 <co c="0"><na f="l/Lazilha:Fabr=iacute=cio_Ricardo" pid="02/5077">Fabr&#237;cio Ricardo Lazilha</na></co>
 <co c="0" n="2"><na f="l/Leal:Gislaine_C=_L=" pid="59/394">Gislaine C. L. Leal</na><na>Gislaine Camila Lapasini Leal</na></co>
-<co c="1"><na f="l/Li:Sen" pid="76/5965">Sen Li</na></co>
+<co c="2"><na f="l/Li:Sen" pid="76/5965">Sen Li</na></co>
 <co c="0" n="2"><na f="l/Lucena:Carlos_Jos=eacute=_Pereira_de" pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</na><na>Carlos J. P. Lucena</na></co>
 <co c="0"><na f="l/Lunardi:Roben_Castagna" pid="95/7493">Roben Castagna Lunardi</na></co>
 <co c="0"><na f="l/Luz:Carlos_Danilo" pid="322/1829">Carlos Danilo Luz</na></co>
@@ -1783,8 +1817,9 @@
 <co c="0"><na f="m/Matusse:Euclides_Alfredo" pid="132/7080">Euclides Alfredo Matusse</na></co>
 <co c="0"><na f="m/Mazur:Ana_H=_B=" pid="394/5340">Ana H. B. Mazur</na></co>
 <co c="0"><na f="m/Melo:Amanda" pid="337/8829">Amanda Melo</na></co>
-<co c="2"><na f="m/Melo:Marcel_da_Silva" pid="151/1085">Marcel da Silva Melo</na></co>
+<co c="3"><na f="m/Melo:Marcel_da_Silva" pid="151/1085">Marcel da Silva Melo</na></co>
 <co c="0"><na f="m/Morandini:Marcelo" pid="67/2834">Marcelo Morandini</na></co>
+<co c="0"><na f="m/Moreira:Elaine_I=" pid="407/5610">Elaine I. Moreira</na></co>
 <co c="0"><na f="m/Murta_0001:Leonardo" pid="25/3645">Leonardo Murta 0001</na></co>
 <co c="0"><na f="n/Nakagawa:Elisa_Yumi" pid="67/5214">Elisa Yumi Nakagawa</na></co>
 <co c="0"><na f="n/Nanni:Lucas_Pupulin" pid="177/2468">Lucas Pupulin Nanni</na></co>
@@ -1796,6 +1831,7 @@
 <co c="0"><na f="n/Nicolodi:Luciane_Baldo" pid="277/8495">Luciane Baldo Nicolodi</na></co>
 <co c="0"><na f="n/Nishimura:Ruy" pid="364/2846">Ruy Nishimura</na></co>
 <co c="0"><na f="o/Oizumi:Willian_Nalepa" pid="121/2856">Willian Nalepa Oizumi</na></co>
+<co c="1"><na f="o/Oliveira:Renan_R=_de" pid="384/9557">Renan R. de Oliveira</na></co>
 <co c="0"><na f="o/Oquendo:Fl=aacute=vio" pid="32/153">Fl&#225;vio Oquendo</na></co>
 <co c="0"><na f="p/Paludo:Marco" pid="59/719">Marco Paludo</na></co>
 <co c="0"><na f="p/Pazin:Maicon_G=" pid="130/7509">Maicon G. Pazin</na></co>
@@ -1807,6 +1843,7 @@
 <co c="0"><na f="p/Prikladnicki:Rafael" pid="39/5605">Rafael Prikladnicki</na></co>
 <co c="0"><na f="r/Rando:Deverson" pid="362/4543">Deverson Rando</na></co>
 <co c="0"><na f="r/Reinehr:Sheila_S=" pid="05/2483">Sheila S. Reinehr</na></co>
+<co c="1"><na f="r/Ribeiro:Maria" pid="203/8117">Maria Ribeiro</na></co>
 <co c="0" n="2"><na f="r/Rodrigues_0001:Elder" pid="42/8765">Elder Rodrigues 0001</na><na>Elder M. Rodrigues</na></co>
 <co c="0" n="2"><na f="r/Rodrigues:Ildevana_Poltronieri" pid="183/9240">Ildevana Poltronieri Rodrigues</na><na>Ildevana Poltronieri</na></co>
 <co c="0"><na f="s/Santana:Claudia_H=" pid="350/4088">Claudia H. Santana</na></co>
@@ -1822,11 +1859,11 @@
 <co c="0"><na f="s/Silva:Marco_Aur=eacute=lio_Graciotto" pid="26/693">Marco Aur&#233;lio Graciotto Silva</na></co>
 <co c="0"><na f="s/Silva:Rog=eacute=rio_F=_da" pid="272/2333">Rog&#233;rio F. da Silva</na></co>
 <co c="0"><na f="s/Silva:Thiago_Jos=eacute=_da" pid="335/3128">Thiago Jos&#233; da Silva</na></co>
-<co c="2"><na f="s/Soares:Michel_S=" pid="34/2037">Michel S. Soares</na></co>
+<co c="3"><na f="s/Soares:Michel_S=" pid="34/2037">Michel S. Soares</na></co>
 <co c="0"><na f="s/Soares:S=eacute=rgio" pid="58/232">S&#233;rgio Soares</na></co>
 <co c="0" n="2"><na f="s/Souza:Cleidson_R=_B=_de" pid="29/7640">Cleidson R. B. de Souza</na><na>Cleidson de Souza</na></co>
 <co c="0" n="2"><na f="s/Steinmacher:Igor" pid="70/3474">Igor Steinmacher</na><na>Igor Fabio Steinmacher</na></co>
-<co c="1"><na f="t/Tahvildari:Ladan" pid="23/5313">Ladan Tahvildari</na></co>
+<co c="2"><na f="t/Tahvildari:Ladan" pid="23/5313">Ladan Tahvildari</na></co>
 <co c="0" n="2"><na f="t/Tait:Tania_F=_C=" pid="88/1166">Tania F. C. Tait</na><na>Tania Fatima Calvi Tait</na></co>
 <co c="0"><na f="t/Teixeira:Eld=acirc=nae_Nogueira" pid="76/8543">Eld&#226;nae Nogueira Teixeira</na></co>
 <co c="0"><na f="t/Teixeira:Lucas_O=" pid="52/11324">Lucas O. Teixeira</na></co>

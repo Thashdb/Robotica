@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Ad&#237;n Ram&#237;rez Rivera" pid="85/9834" n="61">
+<dblpperson name="Ad&#237;n Ram&#237;rez Rivera" pid="85/9834" n="62">
 <person key="homepages/85/9834" mdate="2023-09-17">
 <author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
 <note type="affiliation">University of Oslo, Department of Informatics, Norway</note>
@@ -9,6 +9,18 @@
 <url>https://orcid.org/0000-0002-4321-9075</url>
 <url>https://www.wikidata.org/entity/Q88521030</url>
 </person>
+<r><inproceedings key="conf/nais/AasanR25" mdate="2025-06-16">
+<author pid="358/5791">Marius Aasan</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<title>Pixel-Level Predictions with Embedded Lookup Tables.</title>
+<pages>49-59</pages>
+<year>2025</year>
+<booktitle>NAIS</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3975/paper5.pdf</ee>
+<crossref>conf/nais/2025</crossref>
+<url>db/conf/nais/nais2025.html#AasanR25</url>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/eccv/AasanKSR24" mdate="2025-06-10">
 <author pid="358/5791">Marius Aasan</author>
 <author pid="284/8281">Odd Kolbj&#248;rnsen</author>

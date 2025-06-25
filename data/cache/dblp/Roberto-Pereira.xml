@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Roberto Pereira" pid="233/8441" n="133">
+<dblpperson name="Roberto Pereira" pid="233/8441" n="134">
 <person key="homepages/233/8441" mdate="2025-06-02">
 <author pid="233/8441">Roberto Pereira</author>
 <note type="affiliation">Federal University of Paran&#225;, Curitiba, Brazil</note>
@@ -59,6 +59,21 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2503.20658</ee>
 <url>db/journals/corr/corr2503.html#abs-2503-20658</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-09704" mdate="2025-06-23">
+<author pid="233/8441">Roberto Pereira</author>
+<author pid="246/8170">Fernanda Fam&#225;</author>
+<author pid="179/7891">Charalampos Kalalas</author>
+<author pid="60/712">Paolo Dini</author>
+<title>Energy-Efficient Federated Learning for AIoT using Clustering Methods.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.09704</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.09704</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-09704</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -495,12 +510,12 @@
 <url>db/conf/icc/icc2022w.html#DeshpandeZPPMC22</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/ictd/MaitlandWPBPB22" mdate="2025-05-09">
+<r><inproceedings key="conf/ictd/MaitlandWPBPB22" mdate="2025-06-13">
 <author orcid="0000-0002-5809-8966" pid="m/CarleenFMaitland">Carleen F. Maitland</author>
 <author pid="62/9599">Marisol Wong-Villacres</author>
 <author orcid="0000-0003-3052-3016" pid="233/8441">Roberto Pereira</author>
 <author orcid="0000-0002-4966-8357" pid="88/7983">Elba del Carmen Valderrama Baham&#243;ndez</author>
-<author orcid="0000-0002-8922-6975" pid="403/5199">Leticia Mata Peres</author>
+<author orcid="0000-0002-8922-6975" pid="72/593">Let&#237;cia Mara Peres</author>
 <author orcid="0000-0003-0564-0851" pid="70/3322">Rehema Baguma</author>
 <title>Digital Platform Use for Refugee Crisis Response.</title>
 <pages>9:1-9:5</pages>
@@ -1881,13 +1896,13 @@
 <url>db/conf/ihc/ihc2006.html#NonemacherPS06</url>
 </inproceedings>
 </r>
-<coauthors n="122" nc="4">
+<coauthors n="124" nc="3">
 <co c="0"><na f="a/Alberton:Bruna" pid="124/2176">Bruna Alberton</na></co>
 <co c="0"><na f="a/Alvaro:Alexandre" pid="a/AlexandreAlvaro">Alexandre Alvaro</na></co>
 <co c="0"><na f="a/Ascari:R=uacute=bia_Eliza_de_Oliveira_Schultz" pid="233/8407">R&#250;bia Eliza de Oliveira Schultz Ascari</na></co>
 <co c="1"><na f="a/Aydeger:Abdullah" pid="158/1432">Abdullah Aydeger</na></co>
-<co c="2"><na f="b/Baguma:Rehema" pid="70/3322">Rehema Baguma</na></co>
-<co c="2"><na f="b/Baham=oacute=ndez:Elba_del_Carmen_Valderrama" pid="88/7983">Elba del Carmen Valderrama Baham&#243;ndez</na></co>
+<co c="0"><na f="b/Baguma:Rehema" pid="70/3322">Rehema Baguma</na></co>
+<co c="0"><na f="b/Baham=oacute=ndez:Elba_del_Carmen_Valderrama" pid="88/7983">Elba del Carmen Valderrama Baham&#243;ndez</na></co>
 <co c="0" n="3"><na f="b/Baranauskas:Maria_Cec=iacute=lia_Calani" pid="b/MCCBaranauskas">Maria Cec&#237;lia Calani Baranauskas</na><na>M. Cec&#237;lia C. Baranauskas</na><na>Cec&#237;lia Baranauskas</na></co>
 <co c="0"><na f="b/Baroni:Luiz_Adolpho" pid="283/4146">Luiz Adolpho Baroni</na></co>
 <co c="0"><na f="b/Bittencourt:Ig_Ibert" pid="11/2860">Ig Ibert Bittencourt</na></co>
@@ -1915,8 +1930,10 @@
 <co c="0"><na f="d/Dermeval:Diego" pid="50/365">Diego Dermeval</na></co>
 <co c="1"><na f="d/Deshpande:Anay_Ajit" pid="276/1231">Anay Ajit Deshpande</na></co>
 <co c="1"><na f="d/Dev:Kapal" pid="254/5735">Kapal Dev</na></co>
+<co c="1"><na f="d/Dini:Paolo" pid="60/712">Paolo Dini</na></co>
 <co c="0"><na f="d/Duarte:Emanuel_Felipe" pid="167/3421">Emanuel Felipe Duarte</na></co>
 <co c="-1"><na f="e/Erazo:Miguel_A=" pid="85/11064">Miguel A. Erazo</na></co>
+<co c="1"><na f="f/Fam=aacute=:Fernanda" pid="246/8170">Fernanda Fam&#225;</na></co>
 <co c="0"><na f="f/Farrell:Tracie" pid="190/1706">Tracie Farrell</na></co>
 <co c="0"><na f="f/Fedechen:Emerson_Andr=eacute=" pid="249/9656">Emerson Andr&#233; Fedechen</na></co>
 <co c="0"><na f="f/Felizardo:K=aacute=tia_Romero" pid="53/8384">K&#225;tia Romero Felizardo</na></co>
@@ -1935,13 +1952,14 @@
 <co c="0"><na f="i/Isotani:Seiji" pid="83/1033">Seiji Isotani</na></co>
 <co c="0" n="2"><na f="j/Jaques:Patr=iacute=cia_A=" pid="j/PatriciaAugustinJaques">Patr&#237;cia A. Jaques</na><na>Patr&#237;cia Augustin Jaques</na></co>
 <co c="0" n="4"><na f="j/Junior:De=oacute=genes_Pereira_da_Silva" pid="182/5274">De&#243;genes Pereira da Silva Junior</na><na>De&#243;genes P. da Silva Junior</na><na>De&#243;genes P. da Silva</na><na>De&#243;genes Junior</na></co>
+<co c="1"><na f="k/Kalalas:Charalampos" pid="179/7891">Charalampos Kalalas</na></co>
 <co c="1"><na f="k/Kasuluru:Vaishnavi" pid="358/3610">Vaishnavi Kasuluru</na></co>
 <co c="0"><na f="k/Kawasaki:Fernanda" pid="270/9761">Fernanda Kawasaki</na></co>
 <co c="0"><na f="l/Leit=atilde=o:Carla_Faria" pid="35/5720">Carla Faria Leit&#227;o</na></co>
 <co c="0"><na f="l/Liu:Kecheng" pid="24/3947">Kecheng Liu</na></co>
 <co c="0"><na f="l/Loureiro:Jos=eacute=_Felippe" pid="211/8352">Jos&#233; Felippe Loureiro</na></co>
 <co c="0"><na f="m/Maciel:Cristiano" pid="62/5474">Cristiano Maciel</na></co>
-<co c="2"><na f="m/Maitland:Carleen_F=" pid="m/CarleenFMaitland">Carleen F. Maitland</na></co>
+<co c="0"><na f="m/Maitland:Carleen_F=" pid="m/CarleenFMaitland">Carleen F. Maitland</na></co>
 <co c="0"><na f="m/Maschio:Eleandro" pid="225/0638">Eleandro Maschio</na></co>
 <co c="0"><na f="m/Menezes:Krissia" pid="307/1569">Krissia Menezes</na></co>
 <co c="1"><na f="m/Mestre:Xavier" pid="97/2295">Xavier Mestre</na></co>
@@ -1961,9 +1979,8 @@
 <co c="0"><na f="p/Paix=atilde=o:Mateus_Ribamar" pid="270/9820">Mateus Ribamar Paix&#227;o</na></co>
 <co c="1"><na f="p/Pastore:Adriano" pid="46/10646">Adriano Pastore</na></co>
 <co c="0"><na f="p/Pereira:Vin=iacute=cius_Carvalho" pid="54/3748">Vin&#237;cius Carvalho Pereira</na></co>
-<co c="0" n="2"><na f="p/Peres:Let=iacute=cia_M=" pid="72/593">Let&#237;cia M. Peres</na><na>Leticia Mara Peres</na></co>
-<co c="2"><na f="p/Peres:Leticia_Mata" pid="403/5199">Leticia Mata Peres</na></co>
-<co c="3"><na f="p/Pfeiffer:Jakob" pid="184/0959">Jakob Pfeiffer</na></co>
+<co c="0" n="3"><na f="p/Peres:Let=iacute=cia_M=" pid="72/593">Let&#237;cia M. Peres</na><na>Let&#237;cia Mara Peres</na><na>Leticia Mara Peres</na></co>
+<co c="2"><na f="p/Pfeiffer:Jakob" pid="184/0959">Jakob Pfeiffer</na></co>
 <co c="0" n="2"><na f="p/Piccolo:Lara_S=_G=" pid="99/1852">Lara S. G. Piccolo</na><na>Lara Schibelsky Godoy Piccolo</na></co>
 <co c="1"><na f="p/Popovski:Petar" pid="50/3930">Petar Popovski</na></co>
 <co c="0"><na f="p/Porfirio:Andres_Jess=eacute=" pid="141/7985">Andres Jess&#233; Porfirio</na></co>
@@ -1999,8 +2016,8 @@
 <co c="0"><na f="t/Trevisan:Daniele" pid="129/0457">Daniele Trevisan</na></co>
 <co c="1"><na f="v/Vaca=Rubio:Cristian_J=" pid="247/4784">Cristian J. Vaca-Rubio</na></co>
 <co c="0"><na f="v/Viterbo:Jos=eacute=" pid="15/374">Jos&#233; Viterbo</na></co>
-<co c="3"><na f="w/Wolf:Peter" pid="51/6588">Peter Wolf</na></co>
-<co c="2"><na f="w/Wong=Villacres:Marisol" pid="62/9599">Marisol Wong-Villacres</na></co>
+<co c="2"><na f="w/Wolf:Peter" pid="51/6588">Peter Wolf</na></co>
+<co c="0"><na f="w/Wong=Villacres:Marisol" pid="62/9599">Marisol Wong-Villacres</na></co>
 <co c="0"><na f="z/Zaina:Luciana_A=_M=" pid="71/8694">Luciana A. M. Zaina</na></co>
 <co c="1"><na f="z/Zanella:Andrea" pid="40/5059">Andrea Zanella</na></co>
 <co c="1"><na f="z/Zeydan:Engin" pid="48/6139">Engin Zeydan</na></co>

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Daniel L. Guidoni" pid="86/4704" n="101">
+<dblpperson name="Daniel L. Guidoni" pid="86/4704" n="102">
 <person key="homepages/86/4704" mdate="2022-11-29">
 <author pid="86/4704">Daniel L. Guidoni</author>
 <author pid="86/4704">Daniel Ludovico Guidoni</author>
@@ -7,6 +7,25 @@
 <url>https://www.wikidata.org/entity/Q90079910</url>
 <url>https://ieeexplore.ieee.org/author/37545828900</url>
 </person>
+<r><article key="journals/jisa/FilhoMMSGSG25" mdate="2025-06-16">
+<author pid="141/9518">Geraldo P. Rocha Filho</author>
+<author pid="123/3499">Rodolfo I. Meneguette</author>
+<author pid="124/2039">F&#225;bio L&#250;cio Lopes de Mendon&#231;a</author>
+<author pid="407/4343">Andr&#233; L. Marques Serrano</author>
+<author pid="86/4704">Daniel L. Guidoni</author>
+<author pid="165/3596">Francisco Airton Silva</author>
+<author pid="115/5019">Vin&#237;cius P. Gon&#231;alves 0001</author>
+<title>Towards an efficient solution to mitigate the forest fire problem based on unmanned aerial vehicles and wireless sensors.</title>
+<pages>142-152</pages>
+<year>2025</year>
+<volume>16</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5753/jisa.2025.4995</ee>
+<url>db/journals/jisa/jisa16.html#FilhoMMSGSG25</url>
+<stream>streams/journals/jisa</stream>
+</article>
+</r>
 <r><article key="journals/iotj/BarrosGVGFR24" mdate="2024-10-03">
 <author orcid="0000-0001-6606-0135" pid="221/3357">Pedro H. Barros</author>
 <author orcid="0000-0002-1439-3584" pid="211/9253">Judy C. Guevara</author>
@@ -1596,7 +1615,7 @@
 <url>db/conf/mswim/mswim2007.html#MachadoMLGM07</url>
 </inproceedings>
 </r>
-<coauthors n="107" nc="1">
+<coauthors n="110" nc="1">
 <co c="0"><na f="a/Akabane:Ademar_Takeo" pid="41/11063">Ademar Takeo Akabane</na></co>
 <co c="0"><na f="a/Almeida:Jussara_M=" pid="34/5480">Jussara M. Almeida</na></co>
 <co c="0"><na f="a/Andreazi:Gabriel_T=" pid="189/7144">Gabriel T. Andreazi</na></co>
@@ -1659,6 +1678,7 @@
 <co c="0"><na f="m/Mateus:Geraldo_Robson" pid="20/1803">Geraldo Robson Mateus</na></co>
 <co c="0"><na f="m/Meira_Jr=:Wagner" pid="m/WagnerMeiraJr">Wagner Meira Jr.</na></co>
 <co c="0"><na f="m/Melo:Pedro_O=_S=_Vaz_de" pid="28/3311">Pedro O. S. Vaz de Melo</na></co>
+<co c="0" n="2"><na f="m/Mendon=ccedil=a:F=aacute=bio_L=_L=" pid="124/2039">F&#225;bio L. L. Mendon&#231;a</na><na>F&#225;bio L&#250;cio Lopes de Mendon&#231;a</na></co>
 <co c="0" n="2"><na f="m/Meneguette:Rodolfo_I=" pid="123/3499">Rodolfo I. Meneguette</na><na>Rodolfo Ipolito Meneguette</na></co>
 <co c="0"><na f="m/Mini:Raquel_A=_F=" pid="59/3719">Raquel A. F. Mini</na></co>
 <co c="0"><na f="m/Mokhtari:Somayeh" pid="278/9105">Somayeh Mokhtari</na></co>
@@ -1688,7 +1708,9 @@
 <co c="0" n="2"><na f="s/Santos:Leonardo_A=_L=" pid="235/5484">Leonardo A. L. Santos</na><na>Leonardo Alvarenga L. Santos</na></co>
 <co c="0"><na f="s/Santos:Matheus_F=_Rodrigues" pid="322/2991">Matheus F. Rodrigues Santos</na></co>
 <co c="0" n="2"><na f="s/Sarubbi:Jo=atilde=o_F=_M=" pid="172/7550">Jo&#227;o F. M. Sarubbi</na><na>Jo&#227;o Fernando Machry Sarubbi</na></co>
+<co c="0"><na f="s/Serrano:Andr=eacute=_L=_Marques" pid="407/4343">Andr&#233; L. Marques Serrano</na></co>
 <co c="0" n="2"><na f="s/Silva:Cristiano_M=" pid="147/1083">Cristiano M. Silva</na><na>Cristiano Maciel da Silva</na></co>
+<co c="0"><na f="s/Silva:Francisco_Airton" pid="165/3596">Francisco Airton Silva</na></co>
 <co c="0" n="2"><na f="s/Silva:Lucas_D=" pid="235/5537">Lucas D. Silva</na><na>Lucas Diniz Silva</na></co>
 <co c="0" n="2"><na f="s/Silva_0001:Thiago_H=" pid="42/10062">Thiago H. Silva 0001</na><na>Thiago Henrique Silva</na></co>
 <co c="0"><na f="s/Souza:Allan_Mariano_de" pid="151/0357">Allan Mariano de Souza</na></co>

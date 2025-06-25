@@ -41,11 +41,11 @@
 <stream>streams/journals/infsof</stream>
 </article>
 </r>
-<r><article key="journals/jserd/SantosDMFSRA25" mdate="2025-05-31">
+<r><article key="journals/jserd/SantosDMFSRA25" mdate="2025-06-11">
 <author orcid="0000-0003-0279-0440" pid="78/2800">Gleison Santos</author>
 <author orcid="0000-0002-9000-8369" pid="172/0076">Eliezer Dutra</author>
 <author orcid="0009-0000-0219-8223" pid="350/0332">Claudio Saraiva Mattos</author>
-<author pid="350/1056">Alessandra Fortuna</author>
+<author orcid="0000-0003-1020-8350" pid="350/1056">Alessandra Fortuna</author>
 <author orcid="0000-0003-4749-2551" pid="57/7989">Rodrigo Pereira dos Santos</author>
 <author orcid="0000-0002-5943-9849" pid="350/0560">Luiz Felipe Ramos</author>
 <author pid="350/0813">&#193;lan J&#250;nior Da Cruz Andrade</author>
@@ -614,7 +614,7 @@
 <rel sort="0" label="Version 1" uri="https://doi.org/10.5281/zenodo.11305884" type="versionOf"></rel>
 </data>
 </r>
-<r><data key="data/11/ParrachoZSS24" mdate="2025-02-20">
+<r><data publtype="version" key="data/11/ParrachoZSS24" mdate="2025-06-18">
 <author orcid="0000-0001-5884-110X" pid="350/0271">Thiago de Moura Parracho</author>
 <author orcid="0000-0003-0005-4669" pid="282/5171">Rodrigo Oliveira Zacarias</author>
 <author orcid="0000-0003-2150-8113" pid="74/10831">Henrique Prado de S&#225; Sousa</author>
@@ -625,10 +625,10 @@
 <ee type="oa">https://doi.org/10.5281/zenodo.11215217</ee>
 <publisher>Zenodo</publisher>
 <stream>streams/repo/zenodo</stream>
-<rel sort="1" label="Version 2" uri="https://doi.org/10.5281/zenodo.10846422" type="versionOf"></rel>
+<rel sort="1" label="Version 2" uri="https://doi.org/10.5281/zenodo.10846422" type="versionOf">data/11/ParrachoZSS24b</rel>
 </data>
 </r>
-<r><data key="data/11/ParrachoZSS24a" mdate="2025-02-20">
+<r><data publtype="version" key="data/11/ParrachoZSS24a" mdate="2025-06-18">
 <author orcid="0000-0001-5884-110X" pid="350/0271">Thiago de Moura Parracho</author>
 <author orcid="0000-0003-0005-4669" pid="282/5171">Rodrigo Oliveira Zacarias</author>
 <author orcid="0000-0003-2150-8113" pid="74/10831">Henrique Prado de S&#225; Sousa</author>
@@ -639,7 +639,7 @@
 <ee type="oa">https://doi.org/10.5281/zenodo.11215251</ee>
 <publisher>Zenodo</publisher>
 <stream>streams/repo/zenodo</stream>
-<rel sort="2" label="Version 3" uri="https://doi.org/10.5281/zenodo.10846422" type="versionOf"></rel>
+<rel sort="2" label="Version 3" uri="https://doi.org/10.5281/zenodo.10846422" type="versionOf">data/11/ParrachoZSS24b</rel>
 </data>
 </r>
 <r><data key="data/11/ZacariasGSL24" mdate="2025-01-29">
@@ -1455,7 +1455,7 @@
 <url>db/conf/sessos/sessos2022.html</url>
 </proceedings>
 </r>
-<r><data key="data/10/ChavesOMSD22" mdate="2024-10-11">
+<r><data publtype="version" key="data/10/ChavesOMSD22" mdate="2025-06-18">
 <author orcid="0000-0003-2915-7178" pid="56/5811">Victor Manaia G. Chaves</author>
 <author orcid="0000-0002-8630-1386" pid="323/5824">Juliana Carvalho Silva do Out&#227;o</author>
 <author orcid="0000-0001-5105-2394" pid="323/4639">Sofia M. B. Machado</author>
@@ -1467,7 +1467,7 @@
 <ee type="oa">https://doi.org/10.5281/zenodo.6446835</ee>
 <publisher>Zenodo</publisher>
 <stream>streams/repo/zenodo</stream>
-<rel sort="2" label="Version 3" uri="https://doi.org/10.5281/zenodo.5842689" type="versionOf"></rel>
+<rel sort="2" label="Version 3" uri="https://doi.org/10.5281/zenodo.5842689" type="versionOf">data/10/ChavesOMSD22a</rel>
 </data>
 </r>
 <r><data key="data/10/MachadoOCSD22" mdate="2024-10-18">
@@ -1537,7 +1537,7 @@
 <rel sort="1" label="Version 1.0" uri="https://doi.org/10.5281/zenodo.6635395" type="versionOf">data/10/XavierVS22e</rel>
 </data>
 </r>
-<r><data key="data/11/OutaoMCSD22" mdate="2025-05-06">
+<r><data publtype="version" key="data/11/OutaoMCSD22" mdate="2025-06-18">
 <author orcid="0000-0002-8630-1386" pid="323/5824">Juliana Carvalho Silva do Out&#227;o</author>
 <author orcid="0000-0001-5105-2394" pid="323/4639">Sofia M. B. Machado</author>
 <author orcid="0000-0003-2915-7178" pid="56/5811">Victor Manaia G. Chaves</author>
@@ -1549,10 +1549,10 @@
 <ee>https://doi.org/10.5281/zenodo.5842690</ee>
 <publisher>Zenodo</publisher>
 <stream>streams/repo/zenodo</stream>
-<rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.5842689" type="versionOf"></rel>
+<rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.5842689" type="versionOf">data/10/ChavesOMSD22a</rel>
 </data>
 </r>
-<r><data key="data/11/OutaoMCSS22" mdate="2025-05-14">
+<r><data publtype="version" key="data/11/OutaoMCSS22" mdate="2025-06-18">
 <author orcid="0000-0002-8630-1386" pid="323/5824">Juliana Carvalho Silva do Out&#227;o</author>
 <author orcid="0000-0001-5105-2394" pid="323/4639">Sofia M. B. Machado</author>
 <author orcid="0000-0003-2915-7178" pid="56/5811">Victor Manaia G. Chaves</author>
@@ -1564,7 +1564,7 @@
 <ee>https://doi.org/10.5281/zenodo.6416173</ee>
 <publisher>Zenodo</publisher>
 <stream>streams/repo/zenodo</stream>
-<rel sort="2" label="Version 2" uri="https://doi.org/10.5281/zenodo.5842689" type="versionOf"></rel>
+<rel sort="2" label="Version 2" uri="https://doi.org/10.5281/zenodo.5842689" type="versionOf">data/10/ChavesOMSD22a</rel>
 </data>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-2212-10443" mdate="2023-01-04">

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Gustavo Batista" pid="85/1649" n="127">
+<dblpperson name="Gustavo Batista" pid="85/1649" n="128">
 <person key="homepages/85/1649" mdate="2025-06-07">
 <author pid="85/1649">Gustavo Batista</author>
 <author pid="85/1649">Gustavo E. A. P. A. Batista</author>
@@ -40,11 +40,11 @@
 <stream>streams/journals/ijon</stream>
 </article>
 </r>
-<r><inproceedings key="conf/sigmetrics/BabariaLBS25" mdate="2025-06-06">
-<author pid="404/9803">Rushi Jayeshkumar Babaria</author>
-<author pid="202/9027">Minzhao Lyu</author>
-<author pid="85/1649">Gustavo Batista</author>
-<author pid="63/6049">Vijay Sivaraman</author>
+<r><inproceedings key="conf/sigmetrics/BabariaLBS25" mdate="2025-06-11">
+<author orcid="0009-0006-2164-3277" pid="404/9803">Rushi Jayeshkumar Babaria</author>
+<author orcid="0000-0001-8677-248X" pid="202/9027">Minzhao Lyu</author>
+<author orcid="0000-0002-3482-8442" pid="85/1649">Gustavo Batista</author>
+<author orcid="0000-0001-7985-6765" pid="63/6049">Vijay Sivaraman</author>
 <title><i>FastFlow</i>: Early Yet Robust Network Flow Classification using the Minimal Number of Time-Series Packets.</title>
 <pages>46-48</pages>
 <year>2025</year>
@@ -96,6 +96,23 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2504.02174</ee>
 <url>db/journals/corr/corr2504.html#abs-2504-02174</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-10942" mdate="2025-06-23">
+<author pid="246/4241">Meghali Nandi</author>
+<author pid="186/7967">Arash Shaghaghi</author>
+<author pid="160/3257">Nazatul Haque Sultan</author>
+<author pid="85/1649">Gustavo Batista</author>
+<author pid="233/0126">Raymond K. Zhao</author>
+<author pid="j/SanjayJha">Sanjay K. Jha</author>
+<title>Nosy Layers, Noisy Fixes: Tackling DRAs in Federated Learning Systems using Explainable AI.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.10942</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.10942</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-10942</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -1794,7 +1811,7 @@
 <ee>https://www.wikidata.org/entity/Q57740278</ee>
 </inproceedings>
 </r>
-<coauthors n="107" nc="8">
+<coauthors n="110" nc="8">
 <co c="1"><na f="a/Alvarez:Carlos_A=_Rivera" pid="283/3298">Carlos A. Rivera Alvarez</na></co>
 <co c="1"><na f="a/Azizi:Shayan" pid="369/4764">Shayan Azizi</na></co>
 <co c="1"><na f="b/Babaria:Rushi_Jayeshkumar" pid="404/9803">Rushi Jayeshkumar Babaria</na></co>
@@ -1853,6 +1870,7 @@
 <co c="0"><na f="m/Monard:Maria_Carolina" pid="25/5085">Maria Carolina Monard</na></co>
 <co c="0"><na f="m/Mueen:Abdullah" pid="63/7047">Abdullah Mueen</na></co>
 <co c="1"><na f="n/Nakahara:Masataka" pid="172/4453">Masataka Nakahara</na></co>
+<co c="1"><na f="n/Nandi:Meghali" pid="246/4241">Meghali Nandi</na></co>
 <co c="2"><na f="n/Ng:Brian_Wai=Him" pid="36/5764">Brian Wai-Him Ng</na></co>
 <co c="1"><na f="o/Okui:Norihiro" pid="257/0638">Norihiro Okui</na></co>
 <co c="-1"><na f="o/Oliveira:Luan_Soares" pid="177/2453">Luan Soares Oliveira</na></co>
@@ -1887,6 +1905,7 @@
 <co c="0"><na f="s/Souto:Marc=iacute=lio_de" pid="263/7271">Marc&#237;lio de Souto</na></co>
 <co c="0" n="2"><na f="s/Souza:Vin=iacute=cius_M=_A=_de" pid="121/4134">Vin&#237;cius M. A. de Souza</na><na>Vin&#237;cius Mour&#227;o Alves de Souza</na></co>
 <co c="0"><na f="s/Souza=Filho:Nilson_E=" pid="169/0818">Nilson E. Souza-Filho</na></co>
+<co c="1"><na f="s/Sultan:Nazatul_Haque" pid="160/3257">Nazatul Haque Sultan</na></co>
 <co c="0" n="2"><na f="t/Tataw:Oben_M=" pid="54/8841">Oben M. Tataw</na><na>Oben Moses Tataw</na></co>
 <co c="1"><na f="t/Thilakarathna:Kanchana" pid="92/10700">Kanchana Thilakarathna</na></co>
 <co c="1"><na f="t/Tin:Daravichet" pid="340/2887">Daravichet Tin</na></co>
@@ -1898,6 +1917,7 @@
 <co c="0"><na f="y/Yeh:Chin=Chia_Michael" pid="117/5435">Chin-Chia Michael Yeh</na></co>
 <co c="0"><na f="z/Zakaria:Jesin" pid="117/4302">Jesin Zakaria</na></co>
 <co c="1"><na f="z/Zhang:Yunrui" pid="393/6419">Yunrui Zhang</na></co>
+<co c="1"><na f="z/Zhao:Raymond_K=" pid="233/0126">Raymond K. Zhao</na></co>
 <co c="3"><na f="z/Zhi:Weiming" pid="208/4705">Weiming Zhi</na></co>
 <co c="0"><na f="z/Zhu_0002:Qiang" pid="34/6522-2">Qiang Zhu 0002</na></co>
 <co c="0"><na f="z/Zhu_0014:Yan" pid="82/3167-14">Yan Zhu 0014</na></co>

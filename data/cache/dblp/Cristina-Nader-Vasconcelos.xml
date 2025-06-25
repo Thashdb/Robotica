@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Cristina Nader Vasconcelos" pid="37/135" n="55">
+<dblpperson name="Cristina Nader Vasconcelos" pid="37/135" n="56">
 <person key="homepages/37/135" mdate="2023-08-16">
 <author pid="37/135">Cristina Nader Vasconcelos</author>
 <url>https://research.google/people/106908/</url>
@@ -49,6 +49,40 @@
 <ee type="oa">https://doi.org/10.48550/arXiv.2501.09833</ee>
 <url>db/journals/corr/corr2501.html#abs-2501-09833</url>
 <stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/tmlr/VasconcelosRWWX24" mdate="2025-06-16">
+<author pid="37/135">Cristina Nader Vasconcelos</author>
+<author pid="183/6920">Abdullah Rashwan</author>
+<author pid="18/8412">Austin Waters</author>
+<author pid="26/3538">Trevor Walker</author>
+<author pid="154/3241">Keyang Xu</author>
+<author pid="365/8289">Jimmy Yan</author>
+<author pid="132/8026">Rui Qian</author>
+<author pid="122/3142">Yeqing Li</author>
+<author pid="18/11266">Shixin Luo</author>
+<author pid="182/2268">Yasumasa Onoe</author>
+<author pid="205/8995">Zarana Parekh</author>
+<author pid="135/3514">Ivana Kajic</author>
+<author pid="224/0274">Mandy Guo</author>
+<author pid="35/11496">Wenlei Zhou</author>
+<author pid="378/1126">Sarah Rosston</author>
+<author pid="359/5935">Roopal Garg</author>
+<author pid="58/6731">Hongliang Fei</author>
+<author pid="14/6661">Jordi Pont-Tuset</author>
+<author pid="37/5976-1">Su Wang 0001</author>
+<author pid="378/1501">Henna Nandwani</author>
+<author pid="341/1514">Andrew Bunner</author>
+<author pid="35/9381">Kevin Swersky</author>
+<author pid="07/2099">David J. Fleet</author>
+<author pid="67/5934">Oliver Wang</author>
+<author pid="90/6617">Jason M. Baldridge</author>
+<title>Greedy Growing Enables High-Resolution Pixel-Based Diffusion Models.</title>
+<year>2024</year>
+<volume>2024</volume>
+<journal>Trans. Mach. Learn. Res.</journal>
+<ee type="oa">https://openreview.net/forum?id=GpULi1dAMm</ee>
+<url>db/journals/tmlr/tmlr2024.html#VasconcelosRWWX24</url>
 </article>
 </r>
 <r><inproceedings key="conf/igarss/PazosOutonVRAMN24" mdate="2025-03-03">
@@ -913,7 +947,7 @@
 <co c="1"><na f="b/Brand=atilde=o:Lenisa" pid="06/9524">Lenisa Brand&#227;o</na></co>
 <co c="0"><na f="b/Bunner:Andrew" pid="341/1514">Andrew Bunner</na></co>
 <co c="0"><na f="c/Caron:Mathilde" pid="223/4085">Mathilde Caron</na></co>
-<co c="1"><na f="c/Carvalho:Paulo_Cezar_Pinto" pid="28/5479">Paulo Cezar Pinto Carvalho</na></co>
+<co c="1" n="2"><na f="c/Carvalho:Paulo_C=_P=" pid="28/5479">Paulo C. P. Carvalho</na><na>Paulo Cezar Pinto Carvalho</na></co>
 <co c="1" n="2"><na f="c/Clua:Esteban_Walter_Gonzalez" pid="59/5772">Esteban Walter Gonzalez Clua</na><na>Esteban Clua</na></co>
 <co c="0" n="2"><na f="c/Collier:Mark" pid="223/9928">Mark Collier</na><na>Mark Patrick Collier</na></co>
 <co c="1"><na f="c/Costa:M=oacute=nica" pid="41/5498">M&#243;nica Costa</na></co>

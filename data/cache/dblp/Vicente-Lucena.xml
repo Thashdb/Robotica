@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Vicente Ferreira de Lucena Jr." pid="97/4535" n="94">
+<dblpperson name="Vicente Ferreira de Lucena Jr." pid="97/4535" n="98">
 <person key="homepages/97/4535" mdate="2025-06-07">
 <author pid="97/4535">Vicente Ferreira de Lucena Jr.</author>
 <author pid="97/4535">Vicente F. de Lucena Jr.</author>
@@ -48,12 +48,74 @@
 <stream>streams/conf/etfa</stream>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/iccel/KlehmSLMC24" mdate="2025-04-01">
+<r><inproceedings key="conf/fie/MachadoPCSMJ24" mdate="2025-06-17">
+<author pid="237/6734">Guido Soprano Machado</author>
+<author pid="407/5109">Wollace de Souza Pican&#231;o</author>
+<author pid="334/7962">Marenice Melo de Carvalho</author>
+<author pid="360/9631">Claudia Sabrina Monteiro Da Silva</author>
+<author pid="230/0960">Renan Landau Paiva de Medeiros</author>
+<author pid="97/4535">Vicente Ferreira de Lucena Junior</author>
+<title>An Innovative Approach to Automatically Help Activities Corrections in Remote Laboratories in the Mechatronics Area Using Intelligent Digital Twins.</title>
+<pages>1-8</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10893093</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#MachadoPCSMJ24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/NetoNPMML24" mdate="2025-06-18">
+<author pid="407/5153">&#193;lvaro De Azevedo Peres Neto</author>
+<author pid="407/5083">F&#225;bson Gomes Nepomuceno</author>
+<author pid="407/5109">Wollace de Souza Pican&#231;o</author>
+<author pid="237/6734">Guido Soprano Machado</author>
+<author pid="230/0960">Renan Landau Paiva de Medeiros</author>
+<author pid="97/4535">Vicente Ferreira de Lucena</author>
+<title>WIP - Application of Serious Games in a University Industrial Related Laboratory Working with Collaborative Robots.</title>
+<pages>1-5</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10893529</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#NetoNPMML24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/PicancoMCSMJ24" mdate="2025-06-17">
+<author pid="407/5109">Wollace de Souza Pican&#231;o</author>
+<author pid="237/6734">Guido Soprano Machado</author>
+<author pid="334/7962">Marenice Melo de Carvalho</author>
+<author pid="360/9631">Claudia Sabrina Monteiro Da Silva</author>
+<author pid="230/0960">Renan Landau Paiva de Medeiros</author>
+<author pid="97/4535">Vicente Ferreira de Lucena Junior</author>
+<title>Hobots: A Remote Teaching Method for Collaborative Robotics Learning.</title>
+<pages>1-8</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10893313</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#PicancoMCSMJ24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/SalgadoFML24" mdate="2025-06-17">
+<author pid="407/5020">Thiago Rodrigo Monteiro Salgado</author>
+<author pid="407/5450">Mattheus Smith Da Costa Fernandes</author>
+<author pid="237/6734">Guido Soprano Machado</author>
+<author pid="97/4535">Vicente Ferreira de Lucena</author>
+<title>Platform to Help CNN Training in Manufacturing Teaching Environments.</title>
+<pages>1-9</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10893367</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#SalgadoFML24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccel/KlehmSLMC24" mdate="2025-06-11">
 <author pid="227/0768">Volnei da S. Klehm</author>
 <author pid="308/8106">Eduardo Drummond Sardinha</author>
 <author orcid="0000-0001-9864-2850" pid="97/4535">Vicente Ferreira de Lucena Jr.</author>
 <author pid="207/6985">Rayol Mendonca-Neto</author>
-<author pid="370/1723">Luiz Cordovil</author>
+<author pid="184/3282">Luiz Cordovil 0001</author>
 <title>A comparative analysis between Lua interpreter variants compiled to WASM, JavaScript and native.</title>
 <pages>1-5</pages>
 <year>2024</year>
@@ -1440,7 +1502,7 @@
 <ee>https://d-nb.info/968384986</ee>
 </phdthesis>
 </r>
-<coauthors n="134" nc="7">
+<coauthors n="139" nc="7">
 <co c="3"><na f="a/Akerkar:Rajendra" pid="03/6153">Rajendra Akerkar</na></co>
 <co c="0" n="2"><na f="a/Alves:Camille" pid="233/7105">Camille Alves</na><na>Camille M. Alves</na></co>
 <co c="0"><na f="a/Ayres:Florindo_Antonio_de_Carvalho" pid="332/0949">Florindo Antonio de Carvalho Ayres</na></co>
@@ -1462,7 +1524,6 @@
 <co c="0" n="2"><na f="c/Collins:Eliane_F=" pid="121/2194">Eliane F. Collins</na><na>Eliane Figueiredo Collins</na></co>
 <co c="0" n="2"><na f="c/Cordeiro:Lucas_C=" pid="42/4311">Lucas C. Cordeiro</na><na>Lucas Carvalho Cordeiro</na></co>
 <co c="0"><na f="c/Cordeiro:Mauricio_Costa" pid="233/1175">Mauricio Costa Cordeiro</na></co>
-<co c="0"><na f="c/Cordovil:Luiz" pid="370/1723">Luiz Cordovil</na></co>
 <co c="-1"><na f="c/Costa:Juliano_Rodrigues" pid="90/6524">Juliano Rodrigues Costa</na></co>
 <co c="2"><na f="c/Cotta:Eduardo_Adriano" pid="152/0783">Eduardo Adriano Cotta</na></co>
 <co c="2"><na f="c/Cruz:Carlos_Augusto_de_Moraes" pid="121/4481">Carlos Augusto de Moraes Cruz</na></co>
@@ -1473,6 +1534,7 @@
 <co c="0"><na f="d/Dias=Neto:Arilo_Claudio" pid="27/11253">Arilo Claudio Dias-Neto</na></co>
 <co c="0"><na f="f/Farias:Nei_Junior_da_Silva" pid="340/6207">Nei Junior da Silva Farias</na></co>
 <co c="0"><na f="f/Federal:Walmir_Aciole_da_Silva" pid="257/6694">Walmir Aciole da Silva Federal</na></co>
+<co c="0"><na f="f/Fernandes:Mattheus_Smith_Da_Costa" pid="407/5450">Mattheus Smith Da Costa Fernandes</na></co>
 <co c="1"><na f="f/Ferracuti:Francesco" pid="129/4674">Francesco Ferracuti</na></co>
 <co c="0"><na f="f/Figueiredo:Matheus" pid="388/9933">Matheus Figueiredo</na></co>
 <co c="0"><na f="f/Filho:Eddie_Batista_de_Lima" pid="25/6797">Eddie Batista de Lima Filho</na></co>
@@ -1488,6 +1550,7 @@
 <co c="0"><na f="j/Jazdi:Nasser" pid="23/8826">Nasser Jazdi</na></co>
 <co c="0"><na f="j/Jr:Florindo_Antonio_de_Carvalho_Ayres" pid="334/8092">Florindo Antonio de Carvalho Ayres Jr</na></co>
 <co c="0"><na f="j/Junior:Elpidio_H=" pid="218/1496">Elpidio H. Junior</na></co>
+<co c="0" n="2"><na f="j/J=uacute=nior:Luiz_A=_Q=_Cordovil" pid="184/3282">Luiz A. Q. Cordovil J&#250;nior</na><na>Luiz Cordovil 0001</na></co>
 <co c="0" n="2"><na f="j/J=uacute=nior:Waldir_S=_S=" pid="120/9096">Waldir S. S. J&#250;nior</na><na>Waldir Sabino da Silva Jr.</na></co>
 <co c="0" n="3"><na f="k/Klehm:Volnei" pid="227/0768">Volnei Klehm</na><na>Volnei da S. Klehm</na><na>Volnei da Silva Klehm</na></co>
 <co c="0"><na f="k/Kurka:Paulo_Roberto_Gardel" pid="168/3438">Paulo Roberto Gardel Kurka</na></co>
@@ -1518,6 +1581,8 @@
 <co c="0"><na f="m/Murray:Niall" pid="05/9290">Niall Murray</na></co>
 <co c="0"><na f="n/Nascimento:Josiane" pid="182/7472">Josiane Nascimento</na></co>
 <co c="0" n="2"><na f="n/Naves:Eduardo_L=_M=" pid="195/2985">Eduardo L. M. Naves</na><na>Eduardo L&#225;zaro Martins Naves</na></co>
+<co c="0"><na f="n/Nepomuceno:F=aacute=bson_Gomes" pid="407/5083">F&#225;bson Gomes Nepomuceno</na></co>
+<co c="0"><na f="n/Neto:=Aacute=lvaro_De_Azevedo_Peres" pid="407/5153">&#193;lvaro De Azevedo Peres Neto</na></co>
 <co c="0"><na f="n/Neto:Jos=eacute=_Pinheiro_de_Queiroz" pid="160/5682">Jos&#233; Pinheiro de Queiroz Neto</na></co>
 <co c="0"><na f="n/Neto:Manoel_Ferreira" pid="257/6661">Manoel Ferreira Neto</na></co>
 <co c="0"><na f="n/Nunes:Rivelino_Da_Costa" pid="316/6365">Rivelino Da Costa Nunes</na></co>
@@ -1529,6 +1594,7 @@
 <co c="4"><na f="p/Pal_0001:Arpan" pid="13/1605">Arpan Pal 0001</na></co>
 <co c="0"><na f="p/Parvaresh:Payam" pid="142/4338">Payam Parvaresh</na></co>
 <co c="0"><na f="p/Patrick:Daniel" pid="27/6831">Daniel Patrick</na></co>
+<co c="0"><na f="p/Pican=ccedil=o:Wollace_de_Souza" pid="407/5109">Wollace de Souza Pican&#231;o</na></co>
 <co c="0"><na f="p/Picanco:Wollace_Souza_de" pid="237/6985">Wollace Souza de Picanco</na></co>
 <co c="0"><na f="p/Pinto:Luciano_C=" pid="261/7176">Luciano C. Pinto</na></co>
 <co c="6"><na f="p/Pinto:Luiz_Filipe_da_Silva_Souza" pid="131/4752">Luiz Filipe da Silva Souza Pinto</na></co>
@@ -1546,6 +1612,7 @@
 <co c="0"><na f="s/Sales:Andr=eacute=_M=_A=" pid="270/9034">Andr&#233; M. A. Sales</na></co>
 <co c="0"><na f="s/Sales:Andr=eacute=_Mathias_Algaranh=atilde=es_de" pid="340/6191">Andr&#233; Mathias Algaranh&#227;es de Sales</na></co>
 <co c="0"><na f="s/Salgado:D=eacute=bora_Pereira" pid="222/1186">D&#233;bora Pereira Salgado</na></co>
+<co c="0"><na f="s/Salgado:Thiago_Rodrigo_Monteiro" pid="407/5020">Thiago Rodrigo Monteiro Salgado</na></co>
 <co c="0"><na f="s/Santos:Diogo_Manoel_Pereira_dos" pid="257/6584">Diogo Manoel Pereira dos Santos</na></co>
 <co c="0"><na f="s/Santos_Jr=:Ant=ocirc=nio_F=_dos" pid="36/9496">Ant&#244;nio F. dos Santos Jr.</na></co>
 <co c="0"><na f="s/Sardinha:Eduardo_Drummond" pid="308/8106">Eduardo Drummond Sardinha</na></co>

@@ -572,7 +572,7 @@
 <rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.6360824" type="versionOf"></rel>
 </data>
 </r>
-<r><data key="data/11/SilvaCSSKLM22a" mdate="2025-05-16">
+<r><data publtype="version" key="data/11/SilvaCSSKLM22a" mdate="2025-06-18">
 <author orcid="0000-0002-5518-261X" pid="143/5641">Leo Silva</author>
 <author orcid="0000-0001-6040-5681" pid="404/1045">Mar&#237;lia Gurgel Castro</author>
 <author orcid="0000-0002-4270-9734" pid="342/2144">Miriam Bernardino Silva</author>
@@ -586,10 +586,10 @@
 <ee type="oa">https://doi.org/10.5281/zenodo.6917211</ee>
 <publisher>Zenodo</publisher>
 <stream>streams/repo/zenodo</stream>
-<rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.6917210" type="versionOf"></rel>
+<rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.6917210" type="versionOf">data/11/SilvaCSSKLM22c</rel>
 </data>
 </r>
-<r><data key="data/11/SilvaCSSKLM22b" mdate="2025-05-21">
+<r><data publtype="version" key="data/11/SilvaCSSKLM22b" mdate="2025-06-18">
 <author orcid="0000-0002-5518-261X" pid="143/5641">Leo Silva</author>
 <author orcid="0000-0001-6040-5681" pid="404/1045">Mar&#237;lia Gurgel Castro</author>
 <author orcid="0000-0002-4270-9734" pid="342/2144">Miriam Bernardino Silva</author>
@@ -603,7 +603,7 @@
 <ee type="oa">https://doi.org/10.5281/zenodo.7425721</ee>
 <publisher>Zenodo</publisher>
 <stream>streams/repo/zenodo</stream>
-<rel sort="2" label="Version 2" uri="https://doi.org/10.5281/zenodo.6917210" type="versionOf"></rel>
+<rel sort="2" label="Version 2" uri="https://doi.org/10.5281/zenodo.6917210" type="versionOf">data/11/SilvaCSSKLM22c</rel>
 </data>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-2203-10324" mdate="2024-05-07">

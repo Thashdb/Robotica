@@ -1,11 +1,28 @@
 <?xml version="1.0"?>
-<dblpperson name="William Robson Schwartz" pid="78/6398" n="187">
+<dblpperson name="William Robson Schwartz" pid="78/6398" n="188">
 <person key="homepages/78/6398" mdate="2022-10-29">
 <author pid="78/6398">William Robson Schwartz</author>
 <url>https://orcid.org/0000-0003-1449-8834</url>
 <url>https://www.wikidata.org/entity/Q62056058</url>
 <url>https://ieeexplore.ieee.org/author/37325223000</url>
 </person>
+<r><article publtype="informal" key="journals/corr/abs-2505-06393" mdate="2025-06-23">
+<author pid="332/0795">Valfride Nascimento</author>
+<author pid="386/1476">Gabriel E. Lima</author>
+<author pid="285/2877">Rafael O. Ribeiro</author>
+<author pid="78/6398">William Robson Schwartz</author>
+<author pid="215/5013">Rayson Laroca</author>
+<author pid="10/2834">David Menotti</author>
+<title>Toward Advancing License Plate Super-Resolution in Real-World Scenarios: A Dataset and Benchmark.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.06393</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.06393</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-06393</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
 <r><article key="journals/ivc/VaretoLBSG24" mdate="2024-05-07">
 <author pid="208/7477">Rafael Henrique Vareto</author>
 <author pid="326/1960">Yu Linghu</author>
@@ -2645,7 +2662,7 @@
 <url>db/conf/icip/icip2001-3.html#PedriniSF01</url>
 </inproceedings>
 </r>
-<coauthors n="159" nc="1">
+<coauthors n="160" nc="1">
 <co c="0"><na f="a/Akio:Fernando" pid="263/7325">Fernando Akio</na></co>
 <co c="0"><na f="a/Alves:Ra=uacute=l" pid="152/8254">Ra&#250;l Alves</na></co>
 <co c="0"><na f="a/Andrade:Matheus_Toledo_Lustosa_de" pid="196/3183">Matheus Toledo Lustosa de Andrade</na></co>
@@ -2717,6 +2734,7 @@
 <co c="0"><na f="l/Lewiner:Thomas" pid="92/4407">Thomas Lewiner</na></co>
 <co c="0"><na f="l/Li:Stan_Z=" pid="l/StanZLi">Stan Z. Li</na></co>
 <co c="0" n="2"><na f="l/Lie:Maiko_M=_I=" pid="190/1364">Maiko M. I. Lie</na><na>Maiko Lie 0001</na></co>
+<co c="0"><na f="l/Lima:Gabriel_E=" pid="386/1476">Gabriel E. Lima</na></co>
 <co c="0"><na f="l/Lima:Luiz_Eduardo_Coelho" pid="235/7527">Luiz Eduardo Coelho Lima</na></co>
 <co c="0"><na f="l/Lima:Vitor_de" pid="31/8671">Vitor de Lima</na></co>
 <co c="0"><na f="l/Linghu:Yu" pid="326/1960">Yu Linghu</na></co>

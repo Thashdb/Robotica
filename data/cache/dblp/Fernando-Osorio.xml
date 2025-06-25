@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Fernando Santos Os&#243;rio" pid="00/5455" n="113">
+<dblpperson name="Fernando Santos Os&#243;rio" pid="00/5455" n="114">
 <person key="homepages/00/5455" mdate="2024-05-09">
 <author pid="00/5455">Fernando Santos Os&#243;rio</author>
 <url>https://orcid.org/0000-0002-6620-2794</url>
@@ -50,6 +50,22 @@
 <ee type="oa">https://doi.org/10.3390/s24072097</ee>
 <url>db/journals/sensors/sensors24.html#RoseroGSFWO24</url>
 </article>
+</r>
+<r><inproceedings key="conf/fie/JuniorMBFOB24" mdate="2025-06-17">
+<author pid="157/0527">Venilton Falvo Junior</author>
+<author pid="139/6594">Anderson Silva Marcolino</author>
+<author pid="211/8453">Diego Renan Bruno</author>
+<author pid="364/1868">Catherine Helen Martins Falvo</author>
+<author pid="00/5455">Fernando Santos Os&#243;rio</author>
+<author pid="66/2060">Ellen Francine Barbosa</author>
+<title>Enhancing Learning Objects Accessibility Through Speech-To-Text Based Architecture: A Comprehensive Triangulation Study.</title>
+<pages>1-9</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10893453</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#JuniorMBFOB24</url>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/hicss/JuniorMBFOB24" mdate="2024-01-04">
 <author pid="157/0527">Venilton Falvo Junior</author>
@@ -1619,7 +1635,7 @@
 <co c="1"><na f="d/Diverio:Viviane_Todt" pid="18/3058">Viviane Todt Diverio</na></co>
 <co c="0"><na f="e/Eboli:Gustavo_B=" pid="43/11497">Gustavo B. Eboli</na></co>
 <co c="0"><na f="f/Fai=ccedil=al:Bruno_S=" pid="76/10286">Bruno S. Fai&#231;al</na></co>
-<co c="0"><na f="f/Falvo:Catherine_Martins" pid="364/1868">Catherine Martins Falvo</na></co>
+<co c="0" n="2"><na f="f/Falvo:Catherine_Martins" pid="364/1868">Catherine Martins Falvo</na><na>Catherine Helen Martins Falvo</na></co>
 <co c="0"><na f="f/Fernandes:Leandro_Carlos" pid="204/6581">Leandro Carlos Fernandes</na></co>
 <co c="0" n="2"><na f="f/Filho:Carlos_Andre_Braile_Przewodowski" pid="211/8409">Carlos Andre Braile Przewodowski Filho</na><na>Andr&#233; Przewodowski</na></co>
 <co c="0" n="2"><na f="f/Filho:Carlos_Massera" pid="148/7328">Carlos Massera Filho</na><na>Carlos M. Massera</na></co>
@@ -1646,7 +1662,7 @@
 <co c="0"><na f="k/Klaser:Rafael_Luiz" pid="137/1069">Rafael Luiz Klaser</na></co>
 <co c="0"><na f="l/Lucca:Giancarlo" pid="116/8054">Giancarlo Lucca</na></co>
 <co c="0"><na f="m/Magalh=atilde=es:Andr=eacute=_Chaves" pid="145/0547">Andr&#233; Chaves Magalh&#227;es</na></co>
-<co c="0"><na f="m/Marcolino:Anderson" pid="139/6594">Anderson Marcolino</na></co>
+<co c="0" n="2"><na f="m/Marcolino:Anderson" pid="139/6594">Anderson Marcolino</na><na>Anderson Silva Marcolino</na></co>
 <co c="0"><na f="m/Marranghello:Norian" pid="41/737">Norian Marranghello</na></co>
 <co c="0"><na f="m/Martins:William_D=Abruzzo" pid="402/1235">William D'Abruzzo Martins</na></co>
 <co c="0" n="2"><na f="m/Matias:Lucas_P=_N=" pid="238/5040">Lucas P. N. Matias</na><na>Lucas Peres Nunes Matias</na></co>

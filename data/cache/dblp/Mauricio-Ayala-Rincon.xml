@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Mauricio Ayala-Rinc&#243;n" pid="56/538" n="156">
+<dblpperson name="Mauricio Ayala-Rinc&#243;n" pid="56/538" n="157">
 <person key="homepages/56/538" mdate="2025-02-05">
 <author pid="56/538">Mauricio Ayala-Rinc&#243;n</author>
 <url>http://www.mat.unb.br/ayala/</url>
@@ -28,6 +28,22 @@
 <url>db/journals/jar/jar69.html#AyalaRinconFSKN25</url>
 <stream>streams/journals/jar</stream>
 </article>
+</r>
+<r><inproceedings key="conf/nfm/AyalaRinconLLMK25" mdate="2025-06-16">
+<author pid="56/538">Mauricio Ayala-Rinc&#243;n</author>
+<author pid="173/9154">Thaynara Arielly de Lima</author>
+<author pid="407/4834">Maria J&#250;lia Dias Lima</author>
+<author pid="83/4408">Mariano M. Moscato</author>
+<author pid="k/TemurKutsia">Temur Kutsia</author>
+<title>Verification of an Anti-unification Algorithm in PVS.</title>
+<pages>54-71</pages>
+<year>2025</year>
+<booktitle>NFM</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-93706-4_4</ee>
+<crossref>conf/nfm/2025</crossref>
+<url>db/conf/nfm/nfm2025.html#AyalaRinconLLMK25</url>
+<stream>streams/conf/nfm</stream>
+</inproceedings>
 </r>
 <r><article publtype="data" key="journals/afp/SuarezLA24" mdate="2024-09-26">
 <author pid="328/9740">Fabi&#225;n Fernando Serrano Su&#225;rez</author>
@@ -2216,7 +2232,7 @@
 <ee>https://d-nb.info/940369672</ee>
 </phdthesis>
 </r>
-<coauthors n="78" nc="3">
+<coauthors n="79" nc="3">
 <co c="2"><na f="a/Abreu:Bruno_T=_de" pid="65/158">Bruno T. de Abreu</na></co>
 <co c="0"><na f="a/Almeida:Ariane_Alves" pid="153/1804">Ariane Alves Almeida</na></co>
 <co c="0"><na f="a/Almeida:Gabriel_Marchesan" pid="59/787">Gabriel Marchesan Almeida</na></co>
@@ -2256,6 +2272,7 @@
 <co c="0"><na f="k/Kamareddine:Fairouz" pid="k/FKamareddine">Fairouz Kamareddine</na></co>
 <co c="0"><na f="k/Kesner:Delia" pid="k/DeliaKesner">Delia Kesner</na></co>
 <co c="0"><na f="k/Kutsia:Temur" pid="k/TemurKutsia">Temur Kutsia</na></co>
+<co c="0"><na f="l/Lima:Maria_J=uacute=lia_Dias" pid="407/4834">Maria J&#250;lia Dias Lima</na></co>
 <co c="0" n="2"><na f="l/Lima:Thaynara_A=_de" pid="173/9154">Thaynara A. de Lima</na><na>Thaynara Arielly de Lima</na></co>
 <co c="0" n="2"><na f="l/Llanos:Carlos_H=" pid="19/5941">Carlos H. Llanos</na><na>Carlos Humberto Llanos Quintero</na></co>
 <co c="1"><na f="l/Louza:Felipe_A=" pid="30/9961">Felipe A. Louza</na></co>

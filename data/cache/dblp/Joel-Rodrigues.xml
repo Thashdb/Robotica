@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Joel J. P. C. Rodrigues" pid="25/3419" n="1042">
+<dblpperson name="Joel J. P. C. Rodrigues" pid="25/3419" n="1044">
 <person key="homepages/25/3419" mdate="2025-06-02">
 <author pid="25/3419">Joel J. P. C. Rodrigues</author>
 <author pid="25/3419">Joel Jos&#233; Puga Coelho Rodrigues</author>
@@ -105,11 +105,11 @@
 <stream>streams/journals/iotj</stream>
 </article>
 </r>
-<r><article key="journals/iotj/HamriouiLLR25" mdate="2025-05-31">
-<author pid="21/7707">Sofiane Hamrioui</author>
+<r><article key="journals/iotj/HamriouiLLR25" mdate="2025-06-11">
+<author orcid="0000-0003-2023-6398" pid="21/7707">Sofiane Hamrioui</author>
 <author orcid="0000-0003-3346-7216" pid="l/PascalLorenz">Pascal Lorenz</author>
-<author pid="l/JaimeLloret">Jaime Lloret 0001</author>
-<author pid="25/3419">Joel J. P. C. Rodrigues</author>
+<author orcid="0000-0002-0862-0533" pid="l/JaimeLloret">Jaime Lloret 0001</author>
+<author orcid="0000-0001-8657-3800" pid="25/3419">Joel J. P. C. Rodrigues</author>
 <title>Cost-Effective Strategy for IIoT Security Based on Bi-Objective Optimization.</title>
 <pages>14577-14585</pages>
 <year>2025</year>
@@ -122,15 +122,15 @@
 <stream>streams/journals/iotj</stream>
 </article>
 </r>
-<r><article key="journals/iotj/UllahPMMKARF25" mdate="2025-06-03">
-<author pid="152/5148">Fasee Ullah</author>
-<author pid="p/ChiManPun">Chi-Man Pun</author>
+<r><article key="journals/iotj/UllahPMMKARF25" mdate="2025-06-11">
+<author orcid="0009-0003-8054-9342" pid="152/5148">Fasee Ullah</author>
+<author orcid="0000-0003-1788-3746" pid="p/ChiManPun">Chi-Man Pun</author>
 <author pid="314/9747">Muhammad Ismail Mohmand</author>
-<author pid="260/1973">Rakesh Kumar Mahendran</author>
-<author pid="257/4528">Arfat Ahmad Khan</author>
-<author pid="336/9156">Sarah M. Alhammad</author>
-<author pid="25/3419">Joel J. P. C. Rodrigues</author>
-<author pid="176/5087">Ahmed Farouk</author>
+<author orcid="0000-0002-5059-7269" pid="260/1973">Rakesh Kumar Mahendran</author>
+<author orcid="0000-0003-0918-8874" pid="257/4528">Arfat Ahmad Khan</author>
+<author orcid="0000-0002-0612-6523" pid="336/9156">Sarah M. Alhammad</author>
+<author orcid="0000-0001-8657-3800" pid="25/3419">Joel J. P. C. Rodrigues</author>
+<author orcid="0000-0001-8702-7342" pid="176/5087">Ahmed Farouk</author>
 <title>Privacy-Aware Secure Data Auditing for Cloud-Based Intelligence of Things Environment.</title>
 <pages>15288-15303</pages>
 <year>2025</year>
@@ -178,6 +178,44 @@
 <ee>https://doi.org/10.1109/TITS.2024.3523748</ee>
 <url>db/journals/tits/tits26.html#KumarSCR25</url>
 <stream>streams/journals/tits</stream>
+</article>
+</r>
+<r><article key="journals/tits/PrathibaKAKSR25" mdate="2025-06-16">
+<author pid="305/7113">Sahaya Beni Prathiba</author>
+<author pid="407/4816">Suriya Kumar Raghu Kumar</author>
+<author pid="390/0070">Deepak Kumar Anandhan</author>
+<author pid="407/4810">Aditya Saran Shyam Kumar</author>
+<author pid="376/4969">Arikumar K. Selvaraj</author>
+<author pid="25/3419">Joel J. P. C. Rodrigues</author>
+<title>Enhanced Surface Reconstruction and Semantic Segmentation of LiDAR Data in Autonomous Vehicle Perception Systems.</title>
+<pages>7833-7842</pages>
+<year>2025</year>
+<month>June</month>
+<volume>26</volume>
+<journal>IEEE Trans. Intell. Transp. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TITS.2025.3555367</ee>
+<url>db/journals/tits/tits26.html#PrathibaKAKSR25</url>
+<stream>streams/journals/tits</stream>
+</article>
+</r>
+<r><article key="journals/tnsm/JiangWTZTR25" mdate="2025-06-23">
+<author pid="88/4302-3">Jun Jiang 0003</author>
+<author pid="13/1898-48">Bin Wang 0048</author>
+<author pid="150/5249-1">Quan Tang 0001</author>
+<author pid="12/5127">Guoxiang Zhong</author>
+<author pid="245/7792">Xuhao Tang 0001</author>
+<author pid="25/3419">Joel J. P. C. Rodrigues</author>
+<title>Incremental Semi-Supervised Learning for Data Streams Classification in Internet of Things.</title>
+<pages>2489-2501</pages>
+<year>2025</year>
+<month>June</month>
+<volume>22</volume>
+<journal>IEEE Trans. Netw. Serv. Manag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TNSM.2025.3546649</ee>
+<url>db/journals/tnsm/tnsm22.html#JiangWTZTR25</url>
+<stream>streams/journals/tnsm</stream>
 </article>
 </r>
 <r><article key="journals/tvt/YuLMER25" mdate="2025-02-14">
@@ -13243,11 +13281,11 @@
 <url>db/journals/ijdsn/ijdsn10.html#DiazLJR14</url>
 </article>
 </r>
-<r><article key="journals/ijdsn/HanQZWR14" mdate="2024-01-03">
+<r><article key="journals/ijdsn/HanQZWR14" mdate="2025-06-23">
 <author orcid="0000-0002-6921-7369" pid="32/4821">Guangjie Han</author>
 <author pid="142/9129">Aihua Qian</author>
 <author pid="136/1220-1">Chenyu Zhang 0001</author>
-<author pid="59/2227">Yan Wang</author>
+<author pid="59/2227-16">Yan Wang 0016</author>
 <author pid="25/3419">Joel J. P. C. Rodrigues</author>
 <title>Localization Algorithms in Large-Scale Underwater Acoustic Sensor Networks: A Quantitative Comparison.</title>
 <year>2014</year>
@@ -16967,7 +17005,7 @@
 <url>db/conf/icon/icon2002.html#CoelhoRF02</url>
 </inproceedings>
 </r>
-<coauthors n="1800" nc="3">
+<coauthors n="1807" nc="4">
 <co c="0" n="2"><na f="a/A:Jenefa" pid="289/8962">Jenefa A</na><na>A. Jenefa</na></co>
 <co c="0"><na f="a/A:Rammohan" pid="317/4460">Rammohan A</na></co>
 <co c="0"><na f="a/Abajo:Beatriz_Sainz_de" pid="88/9143">Beatriz Sainz de Abajo</na></co>
@@ -17645,6 +17683,7 @@
 <co c="0"><na f="j/Jia:Zehan" pid="286/4115">Zehan Jia</na></co>
 <co c="0"><na f="j/Jiang:Chunxiao" pid="00/8334">Chunxiao Jiang</na></co>
 <co c="0"><na f="j/Jiang:Jinfang" pid="54/10039">Jinfang Jiang</na></co>
+<co c="1"><na f="j/Jiang_0003:Jun" pid="88/4302-3">Jun Jiang 0003</na></co>
 <co c="0"><na f="j/Jiang_0004:Xin" pid="42/4142-4">Xin Jiang 0004</na></co>
 <co c="0"><na f="j/Jiao:Bingli" pid="32/2258">Bingli Jiao</na></co>
 <co c="0"><na f="j/Jim=eacute=nez:Jos=eacute=_Miguel" pid="147/0495">Jos&#233; Miguel Jim&#233;nez</na></co>
@@ -17754,6 +17793,7 @@
 <co c="0"><na f="k/Kremer:Stefan_C=" pid="08/2216">Stefan C. Kremer</na></co>
 <co c="0"><na f="k/Kryftis:Yiannos" pid="48/9716">Yiannos Kryftis</na></co>
 <co c="0"><na f="k/Kumar:Adarsh" pid="117/9889">Adarsh Kumar</na></co>
+<co c="0"><na f="k/Kumar:Aditya_Saran_Shyam" pid="407/4810">Aditya Saran Shyam Kumar</na></co>
 <co c="0"><na f="k/Kumar_0007:Ajay" pid="85/4670-7">Ajay Kumar 0007</na></co>
 <co c="0"><na f="k/Kumar_0001:Akshi" pid="53/6091">Akshi Kumar 0001</na></co>
 <co c="0"><na f="k/Kumar_0013:Arun" pid="30/4308-13">Arun Kumar 0013</na></co>
@@ -17771,6 +17811,7 @@
 <co c="0"><na f="k/Kumar_0002:Sachin" pid="31/4484-2">Sachin Kumar 0002</na></co>
 <co c="0"><na f="k/Kumar_0008:Sumit" pid="01/6902-8">Sumit Kumar 0008</na></co>
 <co c="0"><na f="k/Kumar:Sunil" pid="45/3365">Sunil Kumar</na></co>
+<co c="0"><na f="k/Kumar:Suriya_Kumar_Raghu" pid="407/4816">Suriya Kumar Raghu Kumar</na></co>
 <co c="0"><na f="k/Kumar:Uddeshaya" pid="303/8184">Uddeshaya Kumar</na></co>
 <co c="0"><na f="k/Kumar:Vinesh" pid="182/3878">Vinesh Kumar</na></co>
 <co c="0"><na f="k/Kumar:Visvam_Devadoss_Ambeth" pid="189/7194">Visvam Devadoss Ambeth Kumar</na></co>
@@ -17964,7 +18005,7 @@
 <co c="0"><na f="m/Miao:Minmin" pid="204/9832">Minmin Miao</na></co>
 <co c="0"><na f="m/Miao:Qingkai" pid="326/8048">Qingkai Miao</na></co>
 <co c="0"><na f="m/Mighali:Vincenzo" pid="88/8389">Vincenzo Mighali</na></co>
-<co c="2"><na f="m/Migu=eacute=is:Vera_L=" pid="31/10009">Vera L. Migu&#233;is</na></co>
+<co c="3"><na f="m/Migu=eacute=is:Vera_L=" pid="31/10009">Vera L. Migu&#233;is</na></co>
 <co c="0" n="2"><na f="m/Milfont:Ronaldo" pid="199/0665">Ronaldo Milfont</na><na>Ronaldo T. P. Milfont</na></co>
 <co c="0"><na f="m/Mirjavadi:Seyed_Sajad" pid="227/4307">Seyed Sajad Mirjavadi</na></co>
 <co c="0"><na f="m/Mishra:Amit_Kumar" pid="98/7479">Amit Kumar Mishra</na></co>
@@ -18110,7 +18151,7 @@
 <co c="0"><na f="p/Papa:Jo=atilde=o_Paulo" pid="96/3441">Jo&#227;o Paulo Papa</na></co>
 <co c="0"><na f="p/Papanastasiou:Giorgos" pid="217/2021">Giorgos Papanastasiou</na></co>
 <co c="0"><na f="p/Paramio:Francisco_Jos=eacute=_Garc=iacute=a" pid="193/8542">Francisco Jos&#233; Garc&#237;a Paramio</na></co>
-<co c="1"><na f="p/Paranaditha:Syafrizal_Mahendra" pid="322/6906">Syafrizal Mahendra Paranaditha</na></co>
+<co c="2"><na f="p/Paranaditha:Syafrizal_Mahendra" pid="322/6906">Syafrizal Mahendra Paranaditha</na></co>
 <co c="0"><na f="p/Paranthaman:Vishnu_Vardhan" pid="147/9840">Vishnu Vardhan Paranthaman</na></co>
 <co c="0"><na f="p/Pardini:Kellow" pid="238/7032">Kellow Pardini</na></co>
 <co c="0"><na f="p/Park:Jong_Hyuk" pid="p/JongHyukPark">Jong Hyuk Park</na></co>
@@ -18142,7 +18183,7 @@
 <co c="0"><na f="p/Pena:Eduardo_H=_M=" pid="156/8798">Eduardo H. M. Pena</na></co>
 <co c="0"><na f="p/Peng_0002:Kai" pid="41/7760-2">Kai Peng 0002</na></co>
 <co c="0"><na f="p/Pequeno:Tarcisio_H=_C=" pid="69/3857">Tarcisio H. C. Pequeno</na></co>
-<co c="1"><na f="p/Perdana:Doan" pid="156/9510">Doan Perdana</na></co>
+<co c="2"><na f="p/Perdana:Doan" pid="156/9510">Doan Perdana</na></co>
 <co c="0"><na f="p/Pereira:Luiz_Augusto_Melo" pid="261/8638">Luiz Augusto Melo Pereira</na></co>
 <co c="0" n="2"><na f="p/Pereira:Maria_L=_D=" pid="252/0821">Maria L. D. Pereira</na><na>Maria L&#250;cia Duarte Pereira</na></co>
 <co c="0"><na f="p/Pereira:Miguel_P=" pid="39/7964">Miguel P. Pereira</na></co>
@@ -18395,7 +18436,7 @@
 <co c="0"><na f="s/Silva:Francisco_Airton" pid="165/3596">Francisco Airton Silva</na></co>
 <co c="0"><na f="s/Silva:Hirley_Dayan_Louren=ccedil=o_Da" pid="254/5986">Hirley Dayan Louren&#231;o Da Silva</na></co>
 <co c="0"><na f="s/Silva:Igor_Rafael_Santos_da" pid="210/2986">Igor Rafael Santos da Silva</na></co>
-<co c="2"><na f="s/Silva:Jo=atilde=o_C=" pid="378/7549">Jo&#227;o C. Silva</na></co>
+<co c="3"><na f="s/Silva:Jo=atilde=o_C=" pid="378/7549">Jo&#227;o C. Silva</na></co>
 <co c="0"><na f="s/Silva:Jonathan_de_C=" pid="222/5544">Jonathan de C. Silva</na></co>
 <co c="0"><na f="s/Silva:Jorge_S=aacute=" pid="01/4877">Jorge S&#225; Silva</na></co>
 <co c="0"><na f="s/Silva:Liliane_da" pid="271/5242">Liliane da Silva</na></co>
@@ -18461,7 +18502,7 @@
 <co c="0"><na f="s/Su:Man" pid="161/6538">Man Su</na></co>
 <co c="0"><na f="s/Succi:Giancarlo" pid="17/5631">Giancarlo Succi</na></co>
 <co c="0"><na f="s/Sugumaran:Vijayan" pid="66/6868">Vijayan Sugumaran</na></co>
-<co c="1"><na f="s/Sulistyowati:Dwi" pid="322/6404">Dwi Sulistyowati</na></co>
+<co c="2"><na f="s/Sulistyowati:Dwi" pid="322/6404">Dwi Sulistyowati</na></co>
 <co c="0"><na f="s/Sun:Jialiang" pid="257/1950">Jialiang Sun</na></co>
 <co c="0"><na f="s/Sun:Liang" pid="18/5837">Liang Sun</na></co>
 <co c="0"><na f="s/Sun_0004:Lu" pid="62/5798-4">Lu Sun 0004</na></co>
@@ -18485,7 +18526,9 @@
 <co c="0"><na f="t/Tang:Chaogang" pid="07/9079">Chaogang Tang</na></co>
 <co c="0"><na f="t/Tang:Dan" pid="38/5641">Dan Tang</na></co>
 <co c="0"><na f="t/Tang:Liu" pid="05/4996">Liu Tang</na></co>
+<co c="1"><na f="t/Tang_0001:Quan" pid="150/5249-1">Quan Tang 0001</na></co>
 <co c="0"><na f="t/Tang:Sulan" pid="44/7912">Sulan Tang</na></co>
+<co c="1"><na f="t/Tang_0001:Xuhao" pid="245/7792">Xuhao Tang 0001</na></co>
 <co c="0"><na f="t/Tanwar:Sudeep" pid="138/1054">Sudeep Tanwar</na></co>
 <co c="0"><na f="t/Tariq:Usman" pid="84/2069">Usman Tariq</na></co>
 <co c="0"><na f="t/Teixeira:Eduardo_H=" pid="299/4339">Eduardo H. Teixeira</na></co>
@@ -18571,6 +18614,7 @@
 <co c="0"><na f="w/Wan:Liangtian" pid="138/6914">Liangtian Wan</na></co>
 <co c="0"><na f="w/Wan:Yan" pid="09/3733">Yan Wan</na></co>
 <co c="0"><na f="w/Wang:Benyou" pid="169/1793">Benyou Wang</na></co>
+<co c="1"><na f="w/Wang_0048:Bin" pid="13/1898-48">Bin Wang 0048</na></co>
 <co c="0"><na f="w/Wang:Bowei" pid="146/9648">Bowei Wang</na></co>
 <co c="0"><na f="w/Wang_0001:Changshuo" pid="297/9002">Changshuo Wang 0001</na></co>
 <co c="0"><na f="w/Wang_0093:Chao" pid="188/7759-93">Chao Wang 0093</na></co>
@@ -18598,7 +18642,7 @@
 <co c="0"><na f="w/Wang_0011:Xiaoming" pid="60/2139-11">Xiaoming Wang 0011</na></co>
 <co c="0"><na f="w/Wang:Xizhao" pid="02/4027">Xizhao Wang</na></co>
 <co c="0"><na f="w/Wang_0001:Xuesong" pid="36/5574-1">Xuesong Wang 0001</na></co>
-<co c="0"><na f="w/Wang:Yan" pid="59/2227">Yan Wang</na></co>
+<co c="0"><na f="w/Wang_0016:Yan" pid="59/2227-16">Yan Wang 0016</na></co>
 <co c="0"><na f="w/Wang:Yao" pid="72/628">Yao Wang</na></co>
 <co c="0"><na f="w/Wang:Yuexian" pid="182/9629">Yuexian Wang</na></co>
 <co c="0"><na f="w/Wang:Yulin" pid="28/5434">Yulin Wang</na></co>
@@ -18743,6 +18787,7 @@
 <co c="0"><na f="z/Zheng:Baoyu" pid="76/5272">Baoyu Zheng</na></co>
 <co c="0"><na f="z/Zheng:Liping" pid="71/571">Liping Zheng</na></co>
 <co c="0"><na f="z/Zheng_0001:Zhigao" pid="187/6055">Zhigao Zheng 0001</na></co>
+<co c="1"><na f="z/Zhong:Guoxiang" pid="12/5127">Guoxiang Zhong</na></co>
 <co c="0"><na f="z/Zhong:Yuting" pid="282/1696">Yuting Zhong</na></co>
 <co c="0"><na f="z/Zhong:Zhimeng" pid="67/840">Zhimeng Zhong</na></co>
 <co c="0"><na f="z/Zhou:Dianle" pid="52/6658">Dianle Zhou</na></co>

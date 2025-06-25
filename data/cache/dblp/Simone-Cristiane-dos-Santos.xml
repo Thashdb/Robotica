@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Simone C. dos Santos" pid="83/2310" n="51">
+<dblpperson name="Simone C. dos Santos" pid="83/2310" n="54">
 <person key="homepages/83/2310" mdate="2024-02-07">
 <author pid="83/2310">Simone C. dos Santos</author>
 <author pid="83/2310">Simone Cristiane dos Santos</author>
@@ -57,6 +57,49 @@
 <ee>https://doi.org/10.5220/0012605800003693</ee>
 <crossref>conf/csedu/2024-2</crossref>
 <url>db/conf/csedu/csedu2024-2.html#VilelaSM24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/MaiaSLFLA24" mdate="2025-06-17">
+<author pid="334/8131">Davi M. Maia</author>
+<author pid="83/2310">Simone Cristiane dos Santos</author>
+<author pid="180/7323">Luis Gabriel Lima</author>
+<author pid="407/5000">Vin&#237;cius Luiz Franca</author>
+<author pid="407/5348">Alexsandro Henrique Lima</author>
+<author pid="32/9125">Daniel Andrade</author>
+<title>Critical Factors for a Reliable AI in Tutoring Systems on Accuracy, Effectiveness, and Responsibility.</title>
+<pages>1-9</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10893361</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#MaiaSLFLA24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/SantosSF24" mdate="2025-06-17">
+<author pid="83/2310">Simone C. dos Santos</author>
+<author pid="407/5651">Warley Soares de Souza</author>
+<author pid="366/5217">Pedro A. A. Falc&#227;o</author>
+<title>Soft Skills in Remote Software Development: A Comparative Study Between the Demands of the Biggest and the Best to Work IT Companies.</title>
+<pages>1-9</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10893029</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#SantosSF24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/SilvaMSS24" mdate="2025-06-17">
+<author pid="407/5585">Ewerton F. F. Silva</author>
+<author pid="334/8131">Davi M. Maia</author>
+<author pid="83/2310">Simone Cristiane dos Santos</author>
+<author pid="407/5097">Alixandre F. Santana</author>
+<title>An Intelligent Tutoring System Proposal Based on Chatbot and Learning Styles to the Project Management Study.</title>
+<pages>1-8</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10893385</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#SilvaMSS24</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/iceis/SantosNVFM24" mdate="2024-10-06">
@@ -699,11 +742,12 @@
 <url>db/conf/sbes/sbes1995.html#SantosS95</url>
 </inproceedings>
 </r>
-<coauthors n="82" nc="8">
+<coauthors n="89" nc="8">
 <co c="1"><na f="a/Abranches:S=eacute=rgio_Paulino" pid="367/5553">S&#233;rgio Paulino Abranches</na></co>
 <co c="0"><na f="a/Albuquerque:Jones_O=" pid="27/3350">Jones O. Albuquerque</na></co>
 <co c="0"><na f="a/Alexandre:Gustavo_H=_S=" pid="09/8925">Gustavo H. S. Alexandre</na></co>
 <co c="0"><na f="a/Almeida:Myllena" pid="350/0928">Myllena Almeida</na></co>
+<co c="0"><na f="a/Andrade:Daniel" pid="32/9125">Daniel Andrade</na></co>
 <co c="0"><na f="a/Angelim:S=eacute=rgio" pid="16/4111">S&#233;rgio Angelim</na></co>
 <co c="0"><na f="a/Ara=uacute=jo:Eric" pid="296/6119">Eric Ara&#250;jo</na></co>
 <co c="1"><na f="a/Arruda:F=aacute=bio" pid="286/2235">F&#225;bio Arruda</na></co>
@@ -731,6 +775,7 @@
 <co c="0"><na f="f/Figueroa:Felipe" pid="377/0410">Felipe Figueroa</na></co>
 <co c="1"><na f="f/Filho:Osm=aacute=rio_de_Carvalho_Santos" pid="293/6213">Osm&#225;rio de Carvalho Santos Filho</na></co>
 <co c="5"><na f="f/Fonseca:Laio_da" pid="211/5087">Laio da Fonseca</na></co>
+<co c="0"><na f="f/Franca:Vin=iacute=cius_Luiz" pid="407/5000">Vin&#237;cius Luiz Franca</na></co>
 <co c="0" n="2"><na f="f/Furtado:Ana_Paula_Carvalho_Cavalcanti" pid="120/2724">Ana Paula Carvalho Cavalcanti Furtado</na><na>Ana Paula C. Cavalcanti</na></co>
 <co c="0"><na f="g/Garcia:Vinicius_Cardoso" pid="g/ViniciusCardosoGarcia">Vinicius Cardoso Garcia</na></co>
 <co c="0"><na f="g/Gomes:Henrique" pid="403/6525">Henrique Gomes</na></co>
@@ -738,12 +783,14 @@
 <co c="0"><na f="g/Guerra:Guilherme" pid="403/6626">Guilherme Guerra</na></co>
 <co c="-1"><na f="j/Junior:Gilberto_A=_S=" pid="376/4326">Gilberto A. S. Junior</na></co>
 <co c="4"><na f="l/Leite:Gabriel" pid="334/8317">Gabriel Leite</na></co>
+<co c="0"><na f="l/Lima:Alexsandro_Henrique" pid="407/5348">Alexsandro Henrique Lima</na></co>
+<co c="0"><na f="l/Lima:Luis_Gabriel" pid="180/7323">Luis Gabriel Lima</na></co>
 <co c="0"><na f="l/Lins:Walquiria" pid="193/3926">Walquiria Lins</na></co>
 <co c="0"><na f="l/Lira:Danilo" pid="350/0801">Danilo Lira</na></co>
 <co c="0"><na f="l/Lopes:Gustavo_Bernardo" pid="296/6262">Gustavo Bernardo Lopes</na></co>
 <co c="1"><na f="l/Lopes:Rosemara_P=" pid="368/4924">Rosemara P. Lopes</na></co>
 <co c="0"><na f="m/Mac=Hamilton:Gabriel" pid="350/0697">Gabriel Mac'Hamilton</na></co>
-<co c="0"><na f="m/Maia:Davi" pid="334/8131">Davi Maia</na></co>
+<co c="0" n="2"><na f="m/Maia:Davi" pid="334/8131">Davi Maia</na><na>Davi M. Maia</na></co>
 <co c="0"><na f="m/Martins:Dairon_E=" pid="377/0644">Dairon E. Martins</na></co>
 <co c="0"><na f="m/Meira:Silvio_Romero_de_Lemos" pid="m/SRdeLemosMeira">Silvio Romero de Lemos Meira</na></co>
 <co c="0"><na f="m/Monte:Ana_Cl=aacute=udia" pid="193/4623">Ana Cl&#225;udia Monte</na></co>
@@ -761,17 +808,20 @@
 <co c="0"><na f="r/Rocha:Thiago_C=" pid="377/0466">Thiago C. Rocha</na></co>
 <co c="0"><na f="r/Rodrigues:Ariane_Nunes" pid="173/1392">Ariane Nunes Rodrigues</na></co>
 <co c="2"><na f="r/Rossi:Pedro" pid="237/6790">Pedro Rossi</na></co>
+<co c="0"><na f="s/Santana:Alixandre_F=" pid="407/5097">Alixandre F. Santana</na></co>
 <co c="2"><na f="s/Santana:Eden" pid="237/6945">Eden Santana</na></co>
 <co c="2"><na f="s/Santana:Lucas" pid="237/6951">Lucas Santana</na></co>
 <co c="3"><na f="s/Santoro:Fl=aacute=via_Maria" pid="33/6173">Fl&#225;via Maria Santoro</na></co>
 <co c="1"><na f="s/Santos:Cl=aacute=udia_da_Silva" pid="367/5454">Cl&#225;udia da Silva Santos</na></co>
 <co c="0"><na f="s/Santos:Pedro" pid="67/417">Pedro Santos</na></co>
 <co c="0"><na f="s/Silva:Daniel_J=" pid="262/5179">Daniel J. Silva</na></co>
+<co c="0"><na f="s/Silva:Ewerton_F=_F=" pid="407/5585">Ewerton F. F. Silva</na></co>
 <co c="0"><na f="s/Silva:Fabio_Q=_B=_da" pid="66/5081">Fabio Q. B. da Silva</na></co>
 <co c="0"><na f="s/Siqueira:Anderson" pid="296/5946">Anderson Siqueira</na></co>
 <co c="0"><na f="s/Soares:Felipe_Santana_Furtado" pid="39/3164">Felipe Santana Furtado Soares</na></co>
 <co c="0"><na f="s/Souza:Priscila_B=" pid="219/0752">Priscila B. Souza</na></co>
 <co c="1"><na f="s/Souza:Victor_Louis_Rosa_de" pid="367/5440">Victor Louis Rosa de Souza</na></co>
+<co c="0"><na f="s/Souza:Warley_Soares_de" pid="407/5651">Warley Soares de Souza</na></co>
 <co c="0"><na f="s/Stadtler:Gabriel" pid="350/0256">Gabriel Stadtler</na></co>
 <co c="0" n="2"><na f="t/Tedesco:Patr=iacute=cia_C=_A=_R=" pid="99/8925">Patr&#237;cia C. A. R. Tedesco</na><na>Patr&#237;cia Azevedo Tedesco</na></co>
 <co c="2"><na f="t/Torres_0007:Pedro" pid="16/1843-7">Pedro Torres 0007</na></co>

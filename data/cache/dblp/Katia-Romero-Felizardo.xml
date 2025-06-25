@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="K&#225;tia Romero Felizardo" pid="53/8384" n="89">
+<dblpperson name="K&#225;tia Romero Felizardo" pid="53/8384" n="90">
 <person key="homepages/53/8384" mdate="2025-01-10">
 <author pid="53/8384">K&#225;tia Romero Felizardo</author>
 <author pid="53/8384">K&#225;tia Romero Felizardo Scannavino</author>
@@ -38,6 +38,21 @@
 <url>db/journals/scp/scp244.html#SilvaSSMF25</url>
 <stream>streams/journals/scp</stream>
 </article>
+</r>
+<r><inproceedings key="conf/csee/SantosFSSG25" mdate="2025-06-23">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Ossdoorway: A Gamified Environment to Scaffold Student Contributions to Open Source Software.</title>
+<pages>325-335</pages>
+<year>2025</year>
+<booktitle>CSEE&#38;T</booktitle>
+<ee>https://doi.org/10.1109/CSEET66350.2025.00041</ee>
+<crossref>conf/csee/2025</crossref>
+<url>db/conf/csee/csee2025.html#SantosFSSG25</url>
+</inproceedings>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-2502-07763" mdate="2025-03-12">
 <author pid="203/0063">&#205;talo Santos</author>

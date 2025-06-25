@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Jos&#233; Viterbo" pid="15/374" n="150">
+<dblpperson name="Jos&#233; Viterbo" pid="15/374" n="151">
 <person key="homepages/15/374" mdate="2020-05-19">
 <author pid="15/374">Jos&#233; Viterbo</author>
 <author pid="15/374">Jos&#233; Viterbo Filho</author>
@@ -10,9 +10,9 @@
 <url>http://lattes.cnpq.br/8721187139726277</url>
 <note type="affiliation">Fluminense Federal University, Niter&#243;i, Brazil</note>
 </person>
-<r><article key="journals/jserd/MouraoTVSSP25" mdate="2025-05-31">
+<r><article key="journals/jserd/MouraoTVSSP25" mdate="2025-06-11">
 <author orcid="0000-0001-7916-0143" pid="205/0082">&#201;rica Mour&#227;o</author>
-<author pid="t/DanielaGorskiTrevisan">Daniela Trevisan 0001</author>
+<author orcid="0000-0003-4736-0460" pid="t/DanielaGorskiTrevisan">Daniela Trevisan 0001</author>
 <author pid="15/374">Jos&#233; Viterbo</author>
 <author orcid="0000-0001-9214-7605" pid="287/1629">Ana Paula Sobral</author>
 <author orcid="0000-0003-1026-8775" pid="232/5610">Monica da Silva</author>
@@ -26,6 +26,23 @@
 <url>db/journals/jserd/jserd13.html#MouraoTVSSP25</url>
 <stream>streams/journals/jserd</stream>
 </article>
+</r>
+<r><inproceedings key="conf/educon/FrigoCSVOGM25" mdate="2025-06-13">
+<author pid="15/4443">Luciana Bolan Frigo</author>
+<author pid="407/2929">Joice P. Cardoso</author>
+<author pid="407/2959">Maria T. S. Santos</author>
+<author pid="15/374">Jos&#233; Viterbo</author>
+<author pid="84/4026">Fabr&#237;cio de Oliveira Ourique</author>
+<author pid="83/667">Isabela Gasparini</author>
+<author pid="407/3069">Analucia S. Morales</author>
+<title>What Do the Data Reveal About Women and Men in Technology?</title>
+<pages>1-10</pages>
+<year>2025</year>
+<booktitle>EDUCON</booktitle>
+<ee>https://doi.org/10.1109/EDUCON62633.2025.11016522</ee>
+<crossref>conf/educon/2025</crossref>
+<url>db/conf/educon/educon2025.html#FrigoCSVOGM25</url>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/iceis/LimaSMPLV25" mdate="2025-05-02">
 <author pid="351/6372">Gabriel Ramos Alves de Lima</author>
@@ -43,10 +60,10 @@
 <url>db/conf/iceis/iceis2025-1.html#LimaSMPLV25</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/tvx/PalhanosVC25" mdate="2025-06-02">
-<author pid="406/3581">Luciana Rocha Palhanos</author>
+<r><inproceedings key="conf/tvx/PalhanosVC25" mdate="2025-06-11">
+<author orcid="0009-0003-8030-9293" pid="406/3581">Luciana Rocha Palhanos</author>
 <author pid="15/374">Jos&#233; Viterbo</author>
-<author pid="c/AuraConci">Aura Conci</author>
+<author orcid="0000-0003-0782-2501" pid="c/AuraConci">Aura Conci</author>
 <title>Livras: An App to Help Women at Risk.</title>
 <pages>148-157</pages>
 <year>2025</year>
@@ -2222,7 +2239,7 @@
 <url>db/conf/sbac-pad/sbac-pad2004.html#BoeresFR04</url>
 </inproceedings>
 </r>
-<coauthors n="187" nc="1">
+<coauthors n="192" nc="1">
 <co c="0"><na f="a/Abreu:Jorge_Ferraz_de" pid="131/4739">Jorge Ferraz de Abreu</na></co>
 <co c="0"><na f="a/Afonso:Orlando_P=" pid="182/4287">Orlando P. Afonso</na></co>
 <co c="0"><na f="a/Alexandre:Tielle" pid="246/7992">Tielle Alexandre</na></co>
@@ -2258,6 +2275,7 @@
 <co c="0"><na f="c/C=acirc=mara:Juliana" pid="350/7845">Juliana C&#226;mara</na></co>
 <co c="0"><na f="c/C=acirc=mara:Pedro" pid="232/1791">Pedro C&#226;mara</na></co>
 <co c="0" n="2"><na f="c/Caraballo:Alexander_Arturo_Mera" pid="62/10894">Alexander Arturo Mera Caraballo</na><na>Alexander Mera</na></co>
+<co c="0"><na f="c/Cardoso:Joice_P=" pid="407/2929">Joice P. Cardoso</na></co>
 <co c="0"><na f="c/Casagrande:Ana_Lara" pid="338/0289">Ana Lara Casagrande</na></co>
 <co c="0"><na f="c/Casals:Arthur" pid="216/8284">Arthur Casals</na></co>
 <co c="0" n="2"><na f="c/Casanova:Marco_A=" pid="c/MarcoACasanova">Marco A. Casanova</na><na>Marco Antonio Casanova</na></co>
@@ -2281,6 +2299,7 @@
 <co c="0"><na f="f/Fontes:Sergio" pid="376/8002">Sergio Fontes</na></co>
 <co c="0"><na f="f/Franzosi:Ednylton" pid="117/6262">Ednylton Franzosi</na></co>
 <co c="0"><na f="f/Freitas:T=aacute=ssia" pid="99/8383">T&#225;ssia Freitas</na></co>
+<co c="0" n="2"><na f="f/Frigo:Luciana" pid="15/4443">Luciana Frigo</na><na>Luciana Bolan Frigo</na></co>
 <co c="0"><na f="g/Galv=atilde=o:Vin=iacute=cius_Ferreira" pid="215/7041">Vin&#237;cius Ferreira Galv&#227;o</na></co>
 <co c="0"><na f="g/Gama:Vinicius" pid="117/6289">Vinicius Gama</na></co>
 <co c="0"><na f="g/Garcia:Ana_Cristina_Bicharra" pid="45/6671">Ana Cristina Bicharra Garcia</na></co>
@@ -2337,6 +2356,7 @@
 <co c="0"><na f="m/Monteiro:Rodrigo_Salvador" pid="89/5975">Rodrigo Salvador Monteiro</na></co>
 <co c="0"><na f="m/Moor:Katrien_De" pid="98/6428">Katrien De Moor</na></co>
 <co c="0"><na f="m/Moraes:Igor_M=" pid="32/6032">Igor M. Moraes</na></co>
+<co c="0"><na f="m/Morales:Analucia_S=" pid="407/3069">Analucia S. Morales</na></co>
 <co c="0"><na f="m/Moran:Maira_Beatriz_Hernandez" pid="209/6657">Maira Beatriz Hernandez Moran</na></co>
 <co c="0"><na f="m/Moret:Danilo" pid="29/11498">Danilo Moret</na></co>
 <co c="0"><na f="m/Mour=atilde=o:=Eacute=rica" pid="205/0082">&#201;rica Mour&#227;o</na></co>
@@ -2347,6 +2367,7 @@
 <co c="0"><na f="o/Oliveira:Eduardo" pid="289/4025">Eduardo Oliveira</na></co>
 <co c="0"><na f="o/Oliveira:Roberta_S=" pid="278/1684">Roberta S. Oliveira</na></co>
 <co c="0"><na f="o/Oliveira:Thiago_Nazareth_de" pid="149/1490">Thiago Nazareth de Oliveira</na></co>
+<co c="0" n="2"><na f="o/Ourique:Fabr=iacute=cio" pid="84/4026">Fabr&#237;cio Ourique</na><na>Fabr&#237;cio de Oliveira Ourique</na></co>
 <co c="0"><na f="p/Paiva:Daniel_Costa_de" pid="152/5755">Daniel Costa de Paiva</na></co>
 <co c="0"><na f="p/Paiva:Magaywer_Moreira_de" pid="328/1362">Magaywer Moreira de Paiva</na></co>
 <co c="0"><na f="p/Paixao:Jose_Augusto" pid="392/8294">Jose Augusto Paixao</na></co>
@@ -2374,6 +2395,7 @@
 <co c="0"><na f="s/Sampaio:Igor_Garcia_Ballhausen" pid="252/0343">Igor Garcia Ballhausen Sampaio</na></co>
 <co c="0"><na f="s/Sanchez:Maria_Luiza" pid="132/6539">Maria Luiza Sanchez</na></co>
 <co c="0"><na f="s/Santos:Dayany_A=_C=" pid="244/6148">Dayany A. C. Santos</na></co>
+<co c="0"><na f="s/Santos:Maria_T=_S=" pid="407/2959">Maria T. S. Santos</na></co>
 <co c="0"><na f="s/Santos:Patrick" pid="64/10457">Patrick Santos</na></co>
 <co c="0"><na f="s/Santos:Rodrigo_Pereira_dos" pid="57/7989">Rodrigo Pereira dos Santos</na></co>
 <co c="0"><na f="s/Santos:Victor" pid="89/4545">Victor Santos</na></co>

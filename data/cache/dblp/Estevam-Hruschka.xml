@@ -10,7 +10,7 @@
 <url>http://www.cs.cmu.edu/~estevam/</url>
 <url>https://scholar.google.com/citations?user=19J-aOkAAAAJ</url>
 </person>
-<r><inproceedings key="conf/naacl/OtaniBH25" mdate="2025-05-21">
+<r><inproceedings key="conf/naacl/OtaniBH25" mdate="2025-06-13">
 <author pid="174/2211">Naoki Otani</author>
 <author pid="188/9073">Nikita Bhutani</author>
 <author pid="294/1598">Estevam Hruschka</author>
@@ -18,13 +18,14 @@
 <pages>583-597</pages>
 <year>2025</year>
 <booktitle>NAACL (Volume 3: Industry Track)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2025.naacl-industry.47</ee>
 <ee type="oa">https://aclanthology.org/2025.naacl-industry.47/</ee>
 <crossref>conf/naacl/2025-3</crossref>
 <url>db/conf/naacl/naacl2025-3.html#OtaniBH25</url>
 <stream>streams/conf/naacl</stream>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/naacl/IsoPBH25" mdate="2025-05-21">
+<r><inproceedings key="conf/naacl/IsoPBH25" mdate="2025-06-13">
 <author pid="191/6033">Hayate Iso</author>
 <author pid="159/1696">Pouya Pezeshkpour</author>
 <author pid="188/9073">Nikita Bhutani</author>
@@ -33,26 +34,28 @@
 <pages>672-683</pages>
 <year>2025</year>
 <booktitle>NAACL (Volume 3: Industry Track)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2025.naacl-industry.55</ee>
 <ee type="oa">https://aclanthology.org/2025.naacl-industry.55/</ee>
 <crossref>conf/naacl/2025-3</crossref>
 <url>db/conf/naacl/naacl2025-3.html#IsoPBH25</url>
 <stream>streams/conf/naacl</stream>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/naacl/PezeshkpourH25" mdate="2025-05-21">
+<r><inproceedings key="conf/naacl/PezeshkpourH25" mdate="2025-06-13">
 <author pid="159/1696">Pouya Pezeshkpour</author>
 <author pid="294/1598">Estevam Hruschka</author>
 <title>Multi-Conditional Ranking with Large Language Models.</title>
 <pages>2863-2883</pages>
 <year>2025</year>
 <booktitle>NAACL (Long Papers)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2025.naacl-long.146</ee>
 <ee type="oa">https://aclanthology.org/2025.naacl-long.146/</ee>
 <crossref>conf/naacl/2025-1</crossref>
 <url>db/conf/naacl/naacl2025-1.html#PezeshkpourH25</url>
 <stream>streams/conf/naacl</stream>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/naacl/BelemPIMBH25" mdate="2025-05-15">
+<r><inproceedings key="conf/naacl/BelemPIMBH25" mdate="2025-06-13">
 <author pid="377/3756">Catarina G. Bel&#233;m</author>
 <author pid="159/1696">Pouya Pezeshkpour</author>
 <author pid="191/6033">Hayate Iso</author>
@@ -63,6 +66,7 @@
 <pages>5276-5309</pages>
 <year>2025</year>
 <booktitle>NAACL (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2025.findings-naacl.293</ee>
 <ee type="oa">https://aclanthology.org/2025.findings-naacl.293/</ee>
 <crossref>conf/naacl/2025f</crossref>
 <url>db/conf/naacl/naacl2025f.html#BelemPIMBH25</url>

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Jussara M. Almeida" pid="34/5480" n="300">
+<dblpperson name="Jussara M. Almeida" pid="34/5480" n="301">
 <person key="homepages/34/5480" mdate="2025-01-10">
 <author pid="34/5480">Jussara M. Almeida</author>
 <author pid="34/5480">Jussara Marques de Almeida</author>
@@ -21,8 +21,8 @@
 <url>db/conf/icwsm/icwsm2025.html#PaolettiAVGM25</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/websci/SilvaGMA25" mdate="2025-05-31">
-<author pid="405/9836">Luana Assis Silva</author>
+<r><inproceedings key="conf/websci/SilvaGMA25" mdate="2025-06-11">
+<author orcid="0009-0005-1742-7494" pid="405/9836">Luana Assis Silva</author>
 <author orcid="0009-0000-4532-5958" pid="21/9882">K&#234;nia Carolina Gon&#231;alves</author>
 <author orcid="0000-0002-3164-8323" pid="49/2329">Humberto T. Marques-Neto</author>
 <author orcid="0000-0001-9142-2919" pid="34/5480">Jussara M. Almeida</author>
@@ -35,8 +35,8 @@
 <url>db/conf/websci/websci2025.html#SilvaGMA25</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/websci/VasconcelosFSA25" mdate="2025-05-31">
-<author pid="405/9679">Francisco Figueiredo Vasconcelos</author>
+<r><inproceedings key="conf/websci/VasconcelosFSA25" mdate="2025-06-11">
+<author orcid="0009-0000-8783-8890" pid="405/9679">Francisco Figueiredo Vasconcelos</author>
 <author orcid="0000-0001-9107-6884" pid="191/5948">Carlos Henrique Gomes Ferreira</author>
 <author orcid="0000-0001-7026-0543" pid="405/9518">Alexandre Magno de Sousa</author>
 <author orcid="0000-0001-9142-2919" pid="34/5480">Jussara M. Almeida</author>
@@ -49,13 +49,13 @@
 <url>db/conf/websci/websci2025.html#VasconcelosFSA25</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/www/PerloPJVAM25" mdate="2025-05-26">
-<author pid="386/7372">Alessandro Perlo</author>
-<author pid="356/3590">Giordano Paoletti</author>
-<author pid="289/2565">Nikhil Jha</author>
-<author pid="136/5733">Luca Vassio</author>
-<author pid="34/5480">Jussara M. Almeida</author>
-<author pid="18/6316">Marco Mellia</author>
+<r><inproceedings key="conf/www/PerloPJVAM25" mdate="2025-06-11">
+<author orcid="0009-0007-0264-8985" pid="386/7372">Alessandro Perlo</author>
+<author orcid="0000-0002-1764-7666" pid="356/3590">Giordano Paoletti</author>
+<author orcid="0000-0002-7533-4051" pid="289/2565">Nikhil Jha</author>
+<author orcid="0000-0002-2920-1856" pid="136/5733">Luca Vassio</author>
+<author orcid="0000-0001-9142-2919" pid="34/5480">Jussara M. Almeida</author>
+<author orcid="0000-0003-1859-6693" pid="18/6316">Marco Mellia</author>
 <title>Topic-wise Exploration of the Telegram Group-verse.</title>
 <pages>1792-1801</pages>
 <year>2025</year>
@@ -211,6 +211,20 @@
 <url>db/journals/tsas/tsas10.html#MokbelSXZAAAAACCCCFGGGJ24</url>
 <stream>streams/journals/tsas</stream>
 </article>
+</r>
+<r><inproceedings key="conf/asunam/CruzPAM24" mdate="2025-06-16">
+<author pid="382/9516">Jo&#227;o Paulo Oliveira Cruz</author>
+<author pid="184/8925">Lucia C. Passaro</author>
+<author pid="34/5480">Jussara M. Almeida</author>
+<author pid="49/2329">Humberto Torres Marques-Neto</author>
+<title>Characterizing Fashion Influencers' Behavior on Instagram.</title>
+<pages>427</pages>
+<year>2024</year>
+<booktitle>ASONAM (Workshops)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-85386-9_33</ee>
+<crossref>conf/asunam/2024w</crossref>
+<url>db/conf/asunam/asonam2024w.html#CruzPAM24</url>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/eurosp/GioacchiniSLDMAG24" mdate="2024-10-06">
 <author orcid="0000-0001-8258-8626" pid="246/8361">Luca Gioacchini</author>

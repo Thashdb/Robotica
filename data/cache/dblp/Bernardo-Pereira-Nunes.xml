@@ -5,8 +5,8 @@
 <url>https://orcid.org/0000-0001-9764-9401</url>
 <url>https://www.wikidata.org/entity/Q130804302</url>
 </person>
-<r><inproceedings key="conf/www/YangNM25" mdate="2025-05-31">
-<author pid="38/6056">Can Yang</author>
+<r><inproceedings key="conf/www/YangNM25" mdate="2025-06-11">
+<author orcid="0000-0002-0223-659X" pid="38/6056">Can Yang</author>
 <author orcid="0000-0001-9764-9401" pid="08/10894">Bernardo Pereira Nunes</author>
 <author orcid="0000-0001-7203-8399" pid="402/8122">Sergio Rodr&#237;guez M&#233;ndez</author>
 <title>LLM as Auto-Prompt Engineer: Automated NER Prompt Optimisation.</title>
@@ -1048,7 +1048,7 @@
 <url>db/conf/icalt/icalt2014.html#KawaseSN14</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/kes/KawaseSN14" mdate="2020-03-27">
+<r><inproceedings key="conf/kes/KawaseSN14" mdate="2025-06-15">
 <author pid="80/3698">Ricardo Kawase</author>
 <author pid="18/727">Patrick Siehndel</author>
 <author orcid="0000-0001-9764-9401" pid="08/10894">Bernardo Pereira Nunes</author>
@@ -1056,7 +1056,7 @@
 <pages>551-559</pages>
 <year>2014</year>
 <booktitle>KES</booktitle>
-<ee>https://doi.org/10.1016/j.procs.2014.08.136</ee>
+<ee type="oa">https://doi.org/10.1016/j.procs.2014.08.136</ee>
 <crossref>conf/kes/2014</crossref>
 <url>db/conf/kes/kes2014.html#KawaseSN14</url>
 </inproceedings>

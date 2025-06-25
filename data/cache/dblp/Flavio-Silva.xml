@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Fl&#225;vio Oliveira Silva 0001" pid="02/979" n="78">
+<dblpperson name="Fl&#225;vio Oliveira Silva 0001" pid="02/979" n="79">
 <person key="homepages/02/979" mdate="2022-07-22">
 <author pid="02/979">Fl&#225;vio Oliveira Silva 0001</author>
 <author pid="02/979">Fl&#225;vio de Oliveira Silva 0001</author>
@@ -78,6 +78,22 @@
 <crossref>conf/aina/2025-1</crossref>
 <url>db/conf/aina/aina2025-1.html#Oliveira025</url>
 </inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-12132" mdate="2025-06-23">
+<author pid="224/6898">Rodrigo Moreira</author>
+<author pid="57/2831">Tereza Cristina M. B. Carvalho</author>
+<author pid="02/979">Fl&#225;vio Oliveira Silva 0001</author>
+<author pid="14/2269">Nazim Agoulmine</author>
+<author pid="m/JMartins">Joberto S. B. Martins</author>
+<title>Towards Sustainability in 6G Network Slicing with Energy-Saving and Optimization Methods.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.12132</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.12132</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-12132</url>
+<stream>streams/journals/corr</stream>
+</article>
 </r>
 <r><article key="journals/cn/AlbertiPRLBFMS24" mdate="2024-09-08">
 <author orcid="0000-0002-0947-8575" pid="51/4339">Ant&#244;nio Marcos Alberti</author>
@@ -1226,8 +1242,9 @@
 <url>db/conf/IEEEscc/scc2004.html#SilvaPR04</url>
 </inproceedings>
 </r>
-<coauthors n="108" nc="2">
+<coauthors n="109" nc="2">
 <co c="0" n="2"><na f="a/Abel=eacute=m:Ant=ocirc=nio_J=_G=" pid="16/7815">Ant&#244;nio J. G. Abel&#233;m</na><na>Ant&#244;nio Jorge Gomes Abel&#233;m</na></co>
+<co c="0"><na f="a/Agoulmine:Nazim" pid="14/2269">Nazim Agoulmine</na></co>
 <co c="0" n="2"><na f="a/Aguiar:Rui_L=" pid="53/223">Rui L. Aguiar</na><na>Rui Luis Andrade Aguiar</na></co>
 <co c="0"><na f="a/Alberti:Ant=ocirc=nio_Marcos" pid="51/4339">Ant&#244;nio Marcos Alberti</na></co>
 <co c="0"><na f="a/Almeida:J=ocirc=natan" pid="366/3664">J&#244;natan Almeida</na></co>
@@ -1285,6 +1302,7 @@
 <co c="0"><na f="m/Miani:Rodrigo_Sanches" pid="19/7303">Rodrigo Sanches Miani</na></co>
 <co c="0"><na f="m/Molinos:Diego_Nunes" pid="181/1353">Diego Nunes Molinos</na></co>
 <co c="0" n="2"><na f="m/Monteiro:Jos=eacute=_A=_S=" pid="76/2855">Jos&#233; A. S. Monteiro</na><na>Jos&#233; Augusto Suruagy Monteiro</na></co>
+<co c="0" n="3"><na f="m/Moreira:Larissa_F=_Rodrigues" pid="208/7446">Larissa F. Rodrigues Moreira</na><na>Larissa Ferreira Rodrigues Moreira</na><na>Larissa Ferreira Rodrigues</na></co>
 <co c="0"><na f="m/Moreira:Rodrigo" pid="224/6898">Rodrigo Moreira</na></co>
 <co c="0"><na f="m/Moura:Mauro" pid="205/5489">Mauro Moura</na></co>
 <co c="0"><na f="n/Nejabati:Reza" pid="45/6451">Reza Nejabati</na></co>
@@ -1309,7 +1327,6 @@
 <co c="0"><na f="r/Rezende:Tib=eacute=rio_Tavares" pid="355/5387">Tib&#233;rio Tavares Rezende</na></co>
 <co c="0"><na f="r/Ribeiro:Mois=eacute=s_R=_N=" pid="20/1896">Mois&#233;s R. N. Ribeiro</na></co>
 <co c="0"><na f="r/Richards:Vincent_Melval" pid="266/6001">Vincent Melval Richards</na></co>
-<co c="0" n="2"><na f="r/Rodrigues:Larissa_Ferreira" pid="208/7446">Larissa Ferreira Rodrigues</na><na>Larissa Ferreira Rodrigues Moreira</na></co>
 <co c="0"><na f="r/Rosa:Eduardo_Castilho" pid="312/5260">Eduardo Castilho Rosa</na></co>
 <co c="0"><na f="r/Rosa:Pedro_Frosi" pid="25/6464">Pedro Frosi Rosa</na></co>
 <co c="0" n="2"><na f="s/Sampaio:Leobino_Nascimento" pid="56/3926">Leobino Nascimento Sampaio</na><na>Leobino N. Sampaio</na></co>

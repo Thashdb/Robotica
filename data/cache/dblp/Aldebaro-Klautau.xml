@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Aldebaro Klautau" pid="44/1366" n="112">
+<dblpperson name="Aldebaro Klautau" pid="44/1366" n="113">
 <person key="homepages/44/1366" mdate="2022-11-27">
 <author pid="44/1366">Aldebaro Klautau</author>
 <author pid="44/1366">Aldebaro Barreto da Rocha Klautau Jr.</author>
@@ -39,6 +39,29 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2504.09751</ee>
 <url>db/journals/corr/corr2504.html#abs-2504-09751</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-04879" mdate="2025-06-20">
+<author pid="407/7580">Rebecca Aben-Athar</author>
+<author pid="407/7413">Heitor Anglada</author>
+<author pid="261/8410">Lucas Costa</author>
+<author pid="272/3524">Jo&#227;o Albuquerque</author>
+<author pid="407/7598">Abrah&#227;o Ferreira</author>
+<author pid="07/2040">Cristiano Bonato Both</author>
+<author pid="32/10675">Kleber Vieira Cardoso</author>
+<author pid="256/6274">Silvia Lins</author>
+<author pid="228/2530">Andrey Silva</author>
+<author pid="407/7667">Glauco Gon&#231;alves</author>
+<author pid="275/4442">Ilan Correa</author>
+<author pid="44/1366">Aldebaro Klautau</author>
+<title>Network Digital Twin for Route Optimization in 5G/B5G Transport Slicing with What-If Analysis.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.04879</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.04879</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-04879</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -1709,15 +1732,18 @@
 <url>db/journals/tip/tip8.html#Jr99</url>
 </article>
 </r>
-<coauthors n="162" nc="2">
+<coauthors n="168" nc="2">
+<co c="0"><na f="a/Aben=Athar:Rebecca" pid="407/7580">Rebecca Aben-Athar</na></co>
 <co c="0"><na f="a/Abrahim:Harney" pid="169/0471">Harney Abrahim</na></co>
 <co c="0"><na f="a/Acatauassu:Diogo" pid="85/9870">Diogo Acatauassu</na></co>
 <co c="0" n="2"><na f="a/Adami:Andr=eacute=" pid="59/974">Andr&#233; Adami</na><na>Andr&#233; Gustavo Adami</na></co>
+<co c="0"><na f="a/Albuquerque:Jo=atilde=o" pid="272/3524">Jo&#227;o Albuquerque</na></co>
 <co c="0"><na f="a/Ali:Anum" pid="127/4757">Anum Ali</na></co>
 <co c="0"><na f="a/Almeida:Gabriel_Matheus_de" pid="286/5128">Gabriel Matheus de Almeida</na></co>
 <co c="0"><na f="a/Almeida:Igor" pid="82/5163">Igor Almeida</na></co>
 <co c="0"><na f="a/Alves:Wesin" pid="296/8907">Wesin Alves</na></co>
 <co c="0"><na f="a/Anbazhagan:Sivasankari_S=" pid="384/5695">Sivasankari S. Anbazhagan</na></co>
+<co c="0"><na f="a/Anglada:Heitor" pid="407/7413">Heitor Anglada</na></co>
 <co c="0"><na f="a/Araujo:Fabiola" pid="134/0825">Fabiola Araujo</na></co>
 <co c="0"><na f="a/Ara=uacute=jo:Ivanes" pid="235/3824">Ivanes Ara&#250;jo</na></co>
 <co c="0"><na f="a/Arnhold:Felipe" pid="384/5589">Felipe Arnhold</na></co>
@@ -1748,6 +1774,7 @@
 <co c="0"><na f="c/Cederholm:Daniel" pid="10/7442">Daniel Cederholm</na></co>
 <co c="0"><na f="c/Correa:Ilan" pid="275/4442">Ilan Correa</na></co>
 <co c="0" n="2"><na f="c/Costa:Jo=atilde=o_C=_W=_A=" pid="53/590">Jo&#227;o C. W. A. Costa</na><na>Jo&#227;o Costa 0001</na></co>
+<co c="0"><na f="c/Costa:Lucas" pid="261/8410">Lucas Costa</na></co>
 <co c="0"><na f="c/Couto:Igor" pid="25/4546">Igor Couto</na></co>
 <co c="0"><na f="c/Cruz:Regina" pid="203/6038">Regina Cruz</na></co>
 <co c="0"><na f="c/Cunha:Renan_F=" pid="249/9613">Renan F. Cunha</na></co>
@@ -1759,6 +1786,7 @@
 <co c="0"><na f="d/Dutra:Rodrigo" pid="309/5458">Rodrigo Dutra</na></co>
 <co c="0"><na f="e/Ericson:Klas" pid="00/211">Klas Ericson</na></co>
 <co c="0"><na f="e/Eriksson:Per=Erik" pid="19/10586">Per-Erik Eriksson</na></co>
+<co c="0"><na f="f/Ferreira:Abrah=atilde=o" pid="407/7598">Abrah&#227;o Ferreira</na></co>
 <co c="0"><na f="f/Fertner:Antoni" pid="88/10814">Antoni Fertner</na></co>
 <co c="0"><na f="f/Figueiredo:Diego" pid="309/5480">Diego Figueiredo</na></co>
 <co c="0"><na f="f/Figueiredo:Felipe_A=_P=_de" pid="132/7977">Felipe A. P. de Figueiredo</na></co>
@@ -1774,6 +1802,7 @@
 <co c="0"><na f="g/Gomes:Ana" pid="49/7600">Ana Gomes</na></co>
 <co c="0"><na f="g/Gomes:Diego" pid="191/0233">Diego Gomes</na></co>
 <co c="0"><na f="g/Gomes:Diego_de_Azevedo" pid="242/5914">Diego de Azevedo Gomes</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Glauco" pid="407/7667">Glauco Gon&#231;alves</na></co>
 <co c="0"><na f="g/Gon=ccedil=alves:Luan" pid="284/7822">Luan Gon&#231;alves</na></co>
 <co c="0"><na f="g/Gonz=aacute=lez=Prelcic:Nuria" pid="76/6287" bibtex="Nuria {Gonz{\'{a}}lez Prelcic}">Nuria Gonz&#225;lez-Prelcic</na></co>
 <co c="0" n="2"><na f="g/G=uuml=ntzel:Jos=eacute=_Lu=iacute=s" pid="04/3287">Jos&#233; Lu&#237;s G&#252;ntzel</na><na>Jos&#233; Lu&#237;s Almada G&#252;ntzel</na></co>

@@ -1,9 +1,22 @@
 <?xml version="1.0"?>
-<dblpperson name="Jos&#233; Francisco de Magalh&#227;es Netto" pid="152/1696" n="47">
+<dblpperson name="Jos&#233; Francisco de Magalh&#227;es Netto" pid="152/1696" n="48">
 <person key="homepages/152/1696" mdate="2017-01-20">
 <author pid="152/1696">Jos&#233; Francisco de Magalh&#227;es Netto</author>
 <author pid="152/1696">J. F. de Magalh&#227;es Netto</author>
 </person>
+<r><inproceedings key="conf/fie/VieiraMN24" mdate="2025-06-17">
+<author pid="366/4911">Angela Vit&#243;ria Mota Vieira</author>
+<author pid="323/4345">Ramayana Assun&#231;&#227;o Menezes</author>
+<author pid="152/1696">Jos&#233; Francisco de Magalh&#227;es Netto</author>
+<title>A Proposal of Adaptive Learning System for Object-Oriented Programming Education.</title>
+<pages>1-7</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10893496</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#VieiraMN24</url>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/sbgames/GilFN24" mdate="2025-03-03">
 <author pid="244/4267">Adriano M. Gil</author>
 <author orcid="0009-0007-0025-6179" pid="244/4299">Thiago S. Figueira</author>
@@ -624,8 +637,8 @@
 <url>db/conf/isda/isda2009.html#AlbuquerqueSN09</url>
 </inproceedings>
 </r>
-<coauthors n="34" nc="4">
-<co c="3"><na f="a/Albuquerque:Andr=eacute=a_C=_F=" pid="135/0761">Andr&#233;a C. F. Albuquerque</na></co>
+<coauthors n="34" nc="3">
+<co c="2"><na f="a/Albuquerque:Andr=eacute=a_C=_F=" pid="135/0761">Andr&#233;a C. F. Albuquerque</na></co>
 <co c="1"><na f="a/Alencar:Marcio_Aurelio_dos_Santos" pid="152/1691">Marcio Aurelio dos Santos Alencar</na></co>
 <co c="0"><na f="a/Almeida:Thais_Oliveira" pid="211/4812">Thais Oliveira Almeida</na></co>
 <co c="0"><na f="b/Barbosa:Fabiann_Matthaus_Dantas" pid="334/8230">Fabiann Matthaus Dantas Barbosa</na></co>
@@ -636,9 +649,9 @@
 <co c="0"><na f="c/Carvalho:Joethe_Moraes_de" pid="280/6345">Joethe Moraes de Carvalho</na></co>
 <co c="0"><na f="c/Coelho:Filadelfo_da_Costa" pid="334/8333">Filadelfo da Costa Coelho</na></co>
 <co c="0" n="2"><na f="c/Conte:Tayana" pid="48/5">Tayana Conte</na><na>Tayana Uch&#244;a Conte</na></co>
-<co c="2" n="2"><na f="f/Figueira:Thiago_S=" pid="244/4299">Thiago S. Figueira</na><na>Thiago Santos Figueira</na></co>
+<co c="0" n="2"><na f="f/Figueira:Thiago_S=" pid="244/4299">Thiago S. Figueira</na><na>Thiago Santos Figueira</na></co>
 <co c="0"><na f="g/Gerosa:Marco_Aur=eacute=lio" pid="68/5072">Marco Aur&#233;lio Gerosa</na></co>
-<co c="2"><na f="g/Gil:Adriano_M=" pid="244/4267">Adriano M. Gil</na></co>
+<co c="0"><na f="g/Gil:Adriano_M=" pid="244/4267">Adriano M. Gil</na></co>
 <co c="0"><na f="g/Giusti:Rafael" pid="67/1155">Rafael Giusti</na></co>
 <co c="-1"><na f="l/lencar:M=aacute=rcio_eo_dos_Santos" pid="234/9054">M&#225;rcio eo dos Santos lencar</na></co>
 <co c="0" n="2"><na f="l/Lima:Dhanielly_P=_R=_de" pid="211/5085">Dhanielly P. R. de Lima</na><na>Dhanielly Paulina R. de Lima</na></co>
@@ -651,13 +664,13 @@
 <co c="0"><na f="m/Mour=atilde=o:Andreza_Bastos" pid="237/7026">Andreza Bastos Mour&#227;o</na></co>
 <co c="1"><na f="n/Nazareth:Debora_Rabelo" pid="152/1699">Debora Rabelo Nazareth</na></co>
 <co c="0"><na f="r/Rios:Marcel_Leite" pid="211/4864">Marcel Leite Rios</na></co>
-<co c="3"><na f="s/Santos:Jos=eacute=_Laurindo_Campos_dos" pid="88/711">Jos&#233; Laurindo Campos dos Santos</na></co>
+<co c="2"><na f="s/Santos:Jos=eacute=_Laurindo_Campos_dos" pid="88/711">Jos&#233; Laurindo Campos dos Santos</na></co>
 <co c="0"><na f="s/Silva:Euler_Viera_da" pid="309/4747">Euler Viera da Silva</na></co>
 <co c="-1"><na f="s/Silva:Marckson_Monteiro_da" pid="152/4279">Marckson Monteiro da Silva</na></co>
 <co c="0"><na f="s/Silva:Ronilson_Cavalcante_da" pid="366/4668">Ronilson Cavalcante da Silva</na></co>
 <co c="0"><na f="s/Souza:Ricardo_A=_L=_de" pid="286/2261">Ricardo A. L. de Souza</na></co>
 <co c="0"><na f="t/Tamada:Mariela_Mizota" pid="286/2102">Mariela Mizota Tamada</na></co>
-<co c="2"><na f="v/Vieira:Angela_Vit=oacute=ria_Mota" pid="366/4911">Angela Vit&#243;ria Mota Vieira</na></co>
+<co c="0"><na f="v/Vieira:Angela_Vit=oacute=ria_Mota" pid="366/4911">Angela Vit&#243;ria Mota Vieira</na></co>
 <co c="0"><na f="x/Xavier:M=aacute=rcia_de_Souza" pid="286/2488">M&#225;rcia de Souza Xavier</na></co>
 </coauthors>
 </dblpperson>

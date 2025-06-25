@@ -1,11 +1,25 @@
 <?xml version="1.0"?>
-<dblpperson name="Lu&#237;s Henrique Maciel Kosmalski Costa" pid="51/7019" n="139">
+<dblpperson name="Lu&#237;s Henrique Maciel Kosmalski Costa" pid="51/7019" n="140">
 <person key="homepages/51/7019" mdate="2021-01-05">
 <author pid="51/7019">Lu&#237;s Henrique Maciel Kosmalski Costa</author>
 <author pid="51/7019">Lu&#237;s Henrique M. K. Costa</author>
 <url>https://orcid.org/0000-0002-7789-3359</url>
 <url>https://www.wikidata.org/entity/Q96059448</url>
 </person>
+<r><article key="journals/adhoc/AndradeCC25" mdate="2025-06-18">
+<author pid="407/6328">Ian H. de Andrade</author>
+<author pid="51/7019">Lu&#237;s Henrique M. K. Costa</author>
+<author pid="152/6069">Rodrigo De Souza Couto</author>
+<title>Battery life optimization in LoRa networks using spreading factor reallocation.</title>
+<pages>103911</pages>
+<year>2025</year>
+<volume>177</volume>
+<journal>Ad Hoc Networks</journal>
+<ee>https://doi.org/10.1016/j.adhoc.2025.103911</ee>
+<url>db/journals/adhoc/adhoc177.html#AndradeCC25</url>
+<stream>streams/journals/adhoc</stream>
+</article>
+</r>
 <r><article key="journals/adt/CoutoCPSCC24" mdate="2025-03-03">
 <author orcid="0000-0002-6921-7756" pid="152/6069">Rodrigo S. Couto 0001</author>
 <author pid="30/2478-1">Pedro Cruz 0001</author>
@@ -2069,7 +2083,7 @@
 <url>db/conf/icmcs/icmcs99-2.html#CostaD99</url>
 </inproceedings>
 </r>
-<coauthors n="99" nc="1">
+<coauthors n="100" nc="1">
 <co c="0"><na f="a/Abdesslem:Fehmi_Ben" pid="19/3469">Fehmi Ben Abdesslem</na></co>
 <co c="0"><na f="a/Achir:Nadjib" pid="64/7015">Nadjib Achir</na></co>
 <co c="0"><na f="a/Albuquerque:C=eacute=lio_Vinicius_N=_de" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</na></co>
@@ -2078,6 +2092,7 @@
 <co c="0"><na f="a/Amadou:Ibrahim" pid="42/7584">Ibrahim Amadou</na></co>
 <co c="0"><na f="a/Amodei_Jr=:Aurelio" pid="65/2592">Aurelio Amodei Jr.</na></co>
 <co c="0"><na f="a/Amorim:Marcelo_Dias_de" pid="02/1588">Marcelo Dias de Amorim</na></co>
+<co c="0"><na f="a/Andrade:Ian_H=_de" pid="407/6328">Ian H. de Andrade</na></co>
 <co c="0"><na f="a/Antunes:Hugo" pid="214/5245">Hugo Antunes</na></co>
 <co c="0"><na f="a/Avena:Vinicius_O=" pid="396/1164">Vinicius O. Avena</na></co>
 <co c="0"><na f="b/Baron:Benjamin" pid="155/5164">Benjamin Baron</na></co>

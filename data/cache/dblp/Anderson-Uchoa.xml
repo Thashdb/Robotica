@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Anderson G. Uch&#244;a" pid="199/5439" n="40">
+<dblpperson name="Anderson G. Uch&#244;a" pid="199/5439" n="43">
 <person key="homepages/199/5439" mdate="2023-08-31">
 <author pid="199/5439">Anderson G. Uch&#244;a</author>
 <author pid="199/5439">Anderson Gon&#231;alves Uch&#244;a</author>
@@ -21,6 +21,57 @@
 <crossref>conf/sbsi/2025</crossref>
 <url>db/conf/sbsi/sbsi2025.html#MesquitaFGAU25</url>
 </inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-02857" mdate="2025-06-20">
+<author pid="407/7752">Angelica Pereira Souza</author>
+<author pid="199/5439">Anderson G. Uch&#244;a</author>
+<author pid="118/8796">Edna Dias Canedo</author>
+<author pid="139/6642">Juliana Alves Pereira</author>
+<author pid="219/0439">Claudia Pinto Pereira</author>
+<author pid="391/1439">Larissa Rocha 0002</author>
+<title>Overcoming Obstacles: Challenges of Gender Inequality in Undergraduate ICT Programs.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.02857</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.02857</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-02857</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-08005" mdate="2025-06-23">
+<author pid="192/8909">Isabella Ferreira</author>
+<author pid="407/8617">Lawrence Arkoh</author>
+<author pid="199/5439">Anderson G. Uch&#244;a</author>
+<author pid="221/1533">Ana Carla Bibiano</author>
+<author pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</author>
+<author pid="90/9459">Wesley K. G. Assun&#231;&#227;o</author>
+<title>Assessing the Bug-Proneness of Refactored Code: A Longitudinal Multi-Project Study.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.08005</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.08005</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-08005</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-08016" mdate="2025-06-23">
+<author pid="282/5183">Vin&#237;cius Soares</author>
+<author pid="407/8617">Lawrence Arkoh</author>
+<author pid="226/2793">Paulo Roberto Farah</author>
+<author pid="199/5439">Anderson G. Uch&#244;a</author>
+<author pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</author>
+<author pid="90/9459">Wesley K. G. Assun&#231;&#227;o</author>
+<title>Relating Complexity, Explicitness, Effectiveness of Refactorings and Non-Functional Requirements: A Replication Study.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.08016</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.08016</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-08016</url>
+<stream>streams/journals/corr</stream>
+</article>
 </r>
 <r><article key="journals/jserd/PinheiroBU24" mdate="2024-08-22">
 <author orcid="0000-0003-1611-3600" pid="329/7106">Darwin Pinheiro</author>
@@ -671,17 +722,19 @@
 <url>db/conf/icsr/icsr2017.html#UchoaLBMA17</url>
 </inproceedings>
 </r>
-<coauthors n="71" nc="3">
+<coauthors n="75" nc="3">
 <co c="0"><na f="a/Almeida:Cl=aacute=uvin" pid="304/9233">Cl&#225;uvin Almeida</na></co>
 <co c="0"><na f="a/Amaral:Guilherme" pid="245/8726">Guilherme Amaral</na></co>
 <co c="1"><na f="a/Amazonas:Bruna" pid="406/7394">Bruna Amazonas</na></co>
 <co c="0" n="2"><na f="a/Andrade:Rossana_M=_de_Castro" pid="61/6138">Rossana M. de Castro Andrade</na><na>Rossana M. C. Andrade</na></co>
+<co c="0"><na f="a/Arkoh:Lawrence" pid="407/8617">Lawrence Arkoh</na></co>
 <co c="0"><na f="a/Arvonio:Emilio" pid="274/7561">Emilio Arvonio</na></co>
 <co c="0" n="2"><na f="a/Assun=ccedil==atilde=o:Wesley_K=_G=" pid="90/9459">Wesley K. G. Assun&#231;&#227;o</na><na>Wesley Klewerton Guez Assun&#231;&#227;o</na></co>
 <co c="0"><na f="b/Barbosa:Caio" pid="221/1638">Caio Barbosa</na></co>
 <co c="0" n="2"><na f="b/Bezerra:Carla_I=_M=" pid="09/5610">Carla I. M. Bezerra</na><na>Carla Ilane Moreira Bezerra</na></co>
 <co c="0"><na f="b/Bibiano:Ana_Carla" pid="221/1533">Ana Carla Bibiano</na></co>
 <co c="0"><na f="b/Brito:Hyago_H=_S=" pid="282/4673">Hyago H. S. Brito</na></co>
+<co c="0"><na f="c/Canedo:Edna_Dias" pid="118/8796">Edna Dias Canedo</na></co>
 <co c="0"><na f="c/Carvalho:Eryka" pid="360/8487">Eryka Carvalho</na></co>
 <co c="0"><na f="c/Cedrim:Diego" pid="179/8636">Diego Cedrim</na></co>
 <co c="0"><na f="c/Coelho:Jos=eacute=_Eric" pid="360/8333">Jos&#233; Eric Coelho</na></co>
@@ -719,6 +772,7 @@
 <co c="0" n="2"><na f="o/Oliveira_0005:Daniel" pid="32/1293-5">Daniel Oliveira 0005</na><na>Daniel Ten&#243;rio Martins de Oliveira</na></co>
 <co c="0" n="2"><na f="o/Oliveira_0003:Roberto" pid="277/0412">Roberto Oliveira 0003</na><na>Roberto Felicio Oliveira 0003</na></co>
 <co c="0"><na f="p/Paix=atilde=o:Matheus" pid="133/2120">Matheus Paix&#227;o</na></co>
+<co c="0"><na f="p/Pereira:Claudia_Pinto" pid="219/0439">Claudia Pinto Pereira</na></co>
 <co c="0"><na f="p/Pereira:Juliana_Alves" pid="139/6642">Juliana Alves Pereira</na></co>
 <co c="0"><na f="p/Pinheiro:Darwin" pid="329/7106">Darwin Pinheiro</na></co>
 <co c="0"><na f="r/Rabelo:Matheus" pid="360/8431">Matheus Rabelo</na></co>
@@ -737,6 +791,7 @@
 <co c="0"><na f="s/Soares:Vin=iacute=cius" pid="282/5183">Vin&#237;cius Soares</na></co>
 <co c="0"><na f="s/Sousa:Amanda_Oliveira_de" pid="233/1862">Amanda Oliveira de Sousa</na></co>
 <co c="0"><na f="s/Sousa:Leonardo_da_Silva" pid="179/8618">Leonardo da Silva Sousa</na></co>
+<co c="0"><na f="s/Souza:Angelica_Pereira" pid="407/7752">Angelica Pereira Souza</na></co>
 <co c="2"><na f="s/Souza:Bruno_Pedra=ccedil=a_de" pid="235/9479">Bruno Pedra&#231;a de Souza</na></co>
 <co c="0"><na f="s/Souza:Jairo" pid="249/1749">Jairo Souza</na></co>
 <co c="0"><na f="t/Teixeira:Leopoldo" pid="62/8372">Leopoldo Teixeira</na></co>

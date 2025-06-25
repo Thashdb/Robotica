@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Luciana A. M. Zaina" pid="71/8694" n="126">
+<dblpperson name="Luciana A. M. Zaina" pid="71/8694" n="129">
 <person key="homepages/71/8694" mdate="2025-01-10">
 <author pid="71/8694">Luciana A. M. Zaina</author>
 <author pid="71/8694">Luciana Aparecida Martinez Zaina</author>
@@ -69,9 +69,25 @@
 <stream>streams/journals/scp</stream>
 </article>
 </r>
-<r><inproceedings key="conf/tvx/OliveiraZ25" mdate="2025-06-02">
-<author pid="367/9667">Fabr&#237;cio Malta de Oliveira</author>
+<r><inproceedings key="conf/eics/BowenWDMLZ25" mdate="2025-06-23">
+<author pid="72/2211">Judy Bowen</author>
+<author pid="35/7361">Benjamin Weyers</author>
+<author pid="66/4576">Anke Dittmar</author>
+<author pid="14/8695">C&#233;lia Martinie</author>
+<author pid="l/KrisLuyten">Kris Luyten</author>
 <author pid="71/8694">Luciana Zaina</author>
+<title>EICS 2025 Foreword.</title>
+<pages>1</pages>
+<year>2025</year>
+<booktitle>EICS (Companion)</booktitle>
+<ee>https://doi.org/10.1145/3731406.3734507</ee>
+<crossref>conf/eics/2025c</crossref>
+<url>db/conf/eics/eics2025c.html#BowenWDMLZ25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tvx/OliveiraZ25" mdate="2025-06-11">
+<author orcid="0000-0001-9970-7820" pid="367/9667">Fabr&#237;cio Malta de Oliveira</author>
+<author orcid="0000-0002-1736-544X" pid="71/8694">Luciana Zaina</author>
 <title>Metaverse as Agile Team Workplace: An Evaluation on the Perspective of Agile Software Developers.</title>
 <pages>1-16</pages>
 <year>2025</year>
@@ -81,13 +97,13 @@
 <url>db/conf/tvx/imx2025.html#OliveiraZ25</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/xpu/MoreiraAMC0Z25" mdate="2025-06-05">
+<r><inproceedings key="conf/xpu/MoreiraAMC0Z25" mdate="2025-06-11">
 <author pid="200/0754">Igor Moreira</author>
 <author pid="392/6451">Luciane Baratto Adolfo</author>
-<author pid="236/5533">Jorge Melegati</author>
-<author pid="165/4102">Joelma Choma</author>
-<author pid="65/1205">Eduardo Guerra 0001</author>
-<author pid="71/8694">Luciana Zaina</author>
+<author orcid="0000-0003-1303-4173" pid="236/5533">Jorge Melegati</author>
+<author orcid="0000-0002-8516-2943" pid="165/4102">Joelma Choma</author>
+<author orcid="0000-0001-5555-3487" pid="65/1205">Eduardo Guerra 0001</author>
+<author orcid="0000-0002-1736-544X" pid="71/8694">Luciana Zaina</author>
 <title>Exploring Documentation Strategies for NFR in Agile Software Development.</title>
 <pages>229-244</pages>
 <year>2025</year>
@@ -117,6 +133,20 @@
 <isbn>978-3-031-91760-8</isbn>
 <ee>https://doi.org/10.1007/978-3-031-91760-8</ee>
 <url>db/conf/eics/eics2024w.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/eics/2025c" mdate="2025-06-23">
+<editor pid="72/2211">Judy Bowen</editor>
+<editor pid="35/7361">Benjamin Weyers</editor>
+<editor pid="l/KrisLuyten">Kris Luyten</editor>
+<editor pid="71/8694">Luciana Zaina</editor>
+<title>Companion Proceedings of the 17th ACM SIGCHI Symposium on Engineering Interactive Computing Systems, EICS 2025, Trier, Germany, June 23-27, 2025</title>
+<booktitle>EICS (Companion)</booktitle>
+<publisher>ACM</publisher>
+<year>2025</year>
+<isbn>979-8-4007-1866-3</isbn>
+<ee>https://doi.org/10.1145/3731406</ee>
+<url>db/conf/eics/eics2025c.html</url>
 </proceedings>
 </r>
 <r><article key="journals/infsof/MartinelliLZ24" mdate="2024-06-18">
@@ -221,6 +251,18 @@
 <ee>https://doi.org/10.5753/cibse.2024.28444</ee>
 <crossref>conf/cibse/2024</crossref>
 <url>db/conf/cibse/cibse2024.html#ChomaZ24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hci-collab/SouzaZ24" mdate="2025-06-18">
+<author pid="329/3856">Jonathan Souza</author>
+<author pid="71/8694">Luciana Zaina</author>
+<title>Writing UX Requirements in Acceptance Criteria: A Case Study in Startups.</title>
+<pages>340-353</pages>
+<year>2024</year>
+<booktitle>HCI-COLLAB</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-91328-0_26</ee>
+<crossref>conf/hci-collab/2024</crossref>
+<url>db/conf/hci-collab/hci-collab2024.html#SouzaZ24</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/iceis/MacedoTCZ24" mdate="2025-04-01">
@@ -1825,7 +1867,7 @@
 <note type="source">ndltd.org (oai:teses.usp.br:tde-30052008-134942)</note>
 </phdthesis>
 </r>
-<coauthors n="158" nc="5">
+<coauthors n="161" nc="5">
 <co c="0"><na f="a/Abrahamsson:Pekka" pid="71/5809">Pekka Abrahamsson</na></co>
 <co c="0"><na f="a/Adolfo:Luciane_Baratto" pid="392/6451">Luciane Baratto Adolfo</na></co>
 <co c="0"><na f="a/Aguiar:Renan_de" pid="193/4086">Renan de Aguiar</na></co>
@@ -1856,6 +1898,7 @@
 <co c="1"><na f="b/Biduski:Daiana" pid="170/1346">Daiana Biduski</na></co>
 <co c="0"><na f="b/Bim:Silvia_Am=eacute=lia" pid="131/8176">Silvia Am&#233;lia Bim</na></co>
 <co c="0"><na f="b/Boscarioli:Clodis" pid="97/993">Clodis Boscarioli</na></co>
+<co c="0"><na f="b/Bowen:Judy" pid="72/2211">Judy Bowen</na></co>
 <co c="0"><na f="b/Bressan:Gra=ccedil=a" pid="50/3947">Gra&#231;a Bressan</na></co>
 <co c="-1"><na f="b/Bueno:Danilo_Camargo" pid="204/4435">Danilo Camargo Bueno</na></co>
 <co c="0"><na f="c/Campos:Ariel_E=_S=" pid="377/0723">Ariel E. S. Campos</na></co>
@@ -1878,6 +1921,7 @@
 <co c="-1"><na f="c/Cunha:Marcel_Popolin_de_Ara=uacute=jo" pid="183/9408">Marcel Popolin de Ara&#250;jo Cunha</na></co>
 <co c="2"><na f="c/Curri:Endrit" pid="155/5620">Endrit Curri</na></co>
 <co c="0" n="2"><na f="d/Delabrida:Saul_E=" pid="02/11530">Saul E. Delabrida</na><na>Saul Emanuel Delabrida Silva</na></co>
+<co c="0"><na f="d/Dittmar:Anke" pid="66/4576">Anke Dittmar</na></co>
 <co c="0"><na f="e/Ebert:Achim" pid="49/6091">Achim Ebert</na></co>
 <co c="0"><na f="e/Edison:Henry" pid="128/3240">Henry Edison</na></co>
 <co c="0" n="2"><na f="f/Ferreira:Bruna" pid="135/0908">Bruna Ferreira</na><na>Bruna Moraes Ferreira</na></co>
@@ -1980,6 +2024,7 @@
 <co c="0" n="2"><na f="v/Verdi:F=aacute=bio_Luciano" pid="40/654">F&#225;bio Luciano Verdi</na><na>F&#225;bio L. Verdi</na></co>
 <co c="-1"><na f="v/Vieira:Jos=eacute=_M=_F=" pid="283/4037">Jos&#233; M. F. Vieira</na></co>
 <co c="0"><na f="w/Wang_0001:Xiaofeng" pid="99/2479-1">Xiaofeng Wang 0001</na></co>
+<co c="0"><na f="w/Weyers:Benjamin" pid="35/7361">Benjamin Weyers</na></co>
 <co c="0" n="2"><na f="w/Wiese:Igor_Scaliante" pid="06/10439">Igor Scaliante Wiese</na><na>Igor Wiese</na></co>
 <co c="0"><na f="w/Winckler:Marco" pid="43/410">Marco Winckler</na></co>
 <co c="0"><na f="y/Yigitbas:Enes" pid="138/4856">Enes Yigitbas</na></co>

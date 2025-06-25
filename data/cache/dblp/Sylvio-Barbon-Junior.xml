@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Sylvio Barbon Junior" pid="66/5992" n="137">
+<dblpperson name="Sylvio Barbon Junior" pid="66/5992" n="138">
 <person key="homepages/66/5992" mdate="2024-06-06">
 <author pid="66/5992">Sylvio Barbon Junior</author>
 <author pid="66/5992">Sylvio Barbon Jr.</author>
@@ -43,6 +43,21 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2504.10527</ee>
 <url>db/journals/corr/corr2504.html#abs-2504-10527</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-04019" mdate="2025-06-20">
+<author pid="407/7874">Matteo Ceschin</author>
+<author pid="359/2386">Leonardo Arrighi</author>
+<author pid="04/3472">Luca Longo</author>
+<author pid="66/5992">Sylvio Barbon Junior</author>
+<title>Extending Decision Predicate Graphs for Comprehensive Explanation of Isolation Forest.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.04019</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.04019</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-04019</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -187,10 +202,10 @@
 <url>db/conf/caise/caise2024.html#OyamadaTJC24</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/datamod/GrigoreTJ24" mdate="2025-05-31">
+<r><inproceedings key="conf/datamod/GrigoreTJ24" mdate="2025-06-15">
 <author orcid="0009-0007-4602-2714" pid="404/1125">Iuliana Malina Grigore</author>
 <author orcid="0000-0002-2601-8108" pid="210/6317">Gabriel Marques Tavares</author>
-<author orcid="0000-0002-6389-7201" pid="66/5992">Sylvio Barbon Junior</author>
+<author pid="66/5992">Sylvio Barbon Junior</author>
 <title>Beyond Flattening: Detecting Concurrency Anomalies Using K-NN Graph-Based Modeling in Object-Centric Event Logs.</title>
 <pages>116-136</pages>
 <year>2024</year>
@@ -2097,7 +2112,7 @@
 <url>db/conf/ism/ism2006.html#GuidoVJSGSSFPM06</url>
 </inproceedings>
 </r>
-<coauthors n="153" nc="2">
+<coauthors n="155" nc="2">
 <co c="0"><na f="a/Aalst:Wil_M=_P=_van_der" pid="a/WilMPvanderAalst">Wil M. P. van der Aalst</na></co>
 <co c="0"><na f="a/Abonizio:Hugo_Queiroz" pid="246/8435">Hugo Queiroz Abonizio</na></co>
 <co c="0" n="2"><na f="a/Aguiar:Gabriel" pid="318/1524">Gabriel Aguiar</na><na>Gabriel Jonas Aguiar</na></co>
@@ -2129,6 +2144,7 @@
 <co c="0"><na f="c/Catarci:Tiziana" pid="c/TCatarci">Tiziana Catarci</na></co>
 <co c="0"><na f="c/Ceravolo:Paolo" pid="93/4640">Paolo Ceravolo</na></co>
 <co c="0"><na f="c/Cerri:Ricardo" pid="94/7227">Ricardo Cerri</na></co>
+<co c="0"><na f="c/Ceschin:Matteo" pid="407/7874">Matteo Ceschin</na></co>
 <co c="0"><na f="c/Chen:Shi=Huang" pid="85/420">Shi-Huang Chen</na></co>
 <co c="0"><na f="c/Clerici:Maria_Teresa_Pedrosa_Silva" pid="229/5445">Maria Teresa Pedrosa Silva Clerici</na></co>
 <co c="0" n="3"><na f="c/Costa:Victor_G=_T=_da" pid="203/9327">Victor G. T. da Costa</na><na>Victor G. Turrisi da Costa</na><na>Victor Guilherme Turrisi da Costa</na></co>
@@ -2162,6 +2178,7 @@
 <co c="0"><na f="k/Keulen:Maurice_van" pid="k/MauricevanKeulen">Maurice van Keulen</na></co>
 <co c="0"><na f="k/Kido:Guilherme_Sakaji" pid="156/3751">Guilherme Sakaji Kido</na></co>
 <co c="0"><na f="l/Lacerda:Michel_Alves" pid="52/10028">Michel Alves Lacerda</na></co>
+<co c="0"><na f="l/Longo:Luca" pid="04/3472">Luca Longo</na></co>
 <co c="0"><na f="l/Lopes:Jessica_Fernandes" pid="248/0145">Jessica Fernandes Lopes</na></co>
 <co c="0"><na f="l/Ludwig:Leniza" pid="248/0365">Leniza Ludwig</na></co>
 <co c="0"><na f="m/Maciel:Carlos_Dias" pid="93/4631">Carlos Dias Maciel</na></co>

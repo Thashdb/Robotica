@@ -45,15 +45,15 @@
 <stream>streams/journals/scp</stream>
 </article>
 </r>
-<r><inproceedings key="conf/rcis/SousaS0OGSPG25" mdate="2025-06-04">
-<author pid="330/9958">Isadora Valle Sousa</author>
-<author pid="134/4947">Tiago Prince Sales</author>
+<r><inproceedings key="conf/rcis/SousaS0OGSPG25" mdate="2025-06-18">
+<author orcid="0000-0002-0952-9571" pid="330/9958">Isadora Valle Sousa</author>
+<author orcid="0000-0002-5385-5761" pid="134/4947">Tiago Prince Sales</author>
 <author pid="65/1205-2">Eduardo Guerra 0002</author>
 <author pid="212/6684">Italo Jose da Silva Oliveira</author>
-<author pid="75/5043">Renata S. S. Guizzardi</author>
-<author pid="68/84">Luiz Olavo Bonino da Silva Santos</author>
+<author orcid="0000-0002-5804-5741" pid="75/5043">Renata S. S. Guizzardi</author>
+<author orcid="0000-0002-1164-1351" pid="68/84">Luiz Olavo Bonino da Silva Santos</author>
 <author pid="p/ErikProper">Henderik A. Proper</author>
-<author pid="11/78">Giancarlo Guizzardi</author>
+<author orcid="0000-0002-3452-553X" pid="11/78">Giancarlo Guizzardi</author>
 <title>Friend, Foe, or Target? Domain Models as Risk Deterrents, Risk Sources, and Assets at Risk.</title>
 <pages>103-118</pages>
 <year>2025</year>
@@ -1658,7 +1658,7 @@
 <url>db/conf/amkm/amkm2003.html#GuizzardiAW03</url>
 </inproceedings>
 </r>
-<coauthors n="194" nc="1">
+<coauthors n="194" nc="2">
 <co c="0"><na f="a/Abualhaija:Sallam" pid="146/0408">Sallam Abualhaija</na></co>
 <co c="0"><na f="a/Accioly:Marcos" pid="237/7364">Marcos Accioly</na></co>
 <co c="0" n="2"><na f="a/Almeida:Jo=atilde=o_Paulo_A=" pid="91/3408">Jo&#227;o Paulo A. Almeida</na><na>Jo&#227;o Paulo Andrade Almeida</na></co>
@@ -1776,7 +1776,7 @@
 <co c="0"><na f="m/Montgomery:Lloyd" pid="206/3942">Lloyd Montgomery</na></co>
 <co c="0"><na f="m/Morales=Ramirez:Itzel" pid="04/8766">Itzel Morales-Ramirez</na></co>
 <co c="0"><na f="m/Moreira_0001:Ana" pid="m/AnaMoreira">Ana Moreira 0001</na></co>
-<co c="0"><na f="m/Moreira:Jo=atilde=o" pid="97/8984">Jo&#227;o Moreira</na></co>
+<co c="1"><na f="m/Moreira:Jo=atilde=o" pid="97/8984">Jo&#227;o Moreira</na></co>
 <co c="0" n="2"><na f="m/Moreira:Jo=atilde=o_L=_R=" pid="74/7740">Jo&#227;o L. R. Moreira</na><na>Jo&#227;o Luiz Rebelo Moreira</na></co>
 <co c="0"><na f="m/M=uuml=ller:Andrea" pid="46/4147">Andrea M&#252;ller</na></co>
 <co c="0"><na f="m/Mussbacher:Gunter" pid="49/6874">Gunter Mussbacher</na></co>
@@ -1823,7 +1823,7 @@
 <co c="0"><na f="s/Santos:Raphael_O=" pid="96/3950">Raphael O. Santos</na></co>
 <co c="0"><na f="s/Sawyer:Peter" pid="s/PeterSawyer">Peter Sawyer</na></co>
 <co c="0"><na f="s/Schneider:Kurt" pid="s/KurtSchneider">Kurt Schneider</na></co>
-<co c="0"><na f="s/Scholz:Paul" pid="298/0921">Paul Scholz</na></co>
+<co c="1"><na f="s/Scholz:Paul" pid="298/0921">Paul Scholz</na></co>
 <co c="0"><na f="s/Semini:Laura" pid="48/2416">Laura Semini</na></co>
 <co c="0"><na f="s/Seyff:Norbert" pid="47/4243">Norbert Seyff</na></co>
 <co c="0"><na f="s/Silva:Allan_Araujo" pid="250/8878">Allan Araujo Silva</na></co>
@@ -1849,7 +1849,7 @@
 <co c="0"><na f="w/Wagner_0001:Gerd" pid="w/GerdWagner">Gerd Wagner 0001</na></co>
 <co c="0"><na f="w/Weyer:Thorsten" pid="38/6814">Thorsten Weyer</na></co>
 <co c="0"><na f="w/Wieringa:Roel_J=" pid="w/RoelWieringa">Roel J. Wieringa</na></co>
-<co c="0"><na f="w/Wiesner:Malina" pid="374/3254">Malina Wiesner</na></co>
+<co c="1"><na f="w/Wiesner:Malina" pid="374/3254">Malina Wiesner</na></co>
 <co c="0"><na f="w/Wohlgemuth:Andrea" pid="319/8984">Andrea Wohlgemuth</na></co>
 <co c="0"><na f="z/Zisman:Andrea" pid="91/3835">Andrea Zisman</na></co>
 <co c="0"><na f="z/Zouaq:Amal" pid="92/4064">Amal Zouaq</na></co>

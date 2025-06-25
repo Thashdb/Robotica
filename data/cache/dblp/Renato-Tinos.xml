@@ -116,7 +116,7 @@
 <stream>streams/conf/ppsn</stream>
 </inproceedings>
 </r>
-<r><data key="data/11/TinosPWC24" mdate="2025-03-17">
+<r><data publtype="version" key="data/11/TinosPWC24" mdate="2025-06-18">
 <author orcid="0000-0003-4027-8851" pid="86/3910">Renato Tin&#243;s</author>
 <author orcid="0000-0003-2446-6473" pid="17/2452">Michal Witold Przewozniczek</author>
 <author orcid="0000-0002-2752-6534" pid="w/LDarrellWhitley">Darrell Whitley</author>
@@ -127,10 +127,10 @@
 <ee type="oa">https://doi.org/10.5281/zenodo.12071208</ee>
 <publisher>Zenodo</publisher>
 <stream>streams/repo/zenodo</stream>
-<rel sort="1" label="Version 2" uri="https://doi.org/10.5281/zenodo.10694141" type="versionOf"></rel>
+<rel sort="1" label="Version 2" uri="https://doi.org/10.5281/zenodo.10694141" type="versionOf">data/11/TinosPWC24b</rel>
 </data>
 </r>
-<r><data key="data/11/TinosPWC24a" mdate="2025-03-17">
+<r><data publtype="version" key="data/11/TinosPWC24a" mdate="2025-06-18">
 <author orcid="0000-0003-4027-8851" pid="86/3910">Renato Tin&#243;s</author>
 <author orcid="0000-0003-2446-6473" pid="17/2452">Michal Witold Przewozniczek</author>
 <author orcid="0000-0002-2752-6534" pid="w/LDarrellWhitley">Darrell Whitley</author>
@@ -141,7 +141,7 @@
 <ee type="oa">https://doi.org/10.5281/zenodo.12100648</ee>
 <publisher>Zenodo</publisher>
 <stream>streams/repo/zenodo</stream>
-<rel sort="2" label="Version 3" uri="https://doi.org/10.5281/zenodo.10694141" type="versionOf"></rel>
+<rel sort="2" label="Version 3" uri="https://doi.org/10.5281/zenodo.10694141" type="versionOf">data/11/TinosPWC24b</rel>
 </data>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-2402-03813" mdate="2024-07-24">

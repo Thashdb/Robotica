@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Tha&#237;s Vasconcelos Batista" pid="b/TVBatista" n="218">
+<dblpperson name="Tha&#237;s Vasconcelos Batista" pid="b/TVBatista" n="219">
 <person key="homepages/b/TVBatista" mdate="2025-01-10">
 <author pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
 <author pid="b/TVBatista">Tha&#237;s Batista</author>
@@ -9,6 +9,19 @@
 <url>https://orcid.org/0000-0003-3558-1450</url>
 <url>https://www.wikidata.org/entity/Q130826816</url>
 </person>
+<r><inproceedings key="conf/icsa/CavalcanteBO25" mdate="2025-06-12">
+<author pid="77/10661">Everton Cavalcante</author>
+<author pid="b/TVBatista">Tha&#237;s Batista</author>
+<author pid="32/153">Fl&#225;vio Oquendo</author>
+<title>Exploring Synergies and Challenges of System-of-Systems Digital Twins.</title>
+<pages>190-196</pages>
+<year>2025</year>
+<booktitle>ICSA Companion</booktitle>
+<ee>https://doi.org/10.1109/ICSA-C65153.2025.00038</ee>
+<crossref>conf/icsa/2025c</crossref>
+<url>db/conf/icsa/icsa2025c.html#CavalcanteBO25</url>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/sac/VarelaBC025" mdate="2025-05-31">
 <author orcid="0009-0007-5322-3450" pid="404/9607">Emylle Varela</author>
 <author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Batista</author>

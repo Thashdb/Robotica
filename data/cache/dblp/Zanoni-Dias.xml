@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Zanoni Dias" pid="93/6090" n="156">
+<dblpperson name="Zanoni Dias" pid="93/6090" n="157">
 <person key="homepages/93/6090" mdate="2009-06-10">
 <author pid="93/6090">Zanoni Dias</author>
 </person>
@@ -108,6 +108,19 @@
 <crossref>conf/recombcg/2024</crossref>
 <url>db/conf/recombcg/recombcg2024.html#BritoASODD24</url>
 </inproceedings>
+</r>
+<r><data key="data/11/OliveiraPD24" mdate="2025-06-23">
+<author orcid="0000-0002-1238-4860" pid="271/9387">Gabriel Bianchin de Oliveira</author>
+<author orcid="0000-0003-0125-630X" pid="60/2361">H&#233;lio Pedrini</author>
+<author orcid="0000-0003-3333-6822" pid="93/6090">Zanoni Dias</author>
+<title>CAFA5.</title>
+<year>2024</year>
+<month>April</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.10982903</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.10982902" type="versionOf"></rel>
+</data>
 </r>
 <r><article key="journals/bmcbi/OliveiraPD23" mdate="2023-06-21">
 <author pid="271/9387">Gabriel Bianchin de Oliveira</author>

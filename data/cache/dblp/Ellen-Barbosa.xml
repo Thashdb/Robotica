@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Ellen Francine Barbosa" pid="66/2060" n="121">
+<dblpperson name="Ellen Francine Barbosa" pid="66/2060" n="123">
 <person key="homepages/66/2060" mdate="2019-03-26">
 <author pid="66/2060">Ellen Francine Barbosa</author>
 <author pid="66/2060">Ellen F. Barbosa</author>
@@ -53,6 +53,37 @@
 <crossref>conf/compsac/2024</crossref>
 <url>db/conf/compsac/compsac2024.html#OliveiraPB24</url>
 <stream>streams/conf/compsac</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/JuniorMBFOB24" mdate="2025-06-17">
+<author pid="157/0527">Venilton Falvo Junior</author>
+<author pid="139/6594">Anderson Silva Marcolino</author>
+<author pid="211/8453">Diego Renan Bruno</author>
+<author pid="364/1868">Catherine Helen Martins Falvo</author>
+<author pid="00/5455">Fernando Santos Os&#243;rio</author>
+<author pid="66/2060">Ellen Francine Barbosa</author>
+<title>Enhancing Learning Objects Accessibility Through Speech-To-Text Based Architecture: A Comprehensive Triangulation Study.</title>
+<pages>1-9</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10893453</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#JuniorMBFOB24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/LuzMTOB24" mdate="2025-06-17">
+<author pid="322/1829">Carlos Danilo Luz</author>
+<author pid="407/5610">Elaine I. Moreira</author>
+<author pid="175/1765">Nelson Ten&#243;rio</author>
+<author pid="04/2051">Edson OliveiraJr</author>
+<author pid="66/2060">Ellen F. Barbosa</author>
+<title>Teaching and Learning of Introduction to Software Engineering Experimentation to Distance-Learning Students: A Quasi-Experiment.</title>
+<pages>1-9</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10893353</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#LuzMTOB24</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/hicss/DeusB24" mdate="2024-01-04">
@@ -1715,7 +1746,7 @@
 <url>db/conf/sbes/sbes1998.html#BarbosaVM98</url>
 </inproceedings>
 </r>
-<coauthors n="134" nc="4">
+<coauthors n="137" nc="4">
 <co c="0"><na f="a/Alcantara:Williams" pid="177/4744">Williams Alcantara</na></co>
 <co c="0"><na f="a/Allian:Ana_P=" pid="205/5812">Ana P. Allian</na></co>
 <co c="0" n="2"><na f="a/Andrade:Stev=atilde=o" pid="243/1679">Stev&#227;o Andrade</na><na>Stev&#227;o Alves de Andrade</na></co>
@@ -1761,7 +1792,7 @@
 <co c="0"><na f="d/Duran_0001:Rodrigo" pid="201/4491">Rodrigo Duran 0001</na></co>
 <co c="0"><na f="d/Durelli:Vinicius_H=_S=" pid="128/3287">Vinicius H. S. Durelli</na></co>
 <co c="0"><na f="f/Falc=atilde=o:Taciana_Pontual" pid="10/5013">Taciana Pontual Falc&#227;o</na></co>
-<co c="0"><na f="f/Falvo:Catherine_Martins" pid="364/1868">Catherine Martins Falvo</na></co>
+<co c="0" n="2"><na f="f/Falvo:Catherine_Martins" pid="364/1868">Catherine Martins Falvo</na><na>Catherine Helen Martins Falvo</na></co>
 <co c="0"><na f="f/Falvo:Venilton" pid="193/3632">Venilton Falvo</na></co>
 <co c="1"><na f="f/Fassbinder:Aracele_Garcia_de_Oliveira" pid="173/1404">Aracele Garcia de Oliveira Fassbinder</na></co>
 <co c="1"><na f="f/Fassbinder:Marcelo" pid="173/1734">Marcelo Fassbinder</na></co>
@@ -1787,6 +1818,7 @@
 <co c="0"><na f="k/Krassmann:Aliane_Loureiro" pid="192/1060">Aliane Loureiro Krassmann</na></co>
 <co c="0"><na f="l/LeBlanc:Richard_J=" pid="l/RJLeBlanc">Richard J. LeBlanc</na></co>
 <co c="0"><na f="l/Lopes:=Aacute=tila_Rabelo" pid="286/2870">&#193;tila Rabelo Lopes</na></co>
+<co c="0"><na f="l/Luz:Carlos_Danilo" pid="322/1829">Carlos Danilo Luz</na></co>
 <co c="0"><na f="m/Machado:Joice_B=" pid="124/2387">Joice B. Machado</na></co>
 <co c="0"><na f="m/Macome:Esselina" pid="84/2155">Esselina Macome</na></co>
 <co c="1"><na f="m/Magoulas:George_D=" pid="m/GeorgeDMagoulas">George D. Magoulas</na></co>
@@ -1801,6 +1833,7 @@
 <co c="0"><na f="m/McGettrick:Andrew_D=" pid="22/2111">Andrew D. McGettrick</na></co>
 <co c="0"><na f="m/Melo:Silvana_M=" pid="117/5522">Silvana M. Melo</na></co>
 <co c="1"><na f="m/Moreira:Danilo" pid="193/3814">Danilo Moreira</na></co>
+<co c="0"><na f="m/Moreira:Elaine_I=" pid="407/5610">Elaine I. Moreira</na></co>
 <co c="0"><na f="m/Moreno_0001:Ana_Mar=iacute=a" pid="67/1778">Ana Mar&#237;a Moreno 0001</na></co>
 <co c="0"><na f="m/Moro:Luis_Fernando_de_S=" pid="125/2898">Luis Fernando de S. Moro</na></co>
 <co c="0"><na f="n/Nakagawa:Elisa_Yumi" pid="67/5214">Elisa Yumi Nakagawa</na></co>
@@ -1845,6 +1878,7 @@
 <co c="0"><na f="s/Souza:Draylson_Micael_de" pid="06/9743">Draylson Micael de Souza</na></co>
 <co c="0" n="2"><na f="s/Souza:Paulo_Sergio_Lopes_de" pid="96/5652">Paulo Sergio Lopes de Souza</na><na>Paulo S. L. Souza</na></co>
 <co c="0" n="2"><na f="s/Souza:Simone_do_R=oacute=cio_Senger_de" pid="35/1622">Simone do R&#243;cio Senger de Souza</na><na>Simone R. S. Souza</na></co>
+<co c="0"><na f="t/Ten=oacute=rio:Nelson" pid="175/1765">Nelson Ten&#243;rio</na></co>
 <co c="0"><na f="t/Tiosso:Fernando" pid="173/1432">Fernando Tiosso</na></co>
 <co c="0" n="2"><na f="t/Toda:Armando_M=" pid="141/9439">Armando M. Toda</na><na>Armando Maciel Toda</na></co>
 <co c="0"><na f="t/Tori:Romero" pid="31/1696">Romero Tori</na></co>

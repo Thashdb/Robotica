@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Cristiano Bonato Both" pid="07/2040" n="109">
+<dblpperson name="Cristiano Bonato Both" pid="07/2040" n="110">
 <person key="homepages/07/2040" mdate="2022-12-02">
 <author pid="07/2040">Cristiano Bonato Both</author>
 <author pid="07/2040">Cristiano Both</author>
@@ -11,13 +11,13 @@
 <url>https://ieeexplore.ieee.org/author/37680719900</url>
 <note type="affiliation">Federal University of Rio Grande do Sul</note>
 </person>
-<r><article key="journals/ojcs/PiresACBPC25" mdate="2025-06-01">
-<author pid="301/6720">William Pires</author>
+<r><article key="journals/ojcs/PiresACBPC25" mdate="2025-06-11">
+<author orcid="0009-0008-2846-0769" pid="301/6720">William Pires</author>
 <author pid="286/5128">Gabriel Matheus de Almeida</author>
-<author pid="81/3896">Sand Luz Corr&#234;a</author>
-<author pid="07/2040">Cristiano Bonato Both</author>
+<author orcid="0000-0003-1863-4661" pid="81/3896">Sand Luz Corr&#234;a</author>
+<author orcid="0000-0002-9776-4888" pid="07/2040">Cristiano Bonato Both</author>
 <author pid="17/7060">Leizer de Lima Pinto</author>
-<author pid="32/10675">Kleber Vieira Cardoso</author>
+<author orcid="0000-0001-5152-5323" pid="32/10675">Kleber Vieira Cardoso</author>
 <title>Optimizing Energy Consumption for vRAN Placement in O-RAN Systems With Flexible Transport Networks.</title>
 <pages>4279-4294</pages>
 <year>2025</year>
@@ -62,6 +62,29 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2503.13726</ee>
 <url>db/journals/corr/corr2503.html#abs-2503-13726</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-04879" mdate="2025-06-20">
+<author pid="407/7580">Rebecca Aben-Athar</author>
+<author pid="407/7413">Heitor Anglada</author>
+<author pid="261/8410">Lucas Costa</author>
+<author pid="272/3524">Jo&#227;o Albuquerque</author>
+<author pid="407/7598">Abrah&#227;o Ferreira</author>
+<author pid="07/2040">Cristiano Bonato Both</author>
+<author pid="32/10675">Kleber Vieira Cardoso</author>
+<author pid="256/6274">Silvia Lins</author>
+<author pid="228/2530">Andrey Silva</author>
+<author pid="407/7667">Glauco Gon&#231;alves</author>
+<author pid="275/4442">Ilan Correa</author>
+<author pid="44/1366">Aldebaro Klautau</author>
+<title>Network Digital Twin for Route Optimization in 5G/B5G Transport Slicing with What-If Analysis.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.04879</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.04879</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-04879</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -1911,12 +1934,14 @@
 <url>db/conf/noms/noms2008.html#CordeiroMDBGGSBTS08</url>
 </inproceedings>
 </r>
-<coauthors n="207" nc="2">
+<coauthors n="215" nc="2">
 <co c="0"><na f="a/Abel=eacute=m:Ant=ocirc=nio_J=_G=" pid="16/7815">Ant&#244;nio J. G. Abel&#233;m</na></co>
+<co c="0"><na f="a/Aben=Athar:Rebecca" pid="407/7580">Rebecca Aben-Athar</na></co>
 <co c="0"><na f="a/Abreu:Bernardo_A=" pid="209/8783">Bernardo A. Abreu</na></co>
 <co c="0"><na f="a/Ahmadi:Hamed" pid="10/35">Hamed Ahmadi</na></co>
 <co c="0"><na f="a/Alberti:Ant=ocirc=nio_Marcos" pid="51/4339">Ant&#244;nio Marcos Alberti</na></co>
 <co c="0"><na f="a/Albuquerque:Eliel_de" pid="328/5236">Eliel de Albuquerque</na></co>
+<co c="0"><na f="a/Albuquerque:Jo=atilde=o" pid="272/3524">Jo&#227;o Albuquerque</na></co>
 <co c="0"><na f="a/Alencar:Derian" pid="269/2357">Derian Alencar</na></co>
 <co c="0" n="2"><na f="a/Almeida:Gabriel_Matheus_de" pid="286/5128">Gabriel Matheus de Almeida</na><na>Gabriel Matheus F. de Almeida</na></co>
 <co c="0"><na f="a/Almeida:Jonathan_M=_de" pid="271/5549">Jonathan M. de Almeida</na></co>
@@ -1924,6 +1949,7 @@
 <co c="0"><na f="a/Anbazhagan:Sivasankari_S=" pid="384/5695">Sivasankari S. Anbazhagan</na></co>
 <co c="0"><na f="a/Andrade:Tiago_P=_C=_de" pid="122/5384">Tiago P. C. de Andrade</na></co>
 <co c="0"><na f="a/Andreis:Fabr=iacute=cio_Girardi" pid="35/3549">Fabr&#237;cio Girardi Andreis</na></co>
+<co c="0"><na f="a/Anglada:Heitor" pid="407/7413">Heitor Anglada</na></co>
 <co c="0"><na f="a/Antunes:Rodolfo_Stoffel" pid="10/3873">Rodolfo Stoffel Antunes</na></co>
 <co c="0"><na f="a/Ara=uacute=jo:Gustavo_de" pid="311/1641">Gustavo de Ara&#250;jo</na></co>
 <co c="0"><na f="a/Arnhold:Felipe" pid="384/5589">Felipe Arnhold</na></co>
@@ -1957,10 +1983,12 @@
 <co c="0"><na f="c/Collins:Diarmuid" pid="196/1730">Diarmuid Collins</na></co>
 <co c="0"><na f="c/Contreras_0001:Luis_M=" pid="118/9656">Luis M. Contreras 0001</na></co>
 <co c="0"><na f="c/Cordeiro:Weverton_Luis_da_Costa" pid="96/2183">Weverton Luis da Costa Cordeiro</na></co>
+<co c="0"><na f="c/Correa:Ilan" pid="275/4442">Ilan Correa</na></co>
 <co c="0"><na f="c/Corr=ecirc=a:Jo=atilde=o_Henrique_G=_M=" pid="239/4884">Jo&#227;o Henrique G. M. Corr&#234;a</na></co>
 <co c="0" n="3"><na f="c/Correa:Sand" pid="81/3896">Sand Correa</na><na>Sand Luz Correa</na><na>Sand Luz Corr&#234;a</na></co>
 <co c="0"><na f="c/Costa:Cristiano_Andr=eacute=_da" pid="14/3505">Cristiano Andr&#233; da Costa</na></co>
 <co c="0"><na f="c/Costa:Felipe_Rabuske" pid="236/1463">Felipe Rabuske Costa</na></co>
+<co c="0"><na f="c/Costa:Lucas" pid="261/8410">Lucas Costa</na></co>
 <co c="0" n="2"><na f="c/Cunha:Kaique_Matheus_R=" pid="250/3716">Kaique Matheus R. Cunha</na><na>Ka&#237;que M. R. Cunha</na></co>
 <co c="0"><na f="d/Daitx:Fabio_Fabian" pid="26/2755">Fabio Fabian Daitx</na></co>
 <co c="0"><na f="d/Dalla=Costa:Ariel_Galante" pid="199/7077">Ariel Galante Dalla-Costa</na></co>
@@ -1974,6 +2002,7 @@
 <co c="0"><na f="e/Esper:Jo=atilde=o_Paulo" pid="273/6091">Jo&#227;o Paulo Esper</na></co>
 <co c="0"><na f="f/Facina:Michelle_S=_P=" pid="175/5935">Michelle S. P. Facina</na></co>
 <co c="0"><na f="f/Faganello:Leonardo_Roveda" pid="132/7840">Leonardo Roveda Faganello</na></co>
+<co c="0"><na f="f/Ferreira:Abrah=atilde=o" pid="407/7598">Abrah&#227;o Ferreira</na></co>
 <co c="0" n="2"><na f="f/Ferreto:Tiago" pid="78/3004">Tiago Ferreto</na><na>Tiago C. Ferreto</na></co>
 <co c="0"><na f="f/Fonseca:Nelson_L=_S=_da" pid="f/NelsonLSdaFonseca">Nelson L. S. da Fonseca</na></co>
 <co c="0"><na f="f/Fraga:Luciano_de_S=" pid="337/7903">Luciano de S. Fraga</na></co>
@@ -1983,6 +2012,7 @@
 <co c="0"><na f="g/Gama:Eduardo_S=" pid="229/2338">Eduardo S. Gama</na></co>
 <co c="0"><na f="g/Gaspary:Luciano_Paschoal" pid="g/LPGaspary">Luciano Paschoal Gaspary</na></co>
 <co c="0"><na f="g/Gerla:Mario" pid="g/MarioGerla">Mario Gerla</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Glauco" pid="407/7667">Glauco Gon&#231;alves</na></co>
 <co c="0"><na f="g/Gon=ccedil=alves:Jo=atilde=o_Paulo_de_Brito" pid="274/3301">Jo&#227;o Paulo de Brito Gon&#231;alves</na></co>
 <co c="0"><na f="g/Gon=ccedil=alves:Luan" pid="284/7822">Luan Gon&#231;alves</na></co>
 <co c="0"><na f="g/Gondim:Jo=atilde=o_J=_C=" pid="190/9496">Jo&#227;o J. C. Gondim</na></co>
@@ -2094,6 +2124,7 @@
 <co c="0"><na f="s/Sena:Emanuel_D=_R=" pid="229/2372">Emanuel D. R. Sena</na></co>
 <co c="0"><na f="s/Seruffo:Marcos_C=eacute=sar_da_Rocha" pid="233/8878">Marcos C&#233;sar da Rocha Seruffo</na></co>
 <co c="0" n="2"><na f="s/Silva:Aloizio_P=" pid="189/4028">Aloizio P. Silva</na><na>Aloizio Pereira da Silva</na></co>
+<co c="0"><na f="s/Silva:Andrey" pid="228/2530">Andrey Silva</na></co>
 <co c="0" n="2"><na f="s/Silva:Carlos_F=_M=_e" pid="157/8542">Carlos F. M. e Silva</na><na>Carlos F. M. Silva</na></co>
 <co c="0"><na f="s/Silva:Erik_de_Britto_e" pid="203/6349">Erik de Britto e Silva</na></co>
 <co c="0"><na f="s/Silva:Felipe_Sampaio_Dantas_da" pid="143/2255">Felipe Sampaio Dantas da Silva</na></co>

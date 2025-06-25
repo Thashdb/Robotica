@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Tayana Conte" pid="48/5" n="336">
+<dblpperson name="Tayana Conte" pid="48/5" n="337">
 <person key="homepages/48/5" mdate="2025-01-10">
 <author pid="48/5">Tayana Conte</author>
 <author pid="48/5">Tayana Uch&#244;a Conte</author>
@@ -24,7 +24,7 @@
 <stream>streams/journals/ijhci</stream>
 </article>
 </r>
-<r><article key="journals/jbcs/CostaMMGCB25" mdate="2025-03-07">
+<r><article key="journals/jbcs/CostaMMGCB25" mdate="2025-06-15">
 <author orcid="0000-0001-9919-2089" pid="189/5932">Simone Dornelas Costa</author>
 <author orcid="0009-0001-6916-6055" pid="366/5921">Carolina De Freitas Manso</author>
 <author orcid="0000-0002-3645-7606" pid="229/5358">Leonardo Carneiro Marques</author>
@@ -37,7 +37,7 @@
 <volume>31</volume>
 <journal>J. Braz. Comput. Soc.</journal>
 <number>1</number>
-<ee>https://doi.org/10.5753/jbcs.2025.4351</ee>
+<ee type="oa">https://doi.org/10.5753/jbcs.2025.4351</ee>
 <url>db/journals/jbcs/jbcs31.html#CostaMMGCB25</url>
 <stream>streams/journals/jbcs</stream>
 </article>
@@ -151,6 +151,22 @@
 <ee>https://doi.org/10.5220/0013481200003932</ee>
 <crossref>conf/csedu/2025-2</crossref>
 <url>db/conf/csedu/csedu2025-2.html#GomesSM0LSCG25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csee/BernardoFPPGC25" mdate="2025-06-23">
+<author pid="64/328">Jo&#227;o Bernardo</author>
+<author pid="407/8421">Jo&#227;o Frota</author>
+<author pid="407/9868">Thais Pessoa</author>
+<author pid="91/10360">Marcela Pessoa</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>A Journey Through Cyberium: Creating User Stories for a Dystopic World to Teach Requirements Engineering.</title>
+<pages>276-286</pages>
+<year>2025</year>
+<booktitle>CSEE&#38;T</booktitle>
+<ee>https://doi.org/10.1109/CSEET66350.2025.00035</ee>
+<crossref>conf/csee/2025</crossref>
+<url>db/conf/csee/csee2025.html#BernardoFPPGC25</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/iceis/SantosFSCOG25" mdate="2025-05-02">
@@ -5221,7 +5237,7 @@
 <url>db/conf/sbqs/sbqs2003.html#VianaTC03</url>
 </inproceedings>
 </r>
-<coauthors n="410" nc="2">
+<coauthors n="412" nc="2">
 <co c="0"><na f="a/Abdellatif:Ahmad" pid="241/5936">Ahmad Abdellatif</na></co>
 <co c="0"><na f="a/Abrahamsson:Pekka" pid="71/5809">Pekka Abrahamsson</na></co>
 <co c="0"><na f="a/Afonso:=Aacute=dria" pid="394/3038">&#193;dria Afonso</na></co>
@@ -5349,6 +5365,7 @@
 <co c="0" n="3"><na f="f/Fran=ccedil=a:Breno_B=_N=_de" pid="122/4837">Breno B. N. de Fran&#231;a</na><na>Breno Bernard Nicolau de Fran&#231;a</na><na>Breno de Fran&#231;a</na></co>
 <co c="0"><na f="f/Freitas:Gabriel" pid="279/8539">Gabriel Freitas</na></co>
 <co c="0" n="2"><na f="f/Freitas:Rosiane_de" pid="47/7842">Rosiane de Freitas</na><na>Rosiane Rodrigues</na></co>
+<co c="0"><na f="f/Frota:Jo=atilde=o" pid="407/8421">Jo&#227;o Frota</na></co>
 <co c="0" n="2"><na f="f/Furtado:Elizabeth" pid="55/6805">Elizabeth Furtado</na><na>Elizabeth Sucupira Furtado</na></co>
 <co c="0" n="3"><na f="g/Gadelha:Bruno" pid="77/7361">Bruno Gadelha</na><na>Bruno F. Gadelha</na><na>Bruno Freitas Gadelha</na></co>
 <co c="0" n="2"><na f="g/Garcia_0001:Alessandro_F=" pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</na><na>Alessandro Garcia 0001</na></co>
@@ -5503,6 +5520,7 @@
 <co c="0"><na f="p/Pereira:Karla_Susiane" pid="182/6787">Karla Susiane Pereira</na></co>
 <co c="0"><na f="p/Pereira:Lauriane" pid="239/9554">Lauriane Pereira</na></co>
 <co c="0" n="2"><na f="p/Pessoa:Marcela" pid="91/10360">Marcela Pessoa</na><na>Marcela S&#225;via Pican&#231;o Pessoa</na></co>
+<co c="0"><na f="p/Pessoa:Thais" pid="407/9868">Thais Pessoa</na></co>
 <co c="0"><na f="p/Pfahl:Dietmar" pid="p/DietmarPfahl">Dietmar Pfahl</na></co>
 <co c="0"><na f="p/Pfeiffer:Rolf=Helge" pid="40/9729">Rolf-Helge Pfeiffer</na></co>
 <co c="0"><na f="p/Piattini:Mario" pid="p/MPiattini">Mario Piattini</na></co>

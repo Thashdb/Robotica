@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Javam C. Machado" pid="12/3896" n="146">
+<dblpperson name="Javam C. Machado" pid="12/3896" n="147">
 <person key="homepages/12/3896" mdate="2021-07-24">
 <author pid="12/3896">Javam C. Machado</author>
 <author pid="12/3896">Javam de Castro Machado</author>
@@ -47,6 +47,21 @@
 <ee>https://doi.org/10.5220/0013483500003929</ee>
 <crossref>conf/iceis/2025-1</crossref>
 <url>db/conf/iceis/iceis2025-1.html#FarrapoRMM25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sp/ChavesFPMM25" mdate="2025-06-23">
+<author pid="194/6151">Iago C. Chaves</author>
+<author pid="120/3391">Victor A. E. de Farias</author>
+<author pid="405/3091">Amanda Perez</author>
+<author pid="163/4293">Diego Mesquita</author>
+<author pid="12/3896">Javam C. Machado</author>
+<title>Differentially Private Selection Using Smooth Sensitivity.</title>
+<pages>3969-3987</pages>
+<year>2025</year>
+<booktitle>SP</booktitle>
+<ee>https://doi.org/10.1109/SP61157.2025.00216</ee>
+<crossref>conf/sp/2025</crossref>
+<url>db/conf/sp/sp2025.html#ChavesFPMM25</url>
 </inproceedings>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-2503-16614" mdate="2025-05-31">

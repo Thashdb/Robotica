@@ -1,10 +1,27 @@
 <?xml version="1.0"?>
-<dblpperson name="Gustavo B. Figueiredo" pid="29/2875" n="76">
+<dblpperson name="Gustavo B. Figueiredo" pid="29/2875" n="77">
 <person key="homepages/29/2875" mdate="2022-01-14">
 <author pid="29/2875">Gustavo B. Figueiredo</author>
 <author pid="29/2875">Gustavo Bittencourt Figueiredo</author>
 <url>https://orcid.org/0000-0001-9756-378X</url>
 </person>
+<r><article key="journals/adhoc/FerreiraFCPFP25" mdate="2025-06-18">
+<author pid="407/6063">J. V. G. Ferreira</author>
+<author pid="407/6254">M. E. S. Freire</author>
+<author pid="285/9873">Edson M. Cruz</author>
+<author pid="06/710">C&#225;ssio V. S. Prazeres</author>
+<author pid="29/2875">Gustavo B. Figueiredo</author>
+<author pid="94/4865">Maycon Leone Maciel Peixoto</author>
+<title>Leading the Way: Reducing network traffic in vehicular Ad Hoc networks through cluster leader algorithms.</title>
+<pages>103932</pages>
+<year>2025</year>
+<volume>178</volume>
+<journal>Ad Hoc Networks</journal>
+<ee>https://doi.org/10.1016/j.adhoc.2025.103932</ee>
+<url>db/journals/adhoc/adhoc178.html#FerreiraFCPFP25</url>
+<stream>streams/journals/adhoc</stream>
+</article>
+</r>
 <r><article key="journals/fgcs/BarrosSCFFP25" mdate="2025-03-03">
 <author pid="151/0856">Eric Bernardes Chagas Barros</author>
 <author pid="313/6367">Wesley O. Souza</author>
@@ -61,10 +78,10 @@
 <url>db/conf/iotbd/iotbd2025.html#SeixasM0CSMADPF25</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sac/MaiaFMFAPFP25" mdate="2025-05-31">
-<author pid="285/9508">Adriano H. O. Maia</author>
-<author pid="404/9435">Marcus Freire</author>
-<author pid="404/9514">Thiago Mello</author>
+<r><inproceedings key="conf/sac/MaiaFMFAPFP25" mdate="2025-06-11">
+<author orcid="0009-0007-1739-4295" pid="285/9508">Adriano H. O. Maia</author>
+<author orcid="0009-0005-7195-4607" pid="404/9435">Marcus Freire</author>
+<author orcid="0009-0003-4860-1008" pid="404/9514">Thiago Mello</author>
 <author orcid="0000-0002-3323-0246" pid="167/8003">Roberto Rodrigues Filho</author>
 <author orcid="0000-0002-9312-6715" pid="190/3461">Eduardo Almeida</author>
 <author pid="06/710">C&#225;ssio V. S. Prazeres</author>
@@ -1162,7 +1179,7 @@
 <url>db/conf/icc/icc2004.html#FigueiredoFM04</url>
 </inproceedings>
 </r>
-<coauthors n="116" nc="1">
+<coauthors n="119" nc="1">
 <co c="0"><na f="a/Alencar:Brenno_de_Mello" pid="239/8792">Brenno de Mello Alencar</na></co>
 <co c="0"><na f="a/Almeida:Eduardo" pid="190/3461">Eduardo Almeida</na></co>
 <co c="0"><na f="a/Almeida:Eduardo_Santana_de" pid="a/EduardoSantanadeAlmeida">Eduardo Santana de Almeida</na></co>
@@ -1190,16 +1207,19 @@
 <co c="0"><na f="c/Costa:Daniel_G=" pid="46/10364">Daniel G. Costa</na></co>
 <co c="0"><na f="c/Costa:Ramon_Dias" pid="170/1626">Ramon Dias Costa</na></co>
 <co c="0"><na f="c/Costa:Rodrigo_A=" pid="270/5785">Rodrigo A. Costa</na></co>
+<co c="0"><na f="c/Cruz:Edson_M=" pid="285/9873">Edson M. Cruz</na></co>
 <co c="0"><na f="d/Dur=atilde=o:Frederico_Ara=uacute=jo" pid="22/4396">Frederico Ara&#250;jo Dur&#227;o</na></co>
 <co c="0"><na f="d/Dustdar:Schahram" pid="d/SDustdar">Schahram Dustdar</na></co>
 <co c="0"><na f="f/Ferreira:Eduardo" pid="77/9013">Eduardo Ferreira</na></co>
 <co c="0"><na f="f/Ferreira:Ibirisol_F=" pid="168/4972">Ibirisol F. Ferreira</na></co>
+<co c="0"><na f="f/Ferreira:J=_V=_G=" pid="407/6063">J. V. G. Ferreira</na></co>
 <co c="0"><na f="f/Filho:Geraldo_P=_R=" pid="141/9518">Geraldo P. R. Filho</na></co>
 <co c="0"><na f="f/Filho:Roberto_Rodrigues" pid="167/8003">Roberto Rodrigues Filho</na></co>
 <co c="0"><na f="f/Fiorani:Matteo" pid="33/878">Matteo Fiorani</na></co>
 <co c="0" n="2"><na f="f/Fonseca:Keiko_Ver=ocirc=nica_Ono" pid="55/2902">Keiko Ver&#244;nica Ono Fonseca</na><na>Keiko V. O. Fonseca</na></co>
 <co c="0"><na f="f/Fonseca:Nelson_L=_S=_da" pid="f/NelsonLSdaFonseca">Nelson L. S. da Fonseca</na></co>
 <co c="0"><na f="f/Fran=ccedil=a:Tamise_S=" pid="311/1862">Tamise S. Fran&#231;a</na></co>
+<co c="0"><na f="f/Freire:M=_E=_S=" pid="407/6254">M. E. S. Freire</na></co>
 <co c="0"><na f="f/Freire:Marcus" pid="404/9435">Marcus Freire</na></co>
 <co c="0"><na f="g/Gramacho:Sergio_Luis_Dias_Lima" pid="143/5630">Sergio Luis Dias Lima Gramacho</na></co>
 <co c="0"><na f="g/Granelli:Fabrizio" pid="39/4893">Fabrizio Granelli</na></co>

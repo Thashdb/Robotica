@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Guilherme Corr&#234;a 0001" pid="14/8181" n="110">
+<dblpperson name="Guilherme Corr&#234;a 0001" pid="14/8181" n="111">
 <person key="homepages/14/8181" mdate="2025-01-10">
 <author pid="14/8181">Guilherme Corr&#234;a 0001</author>
 <author pid="14/8181">Guilherme Ribeiro Corr&#234;a</author>
@@ -34,6 +34,24 @@
 <ee>https://doi.org/10.1109/JETCAS.2024.3523246</ee>
 <url>db/journals/esticas/esticas15.html#FreitasRMPDGC25</url>
 <stream>streams/journals/esticas</stream>
+</article>
+</r>
+<r><article key="journals/jrtip/SantosRCCP25" mdate="2025-06-23">
+<author pid="84/3732">Cristiano Santos</author>
+<author pid="338/8690">Gustavo Rehbein</author>
+<author pid="39/451">Eduardo A. C. da Costa</author>
+<author pid="14/8181">Guilherme Corr&#234;a 0001</author>
+<author pid="44/1063">Marcelo Schiavon Porto</author>
+<title>Efficiency and complexity analysis of video-based and geometry-based point cloud encoders.</title>
+<pages>114</pages>
+<year>2025</year>
+<month>June</month>
+<volume>22</volume>
+<journal>J. Real Time Image Process.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11554-025-01689-9</ee>
+<url>db/journals/jrtip/jrtip22.html#SantosRCCP25</url>
+<stream>streams/journals/jrtip</stream>
 </article>
 </r>
 <r><inproceedings key="conf/lascas/CamargoSC25" mdate="2025-05-12">

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Luiz Eduardo Soares de Oliveira" pid="o/LuizSOliveira" n="236">
+<dblpperson name="Luiz Eduardo Soares de Oliveira" pid="o/LuizSOliveira" n="238">
 <person key="homepages/o/LuizSOliveira" mdate="2018-10-02">
 <author pid="o/LuizSOliveira">Luiz Eduardo Soares de Oliveira</author>
 <author pid="o/LuizSOliveira">Luiz S. Oliveira</author>
@@ -125,6 +125,30 @@
 <url>db/conf/icmla/icmla2024.html#RibasMOZA24</url>
 <stream>streams/conf/icmla</stream>
 </inproceedings>
+</r>
+<r><data key="data/11/OliveiraE24" mdate="2025-06-23">
+<author orcid="0000-0002-0595-5370" pid="o/LuizSOliveira">Luiz Eduardo Soares de Oliveira</author>
+<author pid="395/7134">Luiz Eduardo</author>
+<title>Esp&#233;cies da Amazonia.</title>
+<year>2024</year>
+<month>April</month>
+<ee>https://doi.org/10.5281/zenodo.11039227</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.11039226" type="versionOf"></rel>
+</data>
+</r>
+<r><data key="data/11/OliveiraE24a" mdate="2025-06-23">
+<author orcid="0000-0002-0595-5370" pid="o/LuizSOliveira">Luiz Eduardo Soares de Oliveira</author>
+<author pid="395/7134">Luiz Eduardo</author>
+<title>Esp&#233;cies da Amazonia.</title>
+<year>2024</year>
+<month>April</month>
+<ee>https://doi.org/10.5281/zenodo.11040110</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="2" label="Version 2" uri="https://doi.org/10.5281/zenodo.11039226" type="versionOf"></rel>
+</data>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-2409-05972" mdate="2024-10-09">
 <author pid="275/7233">Mariana Y. Noguti</author>

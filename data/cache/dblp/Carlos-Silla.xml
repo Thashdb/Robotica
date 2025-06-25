@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Carlos Nascimento Silla Jr." pid="38/3598" n="77">
+<dblpperson name="Carlos Nascimento Silla Jr." pid="38/3598" n="79">
 <person key="homepages/38/3598" mdate="2018-12-18">
 <author pid="38/3598">Carlos Nascimento Silla Jr.</author>
 <author pid="38/3598">Carlos N. Silla</author>
@@ -7,6 +7,22 @@
 <url>https://orcid.org/0000-0002-1603-9378</url>
 <url>https://www.wikidata.org/entity/Q58659440</url>
 </person>
+<r><inproceedings key="conf/icit2/GuntherCASPT25" mdate="2025-06-11">
+<author pid="407/0136">Gustavo Andreas G&#252;nther</author>
+<author pid="406/8742">Pedro Henrique Almeida da Cruz</author>
+<author pid="406/8825">Jo&#227;o Pedro Barcelos de Assis</author>
+<author pid="38/3598">Carlos N. Silla</author>
+<author pid="12/1494">Marcelo Eduardo Pellenz</author>
+<author pid="210/3781">Marco Ant&#244;nio Sim&#245;es Teixeira</author>
+<title>Perception System for Autonomous Vehicles: Object Detection, Motion Tracking, and Future Position Prediction.</title>
+<pages>1-6</pages>
+<year>2025</year>
+<booktitle>ICIT</booktitle>
+<ee>https://doi.org/10.1109/ICIT63637.2025.10965297</ee>
+<crossref>conf/icit2/2025</crossref>
+<url>db/conf/icit2/icit2025.html#GuntherCASPT25</url>
+</inproceedings>
+</r>
 <r><article key="journals/tlt/SilvaCS24" mdate="2024-01-13">
 <author pid="194/1663">Davi Bernardo Silva</author>
 <author pid="171/2914">Deborah Ribeiro Carvalho</author>
@@ -48,6 +64,21 @@
 <ee>https://doi.org/10.5220/0012706400003693</ee>
 <crossref>conf/csedu/2024-1</crossref>
 <url>db/conf/csedu/csedu2024-1.html#LeaoSSHSS24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/CarvilheMVFS24" mdate="2025-06-17">
+<author pid="66/2966">Cl&#225;udio Carvilhe</author>
+<author pid="233/8449">Gl&#225;ucio H. M. Moro</author>
+<author pid="309/4902">Anderson Vermonde</author>
+<author pid="309/5014">Jose G. Noronha Filho</author>
+<author pid="38/3598">Carlos N. Silla</author>
+<title>Interdisciplinary Project-Based Learning: An Experience with Digital Games and Music Production Students.</title>
+<pages>1-9</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10893337</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#CarvilheMVFS24</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/fie/MontingelliMRS23" mdate="2024-08-04">
@@ -466,7 +497,7 @@
 <r><inproceedings key="conf/fie/SillaPRGBM18" mdate="2019-10-19">
 <author orcid="0000-0002-1603-9378" pid="38/3598">Carlos N. Silla</author>
 <author pid="174/3694">Andre L. Przybysz</author>
-<author pid="17/10223">Andriano Rivolli</author>
+<author pid="396/6878">Andriano Rivolli</author>
 <author pid="237/6614">Thayna Gimenez</author>
 <author pid="237/6857">Carolina Barroso</author>
 <author pid="237/6754">Jessika Machado</author>
@@ -1103,11 +1134,12 @@
 <url>db/conf/sbia/sbia2004.html#RinoPSKP04</url>
 </inproceedings>
 </r>
-<coauthors n="104" nc="6">
+<coauthors n="109" nc="6">
 <co c="0"><na f="a/Adamo:Lucas" pid="376/4118">Lucas Adamo</na></co>
 <co c="0"><na f="a/Aguiar:Rafael_de_Lima" pid="194/3288">Rafael de Lima Aguiar</na></co>
 <co c="0"><na f="a/Almeida:Murilo" pid="154/1978">Murilo Almeida</na></co>
 <co c="0" n="2"><na f="a/Ang=eacute=lico:Bruno_Augusto" pid="02/8910">Bruno Augusto Ang&#233;lico</na><na>Bruno A. Angelico</na></co>
+<co c="0"><na f="a/Assis:Jo=atilde=o_Pedro_Barcelos_de" pid="406/8825">Jo&#227;o Pedro Barcelos de Assis</na></co>
 <co c="0"><na f="a/Azevedo:Breno" pid="234/1021">Breno Azevedo</na></co>
 <co c="0"><na f="b/Barbosa:Denilson_Fagundes" pid="266/2548">Denilson Fagundes Barbosa</na></co>
 <co c="0" n="2"><na f="b/Barros:Fabio_K=_H=_de" pid="228/1634">Fabio K. H. de Barros</na><na>F&#225;bio K. H. de Barros</na></co>
@@ -1126,6 +1158,7 @@
 <co c="0"><na f="c/Cornelis:Olmo" pid="95/6705">Olmo Cornelis</na></co>
 <co c="0"><na f="c/Correa:Diego_Guarnieri" pid="202/6341">Diego Guarnieri Correa</na></co>
 <co c="0" n="2"><na f="c/Costa:Yandre_M=_G=" pid="116/0909">Yandre M. G. Costa</na><na>Yandre Maldonado e Gomes da Costa</na></co>
+<co c="0"><na f="c/Cruz:Pedro_Henrique_Almeida_da" pid="406/8742">Pedro Henrique Almeida da Cruz</na></co>
 <co c="4"><na f="d/Deconto:Diogo_Steinke" pid="352/7110">Diogo Steinke Deconto</na></co>
 <co c="0"><na f="d/Dvconlo:Diogo_Steinke" pid="286/2630">Diogo Steinke Dvconlo</na></co>
 <co c="0"><na f="e/Enembreck:Fabr=iacute=cio" pid="90/6263">Fabr&#237;cio Enembreck</na></co>
@@ -1138,6 +1171,7 @@
 <co c="0"><na f="g/Gioppo:Lucas_L=" pid="23/10762">Lucas L. Gioppo</na></co>
 <co c="0" n="2"><na f="g/Gon=ccedil=alves:Luiz_Marcos_Garcia" pid="90/6529">Luiz Marcos Garcia Gon&#231;alves</na><na>Luiz M. G. Gon&#231;alves</na></co>
 <co c="0"><na f="g/Gouyon:Fabien" pid="51/2086">Fabien Gouyon</na></co>
+<co c="0"><na f="g/G=uuml=nther:Gustavo_Andreas" pid="407/0136">Gustavo Andreas G&#252;nther</na></co>
 <co c="2"><na f="h/Hauache:Artur_G=" pid="376/4094">Artur G. Hauache</na></co>
 <co c="0"><na f="h/Hernandez:Christopher" pid="302/6449">Christopher Hernandez</na></co>
 <co c="0"><na f="h/Higushi:Thiago_T=" pid="13/10763">Thiago T. Higushi</na></co>
@@ -1171,6 +1205,7 @@
 <co c="0"><na f="p/Pappa:Gisele_L=" pid="59/701">Gisele L. Pappa</na></co>
 <co c="0" n="2"><na f="p/Pardo:Thiago_A=_S=" pid="31/4118">Thiago A. S. Pardo</na><na>Thiago Alexandre Salgueiro Pardo</na></co>
 <co c="0"><na f="p/Paula:Bruno_C=_de" pid="366/5551">Bruno C. de Paula</na></co>
+<co c="0"><na f="p/Pellenz:Marcelo_Eduardo" pid="12/1494">Marcelo Eduardo Pellenz</na></co>
 <co c="0"><na f="p/Pereira:Rodolfo_Miranda" pid="176/0960">Rodolfo Miranda Pereira</na></co>
 <co c="0"><na f="p/Perin:Mauricio" pid="309/4827">Mauricio Perin</na></co>
 <co c="0"><na f="p/Pertusa:Antonio" pid="74/6489">Antonio Pertusa</na></co>
@@ -1185,7 +1220,7 @@
 <co c="0"><na f="r/Reinehr:Sheila_S=" pid="05/2483">Sheila S. Reinehr</na></co>
 <co c="0"><na f="r/Ribeiro:Rafael_P=" pid="146/9162">Rafael P. Ribeiro</na></co>
 <co c="0"><na f="r/Rino:Lucia_Helena_Machado" pid="59/2384">Lucia Helena Machado Rino</na></co>
-<co c="1" n="2"><na f="r/Rivolli:Adriano" pid="17/10223">Adriano Rivolli</na><na>Andriano Rivolli</na></co>
+<co c="1"><na f="r/Rivolli:Andriano" pid="396/6878">Andriano Rivolli</na></co>
 <co c="0"><na f="s/Sanches:Danilo_Sipoli" pid="202/9057">Danilo Sipoli Sanches</na></co>
 <co c="1"><na f="s/Santos:Carolina_L=_dos" pid="169/8294">Carolina L. dos Santos</na></co>
 <co c="0"><na f="s/Selleti:Andr=eacute=_L=_Jeller" pid="309/0165">Andr&#233; L. Jeller Selleti</na></co>
@@ -1200,6 +1235,7 @@
 <co c="0"><na f="s/Sudul:Matheus_H=_C=" pid="352/6154">Matheus H. C. Sudul</na></co>
 <co c="3"><na f="s/Suguiy:Renato_Tateiwa" pid="352/7088">Renato Tateiwa Suguiy</na></co>
 <co c="0"><na f="t/Teixeira:Lucas_O=" pid="52/11324">Lucas O. Teixeira</na></co>
+<co c="0" n="2"><na f="t/Teixeira:Marco_Antonio_Simoes" pid="210/3781">Marco Antonio Simoes Teixeira</na><na>Marco Ant&#244;nio Sim&#245;es Teixeira</na></co>
 <co c="0"><na f="t/Tibola:Maicon_A=" pid="260/5452">Maicon A. Tibola</na></co>
 <co c="4"><na f="v/Valenga:Erick_Luiz_Fontoura" pid="352/6189">Erick Luiz Fontoura Valenga</na></co>
 <co c="0"><na f="v/Valerio:Vinicius_D=" pid="219/9056">Vinicius D. Valerio</na></co>

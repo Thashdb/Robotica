@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Gustavo Pinto 0001" pid="36/11116-1" n="139">
+<dblpperson name="Gustavo Pinto 0001" pid="36/11116-1" n="140">
 <person key="homepages/36/11116-1" mdate="2025-01-10">
 <author pid="36/11116-1">Gustavo Pinto 0001</author>
 <author pid="36/11116-1">Gustavo H. L. Pinto</author>
@@ -21,11 +21,11 @@
 </person>
 </h>
 </homonyms>
-<r><article key="journals/jserd/NazarioBSKP25" mdate="2025-05-31">
+<r><article key="journals/jserd/NazarioBSKP25" mdate="2025-06-11">
 <author orcid="0009-0006-7889-6515" pid="249/9922">Marcos Felipe Carvalho Naz&#225;rio</author>
 <author orcid="0000-0002-2380-2829" pid="21/824">Rodrigo Bonif&#225;cio</author>
 <author orcid="0000-0003-3240-3122" pid="29/7640">Cleidson R. B. de Souza</author>
-<author pid="144/4703">Fernando Kamei</author>
+<author orcid="0000-0002-5572-2049" pid="144/4703">Fernando Kamei</author>
 <author orcid="0000-0001-7598-2799" pid="36/11116-1">Gustavo Pinto 0001</author>
 <title>Strategies to Mitigate Configuration Differences in Software Development: A Rapid Review of Grey Literature.</title>
 <year>2025</year>
@@ -37,10 +37,10 @@
 <stream>streams/journals/jserd</stream>
 </article>
 </r>
-<r><inproceedings key="conf/etra/WieseBR0GSS25" mdate="2025-05-31">
+<r><inproceedings key="conf/etra/WieseBR0GSS25" mdate="2025-06-11">
 <author orcid="0000-0001-9943-5570" pid="06/10439">Igor Scaliante Wiese</author>
 <author orcid="0009-0002-0996-6541" pid="405/9216">Jasmine Boyer</author>
-<author pid="405/9011">Ethan Rasgorshek</author>
+<author orcid="0009-0009-5249-6646" pid="405/9011">Ethan Rasgorshek</author>
 <author orcid="0000-0001-7598-2799" pid="36/11116-1">Gustavo Pinto 0001</author>
 <author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
 <author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
@@ -70,6 +70,20 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2501.07344</ee>
 <url>db/journals/corr/corr2501.html#abs-2501-07344</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-09392" mdate="2025-06-23">
+<author pid="249/9922">Marcos Felipe Carvalho Naz&#225;rio</author>
+<author pid="21/824">Rodrigo Bonif&#225;cio</author>
+<author pid="36/11116-1">Gustavo Pinto 0001</author>
+<title>Mitigating Configuration Differences Between Development and Production Environments: A Catalog of Strategies.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.09392</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.09392</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-09392</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -262,12 +276,12 @@
 <url>db/journals/tse/tse49.html#BarbosaFPdM23</url>
 </article>
 </r>
-<r><inproceedings key="conf/ease/RibeiroLFSSP23" mdate="2025-01-19">
+<r><inproceedings key="conf/ease/RibeiroLFSSP23" mdate="2025-06-13">
 <author orcid="0000-0001-7393-729X" pid="150/8954">Danilo Monteiro Ribeiro</author>
 <author orcid="0000-0002-9807-1266" pid="308/7430">Rayfran Rocha Lima</author>
 <author orcid="0000-0002-0863-3764" pid="150/9014">C&#233;sar Fran&#231;a</author>
 <author pid="278/0527">Alberto Luiz Oliveira Tavares de Souza</author>
-<author orcid="0000-0002-7681-7653" pid="348/7749">Isadora Silva</author>
+<author orcid="0000-0002-7681-7653" pid="214/2404">Isadora Cardoso-Pereira</author>
 <author orcid="0000-0001-7598-2799" pid="36/11116-1">Gustavo H. L. Pinto</author>
 <title>Understanding Self-Efficacy in Software Engineering Industry: An Interview study.</title>
 <pages>101-110</pages>
@@ -310,10 +324,11 @@
 <url>db/journals/corr/corr2303.html#abs-2303-05429</url>
 </article>
 </r>
-<r><article publtype="informal" key="journals/corr/abs-2305-17106" mdate="2023-06-07">
+<r><article publtype="informal" key="journals/corr/abs-2305-17106" mdate="2025-06-13">
 <author pid="150/8954">Danilo Monteiro Ribeiro</author>
 <author pid="308/7430">Rayfran Rocha Lima</author>
 <author pid="150/9014">C&#233;sar Fran&#231;a</author>
+<author pid="278/0527">Alberto Luiz Oliveira Tavares de Souza</author>
 <author pid="214/2404">Isadora Cardoso-Pereira</author>
 <author pid="36/11116-1">Gustavo Pinto 0001</author>
 <title>Understanding Self-Efficacy in Software Engineering Industry: An Interview study.</title>
@@ -884,11 +899,11 @@
 <url>db/conf/icse/icse2020w.html#LeiteK0M20</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/icsm/AmaralOLFBAM0020" mdate="2023-02-25">
+<r><inproceedings key="conf/icsm/AmaralOLFBAM0020" mdate="2025-06-11">
 <author pid="233/8485">Luis Henrique Vieira Amaral</author>
 <author pid="23/10096">Marcos C&#233;sar de Oliveira 0001</author>
 <author pid="227/3293">Welder Pinheiro Luz</author>
-<author pid="22/8193">Jos&#233; Fortes</author>
+<author pid="407/2084">Jos&#233; Fortes Neto</author>
 <author pid="21/824">Rodrigo Bonif&#225;cio</author>
 <author pid="201/6328">Daniel Alencar</author>
 <author pid="200/9203">Eduardo Monteiro</author>
@@ -2146,7 +2161,7 @@
 <url>db/conf/ictai/ictai2010-1.html#PintoV10</url>
 </inproceedings>
 </r>
-<coauthors n="187" nc="2">
+<coauthors n="186" nc="2">
 <co c="0"><na f="a/Agilar:Everton" pid="183/9268">Everton Agilar</na></co>
 <co c="0"><na f="a/Albonico:Michel" pid="119/5096">Michel Albonico</na></co>
 <co c="0"><na f="a/Alencar:Daniel" pid="201/6328">Daniel Alencar</na></co>
@@ -2207,7 +2222,6 @@
 <co c="0" n="2"><na f="f/Filho:Fernando_Castor" pid="f/FCFilho">Fernando Castor Filho</na><na>Fernando Castor</na></co>
 <co c="0" n="2"><na f="f/Filho:Fernando_Marques_Figueira" pid="27/902">Fernando Marques Figueira Filho</na><na>Fernando Figueira Filho</na></co>
 <co c="0" n="2"><na f="f/Font=atilde=o:Awdren_de_Lima" pid="168/6211">Awdren de Lima Font&#227;o</na><na>Awdren L. Font&#227;o</na></co>
-<co c="0"><na f="f/Fortes:Jos=eacute=" pid="22/8193">Jos&#233; Fortes</na></co>
 <co c="0" n="2"><na f="f/Fran=ccedil=a:A=_C=eacute=sar_C=" pid="150/9014">A. C&#233;sar C. Fran&#231;a</na><na>C&#233;sar Fran&#231;a</na></co>
 <co c="0"><na f="f/Freitas:Davi" pid="189/5215">Davi Freitas</na></co>
 <co c="0"><na f="f/Fronchetti:Felipe" pid="241/4795">Felipe Fronchetti</na></co>
@@ -2266,6 +2280,7 @@
 <co c="0" n="2"><na f="n/Neto:Baldoino_Fonseca_dos_Santos" pid="22/7095">Baldoino Fonseca dos Santos Neto</na><na>Baldoino Fonseca</na></co>
 <co c="0" n="2"><na f="n/Neto:Crescencio_Rodrigues_Lima" pid="65/10587">Crescencio Rodrigues Lima Neto</na><na>Crescencio Lima</na></co>
 <co c="0"><na f="n/Neto:Jo=atilde=o_Batista" pid="17/6165">Jo&#227;o Batista Neto</na></co>
+<co c="0"><na f="n/Neto:Jos=eacute=_Fortes" pid="407/2084">Jos&#233; Fortes Neto</na></co>
 <co c="0"><na f="n/Nolte:Alexander" pid="21/5490">Alexander Nolte</na></co>
 <co c="0"><na f="o/Okimoto:M=aacute=rcio_Vinicius" pid="243/7332">M&#225;rcio Vinicius Okimoto</na></co>
 <co c="0"><na f="o/Oliveira:Jo=atilde=o_Paulo" pid="29/11116">Jo&#227;o Paulo Oliveira</na></co>
@@ -2304,7 +2319,6 @@
 <co c="0"><na f="s/Sharif:Bonita" pid="08/3315">Bonita Sharif</na></co>
 <co c="1"><na f="s/Silva:Anselmo_de_Athayde_Costa_e" pid="301/6824">Anselmo de Athayde Costa e Silva</na></co>
 <co c="0"><na f="s/Silva:Fabio_Q=_B=_da" pid="66/5081">Fabio Q. B. da Silva</na></co>
-<co c="0"><na f="s/Silva:Isadora" pid="348/7749">Isadora Silva</na></co>
 <co c="0"><na f="s/Silva:Jefferson" pid="182/4054">Jefferson Silva</na></co>
 <co c="1"><na f="s/Silva:Tacyla_Jesus_da" pid="377/7630">Tacyla Jesus da Silva</na></co>
 <co c="0"><na f="s/Smethurst:Guilherme" pid="243/2603">Guilherme Smethurst</na></co>

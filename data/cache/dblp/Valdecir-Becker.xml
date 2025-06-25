@@ -1,8 +1,43 @@
 <?xml version="1.0"?>
-<dblpperson name="Valdecir Becker" pid="21/9814" n="19">
+<dblpperson name="Valdecir Becker" pid="21/9814" n="21">
 <person key="homepages/21/9814" mdate="2011-06-29">
 <author pid="21/9814">Valdecir Becker</author>
 </person>
+<r><inproceedings key="conf/hci/BeckerASPRCV25" mdate="2025-06-18">
+<author pid="21/9814">Valdecir Becker</author>
+<author pid="407/0234">Wesley Alves</author>
+<author pid="194/3329">Barbara Silva</author>
+<author pid="407/6710">Clarissa Pereira</author>
+<author pid="43/5391">Carlos Ribeiro</author>
+<author pid="407/6832">Lillian Carvalho</author>
+<author pid="244/5234">Edvaldo de Vasconcelos</author>
+<title>Design, Testing, and Evaluation of a Web-Based Geographic Information System for Brazilian City Governments.</title>
+<pages>3-17</pages>
+<year>2025</year>
+<booktitle>HCI (6)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-93965-5_1</ee>
+<crossref>conf/hci/2025-6</crossref>
+<url>db/conf/hci/hci2025-6.html#BeckerASPRCV25</url>
+<stream>streams/conf/hci</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hci/LimaPFAMB25" mdate="2025-06-11">
+<author pid="407/1307">Mateus Lima</author>
+<author pid="322/4891">Alessandro Pinon</author>
+<author pid="407/0515">Ruanderson Fontes</author>
+<author pid="407/0234">Wesley Alves</author>
+<author pid="407/0925">Joao Macedo</author>
+<author pid="21/9814">Valdecir Becker</author>
+<title>Analysis of the Enjoyment Levels Evoked by Two Video Commercials Using EEG.</title>
+<pages>193-207</pages>
+<year>2025</year>
+<booktitle>HCI (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-93845-0_15</ee>
+<crossref>conf/hci/2025-3</crossref>
+<url>db/conf/hci/hci2025-3.html#LimaPFAMB25</url>
+<stream>streams/conf/hci</stream>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/hci/MacedoBSFC24" mdate="2024-07-19">
 <author orcid="0000-0002-6313-1759" pid="322/5180">Jo&#227;o Marcelo Alves Mac&#234;do</author>
 <author orcid="0000-0002-0639-3875" pid="21/9814">Valdecir Becker</author>
@@ -274,11 +309,13 @@
 <url>db/conf/hci/hci2011-23.html#BeckerZ11</url>
 </inproceedings>
 </r>
-<coauthors n="28" nc="3">
+<coauthors n="36" nc="3">
 <co c="1"><na f="a/Abreu:Jorge_Ferraz_de" pid="131/4739">Jorge Ferraz de Abreu</na></co>
+<co c="0"><na f="a/Alves:Wesley" pid="407/0234">Wesley Alves</na></co>
 <co c="0"><na f="a/Azevedo:Amanda" pid="261/8779">Amanda Azevedo</na></co>
 <co c="0"><na f="b/Bezerra:Ed_Porto" pid="70/4309">Ed Porto Bezerra</na></co>
 <co c="1"><na f="c/Cardoso:Bernardo" pid="174/1641">Bernardo Cardoso</na></co>
+<co c="0"><na f="c/Carvalho:Lillian" pid="407/6832">Lillian Carvalho</na></co>
 <co c="0"><na f="c/Cavalcanti:Daniel_De_Queiroz" pid="329/7625">Daniel De Queiroz Cavalcanti</na></co>
 <co c="0" n="2"><na f="c/Cavalcanti:Matheus" pid="322/5415">Matheus Cavalcanti</na><na>Matheus Dantas Cavalcanti</na></co>
 <co c="2"><na f="c/Costa:Rostand" pid="78/7553">Rostand Costa</na></co>
@@ -286,16 +323,22 @@
 <co c="0"><na f="f/Filho:Edvaldo_Vasconcelos_da_Rocha" pid="378/7807">Edvaldo Vasconcelos da Rocha Filho</na></co>
 <co c="2"><na f="f/Filho:Guido_Lemos_de_Souza" pid="40/2408">Guido Lemos de Souza Filho</na></co>
 <co c="0"><na f="f/Filho:Sandro_G=_da_Silva" pid="244/5306">Sandro G. da Silva Filho</na></co>
+<co c="0"><na f="f/Fontes:Ruanderson" pid="407/0515">Ruanderson Fontes</na></co>
 <co c="0"><na f="g/Gambaro:Daniel" pid="202/0018">Daniel Gambaro</na></co>
 <co c="0"><na f="g/Gomes:Thayn=aacute=_dos_S=" pid="269/4820">Thayn&#225; dos S. Gomes</na></co>
+<co c="0"><na f="l/Lima:Mateus" pid="407/1307">Mateus Lima</na></co>
+<co c="0"><na f="m/Macedo:Joao" pid="407/0925">Joao Macedo</na></co>
 <co c="0"><na f="m/Mac=ecirc=do:Jo=atilde=o_Marcelo_Alves" pid="322/5180">Jo&#227;o Marcelo Alves Mac&#234;do</na></co>
 <co c="2"><na f="m/Malaguti:Alvaro" pid="261/8665">Alvaro Malaguti</na></co>
 <co c="0"><na f="m/Marinho:Isaac_N=oacute=brega" pid="329/7905">Isaac N&#243;brega Marinho</na></co>
 <co c="1"><na f="n/Nogueira:Jo=atilde=o" pid="31/9235">Jo&#227;o Nogueira</na></co>
 <co c="0"><na f="n/Noleto:Jaqueline_Donin" pid="244/9574">Jaqueline Donin Noleto</na></co>
+<co c="0"><na f="p/Pereira:Clarissa" pid="407/6710">Clarissa Pereira</na></co>
 <co c="0"><na f="p/Pinon:Alessandro" pid="322/4891">Alessandro Pinon</na></co>
 <co c="0"><na f="r/Ramos:Thais_Saraiva" pid="201/9798">Thais Saraiva Ramos</na></co>
+<co c="0"><na f="r/Ribeiro:Carlos" pid="43/5391">Carlos Ribeiro</na></co>
 <co c="0" n="2"><na f="s/S=aacute=:Felipe_Melo_Feliciano_De" pid="329/7126">Felipe Melo Feliciano De S&#225;</na><na>Felipe Melo 0001</na></co>
+<co c="0"><na f="s/Silva:Barbara" pid="194/3329">Barbara Silva</na></co>
 <co c="0"><na f="s/Silva:Maria_C=_D=" pid="269/4832">Maria C. D. Silva</na></co>
 <co c="0"><na f="s/Silva:Thiago" pid="177/2477">Thiago Silva</na></co>
 <co c="0"><na f="s/Silva:Thiago_Henrique_Coelho_Tavares_Da" pid="329/8019">Thiago Henrique Coelho Tavares Da Silva</na></co>

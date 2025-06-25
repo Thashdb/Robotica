@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
-<dblpperson name="Fl&#225;via Maria Santoro" pid="33/6173" n="219">
+<dblpperson name="Fl&#225;via Maria Santoro" pid="33/6173" n="221">
 <person key="homepages/33/6173" mdate="2022-12-23">
 <author pid="33/6173">Fl&#225;via Maria Santoro</author>
 <note type="affiliation">State University of Rio de Janeiro, Brazil</note>
 <url>https://orcid.org/0000-0003-3421-1984</url>
 </person>
-<r><article key="journals/isf/GomesSSI25" mdate="2025-05-31">
+<r><article key="journals/isf/GomesSSI25" mdate="2025-06-11">
 <author orcid="0000-0001-9058-393X" pid="256/1508">Silvia Bogea Gomes</author>
-<author pid="33/6173">Fl&#225;via Maria Santoro</author>
+<author orcid="0000-0003-3421-1984" pid="33/6173">Fl&#225;via Maria Santoro</author>
 <author orcid="0000-0002-0489-4465" pid="99/745">Miguel Mira da Silva</author>
-<author pid="29/4718">Maria-Eugenia Iacob</author>
+<author orcid="0000-0002-4004-0117" pid="29/4718">Maria-Eugenia Iacob</author>
 <title>Visualization of Digital Transformation Initiatives Elements through ArchiMate Viewpoints.</title>
 <pages>743-768</pages>
 <year>2025</year>
@@ -40,9 +40,9 @@
 <stream>streams/journals/isys</stream>
 </article>
 </r>
-<r><article key="journals/te/PaivaSHL25" mdate="2025-05-09">
+<r><article key="journals/te/PaivaSHL25" mdate="2025-06-15">
 <author orcid="0000-0001-7081-8383" pid="54/2452">Henrique Mohallem Paiva</author>
-<author pid="33/6173">Fl&#225;via Maria Santoro</author>
+<author orcid="0000-0003-3421-1984" pid="33/6173">Fl&#225;via Maria Santoro</author>
 <author orcid="0000-0001-6672-4296" pid="266/5884">Victor Takashi Hayashi</author>
 <author pid="404/4924">Bianca Cassemiro Lima</author>
 <title>PBL Student Assessment: Consistency of Different Evaluation Methods in a Computing Faculty.</title>
@@ -52,10 +52,39 @@
 <volume>68</volume>
 <journal>IEEE Trans. Educ.</journal>
 <number>2</number>
-<ee>https://doi.org/10.1109/TE.2025.3545314</ee>
+<ee type="oa">https://doi.org/10.1109/TE.2025.3545314</ee>
 <url>db/journals/te/te68.html#PaivaSHL25</url>
 <stream>streams/journals/te</stream>
 </article>
+</r>
+<r><inproceedings key="conf/educon/PaivaHSPG25" mdate="2025-06-13">
+<author pid="54/2452">Henrique Mohallem Paiva</author>
+<author pid="266/5884">Victor Takashi Hayashi</author>
+<author pid="33/6173">Fl&#225;via Maria Santoro</author>
+<author pid="394/4947">Juliana Pereira Lisboa M. Paiva</author>
+<author pid="197/4030">Mauricio Garc&#237;a</author>
+<title>Active Learning in STEM Education: An Approach Combining Flipped Classroom and Dialogic Teaching.</title>
+<pages>1-10</pages>
+<year>2025</year>
+<booktitle>EDUCON</booktitle>
+<ee>https://doi.org/10.1109/EDUCON62633.2025.11016558</ee>
+<crossref>conf/educon/2025</crossref>
+<url>db/conf/educon/educon2025.html#PaivaHSPG25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/educon/SantosBPS25" mdate="2025-06-13">
+<author pid="368/0561">Priscila Falc&#227;o dos Santos</author>
+<author pid="407/3022">Vitor Augusto Mentem De Barros</author>
+<author pid="54/2452">Henrique Mohallem Paiva</author>
+<author pid="33/6173">Fl&#225;via Maria Santoro</author>
+<title>Gender and Socioeconomic Influences on Academic Performance in Pbl Computing Education.</title>
+<pages>1-5</pages>
+<year>2025</year>
+<booktitle>EDUCON</booktitle>
+<ee>https://doi.org/10.1109/EDUCON62633.2025.11016332</ee>
+<crossref>conf/educon/2025</crossref>
+<url>db/conf/educon/educon2025.html#SantosBPS25</url>
+</inproceedings>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-2504-10971" mdate="2025-05-22">
 <author pid="405/4411">Ed C. Overes</author>
@@ -3151,7 +3180,7 @@
 <url>db/conf/hicss/hicss2000.html#SantoroBP00</url>
 </inproceedings>
 </r>
-<coauthors n="193" nc="4">
+<coauthors n="196" nc="4">
 <co c="0"><na f="a/Aalst:Wil_M=_P=_van_der" pid="a/WilMPvanderAalst">Wil M. P. van der Aalst</na></co>
 <co c="0"><na f="a/Anastassiu:Monica" pid="183/7120">Monica Anastassiu</na></co>
 <co c="0"><na f="a/Araujo:Renata_Mendes_de" pid="99/6614">Renata Mendes de Araujo</na></co>
@@ -3165,6 +3194,7 @@
 <co c="0"><na f="b/Barboza:Thais_Mester" pid="246/8420">Thais Mester Barboza</na></co>
 <co c="0"><na f="b/Barradas:Rafael_Gomes" pid="125/0356">Rafael Gomes Barradas</na></co>
 <co c="0"><na f="b/Barros:M=aacute=rcio_de_Oliveira" pid="36/2479">M&#225;rcio de Oliveira Barros</na></co>
+<co c="0"><na f="b/Barros:Vitor_Augusto_Mentem_De" pid="407/3022">Vitor Augusto Mentem De Barros</na></co>
 <co c="0"><na f="b/Bartelheimer:Christian" pid="231/0685">Christian Bartelheimer</na></co>
 <co c="0"><na f="b/Bastos:Aldinei" pid="145/1662">Aldinei Bastos</na></co>
 <co c="0" n="2"><na f="b/Batista:Tha=iacute=s_Vasconcelos" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</na><na>Tha&#237;s Batista</na></co>
@@ -3273,6 +3303,7 @@
 <co c="3"><na f="p/P=:Jorge_E=_Giraldo" pid="03/9550">Jorge E. Giraldo P.</na></co>
 <co c="0"><na f="p/Paim:Rafael" pid="94/4028">Rafael Paim</na></co>
 <co c="0"><na f="p/Paiva:Henrique_Mohallem" pid="54/2452">Henrique Mohallem Paiva</na></co>
+<co c="0"><na f="p/Paiva:Juliana_Pereira_Lisboa_M=" pid="394/4947">Juliana Pereira Lisboa M. Paiva</na></co>
 <co c="0"><na f="p/Park:Kangah" pid="345/9987">Kangah Park</na></co>
 <co c="0"><na f="p/Pascual:Gabriel_Alonso_Pena" pid="116/6898">Gabriel Alonso Pena Pascual</na></co>
 <co c="-1" n="2"><na f="p/Pereira:Andreia_C=_T=_D=" pid="35/8362">Andreia C. T. D. Pereira</na><na>Andreia Carneiro Teixeira Dias Pereira</na></co>
@@ -3310,6 +3341,7 @@
 <co c="0"><na f="s/Santos:Fabiana_Jack_Nogueira" pid="30/10513">Fabiana Jack Nogueira Santos</na></co>
 <co c="0"><na f="s/Santos:Gleison" pid="78/2800">Gleison Santos</na></co>
 <co c="0"><na f="s/Santos:Neide_dos" pid="18/6778">Neide dos Santos</na></co>
+<co c="0"><na f="s/Santos:Priscila_Falc=atilde=o_dos" pid="368/0561">Priscila Falc&#227;o dos Santos</na></co>
 <co c="1"><na f="s/Santos:Simone_C=_dos" pid="83/2310">Simone C. dos Santos</na></co>
 <co c="0"><na f="s/Schwabe_0001:Daniel" pid="s/DanielSchwabe">Daniel Schwabe 0001</na></co>
 <co c="0"><na f="s/Silva:Douglas_Machado" pid="116/6839">Douglas Machado Silva</na></co>

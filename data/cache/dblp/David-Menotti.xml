@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<dblpperson name="David Menotti" pid="10/2834" n="169">
+<dblpperson name="David Menotti" pid="10/2834" n="170">
 <person key="homepages/10/2834" mdate="2015-09-03">
 <author pid="10/2834">David Menotti</author>
 <author pid="10/2834">David Menoti</author>
 <author pid="10/2834">David Menotti Gomes</author>
 </person>
-<r><article key="journals/inffus/DeAndresTameTMVKRLGMFOZ25" mdate="2025-05-01">
+<r><article key="journals/inffus/DeAndresTameTMVKRLGMFOZ25" mdate="2025-06-14">
 <author orcid="0009-0008-5402-1153" pid="361/1898">Ivan DeAndres-Tame</author>
 <author orcid="0000-0002-9393-3066" pid="164/9111">Ruben Tolosana</author>
 <author pid="318/1456">Pietro Melzi</author>
@@ -13,7 +13,7 @@
 <author pid="189/1176">Minchul Kim</author>
 <author pid="78/3731">Christian Rathgeb</author>
 <author pid="l/XiaomingLiu0002">Xiaoming Liu 0002</author>
-<author pid="305/3868">Luis F. Gomez</author>
+<author pid="281/6723">Luis Felipe Gomez-Gomez</author>
 <author pid="91/7421">Aythami Morales</author>
 <author orcid="0000-0002-6343-5656" pid="97/4330">Julian Fierrez</author>
 <author pid="95/893">Javier Ortega-Garcia</author>
@@ -90,8 +90,8 @@
 <stream>streams/journals/jvcir</stream>
 </article>
 </r>
-<r><article key="journals/npl/LucioZCM25" mdate="2025-06-01">
-<author pid="173/9085">Diego Rafael Lucio</author>
+<r><article key="journals/npl/LucioZCM25" mdate="2025-06-11">
+<author orcid="0000-0003-2012-3676" pid="173/9085">Diego Rafael Lucio</author>
 <author pid="215/5119">Luiz A. Zanlorensi</author>
 <author pid="116/0909">Yandre M. G. Costa</author>
 <author pid="10/2834">David Menotti</author>
@@ -146,6 +146,23 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2504.19347</ee>
 <url>db/journals/corr/corr2504.html#abs-2504-19347</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-06393" mdate="2025-06-23">
+<author pid="332/0795">Valfride Nascimento</author>
+<author pid="386/1476">Gabriel E. Lima</author>
+<author pid="285/2877">Rafael O. Ribeiro</author>
+<author pid="78/6398">William Robson Schwartz</author>
+<author pid="215/5013">Rayson Laroca</author>
+<author pid="10/2834">David Menotti</author>
+<title>Toward Advancing License Plate Super-Resolution in Real-World Scenarios: A Dataset and Benchmark.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.06393</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.06393</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-06393</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -747,7 +764,7 @@
 <stream>streams/journals/corr</stream>
 </article>
 </r>
-<r><article publtype="informal" key="journals/corr/abs-2412-01383" mdate="2025-05-01">
+<r><article publtype="informal" key="journals/corr/abs-2412-01383" mdate="2025-06-14">
 <author pid="361/1898">Ivan DeAndres-Tame</author>
 <author orcid="0000-0002-9393-3066" pid="164/9111">Ruben Tolosana</author>
 <author pid="318/1456">Pietro Melzi</author>
@@ -755,7 +772,7 @@
 <author pid="189/1176">Minchul Kim</author>
 <author pid="78/3731">Christian Rathgeb</author>
 <author pid="l/XiaomingLiu0002">Xiaoming Liu 0002</author>
-<author pid="305/3868">Luis F. Gomez</author>
+<author pid="281/6723">Luis Felipe Gomez-Gomez</author>
 <author pid="91/7421">Aythami Morales</author>
 <author pid="97/4330">Julian Fi&#233;rrez</author>
 <author pid="95/893">Javier Ortega-Garcia</author>
@@ -3039,7 +3056,7 @@
 <co c="0"><na f="g/Garcia:Gabriel" pid="99/8240">Gabriel Garcia</na></co>
 <co c="0"><na f="g/George:Anjith" pid="128/3164">Anjith George</na></co>
 <co c="0"><na f="g/Ghosh:Ishita_De" pid="299/3288">Ishita De Ghosh</na></co>
-<co c="0"><na f="g/Gomez:Luis_F=" pid="305/3868">Luis F. Gomez</na></co>
+<co c="0"><na f="g/Gomez=Gomez:Luis_Felipe" pid="281/6723">Luis Felipe Gomez-Gomez</na></co>
 <co c="0"><na f="g/Gon=ccedil=alves:Gabriel_Resende" pid="156/5504">Gabriel Resende Gon&#231;alves</na></co>
 <co c="0"><na f="g/Gon=ccedil=alves:Marcos_Andr=eacute=" pid="45/1395">Marcos Andr&#233; Gon&#231;alves</na></co>
 <co c="0" n="2"><na f="g/Granada:Roger" pid="94/473">Roger Granada</na><na>Roger Leitzke Granada</na></co>

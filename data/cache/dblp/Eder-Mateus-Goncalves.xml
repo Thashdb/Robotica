@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Eder Mateus Nunes Gon&#231;alves" pid="58/4651" n="23">
+<dblpperson name="Eder Mateus Nunes Gon&#231;alves" pid="58/4651" n="24">
 <person key="homepages/58/4651" mdate="2024-08-28">
 <author pid="58/4651">Eder Mateus Nunes Gon&#231;alves</author>
 <url>https://orcid.org/0000-0001-9159-2264</url>
@@ -22,6 +22,20 @@
 <url>db/journals/aamas/aamas39.html#MachadoCFGA25</url>
 <stream>streams/journals/aamas</stream>
 </article>
+</r>
+<r><inproceedings key="conf/fie/GoncalvesDOW24" mdate="2025-06-17">
+<author pid="58/4651">Eder Mateus Nunes Gon&#231;alves</author>
+<author pid="366/4504">Sam Da Silva Devincenzi</author>
+<author pid="08/2829">Vinicius Menezes de Oliveira</author>
+<author pid="366/5102">Adriano Werhli</author>
+<title>Engineering Solutions to Real Problems with Interdisciplinarity in a Traditional Curricula.</title>
+<pages>1-8</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10893190</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#GoncalvesDOW24</url>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/flairs/FariasRAG24" mdate="2025-02-06">
 <author pid="264/8929">Giovani Parente Farias</author>

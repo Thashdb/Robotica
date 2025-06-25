@@ -1,8 +1,38 @@
 <?xml version="1.0"?>
-<dblpperson name="Tiago Silva da Silva" pid="78/3343" n="54">
+<dblpperson name="Tiago Silva da Silva" pid="78/3343" n="56">
 <person key="homepages/78/3343" mdate="2009-06-10">
 <author pid="78/3343">Tiago Silva da Silva</author>
 </person>
+<r><article key="journals/tplop/ChomaS025" mdate="2025-06-11">
+<author pid="165/4102">Joelma Choma</author>
+<author pid="78/3343">Tiago Silva da Silva</author>
+<author pid="65/1205">Eduardo M. Guerra 0001</author>
+<title>Pattern Language for Lightweight and Interactive Software Analytics Process.</title>
+<pages>162-189</pages>
+<year>2025</year>
+<volume>5</volume>
+<journal>Trans. Pattern Lang. Program.</journal>
+<ee>https://doi.org/10.1007/978-3-662-70810-1_4</ee>
+<crossref>journals/tplop/2025-5</crossref>
+<url>db/journals/tplop/tplop5.html#ChomaS025</url>
+</article>
+</r>
+<r><inproceedings key="conf/hci/KollmorgenPSTS25" mdate="2025-06-11">
+<author pid="302/1040">Jessica Kollmorgen</author>
+<author pid="306/6055">Jenny Pilz</author>
+<author pid="78/3343">Tiago Silva da Silva</author>
+<author pid="38/6622">J&#246;rg Thomaschewski</author>
+<author pid="143/8303">Eva-Maria Sch&#246;n</author>
+<title>Reframing Challenges in Agile and UX: A New Categorization Approach.</title>
+<pages>101-111</pages>
+<year>2025</year>
+<booktitle>HCI (30)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-93224-3_7</ee>
+<crossref>conf/hci/2025-30</crossref>
+<url>db/conf/hci/hci2025-30.html#KollmorgenPSTS25</url>
+<stream>streams/conf/hci</stream>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/iceis/SilvaACS25" mdate="2025-05-02">
 <author pid="403/6497">Francisco Anderson Mariano da Silva</author>
 <author pid="204/6505">Wellington Candeia de Ara&#250;jo</author>
@@ -799,7 +829,7 @@
 <url>db/conf/ihc/ihc2008.html#SilvaS08</url>
 </inproceedings>
 </r>
-<coauthors n="95" nc="2">
+<coauthors n="97" nc="2">
 <co c="0"><na f="a/Agnol:Anderson_Dall" pid="392/8561">Anderson Dall Agnol</na></co>
 <co c="0"><na f="a/Aguiar:Ademar" pid="48/4640">Ademar Aguiar</na></co>
 <co c="0"><na f="a/Albuquerque:Thomas" pid="260/8337">Thomas Albuquerque</na></co>
@@ -842,6 +872,7 @@
 <co c="0"><na f="h/Hruschka:Eduardo_R=" pid="31/4579">Eduardo R. Hruschka</na></co>
 <co c="0"><na f="j/Junior:Clevio_Orlando_de_Oliveira" pid="325/3032">Clevio Orlando de Oliveira Junior</na></co>
 <co c="0"><na f="j/J=uacute=nior:Paulo_Afonso_Parreira" pid="23/7677">Paulo Afonso Parreira J&#250;nior</na></co>
+<co c="0"><na f="k/Kollmorgen:Jessica" pid="302/1040">Jessica Kollmorgen</na></co>
 <co c="0"><na f="k/Kon:Fabio" pid="k/FabioKon">Fabio Kon</na></co>
 <co c="0"><na f="k/Kroll:Josiane" pid="17/10221">Josiane Kroll</na></co>
 <co c="0"><na f="l/Lanza:Michele" pid="53/6708">Michele Lanza</na></co>
@@ -868,6 +899,7 @@
 <co c="0"><na f="p/Parzianello:Luiz_Claudio" pid="131/9270">Luiz Claudio Parzianello</na></co>
 <co c="0"><na f="p/Pellizon:Lucas_Henrique" pid="202/9747">Lucas Henrique Pellizon</na></co>
 <co c="1"><na f="p/Peres:Angela_Lima" pid="123/3226">Angela Lima Peres</na></co>
+<co c="0"><na f="p/Pilz:Jenny" pid="306/6055">Jenny Pilz</na></co>
 <co c="0" n="2"><na f="p/Pinheiro:Eduardo_G=" pid="205/9098">Eduardo G. Pinheiro</na><na>Eduardo Gouveia Pinheiro</na></co>
 <co c="0"><na f="p/Porto:Sandy_M=" pid="202/9749">Sandy M. Porto</na></co>
 <co c="0"><na f="r/Ribeiro:Eduardo_Augusto" pid="392/8569">Eduardo Augusto Ribeiro</na></co>

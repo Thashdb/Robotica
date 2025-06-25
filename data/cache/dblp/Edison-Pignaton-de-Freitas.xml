@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Edison Pignaton de Freitas" pid="96/3201" n="194">
+<dblpperson name="Edison Pignaton de Freitas" pid="96/3201" n="195">
 <person key="homepages/96/3201" mdate="2023-07-19">
 <author pid="96/3201">Edison Pignaton de Freitas</author>
 <author pid="96/3201">Edison P. de Freitas</author>
@@ -60,10 +60,25 @@
 <stream>streams/journals/adhoc</stream>
 </article>
 </r>
-<r><article key="journals/ker/BampiMOF25" mdate="2025-05-31">
+<r><article key="journals/adhoc/TropeaAFR25" mdate="2025-06-18">
+<author pid="44/3243">Mauro Tropea</author>
+<author pid="407/6227">Carlos Enrique Quispe Aldana</author>
+<author pid="96/3201">Edison Pignaton de Freitas</author>
+<author pid="65/4811">Floriano De Rango</author>
+<title>SFEM3: A performance comparative analysis for SDN-based FANET Emulation using Mininet-WiFi and ns-3.</title>
+<pages>103859</pages>
+<year>2025</year>
+<volume>177</volume>
+<journal>Ad Hoc Networks</journal>
+<ee>https://doi.org/10.1016/j.adhoc.2025.103859</ee>
+<url>db/journals/adhoc/adhoc177.html#TropeaAFR25</url>
+<stream>streams/journals/adhoc</stream>
+</article>
+</r>
+<r><article key="journals/ker/BampiMOF25" mdate="2025-06-11">
 <author orcid="0009-0005-8291-8599" pid="404/8715">Matheus Dussin Bampi</author>
-<author pid="50/5691">Wagner Ourique de Morais</author>
-<author pid="135/3390">Joanna Isabelle Olszewska</author>
+<author orcid="0000-0001-6708-0816" pid="50/5691">Wagner Ourique de Morais</author>
+<author orcid="0000-0001-5945-7505" pid="135/3390">Joanna Isabelle Olszewska</author>
 <author orcid="0000-0003-4655-8889" pid="96/3201">Edison Pignaton de Freitas</author>
 <title>Ontology-driven monitoring system for ambient assisted living.</title>
 <year>2025</year>
@@ -3134,13 +3149,14 @@
 <url>db/conf/etfa/etfa2005.html#PereiraAKFSC05</url>
 </inproceedings>
 </r>
-<coauthors n="311" nc="2">
+<coauthors n="314" nc="3">
 <co c="0"><na f="a/Abbas:Haider" pid="04/7436">Haider Abbas</na></co>
 <co c="0"><na f="a/Agnoletto:Daniel" pid="313/6443">Daniel Agnoletto</na></co>
 <co c="0"><na f="a/Aires:Marcello_A=" pid="404/6527">Marcello A. Aires</na></co>
 <co c="0"><na f="a/Alarcos:Alberto_Olivares" pid="198/1611">Alberto Olivares Alarcos</na></co>
 <co c="0"><na f="a/Albuquerque:Jo=atilde=o_Porto_de" pid="34/3940">Jo&#227;o Porto de Albuquerque</na></co>
 <co c="0"><na f="a/Albuquerque:Robson_de_Oliveira" pid="68/5982">Robson de Oliveira Albuquerque</na></co>
+<co c="2"><na f="a/Aldana:Carlos_Enrique_Quispe" pid="407/6227">Carlos Enrique Quispe Aldana</na></co>
 <co c="0"><na f="a/Aleny=agrave=:Guillem" pid="50/377">Guillem Aleny&#224;</na></co>
 <co c="0" n="2"><na f="a/Ali:Hazem_Ismail_Abdel_Aziz" pid="141/0638">Hazem Ismail Abdel Aziz Ali</na><na>Hazem Ismail Ali</na></co>
 <co c="0"><na f="a/Allgayer:Rodrigo_Schmidt" pid="77/8120">Rodrigo Schmidt Allgayer</na></co>
@@ -3370,6 +3386,7 @@
 <co c="0"><na f="r/Rammig:Franz=Josef" pid="r/FranzJosefRammig">Franz-Josef Rammig</na></co>
 <co c="0"><na f="r/Ramos:Gabriel_de_Oliveira" pid="133/2299">Gabriel de Oliveira Ramos</na></co>
 <co c="0"><na f="r/Ramos:Rafael_de_Freitas" pid="151/4045">Rafael de Freitas Ramos</na></co>
+<co c="2"><na f="r/Rango:Floriano_De" pid="65/4811">Floriano De Rango</na></co>
 <co c="0"><na f="r/Redfield:Signe_A=" pid="80/78">Signe A. Redfield</na></co>
 <co c="0"><na f="r/Rettore:Paulo_H=_L=" pid="192/4793">Paulo H. L. Rettore</na></co>
 <co c="1"><na f="r/Ribeiro:Paulo_Rog=eacute=rio_de_Almeida" pid="08/8664">Paulo Rog&#233;rio de Almeida Ribeiro</na></co>
@@ -3422,6 +3439,7 @@
 <co c="0"><na f="t/Ten=oacute=rio:Danilo_F=" pid="201/2359">Danilo F. Ten&#243;rio</na></co>
 <co c="0" n="2"><na f="t/Tesolin:J=uacute=lio" pid="166/2068">J&#250;lio Tesolin</na><na>J&#250;lio Cesar Cardoso Tesolin</na></co>
 <co c="0"><na f="t/Tosello:Elisa" pid="120/1335">Elisa Tosello</na></co>
+<co c="2"><na f="t/Tropea:Mauro" pid="44/3243">Mauro Tropea</na></co>
 <co c="0"><na f="t/Tufvesson:Fredrik" pid="06/5372">Fredrik Tufvesson</na></co>
 <co c="0" n="2"><na f="u/Ueyama:Jo" pid="68/1201">Jo Ueyama</na><na>J&#243; Ueyama</na></co>
 <co c="0" n="2"><na f="v/Veith:Alexandre_da_Silva" pid="205/2779">Alexandre da Silva Veith</na><na>Alexandre Da Silva Veith</na></co>

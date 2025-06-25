@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Marcos Kalinowski" pid="38/3792" n="238">
+<dblpperson name="Marcos Kalinowski" pid="38/3792" n="239">
 <person key="homepages/38/3792" mdate="2023-12-12">
 <author pid="38/3792">Marcos Kalinowski</author>
 <note type="affiliation">Pontifical Catholic University of Rio de Janeiro, Brazil</note>
@@ -40,13 +40,26 @@
 <stream>streams/journals/jss</stream>
 </article>
 </r>
-<r><inproceedings key="conf/swqd/KalinowskiRRBVB25" mdate="2025-06-05">
+<r><inproceedings key="conf/csee/AraujoKB25" mdate="2025-06-23">
+<author pid="148/4956">Allysson Allex Ara&#250;jo</author>
 <author pid="38/3792">Marcos Kalinowski</author>
+<author pid="73/1559">Maria Teresa Baldassarre</author>
+<title>Embracing Experiential Learning: Hackathons as an Educational Strategy for Shaping Soft Skills in Software Engineering.</title>
+<pages>319-324</pages>
+<year>2025</year>
+<booktitle>CSEE&#38;T</booktitle>
+<ee>https://doi.org/10.1109/CSEET66350.2025.00040</ee>
+<crossref>conf/csee/2025</crossref>
+<url>db/conf/csee/csee2025.html#AraujoKB25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/swqd/KalinowskiRRBVB25" mdate="2025-06-11">
+<author orcid="0000-0003-1445-3425" pid="38/3792">Marcos Kalinowski</author>
 <author pid="383/6190">Lucas Romao</author>
-<author pid="218/4904">Ariane M. B. Rodrigues</author>
+<author orcid="0000-0002-1614-918X" pid="218/4904">Ariane M. B. Rodrigues</author>
 <author pid="383/5095">Clarissa Barbosa</author>
-<author pid="222/1985">Hugo Villamizar</author>
-<author pid="b/SDJBarbosa">Simone D. J. Barbosa</author>
+<author orcid="0000-0003-4142-6967" pid="222/1985">Hugo Villamizar</author>
+<author orcid="0000-0002-0044-503X" pid="b/SDJBarbosa">Simone D. J. Barbosa</author>
 <author pid="25/6137">H&#233;lio Lopes 0001</author>
 <title>Experiences Applying Lean R&#38;D in Industry-Academia Collaboration Projects.</title>
 <pages>109-123</pages>

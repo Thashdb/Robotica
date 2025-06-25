@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Guilherme Horta Travassos" pid="t/GuilhermeTravassos" n="299">
+<dblpperson name="Guilherme Horta Travassos" pid="t/GuilhermeTravassos" n="301">
 <person key="homepages/t/GuilhermeTravassos" mdate="2025-01-10">
 <author pid="t/GuilhermeTravassos">Guilherme Horta Travassos</author>
 <author pid="t/GuilhermeTravassos">Guilherme H. Travassos</author>
@@ -9,11 +9,28 @@
 <url>https://orcid.org/0000-0002-4258-0424</url>
 <url>https://www.wikidata.org/entity/Q130862088</url>
 </person>
-<r><article key="journals/tii/MatalongaASHT25" mdate="2025-05-31">
+<r><article key="journals/ese/CerqueiraMCT25" mdate="2025-06-23">
+<author pid="283/1271">Diego Andr&#233; Cerqueira</author>
+<author pid="121/2507">Rafael Maiani de Mello</author>
+<author pid="408/0253">J&#233;ssica Soares da Costa</author>
+<author pid="t/GuilhermeTravassos">Guilherme Horta Travassos</author>
+<title>Experimental Evaluation of a Checklist-Based Inspection Technique to Verify the Compliance of Software Systems with the Brazilian General Data Protection Law.</title>
+<pages>122</pages>
+<year>2025</year>
+<month>October</month>
+<volume>30</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s10664-025-10681-7</ee>
+<url>db/journals/ese/ese30.html#CerqueiraMCT25</url>
+<stream>streams/journals/ese</stream>
+</article>
+</r>
+<r><article key="journals/tii/MatalongaASHT25" mdate="2025-06-11">
 <author orcid="0000-0001-5429-2449" pid="96/1477">Santiago Matalonga</author>
 <author orcid="0000-0002-4761-4443" pid="91/6656">Domenico Amalfitano</author>
 <author orcid="0000-0001-5532-3227" pid="09/2658">Mart&#237;n Solari</author>
-<author pid="77/5650">Jean Carlo Rossa Hauck</author>
+<author orcid="0000-0001-6550-9092" pid="77/5650">Jean Carlo Rossa Hauck</author>
 <author orcid="0000-0002-4258-0424" pid="t/GuilhermeTravassos">Guilherme Horta Travassos</author>
 <title>Testing Context-Aware Software Systems From the Voices of the Automotive Industry.</title>
 <pages>3705-3716</pages>
@@ -41,6 +58,22 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2501.12728</ee>
 <url>db/journals/corr/corr2501.html#abs-2501-12728</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-00816" mdate="2025-06-18">
+<author pid="352/3157">Santiago del Rey</author>
+<author pid="06/7402">Paulo S&#233;rgio Medeiros dos Santos</author>
+<author pid="t/GuilhermeTravassos">Guilherme Horta Travassos</author>
+<author pid="f/XavierFranch">Xavier Franch</author>
+<author pid="124/8870">Silverio Mart&#237;nez-Fern&#225;ndez</author>
+<title>Aggregating empirical evidence from data strategy studies: a case on model quantization.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.00816</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.00816</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-00816</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -4122,7 +4155,7 @@
 <url>db/conf/sbes/sbes1990.html#TrottaTS90</url>
 </inproceedings>
 </r>
-<coauthors n="234" nc="2">
+<coauthors n="236" nc="2">
 <co c="0"><na f="a/Abrantes:Jos=eacute=_Fortuna" pid="97/10607">Jos&#233; Fortuna Abrantes</na></co>
 <co c="0"><na f="a/Abreu:Fernando_Brito_e" pid="84/5384">Fernando Brito e Abreu</na></co>
 <co c="0" n="2"><na f="a/Albuquerque:Adriano_Bessa" pid="64/6515">Adriano Bessa Albuquerque</na><na>Adriano Albuquerque</na></co>
@@ -4165,6 +4198,7 @@
 <co c="0"><na f="c/Correa:Francisco_Jose_Pino" pid="246/3301">Francisco Jose Pino Correa</na></co>
 <co c="0"><na f="c/Costa:Daniella_de_O=" pid="254/6404">Daniella de O. Costa</na></co>
 <co c="0"><na f="c/Costa:H=eacute=lio_R=" pid="26/3865">H&#233;lio R. Costa</na></co>
+<co c="0"><na f="c/Costa:J=eacute=ssica_Soares_da" pid="408/0253">J&#233;ssica Soares da Costa</na></co>
 <co c="0"><na f="c/Cruz:S=eacute=rgio_Manuel_Serra_da" pid="65/591">S&#233;rgio Manuel Serra da Cruz</na></co>
 <co c="0" n="2"><na f="c/Cruzes:Daniela_S=" pid="14/3678">Daniela S. Cruzes</na><na>Daniela Soares Cruzes</na></co>
 <co c="0" n="2"><na f="c/Curty:Felipe" pid="64/1594">Felipe Curty</na><na>Felipe C. R. Pinto</na></co>
@@ -4279,6 +4313,7 @@
 <co c="0"><na f="r/Rainer:Austen" pid="15/642">Austen Rainer</na></co>
 <co c="0"><na f="r/Rassu:Michael" pid="283/1363">Michael Rassu</na></co>
 <co c="0"><na f="r/Reinehr:Sheila_S=" pid="05/2483">Sheila S. Reinehr</na></co>
+<co c="0"><na f="r/Rey:Santiago_del" pid="352/3157">Santiago del Rey</na></co>
 <co c="0"><na f="r/Ribeiro:Talita_Vieira" pid="132/7171">Talita Vieira Ribeiro</na></co>
 <co c="0"><na f="r/Ribeiro:Victor_Vidigal" pid="232/6634">Victor Vidigal Ribeiro</na></co>
 <co c="0"><na f="r/Rios:Nicolli" pid="163/7460">Nicolli Rios</na></co>

@@ -1,10 +1,28 @@
 <?xml version="1.0"?>
-<dblpperson name="Jean Everson Martina" pid="24/765" n="43">
+<dblpperson name="Jean Everson Martina" pid="24/765" n="44">
 <person key="homepages/24/765" mdate="2019-07-29">
 <author pid="24/765">Jean Everson Martina</author>
 <url>https://orcid.org/0000-0003-4104-1741</url>
 <url>https://www.wikidata.org/entity/Q57515700</url>
 </person>
+<r><article key="journals/jisa/EstevamTFIVM25" mdate="2025-06-16">
+<author pid="289/2739">Gabriel Estevam</author>
+<author pid="407/3284">Pedro Henrique de Sena Trombini Taglialenha</author>
+<author pid="407/4159">Luis Felipe Fabiane</author>
+<author pid="165/1107">Tha&#237;s Bardini Idalino</author>
+<author pid="61/6341">Mart&#237;n A. Gagliotti Vigil</author>
+<author pid="24/765">Jean Everson Martina</author>
+<title>Forwarding Metrology with an IoT and Blockchain Approach: The Gas Pumps Use Case.</title>
+<pages>253-267</pages>
+<year>2025</year>
+<volume>16</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5753/jisa.2025.5016</ee>
+<url>db/journals/jisa/jisa16.html#EstevamTFIVM25</url>
+<stream>streams/journals/jisa</stream>
+</article>
+</r>
 <r><inproceedings key="conf/aina/RosaZM25" mdate="2025-06-05">
 <author pid="326/5494">Larissa Gremelmaier Rosa</author>
 <author pid="230/1832">Gustavo Zambonin</author>
@@ -598,7 +616,7 @@
 <url>db/conf/europki/europki2007.html#MartinaSC07</url>
 </inproceedings>
 </r>
-<coauthors n="54" nc="4">
+<coauthors n="56" nc="4">
 <co c="0"><na f="a/Agostinho:Bruno_Machado" pid="232/5612">Bruno Machado Agostinho</na></co>
 <co c="-1"><na f="a/Araujo:Thiago_Souza" pid="58/7498">Thiago Souza Araujo</na></co>
 <co c="2"><na f="b/Barros:Charles_F=_de" pid="265/3467">Charles F. de Barros</na></co>
@@ -610,6 +628,7 @@
 <co c="0"><na f="c/Coelho:Marina" pid="191/8035">Marina Coelho</na></co>
 <co c="0"><na f="c/Cust=oacute=dio:Ricardo_Felipe" pid="95/6830">Ricardo Felipe Cust&#243;dio</na></co>
 <co c="0"><na f="e/Estevam:Gabriel" pid="289/2739">Gabriel Estevam</na></co>
+<co c="0"><na f="f/Fabiane:Luis_Felipe" pid="407/4159">Luis Felipe Fabiane</na></co>
 <co c="0"><na f="f/Fr=ouml=hlich:Ant=ocirc=nio_Augusto" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</na></co>
 <co c="0" n="2"><na f="g/Giron:Alexandre_A=" pid="177/2519">Alexandre A. Giron</na><na>Alexandre Augusto Giron</na></co>
 <co c="0"><na f="g/Gomes:Fernanda_Oliveira" pid="232/5565">Fernanda Oliveira Gomes</na></co>
@@ -646,6 +665,7 @@
 <co c="0"><na f="s/Souza:T=uacute=lio_Cicero_Salvaro_de" pid="08/6335">T&#250;lio Cicero Salvaro de Souza</na></co>
 <co c="0"><na f="s/Spagnuelo:Dayana" pid="149/7626">Dayana Spagnuelo</na></co>
 <co c="0"><na f="s/Steiner:Rodrigo_Vieira" pid="01/9952">Rodrigo Vieira Steiner</na></co>
+<co c="0"><na f="t/Taglialenha:Pedro_Henrique_de_Sena_Trombini" pid="407/3284">Pedro Henrique de Sena Trombini Taglialenha</na></co>
 <co c="0"><na f="v/Vigil:Mart=iacute=n" pid="257/6253">Mart&#237;n Vigil</na></co>
 <co c="0"><na f="v/Vigil:Mart=iacute=n_A=_Gagliotti" pid="61/6341">Mart&#237;n A. Gagliotti Vigil</na></co>
 <co c="1"><na f="w/Wangenheim:Aldo_von" pid="w/AldovonWangenheim">Aldo von Wangenheim</na></co>

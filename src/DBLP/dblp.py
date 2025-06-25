@@ -15,13 +15,13 @@ def is_in_cache(prof):
 
 def save_cache(prof, bibfile):
     file = '../../data/cache/dblp/' + prof + '.xml'  
-    with open(file, 'w') as f:
+    with open(file, 'w', encoding='utf-8') as f:
         f.write(str(bibfile))
-    
+
 def read_cache(prof):
     file = '../../data/cache/dblp/' + prof + '.xml'  
     with open(file) as f:
-        return f.read()
+            return f.read()
 
 def crawl_dblp(pid):
     try:

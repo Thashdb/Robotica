@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Diego Mesquita" pid="163/4293" n="56">
+<dblpperson name="Diego Mesquita" pid="163/4293" n="57">
 <person key="homepages/163/4293" mdate="2025-02-06">
 <author pid="163/4293">Diego Mesquita</author>
 <author pid="163/4293">Diego P. P. Mesquita</author>
@@ -43,6 +43,21 @@
 <ee type="oa">https://openreview.net/forum?id=PJNhZoCjLh</ee>
 <crossref>conf/iclr/2025</crossref>
 <url>db/conf/iclr/iclr2025.html#SilvaSR0KM25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sp/ChavesFPMM25" mdate="2025-06-23">
+<author pid="194/6151">Iago C. Chaves</author>
+<author pid="120/3391">Victor A. E. de Farias</author>
+<author pid="405/3091">Amanda Perez</author>
+<author pid="163/4293">Diego Mesquita</author>
+<author pid="12/3896">Javam C. Machado</author>
+<title>Differentially Private Selection Using Smooth Sensitivity.</title>
+<pages>3969-3987</pages>
+<year>2025</year>
+<booktitle>SP</booktitle>
+<ee>https://doi.org/10.1109/SP61157.2025.00216</ee>
+<crossref>conf/sp/2025</crossref>
+<url>db/conf/sp/sp2025.html#ChavesFPMM25</url>
 </inproceedings>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-2504-08086" mdate="2025-05-21">
@@ -801,7 +816,7 @@
 <url>db/conf/iwann/iwann2015-2.html#MesquitaGJ15</url>
 </inproceedings>
 </r>
-<coauthors n="55" nc="1">
+<coauthors n="56" nc="1">
 <co c="0"><na f="a/Acerbi:Luigi" pid="72/1450">Luigi Acerbi</na></co>
 <co c="0"><na f="a/Alencar:Alisson_S=_C=" pid="156/3796">Alisson S. C. Alencar</na></co>
 <co c="0"><na f="=/=Aacute=lvarez:Mauricio_A=" pid="00/9830">Mauricio A. &#193;lvarez</na></co>
@@ -818,6 +833,7 @@
 <co c="0"><na f="d/Damasceno:Filipe_F=_R=" pid="194/6127">Filipe F. R. Damasceno</na></co>
 <co c="0"><na f="d/Deisenroth:Marc_Peter" pid="76/5043">Marc Peter Deisenroth</na></co>
 <co c="0"><na f="f/Farias:Victor" pid="234/1781">Victor Farias</na></co>
+<co c="0"><na f="f/Farias:Victor_A=_E=_de" pid="120/3391">Victor A. E. de Farias</na></co>
 <co c="0"><na f="f/Freire:Ananda" pid="129/8198">Ananda Freire</na></co>
 <co c="0"><na f="f/Freitas:Luis_A=" pid="241/7251">Luis A. Freitas</na></co>
 <co c="0"><na f="g/Galv=atilde=o:Roberto_Kawakami_Harrop" pid="10/3853">Roberto Kawakami Harrop Galv&#227;o</na></co>

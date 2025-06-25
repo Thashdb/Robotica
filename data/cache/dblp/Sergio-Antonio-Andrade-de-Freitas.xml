@@ -1,9 +1,40 @@
 <?xml version="1.0"?>
-<dblpperson name="S&#233;rgio Ant&#244;nio Andrade de Freitas" pid="24/7722" n="23">
+<dblpperson name="S&#233;rgio Ant&#244;nio Andrade de Freitas" pid="24/7722" n="25">
 <person key="homepages/24/7722" mdate="2021-04-21">
 <author pid="24/7722">S&#233;rgio Ant&#244;nio Andrade de Freitas</author>
 <url>https://orcid.org/0000-0003-3996-4985</url>
 </person>
+<r><inproceedings key="conf/fie/FreitasFRMAP24" mdate="2025-06-17">
+<author pid="24/7722">S&#233;rgio Ant&#244;nio Andrade de Freitas</author>
+<author pid="380/9783">Mylena Ang&#233;lica Silva Farias</author>
+<author pid="228/0231">Cristiane Soares Ramos</author>
+<author pid="380/9766">Marcus Vin&#237;cius Paiva Martins</author>
+<author pid="381/0176">Juan Mangueira Alves</author>
+<author pid="380/9974">Leda Cardoso Sampson Pinto</author>
+<title>Crafting Personalized Learning Environments Through Motivational Profiling.</title>
+<pages>1-9</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10893473</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#FreitasFRMAP24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/FreitasRBMV24" mdate="2025-06-17">
+<author pid="24/7722">S&#233;rgio Ant&#244;nio Andrade de Freitas</author>
+<author pid="228/0231">Cristiane Soares Ramos</author>
+<author pid="374/0677">Eduardo Bessa</author>
+<author pid="407/5149">M&#225;rcia Renata Mortari</author>
+<author pid="270/1031">Dianne Magalh&#227;es Viana</author>
+<title>Implementing Neuroscientific Principles in Gamified Software Engineering Courses.</title>
+<pages>1-9</pages>
+<year>2024</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE61694.2024.10893484</ee>
+<crossref>conf/fie/2024</crossref>
+<url>db/conf/fie/fie2024.html#FreitasRBMV24</url>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/iccsa/RamosFFMAP24" mdate="2024-08-22">
 <author orcid="0000-0002-6235-5590" pid="228/0231">Cristiane Soares Ramos</author>
 <author orcid="0009-0003-3634-0795" pid="380/9783">Mylena Ang&#233;lica Silva Farias</author>
@@ -323,16 +354,17 @@
 <note type="source">ndltd.org (oai:agregador.ibict.br.RI_UFES:oai:dspace2.ufes.br:10/4114)</note>
 </phdthesis>
 </r>
-<coauthors n="42" nc="3">
+<coauthors n="45" nc="3">
 <co c="0"><na f="a/Alves:Juan_Mangueira" pid="381/0176">Juan Mangueira Alves</na></co>
 <co c="0"><na f="a/Ara=uacute=jo:Attany" pid="200/1912">Attany Ara&#250;jo</na></co>
 <co c="-1"><na f="a/Assis:Luciana_S=" pid="352/5639">Luciana S. Assis</na></co>
 <co c="1"><na f="b/Barraqui:Luciana_Pelissari" pid="237/6676">Luciana Pelissari Barraqui</na></co>
+<co c="0"><na f="b/Bessa:Eduardo" pid="374/0677">Eduardo Bessa</na></co>
 <co c="0"><na f="b/Borges:Keli_Cristina_Vieira_Sirqueira" pid="200/1887">Keli Cristina Vieira Sirqueira Borges</na></co>
 <co c="0"><na f="c/Calado:Paulo_M=_R=_O=" pid="211/4844">Paulo M. R. O. Calado</na></co>
 <co c="0"><na f="c/Canedo:Edna_Dias" pid="118/8796">Edna Dias Canedo</na></co>
 <co c="-1"><na f="c/Cavalcante:Publio_Pastrolin" pid="322/5175">Publio Pastrolin Cavalcante</na></co>
-<co c="-1"><na f="c/Chaves:James_Taylor_Faria" pid="243/8208">James Taylor Faria Chaves</na></co>
+<co c="0"><na f="c/Chaves:James_Taylor_Faria" pid="243/8208">James Taylor Faria Chaves</na></co>
 <co c="0" n="2"><na f="c/Corr=ecirc=a:George_Marsicano" pid="180/4064">George Marsicano Corr&#234;a</na><na>George Marsicano</na></co>
 <co c="1"><na f="c/Cunha:Geovania_Cezana_Araujo" pid="237/6756">Geovania Cezana Araujo Cunha</na></co>
 <co c="0"><na f="e/Erven:Ricardo_Cordeiro_Galv=atilde=o_SantAna_van" pid="355/6915">Ricardo Cordeiro Galv&#227;o SantAna van Erven</na></co>
@@ -351,6 +383,7 @@
 <co c="0"><na f="m/Martins:Marcus_Vin=iacute=cius_Paiva" pid="380/9766">Marcus Vin&#237;cius Paiva Martins</na></co>
 <co c="0"><na f="m/Mendes:Fabiana_Freitas" pid="127/9811">Fabiana Freitas Mendes</na></co>
 <co c="-1"><na f="m/Moreira:=Eacute=ber_J=uacute=nio_Borges" pid="397/6871">&#201;ber J&#250;nio Borges Moreira</na></co>
+<co c="0"><na f="m/Mortari:M=aacute=rcia_Renata" pid="407/5149">M&#225;rcia Renata Mortari</na></co>
 <co c="0"><na f="o/Oliveira:Edgard_Costa" pid="96/6097">Edgard Costa Oliveira</na></co>
 <co c="2"><na f="p/Pereira:Francisco_Santiago_do_Carmo" pid="18/7726">Francisco Santiago do Carmo Pereira</na></co>
 <co c="0"><na f="p/Pinto:Leda_Cardoso_Sampson" pid="380/9974">Leda Cardoso Sampson Pinto</na></co>
@@ -365,6 +398,7 @@
 <co c="0"><na f="s/Silva:Wander_C=_M=_P=" pid="180/4065">Wander C. M. P. Silva</na></co>
 <co c="0"><na f="s/Silva:Wander_Cleber_Pereira_Da" pid="200/1729">Wander Cleber Pereira Da Silva</na></co>
 <co c="0"><na f="v/Vergara:Guilherme_Fay" pid="163/9158">Guilherme Fay Vergara</na></co>
+<co c="0"><na f="v/Viana:Dianne_Magalh=atilde=es" pid="270/1031">Dianne Magalh&#227;es Viana</na></co>
 <co c="0"><na f="v/Vidotti:Maur=iacute=cio_F=" pid="201/9901">Maur&#237;cio F. Vidotti</na></co>
 </coauthors>
 </dblpperson>

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Giancarlo Guizzardi" pid="11/78" n="370">
+<dblpperson name="Giancarlo Guizzardi" pid="11/78" n="371">
 <person key="homepages/11/78" mdate="2022-12-25">
 <author pid="11/78">Giancarlo Guizzardi</author>
 <url>https://orcid.org/0000-0002-3452-553X</url>
@@ -37,15 +37,28 @@
 <stream>streams/journals/infsof</stream>
 </article>
 </r>
-<r><inproceedings key="conf/rcis/SousaS0OGSPG25" mdate="2025-06-04">
-<author pid="330/9958">Isadora Valle Sousa</author>
-<author pid="134/4947">Tiago Prince Sales</author>
+<r><inproceedings key="conf/caise/RomanenkoCG25" mdate="2025-06-12">
+<author pid="320/3107">Elena Romanenko</author>
+<author pid="c/DiegoCalvanese">Diego Calvanese</author>
+<author pid="11/78">Giancarlo Guizzardi</author>
+<title>A Pattern-Based Approach for Explaining Ontology-Driven Conceptual Models.</title>
+<pages>137-144</pages>
+<year>2025</year>
+<booktitle>CAiSE Forum</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-94590-8_17</ee>
+<crossref>conf/caise/2025fo</crossref>
+<url>db/conf/caise/caisefo2025.html#RomanenkoCG25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rcis/SousaS0OGSPG25" mdate="2025-06-18">
+<author orcid="0000-0002-0952-9571" pid="330/9958">Isadora Valle Sousa</author>
+<author orcid="0000-0002-5385-5761" pid="134/4947">Tiago Prince Sales</author>
 <author pid="65/1205-2">Eduardo Guerra 0002</author>
 <author pid="212/6684">Italo Jose da Silva Oliveira</author>
-<author pid="75/5043">Renata S. S. Guizzardi</author>
-<author pid="68/84">Luiz Olavo Bonino da Silva Santos</author>
+<author orcid="0000-0002-5804-5741" pid="75/5043">Renata S. S. Guizzardi</author>
+<author orcid="0000-0002-1164-1351" pid="68/84">Luiz Olavo Bonino da Silva Santos</author>
 <author pid="p/ErikProper">Henderik A. Proper</author>
-<author pid="11/78">Giancarlo Guizzardi</author>
+<author orcid="0000-0002-3452-553X" pid="11/78">Giancarlo Guizzardi</author>
 <title>Friend, Foe, or Target? Domain Models as Risk Deterrents, Risk Sources, and Assets at Risk.</title>
 <pages>103-118</pages>
 <year>2025</year>
@@ -55,11 +68,11 @@
 <url>db/conf/rcis/rcis2025-1.html#SousaS0OGSPG25</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/rcis/CalhauAGHPLM25" mdate="2025-06-04">
+<r><inproceedings key="conf/rcis/CalhauAGHPLM25" mdate="2025-06-11">
 <author pid="63/9777">Rodrigo Fernandes Calhau</author>
 <author pid="91/3408">Jo&#227;o Paulo A. Almeida</author>
-<author pid="11/78">Giancarlo Guizzardi</author>
-<author pid="379/3985">Raquel Hoffmann</author>
+<author orcid="0000-0002-3452-553X" pid="11/78">Giancarlo Guizzardi</author>
+<author orcid="0000-0002-0573-1051" pid="379/3985">Raquel Hoffmann</author>
 <author pid="p/LuisFerreiraPires">Lu&#237;s Ferreira Pires</author>
 <author pid="277/3619">James Logan</author>
 <author pid="74/7740">Jo&#227;o Luiz Rebelo Moreira</author>
@@ -452,7 +465,7 @@
 <url>db/conf/er/erc2023.html</url>
 </proceedings>
 </r>
-<r><proceedings key="conf/jowo/2024" mdate="2025-05-19">
+<r><proceedings key="conf/jowo/2024" mdate="2025-06-11">
 <editor pid="212/6684">Italo Jose da Silva Oliveira</editor>
 <editor pid="96/8280">Pedro Paulo F. Barcelos</editor>
 <editor pid="63/9777">Rodrigo F. Calhau</editor>
@@ -516,7 +529,7 @@
 <editor pid="34/2986">Pawel Garbacz</editor>
 <editor pid="94/6230">Robert Pergl</editor>
 <editor pid="118/6596">Zubeida Casmod Khan</editor>
-<editor pid="97/8984">Jo&#227;o Moreira</editor>
+<editor pid="97/8984-3">Jo&#227;o Moreira 0003</editor>
 <editor pid="120/2846">Adrien Barton</editor>
 <editor pid="129/5221">Emilio M. Sanfilippo</editor>
 <editor pid="65/1704">Laura Daniele</editor>
@@ -5670,7 +5683,7 @@
 <co c="0"><na f="m/Montali:Marco" pid="85/1455">Marco Montali</na></co>
 <co c="0"><na f="m/Monteiro:Maxwell_E=" pid="06/3343">Maxwell E. Monteiro</na></co>
 <co c="0"><na f="m/Montesanti:Annalisa" pid="236/6245">Annalisa Montesanti</na></co>
-<co c="0"><na f="m/Moreira:Jo=atilde=o" pid="97/8984">Jo&#227;o Moreira</na></co>
+<co c="0"><na f="m/Moreira_0003:Jo=atilde=o" pid="97/8984-3">Jo&#227;o Moreira 0003</na></co>
 <co c="0" n="2"><na f="m/Moreira:Jo=atilde=o_L=_R=" pid="74/7740">Jo&#227;o L. R. Moreira</na><na>Jo&#227;o Luiz Rebelo Moreira</na></co>
 <co c="0"><na f="m/Morkus:Tom=aacute=s" pid="281/3468">Tom&#225;s Morkus</na></co>
 <co c="0"><na f="m/Mosca_0001:Alessandro" pid="90/626">Alessandro Mosca 0001</na></co>

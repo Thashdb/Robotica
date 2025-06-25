@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Maria Cec&#237;lia Calani Baranauskas" pid="b/MCCBaranauskas" n="295">
+<dblpperson name="Maria Cec&#237;lia Calani Baranauskas" pid="b/MCCBaranauskas" n="296">
 <person key="homepages/b/MCCBaranauskas" mdate="2025-01-10">
 <author pid="b/MCCBaranauskas">Maria Cec&#237;lia Calani Baranauskas</author>
 <author pid="b/MCCBaranauskas">M. Cec&#237;lia C. Baranauskas</author>
@@ -39,6 +39,20 @@
 <url>db/journals/jbcs/jbcs31.html#MurianaB25</url>
 <stream>streams/journals/jbcs</stream>
 </article>
+</r>
+<r><inproceedings key="conf/hci/TaypeBR25" mdate="2025-06-11">
+<author pid="268/2526">Geovanna Evelyn Espinoza Taype</author>
+<author pid="b/MCCBaranauskas">Maria Cec&#237;lia Calani Baranauskas</author>
+<author pid="71/7193">J&#250;lio Cesar dos Reis</author>
+<title>Socioenactive Brain-Body Coupling in a Remote Emotional Contagion Experience.</title>
+<pages>162-181</pages>
+<year>2025</year>
+<booktitle>HCI (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-93845-0_13</ee>
+<crossref>conf/hci/2025-3</crossref>
+<url>db/conf/hci/hci2025-3.html#TaypeBR25</url>
+<stream>streams/conf/hci</stream>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/iceis/TaypeBR25" mdate="2025-05-02">
 <author pid="268/2526">Geovanna Evelyn Espinoza Taype</author>

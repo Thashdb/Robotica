@@ -1,8 +1,24 @@
 <?xml version="1.0"?>
-<dblpperson name="Edson Em&#237;lio Scalabrin" pid="06/5416" n="80">
+<dblpperson name="Edson Em&#237;lio Scalabrin" pid="06/5416" n="81">
 <person key="homepages/06/5416" mdate="2009-06-10">
 <author pid="06/5416">Edson Em&#237;lio Scalabrin</author>
 </person>
+<r><article key="journals/aei/SatoRSLS25" mdate="2025-06-18">
+<author pid="116/6841">Denise Maria Vecino Sato</author>
+<author pid="256/9616">Edson Ruschel</author>
+<author pid="06/5416">Edson Em&#237;lio Scalabrin</author>
+<author pid="86/3491">Eduardo de Freitas Rocha Loures</author>
+<author pid="71/3175">Eduardo Alves Portela Santos</author>
+<title>Interactive Process Drift Detection (IPDD) for condition-based maintenance using process mining.</title>
+<pages>103397</pages>
+<year>2025</year>
+<volume>66</volume>
+<journal>Adv. Eng. Informatics</journal>
+<ee>https://doi.org/10.1016/j.aei.2025.103397</ee>
+<url>db/journals/aei/aei66.html#SatoRSLS25</url>
+<stream>streams/journals/aei</stream>
+</article>
+</r>
 <r><inproceedings key="conf/sac/SouthierTCS24" mdate="2024-05-31">
 <author orcid="0000-0003-2420-4094" pid="279/9861">Luiz Fernando Puttow Southier</author>
 <author orcid="0000-0002-1008-7838" pid="15/8203">Marcelo Teixeira</author>
@@ -1202,7 +1218,7 @@
 <ee>https://doi.org/10.1007/3-540-61859-7_7</ee>
 </inproceedings>
 </r>
-<coauthors n="103" nc="2">
+<coauthors n="105" nc="2">
 <co c="0"><na f="a/Angelotti:Elaini_Simoni" pid="74/1441">Elaini Simoni Angelotti</na></co>
 <co c="0"><na f="a/Arruda:Paulo_H=_S=" pid="234/0651">Paulo H. S. Arruda</na></co>
 <co c="0"><na f="=/=Aacute=vila:Br=aacute=ulio_Coelho" pid="22/5115">Br&#225;ulio Coelho &#193;vila</na></co>
@@ -1254,6 +1270,7 @@
 <co c="0"><na f="l/Lessing:Otto_Robert" pid="163/8268">Otto Robert Lessing</na></co>
 <co c="0"><na f="l/Lima:Cabral" pid="36/1587">Cabral Lima</na></co>
 <co c="1"><na f="l/Lopes:Lucelene" pid="87/8008">Lucelene Lopes</na></co>
+<co c="0" n="2"><na f="l/Loures:Eduardo_Rocha" pid="86/3491">Eduardo Rocha Loures</na><na>Eduardo de Freitas Rocha Loures</na></co>
 <co c="0"><na f="m/Mantovani:Let=iacute=cia_K=" pid="279/8259">Let&#237;cia K. Mantovani</na></co>
 <co c="0"><na f="m/Manzatto:Angelo_Antonio" pid="320/3596">Angelo Antonio Manzatto</na></co>
 <co c="0"><na f="m/Martins:Juliano_Vieira" pid="219/8228">Juliano Vieira Martins</na></co>
@@ -1283,6 +1300,7 @@
 <co c="0"><na f="r/Ribeirol:Juliano_de_Paulo" pid="397/4777">Juliano de Paulo Ribeirol</na></co>
 <co c="0"><na f="r/Romanhuki:Emerson" pid="93/520">Emerson Romanhuki</na></co>
 <co c="0"><na f="r/Ronszcka:Adriano_Francisco" pid="136/0133">Adriano Francisco Ronszcka</na></co>
+<co c="0"><na f="r/Ruschel:Edson" pid="256/9616">Edson Ruschel</na></co>
 <co c="0"><na f="s/Safanelli:Juliana" pid="279/8244">Juliana Safanelli</na></co>
 <co c="0"><na f="s/Salazar=Salazar:Rafael" pid="333/7915">Rafael Salazar-Salazar</na></co>
 <co c="0"><na f="s/Santos:Eduardo_Alves_Portela" pid="71/3175">Eduardo Alves Portela Santos</na></co>

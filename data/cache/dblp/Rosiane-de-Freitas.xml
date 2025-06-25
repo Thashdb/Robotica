@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Rosiane de Freitas" pid="47/7842" n="68">
+<dblpperson name="Rosiane de Freitas" pid="47/7842" n="69">
 <person key="homepages/47/7842" mdate="2025-01-10">
 <author pid="47/7842">Rosiane de Freitas</author>
 <author pid="47/7842">Rosiane de Freitas Rodrigues</author>
@@ -12,6 +12,23 @@
 <url>https://www.wikidata.org/entity/Q130986119</url>
 <note type="affiliation">Universidade Federal do Amazonas, Manaus, AM, Brazil</note>
 </person>
+<r><article key="journals/jisa/BessaFSBF25" mdate="2025-06-16">
+<author pid="309/6460">Jo&#227;o Alfredo Bessa</author>
+<author pid="359/6672">Ricardo Miranda Filho</author>
+<author pid="394/2846">Girlana Souza</author>
+<author pid="04/562">Raimundo S. Barreto</author>
+<author pid="47/7842">Rosiane de Freitas</author>
+<title>Log parsers' performance on raw logs from Android devices.</title>
+<pages>105-116</pages>
+<year>2025</year>
+<volume>16</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5753/jisa.2025.5049</ee>
+<url>db/journals/jisa/jisa16.html#BessaFSBF25</url>
+<stream>streams/journals/jisa</stream>
+</article>
+</r>
 <r><article key="journals/tcs/AraujoBFFS25" mdate="2025-05-31">
 <author pid="365/5133">Samuel N. Ara&#250;jo</author>
 <author pid="375/4703">Jo&#227;o Marcos Brito</author>
@@ -28,7 +45,7 @@
 <stream>streams/journals/tcs</stream>
 </article>
 </r>
-<r><inproceedings key="conf/fase/WeiWMSAGAFC25" mdate="2025-05-31">
+<r><inproceedings key="conf/fase/WeiWMSAGAFC25" mdate="2025-06-11">
 <author pid="375/1559">Chenfeng Wei</author>
 <author orcid="0000-0002-0986-4150" pid="75/5056">Tong Wu</author>
 <author orcid="0000-0002-6102-4343" pid="217/4869">Rafael S&#225; Menezes</author>
@@ -36,7 +53,7 @@
 <author orcid="0000-0001-7683-8182" pid="257/3051">Fatimah Aljaafari</author>
 <author orcid="0000-0002-6169-6334" pid="148/8632">Sangharatna Godboley</author>
 <author orcid="0000-0002-5822-5435" pid="281/8220">Kaled M. Alshmrany</author>
-<author pid="47/7842">Rosiane de Freitas</author>
+<author orcid="0000-0002-7608-2052" pid="47/7842">Rosiane de Freitas</author>
 <author orcid="0000-0002-6235-4272" pid="42/4311">Lucas C. Cordeiro</author>
 <title>ESBMC v7.7: Automating Branch Coverage Analysis Using CFG-Based Instrumentation and SMT Solving - (Competition Contribution).</title>
 <pages>281-286</pages>
@@ -1025,7 +1042,7 @@
 <url>db/journals/anor/anor169.html#DouradoRS09</url>
 </article>
 </r>
-<coauthors n="131" nc="3">
+<coauthors n="131" nc="2">
 <co c="0"><na f="a/Aldughaim:Mohannad" pid="281/8356">Mohannad Aldughaim</na></co>
 <co c="0"><na f="a/Alencar:Elton" pid="402/1247">Elton Alencar</na></co>
 <co c="0"><na f="a/Aljaafari:Fatimah" pid="257/3051">Fatimah Aljaafari</na></co>
@@ -1040,7 +1057,7 @@
 <co c="0"><na f="b/Barreto:Raimundo_S=" pid="04/562">Raimundo S. Barreto</na></co>
 <co c="0"><na f="b/Bentes:Ariel_Luane" pid="277/2516">Ariel Luane Bentes</na></co>
 <co c="0"><na f="b/Bernardo:Jo=atilde=o_Ricardo_Serique" pid="248/4400">Jo&#227;o Ricardo Serique Bernardo</na></co>
-<co c="2"><na f="b/Bessa:Jo=atilde=o_Alfredo" pid="309/6460">Jo&#227;o Alfredo Bessa</na></co>
+<co c="0"><na f="b/Bessa:Jo=atilde=o_Alfredo" pid="309/6460">Jo&#227;o Alfredo Bessa</na></co>
 <co c="0"><na f="b/Bonfim:Ricardo" pid="388/7888">Ricardo Bonfim</na></co>
 <co c="0"><na f="b/Bonomo=Braberman:Flavia" pid="97/2014">Flavia Bonomo-Braberman</na></co>
 <co c="0"><na f="b/Braberman:V=iacute=ctor_A=" pid="b/VictorABraberman">V&#237;ctor A. Braberman</na></co>
@@ -1110,13 +1127,13 @@
 <co c="0" n="2"><na f="m/Menezes:Rafael" pid="217/4869">Rafael Menezes</na><na>Rafael S&#225; Menezes</na></co>
 <co c="0"><na f="m/Michelon:Philippe" pid="00/5917">Philippe Michelon</na></co>
 <co c="0"><na f="m/Monteiro_0001:Edwin" pid="267/8058">Edwin Monteiro 0001</na></co>
-<co c="2"><na f="m/Mota:Kelson" pid="309/7346">Kelson Mota</na></co>
+<co c="0"><na f="m/Mota:Kelson" pid="309/7346">Kelson Mota</na></co>
 <co c="0"><na f="m/Moura:Daniel" pid="35/696">Daniel Moura</na></co>
 <co c="0"><na f="m/Moura:Edleno_Silva_de" pid="m/EdlenoSilvadeMoura">Edleno Silva de Moura</na></co>
 <co c="0"><na f="m/Mucherino:Antonio" pid="97/2797">Antonio Mucherino</na></co>
 <co c="0"><na f="n/Nakamura:Fab=iacute=ola_G=" pid="15/39">Fab&#237;ola G. Nakamura</na></co>
 <co c="0"><na f="n/Neder:Fernando" pid="359/6797">Fernando Neder</na></co>
-<co c="2"><na f="o/Oliveira:Micael" pid="309/7311">Micael Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Micael" pid="309/7311">Micael Oliveira</na></co>
 <co c="0"><na f="o/Oliveira:Pericles_de" pid="163/3889">Pericles de Oliveira</na></co>
 <co c="0"><na f="o/Oliveira:P=eacute=ricles_Silva_de" pid="223/7283">P&#233;ricles Silva de Oliveira</na></co>
 <co c="0"><na f="p/Paz:Joseph" pid="277/2530">Joseph Paz</na></co>
@@ -1143,7 +1160,7 @@
 <co c="0"><na f="s/Soares:Yuri_Gagarin" pid="309/6690">Yuri Gagarin Soares</na></co>
 <co c="0"><na f="s/Souto:Eduardo" pid="84/1320">Eduardo Souto</na></co>
 <co c="0"><na f="s/Souza:Bruna_Mariana" pid="277/2533">Bruna Mariana Souza</na></co>
-<co c="2"><na f="s/Souza:Clarice_de" pid="309/7027">Clarice de Souza</na></co>
+<co c="0"><na f="s/Souza:Clarice_de" pid="309/7027">Clarice de Souza</na></co>
 <co c="0"><na f="s/Souza:Elian" pid="316/6399">Elian Souza</na></co>
 <co c="0"><na f="s/Souza:Girlana" pid="394/2846">Girlana Souza</na></co>
 <co c="0"><na f="s/Souza:Guilherme" pid="377/3884">Guilherme Souza</na></co>

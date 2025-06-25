@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="H&#233;lio Pedrini" pid="60/2361" n="281">
+<dblpperson name="H&#233;lio Pedrini" pid="60/2361" n="283">
 <person key="homepages/60/2361" mdate="2019-01-10">
 <author pid="60/2361">H&#233;lio Pedrini</author>
 <url>http://www.ic.unicamp.br/~helio/</url>
@@ -141,6 +141,28 @@
 <url>db/journals/mta/mta83.html#EstevamLPM24</url>
 </article>
 </r>
+<r><inproceedings key="conf/bmvc/MoreiraFSSPGBMS24" mdate="2025-06-12">
+<author pid="230/1879">Diego A. B. Moreira</author>
+<author pid="325/5169">Alef Iury Siqueira Ferreira</author>
+<author pid="359/3374">Jhessica Silva</author>
+<author pid="232/1632">Gabriel Oliveira dos Santos</author>
+<author pid="292/1434">Luiz Pereira</author>
+<author pid="376/0263">Jo&#227;o Medrado Gondim</author>
+<author pid="387/9628">Gustavo Bonil</author>
+<author pid="147/7096">Helena Almeida Maia</author>
+<author pid="59/10022">N&#225;dia F&#233;lix F. da Silva</author>
+<author pid="387/9583">Simone Tiemi Hashiguti</author>
+<author pid="53/900">Jefersson A. dos Santos</author>
+<author pid="60/2361">H&#233;lio Pedrini</author>
+<author pid="97/3954">Sandra Avila</author>
+<title>FairPIVARA: Reducing and Assessing Biases in CLIP-Based Multimodal Models.</title>
+<year>2024</year>
+<booktitle>BMVC Workshops</booktitle>
+<ee type="oa">https://bmva-archive.org.uk/bmvc/2024/workshops/PFATCV/11_FairPIVARA_Reducing_and_Ass.pdf</ee>
+<crossref>conf/bmvc/2024w</crossref>
+<url>db/conf/bmvc/bmvc2024w.html#MoreiraFSSPGBMS24</url>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/bracis/VargasPS24" mdate="2025-02-25">
 <author pid="397/9242">Talles Viana Vargas</author>
 <author pid="60/2361">H&#233;lio Pedrini</author>
@@ -274,6 +296,19 @@
 <crossref>conf/visigrapp/2024-3</crossref>
 <url>db/conf/visigrapp/visigrapp2024-3.html#QuispeP24</url>
 </inproceedings>
+</r>
+<r><data key="data/11/OliveiraPD24" mdate="2025-06-23">
+<author orcid="0000-0002-1238-4860" pid="271/9387">Gabriel Bianchin de Oliveira</author>
+<author orcid="0000-0003-0125-630X" pid="60/2361">H&#233;lio Pedrini</author>
+<author orcid="0000-0003-3333-6822" pid="93/6090">Zanoni Dias</author>
+<title>CAFA5.</title>
+<year>2024</year>
+<month>April</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.10982903</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.10982902" type="versionOf"></rel>
+</data>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-2407-17486" mdate="2024-08-24">
 <author pid="309/8339">Thalles Santos Silva</author>

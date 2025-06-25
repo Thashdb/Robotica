@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Everton L. G. Alves" pid="34/7512" n="41">
+<dblpperson name="Everton L. G. Alves" pid="34/7512" n="42">
 <person key="homepages/34/7512" mdate="2025-01-10">
 <author pid="34/7512">Everton L. G. Alves</author>
 <author pid="34/7512">Everton Leandro Galdino Alves</author>
@@ -23,6 +23,21 @@
 <url>db/journals/ese/ese30.html#CoelhoTMA25</url>
 <stream>streams/journals/ese</stream>
 </article>
+</r>
+<r><inproceedings key="conf/saner/GomesMSA25" mdate="2025-06-10">
+<author pid="71/8202">Luciana de Q. Leal Gomes</author>
+<author pid="55/10322">Melina Mongiovi</author>
+<author pid="133/8166">Sabrina Souto</author>
+<author pid="34/7512">Everton L. G. Alves</author>
+<title>The Hidden Challenges of Merging: A Tool-Based Exploration.</title>
+<pages>587-597</pages>
+<year>2025</year>
+<booktitle>SANER</booktitle>
+<ee>https://doi.org/10.1109/SANER64311.2025.00061</ee>
+<crossref>conf/saner/2025</crossref>
+<url>db/conf/saner/saner2025.html#GomesMSA25</url>
+<stream>streams/conf/saner</stream>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/compsac/LimaAA24" mdate="2024-09-05">
 <author pid="358/6752">Carlos D. Q. Lima</author>
@@ -570,7 +585,7 @@
 <url>db/conf/sbcars/sbcars2007.html#LimaRMG07</url>
 </inproceedings>
 </r>
-<coauthors n="36" nc="2">
+<coauthors n="38" nc="2">
 <co c="0"><na f="a/Almeida:Diego_R=" pid="59/7512">Diego R. Almeida</na></co>
 <co c="0"><na f="a/Andrade:Wilkerson_de_L=" pid="64/298">Wilkerson de L. Andrade</na></co>
 <co c="0"><na f="a/Ara=uacute=jo:Eliane_C=" pid="388/4573">Eliane C. Ara&#250;jo</na></co>
@@ -588,6 +603,7 @@
 <co c="0"><na f="h/Herculano:Wesley_B=_R=" pid="282/5093">Wesley B. R. Herculano</na></co>
 <co c="0"><na f="j/Jorge:Dalton_N=" pid="228/2479">Dalton N. Jorge</na></co>
 <co c="0"><na f="k/Kim:Miryung" pid="56/5320">Miryung Kim</na></co>
+<co c="0" n="2"><na f="l/Leal:Luciana_Q=" pid="71/8202">Luciana Q. Leal</na><na>Luciana de Q. Leal Gomes</na></co>
 <co c="0"><na f="l/Lima:Carlos_D=_Q=" pid="358/6752">Carlos D. Q. Lima</na></co>
 <co c="0"><na f="l/Lima:Helton_S=" pid="37/4707">Helton S. Lima</na></co>
 <co c="0" n="2"><na f="m/Machado:Patr=iacute=cia_Duarte_de_Lima" pid="33/5476">Patr&#237;cia Duarte de Lima Machado</na><na>Patr&#237;cia D. L. Machado</na></co>
@@ -605,6 +621,7 @@
 <co c="0"><na f="s/Silva:Anderson_G=_F=" pid="233/8503">Anderson G. F. Silva</na></co>
 <co c="0"><na f="s/Silva:Indy_P=_S=_C=" pid="202/8419">Indy P. S. C. Silva</na></co>
 <co c="0"><na f="s/Song:Myoungkyu" pid="85/2806">Myoungkyu Song</na></co>
+<co c="0"><na f="s/Souto:Sabrina" pid="133/8166">Sabrina Souto</na></co>
 <co c="0"><na f="t/Torres:Wesley_N=_M=" pid="165/1950">Wesley N. M. Torres</na></co>
 <co c="0"><na f="t/Tsantalis:Nikolaos" pid="87/4206">Nikolaos Tsantalis</na></co>
 </coauthors>

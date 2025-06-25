@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Sandra Eliza Fontes de Avila" pid="97/3954" n="103">
+<dblpperson name="Sandra Eliza Fontes de Avila" pid="97/3954" n="108">
 <person key="homepages/97/3954" mdate="2019-01-10">
 <author pid="97/3954">Sandra Eliza Fontes de Avila</author>
 <author pid="97/3954">Sandra de Avila</author>
@@ -10,6 +10,56 @@
 <url>http://lattes.cnpq.br/8343699060914150</url>
 <note type="affiliation">University of Campinas (Unicamp), Brazil</note>
 </person>
+<r><article key="journals/di/ValoisMRSA25" mdate="2025-06-23">
+<author pid="371/8465">Pedro H. V. Valois</author>
+<author pid="136/0388">Jo&#227;o Macedo</author>
+<author pid="216/5321">Leo Sampaio Ferraz Ribeiro</author>
+<author pid="53/900">Jefersson A. dos Santos</author>
+<author pid="97/3954">Sandra Avila</author>
+<title>Leveraging self-supervised learning for scene classification in child sexual abuse imagery.</title>
+<pages>301918</pages>
+<year>2025</year>
+<volume>53</volume>
+<journal>Forensic Sci. Int. Digit. Investig.</journal>
+<ee>https://doi.org/10.1016/j.fsidi.2025.301918</ee>
+<url>db/journals/di/di53.html#ValoisMRSA25</url>
+<stream>streams/journals/di</stream>
+</article>
+</r>
+<r><inproceedings key="conf/fat/CoelhoRMSA25" mdate="2025-06-24">
+<author pid="407/8125">Thamiris Coelho</author>
+<author pid="216/5321">Leo Sampaio Ferraz Ribeiro</author>
+<author pid="136/0388">Jo&#227;o Macedo</author>
+<author pid="53/900">Jefersson A. dos Santos</author>
+<author pid="97/3954">Sandra Avila</author>
+<title>Minimizing Risk Through Minimizing Model-Data Interaction: A Protocol For Relying on Proxy Tasks When Designing Child Sexual Abuse Imagery Detection Models.</title>
+<pages>1543-1553</pages>
+<year>2025</year>
+<booktitle>FAccT</booktitle>
+<ee>https://doi.org/10.1145/3715275.3732102</ee>
+<crossref>conf/fat/2025</crossref>
+<url>db/conf/fat/facct2025.html#CoelhoRMSA25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fat/CaetanoSPBLRMSA25" mdate="2025-06-24">
+<author pid="148/4357">Carlos Caetano</author>
+<author pid="232/1632">Gabriel Oliveira dos Santos</author>
+<author pid="390/4918">Caio Petrucci</author>
+<author pid="390/4379">Artur Barros</author>
+<author pid="205/2374">Camila Laranjeira</author>
+<author pid="216/5321">Leo Sampaio Ferraz Ribeiro</author>
+<author pid="405/6664">J&#250;lia Fernandes de Mendon&#231;a</author>
+<author pid="53/900">Jefersson A. dos Santos</author>
+<author pid="97/3954">Sandra Avila</author>
+<title>Neglected Risks: The Disturbing Reality of Children's Images in Datasets and the Urgent Call for Accountability.</title>
+<pages>2542-2553</pages>
+<year>2025</year>
+<booktitle>FAccT</booktitle>
+<ee>https://doi.org/10.1145/3715275.3732166</ee>
+<crossref>conf/fat/2025</crossref>
+<url>db/conf/fat/facct2025.html#CaetanoSPBLRMSA25</url>
+</inproceedings>
+</r>
 <r><article publtype="informal" key="journals/corr/abs-2504-14446" mdate="2025-05-23">
 <author pid="148/4357">Carlos Caetano</author>
 <author pid="232/1632">Gabriel Oliveira dos Santos</author>
@@ -30,6 +80,22 @@
 <stream>streams/journals/corr</stream>
 </article>
 </r>
+<r><article publtype="informal" key="journals/corr/abs-2505-06621" mdate="2025-06-23">
+<author pid="407/8125">Thamiris Coelho</author>
+<author pid="216/5321">Leo Sampaio Ferraz Ribeiro</author>
+<author pid="136/0388">Jo&#227;o Macedo</author>
+<author pid="53/900">Jefersson A. dos Santos</author>
+<author pid="97/3954">Sandra Avila</author>
+<title>Minimizing Risk Through Minimizing Model-Data Interaction: A Protocol For Relying on Proxy Tasks When Designing Child Sexual Abuse Imagery Detection Models.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.06621</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.06621</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-06621</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
 <r><article key="journals/prl/BissotoBVA24" mdate="2025-01-19">
 <author orcid="0000-0003-2293-6160" pid="225/5435">Alceu Bissoto</author>
 <author orcid="0000-0002-2852-7723" pid="117/1832">Catarina Barata</author>
@@ -44,6 +110,28 @@
 <ee>https://www.wikidata.org/entity/Q128583277</ee>
 <url>db/journals/prl/prl179.html#BissotoBVA24</url>
 </article>
+</r>
+<r><inproceedings key="conf/bmvc/MoreiraFSSPGBMS24" mdate="2025-06-12">
+<author pid="230/1879">Diego A. B. Moreira</author>
+<author pid="325/5169">Alef Iury Siqueira Ferreira</author>
+<author pid="359/3374">Jhessica Silva</author>
+<author pid="232/1632">Gabriel Oliveira dos Santos</author>
+<author pid="292/1434">Luiz Pereira</author>
+<author pid="376/0263">Jo&#227;o Medrado Gondim</author>
+<author pid="387/9628">Gustavo Bonil</author>
+<author pid="147/7096">Helena Almeida Maia</author>
+<author pid="59/10022">N&#225;dia F&#233;lix F. da Silva</author>
+<author pid="387/9583">Simone Tiemi Hashiguti</author>
+<author pid="53/900">Jefersson A. dos Santos</author>
+<author pid="60/2361">H&#233;lio Pedrini</author>
+<author pid="97/3954">Sandra Avila</author>
+<title>FairPIVARA: Reducing and Assessing Biases in CLIP-Based Multimodal Models.</title>
+<year>2024</year>
+<booktitle>BMVC Workshops</booktitle>
+<ee type="oa">https://bmva-archive.org.uk/bmvc/2024/workshops/PFATCV/11_FairPIVARA_Reducing_and_Ass.pdf</ee>
+<crossref>conf/bmvc/2024w</crossref>
+<url>db/conf/bmvc/bmvc2024w.html#MoreiraFSSPGBMS24</url>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/fat/BenattiSAC24" mdate="2025-01-19">
 <author orcid="0000-0002-1227-1647" pid="332/2235">Raysa M. Benatti</author>
@@ -95,10 +183,10 @@
 <url>db/conf/sipaim/sipaim2024.html#YanqueBA24</url>
 </inproceedings>
 </r>
-<r><article publtype="informal" key="journals/corr/abs-2403-01183" mdate="2024-04-02">
+<r><article publtype="informal" key="journals/corr/abs-2403-01183" mdate="2025-06-20">
 <author pid="371/8465">Pedro H. V. Valois</author>
 <author pid="136/0388">Jo&#227;o Macedo</author>
-<author pid="371/9174">Leo S. F. Ribeiro</author>
+<author pid="216/5321">Leo Sampaio Ferraz Ribeiro</author>
 <author pid="53/900">Jefersson A. dos Santos</author>
 <author pid="97/3954">Sandra Avila</author>
 <title>Leveraging Self-Supervised Learning for Scene Recognition in Child Sexual Abuse Imagery.</title>
@@ -387,8 +475,8 @@
 <url>db/conf/eccv/eccv2022-w4.html#ChavesBVA22</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/fat/SilvaMAS22" mdate="2025-03-03">
-<author orcid="0000-0002-0521-0432" pid="322/6345">Camila Laranjeira da Silva</author>
+<r><inproceedings key="conf/fat/SilvaMAS22" mdate="2025-06-14">
+<author orcid="0000-0002-0521-0432" pid="205/2374">Camila Laranjeira</author>
 <author pid="136/0388">Jo&#227;o Macedo</author>
 <author pid="97/3954">Sandra Avila</author>
 <author pid="53/900">Jefersson A. dos Santos</author>
@@ -1535,7 +1623,7 @@
 <url>db/conf/ciarp/ciarp2007.html#AvilaMFC07</url>
 </inproceedings>
 </r>
-<coauthors n="110" nc="3">
+<coauthors n="109" nc="3">
 <co c="0"><na f="a/Abhishek_0001:Kumar" pid="44/6398-1">Kumar Abhishek 0001</na></co>
 <co c="0"><na f="a/Abr=agrave=moff:Michael_D=" pid="a/MichaelAbramoff">Michael D. Abr&#224;moff</na></co>
 <co c="0"><na f="a/Almeida:Jussara_M=" pid="34/5480">Jussara M. Almeida</na></co>
@@ -1562,6 +1650,7 @@
 <co c="0"><na f="c/Chaves:Levy_G=" pid="230/1855">Levy G. Chaves</na></co>
 <co c="0"><na f="c/Cleveston:Iury" pid="297/3532">Iury Cleveston</na></co>
 <co c="0"><na f="c/Coelho:Marcelo_de_Miranda" pid="86/7787">Marcelo de Miranda Coelho</na></co>
+<co c="0"><na f="c/Coelho:Thamiris" pid="407/8125">Thamiris Coelho</na></co>
 <co c="0" n="2"><na f="c/Colombini:Esther_Luna" pid="63/6586">Esther Luna Colombini</na><na>Esther Colombini</na></co>
 <co c="0"><na f="c/Cord:Matthieu" pid="68/3117">Matthieu Cord</na></co>
 <co c="0"><na f="c/Correia:Alana_de_Santana" pid="211/8907">Alana de Santana Correia</na></co>
@@ -1597,7 +1686,7 @@
 <co c="0"><na f="m/Martin:Jo=atilde=o_Paulo_Pereira" pid="243/6634">Jo&#227;o Paulo Pereira Martin</na></co>
 <co c="1"><na f="m/Matos:Leonardo_N=" pid="83/5481">Leonardo N. Matos</na></co>
 <co c="0"><na f="m/Meira_Jr=:Wagner" pid="m/WagnerMeiraJr">Wagner Meira Jr.</na></co>
-<co c="0"><na f="m/Mendon=ccedil=a:J=uacute=lia_F=_de" pid="405/6664">J&#250;lia F. de Mendon&#231;a</na></co>
+<co c="0" n="2"><na f="m/Mendon=ccedil=a:J=uacute=lia_F=_de" pid="405/6664">J&#250;lia F. de Mendon&#231;a</na><na>J&#250;lia Fernandes de Mendon&#231;a</na></co>
 <co c="0"><na f="m/Menegola:Afonso" pid="186/8104">Afonso Menegola</na></co>
 <co c="0"><na f="m/Mirikharaji:Zahra" pid="173/8177">Zahra Mirikharaji</na></co>
 <co c="0"><na f="m/Moraes:Daniel" pid="68/5727">Daniel Moraes</na></co>
@@ -1613,7 +1702,6 @@
 <co c="0"><na f="p/Perez:Mauricio" pid="152/9384">Mauricio Perez</na></co>
 <co c="0"><na f="p/Petrucci:Caio" pid="390/4918">Caio Petrucci</na></co>
 <co c="0"><na f="p/Pires:Ramon" pid="123/7573">Ramon Pires</na></co>
-<co c="0"><na f="r/Ribeiro:Leo_S=_F=" pid="371/9174">Leo S. F. Ribeiro</na></co>
 <co c="0"><na f="r/Ribeiro:Leo_Sampaio_Ferraz" pid="216/5321">Leo Sampaio Ferraz Ribeiro</na></co>
 <co c="0"><na f="r/Ribeiro:Vin=iacute=cius" pid="225/5352">Vin&#237;cius Ribeiro</na></co>
 <co c="0"><na f="r/Rocha_0001:Anderson" pid="81/2446">Anderson Rocha 0001</na></co>
@@ -1626,7 +1714,6 @@
 <co c="0"><na f="s/Santos:Viviane_Bonadia_dos" pid="302/7320">Viviane Bonadia dos Santos</na></co>
 <co c="0"><na f="s/Schwartz:William_Robson" pid="78/6398">William Robson Schwartz</na></co>
 <co c="0"><na f="s/Severi:Fabiana_C=" pid="332/1630">Fabiana C. Severi</na></co>
-<co c="0"><na f="s/Silva:Camila_Laranjeira_da" pid="322/6345">Camila Laranjeira da Silva</na></co>
 <co c="0"><na f="s/Silva:Jhessica" pid="359/3374">Jhessica Silva</na></co>
 <co c="0"><na f="s/Silva:N=aacute=dia_F=eacute=lix_F=_da" pid="59/10022">N&#225;dia F&#233;lix F. da Silva</na></co>
 <co c="0"><na f="s/Sousa:Thiago" pid="246/8088">Thiago Sousa</na></co>

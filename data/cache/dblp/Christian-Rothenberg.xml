@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Christian Esteve Rothenberg" pid="70/2654" n="159">
+<dblpperson name="Christian Esteve Rothenberg" pid="70/2654" n="160">
 <person key="homepages/70/2654" mdate="2022-12-06">
 <author pid="70/2654">Christian Esteve Rothenberg</author>
 <author pid="70/2654">Christian Rodolfo Esteve Rothenberg</author>
@@ -9,7 +9,7 @@
 <url>https://www.wikidata.org/entity/Q60962467</url>
 <url>https://ieeexplore.ieee.org/author/37704561400</url>
 </person>
-<r><article key="journals/network/VogtCCSLRA25" mdate="2025-05-01">
+<r><article key="journals/network/VogtCCSLRA25" mdate="2025-06-15">
 <author orcid="0000-0003-1467-7146" pid="334/9032">Francisco Germano Vogt</author>
 <author orcid="0000-0003-1165-2808" pid="224/2141">Fabricio Eduardo Rodriguez Cesen</author>
 <author orcid="0000-0002-5391-5082" pid="290/8478">Ariel G&#243;es de Castro</author>
@@ -24,17 +24,17 @@
 <volume>39</volume>
 <journal>IEEE Netw.</journal>
 <number>2</number>
-<ee>https://doi.org/10.1109/MNET.2024.3509816</ee>
+<ee type="oa">https://doi.org/10.1109/MNET.2024.3509816</ee>
 <url>db/journals/network/network39.html#VogtCCSLRA25</url>
 <stream>streams/journals/network</stream>
 </article>
 </r>
-<r><article key="journals/network/VogtSCCLR25" mdate="2025-05-31">
-<author pid="334/9032">Francisco Germano Vogt</author>
+<r><article key="journals/network/VogtSCCLR25" mdate="2025-06-15">
+<author orcid="0000-0003-1467-7146" pid="334/9032">Francisco Germano Vogt</author>
 <author orcid="0000-0002-4716-7014" pid="405/9924">Sergio Rossi Brito da Silva</author>
 <author orcid="0000-0003-1165-2808" pid="224/2141">Fabricio Eduardo Rodriguez Cesen</author>
 <author orcid="0009-0000-2094-3530" pid="380/6394">Filipo Gabert Costa</author>
-<author pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author orcid="0000-0003-0537-3052" pid="140/8276">Marcelo Caggiani Luizelli</author>
 <author pid="70/2654">Christian Esteve Rothenberg</author>
 <title>TFTG: Time Fidelity Traffic Generation Through P4/Tofino Programmable Hardware.</title>
 <pages>83-90</pages>
@@ -43,7 +43,7 @@
 <volume>39</volume>
 <journal>IEEE Netw.</journal>
 <number>3</number>
-<ee>https://doi.org/10.1109/MNET.2025.3551515</ee>
+<ee type="oa">https://doi.org/10.1109/MNET.2025.3551515</ee>
 <url>db/journals/network/network39.html#VogtSCCLR25</url>
 <stream>streams/journals/network</stream>
 </article>
@@ -60,6 +60,21 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2502.00671</ee>
 <url>db/journals/corr/corr2502.html#abs-2502-00671</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-11973" mdate="2025-06-23">
+<author pid="274/1001">Alireza Shirmarz</author>
+<author pid="290/8478">Ariel G&#243;es de Castro</author>
+<author pid="40/654">F&#225;bio Luciano Verdi</author>
+<author pid="70/2654">Christian Esteve Rothenberg</author>
+<title>CGReplay: Capture and Replay of Cloud Gaming Traffic for QoE/QoS Assessment.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.11973</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.11973</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-11973</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -2548,7 +2563,7 @@
 <co c="0"><na f="g/Gao_0001:Kai" pid="12/4000-1">Kai Gao 0001</na></co>
 <co c="0"><na f="g/Gaspary:Luciano_Paschoal" pid="g/LPGaspary">Luciano Paschoal Gaspary</na></co>
 <co c="0"><na f="g/Gomes:Pedro_Henrique" pid="74/7910">Pedro Henrique Gomes</na></co>
-<co c="0" n="2"><na f="g/Guimaraes:Rafael_S=" pid="229/2312">Rafael S. Guimaraes</na><na>Rafael S. Guimar&#227;es</na></co>
+<co c="0"><na f="g/Guimar=atilde=es:Rafael_S=" pid="229/2312">Rafael S. Guimar&#227;es</na></co>
 <co c="0"><na f="h/Haque_0001:Israat" pid="209/8668">Israat Haque 0001</na></co>
 <co c="0"><na f="h/H=auml=rri:J=eacute=r=ocirc=me" pid="40/1062">J&#233;r&#244;me H&#228;rri</na></co>
 <co c="0"><na f="h/Hirata:Alberto_T=" pid="146/6965">Alberto T. Hirata</na></co>

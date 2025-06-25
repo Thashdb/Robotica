@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="M&#225;rcio Ribeiro 0001" pid="r/MarcioRibeiro" n="136">
+<dblpperson name="M&#225;rcio Ribeiro 0001" pid="r/MarcioRibeiro" n="137">
 <person key="homepages/r/MarcioRibeiro" mdate="2025-05-13">
 <author pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
 <author pid="r/MarcioRibeiro">M&#225;rcio de Medeiros Ribeiro</author>
@@ -77,6 +77,25 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2504.07343</ee>
 <url>db/journals/corr/corr2504.html#abs-2504-07343</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-09501" mdate="2025-06-23">
+<author pid="279/0113">Francisco Handrick da Costa</author>
+<author pid="278/9713">Ismael Medeiros</author>
+<author pid="124/4869">Leandro Oliveira</author>
+<author pid="407/8931">Jo&#227;o Cal&#225;ssio</author>
+<author pid="21/824">Rodrigo Bonif&#225;cio</author>
+<author pid="174/2005">Krishna Narasimhan</author>
+<author pid="m/MiraMezini">Mira Mezini</author>
+<author pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<title>Scaling Up: Revisiting Mining Android Sandboxes at Scale for Malware Classification.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.09501</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.09501</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-09501</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -2258,7 +2277,7 @@
 <url>db/conf/sbsi/sbsi2005.html#SalesPTRCL05</url>
 </inproceedings>
 </r>
-<coauthors n="209" nc="1">
+<coauthors n="211" nc="1">
 <co c="0"><na f="a/Abal:Iago" pid="115/4372">Iago Abal</na></co>
 <co c="0"><na f="a/Al=Hajjaji:Mustafa" pid="151/2237">Mustafa Al-Hajjaji</na></co>
 <co c="0"><na f="a/Albuquerque:Lucas" pid="383/9100">Lucas Albuquerque</na></co>
@@ -2298,6 +2317,7 @@
 <co c="0"><na f="b/Brito:Hyago_H=_S=" pid="282/4673">Hyago H. S. Brito</na></co>
 <co c="0"><na f="b/B=uuml=rdek:Johannes" pid="139/5575">Johannes B&#252;rdek</na></co>
 <co c="0"><na f="c/Cai:Yuanfang" pid="45/6816">Yuanfang Cai</na></co>
+<co c="0"><na f="c/Cal=aacute=ssio:Jo=atilde=o" pid="407/8931">Jo&#227;o Cal&#225;ssio</na></co>
 <co c="0"><na f="c/Camargo:Valter_Vieira_de" pid="37/1266">Valter Vieira de Camargo</na></co>
 <co c="0"><na f="c/Canedo:Edna_Dias" pid="118/8796">Edna Dias Canedo</na></co>
 <co c="0"><na f="c/Cartaxo:Bruno" pid="144/8274">Bruno Cartaxo</na></co>
@@ -2391,6 +2411,7 @@
 <co c="0"><na f="o/Oliveira:C=eacute=sar_A=_L=_de" pid="90/3912">C&#233;sar A. L. de Oliveira</na></co>
 <co c="0" n="2"><na f="o/Oliveira_0005:Daniel" pid="32/1293-5">Daniel Oliveira 0005</na><na>Daniel Ten&#243;rio Martins de Oliveira</na></co>
 <co c="0"><na f="o/Oliveira:Jonhnanthan" pid="279/1968">Jonhnanthan Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Leandro" pid="124/4869">Leandro Oliveira</na></co>
 <co c="0"><na f="o/Oliveira_0001:Marcos_C=eacute=sar_de" pid="23/10096">Marcos C&#233;sar de Oliveira 0001</na></co>
 <co c="0"><na f="o/Oliveira:Naelson" pid="338/4852">Naelson Oliveira</na></co>
 <co c="0" n="2"><na f="o/Oliveira:Pablo_Roberto_Fernandes_de" pid="349/5054">Pablo Roberto Fernandes de Oliveira</na><na>Pablo Roberto 0001</na></co>
