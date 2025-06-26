@@ -1,10 +1,29 @@
 <?xml version="1.0"?>
-<dblpperson name="Haniel Barbosa" pid="116/5052" n="40">
+<dblpperson name="Haniel Barbosa" pid="116/5052" n="41">
 <person key="homepages/116/5052" mdate="2023-11-21">
 <author pid="116/5052">Haniel Barbosa</author>
 <url>https://orcid.org/0000-0003-0188-2300</url>
 <note type="affiliation">Universidade Federal de Minas Gerais, Belo Horizonte, Brazil</note>
 </person>
+<r><article publtype="informal" key="journals/corr/abs-2505-15796" mdate="2025-06-25">
+<author pid="317/4361">Abdalrhman Mohamed</author>
+<author pid="408/1711">Tomaz Mascarenhas</author>
+<author pid="383/8140">Harun Khan</author>
+<author pid="116/5052">Haniel Barbosa</author>
+<author pid="41/9861">Andrew Reynolds 0001</author>
+<author pid="309/6219">Yicheng Qian</author>
+<author pid="37/4921">Cesare Tinelli</author>
+<author pid="b/ClarkWBarrett">Clark W. Barrett</author>
+<title>Lean-SMT: An SMT tactic for discharging proof goals in Lean.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.15796</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.15796</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-15796</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
 <r><inproceedings key="conf/fm/BarrettTBNPRZ24" mdate="2024-12-09">
 <author orcid="0000-0002-9522-3084" pid="b/ClarkWBarrett">Clark W. Barrett</author>
 <author orcid="0000-0002-6726-775X" pid="37/4921">Cesare Tinelli</author>
@@ -636,7 +655,7 @@
 <url>db/conf/sbmf/sbmf2012.html#BarbosaD12</url>
 </inproceedings>
 </r>
-<coauthors n="47" nc="2">
+<coauthors n="50" nc="2">
 <co c="0"><na f="a/Abate:Alessandro" pid="19/3904">Alessandro Abate</na></co>
 <co c="0"><na f="a/Andreotti:Bruno" pid="135/4292">Bruno Andreotti</na></co>
 <co c="0"><na f="a/Aniva:Leni" pid="350/7196">Leni Aniva</na></co>
@@ -655,12 +674,14 @@
 <co c="0"><na f="j/Janota:Mikol=aacute=s" pid="56/2424">Mikol&#225;s Janota</na></co>
 <co c="0"><na f="k/Keller:Chantal" pid="32/8321">Chantal Keller</na></co>
 <co c="0"><na f="k/Kesseli:Pascal" pid="168/8498">Pascal Kesseli</na></co>
+<co c="0"><na f="k/Khan:Harun" pid="383/8140">Harun Khan</na></co>
 <co c="0"><na f="k/King_0001:Tim" pid="79/1695-1">Tim King 0001</na></co>
 <co c="0"><na f="k/Kremer:Gereon" pid="168/1169">Gereon Kremer</na></co>
 <co c="0"><na f="k/Kroening:Daniel" pid="k/DanielKroening">Daniel Kroening</na></co>
 <co c="0"><na f="l/Lachnitt:Hanna" pid="270/6060">Hanna Lachnitt</na></co>
 <co c="0"><na f="l/Larraz:Daniel" pid="124/8995">Daniel Larraz</na></co>
 <co c="0"><na f="m/Mann:Makai" pid="233/0746">Makai Mann</na></co>
+<co c="0"><na f="m/Mascarenhas:Tomaz" pid="408/1711">Tomaz Mascarenhas</na></co>
 <co c="0"><na f="m/Meng:Paul" pid="222/2861">Paul Meng</na></co>
 <co c="0"><na f="m/Mohamed:Abdalrhman" pid="317/4361">Abdalrhman Mohamed</na></co>
 <co c="0"><na f="m/Mohamed:Mudathir" pid="317/4435">Mudathir Mohamed</na></co>
@@ -671,6 +692,7 @@
 <co c="1"><na f="p/Pereira:Fernando_Magno_Quint=atilde=o" pid="p/FMQPereira">Fernando Magno Quint&#227;o Pereira</na></co>
 <co c="0"><na f="p/Polgreen:Elizabeth" pid="183/7353">Elizabeth Polgreen</na></co>
 <co c="0"><na f="p/Preiner:Mathias" pid="115/4371">Mathias Preiner</na></co>
+<co c="0"><na f="q/Qian:Yicheng" pid="309/6219">Yicheng Qian</na></co>
 <co c="-1"><na f="r/Reis:Giselle" pid="72/9473">Giselle Reis</na></co>
 <co c="0"><na f="r/Reynolds_0001:Andrew" pid="41/9861">Andrew Reynolds 0001</na></co>
 <co c="1"><na f="s/Saffran:Jo=atilde=o" pid="200/5309">Jo&#227;o Saffran</na></co>

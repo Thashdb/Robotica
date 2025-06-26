@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Paulo E. Santos" pid="33/5229" n="92">
+<dblpperson name="Paulo E. Santos" pid="33/5229" n="93">
 <person key="homepages/33/5229" mdate="2020-11-17">
 <author pid="33/5229">Paulo E. Santos</author>
 <author pid="33/5229">Paulo Eduardo Santos</author>
@@ -97,6 +97,20 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2502.06113</ee>
 <url>db/journals/corr/corr2502.html#abs-2502-06113</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-14285" mdate="2025-06-25">
+<author pid="408/3441">Eirini Panteli</author>
+<author pid="33/5229">Paulo E. Santos</author>
+<author pid="408/3638">Nabil Humphrey</author>
+<title>AquaSignal: An Integrated Framework for Robust Underwater Acoustic Analysis.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.14285</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.14285</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-14285</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -1341,7 +1355,7 @@
 <url>db/conf/ekaw/ekaw2000.html#BarrosS00</url>
 </inproceedings>
 </r>
-<coauthors n="98" nc="7">
+<coauthors n="100" nc="8">
 <co c="1"><na f="a/Acheampong:Kingsley_Nketia" pid="242/4446">Kingsley Nketia Acheampong</na></co>
 <co c="0"><na f="a/Artusi:Eva" pid="296/7240">Eva Artusi</na></co>
 <co c="0"><na f="b/Barros:Leliane_Nunes_de" pid="51/6275">Leliane Nunes de Barros</na></co>
@@ -1388,6 +1402,7 @@
 <co c="0"><na f="h/Hogg:David_C=" pid="h/DHogg">David C. Hogg</na></co>
 <co c="0"><na f="h/Homem:Thiago_Pedro_Donadon" pid="182/1219">Thiago Pedro Donadon Homem</na></co>
 <co c="0"><na f="h/Hummel:Britta" pid="81/2240">Britta Hummel</na></co>
+<co c="5"><na f="h/Humphrey:Nabil" pid="408/3638">Nabil Humphrey</na></co>
 <co c="0"><na f="k/Kutz:Oliver" pid="38/2192">Oliver Kutz</na></co>
 <co c="0"><na f="l/Lagattu:Katell" pid="323/0497">Katell Lagattu</na></co>
 <co c="0"><na f="l/Lammas:Andrew" pid="162/1965">Andrew Lammas</na></co>
@@ -1406,11 +1421,12 @@
 <co c="0"><na f="n/Nunes:Danilo" pid="239/6716">Danilo Nunes</na></co>
 <co c="0"><na f="o/Oppenheimer:Paul_E=" pid="16/9610">Paul E. Oppenheimer</na></co>
 <co c="0"><na f="o/Oppert:Michelle" pid="375/6644">Michelle Oppert</na></co>
+<co c="5"><na f="p/Panteli:Eirini" pid="408/3441">Eirini Panteli</na></co>
 <co c="3"><na f="p/Park:Ho=Hyun" pid="69/6862">Ho-Hyun Park</na></co>
 <co c="1"><na f="p/Patamia:Rutherford_Agbeshi" pid="293/0361">Rutherford Agbeshi Patamia</na></co>
 <co c="0"><na f="p/Pease:Adam" pid="26/6268">Adam Pease</na></co>
 <co c="0" n="2"><na f="p/Perico:Danilo_H=" pid="187/9085">Danilo H. Perico</na><na>Danilo Hernani Perico</na></co>
-<co c="5"><na f="p/Powers:David" pid="27/3055">David Powers</na></co>
+<co c="7"><na f="p/Powers:David" pid="27/3055">David Powers</na></co>
 <co c="4"><na f="r/Rehman:Saeed_Ur" pid="17/10891">Saeed Ur Rehman</na></co>
 <co c="0"><na f="r/Rodrigues:Edilson" pid="191/1733">Edilson Rodrigues</na></co>
 <co c="0"><na f="r/Rodrigues:Felipe_Martino_Esposito" pid="182/7539">Felipe Martino Esposito Rodrigues</na></co>
@@ -1437,7 +1453,7 @@
 <co c="0"><na f="s/Suchan:Jakob" pid="120/2899">Jakob Suchan</na></co>
 <co c="0"><na f="t/Tenbrink:Thora" pid="11/4104">Thora Tenbrink</na></co>
 <co c="0"><na f="t/Thomaz:Carlos_E=" pid="26/5812">Carlos E. Thomaz</na></co>
-<co c="5"><na f="t/Tran:Thanh" pid="181/2525">Thanh Tran</na></co>
+<co c="7"><na f="t/Tran:Thanh" pid="181/2525">Thanh Tran</na></co>
 <co c="0"><na f="v/Vivien:Antoine" pid="399/7425">Antoine Vivien</na></co>
 <co c="0"><na f="w/Wheare:Jonathan" pid="359/2510">Jonathan Wheare</na></co>
 </coauthors>

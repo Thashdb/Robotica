@@ -2,80 +2,88 @@ import csv
 import glob
 import os
 
-# recebe o caminho do arquivo e retorna o numero de linhas
+# Recebe o caminho do arquivo e retorna o número de linhas
 def file_size(file):
-    num_lines = sum(1 for line in open(file))
-    return num_lines
+    try:
+        with open(file, encoding="utf-8") as f:
+            return sum(1 for line in f)
+    except UnicodeDecodeError:
+        with open(file, encoding="latin1") as f:
+            return sum(1 for line in f)
 
-# para cada professor, verifica o tamnho dos arquivos encontrados
-    # determina a area conforme o arquivo com maior numero de lionhas
+# Para cada professor, verifica o tamanho dos arquivos encontrados
+# Determina a área conforme o arquivo com maior número de linhas
 def get_area(prof):
     size = 0
     area = ""
-    for file in glob.glob("../cache/profs/papers/*" + prof + "-papers.csv"):
+    files = glob.glob("../../data/configs/profs/papers/*" + prof + "-papers.csv")
+    for file in files:
         size2 = file_size(file)
         if size2 > size:
             size = size2
-            area = file[15:file.index('-')]
+            basename = os.path.basename(file)  # Só o nome do arquivo
+            area = basename[:basename.index('-')]  # Pega até o primeiro '-'
     return area.upper()
 
-
 # Função que cria o arquivo HTML individual de um professor, se ainda não existir
-# Esse HTML é construído combinando os arquivos _authors1.html e _authors2.html
 def create_p_file(prof_name):
     file_name = "../src/p/" + prof_name + '.html'
     if os.path.exists(file_name):
         return
     line = '      var corebr_author = "' + prof_name + '"\n'
-    out = open(file_name, 'w')
-    file1 = open('../src/_authors1.html', 'r')
-    # src\utils\_authors1.html
-    file2 = open('../src/_authors2.html', 'r')
-    out.write(file1.read())
-    out.write(line)
-    out.write(file2.read())
-    out.close
+    with open(file_name, 'w', encoding="utf-8") as out:
+        with open('../src/utils/_authors1.html', 'r', encoding="utf-8") as file1:
+            with open('../src/utils/_authors2.html', 'r', encoding="utf-8") as file2:
+                out.write(file1.read())
+                out.write(line)
+                out.write(file2.read())
 
 # Dicionário para armazenar a afiliação institucional de cada professor
 inst = {}
-reader1 = csv.reader(open("../../data/configs/all-researchers.csv", 'r'))
-
-# Preenche o dicionário inst com nome do professor e sua instituição
+reader1 = csv.reader(open("../../data/configs/all-researchers.csv", 'r', encoding="utf-8"))
 for p in reader1:
     prof = p[0]
     dept = p[1]
     inst[prof] = dept
 
-# Abre o arquivo onde será gerado o HTML com a lista de professores
-out = open('../profs.html','a')
-# Cria arquivo CSV com as informações dos professores (nome, instituição, área)
-out2 = open('../../data/configs/profs/profs.csv','w')
+# Caminhos dos arquivos profs_top.html e profs_bottm.html
+top_path = "../utils/profs_top.html"
+bottom_path = "../utils/profs_bottm.html"
 
-# out3 = open('../html/sitemap_p.txt','w')
+# Abre o arquivo onde será gerado o HTML com a lista de professores
+out = open('../profs.html', 'w', encoding="utf-8")  # Usando 'w' para sobrescrever o arquivo
+out2 = open('../../data/configs/profs/profs.csv', 'w', encoding="utf-8")  # Arquivo CSV para as informações
+
+# Escreve o cabeçalho do arquivo CSV
+# out2.write('Name,Institution,Area\n')
+
+# Adiciona o conteúdo de profs_top.html no início do arquivo
+with open(top_path, 'r', encoding="utf-8") as file1:
+    out.write(file1.read())
 
 # Leitura dos nomes em all-authors.csv
-reader2 = csv.reader(open("../../data/configs/profs/all-authors.csv", 'r'))
-
-
-# Para cada professor listado em all-authors, escreve seu link em profs.html e registra info em profs.csv
+reader2 = csv.reader(open("../../data/configs/profs/all-authors.csv", 'r', encoding="utf-8"))
 for p in reader2:
     prof = p[0]
     p2 = prof.replace(" ", "-")
     dept = inst[prof]
+    
+    # Aqui, chamamos a função get_area() para encontrar a área do professor
     area = get_area(p2)
-    out.write('<li>  <a hre f="https://csindexbr.org/authors.html?p=' + p2 + '">')
+
+    # Escreve o nome do professor, com link para a página dele
+    out.write('<li>  <a href="https://csindexbr.org/authors.html?p=' + p2 + '">')
     out.write(' ' + prof + '</a>')
     out.write(' <small> (' + dept + ', ' + area + ') </small>')
     out.write('\n')
 
-    out2.write(prof)
-    out2.write(',')
-    out2.write(dept)
-    out2.write(',')
-    out2.write(area)
-    out2.write('\n')
-    #create_p_file(p2)
-#    out3.write('https://csindexbr.org/authors.html?p=' + p2 + '\n')
-out.close
-out2.close
-#out3.close
+    # Escreve as informações no arquivo CSV (nome, instituição, área)
+    out2.write(f'{prof},{dept},{area}\n')
+
+# Adiciona o conteúdo de profs_bottm.html no final do arquivo
+with open(bottom_path, 'r', encoding="utf-8") as file2:
+    out.write(file2.read())
+
+# Fecha os arquivos
+out.close()
+out2.close()

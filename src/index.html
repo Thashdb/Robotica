@@ -42,10 +42,10 @@
                 // Condicionais para carregar páginas diferentes dependendo da área de pesquisa
                 if (corebr_area_prefix === "mech" || 
                     corebr_area_prefix === "control" ||
-                    // corebr_area_prefix === "cs" ||
-                    corebr_area_prefix === "robotics") {
+                    corebr_area_prefix === "robotics"
+                    ) {
                     document.getElementById('charts-frame').contentWindow.location.replace("charts/charts2.html");
-                } else if(corebr_area_prefix === "cs"){
+                } else if(corebr_area_prefix === "cs" ){
                     document.getElementById('charts-frame').contentWindow.location.replace("charts/charts3.html");
                 } else {
                     document.getElementById('charts-frame').contentWindow.location.replace("charts/charts.html");
@@ -87,12 +87,12 @@
                     <li class="nav-item">
                     <a class="nav-link" href="depts2.html">Departments</a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                     <a class="nav-link" href="statistics.html">Statistics</a>
-                    </li>
-                    <li class="nav-item">
+                    </li> -->
+                    <!-- <li class="nav-item">
                     <a class="nav-link" href="faq.html">FAQ</a>
-                    </li>
+                    </li> -->
                 </ul>
             </div>
         </nav>

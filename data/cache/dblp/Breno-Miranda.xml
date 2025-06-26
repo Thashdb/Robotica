@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Breno Miranda" pid="119/0420" n="62">
+<dblpperson name="Breno Miranda" pid="119/0420" n="63">
 <person key="homepages/119/0420" mdate="2021-07-24">
 <author pid="119/0420">Breno Miranda</author>
 <author pid="119/0420">Breno Alexandro Ferreira de Miranda</author>
@@ -7,6 +7,20 @@
 <url>https://orcid.org/0000-0001-9608-9393</url>
 <url>https://www.wikidata.org/entity/Q57414685</url>
 </person>
+<r><inproceedings key="conf/icse/VerdecchiaCBM25" mdate="2025-06-24">
+<author pid="210/6216">Roberto Verdecchia</author>
+<author pid="218/6663">Emilio Cruciani</author>
+<author pid="03/3919">Antonia Bertolino</author>
+<author pid="119/0420">Breno Miranda</author>
+<title>Energy-Aware Software Testing.</title>
+<pages>101-105</pages>
+<year>2025</year>
+<booktitle>NIER@ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE-NIER66352.2025.00026</ee>
+<crossref>conf/icse/2025nier</crossref>
+<url>db/conf/icse/nier2025.html#VerdecchiaCBM25</url>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/icst/CoutoMG25" mdate="2025-05-30">
 <author pid="357/5416">Maria Couto</author>
 <author pid="119/0420">Breno Miranda</author>

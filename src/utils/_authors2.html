@@ -86,179 +86,177 @@
 
    </script>
 
-   </head>
+</head>
 
-   <body>
+<body>
 
    <header>
-   <nav class="navbar navbar-expand-md navbar-dark static-top bg-dark">
+      <nav class="navbar navbar-expand-md navbar-dark static-top bg-dark">
 
-   <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-   </button>
+      <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+         <span class="navbar-toggler-icon"></span>
+      </button>
 
-   <a class="navbar-brand" href="index.html">CSIndexbr <font size="1">BETA</font></a>
+      <a class="navbar-brand" href="index.html">CSIndexbr <font size="1">BETA</font></a>
 
-   <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-      <ul class="navbar-nav mr-auto">
-         <li class="nav-item">
-         <a class="nav-link" href="index.html">Home</a>
-         </li>
-         <li class="nav-item active">
-         <a class="nav-link" href="authors2.html">Faculty <span class="sr-only">(current)</span></a>
-         </li>
-         <li class="nav-item">
-         <a class="nav-link" href="depts2.html">Departments</a>
-         </li>
-         <li class="nav-item">
-         <a class="nav-link" href="statistics.html">Statistics</a>
-         </li>
-         <li class="nav-item">
-         <a class="nav-link" href="faq.html">FAQ</a>
-         </li>
-
-      </ul>
-
-   </div>
+      <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+         <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+            <a class="nav-link" href="index.html">Home</a>
+            </li>
+            <li class="nav-item active">
+            <a class="nav-link" href="authors2.html">Faculty <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="depts2.html">Departments</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="statistics.html">Statistics</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="faq.html">FAQ</a>
+            </li>
+         </ul>
+      </div>
    </nav>
    </header>
 
 
    <div class="container">
-   <div class="row">
-   <div class="col-sm-12">
+      <div class="row">
+         <div class="col-sm-12">
 
-   <h2 id="author_name"> author </h2>
-   <h7 id="author_stats"> stats </h7>
+            <h2 id="author_name"> author </h2>
+            <h7 id="author_stats"> stats </h7>
 
-   <p></p>
+            <p></p>
 
-   <div id="author_chart_papers"></div>
+            <div id="author_chart_papers"></div>
 
-   <p class="text-center">
-   <!-----
-   <small>
-   <b>Tip:</b> click on column headers to sort.
-   </small>
-   ----->
-   <h7 id="dblp_link"></h7>
-   </p>
+            <p class="text-center">
+            <!-----
+            <small>
+            <b>Tip:</b> click on column headers to sort.
+            </small>
+            ----->
+            <h7 id="dblp_link"></h7>
+            </p>
 
-   </div>
-   </div>
+         </div>
+      </div>
    </div>
 
    <script>
-   var author = corebr_author.split("-").join(" ");
+      var author = corebr_author.split("-").join(" ");
 
-   function instToLink(inst) {
-   if (inst === 'COPPE/UFRJ') {
-      return '<a href="https://csindexbr.org/depts.html?d=coppeufrj">COPPE/UFRJ';
-   }
-   else if (inst === 'DCC/UFRJ') {
-      return '<a href="https://csindexbr.org/depts.html?d=dccufrj">DCC/UFRJ';
-   }
-   else if (inst === 'ICMC/USP') {
-      return '<a href="https://csindexbr.org/depts.html?d=icmcusp">ICMC/USP';
-   }
-   else if (inst === 'IME/USP') {
-      return '<a href="https://csindexbr.org/depts.html?d=imeusp">IME/USP';
-   }
-   else if (inst === 'PUC-RS') {
-      return '<a href="https://csindexbr.org/depts.html?d=puc-rs">PUC-RS';
-   }
-   else if (inst === 'PUC-Rio') {
-      return '<a href="https://csindexbr.org/depts.html?d=puc-rio">PUC-Rio';
-   }
-   else if (inst === 'UERJ') {
-      return '<a href="https://csindexbr.org/depts.html?d=uerj">UERJ';
-   }
-   else if (inst === 'UFABC') {
-      return '<a href="https://csindexbr.org/depts.html?d=ufabc">UFABC';
-   }
-   else if (inst === 'UFAM') {
-      return '<a href="https://csindexbr.org/depts.html?d=ufam">UFAM';
-   }
-   else if (inst === 'UFBA') {
-      return '<a href="https://csindexbr.org/depts.html?d=ufba">UFBA';
-   }
-   else if (inst === 'UFC') {
-      return '<a href="https://csindexbr.org/depts.html?d=ufc">UFC';
-   }
-   else if (inst === 'UFCG') {
-      return '<a href="https://csindexbr.org/depts.html?d=ufcg">UFCG';
-   }
-   else if (inst === 'UFES') {
-      return '<a href="https://csindexbr.org/depts.html?d=ufes">UFES';
-   }
-   else if (inst === 'UFF') {
-      return '<a href="https://csindexbr.org/depts.html?d=uff">UFF';
-   }
-   else if (inst === 'UFMG') {
-      return '<a href="https://csindexbr.org/depts.html?d=ufmg">UFMG';
-   }
-   else if (inst === 'UFPE') {
-      return '<a href="https://csindexbr.org/depts.html?d=ufpe">UFPE';
-   }
-   else if (inst === 'UFPR') {
-      return '<a href="https://csindexbr.org/depts.html?d=ufpr">UFPR';
-   }
-   else if (inst === 'UFRGS') {
-      return '<a href="https://csindexbr.org/depts.html?d=ufrgs">UFRGS';
-   }
-   else if (inst === 'UFRN') {
-      return '<a href="https://csindexbr.org/depts.html?d=ufrn">UFRN';
-   }
-   else if (inst === 'UFSC') {
-      return '<a href="https://csindexbr.org/depts.html?d=ufsc">UFSC';
-   }
-   else if (inst === 'UFSCar') {
-      return '<a href="https://csindexbr.org/depts.html?d=ufscar">UFSCar';
-   }
-   else if (inst === 'UFU') {
-      return '<a href="https://csindexbr.org/depts.html?d=ufu">UFU';
-   }
-   else if (inst === 'UNICAMP') {
-      return '<a href="https://csindexbr.org/depts.html?d=unicamp">UNICAMP';
-   }
-   else if (inst === 'UNIFESP') {
-      return '<a href="https://csindexbr.org/depts.html?d=unifesp">UNIFESP';
-   }
-   else if (inst === 'UTFPR') {
-      return '<a href="https://csindexbr.org/depts.html?d=utfpr">UTFPR';
-   }
-   else if (inst === 'UnB') {
-      return '<a href="https://csindexbr.org/depts.html?d=unb">UnB';
-   }
-   else if (inst === 'UFPA') {
-      return '<a href="https://csindexbr.org/depts.html?d=ufpa">UFPA';
-   }
-   return inst;
-   }
+      function instToLink(inst) {
+      if (inst === 'COPPE/UFRJ') {
+         return '<a href="https://csindexbr.org/depts.html?d=coppeufrj">COPPE/UFRJ';
+      }
+      else if (inst === 'DCC/UFRJ') {
+         return '<a href="https://csindexbr.org/depts.html?d=dccufrj">DCC/UFRJ';
+      }
+      else if (inst === 'ICMC/USP') {
+         return '<a href="https://csindexbr.org/depts.html?d=icmcusp">ICMC/USP';
+      }
+      else if (inst === 'IME/USP') {
+         return '<a href="https://csindexbr.org/depts.html?d=imeusp">IME/USP';
+      }
+      else if (inst === 'PUC-RS') {
+         return '<a href="https://csindexbr.org/depts.html?d=puc-rs">PUC-RS';
+      }
+      else if (inst === 'PUC-Rio') {
+         return '<a href="https://csindexbr.org/depts.html?d=puc-rio">PUC-Rio';
+      }
+      else if (inst === 'UERJ') {
+         return '<a href="https://csindexbr.org/depts.html?d=uerj">UERJ';
+      }
+      else if (inst === 'UFABC') {
+         return '<a href="https://csindexbr.org/depts.html?d=ufabc">UFABC';
+      }
+      else if (inst === 'UFAM') {
+         return '<a href="https://csindexbr.org/depts.html?d=ufam">UFAM';
+      }
+      else if (inst === 'UFBA') {
+         return '<a href="https://csindexbr.org/depts.html?d=ufba">UFBA';
+      }
+      else if (inst === 'UFC') {
+         return '<a href="https://csindexbr.org/depts.html?d=ufc">UFC';
+      }
+      else if (inst === 'UFCG') {
+         return '<a href="https://csindexbr.org/depts.html?d=ufcg">UFCG';
+      }
+      else if (inst === 'UFES') {
+         return '<a href="https://csindexbr.org/depts.html?d=ufes">UFES';
+      }
+      else if (inst === 'UFF') {
+         return '<a href="https://csindexbr.org/depts.html?d=uff">UFF';
+      }
+      else if (inst === 'UFMG') {
+         return '<a href="https://csindexbr.org/depts.html?d=ufmg">UFMG';
+      }
+      else if (inst === 'UFPE') {
+         return '<a href="https://csindexbr.org/depts.html?d=ufpe">UFPE';
+      }
+      else if (inst === 'UFPR') {
+         return '<a href="https://csindexbr.org/depts.html?d=ufpr">UFPR';
+      }
+      else if (inst === 'UFRGS') {
+         return '<a href="https://csindexbr.org/depts.html?d=ufrgs">UFRGS';
+      }
+      else if (inst === 'UFRN') {
+         return '<a href="https://csindexbr.org/depts.html?d=ufrn">UFRN';
+      }
+      else if (inst === 'UFSC') {
+         return '<a href="https://csindexbr.org/depts.html?d=ufsc">UFSC';
+      }
+      else if (inst === 'UFSCar') {
+         return '<a href="https://csindexbr.org/depts.html?d=ufscar">UFSCar';
+      }
+      else if (inst === 'UFU') {
+         return '<a href="https://csindexbr.org/depts.html?d=ufu">UFU';
+      }
+      else if (inst === 'UNICAMP') {
+         return '<a href="https://csindexbr.org/depts.html?d=unicamp">UNICAMP';
+      }
+      else if (inst === 'UNIFESP') {
+         return '<a href="https://csindexbr.org/depts.html?d=unifesp">UNIFESP';
+      }
+      else if (inst === 'UTFPR') {
+         return '<a href="https://csindexbr.org/depts.html?d=utfpr">UTFPR';
+      }
+      else if (inst === 'UnB') {
+         return '<a href="https://csindexbr.org/depts.html?d=unb">UnB';
+      }
+      else if (inst === 'UFPA') {
+         return '<a href="https://csindexbr.org/depts.html?d=ufpa">UFPA';
+      }
+      return inst;
+      }
 
-   $.get("data/all-researchers.csv", function(csvString) {
-   var data = $.csv.toArrays(csvString, {onParseValue: $.csv.hooks.castToScalar});
-   for (var i = 0; i < data.length; i++) {
-         if (data[i][0] === author) {
-            document.title = 'CSIndexbr - ' + author + ' - ' + data[i][1];
-            // document.description = 'List of papers published by ' + author;
-            txt1 = 'List of scientific papers published by ' + author + ', including citation counts and links to arXiv preprints.';
-            document.getElementsByTagName('meta')["description"].content = txt1;
-            inst2 = data[i][1];
-            inst2 = instToLink(inst2);
-            inst = '<font size="4"> (' + inst2 + ')</font>';
-            document.getElementById("author_name").innerHTML = author + inst;
-            dblp_pid = data[i][2];
-            dblp = '<small><b>See also</b> the full list of papers at ';
-            event = '" onclick="trackOutboundLink(this.href); return false;"';
-            dblp = dblp +  '<a href="https://dblp.org/pid/' + dblp_pid;
-            dblp = dblp + event + '>DBLP</a></small>';
-            document.getElementById("dblp_link").innerHTML = dblp;
-            break;
+      $.get("data/all-researchers.csv", function(csvString) {
+      var data = $.csv.toArrays(csvString, {onParseValue: $.csv.hooks.castToScalar});
+      for (var i = 0; i < data.length; i++) {
+            if (data[i][0] === author) {
+               document.title = 'CSIndexbr - ' + author + ' - ' + data[i][1];
+               // document.description = 'List of papers published by ' + author;
+               txt1 = 'List of scientific papers published by ' + author + ', including citation counts and links to arXiv preprints.';
+               document.getElementsByTagName('meta')["description"].content = txt1;
+               inst2 = data[i][1];
+               inst2 = instToLink(inst2);
+               inst = '<font size="4"> (' + inst2 + ')</font>';
+               document.getElementById("author_name").innerHTML = author + inst;
+               dblp_pid = data[i][2];
+               dblp = '<small><b>See also</b> the full list of papers at ';
+               event = '" onclick="trackOutboundLink(this.href); return false;"';
+               dblp = dblp +  '<a href="https://dblp.org/pid/' + dblp_pid;
+               dblp = dblp + event + '>DBLP</a></small>';
+               document.getElementById("dblp_link").innerHTML = dblp;
+               break;
+            }
          }
-   }
-   });
-   ga('send', 'event', 'Author Search', author);
+      });
+      ga('send', 'event', 'Author Search', author);
    </script>
 
    <script src="libs/popper.min.js"> </script>
