@@ -1,0 +1,741 @@
+<?xml version="1.0"?>
+<dblpperson name="Paulo L&#237;cio de Geus" pid="79/4220" n="46">
+<person key="homepages/79/4220" mdate="2016-03-22">
+<author pid="79/4220">Paulo L&#237;cio de Geus</author>
+<author pid="79/4220">Paulo L. de Geus</author>
+</person>
+<r><article key="journals/jisa/SalasG24" mdate="2024-10-22">
+<author orcid="0000-0001-6821-0002" pid="142/2241">Marcelo Invert Palma Salas</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<title>Deep Learning Applied to Imbalanced Malware Datasets Classification.</title>
+<pages>342-359</pages>
+<year>2024</year>
+<volume>15</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5753/jisa.2024.3907</ee>
+<url>db/journals/jisa/jisa15.html#SalasG24</url>
+<stream>streams/journals/jisa</stream>
+</article>
+</r>
+<r><inproceedings key="conf/clei/SalasG23" mdate="2024-03-22">
+<author orcid="0000-0001-6821-0002" pid="142/2241">Marcelo Invert Palma Salas</author>
+<author pid="79/4220">Paulo L&#237;cio de Geus</author>
+<title>Static Analysis for Malware Classification Using Machine and Deep Learning.</title>
+<pages>1-10</pages>
+<year>2023</year>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI60451.2023.10346179</ee>
+<crossref>conf/clei/2023</crossref>
+<url>db/conf/clei/clei2023.html#SalasG23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ladc/SalasGB23" mdate="2023-10-27">
+<author orcid="0000-0001-6821-0002" pid="142/2241">Marcelo Invert Palma Salas</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L. de Geus</author>
+<author orcid="0000-0001-6870-1178" pid="212/3475">Marcus Botacin</author>
+<title>Enhancing Malware Family Classification in the Microsoft Challenge Dataset via Transfer Learning.</title>
+<pages>156-163</pages>
+<year>2023</year>
+<booktitle>LADC</booktitle>
+<ee>https://doi.org/10.1145/3615366.3615374</ee>
+<crossref>conf/ladc/2023</crossref>
+<url>db/conf/ladc/ladc2023.html#SalasGB23</url>
+</inproceedings>
+</r>
+<r><article key="journals/compsec/BotacinDCMAGG22" mdate="2023-08-28">
+<author orcid="0000-0001-6870-1178" pid="212/3475">Marcus Botacin</author>
+<author pid="309/8768">Felipe Duarte Domingues</author>
+<author orcid="0000-0001-6853-8083" pid="235/8319">Fabr&#237;cio Ceschin</author>
+<author orcid="0000-0002-6187-0945" pid="309/8464">Raphael Machnicki</author>
+<author orcid="0000-0003-2440-2664" pid="47/7939">Marco Antonio Zanata Alves</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<author pid="115/4570">Andr&#233; Gr&#233;gio</author>
+<title>AntiViruses under the microscope: A hands-on perspective.</title>
+<pages>102500</pages>
+<year>2022</year>
+<volume>112</volume>
+<journal>Comput. Secur.</journal>
+<ee>https://doi.org/10.1016/j.cose.2021.102500</ee>
+<ee>https://www.wikidata.org/entity/Q115046919</ee>
+<url>db/journals/compsec/compsec112.html#BotacinDCMAGG22</url>
+</article>
+</r>
+<r><article key="journals/tissec/BotacinAOKVOGG21" mdate="2025-01-19">
+<author pid="212/3475">Marcus Botacin</author>
+<author pid="187/3595">Hojjat Aghakhani</author>
+<author pid="32/8412">Stefano Ortolani</author>
+<author pid="k/ChristopherKruegel">Christopher Kruegel</author>
+<author pid="v/GiovanniVigna">Giovanni Vigna</author>
+<author pid="20/3140">Daniela Oliveira 0001</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<author pid="115/4570">Andr&#233; Gr&#233;gio</author>
+<title>One Size Does Not Fit All: A Longitudinal Analysis of Brazilian Financial Malware.</title>
+<pages>11:1-11:31</pages>
+<year>2021</year>
+<volume>24</volume>
+<journal>ACM Trans. Priv. Secur.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3429741</ee>
+<ee>https://www.wikidata.org/entity/Q130990216</ee>
+<url>db/journals/tissec/tissec24.html#BotacinAOKVOGG21</url>
+</article>
+</r>
+<r><article key="journals/compsec/BotacinCGG20" mdate="2023-08-28">
+<author orcid="0000-0001-6870-1178" pid="212/3475">Marcus Botacin</author>
+<author orcid="0000-0001-6853-8083" pid="235/8319">Fabricio Ceschin</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L. de Geus</author>
+<author pid="115/4570">Andr&#233; Gr&#233;gio</author>
+<title>We need to talk about antiviruses: challenges &#38; pitfalls of AV evaluations.</title>
+<pages>101859</pages>
+<year>2020</year>
+<volume>95</volume>
+<journal>Comput. Secur.</journal>
+<ee>https://doi.org/10.1016/j.cose.2020.101859</ee>
+<ee>https://www.wikidata.org/entity/Q115054514</ee>
+<url>db/journals/compsec/compsec95.html#BotacinCGG20</url>
+</article>
+</r>
+<r><article key="journals/virology/BotacinGG20" mdate="2025-01-19">
+<author pid="212/3475">Marcus Botacin</author>
+<author pid="79/4220">Paulo L&#237;cio de Geus</author>
+<author orcid="0000-0003-1766-5757" pid="115/4570">Andr&#233; Gr&#233;gio</author>
+<title>Leveraging branch traces to understand kernel internals from within.</title>
+<pages>141-155</pages>
+<year>2020</year>
+<volume>16</volume>
+<journal>J. Comput. Virol. Hacking Tech.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11416-019-00343-w</ee>
+<ee>https://www.wikidata.org/entity/Q126411447</ee>
+<url>db/journals/virology/virology16.html#BotacinGG20</url>
+</article>
+</r>
+<r><inproceedings key="conf/dimva/BotacinBGGKV20" mdate="2025-01-19">
+<author pid="212/3475">Marcus Botacin</author>
+<author pid="269/9646">Giovanni Bert&#227;o</author>
+<author pid="79/4220">Paulo L. de Geus</author>
+<author pid="115/4570">Andr&#233; Gr&#233;gio</author>
+<author pid="k/ChristopherKruegel">Christopher Kruegel</author>
+<author pid="v/GiovanniVigna">Giovanni Vigna</author>
+<title>On the Security of Application Installers and Online Software Repositories.</title>
+<pages>192-214</pages>
+<year>2020</year>
+<booktitle>DIMVA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-52683-2_10</ee>
+<ee>https://www.wikidata.org/entity/Q130990223</ee>
+<crossref>conf/dimva/2020</crossref>
+<url>db/conf/dimva/dimva2020.html#BotacinBGGKV20</url>
+</inproceedings>
+</r>
+<r><article key="journals/virology/BotacinGG19" mdate="2020-06-15">
+<author pid="212/3475">Marcus Botacin</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<author orcid="0000-0003-1766-5757" pid="115/4570">Andr&#233; Gr&#233;gio</author>
+<title>&#34;VANILLA&#34; malware: vanishing antiviruses by interleaving layers and layers of attacks.</title>
+<pages>233-247</pages>
+<year>2019</year>
+<volume>15</volume>
+<journal>J. Comput. Virol. Hacking Tech.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s11416-019-00333-y</ee>
+<url>db/journals/virology/virology15.html#BotacinGG19</url>
+</article>
+</r>
+<r><inproceedings key="conf/recosoc/BotacinGCSCGGA19" mdate="2022-04-09">
+<author pid="212/3475">Marcus Botacin</author>
+<author pid="261/2103">Lucas Galante</author>
+<author orcid="0000-0001-6853-8083" pid="235/8319">Fabricio Ceschin</author>
+<author pid="125/2570">Paulo C. Santos 0001</author>
+<author pid="25/5214">Luigi Carro</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<author pid="115/4570">Andr&#233; Gr&#233;gio</author>
+<author pid="47/7939">Marco A. Z. Alves</author>
+<title>The AV says: Your Hardware Definitions Were Updated!</title>
+<pages>27-34</pages>
+<year>2019</year>
+<booktitle>ReCoSoC</booktitle>
+<ee>https://doi.org/10.1109/ReCoSoC48741.2019.9034972</ee>
+<crossref>conf/recosoc/2019</crossref>
+<url>db/conf/recosoc/recosoc2019.html#BotacinGCSCGGA19</url>
+</inproceedings>
+</r>
+<r><article key="journals/csur/BotacinGG18" mdate="2025-01-19">
+<author orcid="0000-0001-6870-1178" pid="212/3475">Marcus Botacin</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<author orcid="0000-0003-1766-5757" pid="115/4570">Andr&#233; Ricardo Abed Gr&#233;gio</author>
+<title>Who Watches the Watchmen: A Security-focused Review on Current State-of-the-art Techniques, Tools, and Methods for Systems and Binary Analysis on Modern Platforms.</title>
+<pages>69:1-69:34</pages>
+<year>2018</year>
+<volume>51</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3199673</ee>
+<ee>https://www.wikidata.org/entity/Q131124097</ee>
+<url>db/journals/csur/csur51.html#BotacinGG18</url>
+</article>
+</r>
+<r><article key="journals/tissec/BotacinGG18" mdate="2025-01-19">
+<author pid="212/3475">Marcus Botacin</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<author orcid="0000-0003-1766-5757" pid="115/4570">Andr&#233; Gr&#233;gio</author>
+<title>Enhancing Branch Monitoring for Security Purposes: From Control Flow Integrity to Malware Analysis and Debugging.</title>
+<pages>4:1-4:30</pages>
+<year>2018</year>
+<volume>21</volume>
+<journal>ACM Trans. Priv. Secur.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3152162</ee>
+<ee>https://www.wikidata.org/entity/Q131115968</ee>
+<url>db/journals/tissec/tissec21.html#BotacinGG18</url>
+</article>
+</r>
+<r><article key="journals/virology/BotacinGG18" mdate="2020-06-15">
+<author pid="212/3475">Marcus Botacin</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<author orcid="0000-0003-1766-5757" pid="115/4570">Andr&#233; Ricardo Abed Gr&#233;gio</author>
+<title>The other guys: automated analysis of marginalized malware.</title>
+<pages>87-98</pages>
+<year>2018</year>
+<volume>14</volume>
+<journal>J. Comput. Virol. Hacking Tech.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11416-017-0292-8</ee>
+<url>db/journals/virology/virology14.html#BotacinGG18</url>
+</article>
+</r>
+<r><inproceedings key="conf/isw/AfonsoKMOGG18" mdate="2021-11-05">
+<author pid="115/4575">Vitor Monte Afonso</author>
+<author pid="204/4052">Anatoli Kalysch</author>
+<author pid="08/7968">Tilo M&#252;ller</author>
+<author pid="20/3140">Daniela Oliveira 0001</author>
+<author orcid="0000-0003-1766-5757" pid="115/4570">Andr&#233; Gr&#233;gio</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<title>Lumus: Dynamically Uncovering Evasive Android Applications.</title>
+<pages>47-66</pages>
+<year>2018</year>
+<booktitle>ISC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-99136-8_3</ee>
+<crossref>conf/isw/2018</crossref>
+<url>db/conf/isw/isc2018.html#AfonsoKMOGG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmla/RezendeRCRG17" mdate="2023-02-24">
+<author pid="208/7557">Edmar R. S. De Rezende</author>
+<author pid="34/330">Guilherme C. S. Ruppert</author>
+<author orcid="0000-0002-7779-1950" pid="168/8665">Tiago J. Carvalho</author>
+<author pid="22/2488">Fabio Ramos 0001</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L. de Geus</author>
+<title>Malicious Software Classification Using Transfer Learning of ResNet-50 Deep Neural Network.</title>
+<pages>1011-1014</pages>
+<year>2017</year>
+<booktitle>ICMLA</booktitle>
+<ee>https://doi.org/10.1109/ICMLA.2017.00-19</ee>
+<crossref>conf/icmla/2017</crossref>
+<url>db/conf/icmla/icmla2017.html#RezendeRCRG17</url>
+</inproceedings>
+</r>
+<r><article key="journals/ao/GregioBMNG16" mdate="2020-07-14">
+<author orcid="0000-0003-1766-5757" pid="115/4570">Andr&#233; Gr&#233;gio</author>
+<author orcid="0000-0003-3441-0887" pid="60/362">Rodrigo Bonacin</author>
+<author pid="177/6143">Antonio Carlos de Marchi</author>
+<author pid="98/6791">Olga Fernanda Nabuco</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<title>An ontology of suspicious software behavior.</title>
+<pages>29-49</pages>
+<year>2016</year>
+<volume>11</volume>
+<journal>Appl. Ontology</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/AO-160163</ee>
+<url>db/journals/ao/ao11.html#GregioBMNG16</url>
+</article>
+</r>
+<r><inproceedings key="conf/ndss/AfonsoGBFKVDP16" mdate="2018-01-16">
+<author pid="115/4575">Vitor Monte Afonso</author>
+<author pid="79/4220">Paulo L. de Geus</author>
+<author pid="99/3883">Antonio Bianchi</author>
+<author pid="11/10929">Yanick Fratantonio</author>
+<author pid="k/ChristopherKruegel">Christopher Kruegel</author>
+<author pid="v/GiovanniVigna">Giovanni Vigna</author>
+<author pid="28/8280">Adam Doup&#233;</author>
+<author pid="163/9937">Mario Polino</author>
+<title>Going Native: Using a Large-Scale Analysis of Android Apps to Create a Practical Native-Code Sandboxing Policy.</title>
+<year>2016</year>
+<booktitle>NDSS</booktitle>
+<ee>http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/going-native-large-scale-analysis-android-apps-practical-native-code-sandboxing-policy.pdf</ee>
+<crossref>conf/ndss/2016</crossref>
+<url>db/conf/ndss/ndss2016.html#AfonsoGBFKVDP16</url>
+</inproceedings>
+</r>
+<r><article key="journals/cj/GregioAFGJ15" mdate="2024-01-08">
+<author orcid="0000-0003-1766-5757" pid="115/4570">Andr&#233; Ricardo Abed Gr&#233;gio</author>
+<author pid="115/4575">Vitor Monte Afonso</author>
+<author pid="115/4582">Dario Sim&#245;es Fernandes Filho</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<author pid="12/1105">M&#225;rio Jino</author>
+<title>Toward a Taxonomy of Malware Behaviors.</title>
+<pages>2758-2777</pages>
+<year>2015</year>
+<volume>58</volume>
+<journal>Comput. J.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1093/comjnl/bxv047</ee>
+<url>db/journals/cj/cj58.html#GregioAFGJ15</url>
+</article>
+</r>
+<r><article key="journals/virology/AfonsoAGJG15" mdate="2020-06-15">
+<author pid="115/4575">Vitor Monte Afonso</author>
+<author pid="157/5654">Matheus Favero de Amorim</author>
+<author orcid="0000-0003-1766-5757" pid="115/4570">Andr&#233; Ricardo Abed Gr&#233;gio</author>
+<author pid="157/5989">Glauco Barroso Junquera</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<title>Identifying Android malware using dynamically obtained features.</title>
+<pages>9-17</pages>
+<year>2015</year>
+<volume>11</volume>
+<journal>J. Comput. Virol. Hacking Tech.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11416-014-0226-7</ee>
+<url>db/journals/virology/virology11.html#AfonsoAGJG15</url>
+</article>
+</r>
+<r><inproceedings key="conf/medes/SilvaG15" mdate="2019-10-19">
+<author pid="168/9632">Carlos Alberto da Silva</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<title>Return on security investment for cloud computing: a customer perspective.</title>
+<pages>156-160</pages>
+<year>2015</year>
+<booktitle>MEDES</booktitle>
+<ee>https://doi.org/10.1145/2857218.2857254</ee>
+<crossref>conf/medes/2015</crossref>
+<url>db/conf/medes/medes2015.html#SilvaG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/services/SalasGM15" mdate="2023-03-24">
+<author orcid="0000-0001-6821-0002" pid="142/2241">Marcelo Invert Palma Salas</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<author pid="35/5134">Eliane Martins</author>
+<title>Security Testing Methodology for Evaluation of Web Services Robustness - Case: XML Injection.</title>
+<pages>303-310</pages>
+<year>2015</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2015.53</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SERVICES.2015.53</ee>
+<crossref>conf/services/2015</crossref>
+<url>db/conf/services/services2015.html#SalasGM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latincom/SilvaG14" mdate="2019-10-19">
+<author pid="168/9632">Carlos Alberto da Silva</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<title>An approach to security-SLA in cloud computing environment.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>LATINCOM</booktitle>
+<ee>https://doi.org/10.1109/LATINCOM.2014.7041843</ee>
+<crossref>conf/latincom/2014</crossref>
+<url>db/conf/latincom/latincom2014.html#SilvaG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wetice/GrecioBNAGJ14" mdate="2024-01-08">
+<author pid="115/4570">Andre Gregio</author>
+<author orcid="0000-0003-3441-0887" pid="60/362">Rodrigo Bonacin</author>
+<author pid="98/6791">Olga Nabuco</author>
+<author pid="115/4575">Vitor Monte Afonso</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<author pid="12/1105">M&#225;rio Jino</author>
+<title>Ontology for Malware Behavior: A Core Model Proposal.</title>
+<pages>453-458</pages>
+<year>2014</year>
+<booktitle>WETICE</booktitle>
+<ee>https://doi.org/10.1109/WETICE.2014.72</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WETICE.2014.72</ee>
+<crossref>conf/wetice/2014</crossref>
+<url>db/conf/wetice/wetice2014.html#GrecioBNAGJ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/GregioFAGMJ13" mdate="2024-01-08">
+<author orcid="0000-0003-1766-5757" pid="115/4570">Andr&#233; Ricardo Abed Gr&#233;gio</author>
+<author pid="115/4582">Dario Sim&#245;es Fernandes Filho</author>
+<author pid="115/4575">Vitor Monte Afonso</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<author pid="129/2304">Victor Furuse Martins</author>
+<author pid="12/1105">M&#225;rio Jino</author>
+<title>An empirical analysis of malicious internet banking software behavior.</title>
+<pages>1830-1835</pages>
+<year>2013</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2480362.2480704</ee>
+<crossref>conf/sac/2013</crossref>
+<url>db/conf/sac/sac2013.html#GregioFAGMJ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dimva/GregioGKV12" mdate="2017-05-19">
+<author pid="115/4570">Andr&#233; Ricardo Abed Gr&#233;gio</author>
+<author pid="79/4220">Paulo L&#237;cio de Geus</author>
+<author pid="k/ChristopherKruegel">Christopher Kruegel</author>
+<author pid="v/GiovanniVigna">Giovanni Vigna</author>
+<title>Tracking Memory Writes for Malware Classification and Code Reuse Identification.</title>
+<pages>134-143</pages>
+<year>2012</year>
+<booktitle>DIMVA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-37300-8_8</ee>
+<crossref>conf/dimva/2012</crossref>
+<url>db/conf/dimva/dimva2012.html#GregioGKV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/AfonsoFGGJ12" mdate="2024-01-08">
+<author pid="115/4575">Vitor Monte Afonso</author>
+<author pid="115/4582">Dario Sim&#245;es Fernandes Filho</author>
+<author orcid="0000-0003-1766-5757" pid="115/4570">Andr&#233; Ricardo Abed Gr&#233;gio</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<author pid="12/1105">M&#225;rio Jino</author>
+<title>A hybrid framework to analyze web and OS malware.</title>
+<pages>966-970</pages>
+<year>2012</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2012.6364108</ee>
+<crossref>conf/icc/2012</crossref>
+<url>db/conf/icc/icc2012.html#AfonsoFGGJ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccsa/GregioAFGJS12" mdate="2024-01-08">
+<author orcid="0000-0003-1766-5757" pid="115/4570">Andr&#233; Ricardo Abed Gr&#233;gio</author>
+<author pid="115/4575">Vitor Monte Afonso</author>
+<author pid="115/4582">Dario Sim&#245;es Fernandes Filho</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<author pid="12/1105">M&#225;rio Jino</author>
+<author orcid="0000-0002-8313-6688" pid="115/4568">Rafael Duarte Coelho dos Santos</author>
+<title>Pinpointing Malicious Activities through Network and System-Level Malware Execution Behavior.</title>
+<pages>274-285</pages>
+<year>2012</year>
+<booktitle>ICCSA (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31128-4_20</ee>
+<crossref>conf/iccsa/2012-4</crossref>
+<url>db/conf/iccsa/iccsa2012-4.html#GregioAFGJS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccsa/GregioBAFGJS12" mdate="2024-01-08">
+<author orcid="0000-0003-1766-5757" pid="115/4570">Andr&#233; Ricardo Abed Gr&#233;gio</author>
+<author pid="115/4591">Alexandre Or Cansian Baruque</author>
+<author pid="115/4575">Vitor Monte Afonso</author>
+<author pid="115/4582">Dario Sim&#245;es Fernandes Filho</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<author pid="12/1105">M&#225;rio Jino</author>
+<author orcid="0000-0002-8313-6688" pid="115/4568">Rafael Duarte Coelho dos Santos</author>
+<title>Interactive, Visual-Aided Tools to Analyze Malware Behavior.</title>
+<pages>302-313</pages>
+<year>2012</year>
+<booktitle>ICCSA (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31128-4_22</ee>
+<crossref>conf/iccsa/2012-4</crossref>
+<url>db/conf/iccsa/iccsa2012-4.html#GregioBAFGJS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccsa/CavalcanteTSG12" mdate="2019-10-19">
+<author pid="115/4604">Gabriel D. Cavalcante</author>
+<author pid="87/4753">S&#233;bastien Tricaud</author>
+<author pid="115/4601">Cleber P. Souza</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<title>Interactive Analysis of Computer Scenarios through Parallel Coordinates Graphics.</title>
+<pages>314-325</pages>
+<year>2012</year>
+<booktitle>ICCSA (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31128-4_23</ee>
+<crossref>conf/iccsa/2012-4</crossref>
+<url>db/conf/iccsa/iccsa2012-4.html#CavalcanteTSG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latincloud/SilvaFG12" mdate="2019-10-19">
+<author pid="168/9632">Carlos Alberto da Silva</author>
+<author pid="168/9645">Anderson Soares Ferreira</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<title>A methodology for management of cloud computing using security criteria.</title>
+<pages>49-54</pages>
+<year>2012</year>
+<booktitle>LatinCloud</booktitle>
+<ee>https://doi.org/10.1109/LatinCloud.2012.6508157</ee>
+<crossref>conf/latincloud/2012</crossref>
+<url>db/conf/latincloud/latincloud2012.html#SilvaFG12</url>
+</inproceedings>
+</r>
+<r><article key="journals/spe/AlbuquerqueKGJ11" mdate="2020-04-09">
+<author orcid="0000-0002-3160-3168" pid="34/3940">Jo&#227;o Porto de Albuquerque</author>
+<author pid="k/HeikoKrumm">Heiko Krumm</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<author pid="55/292">Ren&#233; Jeruschkat</author>
+<title>Scalable model-based configuration management of security services in complex enterprise networks.</title>
+<pages>307-338</pages>
+<year>2011</year>
+<volume>41</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/spe.1014</ee>
+<url>db/journals/spe/spe41.html#AlbuquerqueKGJ11</url>
+</article>
+</r>
+<r><article key="journals/ijisec/AlbuquerqueKG10" mdate="2019-10-19">
+<author orcid="0000-0002-3160-3168" pid="34/3940">Jo&#227;o Porto de Albuquerque</author>
+<author pid="k/HeikoKrumm">Heiko Krumm</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<title>Formal validation of automated policy refinement in the management of network security systems.</title>
+<pages>99-125</pages>
+<year>2010</year>
+<volume>9</volume>
+<journal>Int. J. Inf. Sec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10207-010-0101-6</ee>
+<url>db/journals/ijisec/ijisec9.html#AlbuquerqueKG10</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigdoc/FilhoOG10" mdate="2019-10-19">
+<author pid="27/902">Fernando Marques Figueira Filho</author>
+<author pid="o/GaryMOlson">Gary M. Olson</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<title>Kolline: a task-oriented system for collaborative information seeking.</title>
+<pages>89-94</pages>
+<year>2010</year>
+<booktitle>SIGDOC</booktitle>
+<ee>https://doi.org/10.1145/1878450.1878465</ee>
+<crossref>conf/sigdoc/2010</crossref>
+<url>db/conf/sigdoc/sigdoc2010.html#FilhoOG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dmkdttt/GregioOSCG09" mdate="2020-06-15">
+<author orcid="0000-0003-1766-5757" pid="115/4570">Andr&#233; Ricardo Abed Gr&#233;gio</author>
+<author pid="20/8883">Isabela L. Oliveira</author>
+<author orcid="0000-0002-8313-6688" pid="115/4568">Rafael D. C. Santos</author>
+<author pid="55/8882">Adriano M. Cansian</author>
+<author pid="79/4220">Paulo L. de Geus</author>
+<title>Malware distributed collection and pre-classification system using honeypot technology.</title>
+<pages>73440B</pages>
+<year>2009</year>
+<booktitle>Data Mining, Intrusion Detection, Information Security and Assurance, and Data Networks Security</booktitle>
+<ee>https://doi.org/10.1117/12.818310</ee>
+<crossref>conf/dmkdttt/2009</crossref>
+<url>db/conf/dmkdttt/dmidisadns2009.html#GregioOSCG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/FilhoGA09" mdate="2022-02-14">
+<author pid="27/902">Fernando Figueira Filho</author>
+<author pid="79/4220">Paulo L. de Geus</author>
+<author pid="34/3940">Jo&#227;o Porto de Albuquerque</author>
+<title>Um sistema de recomenda&#231;&#227;o para f&#243;runs de discuss&#227;o na web baseado na estimativa da expertise e na classifica&#231;&#227;o colaborativa de conte&#250;do.</title>
+<pages>306-313</pages>
+<year>2009</year>
+<booktitle>SBSI</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbsi.2009.6188</ee>
+<crossref>conf/sbsi/2009</crossref>
+<url>db/conf/sbsi/sbsi2009.html#FilhoGA09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ihc/FilhoGA08" mdate="2018-11-26">
+<author pid="27/902">Fernando Marques Figueira Filho</author>
+<author pid="79/4220">Paulo L&#237;cio de Geus</author>
+<author pid="34/3940">Jo&#227;o Porto de Albuquerque</author>
+<title>Analisando sistemas de classifica&#231;&#227;o na <i>web</i> sob a perspectiva da intera&#231;&#227;o social em comunidades de pr&#225;tica.</title>
+<pages>40-49</pages>
+<year>2008</year>
+<booktitle>IHC</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=1497476</ee>
+<crossref>conf/ihc/2008</crossref>
+<url>db/conf/ihc/ihc2008.html#FilhoGA08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/AlbuquerqueKG08" mdate="2019-10-19">
+<author orcid="0000-0002-3160-3168" pid="34/3940">Jo&#227;o Porto de Albuquerque</author>
+<author pid="k/HeikoKrumm">Heiko Krumm</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<title>Model-based management of security services in complex network environments.</title>
+<pages>1031-1036</pages>
+<year>2008</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2008.4575274</ee>
+<crossref>conf/noms/2008</crossref>
+<url>db/conf/noms/noms2008.html#AlbuquerqueKG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccnc/FilhoAGK07" mdate="2020-09-05">
+<author pid="27/902">Fernando Marques Figueira Filho</author>
+<author orcid="0000-0002-3160-3168" pid="34/3940">Jo&#227;o Porto de Albuquerque</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<author pid="k/HeikoKrumm">Heiko Krumm</author>
+<title>A Policy-Based Framework for Interoperable Digital Content Management.</title>
+<pages>945-949</pages>
+<year>2007</year>
+<booktitle>CCNC</booktitle>
+<ee>https://doi.org/10.1109/CCNC.2007.191</ee>
+<crossref>conf/ccnc/2007</crossref>
+<url>db/conf/ccnc/ccnc2007.html#FilhoAGK07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmns/FilhoAG06" mdate="2018-06-26">
+<author pid="27/902">Fernando Marques Figueira Filho</author>
+<author pid="34/3940">Jo&#227;o Porto de Albuquerque</author>
+<author pid="79/4220">Paulo L&#237;cio de Geus</author>
+<title>A Service-Oriented Framework to Promote Interoperability Among DRM Systems.</title>
+<pages>124-127</pages>
+<year>2006</year>
+<crossref>conf/mmns/2006</crossref>
+<booktitle>MMNS</booktitle>
+<ee type="oa">https://doi.org/10.1007/11907381_12</ee>
+<url>db/conf/mmns/mmns2006.html#FilhoAG06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsom/AlbuquerqueIKG05" mdate="2025-04-01">
+<author pid="34/3940">Jo&#227;o Porto de Albuquerque</author>
+<author orcid="0009-0006-0222-4675" pid="05/2732">Holger Isenberg</author>
+<author pid="k/HeikoKrumm">Heiko Krumm</author>
+<author pid="79/4220">Paulo L&#237;cio de Geus</author>
+<title>Improving the Configuration Management of Large Network Security Systems.</title>
+<pages>36-47</pages>
+<year>2005</year>
+<crossref>conf/dsom/2005</crossref>
+<booktitle>DSOM</booktitle>
+<ee type="oa">https://doi.org/10.1007/11568285_4</ee>
+<url>db/conf/dsom/dsom2005.html#AlbuquerqueIKG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esorics/AlbuquerqueKG05" mdate="2019-08-20">
+<author orcid="0000-0002-3160-3168" pid="34/3940">Jo&#227;o Porto de Albuquerque</author>
+<author pid="k/HeikoKrumm">Heiko Krumm</author>
+<author pid="79/4220">Paulo L&#237;cio de Geus</author>
+<title>On Scalability and Modularisation in the Modelling of Network Security Systems.</title>
+<pages>287-304</pages>
+<year>2005</year>
+<crossref>conf/esorics/2005</crossref>
+<booktitle>ESORICS</booktitle>
+<ee type="oa">https://doi.org/10.1007/11555827_17</ee>
+<url>db/conf/esorics/esorics2005.html#AlbuquerqueKG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gi/AlbuquerqueKG05" mdate="2023-07-04">
+<author pid="34/3940">Jo&#227;o Porto de Albuquerque</author>
+<author pid="k/HeikoKrumm">Heiko Krumm</author>
+<author pid="79/4220">Paulo L&#237;cio de Geus</author>
+<title>Modellierung von Netzsicherheitsystemen umfangreicher vernetzter IT-Infrastrukturen.</title>
+<pages>633-637</pages>
+<year>2005</year>
+<crossref>conf/gi/2005-2</crossref>
+<booktitle>GI Jahrestagung (2)</booktitle>
+<url>db/conf/gi/gi2005-2.html#AlbuquerqueKG05</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/28123</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings68/article4017.html</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/policy/AlbuquerqueKG05" mdate="2023-03-23">
+<author orcid="0000-0002-3160-3168" pid="34/3940">Jo&#227;o Porto de Albuquerque</author>
+<author pid="k/HeikoKrumm">Heiko Krumm</author>
+<author orcid="0000-0002-6540-8686" pid="79/4220">Paulo L&#237;cio de Geus</author>
+<title>Policy Modeling and Refinement for Network Security Systems.</title>
+<pages>24-33</pages>
+<year>2005</year>
+<crossref>conf/policy/2005</crossref>
+<booktitle>POLICY</booktitle>
+<ee>https://doi.org/10.1109/POLICY.2005.24</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/POLICY.2005.24</ee>
+<url>db/conf/policy/policy2005.html#AlbuquerqueKG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cec/PaulaCG04" mdate="2021-08-11">
+<author pid="144/6630">Fabricio Sergio de Paula</author>
+<author pid="c/LeandroNunesdeCastro">Leandro Nunes de Castro</author>
+<author pid="79/4220">Paulo L. de Geus</author>
+<title>An intrusion detection system using ideas from the immune system.</title>
+<pages>1059-1066</pages>
+<year>2004</year>
+<crossref>conf/cec/2004</crossref>
+<booktitle>IEEE Congress on Evolutionary Computation</booktitle>
+<ee>https://doi.org/10.1109/CEC.2004.1330979</ee>
+<url>db/conf/cec/cec2004.html#PaulaCG04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ict/PaulaG04" mdate="2017-08-02">
+<author pid="144/6630">Fabricio Sergio de Paula</author>
+<author pid="79/4220">Paulo L. de Geus</author>
+<title>Attack Evidence Detection, Recovery, and Signature Extraction with ADenoIdS.</title>
+<pages>1083-1092</pages>
+<ee>https://doi.org/10.1007/978-3-540-27824-5_141</ee>
+<year>2004</year>
+<crossref>conf/ict/2004</crossref>
+<booktitle>ICT</booktitle>
+<url>db/conf/ict/ict2004.html#PaulaG04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/NetoLBFG98" mdate="2024-05-10">
+<author pid="02/1876">Candido Ferreira Xavier de Mendon&#231;a Neto</author>
+<author pid="374/8251">Jos&#233; Joaqu&#237;n Lunazzi</author>
+<author pid="374/7778">Elo&#237;sa Bertini</author>
+<author pid="374/8209">Emerson G. Da Fonseca</author>
+<author pid="79/4220">Paulo L. de Geus</author>
+<title>A holographic visualization system: a sequel.</title>
+<pages>135-141</pages>
+<year>1998</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SIBGRA.1998.722743</ee>
+<crossref>conf/sibgrapi/1998</crossref>
+<url>db/conf/sibgrapi/sibgrapi1998.html#NetoLBFG98</url>
+</inproceedings>
+</r>
+<coauthors n="57" nc="7">
+<co c="0"><na f="a/Afonso:Vitor_Monte" pid="115/4575">Vitor Monte Afonso</na></co>
+<co c="0"><na f="a/Aghakhani:Hojjat" pid="187/3595">Hojjat Aghakhani</na></co>
+<co c="1"><na f="a/Albuquerque:Jo=atilde=o_Porto_de" pid="34/3940">Jo&#227;o Porto de Albuquerque</na></co>
+<co c="0" n="2"><na f="a/Alves:Marco_A=_Z=" pid="47/7939">Marco A. Z. Alves</na><na>Marco Antonio Zanata Alves</na></co>
+<co c="0"><na f="a/Amorim:Matheus_Favero_de" pid="157/5654">Matheus Favero de Amorim</na></co>
+<co c="0"><na f="b/Baruque:Alexandre_Or_Cansian" pid="115/4591">Alexandre Or Cansian Baruque</na></co>
+<co c="0"><na f="b/Bert=atilde=o:Giovanni" pid="269/9646">Giovanni Bert&#227;o</na></co>
+<co c="2"><na f="b/Bertini:Elo=iacute=sa" pid="374/7778">Elo&#237;sa Bertini</na></co>
+<co c="0"><na f="b/Bianchi:Antonio" pid="99/3883">Antonio Bianchi</na></co>
+<co c="0"><na f="b/Bonacin:Rodrigo" pid="60/362">Rodrigo Bonacin</na></co>
+<co c="0"><na f="b/Botacin:Marcus" pid="212/3475">Marcus Botacin</na></co>
+<co c="0" n="2"><na f="c/Cansian:Adriano_Mauro" pid="55/8882">Adriano Mauro Cansian</na><na>Adriano M. Cansian</na></co>
+<co c="0"><na f="c/Carro:Luigi" pid="25/5214">Luigi Carro</na></co>
+<co c="3"><na f="c/Carvalho:Tiago_J=" pid="168/8665">Tiago J. Carvalho</na></co>
+<co c="6"><na f="c/Castro:Leandro_Nunes_de" pid="c/LeandroNunesdeCastro">Leandro Nunes de Castro</na></co>
+<co c="4"><na f="c/Cavalcante:Gabriel_D=" pid="115/4604">Gabriel D. Cavalcante</na></co>
+<co c="0" n="2"><na f="c/Ceschin:Fabricio" pid="235/8319">Fabricio Ceschin</na><na>Fabr&#237;cio Ceschin</na></co>
+<co c="0"><na f="d/Domingues:Felipe_Duarte" pid="309/8768">Felipe Duarte Domingues</na></co>
+<co c="0"><na f="d/Doup=eacute=:Adam" pid="28/8280">Adam Doup&#233;</na></co>
+<co c="5"><na f="f/Ferreira:Anderson_Soares" pid="168/9645">Anderson Soares Ferreira</na></co>
+<co c="0"><na f="f/Filho:Dario_Sim=otilde=es_Fernandes" pid="115/4582">Dario Sim&#245;es Fernandes Filho</na></co>
+<co c="1" n="2"><na f="f/Filho:Fernando_Marques_Figueira" pid="27/902">Fernando Marques Figueira Filho</na><na>Fernando Figueira Filho</na></co>
+<co c="2"><na f="f/Fonseca:Emerson_G=_Da" pid="374/8209">Emerson G. Da Fonseca</na></co>
+<co c="0"><na f="f/Fratantonio:Yanick" pid="11/10929">Yanick Fratantonio</na></co>
+<co c="0"><na f="g/Galante:Lucas" pid="261/2103">Lucas Galante</na></co>
+<co c="0" n="3"><na f="g/Gr=eacute=gio:Andr=eacute=_Ricardo_Abed" pid="115/4570">Andr&#233; Ricardo Abed Gr&#233;gio</na><na>Andr&#233; Gr&#233;gio</na><na>Andre Gregio</na></co>
+<co c="1"><na f="i/Isenberg:Holger" pid="05/2732">Holger Isenberg</na></co>
+<co c="1"><na f="j/Jeruschkat:Ren=eacute=" pid="55/292">Ren&#233; Jeruschkat</na></co>
+<co c="0"><na f="j/Jino:M=aacute=rio" pid="12/1105">M&#225;rio Jino</na></co>
+<co c="0"><na f="j/Junquera:Glauco_Barroso" pid="157/5989">Glauco Barroso Junquera</na></co>
+<co c="0"><na f="k/Kalysch:Anatoli" pid="204/4052">Anatoli Kalysch</na></co>
+<co c="0" n="2"><na f="k/Kr=uuml=gel:Christopher" pid="k/ChristopherKruegel">Christopher Kr&#252;gel</na><na>Christopher Kruegel</na></co>
+<co c="1"><na f="k/Krumm:Heiko" pid="k/HeikoKrumm">Heiko Krumm</na></co>
+<co c="2"><na f="l/Lunazzi:Jos=eacute=_Joaqu=iacute=n" pid="374/8251">Jos&#233; Joaqu&#237;n Lunazzi</na></co>
+<co c="0"><na f="m/Machnicki:Raphael" pid="309/8464">Raphael Machnicki</na></co>
+<co c="0"><na f="m/Marchi:Antonio_Carlos_de" pid="177/6143">Antonio Carlos de Marchi</na></co>
+<co c="0"><na f="m/Martins:Eliane" pid="35/5134">Eliane Martins</na></co>
+<co c="0"><na f="m/Martins:Victor_Furuse" pid="129/2304">Victor Furuse Martins</na></co>
+<co c="0"><na f="m/M=uuml=ller:Tilo" pid="08/7968">Tilo M&#252;ller</na></co>
+<co c="0" n="2"><na f="n/Nabuco:Olga" pid="98/6791">Olga Nabuco</na><na>Olga Fernanda Nabuco</na></co>
+<co c="2"><na f="n/Neto:Candido_Ferreira_Xavier_de_Mendon=ccedil=a" pid="02/1876">Candido Ferreira Xavier de Mendon&#231;a Neto</na></co>
+<co c="0"><na f="o/Oliveira_0001:Daniela" pid="20/3140">Daniela Oliveira 0001</na></co>
+<co c="0"><na f="o/Oliveira:Isabela_L=" pid="20/8883">Isabela L. Oliveira</na></co>
+<co c="1"><na f="o/Olson:Gary_M=" pid="o/GaryMOlson">Gary M. Olson</na></co>
+<co c="0"><na f="o/Ortolani:Stefano" pid="32/8412">Stefano Ortolani</na></co>
+<co c="6"><na f="p/Paula:Fabricio_Sergio_de" pid="144/6630">Fabricio Sergio de Paula</na></co>
+<co c="0"><na f="p/Polino:Mario" pid="163/9937">Mario Polino</na></co>
+<co c="3"><na f="r/Ramos_0001:Fabio" pid="22/2488">Fabio Ramos 0001</na></co>
+<co c="3"><na f="r/Rezende:Edmar_R=_S=_De" pid="208/7557">Edmar R. S. De Rezende</na></co>
+<co c="3"><na f="r/Ruppert:Guilherme_C=_S=" pid="34/330">Guilherme C. S. Ruppert</na></co>
+<co c="0"><na f="s/Salas:Marcelo_Invert_Palma" pid="142/2241">Marcelo Invert Palma Salas</na></co>
+<co c="0"><na f="s/Santos_0001:Paulo_C=" pid="125/2570">Paulo C. Santos 0001</na></co>
+<co c="0" n="2"><na f="s/Santos:Rafael_Duarte_Coelho_dos" pid="115/4568">Rafael Duarte Coelho dos Santos</na><na>Rafael D. C. Santos</na></co>
+<co c="5"><na f="s/Silva:Carlos_Alberto_da" pid="168/9632">Carlos Alberto da Silva</na></co>
+<co c="4"><na f="s/Souza:Cleber_P=" pid="115/4601">Cleber P. Souza</na></co>
+<co c="4"><na f="t/Tricaud:S=eacute=bastien" pid="87/4753">S&#233;bastien Tricaud</na></co>
+<co c="0"><na f="v/Vigna:Giovanni" pid="v/GiovanniVigna">Giovanni Vigna</na></co>
+</coauthors>
+</dblpperson>
+

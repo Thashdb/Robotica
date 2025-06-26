@@ -1,0 +1,1828 @@
+<?xml version="1.0"?>
+<dblpperson name="Marinho P. Barcellos" pid="b/MarinhoPBarcellos" n="107">
+<person key="homepages/b/MarinhoPBarcellos" mdate="2025-02-27">
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="b/MarinhoPBarcellos">Ant&#244;nio Marinho Pilla Barcellos</author>
+<author pid="b/MarinhoPBarcellos">Marinho Barcellos</author>
+<url>http://inf.ufrgs.br/~marinho/Home.html</url>
+<url>https://dl.acm.org/profile/81452616624</url>
+<url>https://orcid.org/0000-0002-1505-6408</url>
+<url>https://www.wikidata.org/entity/Q130932821</url>
+</person>
+<r><article key="journals/jsac/CrowcroftORZBF25" mdate="2025-03-07">
+<author orcid="0000-0002-7013-0121" pid="c/JonCrowcroft">Jon Crowcroft</author>
+<author pid="57/6706">J&#246;rg Ott</author>
+<author orcid="0000-0001-5593-5370" pid="88/1966">Miguel Rio</author>
+<author orcid="0000-0002-3655-2873" pid="24/8146">Noa Zilberman</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho Barcellos</author>
+<author pid="92/883">Marwan Fayed</author>
+<title>Guest Editorial: Special Issue on Advances in Internet Routing and Addressing.</title>
+<pages>411</pages>
+<year>2025</year>
+<month>February</month>
+<volume>43</volume>
+<journal>IEEE J. Sel. Areas Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/JSAC.2025.3530643</ee>
+<url>db/journals/jsac/jsac43.html#CrowcroftORZBF25</url>
+<stream>streams/journals/jsac</stream>
+</article>
+</r>
+<r><article key="journals/tnsm/BorgesMBSGDGMBR24" mdate="2025-06-06">
+<author orcid="0000-0002-8521-829X" pid="352/0408">Everson Scherrer Borges</author>
+<author orcid="0000-0002-8111-1719" pid="15/1775">Magnos Martinello</author>
+<author orcid="0000-0003-1558-8276" pid="325/7086">Vitor Berger Bonella</author>
+<author pid="352/0436">Abra&#227;o Jesus Dos Santos</author>
+<author orcid="0009-0003-2134-0960" pid="78/1819">Roberta L. Gomes</author>
+<author orcid="0000-0002-7803-1830" pid="117/6192">Cristina K. Dominicini</author>
+<author orcid="0000-0001-6856-9576" pid="229/2312">Rafael Silva Guimar&#227;es</author>
+<author orcid="0000-0002-8935-0685" pid="352/0231">Gabriel Tetzner Menegueti</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author orcid="0000-0001-6220-0065" pid="71/6543">Marco Ruffini</author>
+<title>PoT-PolKA: Let the Edge Control the Proof-of-Transit in Path-Aware Networks.</title>
+<pages>3681-3691</pages>
+<year>2024</year>
+<month>August</month>
+<volume>21</volume>
+<journal>IEEE Trans. Netw. Serv. Manag.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TNSM.2024.3389457</ee>
+<url>db/journals/tnsm/tnsm21.html#BorgesMBSGDGMBR24</url>
+<stream>streams/journals/tnsm</stream>
+</article>
+</r>
+<r><article key="journals/ton/MazzolaSMB24" mdate="2025-01-19">
+<author orcid="0000-0003-2819-9181" pid="207/2419">Fabr&#237;cio M. Mazzola</author>
+<author pid="384/4998">Augusto Setti</author>
+<author orcid="0000-0001-7547-5674" pid="99/7415">Pedro de B. Marcos</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Analyzing Remote Peering Deployment and Its Implications for Internet Routing.</title>
+<pages>2950-2959</pages>
+<year>2024</year>
+<month>August</month>
+<volume>32</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TNET.2024.3375898</ee>
+<ee>https://www.wikidata.org/entity/Q130948735</ee>
+<url>db/journals/ton/ton32.html#MazzolaSMB24</url>
+<stream>streams/journals/ton</stream>
+</article>
+</r>
+<r><inproceedings key="conf/imc/HiesgenNBKHCDDR24" mdate="2025-01-19">
+<author orcid="0000-0002-1676-8108" pid="144/4431">Raphael Hiesgen</author>
+<author orcid="0000-0002-6308-5502" pid="185/0838">Marcin Nawrocki</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author orcid="0000-0002-7012-5007" pid="198/8297">Daniel Kopp</author>
+<author orcid="0000-0002-7557-1081" pid="75/6403">Oliver Hohlfeld</author>
+<author orcid="0000-0002-8304-8928" pid="389/2410">Echo Chan</author>
+<author orcid="0009-0009-6998-4486" pid="297/2108">Roland Dobbins</author>
+<author orcid="0000-0002-7913-2692" pid="d/ChristianDoerr">Christian Doerr</author>
+<author orcid="0000-0003-2470-8444" pid="08/6024">Christian Rossow</author>
+<author orcid="0000-0001-8936-0683" pid="153/2620">Daniel R. Thomas</author>
+<author orcid="0000-0001-5174-9140" pid="163/4064">Mattijs Jonker</author>
+<author pid="68/9978">Ricky K. P. Mok</author>
+<author orcid="0000-0002-8211-257X" pid="53/1565">Xiapu Luo</author>
+<author orcid="0000-0002-8994-124X" pid="19/3710">John Kristoff</author>
+<author orcid="0000-0002-0956-7885" pid="s/TCSchmidt">Thomas C. Schmidt</author>
+<author orcid="0000-0002-3825-2807" pid="91/5978">Matthias W&#228;hlisch</author>
+<author orcid="0000-0003-4824-3493" pid="68/4966">kc claffy</author>
+<title>The Age of DDoScovery: An Empirical Comparison of Industry and Academic DDoS Assessments.</title>
+<pages>259-279</pages>
+<year>2024</year>
+<booktitle>IMC</booktitle>
+<ee>https://doi.org/10.1145/3646547.3688451</ee>
+<ee>https://www.wikidata.org/entity/Q130932834</ee>
+<crossref>conf/imc/2024</crossref>
+<url>db/conf/imc/imc2024.html#HiesgenNBKHCDDR24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itnac/MamunAWBC24" mdate="2025-03-03">
+<author pid="74/3808">Abdullah Al Mamun</author>
+<author orcid="0000-0003-4633-6135" pid="33/10882">Harith Al-Sahaf</author>
+<author pid="w/IanWelch">Ian Welch</author>
+<author pid="b/MarinhoPBarcellos">Marinho Barcellos</author>
+<author pid="55/3548">Seyit Camtepe</author>
+<title>Limitations of Advanced Persistent Threat Datasets: Insights for Cybersecurity Research.</title>
+<pages>1-8</pages>
+<year>2024</year>
+<booktitle>ITNAC</booktitle>
+<ee>https://doi.org/10.1109/ITNAC62915.2024.10815148</ee>
+<crossref>conf/itnac/2024</crossref>
+<url>db/conf/itnac/itnac2024.html#MamunAWBC24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nfvsdn/MartinelloLBLBDGRB24" mdate="2025-01-15">
+<author pid="15/1775">Magnos Martinello</author>
+<author pid="78/1819">Roberta Lima-Gomes</author>
+<author pid="352/0408">Everson Scherrer Borges</author>
+<author pid="394/9898">Henrique Coutinho Layber</author>
+<author pid="325/7086">Vitor Berger Bonella</author>
+<author pid="117/6192">Cristina K. Dominicini</author>
+<author pid="229/2312">Rafael S. Guimar&#227;es</author>
+<author pid="20/1896">Mois&#233;s R. N. Ribeiro</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>PathSec: Path-Aware Secure Routing with Native Path Verification and Auditability.</title>
+<pages>1-7</pages>
+<year>2024</year>
+<booktitle>NFV-SDN</booktitle>
+<ee>https://doi.org/10.1109/NFV-SDN61811.2024.10807493</ee>
+<crossref>conf/nfvsdn/2024</crossref>
+<url>db/conf/nfvsdn/nfvsdn2024.html#MartinelloLBLBDGRB24</url>
+<stream>streams/conf/nfvsdn</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pst/Daramas0B24" mdate="2025-05-01">
+<author pid="309/4363">Atthapan Daramas</author>
+<author orcid="0000-0002-4955-3058" pid="04/2536-1">Vimal Kumar 0001</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Quantifying Privacy in Cooperative Awareness Services Through Trajectory Reconstruction.</title>
+<pages>1-10</pages>
+<year>2024</year>
+<booktitle>PST</booktitle>
+<ee>https://doi.org/10.1109/PST62714.2024.10788069</ee>
+<crossref>conf/pst/2024</crossref>
+<url>db/conf/pst/pst2024.html#Daramas0B24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2410-11708" mdate="2025-05-01">
+<author pid="144/4431">Raphael Hiesgen</author>
+<author pid="185/0838">Marcin Nawrocki</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="198/8297">Daniel Kopp</author>
+<author pid="75/6403">Oliver Hohlfeld</author>
+<author pid="389/2410">Echo Chan</author>
+<author pid="297/2108">Roland Dobbins</author>
+<author pid="d/ChristianDoerr">Christian Doerr</author>
+<author pid="08/6024">Christian Rossow</author>
+<author pid="153/2620">Daniel R. Thomas</author>
+<author pid="163/4064">Mattijs Jonker</author>
+<author pid="68/9978">Ricky K. P. Mok</author>
+<author pid="53/1565">Xiapu Luo</author>
+<author pid="19/3710">John Kristoff</author>
+<author pid="s/TCSchmidt">Thomas C. Schmidt</author>
+<author pid="91/5978">Matthias W&#228;hlisch</author>
+<author orcid="0000-0003-4824-3493" pid="68/4966">kc claffy</author>
+<title>The Age of DDoScovery: An Empirical Comparison of Industry and Academic DDoS Assessments.</title>
+<year>2024</year>
+<volume>abs/2410.11708</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2410.11708</ee>
+<url>db/journals/corr/corr2410.html#abs-2410-11708</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/pacmnet/SamraB23" mdate="2023-12-10">
+<author orcid="0009-0001-1531-9773" pid="362/3620">Ravjot Singh Samra</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>DDoS2Vec: Flow-Level Characterisation of Volumetric DDoS Attacks at Scale.</title>
+<pages>13:1-13:25</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>PACMNET</journal>
+<number>CoNEXT3</number>
+<ee>https://doi.org/10.1145/3629135</ee>
+<url>db/journals/pacmnet/pacmnet1.html#SamraB23</url>
+</article>
+</r>
+<r><inproceedings key="conf/wisec/BoeiraAB23" mdate="2023-07-07">
+<author orcid="0000-0003-2707-8089" pid="198/9723">Felipe Boeira</author>
+<author orcid="0000-0003-1916-3398" pid="63/948">Mikael Asplund</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Provable Non-Frameability for 5G Lawful Interception.</title>
+<pages>109-120</pages>
+<year>2023</year>
+<booktitle>WISEC</booktitle>
+<ee>https://doi.org/10.1145/3558482.3581780</ee>
+<crossref>conf/wisec/2023</crossref>
+<url>db/conf/wisec/wisec2023.html#BoeiraAB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conext/MazzolaMB22" mdate="2025-03-03">
+<author pid="207/2419">Fabr&#237;cio M. Mazzola</author>
+<author orcid="0000-0001-7547-5674" pid="99/7415">Pedro de B. Marcos</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Light, camera, actions: characterizing the usage of IXPs' action BGP communities.</title>
+<pages>196-203</pages>
+<year>2022</year>
+<booktitle>CoNEXT</booktitle>
+<ee>https://doi.org/10.1145/3555050.3569143</ee>
+<crossref>conf/conext/2022</crossref>
+<url>db/conf/conext/conext2022.html#MazzolaMB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/LorierLBN22" mdate="2024-10-06">
+<author pid="134/3972">Christopher Lorier</author>
+<author pid="12/4563">Matthew Luckie</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="34/2220">Richard Nelson</author>
+<title>Shoehorn: Towards Portable P4 for Low Cost Hardware.</title>
+<pages>1-9</pages>
+<year>2022</year>
+<booktitle>IFIP Networking</booktitle>
+<ee>https://doi.org/10.23919/IFIPNetworking55013.2022.9829819</ee>
+<crossref>conf/networking/2022</crossref>
+<url>db/conf/networking/networking2022.html#LorierLBN22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pam/MazzolaMCLB22" mdate="2025-03-03">
+<author pid="207/2419">Fabr&#237;cio M. Mazzola</author>
+<author orcid="0000-0001-7547-5674" pid="99/7415">Pedro de B. Marcos</author>
+<author pid="99/11343">Ignacio Castro</author>
+<author pid="12/4563">Matthew Luckie</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>On the Latency Impact of Remote Peering.</title>
+<pages>367-392</pages>
+<year>2022</year>
+<booktitle>PAM</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-98785-5_16</ee>
+<crossref>conf/pam/2022</crossref>
+<url>db/conf/pam/pam2022.html#MazzolaMCLB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wisec/BoeiraAB22" mdate="2024-10-06">
+<author pid="198/9723">Felipe Boeira</author>
+<author pid="63/948">Mikael Asplund</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>No Doppelg&#228;nger: Advancing Mobile Networks Against Impersonation in Adversarial Scenarios.</title>
+<pages>280-281</pages>
+<year>2022</year>
+<booktitle>WISEC</booktitle>
+<ee>https://doi.org/10.1145/3507657.3529651</ee>
+<crossref>conf/wisec/2022</crossref>
+<url>db/conf/wisec/wisec2022.html#BoeiraAB22</url>
+</inproceedings>
+</r>
+<r><article key="journals/ton/NevesHLB21" mdate="2024-10-06">
+<author orcid="0000-0002-6586-2846" pid="129/2290">Miguel C. Neves</author>
+<author pid="11/3626">Bradley Huffaker</author>
+<author orcid="0000-0003-4527-9749" pid="l/KirillLevchenko">Kirill Levchenko</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Dynamic Property Enforcement in Programmable Data Planes.</title>
+<pages>1540-1552</pages>
+<year>2021</year>
+<volume>29</volume>
+<journal>IEEE/ACM Trans. Netw.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TNET.2021.3068339</ee>
+<url>db/journals/ton/ton29.html#NevesHLB21</url>
+</article>
+</r>
+<r><inproceedings key="conf/sosr/ZaicuLNB21" mdate="2024-10-06">
+<author pid="305/8362">Nicu Florin Zaicu</author>
+<author pid="12/4563">Matthew Luckie</author>
+<author pid="34/2220">Richard Nelson</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Helix: Traffic Engineering for Multi-Controller SDN.</title>
+<pages>80-87</pages>
+<year>2021</year>
+<booktitle>SOSR</booktitle>
+<ee>https://doi.org/10.1145/3482898.3483354</ee>
+<crossref>conf/sosr/2021</crossref>
+<url>db/conf/sosr/sosr2021.html#ZaicuLNB21</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigcomm/2021p" mdate="2021-08-22">
+<editor pid="78/9826">Marco Chiesa</editor>
+<editor pid="48/6854">David R. Choffnes</editor>
+<editor pid="82/5866">Athina Markopoulou</editor>
+<editor pid="b/MarinhoPBarcellos">Marinho P. Barcellos</editor>
+<title>SIGCOMM '21: ACM SIGCOMM 2021 Conference, Virtual Event, August 23-27, 2021, Poster and Demo Sessions</title>
+<publisher>ACM</publisher>
+<booktitle>SIGCOMM Posters and Demos</booktitle>
+<year>2021</year>
+<isbn>978-1-4503-8629-6</isbn>
+<ee>https://doi.org/10.1145/3472716</ee>
+<url>db/conf/sigcomm/p2021.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ccr/MarcosCDCB20" mdate="2025-03-03">
+<author orcid="0000-0001-7547-5674" pid="99/7415">Pedro de B. Marcos</author>
+<author orcid="0000-0002-9675-9729" pid="78/9826">Marco Chiesa</author>
+<author pid="177/6606">Christoph Dietzel</author>
+<author orcid="0000-0002-5051-4283" pid="24/5715">Marco Canini</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>A survey on the current internet interconnection practices.</title>
+<pages>10-17</pages>
+<year>2020</year>
+<volume>50</volume>
+<journal>Comput. Commun. Rev.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3390251.3390254</ee>
+<ee>https://www.wikidata.org/entity/Q130960366</ee>
+<url>db/journals/ccr/ccr50.html#MarcosCDCB20</url>
+</article>
+</r>
+<r><article key="journals/cn/MullerLHcB20" mdate="2024-10-06">
+<author pid="120/4579">Lucas F. M&#252;ller</author>
+<author orcid="0000-0002-3872-4624" pid="12/4563">Matthew Luckie</author>
+<author pid="11/3626">Bradley Huffaker</author>
+<author orcid="0000-0003-4824-3493" pid="68/4966">kc claffy</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Spoofed traffic inference at IXPs: Challenges, methods and analysis.</title>
+<pages>107452</pages>
+<year>2020</year>
+<volume>182</volume>
+<journal>Comput. Networks</journal>
+<ee>https://doi.org/10.1016/j.comnet.2020.107452</ee>
+<url>db/journals/cn/cn182.html#MullerLHcB20</url>
+</article>
+</r>
+<r><inproceedings key="conf/imc/MarcosPLDFB20" mdate="2025-03-03">
+<author orcid="0000-0001-7547-5674" pid="99/7415">Pedro de B. Marcos</author>
+<author pid="277/0393">Lars Prehn</author>
+<author pid="217/1003">Lucas Leal</author>
+<author orcid="0000-0001-6444-5656" pid="28/5074">Alberto Dainotti</author>
+<author orcid="0000-0002-5530-6993" pid="f/AnjaFeldmann">Anja Feldmann</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>AS-Path Prepending: there is no rose without a thorn.</title>
+<pages>506-520</pages>
+<year>2020</year>
+<booktitle>Internet Measurement Conference</booktitle>
+<ee>https://doi.org/10.1145/3419394.3423642</ee>
+<crossref>conf/imc/2020</crossref>
+<url>db/conf/imc/imc2020.html#MarcosPLDFB20</url>
+</inproceedings>
+</r>
+<r><article key="journals/comcom/BoeiraAB19" mdate="2024-10-06">
+<author pid="198/9723">Felipe Boeira</author>
+<author pid="63/948">Mikael Asplund</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Decentralized proof of location in vehicular Ad Hoc networks.</title>
+<pages>98-110</pages>
+<year>2019</year>
+<volume>147</volume>
+<journal>Comput. Commun.</journal>
+<ee>https://doi.org/10.1016/j.comcom.2019.07.024</ee>
+<url>db/journals/comcom/comcom147.html#BoeiraAB19</url>
+</article>
+</r>
+<r><inproceedings key="conf/conext/MullerLHCB19" mdate="2024-10-06">
+<author pid="120/4579">Lucas F. M&#252;ller</author>
+<author orcid="0000-0002-3872-4624" pid="12/4563">Matthew J. Luckie</author>
+<author pid="11/3626">Bradley Huffaker</author>
+<author orcid="0000-0003-4824-3493" pid="68/4966">kc claffy</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Challenges in inferring spoofed traffic at IXPs.</title>
+<pages>96-109</pages>
+<year>2019</year>
+<booktitle>CoNEXT</booktitle>
+<ee>https://doi.org/10.1145/3359989.3365422</ee>
+<crossref>conf/conext/2019</crossref>
+<url>db/conf/conext/conext2019.html#MullerLHCB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/NevesHLB19" mdate="2024-10-06">
+<author pid="129/2290">Miguel C. Neves</author>
+<author pid="11/3626">Bradley Huffaker</author>
+<author pid="l/KirillLevchenko">Kirill Levchenko</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Dynamic Property Enforcement in Programmable Data Planes.</title>
+<pages>1-9</pages>
+<year>2019</year>
+<booktitle>Networking</booktitle>
+<ee>https://doi.org/10.23919/IFIPNetworking.2019.8816830</ee>
+<ee>https://doi.org/10.23919/IFIPNetworking46909.2019.8999458</ee>
+<crossref>conf/networking/2019</crossref>
+<url>db/conf/networking/networking2019.html#NevesHLB19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/pam/2019" mdate="2024-10-06">
+<editor pid="48/6854">David R. Choffnes</editor>
+<editor orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</editor>
+<title>Passive and Active Measurement - 20th International Conference, PAM 2019, Puerto Varas, Chile, March 27-29, 2019, Proceedings</title>
+<booktitle>PAM</booktitle>
+<publisher>Springer</publisher>
+<year>2019</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>11419</volume>
+<isbn>978-3-030-15985-6</isbn>
+<isbn>978-3-030-15986-3</isbn>
+<ee>https://doi.org/10.1007/978-3-030-15986-3</ee>
+<url>db/conf/pam/pam2019.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ieeesp/BarcellosA18" mdate="2025-01-19">
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author orcid="0000-0002-2457-0783" pid="75/5361">Diego F. Aranha</author>
+<title>Research in Security and Privacy in Brazil.</title>
+<pages>14-21</pages>
+<year>2018</year>
+<volume>16</volume>
+<journal>IEEE Secur. Priv.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/MSEC.2018.2874855</ee>
+<ee>https://www.wikidata.org/entity/Q128440881</ee>
+<url>db/journals/ieeesp/ieeesp16.html#BarcellosA18</url>
+</article>
+</r>
+<r><inproceedings key="conf/anrw/AlowayedCMCB18" mdate="2025-03-03">
+<author pid="224/2359">Yousef Alowayed</author>
+<author orcid="0000-0002-5051-4283" pid="24/5715">Marco Canini</author>
+<author orcid="0000-0001-7547-5674" pid="99/7415">Pedro de B. Marcos</author>
+<author orcid="0000-0002-9675-9729" pid="78/9826">Marco Chiesa</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Picking a Partner: A Fair Blockchain Based Scoring Protocol for Autonomous Systems.</title>
+<pages>33-39</pages>
+<year>2018</year>
+<booktitle>ANRW</booktitle>
+<ee>https://doi.org/10.1145/3232755.3232785</ee>
+<ee>https://www.wikidata.org/entity/Q130898877</ee>
+<crossref>conf/anrw/2018</crossref>
+<url>db/conf/anrw/anrw2018.html#AlowayedCMCB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/anrw/MarcosCMKDCB18" mdate="2024-10-06">
+<author pid="99/7415">Pedro de B. Marcos</author>
+<author pid="78/9826">Marco Chiesa</author>
+<author pid="120/4579">Lucas F. M&#252;ller</author>
+<author pid="158/4356">Pradeeban Kathiravelu</author>
+<author pid="177/6606">Christoph Dietzel</author>
+<author pid="24/5715">Marco Canini</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Dynam-IX: a Dynamic Interconnection exchange.</title>
+<pages>94</pages>
+<year>2018</year>
+<booktitle>ANRW</booktitle>
+<ee>https://doi.org/10.1145/3232755.3232784</ee>
+<crossref>conf/anrw/2018</crossref>
+<url>db/conf/anrw/anrw2018.html#MarcosCMKDCB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conext/NevesFFB18" mdate="2024-10-06">
+<author pid="129/2290">Miguel C. Neves</author>
+<author pid="207/6596">Lucas Freire</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Verification of P4 programs in feasible time using assertions.</title>
+<pages>73-85</pages>
+<year>2018</year>
+<booktitle>CoNEXT</booktitle>
+<ee>https://doi.org/10.1145/3281411.3281421</ee>
+<crossref>conf/conext/2018</crossref>
+<url>db/conf/conext/conext2018.html#NevesFFB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conext/MarcosCMKDCB18" mdate="2025-03-03">
+<author orcid="0000-0001-7547-5674" pid="99/7415">Pedro de B. Marcos</author>
+<author orcid="0000-0002-9675-9729" pid="78/9826">Marco Chiesa</author>
+<author pid="120/4579">Lucas F. M&#252;ller</author>
+<author pid="158/4356">Pradeeban Kathiravelu</author>
+<author pid="177/6606">Christoph Dietzel</author>
+<author orcid="0000-0002-5051-4283" pid="24/5715">Marco Canini</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Dynam-IX: a dynamic interconnection eXchange.</title>
+<pages>228-240</pages>
+<year>2018</year>
+<booktitle>CoNEXT</booktitle>
+<ee>https://doi.org/10.1145/3281411.3281419</ee>
+<crossref>conf/conext/2018</crossref>
+<url>db/conf/conext/conext2018.html#MarcosCMKDCB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mswim/BoeiraAB18" mdate="2024-10-06">
+<author pid="198/9723">Felipe Boeira</author>
+<author pid="63/948">Mikael Asplund</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Vouch: A Secure Proof-of-Location Scheme for VANETs.</title>
+<pages>241-248</pages>
+<year>2018</year>
+<booktitle>MSWiM</booktitle>
+<ee>https://doi.org/10.1145/3242102.3242125</ee>
+<crossref>conf/mswim/2018</crossref>
+<url>db/conf/mswim/mswim2018.html#BoeiraAB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/MazzolaMNB18" mdate="2022-02-18">
+<author pid="207/2419">Fabr&#237;cio M. Mazzola</author>
+<author pid="129/2208">Daniel S. Marcon</author>
+<author pid="129/2290">Miguel C. Neves</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>T&#225; na Hora: analisando a lat&#234;ncia de modifica&#231;&#227;o de tabelas de fluxo em arquiteturas de switches SDN.</title>
+<pages>1033-1046</pages>
+<year>2018</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc.2018.2476</ee>
+<crossref>conf/sbrc/2018</crossref>
+<url>db/conf/sbrc/sbrc2018.html#MazzolaMNB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcomm/MarcosCMKDCB18" mdate="2025-03-03">
+<author orcid="0000-0001-7547-5674" pid="99/7415">Pedro de B. Marcos</author>
+<author orcid="0000-0002-9675-9729" pid="78/9826">Marco Chiesa</author>
+<author pid="120/4579">Lucas F. M&#252;ller</author>
+<author pid="158/4356">Pradeeban Kathiravelu</author>
+<author pid="177/6606">Christoph Dietzel</author>
+<author orcid="0000-0002-5051-4283" pid="24/5715">Marco Canini</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Dynam-IX: a Dynamic Interconnection eXchange.</title>
+<pages>12-14</pages>
+<year>2018</year>
+<booktitle>SIGCOMM Posters and Demos</booktitle>
+<ee>https://doi.org/10.1145/3234200.3234218</ee>
+<crossref>conf/sigcomm/2018p</crossref>
+<url>db/conf/sigcomm/p2018.html#MarcosCMKDCB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sosr/FreireNLLFB18" mdate="2024-10-06">
+<author pid="207/6596">Lucas Freire</author>
+<author pid="129/2290">Miguel C. Neves</author>
+<author pid="217/1003">Lucas Leal</author>
+<author pid="l/KirillLevchenko">Kirill Levchenko</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Uncovering Bugs in P4 Programs with Assertion-based Verification.</title>
+<pages>4:1-4:7</pages>
+<year>2018</year>
+<booktitle>SOSR</booktitle>
+<ee>https://doi.org/10.1145/3185467.3185499</ee>
+<crossref>conf/sosr/2018</crossref>
+<url>db/conf/sosr/sosr2018.html#FreireNLLFB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vnc/BoeiraAB18" mdate="2024-10-06">
+<author pid="198/9723">Felipe Boeira</author>
+<author pid="63/948">Mikael Asplund</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Mitigating Position Falsification Attacks in Vehicular Platooning.</title>
+<pages>1-4</pages>
+<year>2018</year>
+<booktitle>VNC</booktitle>
+<ee>https://doi.org/10.1109/VNC.2018.8628427</ee>
+<crossref>conf/vnc/2018</crossref>
+<url>db/conf/vnc/vnc2018.html#BoeiraAB18</url>
+</inproceedings>
+</r>
+<r><article key="journals/cn/MansilhaBLR17" mdate="2024-10-06">
+<author orcid="0000-0002-2083-653X" pid="41/2381">Rodrigo B. Mansilha</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="19/4748">Emilio Leonardi</author>
+<author pid="14/3340">Dario Rossi 0001</author>
+<title>Exploiting parallelism in hierarchical content stores for high-speed ICN routers.</title>
+<pages>132-145</pages>
+<year>2017</year>
+<volume>125</volume>
+<journal>Comput. Networks</journal>
+<ee>https://doi.org/10.1016/j.comnet.2017.04.041</ee>
+<url>db/journals/cn/cn125.html#MansilhaBLR17</url>
+</article>
+</r>
+<r><article key="journals/cn/MarconMB17" mdate="2024-10-06">
+<author pid="129/2208">Daniel S. Marcon</author>
+<author pid="207/2419">Fabr&#237;cio M. Mazzola</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Achieving minimum bandwidth guarantees and work-conservation in large-scale, SDN-based datacenter networks.</title>
+<pages>109-125</pages>
+<year>2017</year>
+<volume>127</volume>
+<journal>Comput. Networks</journal>
+<ee>https://doi.org/10.1016/j.comnet.2017.08.008</ee>
+<url>db/journals/cn/cn127.html#MarconMB17</url>
+</article>
+</r>
+<r><article key="journals/jnca/AntunesLMGB17" mdate="2024-10-06">
+<author orcid="0000-0002-9388-492X" pid="10/3873">Rodolfo Stoffel Antunes</author>
+<author pid="38/9979">Matheus B. Lehmann</author>
+<author orcid="0000-0002-2083-653X" pid="41/2381">Rodrigo B. Mansilha</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>NDNrel: A mechanism based on relations among objects to improve the performance of NDN.</title>
+<pages>73-86</pages>
+<year>2017</year>
+<volume>87</volume>
+<journal>J. Netw. Comput. Appl.</journal>
+<ee>https://doi.org/10.1016/j.jnca.2017.03.014</ee>
+<url>db/journals/jnca/jnca87.html#AntunesLMGB17</url>
+</article>
+</r>
+<r><inproceedings key="conf/aims/OcampoGINBLGBG17" mdate="2024-10-06">
+<author pid="202/0738">Andr&#233;s F. Ocampo</author>
+<author orcid="0000-0002-7627-7810" pid="202/0888">Juliver Gil-Herrera</author>
+<author pid="157/2611">Pedro Heleno Isolani</author>
+<author pid="129/2290">Miguel C. Neves</author>
+<author pid="35/9525">Juan Felipe Botero</author>
+<author pid="23/2276">Steven Latr&#233;</author>
+<author pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<title>Optimal Service Function Chain Composition in Network Functions Virtualization.</title>
+<pages>62-76</pages>
+<year>2017</year>
+<booktitle>AIMS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-60774-0_5</ee>
+<crossref>conf/aims/2017</crossref>
+<url>db/conf/aims/aims2017.html#OcampoGINBLGBG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccs/FreireNFB17" mdate="2024-10-06">
+<author pid="207/6596">Lucas Freire</author>
+<author pid="129/2290">Miguel C. Neves</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>POSTER: Finding Vulnerabilities in P4 Programs with Assertion-based Verification.</title>
+<pages>2495-2497</pages>
+<year>2017</year>
+<booktitle>CCS</booktitle>
+<ee>https://doi.org/10.1145/3133956.3138837</ee>
+<crossref>conf/ccs/2017</crossref>
+<url>db/conf/ccs/ccs2017.html#FreireNFB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/BoeiraBFVA17" mdate="2024-10-06">
+<author pid="198/9723">Felipe Boeira</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author orcid="0000-0003-4655-8889" pid="96/3201">Edison Pignaton de Freitas</author>
+<author pid="87/1880">Alexey V. Vinel</author>
+<author pid="63/948">Mikael Asplund</author>
+<title>On the impact of sybil attacks in cooperative driving scenarios.</title>
+<pages>1-2</pages>
+<year>2017</year>
+<booktitle>Networking</booktitle>
+<ee>https://doi.org/10.23919/IFIPNetworking.2017.8264890</ee>
+<crossref>conf/networking/2017</crossref>
+<url>db/conf/networking/networking2017.html#BoeiraBFVA17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/MarconB17" mdate="2024-10-06">
+<author pid="129/2208">Daniel S. Marcon</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Packer: Minimizing multi-resource fragmentation and performance interference in datacenters.</title>
+<pages>1-9</pages>
+<year>2017</year>
+<booktitle>Networking</booktitle>
+<ee>https://doi.org/10.23919/IFIPNetworking.2017.8264836</ee>
+<crossref>conf/networking/2017</crossref>
+<url>db/conf/networking/networking2017.html#MarconB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcomm/NevesLB17" mdate="2025-01-19">
+<author pid="129/2290">Miguel C. Neves</author>
+<author pid="l/KirillLevchenko">Kirill Levchenko</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Sandboxing Data Plane Programs for Fun and Profit.</title>
+<pages>103-104</pages>
+<year>2017</year>
+<booktitle>SIGCOMM Posters and Demos</booktitle>
+<ee>https://doi.org/10.1145/3123878.3132001</ee>
+<ee>https://www.wikidata.org/entity/Q131112294</ee>
+<crossref>conf/sigcomm/2017p</crossref>
+<url>db/conf/sigcomm/p2017.html#NevesLB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vnc/BoeiraBFVA17" mdate="2024-10-06">
+<author pid="198/9723">Felipe Boeira</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author orcid="0000-0003-4655-8889" pid="96/3201">Edison Pignaton de Freitas</author>
+<author pid="87/1880">Alexey V. Vinel</author>
+<author pid="63/948">Mikael Asplund</author>
+<title>Effects of colluding Sybil nodes in message falsification attacks for vehicular platooning.</title>
+<pages>53-60</pages>
+<year>2017</year>
+<booktitle>VNC</booktitle>
+<ee>https://doi.org/10.1109/VNC.2017.8275641</ee>
+<crossref>conf/vnc/2017</crossref>
+<url>db/conf/vnc/vnc2017.html#BoeiraBFVA17</url>
+</inproceedings>
+</r>
+<r><article key="journals/cn/CordeiroSBGKGM16" mdate="2023-06-26">
+<author pid="96/2183">Weverton Luis da Costa Cordeiro</author>
+<author pid="45/4259">Flavio Roberto Santos</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="95/11069">Hanna Kavalionak</author>
+<author pid="22/7814">Alessio Guerrieri</author>
+<author orcid="0000-0001-5820-8216" pid="m/AlbertoMontresor">Alberto Montresor</author>
+<title>Making puzzles green and useful for adaptive identity management in large-scale distributed systems.</title>
+<pages>97-114</pages>
+<year>2016</year>
+<volume>95</volume>
+<journal>Comput. Networks</journal>
+<ee>https://doi.org/10.1016/j.comnet.2015.12.005</ee>
+<url>db/journals/cn/cn95.html#CordeiroSBGKGM16</url>
+</article>
+</r>
+<r><article key="journals/comcom/BaysOBBG16" mdate="2020-10-26">
+<author orcid="0000-0003-0191-1730" pid="123/3504">Leonardo Richter Bays</author>
+<author pid="90/7416">Rodrigo Ruas Oliveira</author>
+<author pid="b/LucianaSBuriol">Luciana S. Buriol</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<title>A toolset for efficient privacy-oriented virtual network embedding and its instantiation on SDN/OpenFlow-based substrates.</title>
+<pages>13-27</pages>
+<year>2016</year>
+<volume>82</volume>
+<journal>Comput. Commun.</journal>
+<ee>https://doi.org/10.1016/j.comcom.2016.02.007</ee>
+<url>db/journals/comcom/comcom82.html#BaysOBBG16</url>
+</article>
+</r>
+<r><article key="journals/comcom/MarconNOGB16" mdate="2020-02-20">
+<author pid="129/2208">Daniel S. Marcon</author>
+<author pid="129/2290">Miguel C. Neves</author>
+<author pid="90/7416">Rodrigo Ruas Oliveira</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>PredCloud: Providing predictable network performance in large-scale OpenFlow-enabled cloud platforms through trust-based allocation of resources.</title>
+<pages>44-61</pages>
+<year>2016</year>
+<volume>91-92</volume>
+<journal>Comput. Commun.</journal>
+<ee>https://doi.org/10.1016/j.comcom.2016.07.010</ee>
+<url>db/journals/comcom/comcom91.html#MarconNOGB16</url>
+</article>
+</r>
+<r><article key="journals/jnca/LuizelliBBBG16" mdate="2020-10-26">
+<author pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author orcid="0000-0003-0191-1730" pid="123/3504">Leonardo Richter Bays</author>
+<author pid="b/LucianaSBuriol">Luciana Salete Buriol</author>
+<author pid="b/MarinhoPBarcellos">Ant&#244;nio Marinho Pilla Barcellos</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<title>How physical network topologies affect virtual network embedding quality: A characterization study based on ISP and datacenter networks.</title>
+<pages>1-16</pages>
+<year>2016</year>
+<volume>70</volume>
+<journal>J. Netw. Comput. Appl.</journal>
+<ee>https://doi.org/10.1016/j.jnca.2016.05.009</ee>
+<url>db/journals/jnca/jnca70.html#LuizelliBBBG16</url>
+</article>
+</r>
+<r><inproceedings key="conf/noms/WermannBSFGB16" mdate="2024-10-06">
+<author pid="182/6569">Alexandre Gustavo Wermann</author>
+<author pid="182/6591">Marcelo Cardoso Bortolozzo</author>
+<author pid="164/7972">Eduardo Germano da Silva</author>
+<author orcid="0000-0003-1780-9060" pid="89/1649">Alberto E. Schaeffer Filho</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author orcid="0000-0002-1505-6408" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>ASTORIA: A framework for attack simulation and evaluation in smart grids.</title>
+<pages>273-280</pages>
+<year>2016</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2016.7502822</ee>
+<crossref>conf/noms/2016</crossref>
+<url>db/conf/noms/noms2016.html#WermannBSFGB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/LehmannBM16" mdate="2018-11-02">
+<author pid="38/9979">Matheus B. Lehmann</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author orcid="0000-0002-8727-9440" pid="52/495">Andreas Mauthe</author>
+<title>Providing producer mobility support in NDN through proactive data replication.</title>
+<pages>383-391</pages>
+<year>2016</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2016.7502835</ee>
+<crossref>conf/noms/2016</crossref>
+<url>db/conf/noms/noms2016.html#LehmannBM16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigcomm/2016" mdate="2018-11-06">
+<editor pid="b/MarinhoPBarcellos">Marinho P. Barcellos</editor>
+<editor pid="c/JonCrowcroft">Jon Crowcroft</editor>
+<editor pid="v/AminVahdat">Amin Vahdat</editor>
+<editor pid="50/1133">Sachin Katti</editor>
+<title>Proceedings of the ACM SIGCOMM 2016 Conference, Florianopolis, Brazil, August 22-26, 2016</title>
+<booktitle>SIGCOMM</booktitle>
+<publisher>ACM</publisher>
+<year>2016</year>
+<isbn>978-1-4503-4193-6</isbn>
+<ee>https://doi.org/10.1145/2934872</ee>
+<url>db/conf/sigcomm/sigcomm2016.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ccr/LopezMEDHIBFR15" mdate="2023-06-26">
+<author pid="63/4811">Pedro Garc&#237;a L&#243;pez</author>
+<author orcid="0000-0001-5820-8216" pid="m/AlbertoMontresor">Alberto Montresor</author>
+<author pid="e/DickHJEpema">Dick H. J. Epema</author>
+<author pid="d/AnwitamanDatta">Anwitaman Datta</author>
+<author pid="h/TeruoHigashino">Teruo Higashino</author>
+<author orcid="0000-0002-2397-8963" pid="33/5916">Adriana Iamnitchi</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author orcid="0000-0003-1574-6721" pid="f/PascalFelber">Pascal Felber</author>
+<author pid="01/6018">Etienne Rivi&#232;re</author>
+<title>Edge-centric Computing: Vision and Challenges.</title>
+<pages>37-42</pages>
+<year>2015</year>
+<volume>45</volume>
+<journal>Comput. Commun. Rev.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1145/2831347.2831354</ee>
+<ee>https://www.wikidata.org/entity/Q29396245</ee>
+<url>db/journals/ccr/ccr45.html#LopezMEDHIBFR15</url>
+</article>
+</r>
+<r><article key="journals/cn/OliveiraMBNGMB15" mdate="2020-10-26">
+<author pid="90/7416">Rodrigo Ruas Oliveira</author>
+<author pid="129/2208">Daniel S. Marcon</author>
+<author orcid="0000-0003-0191-1730" pid="123/3504">Leonardo Richter Bays</author>
+<author pid="129/2290">Miguel C. Neves</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="m/DeepMedhi">Deep Medhi</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Opportunistic resilience embedding (ORE): Toward cost-efficient resilient virtual networks.</title>
+<pages>59-77</pages>
+<year>2015</year>
+<volume>89</volume>
+<journal>Comput. Networks</journal>
+<ee>https://doi.org/10.1016/j.comnet.2015.07.010</ee>
+<url>db/journals/cn/cn89.html#OliveiraMBNGMB15</url>
+</article>
+</r>
+<r><article key="journals/jisa/BaysOBGM15" mdate="2023-03-21">
+<author orcid="0000-0003-0191-1730" pid="123/3504">Leonardo Richter Bays</author>
+<author pid="90/7416">Rodrigo Ruas Oliveira</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author orcid="0000-0002-1180-2637" pid="m/EdmundoRobertoMauroMadeira">Edmundo Roberto Mauro Madeira</author>
+<title>Virtual network security: threats, countermeasures, and challenges.</title>
+<pages>1:1-1:19</pages>
+<year>2015</year>
+<volume>6</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s13174-014-0015-z</ee>
+<ee>https://www.wikidata.org/entity/Q59426438</ee>
+<url>db/journals/jisa/jisa6.html#BaysOBGM15</url>
+</article>
+</r>
+<r><inproceedings key="conf/acmicn/MansilhaSBGLPR15" mdate="2025-01-19">
+<author orcid="0000-0002-2083-653X" pid="41/2381">Rodrigo B. Mansilha</author>
+<author orcid="0000-0003-4432-4042" pid="137/0161">Lorenzo Saino</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="42/7891">Massimo Gallo</author>
+<author orcid="0000-0002-3070-4274" pid="19/4748">Emilio Leonardi</author>
+<author pid="03/3645">Diego Perino</author>
+<author pid="14/3340">Dario Rossi 0001</author>
+<title>Hierarchical Content Stores in High-Speed ICN Routers: Emulation and Prototype Implementation.</title>
+<pages>59-68</pages>
+<year>2015</year>
+<booktitle>ICN</booktitle>
+<ee>https://doi.org/10.1145/2810156.2810159</ee>
+<ee>https://www.wikidata.org/entity/Q130968449</ee>
+<crossref>conf/acmicn/2015</crossref>
+<url>db/conf/acmicn/icn2015.html#MansilhaSBGLPR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/PetrySB15" mdate="2017-05-25">
+<author pid="167/9164">Tobias Petry</author>
+<author pid="167/9080">Rafael da Fonte Lopes da Silva</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Off the wire control: Improving the control plane resilience through cellular networks.</title>
+<pages>5308-5313</pages>
+<year>2015</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2015.7249167</ee>
+<crossref>conf/icc/2015</crossref>
+<url>db/conf/icc/icc2015.html#PetrySB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/MarconNOBBGB15" mdate="2020-10-25">
+<author pid="129/2208">Daniel S. Marcon</author>
+<author pid="129/2290">Miguel C. Neves</author>
+<author pid="90/7416">Rodrigo Ruas Oliveira</author>
+<author orcid="0000-0003-0191-1730" pid="123/3504">Leonardo Richter Bays</author>
+<author pid="b/RaoufBoutaba">Raouf Boutaba</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>IoNCloud: Exploring application affinity to improve utilization and predictability in datacenters.</title>
+<pages>5497-5503</pages>
+<year>2015</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2015.7249198</ee>
+<crossref>conf/icc/2015</crossref>
+<url>db/conf/icc/icc2015.html#MarconNOBBGB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/im/MarconB15" mdate="2017-05-17">
+<author pid="129/2208">Daniel S. Marcon</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Predictor: Providing fine-grained management and predictability in multi-tenant datacenter networks.</title>
+<pages>71-79</pages>
+<year>2015</year>
+<booktitle>IM</booktitle>
+<ee>https://doi.org/10.1109/INM.2015.7140278</ee>
+<crossref>conf/im/2015</crossref>
+<url>db/conf/im/im2015.html#MarconB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/im/LuizelliBBBG15" mdate="2020-10-25">
+<author pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author orcid="0000-0003-0191-1730" pid="123/3504">Leonardo Richter Bays</author>
+<author pid="b/LucianaSBuriol">Luciana Salete Buriol</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<title>Piecing together the NFV provisioning puzzle: Efficient placement and chaining of virtual network functions.</title>
+<pages>98-106</pages>
+<year>2015</year>
+<booktitle>IM</booktitle>
+<ee>https://doi.org/10.1109/INM.2015.7140281</ee>
+<crossref>conf/im/2015</crossref>
+<url>db/conf/im/im2015.html#LuizelliBBBG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/im/AntunesLMRGB15" mdate="2024-08-04">
+<author orcid="0000-0002-9388-492X" pid="10/3873">Rodolfo Stoffel Antunes</author>
+<author pid="38/9979">Matheus B. Lehmann</author>
+<author orcid="0000-0002-2083-653X" pid="41/2381">Rodrigo B. Mansilha</author>
+<author orcid="0000-0003-3109-4305" pid="70/2654">Christian Esteve Rothenberg</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>CCNrel: Leveraging relations among objects to improve the performance of CCN.</title>
+<pages>199-206</pages>
+<year>2015</year>
+<booktitle>IM</booktitle>
+<ee>https://doi.org/10.1109/INM.2015.7140293</ee>
+<crossref>conf/im/2015</crossref>
+<url>db/conf/im/im2015.html#AntunesLMRGB15</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/p2p/2015" mdate="2019-10-16">
+<editor pid="29/4867">Yong Liu</editor>
+<editor pid="b/MarinhoPBarcellos">Marinho P. Barcellos</editor>
+<editor pid="25/3228">Jay R. Lorch</editor>
+<editor pid="169/4028">Anyi Wang</editor>
+<title>2015 IEEE International Conference on Peer-to-Peer Computing, P2P 2015, Boston, MA, USA, September 21-25, 2015</title>
+<booktitle>P2P</booktitle>
+<publisher>IEEE</publisher>
+<year>2015</year>
+<isbn>978-1-5090-0300-6</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/7324043/proceeding</ee>
+<url>db/conf/p2p/p2p2015.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/cnsm/LuizelliBBG14" mdate="2023-03-24">
+<author pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author orcid="0000-0003-0191-1730" pid="123/3504">Leonardo Richter Bays</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<title>HIPER: Heuristic-based infrastructure expansion through partition reconnection for efficient Virtual Network Embedding.</title>
+<pages>91-99</pages>
+<year>2014</year>
+<booktitle>CNSM</booktitle>
+<ee>https://doi.org/10.1109/CNSM.2014.7014145</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CNSM.2014.7014145</ee>
+<crossref>conf/cnsm/2014</crossref>
+<url>db/conf/cnsm/cnsm2014.html#LuizelliBBG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/MullerOLGB14" mdate="2017-05-23">
+<author pid="120/4579">Lucas F. M&#252;ller</author>
+<author pid="90/7416">Rodrigo Ruas Oliveira</author>
+<author pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Survivor: An enhanced controller placement strategy for improving SDN survivability.</title>
+<pages>1909-1915</pages>
+<year>2014</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2014.7037087</ee>
+<crossref>conf/globecom/2014</crossref>
+<url>db/conf/globecom/globecom2014.html#MullerOLGB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/BaysOBBG14" mdate="2020-10-25">
+<author orcid="0000-0003-0191-1730" pid="123/3504">Leonardo Richter Bays</author>
+<author pid="90/7416">Rodrigo Ruas Oliveira</author>
+<author pid="b/LucianaSBuriol">Luciana Salete Buriol</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<title>A heuristic-based algorithm for privacy-oriented virtual network embedding.</title>
+<pages>1-8</pages>
+<year>2014</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2014.6838360</ee>
+<crossref>conf/noms/2014</crossref>
+<url>db/conf/noms/noms2014.html#BaysOBBG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/SantosBG14" mdate="2017-05-19">
+<author pid="45/4259">Flavio Roberto Santos</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<title>Slowing down to speed up: Protecting users against massive attacks in content distribution systems.</title>
+<pages>1-7</pages>
+<year>2014</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2014.6838289</ee>
+<crossref>conf/noms/2014</crossref>
+<url>db/conf/noms/noms2014.html#SantosBG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/CordeiroMSGB14" mdate="2024-08-04">
+<author pid="96/2183">Weverton Luis da Costa Cordeiro</author>
+<author orcid="0000-0002-2083-653X" pid="41/2381">Rodrigo Brand&#227;o Mansilha</author>
+<author pid="45/4259">Flavio Roberto Santos</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Were You There? Bridging the Gap to Unveil Users' Online Sessions in Networked, Distributed Systems.</title>
+<pages>239-248</pages>
+<year>2014</year>
+<booktitle>SBRC</booktitle>
+<ee>https://doi.org/10.1109/SBRC.2014.29</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBRC.2014.29</ee>
+<crossref>conf/sbrc/2014</crossref>
+<url>db/conf/sbrc/sbrc2014.html#CordeiroMSGB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/LuizelliBBBG14" mdate="2023-03-24">
+<author pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author orcid="0000-0003-0191-1730" pid="123/3504">Leonardo Richter Bays</author>
+<author pid="b/LucianaSBuriol">Luciana Salete Buriol</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<title>Reconnecting Partitions on Physical Infrastructures: Towards an Expansion Strategy for Efficient Virtual Network Embedding.</title>
+<pages>335-343</pages>
+<year>2014</year>
+<booktitle>SBRC</booktitle>
+<ee>https://doi.org/10.1109/SBRC.2014.40</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBRC.2014.40</ee>
+<crossref>conf/sbrc/2014</crossref>
+<url>db/conf/sbrc/sbrc2014.html#LuizelliBBBG14</url>
+</inproceedings>
+</r>
+<r><article key="journals/comcom/SantosCGB13" mdate="2020-02-20">
+<author pid="45/4259">Flavio Roberto Santos</author>
+<author pid="96/2183">Weverton Luis da Costa Cordeiro</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="b/MarinhoPBarcellos">Ant&#244;nio Marinho Pilla Barcellos</author>
+<title>Beyond pollution and taste: A tag-based strategy to increase download quality in P2P file sharing systems.</title>
+<pages>191-202</pages>
+<year>2013</year>
+<volume>36</volume>
+<journal>Comput. Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.comcom.2012.08.012</ee>
+<url>db/journals/comcom/comcom36.html#SantosCGB13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cnsm/LuizelliBBBG13" mdate="2023-03-24">
+<author pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author orcid="0000-0003-0191-1730" pid="123/3504">Leonardo Richter Bays</author>
+<author pid="b/LucianaSBuriol">Luciana Salete Buriol</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<title>Characterizing the impact of network substrate topologies on virtual network embedding.</title>
+<pages>42-50</pages>
+<year>2013</year>
+<booktitle>CNSM</booktitle>
+<ee>https://doi.org/10.1109/CNSM.2013.6727808</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CNSM.2013.6727808</ee>
+<crossref>conf/cnsm/2013</crossref>
+<url>db/conf/cnsm/cnsm2013.html#LuizelliBBBG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/OliveiraMBNBGB13" mdate="2020-10-25">
+<author pid="90/7416">Rodrigo Ruas Oliveira</author>
+<author pid="129/2208">Daniel S. Marcon</author>
+<author orcid="0000-0003-0191-1730" pid="123/3504">Leonardo Richter Bays</author>
+<author pid="129/2290">Miguel C. Neves</author>
+<author pid="b/LucianaSBuriol">Luciana S. Buriol</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>No more backups: Toward efficient embedding of survivable virtual networks.</title>
+<pages>2128-2132</pages>
+<year>2013</year>
+<crossref>conf/icc/2013</crossref>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2013.6654841</ee>
+<url>db/conf/icc/icc2013.html#OliveiraMBNBGB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/im/CordeiroSBG13" mdate="2021-08-10">
+<author pid="96/2183">Weverton Luis da Costa Cordeiro</author>
+<author pid="45/4259">Flavio Roberto Santos</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<title>Make it green and useful: Reshaping puzzles for identity management in large-scale distributed systems.</title>
+<pages>387-394</pages>
+<year>2013</year>
+<booktitle>IM</booktitle>
+<ee>https://ieeexplore.ieee.org/document/6573009/</ee>
+<crossref>conf/im/2013</crossref>
+<url>db/conf/im/im2013.html#CordeiroSBG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/im/SantosCBGHS13" mdate="2021-08-10">
+<author pid="45/4259">Flavio Santos</author>
+<author pid="96/2183">Weverton Luis da Costa Cordeiro</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="37/5300">Fabio Victora Hecht</author>
+<author pid="00/4292">Burkhard Stiller</author>
+<title>Slowing down to speed up: Mitigating collusion attacks in Content Distribution Systems.</title>
+<pages>435-442</pages>
+<year>2013</year>
+<booktitle>IM</booktitle>
+<ee>https://ieeexplore.ieee.org/document/6573015/</ee>
+<crossref>conf/im/2013</crossref>
+<url>db/conf/im/im2013.html#SantosCBGHS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latincloud/MarconBDNMFKBGF13" mdate="2023-03-21">
+<author pid="129/2208">Daniel S. Marcon</author>
+<author pid="76/6740">Luiz F. Bittencourt</author>
+<author pid="22/6655">Ramide Dantas</author>
+<author pid="129/2290">Miguel C. Neves</author>
+<author orcid="0000-0002-1180-2637" pid="m/EdmundoRobertoMauroMadeira">Edmundo R. M. Madeira</author>
+<author pid="09/6789">Stenio Fernandes</author>
+<author orcid="0000-0002-3087-9234" pid="74/2714">Carlos Alberto Kamienski</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author orcid="0000-0003-2046-602X" pid="f/NelsonLSdaFonseca">Nelson L. S. da Fonseca</author>
+<title>Workflow specification and scheduling with security constraints in hybrid clouds.</title>
+<pages>29-34</pages>
+<year>2013</year>
+<booktitle>LatinCloud</booktitle>
+<ee>https://doi.org/10.1109/LatinCloud.2013.6842219</ee>
+<crossref>conf/latincloud/2013</crossref>
+<url>db/conf/latincloud/latincloud2013.html#MarconBDNMFKBGF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/MarconONBGB13" mdate="2021-08-11">
+<author pid="129/2208">Daniel Stefani Marcon</author>
+<author pid="90/7416">Rodrigo Ruas Oliveira</author>
+<author pid="129/2290">Miguel Cardoso Neves</author>
+<author pid="b/LucianaSBuriol">Luciana Salete Buriol</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Trust-based grouping for cloud datacenters: Improving security in shared infrastructures.</title>
+<pages>1-9</pages>
+<year>2013</year>
+<booktitle>Networking</booktitle>
+<ee>https://ieeexplore.ieee.org/document/6663504/</ee>
+<crossref>conf/networking/2013</crossref>
+<url>db/conf/networking/networking2013.html#MarconONBGB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/p2p/LehmannAB13" mdate="2018-11-30">
+<author pid="38/9979">Matheus B. Lehmann</author>
+<author orcid="0000-0002-9388-492X" pid="10/3873">Rodolfo Stoffel Antunes</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Exploring your neighborhood: Comparing connection strategies in swarming networks through evolving graphs.</title>
+<pages>1-10</pages>
+<year>2013</year>
+<booktitle>P2P</booktitle>
+<ee>https://doi.org/10.1109/P2P.2013.6688701</ee>
+<crossref>conf/p2p/2013</crossref>
+<url>db/conf/p2p/p2p2013.html#LehmannAB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/OliveiraBMNBGB13" mdate="2020-10-25">
+<author pid="90/7416">Rodrigo Ruas Oliveira</author>
+<author orcid="0000-0003-0191-1730" pid="123/3504">Leonardo Richter Bays</author>
+<author pid="129/2208">Daniel S. Marcon</author>
+<author pid="129/2290">Miguel C. Neves</author>
+<author pid="b/LucianaSBuriol">Luciana Salete Buriol</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>DoS-resilient virtual networks through multipath embedding and opportunistic recovery.</title>
+<pages>597-602</pages>
+<year>2013</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2480362.2480477</ee>
+<crossref>conf/sac/2013</crossref>
+<url>db/conf/sac/sac2013.html#OliveiraBMNBGB13</url>
+</inproceedings>
+</r>
+<r><article key="journals/cn/CordeiroSMBG12" mdate="2020-02-19">
+<author pid="96/2183">Weverton Luis da Costa Cordeiro</author>
+<author pid="45/4259">Flavio Roberto Santos</author>
+<author pid="59/10658">Gustavo Huff Mauch</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<title>Identity management based on adaptive puzzles to protect P2P systems from Sybil attacks.</title>
+<pages>2569-2589</pages>
+<year>2012</year>
+<volume>56</volume>
+<journal>Comput. Networks</journal>
+<number>11</number>
+<ee>https://doi.org/10.1016/j.comnet.2012.03.026</ee>
+<url>db/journals/cn/cn56.html#CordeiroSMBG12</url>
+</article>
+</r>
+<r><article key="journals/cn/LehmannSGB12" mdate="2020-02-19">
+<author pid="38/9979">Matheus Brenner Lehmann</author>
+<author pid="45/4259">Flavio Roberto Santos</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Denial-of-service attacks and countermeasures on BitTorrent.</title>
+<pages>3479-3498</pages>
+<year>2012</year>
+<volume>56</volume>
+<journal>Comput. Networks</journal>
+<number>15</number>
+<ee>https://doi.org/10.1016/j.comnet.2012.07.005</ee>
+<url>db/journals/cn/cn56.html#LehmannSGB12</url>
+</article>
+</r>
+<r><article key="journals/jnca/BarcellosAMM12" mdate="2020-02-24">
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author orcid="0000-0002-9388-492X" pid="10/3873">Rodolfo Stoffel Antunes</author>
+<author pid="71/1202">Hisham H. Muhammad</author>
+<author pid="79/10070">Ruthiano S. Munaretti</author>
+<title>Beyond network simulators: Fostering novel distributed applications and protocols through extendible design.</title>
+<pages>328-339</pages>
+<year>2012</year>
+<volume>35</volume>
+<journal>J. Netw. Comput. Appl.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.jnca.2011.07.015</ee>
+<url>db/journals/jnca/jnca35.html#BarcellosAMM12</url>
+</article>
+</r>
+<r><inproceedings key="conf/cnsm/BaysOBBG12" mdate="2021-08-08">
+<author pid="123/3504">Leonardo Richter Bays</author>
+<author pid="90/7416">Rodrigo Ruas Oliveira</author>
+<author pid="b/LucianaSBuriol">Luciana Salete Buriol</author>
+<author pid="b/MarinhoPBarcellos">Ant&#244;nio Marinho Pilla Barcellos</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<title>Security-aware optimal resource allocation for virtual network embedding.</title>
+<pages>378-384</pages>
+<year>2012</year>
+<booktitle>CNSM</booktitle>
+<ee>https://ieeexplore.ieee.org/document/6380045/</ee>
+<crossref>conf/cnsm/2012</crossref>
+<url>db/conf/cnsm/cnsm2012.html#BaysOBBG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/SchmidtABG12" mdate="2018-11-30">
+<author pid="64/11530">Adler Hoff Schmidt</author>
+<author orcid="0000-0002-9388-492X" pid="10/3873">Rodolfo Stoffel Antunes</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<title>Characterizing dissemination of illegal copies of content through monitoring of BitTorrent networks.</title>
+<pages>327-334</pages>
+<year>2012</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2012.6211915</ee>
+<crossref>conf/noms/2012</crossref>
+<url>db/conf/noms/noms2012.html#SchmidtABG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/p2p/LehmannMAB12" mdate="2018-11-30">
+<author pid="38/9979">Matheus B. Lehmann</author>
+<author pid="120/4579">Lucas F. M&#252;ller</author>
+<author orcid="0000-0002-9388-492X" pid="10/3873">Rodolfo Stoffel Antunes</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Disconnecting to connect: Understanding optimistic disconnection in BitTorrent.</title>
+<pages>138-148</pages>
+<year>2012</year>
+<booktitle>P2P</booktitle>
+<ee>https://doi.org/10.1109/P2P.2012.6335793</ee>
+<crossref>conf/p2p/2012</crossref>
+<url>db/conf/p2p/p2p2012.html#LehmannMAB12</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/BarcellosGCA11" mdate="2020-03-02">
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="96/2183">Weverton Luis da Costa Cordeiro</author>
+<author orcid="0000-0002-9388-492X" pid="10/3873">Rodolfo Stoffel Antunes</author>
+<title>A conservative strategy to protect P2P file sharing systems from pollution attacks.</title>
+<pages>117-141</pages>
+<year>2011</year>
+<volume>23</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1002/cpe.1635</ee>
+<url>db/journals/concurrency/concurrency23.html#BarcellosGCA11</url>
+</article>
+</r>
+<r><article key="journals/tnsm/SantosCGB11" mdate="2020-08-27">
+<author pid="45/4259">Flavio Roberto Santos</author>
+<author pid="96/2183">Weverton Luis da Costa Cordeiro</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Funnel: Choking Polluters in BitTorrent File Sharing Communities.</title>
+<pages>310-321</pages>
+<year>2011</year>
+<volume>8</volume>
+<journal>IEEE Trans. Netw. Serv. Manag.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TNSM.2011.110311.110104</ee>
+<url>db/journals/tnsm/tnsm8.html#SantosCGB11</url>
+</article>
+</r>
+<r><inproceedings key="conf/cnsm/CordeiroSMBG11" mdate="2021-08-08">
+<author pid="96/2183">Weverton Luis da Costa Cordeiro</author>
+<author pid="45/4259">Flavio Roberto Santos</author>
+<author pid="59/10658">Gustavo Huff Mauch</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<title>Securing P2P systems from Sybil attacks through adaptive identity management.</title>
+<pages>1-6</pages>
+<year>2011</year>
+<booktitle>CNSM</booktitle>
+<ee>https://ieeexplore.ieee.org/document/6104016/</ee>
+<crossref>conf/cnsm/2011</crossref>
+<url>db/conf/cnsm/cnsm2011.html#CordeiroSMBG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/im/MansilhaBLMFGB11" mdate="2024-08-04">
+<author orcid="0000-0002-2083-653X" pid="41/2381">Rodrigo B. Mansilha</author>
+<author orcid="0000-0003-0191-1730" pid="123/3504">Leonardo Richter Bays</author>
+<author pid="38/9979">Matheus B. Lehmann</author>
+<author pid="84/9978">Alan Mezzomo</author>
+<author pid="88/1326">Giovani Facchini</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Observing the BitTorrent universe through Telescopes.</title>
+<pages>321-328</pages>
+<year>2011</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2011.5990707</ee>
+<crossref>conf/im/2011</crossref>
+<url>db/conf/im/im2011.html#MansilhaBLMFGB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lanc/CoelhoPABJG11" mdate="2018-11-06">
+<author pid="147/8066">Rafael V. Coelho</author>
+<author pid="147/8069">Jonata T. Pastro</author>
+<author orcid="0000-0002-9388-492X" pid="10/3873">Rodolfo Stoffel Antunes</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="66/1089">Ingrid Jansch-P&#244;rto</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<title>Challenging the feasibility of authentication mechanisms for P2P live streaming.</title>
+<pages>55-63</pages>
+<year>2011</year>
+<booktitle>LANC</booktitle>
+<ee>https://doi.org/10.1145/2078216.2078227</ee>
+<crossref>conf/lanc/2011</crossref>
+<url>db/conf/lanc/lanc2011.html#CoelhoPABJG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/BatistaMSKFMGBRBSMFDP11" mdate="2024-02-05">
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author orcid="0000-0002-2972-9423" pid="79/4708">Nabor C. Mendon&#231;a</author>
+<author orcid="0000-0003-0267-268X" pid="61/5350">Am&#233;rico Sampaio</author>
+<author orcid="0000-0002-3087-9234" pid="74/2714">Carlos Alberto Kamienski</author>
+<author orcid="0000-0003-2046-602X" pid="f/NelsonLSdaFonseca">Nelson L. S. da Fonseca</author>
+<author orcid="0000-0002-1180-2637" pid="m/EdmundoRobertoMauroMadeira">Edmundo R. M. Madeira</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author orcid="0000-0001-9578-3623" pid="b/KarinKooganBreitman">Karin K. Breitman</author>
+<author pid="s/DjamelSadok">Djamel Sadok</author>
+<author pid="m/SRdeLemosMeira">Silvio Meira 0001</author>
+<author pid="09/6789">Stenio F. L. Fernandes</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<title>AltoStratus: A Collaboration Network Focused on the New Research Challenges and Opportunities in Cloud Computing.</title>
+<pages>138-143</pages>
+<year>2011</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1109/SBES.2011.32</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBES.2011.32</ee>
+<crossref>conf/sbes/2011</crossref>
+<url>db/conf/sbes/sbes2011.html#BatistaMSKFMGBRBSMFDP11</url>
+</inproceedings>
+</r>
+<r><article key="journals/jnca/MoschettaAB10" mdate="2020-02-24">
+<author pid="28/5336">Eduardo Moschetta</author>
+<author orcid="0000-0002-9388-492X" pid="10/3873">Rodolfo Stoffel Antunes</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Flexible and secure service discovery in ubiquitous computing.</title>
+<pages>128-140</pages>
+<year>2010</year>
+<volume>33</volume>
+<journal>J. Netw. Comput. Appl.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.jnca.2009.11.001</ee>
+<url>db/journals/jnca/jnca33.html#MoschettaAB10</url>
+</article>
+</r>
+<r><inproceedings key="conf/noms/SantosCGB10" mdate="2017-05-19">
+<author pid="45/4259">Flavio Roberto Santos</author>
+<author pid="96/2183">Weverton Luis da Costa Cordeiro</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Choking polluters in BitTorrent file sharing communities.</title>
+<pages>559-566</pages>
+<year>2010</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2010.5488657</ee>
+<crossref>conf/noms/2010</crossref>
+<url>db/conf/noms/noms2010.html#SantosCGB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/GasparyCFBC09" mdate="2023-03-24">
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="96/2183">Weverton Luis da Costa Cordeiro</author>
+<author pid="83/7381">Sidnei Roberto Selzler Franco</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<title>AGRADC: An architecture for autonomous deployment and configuration of grid computing applications.</title>
+<pages>805-810</pages>
+<year>2009</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2009.5202358</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2009.5202358</ee>
+<crossref>conf/iscc/2009</crossref>
+<url>db/conf/iscc/iscc2009.html#GasparyCFBC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/BarcellosMB08" mdate="2025-03-03">
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author orcid="0000-0002-2083-653X" pid="41/2381">Rodrigo B. Mansilha</author>
+<author orcid="0000-0001-9631-0190" pid="b/FranciscoVilarBrasileiro">Francisco V. Brasileiro</author>
+<title>TorrentLab: investigating BitTorrent through simulation and live experiments.</title>
+<pages>507-512</pages>
+<year>2008</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2008.4625749</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2008.4625749</ee>
+<crossref>conf/iscc/2008</crossref>
+<url>db/conf/iscc/iscc2008.html#BarcellosMB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/BarcellosBSLM08" mdate="2024-08-04">
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="95/3857">Daniel Bauermann</author>
+<author pid="30/5884">Henrique Sant'anna</author>
+<author pid="38/9979">Matheus B. Lehmann</author>
+<author orcid="0000-0002-2083-653X" pid="41/2381">Rodrigo B. Mansilha</author>
+<title>Protecting BitTorrent: Design and Evaluation of Effective Countermeasures against DoS Attacks.</title>
+<pages>73-82</pages>
+<year>2008</year>
+<booktitle>SRDS</booktitle>
+<ee>https://doi.org/10.1109/SRDS.2008.26</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SRDS.2008.26</ee>
+<crossref>conf/srds/2008</crossref>
+<url>db/conf/srds/srds2008.html#BarcellosBSLM08</url>
+</inproceedings>
+</r>
+<r><article key="journals/cn/GasparyBDA07" mdate="2023-08-28">
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="77/5505">Andr&#233; Detsch</author>
+<author orcid="0000-0002-9388-492X" pid="10/3873">Rodolfo Stoffel Antunes</author>
+<title>Flexible security in peer-to-peer applications: Enabling new opportunities beyond file sharing.</title>
+<pages>4797-4815</pages>
+<year>2007</year>
+<volume>51</volume>
+<journal>Comput. Networks</journal>
+<number>17</number>
+<ee>https://doi.org/10.1016/j.comnet.2007.07.005</ee>
+<ee>https://www.wikidata.org/entity/Q115063154</ee>
+<url>db/journals/cn/cn51.html#GasparyBDA07</url>
+</article>
+</r>
+<r><inproceedings key="conf/p2p/KonrathBM07" mdate="2023-03-24">
+<author pid="92/1479">Marlom A. Konrath</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="41/2381">Rodrigo B. Mansilha</author>
+<title>Attacking a Swarm with a Band of Liars: evaluating the impact of attacks on BitTorrent.</title>
+<pages>37-44</pages>
+<year>2007</year>
+<booktitle>Peer-to-Peer Computing</booktitle>
+<ee>https://doi.org/10.1109/P2P.2007.10</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/P2P.2007.10</ee>
+<crossref>conf/p2p/2007</crossref>
+<url>db/conf/p2p/p2p2007.html#KonrathBM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/anss/BarcellosFM06" mdate="2023-03-24">
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="88/1326">Giovani Facchini</author>
+<author pid="71/1202">Hisham H. Muhammad</author>
+<title>Bridging the Gap between Simulation and Experimental Evaluation in Computer Networks.</title>
+<pages>286-293</pages>
+<year>2006</year>
+<crossref>conf/anss/2006</crossref>
+<booktitle>Annual Simulation Symposium</booktitle>
+<ee>https://doi.org/10.1109/ANSS.2006.15</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ANSS.2006.15</ee>
+<url>db/conf/anss/anss2006.html#BarcellosFM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/DetschGBS06" mdate="2020-07-28">
+<author pid="77/5505">Andr&#233; Detsch</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="36/114">Ricardo Nabinger Sanchez</author>
+<title>Flexible Security Configuration &#38; Deployment in Peer-to-Peer Applications.</title>
+<pages>209-219</pages>
+<year>2006</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2006.1687552</ee>
+<crossref>conf/noms/2006</crossref>
+<url>db/conf/noms/noms2006.html#DetschGBS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccgrid/BarcellosNKDB05" mdate="2023-03-24">
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author orcid="0000-0001-8771-5452" pid="92/4513">Maziar M. Nekovee</author>
+<author pid="59/6892">M. Koyabe</author>
+<author pid="76/415">Michael Daw</author>
+<author pid="99/4320">J. Brooke</author>
+<title>Evaluating high-throughput reliable multicast for grid applications in production networks.</title>
+<pages>442-449</pages>
+<year>2005</year>
+<crossref>conf/ccgrid/2005</crossref>
+<booktitle>CCGRID</booktitle>
+<ee>https://doi.org/10.1109/CCGRID.2005.1558588</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CCGRID.2005.1558588</ee>
+<url>db/conf/ccgrid/ccgrid2005.html#BarcellosNKDB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conext/JeacleCBP05" mdate="2018-11-06">
+<author pid="48/4897">Karl Jeacle</author>
+<author pid="c/JonCrowcroft">Jon Crowcroft</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="38/5464">Stefano Pettini</author>
+<title>Hybrid reliable multicast with TCP-XM.</title>
+<pages>177-187</pages>
+<year>2005</year>
+<booktitle>CoNEXT</booktitle>
+<ee>https://doi.org/10.1145/1095921.1095945</ee>
+<crossref>conf/conext/2005</crossref>
+<url>db/conf/conext/conext2005.html#JeacleCBP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/grid/SilvaGBD05" mdate="2023-03-24">
+<author pid="28/5658">Juliano F. da Silva</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="77/5505">Andr&#233; Detsch</author>
+<title>Policy-based access control in peer-to-peer grid systems.</title>
+<pages>107-113</pages>
+<year>2005</year>
+<crossref>conf/grid/2005</crossref>
+<booktitle>GRID</booktitle>
+<ee>https://doi.org/10.1109/GRID.2005.1542731</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/GRID.2005.1542731</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1253485</ee>
+<url>db/conf/grid/grid2005.html#SilvaGBD05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/BarcellosD05" mdate="2023-03-24">
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="77/5505">Andr&#233; Detsch</author>
+<title>Congestion Control with ECN Support in Poll-Based Multicast Protocols.</title>
+<pages>724-729</pages>
+<year>2005</year>
+<crossref>conf/iscc/2005</crossref>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2005.43</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2005.43</ee>
+<url>db/conf/iscc/iscc2005.html#BarcellosD05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/grid/BarcellosND04" mdate="2023-03-24">
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author orcid="0000-0001-8771-5452" pid="92/4513">Maziar M. Nekovee</author>
+<author pid="76/415">Michael Daw</author>
+<title>High-Performance Reliable Multicasting for Grid Applications.</title>
+<pages>342-349</pages>
+<year>2004</year>
+<crossref>conf/grid/2004</crossref>
+<booktitle>GRID</booktitle>
+<ee>https://doi.org/10.1109/GRID.2004.38</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/GRID.2004.38</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1033262</ee>
+<url>db/conf/grid/grid2004.html#BarcellosND04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/DetschGBC04" mdate="2018-11-06">
+<author pid="77/5505">Andr&#233; Detsch</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="b/MarinhoPBarcellos">Ant&#244;nio Marinho Pilla Barcellos</author>
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<title>Towards a flexible security framework for peer-to-peer based grid computing.</title>
+<pages>52-56</pages>
+<year>2004</year>
+<crossref>conf/middleware/2004w1</crossref>
+<booktitle>Middleware for Grid Computing</booktitle>
+<ee>https://doi.org/10.1145/1028493.1028502</ee>
+<url>db/conf/middleware/middleware2004-w1.html#DetschGBC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/anss/MuhammadB02" mdate="2023-03-24">
+<author pid="71/1202">Hisham H. Muhammad</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<title>Simulating Group Communication Protocols Through an Object-Oriented Framework.</title>
+<pages>143-150</pages>
+<year>2002</year>
+<crossref>conf/anss/2002</crossref>
+<booktitle>Annual Simulation Symposium</booktitle>
+<ee>https://doi.org/10.1109/SIMSYM.2002.1000142</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIMSYM.2002.1000142</ee>
+<url>db/conf/anss/anss2002.html#MuhammadB02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ngc/LiuEB99" mdate="2019-10-19">
+<author pid="27/3409">Congyue Liu</author>
+<author orcid="0000-0002-6190-5685" pid="50/2453">Paul D. Ezhilchelvan</author>
+<author pid="b/MarinhoPBarcellos">Ant&#244;nio Marinho Pilla Barcellos</author>
+<title>A Multicast Transport Protocol for Reliable Group Applications.</title>
+<pages>170-187</pages>
+<year>1999</year>
+<crossref>conf/ngc/1999</crossref>
+<booktitle>Networked Group Communication</booktitle>
+<url>db/conf/ngc/ngc1999.html#LiuEB99</url>
+<ee>https://doi.org/10.1007/978-3-540-46703-8_11</ee>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ethos/Barcellos98" mdate="2022-05-04">
+<author pid="b/MarinhoPBarcellos">Ant&#244;nio Marinho Pilla Barcellos</author>
+<title>PRMP : a scaleable polling-based reliable multicast protocol.</title>
+<year>1998</year>
+<school>Newcastle University, Newcastle upon Tyne, UK</school>
+<ee>https://hdl.handle.net/10443/1981</ee>
+<ee>https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.246134</ee>
+<note type="source">British Library, EThOS</note>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/infocom/BarcellosE98" mdate="2023-03-23">
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="50/2453">Paul D. Ezhilchelvan</author>
+<title>An End-to-End Reliable Multicast Protocol Using Polling for Scaleability.</title>
+<pages>1180-1187</pages>
+<year>1998</year>
+<crossref>conf/infocom/1998</crossref>
+<booktitle>INFOCOM</booktitle>
+<url>db/conf/infocom/infocom1998-3.html#BarcellosE98</url>
+<ee>https://doi.org/10.1109/INFCOM.1998.662931</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/INFCOM.1998.662931</ee>
+</inproceedings>
+</r>
+<r><article key="journals/sigops/BarcellosSFG94" mdate="2020-07-14">
+<author pid="b/MarinhoPBarcellos">Ant&#244;nio Marinho Pilla Barcellos</author>
+<author pid="92/4799">Jo&#227;o Frederico Lacava Schramm</author>
+<author pid="23/322">Valdir Rossi Belmonte Filho</author>
+<author pid="b/ClaudioFernandoResinGeyer">Cl&#225;udio F. R. Geyer</author>
+<title>The HetNOS Network Operating System: A Tool for Writing Distributed Applications.</title>
+<pages>34-47</pages>
+<year>1994</year>
+<volume>28</volume>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
+<number>4</number>
+<url>db/journals/sigops/sigops28.html#BarcellosSFG94</url>
+<ee>https://doi.org/10.1145/191525.191534</ee>
+</article>
+</r>
+<coauthors n="162" nc="5">
+<co c="2"><na f="a/Al=Sahaf:Harith" pid="33/10882">Harith Al-Sahaf</na></co>
+<co c="0"><na f="a/Alowayed:Yousef" pid="224/2359">Yousef Alowayed</na></co>
+<co c="0"><na f="a/Antunes:Rodolfo_Stoffel" pid="10/3873">Rodolfo Stoffel Antunes</na></co>
+<co c="0"><na f="a/Aranha:Diego_F=" pid="75/5361">Diego F. Aranha</na></co>
+<co c="0"><na f="a/Asplund:Mikael" pid="63/948">Mikael Asplund</na></co>
+<co c="0"><na f="b/Batista:Tha=iacute=s_Vasconcelos" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</na></co>
+<co c="0"><na f="b/Bauermann:Daniel" pid="95/3857">Daniel Bauermann</na></co>
+<co c="0"><na f="b/Bays:Leonardo_Richter" pid="123/3504">Leonardo Richter Bays</na></co>
+<co c="0" n="2"><na f="b/Bittencourt:Luiz_Fernando" pid="76/6740">Luiz Fernando Bittencourt</na><na>Luiz F. Bittencourt</na></co>
+<co c="0"><na f="b/Boeira:Felipe" pid="198/9723">Felipe Boeira</na></co>
+<co c="0"><na f="b/Bonella:Vitor_Berger" pid="325/7086">Vitor Berger Bonella</na></co>
+<co c="0"><na f="b/Borges:Everson_Scherrer" pid="352/0408">Everson Scherrer Borges</na></co>
+<co c="0"><na f="b/Bortolozzo:Marcelo_Cardoso" pid="182/6591">Marcelo Cardoso Bortolozzo</na></co>
+<co c="0"><na f="b/Botero:Juan_Felipe" pid="35/9525">Juan Felipe Botero</na></co>
+<co c="0"><na f="b/Boutaba:Raouf" pid="b/RaoufBoutaba">Raouf Boutaba</na></co>
+<co c="0" n="2"><na f="b/Brasileiro:Francisco_Vilar" pid="b/FranciscoVilarBrasileiro">Francisco Vilar Brasileiro</na><na>Francisco V. Brasileiro</na></co>
+<co c="0"><na f="b/Breitman:Karin_K=" pid="b/KarinKooganBreitman">Karin K. Breitman</na></co>
+<co c="1"><na f="b/Brooke:J=" pid="99/4320">J. Brooke</na></co>
+<co c="0" n="2"><na f="b/Buriol:Luciana_S=" pid="b/LucianaSBuriol">Luciana S. Buriol</na><na>Luciana Salete Buriol</na></co>
+<co c="2" n="2"><na f="=/=Ccedil=amtepe:Seyit_Ahmet" pid="55/3548">Seyit Ahmet &#199;amtepe</na><na>Seyit Camtepe</na></co>
+<co c="0"><na f="c/Canini:Marco" pid="24/5715">Marco Canini</na></co>
+<co c="0"><na f="c/Castro:Ignacio" pid="99/11343">Ignacio Castro</na></co>
+<co c="0" n="2"><na f="c/Cavalheiro:Gerson_G=_H=" pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</na><na>Gerson Geraldo Homrich Cavalheiro</na></co>
+<co c="0"><na f="c/Chan:Echo" pid="389/2410">Echo Chan</na></co>
+<co c="0"><na f="c/Chiesa:Marco" pid="78/9826">Marco Chiesa</na></co>
+<co c="0"><na f="c/Choffnes:David_R=" pid="48/6854">David R. Choffnes</na></co>
+<co c="0"><na f="c/claffy:kc" pid="68/4966">kc claffy</na></co>
+<co c="0"><na f="c/Coelho:Rafael_V=" pid="147/8066">Rafael V. Coelho</na></co>
+<co c="0"><na f="c/Cordeiro:Weverton_Luis_da_Costa" pid="96/2183">Weverton Luis da Costa Cordeiro</na></co>
+<co c="0"><na f="c/Crowcroft:Jon" pid="c/JonCrowcroft">Jon Crowcroft</na></co>
+<co c="0"><na f="d/Dainotti:Alberto" pid="28/5074">Alberto Dainotti</na></co>
+<co c="0"><na f="d/Dantas:Ramide" pid="22/6655">Ramide Dantas</na></co>
+<co c="4"><na f="d/Daramas:Atthapan" pid="309/4363">Atthapan Daramas</na></co>
+<co c="0"><na f="d/Datta:Anwitaman" pid="d/AnwitamanDatta">Anwitaman Datta</na></co>
+<co c="1"><na f="d/Daw:Michael" pid="76/415">Michael Daw</na></co>
+<co c="0"><na f="d/Delicato:Fl=aacute=via_Coimbra" pid="88/4289">Fl&#225;via Coimbra Delicato</na></co>
+<co c="0"><na f="d/Detsch:Andr=eacute=" pid="77/5505">Andr&#233; Detsch</na></co>
+<co c="0"><na f="d/Dietzel:Christoph" pid="177/6606">Christoph Dietzel</na></co>
+<co c="0"><na f="d/Dobbins:Roland" pid="297/2108">Roland Dobbins</na></co>
+<co c="0"><na f="d/Doerr:Christian" pid="d/ChristianDoerr">Christian Doerr</na></co>
+<co c="0"><na f="d/Dominicini:Cristina_K=" pid="117/6192">Cristina K. Dominicini</na></co>
+<co c="0"><na f="e/Epema:Dick_H=_J=" pid="e/DickHJEpema">Dick H. J. Epema</na></co>
+<co c="0"><na f="e/Ezhilchelvan:Paul_D=" pid="50/2453">Paul D. Ezhilchelvan</na></co>
+<co c="0"><na f="f/Facchini:Giovani" pid="88/1326">Giovani Facchini</na></co>
+<co c="0"><na f="f/Fayed:Marwan" pid="92/883">Marwan Fayed</na></co>
+<co c="0"><na f="f/Felber:Pascal" pid="f/PascalFelber">Pascal Felber</na></co>
+<co c="0"><na f="f/Feldmann:Anja" pid="f/AnjaFeldmann">Anja Feldmann</na></co>
+<co c="0" n="2"><na f="f/Fernandes:Stenio_F=_L=" pid="09/6789">Stenio F. L. Fernandes</na><na>Stenio Fernandes</na></co>
+<co c="0"><na f="f/Filho:Alberto_E=_Schaeffer" pid="89/1649">Alberto E. Schaeffer Filho</na></co>
+<co c="0"><na f="f/Filho:Valdir_Rossi_Belmonte" pid="23/322">Valdir Rossi Belmonte Filho</na></co>
+<co c="0"><na f="f/Fonseca:Nelson_L=_S=_da" pid="f/NelsonLSdaFonseca">Nelson L. S. da Fonseca</na></co>
+<co c="0"><na f="f/Franco:Sidnei_Roberto_Selzler" pid="83/7381">Sidnei Roberto Selzler Franco</na></co>
+<co c="0"><na f="f/Freire:Lucas" pid="207/6596">Lucas Freire</na></co>
+<co c="0"><na f="f/Freitas:Edison_Pignaton_de" pid="96/3201">Edison Pignaton de Freitas</na></co>
+<co c="0"><na f="g/Gallo:Massimo" pid="42/7891">Massimo Gallo</na></co>
+<co c="0"><na f="g/Gaspary:Luciano_Paschoal" pid="g/LPGaspary">Luciano Paschoal Gaspary</na></co>
+<co c="0" n="2"><na f="g/Geyer:Cl=aacute=udio_Fernando_Resin" pid="b/ClaudioFernandoResinGeyer">Cl&#225;udio Fernando Resin Geyer</na><na>Cl&#225;udio F. R. Geyer</na></co>
+<co c="0"><na f="g/Gil=Herrera:Juliver" pid="202/0888">Juliver Gil-Herrera</na></co>
+<co c="0" n="2"><na f="g/Granville:Lisandro_Z=" pid="52/4475">Lisandro Z. Granville</na><na>Lisandro Zambenedetti Granville</na></co>
+<co c="0"><na f="g/Guerrieri:Alessio" pid="22/7814">Alessio Guerrieri</na></co>
+<co c="0" n="2"><na f="g/Guimar=atilde=es:Rafael_S=" pid="229/2312">Rafael S. Guimar&#227;es</na><na>Rafael Silva Guimar&#227;es</na></co>
+<co c="0"><na f="h/Hecht:Fabio_Victora" pid="37/5300">Fabio Victora Hecht</na></co>
+<co c="0"><na f="h/Hiesgen:Raphael" pid="144/4431">Raphael Hiesgen</na></co>
+<co c="0"><na f="h/Higashino:Teruo" pid="h/TeruoHigashino">Teruo Higashino</na></co>
+<co c="0"><na f="h/Hohlfeld:Oliver" pid="75/6403">Oliver Hohlfeld</na></co>
+<co c="0"><na f="h/Huffaker:Bradley" pid="11/3626">Bradley Huffaker</na></co>
+<co c="0"><na f="i/Iamnitchi:Adriana" pid="33/5916">Adriana Iamnitchi</na></co>
+<co c="0"><na f="i/Isolani:Pedro_Heleno" pid="157/2611">Pedro Heleno Isolani</na></co>
+<co c="0"><na f="j/Jansch=P=ocirc=rto:Ingrid" pid="66/1089">Ingrid Jansch-P&#244;rto</na></co>
+<co c="0"><na f="j/Jeacle:Karl" pid="48/4897">Karl Jeacle</na></co>
+<co c="0"><na f="j/Jonker:Mattijs" pid="163/4064">Mattijs Jonker</na></co>
+<co c="0" n="2"><na f="k/Kamienski:Carlos" pid="74/2714">Carlos Kamienski</na><na>Carlos Alberto Kamienski</na></co>
+<co c="0"><na f="k/Kathiravelu:Pradeeban" pid="158/4356">Pradeeban Kathiravelu</na></co>
+<co c="0"><na f="k/Katti:Sachin" pid="50/1133">Sachin Katti</na></co>
+<co c="0"><na f="k/Kavalionak:Hanna" pid="95/11069">Hanna Kavalionak</na></co>
+<co c="0"><na f="k/Konrath:Marlom_A=" pid="92/1479">Marlom A. Konrath</na></co>
+<co c="0"><na f="k/Kopp:Daniel" pid="198/8297">Daniel Kopp</na></co>
+<co c="1"><na f="k/Koyabe:M=" pid="59/6892">M. Koyabe</na></co>
+<co c="0"><na f="k/Kristoff:John" pid="19/3710">John Kristoff</na></co>
+<co c="4"><na f="k/Kumar_0001:Vimal" pid="04/2536-1">Vimal Kumar 0001</na></co>
+<co c="0"><na f="l/Latr=eacute=:Steven" pid="23/2276">Steven Latr&#233;</na></co>
+<co c="0"><na f="l/Layber:Henrique_Coutinho" pid="394/9898">Henrique Coutinho Layber</na></co>
+<co c="0"><na f="l/Leal:Lucas" pid="217/1003">Lucas Leal</na></co>
+<co c="0" n="2"><na f="l/Lehmann:Matheus_B=" pid="38/9979">Matheus B. Lehmann</na><na>Matheus Brenner Lehmann</na></co>
+<co c="0"><na f="l/Leonardi:Emilio" pid="19/4748">Emilio Leonardi</na></co>
+<co c="0"><na f="l/Levchenko:Kirill" pid="l/KirillLevchenko">Kirill Levchenko</na></co>
+<co c="0" n="2"><na f="l/Lima=Gomes:Roberta" pid="78/1819">Roberta Lima-Gomes</na><na>Roberta L. Gomes</na></co>
+<co c="0"><na f="l/Liu:Congyue" pid="27/3409">Congyue Liu</na></co>
+<co c="0"><na f="l/Liu:Yong" pid="29/4867">Yong Liu</na></co>
+<co c="0"><na f="l/L=oacute=pez:Pedro_Garc=iacute=a" pid="63/4811">Pedro Garc&#237;a L&#243;pez</na></co>
+<co c="0" n="2"><na f="l/Lorch:Jacob_R=" pid="25/3228">Jacob R. Lorch</na><na>Jay R. Lorch</na></co>
+<co c="0"><na f="l/Lorier:Christopher" pid="134/3972">Christopher Lorier</na></co>
+<co c="0" n="2"><na f="l/Luckie:Matthew_J=" pid="12/4563">Matthew J. Luckie</na><na>Matthew Luckie</na></co>
+<co c="0"><na f="l/Luizelli:Marcelo_Caggiani" pid="140/8276">Marcelo Caggiani Luizelli</na></co>
+<co c="0"><na f="l/Luo:Xiapu" pid="53/1565">Xiapu Luo</na></co>
+<co c="0" n="2"><na f="m/Madeira:Edmundo_Roberto_Mauro" pid="m/EdmundoRobertoMauroMadeira">Edmundo Roberto Mauro Madeira</na><na>Edmundo R. M. Madeira</na></co>
+<co c="2"><na f="m/Mamun:Abdullah_Al" pid="74/3808">Abdullah Al Mamun</na></co>
+<co c="0" n="2"><na f="m/Mansilha:Rodrigo_B=" pid="41/2381">Rodrigo B. Mansilha</na><na>Rodrigo Brand&#227;o Mansilha</na></co>
+<co c="0" n="2"><na f="m/Marcon:Daniel_S=" pid="129/2208">Daniel S. Marcon</na><na>Daniel Stefani Marcon</na></co>
+<co c="0"><na f="m/Marcos:Pedro_de_B=" pid="99/7415">Pedro de B. Marcos</na></co>
+<co c="0"><na f="m/Markopoulou:Athina" pid="82/5866">Athina Markopoulou</na></co>
+<co c="0"><na f="m/Martinello:Magnos" pid="15/1775">Magnos Martinello</na></co>
+<co c="0"><na f="m/Mauch:Gustavo_Huff" pid="59/10658">Gustavo Huff Mauch</na></co>
+<co c="0"><na f="m/Mauthe:Andreas" pid="52/495">Andreas Mauthe</na></co>
+<co c="0"><na f="m/Mazzola:Fabr=iacute=cio_M=" pid="207/2419">Fabr&#237;cio M. Mazzola</na></co>
+<co c="0"><na f="m/Medhi:Deep" pid="m/DeepMedhi">Deep Medhi</na></co>
+<co c="0" n="2"><na f="m/Meira:Silvio_Romero_de_Lemos" pid="m/SRdeLemosMeira">Silvio Romero de Lemos Meira</na><na>Silvio Meira 0001</na></co>
+<co c="0" n="2"><na f="m/Mendon=ccedil=a:Nabor_das_Chagas" pid="79/4708">Nabor das Chagas Mendon&#231;a</na><na>Nabor C. Mendon&#231;a</na></co>
+<co c="0"><na f="m/Menegueti:Gabriel_Tetzner" pid="352/0231">Gabriel Tetzner Menegueti</na></co>
+<co c="0"><na f="m/Mezzomo:Alan" pid="84/9978">Alan Mezzomo</na></co>
+<co c="0"><na f="m/Mok:Ricky_K=_P=" pid="68/9978">Ricky K. P. Mok</na></co>
+<co c="0"><na f="m/Montresor:Alberto" pid="m/AlbertoMontresor">Alberto Montresor</na></co>
+<co c="0"><na f="m/Moschetta:Eduardo" pid="28/5336">Eduardo Moschetta</na></co>
+<co c="0"><na f="m/Muhammad:Hisham_H=" pid="71/1202">Hisham H. Muhammad</na></co>
+<co c="0"><na f="m/M=uuml=ller:Lucas_F=" pid="120/4579">Lucas F. M&#252;ller</na></co>
+<co c="0"><na f="m/Munaretti:Ruthiano_S=" pid="79/10070">Ruthiano S. Munaretti</na></co>
+<co c="0"><na f="n/Nawrocki:Marcin" pid="185/0838">Marcin Nawrocki</na></co>
+<co c="1"><na f="n/Nekovee:Maziar_M=" pid="92/4513">Maziar M. Nekovee</na></co>
+<co c="0"><na f="n/Nelson:Richard" pid="34/2220">Richard Nelson</na></co>
+<co c="0" n="2"><na f="n/Neves:Miguel_C=" pid="129/2290">Miguel C. Neves</na><na>Miguel Cardoso Neves</na></co>
+<co c="0"><na f="o/Ocampo:Andr=eacute=s_F=" pid="202/0738">Andr&#233;s F. Ocampo</na></co>
+<co c="0"><na f="o/Oliveira:Rodrigo_Ruas" pid="90/7416">Rodrigo Ruas Oliveira</na></co>
+<co c="0"><na f="o/Ott:J=ouml=rg" pid="57/6706">J&#246;rg Ott</na></co>
+<co c="0"><na f="p/Pastro:Jonata_T=" pid="147/8069">Jonata T. Pastro</na></co>
+<co c="0"><na f="p/Perino:Diego" pid="03/3645">Diego Perino</na></co>
+<co c="3"><na f="p/Petry:Tobias" pid="167/9164">Tobias Petry</na></co>
+<co c="0"><na f="p/Pettini:Stefano" pid="38/5464">Stefano Pettini</na></co>
+<co c="0"><na f="p/Pires:Paulo_F=" pid="69/1904">Paulo F. Pires</na></co>
+<co c="0"><na f="p/Prehn:Lars" pid="277/0393">Lars Prehn</na></co>
+<co c="0"><na f="r/Ribeiro:Mois=eacute=s_R=_N=" pid="20/1896">Mois&#233;s R. N. Ribeiro</na></co>
+<co c="0"><na f="r/Rio:Miguel" pid="88/1966">Miguel Rio</na></co>
+<co c="0"><na f="r/Rivi=egrave=re:Etienne" pid="01/6018">Etienne Rivi&#232;re</na></co>
+<co c="0"><na f="r/Rodriguez:Noemi_de_La_Rocque" pid="95/2066">Noemi de La Rocque Rodriguez</na></co>
+<co c="0"><na f="r/Rossi_0001:Dario" pid="14/3340">Dario Rossi 0001</na></co>
+<co c="0"><na f="r/Rossow:Christian" pid="08/6024">Christian Rossow</na></co>
+<co c="0"><na f="r/Rothenberg:Christian_Esteve" pid="70/2654">Christian Esteve Rothenberg</na></co>
+<co c="0"><na f="r/Ruffini:Marco" pid="71/6543">Marco Ruffini</na></co>
+<co c="0" n="2"><na f="s/Sadok:Djamel_Fawzi_Hadj" pid="s/DjamelSadok">Djamel Fawzi Hadj Sadok</na><na>Djamel Sadok</na></co>
+<co c="0"><na f="s/Saino:Lorenzo" pid="137/0161">Lorenzo Saino</na></co>
+<co c="0"><na f="s/Sampaio:Am=eacute=rico" pid="61/5350">Am&#233;rico Sampaio</na></co>
+<co c="-1"><na f="s/Samra:Ravjot_Singh" pid="362/3620">Ravjot Singh Samra</na></co>
+<co c="0"><na f="s/Sanchez:Ricardo_Nabinger" pid="36/114">Ricardo Nabinger Sanchez</na></co>
+<co c="0"><na f="s/Sant=anna:Henrique" pid="30/5884">Henrique Sant'anna</na></co>
+<co c="0"><na f="s/Santos:Abra=atilde=o_Jesus_Dos" pid="352/0436">Abra&#227;o Jesus Dos Santos</na></co>
+<co c="0" n="2"><na f="s/Santos:Flavio" pid="45/4259">Flavio Santos</na><na>Flavio Roberto Santos</na></co>
+<co c="0"><na f="s/Schmidt:Adler_Hoff" pid="64/11530">Adler Hoff Schmidt</na></co>
+<co c="0"><na f="s/Schmidt:Thomas_C=" pid="s/TCSchmidt">Thomas C. Schmidt</na></co>
+<co c="0"><na f="s/Schramm:Jo=atilde=o_Frederico_Lacava" pid="92/4799">Jo&#227;o Frederico Lacava Schramm</na></co>
+<co c="0"><na f="s/Setti:Augusto" pid="384/4998">Augusto Setti</na></co>
+<co c="0"><na f="s/Silva:Eduardo_Germano_da" pid="164/7972">Eduardo Germano da Silva</na></co>
+<co c="0"><na f="s/Silva:Juliano_F=_da" pid="28/5658">Juliano F. da Silva</na></co>
+<co c="3"><na f="s/Silva:Rafael_da_Fonte_Lopes_da" pid="167/9080">Rafael da Fonte Lopes da Silva</na></co>
+<co c="0"><na f="s/Stiller:Burkhard" pid="00/4292">Burkhard Stiller</na></co>
+<co c="0"><na f="t/Thomas:Daniel_R=" pid="153/2620">Daniel R. Thomas</na></co>
+<co c="0"><na f="v/Vahdat:Amin" pid="v/AminVahdat">Amin Vahdat</na></co>
+<co c="0"><na f="v/Vinel:Alexey_V=" pid="87/1880">Alexey V. Vinel</na></co>
+<co c="0"><na f="w/W=auml=hlisch:Matthias" pid="91/5978">Matthias W&#228;hlisch</na></co>
+<co c="0"><na f="w/Wang:Anyi" pid="169/4028">Anyi Wang</na></co>
+<co c="2"><na f="w/Welch:Ian" pid="w/IanWelch">Ian Welch</na></co>
+<co c="0"><na f="w/Wermann:Alexandre_Gustavo" pid="182/6569">Alexandre Gustavo Wermann</na></co>
+<co c="0"><na f="z/Zaicu:Nicu_Florin" pid="305/8362">Nicu Florin Zaicu</na></co>
+<co c="0"><na f="z/Zilberman:Noa" pid="24/8146">Noa Zilberman</na></co>
+</coauthors>
+</dblpperson>
+

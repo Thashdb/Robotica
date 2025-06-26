@@ -1,0 +1,1006 @@
+<?xml version="1.0"?>
+<dblpperson name="Gerson G. H. Cavalheiro" pid="c/GGHCavalheiro" n="62">
+<person key="homepages/c/GGHCavalheiro" mdate="2025-01-10">
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo H. Cavalheiro</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<url>http://gersonc.anahy.org/</url>
+<url>https://orcid.org/0000-0002-4314-3429</url>
+<url>https://www.wikidata.org/entity/Q130808148</url>
+</person>
+<r><article key="journals/vlc/BoisC25" mdate="2025-03-07">
+<author orcid="0000-0002-6790-5184" pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author orcid="0000-0002-4314-3429" pid="c/GGHCavalheiro">Gerson Geraldo H. Cavalheiro</author>
+<title>GPotion: Embedding GPU programming in Elixir.</title>
+<pages>101323</pages>
+<year>2025</year>
+<volume>83</volume>
+<journal>J. Comput. Lang.</journal>
+<ee>https://doi.org/10.1016/j.cola.2025.101323</ee>
+<url>db/journals/vlc/vlc83.html#BoisC25</url>
+<stream>streams/journals/vlc</stream>
+</article>
+</r>
+<r><article key="journals/jucs/OsorioFC24" mdate="2025-02-14">
+<author orcid="0000-0002-7576-0958" pid="244/1485">Alessander Osorio</author>
+<author orcid="0000-0001-5631-6766" pid="222/3501">Paulo Roberto Ferreira Jr.</author>
+<author orcid="0000-0002-4314-3429" pid="c/GGHCavalheiro">Gerson Geraldo H. Cavalheiro</author>
+<title>Guided Reading: A Case Study in Evaluating Scientific Reports on Quantitative Research.</title>
+<pages>1829-1848</pages>
+<year>2024</year>
+<volume>30</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>13</number>
+<ee type="oa">https://doi.org/10.3897/jucs.116830</ee>
+<url>db/journals/jucs/jucs30.html#OsorioFC24</url>
+<stream>streams/journals/jucs</stream>
+</article>
+</r>
+<r><inproceedings key="conf/sbsi/OliveiraVFAC24" mdate="2024-10-14">
+<author orcid="0000-0001-7160-3720" pid="375/9802">Marcos Antonio De Oliveira</author>
+<author orcid="0000-0003-3389-3637" pid="375/9545">Flavio A. Varone</author>
+<author orcid="0000-0001-9875-2187" pid="65/10256">Clyde W. Fraisse</author>
+<author orcid="0000-0003-0514-8883" pid="a/RMdAraujo">Ricardo Matsumura de Ara&#250;jo</author>
+<author orcid="0000-0002-4314-3429" pid="c/GGHCavalheiro">Gerson Geraldo H. Cavalheiro</author>
+<title>Clustering of meteorological data to improve agricultural decisions: a case study with SIMAGRO-RS.</title>
+<pages>17:1-17:10</pages>
+<year>2024</year>
+<booktitle>SBSI</booktitle>
+<ee>https://doi.org/10.1145/3658271.3658288</ee>
+<crossref>conf/sbsi/2024</crossref>
+<url>db/conf/sbsi/sbsi2024.html#OliveiraVFAC24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/OliveiraOC24" mdate="2024-05-31">
+<author orcid="0000-0001-7160-3720" pid="375/9802">Marcos Antonio De Oliveira</author>
+<author orcid="0000-0002-3110-7850" pid="375/9972">Monalisa Fagundes Oliveira</author>
+<author orcid="0000-0002-4314-3429" pid="c/GGHCavalheiro">Gerson Geraldo H. Cavalheiro</author>
+<title>Meteorological Time Series Clustering in Agricultural Applications: A Systematic Literature Review.</title>
+<pages>22:1-22:11</pages>
+<year>2024</year>
+<booktitle>SBSI</booktitle>
+<ee>https://doi.org/10.1145/3658271.3658293</ee>
+<crossref>conf/sbsi/2024</crossref>
+<url>db/conf/sbsi/sbsi2024.html#OliveiraOC24</url>
+</inproceedings>
+</r>
+<r><article key="journals/tjs/DomenicoLC23" mdate="2025-01-19">
+<author pid="209/6950">Daniel Di Domenico</author>
+<author pid="98/8779">Jo&#227;o V. F. Lima</author>
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<title>NAS Parallel Benchmarks with Python: a performance and programming effort analysis focusing on GPUs.</title>
+<pages>8890-8911</pages>
+<year>2023</year>
+<month>May</month>
+<volume>79</volume>
+<journal>J. Supercomput.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1007/s11227-022-04932-3</ee>
+<ee>https://www.wikidata.org/entity/Q123284739</ee>
+<url>db/journals/tjs/tjs79.html#DomenicoLC23</url>
+</article>
+</r>
+<r><inproceedings key="conf/flairs/OliveiraSC23" mdate="2023-09-05">
+<author pid="315/5743">Marcos A. de Oliveira Jr.</author>
+<author pid="315/5877">Gregory Sedrez</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo H. Cavalheiro</author>
+<title>ML-based Plant Stress Detection from IoT-sensed Reduced Electromes.</title>
+<year>2023</year>
+<booktitle>FLAIRS</booktitle>
+<ee type="oa">https://doi.org/10.32473/flairs.36.133180</ee>
+<crossref>conf/flairs/2023</crossref>
+<url>db/conf/flairs/flairs2023.html#OliveiraSC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccnc/RochaOMC23" mdate="2024-07-06">
+<author pid="343/5849">Anderson M. Da Rocha</author>
+<author orcid="0000-0001-7160-3720" pid="375/9802">Marcos Antonio De Oliveira</author>
+<author pid="343/5317">Pauletti Jos&#233; F. M.</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo H. Cavalheiro</author>
+<title>ABP vs. OTAA activation of LoRa devices: an Experimental Study in a Rural Context.</title>
+<pages>630-634</pages>
+<year>2023</year>
+<booktitle>ICNC</booktitle>
+<ee>https://doi.org/10.1109/ICNC57223.2023.10074553</ee>
+<crossref>conf/iccnc/2023</crossref>
+<url>db/conf/iccnc/icnc2023.html#RochaOMC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/OliveiraCCF23" mdate="2024-07-06">
+<author orcid="0000-0001-7160-3720" pid="375/9802">Marcos Antonio De Oliveira</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo H. Cavalheiro</author>
+<author pid="234/6512">Vin&#237;cius Andrei Cerbaro</author>
+<author pid="65/10256">Clyde W. Fraisse</author>
+<title>Clustering Weather Time Series used for Agricultural Disease Alert Systems in Florida.</title>
+<pages>158-163</pages>
+<year>2023</year>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC58943.2023.00029</ee>
+<crossref>conf/isorc/2023</crossref>
+<url>db/conf/isorc/isorc2023.html#OliveiraCCF23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/SantosGKGC23" mdate="2024-10-06">
+<author pid="191/4620">Maicon Anca dos Santos</author>
+<author orcid="0000-0001-9415-7591" pid="275/8354">Gabriel J. A. Grabher</author>
+<author pid="360/8834">Matheus F. Kovaleski</author>
+<author pid="b/ClaudioFernandoResinGeyer">Cl&#225;udio F. R. Geyer</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo H. Cavalheiro</author>
+<title>WCSim: A Cloud Computing Simulator with Support for Bag of Tasks Workflows.</title>
+<pages>230-241</pages>
+<year>2023</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD59825.2023.00032</ee>
+<crossref>conf/sbac-pad/2023</crossref>
+<url>db/conf/sbac-pad/sbac-pad2023.html#SantosGKGC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/BoisC23" mdate="2025-01-19">
+<author orcid="0000-0002-6790-5184" pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author orcid="0000-0002-4314-3429" pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<title>GPotion: An embedded DSL for GPU programming in Elixir.</title>
+<pages>1-8</pages>
+<year>2023</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3624309.3624314</ee>
+<ee>https://www.wikidata.org/entity/Q130817081</ee>
+<crossref>conf/sblp/2023</crossref>
+<url>db/conf/sblp/sblp2023.html#BoisC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/RamosBC23" mdate="2025-01-19">
+<author pid="143/6774">Jer&#244;nimo da Cunha Ramos</author>
+<author orcid="0000-0002-6790-5184" pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author orcid="0000-0002-4314-3429" pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<title>Obstruction-Free Distributed Transactional Memory.</title>
+<pages>33-40</pages>
+<year>2023</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3624309.3624316</ee>
+<ee>https://www.wikidata.org/entity/Q130808149</ee>
+<crossref>conf/sblp/2023</crossref>
+<url>db/conf/sblp/sblp2023.html#RamosBC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/haskell/ConceicaoBFCR22" mdate="2022-10-20">
+<author pid="244/1579">Jonathas Augusto de Oliveira Concei&#231;&#227;o</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="226/4565">Samuel da Silva Feitosa</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<author pid="204/6610">Rodrigo Geraldo Ribeiro</author>
+<title>Open transactional actions: interacting with non-transactional resources in STM Haskell.</title>
+<pages>54-65</pages>
+<year>2022</year>
+<booktitle>Haskell</booktitle>
+<ee>https://doi.org/10.1145/3546189.3549924</ee>
+<crossref>conf/haskell/2022</crossref>
+<url>db/conf/haskell/haskell2022.html#ConceicaoBFCR22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/DomenicoCL22" mdate="2022-04-22">
+<author pid="209/6950">Daniel Di Domenico</author>
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<author pid="98/8779">Jo&#227;o V. F. Lima</author>
+<title>NAS Parallel Benchmark Kernels with Python: A performance and programming effort analysis focusing on GPUs.</title>
+<pages>26-33</pages>
+<year>2022</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP55904.2022.00013</ee>
+<crossref>conf/pdp/2022</crossref>
+<url>db/conf/pdp/pdp2022.html#DomenicoCL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensornets/OliveiraSSC22" mdate="2022-03-12">
+<author pid="315/5743">Marcos A. de Oliveira Jr.</author>
+<author pid="315/5877">Gregory Sedrez</author>
+<author pid="315/6069">Guilherme de Souza</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo H. Cavalheiro</author>
+<title>An Application with Jetson Nano for Plant Stress Detection and On-field Spray Decision.</title>
+<pages>215-222</pages>
+<year>2022</year>
+<booktitle>SENSORNETS</booktitle>
+<ee>https://doi.org/10.5220/0010983900003118</ee>
+<crossref>conf/sensornets/2022</crossref>
+<url>db/conf/sensornets/sensornets2022.html#OliveiraSSC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/JardimOCDBC21" mdate="2025-01-19">
+<author pid="209/7035">Andre D. Jardim</author>
+<author pid="304/6152">Kevin Oliveira</author>
+<author pid="228/5942">Diogo J. Cardoso</author>
+<author pid="209/6950">Daniel Di Domenico</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<title>An extension for Transactional Memory in OpenMP.</title>
+<pages>58-65</pages>
+<year>2021</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3475061.3475089</ee>
+<ee>https://www.wikidata.org/entity/Q130971555</ee>
+<crossref>conf/sblp/2021</crossref>
+<url>db/conf/sblp/sblp2021.html#JardimOCDBC21</url>
+</inproceedings>
+</r>
+<r><article key="journals/rita/SantosC20" mdate="2021-10-14">
+<author orcid="0000-0003-4267-9851" pid="191/4620">Maicon Anca dos Santos</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo H. Cavalheiro</author>
+<title>Cloud infrastructure for HPC investment analysis.</title>
+<pages>45-62</pages>
+<year>2020</year>
+<volume>27</volume>
+<journal>RITA</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.22456/2175-2745.106794</ee>
+<url>db/journals/rita/rita27.html#SantosC20</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbac-pad/DomenicoC20" mdate="2020-10-29">
+<author pid="209/6950">Daniel Di Domenico</author>
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<title>JAMPI: A C++ Parallel Programming Interface Allowing the Implementation of Custom and Generic Scheduling Mechanisms.</title>
+<pages>273-280</pages>
+<year>2020</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD49847.2020.00045</ee>
+<crossref>conf/sbac-pad/2020</crossref>
+<url>db/conf/sbac-pad/sbac-pad2020.html#DomenicoC20</url>
+</inproceedings>
+</r>
+<r><article key="journals/scp/DuarteBPCR19" mdate="2025-01-19">
+<author pid="165/3753">Rodrigo Medeiros Duarte</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="06/5321">Maur&#237;cio Lima Pilla</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo H. Cavalheiro</author>
+<author orcid="0000-0001-9934-3115" pid="61/2221">Renata Hax Sander Reiser</author>
+<title>Comparing the performance of concurrent hash tables implemented in Haskell.</title>
+<pages>56-70</pages>
+<year>2019</year>
+<volume>173</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee>https://doi.org/10.1016/j.scico.2018.06.004</ee>
+<ee>https://www.wikidata.org/entity/Q129550060</ee>
+<url>db/journals/scp/scp173.html#DuarteBPCR19</url>
+</article>
+</r>
+<r><inproceedings key="conf/wscad/DuarteBCP18" mdate="2019-07-05">
+<author pid="165/3753">Rodrigo Medeiros Duarte</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<author pid="06/5321">Maur&#237;cio Lima Pilla</author>
+<title>User-Level Transaction Scheduling in Haskell.</title>
+<pages>30-37</pages>
+<year>2018</year>
+<booktitle>WSCAD</booktitle>
+<ee>https://doi.org/10.1109/WSCAD.2018.00015</ee>
+<crossref>conf/wscad/2018</crossref>
+<url>db/conf/wscad/wscad2018.html#DuarteBCP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wscad/OsorioDC18a" mdate="2020-03-03">
+<author orcid="0000-0002-7576-0958" pid="244/1485">Alessander Osorio</author>
+<author orcid="0000-0002-8875-9438" pid="244/1333">Marina Dias</author>
+<author orcid="0000-0002-4314-3429" pid="c/GGHCavalheiro">Gerson Geraldo H. Cavalheiro</author>
+<title>Tangible Assets to Improve Research Quality: A Meta Analysis Case Study.</title>
+<pages>117-132</pages>
+<year>2018</year>
+<booktitle>WSCAD (Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-41050-6_8</ee>
+<crossref>conf/wscad/2018s</crossref>
+<url>db/conf/wscad/wscad2018s.html#OsorioDC18a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wscad/OsorioDC18" mdate="2025-05-31">
+<author orcid="0000-0002-7576-0958" pid="244/1485">Alessander Osorio</author>
+<author orcid="0000-0002-8875-9438" pid="244/1333">Marina Dias</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo H. Cavalheiro</author>
+<title>Meta-Analysis of Scientific Articles According to Statistical Criteria: A Case Study in WSCAD.</title>
+<pages>124-129</pages>
+<year>2018</year>
+<booktitle>WSCAD</booktitle>
+<ee>https://doi.org/10.1109/WSCAD.2018.00028</ee>
+<crossref>conf/wscad/2018</crossref>
+<url>db/conf/wscad/wscad2018.html#OsorioDC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nca/CarvalhoGC17" mdate="2023-03-23">
+<author pid="210/6082">Rafael Aquino de Carvalho</author>
+<author orcid="0000-0001-5746-4154" pid="g/AlfredoGoldman">Alfredo Goldman</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo H. Cavalheiro</author>
+<title>Is Intel high performance analytics toolkit a good alternative to Apache Spark?</title>
+<pages>171-178</pages>
+<year>2017</year>
+<booktitle>NCA</booktitle>
+<ee>https://doi.org/10.1109/NCA.2017.8171351</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/NCA.2017.8171351</ee>
+<crossref>conf/nca/2017</crossref>
+<url>db/conf/nca/nca2017.html#CarvalhoGC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/MachadoAJPYC17" mdate="2023-03-23">
+<author pid="199/9083">Roger da Silva Machado</author>
+<author pid="199/9062">Ricardo Borges Almeida</author>
+<author pid="209/7035">Andre D. Jardim</author>
+<author pid="92/4826">Ana Marilza Pernas</author>
+<author pid="y/AdenauerCYamin">Adenauer C. Yamin</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo H. Cavalheiro</author>
+<title>Comparing Performance of C Compilers Optimizations on Different Multicore Architectures.</title>
+<pages>25-30</pages>
+<year>2017</year>
+<booktitle>SBAC-PAD (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PADW.2017.13</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PADW.2017.13</ee>
+<crossref>conf/sbac-pad/2017w</crossref>
+<url>db/conf/sbac-pad/sbac-pad2017w.html#MachadoAJPYC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/SantosBC17" mdate="2023-03-23">
+<author pid="191/4620">Maicon Anca dos Santos</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<title>A User-Level Scheduling Framework for BoT Applications on Private Clouds.</title>
+<pages>81-88</pages>
+<year>2017</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2017.18</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2017.18</ee>
+<crossref>conf/sbac-pad/2017</crossref>
+<url>db/conf/sbac-pad/sbac-pad2017.html#SantosBC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nca/OkadaGC16" mdate="2023-03-23">
+<author pid="165/8214">Thiago Kenji Okada</author>
+<author orcid="0000-0001-5746-4154" pid="g/AlfredoGoldman">Alfredo Goldman</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo H. Cavalheiro</author>
+<title>Using NAS Parallel Benchmarks to evaluate HPC performance in clouds.</title>
+<pages>27-30</pages>
+<year>2016</year>
+<booktitle>NCA</booktitle>
+<ee>https://doi.org/10.1109/NCA.2016.7778587</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/NCA.2016.7778587</ee>
+<crossref>conf/nca/2016</crossref>
+<url>db/conf/nca/nca2016.html#OkadaGC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nca/SantosBC16" mdate="2023-03-23">
+<author pid="191/4620">Maicon Anca dos Santos</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo H. Cavalheiro</author>
+<title>A user level approach to schedule BoT applications on private clouds.</title>
+<pages>31-34</pages>
+<year>2016</year>
+<booktitle>NCA</booktitle>
+<ee>https://doi.org/10.1109/NCA.2016.7778588</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/NCA.2016.7778588</ee>
+<crossref>conf/nca/2016</crossref>
+<url>db/conf/nca/nca2016.html#SantosBC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/DuarteBPCR16" mdate="2019-12-27">
+<author pid="165/3753">Rodrigo Medeiros Duarte</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="06/5321">Maur&#237;cio L. Pilla</author>
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<author orcid="0000-0001-9934-3115" pid="61/2221">Renata Hax Sander Reiser</author>
+<title>Concurrent Hash Tables for Haskell.</title>
+<pages>110-124</pages>
+<year>2016</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-45279-1_8</ee>
+<crossref>conf/sblp/2016</crossref>
+<url>db/conf/sblp/sblp2016.html#DuarteBPCR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/DuarteBPC15" mdate="2018-11-06">
+<author pid="165/3753">Rodrigo Medeiros Duarte</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="06/5321">Maur&#237;cio Lima Pilla</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<title>Composable memory transactions with eager version management.</title>
+<pages>2093-2098</pages>
+<year>2015</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2695664.2695816</ee>
+<crossref>conf/sac/2015</crossref>
+<url>db/conf/sac/sac2015.html#DuarteBPC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/BarbaraABC15" mdate="2023-03-23">
+<author pid="177/2480">Israel da Silva Barbara</author>
+<author pid="177/2473">Nicolas O. de Araujo</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo H. Cavalheiro</author>
+<title>Evaluating Overhead and Contention in Concurrent Accesses to a Graph.</title>
+<pages>49-54</pages>
+<year>2015</year>
+<booktitle>SBAC-PAD (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PADW.2015.27</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PADW.2015.27</ee>
+<crossref>conf/sbac-pad/2015w</crossref>
+<url>db/conf/sbac-pad/sbac-pad2015w.html#BarbaraABC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/KistPBBC15" mdate="2023-03-23">
+<author pid="177/2479">Deives Kist</author>
+<author pid="177/2487">Bruno Pinto</author>
+<author pid="177/2474">Rodrigo Bazo</author>
+<author pid="21/3472">Andr&#233; Rauber Du Bois</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<title>Kanga: A Skeleton-Based Generic Interface for Parallel Programming.</title>
+<pages>68-72</pages>
+<year>2015</year>
+<booktitle>SBAC-PAD (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PADW.2015.16</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PADW.2015.16</ee>
+<crossref>conf/sbac-pad/2015w</crossref>
+<url>db/conf/sbac-pad/sbac-pad2015w.html#KistPBBC15</url>
+</inproceedings>
+</r>
+<r><article key="journals/cluster/CamargoCPCF14" mdate="2020-09-29">
+<author pid="28/10791">C&#237;cero Augusto de S. Camargo</author>
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<author pid="06/5321">Maur&#237;cio L. Pilla</author>
+<author pid="55/10789">Simone Andr&#233; da Costa</author>
+<author pid="24/37">Luciana Foss</author>
+<title>Aproximating static list schedules in dynamic multithreaded applications.</title>
+<pages>155-168</pages>
+<year>2014</year>
+<volume>17</volume>
+<journal>Clust. Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10586-013-0322-3</ee>
+<url>db/journals/cluster/cluster17.html#CamargoCPCF14</url>
+</article>
+</r>
+<r><inproceedings key="conf/clei/CousinXFC14" mdate="2017-05-21">
+<author pid="156/4637">Guilherme Porto Britto Cousin</author>
+<author pid="156/4570">Lucas Xavier</author>
+<author pid="156/4530">Rodolfo M. Favaretto</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<title>Utilization of data structure of low contention in execution core of Anahy-3.</title>
+<pages>1-8</pages>
+<year>2014</year>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI.2014.6965139</ee>
+<crossref>conf/clei/2014</crossref>
+<url>db/conf/clei/clei2014.html#CousinXFC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clei/FavarettoCCP14" mdate="2021-08-25">
+<author pid="156/4530">Rodolfo M. Favaretto</author>
+<author pid="156/4637">Guilherme Porto Britto Cousin</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<author pid="06/5321">Maur&#237;cio L. Pilla</author>
+<title>Dynamic scheduling in application level aware of architecture and data dependencies between tasks.</title>
+<pages>1-12</pages>
+<year>2014</year>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI.2014.6965140</ee>
+<crossref>conf/clei/2014</crossref>
+<url>db/conf/clei/clei2014.html#FavarettoCCP14</url>
+</inproceedings>
+</r>
+<r><article key="journals/rita/CamargoCFC13" mdate="2025-01-19">
+<author pid="28/10791">C&#237;cero Augusto de S. Camargo</author>
+<author pid="55/10789">Simone Andr&#233; da Costa Cavalheiro</author>
+<author pid="24/37">Luciana Foss</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<title>A Graph Grammar to Transform a Dataflow Graph into a Multithread Graph and its Application in Task Scheduling.</title>
+<pages>140-179</pages>
+<year>2013</year>
+<volume>20</volume>
+<journal>RITA</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.22456/2175-2745.25210</ee>
+<ee>https://www.wikidata.org/entity/Q128007996</ee>
+<url>db/journals/rita/rita20.html#CamargoCFC13</url>
+</article>
+</r>
+<r><inproceedings key="conf/csedu/GaspariniPPOKC12" mdate="2012-05-29">
+<author pid="83/667">Isabela Gasparini</author>
+<author pid="92/4826">Ana Marilza Pernas</author>
+<author pid="p/MarceloSoaresPimenta">Marcelo Soares Pimenta</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<author pid="28/11442">Avanilde Kemczinski</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<title>m-AdaptWeb&#174;: An Adaptive e-Learning Environment Facing Mobility - Adaptation and Recomendation Processes based on Context.</title>
+<pages>395-400</pages>
+<year>2012</year>
+<booktitle>CSEDU (2)</booktitle>
+<crossref>conf/csedu/2012-2</crossref>
+<url>db/conf/csedu/csedu2012-2.html#GaspariniPPOKC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/weit/CamargoCFC11" mdate="2023-03-24">
+<author pid="28/10791">C&#237;cero Augusto de S. Camargo</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<author pid="24/37">Luciana Foss</author>
+<author pid="55/10789">Simone Andr&#233; da Costa Cavalheiro</author>
+<title>A Graph Grammar to Transform DAGs into Graphs Describing Multithreaded Programs.</title>
+<pages>95-101</pages>
+<year>2011</year>
+<booktitle>WEIT</booktitle>
+<ee>https://doi.org/10.1109/WEIT.2011.25</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WEIT.2011.25</ee>
+<crossref>conf/weit/2011</crossref>
+<url>db/conf/weit/weit2011.html#CamargoCFC11</url>
+</inproceedings>
+</r>
+<r><article key="journals/cleiej/YaminCN10" mdate="2025-01-19">
+<author pid="y/AdenauerCYamin">Adenauer Corr&#234;a Yamin</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<title>Preface to CIESC 2009 Special Issue.</title>
+<year>2010</year>
+<volume>13</volume>
+<journal>CLEI Electron. J.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.19153/cleiej.13.2.0</ee>
+<ee>https://www.wikidata.org/entity/Q128947550</ee>
+<url>db/journals/cleiej/cleiej13.html#YaminCN10</url>
+</article>
+</r>
+<r><article key="journals/ppl/SilveiraCJJM10" mdate="2020-12-10">
+<author pid="06/7987">C&#233;sar L. B. Silveira</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<author pid="07/5754">Cl&#225;udio Rosito Jung</author>
+<author orcid="0000-0001-6785-7146" pid="123/3235">J&#250;lio Cezar Silveira Jacques Jr.</author>
+<author orcid="0000-0002-3278-217X" pid="92/5311">Soraia Raupp Musse</author>
+<title>An Improved Background Subtraction Algorithm and Concurrent Implementations.</title>
+<pages>71-89</pages>
+<year>2010</year>
+<volume>20</volume>
+<journal>Parallel Process. Lett.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1142/S0129626410000065</ee>
+<url>db/journals/ppl/ppl20.html#SilveiraCJJM10</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbac-pad/AraujoCCP10" mdate="2023-03-23">
+<author pid="161/5343">Alan S. de Araujo</author>
+<author pid="28/10791">C&#237;cero Augusto de S. Camargo</author>
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<author pid="06/5321">Maur&#237;cio L. Pilla</author>
+<title>Towards a Power-Aware Application Level Scheduler for a Multithreaded Runtime Environment.</title>
+<pages>43-48</pages>
+<year>2010</year>
+<booktitle>SBAC-PAD (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PADW.2010.11</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PADW.2010.11</ee>
+<crossref>conf/sbac-pad/2010w</crossref>
+<url>db/conf/sbac-pad/sbac-pad2010w.html#AraujoCCP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/GasparyCFBC09" mdate="2023-03-24">
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="96/2183">Weverton Luis da Costa Cordeiro</author>
+<author pid="83/7381">Sidnei Roberto Selzler Franco</author>
+<author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<title>AGRADC: An architecture for autonomous deployment and configuration of grid computing applications.</title>
+<pages>805-810</pages>
+<year>2009</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2009.5202358</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2009.5202358</ee>
+<crossref>conf/iscc/2009</crossref>
+<url>db/conf/iscc/iscc2009.html#GasparyCFBC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccgrid/CavalheiroBPM06" mdate="2023-03-24">
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<author pid="67/5946">Epifanio Dinis Benitez</author>
+<author pid="23/4025">Daniela Saccol Peranconi</author>
+<author pid="28/5336">Eduardo Moschetta</author>
+<title>Dynamic List Scheduling of Threads on Clusters.</title>
+<pages>20</pages>
+<year>2006</year>
+<crossref>conf/ccgrid/2006</crossref>
+<booktitle>CCGRID</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CCGRID.2006.134</ee>
+<url>db/conf/ccgrid/ccgrid2006.html#CavalheiroBPM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsom/LudwigGCC06" mdate="2018-06-26">
+<author pid="70/3609">Glauco Antonio Ludwig</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<author pid="20/2031">Walfredo Cirne</author>
+<title>A WSDM-Based Architecture for Global Usage Characterization of Grid Computing Infrastructures.</title>
+<pages>124-135</pages>
+<year>2006</year>
+<crossref>conf/dsom/2006</crossref>
+<booktitle>DSOM</booktitle>
+<ee type="oa">https://doi.org/10.1007/11907466_11</ee>
+<url>db/conf/dsom/dsom2006.html#LudwigGCC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpcs/CercatoMC06" mdate="2023-03-24">
+<author pid="11/1334">Fernando Piccini Cercato</author>
+<author pid="m/JCMMombach">Jos&#233; C. M. Mombach</author>
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<title>High Performance Simulations of the Cellular Potts Model.</title>
+<pages>28</pages>
+<year>2006</year>
+<crossref>conf/hpcs/2006</crossref>
+<booktitle>HPCS</booktitle>
+<ee>https://doi.org/10.1109/HPCS.2006.28</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/HPCS.2006.28</ee>
+<url>db/conf/hpcs/hpcs2006.html#CercatoMC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vecpar/CavalheiroGCC06" mdate="2017-05-26">
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="43/1778">Marcelo Augusto Cardozo</author>
+<author pid="86/6720">Ot&#225;vio Corr&#234;a Cordeiro</author>
+<title>Anahy: A Programming Environment for Cluster Computing.</title>
+<pages>198-211</pages>
+<year>2006</year>
+<crossref>conf/vecpar/2006</crossref>
+<booktitle>VECPAR</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-71351-7_16</ee>
+<url>db/conf/vecpar/vecpar2006.html#CavalheiroGCC06</url>
+</inproceedings>
+</r>
+<r><article key="journals/ppl/GusattoMCC05" mdate="2020-03-24">
+<author pid="06/2846">&#201;der Gusatto</author>
+<author pid="m/JCMMombach">Jos&#233; C. M. Mombach</author>
+<author pid="11/1334">Fernando Piccini Cercato</author>
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<title>An Efficient Parallel Algorithm to Evolve Simulations of the Cellular Potts Model.</title>
+<pages>199-208</pages>
+<year>2005</year>
+<volume>15</volume>
+<journal>Parallel Process. Lett.</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1142/S0129626405002155</ee>
+<url>db/journals/ppl/ppl15.html#GusattoMCC05</url>
+</article>
+</r>
+<r><inproceedings key="conf/hpcs/CordeiroPRDC05" mdate="2023-03-24">
+<author pid="86/6720">Ot&#225;vio Corr&#234;a Cordeiro</author>
+<author pid="23/4025">Daniela Saccol Peranconi</author>
+<author pid="84/1890">Lucas Correia Villa Real</author>
+<author pid="75/5903">Evandro Clivatti Dall'Agnol</author>
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<title>Exploiting Multithreaded Programming on Cluster Architectures.</title>
+<pages>90-96</pages>
+<year>2005</year>
+<crossref>conf/hpcs/2005</crossref>
+<booktitle>HPCS</booktitle>
+<ee>https://doi.org/10.1109/HPCS.2005.25</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/HPCS.2005.25</ee>
+<url>db/conf/hpcs/hpcs2005.html#CordeiroPRDC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icete/CostaGBCPR05" mdate="2007-01-17">
+<author pid="84/2970">Fernando da Costa Jr.</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="72/3050">Jorge L. V. Barbosa</author>
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<author pid="95/1078">Luciano Pfitscher</author>
+<author pid="97/6635">Jos&#233; Dirceu G. Ramos</author>
+<title>On the evaluation of a secure solution to access 802.11 networks.</title>
+<pages>74-79</pages>
+<year>2005</year>
+<crossref>conf/icete/2005</crossref>
+<booktitle>ICETE</booktitle>
+<url>db/conf/icete/icete2005.html#CostaGBCPR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icete/CostaGBCPR05a" mdate="2020-06-15">
+<author pid="84/2970">Fernando da Costa Jr.</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author orcid="0000-0002-0358-2056" pid="72/3050">Jorge L. V. Barbosa</author>
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<author pid="95/1078">Luciano Pfitscher</author>
+<author pid="97/6635">Jos&#233; Dirceu G. Ramos</author>
+<title>On the Evaluation of a Secure Solution to Access 802.11 Networks.</title>
+<pages>226-235</pages>
+<year>2005</year>
+<booktitle>ICETE (Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-75993-5_19</ee>
+<crossref>conf/icete/2005s</crossref>
+<url>db/conf/icete/icete2005s.html#CostaGBCPR05a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lanoms/JuniorGBCPR05" mdate="2020-03-12">
+<author pid="93/10161">Fernando Luis da Costa Junior</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="72/3050">Jorge L. V. Barbosa</author>
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<author pid="95/1078">Luciano Pfitscher</author>
+<author pid="97/6635">Jos&#233; Dirceu G. Ramos</author>
+<title>Evaluating the Impact on Data Reception and Energy Consumption of Mobile Devices using IPSec to securely access WiFi Networks.</title>
+<pages>15-25</pages>
+<year>2005</year>
+<booktitle>LANOMS</booktitle>
+<ee type="oa">http://www.lanoms.org/2005/anaiscd/2005/1-2.pdf</ee>
+<crossref>conf/lanoms/2005</crossref>
+<url>db/conf/lanoms/lanoms2005.html#JuniorGBCPR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lanoms/LudwigGC05" mdate="2020-03-12">
+<author pid="70/3609">Glauco Antonio Ludwig</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<title>MUAT: An Environment for Accounting and Characterization of the Use of Computational Grids.</title>
+<pages>263-268</pages>
+<year>2005</year>
+<booktitle>LANOMS</booktitle>
+<ee type="oa">http://www.lanoms.org/2005/anaiscd/2005/p1-3.pdf</ee>
+<crossref>conf/lanoms/2005</crossref>
+<url>db/conf/lanoms/lanoms2005.html#LudwigGC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sccc/PeranconiC05" mdate="2023-03-23">
+<author pid="23/4025">Daniela Saccol Peranconi</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<title>Using active messages to explore high performance in clusters of computers.</title>
+<pages>101-108</pages>
+<year>2005</year>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.2005.1587871</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCCC.2005.1587871</ee>
+<crossref>conf/sccc/2005</crossref>
+<url>db/conf/sccc/sccc2005.html#PeranconiC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/DetschGBC04" mdate="2018-11-06">
+<author pid="77/5505">Andr&#233; Detsch</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="b/MarinhoPBarcellos">Ant&#244;nio Marinho Pilla Barcellos</author>
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<title>Towards a flexible security framework for peer-to-peer based grid computing.</title>
+<pages>52-56</pages>
+<year>2004</year>
+<crossref>conf/middleware/2004w1</crossref>
+<booktitle>Middleware for Grid Computing</booktitle>
+<ee>https://doi.org/10.1145/1028493.1028502</ee>
+<url>db/conf/middleware/middleware2004-w1.html#DetschGBC04</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/crc/AugustinYBSRFCG04" mdate="2017-07-12">
+<author pid="64/3911">Iara Augustin</author>
+<author pid="y/AdenauerCYamin">Adenauer Corr&#234;a Yamin</author>
+<author pid="72/3050">Jorge Luis Vict&#243;ria Barbosa</author>
+<author pid="92/3290">Luciano Cavalheiro da Silva</author>
+<author pid="98/1545">Rodrigo Ara&#250;jo Real</author>
+<author pid="02/4423">Gustavo Frainer</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<author pid="b/ClaudioFernandoResinGeyer">Cl&#225;udio Fernando Resin Geyer</author>
+<title>ISAM, Joining Context-Awareness and Mobility to Building Pervasive Applications.</title>
+<year>2004</year>
+<booktitle>Mobile Computing Handbook</booktitle>
+<ee>https://doi.org/10.1201/9780203504086.ch4</ee>
+<crossref>reference/crc/2004mc</crossref>
+<url>db/reference/crc/mc2004.html#AugustinYBSRFCG04</url>
+</incollection>
+</r>
+<r><article key="journals/ijhpca/YaminBASRGC03" mdate="2020-06-15">
+<author pid="y/AdenauerCYamin">Adenauer Corr&#234;a Yamin</author>
+<author orcid="0000-0002-0358-2056" pid="72/3050">Jorge L. V. Barbosa</author>
+<author pid="64/3911">Iara Augustin</author>
+<author pid="92/3290">Luciano Cavalheiro da Silva</author>
+<author pid="98/1545">Rodrigo Ara&#250;jo Real</author>
+<author pid="b/ClaudioFernandoResinGeyer">Cl&#225;udio Fernando Resin Geyer</author>
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<title>Towards Merging Context-Aware, Mobile and Grid Computing.</title>
+<pages>191-203</pages>
+<year>2003</year>
+<volume>17</volume>
+<journal>Int. J. High Perform. Comput. Appl.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1177/1094342003017002008</ee>
+<url>db/journals/ijhpca/ijhpca17.html#YaminBASRGC03</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbac-pad/YaminBASRGC02" mdate="2023-03-23">
+<author pid="y/AdenauerCYamin">Adenauer C. Yamin</author>
+<author orcid="0000-0002-0358-2056" pid="72/3050">Jorge L. V. Barbosa</author>
+<author pid="64/3911">Iara Augustin</author>
+<author pid="92/3290">Luciano Cavalheiro da Silva</author>
+<author pid="98/1545">Rodrigo Ara&#250;jo Real</author>
+<author pid="b/ClaudioFernandoResinGeyer">Cl&#225;udio F. R. Geyer</author>
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<title>A Framework for Exploiting Adaptation in Highly Heterogeneous Distributed Processing.</title>
+<pages>125-132</pages>
+<year>2002</year>
+<crossref>conf/sbac-pad/2002</crossref>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/CAHPC.2002.1180768</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CAHPC.2002.1180768</ee>
+<url>db/conf/sbac-pad/sbac-pad2002.html#YaminBASRGC02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sccc/YaminABSGC02" mdate="2023-03-23">
+<author pid="y/AdenauerCYamin">Adenauer C. Yamin</author>
+<author pid="64/3911">Iara Augustin</author>
+<author orcid="0000-0002-0358-2056" pid="72/3050">Jorge L. V. Barbosa</author>
+<author pid="92/3290">Luciano Cavalheiro da Silva</author>
+<author pid="b/ClaudioFernandoResinGeyer">Cl&#225;udio F. R. Geyer</author>
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<title>Collaborative Multilevel Adaptation in Distributed Mobile Applications.</title>
+<pages>82-</pages>
+<year>2002</year>
+<crossref>conf/sccc/2002</crossref>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.2002.1173176</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCCC.2002.1173176</ee>
+<url>db/conf/sccc/sccc2002.html#YaminABSGC02</url>
+</inproceedings>
+</r>
+<r><article key="journals/rita/AugustinYJBGC01" mdate="2004-05-24">
+<author pid="64/3911">Iara Augustin</author>
+<author pid="y/AdenauerCYamin">Adenauer C. Yamin</author>
+<author pid="64/5875">Edson N. Silva Junior</author>
+<author pid="72/3050">Jorge L. V. Barbosa</author>
+<author pid="b/ClaudioFernandoResinGeyer">Cl&#225;udio F. R. Geyer</author>
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<title>ISAM: um Middleware para Aplica&#231;&#245;es M&#243;veis Distribu&#237;das.</title>
+<pages>41-58</pages>
+<year>2001</year>
+<volume>8</volume>
+<journal>RITA</journal>
+<number>3</number>
+<url>db/journals/rita/rita8.html#AugustinYJBGC01</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccgrid/Cavalheiro01" mdate="2023-03-24">
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<title>A General Scheduling Framework for Parallel Execution Environments.</title>
+<pages>680-687</pages>
+<year>2001</year>
+<crossref>conf/ccgrid/2001</crossref>
+<booktitle>CCGRID</booktitle>
+<ee>https://doi.org/10.1109/CCGRID.2001.923260</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CCGRID.2001.923260</ee>
+<url>db/conf/ccgrid/ccgrid2001.html#Cavalheiro01</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Cavalheiro99" mdate="2020-07-21">
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<title>Athapascan-1 : interface g&#233;n&#233;rique pour l'ordonnancement dans un environnement d'ex&#233;cution parall&#232;le. (Athapascan-1 : generic scheduling interface in a parallel execution environment).</title>
+<year>1999</year>
+<school>Grenoble Institute of Technology, France</school>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-00004816</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/IEEEpact/GalileeRCD98" mdate="2022-05-30">
+<author pid="71/5992">Fran&#231;ois Galil&#233;e</author>
+<author pid="82/5170">Jean-Louis Roch</author>
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<author pid="94/6373">Mathias Doreille</author>
+<title>Athapascan-1: On-Line Building Data Flow Graph in a Parallel Language.</title>
+<pages>88-95</pages>
+<year>1998</year>
+<crossref>conf/IEEEpact/1998</crossref>
+<booktitle>IEEE PACT</booktitle>
+<ee>https://doi.org/10.1109/PACT.1998.727176</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PACT.1998.727176</ee>
+<ee>https://dl.acm.org/doi/10.5555/522344.825701</ee>
+<url>db/conf/IEEEpact/IEEEpact1998.html#GalileeRCD98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/CavalheiroDR98" mdate="2017-05-23">
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<author pid="38/6122">Yves Denneulin</author>
+<author pid="82/5170">Jean-Louis Roch</author>
+<title>A General Modular Specification for Distributed Schedulers.</title>
+<pages>373-376</pages>
+<ee>https://doi.org/10.1007/BFb0057876</ee>
+<year>1998</year>
+<crossref>conf/europar/1998</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar98.html#CavalheiroDR98</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsa/NavauxRC95" mdate="2020-05-19">
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<author orcid="0000-0003-0070-0157" pid="95/5199">C&#233;sar A. F. De Rose</author>
+<author pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</author>
+<title>Performance evaluation in image processing with GAPP array processor.</title>
+<pages>71-82</pages>
+<year>1995</year>
+<volume>41</volume>
+<journal>Microprocess. Microprogramming</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/0165-6074(94)00088-R</ee>
+<url>db/journals/jsa/jsa41.html#NavauxRC95</url>
+</article>
+</r>
+<coauthors n="91" nc="5">
+<co c="0" n="2"><na f="a/Almeida_0002:Ricardo" pid="199/9062">Ricardo Almeida 0002</na><na>Ricardo Borges Almeida</na></co>
+<co c="0"><na f="a/Araujo:Alan_S=_de" pid="161/5343">Alan S. de Araujo</na></co>
+<co c="0"><na f="a/Araujo:Nicolas_O=_de" pid="177/2473">Nicolas O. de Araujo</na></co>
+<co c="1"><na f="a/Ara=uacute=jo:Ricardo_Matsumura_de" pid="a/RMdAraujo">Ricardo Matsumura de Ara&#250;jo</na></co>
+<co c="0"><na f="a/Augustin:Iara" pid="64/3911">Iara Augustin</na></co>
+<co c="0"><na f="b/Barbara:Israel_da_Silva" pid="177/2480">Israel da Silva Barbara</na></co>
+<co c="0" n="2"><na f="b/Barbosa:Jorge_L=_V=" pid="72/3050">Jorge L. V. Barbosa</na><na>Jorge Luis Vict&#243;ria Barbosa</na></co>
+<co c="0" n="2"><na f="b/Barcellos:Marinho_P=" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</na><na>Ant&#244;nio Marinho Pilla Barcellos</na></co>
+<co c="0"><na f="b/Bazo:Rodrigo" pid="177/2474">Rodrigo Bazo</na></co>
+<co c="0"><na f="b/Benitez:Epifanio_Dinis" pid="67/5946">Epifanio Dinis Benitez</na></co>
+<co c="0"><na f="b/Bois:Andr=eacute=_Rauber_Du" pid="21/3472">Andr&#233; Rauber Du Bois</na></co>
+<co c="0"><na f="c/Camargo:C=iacute=cero_Augusto_de_S=" pid="28/10791">C&#237;cero Augusto de S. Camargo</na></co>
+<co c="0"><na f="c/Cardoso:Diogo_J=" pid="228/5942">Diogo J. Cardoso</na></co>
+<co c="0"><na f="c/Cardozo:Marcelo_Augusto" pid="43/1778">Marcelo Augusto Cardozo</na></co>
+<co c="2"><na f="c/Carvalho:Rafael_Aquino_de" pid="210/6082">Rafael Aquino de Carvalho</na></co>
+<co c="0" n="2"><na f="c/Cavalheiro:Simone_Andr=eacute=_da_Costa" pid="55/10789">Simone Andr&#233; da Costa Cavalheiro</na><na>Simone Andr&#233; da Costa</na></co>
+<co c="1"><na f="c/Cerbaro:Vin=iacute=cius_Andrei" pid="234/6512">Vin&#237;cius Andrei Cerbaro</na></co>
+<co c="0"><na f="c/Cercato:Fernando_Piccini" pid="11/1334">Fernando Piccini Cercato</na></co>
+<co c="0"><na f="c/Cirne:Walfredo" pid="20/2031">Walfredo Cirne</na></co>
+<co c="0"><na f="c/Concei=ccedil==atilde=o:Jonathas_Augusto_de_Oliveira" pid="244/1579">Jonathas Augusto de Oliveira Concei&#231;&#227;o</na></co>
+<co c="0"><na f="c/Cordeiro:Ot=aacute=vio_Corr=ecirc=a" pid="86/6720">Ot&#225;vio Corr&#234;a Cordeiro</na></co>
+<co c="0"><na f="c/Cordeiro:Weverton_Luis_da_Costa" pid="96/2183">Weverton Luis da Costa Cordeiro</na></co>
+<co c="0"><na f="c/Costa_Jr=:Fernando_da" pid="84/2970">Fernando da Costa Jr.</na></co>
+<co c="0"><na f="c/Cousin:Guilherme_Porto_Britto" pid="156/4637">Guilherme Porto Britto Cousin</na></co>
+<co c="0"><na f="d/Dall=Agnol:Evandro_Clivatti" pid="75/5903">Evandro Clivatti Dall'Agnol</na></co>
+<co c="0"><na f="d/Denneulin:Yves" pid="38/6122">Yves Denneulin</na></co>
+<co c="0"><na f="d/Detsch:Andr=eacute=" pid="77/5505">Andr&#233; Detsch</na></co>
+<co c="4"><na f="d/Dias:Marina" pid="244/1333">Marina Dias</na></co>
+<co c="0"><na f="d/Domenico:Daniel_Di" pid="209/6950">Daniel Di Domenico</na></co>
+<co c="0"><na f="d/Doreille:Mathias" pid="94/6373">Mathias Doreille</na></co>
+<co c="0"><na f="d/Duarte:Rodrigo_Medeiros" pid="165/3753">Rodrigo Medeiros Duarte</na></co>
+<co c="0"><na f="f/Favaretto:Rodolfo_M=" pid="156/4530">Rodolfo M. Favaretto</na></co>
+<co c="0"><na f="f/Feitosa:Samuel_da_Silva" pid="226/4565">Samuel da Silva Feitosa</na></co>
+<co c="4" n="2"><na f="f/Ferreira_Jr=:Paulo_R=" pid="222/3501">Paulo R. Ferreira Jr.</na><na>Paulo Roberto Ferreira Jr.</na></co>
+<co c="0"><na f="f/Foss:Luciana" pid="24/37">Luciana Foss</na></co>
+<co c="0"><na f="f/Frainer:Gustavo" pid="02/4423">Gustavo Frainer</na></co>
+<co c="1"><na f="f/Fraisse:Clyde_W=" pid="65/10256">Clyde W. Fraisse</na></co>
+<co c="0"><na f="f/Franco:Sidnei_Roberto_Selzler" pid="83/7381">Sidnei Roberto Selzler Franco</na></co>
+<co c="0"><na f="g/Galil=eacute=e:Fran=ccedil=ois" pid="71/5992">Fran&#231;ois Galil&#233;e</na></co>
+<co c="0"><na f="g/Gasparini:Isabela" pid="83/667">Isabela Gasparini</na></co>
+<co c="0"><na f="g/Gaspary:Luciano_Paschoal" pid="g/LPGaspary">Luciano Paschoal Gaspary</na></co>
+<co c="0" n="2"><na f="g/Geyer:Cl=aacute=udio_Fernando_Resin" pid="b/ClaudioFernandoResinGeyer">Cl&#225;udio Fernando Resin Geyer</na><na>Cl&#225;udio F. R. Geyer</na></co>
+<co c="2"><na f="g/Goldman:Alfredo" pid="g/AlfredoGoldman">Alfredo Goldman</na></co>
+<co c="0"><na f="g/Grabher:Gabriel_J=_A=" pid="275/8354">Gabriel J. A. Grabher</na></co>
+<co c="0"><na f="g/Gusatto:=Eacute=der" pid="06/2846">&#201;der Gusatto</na></co>
+<co c="0"><na f="j/Jardim:Andre_D=" pid="209/7035">Andre D. Jardim</na></co>
+<co c="0" n="2"><na f="j/Jung:Cl=aacute=udio_R=" pid="07/5754">Cl&#225;udio R. Jung</na><na>Cl&#225;udio Rosito Jung</na></co>
+<co c="0"><na f="j/Junior:Edson_N=_Silva" pid="64/5875">Edson N. Silva Junior</na></co>
+<co c="0"><na f="j/Junior:Fernando_Luis_da_Costa" pid="93/10161">Fernando Luis da Costa Junior</na></co>
+<co c="0" n="2"><na f="j/J=uacute=nior:J=uacute=lio_C=_S=_Jacques" pid="123/3235">J&#250;lio C. S. Jacques J&#250;nior</na><na>J&#250;lio Cezar Silveira Jacques Jr.</na></co>
+<co c="0"><na f="k/Kemczinski:Avanilde" pid="28/11442">Avanilde Kemczinski</na></co>
+<co c="0"><na f="k/Kist:Deives" pid="177/2479">Deives Kist</na></co>
+<co c="0"><na f="k/Kovaleski:Matheus_F=" pid="360/8834">Matheus F. Kovaleski</na></co>
+<co c="0"><na f="l/Lima:Jo=atilde=o_V=_F=" pid="98/8779">Jo&#227;o V. F. Lima</na></co>
+<co c="0"><na f="l/Ludwig:Glauco_Antonio" pid="70/3609">Glauco Antonio Ludwig</na></co>
+<co c="1"><na f="m/M=:Pauletti_Jos=eacute=_F=" pid="343/5317">Pauletti Jos&#233; F. M.</na></co>
+<co c="0"><na f="m/Machado:Roger_da_Silva" pid="199/9083">Roger da Silva Machado</na></co>
+<co c="0"><na f="m/Mombach:Jos=eacute=_C=_M=" pid="m/JCMMombach">Jos&#233; C. M. Mombach</na></co>
+<co c="0"><na f="m/Moschetta:Eduardo" pid="28/5336">Eduardo Moschetta</na></co>
+<co c="0"><na f="m/Musse:Soraia_Raupp" pid="92/5311">Soraia Raupp Musse</na></co>
+<co c="0"><na f="n/Navaux:Philippe_Olivier_Alexandre" pid="74/1262">Philippe Olivier Alexandre Navaux</na></co>
+<co c="2"><na f="o/Okada:Thiago_Kenji" pid="165/8214">Thiago Kenji Okada</na></co>
+<co c="0"><na f="o/Oliveira:Jos=eacute=_Palazzo_M=_de" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Kevin" pid="304/6152">Kevin Oliveira</na></co>
+<co c="1"><na f="o/Oliveira:Marcos_Antonio_De" pid="375/9802">Marcos Antonio De Oliveira</na></co>
+<co c="1"><na f="o/Oliveira:Monalisa_Fagundes" pid="375/9972">Monalisa Fagundes Oliveira</na></co>
+<co c="3"><na f="o/Oliveira_Jr=:Marcos_A=_de" pid="315/5743">Marcos A. de Oliveira Jr.</na></co>
+<co c="4"><na f="o/Osorio:Alessander" pid="244/1485">Alessander Osorio</na></co>
+<co c="0"><na f="p/Peranconi:Daniela_Saccol" pid="23/4025">Daniela Saccol Peranconi</na></co>
+<co c="0"><na f="p/Pernas:Ana_Marilza" pid="92/4826">Ana Marilza Pernas</na></co>
+<co c="0"><na f="p/Pfitscher:Luciano" pid="95/1078">Luciano Pfitscher</na></co>
+<co c="0" n="2"><na f="p/Pilla:Maur=iacute=cio_L=" pid="06/5321">Maur&#237;cio L. Pilla</na><na>Maur&#237;cio Lima Pilla</na></co>
+<co c="0"><na f="p/Pimenta:Marcelo_Soares" pid="p/MarceloSoaresPimenta">Marcelo Soares Pimenta</na></co>
+<co c="0"><na f="p/Pinto:Bruno" pid="177/2487">Bruno Pinto</na></co>
+<co c="0"><na f="r/Ramos:Jer=ocirc=nimo_da_Cunha" pid="143/6774">Jer&#244;nimo da Cunha Ramos</na></co>
+<co c="0"><na f="r/Ramos:Jos=eacute=_Dirceu_G=" pid="97/6635">Jos&#233; Dirceu G. Ramos</na></co>
+<co c="0"><na f="r/Real:Lucas_Correia_Villa" pid="84/1890">Lucas Correia Villa Real</na></co>
+<co c="0"><na f="r/Real:Rodrigo_Ara=uacute=jo" pid="98/1545">Rodrigo Ara&#250;jo Real</na></co>
+<co c="0" n="2"><na f="r/Reiser:Renata_H=_S=" pid="61/2221">Renata H. S. Reiser</na><na>Renata Hax Sander Reiser</na></co>
+<co c="0"><na f="r/Ribeiro:Rodrigo_Geraldo" pid="204/6610">Rodrigo Geraldo Ribeiro</na></co>
+<co c="0"><na f="r/Roch:Jean=Louis" pid="82/5170">Jean-Louis Roch</na></co>
+<co c="1"><na f="r/Rocha:Anderson_M=_Da" pid="343/5849">Anderson M. Da Rocha</na></co>
+<co c="0"><na f="r/Rose:C=eacute=sar_A=_F=_De" pid="95/5199">C&#233;sar A. F. De Rose</na></co>
+<co c="0"><na f="s/Santos:Maicon_Anca_dos" pid="191/4620">Maicon Anca dos Santos</na></co>
+<co c="3"><na f="s/Sedrez:Gregory" pid="315/5877">Gregory Sedrez</na></co>
+<co c="0"><na f="s/Silva:Luciano_Cavalheiro_da" pid="92/3290">Luciano Cavalheiro da Silva</na></co>
+<co c="0"><na f="s/Silveira:C=eacute=sar_L=_B=" pid="06/7987">C&#233;sar L. B. Silveira</na></co>
+<co c="3"><na f="s/Souza:Guilherme_de" pid="315/6069">Guilherme de Souza</na></co>
+<co c="1"><na f="v/Varone:Flavio_A=" pid="375/9545">Flavio A. Varone</na></co>
+<co c="0"><na f="x/Xavier:Lucas" pid="156/4570">Lucas Xavier</na></co>
+<co c="0" n="2"><na f="y/Yamin:Adenauer_C=" pid="y/AdenauerCYamin">Adenauer C. Yamin</na><na>Adenauer Corr&#234;a Yamin</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,984 @@
+<?xml version="1.0"?>
+<dblpperson name="Robson L. F. Cordeiro" pid="84/5092" n="61">
+<person key="homepages/84/5092" mdate="2019-07-30">
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<author pid="84/5092">Robson Leonardo Ferreira Cordeiro</author>
+<url>http://www.icmc.usp.br/~robson/</url>
+<url>https://orcid.org/0000-0002-6795-3004</url>
+<url>https://www.wikidata.org/entity/Q61038388</url>
+<url>http://lattes.cnpq.br/9869412005300784</url>
+<note type="affiliation">University of S&#227;o Paulo, Department of Computer Science</note>
+</person>
+<r><article key="journals/datamine/VincesSZC25" mdate="2025-04-01">
+<author pid="264/5959">Braulio Valentin Sanchez Vinces</author>
+<author pid="61/5820">Erich Schubert</author>
+<author orcid="0000-0001-7713-4208" pid="27/4179">Arthur Zimek</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<title>A comparative evaluation of clustering-based outlier detection.</title>
+<pages>13</pages>
+<year>2025</year>
+<month>March</month>
+<volume>39</volume>
+<journal>Data Min. Knowl. Discov.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10618-024-01086-z</ee>
+<url>db/journals/datamine/datamine39.html#VincesSZC25</url>
+<stream>streams/journals/datamine</stream>
+</article>
+</r>
+<r><article key="journals/datamine/CabralVS0C25" mdate="2025-05-09">
+<author pid="276/5000">Eug&#234;nio F. Cabral</author>
+<author pid="264/5959">Braulio Valentin Sanchez Vinces</author>
+<author pid="304/3529">Guilherme D. F. Silva</author>
+<author pid="s/JorgSander">J&#246;rg Sander 0001</author>
+<author orcid="0000-0002-6795-3004" pid="84/5092">Robson L. F. Cordeiro</author>
+<title>Efficient outlier detection in numerical and categorical data.</title>
+<pages>18</pages>
+<year>2025</year>
+<volume>39</volume>
+<journal>Data Min. Knowl. Discov.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10618-024-01084-1</ee>
+<url>db/journals/datamine/datamine39.html#CabralVS0C25</url>
+</article>
+</r>
+<r><article key="journals/eswa/MoraesFC25" mdate="2024-11-06">
+<author orcid="0000-0002-9553-9978" pid="218/4779">Leonardo Mauro Pereira Moraes</author>
+<author orcid="0009-0001-0371-2113" pid="389/0953">Felippe P. Ferreira</author>
+<author orcid="0000-0002-6795-3004" pid="84/5092">Robson L. F. Cordeiro</author>
+<title>Modeling and analyzing Social Networks of Games.</title>
+<pages>125449</pages>
+<year>2025</year>
+<volume>261</volume>
+<journal>Expert Syst. Appl.</journal>
+<ee>https://doi.org/10.1016/j.eswa.2024.125449</ee>
+<url>db/journals/eswa/eswa261.html#MoraesFC25</url>
+<stream>streams/journals/eswa</stream>
+</article>
+</r>
+<r><inproceedings key="conf/icde/VincesCF24" mdate="2024-07-29">
+<author pid="264/5959">Braulio Valentin Sanchez Vinces</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<author pid="f/CFaloutsos">Christos Faloutsos</author>
+<title>Mccatch: Scalable Microcluster Detection in Dimensional and Nondimensional Datasets.</title>
+<pages>1407-1420</pages>
+<year>2024</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE60146.2024.00116</ee>
+<crossref>conf/icde/2024</crossref>
+<url>db/conf/icde/icde2024.html#VincesCF24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-08027" mdate="2024-04-04">
+<author pid="264/5959">Braulio Valentin Sanchez Vinces</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<author pid="f/CFaloutsos">Christos Faloutsos</author>
+<title>McCatch: Scalable Microcluster Detection in Dimensional and Nondimensional Datasets.</title>
+<year>2024</year>
+<volume>abs/2403.08027</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.08027</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-08027</url>
+</article>
+</r>
+<r><article key="journals/kbs/Milon-FloresC22" mdate="2022-03-15">
+<author orcid="0000-0002-3587-4838" pid="254/8314">Daniela F. Milon-Flores</author>
+<author orcid="0000-0002-6795-3004" pid="84/5092">Robson L. F. Cordeiro</author>
+<title>How to take advantage of behavioral features for the early detection of grooming in online conversations.</title>
+<pages>108017</pages>
+<year>2022</year>
+<volume>240</volume>
+<journal>Knowl. Based Syst.</journal>
+<ee>https://doi.org/10.1016/j.knosys.2021.108017</ee>
+<url>db/journals/kbs/kbs240.html#Milon-FloresC22</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdm/JiangCA22" mdate="2023-02-02">
+<author pid="224/6441">Shuli Jiang</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<author pid="02/6979">Leman Akoglu</author>
+<title>D.MCA: Outlier Detection with Explicit Micro-Cluster Assignments.</title>
+<pages>987-992</pages>
+<year>2022</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM54844.2022.00119</ee>
+<crossref>conf/icdm/2022</crossref>
+<url>db/conf/icdm/icdm2022.html#JiangCA22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-08212" mdate="2022-10-18">
+<author pid="224/6441">Shuli Jiang</author>
+<author pid="84/5092">Robson Leonardo Ferreira Cordeiro</author>
+<author pid="02/6979">Leman Akoglu</author>
+<title>D.MCA: Outlier Detection with Explicit Micro-Cluster Assignments.</title>
+<year>2022</year>
+<volume>abs/2210.08212</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.08212</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-08212</url>
+</article>
+</r>
+<r><article key="journals/kbs/AlvesC21" mdate="2024-08-22">
+<author orcid="0000-0003-4530-3331" pid="266/5694">Matheus Aparecido do Carmo Alves</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<title>Effective and unburdensome forecast of highway traffic flow with adaptive computing.</title>
+<pages>106603</pages>
+<year>2021</year>
+<volume>212</volume>
+<journal>Knowl. Based Syst.</journal>
+<ee>https://doi.org/10.1016/j.knosys.2020.106603</ee>
+<url>db/journals/kbs/kbs212.html#AlvesC21</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/LescanoC21" mdate="2021-08-13">
+<author orcid="0000-0001-8685-010X" pid="285/5008">Alexis I. Aspauza Lescano</author>
+<author orcid="0000-0002-6795-3004" pid="84/5092">Robson L. F. Cordeiro</author>
+<title>Relational Conditional Set Operations.</title>
+<pages>38-49</pages>
+<year>2021</year>
+<booktitle>ADBIS (Short Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-85082-1_4</ee>
+<crossref>conf/adbis/2021short</crossref>
+<url>db/conf/adbis/adbis2021short.html#LescanoC21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2110-08257" mdate="2021-10-22">
+<author pid="304/3529">Guilherme D. F. Silva</author>
+<author pid="02/6979">Leman Akoglu</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<title>C-AllOut: Catching &#38; Calling Outliers by Type.</title>
+<year>2021</year>
+<volume>abs/2110.08257</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2110.08257</ee>
+<url>db/journals/corr/corr2110.html#abs-2110-08257</url>
+</article>
+</r>
+<r><article key="journals/jidm/LimaFLNMJSJC20" mdate="2025-02-19">
+<author pid="202/0175">Afonso Matheus Sousa Lima</author>
+<author pid="264/5810">Alexander Florez</author>
+<author pid="285/5008">Alexis Lescano</author>
+<author pid="285/5516">Jo&#227;o Victor de Oliveira Novaes</author>
+<author pid="80/1078">Natalia Martins</author>
+<author pid="t/CaetanoTrainaJr">Caetano Traina J&#250;nior</author>
+<author pid="91/5321">Elaine P. M. de Sousa</author>
+<author pid="r/JoseFernandoRodriguesJr">Jos&#233; F. Rodrigues J&#250;nior</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<title>Analysis of ENEM's attendants between 2012 and 2017 using a clustering approach.</title>
+<year>2020</year>
+<volume>11</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>2</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/2023</ee>
+<url>db/journals/jidm/jidm11.html#LimaFLNMJSJC20</url>
+</article>
+</r>
+<r><article key="journals/kbs/OliveiraC20" mdate="2020-05-07">
+<author pid="218/4514">Jadson Jos&#233; Monteiro Oliveira</author>
+<author pid="84/5092">Robson Leonardo Ferreira Cordeiro</author>
+<title>Unsupervised dimensionality reduction for very large datasets: Are we going to the right direction?</title>
+<pages>105777</pages>
+<year>2020</year>
+<volume>196</volume>
+<journal>Knowl. Based Syst.</journal>
+<ee>https://doi.org/10.1016/j.knosys.2020.105777</ee>
+<url>db/journals/kbs/kbs196.html#OliveiraC20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/CabralC20" mdate="2020-10-19">
+<author pid="276/5000">Eug&#234;nio F. Cabral</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<title>Fast and Scalable Outlier Detection with Sorted Hypercubes.</title>
+<pages>95-104</pages>
+<year>2020</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3340531.3412033</ee>
+<crossref>conf/cikm/2020</crossref>
+<url>db/conf/cikm/cikm2020.html#CabralC20</url>
+</inproceedings>
+</r>
+<r><article key="journals/is/GonzagaC19" mdate="2025-01-19">
+<author pid="183/9859">Andr&#233; S. Gonzaga</author>
+<author orcid="0000-0002-6795-3004" pid="84/5092">Robson L. F. Cordeiro</author>
+<title>The similarity-aware relational division database operator with case studies in agriculture and genetics.</title>
+<pages>71-87</pages>
+<year>2019</year>
+<volume>82</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2019.01.002</ee>
+<ee>https://www.wikidata.org/entity/Q128579218</ee>
+<url>db/journals/is/is82.html#GonzagaC19</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccS/JuniorC19" mdate="2023-09-30">
+<author orcid="0000-0003-0542-995X" pid="218/4489">Altamir Gomes Bispo Junior</author>
+<author pid="84/5092">Robson Leonardo Ferreira Cordeiro</author>
+<title>Fast and Scalable Outlier Detection with Metric Access Methods.</title>
+<pages>189-203</pages>
+<year>2019</year>
+<booktitle>ICCS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-22741-8_14</ee>
+<crossref>conf/iccS/2019-2</crossref>
+<url>db/conf/iccS/iccS2019-2.html#JuniorC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/MoraesC19" mdate="2023-09-30">
+<author orcid="0000-0002-9553-9978" pid="218/4779">Leonardo Mauro Pereira Moraes</author>
+<author pid="84/5092">Robson Leonardo Ferreira Cordeiro</author>
+<title>Detecting Influencers in Very Large Social Networks of Games.</title>
+<pages>93-103</pages>
+<year>2019</year>
+<booktitle>ICEIS (1)</booktitle>
+<ee>https://doi.org/10.5220/0007728200930103</ee>
+<crossref>conf/iceis/2019-1</crossref>
+<url>db/conf/iceis/iceis2019-1.html#MoraesC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/TrainaMRCCT19" mdate="2021-10-14">
+<author orcid="0000-0002-6625-6047" pid="t/CaetanoTrainaJr">Caetano Traina Jr.</author>
+<author pid="239/8743">Andre Moriyama</author>
+<author pid="225/0604">Guilherme Muzzi da Rocha</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<author pid="13/4069">Cristina Dutra de Aguiar Ciferri</author>
+<author pid="t/AgmaJMTraina">Agma J. M. Traina</author>
+<title>The SimilarQL framework: similarity queries in plain SQL.</title>
+<pages>468-471</pages>
+<year>2019</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3297280.3299736</ee>
+<crossref>conf/sac/2019</crossref>
+<url>db/conf/sac/sac2019.html#TrainaMRCCT19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/CazzolatoRSZVCJ19" mdate="2022-09-05">
+<author pid="135/8726">Mirela T. Cazzolato</author>
+<author pid="258/3792">Lucas Santiago Rodrigues</author>
+<author pid="184/0017">Lucas C. Scabora</author>
+<author pid="218/4885">Guilherme F. Zabot</author>
+<author pid="218/4523">Guilherme Q. Vasconcelos</author>
+<author pid="119/6740">Daniel Y. T. Chino</author>
+<author pid="193/6754">Ana Elisa Serafim Jorge</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<author orcid="0000-0002-6625-6047" pid="t/CaetanoTrainaJr">Caetano Traina Jr.</author>
+<author pid="t/AgmaJMTraina">Agma J. M. Traina</author>
+<title>A DBMS-Based Framework for Content-Based Retrieval and Analysis of Skin Ulcer Images in Medical Practice.</title>
+<pages>109-120</pages>
+<year>2019</year>
+<booktitle>SBBD</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbbd.2019.8812</ee>
+<crossref>conf/sbbd/2019</crossref>
+<url>db/conf/sbbd/sbbd2019.html#CazzolatoRSZVCJ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adbis/VasconcelosKC18" mdate="2020-03-27">
+<author pid="218/4523">Guilherme Q. Vasconcelos</author>
+<author orcid="0000-0001-9628-3313" pid="k/DanielSKaster">Daniel S. Kaster</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<title>On the Support of the Similarity-Aware Division Operator in a Commercial RDBMS.</title>
+<pages>142-155</pages>
+<year>2018</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98398-1_10</ee>
+<crossref>conf/adbis/2018</crossref>
+<url>db/conf/adbis/adbis2018.html#VasconcelosKC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/VasconcelosZLRT18" mdate="2021-10-14">
+<author pid="218/4523">Guilherme Q. Vasconcelos</author>
+<author orcid="0000-0002-5550-2644" pid="218/4885">Guilherme F. Zabot</author>
+<author orcid="0000-0002-7818-6103" pid="137/8850">Daniel Mario de Lima</author>
+<author pid="r/JoseFernandoRodriguesJr">Jos&#233; F. Rodrigues Jr.</author>
+<author orcid="0000-0002-6625-6047" pid="t/CaetanoTrainaJr">Caetano Traina Jr.</author>
+<author pid="k/DanielSKaster">Daniel S. Kaster</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<title>TendeR-Sims - Similarity Retrieval System for Public Tenders.</title>
+<pages>143-150</pages>
+<year>2018</year>
+<booktitle>ICEIS (1)</booktitle>
+<ee>https://doi.org/10.5220/0006697601430150</ee>
+<crossref>conf/iceis/2018-1</crossref>
+<url>db/conf/iceis/iceis2018-1.html#VasconcelosZLRT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/KunzeAMOJSC18" mdate="2023-09-30">
+<author pid="218/4746">Lucas Felipe Kunze</author>
+<author pid="218/4864">Th&#225;bata Amaral</author>
+<author orcid="0000-0002-9553-9978" pid="218/4779">Leonardo Mauro Pereira Moraes</author>
+<author pid="218/4514">Jadson Jos&#233; Monteiro Oliveira</author>
+<author orcid="0000-0003-0542-995X" pid="218/4489">Altamir Gomes Bispo Junior</author>
+<author pid="91/5321">Elaine Parros Machado de Sousa</author>
+<author pid="84/5092">Robson Leonardo Ferreira Cordeiro</author>
+<title>Classification Analysis of NDVI Time Series in Metric Spaces for Sugarcane Identification.</title>
+<pages>162-169</pages>
+<year>2018</year>
+<booktitle>ICEIS (1)</booktitle>
+<ee>https://doi.org/10.5220/0006709401620169</ee>
+<crossref>conf/iceis/2018-1</crossref>
+<url>db/conf/iceis/iceis2018-1.html#KunzeAMOJSC18</url>
+</inproceedings>
+</r>
+<r><article key="journals/isci/GimenesCR17" mdate="2017-06-14">
+<author pid="150/7251">Gabriel P. Gimenes</author>
+<author orcid="0000-0002-6795-3004" pid="84/5092">Robson L. F. Cordeiro</author>
+<author pid="r/JoseFernandoRodriguesJr">Jos&#233; Fernando Rodrigues Jr.</author>
+<title>ORFEL: Efficient detection of defamation or illegitimate promotion in online recommendation.</title>
+<pages>274-287</pages>
+<year>2017</year>
+<volume>379</volume>
+<journal>Inf. Sci.</journal>
+<ee>https://doi.org/10.1016/j.ins.2016.09.006</ee>
+<url>db/journals/isci/isci379.html#GimenesCR17</url>
+</article>
+</r>
+<r><article key="journals/jidm/JuniorCC17" mdate="2024-01-11">
+<author pid="t/CaetanoTrainaJr">Caetano Traina J&#250;nior</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<author pid="77/3901">Cl&#225;udio El&#237;zio Calazans Campelo</author>
+<title>Editorial.</title>
+<pages>1-2</pages>
+<year>2017</year>
+<volume>8</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>1</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1602</ee>
+<url>db/journals/jidm/jidm8.html#JuniorCC17</url>
+</article>
+</r>
+<r><article key="journals/jidm/JuniorCM17" mdate="2024-01-11">
+<author pid="t/CaetanoTrainaJr">Caetano Traina J&#250;nior</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<author pid="80/1853">Luiz Henrique de Campos Merschmann</author>
+<title>Editorial.</title>
+<pages>100-101</pages>
+<year>2017</year>
+<volume>8</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>2</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1610</ee>
+<url>db/journals/jidm/jidm8.html#JuniorCM17</url>
+</article>
+</r>
+<r><article key="journals/jidm/JuniorCWM17" mdate="2024-01-11">
+<author pid="t/CaetanoTrainaJr">Caetano Traina J&#250;nior</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<author pid="74/6170">Roberto Willrich</author>
+<author pid="12/3896">Javam C. Machado</author>
+<title>Editorial.</title>
+<pages>178-179</pages>
+<year>2017</year>
+<volume>8</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>3</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1617</ee>
+<url>db/journals/jidm/jidm8.html#JuniorCWM17</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/GonzagaC17" mdate="2021-01-29">
+<author pid="183/9859">Andr&#233; S. Gonzaga</author>
+<author pid="84/5092">Robson Leonardo Ferreira Cordeiro</author>
+<title>A New Division Operator to Handle Complex Objects in Very Large Relational Datasets.</title>
+<pages>474-477</pages>
+<year>2017</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2017.48</ee>
+<crossref>conf/edbt/2017</crossref>
+<url>db/conf/edbt/edbt2017.html#GonzagaC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/GonzagaC17" mdate="2025-01-19">
+<author pid="183/9859">Andr&#233; S. Gonzaga</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<title>The similarity-aware relational division database operator.</title>
+<pages>913-914</pages>
+<year>2017</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3019612.3019869</ee>
+<ee>https://www.wikidata.org/entity/Q130867599</ee>
+<crossref>conf/sac/2017</crossref>
+<url>db/conf/sac/sac2017.html#GonzagaC17</url>
+</inproceedings>
+</r>
+<r><article key="journals/jidm/CordeiroJF16" mdate="2024-01-11">
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<author pid="t/CaetanoTrainaJr">Caetano Traina J&#250;nior</author>
+<author pid="35/2350">Renato Fileto</author>
+<title>Editorial.</title>
+<pages>1-3</pages>
+<year>2016</year>
+<volume>7</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>1</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1572</ee>
+<url>db/journals/jidm/jidm7.html#CordeiroJF16</url>
+</article>
+</r>
+<r><article key="journals/jidm/JuniorCM16" mdate="2024-01-11">
+<author pid="t/CaetanoTrainaJr">Caetano Traina J&#250;nior</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<author pid="59/4973">Leandro Balby Marinho</author>
+<title>Editorial.</title>
+<pages>68-69</pages>
+<year>2016</year>
+<volume>7</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>2</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1578</ee>
+<url>db/journals/jidm/jidm7.html#JuniorCM16</url>
+</article>
+</r>
+<r><article key="journals/jidm/JuniorCB16" mdate="2024-01-11">
+<author pid="t/CaetanoTrainaJr">Caetano Traina J&#250;nior</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<author pid="84/2055">Vanessa Braganholo</author>
+<title>Editorial.</title>
+<pages>197-198</pages>
+<year>2016</year>
+<volume>7</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>3</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1590</ee>
+<url>db/journals/jidm/jidm7.html#JuniorCB16</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdm/FraideinberzeRC16" mdate="2023-03-24">
+<author pid="183/9968">Antonio C. Fraideinberze</author>
+<author pid="r/JoseFernandoRodriguesJr">Jos&#233; F. Rodrigues Jr.</author>
+<author orcid="0000-0002-6795-3004" pid="84/5092">Robson L. F. Cordeiro</author>
+<title>Effective and Unsupervised Fractal-Based Feature Selection for Very Large Datasets: Removing Linear and Non-linear Attribute Correlations.</title>
+<pages>615-622</pages>
+<year>2016</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2016.0093</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDMW.2016.0093</ee>
+<crossref>conf/icdm/2016w</crossref>
+<url>db/conf/icdm/icdm2016w.html#FraideinberzeRC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/OliveiraFLGGFOR16" mdate="2024-10-06">
+<author orcid="0000-0002-1814-3013" pid="166/9004">Paulo H. Oliveira</author>
+<author pid="183/9968">Antonio C. Fraideinberze</author>
+<author pid="183/9893">Natan A. Laverde</author>
+<author pid="150/7091">Hugo Gualdron</author>
+<author pid="183/9859">Andr&#233; S. Gonzaga</author>
+<author pid="184/0061">Lucas D. Ferreira</author>
+<author orcid="0000-0002-6752-2060" pid="53/10361">Willian D. Oliveira</author>
+<author pid="r/JoseFernandoRodriguesJr">Jos&#233; F. Rodrigues Jr.</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<author orcid="0000-0002-6625-6047" pid="t/CaetanoTrainaJr">Caetano Traina Jr.</author>
+<author pid="t/AgmaJMTraina">Agma J. M. Traina</author>
+<author pid="91/5321">Elaine P. M. de Sousa</author>
+<title>On the Support of a Similarity-enabled Relational Database Management System in Civilian Crisis Situations.</title>
+<pages>119-126</pages>
+<year>2016</year>
+<booktitle>ICEIS (1)</booktitle>
+<ee>https://doi.org/10.5220/0005816701190126</ee>
+<crossref>conf/iceis/2016-1</crossref>
+<url>db/conf/iceis/iceis2016-1.html#OliveiraFLGGFOR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/GualdronCRCKK16" mdate="2021-04-09">
+<author pid="150/7091">Hugo Gualdron</author>
+<author orcid="0000-0002-6795-3004" pid="84/5092">Robson L. F. Cordeiro</author>
+<author pid="r/JoseFernandoRodriguesJr">Jos&#233; Fernando Rodrigues Jr.</author>
+<author orcid="0000-0001-9824-3323" pid="10/2670">Duen Horng (Polo) Chau</author>
+<author pid="15/8313">Minsuk Kahng</author>
+<author pid="13/7122">U Kang</author>
+<title>M-Flash: Fast Billion-Scale Graph Computation Using a Bimodal Block Processing Model.</title>
+<pages>623-640</pages>
+<year>2016</year>
+<booktitle>ECML/PKDD (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-46227-1_39</ee>
+<crossref>conf/pkdd/2016-2</crossref>
+<url>db/conf/pkdd/pkdd2016-2.html#GualdronCRCKK16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/GonzagaC16" mdate="2020-03-12">
+<author pid="183/9859">Andr&#233; S. Gonzaga</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<title>Fast and Scalable Relational Division on Database Systems.</title>
+<pages>169-174</pages>
+<year>2016</year>
+<booktitle>SBBD</booktitle>
+<ee type="oa">http://sbbd2016.fpc.ufba.br/sbbd2016/sbbd/sbbd_s012.pdf</ee>
+<crossref>conf/sbbd/2016</crossref>
+<url>db/conf/sbbd/sbbd2016.html#GonzagaC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sdm/SilvaSFC16" mdate="2017-06-15">
+<author pid="181/9013">Afonso Expedito Da Silva</author>
+<author pid="186/1468">Lucas L. Sanches</author>
+<author pid="183/9968">Antonio C. Fraideinberze</author>
+<author orcid="0000-0002-6795-3004" pid="84/5092">Robson L. F. Cordeiro</author>
+<title><i>Halite<sub>ds</sub></i>: Fast and Scalable Subspace Clustering for Multidimensional Data Streams.</title>
+<pages>351-359</pages>
+<year>2016</year>
+<booktitle>SDM</booktitle>
+<ee>https://doi.org/10.1137/1.9781611974348.40</ee>
+<crossref>conf/sdm/2016</crossref>
+<url>db/conf/sdm/sdm2016.html#SilvaSFC16</url>
+</inproceedings>
+</r>
+<r><article key="journals/is/PolaCTT15" mdate="2024-10-06">
+<author orcid="0000-0001-7300-7535" pid="94/3693">Ives Rene Venturini Pola</author>
+<author orcid="0000-0002-6795-3004" pid="84/5092">Robson L. F. Cordeiro</author>
+<author orcid="0000-0002-6625-6047" pid="t/CaetanoTrainaJr">Caetano Traina Jr.</author>
+<author pid="t/AgmaJMTraina">Agma J. M. Traina</author>
+<title>Similarity sets: A new concept of sets to seamlessly handle similarity in database management systems.</title>
+<pages>130-148</pages>
+<year>2015</year>
+<volume>52</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2015.01.011</ee>
+<url>db/journals/is/is52.html#PolaCTT15</url>
+</article>
+</r>
+<r><article key="journals/jidm/JuniorCAD15" mdate="2024-01-11">
+<author pid="t/CaetanoTrainaJr">Caetano Traina J&#250;nior</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<author pid="54/4043">Sandra de Amo</author>
+<author pid="d/ClodoveuADavis">Clodoveu A. Davis Jr.</author>
+<title>Editorial.</title>
+<pages>1-3</pages>
+<year>2015</year>
+<volume>6</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>1</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1551</ee>
+<url>db/journals/jidm/jidm6.html#JuniorCAD15</url>
+</article>
+</r>
+<r><article key="journals/jidm/JuniorCGT15" mdate="2024-01-11">
+<author pid="t/CaetanoTrainaJr">Caetano Traina J&#250;nior</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<author pid="37/2418">Renata de Matos Galante</author>
+<author pid="89/3496">Tatiana Aires Tavares</author>
+<title>Editorial.</title>
+<pages>104</pages>
+<year>2015</year>
+<volume>6</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>2</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1561</ee>
+<url>db/journals/jidm/jidm6.html#JuniorCGT15</url>
+</article>
+</r>
+<r><article key="journals/jidm/JuniorC15" mdate="2024-01-11">
+<author pid="t/CaetanoTrainaJr">Caetano Traina J&#250;nior</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<title>Editorial.</title>
+<pages>160-161</pages>
+<year>2015</year>
+<volume>6</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>3</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1567</ee>
+<url>db/journals/jidm/jidm6.html#JuniorC15</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdm/GualdronCR15" mdate="2023-03-24">
+<author pid="150/7091">Hugo Gualdron</author>
+<author orcid="0000-0002-6795-3004" pid="84/5092">Robson L. F. Cordeiro</author>
+<author pid="r/JoseFernandoRodriguesJr">Jos&#233; F. Rodrigues Jr.</author>
+<title>StructMatrix: Large-Scale Visualization of Graphs by Means of Structure Detection and Dense Matrices.</title>
+<pages>493-500</pages>
+<year>2015</year>
+<booktitle>ICDM Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDMW.2015.205</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDMW.2015.205</ee>
+<crossref>conf/icdm/2015w</crossref>
+<url>db/conf/icdm/icdm2015w.html#GualdronCR15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/GimenesRC15" mdate="2018-08-13">
+<author pid="150/7251">Gabriel P. Gimenes</author>
+<author pid="r/JoseFernandoRodriguesJr">Jos&#233; Fernando Rodrigues Jr.</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<title>ORFEL: super-fast detection of defamation and illegitimate promotion in online recommendation.</title>
+<year>2015</year>
+<volume>abs/1505.06747</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1505.06747</ee>
+<url>db/journals/corr/corr1505.html#GimenesRC15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/GualdronCRCKK15" mdate="2019-09-24">
+<author pid="150/7091">Hugo Gualdron</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<author pid="r/JoseFernandoRodriguesJr">Jos&#233; Fernando Rodrigues Jr.</author>
+<author pid="10/2670">Duen Horng Chau</author>
+<author pid="15/8313">Minsuk Kahng</author>
+<author pid="13/7122">U Kang</author>
+<title>M-Flash: Fast Billion-scale Graph Computation Using Block Partition Model.</title>
+<year>2015</year>
+<volume>abs/1506.01406</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1506.01406</ee>
+<url>db/journals/corr/corr1506.html#GualdronCRCKK15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/GualdronCR15" mdate="2018-08-13">
+<author pid="150/7091">Hugo Gualdron</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<author pid="r/JoseFernandoRodriguesJr">Jos&#233; F. Rodrigues Jr.</author>
+<title>StructMatrix: billion-scale visualization of planetary graphs by means of structure detection and dense matrices.</title>
+<year>2015</year>
+<volume>abs/1506.05072</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1506.05072</ee>
+<url>db/journals/corr/corr1506.html#GualdronCR15</url>
+</article>
+</r>
+<r><article key="journals/isci/CordeiroGHHHKRCSTTF14" mdate="2024-10-06">
+<author orcid="0000-0002-6795-3004" pid="84/5092">Robson L. F. Cordeiro</author>
+<author pid="55/6662-6">Fan Guo 0006</author>
+<author pid="19/678">Donna S. Haverkamp</author>
+<author pid="89/9023">James H. Horne</author>
+<author pid="79/1835">Ellen K. Hughes</author>
+<author pid="45/115">Gunhee Kim</author>
+<author orcid="0000-0002-7386-3515" pid="69/7740">Luciana A. S. Romani</author>
+<author orcid="0000-0002-0807-3410" pid="56/11497">Priscila P. Coltri</author>
+<author pid="142/4507">Tamires T. Souza</author>
+<author pid="t/AgmaJMTraina">Agma J. M. Traina</author>
+<author orcid="0000-0002-6625-6047" pid="t/CaetanoTrainaJr">Caetano Traina Jr.</author>
+<author orcid="0000-0003-2996-9790" pid="f/CFaloutsos">Christos Faloutsos</author>
+<title>QuMinS: Fast and scalable querying, mining and summarizing multi-modal databases.</title>
+<pages>211-229</pages>
+<year>2014</year>
+<volume>264</volume>
+<journal>Inf. Sci.</journal>
+<ee>https://doi.org/10.1016/j.ins.2013.11.013</ee>
+<ee>https://www.wikidata.org/entity/Q59551191</ee>
+<url>db/journals/isci/isci264.html#CordeiroGHHHKRCSTTF14</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbbd/SilvaC14" mdate="2022-03-07">
+<author pid="181/9013">Afonso Expedito Da Silva</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<title>Halite-ds: Agrupamento de Dados em Subespa&#231;os de S&#233;ries Temporais Multidimensionais.</title>
+<pages>97-106</pages>
+<year>2014</year>
+<booktitle>SBBD</booktitle>
+<ee type="archive">http://www.lbd.dcc.ufmg.br/colecoes/sbbd/2014/009.pdf</ee>
+<crossref>conf/sbbd/2014</crossref>
+<url>db/conf/sbbd/sbbd2014.html#SilvaC14</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sisap/2014" mdate="2024-10-06">
+<editor pid="t/AgmaJMTraina">Agma Juci Machado Traina</editor>
+<editor orcid="0000-0002-6625-6047" pid="t/CaetanoTrainaJr">Caetano Traina Jr.</editor>
+<editor orcid="0000-0002-6795-3004" pid="84/5092">Robson L. F. Cordeiro</editor>
+<title>Similarity Search and Applications - 7th International Conference, SISAP 2014, Los Cabos, Mexico, October 29-31, 2014. Proceedings</title>
+<year>2014</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>8821</volume>
+<ee>https://doi.org/10.1007/978-3-319-11988-5</ee>
+<isbn>978-3-319-11987-8</isbn>
+<booktitle>SISAP</booktitle>
+<url>db/conf/sisap/sisap2014.html</url>
+</proceedings>
+</r>
+<r><book key="books/daglib/0031134" mdate="2019-06-02">
+<author orcid="0000-0002-6795-3004" pid="84/5092">Robson L. F. Cordeiro</author>
+<author orcid="0000-0003-2996-9790" pid="f/CFaloutsos">Christos Faloutsos</author>
+<author pid="t/CaetanoTrainaJr">Caetano Traina Jr.</author>
+<title>Data Mining in Large Sets of Complex Data.</title>
+<pages>I-XI, 1-116</pages>
+<publisher>Springer</publisher>
+<year>2013</year>
+<series href="db/series/sbcs/index.html">Springer Briefs in Computer Science</series>
+<isbn>978-1-4471-4889-0</isbn>
+<ee>https://doi.org/10.1007/978-1-4471-4890-6</ee>
+<ee>https://www.wikidata.org/entity/Q59551240</ee>
+</book>
+</r>
+<r><article key="journals/jidm/TrainaJCSJC13" mdate="2021-11-30">
+<author pid="t/AgmaJMTraina">Agma Juci Machado Traina</author>
+<author pid="t/CaetanoTrainaJr">Caetano Traina Jr.</author>
+<author pid="13/4069">Cristina Dutra de Aguiar Ciferri</author>
+<author pid="91/5321">Elaine Parros Machado de Sousa</author>
+<author pid="r/JoseFernandoRodriguesJr">Jos&#233; Fernando Rodrigues Jr.</author>
+<author pid="84/5092">Robson Leonardo Ferreira Cordeiro</author>
+<title>The Images and Data Bases Group at University of S&#227;o Paulo.</title>
+<pages>2-16</pages>
+<year>2013</year>
+<volume>4</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>1</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1465</ee>
+<url>db/journals/jidm/jidm4.html#TrainaJCSJC13</url>
+</article>
+</r>
+<r><article key="journals/jidm/SantosOFCTT13" mdate="2021-11-30">
+<author pid="52/10363">L&#250;cio F. D. Santos</author>
+<author pid="53/10361">Willian D. Oliveira</author>
+<author pid="72/1986">M&#244;nica Ribeiro Porto Ferreira</author>
+<author pid="84/5092">Robson Leonardo Ferreira Cordeiro</author>
+<author pid="t/AgmaJMTraina">Agma J. M. Traina</author>
+<author pid="t/CaetanoTrainaJr">Caetano Traina Jr.</author>
+<title>Evaluating the Diversification of Similarity Query Results.</title>
+<pages>188-203</pages>
+<year>2013</year>
+<volume>4</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>3</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1492</ee>
+<url>db/journals/jidm/jidm4.html#SantosOFCTT13</url>
+</article>
+</r>
+<r><article key="journals/tkde/CordeiroTFT13" mdate="2024-10-06">
+<author orcid="0000-0002-6795-3004" pid="84/5092">Robson Leonardo Ferreira Cordeiro</author>
+<author pid="t/AgmaJMTraina">Agma J. M. Traina</author>
+<author orcid="0000-0003-2996-9790" pid="f/CFaloutsos">Christos Faloutsos</author>
+<author orcid="0000-0002-6625-6047" pid="t/CaetanoTrainaJr">Caetano Traina Jr.</author>
+<title>Halite: Fast and Scalable Multiresolution Local-Correlation Clustering.</title>
+<pages>387-401</pages>
+<year>2013</year>
+<volume>25</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TKDE.2011.176</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2011.176</ee>
+<ee>https://www.wikidata.org/entity/Q59551255</ee>
+<url>db/journals/tkde/tkde25.html#CordeiroTFT13</url>
+</article>
+</r>
+<r><inproceedings key="conf/ism/FasolinFKKFCTT13" mdate="2024-10-06">
+<author pid="142/2292">Karina Fasolin</author>
+<author pid="35/2350">Renato Fileto</author>
+<author orcid="0000-0002-8085-8546" pid="137/2816">Marcelo Kr&#252;ger</author>
+<author pid="k/DanielSKaster">Daniel S. Kaster</author>
+<author pid="72/1986">M&#244;nica Ribeiro Porto Ferreira</author>
+<author pid="84/5092">Robson Leonardo Ferreira Cordeiro</author>
+<author pid="t/AgmaJMTraina">Agma J. M. Traina</author>
+<author orcid="0000-0002-6625-6047" pid="t/CaetanoTrainaJr">Caetano Traina Jr.</author>
+<title>Efficient Execution of Conjunctive Complex Queries on Big Multimedia Databases.</title>
+<pages>536-543</pages>
+<year>2013</year>
+<booktitle>ISM</booktitle>
+<ee>https://doi.org/10.1109/ISM.2013.112</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISM.2013.112</ee>
+<crossref>conf/ism/2013</crossref>
+<url>db/conf/ism/ism2013.html#FasolinFKKFCTT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sisap/PolaCTT13" mdate="2024-10-06">
+<author orcid="0000-0001-7300-7535" pid="94/3693">Ives Rene Venturini Pola</author>
+<author orcid="0000-0002-6795-3004" pid="84/5092">Robson Leonardo Ferreira Cordeiro</author>
+<author orcid="0000-0002-6625-6047" pid="t/CaetanoTrainaJr">Caetano Traina Jr.</author>
+<author pid="t/AgmaJMTraina">Agma J. M. Traina</author>
+<title>A New Concept of Sets to Handle Similarity in Databases: The SimSets.</title>
+<pages>30-42</pages>
+<year>2013</year>
+<booktitle>SISAP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-41062-8_4</ee>
+<crossref>conf/sisap/2013</crossref>
+<url>db/conf/sisap/sisap2013.html#PolaCTT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/NunesRACTCST13" mdate="2018-11-06">
+<author pid="59/10021">Santiago Augusto Nunes</author>
+<author pid="69/7740">Luciana A. S. Romani</author>
+<author pid="59/7740">Ana Maria Heuminski de &#193;vila</author>
+<author pid="56/11497">Priscila P. Coltri</author>
+<author pid="t/CaetanoTrainaJr">Caetano Traina Jr.</author>
+<author orcid="0000-0002-6795-3004" pid="84/5092">Robson Leonardo Ferreira Cordeiro</author>
+<author pid="91/5321">Elaine P. M. de Sousa</author>
+<author pid="t/AgmaJMTraina">Agma J. M. Traina</author>
+<title>Analysis of large scale climate data: how well climate change models and data from real sensor networks agree?</title>
+<pages>517-526</pages>
+<year>2013</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2487788.2487986</ee>
+<crossref>conf/www/2013c</crossref>
+<url>db/conf/www/www2013c.html#NunesRACTCST13</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ndltd/Cordeiro11" mdate="2017-08-12">
+<author pid="84/5092">Robson Leonardo Ferreira Cordeiro</author>
+<title>Minera&#231;&#227;o de dados em grande conjuntos de dados complexos.</title>
+<year>2011</year>
+<school>University of S&#227;o Paulo, Brazil</school>
+<ee>http://www.teses.usp.br/teses/disponiveis/55/55134/tde-22112011-083653/</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:agregador.ibict.br.BDTD_USP:oai:teses.usp.br:tde-22112011-083653</ee>
+<note type="source">ndltd.org (oai:agregador.ibict.br.BDTD_USP:oai:teses.usp.br:tde-22112011-083653)</note>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/kdd/CordeiroTTLKF11" mdate="2024-10-06">
+<author orcid="0000-0002-6795-3004" pid="84/5092">Robson Leonardo Ferreira Cordeiro</author>
+<author orcid="0000-0002-6625-6047" pid="t/CaetanoTrainaJr">Caetano Traina Jr.</author>
+<author pid="t/AgmaJMTraina">Agma Juci Machado Traina</author>
+<author pid="l/JulioLopezHernandez">Julio L&#243;pez 0002</author>
+<author pid="13/7122">U Kang</author>
+<author orcid="0000-0003-2996-9790" pid="f/CFaloutsos">Christos Faloutsos</author>
+<title>Clustering very large multi-dimensional datasets with MapReduce.</title>
+<pages>690-698</pages>
+<year>2011</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/2020408.2020516</ee>
+<ee>https://www.wikidata.org/entity/Q59551393</ee>
+<crossref>conf/kdd/2011</crossref>
+<url>db/conf/kdd/kdd2011.html#CordeiroTTLKF11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/CordeiroTFT10" mdate="2024-10-06">
+<author orcid="0000-0002-6795-3004" pid="84/5092">Robson Leonardo Ferreira Cordeiro</author>
+<author pid="t/AgmaJMTraina">Agma J. M. Traina</author>
+<author orcid="0000-0003-2996-9790" pid="f/CFaloutsos">Christos Faloutsos</author>
+<author orcid="0000-0002-6625-6047" pid="t/CaetanoTrainaJr">Caetano Traina Jr.</author>
+<title>Finding Clusters in subspaces of very large, multi-dimensional datasets.</title>
+<pages>625-636</pages>
+<year>2010</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2010.5447924</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2010.5447924</ee>
+<ee>https://www.wikidata.org/entity/Q59551474</ee>
+<crossref>conf/icde/2010</crossref>
+<url>db/conf/icde/icde2010.html#CordeiroTFT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/CordeiroGHHHKTTF10" mdate="2024-10-06">
+<author orcid="0000-0002-6795-3004" pid="84/5092">Robson Leonardo Ferreira Cordeiro</author>
+<author pid="55/6662-6">Fan Guo 0006</author>
+<author pid="19/678">Donna S. Haverkamp</author>
+<author pid="89/9023">James H. Horne</author>
+<author pid="79/1835">Ellen K. Hughes</author>
+<author pid="45/115">Gunhee Kim</author>
+<author pid="t/AgmaJMTraina">Agma J. M. Traina</author>
+<author orcid="0000-0002-6625-6047" pid="t/CaetanoTrainaJr">Caetano Traina Jr.</author>
+<author orcid="0000-0003-2996-9790" pid="f/CFaloutsos">Christos Faloutsos</author>
+<title>QMAS: Querying, Mining and Summarization of Multi-modal Databases.</title>
+<pages>785-790</pages>
+<year>2010</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2010.150</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDM.2010.150</ee>
+<ee>https://www.wikidata.org/entity/Q59551494</ee>
+<crossref>conf/icdm/2010</crossref>
+<url>db/conf/icdm/icdm2010.html#CordeiroGHHHKTTF10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/CordeiroGES07" mdate="2007-09-19">
+<author pid="84/5092">Robson Leonardo Ferreira Cordeiro</author>
+<author pid="37/2418">Renata de Matos Galante</author>
+<author pid="e/NinaEdelweiss">Nina Edelweiss</author>
+<author pid="s/CSdSantos">Clesio Saraiva dos Santos</author>
+<title>A Deep Classification of Temporal Versioned Integrity Constraints for Designing Database Applications.</title>
+<pages>416-421</pages>
+<year>2007</year>
+<crossref>conf/seke/2007</crossref>
+<booktitle>SEKE</booktitle>
+<url>db/conf/seke/seke2007.html#CordeiroGES07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/CordeiroEGS05" mdate="2023-01-17">
+<author pid="84/5092">Robson Leonardo Ferreira Cordeiro</author>
+<author pid="e/NinaEdelweiss">Nina Edelweiss</author>
+<author pid="37/2418">Renata de Matos Galante</author>
+<author pid="s/CSdSantos">Clesio Saraiva dos Santos</author>
+<title>TVCL - Temporal Versioned Constraint Language.</title>
+<pages>55-69</pages>
+<year>2005</year>
+<crossref>conf/sbbd/2005</crossref>
+<booktitle>SBBD</booktitle>
+<ee type="archive">http://www.sbbd-sbes2005.ufu.br/arquivos/artigo-04-CordeiroEdelweiss.pdf</ee>
+<url>db/conf/sbbd/sbbd2005.html#CordeiroEGS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/CordeiroSEG04" mdate="2005-03-17">
+<author pid="84/5092">Robson Leonardo Ferreira Cordeiro</author>
+<author pid="s/CSdSantos">Clesio Saraiva dos Santos</author>
+<author pid="e/NinaEdelweiss">Nina Edelweiss</author>
+<author pid="37/2418">Renata de Matos Galante</author>
+<title>Classifica&#231;&#227;o de Restri&#231;&#245;es de Integridade em Bancos de Dados Temporais de Vers&#245;es.</title>
+<pages>363-377</pages>
+<year>2004</year>
+<crossref>conf/sbbd/2004</crossref>
+<booktitle>SBBD</booktitle>
+<url>db/conf/sbbd/sbbd2004.html#CordeiroSEG04</url>
+</inproceedings>
+</r>
+<coauthors n="80" nc="1">
+<co c="0"><na f="a/Akoglu:Leman" pid="02/6979">Leman Akoglu</na></co>
+<co c="-1"><na f="a/Alves:Matheus_Aparecido_do_Carmo" pid="266/5694">Matheus Aparecido do Carmo Alves</na></co>
+<co c="0"><na f="a/Amaral:Th=aacute=bata" pid="218/4864">Th&#225;bata Amaral</na></co>
+<co c="0"><na f="a/Amo:Sandra_de" pid="54/4043">Sandra de Amo</na></co>
+<co c="0"><na f="=/=Aacute=vila:Ana_Maria_Heuminski_de" pid="59/7740">Ana Maria Heuminski de &#193;vila</na></co>
+<co c="0"><na f="b/Braganholo:Vanessa" pid="84/2055">Vanessa Braganholo</na></co>
+<co c="0"><na f="c/Cabral:Eug=ecirc=nio_F=" pid="276/5000">Eug&#234;nio F. Cabral</na></co>
+<co c="0"><na f="c/Campelo:Cl=aacute=udio_El=iacute=zio_Calazans" pid="77/3901">Cl&#225;udio El&#237;zio Calazans Campelo</na></co>
+<co c="0" n="2"><na f="c/Cazzolato:Mirela_Teixeira" pid="135/8726">Mirela Teixeira Cazzolato</na><na>Mirela T. Cazzolato</na></co>
+<co c="0" n="3"><na f="c/Chau:Polo" pid="10/2670">Polo Chau</na><na>Duen Horng Chau</na><na>Duen Horng (Polo) Chau</na></co>
+<co c="0"><na f="c/Chino:Daniel_Y=_T=" pid="119/6740">Daniel Y. T. Chino</na></co>
+<co c="0"><na f="c/Ciferri:Cristina_Dutra_de_Aguiar" pid="13/4069">Cristina Dutra de Aguiar Ciferri</na></co>
+<co c="0"><na f="c/Coltri:Priscila_P=" pid="56/11497">Priscila P. Coltri</na></co>
+<co c="0"><na f="d/Davis_Jr=:Clodoveu_A=" pid="d/ClodoveuADavis">Clodoveu A. Davis Jr.</na></co>
+<co c="0"><na f="e/Edelweiss:Nina" pid="e/NinaEdelweiss">Nina Edelweiss</na></co>
+<co c="0"><na f="f/Faloutsos:Christos" pid="f/CFaloutsos">Christos Faloutsos</na></co>
+<co c="0"><na f="f/Fasolin:Karina" pid="142/2292">Karina Fasolin</na></co>
+<co c="0"><na f="f/Ferreira:Felippe_P=" pid="389/0953">Felippe P. Ferreira</na></co>
+<co c="0"><na f="f/Ferreira:Lucas_D=" pid="184/0061">Lucas D. Ferreira</na></co>
+<co c="0"><na f="f/Ferreira:M=ocirc=nica_Ribeiro_Porto" pid="72/1986">M&#244;nica Ribeiro Porto Ferreira</na></co>
+<co c="0"><na f="f/Fileto:Renato" pid="35/2350">Renato Fileto</na></co>
+<co c="0" n="2"><na f="f/Florez:Alexander_Ylnner_Choquenaira" pid="264/5810">Alexander Ylnner Choquenaira Florez</na><na>Alexander Florez</na></co>
+<co c="0"><na f="f/Fraideinberze:Antonio_C=" pid="183/9968">Antonio C. Fraideinberze</na></co>
+<co c="0" n="2"><na f="g/Galante:Renata" pid="37/2418">Renata Galante</na><na>Renata de Matos Galante</na></co>
+<co c="0"><na f="g/Gimenes:Gabriel_P=" pid="150/7251">Gabriel P. Gimenes</na></co>
+<co c="0"><na f="g/Gonzaga:Andr=eacute=_S=" pid="183/9859">Andr&#233; S. Gonzaga</na></co>
+<co c="0"><na f="g/Gualdron:Hugo" pid="150/7091">Hugo Gualdron</na></co>
+<co c="0"><na f="g/Guo_0006:Fan" pid="55/6662-6">Fan Guo 0006</na></co>
+<co c="0"><na f="h/Haverkamp:Donna_S=" pid="19/678">Donna S. Haverkamp</na></co>
+<co c="0"><na f="h/Horne:James_H=" pid="89/9023">James H. Horne</na></co>
+<co c="0"><na f="h/Hughes:Ellen_K=" pid="79/1835">Ellen K. Hughes</na></co>
+<co c="0"><na f="j/Jiang:Shuli" pid="224/6441">Shuli Jiang</na></co>
+<co c="0"><na f="j/Jorge:Ana_Elisa_Serafim" pid="193/6754">Ana Elisa Serafim Jorge</na></co>
+<co c="0"><na f="j/Junior:Altamir_Gomes_Bispo" pid="218/4489">Altamir Gomes Bispo Junior</na></co>
+<co c="0"><na f="k/Kahng:Minsuk" pid="15/8313">Minsuk Kahng</na></co>
+<co c="0"><na f="k/Kang:U" pid="13/7122">U Kang</na></co>
+<co c="0"><na f="k/Kaster:Daniel_S=" pid="k/DanielSKaster">Daniel S. Kaster</na></co>
+<co c="0"><na f="k/Kim:Gunhee" pid="45/115">Gunhee Kim</na></co>
+<co c="0"><na f="k/Kr=uuml=ger:Marcelo" pid="137/2816">Marcelo Kr&#252;ger</na></co>
+<co c="0"><na f="k/Kunze:Lucas_Felipe" pid="218/4746">Lucas Felipe Kunze</na></co>
+<co c="0"><na f="l/Laverde:Natan_A=" pid="183/9893">Natan A. Laverde</na></co>
+<co c="0" n="2"><na f="l/Lescano:Alexis" pid="285/5008">Alexis Lescano</na><na>Alexis I. Aspauza Lescano</na></co>
+<co c="0"><na f="l/Lima:Afonso_Matheus_Sousa" pid="202/0175">Afonso Matheus Sousa Lima</na></co>
+<co c="0"><na f="l/Lima:Daniel_Mario_de" pid="137/8850">Daniel Mario de Lima</na></co>
+<co c="0"><na f="l/L=oacute=pez_0002:Julio" pid="l/JulioLopezHernandez">Julio L&#243;pez 0002</na></co>
+<co c="0"><na f="m/Machado:Javam_C=" pid="12/3896">Javam C. Machado</na></co>
+<co c="0"><na f="m/Marinho:Leandro_Balby" pid="59/4973">Leandro Balby Marinho</na></co>
+<co c="0"><na f="m/Martins:Natalia" pid="80/1078">Natalia Martins</na></co>
+<co c="0" n="2"><na f="m/Merschmann:Luiz_H=_C=" pid="80/1853">Luiz H. C. Merschmann</na><na>Luiz Henrique de Campos Merschmann</na></co>
+<co c="-1"><na f="m/Milon=Flores:Daniela_F=" pid="254/8314">Daniela F. Milon-Flores</na></co>
+<co c="0"><na f="m/Moraes:Leonardo_Mauro_Pereira" pid="218/4779">Leonardo Mauro Pereira Moraes</na></co>
+<co c="0"><na f="m/Moriyama:Andre" pid="239/8743">Andre Moriyama</na></co>
+<co c="0" n="2"><na f="n/Novaes:Jo=atilde=o_V=_O=" pid="285/5516">Jo&#227;o V. O. Novaes</na><na>Jo&#227;o Victor de Oliveira Novaes</na></co>
+<co c="0"><na f="n/Nunes:Santiago_Augusto" pid="59/10021">Santiago Augusto Nunes</na></co>
+<co c="0"><na f="o/Oliveira:Jadson_Jos=eacute=_Monteiro" pid="218/4514">Jadson Jos&#233; Monteiro Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Paulo_H=" pid="166/9004">Paulo H. Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Willian_D=" pid="53/10361">Willian D. Oliveira</na></co>
+<co c="0"><na f="p/Pola:Ives_Rene_Venturini" pid="94/3693">Ives Rene Venturini Pola</na></co>
+<co c="0"><na f="r/Rocha:Guilherme_Muzzi_da" pid="225/0604">Guilherme Muzzi da Rocha</na></co>
+<co c="0"><na f="r/Rodrigues:Lucas_Santiago" pid="258/3792">Lucas Santiago Rodrigues</na></co>
+<co c="0" n="3"><na f="r/Rodrigues_Jr=:Jos=eacute=_F=" pid="r/JoseFernandoRodriguesJr">Jos&#233; F. Rodrigues Jr.</na><na>Jos&#233; Fernando Rodrigues Jr.</na><na>Jos&#233; F. Rodrigues J&#250;nior</na></co>
+<co c="0"><na f="r/Romani:Luciana_A=_S=" pid="69/7740">Luciana A. S. Romani</na></co>
+<co c="0"><na f="s/Sanches:Lucas_L=" pid="186/1468">Lucas L. Sanches</na></co>
+<co c="0"><na f="s/Sander_0001:J=ouml=rg" pid="s/JorgSander">J&#246;rg Sander 0001</na></co>
+<co c="0"><na f="s/Santos:Clesio_Saraiva_dos" pid="s/CSdSantos">Clesio Saraiva dos Santos</na></co>
+<co c="0"><na f="s/Santos:L=uacute=cio_F=_D=" pid="52/10363">L&#250;cio F. D. Santos</na></co>
+<co c="0"><na f="s/Scabora:Lucas_C=" pid="184/0017">Lucas C. Scabora</na></co>
+<co c="0"><na f="s/Schubert:Erich" pid="61/5820">Erich Schubert</na></co>
+<co c="0"><na f="s/Silva:Afonso_Expedito_Da" pid="181/9013">Afonso Expedito Da Silva</na></co>
+<co c="0"><na f="s/Silva:Guilherme_D=_F=" pid="304/3529">Guilherme D. F. Silva</na></co>
+<co c="0" n="2"><na f="s/Sousa:Elaine_P=_M=_de" pid="91/5321">Elaine P. M. de Sousa</na><na>Elaine Parros Machado de Sousa</na></co>
+<co c="0"><na f="s/Souza:Tamires_T=" pid="142/4507">Tamires T. Souza</na></co>
+<co c="0" n="2"><na f="t/Tavares:Tatiana_A=" pid="89/3496">Tatiana A. Tavares</na><na>Tatiana Aires Tavares</na></co>
+<co c="0" n="2"><na f="t/Traina:Agma_J=_M=" pid="t/AgmaJMTraina">Agma J. M. Traina</na><na>Agma Juci Machado Traina</na></co>
+<co c="0" n="2"><na f="t/Traina_Jr=:Caetano" pid="t/CaetanoTrainaJr">Caetano Traina Jr.</na><na>Caetano Traina J&#250;nior</na></co>
+<co c="0"><na f="v/Vasconcelos:Guilherme_Q=" pid="218/4523">Guilherme Q. Vasconcelos</na></co>
+<co c="0"><na f="v/Vinces:Braulio_Valentin_Sanchez" pid="264/5959">Braulio Valentin Sanchez Vinces</na></co>
+<co c="0"><na f="w/Willrich:Roberto" pid="74/6170">Roberto Willrich</na></co>
+<co c="0"><na f="z/Zabot:Guilherme_F=" pid="218/4885">Guilherme F. Zabot</na></co>
+<co c="0"><na f="z/Zimek:Arthur" pid="27/4179">Arthur Zimek</na></co>
+</coauthors>
+</dblpperson>
+

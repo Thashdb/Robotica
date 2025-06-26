@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<dblpperson name="H&#233;lio Crestana Guardia" pid="53/1466" n="16">
+<person key="homepages/53/1466" mdate="2020-05-20">
+<author pid="53/1466">H&#233;lio Crestana Guardia</author>
+<author pid="53/1466">H&#233;lio Guardia</author>
+<url>http://www2.dc.ufscar.br/~helio/</url>
+<url>https://orcid.org/0000-0001-5010-747X</url>
+<url>http://lattes.cnpq.br/1780902767520967</url>
+<note type="affiliation">Universidade Federal de S&#227;o Carlos, S&#227;o Paulo, Brasil</note>
+</person>
+<r><inproceedings key="conf/iccsa/PuhlCGS21" mdate="2021-10-05">
+<author orcid="0000-0003-2118-9992" pid="301/6450">Lu&#237;s Puhl</author>
+<author orcid="0000-0003-4029-2047" pid="257/5616">Guilherme Weigert Cassales</author>
+<author orcid="0000-0001-5010-747X" pid="53/1466">H&#233;lio Crestana Guardia</author>
+<author orcid="0000-0003-1273-9809" pid="23/4124">Hermes Senger</author>
+<title>Distributed Novelty Detection at the Edge for IoT Network Security.</title>
+<pages>471-486</pages>
+<year>2021</year>
+<booktitle>ICCSA (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-86970-0_33</ee>
+<crossref>conf/iccsa/2021-3</crossref>
+<url>db/conf/iccsa/iccsa2021-3.html#PuhlCGS21</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/GaiosoCGS20" mdate="2021-04-21">
+<author pid="164/9617">Roussian R. A. Gaioso</author>
+<author orcid="0000-0003-4637-9725" pid="89/6623">Veronica Gil-Costa</author>
+<author orcid="0000-0001-5010-747X" pid="53/1466">H&#233;lio Guardia</author>
+<author orcid="0000-0003-1273-9809" pid="23/4124">Hermes Senger</author>
+<title>Performance evaluation of single vs. batch of queries on GPUs.</title>
+<year>2020</year>
+<volume>32</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>20</number>
+<ee>https://doi.org/10.1002/cpe.5474</ee>
+<url>db/journals/concurrency/concurrency32.html#GaiosoCGS20</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbac-pad/GaiosoGCS19" mdate="2021-04-21">
+<author pid="164/9617">Roussian R. A. Gaioso</author>
+<author pid="53/1466">H&#233;lio Crestana Guardia</author>
+<author orcid="0000-0003-4637-9725" pid="89/6623">Veronica Gil-Costa</author>
+<author orcid="0000-0003-1273-9809" pid="23/4124">Hermes Senger</author>
+<title>Parallel Strategies for the Execution of Top-k Queries with MaxScore on GPUs.</title>
+<pages>104-111</pages>
+<year>2019</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2019.00028</ee>
+<crossref>conf/sbac-pad/2019</crossref>
+<url>db/conf/sbac-pad/sbac-pad2019.html#GaiosoGCS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/GaiosoCGS18" mdate="2023-03-24">
+<author pid="164/9617">Roussian R. A. Gaioso</author>
+<author orcid="0000-0003-4637-9725" pid="89/6623">Veronica Gil-Costa</author>
+<author orcid="0000-0001-5010-747X" pid="53/1466">H&#233;lio Guardia</author>
+<author orcid="0000-0003-1273-9809" pid="23/4124">Hermes Senger</author>
+<title>A Parallel Implementation of WAND on GPUs.</title>
+<pages>10-17</pages>
+<year>2018</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP2018.2018.00011</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PDP2018.2018.00011</ee>
+<crossref>conf/pdp/2018</crossref>
+<url>db/conf/pdp/pdp2018.html#GaiosoCGS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/huc/ColnagoG16" mdate="2019-10-19">
+<author pid="174/9189">Jessica Colnago</author>
+<author orcid="0000-0001-5010-747X" pid="53/1466">H&#233;lio Guardia</author>
+<title>How to inform privacy agents on preferred level of user control?</title>
+<pages>1542-1547</pages>
+<year>2016</year>
+<booktitle>UbiComp Adjunct</booktitle>
+<ee>https://doi.org/10.1145/2968219.2968546</ee>
+<crossref>conf/huc/2016ap</crossref>
+<url>db/conf/huc/ubicomp2016ap.html#ColnagoG16</url>
+</inproceedings>
+</r>
+<r><article key="journals/tmc/KimuraGM14" mdate="2019-10-19">
+<author orcid="0000-0002-2174-2762" pid="36/804">Bruno Yuji Lino Kimura</author>
+<author orcid="0000-0001-5010-747X" pid="53/1466">H&#233;lio Crestana Guardia</author>
+<author pid="90/5238">Edson dos Santos Moreira</author>
+<title>A Session-Based Mobile Socket Layer for Disruption Tolerance on the Internet.</title>
+<pages>1668-1680</pages>
+<year>2014</year>
+<volume>13</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TMC.2013.76</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TMC.2013.76</ee>
+<url>db/journals/tmc/tmc13.html#KimuraGM14</url>
+</article>
+</r>
+<r><inproceedings key="conf/huc/AlmeidaBLCPG13" mdate="2019-10-19">
+<author pid="115/4590">Ricardo Aparecido Perez de Almeida</author>
+<author pid="03/0">Michael Blackstock</author>
+<author pid="72/5063">Rodger Lea</author>
+<author pid="117/6781">Roberto Calderon</author>
+<author pid="47/6106">Ant&#244;nio Francisco do Prado</author>
+<author orcid="0000-0001-5010-747X" pid="53/1466">H&#233;lio Crestana Guardia</author>
+<title>Thing broker: a twitter for things.</title>
+<pages>1545-1554</pages>
+<year>2013</year>
+<booktitle>UbiComp (Adjunct Publication)</booktitle>
+<ee>https://doi.org/10.1145/2494091.2497588</ee>
+<crossref>conf/huc/2013ap</crossref>
+<url>db/conf/huc/ubicomp2013ap.html#AlmeidaBLCPG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccsa/AlmeidaG12" mdate="2017-05-24">
+<author pid="115/4590">Ricardo Aparecido Perez de Almeida</author>
+<author pid="53/1466">H&#233;lio Crestana Guardia</author>
+<title>An Architecture for Service Integration and Unified Communication in Mobile Computing.</title>
+<pages>560-575</pages>
+<year>2012</year>
+<booktitle>ICCSA (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31128-4_41</ee>
+<crossref>conf/iccsa/2012-4</crossref>
+<url>db/conf/iccsa/iccsa2012-4.html#AlmeidaG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/KimuraGM12" mdate="2019-10-19">
+<author pid="36/804">Bruno Yuji Lino Kimura</author>
+<author orcid="0000-0001-5010-747X" pid="53/1466">H&#233;lio Crestana Guardia</author>
+<author pid="90/5238">Edson dos Santos Moreira</author>
+<title>Disruption-tolerant sessions for seamless mobility.</title>
+<pages>2412-2417</pages>
+<year>2012</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC.2012.6214200</ee>
+<crossref>conf/wcnc/2012</crossref>
+<url>db/conf/wcnc/wcnc2012.html#KimuraGM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/MappAGC11" mdate="2023-03-24">
+<author pid="56/6992">Glenford E. Mapp</author>
+<author orcid="0000-0002-3984-6244" pid="68/7740">Mahdi Aiash</author>
+<author orcid="0000-0001-5010-747X" pid="53/1466">H&#233;lio Crestana Guardia</author>
+<author orcid="0000-0002-7013-0121" pid="c/JonCrowcroft">Jon Crowcroft</author>
+<title>Exploring Multi-homing Issues in Heterogeneous Environments.</title>
+<pages>690-695</pages>
+<year>2011</year>
+<booktitle>AINA Workshops</booktitle>
+<ee>https://doi.org/10.1109/WAINA.2011.140</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WAINA.2011.140</ee>
+<ee>https://www.wikidata.org/entity/Q57352962</ee>
+<crossref>conf/aina/2011w</crossref>
+<url>db/conf/aina/ainaw2011.html#MappAGC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/AlmeidaMG09" mdate="2018-11-06">
+<author pid="115/4590">Ricardo Aparecido Perez de Almeida</author>
+<author pid="115/4608">Danilo Augusto Moschetto</author>
+<author pid="53/1466">H&#233;lio Crestana Guardia</author>
+<title>Content dissemination and sharing model with support to opportunistic communication.</title>
+<pages>35</pages>
+<year>2009</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/1858477.1858512</ee>
+<crossref>conf/webmedia/2009</crossref>
+<url>db/conf/webmedia/webmedia2009.html#AlmeidaMG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wimob/CruzCG09" mdate="2023-03-24">
+<author pid="58/7641">Erlon R. Cruz</author>
+<author orcid="0000-0001-9837-952X" pid="50/2666">Daniel C&#226;mara</author>
+<author orcid="0000-0001-5010-747X" pid="53/1466">H&#233;lio Crestana Guardia</author>
+<title>Providing Billing Support in WiMAX Mesh Networks.</title>
+<pages>161-166</pages>
+<year>2009</year>
+<booktitle>WiMob</booktitle>
+<ee>https://doi.org/10.1109/WiMob.2009.36</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WiMob.2009.36</ee>
+<crossref>conf/wimob/2009</crossref>
+<url>db/conf/wimob/wimob2009.html#CruzCG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/KimuraG08" mdate="2019-10-19">
+<author pid="36/804">Bruno Yuji Lino Kimura</author>
+<author orcid="0000-0001-5010-747X" pid="53/1466">H&#233;lio Crestana Guardia</author>
+<title>TIPS: wrapping the sockets API for seamless IP mobility.</title>
+<pages>1940-1945</pages>
+<year>2008</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1363686.1364154</ee>
+<crossref>conf/sac/2008</crossref>
+<url>db/conf/sac/sac2008.html#KimuraG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/DodonovSG04" mdate="2025-01-19">
+<author pid="04/938">Evgueni Dodonov</author>
+<author pid="17/1639">Joelle Quaini Sousa</author>
+<author orcid="0000-0001-5010-747X" pid="53/1466">H&#233;lio Crestana Guardia</author>
+<title>GridBox: securing hosts from malicious and greedy applications.</title>
+<pages>17-22</pages>
+<year>2004</year>
+<crossref>conf/middleware/2004w1</crossref>
+<booktitle>Middleware for Grid Computing</booktitle>
+<ee>https://doi.org/10.1145/1028493.1028496</ee>
+<ee>https://www.wikidata.org/entity/Q131119621</ee>
+<url>db/conf/middleware/middleware2004-w1.html#DodonovSG04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/CostaZG03" mdate="2006-01-03">
+<author pid="77/2055">Paulo Vicente Capellotto Costa</author>
+<author pid="61/335">S&#233;rgio Donizetti Zorzo</author>
+<author pid="53/1466">H&#233;lio Crestana Guardia</author>
+<title>An Architecture For Computational Grids Based On Proxy Servers.</title>
+<pages>251-255</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#CostaZG03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/CostaZG03" mdate="2023-03-23">
+<author pid="77/2055">Paulo Vicente Capellotto Costa</author>
+<author pid="61/335">S&#233;rgio Donizetti Zorzo</author>
+<author orcid="0000-0001-5010-747X" pid="53/1466">H&#233;lio Crestana Guardia</author>
+<title>ProGrid: A Proxy-Based Architecture for Grid Operation and Management.</title>
+<pages>100-107</pages>
+<year>2003</year>
+<crossref>conf/sbac-pad/2003</crossref>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/CAHPC.2003.1250327</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CAHPC.2003.1250327</ee>
+<url>db/conf/sbac-pad/sbac-pad2003.html#CostaZG03</url>
+</inproceedings>
+</r>
+<coauthors n="23" nc="6">
+<co c="2"><na f="a/Aiash:Mahdi" pid="68/7740">Mahdi Aiash</na></co>
+<co c="0"><na f="a/Almeida:Ricardo_Aparecido_Perez_de" pid="115/4590">Ricardo Aparecido Perez de Almeida</na></co>
+<co c="0"><na f="b/Blackstock:Michael" pid="03/0">Michael Blackstock</na></co>
+<co c="0"><na f="c/Calderon:Roberto" pid="117/6781">Roberto Calderon</na></co>
+<co c="5"><na f="c/C=acirc=mara:Daniel" pid="50/2666">Daniel C&#226;mara</na></co>
+<co c="1"><na f="c/Cassales:Guilherme_Weigert" pid="257/5616">Guilherme Weigert Cassales</na></co>
+<co c="-1"><na f="c/Colnago:Jessica" pid="174/9189">Jessica Colnago</na></co>
+<co c="3"><na f="c/Costa:Paulo_Vicente_Capellotto" pid="77/2055">Paulo Vicente Capellotto Costa</na></co>
+<co c="2"><na f="c/Crowcroft:Jon" pid="c/JonCrowcroft">Jon Crowcroft</na></co>
+<co c="5"><na f="c/Cruz:Erlon_R=" pid="58/7641">Erlon R. Cruz</na></co>
+<co c="4"><na f="d/Dodonov:Evgueni" pid="04/938">Evgueni Dodonov</na></co>
+<co c="1"><na f="g/Gaioso:Roussian_R=_A=" pid="164/9617">Roussian R. A. Gaioso</na></co>
+<co c="1"><na f="g/Gil=Costa:Veronica" pid="89/6623">Veronica Gil-Costa</na></co>
+<co c="2"><na f="k/Kimura:Bruno_Yuji_Lino" pid="36/804">Bruno Yuji Lino Kimura</na></co>
+<co c="0"><na f="l/Lea:Rodger" pid="72/5063">Rodger Lea</na></co>
+<co c="2"><na f="m/Mapp:Glenford_E=" pid="56/6992">Glenford E. Mapp</na></co>
+<co c="2"><na f="m/Moreira:Edson_dos_Santos" pid="90/5238">Edson dos Santos Moreira</na></co>
+<co c="0"><na f="m/Moschetto:Danilo_Augusto" pid="115/4608">Danilo Augusto Moschetto</na></co>
+<co c="0"><na f="p/Prado:Ant=ocirc=nio_Francisco_do" pid="47/6106">Ant&#244;nio Francisco do Prado</na></co>
+<co c="1"><na f="p/Puhl:Lu=iacute=s" pid="301/6450">Lu&#237;s Puhl</na></co>
+<co c="1"><na f="s/Senger:Hermes" pid="23/4124">Hermes Senger</na></co>
+<co c="4"><na f="s/Sousa:Joelle_Quaini" pid="17/1639">Joelle Quaini Sousa</na></co>
+<co c="3"><na f="z/Zorzo:S=eacute=rgio_Donizetti" pid="61/335">S&#233;rgio Donizetti Zorzo</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,375 @@
+<?xml version="1.0"?>
+<dblpperson name="Daniel Carvalho da Cunha" pid="203/8737" n="24">
+<person key="homepages/203/8737" mdate="2025-06-02">
+<author pid="203/8737">Daniel Carvalho da Cunha</author>
+<author pid="203/8737">Daniel C. Cunha 0001</author>
+<note type="affiliation">Federal University of Pernambuco, Centro de Inform&#225;tica (CIn), Brazil</note>
+<note label="PhD 2006" type="affiliation">University of Campinas, Brazil</note>
+<url>https://www.cin.ufpe.br/~dcunha/index.html</url>
+<url>https://orcid.org/0000-0003-4515-4938</url>
+</person>
+<homonyms n="1">
+<h f="c/Cunha:Daniel_C="><name>Daniel C. Cunha</name>
+</h>
+</homonyms>
+<r><inproceedings key="conf/bracis/AlmeidaNC24" mdate="2025-02-25">
+<author pid="228/1797">Diogo M. Almeida</author>
+<author pid="21/8284">Paulo S. G. de Mattos Neto</author>
+<author pid="203/8737">Daniel C. Cunha 0001</author>
+<title>A Data Distribution-Based Ensemble Generation Applied to Wind Speed Forecasting.</title>
+<pages>17-32</pages>
+<year>2024</year>
+<booktitle>BRACIS (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-79029-4_2</ee>
+<crossref>conf/bracis/2024-1</crossref>
+<url>db/conf/bracis/bracis2024-1.html#AlmeidaNC24</url>
+<stream>streams/conf/bracis</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hais/AlmeidaNC24" mdate="2024-10-22">
+<author pid="228/1797">Diogo M. Almeida</author>
+<author orcid="0000-0002-2396-7973" pid="21/8284">Paulo S. G. de Mattos Neto</author>
+<author orcid="0000-0003-4515-4938" pid="203/8737">Daniel Carvalho da Cunha</author>
+<title>A New Ensemble with Partition Size Variation Applied to Wind Speed Time Series.</title>
+<pages>53-65</pages>
+<year>2024</year>
+<booktitle>HAIS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-74186-9_5</ee>
+<crossref>conf/hais/2024-2</crossref>
+<url>db/conf/hais/hais2024-2.html#AlmeidaNC24</url>
+<stream>streams/conf/hais</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/swarm/SilvaCBT24" mdate="2025-03-03">
+<author orcid="0000-0002-1040-8523" pid="175/5976">Lizandro Nunes da Silva</author>
+<author pid="203/8737">Daniel Carvalho da Cunha</author>
+<author pid="384/1846">Raul Vitor Silva Barreto</author>
+<author pid="175/5999">Robson Dias Alves Timoteo</author>
+<title>Proposal of a Memory-Based Ensemble Particle Swarm Optimizer.</title>
+<pages>20-32</pages>
+<year>2024</year>
+<booktitle>ICSI (1)</booktitle>
+<ee>https://doi.org/10.1007/978-981-97-7181-3_2</ee>
+<crossref>conf/swarm/2024-1</crossref>
+<url>db/conf/swarm/icsi2024-1.html#SilvaCBT24</url>
+<stream>streams/conf/swarm</stream>
+</inproceedings>
+</r>
+<r><article key="journals/comcom/BittencourtMC23" mdate="2023-10-28">
+<author orcid="0000-0002-1757-4591" pid="221/0314">Gustavo P. Bittencourt</author>
+<author orcid="0000-0003-2409-2141" pid="300/9965">Jo&#227;o Paulo P. G. Marques</author>
+<author orcid="0000-0003-4515-4938" pid="203/8737">Daniel C. Cunha 0001</author>
+<title>Generation of irregular grid maps for fingerprinting-based mobile radio localization using farthest-first traversal and low-discrepancy sequences.</title>
+<pages>24-36</pages>
+<year>2023</year>
+<month>November</month>
+<volume>211</volume>
+<journal>Comput. Commun.</journal>
+<ee>https://doi.org/10.1016/j.comcom.2023.08.021</ee>
+<url>db/journals/comcom/comcom211.html#BittencourtMC23</url>
+</article>
+</r>
+<r><article key="journals/comcom/Marques0HSS21" mdate="2025-03-03">
+<author orcid="0000-0003-2409-2141" pid="300/9965">Jo&#227;o Paulo P. G. Marques</author>
+<author pid="203/8737">Daniel C. Cunha 0001</author>
+<author pid="222/9372">Lucas M. F. Harada</author>
+<author orcid="0000-0002-1040-8523" pid="175/5976">Lizandro N. Silva</author>
+<author pid="300/9790">Igor D. Silva</author>
+<title>A cost-effective trilateration-based radio localization algorithm using machine learning and sequential least-square programming optimization.</title>
+<pages>1-9</pages>
+<year>2021</year>
+<volume>177</volume>
+<journal>Comput. Commun.</journal>
+<ee>https://doi.org/10.1016/j.comcom.2021.06.005</ee>
+<url>db/journals/comcom/comcom177.html#Marques0HSS21</url>
+</article>
+</r>
+<r><article key="journals/comcom/TimoteoC20" mdate="2020-05-27">
+<author pid="175/5999">Robson D. A. Timoteo</author>
+<author pid="203/8737">Daniel C. Cunha 0001</author>
+<title>A scalable fingerprint-based angle-of-arrival machine learning approach for cellular mobile radio localization.</title>
+<pages>92-101</pages>
+<year>2020</year>
+<volume>157</volume>
+<journal>Comput. Commun.</journal>
+<ee>https://doi.org/10.1016/j.comcom.2020.04.014</ee>
+<url>db/journals/comcom/comcom157.html#TimoteoC20</url>
+</article>
+</r>
+<r><article key="journals/mam/CarvalhoCS19" mdate="2025-01-19">
+<author pid="171/6194">Sidartha A. L. Carvalho</author>
+<author pid="203/8737">Daniel C. Cunha 0001</author>
+<author pid="90/4151">Abel G. Silva-Filho</author>
+<title>Autonomous power management in mobile devices using dynamic frequency scaling and reinforcement learning for energy minimization.</title>
+<pages>205-220</pages>
+<year>2019</year>
+<volume>64</volume>
+<journal>Microprocess. Microsystems</journal>
+<ee>https://doi.org/10.1016/j.micpro.2018.09.008</ee>
+<ee>https://www.wikidata.org/entity/Q129207264</ee>
+<url>db/journals/mam/mam64.html#CarvalhoCS19</url>
+</article>
+</r>
+<r><article key="journals/winet/OliveiraOSTC19" mdate="2022-01-14">
+<author pid="252/7219">L. L. Oliveira</author>
+<author pid="252/7167">L. A. Oliveira Jr.</author>
+<author pid="252/7089">Gabriel W. A. Silva</author>
+<author pid="175/5999">Robson D. A. Timoteo</author>
+<author pid="203/8737">Daniel C. Cunha 0001</author>
+<title>An RSS-based regression model for user equipment location in cellular networks using machine learning.</title>
+<pages>4839-4848</pages>
+<year>2019</year>
+<volume>25</volume>
+<journal>Wirel. Networks</journal>
+<number>8</number>
+<ee>https://doi.org/10.1007/s11276-018-1774-4</ee>
+<url>db/journals/winet/winet25.html#OliveiraOSTC19</url>
+</article>
+</r>
+<r><inproceedings key="conf/flairs/TimoteoCN19" mdate="2022-10-26">
+<author pid="175/5999">Robson D. A. Timoteo</author>
+<author pid="203/8737">Daniel C. Cunha 0001</author>
+<author pid="21/8284">Paulo S. G. de Mattos Neto</author>
+<title>A Novel Combining-Based Method of Pool Generation for Ensemble Regression Problems.</title>
+<pages>80-85</pages>
+<year>2019</year>
+<booktitle>FLAIRS</booktitle>
+<ee type="oa">https://aaai.org/ocs/index.php/FLAIRS/FLAIRS19/paper/view/18279</ee>
+<crossref>conf/flairs/2019</crossref>
+<url>db/conf/flairs/flairs2019.html#TimoteoCN19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/AlmeidaNC18" mdate="2020-06-15">
+<author pid="228/1797">Diogo M. Almeida</author>
+<author orcid="0000-0002-2396-7973" pid="21/8284">Paulo S. G. de Mattos Neto</author>
+<author pid="203/8737">Daniel C. Cunha 0001</author>
+<title>Hybrid Time Series Forecasting Models Applied to Automotive On-Board Diagnostics Systems.</title>
+<pages>1-8</pages>
+<year>2018</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2018.8489679</ee>
+<crossref>conf/ijcnn/2018</crossref>
+<url>db/conf/ijcnn/ijcnn2018.html#AlmeidaNC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lascas/CarvalhoHLBCS18" mdate="2019-11-13">
+<author pid="171/6194">Sidartha A. L. Carvalho</author>
+<author pid="222/9372">Lucas M. F. Harada</author>
+<author pid="191/4603">Rafael N. Lima</author>
+<author pid="222/9294">Carolina M. A. Barbosa</author>
+<author pid="203/8737">Daniel C. Cunha 0001</author>
+<author pid="90/4151">Abel G. Silva-Filho</author>
+<title>Identifying power consumption signatures in LTE conformance tests using machine learning.</title>
+<pages>1-4</pages>
+<year>2018</year>
+<booktitle>LASCAS</booktitle>
+<ee>https://doi.org/10.1109/LASCAS.2018.8399980</ee>
+<crossref>conf/lascas/2018</crossref>
+<url>db/conf/lascas/lascas2018.html#CarvalhoHLBCS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/BittencourtUC18" mdate="2019-11-13">
+<author pid="221/0314">Gustavo P. Bittencourt</author>
+<author pid="221/0329">Anderson A. F. Urbano</author>
+<author pid="203/8737">Daniel C. Cunha 0001</author>
+<title>A proposal of an RF fingerprint-based outdoor localization technique using irregular grid maps.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC.2018.8377122</ee>
+<crossref>conf/wcnc/2018</crossref>
+<url>db/conf/wcnc/wcnc2018.html#BittencourtUC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsd/CarvalhoCF17" mdate="2023-03-23">
+<author pid="171/6194">Sidartha A. L. Carvalho</author>
+<author pid="203/8737">Daniel C. Cunha 0001</author>
+<author pid="90/4151">Abel Guilhermino da Silva Filho</author>
+<title>Autonomous Power Management for Embedded Systems Using a Non-linear Power Predictor.</title>
+<pages>22-29</pages>
+<year>2017</year>
+<booktitle>DSD</booktitle>
+<ee>https://doi.org/10.1109/DSD.2017.68</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DSD.2017.68</ee>
+<crossref>conf/dsd/2017</crossref>
+<url>db/conf/dsd/dsd2017.html#CarvalhoCF17</url>
+</inproceedings>
+</r>
+<r><article key="journals/cn/TimoteoSCC16" mdate="2025-03-03">
+<author pid="175/5999">Robson D. A. Timoteo</author>
+<author orcid="0000-0002-1040-8523" pid="175/5976">Lizandro N. Silva</author>
+<author pid="203/8737">Daniel C. Cunha 0001</author>
+<author pid="57/458">George D. C. Cavalcanti</author>
+<title>An approach using support vector regression for mobile location in cellular networks.</title>
+<pages>51-61</pages>
+<year>2016</year>
+<volume>95</volume>
+<journal>Comput. Networks</journal>
+<ee>https://doi.org/10.1016/j.comnet.2015.12.003</ee>
+<url>db/journals/cn/cn95.html#TimoteoSCC16</url>
+</article>
+</r>
+<r><article key="journals/cn/MeloCP16" mdate="2020-02-19">
+<author pid="179/2008">Bruna L. R. Melo</author>
+<author pid="203/8737">Daniel C. Cunha 0001</author>
+<author orcid="0000-0003-2632-919X" pid="12/5310">Cecilio Pimentel</author>
+<title>Optimal power distribution in non-binary LDPC code-based cooperative wireless networks.</title>
+<pages>157-165</pages>
+<year>2016</year>
+<volume>100</volume>
+<journal>Comput. Networks</journal>
+<ee>https://doi.org/10.1016/j.comnet.2016.02.022</ee>
+<url>db/journals/cn/cn100.html#MeloCP16</url>
+</article>
+</r>
+<r><inproceedings key="conf/nca/CarvalhoLCS16" mdate="2023-03-23">
+<author pid="171/6194">Sidartha A. L. Carvalho</author>
+<author pid="191/4603">Rafael N. Lima</author>
+<author pid="203/8737">Daniel C. Cunha 0001</author>
+<author pid="90/4151">Abel G. Silva-Filho</author>
+<title>A hardware and software Web-based environment for Energy Consumption analysis in mobile devices.</title>
+<pages>242-245</pages>
+<year>2016</year>
+<booktitle>NCA</booktitle>
+<ee>https://doi.org/10.1109/NCA.2016.7778625</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/NCA.2016.7778625</ee>
+<crossref>conf/nca/2016</crossref>
+<url>db/conf/nca/nca2016.html#CarvalhoLCS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nca/CarvalhoCS16" mdate="2023-03-23">
+<author pid="171/6194">Sidartha A. L. Carvalho</author>
+<author pid="203/8737">Daniel C. Cunha 0001</author>
+<author pid="90/4151">Abel G. Silva-Filho</author>
+<title>On the use of nonlinear methods for low-power CPU frequency prediction based on Android context variables.</title>
+<pages>250-253</pages>
+<year>2016</year>
+<booktitle>NCA</booktitle>
+<ee>https://doi.org/10.1109/NCA.2016.7778627</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/NCA.2016.7778627</ee>
+<crossref>conf/nca/2016</crossref>
+<url>db/conf/nca/nca2016.html#CarvalhoCS16</url>
+</inproceedings>
+</r>
+<r><article key="journals/ejasp/AlbuquerqueCP13" mdate="2020-03-12">
+<author pid="128/5332">Rebecca C. de Albuquerque</author>
+<author pid="203/8737">Daniel C. Cunha 0001</author>
+<author orcid="0000-0003-2632-919X" pid="12/5310">Cecilio Pimentel</author>
+<title>On the complexity-performance trade-off in soft-decision decoding for unequal error protection block codes.</title>
+<pages>28</pages>
+<year>2013</year>
+<volume>2013</volume>
+<journal>EURASIP J. Adv. Signal Process.</journal>
+<ee type="oa">https://doi.org/10.1186/1687-6180-2013-28</ee>
+<ee>https://www.wikidata.org/entity/Q59294096</ee>
+<url>db/journals/ejasp/ejasp2013.html#AlbuquerqueCP13</url>
+</article>
+</r>
+<r><inproceedings key="conf/icc/LimaSC12" mdate="2020-06-15">
+<author orcid="0000-0002-1474-1147" pid="49/8301">Juliano B. Lima</author>
+<author pid="21/8761">Ricardo M. Campello de Souza</author>
+<author pid="203/8737">Daniel C. Cunha 0001</author>
+<title>Multiuser communication based on the discrete fractional fourier transform.</title>
+<pages>3569-3570</pages>
+<year>2012</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2012.6363895</ee>
+<crossref>conf/icc/2012</crossref>
+<url>db/conf/icc/icc2012.html#LimaSC12</url>
+</inproceedings>
+</r>
+<r><article key="journals/icl/CunhaPN11" mdate="2021-05-27">
+<author pid="203/8737">Daniel C. Cunha 0001</author>
+<author pid="02/5015">Jaime Portugheis</author>
+<author pid="286/4238">Vagner Vale do Nascimento</author>
+<title>Symbol-Wise Chase Decoding of q-ary Block Codes over BI-AWGN Channels.</title>
+<pages>229-231</pages>
+<year>2011</year>
+<volume>15</volume>
+<journal>IEEE Commun. Lett.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/LCOMM.2011.122010.100864</ee>
+<url>db/journals/icl/icl15.html#CunhaPN11</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbrn/SantoACM08" mdate="2023-03-24">
+<author pid="07/5815">P. H. Esp&#237;rito Santo</author>
+<author pid="20/1431">R. C. Albuquerque</author>
+<author pid="203/8737">Daniel Carvalho da Cunha</author>
+<author orcid="0000-0002-6123-0390" pid="51/6387">Francisco Madeiro</author>
+<title>On Frequency Sensitive Competitive Learning for VQ Codebook Design.</title>
+<pages>135-140</pages>
+<year>2008</year>
+<booktitle>SBRN</booktitle>
+<ee>https://doi.org/10.1109/SBRN.2008.19</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBRN.2008.19</ee>
+<crossref>conf/sbrn/2008</crossref>
+<url>db/conf/sbrn/sbrn2008.html#SantoACM08</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ndltd/Cunha06a" mdate="2025-03-04">
+<author pid="203/8737">Daniel Carvalho da Cunha</author>
+<title>Blockwise noncoherent M-APSK channel: capacity and coding scheme for iterative receivers.</title>
+<year>2006</year>
+<school>University of Campinas, Brazil</school>
+<ee>http://repositorio.unicamp.br/jspui/handle/REPOSIP/260836</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:agregador.ibict.br.RI_UNICAMP:oai:repositorio.unicamp.br:REPOSIP/260836</ee>
+<note type="source">ndltd.org (oai:agregador.ibict.br.RI_UNICAMP:oai:repositorio.unicamp.br:REPOSIP/260836)</note>
+<ee>https://hdl.handle.net/20.500.12733/1602936</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/isit/CunhaP05" mdate="2019-11-13">
+<author pid="203/8737">Daniel C. Cunha 0001</author>
+<author pid="02/5015">Jaime Portugheis</author>
+<title>Bounds on the capacity of the blockwise noncoherent APSK-AWGN channels.</title>
+<pages>627-630</pages>
+<year>2005</year>
+<booktitle>ISIT</booktitle>
+<ee>https://doi.org/10.1109/ISIT.2005.1523411</ee>
+<crossref>conf/isit/2005</crossref>
+<url>db/conf/isit/isit2005.html#CunhaP05</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0508040" mdate="2019-11-13">
+<author pid="203/8737">Daniel C. Cunha 0001</author>
+<author pid="02/5015">Jaime Portugheis</author>
+<title>Bounds on the Capacity of the Blockwise Noncoherent APSK-AWGN Channels</title>
+<ee type="oa">http://arxiv.org/abs/cs/0508040</ee>
+<year>2005</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0508040</volume>
+<url>db/journals/corr/corr0508.html#abs-cs-0508040</url>
+</article>
+</r>
+<coauthors n="28" nc="3">
+<co c="0"><na f="a/Albuquerque:R=_C=" pid="20/1431">R. C. Albuquerque</na></co>
+<co c="1"><na f="a/Albuquerque:Rebecca_C=_de" pid="128/5332">Rebecca C. de Albuquerque</na></co>
+<co c="0"><na f="a/Almeida:Diogo_M=" pid="228/1797">Diogo M. Almeida</na></co>
+<co c="0"><na f="b/Barbosa:Carolina_M=_A=" pid="222/9294">Carolina M. A. Barbosa</na></co>
+<co c="0"><na f="b/Barreto:Raul_Vitor_Silva" pid="384/1846">Raul Vitor Silva Barreto</na></co>
+<co c="0"><na f="b/Bittencourt:Gustavo_P=" pid="221/0314">Gustavo P. Bittencourt</na></co>
+<co c="0" n="2"><na f="c/Carvalho:S=_A=_L=" pid="171/6194">S. A. L. Carvalho</na><na>Sidartha A. L. Carvalho</na></co>
+<co c="0"><na f="c/Cavalcanti:George_D=_C=" pid="57/458">George D. C. Cavalcanti</na></co>
+<co c="0"><na f="h/Harada:Lucas_M=_F=" pid="222/9372">Lucas M. F. Harada</na></co>
+<co c="0"><na f="l/Lima:Juliano_B=" pid="49/8301">Juliano B. Lima</na></co>
+<co c="0"><na f="l/Lima:Rafael_N=" pid="191/4603">Rafael N. Lima</na></co>
+<co c="0"><na f="m/Madeiro:Francisco" pid="51/6387">Francisco Madeiro</na></co>
+<co c="0"><na f="m/Marques:Jo=atilde=o_Paulo_P=_G=" pid="300/9965">Jo&#227;o Paulo P. G. Marques</na></co>
+<co c="1"><na f="m/Melo:Bruna_L=_R=" pid="179/2008">Bruna L. R. Melo</na></co>
+<co c="2"><na f="n/Nascimento:Vagner_Vale_do" pid="286/4238">Vagner Vale do Nascimento</na></co>
+<co c="0"><na f="n/Neto:Paulo_S=_G=_de_Mattos" pid="21/8284">Paulo S. G. de Mattos Neto</na></co>
+<co c="0"><na f="o/Oliveira:L=_L=" pid="252/7219">L. L. Oliveira</na></co>
+<co c="0"><na f="o/Oliveira_Jr=:L=_A=" pid="252/7167">L. A. Oliveira Jr.</na></co>
+<co c="1"><na f="p/Pimentel:Cecilio" pid="12/5310">Cecilio Pimentel</na></co>
+<co c="2"><na f="p/Portugheis:Jaime" pid="02/5015">Jaime Portugheis</na></co>
+<co c="0"><na f="s/Santo:P=_H=_Esp=iacute=rito" pid="07/5815">P. H. Esp&#237;rito Santo</na></co>
+<co c="0"><na f="s/Silva:Gabriel_W=_A=" pid="252/7089">Gabriel W. A. Silva</na></co>
+<co c="0"><na f="s/Silva:Igor_D=" pid="300/9790">Igor D. Silva</na></co>
+<co c="0" n="2"><na f="s/Silva:Lizandro_N=" pid="175/5976">Lizandro N. Silva</na><na>Lizandro Nunes da Silva</na></co>
+<co c="0" n="2"><na f="s/Silva=Filho:Abel_G=" pid="90/4151">Abel G. Silva-Filho</na><na>Abel Guilhermino da Silva Filho</na></co>
+<co c="0"><na f="s/Souza:Ricardo_M=_Campello_de" pid="21/8761">Ricardo M. Campello de Souza</na></co>
+<co c="0" n="2"><na f="t/Timoteo:Robson_D=_A=" pid="175/5999">Robson D. A. Timoteo</na><na>Robson Dias Alves Timoteo</na></co>
+<co c="0"><na f="u/Urbano:Anderson_A=_F=" pid="221/0329">Anderson A. F. Urbano</na></co>
+</coauthors>
+</dblpperson>
+

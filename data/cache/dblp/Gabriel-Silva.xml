@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<dblpperson name="Gabriel P. Silva" pid="99/10450" n="7">
+<person key="homepages/99/10450" mdate="2011-11-14">
+<author pid="99/10450">Gabriel P. Silva</author>
+</person>
+<r><inproceedings key="conf/ol2a/FonsecaWMSJS22" mdate="2023-09-30">
+<author pid="340/1184">Daniel S. Fonseca</author>
+<author orcid="0000-0001-6450-3043" pid="63/1340">Elizabeth F. Wanner</author>
+<author orcid="0000-0002-7595-8227" pid="134/0812">Carolina Gil Marcelino</author>
+<author pid="99/10450">Gabriel P. Silva</author>
+<author pid="12/8112">Silvia Jim&#233;nez-Fern&#225;ndez</author>
+<author pid="34/4610">Sancho Salcedo-Sanz</author>
+<title>Active GA Accelerated by Simulated Annealing to Solve SPP in Packet Networks.</title>
+<pages>342-356</pages>
+<year>2022</year>
+<booktitle>OL2A</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-23236-7_24</ee>
+<crossref>conf/ol2a/2022</crossref>
+<url>db/conf/ol2a/ol2a2022.html#FonsecaWMSJS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fusion/FilhoSM16" mdate="2021-08-09">
+<author pid="184/0632">Joffre Gavinho Filho</author>
+<author pid="99/10450">Gabriel P. Silva</author>
+<author pid="94/10660">Claudio Miceli</author>
+<title>A public key compression method for Fully Homomorphic Encryption using Genetic Algorithms.</title>
+<pages>1991-1998</pages>
+<year>2016</year>
+<booktitle>FUSION</booktitle>
+<ee>https://ieeexplore.ieee.org/document/7528127/</ee>
+<crossref>conf/fusion/2016</crossref>
+<url>db/conf/fusion/fusion2016.html#FilhoSM16</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijpp/SilvaCBGG14" mdate="2022-10-02">
+<author pid="99/10450">Gabriel P. Silva</author>
+<author pid="74/10450">Juliana C. Correa</author>
+<author pid="b/CristianaBentes">Cristiana Bentes</author>
+<author pid="73/3936">Sergio Guedes</author>
+<author orcid="0000-0002-3614-4191" pid="124/7143">Mariela Gabioux</author>
+<title>The Experience in Designing and Evaluating the High Performance Cluster Netuno.</title>
+<pages>265-286</pages>
+<year>2014</year>
+<volume>42</volume>
+<journal>Int. J. Parallel Program.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10766-012-0224-7</ee>
+<url>db/journals/ijpp/ijpp42.html#SilvaCBGG14</url>
+</article>
+</r>
+<r><article key="journals/isca/CorreaS12" mdate="2020-04-16">
+<author pid="74/10450">Juliana C. Correa</author>
+<author pid="99/10450">Gabriel P. Silva</author>
+<title>Analysis and Performance Evaluation of Parallel BLAST.</title>
+<pages>112-122</pages>
+<year>2012</year>
+<volume>19</volume>
+<journal>Int. J. Comput. Their Appl.</journal>
+<number>2</number>
+<url>db/journals/isca/isca19.html#CorreaS12</url>
+</article>
+</r>
+<r><inproceedings key="conf/bicob/CorreaS11" mdate="2011-11-14">
+<author pid="74/10450">Juliana C. Correa</author>
+<author pid="99/10450">Gabriel P. Silva</author>
+<title>Parallel BLAST Analysis and Performance Evaluation.</title>
+<pages>211-218</pages>
+<year>2011</year>
+<booktitle>BICoB</booktitle>
+<crossref>conf/bicob/2011</crossref>
+<url>db/conf/bicob/bicob2011.html#CorreaS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/SilvaCBGG11" mdate="2023-03-23">
+<author pid="99/10450">Gabriel P. Silva</author>
+<author pid="74/10450">Juliana C. Correa</author>
+<author pid="b/CristianaBentes">Cristiana Bentes</author>
+<author pid="73/3936">Sergio Guedes</author>
+<author pid="124/7143">Mariela Gabioux</author>
+<title>The Experience in Designing and Building the High Performance Cluster Netuno.</title>
+<pages>144-151</pages>
+<year>2011</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2011.11</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2011.11</ee>
+<crossref>conf/sbac-pad/2011</crossref>
+<url>db/conf/sbac-pad/sbac-pad2011.html#SilvaCBGG11</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsa/SilvaA92" mdate="2022-08-05">
+<author pid="99/10450">Gabriel P. Silva</author>
+<author pid="50/375">J&#250;lio S. Aude</author>
+<title>Evaluation of a sparc architecture with harvard bus and branch target cache.</title>
+<pages>157-160</pages>
+<year>1992</year>
+<volume>34</volume>
+<journal>Microprocess. Microprogramming</journal>
+<number>1-5</number>
+<ee>https://doi.org/10.1016/0165-6074(92)90124-P</ee>
+<url>db/journals/jsa/jsa34.html#SilvaA92</url>
+</article>
+</r>
+<coauthors n="12" nc="3">
+<co c="-1"><na f="a/Aude:J=uacute=lio_S=" pid="50/375">J&#250;lio S. Aude</na></co>
+<co c="1"><na f="b/Bentes:Cristiana" pid="b/CristianaBentes">Cristiana Bentes</na></co>
+<co c="1"><na f="c/Correa:Juliana_C=" pid="74/10450">Juliana C. Correa</na></co>
+<co c="2"><na f="f/Filho:Joffre_Gavinho" pid="184/0632">Joffre Gavinho Filho</na></co>
+<co c="0"><na f="f/Fonseca:Daniel_S=" pid="340/1184">Daniel S. Fonseca</na></co>
+<co c="1"><na f="g/Gabioux:Mariela" pid="124/7143">Mariela Gabioux</na></co>
+<co c="1"><na f="g/Guedes:Sergio" pid="73/3936">Sergio Guedes</na></co>
+<co c="0"><na f="j/Jim=eacute=nez=Fern=aacute=ndez:Silvia" pid="12/8112">Silvia Jim&#233;nez-Fern&#225;ndez</na></co>
+<co c="0"><na f="m/Marcelino:Carolina_Gil" pid="134/0812">Carolina Gil Marcelino</na></co>
+<co c="2"><na f="m/Miceli:Claudio" pid="94/10660">Claudio Miceli</na></co>
+<co c="0"><na f="s/Salcedo=Sanz:Sancho" pid="34/4610">Sancho Salcedo-Sanz</na></co>
+<co c="0"><na f="w/Wanner:Elizabeth_F=" pid="63/1340">Elizabeth F. Wanner</na></co>
+</coauthors>
+</dblpperson>
+

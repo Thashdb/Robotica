@@ -1,0 +1,1258 @@
+<?xml version="1.0"?>
+<dblpperson name="Fernando A. M. Trinta" pid="126/6814" n="78">
+<person key="homepages/126/6814" mdate="2022-01-14">
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<url>https://orcid.org/0000-0002-0206-1419</url>
+</person>
+<r><inproceedings key="conf/cloudnet/GomesRRT24" mdate="2025-01-29">
+<author pid="165/3610">Francisco A. A. Gomes</author>
+<author pid="31/6913">Lincoln S. Rocha</author>
+<author pid="67/10788">Paulo A. L. Rego</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<title>Using Observability to Detect Anti-patterns in Benchmarking Application with OpenTelemetry.</title>
+<pages>1-8</pages>
+<year>2024</year>
+<booktitle>CloudNet</booktitle>
+<ee>https://doi.org/10.1109/CloudNet62863.2024.10815858</ee>
+<crossref>conf/cloudnet/2024</crossref>
+<url>db/conf/cloudnet/cloudnet2024.html#GomesRRT24</url>
+<stream>streams/conf/cloudnet</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/GomesRT24" mdate="2024-10-22">
+<author pid="165/3610">Francisco A. A. Gomes</author>
+<author pid="67/10788">Paulo A. L. Rego</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<title>Rumo a uma Taxonomia de Observabilidade para Aplica&#231;&#245;es Baseadas em Microsservi&#231;os.</title>
+<pages>234-245</pages>
+<year>2024</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2024.3386</ee>
+<crossref>conf/sbes/2024</crossref>
+<url>db/conf/sbes/sbes2024.html#GomesRT24</url>
+</inproceedings>
+</r>
+<r><article key="journals/sensors/0001VRT23" mdate="2023-07-07">
+<author pid="04/219-1">Juliana Carvalho 0001</author>
+<author orcid="0000-0001-8418-6778" pid="12/3830">Dario Vieira</author>
+<author orcid="0000-0002-1993-5442" pid="176/3924">Christiano A. P. Rodrigues</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<title>LM2K Model for Hosting an Application Based on Microservices in Multi-Cloud.</title>
+<pages>4450</pages>
+<year>2023</year>
+<volume>23</volume>
+<journal>Sensors</journal>
+<number>9</number>
+<ee type="oa">https://doi.org/10.3390/s23094450</ee>
+<url>db/journals/sensors/sensors23.html#0001VRT23</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccnc/MatosRT23" mdate="2023-03-21">
+<author pid="176/0959">Filipe Fernandes S. B. de Matos</author>
+<author pid="67/10788">Paulo A. L. Rego</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<title>Evaluating Offloading Scalability Using a Multi-language Approach on Cellular Networks.</title>
+<pages>125-130</pages>
+<year>2023</year>
+<booktitle>CCNC</booktitle>
+<ee>https://doi.org/10.1109/CCNC51644.2023.10060426</ee>
+<crossref>conf/ccnc/2023</crossref>
+<url>db/conf/ccnc/ccnc2023.html#MatosRT23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccnc/GomesMRT23" mdate="2023-08-18">
+<author pid="165/3610">Francisco A. A. Gomes</author>
+<author pid="176/0959">Filipe Fernandes S. B. de Matos</author>
+<author pid="67/10788">Paulo A. L. Rego</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<title>Analysis of the Impact of Homomorphic Algorithm on Offloading of Mobile Application Tasks.</title>
+<pages>961-962</pages>
+<year>2023</year>
+<booktitle>CCNC</booktitle>
+<ee>https://doi.org/10.1109/CCNC51644.2023.10060199</ee>
+<crossref>conf/ccnc/2023</crossref>
+<url>db/conf/ccnc/ccnc2023.html#GomesMRT23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccnc/CostaFRRT23" mdate="2023-03-21">
+<author pid="230/1835">Leonardo Ferreira da Costa</author>
+<author pid="333/8786">Lia Sucupira Furtado</author>
+<author pid="286/4150">Paulo Henrique Gon&#231;alves Rocha</author>
+<author pid="67/10788">Paulo A. L. Rego</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<title>Time series prediction in IoT: a comparative study of federated versus centralized learning.</title>
+<pages>993-994</pages>
+<year>2023</year>
+<booktitle>CCNC</booktitle>
+<ee>https://doi.org/10.1109/CCNC51644.2023.10060467</ee>
+<crossref>conf/ccnc/2023</crossref>
+<url>db/conf/ccnc/ccnc2023.html#CostaFRRT23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloudnet/AlvesMRT23" mdate="2024-04-28">
+<author pid="294/0573">Pedro Paiva Alves</author>
+<author pid="176/0959">Filipe Fernandes S. B. de Matos</author>
+<author pid="67/10788">Paulo A. L. Rego</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<title>A Multi-criteria Context-Sensitive Approach to Offloading Decision Making.</title>
+<pages>112-119</pages>
+<year>2023</year>
+<booktitle>CloudNet</booktitle>
+<ee>https://doi.org/10.1109/CloudNet59005.2023.10490027</ee>
+<crossref>conf/cloudnet/2023</crossref>
+<url>db/conf/cloudnet/cloudnet2023.html#AlvesMRT23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloudnet/BarbosaASTR23" mdate="2024-11-22">
+<author pid="259/3681">Renan A. Barbosa</author>
+<author pid="222/7699">Jo&#227;o P. B. Andrade</author>
+<author pid="390/8654">Mauro Roberto Costa da Silva</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author pid="67/10788">Paulo A. L. Rego</author>
+<title>Accelerating Fingerprint-based Person Identification through Computation Offloading in Edge and Cloud Environments.</title>
+<pages>153-160</pages>
+<year>2023</year>
+<booktitle>CloudNet</booktitle>
+<ee>https://doi.org/10.1109/CloudNet59005.2023.10490068</ee>
+<crossref>conf/cloudnet/2023</crossref>
+<url>db/conf/cloudnet/cloudnet2023.html#BarbosaASTR23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/MatosOCRT22" mdate="2024-05-07">
+<author pid="176/0959">Filipe Fernandes S. B. de Matos</author>
+<author orcid="0000-0002-1502-772X" pid="160/4646">Wellington Oliveira</author>
+<author orcid="0000-0002-6389-3630" pid="f/FCFilho">Fernando Castor</author>
+<author pid="67/10788">Paulo A. L. Rego</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<title>Multi-Language Offloading Service: An Android Service Aimed at Mitigating the Network Consumption During Computation Offloading.</title>
+<pages>329-338</pages>
+<year>2022</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/3539637.3557001</ee>
+<crossref>conf/webmedia/2022</crossref>
+<url>db/conf/webmedia/webmedia2022.html#MatosOCRT22</url>
+</inproceedings>
+</r>
+<r><article key="journals/percom/MaiaVT21" mdate="2022-01-14">
+<author orcid="0000-0002-9388-6386" pid="170/1590">Lu&#237;s Fernando Maia</author>
+<author orcid="0000-0002-8627-0823" pid="54/4813">Windson Viana</author>
+<author orcid="0000-0002-0206-1419" pid="126/6814">Fernando A. M. Trinta</author>
+<title>Transposition of Location-based Games: Using Procedural Content Generation to deploy balanced game maps to multiple locations.</title>
+<pages>101302</pages>
+<year>2021</year>
+<volume>70</volume>
+<journal>Pervasive Mob. Comput.</journal>
+<ee>https://doi.org/10.1016/j.pmcj.2020.101302</ee>
+<url>db/journals/percom/percom70.html#MaiaVT21</url>
+</article>
+</r>
+<r><inproceedings key="conf/closer/MatosRT21" mdate="2021-05-28">
+<author pid="176/0959">Filipe Fernandes S. B. de Matos</author>
+<author pid="67/10788">Paulo A. L. Rego</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<title>An Empirical Study about the Adoption of Multi-language Technique in Computation Offloading in a Mobile Cloud Computing Scenario.</title>
+<pages>207-214</pages>
+<year>2021</year>
+<booktitle>CLOSER</booktitle>
+<ee>https://doi.org/10.5220/0010437802070214</ee>
+<crossref>conf/closer/2021</crossref>
+<url>db/conf/closer/closer2021.html#MatosRT21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mswim/MatosRT21" mdate="2021-11-19">
+<author pid="176/0959">Filipe Fernandes S. B. de Matos</author>
+<author pid="67/10788">Paulo A. L. Rego</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<title>Secure Computational Offloading with gRPC: A Performance Evaluation in a Mobile Cloud Computing Environment.</title>
+<pages>45-52</pages>
+<year>2021</year>
+<booktitle>DIVANet</booktitle>
+<ee>https://doi.org/10.1145/3479243.3487295</ee>
+<crossref>conf/mswim/2021divanet</crossref>
+<url>db/conf/mswim/divanet2021.html#MatosRT21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/BarbosaASLTR21" mdate="2024-11-22">
+<author pid="259/3681">Renan A. Barbosa</author>
+<author pid="222/7699">Jo&#227;o P. B. Andrade</author>
+<author pid="390/8654">Mauro Roberto Costa da Silva</author>
+<author pid="313/6318">Francisco I. da S. Lima</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author pid="67/10788">Paulo A. L. Rego</author>
+<title>Acelerando a identifica&#231;&#227;o de impress&#245;es digitais atrav&#233;s da t&#233;cnica de offloading computacional.</title>
+<pages>29-42</pages>
+<year>2021</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc.2021.16709</ee>
+<crossref>conf/sbrc/2021</crossref>
+<url>db/conf/sbrc/sbrc2021.html#BarbosaASLTR21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/SilvestreGCFRT21" mdate="2023-10-25">
+<author pid="302/7219">Vit&#243;ria R. N. Silvestre</author>
+<author pid="165/3610">Francisco A. A. Gomes</author>
+<author pid="249/9974">Adriano L. C&#226;ndido</author>
+<author pid="327/9569">Filipe Arantes Fernandes</author>
+<author pid="31/6913">Lincoln S. Rocha</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<title>DOP-MS: A Microservice-based Data Offloading Service with Support for Data Anonymisation.</title>
+<pages>145-152</pages>
+<year>2021</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/3470482.3479628</ee>
+<crossref>conf/webmedia/2021</crossref>
+<url>db/conf/webmedia/webmedia2021.html#SilvestreGCFRT21</url>
+</inproceedings>
+</r>
+<r><article key="journals/iie/PeixotoDAPSTV20" mdate="2021-10-14">
+<author pid="207/7007">Maria J. P. Peixoto</author>
+<author pid="165/3769">Paulo A. de S. Duarte</author>
+<author pid="264/3500">Pedro T. Ara&#250;jo</author>
+<author pid="264/3593">Pedro I. C. Pinto</author>
+<author orcid="0000-0002-4711-3411" pid="115/4786">Wellington W. F. Sarmento</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<author orcid="0000-0002-8627-0823" pid="54/4813">Windson Viana</author>
+<title>Teaching Ubiquitous Computing Using Simulations Based on Smartphone Sensors.</title>
+<pages>129-159</pages>
+<year>2020</year>
+<volume>19</volume>
+<journal>Informatics Educ.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.15388/infedu.2020.07</ee>
+<url>db/journals/iie/iie19.html#PeixotoDAPSTV20</url>
+</article>
+</r>
+<r><inproceedings key="conf/closer/CarvalhoVT20" mdate="2023-06-14">
+<author pid="04/219-1">Juliana Carvalho 0001</author>
+<author orcid="0000-0001-8418-6778" pid="12/3830">Dario Vieira</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<title>UM2Q: Multi-cloud Selection Model based on Multi-criteria to Deploy a Distributed Microservice-based Application.</title>
+<pages>56-68</pages>
+<year>2020</year>
+<booktitle>CLOSER</booktitle>
+<ee>https://doi.org/10.5220/0009338200560068</ee>
+<crossref>conf/closer/2020</crossref>
+<url>db/conf/closer/closer2020.html#CarvalhoVT20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/closer/CarvalhoTV20" mdate="2023-06-14">
+<author orcid="0000-0002-0196-5678" pid="04/219-1">Juliana Carvalho 0001</author>
+<author orcid="0000-0002-0206-1419" pid="126/6814">Fernando A. M. Trinta</author>
+<author orcid="0000-0001-8418-6778" pid="12/3830">Dario Vieira</author>
+<title>A Multi-cloud Parallel Selection Approach for Unlinked Microservice Mapped to Budget's Quota: The PUM<sup>2Q</sup>.</title>
+<pages>110-132</pages>
+<year>2020</year>
+<booktitle>CLOSER (Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-72369-9_5</ee>
+<crossref>conf/closer/2020s</crossref>
+<url>db/conf/closer/closer2020s.html#CarvalhoTV20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/closer/GomesRTVSMS20" mdate="2020-11-17">
+<author pid="165/3610">Francisco A. A. Gomes</author>
+<author pid="67/10788">Paulo A. L. Rego</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<author pid="54/4813">Windson Viana</author>
+<author pid="165/3596">Francisco Airton Silva</author>
+<author pid="f/JAFernandesdeMacedo">Jos&#233; A. F. de Mac&#234;do</author>
+<author pid="02/4334">Jos&#233; N. de Souza</author>
+<title>A Study about the Impact of Encryption Support on a Mobile Cloud Computing Framework.</title>
+<pages>400-407</pages>
+<year>2020</year>
+<booktitle>CLOSER</booktitle>
+<crossref>conf/closer/2020</crossref>
+<url>db/conf/closer/closer2020.html#GomesRTVSMS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/MedeirosASSMTMF20" mdate="2023-09-30">
+<author pid="213/1744">Ald&#237;sio Gon&#231;alves Medeiros</author>
+<author pid="222/7699">Jo&#227;o P. B. Andrade</author>
+<author orcid="0000-0002-5980-8149" pid="223/0914">Paulo Bruno S. Serafim</author>
+<author pid="275/8015">Alexandre M. M. Santos</author>
+<author pid="57/6283">Jos&#233; G. R. Maia</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<author pid="f/JAFernandesdeMacedo">Jos&#233; A. F. de Mac&#234;do</author>
+<author pid="91/2760">Pedro P. R. Filho</author>
+<author pid="67/10788">Paulo A. L. Rego</author>
+<title>A Novel Approach for Automatic Enhancement of Fingerprint Images via Deep Transfer Learning.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN48605.2020.9206836</ee>
+<crossref>conf/ijcnn/2020</crossref>
+<url>db/conf/ijcnn/ijcnn2020.html#MedeirosASSMTMF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/TrintaRV20" mdate="2025-01-19">
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author pid="67/10788">Paulo A. L. Rego</author>
+<author orcid="0000-0002-8627-0823" pid="54/4813">Windson Viana</author>
+<title>Teaching Development of Distributed Software during COVID-19: An experience report in Brazil.</title>
+<pages>616-625</pages>
+<year>2020</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3422392.3422480</ee>
+<ee>https://www.wikidata.org/entity/Q130879705</ee>
+<crossref>conf/sbes/2020</crossref>
+<url>db/conf/sbes/sbes2020.html#TrintaRV20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/AlvesRT20" mdate="2022-01-14">
+<author pid="294/0573">Pedro Paiva Alves</author>
+<author orcid="0000-0002-0936-9301" pid="67/10788">Paulo A. L. Rego</author>
+<author orcid="0000-0002-0206-1419" pid="126/6814">Fernando Antonio Mota Trinta</author>
+<title>Uma abordagem sens&#237;vel a contexto para tomada de decis&#227;o de offloading de processamento.</title>
+<pages>57-70</pages>
+<year>2020</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc.2020.12273</ee>
+<crossref>conf/sbrc/2020</crossref>
+<url>db/conf/sbrc/sbrc2020.html#AlvesRT20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/SousaT20" mdate="2022-01-14">
+<author pid="279/5466">Michael Ferreira de Sousa</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<title>VolleyJump 2.0: A Computational Approach to Analysis and Classification of Volleyball Jumps Based on Multiple Inertial Devices.</title>
+<pages>121-124</pages>
+<year>2020</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/3428658.3431759</ee>
+<crossref>conf/webmedia/2020</crossref>
+<url>db/conf/webmedia/webmedia2020.html#SousaT20</url>
+</inproceedings>
+</r>
+<r><article key="journals/entcom/FerreiraMSTV19" mdate="2025-01-19">
+<author pid="204/0476">Cristiane Ferreira</author>
+<author orcid="0000-0002-9388-6386" pid="170/1590">Lu&#237;s Fernando Maia</author>
+<author pid="241/5621">Carlos de Salles</author>
+<author orcid="0000-0002-0206-1419" pid="126/6814">Fernando A. M. Trinta</author>
+<author orcid="0000-0002-8627-0823" pid="54/4813">Windson Viana</author>
+<title>Modelling and transposition of location-based games.</title>
+<year>2019</year>
+<volume>30</volume>
+<journal>Entertain. Comput.</journal>
+<ee>https://doi.org/10.1016/j.entcom.2019.100295</ee>
+<ee>https://www.wikidata.org/entity/Q128251129</ee>
+<url>db/journals/entcom/entcom30.html#FerreiraMSTV19</url>
+</article>
+</r>
+<r><article key="journals/wicomm/RegoTHS19" mdate="2022-01-13">
+<author orcid="0000-0002-0936-9301" pid="67/10788">Paulo A. L. Rego</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<author pid="15/4370">Masum Z. Hasan</author>
+<author orcid="0000-0002-2980-8877" pid="02/4334">Jos&#233; Neuman de Souza</author>
+<title>Enhancing Offloading Systems with Smart Decisions, Adaptive Monitoring, and Mobility Support.</title>
+<pages>1975312:1-1975312:18</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>Wirel. Commun. Mob. Comput.</journal>
+<ee type="oa">https://doi.org/10.1155/2019/1975312</ee>
+<url>db/journals/wicomm/wicomm2019.html#RegoTHS19</url>
+</article>
+</r>
+<r><inproceedings key="conf/ictai/NetoLFVT19" mdate="2023-09-30">
+<author pid="222/7338">Afonso B. L. Neto</author>
+<author pid="222/7537">Tib&#233;rio C. J. Loureiro</author>
+<author orcid="0000-0003-3332-6253" pid="70/2855">Marcial Porto Fernandez</author>
+<author pid="258/7253">Jerry Vasconcelos</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<title>METAPHOR - A Multiagent Architecture using IoT and Classification Algorithms for Referral Postoperative Patients.</title>
+<pages>479-484</pages>
+<year>2019</year>
+<booktitle>ICTAI</booktitle>
+<ee>https://doi.org/10.1109/ICTAI.2019.00073</ee>
+<crossref>conf/ictai/2019</crossref>
+<url>db/conf/ictai/ictai2019.html#NetoLFVT19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/SerafimMRMTMMN19" mdate="2023-09-30">
+<author orcid="0000-0002-5980-8149" pid="223/0914">Paulo Bruno S. Serafim</author>
+<author pid="213/1744">Ald&#237;sio Gon&#231;alves Medeiros</author>
+<author pid="67/10788">Paulo A. L. Rego</author>
+<author pid="57/6283">Jos&#233; Gilvan Rodrigues Maia</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<author pid="27/6418">Marcio E. F. Maia</author>
+<author pid="f/JAFernandesdeMacedo">Jos&#233; Ant&#244;nio Fernandes de Mac&#234;do</author>
+<author pid="225/1981">Alo&#237;sio Vieira Lira Neto</author>
+<title>A Method based on Convolutional Neural Networks for Fingerprint Segmentation.</title>
+<pages>1-8</pages>
+<year>2019</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2019.8852236</ee>
+<crossref>conf/ijcnn/2019</crossref>
+<url>db/conf/ijcnn/ijcnn2019.html#SerafimMRMTMMN19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/CarvalhoVT19" mdate="2023-06-14">
+<author pid="04/219-1">Juliana Carvalho 0001</author>
+<author orcid="0000-0001-8418-6778" pid="12/3830">Dario Vieira</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<title>Greedy Multi-Cloud Selection Approach to Deploy an Application Based on Microservices.</title>
+<pages>93-100</pages>
+<year>2019</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/EMPDP.2019.8671608</ee>
+<crossref>conf/pdp/2019</crossref>
+<url>db/conf/pdp/pdp2019.html#CarvalhoVT19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcars/CandidoTRRMG19" mdate="2021-04-09">
+<author pid="249/9974">Adriano L. C&#226;ndido</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<author pid="31/6913">Lincoln S. Rocha</author>
+<author pid="67/10788">Paulo A. L. Rego</author>
+<author pid="79/4708">Nabor C. Mendon&#231;a</author>
+<author orcid="0000-0001-6904-7470" pid="g/ViniciusCardosoGarcia">Vinicius C. Garcia</author>
+<title>A Microservice Based Architecture to Support Offloading in Mobile Cloud Computing.</title>
+<pages>93-102</pages>
+<year>2019</year>
+<booktitle>SBCARS</booktitle>
+<ee>https://doi.org/10.1145/3357141.3357148</ee>
+<crossref>conf/sbcars/2019</crossref>
+<url>db/conf/sbcars/sbcars2019.html#CandidoTRRMG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/BezerraRFT19" mdate="2022-08-18">
+<author pid="249/1708">Vladymir L. Bezerra</author>
+<author pid="31/6913">Lincoln S. Rocha</author>
+<author pid="85/2495">Jo&#227;o Bosco Ferreira Filho</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<title>An Empirical Study on Inter-Component Exception Notification in Android Platform.</title>
+<pages>73-83</pages>
+<year>2019</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3350768.3350784</ee>
+<crossref>conf/sbes/2019</crossref>
+<url>db/conf/sbes/sbes2019.html#BezerraRFT19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vem/CandidoTRRMG19" mdate="2024-11-27">
+<author pid="249/9974">Adriano L. C&#226;ndido</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<author pid="67/10788">Paulo A. L. Rego</author>
+<author pid="31/6913">Lincoln S. Rocha</author>
+<author pid="79/4708">Nabor C. Mendon&#231;a</author>
+<author pid="g/ViniciusCardosoGarcia">Vinicius C. Garcia</author>
+<title>Um relato sobre a migra&#231;&#227;o de uma plataforma de offloading para microsservi&#231;os.</title>
+<pages>29-36</pages>
+<year>2019</year>
+<booktitle>VEM</booktitle>
+<ee type="oa">https://doi.org/10.5753/vem.2019.7581</ee>
+<crossref>conf/vem/2019</crossref>
+<url>db/conf/vem/vem2019.html#CandidoTRRMG19</url>
+</inproceedings>
+</r>
+<r><article key="journals/fgcs/CarvalhoTVC18" mdate="2023-06-14">
+<author pid="04/219-1">Juliana Oliveira de Carvalho 0001</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author orcid="0000-0001-8418-6778" pid="12/3830">Dario Vieira</author>
+<author orcid="0000-0002-5805-2490" pid="10/2026">Omar Andr&#233;s Carmona Cortes</author>
+<title>Evolutionary solutions for resources management in multiple clouds: State-of-the-art and future directions.</title>
+<pages>284-296</pages>
+<year>2018</year>
+<volume>88</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2018.05.087</ee>
+<url>db/journals/fgcs/fgcs88.html#CarvalhoTVC18</url>
+</article>
+</r>
+<r><article key="journals/mta/AndradeSFVTB18" mdate="2022-01-14">
+<author pid="151/1068">Davi Oliveira Serrano de Andrade</author>
+<author pid="170/1590">Lu&#237;s Fernando Maia Silva</author>
+<author pid="20/6849">Hugo Feitosa de Figueir&#234;do</author>
+<author orcid="0000-0002-8627-0823" pid="54/4813">Windson Viana</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author pid="b/ClaudiodeSouzaBaptista">Cl&#225;udio de Souza Baptista</author>
+<title>Photo annotation: a survey.</title>
+<pages>423-457</pages>
+<year>2018</year>
+<volume>77</volume>
+<journal>Multim. Tools Appl.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11042-016-4281-6</ee>
+<url>db/journals/mta/mta77.html#AndradeSFVTB18</url>
+</article>
+</r>
+<r><inproceedings key="conf/closer/CarvalhoTV18" mdate="2023-06-14">
+<author pid="04/219-1">Juliana Oliveira de Carvalho 0001</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author orcid="0000-0001-8418-6778" pid="12/3830">Dario Vieira</author>
+<title>PacificClouds: A Flexible MicroServices based Architecture for Interoperability in Multi-Cloud Environments.</title>
+<pages>448-455</pages>
+<year>2018</year>
+<booktitle>CLOSER</booktitle>
+<ee>https://doi.org/10.5220/0006705604480455</ee>
+<crossref>conf/closer/2018</crossref>
+<url>db/conf/closer/closer2018.html#CarvalhoTV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cloud2/CarvalhoVT18" mdate="2023-06-14">
+<author pid="04/219-1">Juliana Carvalho 0001</author>
+<author orcid="0000-0001-8418-6778" pid="12/3830">Dario Vieira</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<title>Dynamic Selecting Approach for Multi-cloud Providers.</title>
+<pages>37-51</pages>
+<year>2018</year>
+<booktitle>CLOUD</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-94295-7_3</ee>
+<crossref>conf/cloud2/2018</crossref>
+<url>db/conf/cloud2/cloud2018.html#CarvalhoVT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/SantosTRSS18" mdate="2023-07-27">
+<author pid="236/2827">Gabriel B. Dos Santos</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<author pid="67/10788">Paulo A. L. Rego</author>
+<author orcid="0000-0002-8211-6060" pid="165/3596">Francisco Airton Silva</author>
+<author orcid="0000-0002-2980-8877" pid="02/4334">Jos&#233; Neuman de Souza</author>
+<title>Performance and Energy Consumption Evaluation of Computation Offloading Using CAOS D2D.</title>
+<pages>1-7</pages>
+<year>2018</year>
+<booktitle>GLOBECOM</booktitle>
+<ee type="oa">https://doi.org/10.1109/GLOCOM.2018.8647732</ee>
+<crossref>conf/globecom/2018</crossref>
+<url>db/conf/globecom/globecom2018.html#SantosTRSS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/SantosTR18" mdate="2022-02-18">
+<author pid="236/2827">Gabriel B. Dos Santos</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author pid="67/10788">Paulo A. L. Rego</author>
+<title>Impactos do Offloading de Processamento no Tempo de Execu&#231;&#227;o e Consumo Energ&#233;tico de Dispositivos M&#243;veis.</title>
+<pages>1271-1284</pages>
+<year>2018</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc.2018.2493</ee>
+<crossref>conf/sbrc/2018</crossref>
+<url>db/conf/sbrc/sbrc2018.html#SantosTR18</url>
+</inproceedings>
+</r>
+<r><article key="journals/comcom/RegoCCRTS17" mdate="2021-10-14">
+<author orcid="0000-0002-0936-9301" pid="67/10788">Paulo A. L. Rego</author>
+<author orcid="0000-0002-3595-4977" pid="151/5214">Philipp B. Costa</author>
+<author pid="93/10788">Emanuel F. Coutinho</author>
+<author orcid="0000-0001-5402-8744" pid="31/6913">Lincoln S. Rocha</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<author orcid="0000-0002-2980-8877" pid="02/4334">Jos&#233; Neuman de Souza</author>
+<title>Performing computation offloading on multiple platforms.</title>
+<pages>1-13</pages>
+<year>2017</year>
+<volume>105</volume>
+<journal>Comput. Commun.</journal>
+<ee>https://doi.org/10.1016/j.comcom.2016.07.017</ee>
+<url>db/journals/comcom/comcom105.html#RegoCCRTS17</url>
+</article>
+</r>
+<r><article key="journals/entcom/SilvaNLFMVT17" mdate="2022-01-14">
+<author pid="170/1590">Lu&#237;s Fernando Maia Silva</author>
+<author pid="192/0961">Carleandro Noleto</author>
+<author pid="192/1037">Messias Lima</author>
+<author pid="204/0476">Cristiane Ferreira</author>
+<author pid="204/0324">Cl&#225;udia Marinho</author>
+<author orcid="0000-0002-8627-0823" pid="54/4813">Windson Viana</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<title>LAGARTO: A LocAtion based Games AuthoRing TOol enhanced with augmented reality features.</title>
+<pages>3-13</pages>
+<year>2017</year>
+<volume>22</volume>
+<journal>Entertain. Comput.</journal>
+<ee>https://doi.org/10.1016/j.entcom.2017.05.001</ee>
+<url>db/journals/entcom/entcom22.html#SilvaNLFMVT17</url>
+</article>
+</r>
+<r><article key="journals/jidm/GomesVRT17" mdate="2022-01-14">
+<author pid="165/3610">Francisco Anderson de Almada Gomes</author>
+<author pid="54/4813">Windson Viana</author>
+<author pid="31/6913">Lincoln S. Rocha</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<title>On the Evaluation of a Contextual Sensitive Data Offloading Service: the COP case.</title>
+<pages>197-213</pages>
+<year>2017</year>
+<volume>8</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>3</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1619</ee>
+<url>db/journals/jidm/jidm8.html#GomesVRT17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cig/SilvaVT17" mdate="2022-01-14">
+<author pid="170/1590">Lu&#237;s Fernando Maia Silva</author>
+<author orcid="0000-0002-8627-0823" pid="54/4813">Windson Viana</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<title>Using Monte Carlo tree search and google maps to improve game balancing in location-based games.</title>
+<pages>215-222</pages>
+<year>2017</year>
+<booktitle>CIG</booktitle>
+<ee>https://doi.org/10.1109/CIG.2017.8080438</ee>
+<crossref>conf/cig/2017</crossref>
+<url>db/conf/cig/cig2017.html#SilvaVT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/compsac/GomesRRST17" mdate="2023-03-24">
+<author pid="165/3610">Francisco A. A. Gomes</author>
+<author pid="67/10788">Paulo A. L. Rego</author>
+<author pid="31/6913">Lincoln S. Rocha</author>
+<author pid="02/4334">Jos&#233; N. de Souza</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<title>CAOS: A Context Acquisition and Offloading System.</title>
+<pages>957-966</pages>
+<year>2017</year>
+<booktitle>COMPSAC (1)</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2017.80</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/COMPSAC.2017.80</ee>
+<crossref>conf/compsac/2017-1</crossref>
+<url>db/conf/compsac/compsac2017-1.html#GomesRRST17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/doceng/FerreiraSSTV17" mdate="2022-01-14">
+<author pid="204/0476">Cristiane Ferreira</author>
+<author pid="241/5621">Carlos de Salles</author>
+<author pid="23/5314">Lu&#237;s Santos</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author orcid="0000-0002-8627-0823" pid="54/4813">Windson Viana</author>
+<title>Towards a Model and a Textual Representation for Location-based Games.</title>
+<pages>97-100</pages>
+<year>2017</year>
+<booktitle>DocEng</booktitle>
+<ee>https://doi.org/10.1145/3103010.3121035</ee>
+<crossref>conf/doceng/2017</crossref>
+<url>db/conf/doceng/doceng2017.html#FerreiraSSTV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobilecloud/RegoCCTHS17" mdate="2023-03-23">
+<author pid="67/10788">Paulo A. L. Rego</author>
+<author pid="56/1927">Elaine Cheong</author>
+<author pid="93/10788">Emanuel F. Coutinho</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<author pid="15/4370">Masum Z. Hasan</author>
+<author orcid="0000-0002-2980-8877" pid="02/4334">Jos&#233; N. de Souza</author>
+<title>Decision Tree-Based Approaches for Handling Offloading Decisions and Performing Adaptive Monitoring in MCC Systems.</title>
+<pages>74-81</pages>
+<year>2017</year>
+<booktitle>MobileCloud</booktitle>
+<ee>https://doi.org/10.1109/MobileCloud.2017.19</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MobileCloud.2017.19</ee>
+<crossref>conf/mobilecloud/2017</crossref>
+<url>db/conf/mobilecloud/mobilecloud2017.html#RegoCCTHS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/TrintaS17" mdate="2018-11-06">
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<author pid="77/881">Emanuele Santos</author>
+<title>Teaching Software Development for the Cloud: An Experience Report.</title>
+<pages>338-347</pages>
+<year>2017</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3131151.3131184</ee>
+<crossref>conf/sbes/2017</crossref>
+<url>db/conf/sbes/sbes2017.html#TrintaS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbgames/FerreiraMSTV17" mdate="2024-04-25">
+<author pid="204/0476">Cristiane Ferreira</author>
+<author pid="170/1590">Lu&#237;s Fernando Maia</author>
+<author pid="241/5621">Carlos de Salles</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author orcid="0000-0002-8627-0823" pid="54/4813">Windson Viana</author>
+<title>A Model-Based Approach for Designing Location-Based Games.</title>
+<pages>29-38</pages>
+<year>2017</year>
+<booktitle>SBGames</booktitle>
+<ee>https://doi.org/10.1109/SBGames.2017.00012</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBGames.2017.00012</ee>
+<ee>https://orkg.org/orkg/resource/R25571</ee>
+<crossref>conf/sbgames/2017</crossref>
+<url>db/conf/sbgames/sbgames2017.html#FerreiraMSTV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/TrintaRGRS17" mdate="2022-01-14">
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author pid="67/10788">Paulo A. L. Rego</author>
+<author pid="165/3610">Francisco Anderson de Almada Gomes</author>
+<author pid="31/6913">Lincoln S. Rocha</author>
+<author orcid="0000-0002-2980-8877" pid="02/4334">Jos&#233; N. de Souza</author>
+<title>Using Mobile Cloud Computing for Developing Context-Aware Multimedia Applications: A Case Study of the CAOS Framework.</title>
+<pages>37-40</pages>
+<year>2017</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/3126858.3131635</ee>
+<crossref>conf/webmedia/2017</crossref>
+<url>db/conf/webmedia/webmedia2017.html#TrintaRGRS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/FerreiraSSTV17" mdate="2022-01-14">
+<author pid="204/0476">Cristiane Ferreira</author>
+<author pid="241/5621">Carlos de Salles</author>
+<author pid="23/5314">Lu&#237;s Santos</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author orcid="0000-0002-8627-0823" pid="54/4813">Windson Viana</author>
+<title>Evaluating LeGaL: An NCL extension for representing Location-Based Games.</title>
+<pages>65-68</pages>
+<year>2017</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/3126858.3131582</ee>
+<crossref>conf/webmedia/2017</crossref>
+<url>db/conf/webmedia/webmedia2017.html#FerreiraSSTV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vrst/SilvaVT16" mdate="2022-01-14">
+<author pid="170/1590">Lu&#237;s Fernando Maia Silva</author>
+<author orcid="0000-0002-8627-0823" pid="54/4813">Windson Viana</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<title>A real-time x-ray mobile application using augmented reality and google street view.</title>
+<pages>111-119</pages>
+<year>2016</year>
+<booktitle>VRST</booktitle>
+<ee>https://doi.org/10.1145/2993369.2993370</ee>
+<crossref>conf/vrst/2016</crossref>
+<url>db/conf/vrst/vrst2016.html#SilvaVT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/GomesVRT16" mdate="2022-01-14">
+<author pid="165/3610">Francisco Anderson de Almada Gomes</author>
+<author orcid="0000-0002-8627-0823" pid="54/4813">Windson Viana</author>
+<author pid="31/6913">Lincoln S. Rocha</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<title>A Contextual Data Offloading Service With Privacy Support.</title>
+<pages>23-30</pages>
+<year>2016</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/2976796.2976860</ee>
+<crossref>conf/webmedia/2016</crossref>
+<url>db/conf/webmedia/webmedia2016.html#GomesVRT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/compsac/DuarteBGCT15" mdate="2023-03-24">
+<author pid="165/3769">Paulo Artur de Sousa Duarte</author>
+<author pid="156/1047">Felipe Mota Barreto</author>
+<author pid="165/3610">Francisco Anderson de Almada Gomes</author>
+<author orcid="0000-0002-8627-0823" pid="54/4813">Windson Viana de Carvalho</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<title>CRITiCAL: A Configuration Tool for Context Aware and mobiLe Applications.</title>
+<pages>159-168</pages>
+<year>2015</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2015.91</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/COMPSAC.2015.91</ee>
+<crossref>conf/compsac/2015</crossref>
+<url>db/conf/compsac/compsac2015.html#DuarteBGCT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/CostaRRTS15" mdate="2020-10-25">
+<author pid="151/5214">Philipp B. Costa</author>
+<author pid="67/10788">Paulo A. L. Rego</author>
+<author pid="31/6913">Lincoln S. Rocha</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<author orcid="0000-0002-2980-8877" pid="02/4334">Jos&#233; N. de Souza</author>
+<title>MpOS: a multiplatform offloading system.</title>
+<pages>577-584</pages>
+<year>2015</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2695664.2695945</ee>
+<crossref>conf/sac/2015</crossref>
+<url>db/conf/sac/sac2015.html#CostaRRTS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/DuarteBGCT15" mdate="2018-11-06">
+<author pid="165/3769">Paulo Artur de Sousa Duarte</author>
+<author pid="156/1047">Felipe Mota Barreto</author>
+<author pid="165/3610">Francisco Anderson de Almada Gomes</author>
+<author orcid="0000-0002-8627-0823" pid="54/4813">Windson Viana de Carvalho</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<title>Towards context-aware behaviour generation.</title>
+<pages>596-598</pages>
+<year>2015</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2695664.2696057</ee>
+<crossref>conf/sac/2015</crossref>
+<url>db/conf/sac/sac2015.html#DuarteBGCT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/VianaTVAGA15" mdate="2023-09-30">
+<author pid="139/6621">Nayane Ponte Viana</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author orcid="0000-0001-9200-3185" pid="156/1058">Ricardo Viana</author>
+<author orcid="0000-0002-0186-2994" pid="61/6138">Rossana M. C. Andrade</author>
+<author orcid="0000-0001-6904-7470" pid="g/ViniciusCardosoGarcia">Vinicius Cardoso Garcia</author>
+<author pid="32/7717">Rodrigo Elia Assad</author>
+<title>A service-oriented architecture for billing resources in IaaS cloud platforms.</title>
+<pages>1719-1721</pages>
+<year>2015</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2695664.2719244</ee>
+<crossref>conf/sac/2015</crossref>
+<url>db/conf/sac/sac2015.html#VianaTVAGA15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbgames/NoletoLSVT15" mdate="2023-03-23">
+<author pid="192/0961">Carleandro Noleto</author>
+<author pid="192/1037">Messias Lima</author>
+<author pid="170/1590">Lu&#237;s Fernando Maia Silva</author>
+<author orcid="0000-0002-8627-0823" pid="54/4813">Windson Viana</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<title>An Authoring Tool for Location-Based Mobile Games with Augmented Reality Features.</title>
+<pages>99-108</pages>
+<year>2015</year>
+<booktitle>SBGames</booktitle>
+<ee>https://doi.org/10.1109/SBGames.2015.12</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBGames.2015.12</ee>
+<crossref>conf/sbgames/2015</crossref>
+<url>db/conf/sbgames/sbgames2015.html#NoletoLSVT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/DuarteSGVT15" mdate="2018-11-06">
+<author pid="165/3769">Paulo Artur de Sousa Duarte</author>
+<author pid="170/1590">Lu&#237;s Fernando Maia Silva</author>
+<author pid="165/3610">Francisco Anderson de Almada Gomes</author>
+<author orcid="0000-0002-8627-0823" pid="54/4813">Windson Viana</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<title>Dynamic Deployment for Context-Aware Multimedia Environments.</title>
+<pages>197-204</pages>
+<year>2015</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/2820426.2820443</ee>
+<crossref>conf/webmedia/2015</crossref>
+<url>db/conf/webmedia/webmedia2015.html#DuarteSGVT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbgames/VianaVTC14" mdate="2024-02-05">
+<author pid="139/6632">Jose Ricardo Mello Viana</author>
+<author pid="139/6621">Nayane Ponte Viana</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<author orcid="0000-0002-8627-0823" pid="54/4813">Windson Viana de Carvalho</author>
+<title>A Systematic Review on Software Engineering in Pervasive Games Development.</title>
+<pages>51-60</pages>
+<year>2014</year>
+<booktitle>SBGames</booktitle>
+<ee>https://doi.org/10.1109/SBGAMES.2014.16</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBGAMES.2014.16</ee>
+<crossref>conf/sbgames/2014</crossref>
+<url>db/conf/sbgames/sbgames2014.html#VianaVTC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/CostaRCTS14" mdate="2023-03-24">
+<author pid="151/5214">Philipp B. Costa</author>
+<author pid="67/10788">Paulo A. L. Rego</author>
+<author pid="93/10788">Emanuel F. Coutinho</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<author pid="02/4334">Jos&#233; N. de Souza</author>
+<title>An Analysis of the Impact of the Quality of Mobile Networks on the Use of Cloudlets.</title>
+<pages>113-121</pages>
+<year>2014</year>
+<booktitle>SBRC</booktitle>
+<ee>https://doi.org/10.1109/SBRC.2014.14</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBRC.2014.14</ee>
+<crossref>conf/sbrc/2014</crossref>
+<url>db/conf/sbrc/sbrc2014.html#CostaRCTS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/DuarteJSBTV14" mdate="2024-02-29">
+<author pid="10/4700">Alexandre Duarte</author>
+<author pid="156/1114">Moacir L. de M. J&#250;nior</author>
+<author pid="156/1011">Jansen Souza</author>
+<author orcid="0000-0001-5215-443X" pid="35/5746">Alisson Vasconcelos de Brito</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<author orcid="0000-0001-9200-3185" pid="156/1058">Ricardo Viana</author>
+<title>WebMedia XX: Who We Are And What We Have Done In The Last Two Decades.</title>
+<pages>91-98</pages>
+<year>2014</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/2664551.2664576</ee>
+<ee>https://www.wikidata.org/entity/Q58448373</ee>
+<crossref>conf/webmedia/2014</crossref>
+<url>db/conf/webmedia/webmedia2014.html#DuarteJSBTV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/DuarteBGCT14" mdate="2018-11-06">
+<author pid="165/3769">Paulo A. de S. Duarte</author>
+<author pid="156/1047">Felipe Mota Barreto</author>
+<author pid="165/3610">Francisco Anderson de Almada Gomes</author>
+<author pid="54/4813">Windson Viana de Carvalho</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<title>A Model-Driven Approach to Generate Context-Aware Applications.</title>
+<pages>99-102</pages>
+<year>2014</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/2664551.2664586</ee>
+<crossref>conf/webmedia/2014</crossref>
+<url>db/conf/webmedia/webmedia2014.html#DuarteBGCT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccgrid/SilvaNGTA13" mdate="2023-03-24">
+<author orcid="0000-0002-8211-6060" pid="165/3596">Francisco Airton Pereira da Silva</author>
+<author pid="17/9372">Paulo Anselmo da Mota Silveira Neto</author>
+<author orcid="0000-0001-6904-7470" pid="g/ViniciusCardosoGarcia">Vinicius Cardoso Garcia</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author pid="32/7717">Rodrigo Elia Assad</author>
+<title>Accounting Federated Clouds Based on the JiTCloud Platform.</title>
+<pages>186-187</pages>
+<year>2013</year>
+<booktitle>CCGRID</booktitle>
+<ee>https://doi.org/10.1109/CCGrid.2013.37</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CCGrid.2013.37</ee>
+<crossref>conf/ccgrid/2013</crossref>
+<url>db/conf/ccgrid/ccgrid2013.html#SilvaNGTA13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icccn/SilvaNGTA13" mdate="2021-04-09">
+<author pid="165/3596">Francisco Airton Pereira da Silva</author>
+<author pid="17/9372">Paulo Anselmo da Mota Silveira Neto</author>
+<author orcid="0000-0001-6904-7470" pid="g/ViniciusCardosoGarcia">Vinicius Cardoso Garcia</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<author pid="32/7717">Rodrigo Elia Assad</author>
+<title>VeloZ: A Charging Policy Specification Language for Infrastructure Clouds.</title>
+<pages>1-7</pages>
+<year>2013</year>
+<booktitle>ICCCN</booktitle>
+<ee>https://doi.org/10.1109/ICCCN.2013.6614208</ee>
+<crossref>conf/icccn/2013</crossref>
+<url>db/conf/icccn/icccn2013.html#SilvaNGTA13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwe/DuraoAFFGT13" mdate="2022-02-01">
+<author pid="22/4396">Frederico Ara&#250;jo Dur&#227;o</author>
+<author pid="32/7717">Rodrigo Elia Assad</author>
+<author pid="132/0306">Anderson Fonseca 0001</author>
+<author pid="133/8482">Jose Fernando S. Carvalho</author>
+<author orcid="0000-0001-6904-7470" pid="g/ViniciusCardosoGarcia">Vinicius Cardoso Garcia</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<title>USTO.RE: A Private Cloud Storage Software System.</title>
+<pages>452-466</pages>
+<year>2013</year>
+<booktitle>ICWE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-39200-9_38</ee>
+<crossref>conf/icwe/2013</crossref>
+<url>db/conf/icwe/icwe2013.html#DuraoAFFGT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispdc/SilvaNGTA13" mdate="2021-04-09">
+<author pid="165/3596">Francisco Airton Pereira da Silva</author>
+<author pid="17/9372">Paulo Anselmo da Mota Silveira Neto</author>
+<author orcid="0000-0001-6904-7470" pid="g/ViniciusCardosoGarcia">Vinicius Cardoso Garcia</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<author pid="32/7717">Rodrigo Elia Assad</author>
+<title>Monext: An Accounting Framework for Infrastructure Clouds.</title>
+<pages>26-33</pages>
+<year>2013</year>
+<booktitle>ISPDC</booktitle>
+<ee>https://doi.org/10.1109/ISPDC.2013.13</ee>
+<crossref>conf/ispdc/2013</crossref>
+<url>db/conf/ispdc/ispdc2013.html#SilvaNGTA13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcars/VianaTVAGA13" mdate="2023-03-23">
+<author pid="139/6621">Nayane Ponte Viana</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<author pid="139/6632">Jose Ricardo Mello Viana</author>
+<author orcid="0000-0002-0186-2994" pid="61/6138">Rossana M. de Castro Andrade</author>
+<author orcid="0000-0001-6904-7470" pid="g/ViniciusCardosoGarcia">Vinicius Cardoso Garcia</author>
+<author pid="32/7717">Rodrigo Elia Assad</author>
+<title>aCCountS: A Service-Oriented Architecture for Flexible Pricing in Cloud Infrastructure.</title>
+<pages>49-58</pages>
+<year>2013</year>
+<booktitle>SBCARS</booktitle>
+<ee>https://doi.org/10.1109/SBCARS.2013.16</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBCARS.2013.16</ee>
+<crossref>conf/sbcars/2013</crossref>
+<url>db/conf/sbcars/sbcars2013.html#VianaTVAGA13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/RegoLVTS13" mdate="2022-01-14">
+<author pid="67/10788">Paulo A. L. Rego</author>
+<author pid="128/2913">Fabr&#237;cio D. A. Lemos</author>
+<author orcid="0000-0002-8627-0823" pid="54/4813">Windson Viana</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author orcid="0000-0002-2980-8877" pid="02/4334">Jos&#233; N. de Souza</author>
+<title>MapReduce performance evaluation for knowledge-based recommendation of context-tagged photos.</title>
+<pages>249-256</pages>
+<year>2013</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/2526188.2530537</ee>
+<crossref>conf/webmedia/2013</crossref>
+<url>db/conf/webmedia/webmedia2013.html#RegoLVTS13</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijhpsa/SalesTMDBT09" mdate="2023-02-01">
+<author pid="07/9657">Leandro Sales 0001</author>
+<author pid="38/7568">Henrique Teofilo</author>
+<author orcid="0000-0002-2972-9423" pid="79/4708">Nabor C. Mendon&#231;a</author>
+<author pid="55/7567">Jonathan D'Orleans</author>
+<author pid="48/1024">Rafael G. Barbosa</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<title>An evaluation of the performance impact of generic group communication APIs.</title>
+<pages>90-98</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Int. J. High Perform. Syst. Archit.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1504/IJHPSA.2009.032026</ee>
+<url>db/journals/ijhpsa/ijhpsa2.html#SalesTMDBT09</url>
+</article>
+</r>
+<r><inproceedings key="conf/compsac/SalesTDMBT09" mdate="2023-03-24">
+<author pid="07/9657">Leandro Sales 0001</author>
+<author pid="38/7568">Henrique Teofilo</author>
+<author pid="55/7567">Jonathan D'Orleans</author>
+<author orcid="0000-0002-2972-9423" pid="79/4708">Nabor C. Mendon&#231;a</author>
+<author pid="48/1024">Rafael G. Barbosa</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<title>Performance Impact Analysis of Two Generic Group Communication APIs.</title>
+<pages>148-153</pages>
+<year>2009</year>
+<booktitle>COMPSAC (2)</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2009.128</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/COMPSAC.2009.128</ee>
+<crossref>conf/compsac/2009-2</crossref>
+<url>db/conf/compsac/compsac2009-2.html#SalesTDMBT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcars/CarvalhoT09" mdate="2024-11-27">
+<author pid="06/9562-1">Diego Moreira de Araujo Carvalho</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<title>Servi&#231;o de Adapta&#231;&#227;o de Conte&#250;do Aplica&#231;&#245;es Multiplataforma.</title>
+<pages>109-122</pages>
+<year>2009</year>
+<booktitle>SBCARS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbcars.2009.24105</ee>
+<crossref>conf/sbcars/2009</crossref>
+<url>db/conf/sbcars/sbcars2009.html#CarvalhoT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/DahiaRTCG09" mdate="2022-01-14">
+<author pid="128/2807">M&#225;rcio Dahia</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author pid="51/2005">Giordano Cabral 0001</author>
+<author pid="128/2895">Marcela Guerra</author>
+<title>Improving audio files availability in file sharing networks.</title>
+<pages>16</pages>
+<year>2009</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/1858477.1858493</ee>
+<crossref>conf/webmedia/2009</crossref>
+<url>db/conf/webmedia/webmedia2009.html#DahiaRTCG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/CarvalhoT09" mdate="2018-11-06">
+<author pid="06/9562-1">Diego Moreira de Araujo Carvalho</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<title>Content adaptation for multiplatform applications.</title>
+<pages>41</pages>
+<year>2009</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/1858477.1858518</ee>
+<crossref>conf/webmedia/2009</crossref>
+<url>db/conf/webmedia/webmedia2009.html#CarvalhoT09</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/webmedia/2009" mdate="2013-04-13">
+<editor pid="126/6814">Fernando Antonio Mota Trinta</editor>
+<editor pid="39/5656">Pedro Porf&#237;rio Muniz Farias</editor>
+<editor pid="48/414">Rudinei Goularte</editor>
+<editor pid="48/6369">Renata Pontin de Mattos Fortes</editor>
+<title>XV Brazilian Symposium on Multimedia and the Web, WebMedia '09, Fortaleza, Cear&#225;, Brazil, October 5-7, 2009</title>
+<publisher>ACM</publisher>
+<booktitle>WebMedia</booktitle>
+<year>2009</year>
+<isbn>978-1-60558-880-3</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=1858477</ee>
+<url>db/conf/webmedia/webmedia2009.html</url>
+</proceedings>
+</r>
+<r><article key="journals/cie/TrintaPFR08" mdate="2022-01-14">
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author pid="11/3507">Davi Pedrosa</author>
+<author pid="31/2870">Carlos Ferraz</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Evaluating a middleware for crossmedia games.</title>
+<year>2008</year>
+<volume>6</volume>
+<journal>Comput. Entertain.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1394021.1394033</ee>
+<url>db/journals/cie/cie6.html#TrintaPFR08</url>
+<pages>40:1-40:19</pages>
+</article>
+</r>
+<r><inproceedings key="conf/webmedia/DinizFTMS08" mdate="2018-11-06">
+<author pid="87/6755">Juliana R. Basto Diniz</author>
+<author pid="31/2870">Carlos Andr&#233; Guimar&#227;es Ferraz</author>
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<author pid="82/5981">Hildeberto Melo</author>
+<author pid="128/5794">Leonardo M. Santos</author>
+<title>Avalia&#231;ao de um servi&#231;o de gerenciamento de sessao para ambientes de medicina ub&#237;qua.</title>
+<pages>4-11</pages>
+<year>2008</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/1666091.1666095</ee>
+<crossref>conf/webmedia/2008</crossref>
+<url>db/conf/webmedia/webmedia2008.html#DinizFTMS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/TrintaPFR07" mdate="2022-01-14">
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author pid="11/3507">Davi Pedrosa</author>
+<author pid="31/2870">Carlos Ferraz</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Evaluating a middleware for crossmedia games.</title>
+<pages>43-48</pages>
+<year>2007</year>
+<booktitle>MPAC</booktitle>
+<ee>https://doi.org/10.1145/1376866.1376874</ee>
+<crossref>conf/middleware/2007mpac</crossref>
+<url>db/conf/middleware/mpac2007.html#TrintaPFR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/percom/TrintaPFR07" mdate="2023-03-24">
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author pid="11/3507">Davi Pedrosa</author>
+<author pid="31/2870">Carlos Ferraz</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Scenarios and Middleware Services for Pervasive Multiplatform Networked Games.</title>
+<pages>593-596</pages>
+<year>2007</year>
+<crossref>conf/percom/2007w</crossref>
+<booktitle>PerCom Workshops</booktitle>
+<ee>https://doi.org/10.1109/PERCOMW.2007.102</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PERCOMW.2007.102</ee>
+<url>db/conf/percom/percomw2007.html#TrintaPFR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/netgames/TrintaFR06" mdate="2022-01-14">
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author pid="31/2870">Carlos Ferraz</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Middleware services for pervasive multiplatform networked games.</title>
+<pages>39</pages>
+<year>2006</year>
+<crossref>conf/netgames/2006</crossref>
+<booktitle>NETGAMES</booktitle>
+<ee>https://doi.org/10.1145/1230040.1230049</ee>
+<url>db/conf/netgames/netgames2006.html#TrintaFR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/TrintaFR06" mdate="2022-01-14">
+<author pid="126/6814">Fernando A. M. Trinta</author>
+<author pid="31/2870">Carlos Ferraz</author>
+<author pid="13/3685">Geber L. Ramalho</author>
+<title>Scenarios and middleware services for pervasive multiplatform networked games.</title>
+<pages>243-252</pages>
+<year>2006</year>
+<crossref>conf/webmedia/2006</crossref>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/1186595.1186624</ee>
+<url>db/conf/webmedia/webmedia2006.html#TrintaFR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdpta/TrintaFO00" mdate="2013-04-13">
+<author pid="126/6814">Fernando Antonio Mota Trinta</author>
+<author pid="31/2870">Carlos Andr&#233; Guimar&#227;es Ferraz</author>
+<author pid="19/1055">Fab&#237;ola P. Oliveira</author>
+<title>An Architecture for Distributed Co-authoring Courses in the Internet.</title>
+<year>2000</year>
+<crossref>conf/pdpta/2000</crossref>
+<booktitle>PDPTA</booktitle>
+<url>db/conf/pdpta/pdpta2000.html#TrintaFO00</url>
+</inproceedings>
+</r>
+<coauthors n="95" nc="1">
+<co c="0"><na f="a/Alves:Pedro_Paiva" pid="294/0573">Pedro Paiva Alves</na></co>
+<co c="0"><na f="a/Andrade:Davi_Oliveira_Serrano_de" pid="151/1068">Davi Oliveira Serrano de Andrade</na></co>
+<co c="0"><na f="a/Andrade:Jo=atilde=o_P=_B=" pid="222/7699">Jo&#227;o P. B. Andrade</na></co>
+<co c="0" n="2"><na f="a/Andrade:Rossana_M=_de_Castro" pid="61/6138">Rossana M. de Castro Andrade</na><na>Rossana M. C. Andrade</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Pedro_T=" pid="264/3500">Pedro T. Ara&#250;jo</na></co>
+<co c="0"><na f="a/Assad:Rodrigo_Elia" pid="32/7717">Rodrigo Elia Assad</na></co>
+<co c="0"><na f="b/Baptista:Cl=aacute=udio_de_Souza" pid="b/ClaudiodeSouzaBaptista">Cl&#225;udio de Souza Baptista</na></co>
+<co c="0"><na f="b/Barbosa:Rafael_G=" pid="48/1024">Rafael G. Barbosa</na></co>
+<co c="0"><na f="b/Barbosa:Renan_A=" pid="259/3681">Renan A. Barbosa</na></co>
+<co c="0"><na f="b/Barreto:Felipe_Mota" pid="156/1047">Felipe Mota Barreto</na></co>
+<co c="0"><na f="b/Bezerra:Vladymir_L=" pid="249/1708">Vladymir L. Bezerra</na></co>
+<co c="0"><na f="b/Brito:Alisson_Vasconcelos_de" pid="35/5746">Alisson Vasconcelos de Brito</na></co>
+<co c="0"><na f="c/Cabral_0001:Giordano" pid="51/2005">Giordano Cabral 0001</na></co>
+<co c="0"><na f="c/C=acirc=ndido:Adriano_L=" pid="249/9974">Adriano L. C&#226;ndido</na></co>
+<co c="0" n="2"><na f="c/Carvalho_0001:Diego" pid="06/9562-1">Diego Carvalho 0001</na><na>Diego Moreira de Araujo Carvalho</na></co>
+<co c="0"><na f="c/Carvalho:Jose_Fernando_S=" pid="133/8482">Jose Fernando S. Carvalho</na></co>
+<co c="0" n="2"><na f="c/Carvalho_0001:Juliana" pid="04/219-1">Juliana Carvalho 0001</na><na>Juliana Oliveira de Carvalho 0001</na></co>
+<co c="0"><na f="c/Cheong:Elaine" pid="56/1927">Elaine Cheong</na></co>
+<co c="0"><na f="c/Cortes:Omar_Andr=eacute=s_Carmona" pid="10/2026">Omar Andr&#233;s Carmona Cortes</na></co>
+<co c="0"><na f="c/Costa:Leonardo_Ferreira_da" pid="230/1835">Leonardo Ferreira da Costa</na></co>
+<co c="0"><na f="c/Costa:Philipp_B=" pid="151/5214">Philipp B. Costa</na></co>
+<co c="0" n="2"><na f="c/Coutinho:Emanuel_Ferreira" pid="93/10788">Emanuel Ferreira Coutinho</na><na>Emanuel F. Coutinho</na></co>
+<co c="0"><na f="d/Dahia:M=aacute=rcio" pid="128/2807">M&#225;rcio Dahia</na></co>
+<co c="0"><na f="d/Diniz:Juliana_R=_Basto" pid="87/6755">Juliana R. Basto Diniz</na></co>
+<co c="0"><na f="d/D=Orleans:Jonathan" pid="55/7567">Jonathan D'Orleans</na></co>
+<co c="0"><na f="d/Duarte:Alexandre" pid="10/4700">Alexandre Duarte</na></co>
+<co c="0" n="2"><na f="d/Duarte:Paulo_A=_de_S=" pid="165/3769">Paulo A. de S. Duarte</na><na>Paulo Artur de Sousa Duarte</na></co>
+<co c="0"><na f="d/Dur=atilde=o:Frederico_Ara=uacute=jo" pid="22/4396">Frederico Ara&#250;jo Dur&#227;o</na></co>
+<co c="0"><na f="f/Farias:Pedro_Porf=iacute=rio_Muniz" pid="39/5656">Pedro Porf&#237;rio Muniz Farias</na></co>
+<co c="0"><na f="f/Fernandes:Filipe_Arantes" pid="327/9569">Filipe Arantes Fernandes</na></co>
+<co c="0"><na f="f/Fernandez:Marcial_Porto" pid="70/2855">Marcial Porto Fernandez</na></co>
+<co c="0" n="3"><na f="f/Ferraz:Carlos_A=_G=" pid="31/2870">Carlos A. G. Ferraz</na><na>Carlos Ferraz</na><na>Carlos Andr&#233; Guimar&#227;es Ferraz</na></co>
+<co c="0"><na f="f/Ferreira:Cristiane" pid="204/0476">Cristiane Ferreira</na></co>
+<co c="0"><na f="f/Figueir=ecirc=do:Hugo_Feitosa_de" pid="20/6849">Hugo Feitosa de Figueir&#234;do</na></co>
+<co c="0" n="2"><na f="f/Filho:Fernando_Castor" pid="f/FCFilho">Fernando Castor Filho</na><na>Fernando Castor</na></co>
+<co c="0"><na f="f/Filho:Jo=atilde=o_Bosco_Ferreira" pid="85/2495">Jo&#227;o Bosco Ferreira Filho</na></co>
+<co c="0" n="2"><na f="f/Filho:Pedro_Pedrosa_Rebou=ccedil=as" pid="91/2760">Pedro Pedrosa Rebou&#231;as Filho</na><na>Pedro P. R. Filho</na></co>
+<co c="0"><na f="f/Fonseca_0001:Anderson" pid="132/0306">Anderson Fonseca 0001</na></co>
+<co c="0"><na f="f/Fortes:Renata_Pontin_de_Mattos" pid="48/6369">Renata Pontin de Mattos Fortes</na></co>
+<co c="0"><na f="f/Furtado:Lia_Sucupira" pid="333/8786">Lia Sucupira Furtado</na></co>
+<co c="0" n="2"><na f="g/Garcia:Vinicius_Cardoso" pid="g/ViniciusCardosoGarcia">Vinicius Cardoso Garcia</na><na>Vinicius C. Garcia</na></co>
+<co c="0" n="2"><na f="g/Gomes:Francisco_A=_A=" pid="165/3610">Francisco A. A. Gomes</na><na>Francisco Anderson de Almada Gomes</na></co>
+<co c="0"><na f="g/Goularte:Rudinei" pid="48/414">Rudinei Goularte</na></co>
+<co c="0"><na f="g/Guerra:Marcela" pid="128/2895">Marcela Guerra</na></co>
+<co c="0"><na f="h/Hasan:Masum_Z=" pid="15/4370">Masum Z. Hasan</na></co>
+<co c="0"><na f="j/J=uacute=nior:Moacir_L=_de_M=" pid="156/1114">Moacir L. de M. J&#250;nior</na></co>
+<co c="0"><na f="l/Lemos:Fabr=iacute=cio_D=_A=" pid="128/2913">Fabr&#237;cio D. A. Lemos</na></co>
+<co c="0"><na f="l/Lima:Francisco_I=_da_S=" pid="313/6318">Francisco I. da S. Lima</na></co>
+<co c="0"><na f="l/Lima:Messias" pid="192/1037">Messias Lima</na></co>
+<co c="0"><na f="l/Loureiro:Tib=eacute=rio_C=_J=" pid="222/7537">Tib&#233;rio C. J. Loureiro</na></co>
+<co c="0" n="2"><na f="m/Mac=ecirc=do:Jos=eacute=_A=_F=_de" pid="f/JAFernandesdeMacedo">Jos&#233; A. F. de Mac&#234;do</na><na>Jos&#233; Ant&#244;nio Fernandes de Mac&#234;do</na></co>
+<co c="0" n="2"><na f="m/Maia:Jos=eacute=_G=_R=" pid="57/6283">Jos&#233; G. R. Maia</na><na>Jos&#233; Gilvan Rodrigues Maia</na></co>
+<co c="0"><na f="m/Maia:Marcio_E=_F=" pid="27/6418">Marcio E. F. Maia</na></co>
+<co c="0"><na f="m/Marinho:Cl=aacute=udia" pid="204/0324">Cl&#225;udia Marinho</na></co>
+<co c="0"><na f="m/Matos:Filipe_Fernandes_S=_B=_de" pid="176/0959">Filipe Fernandes S. B. de Matos</na></co>
+<co c="0"><na f="m/Medeiros:Ald=iacute=sio_Gon=ccedil=alves" pid="213/1744">Ald&#237;sio Gon&#231;alves Medeiros</na></co>
+<co c="0"><na f="m/Melo:Hildeberto" pid="82/5981">Hildeberto Melo</na></co>
+<co c="0" n="2"><na f="m/Mendon=ccedil=a:Nabor_das_Chagas" pid="79/4708">Nabor das Chagas Mendon&#231;a</na><na>Nabor C. Mendon&#231;a</na></co>
+<co c="0"><na f="n/Neto:Afonso_B=_L=" pid="222/7338">Afonso B. L. Neto</na></co>
+<co c="0" n="2"><na f="n/Neto:Aloisio_Vieira_Lira" pid="225/1981">Aloisio Vieira Lira Neto</na><na>Alo&#237;sio Vieira Lira Neto</na></co>
+<co c="0"><na f="n/Neto:Paulo_Anselmo_da_Mota_Silveira" pid="17/9372">Paulo Anselmo da Mota Silveira Neto</na></co>
+<co c="0"><na f="n/Noleto:Carleandro" pid="192/0961">Carleandro Noleto</na></co>
+<co c="0"><na f="o/Oliveira:Fab=iacute=ola_P=" pid="19/1055">Fab&#237;ola P. Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Wellington" pid="160/4646">Wellington Oliveira</na></co>
+<co c="0"><na f="p/Pedrosa:Davi" pid="11/3507">Davi Pedrosa</na></co>
+<co c="0"><na f="p/Peixoto:Maria_J=_P=" pid="207/7007">Maria J. P. Peixoto</na></co>
+<co c="0" n="2"><na f="p/Pinto:Leandro_Sales" pid="07/9657">Leandro Sales Pinto</na><na>Leandro Sales 0001</na></co>
+<co c="0"><na f="p/Pinto:Pedro_I=_C=" pid="264/3593">Pedro I. C. Pinto</na></co>
+<co c="0"><na f="r/Ramalho:Geber_L=" pid="13/3685">Geber L. Ramalho</na></co>
+<co c="0"><na f="r/Rego:Paulo_A=_L=" pid="67/10788">Paulo A. L. Rego</na></co>
+<co c="0"><na f="r/Rocha:Lincoln_S=" pid="31/6913">Lincoln S. Rocha</na></co>
+<co c="0"><na f="r/Rocha:Paulo_Henrique_Gon=ccedil=alves" pid="286/4150">Paulo Henrique Gon&#231;alves Rocha</na></co>
+<co c="0"><na f="r/Rodrigues:Christiano_A=_P=" pid="176/3924">Christiano A. P. Rodrigues</na></co>
+<co c="0"><na f="s/Salles:Carlos_de" pid="241/5621">Carlos de Salles</na></co>
+<co c="0"><na f="s/Santos:Alexandre_M=_M=" pid="275/8015">Alexandre M. M. Santos</na></co>
+<co c="0"><na f="s/Santos:Emanuele" pid="77/881">Emanuele Santos</na></co>
+<co c="0"><na f="s/Santos:Gabriel_B=_Dos" pid="236/2827">Gabriel B. Dos Santos</na></co>
+<co c="0"><na f="s/Santos:Leonardo_M=" pid="128/5794">Leonardo M. Santos</na></co>
+<co c="0"><na f="s/Santos:Lu=iacute=s" pid="23/5314">Lu&#237;s Santos</na></co>
+<co c="0"><na f="s/Sarmento:Wellington_W=_F=" pid="115/4786">Wellington W. F. Sarmento</na></co>
+<co c="0" n="2"><na f="s/Serafim:Paulo" pid="223/0914">Paulo Serafim</na><na>Paulo Bruno S. Serafim</na></co>
+<co c="0" n="2"><na f="s/Silva:Francisco_Airton" pid="165/3596">Francisco Airton Silva</na><na>Francisco Airton Pereira da Silva</na></co>
+<co c="0" n="2"><na f="s/Silva:Lu=iacute=s_Fernando_Maia" pid="170/1590">Lu&#237;s Fernando Maia Silva</na><na>Lu&#237;s Fernando Maia</na></co>
+<co c="0"><na f="s/Silva:Mauro_Roberto_Costa_da" pid="390/8654">Mauro Roberto Costa da Silva</na></co>
+<co c="0"><na f="s/Silvestre:Vit=oacute=ria_R=_N=" pid="302/7219">Vit&#243;ria R. N. Silvestre</na></co>
+<co c="-1"><na f="s/Sousa:Michael_Ferreira_de" pid="279/5466">Michael Ferreira de Sousa</na></co>
+<co c="0"><na f="s/Souza:Jansen" pid="156/1011">Jansen Souza</na></co>
+<co c="0" n="2"><na f="s/Souza:Jos=eacute=_Neuman_de" pid="02/4334">Jos&#233; Neuman de Souza</na><na>Jos&#233; N. de Souza</na></co>
+<co c="0"><na f="t/Teofilo:Henrique" pid="38/7568">Henrique Teofilo</na></co>
+<co c="0"><na f="v/Vasconcelos:Jerry" pid="258/7253">Jerry Vasconcelos</na></co>
+<co c="0"><na f="v/Viana:Jose_Ricardo_Mello" pid="139/6632">Jose Ricardo Mello Viana</na></co>
+<co c="0"><na f="v/Viana:Nayane_Ponte" pid="139/6621">Nayane Ponte Viana</na></co>
+<co c="0"><na f="v/Viana:Ricardo" pid="156/1058">Ricardo Viana</na></co>
+<co c="0" n="2"><na f="v/Viana:Windson" pid="54/4813">Windson Viana</na><na>Windson Viana de Carvalho</na></co>
+<co c="0"><na f="v/Vieira:Dario" pid="12/3830">Dario Vieira</na></co>
+</coauthors>
+</dblpperson>
+

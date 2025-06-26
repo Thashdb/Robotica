@@ -1,0 +1,780 @@
+<?xml version="1.0"?>
+<dblpperson name="Eduardo C. Xavier" pid="00/4728" n="53">
+<person key="homepages/00/4728" mdate="2019-09-08">
+<author pid="00/4728">Eduardo C. Xavier</author>
+<author pid="00/4728">Eduardo Candido Xavier</author>
+<author pid="00/4728">E. C. Xavier</author>
+<note type="affiliation">University of Campinas, Sao Paulo, Brazil</note>
+<url>http://www.ic.unicamp.br/~ecx</url>
+<url>https://orcid.org/0000-0001-6030-2682</url>
+</person>
+<r><article key="journals/cor/PereiraFHX24" mdate="2024-08-04">
+<author pid="221/3361">Vinicius N. G. Pereira</author>
+<author orcid="0000-0001-6476-4534" pid="143/3655">M&#225;rio C&#233;sar San Felice</author>
+<author orcid="0000-0002-3734-7679" pid="174/3122">Pedro Henrique Del Bianco Hokama</author>
+<author pid="00/4728">Eduardo Candido Xavier</author>
+<title>On the Restricted Steiner Multi Cycle Problem.</title>
+<pages>106752</pages>
+<year>2024</year>
+<volume>169</volume>
+<journal>Comput. Oper. Res.</journal>
+<ee>https://doi.org/10.1016/j.cor.2024.106752</ee>
+<url>db/journals/cor/cor169.html#PereiraFHX24</url>
+<stream>streams/journals/cor</stream>
+</article>
+</r>
+<r><article key="journals/soco/OliveiraXB24" mdate="2025-01-25">
+<author pid="394/0231">Bruno A. Oliveira</author>
+<author pid="00/4728">Eduardo C. Xavier</author>
+<author orcid="0000-0003-1783-4231" pid="55/608">Edson Borin</author>
+<title>BrkgaCuda 2.0: a framework for fast biased random-key genetic algorithms on GPUs.</title>
+<pages>12689-12704</pages>
+<year>2024</year>
+<month>November</month>
+<volume>28</volume>
+<journal>Soft Comput.</journal>
+<number>21</number>
+<ee>https://doi.org/10.1007/s00500-024-10336-7</ee>
+<url>db/journals/soco/soco28.html#OliveiraXB24</url>
+<stream>streams/journals/soco</stream>
+</article>
+</r>
+<r><inproceedings key="conf/clei/RiosX24" mdate="2024-10-28">
+<author pid="202/8289">Brenner Humberto Ojeda Rios</author>
+<author pid="00/4728">Eduardo C. Xavier</author>
+<title>The Capacitated Multi-Depot Vehicle Routing Problem with Stochastic Pickups and Deliveries.</title>
+<pages>1-8</pages>
+<year>2024</year>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI64178.2024.10700341</ee>
+<crossref>conf/clei/2024</crossref>
+<url>db/conf/clei/clei2024.html#RiosX24</url>
+</inproceedings>
+</r>
+<r><article key="journals/candie/RiosXMACS21" mdate="2024-10-06">
+<author orcid="0000-0003-4738-1974" pid="202/8289">Brenner Humberto Ojeda Rios</author>
+<author pid="00/4728">Eduardo C. Xavier</author>
+<author pid="m/FlavioKeidiMiyazawa">Fl&#225;vio Keidi Miyazawa</author>
+<author orcid="0000-0001-7857-3405" pid="67/3646">Pedro Amorim</author>
+<author pid="178/4630">Eduardo Curcio</author>
+<author orcid="0000-0002-8989-8157" pid="88/3988">Maria Jo&#227;o Santos</author>
+<title>Recent dynamic vehicle routing problems: A survey.</title>
+<pages>107604</pages>
+<year>2021</year>
+<volume>160</volume>
+<journal>Comput. Ind. Eng.</journal>
+<ee>https://doi.org/10.1016/j.cie.2021.107604</ee>
+<url>db/journals/candie/candie160.html#RiosXMACS21</url>
+</article>
+</r>
+<r><article key="journals/candie/BorgesMSX20" mdate="2020-09-05">
+<author pid="267/3035">Yulle G. F. Borges</author>
+<author pid="m/FlavioKeidiMiyazawa">Fl&#225;vio Keidi Miyazawa</author>
+<author orcid="0000-0002-0472-4810" pid="196/0126">Rafael C. S. Schouery</author>
+<author pid="00/4728">Eduardo C. Xavier</author>
+<title>Exact algorithms for class-constrained packing problems.</title>
+<pages>106455</pages>
+<year>2020</year>
+<volume>144</volume>
+<journal>Comput. Ind. Eng.</journal>
+<ee>https://doi.org/10.1016/j.cie.2020.106455</ee>
+<url>db/journals/candie/candie144.html#BorgesMSX20</url>
+</article>
+</r>
+<r><article key="journals/tcs/LintzmayerMMX20" mdate="2023-08-28">
+<author orcid="0000-0003-0602-6298" pid="125/1597">Carla Negri Lintzmayer</author>
+<author pid="m/FlavioKeidiMiyazawa">Fl&#225;vio Keidi Miyazawa</author>
+<author orcid="0000-0002-8176-0874" pid="57/10043">Phablo F. S. Moura</author>
+<author pid="00/4728">Eduardo C. Xavier</author>
+<title>Randomized approximation scheme for Steiner Multi Cycle in the Euclidean plane.</title>
+<pages>134-155</pages>
+<year>2020</year>
+<volume>835</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2020.06.022</ee>
+<ee>https://www.wikidata.org/entity/Q114129156</ee>
+<url>db/journals/tcs/tcs835.html#LintzmayerMMX20</url>
+</article>
+</r>
+<r><inproceedings key="conf/fedcsis/RiosXMA20a" mdate="2024-10-06">
+<author orcid="0000-0003-4738-1974" pid="202/8289">Brenner H. O. Rios</author>
+<author pid="00/4728">Eduardo C. Xavier</author>
+<author pid="m/FlavioKeidiMiyazawa">Fl&#225;vio Keidi Miyazawa</author>
+<author pid="67/3646">Pedro Amorim</author>
+<title>Heuristic Approaches for the Stochastic Multi-depot Vehicle Routing Problem with Pickup and Delivery.</title>
+<pages>27-51</pages>
+<year>2020</year>
+<booktitle>WCO@FedCSIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-82397-9_2</ee>
+<crossref>conf/fedcsis/2020wco</crossref>
+<url>db/conf/fedcsis/wco2020.html#RiosXMA20a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fedcsis/RiosXMA20" mdate="2024-10-06">
+<author orcid="0000-0003-4738-1974" pid="202/8289">Brenner H. O. Rios</author>
+<author pid="00/4728">Eduardo C. Xavier</author>
+<author pid="m/FlavioKeidiMiyazawa">Fl&#225;vio Keidi Miyazawa</author>
+<author orcid="0000-0001-7857-3405" pid="67/3646">Pedro Amorim</author>
+<title>Stochastic multi-depot vehicle routing problem with pickup and delivery: an ILS approach.</title>
+<pages>307-315</pages>
+<year>2020</year>
+<booktitle>FedCSIS</booktitle>
+<ee type="oa">https://doi.org/10.15439/2020F127</ee>
+<crossref>conf/fedcsis/2020</crossref>
+<url>db/conf/fedcsis/fedcsis2020.html#RiosXMA20</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcs/LintzmayerMX19" mdate="2025-01-19">
+<author orcid="0000-0003-0602-6298" pid="125/1597">Carla Negri Lintzmayer</author>
+<author pid="m/FlavioKeidiMiyazawa">Fl&#225;vio Keidi Miyazawa</author>
+<author orcid="0000-0001-6030-2682" pid="00/4728">Eduardo Candido Xavier</author>
+<title>Online circle and sphere packing.</title>
+<pages>75-94</pages>
+<year>2019</year>
+<volume>776</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2019.01.004</ee>
+<ee>https://www.wikidata.org/entity/Q128627206</ee>
+<url>db/journals/tcs/tcs776.html#LintzmayerMX19</url>
+</article>
+</r>
+<r><inproceedings key="journals/entcs/LintzmayerMMX19" mdate="2022-08-16">
+<author orcid="0000-0003-0602-6298" pid="125/1597">Carla Negri Lintzmayer</author>
+<author pid="m/FlavioKeidiMiyazawa">Fl&#225;vio Keidi Miyazawa</author>
+<author orcid="0000-0002-8176-0874" pid="57/10043">Phablo F. S. Moura</author>
+<author pid="00/4728">Eduardo C. Xavier</author>
+<title>Quasilinear Approximation Scheme for Steiner Multi Cycle in the Euclidean plane.</title>
+<pages>589-601</pages>
+<year>2019</year>
+<crossref>conf/lagos/2019</crossref>
+<booktitle>LAGOS</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2019.08.052</ee>
+<ee>https://www.wikidata.org/entity/Q113317377</ee>
+<url>db/journals/entcs/entcs346.html#LintzmayerMMX19</url>
+</inproceedings>
+</r>
+<r><article key="journals/cor/QuispeLX18" mdate="2025-01-19">
+<author pid="225/4078">Kent E. Yucra Quispe</author>
+<author orcid="0000-0003-0602-6298" pid="125/1597">Carla Negri Lintzmayer</author>
+<author orcid="0000-0001-6030-2682" pid="00/4728">Eduardo C. Xavier</author>
+<title>An exact algorithm for the Blocks Relocation Problem with new lower bounds.</title>
+<pages>206-217</pages>
+<year>2018</year>
+<volume>99</volume>
+<journal>Comput. Oper. Res.</journal>
+<ee>https://doi.org/10.1016/j.cor.2018.06.021</ee>
+<ee>https://www.wikidata.org/entity/Q129565369</ee>
+<url>db/journals/cor/cor99.html#QuispeLX18</url>
+</article>
+</r>
+<r><article key="journals/itor/PovoaX18" mdate="2025-01-19">
+<author pid="219/6941">Marcelo G. P&#243;voa</author>
+<author pid="00/4728">Eduardo C. Xavier</author>
+<title>Approximation algorithms and heuristics for task scheduling in data-intensive distributed systems.</title>
+<pages>1417-1441</pages>
+<year>2018</year>
+<volume>25</volume>
+<journal>Int. Trans. Oper. Res.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1111/itor.12527</ee>
+<ee>https://www.wikidata.org/entity/Q130062338</ee>
+<url>db/journals/itor/itor25.html#PovoaX18</url>
+</article>
+</r>
+<r><article key="journals/jeric/WainerX18" mdate="2023-10-22">
+<author pid="73/4164">Jacques Wainer</author>
+<author pid="00/4728">Eduardo C. Xavier</author>
+<title>A Controlled Experiment on Python vs C for an Introductory Programming Course: Students' Outcomes.</title>
+<pages>12:1-12:16</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>ACM Trans. Comput. Educ.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3152894</ee>
+<ee>https://www.wikidata.org/entity/Q122236381</ee>
+<url>db/journals/jeric/toce18.html#WainerX18</url>
+</article>
+</r>
+<r><inproceedings key="conf/icc/CrepaldiFX18" mdate="2020-10-25">
+<author pid="224/0920">Thiago Crepaldi</author>
+<author orcid="0000-0003-2046-602X" pid="f/NelsonLSdaFonseca">Nelson L. S. da Fonseca</author>
+<author pid="00/4728">Eduardo C. Xavier</author>
+<title>Selection of Servers for Video on Demand Service over Hybrid Cloud.</title>
+<pages>1-7</pages>
+<year>2018</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2018.8422863</ee>
+<crossref>conf/icc/2018</crossref>
+<url>db/conf/icc/icc2018.html#CrepaldiFX18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictcs/RodriguesSX18" mdate="2023-03-10">
+<author pid="186/3754">F&#233;lix Carvalho Rodrigues</author>
+<author pid="s/GuidoSchafer">Guido Sch&#228;fer</author>
+<author pid="00/4728">Eduardo C. Xavier</author>
+<title>On the Effectiveness of Connection Tolls in Fair Cost Facility Location Games.</title>
+<pages>36-47</pages>
+<year>2018</year>
+<booktitle>ICTCS</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2243/paper2.pdf</ee>
+<crossref>conf/ictcs/2018</crossref>
+<url>db/conf/ictcs/ictcs2018.html#RodriguesSX18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/HirataXB18" mdate="2023-03-24">
+<author pid="230/1813">Alexre T. Hirata</author>
+<author pid="00/4728">Eduardo C. Xavier</author>
+<author pid="82/3568">Juliana Freitag Borin</author>
+<title>Optimal and Heuristic Decision Strategies for Load Balancing and User Association on HetNets.</title>
+<pages>1143-1148</pages>
+<year>2018</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2018.8538502</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2018.8538502</ee>
+<crossref>conf/iscc/2018</crossref>
+<url>db/conf/iscc/iscc2018.html#HirataXB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latin/LintzmayerMX18" mdate="2018-05-05">
+<author orcid="0000-0003-0602-6298" pid="125/1597">Carla Negri Lintzmayer</author>
+<author orcid="0000-0002-1067-6421" pid="m/FlavioKeidiMiyazawa">Fl&#225;vio Keidi Miyazawa</author>
+<author pid="00/4728">Eduardo Candido Xavier</author>
+<title>Two-Dimensional Knapsack for Circles.</title>
+<pages>741-754</pages>
+<year>2018</year>
+<booktitle>LATIN</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-77404-6_54</ee>
+<crossref>conf/latin/2018</crossref>
+<url>db/conf/latin/latin2018.html#LintzmayerMX18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wea/PereiraFHX18" mdate="2019-10-19">
+<author pid="221/3361">Vinicius N. G. Pereira</author>
+<author orcid="0000-0001-6476-4534" pid="143/3655">M&#225;rio C&#233;sar San Felice</author>
+<author orcid="0000-0002-3734-7679" pid="174/3122">Pedro Henrique Del Bianco Hokama</author>
+<author pid="00/4728">Eduardo C. Xavier</author>
+<title>The Steiner Multi Cycle Problem with Applications to a Collaborative Truckload Problem.</title>
+<pages>26:1-26:13</pages>
+<year>2018</year>
+<booktitle>SEA</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.SEA.2018.26</ee>
+<crossref>conf/wea/2018</crossref>
+<url>db/conf/wea/sea2018.html#PereiraFHX18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/RodriguesXS19" mdate="2022-08-16">
+<author orcid="0000-0002-2776-5105" pid="186/3754">F&#233;lix Carvalho Rodrigues</author>
+<author pid="00/4728">Eduardo C. Xavier</author>
+<author pid="s/GuidoSchafer">Guido Sch&#228;fer</author>
+<title>On Fair Cost Facility Location Games with Non-singleton Players.</title>
+<pages>21-38</pages>
+<year>2018</year>
+<crossref>conf/clei/2018s</crossref>
+<booktitle>CLEI Selected Papers</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2019.04.003</ee>
+<ee>https://www.wikidata.org/entity/Q113317476</ee>
+<url>db/journals/entcs/entcs342.html#RodriguesXS19</url>
+</inproceedings>
+</r>
+<r><article key="journals/ipl/RodriguesX17" mdate="2017-12-28">
+<author orcid="0000-0002-2776-5105" pid="186/3754">F&#233;lix Carvalho Rodrigues</author>
+<author pid="00/4728">Eduardo Candido Xavier</author>
+<title>Non-cooperative capacitated facility location games.</title>
+<pages>45-53</pages>
+<year>2017</year>
+<volume>117</volume>
+<journal>Inf. Process. Lett.</journal>
+<ee>https://doi.org/10.1016/j.ipl.2016.09.001</ee>
+<url>db/journals/ipl/ipl117.html#RodriguesX17</url>
+</article>
+</r>
+<r><article key="journals/jco/SantosADX17" mdate="2021-10-14">
+<author pid="58/9383">Rafael F. Santos</author>
+<author pid="130/3755">Alessandro Andrioni</author>
+<author orcid="0000-0001-8913-3755" pid="72/6853">Andr&#233; C. Drummond</author>
+<author pid="00/4728">Eduardo C. Xavier</author>
+<title>Multicolour paths in graphs: NP-hardness, algorithms, and applications on routing in WDM networks.</title>
+<pages>742-778</pages>
+<year>2017</year>
+<volume>33</volume>
+<journal>J. Comb. Optim.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10878-016-0003-2</ee>
+<url>db/journals/jco/jco33.html#SantosADX17</url>
+</article>
+</r>
+<r><article key="journals/rita/RodriguesX17" mdate="2021-02-17">
+<author pid="186/3754">F&#233;lix Carvalho Rodrigues</author>
+<author pid="00/4728">Eduardo C. Xavier</author>
+<title>Non-Cooperative Facility Location Games: a Survey.</title>
+<pages>59-90</pages>
+<year>2017</year>
+<volume>24</volume>
+<journal>RITA</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.22456/2175-2745.71429</ee>
+<url>db/journals/rita/rita24.html#RodriguesX17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1708-08906" mdate="2018-08-13">
+<author pid="125/1597">Carla Negri Lintzmayer</author>
+<author pid="m/FlavioKeidiMiyazawa">Fl&#225;vio Keidi Miyazawa</author>
+<author pid="00/4728">Eduardo Candido Xavier</author>
+<title>Online Circle and Sphere Packing.</title>
+<year>2017</year>
+<volume>abs/1708.08906</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1708.08906</ee>
+<url>db/journals/corr/corr1708.html#abs-1708-08906</url>
+</article>
+</r>
+<r><article key="journals/eswa/HokamaMX16" mdate="2019-10-19">
+<author orcid="0000-0002-3734-7679" pid="174/3122">Pedro Henrique Del Bianco Hokama</author>
+<author orcid="0000-0002-1067-6421" pid="m/FlavioKeidiMiyazawa">Fl&#225;vio Keidi Miyazawa</author>
+<author pid="00/4728">Eduardo C. Xavier</author>
+<title>A branch-and-cut approach for the vehicle routing problem with loading constraints.</title>
+<pages>1-13</pages>
+<year>2016</year>
+<volume>47</volume>
+<journal>Expert Syst. Appl.</journal>
+<ee>https://doi.org/10.1016/j.eswa.2015.10.013</ee>
+<url>db/journals/eswa/eswa47.html#HokamaMX16</url>
+</article>
+</r>
+<r><article key="journals/mam/LopesEXA16" mdate="2020-02-22">
+<author pid="72/7641">Bruno Cardoso Lopes</author>
+<author pid="08/7641">Leonardo Luiz Ecco</author>
+<author pid="00/4728">E. C. Xavier</author>
+<author orcid="0000-0002-8803-0401" pid="73/1601">Rodolfo Jardim de Azevedo</author>
+<title>Design and evaluation of compact ISA extensions.</title>
+<pages>1-15</pages>
+<year>2016</year>
+<volume>40</volume>
+<journal>Microprocess. Microsystems</journal>
+<ee>https://doi.org/10.1016/j.micpro.2015.09.010</ee>
+<url>db/journals/mam/mam40.html#LopesEXA16</url>
+</article>
+</r>
+<r><article key="journals/eswa/SantosX15" mdate="2017-05-26">
+<author pid="133/1983">Douglas Oliveira Santos</author>
+<author pid="00/4728">Eduardo C. Xavier</author>
+<title>Taxi and Ride Sharing: A Dynamic Dial-a-Ride Problem with Money as an Incentive.</title>
+<pages>6728-6737</pages>
+<year>2015</year>
+<volume>42</volume>
+<journal>Expert Syst. Appl.</journal>
+<number>19</number>
+<ee>https://doi.org/10.1016/j.eswa.2015.04.060</ee>
+<url>db/journals/eswa/eswa42.html#SantosX15</url>
+</article>
+</r>
+<r><article key="journals/jco/XavierPS15" mdate="2019-09-25">
+<author orcid="0000-0001-6030-2682" pid="00/4728">Eduardo C. Xavier</author>
+<author pid="90/10522">Robson R. S. Peixoto</author>
+<author pid="02/9926">Jefferson L. M. da Silveira</author>
+<title>Scheduling with task replication on desktop grids: theoretical and experimental analysis.</title>
+<pages>520-544</pages>
+<year>2015</year>
+<volume>30</volume>
+<journal>J. Comb. Optim.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10878-013-9650-8</ee>
+<url>db/journals/jco/jco30.html#XavierPS15</url>
+</article>
+</r>
+<r><article key="journals/tcs/TwiggX15" mdate="2021-02-17">
+<author pid="86/2480">Andrew Twigg</author>
+<author pid="00/4728">Eduardo C. Xavier</author>
+<title>Locality-preserving allocations problems and coloured bin packing.</title>
+<pages>12-22</pages>
+<year>2015</year>
+<volume>596</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2015.06.036</ee>
+<url>db/journals/tcs/tcs596.html#TwiggX15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/TwiggX15" mdate="2018-08-13">
+<author pid="86/2480">Andrew Twigg</author>
+<author pid="00/4728">Eduardo C. Xavier</author>
+<title>Locality-preserving allocations Problems and coloured Bin Packing.</title>
+<year>2015</year>
+<volume>abs/1508.03992</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1508.03992</ee>
+<url>db/journals/corr/corr1508.html#TwiggX15</url>
+</article>
+</r>
+<r><article key="journals/dam/SilveiraXM14" mdate="2021-02-11">
+<author pid="02/9926">Jefferson L. M. da Silveira</author>
+<author orcid="0000-0001-6030-2682" pid="00/4728">Eduardo C. Xavier</author>
+<author orcid="0000-0002-1067-6421" pid="m/FlavioKeidiMiyazawa">Fl&#225;vio Keidi Miyazawa</author>
+<title>Two-dimensional strip packing with unloading constraints.</title>
+<pages>512-521</pages>
+<year>2014</year>
+<volume>164</volume>
+<journal>Discret. Appl. Math.</journal>
+<ee type="oa">https://doi.org/10.1016/j.dam.2013.08.019</ee>
+<url>db/journals/dam/dam164.html#SilveiraXM14</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccl2/SilveiraX14" mdate="2017-05-21">
+<author pid="02/9926">Jefferson L. M. da Silveira</author>
+<author pid="00/4728">Eduardo C. Xavier</author>
+<title>Pickup and Delivery Problem with Two Dimensional Loading/Unloading Constraints.</title>
+<pages>31-46</pages>
+<year>2014</year>
+<booktitle>ICCL</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-11421-7_3</ee>
+<crossref>conf/iccl2/2014</crossref>
+<url>db/conf/iccl2/iccl2014.html#SilveiraX14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscopt/BogueSXF14" mdate="2017-05-23">
+<author pid="148/6172">Eduardo T. Bogue</author>
+<author pid="42/819">Cid C. de Souza</author>
+<author pid="00/4728">Eduardo C. Xavier</author>
+<author pid="83/8614">Alexandre S. Freire</author>
+<title>An Integer Programming Formulation for the Maximum k-Subset Intersection Problem.</title>
+<pages>87-99</pages>
+<year>2014</year>
+<booktitle>ISCO</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-09174-7_8</ee>
+<crossref>conf/iscopt/2014</crossref>
+<url>db/conf/iscopt/isco2014.html#BogueSXF14</url>
+</inproceedings>
+</r>
+<r><article key="journals/cor/SilveiraMX13" mdate="2020-02-18">
+<author pid="02/9926">Jefferson L. M. da Silveira</author>
+<author orcid="0000-0002-1067-6421" pid="m/FlavioKeidiMiyazawa">Fl&#225;vio Keidi Miyazawa</author>
+<author orcid="0000-0001-6030-2682" pid="00/4728">Eduardo C. Xavier</author>
+<title>Heuristics for the strip packing problem with unloading constraints.</title>
+<pages>991-1003</pages>
+<year>2013</year>
+<volume>40</volume>
+<journal>Comput. Oper. Res.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.cor.2012.11.003</ee>
+<url>db/journals/cor/cor40.html#SilveiraMX13</url>
+</article>
+</r>
+<r><article key="journals/ita/SilveiraXM13" mdate="2020-06-04">
+<author pid="02/9926">Jefferson Luiz Mois&#233;s da Silveira</author>
+<author orcid="0000-0001-6030-2682" pid="00/4728">Eduardo Candido Xavier</author>
+<author orcid="0000-0002-1067-6421" pid="m/FlavioKeidiMiyazawa">Fl&#225;vio Keidi Miyazawa</author>
+<title>A note on a two dimensional knapsack problem with unloading constraints.</title>
+<pages>315-324</pages>
+<year>2013</year>
+<volume>47</volume>
+<journal>RAIRO Theor. Informatics Appl.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1051/ita/2013037</ee>
+<url>db/journals/ita/ita47.html#SilveiraXM13</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcai/SantosX13" mdate="2022-03-08">
+<author pid="133/1983">Douglas Oliveira Santos</author>
+<author pid="00/4728">Eduardo Candido Xavier</author>
+<title>Dynamic Taxi and Ridesharing: A Framework and Heuristics for the Optimization Problem.</title>
+<year>2013</year>
+<booktitle>IJCAI</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/view/6779</ee>
+<ee type="oa">http://ijcai.org/Abstract/13/424</ee>
+<crossref>conf/ijcai/2013</crossref>
+<url>db/conf/ijcai/ijcai2013.html#SantosX13</url>
+<pages>2885-2891</pages>
+</inproceedings>
+</r>
+<r><article key="journals/cn/FigueiredoXF12" mdate="2020-09-05">
+<author pid="29/2875">Gustavo B. Figueiredo</author>
+<author pid="00/4728">Eduardo Candido Xavier</author>
+<author orcid="0000-0003-2046-602X" pid="f/NelsonLSdaFonseca">Nelson L. S. da Fonseca</author>
+<title>Optimal algorithms for the batch scheduling problem in OBS networks.</title>
+<pages>3274-3286</pages>
+<year>2012</year>
+<volume>56</volume>
+<journal>Comput. Networks</journal>
+<number>14</number>
+<ee>https://doi.org/10.1016/j.comnet.2012.06.005</ee>
+<url>db/journals/cn/cn56.html#FigueiredoXF12</url>
+</article>
+</r>
+<r><article key="journals/cor/QueirozMWX12" mdate="2020-02-18">
+<author orcid="0000-0003-2674-3366" pid="132/7104">Thiago Alves de Queiroz</author>
+<author orcid="0000-0002-1067-6421" pid="m/FlavioKeidiMiyazawa">Fl&#225;vio Keidi Miyazawa</author>
+<author orcid="0000-0002-8229-3139" pid="49/4632">Yoshiko Wakabayashi</author>
+<author orcid="0000-0001-6030-2682" pid="00/4728">Eduardo C. Xavier</author>
+<title>Algorithms for 3D guillotine cutting problems: Unbounded knapsack, cutting stock and strip packing.</title>
+<pages>200-212</pages>
+<year>2012</year>
+<volume>39</volume>
+<journal>Comput. Oper. Res.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.cor.2011.03.011</ee>
+<url>db/journals/cor/cor39.html#QueirozMWX12</url>
+</article>
+</r>
+<r><article key="journals/eswa/ValleQMX12" mdate="2019-09-25">
+<author pid="117/6202">Aline M. Del Valle</author>
+<author orcid="0000-0003-2674-3366" pid="132/7104">Thiago Alves de Queiroz</author>
+<author orcid="0000-0002-1067-6421" pid="m/FlavioKeidiMiyazawa">Fl&#225;vio Keidi Miyazawa</author>
+<author orcid="0000-0001-6030-2682" pid="00/4728">Eduardo C. Xavier</author>
+<title>Heuristics for two-dimensional knapsack and cutting stock problems with items of irregular shape.</title>
+<pages>12589-12598</pages>
+<year>2012</year>
+<volume>39</volume>
+<journal>Expert Syst. Appl.</journal>
+<number>16</number>
+<ee>https://doi.org/10.1016/j.eswa.2012.05.025</ee>
+<url>db/journals/eswa/eswa39.html#ValleQMX12</url>
+</article>
+</r>
+<r><article key="journals/ipl/Xavier12" mdate="2019-09-25">
+<author orcid="0000-0001-6030-2682" pid="00/4728">Eduardo C. Xavier</author>
+<title>A note on a Maximum k-Subset Intersection problem.</title>
+<pages>471-472</pages>
+<year>2012</year>
+<volume>112</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1016/j.ipl.2012.03.007</ee>
+<url>db/journals/ipl/ipl112.html#Xavier12</url>
+</article>
+</r>
+<r><article key="journals/endm/SilveiraXM11" mdate="2020-02-20">
+<author pid="02/9926">Jefferson L. M. da Silveira</author>
+<author orcid="0000-0001-6030-2682" pid="00/4728">Eduardo C. Xavier</author>
+<author orcid="0000-0002-1067-6421" pid="m/FlavioKeidiMiyazawa">Fl&#225;vio Keidi Miyazawa</author>
+<title>Two Dimensional Strip Packing with Unloading Constraints.</title>
+<pages>99-104</pages>
+<year>2011</year>
+<volume>37</volume>
+<journal>Electron. Notes Discret. Math.</journal>
+<ee>https://doi.org/10.1016/j.endm.2011.05.018</ee>
+<url>db/journals/endm/endm37.html#SilveiraXM11</url>
+</article>
+</r>
+<r><article key="journals/endm/SilveiraXM11a" mdate="2020-02-20">
+<author pid="02/9926">Jefferson L. M. da Silveira</author>
+<author orcid="0000-0001-6030-2682" pid="00/4728">Eduardo C. Xavier</author>
+<author orcid="0000-0002-1067-6421" pid="m/FlavioKeidiMiyazawa">Fl&#225;vio Keidi Miyazawa</author>
+<title>Two Dimensional Knapsack with Unloading Constraints.</title>
+<pages>267-272</pages>
+<year>2011</year>
+<volume>37</volume>
+<journal>Electron. Notes Discret. Math.</journal>
+<ee>https://doi.org/10.1016/j.endm.2011.05.046</ee>
+<url>db/journals/endm/endm37.html#SilveiraXM11a</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbac-pad/XavierP10" mdate="2023-03-23">
+<author orcid="0000-0001-6030-2682" pid="00/4728">Eduardo C. Xavier</author>
+<author pid="90/10522">Robson R. S. Peixoto</author>
+<title>On the Worst Case of Scheduling with Task Replication on Computational Grids.</title>
+<pages>135-142</pages>
+<year>2010</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2010.24</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2010.24</ee>
+<crossref>conf/sbac-pad/2010</crossref>
+<url>db/conf/sbac-pad/sbac-pad2010.html#XavierP10</url>
+</inproceedings>
+</r>
+<r><article key="journals/ita/XavierM09" mdate="2020-05-25">
+<author orcid="0000-0001-6030-2682" pid="00/4728">Eduardo C. Xavier</author>
+<author orcid="0000-0002-1067-6421" pid="m/FlavioKeidiMiyazawa">Fl&#225;vio Keidi Miyazawa</author>
+<title>A note on dual approximation algorithms for class constrained bin packing problems.</title>
+<pages>239-248</pages>
+<year>2009</year>
+<volume>43</volume>
+<journal>RAIRO Theor. Informatics Appl.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1051/ita:2008027</ee>
+<url>db/journals/ita/ita43.html#XavierM09</url>
+</article>
+</r>
+<r><article key="journals/scientometrics/WainerXB09" mdate="2020-07-17">
+<author orcid="0000-0001-5201-1244" pid="73/4164">Jacques Wainer</author>
+<author orcid="0000-0001-6030-2682" pid="00/4728">Eduardo C. Xavier</author>
+<author pid="84/5979">F&#225;bio de Lima Bezerra</author>
+<title>Scientific production in Computer Science: A comparative study of Brazil and other countries.</title>
+<pages>535-547</pages>
+<year>2009</year>
+<volume>81</volume>
+<journal>Scientometrics</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11192-008-2156-y</ee>
+<url>db/journals/scientometrics/scientometrics81.html#WainerXB09</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/FigueiredoXF09" mdate="2020-09-05">
+<author pid="29/2875">Gustavo B. Figueiredo</author>
+<author orcid="0000-0001-6030-2682" pid="00/4728">Eduardo C. Xavier</author>
+<author orcid="0000-0003-2046-602X" pid="f/NelsonLSdaFonseca">Nelson L. S. da Fonseca</author>
+<title>An Optimal Batch Scheduling Algorithm for OBS Networks.</title>
+<pages>1-6</pages>
+<year>2009</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2009.5425778</ee>
+<crossref>conf/globecom/2009</crossref>
+<url>db/conf/globecom/globecom2009.html#FigueiredoXF09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/EccoLXPCA09" mdate="2023-03-23">
+<author pid="08/7641">Leonardo Luiz Ecco</author>
+<author pid="72/7641">Bruno Cardoso Lopes</author>
+<author orcid="0000-0001-6030-2682" pid="00/4728">Eduardo Candido Xavier</author>
+<author pid="20/2982">Ricardo Pannain</author>
+<author pid="59/1511">Paulo Centoducatte</author>
+<author orcid="0000-0002-8803-0401" pid="73/1601">Rodolfo Jardim de Azevedo</author>
+<title>SPARC16: A New Compression Approach for the SPARC Architecture.</title>
+<pages>169-176</pages>
+<year>2009</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2009.22</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2009.22</ee>
+<crossref>conf/sbac-pad/2009</crossref>
+<url>db/conf/sbac-pad/sbac-pad2009.html#EccoLXPCA09</url>
+</inproceedings>
+</r>
+<r><article key="journals/dam/XavierM08" mdate="2021-02-11">
+<author orcid="0000-0001-6030-2682" pid="00/4728">E. C. Xavier</author>
+<author orcid="0000-0002-1067-6421" pid="m/FlavioKeidiMiyazawa">Fl&#225;vio Keidi Miyazawa</author>
+<title>A one-dimensional bin packing problem with shelf divisions.</title>
+<pages>1083-1096</pages>
+<year>2008</year>
+<volume>156</volume>
+<journal>Discret. Appl. Math.</journal>
+<number>7</number>
+<ee type="oa">https://doi.org/10.1016/j.dam.2007.05.053</ee>
+<url>db/journals/dam/dam156.html#XavierM08</url>
+</article>
+</r>
+<r><article key="journals/eor/CintraMWX08" mdate="2020-10-26">
+<author orcid="0000-0003-4701-8067" pid="52/5106">G. F. Cintra</author>
+<author orcid="0000-0002-1067-6421" pid="m/FlavioKeidiMiyazawa">Fl&#225;vio Keidi Miyazawa</author>
+<author orcid="0000-0002-8229-3139" pid="49/4632">Yoshiko Wakabayashi</author>
+<author orcid="0000-0001-6030-2682" pid="00/4728">E. C. Xavier</author>
+<title>Algorithms for two-dimensional cutting stock and strip packing problems using dynamic programming and column generation.</title>
+<pages>61-85</pages>
+<year>2008</year>
+<volume>191</volume>
+<journal>Eur. J. Oper. Res.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.ejor.2007.08.007</ee>
+<url>db/journals/eor/eor191.html#CintraMWX08</url>
+</article>
+</r>
+<r><article key="journals/tcs/XavierM08" mdate="2021-02-17">
+<author orcid="0000-0001-6030-2682" pid="00/4728">E. C. Xavier</author>
+<author orcid="0000-0002-1067-6421" pid="m/FlavioKeidiMiyazawa">Fl&#225;vio Keidi Miyazawa</author>
+<title>The class constrained bin packing problem with applications to video-on-demand.</title>
+<pages>240-259</pages>
+<year>2008</year>
+<volume>393</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-3</number>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2008.01.001</ee>
+<url>db/journals/tcs/tcs393.html#XavierM08</url>
+</article>
+</r>
+<r><article key="journals/eor/CintraMWX07" mdate="2020-10-26">
+<author orcid="0000-0003-4701-8067" pid="52/5106">G. F. Cintra</author>
+<author orcid="0000-0002-1067-6421" pid="m/FlavioKeidiMiyazawa">Fl&#225;vio Keidi Miyazawa</author>
+<author orcid="0000-0002-8229-3139" pid="49/4632">Yoshiko Wakabayashi</author>
+<author orcid="0000-0001-6030-2682" pid="00/4728">E. C. Xavier</author>
+<title>A note on the approximability of cutting stock problems.</title>
+<pages>1328-1332</pages>
+<year>2007</year>
+<volume>183</volume>
+<journal>Eur. J. Oper. Res.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.ejor.2005.09.053</ee>
+<url>db/journals/eor/eor183.html#CintraMWX07</url>
+</article>
+</r>
+<r><article key="journals/tcs/XavierM06" mdate="2021-02-17">
+<author orcid="0000-0001-6030-2682" pid="00/4728">E. C. Xavier</author>
+<author orcid="0000-0002-1067-6421" pid="m/FlavioKeidiMiyazawa">Fl&#225;vio Keidi Miyazawa</author>
+<title>Approximation schemes for knapsack problems with shelf divisions.</title>
+<pages>71-84</pages>
+<year>2006</year>
+<volume>352</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-3</number>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2005.10.036</ee>
+<url>db/journals/tcs/tcs352.html#XavierM06</url>
+</article>
+</r>
+<r><inproceedings key="conf/cocoon/XavierM06" mdate="2017-05-23">
+<author pid="00/4728">E. C. Xavier</author>
+<author pid="m/FlavioKeidiMiyazawa">Fl&#225;vio Keidi Miyazawa</author>
+<title>The Class Constrained Bin Packing Problem with Applications to Video-on-Demand.</title>
+<pages>439-448</pages>
+<year>2006</year>
+<crossref>conf/cocoon/2006</crossref>
+<booktitle>COCOON</booktitle>
+<ee>https://doi.org/10.1007/11809678_46</ee>
+<url>db/conf/cocoon/cocoon2006.html#XavierM06</url>
+</inproceedings>
+</r>
+<r><article key="journals/endm/XavierM05" mdate="2020-02-20">
+<author pid="00/4728">E. C. Xavier</author>
+<author pid="m/FlavioKeidiMiyazawa">Fl&#225;vio Keidi Miyazawa</author>
+<title>A one-dimensional bin packing problem with shelf divisions.</title>
+<pages>329-335</pages>
+<year>2005</year>
+<volume>19</volume>
+<journal>Electron. Notes Discret. Math.</journal>
+<ee>https://doi.org/10.1016/j.endm.2005.05.044</ee>
+<url>db/journals/endm/endm19.html#XavierM05</url>
+</article>
+</r>
+<coauthors n="44" nc="2">
+<co c="0"><na f="a/Amorim:Pedro" pid="67/3646">Pedro Amorim</na></co>
+<co c="0"><na f="a/Andrioni:Alessandro" pid="130/3755">Alessandro Andrioni</na></co>
+<co c="0" n="2"><na f="a/Azevedo:Rodolfo" pid="73/1601">Rodolfo Azevedo</na><na>Rodolfo Jardim de Azevedo</na></co>
+<co c="0"><na f="b/Bezerra:F=aacute=bio_de_Lima" pid="84/5979">F&#225;bio de Lima Bezerra</na></co>
+<co c="0"><na f="b/Bogue:Eduardo_T=" pid="148/6172">Eduardo T. Bogue</na></co>
+<co c="0"><na f="b/Borges:Yulle_G=_F=" pid="267/3035">Yulle G. F. Borges</na></co>
+<co c="0"><na f="b/Borin:Edson" pid="55/608">Edson Borin</na></co>
+<co c="0"><na f="b/Borin:Juliana_Freitag" pid="82/3568">Juliana Freitag Borin</na></co>
+<co c="0"><na f="c/Centoducatte:Paulo" pid="59/1511">Paulo Centoducatte</na></co>
+<co c="0"><na f="c/Cintra:G=_F=" pid="52/5106">G. F. Cintra</na></co>
+<co c="0"><na f="c/Crepaldi:Thiago" pid="224/0920">Thiago Crepaldi</na></co>
+<co c="0"><na f="c/Curcio:Eduardo" pid="178/4630">Eduardo Curcio</na></co>
+<co c="0"><na f="d/Drummond:Andr=eacute=_C=" pid="72/6853">Andr&#233; C. Drummond</na></co>
+<co c="0"><na f="e/Ecco:Leonardo_Luiz" pid="08/7641">Leonardo Luiz Ecco</na></co>
+<co c="0"><na f="f/Felice:M=aacute=rio_C=eacute=sar_San" pid="143/3655">M&#225;rio C&#233;sar San Felice</na></co>
+<co c="0"><na f="f/Figueiredo:Gustavo_B=" pid="29/2875">Gustavo B. Figueiredo</na></co>
+<co c="0"><na f="f/Fonseca:Nelson_L=_S=_da" pid="f/NelsonLSdaFonseca">Nelson L. S. da Fonseca</na></co>
+<co c="0"><na f="f/Freire:Alexandre_S=" pid="83/8614">Alexandre S. Freire</na></co>
+<co c="0"><na f="h/Hirata:Alexre_T=" pid="230/1813">Alexre T. Hirata</na></co>
+<co c="0"><na f="h/Hokama:Pedro_Henrique_Del_Bianco" pid="174/3122">Pedro Henrique Del Bianco Hokama</na></co>
+<co c="0"><na f="l/Lintzmayer:Carla_Negri" pid="125/1597">Carla Negri Lintzmayer</na></co>
+<co c="0"><na f="l/Lopes:Bruno_Cardoso" pid="72/7641">Bruno Cardoso Lopes</na></co>
+<co c="0"><na f="m/Miyazawa:Fl=aacute=vio_Keidi" pid="m/FlavioKeidiMiyazawa">Fl&#225;vio Keidi Miyazawa</na></co>
+<co c="0"><na f="m/Moura:Phablo_F=_S=" pid="57/10043">Phablo F. S. Moura</na></co>
+<co c="0"><na f="o/Oliveira:Bruno_A=" pid="394/0231">Bruno A. Oliveira</na></co>
+<co c="0"><na f="p/Pannain:Ricardo" pid="20/2982">Ricardo Pannain</na></co>
+<co c="0"><na f="p/Peixoto:Robson_R=_S=" pid="90/10522">Robson R. S. Peixoto</na></co>
+<co c="0"><na f="p/Pereira:Vinicius_N=_G=" pid="221/3361">Vinicius N. G. Pereira</na></co>
+<co c="-1"><na f="p/P=oacute=voa:Marcelo_G=" pid="219/6941">Marcelo G. P&#243;voa</na></co>
+<co c="0"><na f="q/Queiroz:Thiago_Alves_de" pid="132/7104">Thiago Alves de Queiroz</na></co>
+<co c="0"><na f="q/Quispe:Kent_E=_Yucra" pid="225/4078">Kent E. Yucra Quispe</na></co>
+<co c="0" n="2"><na f="r/Rios:Brenner_H=_O=" pid="202/8289">Brenner H. O. Rios</na><na>Brenner Humberto Ojeda Rios</na></co>
+<co c="1"><na f="r/Rodrigues:F=eacute=lix_Carvalho" pid="186/3754">F&#233;lix Carvalho Rodrigues</na></co>
+<co c="-1"><na f="s/Santos:Douglas_Oliveira" pid="133/1983">Douglas Oliveira Santos</na></co>
+<co c="0"><na f="s/Santos:Maria_Jo=atilde=o" pid="88/3988">Maria Jo&#227;o Santos</na></co>
+<co c="0"><na f="s/Santos:Rafael_F=" pid="58/9383">Rafael F. Santos</na></co>
+<co c="1"><na f="s/Sch=auml=fer:Guido" pid="s/GuidoSchafer">Guido Sch&#228;fer</na></co>
+<co c="0"><na f="s/Schouery:Rafael_C=_S=" pid="196/0126">Rafael C. S. Schouery</na></co>
+<co c="0" n="2"><na f="s/Silveira:Jefferson_L=_M=_da" pid="02/9926">Jefferson L. M. da Silveira</na><na>Jefferson Luiz Mois&#233;s da Silveira</na></co>
+<co c="0"><na f="s/Souza:Cid_C=_de" pid="42/819">Cid C. de Souza</na></co>
+<co c="-1"><na f="t/Twigg:Andrew" pid="86/2480">Andrew Twigg</na></co>
+<co c="0"><na f="v/Valle:Aline_M=_Del" pid="117/6202">Aline M. Del Valle</na></co>
+<co c="0"><na f="w/Wainer:Jacques" pid="73/4164">Jacques Wainer</na></co>
+<co c="0"><na f="w/Wakabayashi:Yoshiko" pid="49/4632">Yoshiko Wakabayashi</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<dblpperson name="Dinani Gomes Amorim" pid="80/2986" n="4">
+<person key="homepages/80/2986" mdate="2018-10-25">
+<author pid="80/2986">Dinani Gomes Amorim</author>
+<author pid="80/2986">Dinani Gomes</author>
+</person>
+<r><article key="journals/jmlr/DelgadoCBA14" mdate="2022-06-02">
+<author pid="40/7005">Manuel Fern&#225;ndez Delgado</author>
+<author pid="83/35">Eva Cernadas</author>
+<author pid="88/2737">Sen&#233;n Barro</author>
+<author pid="80/2986">Dinani Gomes Amorim</author>
+<title>Do we need hundreds of classifiers to solve real world classification problems?</title>
+<pages>3133-3181</pages>
+<year>2014</year>
+<volume>15</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<number>1</number>
+<ee>https://dl.acm.org/doi/10.5555/2627435.2697065</ee>
+<url>db/journals/jmlr/jmlr15.html#DelgadoCBA14</url>
+</article>
+</r>
+<r><article key="journals/tnn/AmorimDA07" mdate="2019-10-19">
+<author pid="80/2986">Dinani Gomes Amorim</author>
+<author orcid="0000-0001-5483-9424" pid="40/7005">Manuel Fern&#225;ndez Delgado</author>
+<author pid="88/2737">Sen&#233;n Barro Ameneiro</author>
+<title>Polytope ARTMAP: Pattern Classification Without Vigilance Based on General Geometry Categories.</title>
+<pages>1306-1325</pages>
+<year>2007</year>
+<volume>18</volume>
+<journal>IEEE Trans. Neural Networks</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TNN.2007.894036</ee>
+<ee>https://www.wikidata.org/entity/Q51896149</ee>
+<url>db/journals/tnn/tnn18.html#AmorimDA07</url>
+</article>
+</r>
+<r><inproceedings key="conf/caepia/GomesDB05" mdate="2017-05-23">
+<author pid="80/2986">Dinani Gomes</author>
+<author pid="40/7005">Manuel Fern&#225;ndez Delgado</author>
+<author pid="88/2737">Sen&#233;n Barro</author>
+<title>Internal Categories with Irregular Geometry and Overlapping in ART Networks.</title>
+<pages>291-300</pages>
+<year>2005</year>
+<crossref>conf/caepia/2005</crossref>
+<booktitle>CAEPIA</booktitle>
+<ee>https://doi.org/10.1007/11881216_31</ee>
+<url>db/conf/caepia/caepia2005.html#GomesDB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/GomesDB05" mdate="2025-03-03">
+<author pid="80/2986">Dinani Gomes</author>
+<author orcid="0000-0001-5483-9424" pid="40/7005">Manuel Fern&#225;ndez Delgado</author>
+<author pid="88/2737">Sen&#233;n Barro</author>
+<title>A vigilance-free ART network with general geometry internal categories.</title>
+<pages>463-468</pages>
+<year>2005</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2005.1555875</ee>
+<crossref>conf/ijcnn/2005</crossref>
+<url>db/conf/ijcnn/ijcnn2005.html#GomesDB05</url>
+<stream>streams/conf/ijcnn</stream>
+</inproceedings>
+</r>
+<coauthors n="3" nc="1">
+<co c="0" n="2"><na f="b/Barro:Sen=eacute=n" pid="88/2737">Sen&#233;n Barro</na><na>Sen&#233;n Barro Ameneiro</na></co>
+<co c="0"><na f="c/Cernadas:Eva" pid="83/35">Eva Cernadas</na></co>
+<co c="0"><na f="d/Delgado:Manuel_Fern=aacute=ndez" pid="40/7005">Manuel Fern&#225;ndez Delgado</na></co>
+</coauthors>
+</dblpperson>
+

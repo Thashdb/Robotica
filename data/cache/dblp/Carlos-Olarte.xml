@@ -1,0 +1,1396 @@
+<?xml version="1.0"?>
+<dblpperson name="Carlos Olarte" pid="o/CarlosOlarte" n="95">
+<person key="homepages/o/CarlosOlarte" mdate="2025-05-13">
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="o/CarlosOlarte">Carlos Alberto Olarte</author>
+<note type="affiliation">Sorbonne Paris North University, France</note>
+<note label="former" type="affiliation">&#201;cole Polytechnique, Paris, France</note>
+<url>http://www.lix.polytechnique.fr/~colarte/colarte/Home.html</url>
+<url>https://zbmath.org/authors/?q=ai:olarte.carlos</url>
+<url>https://orcid.org/0000-0002-7264-7773</url>
+<url>https://www.wikidata.org/entity/Q58232836</url>
+</person>
+<r><inproceedings key="conf/csl/PimentelOLFF25" mdate="2025-02-04">
+<author pid="53/5809">Elaine Pimentel</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="205/4383">Timo Lang</author>
+<author pid="303/4112">Robert Freiman</author>
+<author pid="f/CGFermuller">Christian G. Ferm&#252;ller</author>
+<title>Playing with Modalities (Invited Talk).</title>
+<pages>4:1-4:20</pages>
+<year>2025</year>
+<booktitle>CSL</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.CSL.2025.4</ee>
+<crossref>conf/csl/2025</crossref>
+<url>db/conf/csl/csl2025.html#PimentelOLFF25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nfm/OlarteORR25" mdate="2025-06-16">
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="322/3852">Daniel Osorio</author>
+<author pid="144/7593">Carlos Ram&#237;rez 0002</author>
+<author pid="56/2819">Camilo Rocha</author>
+<title>Algorithmic Analysis of Event-B in Rewriting Logic.</title>
+<pages>275-293</pages>
+<year>2025</year>
+<booktitle>NFM</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-93706-4_16</ee>
+<crossref>conf/nfm/2025</crossref>
+<url>db/conf/nfm/nfm2025.html#OlarteORR25</url>
+<stream>streams/conf/nfm</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2504-17605" mdate="2025-05-23">
+<author pid="g/FabioGadducci">Fabio Gadducci</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="v/FDValencia">Frank Valencia</author>
+<title>A Constraint Opinion Model.</title>
+<year>2025</year>
+<month>April</month>
+<volume>abs/2504.17605</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2504.17605</ee>
+<url>db/journals/corr/corr2504.html#abs-2504-17605</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/fuin/AriasBOOP24" mdate="2024-10-02">
+<author pid="157/6674">Jaime Arias 0001</author>
+<author pid="03/7567">Kyungmin Bae</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="11/2202">Peter Csaba &#214;lveczky</author>
+<author pid="p/LaurePetrucci">Laure Petrucci</author>
+<title>A Rewriting-logic-with-SMT-based Formal Analysis and Parameter Synthesis Framework for Parametric Time Petri Nets.</title>
+<pages>261-312</pages>
+<year>2024</year>
+<volume>192</volume>
+<journal>Fundam. Informaticae</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.3233/FI-242195</ee>
+<url>db/journals/fuin/fuin192.html#AriasBOOP24</url>
+<stream>streams/journals/fuin</stream>
+</article>
+</r>
+<r><article key="journals/scp/AriasBOOPR24" mdate="2025-05-01">
+<author orcid="0000-0003-3019-4902" pid="157/6674">Jaime Arias 0001</author>
+<author pid="03/7567">Kyungmin Bae</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="11/2202">Peter Csaba &#214;lveczky</author>
+<author pid="p/LaurePetrucci">Laure Petrucci</author>
+<author pid="334/9041">Fredrik R&#248;mming</author>
+<title>Symbolic analysis and parameter synthesis for networks of parametric timed automata with global variables using Maude and SMT solving.</title>
+<pages>103074</pages>
+<year>2024</year>
+<volume>233</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee>https://doi.org/10.1016/j.scico.2023.103074</ee>
+<url>db/journals/scp/scp233.html#AriasBOOPR24</url>
+</article>
+</r>
+<r><article key="journals/sttt/BallisBFO24" mdate="2025-03-07">
+<author orcid="0000-0002-1048-1739" pid="66/6512">Demis Ballis</author>
+<author orcid="0000-0002-4455-2419" pid="25/3951">Linda Brodo</author>
+<author orcid="0000-0002-6659-3828" pid="87/2367">Moreno Falaschi</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<title>ccReact: a rewriting framework for the formal analysis of reaction systems.</title>
+<pages>707-725</pages>
+<year>2024</year>
+<month>December</month>
+<volume>26</volume>
+<journal>Int. J. Softw. Tools Technol. Transf.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s10009-024-00772-z</ee>
+<url>db/journals/sttt/sttt26.html#BallisBFO24</url>
+<stream>streams/journals/sttt</stream>
+</article>
+</r>
+<r><article key="journals/tr/AriasOPMPS24" mdate="2025-01-19">
+<author orcid="0000-0003-3019-4902" pid="157/6674">Jaime Arias 0001</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0003-3154-5268" pid="p/LaurePetrucci">Laure Petrucci</author>
+<author orcid="0000-0001-5141-3276" pid="80/2775">Lukasz Masko</author>
+<author orcid="0000-0001-6477-4863" pid="58/2583">Wojciech Penczek</author>
+<author orcid="0000-0002-4393-3447" pid="226/8969">Teofil Sidoruk</author>
+<title>Optimal Scheduling of Agents in ADTrees: Specialized Algorithm and Declarative Models.</title>
+<pages>861-875</pages>
+<year>2024</year>
+<month>June</month>
+<volume>73</volume>
+<journal>IEEE Trans. Reliab.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TR.2024.3354459</ee>
+<ee>https://www.wikidata.org/entity/Q129028167</ee>
+<url>db/journals/tr/tr73.html#AriasOPMPS24</url>
+</article>
+</r>
+<r><inproceedings key="conf/cmsb/BallisBFO24" mdate="2024-10-03">
+<author orcid="0000-0002-1048-1739" pid="66/6512">Demis Ballis</author>
+<author orcid="0000-0002-4455-2419" pid="25/3951">Linda Brodo</author>
+<author orcid="0000-0002-6659-3828" pid="87/2367">Moreno Falaschi</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<title>Process Calculi and Rewriting Techniques for Analyzing Reaction Systems.</title>
+<pages>1-18</pages>
+<year>2024</year>
+<booktitle>CMSB</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-71671-3_1</ee>
+<crossref>conf/cmsb/2024</crossref>
+<url>db/conf/cmsb/cmsb2024.html#BallisBFO24</url>
+<stream>streams/conf/cmsb</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lpar/FreimanOPF24" mdate="2024-06-25">
+<author pid="303/4112">Robert Freiman</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="53/5809">Elaine Pimentel</author>
+<author pid="f/CGFermuller">Christian G. Ferm&#252;ller</author>
+<title>Reasoning About Group Polarization: From Semantic Games to Sequent Systems.</title>
+<pages>70-87</pages>
+<year>2024</year>
+<booktitle>LPAR</booktitle>
+<ee type="oa">https://doi.org/10.29007/wptz</ee>
+<crossref>conf/lpar/2024</crossref>
+<url>db/conf/lpar/lpar2024.html#FreimanOPF24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppdp/0001OPPS24" mdate="2024-10-22">
+<author orcid="0000-0003-3019-4902" pid="157/6674">Jaime Arias 0001</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0001-6477-4863" pid="58/2583">Wojciech Penczek</author>
+<author orcid="0000-0003-3154-5268" pid="p/LaurePetrucci">Laure Petrucci</author>
+<author orcid="0000-0002-4393-3447" pid="226/8969">Teofil Sidoruk</author>
+<title>Model Checking and Synthesis for Strategic Timed CTL using Strategies in Rewriting Logic.</title>
+<pages>10:1-10:14</pages>
+<year>2024</year>
+<booktitle>PPDP</booktitle>
+<ee>https://doi.org/10.1145/3678232.3678240</ee>
+<crossref>conf/ppdp/2024</crossref>
+<url>db/conf/ppdp/ppdp2024.html#0001OPPS24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wrla/OlarteRRV24" mdate="2025-03-03">
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0002-6488-8649" pid="144/7593">Carlos Ram&#237;rez 0002</author>
+<author pid="56/2819">Camilo Rocha</author>
+<author pid="v/FDValencia">Frank Valencia</author>
+<title>Unified Opinion Dynamic Modeling as Concurrent Set Relations in Rewriting Logic.</title>
+<pages>104-123</pages>
+<year>2024</year>
+<booktitle>WRLA</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-65941-6_6</ee>
+<crossref>conf/wrla/2024</crossref>
+<url>db/conf/wrla/wrla2024.html#OlarteRRV24</url>
+<stream>streams/conf/wrla</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wrla/OlarteO24" mdate="2024-08-08">
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="11/2202">Peter Csaba &#214;lveczky</author>
+<title>Timed Strategies for Real-Time Rewrite Theories.</title>
+<pages>124-144</pages>
+<year>2024</year>
+<booktitle>WRLA</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-65941-6_7</ee>
+<crossref>conf/wrla/2024</crossref>
+<url>db/conf/wrla/wrla2024.html#OlarteO24</url>
+<stream>streams/conf/wrla</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-01884" mdate="2024-01-23">
+<author pid="157/6674">Jaime Arias 0001</author>
+<author pid="03/7567">Kyungmin Bae</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="11/2202">Peter Csaba &#214;lveczky</author>
+<author pid="p/LaurePetrucci">Laure Petrucci</author>
+<title>A rewriting-logic-with-SMT-based formal analysis and parameter synthesis framework for parametric time Petri nets.</title>
+<year>2024</year>
+<volume>abs/2401.01884</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.01884</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-01884</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-09021" mdate="2024-09-20">
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="144/7593">Carlos Ram&#237;rez 0002</author>
+<author pid="56/2819">Camilo Rocha</author>
+<author pid="v/FDValencia">Frank Valencia</author>
+<title>Unified Opinion Dynamic Modeling as Concurrent Set Relations in Rewriting Logic.</title>
+<year>2024</year>
+<volume>abs/2402.09021</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.09021</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-09021</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-08920" mdate="2024-04-05">
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="11/2202">Peter Csaba &#214;lveczky</author>
+<title>Timed Strategies for Real-Time Rewrite Theories.</title>
+<year>2024</year>
+<volume>abs/2403.08920</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.08920</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-08920</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2404-11445" mdate="2024-08-04">
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0002-7113-0801" pid="53/5809">Elaine Pimentel</author>
+<title>Multi-modalities and non-commutativity/associativity in functorial linear logic: a case study.</title>
+<year>2024</year>
+<volume>abs/2404.11445</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2404.11445</ee>
+<url>db/journals/corr/corr2404.html#abs-2404-11445</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2405-01322" mdate="2024-06-09">
+<author pid="303/4112">Robert Freiman</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="53/5809">Elaine Pimentel</author>
+<author pid="f/CGFermuller">Christian G. Ferm&#252;ller</author>
+<title>Reasoning About Group Polarization: From Semantic Games to Sequent Systems.</title>
+<year>2024</year>
+<volume>abs/2405.01322</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2405.01322</ee>
+<url>db/journals/corr/corr2405.html#abs-2405-01322</url>
+</article>
+</r>
+<r><article key="journals/jlap/OlartePR23" mdate="2023-08-28">
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0002-7113-0801" pid="53/5809">Elaine Pimentel</author>
+<author orcid="0000-0003-4356-7704" pid="56/2819">Camilo Rocha</author>
+<title>A rewriting logic approach to specification, proof-search, and meta-proofs in sequent systems.</title>
+<pages>100827</pages>
+<year>2023</year>
+<volume>130</volume>
+<journal>J. Log. Algebraic Methods Program.</journal>
+<ee type="oa">https://doi.org/10.1016/j.jlamp.2022.100827</ee>
+<ee>https://www.wikidata.org/entity/Q115188990</ee>
+<url>db/journals/jlap/jlap130.html#OlartePR23</url>
+</article>
+</r>
+<r><inproceedings key="conf/apn/AriasBOOPR23" mdate="2023-06-02">
+<author orcid="0000-0003-3019-4902" pid="157/6674">Jaime Arias 0001</author>
+<author orcid="0000-0002-6430-5175" pid="03/7567">Kyungmin Bae</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0002-0708-3721" pid="11/2202">Peter Csaba &#214;lveczky</author>
+<author orcid="0000-0003-3154-5268" pid="p/LaurePetrucci">Laure Petrucci</author>
+<author orcid="0000-0001-7545-4662" pid="334/9041">Fredrik R&#248;mming</author>
+<title>Symbolic Analysis and Parameter Synthesis for Time Petri Nets Using Maude and SMT Solving.</title>
+<pages>369-392</pages>
+<year>2023</year>
+<booktitle>Petri Nets</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-33620-1_20</ee>
+<crossref>conf/apn/2023</crossref>
+<url>db/conf/apn/pn2023.html#AriasBOOPR23</url>
+</inproceedings>
+</r>
+<r><proceedings key="journals/corr/abs-2311-09918" mdate="2023-12-22">
+<editor pid="00/5910">Alberto Ciaffaglione</editor>
+<editor pid="o/CarlosOlarte">Carlos Olarte</editor>
+<title>Proceedings of the 18th International Workshop on Logical Frameworks and Meta-Languages: Theory and Practice, LFMTP@FSCD 2023, Rome, Italy, 2nd July 2023.</title>
+<booktitle>LFMTP@FSCD</booktitle>
+<year>2023</year>
+<series href="db/series/eptcs/index.html">EPTCS</series>
+<volume>396</volume>
+<url>db/series/eptcs/eptcs396.html</url>
+<ee type="oa">https://doi.org/10.4204/EPTCS.396</ee>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.09918</ee>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-08929" mdate="2023-03-20">
+<author pid="157/6674">Jaime Arias 0001</author>
+<author pid="03/7567">Kyungmin Bae</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="11/2202">Peter Csaba &#214;lveczky</author>
+<author pid="p/LaurePetrucci">Laure Petrucci</author>
+<author pid="334/9041">Fredrik R&#248;mming</author>
+<title>Symbolic Analysis and Parameter Synthesis for Time Petri Nets Using Maude and SMT Solving.</title>
+<year>2023</year>
+<volume>abs/2303.08929</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.08929</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-08929</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-04616" mdate="2023-05-12">
+<author pid="157/6674">Jaime Arias 0001</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="p/LaurePetrucci">Laure Petrucci</author>
+<author pid="80/2775">Lukasz Masko</author>
+<author pid="58/2583">Wojciech Penczek</author>
+<author pid="226/8969">Teofil Sidoruk</author>
+<title>Optimal Scheduling of Agents in ADTrees: Specialised Algorithm and Declarative Models.</title>
+<year>2023</year>
+<volume>abs/2305.04616</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.04616</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-04616</url>
+</article>
+</r>
+<r><article key="journals/mscs/XavierOP22" mdate="2023-04-29">
+<author pid="183/5022">Bruno Xavier</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0002-7113-0801" pid="53/5809">Elaine Pimentel</author>
+<title>A linear logic framework for multimodal logics.</title>
+<pages>1176-1204</pages>
+<year>2022</year>
+<month>October</month>
+<volume>32</volume>
+<journal>Math. Struct. Comput. Sci.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1017/S0960129522000366</ee>
+<url>db/journals/mscs/mscs32.html#XavierOP22</url>
+</article>
+</r>
+<r><inproceedings key="conf/ftscs/AriasBOOPR22" mdate="2025-01-19">
+<author orcid="0000-0003-3019-4902" pid="157/6674">Jaime Arias 0001</author>
+<author pid="03/7567">Kyungmin Bae</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="11/2202">Peter Csaba &#214;lveczky</author>
+<author pid="p/LaurePetrucci">Laure Petrucci</author>
+<author pid="334/9041">Fredrik R&#248;mming</author>
+<title>Rewriting Logic Semantics and Symbolic Analysis for Parametric Timed Automata.</title>
+<pages>3-15</pages>
+<year>2022</year>
+<booktitle>FTSCS</booktitle>
+<ee>https://doi.org/10.1145/3563822.3569923</ee>
+<ee>https://www.wikidata.org/entity/Q131113047</ee>
+<crossref>conf/ftscs/2022</crossref>
+<url>db/conf/ftscs/ftscs2022.html#AriasBOOPR22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-05813" mdate="2022-06-20">
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="56/2819">Camilo Rocha</author>
+<author pid="322/3852">Daniel Osorio</author>
+<title>A Rewriting Logic Semantics and Statistical Analysis for Probabilistic Event-B.</title>
+<year>2022</year>
+<volume>abs/2206.05813</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.05813</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-05813</url>
+</article>
+</r>
+<r><article key="journals/mscs/FeltyOX21" mdate="2022-01-21">
+<author pid="f/AmyPFelty">Amy P. Felty</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="183/5022">Bruno Xavier</author>
+<title>A focused linear logical framework and its application to metatheory of object logics.</title>
+<pages>312-340</pages>
+<year>2021</year>
+<volume>31</volume>
+<journal>Math. Struct. Comput. Sci.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1017/S0960129521000323</ee>
+<url>db/journals/mscs/mscs31.html#FeltyOX21</url>
+</article>
+</r>
+<r><inproceedings key="conf/fscd/PimentelON21" mdate="2022-12-07">
+<author orcid="0000-0002-7113-0801" pid="53/5809">Elaine Pimentel</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0003-4089-1218" pid="26/7042">Vivek Nigam</author>
+<title>Process-As-Formula Interpretation: A Substructural Multimodal View (Invited Talk).</title>
+<pages>3:1-3:21</pages>
+<year>2021</year>
+<booktitle>FSCD</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.FSCD.2021.3</ee>
+<crossref>conf/fscd/2021</crossref>
+<url>db/conf/fscd/fscd2021.html#PimentelON21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/abs-2110-03964" mdate="2024-10-06">
+<author orcid="0000-0002-1959-8730" pid="36/8280">Daniele Nantes</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="08/6803">Daniel Ventura</author>
+<title>A subexponential view of domains in session types.</title>
+<booktitle>LSFA</booktitle>
+<year>2021</year>
+<pages>93-111</pages>
+<crossref>journals/corr/abs-2204-03415</crossref>
+<ee type="oa">https://doi.org/10.4204/EPTCS.357.7</ee>
+<ee type="oa">https://arxiv.org/abs/2110.03964</ee>
+<url>db/series/eptcs/eptcs357.html#abs-2110-03964</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2101-03113" mdate="2021-01-21">
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="53/5809">Elaine Pimentel</author>
+<author pid="56/2819">Camilo Rocha</author>
+<title>A Rewriting Logic Approach to Specification, Proof-search, and Meta-proofs in Sequent Systems.</title>
+<year>2021</year>
+<volume>abs/2101.03113</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.03113</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-03113</url>
+</article>
+</r>
+<r><article key="journals/fuin/BrodoO20" mdate="2021-04-09">
+<author pid="25/3951">Linda Brodo</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<title>Verification Techniques for a Network Algebra.</title>
+<pages>1-38</pages>
+<year>2020</year>
+<volume>172</volume>
+<journal>Fundam. Informaticae</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/FI-2020-1890</ee>
+<url>db/journals/fuin/fuin172.html#BrodoO20</url>
+</article>
+</r>
+<r><article key="journals/fuin/FalaschiGOP20" mdate="2022-04-09">
+<author orcid="0000-0002-6659-3828" pid="87/2367">Moreno Falaschi</author>
+<author orcid="0000-0003-0609-8662" pid="g/MGabbrielli">Maurizio Gabbrielli</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0003-4597-7002" pid="p/CPalamidessi">Catuscia Palamidessi</author>
+<title>Dynamic Slicing for Concurrent Constraint Languages.</title>
+<pages>331-357</pages>
+<year>2020</year>
+<volume>177</volume>
+<journal>Fundam. Informaticae</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.3233/FI-2020-1992</ee>
+<url>db/journals/fuin/fuin177.html#FalaschiGOP20</url>
+</article>
+</r>
+<r><article key="journals/siglog/AlvimCOV20" mdate="2025-01-19">
+<author pid="84/8371">M&#225;rio S. Alvim</author>
+<author pid="32/858">Konstantinos Chatzikokolakis 0001</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="v/FDValencia">Frank D. Valencia</author>
+<title>Catuscia Palamidessi: a journey from logic and concurrency to security and privacy.</title>
+<pages>47-50</pages>
+<year>2020</year>
+<volume>7</volume>
+<journal>ACM SIGLOG News</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3385634.3385640</ee>
+<ee>https://www.wikidata.org/entity/Q130877139</ee>
+<url>db/journals/siglog/siglog7.html#AlvimCOV20</url>
+</article>
+</r>
+<r><inproceedings key="conf/lsfa/BrodoO20" mdate="2022-08-16">
+<author pid="25/3951">Linda Brodo</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<title>A Constraint-based Language for Multiparty Interactions.</title>
+<pages>25-50</pages>
+<year>2020</year>
+<booktitle>LSFA</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2020.08.003</ee>
+<ee>https://www.wikidata.org/entity/Q113317319</ee>
+<crossref>conf/lsfa/2020</crossref>
+<url>db/conf/lsfa/lsfa2020.html#BrodoO20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lsfa/OlartePX20" mdate="2023-06-26">
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0002-7113-0801" pid="53/5809">Elaine Pimentel</author>
+<author pid="183/5022">Bruno Xavier</author>
+<title>A Fresh View of Linear Logic as a Logical Framework.</title>
+<pages>143-165</pages>
+<year>2020</year>
+<booktitle>LSFA</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2020.08.008</ee>
+<ee>https://www.wikidata.org/entity/Q113317314</ee>
+<crossref>conf/lsfa/2020</crossref>
+<url>db/conf/lsfa/lsfa2020.html#OlartePX20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sle/MedeirosO20" mdate="2022-01-08">
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Queiroz de Medeiros</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<title>A semantic framework for PEGs.</title>
+<pages>230-245</pages>
+<year>2020</year>
+<booktitle>SLE</booktitle>
+<ee>https://doi.org/10.1145/3426425.3426944</ee>
+<crossref>conf/sle/2020</crossref>
+<url>db/conf/sle/sle2020.html#MedeirosO20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-07571" mdate="2020-07-22">
+<author pid="270/3741">Abdorrahim Bahrami</author>
+<author pid="23/4737">Elisabetta De Maria</author>
+<author pid="21/5646">Jo&#235;lle Despeyroux</author>
+<author pid="f/AmyPFelty">Amy P. Felty</author>
+<author pid="l/PietroLio">Pietro Li&#243;</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<title>Computational Logic for Biomedicine and Neurosciences.</title>
+<year>2020</year>
+<volume>abs/2007.07571</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.07571</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-07571</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-04360" mdate="2023-09-24">
+<author pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<title>A Semantic Framework for PEGs.</title>
+<year>2020</year>
+<volume>abs/2011.04360</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.04360</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-04360</url>
+</article>
+</r>
+<r><article key="journals/mscs/ChaudhuriDOP19" mdate="2025-01-19">
+<author orcid="0000-0003-2938-547X" pid="35/6012">Kaustuv Chaudhuri</author>
+<author pid="21/5646">Jo&#235;lle Despeyroux</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0002-7113-0801" pid="53/5809">Elaine Pimentel</author>
+<title>Hybrid linear logic, revisited.</title>
+<pages>1151-1176</pages>
+<year>2019</year>
+<volume>29</volume>
+<journal>Math. Struct. Comput. Sci.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1017/S0960129518000439</ee>
+<ee>https://www.wikidata.org/entity/Q128007534</ee>
+<url>db/journals/mscs/mscs29.html#ChaudhuriDOP19</url>
+</article>
+</r>
+<r><inproceedings key="conf/tableaux/LangOPF19" mdate="2021-04-09">
+<author pid="205/4383">Timo Lang</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0002-7113-0801" pid="53/5809">Elaine Pimentel</author>
+<author pid="f/CGFermuller">Christian G. Ferm&#252;ller</author>
+<title>A Game Model for Proofs with Costs.</title>
+<pages>241-258</pages>
+<year>2019</year>
+<booktitle>TABLEAUX</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-29026-9_14</ee>
+<crossref>conf/tableaux/2019</crossref>
+<url>db/conf/tableaux/tableaux2019.html#LangOPF19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/birthday/2019palamidessi" mdate="2022-04-09">
+<editor pid="84/8371">M&#225;rio S. Alvim</editor>
+<editor pid="32/858">Kostas Chatzikokolakis 0001</editor>
+<editor orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</editor>
+<editor pid="v/FDValencia">Frank Valencia</editor>
+<title>The Art of Modelling Computational Systems: A Journey from Logic and Concurrency to Security and Privacy - Essays Dedicated to Catuscia Palamidessi on the Occasion of Her 60th Birthday</title>
+<booktitle>The Art of Modelling Computational Systems</booktitle>
+<publisher>Springer</publisher>
+<year>2019</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>11760</volume>
+<isbn>978-3-030-31174-2</isbn>
+<isbn>978-3-030-31175-9</isbn>
+<ee>https://doi.org/10.1007/978-3-030-31175-9</ee>
+<url>db/conf/birthday/palamidessi2019.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/lsfa/2018" mdate="2020-02-05">
+<editor pid="90/7361">Beniamino Accattoli</editor>
+<editor pid="o/CarlosOlarte">Carlos Olarte</editor>
+<title>Proceedings of the 13th Workshop on Logical and Semantic Frameworks with Applications, LSFA 2018, Fortaleza, Brazil, September 26-28, 2018</title>
+<booktitle>LSFA</booktitle>
+<publisher>Elsevier</publisher>
+<year>2019</year>
+<series href="db/series/entcs/index.html">Electronic Notes in Theoretical Computer Science</series>
+<volume>344</volume>
+<ee>https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/344/suppl/C</ee>
+<url>db/journals/entcs/entcs344.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-11742" mdate="2019-07-01">
+<author pid="205/4383">Timo Lang</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="53/5809">Elaine Pimentel</author>
+<author pid="f/CGFermuller">Christian G. Ferm&#252;ller</author>
+<title>A Game Model for Proofs with Costs.</title>
+<year>2019</year>
+<volume>abs/1906.11742</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.11742</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-11742</url>
+</article>
+</r>
+<r><article key="journals/tplp/OlartePR18" mdate="2025-01-19">
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0002-7113-0801" pid="53/5809">Elaine Pimentel</author>
+<author orcid="0000-0001-8387-9644" pid="42/6972">Camilo Rueda</author>
+<title>A concurrent constraint programming interpretation of access permissions.</title>
+<pages>252-295</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1017/S1471068418000017</ee>
+<ee>https://www.wikidata.org/entity/Q130039380</ee>
+<url>db/journals/tplp/tplp18.html#OlartePR18</url>
+</article>
+</r>
+<r><inproceedings key="conf/lopstr/FalaschiO18" mdate="2019-04-12">
+<author orcid="0000-0002-6659-3828" pid="87/2367">Moreno Falaschi</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<title>An Assertion Language for Slicing Constraint Logic Languages.</title>
+<pages>148-165</pages>
+<year>2018</year>
+<booktitle>LOPSTR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-13838-7_9</ee>
+<crossref>conf/lopstr/2018</crossref>
+<url>db/conf/lopstr/lopstr2018.html#FalaschiO18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mlcsb/DespeyrouxFLO18" mdate="2021-04-09">
+<author pid="21/5646">Jo&#235;lle Despeyroux</author>
+<author pid="f/AmyPFelty">Amy P. Felty</author>
+<author orcid="0000-0002-0540-5053" pid="l/PietroLio">Pietro Li&#242;</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<title>A Logical Framework for Modelling Breast Cancer Progression.</title>
+<pages>121-141</pages>
+<year>2018</year>
+<booktitle>MLCSB</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-19432-1_8</ee>
+<crossref>conf/mlcsb/2018</crossref>
+<url>db/conf/mlcsb/mlcsb2018.html#DespeyrouxFLO18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wrla/OlartePR18" mdate="2021-04-09">
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0002-7113-0801" pid="53/5809">Elaine Pimentel</author>
+<author orcid="0000-0003-4356-7704" pid="56/2819">Camilo Rocha</author>
+<title>Proving Structural Properties of Sequent Systems in Rewriting Logic.</title>
+<pages>115-135</pages>
+<year>2018</year>
+<booktitle>WRLA@ETAPS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-99840-4_7</ee>
+<crossref>conf/wrla/2018</crossref>
+<url>db/conf/wrla/wrla2018.html#OlartePR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/abs-1904-06850" mdate="2025-01-19">
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0002-1078-6970" pid="p/ValeriadePaiva">Valeria de Paiva</author>
+<author orcid="0000-0002-7113-0801" pid="53/5809">Elaine Pimentel</author>
+<author pid="72/9473">Giselle Reis</author>
+<title>The ILLTP Library for Intuitionistic Linear Logic.</title>
+<booktitle>Linearity-TLLA@FLoC</booktitle>
+<year>2018</year>
+<pages>118-132</pages>
+<crossref>journals/corr/abs-1904-06159</crossref>
+<ee type="oa">https://doi.org/10.4204/EPTCS.292.7</ee>
+<ee type="oa">http://arxiv.org/abs/1904.06850</ee>
+<ee>https://www.wikidata.org/entity/Q128116093</ee>
+<url>db/series/eptcs/eptcs292.html#abs-1904-06850</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/AccattoliO19" mdate="2022-08-16">
+<author pid="90/7361">Beniamino Accattoli</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<title>Preface.</title>
+<pages>1-2</pages>
+<year>2018</year>
+<crossref>conf/lsfa/2018</crossref>
+<booktitle>LSFA</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2019.07.001</ee>
+<ee>https://www.wikidata.org/entity/Q113317464</ee>
+<url>db/journals/entcs/entcs344.html#AccattoliO19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-04695" mdate="2018-08-13">
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="53/5809">Elaine Pimentel</author>
+<author pid="42/6972">Camilo Rueda</author>
+<title>A Concurrent Constraint Programming Interpretation of Access Permissions.</title>
+<year>2018</year>
+<volume>abs/1802.04695</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.04695</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-04695</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-04867" mdate="2018-09-02">
+<author pid="87/2367">Moreno Falaschi</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<title>An Assertion language for slicing Constraint Logic Languages.</title>
+<year>2018</year>
+<volume>abs/1808.04867</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.04867</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-04867</url>
+</article>
+</r>
+<r><article key="journals/tcs/OlarteP17" mdate="2018-11-14">
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0002-7113-0801" pid="53/5809">Elaine Pimentel</author>
+<title>On concurrent behaviors and focusing in linear logic.</title>
+<pages>46-64</pages>
+<year>2017</year>
+<volume>685</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2016.08.026</ee>
+<ee>https://www.wikidata.org/entity/Q57850677</ee>
+<url>db/journals/tcs/tcs685.html#OlarteP17</url>
+</article>
+</r>
+<r><article key="journals/tcs/NigamOP17" mdate="2022-12-07">
+<author orcid="0000-0003-4089-1218" pid="26/7042">Vivek Nigam</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0002-7113-0801" pid="53/5809">Elaine Pimentel</author>
+<title>On subexponentials, focusing and modalities in concurrent systems.</title>
+<pages>35-58</pages>
+<year>2017</year>
+<volume>693</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2017.06.009</ee>
+<ee>https://www.wikidata.org/entity/Q57850691</ee>
+<url>db/journals/tcs/tcs693.html#NigamOP17</url>
+</article>
+</r>
+<r><inproceedings key="conf/lpar/LellmannOP17" mdate="2021-08-15">
+<author pid="53/9766">Bj&#246;rn Lellmann</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="53/5809">Elaine Pimentel</author>
+<title>A uniform framework for substructural logics with modalities.</title>
+<pages>435-455</pages>
+<year>2017</year>
+<booktitle>LPAR</booktitle>
+<ee type="oa">https://doi.org/10.29007/93qg</ee>
+<crossref>conf/lpar/2017</crossref>
+<url>db/conf/lpar/lpar2017.html#LellmannOP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sofsem/BrodoO17" mdate="2017-09-16">
+<author pid="25/3951">Linda Brodo</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<title>Symbolic Semantics for Multiparty Interactions in the Link-Calculus.</title>
+<pages>62-75</pages>
+<year>2017</year>
+<booktitle>SOFSEM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-51963-0_6</ee>
+<crossref>conf/sofsem/2017</crossref>
+<url>db/conf/sofsem/sofsem2017.html#BrodoO17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/XavierORN18" mdate="2022-12-07">
+<author pid="183/5022">Bruno Xavier</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="72/9473">Giselle Reis</author>
+<author orcid="0000-0003-4089-1218" pid="26/7042">Vivek Nigam</author>
+<title>Mechanizing Focused Linear Logic in Coq.</title>
+<pages>219-236</pages>
+<year>2017</year>
+<crossref>conf/lsfa/2017</crossref>
+<booktitle>LSFA</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2018.10.014</ee>
+<ee>https://www.wikidata.org/entity/Q113317501</ee>
+<url>db/journals/entcs/entcs338.html#XavierORN18</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcs/OlarteCFH16" mdate="2023-09-30">
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0003-2752-3189" pid="67/2106">Davide Chiarugi</author>
+<author orcid="0000-0002-6659-3828" pid="87/2367">Moreno Falaschi</author>
+<author orcid="0000-0003-0710-5262" pid="42/10091">Diana Hermith</author>
+<title>A proof theoretic view of spatial and temporal dependencies in biochemical systems.</title>
+<pages>25-42</pages>
+<year>2016</year>
+<volume>641</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2016.03.029</ee>
+<url>db/journals/tcs/tcs641.html#OlarteCFH16</url>
+</article>
+</r>
+<r><inproceedings key="conf/lopstr/FalaschiGOP16" mdate="2022-04-09">
+<author orcid="0000-0002-6659-3828" pid="87/2367">Moreno Falaschi</author>
+<author orcid="0000-0003-0609-8662" pid="g/MGabbrielli">Maurizio Gabbrielli</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0003-4597-7002" pid="p/CPalamidessi">Catuscia Palamidessi</author>
+<title>Slicing Concurrent Constraint Programs.</title>
+<pages>76-93</pages>
+<year>2016</year>
+<booktitle>LOPSTR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-63139-4_5</ee>
+<crossref>conf/lopstr/2016</crossref>
+<url>db/conf/lopstr/lopstr2016.html#FalaschiGOP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/OlarteR16" mdate="2019-10-19">
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0001-8387-9644" pid="42/6972">Camilo Rueda</author>
+<title>Session types for communicating systems in event-B.</title>
+<pages>1686-1693</pages>
+<year>2016</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2851613.2851836</ee>
+<crossref>conf/sac/2016</crossref>
+<url>db/conf/sac/sac2016.html#OlarteR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/CiabattoniLOP17" mdate="2020-10-26">
+<author orcid="0000-0001-6947-8772" pid="44/6796">Agata Ciabattoni</author>
+<author orcid="0000-0002-5335-1838" pid="53/9766">Bj&#246;rn Lellmann</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0002-7113-0801" pid="53/5809">Elaine Pimentel</author>
+<title>From Cut-free Calculi to Automated Deduction: The Case of Bounded Contraction.</title>
+<pages>75-93</pages>
+<year>2016</year>
+<crossref>conf/lsfa/2016</crossref>
+<booktitle>LSFA</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2017.04.006</ee>
+<ee>https://www.wikidata.org/entity/Q57850656</ee>
+<url>db/journals/entcs/entcs332.html#CiabattoniLOP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/DespeyrouxOP17" mdate="2020-02-05">
+<author pid="21/5646">Jo&#235;lle Despeyroux</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0002-7113-0801" pid="53/5809">Elaine Pimentel</author>
+<title>Hybrid and Subexponential Linear Logics.</title>
+<pages>95-111</pages>
+<year>2016</year>
+<crossref>conf/lsfa/2016</crossref>
+<booktitle>LSFA</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2017.04.007</ee>
+<ee>https://www.wikidata.org/entity/Q57850667</ee>
+<url>db/journals/entcs/entcs332.html#DespeyrouxOP17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/FalaschiGOP16" mdate="2022-04-09">
+<author pid="87/2367">Moreno Falaschi</author>
+<author pid="g/MGabbrielli">Maurizio Gabbrielli</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="p/CPalamidessi">Catuscia Palamidessi</author>
+<title>Slicing Concurrent Constraint Programs.</title>
+<year>2016</year>
+<volume>abs/1608.05252</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1608.05252</ee>
+<url>db/journals/corr/corr1608.html#FalaschiGOP16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/DespeyrouxOP16" mdate="2018-08-13">
+<author pid="21/5646">Jo&#235;lle Despeyroux</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="53/5809">Elaine Pimentel</author>
+<title>Hybrid and Subexponential Linear Logics Technical Report.</title>
+<year>2016</year>
+<volume>abs/1608.08779</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1608.08779</ee>
+<url>db/journals/corr/corr1608.html#DespeyrouxOP16</url>
+</article>
+</r>
+<r><article key="journals/bmcsb/ChiarugiFHOT15" mdate="2023-09-30">
+<author orcid="0000-0003-2752-3189" pid="67/2106">Davide Chiarugi</author>
+<author orcid="0000-0002-6659-3828" pid="87/2367">Moreno Falaschi</author>
+<author orcid="0000-0003-0710-5262" pid="42/10091">Diana Hermith</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="124/5884">Luca Torella</author>
+<title>Modelling non-Markovian dynamics in biochemical reactions.</title>
+<pages>S8</pages>
+<year>2015</year>
+<volume>9</volume>
+<journal>BMC Syst. Biol.</journal>
+<number>S-3</number>
+<ee type="oa">https://doi.org/10.1186/1752-0509-9-S3-S8</ee>
+<ee>https://www.wikidata.org/entity/Q35655712</ee>
+<url>db/journals/bmcsb/bmcsb9S.html#ChiarugiFHOT15</url>
+</article>
+</r>
+<r><article key="journals/tcs/OlartePN15" mdate="2021-02-17">
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0002-7113-0801" pid="53/5809">Elaine Pimentel</author>
+<author pid="26/7042">Vivek Nigam</author>
+<title>Subexponential concurrent constraint programming.</title>
+<pages>98-120</pages>
+<year>2015</year>
+<volume>606</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2015.06.031</ee>
+<ee>https://www.wikidata.org/entity/Q57850748</ee>
+<url>db/journals/tcs/tcs606.html#OlartePN15</url>
+</article>
+</r>
+<r><article key="journals/tplp/FalaschiOP15" mdate="2021-07-25">
+<author orcid="0000-0002-6659-3828" pid="87/2367">Moreno Falaschi</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0003-4597-7002" pid="p/CPalamidessi">Catuscia Palamidessi</author>
+<title>Abstract interpretation of temporal concurrent constraint programs.</title>
+<pages>312-357</pages>
+<year>2015</year>
+<volume>15</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1017/S1471068413000641</ee>
+<url>db/journals/tplp/tplp15.html#FalaschiOP15</url>
+</article>
+</r>
+<r><inproceedings key="conf/birthday/ChiarugiFOP15" mdate="2021-07-25">
+<author orcid="0000-0003-2752-3189" pid="67/2106">Davide Chiarugi</author>
+<author orcid="0000-0002-6659-3828" pid="87/2367">Moreno Falaschi</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0003-4597-7002" pid="p/CPalamidessi">Catuscia Palamidessi</author>
+<title>A Declarative View of Signaling Pathways.</title>
+<pages>183-201</pages>
+<year>2015</year>
+<booktitle>Programming Languages with Applications to Biology and Security</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-25527-9_13</ee>
+<crossref>conf/birthday/2015degano</crossref>
+<url>db/conf/birthday/degano2015.html#ChiarugiFOP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mcm2/AriasDOR15" mdate="2023-02-15">
+<author orcid="0000-0003-3019-4902" pid="157/6674">Jaime Arias 0001</author>
+<author pid="41/4845">Myriam Desainte-Catherine</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0001-8387-9644" pid="42/6972">Camilo Rueda</author>
+<title>Foundations for Reliable and Flexible Interactive Multimedia Scores.</title>
+<pages>29-41</pages>
+<year>2015</year>
+<booktitle>MCM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-20603-5_3</ee>
+<crossref>conf/mcm2/2015</crossref>
+<url>db/conf/mcm2/mcm2015.html#AriasDOR15</url>
+</inproceedings>
+</r>
+<r><article key="journals/tplp/PimentelON14" mdate="2020-02-13">
+<author orcid="0000-0002-7113-0801" pid="53/5809">Elaine Pimentel</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="26/7042">Vivek Nigam</author>
+<title>A Proof Theoretic Study of Soft Concurrent Constraint Programming.</title>
+<pages>649-663</pages>
+<year>2014</year>
+<volume>14</volume>
+<journal>Theory Pract. Log. Program.</journal>
+<number>4-5</number>
+<ee>https://doi.org/10.1017/S147106841400026X</ee>
+<ee>https://www.wikidata.org/entity/Q57850758</ee>
+<url>db/journals/tplp/tplp14.html#PimentelON14</url>
+</article>
+</r>
+<r><inproceedings key="conf/iwbbio/ChiarugiFHO14" mdate="2020-03-12">
+<author pid="67/2106">Davide Chiarugi</author>
+<author pid="87/2367">Moreno Falaschi</author>
+<author pid="42/10091">Diana Hermith</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<title>A framework for modelling spatially dependent interactions of biological systems in CCP.</title>
+<pages>912-923</pages>
+<year>2014</year>
+<booktitle>IWBBIO</booktitle>
+<ee type="oa">http://iwbbio.ugr.es/2014/papers/IWBBIO_2014_paper_95.pdf</ee>
+<crossref>conf/iwbbio/2014</crossref>
+<url>db/conf/iwbbio/iwbbio2014.html#ChiarugiFHO14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/ChiarugiFHO15" mdate="2023-09-30">
+<author orcid="0000-0003-2752-3189" pid="67/2106">Davide Chiarugi</author>
+<author orcid="0000-0002-6659-3828" pid="87/2367">Moreno Falaschi</author>
+<author orcid="0000-0003-0710-5262" pid="42/10091">Diana Hermith</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<title>Verification of Spatial and Temporal Modalities in Biochemical Systems.</title>
+<pages>29-44</pages>
+<year>2014</year>
+<crossref>conf/sasb/2014</crossref>
+<booktitle>SASB</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2015.06.009</ee>
+<ee>https://www.wikidata.org/entity/Q113317775</ee>
+<url>db/journals/entcs/entcs316.html#ChiarugiFHO15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/AriasGO15" mdate="2023-02-15">
+<author orcid="0000-0003-3019-4902" pid="157/6674">Jaime Arias 0001</author>
+<author pid="128/1708">Michell Guzm&#225;n</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<title>A Symbolic Model for Timed Concurrent Constraint Programming.</title>
+<pages>161-177</pages>
+<year>2014</year>
+<crossref>conf/lsfa/2014</crossref>
+<booktitle>LSFA</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2015.04.010</ee>
+<ee>https://www.wikidata.org/entity/Q113317803</ee>
+<url>db/journals/entcs/entcs312.html#AriasGO15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/OlarteP15" mdate="2021-02-12">
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0002-7113-0801" pid="53/5809">Elaine Pimentel</author>
+<title>Proving Concurrent Constraint Programming Correct, Revisited.</title>
+<pages>179-195</pages>
+<year>2014</year>
+<crossref>conf/lsfa/2014</crossref>
+<booktitle>LSFA</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2015.04.011</ee>
+<ee>https://www.wikidata.org/entity/Q57850737</ee>
+<url>db/journals/entcs/entcs312.html#OlarteP15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/PimentelON14" mdate="2018-08-13">
+<author pid="53/5809">Elaine Pimentel</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="26/7042">Vivek Nigam</author>
+<title>A Proof Theoretic Study of Soft Concurrent Constraint Programming.</title>
+<year>2014</year>
+<volume>abs/1405.2329</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1405.2329</ee>
+<url>db/journals/corr/corr1405.html#PimentelON14</url>
+</article>
+</r>
+<r><article key="journals/constraints/OlarteRV13" mdate="2020-03-13">
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0001-8387-9644" pid="42/6972">Camilo Rueda</author>
+<author pid="v/FDValencia">Frank D. Valencia</author>
+<title>Models and emerging trends of concurrent constraint programming.</title>
+<pages>535-578</pages>
+<year>2013</year>
+<volume>18</volume>
+<journal>Constraints An Int. J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10601-013-9145-3</ee>
+<url>db/journals/constraints/constraints18.html#OlarteRV13</url>
+</article>
+</r>
+<r><inproceedings key="conf/concur/NigamOP13" mdate="2018-11-14">
+<author pid="26/7042">Vivek Nigam</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0002-7113-0801" pid="53/5809">Elaine Pimentel</author>
+<title>A General Proof System for Modalities in Concurrent Constraint Programming.</title>
+<pages>410-424</pages>
+<year>2013</year>
+<booktitle>CONCUR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-40184-8_29</ee>
+<ee>https://www.wikidata.org/entity/Q57850801</ee>
+<crossref>conf/concur/2013</crossref>
+<url>db/conf/concur/concur2013.html#NigamOP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwbbio/ChiarugiFHMO13" mdate="2020-03-12">
+<author pid="67/2106">Davide Chiarugi</author>
+<author pid="87/2367">Moreno Falaschi</author>
+<author pid="42/10091">Diana Hermith</author>
+<author pid="96/5299">Roberto Marangoni</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<title>Stochastic modelling of non Markovian Dynamics in Biochemical Reactions.</title>
+<pages>537-544</pages>
+<year>2013</year>
+<booktitle>IWBBIO</booktitle>
+<ee type="oa">http://iwbbio.ugr.es/papers/iwbbio_088.pdf</ee>
+<crossref>conf/iwbbio/2013</crossref>
+<url>db/conf/iwbbio/iwbbio2013.html#ChiarugiFHMO13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/OlarteNP14" mdate="2021-02-12">
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="26/7042">Vivek Nigam</author>
+<author orcid="0000-0002-7113-0801" pid="53/5809">Elaine Pimentel</author>
+<title>Dynamic Spaces in Concurrent Constraint Programming.</title>
+<pages>103-121</pages>
+<year>2013</year>
+<crossref>conf/lsfa/2013</crossref>
+<booktitle>LSFA</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2014.06.008</ee>
+<ee>https://www.wikidata.org/entity/Q57850770</ee>
+<url>db/journals/entcs/entcs305.html#OlarteNP14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/FalaschiOP13" mdate="2018-08-13">
+<author pid="87/2367">Moreno Falaschi</author>
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="p/CPalamidessi">Catuscia Palamidessi</author>
+<title>Abstract Interpretation of Temporal Concurrent Constraint Programs.</title>
+<year>2013</year>
+<volume>abs/1312.2552</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1312.2552</ee>
+<url>db/journals/corr/corr1312.html#FalaschiOP13</url>
+</article>
+</r>
+<r><inproceedings key="conf/ppdp/OlartePRC12" mdate="2019-10-19">
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0002-7113-0801" pid="53/5809">Elaine Pimentel</author>
+<author orcid="0000-0001-8387-9644" pid="42/6972">Camilo Rueda</author>
+<author orcid="0000-0001-5015-5893" pid="24/4">N&#233;stor Cata&#241;o</author>
+<title>A linear concurrent constraint approach for the automatic verification of access permissions.</title>
+<pages>207-216</pages>
+<year>2012</year>
+<booktitle>PPDP</booktitle>
+<ee>https://doi.org/10.1145/2370776.2370802</ee>
+<ee>https://www.wikidata.org/entity/Q57491308</ee>
+<crossref>conf/ppdp/2012</crossref>
+<url>db/conf/ppdp/ppdp2012.html#OlartePRC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/ChiarugiFHGO13" mdate="2023-09-30">
+<author orcid="0000-0003-2752-3189" pid="67/2106">Davide Chiarugi</author>
+<author orcid="0000-0002-6659-3828" pid="87/2367">Moreno Falaschi</author>
+<author orcid="0000-0003-0710-5262" pid="42/10091">Diana Hermith</author>
+<author pid="128/1708">Michell Guzm&#225;n</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<title>Simulating Signalling Pathways With BioWayS.</title>
+<pages>17-34</pages>
+<year>2012</year>
+<crossref>conf/cs2bio/2012</crossref>
+<booktitle>CS2Bio</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2013.02.016</ee>
+<ee>https://www.wikidata.org/entity/Q113318010</ee>
+<url>db/journals/entcs/entcs293.html#ChiarugiFHGO13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pacbb/HermithORV11" mdate="2023-09-30">
+<author orcid="0000-0003-0710-5262" pid="42/10091">Diana Hermith</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0001-8387-9644" pid="42/6972">Camilo Rueda</author>
+<author pid="v/FDValencia">Frank D. Valencia</author>
+<title>Modeling Cellular Signaling Systems: An Abstraction-Refinement Approach.</title>
+<pages>321-328</pages>
+<year>2011</year>
+<booktitle>PACBB</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-19914-1_42</ee>
+<crossref>conf/pacbb/2011</crossref>
+<url>db/conf/pacbb/pacbb2011.html#HermithORV11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bcb/ChiarugiFOP10" mdate="2021-07-25">
+<author orcid="0000-0003-2752-3189" pid="67/2106">Davide Chiarugi</author>
+<author orcid="0000-0002-6659-3828" pid="87/2367">Moreno Falaschi</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0003-4597-7002" pid="p/CPalamidessi">Catuscia Palamidessi</author>
+<title>Compositional modelling of signalling pathways in timed concurrent constraint programming.</title>
+<pages>414-417</pages>
+<year>2010</year>
+<booktitle>BCB</booktitle>
+<ee>https://doi.org/10.1145/1854776.1854843</ee>
+<crossref>conf/bcb/2010</crossref>
+<url>db/conf/bcb/bcb2010.html#ChiarugiFOP10</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Olarte09" mdate="2020-07-21">
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<title>Universal Temporal Concurrent Constraint Programming. (Programmation Concurrent par Contraintes pour V&#233;rifier un Protocole de S&#233;curit&#233;).</title>
+<year>2009</year>
+<school>&#201;cole Polytechnique, Palaiseau, France</school>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-00430446</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/iclp/ArandaAOPRTV09" mdate="2023-09-30">
+<author orcid="0000-0002-3391-5966" pid="32/2986">Jes&#250;s Aranda</author>
+<author pid="05/5440">G&#233;rard Assayag</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0002-1452-6180" pid="p/JorgeAPerez">Jorge A. P&#233;rez 0001</author>
+<author orcid="0000-0001-8387-9644" pid="42/6972">Camilo Rueda</author>
+<author orcid="0000-0002-7280-8231" pid="12/7187">Mauricio Toro</author>
+<author pid="v/FDValencia">Frank D. Valencia</author>
+<title>An Overview of FORCES: An INRIA Project on Declarative Formalisms for Emergent Systems.</title>
+<pages>509-513</pages>
+<year>2009</year>
+<booktitle>ICLP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-02846-5_44</ee>
+<ee>https://www.wikidata.org/entity/Q57652412</ee>
+<crossref>conf/iclp/2009</crossref>
+<url>db/conf/iclp/iclp2009.html#ArandaAOPRTV09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppdp/FalaschiOP09" mdate="2021-07-25">
+<author orcid="0000-0002-6659-3828" pid="87/2367">Moreno Falaschi</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0003-4597-7002" pid="p/CPalamidessi">Catuscia Palamidessi</author>
+<title>A framework for abstract interpretation of timed concurrent constraint programs.</title>
+<pages>207-218</pages>
+<year>2009</year>
+<booktitle>PPDP</booktitle>
+<ee>https://doi.org/10.1145/1599410.1599436</ee>
+<crossref>conf/ppdp/2009</crossref>
+<url>db/conf/ppdp/ppdp2009.html#FalaschiOP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/abs-1002-0930" mdate="2023-02-13">
+<author orcid="0000-0001-5162-7936" pid="69/5139">Hugo A. L&#243;pez 0001</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="p/JorgeAPerez">Jorge A. P&#233;rez 0001</author>
+<title>Towards a Unified Framework for Declarative Structured Communications</title>
+<booktitle>PLACES</booktitle>
+<year>2009</year>
+<pages>1-15</pages>
+<ee type="oa">https://doi.org/10.4204/EPTCS.17.1</ee>
+<ee type="oa">http://arxiv.org/abs/1002.0930</ee>
+<crossref>journals/corr/abs-1002-1408</crossref>
+<url>db/series/eptcs/eptcs17.html#abs-1002-0930</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ppdp/OlarteV08" mdate="2018-11-06">
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="v/FDValencia">Frank D. Valencia</author>
+<title>The expressivity of universal timed CCP: undecidability of Monadic FLTL and closure operators for security.</title>
+<pages>8-19</pages>
+<year>2008</year>
+<booktitle>PPDP</booktitle>
+<ee>https://doi.org/10.1145/1389449.1389452</ee>
+<crossref>conf/ppdp/2008</crossref>
+<url>db/conf/ppdp/ppdp2008.html#OlarteV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/OlarteV08" mdate="2025-01-19">
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="v/FDValencia">Frank D. Valencia</author>
+<title>Universal concurrent constraint programing: symbolic semantics and applications to security.</title>
+<pages>145-150</pages>
+<year>2008</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1363686.1363726</ee>
+<ee>https://www.wikidata.org/entity/Q131129618</ee>
+<crossref>conf/sac/2008</crossref>
+<url>db/conf/sac/sac2008.html#OlarteV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclp/FalaschiOPV07" mdate="2022-04-09">
+<author orcid="0000-0002-6659-3828" pid="87/2367">Moreno Falaschi</author>
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0003-4597-7002" pid="p/CPalamidessi">Catuscia Palamidessi</author>
+<author pid="v/FDValencia">Frank Valencia</author>
+<title>Declarative Diagnosis of Temporal Concurrent Constraint Programs.</title>
+<pages>271-285</pages>
+<year>2007</year>
+<crossref>conf/iclp/2007</crossref>
+<booktitle>ICLP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74610-2_19</ee>
+<url>db/conf/iclp/iclp2007.html#FalaschiOPV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclp/OlartePV07" mdate="2022-04-09">
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0003-4597-7002" pid="p/CPalamidessi">Catuscia Palamidessi</author>
+<author pid="v/FDValencia">Frank Valencia</author>
+<title>Universal Timed Concurrent Constraint Programming.</title>
+<pages>464-465</pages>
+<year>2007</year>
+<crossref>conf/iclp/2007</crossref>
+<booktitle>ICLP</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74610-2_47</ee>
+<url>db/conf/iclp/iclp2007.html#OlartePV07</url>
+</inproceedings>
+</r>
+<r><article key="journals/cleiej/OlarteR06" mdate="2025-01-19">
+<author pid="o/CarlosOlarte">Carlos Olarte</author>
+<author pid="42/6972">Camilo Rueda</author>
+<title>A Stochastic Concurrent Constraint Based Framework to Model and Verify Biological Systems.</title>
+<year>2006</year>
+<volume>9</volume>
+<journal>CLEI Electron. J.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.19153/cleiej.9.2.4</ee>
+<ee>https://www.wikidata.org/entity/Q129012712</ee>
+<url>db/journals/cleiej/cleiej9.html#OlarteR06</url>
+</article>
+</r>
+<r><inproceedings key="conf/sccc/OlarteR05" mdate="2023-03-23">
+<author orcid="0000-0002-7264-7773" pid="o/CarlosOlarte">Carlos Olarte</author>
+<author orcid="0000-0001-8387-9644" pid="42/6972">Camilo Rueda</author>
+<title>A stochastic non-deterministic temporal concurrent constraint calculus.</title>
+<pages>30-36</pages>
+<year>2005</year>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.2005.1587863</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCCC.2005.1587863</ee>
+<crossref>conf/sccc/2005</crossref>
+<url>db/conf/sccc/sccc2005.html#OlarteR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cp/DiazGOR04" mdate="2024-10-06">
+<author orcid="0000-0002-6178-0595" pid="46/4972">Juan Francisco D&#237;az</author>
+<author pid="80/663">Gustavo Gutierrez</author>
+<author pid="o/CarlosOlarte">Carlos Alberto Olarte</author>
+<author pid="42/6972">Camilo Rueda</author>
+<title>CRE2: A CP Application for Reconfiguring a Power Distribution Network for Power Losses Reduction.</title>
+<pages>813-814</pages>
+<ee>https://doi.org/10.1007/978-3-540-30201-8_92</ee>
+<year>2004</year>
+<crossref>conf/cp/2004</crossref>
+<booktitle>CP</booktitle>
+<url>db/conf/cp/cp2004.html#DiazGOR04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/moz/DelgadoOPR04" mdate="2017-05-26">
+<author pid="50/3352">Alberto Delgado</author>
+<author pid="o/CarlosOlarte">Carlos Alberto Olarte</author>
+<author pid="p/JorgeAPerez">Jorge Andr&#233;s P&#233;rez</author>
+<author pid="42/6972">Camilo Rueda</author>
+<title>Implementing Semiring-Based Constraints Using Mozart.</title>
+<pages>224-236</pages>
+<ee>https://doi.org/10.1007/978-3-540-31845-3_19</ee>
+<year>2004</year>
+<crossref>conf/moz/2004</crossref>
+<booktitle>MOZ</booktitle>
+<url>db/conf/moz/moz2004.html#DelgadoOPR04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/moz/DiazGOR04" mdate="2024-10-06">
+<author orcid="0000-0002-6178-0595" pid="46/4972">Juan Francisco D&#237;az</author>
+<author pid="80/663">Gustavo Gutierrez</author>
+<author pid="o/CarlosOlarte">Carlos Alberto Olarte</author>
+<author pid="42/6972">Camilo Rueda</author>
+<title>Using Constraint Programming for Reconfiguration of Electrical Power Distribution Networks.</title>
+<pages>263-276</pages>
+<ee>https://doi.org/10.1007/978-3-540-31845-3_22</ee>
+<year>2004</year>
+<crossref>conf/moz/2004</crossref>
+<booktitle>MOZ</booktitle>
+<url>db/conf/moz/moz2004.html#DiazGOR04</url>
+</inproceedings>
+</r>
+<coauthors n="57" nc="1">
+<co c="-1"><na f="a/Accattoli:Beniamino" pid="90/7361">Beniamino Accattoli</na></co>
+<co c="0"><na f="a/Alvim:M=aacute=rio_S=" pid="84/8371">M&#225;rio S. Alvim</na></co>
+<co c="0"><na f="a/Aranda:Jes=uacute=s" pid="32/2986">Jes&#250;s Aranda</na></co>
+<co c="0"><na f="a/Arias_0001:Jaime" pid="157/6674">Jaime Arias 0001</na></co>
+<co c="0"><na f="a/Assayag:G=eacute=rard" pid="05/5440">G&#233;rard Assayag</na></co>
+<co c="0"><na f="b/Bae:Kyungmin" pid="03/7567">Kyungmin Bae</na></co>
+<co c="0"><na f="b/Bahrami:Abdorrahim" pid="270/3741">Abdorrahim Bahrami</na></co>
+<co c="0"><na f="b/Ballis:Demis" pid="66/6512">Demis Ballis</na></co>
+<co c="0"><na f="b/Brodo:Linda" pid="25/3951">Linda Brodo</na></co>
+<co c="0"><na f="c/Cata=ntilde=o:N=eacute=stor" pid="24/4">N&#233;stor Cata&#241;o</na></co>
+<co c="0" n="2"><na f="c/Chatzikokolakis_0001:Konstantinos" pid="32/858">Konstantinos Chatzikokolakis 0001</na><na>Kostas Chatzikokolakis 0001</na></co>
+<co c="0"><na f="c/Chaudhuri:Kaustuv" pid="35/6012">Kaustuv Chaudhuri</na></co>
+<co c="0"><na f="c/Chiarugi:Davide" pid="67/2106">Davide Chiarugi</na></co>
+<co c="0"><na f="c/Ciabattoni:Agata" pid="44/6796">Agata Ciabattoni</na></co>
+<co c="-1"><na f="c/Ciaffaglione:Alberto" pid="00/5910">Alberto Ciaffaglione</na></co>
+<co c="0"><na f="d/Delgado:Alberto" pid="50/3352">Alberto Delgado</na></co>
+<co c="0"><na f="d/Desainte=Catherine:Myriam" pid="41/4845">Myriam Desainte-Catherine</na></co>
+<co c="0"><na f="d/Despeyroux:Jo=euml=lle" pid="21/5646">Jo&#235;lle Despeyroux</na></co>
+<co c="0"><na f="d/D=iacute=az:Juan_Francisco" pid="46/4972">Juan Francisco D&#237;az</na></co>
+<co c="0"><na f="f/Falaschi:Moreno" pid="87/2367">Moreno Falaschi</na></co>
+<co c="0"><na f="f/Felty:Amy_P=" pid="f/AmyPFelty">Amy P. Felty</na></co>
+<co c="0"><na f="f/Ferm=uuml=ller:Christian_G=" pid="f/CGFermuller">Christian G. Ferm&#252;ller</na></co>
+<co c="0"><na f="f/Freiman:Robert" pid="303/4112">Robert Freiman</na></co>
+<co c="0"><na f="g/Gabbrielli:Maurizio" pid="g/MGabbrielli">Maurizio Gabbrielli</na></co>
+<co c="0"><na f="g/Gadducci:Fabio" pid="g/FabioGadducci">Fabio Gadducci</na></co>
+<co c="0"><na f="g/Gutierrez:Gustavo" pid="80/663">Gustavo Gutierrez</na></co>
+<co c="0"><na f="g/Guzm=aacute=n:Michell" pid="128/1708">Michell Guzm&#225;n</na></co>
+<co c="0"><na f="h/Hermith:Diana" pid="42/10091">Diana Hermith</na></co>
+<co c="0"><na f="l/Lang:Timo" pid="205/4383">Timo Lang</na></co>
+<co c="0"><na f="l/Lellmann:Bj=ouml=rn" pid="53/9766">Bj&#246;rn Lellmann</na></co>
+<co c="0" n="2"><na f="l/Li=ograve=:Pietro" pid="l/PietroLio">Pietro Li&#242;</na><na>Pietro Li&#243;</na></co>
+<co c="0"><na f="l/L=oacute=pez_0001:Hugo_A=" pid="69/5139">Hugo A. L&#243;pez 0001</na></co>
+<co c="0"><na f="m/Marangoni:Roberto" pid="96/5299">Roberto Marangoni</na></co>
+<co c="0"><na f="m/Maria:Elisabetta_De" pid="23/4737">Elisabetta De Maria</na></co>
+<co c="0"><na f="m/Masko:Lukasz" pid="80/2775">Lukasz Masko</na></co>
+<co c="-1" n="2"><na f="m/Medeiros_0001:S=eacute=rgio" pid="64/4850">S&#233;rgio Medeiros 0001</na><na>S&#233;rgio Queiroz de Medeiros</na></co>
+<co c="0"><na f="n/Nigam:Vivek" pid="26/7042">Vivek Nigam</na></co>
+<co c="0"><na f="=/=Ouml=lveczky:Peter_Csaba" pid="11/2202">Peter Csaba &#214;lveczky</na></co>
+<co c="0"><na f="o/Osorio:Daniel" pid="322/3852">Daniel Osorio</na></co>
+<co c="0"><na f="p/Paiva:Valeria_de" pid="p/ValeriadePaiva">Valeria de Paiva</na></co>
+<co c="0"><na f="p/Palamidessi:Catuscia" pid="p/CPalamidessi">Catuscia Palamidessi</na></co>
+<co c="0"><na f="p/Penczek:Wojciech" pid="58/2583">Wojciech Penczek</na></co>
+<co c="0" n="2"><na f="p/P=eacute=rez_0001:Jorge_A=" pid="p/JorgeAPerez">Jorge A. P&#233;rez 0001</na><na>Jorge Andr&#233;s P&#233;rez</na></co>
+<co c="0"><na f="p/Petrucci:Laure" pid="p/LaurePetrucci">Laure Petrucci</na></co>
+<co c="0"><na f="p/Pimentel:Elaine" pid="53/5809">Elaine Pimentel</na></co>
+<co c="0"><na f="r/Ram=iacute=rez_0002:Carlos" pid="144/7593">Carlos Ram&#237;rez 0002</na></co>
+<co c="0"><na f="r/Reis:Giselle" pid="72/9473">Giselle Reis</na></co>
+<co c="0"><na f="r/Rocha:Camilo" pid="56/2819">Camilo Rocha</na></co>
+<co c="0"><na f="r/R=oslash=mming:Fredrik" pid="334/9041">Fredrik R&#248;mming</na></co>
+<co c="0"><na f="r/Rueda:Camilo" pid="42/6972">Camilo Rueda</na></co>
+<co c="0"><na f="s/Sidoruk:Teofil" pid="226/8969">Teofil Sidoruk</na></co>
+<co c="0" n="2"><na f="s/Sobrinho:Daniele_Nantes" pid="36/8280">Daniele Nantes Sobrinho</na><na>Daniele Nantes</na></co>
+<co c="0"><na f="t/Torella:Luca" pid="124/5884">Luca Torella</na></co>
+<co c="0"><na f="t/Toro:Mauricio" pid="12/7187">Mauricio Toro</na></co>
+<co c="0" n="2"><na f="v/Valencia:Frank_D=" pid="v/FDValencia">Frank D. Valencia</na><na>Frank Valencia</na></co>
+<co c="0" n="2"><na f="v/Ventura:Daniel_Lima" pid="08/6803">Daniel Lima Ventura</na><na>Daniel Ventura</na></co>
+<co c="0"><na f="x/Xavier:Bruno" pid="183/5022">Bruno Xavier</na></co>
+</coauthors>
+</dblpperson>
+

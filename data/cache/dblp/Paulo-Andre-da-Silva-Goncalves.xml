@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<dblpperson name="Paulo Andr&#233; da Silva Gon&#231;alves" pid="29/3529" n="5">
+<person key="homepages/29/3529" mdate="2009-06-10">
+<author pid="29/3529">Paulo Andr&#233; da Silva Gon&#231;alves</author>
+</person>
+<r><inproceedings key="conf/wcnc/SilvaG09" mdate="2024-10-06">
+<author pid="15/8335">Rafael de Amorim Silva</author>
+<author orcid="0000-0002-1325-5251" pid="29/3529">Paulo Andr&#233; da Silva Gon&#231;alves</author>
+<title>Enhancing the efficiency of active RFID-based indoor location systems.</title>
+<pages>2879-2884</pages>
+<year>2009</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC.2009.4917714</ee>
+<crossref>conf/wcnc/2009</crossref>
+<url>db/conf/wcnc/wcnc2009.html#SilvaG09</url>
+</inproceedings>
+</r>
+<r><article key="journals/cluster/GoncalvesRDP05" mdate="2023-03-21">
+<author pid="29/3529">Paulo Andr&#233; da Silva Gon&#231;alves</author>
+<author orcid="0000-0002-5660-6488" pid="r/JoseFerreiradeRezende">Jos&#233; Ferreira de Rezende</author>
+<author pid="18/2077">Otto Carlos Muniz Bandeira Duarte</author>
+<author pid="33/592">Guy Pujolle</author>
+<title>Improving Feedback Merging for Source-Adaptive Layered Multicast Schemes.</title>
+<pages>77-88</pages>
+<year>2005</year>
+<volume>8</volume>
+<journal>Clust. Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10586-004-4438-3</ee>
+<url>db/journals/cluster/cluster8.html#GoncalvesRDP05</url>
+</article>
+</r>
+<r><inproceedings key="conf/networking/GoncalvesRDP02" mdate="2023-03-21">
+<author pid="29/3529">Paulo Andr&#233; da Silva Gon&#231;alves</author>
+<author orcid="0000-0002-5660-6488" pid="r/JoseFerreiradeRezende">Jos&#233; Ferreira de Rezende</author>
+<author pid="18/2077">Otto Carlos Muniz Bandeira Duarte</author>
+<author pid="33/592">Guy Pujolle</author>
+<title>Optimal Feedback for Quality Source-Adaptive Schemes in Multicast Multi-layered Video Environments.</title>
+<pages>563-574</pages>
+<year>2002</year>
+<crossref>conf/networking/2002</crossref>
+<booktitle>NETWORKING</booktitle>
+<ee>https://doi.org/10.1007/3-540-47906-6_45</ee>
+<url>db/conf/networking/networking2002.html#GoncalvesRDP02</url>
+</inproceedings>
+</r>
+<r><article key="journals/jbcs/GoncalvesJD00" mdate="2020-05-20">
+<author pid="29/3529">Paulo Andr&#233; da Silva Gon&#231;alves</author>
+<author pid="r/JoseFerreiradeRezende">Jos&#233; Ferreira de Rezende</author>
+<author pid="18/2077">Otto Carlos Muniz Bandeira Duarte</author>
+<title>An active service for multicast video distribution.</title>
+<pages>43-51</pages>
+<year>2000</year>
+<volume>7</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>1</number>
+<url>db/journals/jbcs/jbcs7.html#GoncalvesJD00</url>
+</article>
+</r>
+<r><inproceedings key="conf/icmcs/LimaJGD99" mdate="2023-03-24">
+<author pid="10/24">Ronaldo Mussauer de Lima</author>
+<author pid="27/2404">Flavio Paiva Junqueira</author>
+<author pid="29/3529">Paulo Andr&#233; da Silva Gon&#231;alves</author>
+<author pid="18/2077">Otto Carlos Muniz Bandeira Duarte</author>
+<title>SAMM: An Integrated Environment to Support Multimedia Synchronization of Pre-Orchestrated Data.</title>
+<pages>929-933</pages>
+<year>1999</year>
+<crossref>conf/icmcs/1999-2</crossref>
+<booktitle>ICMCS, Vol. 2</booktitle>
+<ee>https://doi.org/10.1109/MMCS.1999.778613</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MMCS.1999.778613</ee>
+<url>db/conf/icmcs/icmcs99-2.html#LimaJGD99</url>
+</inproceedings>
+</r>
+<coauthors n="6" nc="1">
+<co c="0" n="2"><na f="d/Duarte:Otto_Carlos_M=_B=" pid="18/2077">Otto Carlos M. B. Duarte</na><na>Otto Carlos Muniz Bandeira Duarte</na></co>
+<co c="0"><na f="j/Junqueira:Flavio_Paiva" pid="27/2404">Flavio Paiva Junqueira</na></co>
+<co c="0"><na f="l/Lima:Ronaldo_Mussauer_de" pid="10/24">Ronaldo Mussauer de Lima</na></co>
+<co c="0"><na f="p/Pujolle:Guy" pid="33/592">Guy Pujolle</na></co>
+<co c="0"><na f="r/Rezende:Jos=eacute=_Ferreira_de" pid="r/JoseFerreiradeRezende">Jos&#233; Ferreira de Rezende</na></co>
+<co c="-1"><na f="s/Silva:Rafael_de_Amorim" pid="15/8335">Rafael de Amorim Silva</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,1825 @@
+<?xml version="1.0"?>
+<dblpperson name="S&#233;rgio Lifschitz" pid="l/SLifschitz" n="110">
+<person key="homepages/l/SLifschitz" mdate="2022-02-15">
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<note type="affiliation">Pontifical Catholic University of Rio de Janeiro, Brazil</note>
+<url>http://www-di.inf.puc-rio.br/~sergio/</url>
+<url>https://zbmath.org/authors/?q=ai:lifschitz.sergio</url>
+<url>https://orcid.org/0000-0003-3073-3734</url>
+<url>https://www.wikidata.org/entity/Q82586778</url>
+<url>http://lattes.cnpq.br/8164403687403639</url>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2504-14314" mdate="2025-05-23">
+<author pid="214/6173">Antony Seabra</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Towards Polyglot Data Processing in Social Networks using the Hadoop-Spark ecosystem.</title>
+<year>2025</year>
+<month>April</month>
+<volume>abs/2504.14314</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2504.14314</ee>
+<url>db/journals/corr/corr2504.html#abs-2504-14314</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2504-14322" mdate="2025-05-23">
+<author pid="214/6173">Antony Seabra</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Advancing Polyglot Big Data Processing using the Hadoop ecosystem.</title>
+<year>2025</year>
+<month>April</month>
+<volume>abs/2504.14322</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2504.14322</ee>
+<url>db/journals/corr/corr2504.html#abs-2504-14322</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/cibcb/GuatequeMCHL24" mdate="2024-10-22">
+<author pid="233/1448">Maria Leandra Guateque</author>
+<author pid="77/2060">Antonio Bas&#237;lio de Miranda</author>
+<author pid="65/7971">Marcos Catanho</author>
+<author pid="93/6371">Edward Hermann Haeusler</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>An Approach for Modeling and Analysis of Insulin Biosynthesis using Petri Nets.</title>
+<pages>1-8</pages>
+<year>2024</year>
+<booktitle>CIBCB</booktitle>
+<ee>https://doi.org/10.1109/CIBCB58642.2024.10702168</ee>
+<crossref>conf/cibcb/2024</crossref>
+<url>db/conf/cibcb/cibcb2024.html#GuatequeMCHL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/NetoLBCMH24" mdate="2025-03-03">
+<author pid="389/6989">Luis Henrique Costa Neto</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author orcid="0000-0001-7932-7134" pid="b/FAraujoBaiao">Fernanda Bai&#227;o</author>
+<author orcid="0000-0002-9184-4158" pid="65/7971">Marcos Catanho</author>
+<author orcid="0000-0002-4977-7350" pid="77/2060">Antonio B. de Miranda</author>
+<author orcid="0000-0002-4999-7476" pid="93/6371">Edward Hermann Haeusler</author>
+<title>On the Expressiveness of Petri Nets for Modeling Biological Processes: The Case for mRNA Translation and Protein Synthesis.</title>
+<pages>137-147</pages>
+<year>2024</year>
+<booktitle>ER (Workshops)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-75599-6_10</ee>
+<crossref>conf/er/2024w</crossref>
+<url>db/conf/er/erw2024.html#NetoLBCMH24</url>
+<stream>streams/conf/er</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ic3k/SeabraCNLRL24" mdate="2025-03-03">
+<author pid="214/6173">Antony Seabra</author>
+<author pid="224/2462">Claudio Cavalcante</author>
+<author orcid="0009-0004-5441-8426" pid="392/7405">Jo&#227;o Nepomuceno</author>
+<author pid="392/7194">Lucas Lago</author>
+<author pid="59/2659">Nicolaas Ruberg</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Contrato360 2.0: A Document and Database-Driven Question-Answer System Using Large Language Models and Agents.</title>
+<pages>167-178</pages>
+<year>2024</year>
+<booktitle>KDIR</booktitle>
+<ee>https://doi.org/10.5220/0013070400003838</ee>
+<crossref>conf/ic3k/2024kdir</crossref>
+<url>db/conf/ic3k/kdir2024.html#SeabraCNLRL24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2412-17942" mdate="2025-01-24">
+<author pid="214/6173">Antony Seabra</author>
+<author pid="224/2462">Claudio Cavalcante</author>
+<author pid="392/7405">Jo&#227;o Nepomuceno</author>
+<author pid="392/7194">Lucas Lago</author>
+<author pid="59/2659">Nicolaas Ruberg</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Contrato360 2.0: A Document and Database-Driven Question-Answer System using Large Language Models and Agents.</title>
+<year>2024</year>
+<volume>abs/2412.17942</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2412.17942</ee>
+<url>db/journals/corr/corr2412.html#abs-2412-17942</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2412-17944" mdate="2025-01-24">
+<author pid="214/6173">Antony Seabra de Medeiros</author>
+<author pid="395/6915">Luiz Afonso Glatzl Junior</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Surveillance Capitalism Revealed: Tracing The Hidden World Of Web Data Collection.</title>
+<year>2024</year>
+<volume>abs/2412.17944</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2412.17944</ee>
+<url>db/journals/corr/corr2412.html#abs-2412-17944</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2412-17964" mdate="2025-01-25">
+<author pid="214/6173">Antony Seabra</author>
+<author pid="224/2462">Claudio Cavalcante</author>
+<author pid="392/7405">Jo&#227;o Nepomuceno</author>
+<author pid="392/7194">Lucas Lago</author>
+<author pid="59/2659">Nicolaas Ruberg</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Dynamic Multi-Agent Orchestration and Retrieval for Multi-Source Question-Answer Systems using Large Language Models.</title>
+<year>2024</year>
+<volume>abs/2412.17964</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2412.17964</ee>
+<url>db/journals/corr/corr2412.html#abs-2412-17964</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/sbbd/VieiraAJCMHL23" mdate="2023-10-25">
+<author pid="337/5599">Diogo Munaro Vieira</author>
+<author pid="193/8004">Elvismary Molina de Armas</author>
+<author pid="359/1045">Maria L. G. Jaramillo</author>
+<author pid="65/7971">Marcos Catanho</author>
+<author pid="77/2060">Antonio B. de Miranda</author>
+<author pid="93/6371">Edward Hermann Haeusler</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>A New Data Modeling Approach for Alignment-free Biological Applications.</title>
+<pages>1-13</pages>
+<year>2023</year>
+<booktitle>SBBD</booktitle>
+<ee>https://sol.sbc.org.br/index.php/sbbd/article/view/25512</ee>
+<crossref>conf/sbbd/2023</crossref>
+<url>db/conf/sbbd/sbbd2023.html#VieiraAJCMHL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/PintorSLSMC23" mdate="2025-01-29">
+<author pid="301/8453">Paulo Pintor</author>
+<author pid="329/9392">Mariana D. A. Salgueiro</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="s/DanielSchwabe">Daniel Schwabe 0001</author>
+<author pid="330/3839">Jos&#233; Manuel Moreira</author>
+<author pid="55/1387">Rog&#233;rio Lu&#237;s C. Costa</author>
+<title>Database Support for Online Social Network Analysis.</title>
+<pages>14-25</pages>
+<year>2023</year>
+<booktitle>SBBD</booktitle>
+<ee>https://sol.sbc.org.br/index.php/sbbd/article/view/25513</ee>
+<crossref>conf/sbbd/2023</crossref>
+<url>db/conf/sbbd/sbbd2023.html#PintorSLSMC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/SantosHSL23" mdate="2025-01-29">
+<author pid="10/10088">Veronica dos Santos</author>
+<author pid="93/6371">Edward Hermann Haeusler</author>
+<author pid="s/DanielSchwabe">Daniel Schwabe 0001</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Context-Aware Knowledge Graphs Exploratory Search.</title>
+<pages>360-365</pages>
+<year>2023</year>
+<booktitle>SBBD</booktitle>
+<ee>https://sol.sbc.org.br/index.php/sbbd/article/view/25544</ee>
+<crossref>conf/sbbd/2023</crossref>
+<url>db/conf/sbbd/sbbd2023.html#SantosHSL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wob/HaeuslerCGGVABCML23" mdate="2024-10-22">
+<author orcid="0000-0002-4999-7476" pid="93/6371">Edward Hermann Haeusler</author>
+<author orcid="0000-0001-6807-5242" pid="201/9381">Bruno Cuconato</author>
+<author orcid="0000-0002-4138-5715" pid="356/1976">Luiz A. Glatzl</author>
+<author orcid="0000-0001-6649-9738" pid="233/1448">Maria Leandra Guateque</author>
+<author orcid="0000-0002-8401-8843" pid="337/5599">Diogo Munaro Vieira</author>
+<author orcid="0000-0002-0606-5994" pid="193/8004">Elvismary Molina de Armas</author>
+<author orcid="0000-0001-7932-7134" pid="b/FAraujoBaiao">Fernanda Bai&#227;o</author>
+<author orcid="0000-0002-9184-4158" pid="65/7971">Marcos Catanho</author>
+<author orcid="0000-0002-4977-7350" pid="77/2060">Antonio B. de Miranda</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Intentional Semantics for Molecular Biology.</title>
+<pages>94-105</pages>
+<year>2023</year>
+<booktitle>BSB</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-42715-2_9</ee>
+<crossref>conf/wob/2023</crossref>
+<url>db/conf/wob/bsb2023.html#HaeuslerCGGVABCML23</url>
+</inproceedings>
+</r>
+<r><article key="journals/isys/SantosILCGCAFFM22" mdate="2024-02-05">
+<author pid="367/3452">Jo&#227;o Guilherme Bastos dos Santos</author>
+<author pid="196/8034">Arthur Ituassu</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="367/3338">Yago Cury</author>
+<author pid="367/3459">Thayane Guimar&#227;es</author>
+<author pid="283/1271">Diego Cerqueira</author>
+<author pid="280/1363">Debora Albu</author>
+<author pid="367/3449">Redson Fernando</author>
+<author pid="367/3410">Julia Hellen Ferreira</author>
+<author pid="213/7647">Maria Luiza Mondelli</author>
+<title>Regional patterns and networked behavior: interdisciplinary methods for identifying bots in the 2020 elections in Brazil.</title>
+<year>2022</year>
+<volume>15</volume>
+<journal>Braz. J. Inf. Syst.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5753/isys.2022.2415</ee>
+<url>db/journals/isys/isys15.html#SantosILCGCAFFM22</url>
+</article>
+</r>
+<r><article key="journals/jidm/SalgueiroSRGSHVL22" mdate="2023-12-11">
+<author pid="329/9392">Mariana D. A. Salgueiro</author>
+<author pid="10/10088">Veronica dos Santos</author>
+<author pid="362/8452">Andr&#233; L. C. R&#234;go</author>
+<author pid="362/7738">Daniel S. Guimar&#227;es</author>
+<author pid="362/8152">Jefferson B. Santos</author>
+<author pid="93/6371">Edward Hermann Haeusler</author>
+<author pid="362/8194">Marcos V. Villas</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Searching for Researchers: an Ontology-based NoSQL Database System Approach and Practical Implementation.</title>
+<year>2022</year>
+<month>December</month>
+<volume>13</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>5</number>
+<ee>https://doi.org/10.5753/jidm.2022.2601</ee>
+<url>db/journals/jidm/jidm13.html#SalgueiroSRGSHVL22</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbbd/OliveiraBMAL22" mdate="2022-09-29">
+<author pid="198/9223">Rafael Pereira de Oliveira</author>
+<author pid="b/FAraujoBaiao">Fernanda Bai&#227;o</author>
+<author pid="12/3896">Javam C. Machado</author>
+<author pid="66/7740">Ana Carolina Almeida</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Autonomic Combination and Selection of Tuning Actions.</title>
+<pages>39-51</pages>
+<year>2022</year>
+<booktitle>SBBD</booktitle>
+<ee>https://doi.org/10.5753/sbbd.2022.225212</ee>
+<crossref>conf/sbbd/2022</crossref>
+<url>db/conf/sbbd/sbbd2022.html#OliveiraBMAL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/SouzaL22" mdate="2022-09-29">
+<author pid="329/9808">Victor Augusto Lima Lins de Souza</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>TuningChef: an approach for choosing the best cost-benefit database tuning actions.</title>
+<pages>391-396</pages>
+<year>2022</year>
+<booktitle>SBBD</booktitle>
+<ee>https://doi.org/10.5753/sbbd.2022.226196</ee>
+<crossref>conf/sbbd/2022</crossref>
+<url>db/conf/sbbd/sbbd2022.html#SouzaL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/SalgueiroLHSP22" mdate="2022-10-18">
+<author pid="329/9392">Mariana D. A. Salgueiro</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="93/6371">Edward Hermann Haeusler</author>
+<author pid="10/10088">Veronica dos Santos</author>
+<author pid="54/401">Alexandre Plastino 0001</author>
+<title>A Study of Database Models for Social Network Analysis.</title>
+<pages>397-402</pages>
+<year>2022</year>
+<booktitle>SBBD</booktitle>
+<ee>https://doi.org/10.5753/sbbd.2022.226197</ee>
+<crossref>conf/sbbd/2022</crossref>
+<url>db/conf/sbbd/sbbd2022.html#SalgueiroLHSP22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wob/VieiraHALBL22" mdate="2023-01-15">
+<author orcid="0000-0002-8401-8843" pid="337/5599">Diogo Munaro Vieira</author>
+<author orcid="0000-0001-9235-4153" pid="337/5590">Alexandre Heine</author>
+<author orcid="0000-0002-0606-5994" pid="193/8004">Elvismary Molina de Armas</author>
+<author orcid="0000-0002-5946-4358" pid="311/1771">Cristov&#227;o Antunes de Lanna</author>
+<author orcid="0000-0003-3495-9917" pid="297/5930">Mariana Boroni</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Scientific Workflow Interactions: An Application to Cancer Gene Identification.</title>
+<pages>14-19</pages>
+<year>2022</year>
+<booktitle>BSB</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-21175-1_2</ee>
+<crossref>conf/wob/2022</crossref>
+<url>db/conf/wob/bsb2022.html#VieiraHALBL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wob/ArmasL22" mdate="2023-01-15">
+<author orcid="0000-0002-0606-5994" pid="193/8004">Elvismary Molina de Armas</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>An External Memory Approach for Large Genome De Novo Assembly.</title>
+<pages>79-90</pages>
+<year>2022</year>
+<booktitle>BSB</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-21175-1_9</ee>
+<crossref>conf/wob/2022</crossref>
+<url>db/conf/wob/bsb2022.html#ArmasL22</url>
+</inproceedings>
+</r>
+<r><article key="journals/bdr/CostaMPSL21" mdate="2025-02-27">
+<author orcid="0000-0003-2306-7585" pid="55/1387">Rog&#233;rio Lu&#237;s de C. Costa</author>
+<author orcid="0000-0003-4633-6944" pid="330/3839">Jos&#233; Manuel Moreira</author>
+<author orcid="0000-0003-1294-9523" pid="301/8453">Paulo Pintor</author>
+<author pid="10/10088">Veronica dos Santos</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>A Survey on Data-driven Performance Tuning for Big Data Analytics Platforms.</title>
+<pages>100206</pages>
+<year>2021</year>
+<volume>25</volume>
+<journal>Big Data Res.</journal>
+<ee>https://doi.org/10.1016/j.bdr.2021.100206</ee>
+<ee>https://www.wikidata.org/entity/Q106411149</ee>
+<url>db/journals/bdr/bdr25.html#CostaMPSL21</url>
+</article>
+</r>
+<r><article key="journals/dss/AlmeidaBLSC21" mdate="2025-01-29">
+<author pid="66/7740">Ana Carolina Almeida</author>
+<author pid="b/FAraujoBaiao">Fernanda Bai&#227;o</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="s/DanielSchwabe">Daniel Schwabe 0001</author>
+<author pid="78/4279">Maria Luiza Machado Campos</author>
+<title>Tun-O<sub>CM</sub>: A model-driven approach to support database tuning decision making.</title>
+<pages>113538</pages>
+<year>2021</year>
+<volume>145</volume>
+<journal>Decis. Support Syst.</journal>
+<ee>https://doi.org/10.1016/j.dss.2021.113538</ee>
+<url>db/journals/dss/dss145.html#AlmeidaBLSC21</url>
+</article>
+</r>
+<r><article key="journals/jidm/MarinsOHLSA21" mdate="2025-01-29">
+<author pid="307/4299">Raphael Marins</author>
+<author pid="198/9223">Rafael Pereira de Oliveira</author>
+<author pid="93/6371">Edward Hermann Haeusler</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="s/DanielSchwabe">Daniel Schwabe 0001</author>
+<author pid="66/7740">Ana Carolina Almeida</author>
+<title>Outer-Tuning: an Ontology-based Extensible Framework for Supporting Database Automatic Tuning.</title>
+<year>2021</year>
+<volume>12</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>2</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1984</ee>
+<url>db/journals/jidm/jidm12.html#MarinsOHLSA21</url>
+</article>
+</r>
+<r><article key="journals/jidm/TtitoMLMT21" mdate="2021-11-30">
+<author pid="290/4380">Josu&#233; Joel Ttito</author>
+<author pid="173/9193">Renato Marroqu&#237;n</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="170/0204">Lewis J. McGibbney</author>
+<author pid="37/11498">Jos&#233; Talavera</author>
+<title>Query co-planning for shared execution in key-value stores.</title>
+<year>2021</year>
+<volume>12</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>5</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1946</ee>
+<url>db/journals/jidm/jidm12.html#TtitoMLMT21</url>
+</article>
+</r>
+<r><inproceedings key="conf/bibm/ArmasSLB21" mdate="2023-02-12">
+<author pid="193/8004">Elvismary Molina de Armas</author>
+<author orcid="0000-0002-5914-4776" pid="95/11166">Nicole de Miranda Scherer</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="297/5930">Mariana Boroni</author>
+<title>Genome variant calling workflow implementation and deployment in HPC infrastructure.</title>
+<pages>1933-1940</pages>
+<year>2021</year>
+<booktitle>BIBM</booktitle>
+<ee>https://doi.org/10.1109/BIBM52615.2021.9669519</ee>
+<crossref>conf/bibm/2021</crossref>
+<url>db/conf/bibm/bibm2021.html#ArmasSLB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/PercilianoSBHLA21" mdate="2022-03-07">
+<author pid="225/0633">Luciana de S&#225; Silva Perciliano</author>
+<author pid="10/10088">Veronica dos Santos</author>
+<author pid="b/FAraujoBaiao">Fernanda Bai&#227;o</author>
+<author pid="93/6371">Edward Hermann Haeusler</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="66/7740">Ana Carolina Almeida</author>
+<title>Inferencing Relational Database Tuning Actions with OnDBTuning Ontology.</title>
+<pages>157-168</pages>
+<year>2021</year>
+<booktitle>SBBD</booktitle>
+<ee>https://doi.org/10.5753/sbbd.2021.17874</ee>
+<crossref>conf/sbbd/2021</crossref>
+<url>db/conf/sbbd/sbbd2021.html#PercilianoSBHLA21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/TristaoMHL20" mdate="2021-01-09">
+<author orcid="0000-0002-8164-9965" pid="36/7970">Cristian Trist&#227;o</author>
+<author orcid="0000-0002-4977-7350" pid="77/2060">Antonio Bas&#237;lio de Miranda</author>
+<author orcid="0000-0002-4999-7476" pid="93/6371">Edward Hermann Haeusler</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Relational Text-Type for Biological Sequences.</title>
+<pages>102-112</pages>
+<year>2020</year>
+<booktitle>ER (Workshops)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-65847-2_10</ee>
+<crossref>conf/er/2020w</crossref>
+<url>db/conf/er/erw2020.html#TristaoMHL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euromicro/LaignerKDBCLALZ20" mdate="2021-04-09">
+<author pid="214/5831">Rodrigo Laigner</author>
+<author pid="38/3792">Marcos Kalinowski</author>
+<author pid="270/5507">Pedro Diniz</author>
+<author pid="03/632">Leonardo Barros</author>
+<author pid="80/1111">Carlos Cassino</author>
+<author pid="32/6523">Melissa Lemos</author>
+<author pid="175/7408">Darlan Arruda</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="z/YongluanZhou">Yongluan Zhou</author>
+<title>From a Monolithic Big Data System to a Microservices Event-Driven Architecture.</title>
+<pages>213-220</pages>
+<year>2020</year>
+<booktitle>SEAA</booktitle>
+<ee>https://doi.org/10.1109/SEAA51224.2020.00045</ee>
+<crossref>conf/euromicro/2020</crossref>
+<url>db/conf/euromicro/euromicro2020.html#LaignerKDBCLALZ20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/OliveiraLKVLS20" mdate="2024-10-06">
+<author pid="198/9223">Rafael Pereira de Oliveira</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="38/3792">Marcos Kalinowski</author>
+<author pid="166/4429">Marx L. Viana</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Lucena</author>
+<author orcid="0000-0003-1559-537X" pid="70/4277">Marcos Antonio Vaz Salles</author>
+<title>Evaluating Database Self-Tuning Strategies in a Comon Extensible Framework.</title>
+<pages>97-108</pages>
+<year>2020</year>
+<booktitle>SBBD</booktitle>
+<ee>https://doi.org/10.5753/sbbd.2020.13628</ee>
+<crossref>conf/sbbd/2020</crossref>
+<url>db/conf/sbbd/sbbd2020.html#OliveiraLKVLS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/TtitoML20" mdate="2021-11-30">
+<author pid="290/4380">Josu&#233; Joel Ttito</author>
+<author pid="173/9193">Renato Marroqu&#237;n</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Query co-planning for shared execution in Key-Value Stores.</title>
+<pages>211-216</pages>
+<year>2020</year>
+<booktitle>SBBD</booktitle>
+<ee>https://doi.org/10.5753/sbbd.2020.13643</ee>
+<crossref>conf/sbbd/2020</crossref>
+<url>db/conf/sbbd/sbbd2020.html#TtitoML20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/EstevesLCA20" mdate="2021-04-29">
+<author pid="249/1743">Jo&#227;o Victor Esteves</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="42/2251">Rosa Maria Costa</author>
+<author pid="66/7740">Ana Carolina Almeida</author>
+<title>Streaming state management methods for real-time data deduplication.</title>
+<pages>265-270</pages>
+<year>2020</year>
+<booktitle>SBBD</booktitle>
+<ee>https://doi.org/10.5753/sbbd.2020.13652</ee>
+<crossref>conf/sbbd/2020</crossref>
+<url>db/conf/sbbd/sbbd2020.html#EstevesLCA20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wob/ArmasHOAL20" mdate="2021-01-09">
+<author orcid="0000-0002-0606-5994" pid="193/8004">Elvismary Molina de Armas</author>
+<author orcid="0000-0002-0883-2579" pid="20/1662">Maristela Holanda</author>
+<author orcid="0000-0001-9346-7651" pid="68/7553-1">Daniel de Oliveira 0001</author>
+<author orcid="0000-0001-5615-1746" pid="09/2799">Nalvo F. Almeida</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>A Classification of de Bruijn Graph Approaches for De Novo Fragment Assembly.</title>
+<pages>1-12</pages>
+<year>2020</year>
+<booktitle>BSB</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-65775-8_1</ee>
+<crossref>conf/wob/2020</crossref>
+<url>db/conf/wob/bsb2020.html#ArmasHOAL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wob/EntenzaHL20" mdate="2021-01-27">
+<author pid="225/0631">Julio O. Prieto Entenza</author>
+<author orcid="0000-0002-4999-7476" pid="93/6371">Edward Hermann Haeusler</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Efficient Out-of-Core Contig Generation.</title>
+<pages>25-37</pages>
+<year>2020</year>
+<booktitle>BSB</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-65775-8_3</ee>
+<crossref>conf/wob/2020</crossref>
+<url>db/conf/wob/bsb2020.html#EntenzaHL20</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijcbdd/AlmeidaSCAWLH19" mdate="2025-01-19">
+<author pid="181/6584">Rodrigo F. Almeida</author>
+<author pid="193/7874">Waldeyr Mendes Cordeiro da Silva</author>
+<author pid="211/4103">Klayton Castro</author>
+<author pid="38/2179">Alet&#233;ia Patr&#237;cia Favacho de Ara&#250;jo</author>
+<author pid="84/2668">Maria Em&#237;lia Telles Walter</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="20/1662">Maristela Holanda</author>
+<title>Managing data provenance for bioinformatics workflows using AProvBio.</title>
+<pages>153-170</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Int. J. Comput. Biol. Drug Des.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1504/IJCBDD.2019.099761</ee>
+<ee>https://www.wikidata.org/entity/Q127842370</ee>
+<url>db/journals/ijcbdd/ijcbdd12.html#AlmeidaSCAWLH19</url>
+</article>
+</r>
+<r><article key="journals/jdm/ErvenCSLOH19" mdate="2021-04-09">
+<author orcid="0000-0003-1999-4116" pid="197/6948">Gustavo Cordeiro Galv&#227;o Van Erven</author>
+<author pid="43/283">Rommel Novaes Carvalho</author>
+<author orcid="0000-0002-8660-6331" pid="193/7874">Waldeyr Mendes Cordeiro da Silva</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author orcid="0000-0003-2011-8797" pid="169/3796">Harley Vera Olivera</author>
+<author orcid="0000-0002-0883-2579" pid="20/1662">Maristela Holanda</author>
+<title>Designing Graph Databases With GRAPHED.</title>
+<pages>41-60</pages>
+<year>2019</year>
+<volume>30</volume>
+<journal>J. Database Manag.</journal>
+<number>1</number>
+<ee>https://doi.org/10.4018/JDM.2019010103</ee>
+<url>db/journals/jdm/jdm30.html#ErvenCSLOH19</url>
+</article>
+</r>
+<r><inproceedings key="conf/bibm/WercelensSCALH19" mdate="2022-05-17">
+<author pid="211/4305">Polyane Wercelens</author>
+<author pid="193/7874">Waldeyr Mendes Cordeiro da Silva</author>
+<author pid="211/4103">Klayton Castro</author>
+<author pid="38/2179">Alet&#233;ia P. F. Ara&#250;jo</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="20/1662">Maristela Holanda</author>
+<title>Data Provenance Management of Bioinformatics Workflows in Federated Clouds.</title>
+<pages>750-754</pages>
+<year>2019</year>
+<booktitle>BIBM</booktitle>
+<ee>https://doi.org/10.1109/BIBM47256.2019.8983373</ee>
+<crossref>conf/bibm/2019</crossref>
+<url>db/conf/bibm/bibm2019.html#WercelensSCALH19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bibm/ArmasCHL19" mdate="2021-04-09">
+<author pid="193/8004">Elvismary Molina de Armas</author>
+<author pid="258/5140">Liester Cruz Castro</author>
+<author pid="20/1662">Maristela Holanda</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>A New Approach for De Bruijn Graph Construction in De Novo Genome Assembling.</title>
+<pages>1842-1849</pages>
+<year>2019</year>
+<booktitle>BIBM</booktitle>
+<ee>https://doi.org/10.1109/BIBM47256.2019.8983374</ee>
+<crossref>conf/bibm/2019</crossref>
+<url>db/conf/bibm/bibm2019.html#ArmasCHL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/AlmeidaCBLOS19" mdate="2025-01-29">
+<author pid="66/7740">Ana Carolina Almeida</author>
+<author pid="78/4279">Maria Luiza Machado Campos</author>
+<author pid="b/FAraujoBaiao">Fernanda Bai&#227;o</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="198/9223">Rafael Pereira de Oliveira</author>
+<author orcid="0000-0003-4347-2940" pid="s/DanielSchwabe">Daniel Schwabe 0001</author>
+<title>An Ontological Perspective for Database Tuning Heuristics.</title>
+<pages>240-254</pages>
+<year>2019</year>
+<booktitle>ER</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-33223-5_20</ee>
+<crossref>conf/er/2019</crossref>
+<url>db/conf/er/er2019.html#AlmeidaCBLOS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/LaignerLKPS19" mdate="2024-10-06">
+<author pid="214/5831">Rodrigo Laigner</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="38/3792">Marcos Kalinowski</author>
+<author pid="63/4961">Marcus Poggi</author>
+<author orcid="0000-0003-1559-537X" pid="70/4277">Marcos Antonio Vaz Salles</author>
+<title>Towards a Technique for Extracting Relational Actors from Monolithic Applications.</title>
+<pages>133-144</pages>
+<year>2019</year>
+<booktitle>SBBD</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbbd.2019.8814</ee>
+<crossref>conf/sbbd/2019</crossref>
+<url>db/conf/sbbd/sbbd2019.html#LaignerLKPS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/OliveiraBASL19" mdate="2025-01-29">
+<author pid="198/9223">Rafael Pereira de Oliveira</author>
+<author orcid="0000-0001-7932-7134" pid="b/FAraujoBaiao">Fernanda Bai&#227;o</author>
+<author pid="66/7740">Ana Carolina Almeida</author>
+<author pid="s/DanielSchwabe">Daniel Schwabe 0001</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Outer-Tuning: an integration of rules, ontology and RDBMS.</title>
+<pages>60:1-60:8</pages>
+<year>2019</year>
+<booktitle>SBSI</booktitle>
+<ee>https://doi.org/10.1145/3330204.3330270</ee>
+<crossref>conf/sbsi/2019</crossref>
+<url>db/conf/sbsi/sbsi2019.html#OliveiraBASL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wob/ArmasFHHL19" mdate="2021-04-09">
+<author pid="193/8004">Elvismary Molina de Armas</author>
+<author pid="193/7983">Paulo Cavalcanti Gomes Ferreira</author>
+<author pid="93/6371">Edward Hermann Haeusler</author>
+<author pid="20/1662">Maristela Terto de Holanda</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>K-mer Mapping and RDBMS Indexes.</title>
+<pages>70-82</pages>
+<year>2019</year>
+<booktitle>BSB</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-46417-2_7</ee>
+<crossref>conf/wob/2019</crossref>
+<url>db/conf/wob/bsb2019.html#ArmasFHHL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wob/NeumannABML19" mdate="2024-02-15">
+<author orcid="0000-0001-6581-3019" pid="230/1875">Guilherme Borba Neumann</author>
+<author pid="193/8004">Elvismary Molina de Armas</author>
+<author pid="b/FAraujoBaiao">Fernanda Ara&#250;jo Bai&#227;o</author>
+<author pid="78/5079">Ruy Luiz Milidi&#250;</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>A Domain Framework Approach for Quality Feature Analysis of Genome Assemblies.</title>
+<pages>116-122</pages>
+<year>2019</year>
+<booktitle>BSB</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-46417-2_11</ee>
+<crossref>conf/wob/2019</crossref>
+<url>db/conf/wob/bsb2019.html#NeumannABML19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/TeixeiraSSBCVLB19" mdate="2025-01-29">
+<author pid="206/3211">Bianca Rodrigues Teixeira</author>
+<author orcid="0000-0003-4347-2940" pid="s/DanielSchwabe">Daniel Schwabe 0001</author>
+<author pid="33/6173">Fl&#225;via Maria Santoro</author>
+<author orcid="0000-0001-7932-7134" pid="b/FAraujoBaiao">Fernanda Bai&#227;o</author>
+<author pid="78/4279">Maria Luiza Machado Campos</author>
+<author pid="234/4557">Let&#237;cia Dias Verona</author>
+<author pid="37/3537">Carlos Laufer</author>
+<author orcid="0000-0002-0044-503X" pid="b/SDJBarbosa">Simone D. J. Barbosa</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author orcid="0000-0001-6165-1649" pid="42/2251">Rosa M. M. Costa</author>
+<title>Privacy and Transparency within the 4IR: Two faces of the same coin.</title>
+<pages>581-593</pages>
+<year>2019</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/3308560.3317592</ee>
+<crossref>conf/www/2019c</crossref>
+<url>db/conf/www/www2019c.html#TeixeiraSSBCVLB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euromicro/LaignerKLMO18" mdate="2023-03-24">
+<author pid="214/5831">Rodrigo Laigner</author>
+<author orcid="0000-0003-1445-3425" pid="38/3792">Marcos Kalinowski</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="89/5975">Rodrigo Salvador Monteiro</author>
+<author pid="227/5524">Daniel Ferreira de Oliveira</author>
+<title>A Systematic Mapping of Software Engineering Approaches to Develop Big Data Systems.</title>
+<pages>446-453</pages>
+<year>2018</year>
+<booktitle>SEAA</booktitle>
+<ee>https://doi.org/10.1109/SEAA.2018.00079</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SEAA.2018.00079</ee>
+<crossref>conf/euromicro/2018</crossref>
+<url>db/conf/euromicro/euromicro2018.html#LaignerKLMO18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ontobras/AlmeidaSLC18" mdate="2025-01-29">
+<author pid="66/7740">Ana Carolina Almeida</author>
+<author pid="s/DanielSchwabe">Daniel Schwabe 0001</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="78/4279">Maria Luiza Machado Campos</author>
+<title>CM-OPL: An Ontology Pattern Language for Configuration Management Task.</title>
+<pages>233-238</pages>
+<year>2018</year>
+<booktitle>ONTOBRAS</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2228/short3.pdf</ee>
+<crossref>conf/ontobras/2018</crossref>
+<url>db/conf/ontobras/ontobras2018.html#AlmeidaSLC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/AlmeidaHLOS18" mdate="2025-01-29">
+<author pid="66/7740">Ana Carolina Almeida</author>
+<author pid="93/6371">Edward Hermann Haeusler</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="198/9223">Rafael Pereira de Oliveira</author>
+<author pid="s/DanielSchwabe">Daniel Schwabe 0001</author>
+<title>Outer-Tuning: sintonia Fina Autom&#225;tica Baseada em Ontologia.</title>
+<pages>29-34</pages>
+<year>2018</year>
+<booktitle>SBBD Companion</booktitle>
+<ee type="oa">http://sbbd.org.br/2018/wp-content/uploads/sites/5/2018/08/029-sbbd_2018_comp.pdf</ee>
+<crossref>conf/sbbd/2018c</crossref>
+<url>db/conf/sbbd/sbbd2018c.html#AlmeidaHLOS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/EntenzaL18" mdate="2020-03-12">
+<author pid="225/0631">Julio O. Prieto Entenza</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Partitioning Very Large de Bruijn Graphs for Genome Assembly.</title>
+<pages>116-122</pages>
+<year>2018</year>
+<booktitle>SBBD Companion</booktitle>
+<ee type="oa">http://sbbd.org.br/2018/wp-content/uploads/sites/5/2018/08/116-sbbd_2018_comp.pdf</ee>
+<crossref>conf/sbbd/2018c</crossref>
+<url>db/conf/sbbd/sbbd2018c.html#EntenzaL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/FuentesACBL18" mdate="2020-03-12">
+<author pid="225/0592">Alain D. Fuentes</author>
+<author pid="66/7740">Ana Carolina Almeida</author>
+<author pid="55/1387">Rog&#233;rio Lu&#237;s de Carvalho Costa</author>
+<author pid="84/2055">Vanessa Braganholo</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Database Tuning with Partial Indexes.</title>
+<pages>181-192</pages>
+<year>2018</year>
+<booktitle>SBBD</booktitle>
+<ee type="oa">http://sbbd.org.br/2018/wp-content/uploads/sites/5/2018/08/181-sbbd_2018-fp.pdf</ee>
+<crossref>conf/sbbd/2018</crossref>
+<url>db/conf/sbbd/sbbd2018.html#FuentesACBL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/Lifschitz18" mdate="2020-03-12">
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>SBBD - Para Que e Para Quem?</title>
+<pages>311</pages>
+<year>2018</year>
+<booktitle>SBBD</booktitle>
+<ee type="oa">http://sbbd.org.br/2018/wp-content/uploads/sites/5/2018/08/311-sbbd_2018-kn.pdf</ee>
+<crossref>conf/sbbd/2018</crossref>
+<url>db/conf/sbbd/sbbd2018.html#Lifschitz18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/JuniorOCLE18" mdate="2021-04-09">
+<author orcid="0000-0003-2795-0009" pid="165/8181">Marcos Roriz Junior</author>
+<author pid="198/9223">Rafael Pereira de Oliveira</author>
+<author pid="145/9890">Felipe Oliveira Carvalho</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="e/MarkusEndler">Markus Endler</author>
+<title>Mensageria: A Smart City Framework for Real-Time Analysis of Traffic Data Streams.</title>
+<pages>59-73</pages>
+<year>2018</year>
+<booktitle>BiDU@VLDB</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-11238-7_4</ee>
+<crossref>conf/vldb/2018bidu</crossref>
+<url>db/conf/vldb/bidu2018.html#JuniorOCLE18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bibm/HondoWSCSWAHL17" mdate="2024-10-06">
+<author orcid="0009-0008-9982-3547" pid="169/3792">Fernanda Hondo</author>
+<author pid="211/4305">Polyane Wercelens</author>
+<author orcid="0000-0002-8660-6331" pid="193/7874">Waldeyr Mendes Cordeiro da Silva</author>
+<author orcid="0000-0003-0544-4527" pid="211/4103">Klayton Castro</author>
+<author pid="211/4134">Ingrid Santana</author>
+<author orcid="0000-0001-6822-931X" pid="84/2668">Maria Em&#237;lia Telles Walter</author>
+<author orcid="0000-0003-4645-6700" pid="38/2179">Alet&#233;ia Patr&#237;cia Favacho de Ara&#250;jo</author>
+<author orcid="0000-0002-0883-2579" pid="20/1662">Maristela Holanda</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Data provenance management for bioinformatics workflows using NoSQL database systems in a cloud computing environment.</title>
+<pages>1929-1934</pages>
+<year>2017</year>
+<booktitle>BIBM</booktitle>
+<ee>https://doi.org/10.1109/BIBM.2017.8217954</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BIBM.2017.8217954</ee>
+<crossref>conf/bibm/2017</crossref>
+<url>db/conf/bibm/bibm2017.html#HondoWSCSWAHL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bibm/AlmeidaSCWAHL17" mdate="2023-03-24">
+<author pid="181/6584">Rodrigo F. Almeida</author>
+<author orcid="0000-0002-8660-6331" pid="193/7874">Waldeyr Mendes Cordeiro da Silva</author>
+<author orcid="0000-0003-0544-4527" pid="211/4103">Klayton Castro</author>
+<author orcid="0000-0001-6822-931X" pid="84/2668">Maria Em&#237;lia Telles Walter</author>
+<author orcid="0000-0003-4645-6700" pid="38/2179">Alet&#233;ia Patr&#237;cia Favacho de Ara&#250;jo</author>
+<author orcid="0000-0002-0883-2579" pid="20/1662">Maristela Holanda</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>AProvBio: An architecture for data provenance in bioinformatics workflows using graph database.</title>
+<pages>2139-2144</pages>
+<year>2017</year>
+<booktitle>BIBM</booktitle>
+<ee>https://doi.org/10.1109/BIBM.2017.8217989</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BIBM.2017.8217989</ee>
+<crossref>conf/bibm/2017</crossref>
+<url>db/conf/bibm/bibm2017.html#AlmeidaSCWAHL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/AlmeidaMCL17" mdate="2021-01-21">
+<author pid="66/7740">Ana Carolina Almeida</author>
+<author pid="214/6173">Antony Seabra de Medeiros</author>
+<author orcid="0000-0003-2306-7585" pid="55/1387">Rog&#233;rio Lu&#237;s de Carvalho Costa</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Particionamento como A&#231;&#227;o de Sintonia Fina em Bancos de Dados Relacionais.</title>
+<pages>112-123</pages>
+<year>2017</year>
+<booktitle>SBBD</booktitle>
+<ee type="oa">http://sbbd.org.br/2017/wp-content/uploads/sites/3/2018/02/p112-123.pdf</ee>
+<crossref>conf/sbbd/2017</crossref>
+<url>db/conf/sbbd/sbbd2017.html#AlmeidaMCL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bibm/ArmasHLHSF16" mdate="2023-03-24">
+<author pid="193/8004">Elvismary Molina de Armas</author>
+<author pid="93/6371">Edward Hermann Haeusler</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author orcid="0000-0002-0883-2579" pid="20/1662">Maristela Terto de Holanda</author>
+<author orcid="0000-0002-8660-6331" pid="193/7874">Waldeyr Mendes Cordeiro da Silva</author>
+<author pid="193/7983">Paulo Cavalcanti Gomes Ferreira</author>
+<title>K-mer Mapping and de Bruijn graphs: The case for velvet fragment assembly.</title>
+<pages>882-889</pages>
+<year>2016</year>
+<booktitle>BIBM</booktitle>
+<ee>https://doi.org/10.1109/BIBM.2016.7822642</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BIBM.2016.7822642</ee>
+<crossref>conf/bibm/2016</crossref>
+<url>db/conf/bibm/bibm2016.html#ArmasHLHSF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bibm/LimaOKHWAVSL16" mdate="2023-03-24">
+<author pid="193/7892">Iasmini Lima</author>
+<author pid="193/7940">Matheus Oliveira</author>
+<author pid="193/8036">Diego Kieckbusch</author>
+<author orcid="0000-0002-0883-2579" pid="20/1662">Maristela Holanda</author>
+<author orcid="0000-0001-6822-931X" pid="84/2668">Maria Em&#237;lia M. T. Walter</author>
+<author orcid="0000-0003-4645-6700" pid="38/2179">Alet&#233;ia Patr&#237;cia Favacho de Ara&#250;jo</author>
+<author orcid="0000-0003-2785-8958" pid="58/5054">M&#225;rcio Victorino</author>
+<author orcid="0000-0002-8660-6331" pid="193/7874">Waldeyr Mendes Cordeiro da Silva</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>An evaluation of data replication for bioinformatics workflows on NoSQL systems.</title>
+<pages>896-901</pages>
+<year>2016</year>
+<booktitle>BIBM</booktitle>
+<ee>https://doi.org/10.1109/BIBM.2016.7822644</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BIBM.2016.7822644</ee>
+<crossref>conf/bibm/2016</crossref>
+<url>db/conf/bibm/bibm2016.html#LimaOKHWAVSL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/HuacarpumaSHL16" mdate="2020-03-12">
+<author pid="07/9961">Ruben Cruz Huacarpuma</author>
+<author pid="s/RTdeSousaJ">Rafael T. de Sousa Jr.</author>
+<author pid="20/1662">Maristela Holanda</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Concep&#231;&#227;o e Desenvolvimento de um Servi&#231;o Distribu&#237;do de Coleta e Tratamento de Dados para Ambientes de Internet das Coisas.</title>
+<pages>28-39</pages>
+<year>2016</year>
+<booktitle>SBBD</booktitle>
+<ee type="oa">http://sbbd2016.fpc.ufba.br/sbbd2016/sbbd/sbbd_f002.pdf</ee>
+<crossref>conf/sbbd/2016</crossref>
+<url>db/conf/sbbd/sbbd2016.html#HuacarpumaSHL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/AlmeidaBMLO16" mdate="2020-03-12">
+<author pid="66/7740">Ana Carolina Almeida</author>
+<author pid="b/AngeloBrayner">Angelo Brayner</author>
+<author pid="92/1818">Jos&#233; Maria Monteiro</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="198/9223">Rafael Pereira de Oliveira</author>
+<title>Automatic Physical Design Tuning based on Hypothetical Plans.</title>
+<pages>115-120</pages>
+<year>2016</year>
+<booktitle>SBBD</booktitle>
+<ee type="oa">http://sbbd2016.fpc.ufba.br/sbbd2016/sbbd/sbbd_s003.pdf</ee>
+<crossref>conf/sbbd/2016</crossref>
+<url>db/conf/sbbd/sbbd2016.html#AlmeidaBMLO16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bibm/GuimaraesHAOHAW15" mdate="2024-10-06">
+<author pid="169/3783">Valeria Guimar&#226;es</author>
+<author orcid="0009-0008-9982-3547" pid="169/3792">Fernanda Hondo</author>
+<author pid="181/6584">Rodrigo F. Almeida</author>
+<author orcid="0000-0003-2011-8797" pid="169/3796">Harley Vera Olivera</author>
+<author orcid="0000-0002-0883-2579" pid="20/1662">Maristela Holanda</author>
+<author orcid="0000-0003-4645-6700" pid="38/2179">Alet&#233;ia P. F. Ara&#250;jo</author>
+<author orcid="0000-0001-6822-931X" pid="84/2668">Maria Em&#237;lia Telles Walter</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>A study of genomic data provenance in NoSQL document-oriented database systems.</title>
+<pages>1525-1531</pages>
+<year>2015</year>
+<booktitle>BIBM</booktitle>
+<ee>https://doi.org/10.1109/BIBM.2015.7359902</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BIBM.2015.7359902</ee>
+<crossref>conf/bibm/2015</crossref>
+<url>db/conf/bibm/bibm2015.html#GuimaraesHAOHAW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/OliveiraLAH15" mdate="2022-05-04">
+<author pid="198/9223">Rafael Pereira de Oliveira</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="66/7740">Ana Carolina Almeida</author>
+<author pid="93/6371">Edward Hermann Haeusler</author>
+<title>Projeto e implementa&#231;&#227;o do framework Outer-tuning: auto sintonia e ontologia para bancos de dados relacionais [Design of the Outer-tuning framework: self-tuning and ontology for relational databases].</title>
+<pages>171-178</pages>
+<year>2015</year>
+<booktitle>SBSI</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbsi.2015.5814</ee>
+<ee>https://dl.acm.org/doi/10.5555/2814058.2814087</ee>
+<crossref>conf/sbsi/2015</crossref>
+<url>db/conf/sbsi/sbsi2015.html#OliveiraLAH15</url>
+</inproceedings>
+</r>
+<r><article key="journals/jidm/AraujoMMTBL14" mdate="2021-11-30">
+<author pid="148/6641">Arlino H. M. de Ara&#250;jo</author>
+<author pid="92/1818">Jos&#233; Maria Monteiro</author>
+<author pid="f/JAFernandesdeMacedo">Jos&#233; Ant&#244;nio Fernandes de Mac&#234;do</author>
+<author pid="135/1285">J&#250;lio A. Tavares</author>
+<author pid="b/AngeloBrayner">Angelo Brayner</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>On Using an Online, Automatic and Non-Intrusive Approach for Rewriting SQL Queries.</title>
+<pages>28-39</pages>
+<year>2014</year>
+<volume>5</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>1</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1517</ee>
+<url>db/journals/jidm/jidm5.html#AraujoMMTBL14</url>
+</article>
+</r>
+<r><article key="journals/jidm/HolandaPMBL14" mdate="2021-11-30">
+<author pid="119/6830">Pedro Holanda</author>
+<author pid="151/7931">Jo&#227;o Paulo Pordeus</author>
+<author pid="92/1818">Jos&#233; Maria Monteiro</author>
+<author pid="b/AngeloBrayner">Angelo Brayner</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Improving Index Maintenance Using Decision Analysis.</title>
+<pages>280-292</pages>
+<year>2014</year>
+<volume>5</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>3</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1544</ee>
+<url>db/journals/jidm/jidm5.html#HolandaPMBL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/bibm/AnicetoXHWL14" mdate="2023-03-24">
+<author pid="157/0928">Rodrigo Aniceto</author>
+<author pid="157/0967">Rene Xavier</author>
+<author orcid="0000-0002-0883-2579" pid="20/1662">Maristela Holanda</author>
+<author orcid="0000-0001-6822-931X" pid="84/2668">Maria Em&#237;lia Telles Walter</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Genomic data persistency on a NoSQL database system.</title>
+<pages>8-14</pages>
+<year>2014</year>
+<booktitle>BIBM</booktitle>
+<ee>https://doi.org/10.1109/BIBM.2014.6999304</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BIBM.2014.6999304</ee>
+<crossref>conf/bibm/2014</crossref>
+<url>db/conf/bibm/bibm2014.html#AnicetoXHWL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bibm/PinheiroAAHWL14" mdate="2023-03-24">
+<author pid="60/6427">Rodrigo Pinheiro</author>
+<author pid="157/0786">Bruno Aires</author>
+<author orcid="0000-0003-4645-6700" pid="38/2179">Alet&#233;ia P. F. Ara&#250;jo</author>
+<author orcid="0000-0002-0883-2579" pid="20/1662">Maristela Holanda</author>
+<author orcid="0000-0001-6822-931X" pid="84/2668">Maria Em&#237;lia Telles Walter</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Storing provenance data of genome project workflows using graph database.</title>
+<pages>16-22</pages>
+<year>2014</year>
+<booktitle>BIBM</booktitle>
+<ee>https://doi.org/10.1109/BIBM.2014.6999292</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BIBM.2014.6999292</ee>
+<crossref>conf/bibm/2014</crossref>
+<url>db/conf/bibm/bibm2014.html#PinheiroAAHWL14</url>
+</inproceedings>
+</r>
+<r><article key="journals/bmcbi/PaulaHGLW13" mdate="2021-03-02">
+<author pid="126/7760">Renato de Paula</author>
+<author orcid="0000-0002-0883-2579" pid="20/1662">Maristela Holanda</author>
+<author pid="25/10786">Luciana S. A. Gomes</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="84/2668">Maria Em&#237;lia M. T. Walter</author>
+<title>Provenance in bioinformatics workflows.</title>
+<pages>S6</pages>
+<year>2013</year>
+<volume>14</volume>
+<journal>BMC Bioinform.</journal>
+<number>S-11</number>
+<ee type="oa">https://doi.org/10.1186/1471-2105-14-S11-S6</ee>
+<ee>https://www.wikidata.org/entity/Q28661811</ee>
+<url>db/journals/bmcbi/bmcbi14S.html#PaulaHGLW13</url>
+</article>
+</r>
+<r><article key="journals/jidm/MogrovejoMMVL13" mdate="2021-11-30">
+<author pid="173/9193">Renato Javier Marroqu&#237;n Mogrovejo</author>
+<author pid="92/1818">Jos&#233; Maria Monteiro</author>
+<author pid="12/3896">Javam C. Machado</author>
+<author pid="84/6602">Carlos Juliano M. Viana</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Towards a Statistical Evaluation of PigLatin Joins.</title>
+<pages>483-498</pages>
+<year>2013</year>
+<volume>4</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>3</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1511</ee>
+<url>db/journals/jidm/jidm4.html#MogrovejoMMVL13</url>
+</article>
+</r>
+<r><inproceedings key="conf/bibm/PinheiroHAWL13" mdate="2023-03-24">
+<author pid="60/6427">Rodrigo Pinheiro</author>
+<author orcid="0000-0002-0883-2579" pid="20/1662">Maristela Holanda</author>
+<author orcid="0000-0003-4645-6700" pid="38/2179">Alet&#233;ia P. F. Ara&#250;jo</author>
+<author orcid="0000-0001-6822-931X" pid="84/2668">Maria Em&#237;lia Telles Walter</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Automatic capture of provenance data in genome project workflows.</title>
+<pages>15-20</pages>
+<year>2013</year>
+<booktitle>BIBM</booktitle>
+<ee>https://doi.org/10.1109/BIBM.2013.6732621</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BIBM.2013.6732621</ee>
+<crossref>conf/bibm/2013</crossref>
+<url>db/conf/bibm/bibm2013.html#PinheiroHAWL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/AlmeidaSLM13" mdate="2022-03-07">
+<author pid="181/6584">Rodrigo F. Almeida</author>
+<author pid="04/162">Fl&#225;vio R. C. Sousa</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="12/3896">Javam C. Machado</author>
+<title>On defining metrics for elasticity of cloud databases.</title>
+<pages>12:1-12:6</pages>
+<year>2013</year>
+<booktitle>SBBD (Short Papers)</booktitle>
+<ee type="archive">http://www.lbd.dcc.ufmg.br/colecoes/sbbd/2013/0012.pdf</ee>
+<crossref>conf/sbbd/2013s</crossref>
+<url>db/conf/sbbd/sbbd2013s.html#AlmeidaSLM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/AraujoMMTBL13" mdate="2022-03-07">
+<author pid="148/6641">Arlino H. M. de Ara&#250;jo</author>
+<author pid="92/1818">Jos&#233; Maria Monteiro</author>
+<author pid="f/JAFernandesdeMacedo">Jos&#233; Ant&#244;nio Fernandes de Mac&#234;do</author>
+<author pid="135/1285">J&#250;lio A. Tavares</author>
+<author pid="b/AngeloBrayner">Angelo Brayner</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>On Using an Automatic, Autonomous and Non-Intrusive Approach for Rewriting SQL Queries.</title>
+<pages>20:1-20:6</pages>
+<year>2013</year>
+<booktitle>SBBD (Short Papers)</booktitle>
+<ee type="archive">http://www.lbd.dcc.ufmg.br/colecoes/sbbd/2013/0020.pdf</ee>
+<crossref>conf/sbbd/2013s</crossref>
+<url>db/conf/sbbd/sbbd2013s.html#AraujoMMTBL13</url>
+</inproceedings>
+</r>
+<r><article key="journals/jidm/MedeirosSCHMBL12" mdate="2025-03-07">
+<author pid="119/6860">Andr&#233; Medeiros</author>
+<author pid="119/6766">Arist&#234;nio Saraiva</author>
+<author pid="84/9319">Gustavo Augusto Lima de Campos</author>
+<author pid="119/6830">Pedro Holanda</author>
+<author pid="92/1818">Jos&#233; Maria Monteiro</author>
+<author pid="b/AngeloBrayner">Angelo Brayner</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Proactive Index Maintenance: Using Prediction Models for Improving Index Maintenance in Databases.</title>
+<pages>255-270</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>3</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1452</ee>
+<url>db/journals/jidm/jidm3.html#MedeirosSCHMBL12</url>
+</article>
+</r>
+<r><inproceedings key="conf/bibm/PaulaHWL12" mdate="2023-03-24">
+<author pid="126/7760">Renato de Paula</author>
+<author orcid="0000-0002-0883-2579" pid="20/1662">Maristela Holanda</author>
+<author orcid="0000-0001-6822-931X" pid="84/2668">Maria Em&#237;lia M. T. Walter</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Managing data provenance in genome project workflows.</title>
+<pages>654-661</pages>
+<year>2012</year>
+<booktitle>BIBM Workshops</booktitle>
+<ee>https://doi.org/10.1109/BIBMW.2012.6470215</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BIBMW.2012.6470215</ee>
+<crossref>conf/bibm/2012w</crossref>
+<url>db/conf/bibm/bibmw2012.html#PaulaHWL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/MorelliALMM12" mdate="2021-04-09">
+<author pid="51/2925">Eduardo Terra Morelli</author>
+<author pid="66/7740">Ana Carolina Almeida</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="92/1818">Jos&#233; Maria Monteiro</author>
+<author pid="12/3896">Javam C. Machado</author>
+<title>Autonomous re-indexing.</title>
+<pages>893-897</pages>
+<year>2012</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2245276.2245450</ee>
+<crossref>conf/sac/2012</crossref>
+<url>db/conf/sac/sac2012.html#MorelliALMM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wob/LifschitzVTCDMBO12" mdate="2017-09-16">
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="84/6602">Carlos Juliano M. Viana</author>
+<author pid="36/7970">Cristian Trist&#227;o</author>
+<author pid="65/7971">Marcos Catanho</author>
+<author pid="44/1569">Wim M. Degrave</author>
+<author pid="77/2060">Antonio Bas&#237;lio de Miranda</author>
+<author pid="32/7969">M&#225;rcia Bezerra</author>
+<author pid="24/1282">Thomas D. Otto</author>
+<title>Design and Implementation of ProteinWorldDB.</title>
+<pages>144-155</pages>
+<year>2012</year>
+<booktitle>BSB</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31927-3_13</ee>
+<crossref>conf/wob/2012</crossref>
+<url>db/conf/wob/bsb2012.html#LifschitzVTCDMBO12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bibm/LifschitzGR11" mdate="2023-03-24">
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="25/10786">Luciana S. A. Gomes</author>
+<author orcid="0000-0003-4216-9501" pid="35/7977">Stevens K. Rehen</author>
+<title>Dealing with reusability and reproducibility for scientific workflows.</title>
+<pages>625-632</pages>
+<year>2011</year>
+<booktitle>BIBM Workshops</booktitle>
+<ee>https://doi.org/10.1109/BIBMW.2011.6112441</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BIBMW.2011.6112441</ee>
+<crossref>conf/bibm/2011w</crossref>
+<url>db/conf/bibm/bibmw2011.html#LifschitzGR11</url>
+</inproceedings>
+</r>
+<r><article key="journals/bioinformatics/OttoCTBFESBBLMD10" mdate="2020-03-02">
+<author orcid="0000-0002-1246-7404" pid="24/1282">Thomas D. Otto</author>
+<author pid="65/7971">Marcos Catanho</author>
+<author pid="36/7970">Cristian Trist&#227;o</author>
+<author pid="32/7969">M&#225;rcia Bezerra</author>
+<author pid="48/7969">Renan Mathias Fernandes</author>
+<author pid="53/7971">Guilherme Steinberger Elias</author>
+<author pid="56/7971">Alexandre Capeletto Scaglia</author>
+<author pid="33/7970">Bill Bovermann</author>
+<author pid="01/4262">Viktors Berstis</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="77/2060">Antonio Bas&#237;lio de Miranda</author>
+<author pid="44/1569">Wim M. Degrave</author>
+<title>ProteinWorldDB: querying radical pairwise alignments among protein sets from complete genomes.</title>
+<pages>705-707</pages>
+<year>2010</year>
+<volume>26</volume>
+<journal>Bioinform.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1093/bioinformatics/btq011</ee>
+<ee>https://www.wikidata.org/entity/Q38507643</ee>
+<url>db/journals/bioinformatics/bioinformatics26.html#OttoCTBFESBBLMD10</url>
+</article>
+</r>
+<r><inproceedings key="conf/mobide/MonteiroBL09" mdate="2021-04-09">
+<author pid="92/1818">Jos&#233; Maria Monteiro</author>
+<author orcid="0000-0001-9820-9133" pid="b/AngeloBrayner">Angelo Brayner</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Using transaction isolation levels for ensuring replicated database consistency in mobile computing environments.</title>
+<pages>1-8</pages>
+<year>2009</year>
+<booktitle>MobiDE</booktitle>
+<ee>https://doi.org/10.1145/1594139.1594146</ee>
+<crossref>conf/mobide/2009</crossref>
+<url>db/conf/mobide/mobide2009.html#MonteiroBL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/MorelliMAL09" mdate="2023-01-17">
+<author pid="51/2925">Eduardo Terra Morelli</author>
+<author pid="92/1818">Jos&#233; Maria Monteiro</author>
+<author pid="66/7740">Ana Carolina Almeida</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Reindexa&#231;&#227;o Autom&#225;tica em SGBDs Relacionais.</title>
+<pages>31-45</pages>
+<year>2009</year>
+<booktitle>SBBD</booktitle>
+<ee type="archive">http://www.lbd.dcc.ufmg.br:8080/colecoes/sbbd/2009/003.pdf</ee>
+<crossref>conf/sbbd/2009</crossref>
+<url>db/conf/sbbd/sbbd2009.html#MorelliMAL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/Lifschitz09" mdate="2023-01-17">
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Self-tuning e outros Self-* em SGBDs.</title>
+<pages>264</pages>
+<year>2009</year>
+<booktitle>SBBD</booktitle>
+<ee type="archive">http://www.lbd.dcc.ufmg.br:8080/colecoes/sbbd/2009/024.pdf</ee>
+<crossref>conf/sbbd/2009</crossref>
+<url>db/conf/sbbd/sbbd2009.html#Lifschitz09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sew/AlmeidaLB09" mdate="2023-03-24">
+<author pid="66/7740">Ana Carolina Almeida</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author orcid="0000-0001-9578-3623" pid="b/KarinKooganBreitman">Karin K. Breitman</author>
+<title>A Knowledge Representation and Data Provenance Model to Self-Tuning Database Systems.</title>
+<pages>144-150</pages>
+<year>2009</year>
+<booktitle>SEW</booktitle>
+<ee>https://doi.org/10.1109/SEW.2009.25</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SEW.2009.25</ee>
+<crossref>conf/sew/2009</crossref>
+<url>db/conf/sew/sew2009.html#AlmeidaLB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vecpar/SousaLV08" mdate="2021-04-09">
+<author pid="88/2839">Daniel Xavier de Sousa</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="v/PatrickValduriez">Patrick Valduriez</author>
+<title>BLAST Distributed Execution on Partitioned Databases with Primary Fragments.</title>
+<pages>544-554</pages>
+<year>2008</year>
+<booktitle>VECPAR</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-92859-1_48</ee>
+<crossref>conf/vecpar/2008</crossref>
+<url>db/conf/vecpar/vecpar2008.html#SousaLV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wob/NoronhaLM08" mdate="2021-04-09">
+<author pid="41/1560">Maira Ferreira de Noronha</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="77/2060">Antonio Bas&#237;lio de Miranda</author>
+<title>A Practical Evaluation of BioProvider.</title>
+<pages>174-177</pages>
+<year>2008</year>
+<booktitle>BSB</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85557-6_18</ee>
+<crossref>conf/wob/2008</crossref>
+<url>db/conf/wob/bsb2008.html#NoronhaLM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/MacedoPLP07" mdate="2023-03-24">
+<author pid="f/JAFernandesdeMacedo">Jos&#233; Ant&#244;nio Fernandes de Mac&#234;do</author>
+<author pid="p/FabioPorto">F&#225;bio Porto 0001</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="p/PPicouet">Philippe Picouet</author>
+<title>Dealing with Some Conceptual Data Model Requirements for Biological Domains.</title>
+<pages>651-656</pages>
+<year>2007</year>
+<crossref>conf/aina/2007w1</crossref>
+<booktitle>AINA Workshops (1)</booktitle>
+<ee>https://doi.org/10.1109/AINAW.2007.142</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AINAW.2007.142</ee>
+<url>db/conf/aina/ainaw2007-1.html#MacedoPLP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cbms/MacedoPLP07" mdate="2023-03-24">
+<author pid="f/JAFernandesdeMacedo">Jos&#233; Ant&#244;nio Fernandes de Mac&#234;do</author>
+<author pid="p/FabioPorto">F&#225;bio Porto 0001</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="p/PPicouet">Philippe Picouet</author>
+<title>A Conceptual Data Model Language for the Molecular Biology Domain.</title>
+<pages>231-236</pages>
+<year>2007</year>
+<crossref>conf/cbms/2007</crossref>
+<booktitle>CBMS</booktitle>
+<ee>https://doi.org/10.1109/CBMS.2007.3</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CBMS.2007.3</ee>
+<url>db/conf/cbms/cbms2007.html#MacedoPLP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/MonteiroBL07" mdate="2021-04-09">
+<author pid="92/1818">Jos&#233; Maria Monteiro</author>
+<author orcid="0000-0001-9820-9133" pid="b/AngeloBrayner">Angelo Brayner</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>A mechanism for replicated data consistency in mobile computing environments.</title>
+<pages>914-919</pages>
+<year>2007</year>
+<crossref>conf/sac/2007</crossref>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1244002.1244203</ee>
+<url>db/conf/sac/sac2007.html#MonteiroBL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/SallesML06" mdate="2023-01-17">
+<author pid="70/4277">Marcos Antonio Vaz Salles</author>
+<author pid="51/2925">Eduardo Terra Morelli</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Towards Autonomic Index Maintenance.</title>
+<pages>176-190</pages>
+<year>2006</year>
+<crossref>conf/sbbd/2006</crossref>
+<booktitle>SBBD</booktitle>
+<ee type="archive">http://www.lbd.dcc.ufmg.br:8080/colecoes/sbbd/2006/012.pdf</ee>
+<url>db/conf/sbbd/sbbd2006.html#SallesML06</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/LifschitzL05" mdate="2021-04-09">
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="l/AHFLaender">Alberto H. F. Laender</author>
+<title>Report on the 19<sup>th</sup> Brazilian symposium on databases (SBBD 2004).</title>
+<pages>61-62</pages>
+<year>2005</year>
+<volume>34</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1058150.1058164</ee>
+<url>db/journals/sigmod/sigmod34.html#LifschitzL05</url>
+</article>
+</r>
+<r><inproceedings key="conf/icac/LifschitzS05" mdate="2023-03-24">
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="70/4277">Marcos Antonio Vaz Salles</author>
+<title>Autonomic Index Management.</title>
+<pages>304-305</pages>
+<year>2005</year>
+<crossref>conf/icac/2005</crossref>
+<booktitle>ICAC</booktitle>
+<ee>https://doi.org/10.1109/ICAC.2005.13</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICAC.2005.13</ee>
+<url>db/conf/icac/icac2005.html#LifschitzS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/CostaLNS05" mdate="2023-03-23">
+<author orcid="0000-0003-2306-7585" pid="55/1387">Rog&#233;rio Lu&#237;s de Carvalho Costa</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="41/1560">Maira Ferreira de Noronha</author>
+<author pid="70/4277">Marcos Antonio Vaz Salles</author>
+<title>Implementation of an Agent Architecture for Automated Index Tuning.</title>
+<pages>1215</pages>
+<year>2005</year>
+<crossref>conf/icde/2005w</crossref>
+<booktitle>ICDE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2005.228</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2005.228</ee>
+<url>db/conf/icde/icdew2005.html#CostaLNS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/MilanesL05" mdate="2023-10-25">
+<author pid="14/152">Anolan Milan&#233;s</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Design and Implementation of a Global Self-tuning Architecture.</title>
+<pages>70-84</pages>
+<year>2005</year>
+<crossref>conf/sbbd/2005</crossref>
+<booktitle>SBBD</booktitle>
+<ee type="archive">http://www.sbbd-sbes2005.ufu.br/arquivos/artigo-05-MilanesLifschitz.pdf</ee>
+<url>db/conf/sbbd/sbbd2005.html#MilanesL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wob/MauroL04" mdate="2005-03-10">
+<author pid="81/6577">Renato Mauro</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>An I/O Device Driver for Bioinformatics Tools: the case for BLAST.</title>
+<pages>33-40</pages>
+<year>2004</year>
+<crossref>conf/wob/2004</crossref>
+<booktitle>WOB</booktitle>
+<url>db/conf/wob/wob2004.html#MauroL04</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sbbd/2004" mdate="2005-03-17">
+<editor pid="l/SLifschitz">S&#233;rgio Lifschitz</editor>
+<title>XIX Simp&#243;sio Brasileiro de Bancos de Dados, 18-20 de Outubro, 2004,Bras&#237;lia, Distrito Federal, Brasil, Anais/Proceedings</title>
+<publisher>UnB</publisher>
+<year>2004</year>
+<isbn>85-7669-009-8</isbn>
+<booktitle>SBBD</booktitle>
+<url>db/conf/sbbd/sbbd2004.html</url>
+</proceedings>
+</r>
+<r><article key="journals/cleiej/CostaLS03" mdate="2025-01-19">
+<author orcid="0000-0003-2306-7585" pid="55/1387">Rog&#233;rio Lu&#237;s de Carvalho Costa</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="70/4277">Marcos Antonio Vaz Salles</author>
+<title>Index Self-tunning with Agent-based Databases.</title>
+<year>2003</year>
+<volume>6</volume>
+<journal>CLEI Electron. J.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.19153/cleiej.6.1.6</ee>
+<ee>https://www.wikidata.org/entity/Q129098484</ee>
+<url>db/journals/cleiej/cleiej6.html#CostaLS03</url>
+</article>
+</r>
+<r><article key="journals/dpd/CostaL03" mdate="2020-05-18">
+<author orcid="0000-0003-2306-7585" pid="55/1387">Rog&#233;rio Lu&#237;s de Carvalho Costa</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Database Allocation Strategies for Parallel BLAST Evaluation on Clusters.</title>
+<pages>99-127</pages>
+<year>2003</year>
+<volume>13</volume>
+<journal>Distributed Parallel Databases</journal>
+<number>1</number>
+<url>db/journals/dpd/dpd13.html#CostaL03</url>
+<ee>https://doi.org/10.1023/A:1021569823663</ee>
+</article>
+</r>
+<r><inproceedings key="conf/dexaw/LemosL03" mdate="2023-03-24">
+<author pid="32/6523">Melissa Lemos</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>A Study of a Multi-Ring Buffer Management for BLAST.</title>
+<pages>5-9</pages>
+<year>2003</year>
+<crossref>conf/dexaw/2003</crossref>
+<booktitle>DEXA Workshops</booktitle>
+<ee>https://doi.org/10.1109/DEXA.2003.1231989</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DEXA.2003.1231989</ee>
+<url>db/conf/dexaw/dexaw2003.html#LemosL03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ideas/SeibelLL03" mdate="2023-03-24">
+<author pid="41/2639">Luiz Fernando Bessa Seibel</author>
+<author pid="32/6523">Melissa Lemos</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Implementation Issues of Bio-AXS: An Object-oriented Framework for Integrating Biological Data and Applications.</title>
+<pages>409-413</pages>
+<year>2003</year>
+<crossref>conf/ideas/2003</crossref>
+<booktitle>IDEAS</booktitle>
+<ee>https://doi.org/10.1109/IDEAS.2003.1214966</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IDEAS.2003.1214966</ee>
+<url>db/conf/ideas/ideas2003.html#SeibelLL03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wob/SeibelMLLMAD03" mdate="2005-03-10">
+<author pid="41/2639">Luiz Fernando Bessa Seibel</author>
+<author pid="f/JAFernandesdeMacedo">Jos&#233; Ant&#244;nio Fernandes de Mac&#234;do</author>
+<author pid="32/6523">Melissa Lemos</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="77/2060">Antonio Bas&#237;lio de Miranda</author>
+<author pid="15/667">Marcelo Alves</author>
+<author pid="44/1569">Wim M. Degrave</author>
+<title>A Conceptual Model for Molecular Biology Information.</title>
+<pages>47-56</pages>
+<year>2003</year>
+<crossref>conf/wob/2003</crossref>
+<booktitle>WOB</booktitle>
+<url>db/conf/wob/wob2003.html#SeibelMLLMAD03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wob/CostaL03" mdate="2005-03-10">
+<author pid="55/1387">Rog&#233;rio Lu&#237;s de Carvalho Costa</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Skew Handling for Parallel BLAST Processing.</title>
+<pages>173-176</pages>
+<year>2003</year>
+<crossref>conf/wob/2003</crossref>
+<booktitle>WOB</booktitle>
+<url>db/conf/wob/wob2003.html#CostaL03</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/wob/2003" mdate="2005-03-14">
+<editor pid="l/SLifschitz">S&#233;rgio Lifschitz</editor>
+<editor pid="09/2799">Nalvo F. Almeida Jr.</editor>
+<editor pid="53/6863">Georgios Joannis Pappas Jr.</editor>
+<editor pid="18/821">Ricardo Linden</editor>
+<title>II Brazilian Workshop on Bioinformatics, December 3-5, 2003, Maca&#233;, RJ, Brazil</title>
+<booktitle>WOB</booktitle>
+<year>2003</year>
+<url>db/conf/wob/wob2003.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/sbbd/SeibelL02" mdate="2003-10-06">
+<author pid="41/2639">Luiz Fernando Bessa Seibel</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>An Overview of Genomic Databases Research Issues.</title>
+<pages>10</pages>
+<year>2002</year>
+<crossref>conf/sbbd/2002</crossref>
+<booktitle>SBBD</booktitle>
+<url>db/conf/sbbd/sbbd2002.html#SeibelL02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/LifschitzS02" mdate="2003-10-06">
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="74/5777">Michelle S&#225;</author>
+<title>Competitive Online Comparison for Parallel Joins.</title>
+<pages>151-165</pages>
+<year>2002</year>
+<crossref>conf/sbbd/2002</crossref>
+<booktitle>SBBD</booktitle>
+<url>db/conf/sbbd/sbbd2002.html#LifschitzS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wob/CostaL02" mdate="2005-03-10">
+<author pid="55/1387">Rog&#233;rio Lu&#237;s de Carvalho Costa</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>BLAST Implementation Issues on Workstation Clusters.</title>
+<pages>24-31</pages>
+<year>2002</year>
+<crossref>conf/wob/2002</crossref>
+<booktitle>WOB</booktitle>
+<url>db/conf/wob/wob2002.html#CostaL02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/SeibelL01" mdate="2021-04-09">
+<author pid="41/2639">Luiz Fernando Bessa Seibel</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>A Genome Databases Framework.</title>
+<pages>319-329</pages>
+<year>2001</year>
+<crossref>conf/dexa/2001</crossref>
+<booktitle>DEXA</booktitle>
+<ee>https://doi.org/10.1007/3-540-44759-8_32</ee>
+<url>db/conf/dexa/dexa2001.html#SeibelL01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/FreitasLM01" mdate="2003-10-07">
+<author pid="44/6349">Fl&#225;vio Freitas</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="f/JAFernandesdeMacedo">Jos&#233; Ant&#244;nio Fernandes de Mac&#234;do</author>
+<title>ARCOJP: Uma Arquitetura para Compara&#231;&#227;o de Jun&#231;&#245;es Paralelas.</title>
+<pages>286-300</pages>
+<year>2001</year>
+<crossref>conf/sbbd/2001</crossref>
+<booktitle>SBBD</booktitle>
+<url>db/conf/sbbd/sbbd2001.html#FreitasLM01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wiiw/LifschitzSU01" mdate="2017-03-16">
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="41/2639">Luiz Fernando Bessa Seibel</author>
+<author pid="56/177">Elvira Maria Antunes Uch&#244;a</author>
+<title>A Framework for Molecular Biology Data Integration.</title>
+<pages>27-34</pages>
+<year>2001</year>
+<crossref>conf/wiiw/2001</crossref>
+<booktitle>Workshop on Information Integration on the Web</booktitle>
+<url>db/conf/wiiw/wiiw2001.html#LifschitzSU01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexaw/CarvalhoLL99" mdate="2023-03-24">
+<author pid="18/6916">Sergio Carvalho</author>
+<author pid="l/AlbertoLerner">Alberto Lerner</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>An Object-Oriented Framework for the Parallel Join Operation.</title>
+<pages>34-38</pages>
+<year>1999</year>
+<crossref>conf/dexaw/1999</crossref>
+<booktitle>DEXA Workshop</booktitle>
+<ee>https://doi.org/10.1109/DEXA.1999.795141</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DEXA.1999.795141</ee>
+<url>db/conf/dexaw/dexaw99.html#CarvalhoLL99</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcs/LifschitzV98" mdate="2021-02-17">
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="v/VictorVianu">Victor Vianu</author>
+<title>A Probabilistic View of Datalog Parallelization.</title>
+<pages>211-239</pages>
+<year>1998</year>
+<volume>190</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>2</number>
+<url>db/journals/tcs/tcs190.html#LifschitzV98</url>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(97)00091-1</ee>
+</article>
+</r>
+<r><inproceedings key="conf/dexa/UchoaLM98" mdate="2021-04-09">
+<author pid="56/177">Elvira Maria Antunes Uch&#244;a</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="m/RubensNascimentoMelo">Rubens N. Melo</author>
+<title>HEROS: A Heterogeneous Object-Oriented Database System.</title>
+<pages>435-447</pages>
+<ee>https://doi.org/10.1007/BFb0054502</ee>
+<year>1998</year>
+<crossref>conf/dexa/1998</crossref>
+<booktitle>DEXA</booktitle>
+<url>db/conf/dexa/dexa98.html#UchoaLM98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/LifschitzPR97" mdate="2022-04-09">
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="54/401">Alexandre Plastino 0001</author>
+<author orcid="0000-0002-9478-2351" pid="26/4167">Celso C. Ribeiro</author>
+<title>Exploring Load Balancing in Parallel Processing of Recursive Queries.</title>
+<pages>1125-1129</pages>
+<year>1997</year>
+<crossref>conf/europar/1997</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar97.html#LifschitzPR97</url>
+<ee>https://doi.org/10.1007/BFb0002862</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dood/LifschitzMP95" mdate="2021-04-09">
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="m/RubensNascimentoMelo">Rubens N. Melo</author>
+<author pid="54/3765">Esther Pacitti</author>
+<title>Practical Behavior of Parallelization Strategies for Datalog.</title>
+<pages>109-127</pages>
+<year>1995</year>
+<crossref>conf/dood/1995</crossref>
+<booktitle>DOOD</booktitle>
+<url>db/conf/dood/dood95.html#LifschitzMP95</url>
+<ee>https://doi.org/10.1007/3-540-60608-4_37</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/LifschitzV95" mdate="2021-04-09">
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="v/VictorVianu">Victor Vianu</author>
+<title>A Probabilistic View of Datalog Parallelization.</title>
+<pages>294-307</pages>
+<cdrom>ICDT1995/P294.pdf</cdrom>
+<year>1995</year>
+<booktitle>ICDT</booktitle>
+<url>db/conf/icdt/icdt95.html#LifschitzV95</url>
+<crossref>conf/icdt/95</crossref>
+<ee>https://doi.org/10.1007/3-540-58907-4_23</ee>
+<cite>conf/pods/AbiteboulCV92</cite>
+<cite>conf/icdt/AbiteboulG92</cite>
+<cite>books/mk/minker88/BancilhonR88</cite>
+<cite>journals/dke/BellSH91</cite>
+<cite>conf/popl/Chandra81</cite>
+<cite>journals/jcss/ChandraH82</cite>
+<cite>conf/dasfaa/CheineyKM93</cite>
+<cite>conf/pods/CohenW89</cite>
+<cite>...</cite>
+<cite>conf/icdt/Fagin90</cite>
+<cite>conf/sigmod/GangulyST90</cite>
+<cite>journals/iandc/Grandjean83</cite>
+<cite>conf/vldb/Hulin89</cite>
+<cite>conf/lics/KolaitisV88</cite>
+<cite>conf/lics/KolaitisV90</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/pods/SeibL91</cite>
+<cite label="19-1">books/cs/Ullman88</cite>
+<cite label="19-2">books/cs/Ullman89</cite>
+<cite label="20">conf/pods/Ullman89</cite>
+<cite label="21">conf/sigmod/Gelder86</cite>
+<cite label="22">conf/dpds/Wolfson88</cite>
+<cite label="23">conf/sigmod/WolfsonO90</cite>
+<cite label="24">conf/sigmod/WolfsonS88</cite>
+<cite label="25">conf/pdis/ZhangWC91</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/HuangLC92" mdate="2005-03-10">
+<author pid="06/400">Yan-Nong Huang</author>
+<author pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<author pid="08/2052">Jean-Pierre Cheiney</author>
+<title>Aggregates over transitively closed relations.</title>
+<pages>220-</pages>
+<year>1992</year>
+<crossref>conf/bda/1992</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda1992.html#HuangLC92</url>
+</inproceedings>
+</r>
+<r><article key="journals/pr/AtallahRL91" mdate="2022-04-09">
+<author pid="a/MikhailJAtallah">Mikhail J. Atallah</author>
+<author orcid="0000-0002-9478-2351" pid="26/4167">Celso C. Ribeiro</author>
+<author orcid="0000-0003-3073-3734" pid="l/SLifschitz">S&#233;rgio Lifschitz</author>
+<title>Computing some distance functions between polygons.</title>
+<pages>775-781</pages>
+<year>1991</year>
+<volume>24</volume>
+<journal>Pattern Recognit.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/0031-3203(91)90045-7</ee>
+<url>db/journals/pr/pr24.html#AtallahRL91</url>
+</article>
+</r>
+<coauthors n="158" nc="3">
+<co c="0"><na f="a/Aires:Bruno" pid="157/0786">Bruno Aires</na></co>
+<co c="1"><na f="a/Albu:Debora" pid="280/1363">Debora Albu</na></co>
+<co c="0"><na f="a/Almeida:Ana_Carolina" pid="66/7740">Ana Carolina Almeida</na></co>
+<co c="0"><na f="a/Almeida:Rodrigo_F=" pid="181/6584">Rodrigo F. Almeida</na></co>
+<co c="0" n="3"><na f="a/Almeida_Jr=:Nalvo_F=_de" pid="09/2799">Nalvo F. de Almeida Jr.</na><na>Nalvo F. Almeida Jr.</na><na>Nalvo F. Almeida</na></co>
+<co c="0"><na f="a/Alves:Marcelo" pid="15/667">Marcelo Alves</na></co>
+<co c="0"><na f="a/Aniceto:Rodrigo" pid="157/0928">Rodrigo Aniceto</na></co>
+<co c="0" n="2"><na f="a/Arag=atilde=o:Marcus_Poggi_de" pid="63/4961">Marcus Poggi de Arag&#227;o</na><na>Marcus Poggi</na></co>
+<co c="0" n="2"><na f="a/Ara=uacute=jo:Alet=eacute=ia_P=_F=" pid="38/2179">Alet&#233;ia P. F. Ara&#250;jo</na><na>Alet&#233;ia Patr&#237;cia Favacho de Ara&#250;jo</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Arlino_H=_M=_de" pid="148/6641">Arlino H. M. de Ara&#250;jo</na></co>
+<co c="0"><na f="a/Armas:Elvismary_Molina_de" pid="193/8004">Elvismary Molina de Armas</na></co>
+<co c="0"><na f="a/Arruda:Darlan" pid="175/7408">Darlan Arruda</na></co>
+<co c="0"><na f="a/Atallah:Mikhail_J=" pid="a/MikhailJAtallah">Mikhail J. Atallah</na></co>
+<co c="0" n="2"><na f="b/Bai=atilde=o:Fernanda" pid="b/FAraujoBaiao">Fernanda Bai&#227;o</na><na>Fernanda Ara&#250;jo Bai&#227;o</na></co>
+<co c="0"><na f="b/Barbosa:Simone_D=_J=" pid="b/SDJBarbosa">Simone D. J. Barbosa</na></co>
+<co c="0"><na f="b/Barros:Leonardo" pid="03/632">Leonardo Barros</na></co>
+<co c="0"><na f="b/Berstis:Viktors" pid="01/4262">Viktors Berstis</na></co>
+<co c="0"><na f="b/Bezerra:M=aacute=rcia" pid="32/7969">M&#225;rcia Bezerra</na></co>
+<co c="0"><na f="b/Boroni:Mariana" pid="297/5930">Mariana Boroni</na></co>
+<co c="0"><na f="b/Bovermann:Bill" pid="33/7970">Bill Bovermann</na></co>
+<co c="0"><na f="b/Braganholo:Vanessa" pid="84/2055">Vanessa Braganholo</na></co>
+<co c="0"><na f="b/Brayner:Angelo" pid="b/AngeloBrayner">Angelo Brayner</na></co>
+<co c="0"><na f="b/Breitman:Karin_K=" pid="b/KarinKooganBreitman">Karin K. Breitman</na></co>
+<co c="0" n="2"><na f="c/Campos:Gustavo_A=_L=_de" pid="84/9319">Gustavo A. L. de Campos</na><na>Gustavo Augusto Lima de Campos</na></co>
+<co c="0" n="2"><na f="c/Campos:Maria_Luiza_M=" pid="78/4279">Maria Luiza M. Campos</na><na>Maria Luiza Machado Campos</na></co>
+<co c="0"><na f="c/Carvalho:Felipe_Oliveira" pid="145/9890">Felipe Oliveira Carvalho</na></co>
+<co c="0" n="2"><na f="c/Carvalho:Rommel_N=" pid="43/283">Rommel N. Carvalho</na><na>Rommel Novaes Carvalho</na></co>
+<co c="2"><na f="c/Carvalho:Sergio" pid="18/6916">Sergio Carvalho</na></co>
+<co c="0"><na f="c/Cassino:Carlos" pid="80/1111">Carlos Cassino</na></co>
+<co c="0"><na f="c/Castro:Klayton" pid="211/4103">Klayton Castro</na></co>
+<co c="0"><na f="c/Castro:Liester_Cruz" pid="258/5140">Liester Cruz Castro</na></co>
+<co c="0"><na f="c/Catanho:Marcos" pid="65/7971">Marcos Catanho</na></co>
+<co c="0"><na f="c/Cavalcante:Claudio" pid="224/2462">Claudio Cavalcante</na></co>
+<co c="1"><na f="c/Cerqueira:Diego" pid="283/1271">Diego Cerqueira</na></co>
+<co c="0"><na f="c/Cheiney:Jean=Pierre" pid="08/2052">Jean-Pierre Cheiney</na></co>
+<co c="0" n="3"><na f="c/Costa:Rog=eacute=rio_Lu=iacute=s_C=" pid="55/1387">Rog&#233;rio Lu&#237;s C. Costa</na><na>Rog&#233;rio Lu&#237;s de C. Costa</na><na>Rog&#233;rio Lu&#237;s de Carvalho Costa</na></co>
+<co c="0" n="2"><na f="c/Costa:Rosa_Maria" pid="42/2251">Rosa Maria Costa</na><na>Rosa M. M. Costa</na></co>
+<co c="0"><na f="c/Cuconato:Bruno" pid="201/9381">Bruno Cuconato</na></co>
+<co c="1"><na f="c/Cury:Yago" pid="367/3338">Yago Cury</na></co>
+<co c="0"><na f="d/Degrave:Wim_M=" pid="44/1569">Wim M. Degrave</na></co>
+<co c="0"><na f="d/Diniz:Pedro" pid="270/5507">Pedro Diniz</na></co>
+<co c="0"><na f="e/Elias:Guilherme_Steinberger" pid="53/7971">Guilherme Steinberger Elias</na></co>
+<co c="0"><na f="e/Endler:Markus" pid="e/MarkusEndler">Markus Endler</na></co>
+<co c="0"><na f="e/Entenza:Julio_O=_Prieto" pid="225/0631">Julio O. Prieto Entenza</na></co>
+<co c="0"><na f="e/Erven:Gustavo_Cordeiro_Galv=atilde=o_Van" pid="197/6948">Gustavo Cordeiro Galv&#227;o Van Erven</na></co>
+<co c="0"><na f="e/Esteves:Jo=atilde=o_Victor" pid="249/1743">Jo&#227;o Victor Esteves</na></co>
+<co c="0"><na f="f/Fernandes:Renan_Mathias" pid="48/7969">Renan Mathias Fernandes</na></co>
+<co c="1"><na f="f/Fernando:Redson" pid="367/3449">Redson Fernando</na></co>
+<co c="1"><na f="f/Ferreira:Julia_Hellen" pid="367/3410">Julia Hellen Ferreira</na></co>
+<co c="0"><na f="f/Ferreira:Paulo_Cavalcanti_Gomes" pid="193/7983">Paulo Cavalcanti Gomes Ferreira</na></co>
+<co c="0"><na f="f/Freitas:Fl=aacute=vio" pid="44/6349">Fl&#225;vio Freitas</na></co>
+<co c="0"><na f="f/Fuentes:Alain_D=" pid="225/0592">Alain D. Fuentes</na></co>
+<co c="0"><na f="g/Glatzl:Luiz_A=" pid="356/1976">Luiz A. Glatzl</na></co>
+<co c="0"><na f="g/Gomes:Luciana_S=_A=" pid="25/10786">Luciana S. A. Gomes</na></co>
+<co c="0"><na f="g/Guateque:Maria_Leandra" pid="233/1448">Maria Leandra Guateque</na></co>
+<co c="0"><na f="g/Guimar=atilde=es:Daniel_S=" pid="362/7738">Daniel S. Guimar&#227;es</na></co>
+<co c="1"><na f="g/Guimar=atilde=es:Thayane" pid="367/3459">Thayane Guimar&#227;es</na></co>
+<co c="0"><na f="g/Guimar=acirc=es:Valeria" pid="169/3783">Valeria Guimar&#226;es</na></co>
+<co c="0"><na f="h/Haeusler:Edward_Hermann" pid="93/6371">Edward Hermann Haeusler</na></co>
+<co c="0"><na f="h/Heine:Alexandre" pid="337/5590">Alexandre Heine</na></co>
+<co c="0" n="2"><na f="h/Holanda:Maristela" pid="20/1662">Maristela Holanda</na><na>Maristela Terto de Holanda</na></co>
+<co c="0"><na f="h/Holanda:Pedro" pid="119/6830">Pedro Holanda</na></co>
+<co c="0"><na f="h/Hondo:Fernanda" pid="169/3792">Fernanda Hondo</na></co>
+<co c="0"><na f="h/Huacarpuma:Ruben_Cruz" pid="07/9961">Ruben Cruz Huacarpuma</na></co>
+<co c="0"><na f="h/Huang:Yan=Nong" pid="06/400">Yan-Nong Huang</na></co>
+<co c="1"><na f="i/Ituassu:Arthur" pid="196/8034">Arthur Ituassu</na></co>
+<co c="0"><na f="j/Jaramillo:Maria_L=_G=" pid="359/1045">Maria L. G. Jaramillo</na></co>
+<co c="0"><na f="j/Junior:Luiz_Afonso_Glatzl" pid="395/6915">Luiz Afonso Glatzl Junior</na></co>
+<co c="0" n="2"><na f="j/J=uacute=nior:Rafael_Tim=oacute=teo_de_Sousa" pid="s/RTdeSousaJ">Rafael Tim&#243;teo de Sousa J&#250;nior</na><na>Rafael T. de Sousa Jr.</na></co>
+<co c="0"><na f="k/Kalinowski:Marcos" pid="38/3792">Marcos Kalinowski</na></co>
+<co c="0"><na f="k/Kieckbusch:Diego" pid="193/8036">Diego Kieckbusch</na></co>
+<co c="0"><na f="l/Laender:Alberto_H=_F=" pid="l/AHFLaender">Alberto H. F. Laender</na></co>
+<co c="0"><na f="l/Lago:Lucas" pid="392/7194">Lucas Lago</na></co>
+<co c="0"><na f="l/Laigner:Rodrigo" pid="214/5831">Rodrigo Laigner</na></co>
+<co c="0"><na f="l/Lanna:Cristov=atilde=o_Antunes_de" pid="311/1771">Cristov&#227;o Antunes de Lanna</na></co>
+<co c="0"><na f="l/Laufer:Carlos" pid="37/3537">Carlos Laufer</na></co>
+<co c="0"><na f="l/Lemos:Melissa" pid="32/6523">Melissa Lemos</na></co>
+<co c="2"><na f="l/Lerner:Alberto" pid="l/AlbertoLerner">Alberto Lerner</na></co>
+<co c="0"><na f="l/Lima:Iasmini" pid="193/7892">Iasmini Lima</na></co>
+<co c="0"><na f="l/Linden:Ricardo" pid="18/821">Ricardo Linden</na></co>
+<co c="0" n="2"><na f="l/Lucena:Carlos_Jos=eacute=_Pereira_de" pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</na><na>Carlos Lucena</na></co>
+<co c="0" n="2"><na f="m/Mac=ecirc=do:Jos=eacute=_A=_F=_de" pid="f/JAFernandesdeMacedo">Jos&#233; A. F. de Mac&#234;do</na><na>Jos&#233; Ant&#244;nio Fernandes de Mac&#234;do</na></co>
+<co c="0"><na f="m/Machado:Javam_C=" pid="12/3896">Javam C. Machado</na></co>
+<co c="0"><na f="m/Marins:Raphael" pid="307/4299">Raphael Marins</na></co>
+<co c="0" n="2"><na f="m/Marroqu=iacute=n:Renato" pid="173/9193">Renato Marroqu&#237;n</na><na>Renato Javier Marroqu&#237;n Mogrovejo</na></co>
+<co c="0"><na f="m/Mauro:Renato" pid="81/6577">Renato Mauro</na></co>
+<co c="0"><na f="m/McGibbney:Lewis_J=" pid="170/0204">Lewis J. McGibbney</na></co>
+<co c="0"><na f="m/Medeiros:Andr=eacute=" pid="119/6860">Andr&#233; Medeiros</na></co>
+<co c="0" n="2"><na f="m/Melo:Rubens_Nascimento" pid="m/RubensNascimentoMelo">Rubens Nascimento Melo</na><na>Rubens N. Melo</na></co>
+<co c="-1"><na f="m/Milan=eacute=s:Anolan" pid="14/152">Anolan Milan&#233;s</na></co>
+<co c="0" n="2"><na f="m/Milidi=uacute=:Ruy" pid="78/5079">Ruy Milidi&#250;</na><na>Ruy Luiz Milidi&#250;</na></co>
+<co c="0" n="2"><na f="m/Miranda:Antonio_B=_de" pid="77/2060">Antonio B. de Miranda</na><na>Antonio Bas&#237;lio de Miranda</na></co>
+<co c="1"><na f="m/Mondelli:Maria_Luiza" pid="213/7647">Maria Luiza Mondelli</na></co>
+<co c="0"><na f="m/Monteiro:Jos=eacute=_Maria" pid="92/1818">Jos&#233; Maria Monteiro</na></co>
+<co c="0"><na f="m/Monteiro:Rodrigo_Salvador" pid="89/5975">Rodrigo Salvador Monteiro</na></co>
+<co c="0"><na f="m/Moreira:Jos=eacute=_Manuel" pid="330/3839">Jos&#233; Manuel Moreira</na></co>
+<co c="0"><na f="m/Morelli:Eduardo_Terra" pid="51/2925">Eduardo Terra Morelli</na></co>
+<co c="0"><na f="n/Nepomuceno:Jo=atilde=o" pid="392/7405">Jo&#227;o Nepomuceno</na></co>
+<co c="0"><na f="n/Neto:Luis_Henrique_Costa" pid="389/6989">Luis Henrique Costa Neto</na></co>
+<co c="0"><na f="n/Neumann:Guilherme_Borba" pid="230/1875">Guilherme Borba Neumann</na></co>
+<co c="0"><na f="n/Noronha:Maira_Ferreira_de" pid="41/1560">Maira Ferreira de Noronha</na></co>
+<co c="0"><na f="o/Oliveira_0001:Daniel_de" pid="68/7553-1">Daniel de Oliveira 0001</na></co>
+<co c="0"><na f="o/Oliveira:Daniel_Ferreira_de" pid="227/5524">Daniel Ferreira de Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Matheus" pid="193/7940">Matheus Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Rafael_Pereira_de" pid="198/9223">Rafael Pereira de Oliveira</na></co>
+<co c="0"><na f="o/Olivera:Harley_Vera" pid="169/3796">Harley Vera Olivera</na></co>
+<co c="0"><na f="o/Otto:Thomas_D=" pid="24/1282">Thomas D. Otto</na></co>
+<co c="0"><na f="p/Pacitti:Esther" pid="54/3765">Esther Pacitti</na></co>
+<co c="0"><na f="p/Pappas_Jr=:Georgios_Joannis" pid="53/6863">Georgios Joannis Pappas Jr.</na></co>
+<co c="0"><na f="p/Paula:Renato_de" pid="126/7760">Renato de Paula</na></co>
+<co c="0"><na f="p/Perciliano:Luciana_de_S=aacute=_Silva" pid="225/0633">Luciana de S&#225; Silva Perciliano</na></co>
+<co c="0"><na f="p/Picouet:Philippe" pid="p/PPicouet">Philippe Picouet</na></co>
+<co c="0"><na f="p/Pinheiro:Rodrigo" pid="60/6427">Rodrigo Pinheiro</na></co>
+<co c="0"><na f="p/Pintor:Paulo" pid="301/8453">Paulo Pintor</na></co>
+<co c="0"><na f="p/Plastino_0001:Alexandre" pid="54/401">Alexandre Plastino 0001</na></co>
+<co c="0"><na f="p/Pordeus:Jo=atilde=o_Paulo" pid="151/7931">Jo&#227;o Paulo Pordeus</na></co>
+<co c="0"><na f="p/Porto_0001:F=aacute=bio" pid="p/FabioPorto">F&#225;bio Porto 0001</na></co>
+<co c="0"><na f="r/R=ecirc=go:Andr=eacute=_L=_C=" pid="362/8452">Andr&#233; L. C. R&#234;go</na></co>
+<co c="0"><na f="r/Rehen:Stevens_K=" pid="35/7977">Stevens K. Rehen</na></co>
+<co c="0"><na f="r/Ribeiro:Celso_C=" pid="26/4167">Celso C. Ribeiro</na></co>
+<co c="0" n="2"><na f="r/Roriz:Marcos" pid="165/8181">Marcos Roriz</na><na>Marcos Roriz Junior</na></co>
+<co c="0"><na f="r/Ruberg:Nicolaas" pid="59/2659">Nicolaas Ruberg</na></co>
+<co c="-1"><na f="s/S=aacute=:Michelle" pid="74/5777">Michelle S&#225;</na></co>
+<co c="0"><na f="s/Salgueiro:Mariana_D=_A=" pid="329/9392">Mariana D. A. Salgueiro</na></co>
+<co c="0"><na f="s/Salles:Marcos_Antonio_Vaz" pid="70/4277">Marcos Antonio Vaz Salles</na></co>
+<co c="0"><na f="s/Santana:Ingrid" pid="211/4134">Ingrid Santana</na></co>
+<co c="0"><na f="s/Santoro:Fl=aacute=via_Maria" pid="33/6173">Fl&#225;via Maria Santoro</na></co>
+<co c="0"><na f="s/Santos:Jefferson_B=" pid="362/8152">Jefferson B. Santos</na></co>
+<co c="1"><na f="s/Santos:Jo=atilde=o_Guilherme_Bastos_dos" pid="367/3452">Jo&#227;o Guilherme Bastos dos Santos</na></co>
+<co c="0"><na f="s/Santos:Veronica_dos" pid="10/10088">Veronica dos Santos</na></co>
+<co c="0"><na f="s/Saraiva:Arist=ecirc=nio" pid="119/6766">Arist&#234;nio Saraiva</na></co>
+<co c="0"><na f="s/Scaglia:Alexandre_Capeletto" pid="56/7971">Alexandre Capeletto Scaglia</na></co>
+<co c="0"><na f="s/Scherer:Nicole_de_Miranda" pid="95/11166">Nicole de Miranda Scherer</na></co>
+<co c="0"><na f="s/Schwabe_0001:Daniel" pid="s/DanielSchwabe">Daniel Schwabe 0001</na></co>
+<co c="0" n="2"><na f="s/Seabra:Antony" pid="214/6173">Antony Seabra</na><na>Antony Seabra de Medeiros</na></co>
+<co c="0"><na f="s/Seibel:Luiz_Fernando_Bessa" pid="41/2639">Luiz Fernando Bessa Seibel</na></co>
+<co c="0" n="2"><na f="s/Silva:Waldeyr_M=_C=" pid="193/7874">Waldeyr M. C. Silva</na><na>Waldeyr Mendes Cordeiro da Silva</na></co>
+<co c="0"><na f="s/Sousa:Daniel_Xavier_de" pid="88/2839">Daniel Xavier de Sousa</na></co>
+<co c="0"><na f="s/Sousa:Fl=aacute=vio_R=_C=" pid="04/162">Fl&#225;vio R. C. Sousa</na></co>
+<co c="-1"><na f="s/Souza:Victor_Augusto_Lima_Lins_de" pid="329/9808">Victor Augusto Lima Lins de Souza</na></co>
+<co c="0"><na f="t/Talavera:Jos=eacute=" pid="37/11498">Jos&#233; Talavera</na></co>
+<co c="0"><na f="t/Tavares:J=uacute=lio_A=" pid="135/1285">J&#250;lio A. Tavares</na></co>
+<co c="0"><na f="t/Teixeira:Bianca_Rodrigues" pid="206/3211">Bianca Rodrigues Teixeira</na></co>
+<co c="0"><na f="t/Trist=atilde=o:Cristian" pid="36/7970">Cristian Trist&#227;o</na></co>
+<co c="0"><na f="t/Ttito:Josu=eacute=_Joel" pid="290/4380">Josu&#233; Joel Ttito</na></co>
+<co c="0"><na f="u/Uch=ocirc=a:Elvira_Maria_Antunes" pid="56/177">Elvira Maria Antunes Uch&#244;a</na></co>
+<co c="0"><na f="v/Valduriez:Patrick" pid="v/PatrickValduriez">Patrick Valduriez</na></co>
+<co c="0"><na f="v/Verona:Let=iacute=cia_Dias" pid="234/4557">Let&#237;cia Dias Verona</na></co>
+<co c="0"><na f="v/Viana:Carlos_Juliano_M=" pid="84/6602">Carlos Juliano M. Viana</na></co>
+<co c="0"><na f="v/Viana:Marx_L=" pid="166/4429">Marx L. Viana</na></co>
+<co c="0"><na f="v/Vianu:Victor" pid="v/VictorVianu">Victor Vianu</na></co>
+<co c="0"><na f="v/Victorino:M=aacute=rcio" pid="58/5054">M&#225;rcio Victorino</na></co>
+<co c="0"><na f="v/Vieira:Diogo_Munaro" pid="337/5599">Diogo Munaro Vieira</na></co>
+<co c="0"><na f="v/Villas:Marcos_V=" pid="362/8194">Marcos V. Villas</na></co>
+<co c="0" n="2"><na f="w/Walter:Maria_Em=iacute=lia_M=_T=" pid="84/2668">Maria Em&#237;lia M. T. Walter</na><na>Maria Em&#237;lia Telles Walter</na></co>
+<co c="0"><na f="w/Wercelens:Polyane" pid="211/4305">Polyane Wercelens</na></co>
+<co c="0"><na f="x/Xavier:Rene" pid="157/0967">Rene Xavier</na></co>
+<co c="0"><na f="z/Zhou:Yongluan" pid="z/YongluanZhou">Yongluan Zhou</na></co>
+</coauthors>
+</dblpperson>
+

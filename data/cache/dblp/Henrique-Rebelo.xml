@@ -1,0 +1,479 @@
+<?xml version="1.0"?>
+<dblpperson name="Henrique Reb&#234;lo" pid="27/5017" n="29">
+<person key="homepages/27/5017" mdate="2009-06-10">
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+</person>
+<r><proceedings key="conf/ftfjp/2022" mdate="2023-10-18">
+<editor pid="27/5017">Henrique Reb&#234;lo</editor>
+<title>Proceedings of the 24th ACM International Workshop on Formal Techniques for Java-like Programs, FTfJP 2022, Berlin, Germany, 7 June 2022</title>
+<booktitle>FTfJP@ECOOP</booktitle>
+<publisher>ACM</publisher>
+<year>2022</year>
+<ee>https://doi.org/10.1145/3611096</ee>
+<url>db/conf/ftfjp/ftfjp2022.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/icst/TeixeiraMRd21" mdate="2021-06-02">
+<author pid="62/8372">Leopoldo Teixeira</author>
+<author pid="119/0420">Breno Miranda</author>
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author pid="16/608">Marcelo d'Amorim</author>
+<title>Demystifying the Challenges of Formally Specifying API Properties for Runtime Verification.</title>
+<pages>82-93</pages>
+<year>2021</year>
+<booktitle>ICST</booktitle>
+<ee>https://doi.org/10.1109/ICST49551.2021.00020</ee>
+<crossref>conf/icst/2021</crossref>
+<url>db/conf/icst/icst2021.html#TeixeiraMRd21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/RebeloL17" mdate="2025-01-19">
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author pid="66/2755">Gary T. Leavens</author>
+<title>Aspect-Oriented Programming Reloaded.</title>
+<pages>10:1-10:8</pages>
+<year>2017</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3125374.3125383</ee>
+<ee>https://www.wikidata.org/entity/Q130889051</ee>
+<crossref>conf/sblp/2017</crossref>
+<url>db/conf/sblp/sblp2017.html#RebeloL17</url>
+</inproceedings>
+</r>
+<r><article key="journals/cj/AndradeRRBGS16" mdate="2021-01-28">
+<author pid="10/9385">Rodrigo Andrade</author>
+<author orcid="0000-0002-4293-4261" pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<author pid="53/4182">Vaidas Gasiunas</author>
+<author pid="69/9383">Lucas Satabin</author>
+<title>Assessing Idioms for a Flexible Feature Binding Time.</title>
+<pages>1-32</pages>
+<year>2016</year>
+<volume>59</volume>
+<journal>Comput. J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1093/comjnl/bxv054</ee>
+<url>db/journals/cj/cj59.html#AndradeRRBGS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/aosd/RebeloL15" mdate="2018-11-06">
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author pid="66/2755">Gary T. Leavens</author>
+<title>Enforcing information hiding in interface specifications: a client-aware checking approach.</title>
+<pages>47-51</pages>
+<year>2015</year>
+<booktitle>MODULARITY (Companion)</booktitle>
+<ee>https://doi.org/10.1145/2735386.2736750</ee>
+<crossref>conf/aosd/2015c</crossref>
+<url>db/conf/aosd/modularity2015c.html#RebeloL15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/MaiaMCRS15" mdate="2023-03-10">
+<author pid="151/3289">Pedro Maia</author>
+<author pid="92/10471">Jorge Mendes 0001</author>
+<author pid="44/1499">J&#225;come Cunha</author>
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author pid="97/3668">Jo&#227;o Saraiva</author>
+<title>Towards the Design and Implementation of Aspect-Oriented Programming for Spreadsheets.</title>
+<pages>7-13</pages>
+<year>2015</year>
+<booktitle>SEMS@ICSE</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1355/paper6.pdf</ee>
+<crossref>conf/icse/2015sems</crossref>
+<url>db/conf/icse/sems2015.html#MaiaMCRS15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/MaiaMCRS15" mdate="2019-09-17">
+<author pid="151/3289">Pedro Maia</author>
+<author orcid="0000-0002-7977-9453" pid="92/10471">Jorge Mendes 0001</author>
+<author pid="44/1499">J&#225;come Cunha</author>
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author orcid="0000-0002-5686-7151" pid="97/3668">Jo&#227;o Saraiva</author>
+<title>Towards the Design and Implementation of Aspect-Oriented Programming for Spreadsheets.</title>
+<year>2015</year>
+<volume>abs/1503.03463</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1503.03463</ee>
+<url>db/journals/corr/corr1503.html#MaiaMCRS15</url>
+</article>
+</r>
+<r><article key="journals/jucs/AndradeRRB14" mdate="2021-02-17">
+<author pid="10/9385">Rodrigo Andrade</author>
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author orcid="0000-0002-4293-4261" pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<title>Flexible Feature Binding with AspectJ-based Idioms.</title>
+<pages>692-719</pages>
+<year>2014</year>
+<volume>20</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.3217/jucs-020-05-0692</ee>
+<url>db/journals/jucs/jucs20.html#AndradeRRB14</url>
+</article>
+</r>
+<r><inproceedings key="conf/aosd/RebeloLBRLZCT14" mdate="2021-12-27">
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author pid="66/2755">Gary T. Leavens</author>
+<author pid="78/8636">Mehdi Bagherzadeh 0001</author>
+<author orcid="0000-0002-9410-9562" pid="r/HrideshRajan">Hridesh Rajan</author>
+<author pid="34/3170">Ricardo Massa Ferreira Lima</author>
+<author pid="z/DMZimmerman">Daniel M. Zimmerman</author>
+<author pid="03/3763">M&#225;rcio Corn&#233;lio</author>
+<author pid="04/7056">Thomas Th&#252;m</author>
+<title>Modularizing crosscutting contracts with AspectJML.</title>
+<pages>21-24</pages>
+<year>2014</year>
+<booktitle>MODULARITY (Companion)</booktitle>
+<ee>https://doi.org/10.1145/2584469.2584476</ee>
+<crossref>conf/aosd/2014</crossref>
+<url>db/conf/aosd/modularity2014c.html#RebeloLBRLZCT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aosd/RebeloLBRLZCT14a" mdate="2021-04-09">
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author pid="66/2755">Gary T. Leavens</author>
+<author pid="78/8636">Mehdi Bagherzadeh 0001</author>
+<author orcid="0000-0002-9410-9562" pid="r/HrideshRajan">Hridesh Rajan</author>
+<author pid="34/3170">Ricardo Massa Ferreira Lima</author>
+<author pid="z/DMZimmerman">Daniel M. Zimmerman</author>
+<author pid="03/3763">M&#225;rcio Corn&#233;lio</author>
+<author pid="04/7056">Thomas Th&#252;m</author>
+<title>AspectJML: modular specification and runtime checking for crosscutting contracts.</title>
+<pages>157-168</pages>
+<year>2014</year>
+<booktitle>MODULARITY</booktitle>
+<ee>https://doi.org/10.1145/2577080.2577084</ee>
+<crossref>conf/aosd/2014</crossref>
+<url>db/conf/aosd/modularity2014.html#RebeloLBRLZCT14a</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijseke/RebeloLKRCCSM13" mdate="2021-01-28">
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author pid="34/3170">Ricardo Massa Ferreira Lima</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author orcid="0000-0002-4293-4261" pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<author pid="45/6816">Yuanfang Cai</author>
+<author pid="61/561">Roberta Coelho</author>
+<author pid="64/4218">Cl&#225;udio Sant'Anna</author>
+<author pid="m/AlexandreMota">Alexandre Mota 0001</author>
+<title>Quantifying the effects of Aspectual Decompositions on Design by Contract Modularization: a Maintenance Study.</title>
+<pages>913-942</pages>
+<year>2013</year>
+<volume>23</volume>
+<journal>Int. J. Softw. Eng. Knowl. Eng.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1142/S0218194013500265</ee>
+<url>db/journals/ijseke/ijseke23.html#RebeloLKRCCSM13</url>
+</article>
+</r>
+<r><article key="journals/scp/RebeloLLCMO13" mdate="2022-04-04">
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author pid="34/3170">Ricardo Massa Ferreira Lima</author>
+<author pid="66/2755">Gary T. Leavens</author>
+<author pid="03/3763">M&#225;rcio Corn&#233;lio</author>
+<author pid="m/AlexandreMota">Alexandre Mota 0001</author>
+<author pid="90/3912">C&#233;sar A. L. de Oliveira</author>
+<title>Optimizing generated aspect-oriented assertion checking code for JML using program transformations: An empirical study.</title>
+<pages>1137-1156</pages>
+<year>2013</year>
+<volume>78</volume>
+<journal>Sci. Comput. Program.</journal>
+<number>8</number>
+<ee type="oa">https://doi.org/10.1016/j.scico.2012.09.003</ee>
+<url>db/journals/scp/scp78.html#RebeloLLCMO13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cade/HawblitzelKLR13" mdate="2017-05-21">
+<author pid="22/3053">Chris Hawblitzel</author>
+<author pid="92/2185">Ming Kawaguchi</author>
+<author pid="32/2903">Shuvendu K. Lahiri</author>
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<title>Towards Modularly Comparing Programs Using Automated Theorem Provers.</title>
+<pages>282-299</pages>
+<year>2013</year>
+<booktitle>CADE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-38574-2_20</ee>
+<crossref>conf/cade/2013</crossref>
+<url>db/conf/cade/cade2013.html#HawblitzelKLR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/foal/RebeloLLBR13" mdate="2021-01-28">
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author pid="66/2755">Gary T. Leavens</author>
+<author pid="34/3170">Ricardo Massa Ferreira Lima</author>
+<author orcid="0000-0002-0381-2843" pid="b/PauloBorba">Paulo Borba</author>
+<author orcid="0000-0002-4293-4261" pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<title>Modular aspect-oriented design rule enforcement with XPIDRs.</title>
+<pages>13-18</pages>
+<year>2013</year>
+<booktitle>FOAL</booktitle>
+<ee>https://doi.org/10.1145/2451598.2451603</ee>
+<crossref>conf/foal/2013</crossref>
+<url>db/conf/foal/foal2013.html#RebeloLLBR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/RebeloLL13" mdate="2018-11-06">
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author pid="66/2755">Gary T. Leavens</author>
+<author pid="34/3170">Ricardo Massa Ferreira Lima</author>
+<title>Client-aware checking and information hiding in interface specifications with JML/ajmlc.</title>
+<pages>11-12</pages>
+<year>2013</year>
+<booktitle>SPLASH (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2508075.2514569</ee>
+<crossref>conf/oopsla/2013c</crossref>
+<url>db/conf/oopsla/splash2013c.html#RebeloLL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/Rebelo13" mdate="2018-11-06">
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<title>Identifying and specifying crosscutting contracts with AspectJML.</title>
+<pages>115-116</pages>
+<year>2013</year>
+<booktitle>SPLASH (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2508075.2514877</ee>
+<crossref>conf/oopsla/2013c</crossref>
+<url>db/conf/oopsla/splash2013c.html#Rebelo13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcars/AndradeRRB13" mdate="2023-03-23">
+<author pid="10/9385">Rodrigo Andrade</author>
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author orcid="0000-0002-4293-4261" pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<author orcid="0000-0002-0381-2843" pid="b/PauloBorba">Paulo Borba</author>
+<title>AspectJ-Based Idioms for Flexible Feature Binding.</title>
+<pages>59-68</pages>
+<year>2013</year>
+<booktitle>SBCARS</booktitle>
+<ee>https://doi.org/10.1109/SBCARS.2013.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBCARS.2013.17</ee>
+<crossref>conf/sbcars/2013</crossref>
+<url>db/conf/sbcars/sbcars2013.html#AndradeRRB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cav/LahiriHKR12" mdate="2018-10-03">
+<author pid="32/2903">Shuvendu K. Lahiri</author>
+<author pid="22/3053">Chris Hawblitzel</author>
+<author pid="92/2185">Ming Kawaguchi</author>
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<title>SYMDIFF: A Language-Agnostic Semantic Diff Tool for Imperative Programs.</title>
+<pages>712-717</pages>
+<year>2012</year>
+<booktitle>CAV</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-31424-7_54</ee>
+<crossref>conf/cav/2012</crossref>
+<url>db/conf/cav/cav2012.html#LahiriHKR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/RebeloLMOR12" mdate="2022-04-04">
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author pid="34/3170">Ricardo Massa Ferreira Lima</author>
+<author pid="m/AlexandreMota">Alexandre Mota 0001</author>
+<author pid="90/3912">C&#233;sar A. L. de Oliveira</author>
+<author pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<title>Enforcing Contracts for Aspect-oriented programs with Annotations, Pointcuts and Advice.</title>
+<pages>148-153</pages>
+<year>2012</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2012</crossref>
+<url>db/conf/seke/seke2012.html#RebeloLMOR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/RebeloLMOR12a" mdate="2022-04-04">
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author pid="34/3170">Ricardo Massa Ferreira Lima</author>
+<author pid="m/AlexandreMota">Alexandre Mota 0001</author>
+<author pid="90/3912">C&#233;sar A. L. de Oliveira</author>
+<author pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<title>Checking Contracts for AOP using XPIDRs.</title>
+<year>2012</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2012</crossref>
+<url>db/conf/seke/seke2012.html#RebeloLMOR12a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aosd/AraujoRL0KS11" mdate="2021-12-22">
+<author pid="58/9494">Jos&#233; Elias Ara&#250;jo</author>
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author pid="34/3170">Ricardo Massa Ferreira Lima</author>
+<author pid="m/AlexandreMota">Alexandre Mota 0001</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="64/4218">Cl&#225;udio Sant'Anna</author>
+<title>An annotation-based approach for JCSP concurrent programming: a quantitative study.</title>
+<pages>7-11</pages>
+<year>2011</year>
+<booktitle>MISS@AOSD</booktitle>
+<ee>https://doi.org/10.1145/1960518.1960521</ee>
+<crossref>conf/aosd/2011miss</crossref>
+<url>db/conf/aosd/miss2011.html#AraujoRL0KS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csmr/AndradeRGSRB11" mdate="2023-03-24">
+<author pid="10/9385">Rodrigo Andrade</author>
+<author orcid="0000-0002-4293-4261" pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<author pid="53/4182">Vaidas Gasiunas</author>
+<author pid="69/9383">Lucas Satabin</author>
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author orcid="0000-0002-0381-2843" pid="b/PauloBorba">Paulo Borba</author>
+<title>Assessing Idioms for Implementing Features with Flexible Binding Times.</title>
+<pages>231-240</pages>
+<year>2011</year>
+<booktitle>CSMR</booktitle>
+<ee>https://doi.org/10.1109/CSMR.2011.29</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CSMR.2011.29</ee>
+<crossref>conf/csmr/2011</crossref>
+<url>db/conf/csmr/csmr2011.html#AndradeRGSRB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecoop/RebeloCLLHMC11" mdate="2022-12-07">
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author pid="61/561">Roberta Coelho</author>
+<author pid="34/3170">Ricardo M. F. Lima</author>
+<author pid="66/2755">Gary T. Leavens</author>
+<author orcid="0000-0003-4467-072X" pid="76/6612">Marieke Huisman</author>
+<author pid="m/AlexandreMota">Alexandre Mota 0001</author>
+<author orcid="0000-0002-6389-3630" pid="f/FCFilho">Fernando Castor</author>
+<title>On the interplay of exception handling and design by contract: an aspect-oriented recovery approach.</title>
+<pages>7:1-7:6</pages>
+<year>2011</year>
+<booktitle>FTfJP@ECOOP</booktitle>
+<ee>https://doi.org/10.1145/2076674.2076681</ee>
+<crossref>conf/ecoop/2011ftfjp</crossref>
+<url>db/conf/ecoop/ftfjp2011.html#RebeloCLLHMC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/Rebelo11" mdate="2018-11-06">
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<title>Towards client-aware interface specifications.</title>
+<pages>71-74</pages>
+<year>2011</year>
+<booktitle>OOPSLA Companion</booktitle>
+<ee>https://doi.org/10.1145/2048147.2048177</ee>
+<crossref>conf/oopsla/2011c</crossref>
+<url>db/conf/oopsla/oopsla2011c.html#Rebelo11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/RebeloLKSCMRO11" mdate="2022-04-04">
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author pid="34/3170">Ricardo Massa Ferreira Lima</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="64/4218">Cl&#225;udio Sant'Anna</author>
+<author pid="61/561">Roberta Coelho</author>
+<author pid="m/AlexandreMota">Alexandre Mota 0001</author>
+<author pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<author pid="90/3912">C&#233;sar A. L. de Oliveira</author>
+<title>Assessing the Impact of Aspects on Design By Contract Effort: A Quantitative Study.</title>
+<pages>450-455</pages>
+<year>2011</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2011</crossref>
+<url>db/conf/seke/seke2011.html#RebeloLKSCMRO11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsoft/AraujoRLMCLLL10" mdate="2020-04-02">
+<author pid="58/9494">Jos&#233; Elias Ara&#250;jo</author>
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author pid="34/3170">Ricardo Massa Ferreira Lima</author>
+<author pid="m/AlexandreMota">Alexandre Mota 0001</author>
+<author pid="f/FCFilho">Fernando Castor</author>
+<author pid="64/9492">Tiago Lima</author>
+<author pid="34/9494">Juliana Lucena</author>
+<author pid="13/9494">Filipe Lima</author>
+<title>An Aspect-based Approach for Concurrent Programming using CSP Features.</title>
+<pages>226-231</pages>
+<year>2010</year>
+<booktitle>ICSOFT (2)</booktitle>
+<crossref>conf/icsoft/2010-2</crossref>
+<url>db/conf/icsoft/icsoft2010-2.html#AraujoRLMCLLL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sugarloafplop/RebeloLKCMRA10" mdate="2021-01-28">
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author pid="34/3170">Ricardo M. F. Lima</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="61/561">Roberta Coelho</author>
+<author pid="m/AlexandreMota">Alexandre Mota 0001</author>
+<author orcid="0000-0002-4293-4261" pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<author pid="58/9494">Jos&#233; Elias Ara&#250;jo</author>
+<title>The contract enforcement aspect pattern.</title>
+<pages>6:1-6:14</pages>
+<year>2010</year>
+<booktitle>SugarLoafPLoP</booktitle>
+<ee>https://doi.org/10.1145/2581507.2581513</ee>
+<crossref>conf/sugarloafplop/2010</crossref>
+<url>db/conf/sugarloafplop/sugarloafplop2010.html#RebeloLKCMRA10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icst/RebeloLCS08" mdate="2023-03-23">
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author pid="34/3170">Ricardo Massa Ferreira Lima</author>
+<author pid="03/3763">M&#225;rcio Corn&#233;lio</author>
+<author orcid="0000-0002-4428-2535" pid="58/232">S&#233;rgio Soares</author>
+<title>A JML Compiler Based on AspectJ.</title>
+<pages>541-544</pages>
+<year>2008</year>
+<booktitle>ICST</booktitle>
+<ee>https://doi.org/10.1109/ICST.2008.14</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICST.2008.14</ee>
+<crossref>conf/icst/2008</crossref>
+<url>db/conf/icst/icst2008.html#RebeloLCS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/RebeloSLFC08" mdate="2025-01-19">
+<author pid="27/5017">Henrique Reb&#234;lo</author>
+<author orcid="0000-0002-4428-2535" pid="58/232">S&#233;rgio Soares</author>
+<author pid="34/3170">Ricardo Massa Ferreira Lima</author>
+<author pid="75/1089">Leopoldo Ferreira</author>
+<author pid="03/3763">M&#225;rcio Corn&#233;lio</author>
+<title>Implementing Java modeling language contracts with AspectJ.</title>
+<pages>228-233</pages>
+<year>2008</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1363686.1363745</ee>
+<ee>https://www.wikidata.org/entity/Q131121990</ee>
+<crossref>conf/sac/2008</crossref>
+<url>db/conf/sac/sac2008.html#RebeloSLFC08</url>
+</inproceedings>
+</r>
+<coauthors n="36" nc="2">
+<co c="0"><na f="a/Andrade:Rodrigo" pid="10/9385">Rodrigo Andrade</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Jos=eacute=_Elias" pid="58/9494">Jos&#233; Elias Ara&#250;jo</na></co>
+<co c="0"><na f="b/Bagherzadeh_0001:Mehdi" pid="78/8636">Mehdi Bagherzadeh 0001</na></co>
+<co c="0"><na f="b/Borba:Paulo" pid="b/PauloBorba">Paulo Borba</na></co>
+<co c="0"><na f="c/Cai:Yuanfang" pid="45/6816">Yuanfang Cai</na></co>
+<co c="0"><na f="c/Coelho:Roberta" pid="61/561">Roberta Coelho</na></co>
+<co c="0"><na f="c/Corn=eacute=lio:M=aacute=rcio" pid="03/3763">M&#225;rcio Corn&#233;lio</na></co>
+<co c="0"><na f="c/Cunha:J=aacute=come" pid="44/1499">J&#225;come Cunha</na></co>
+<co c="0"><na f="d/d=Amorim:Marcelo" pid="16/608">Marcelo d'Amorim</na></co>
+<co c="0"><na f="f/Ferreira:Leopoldo" pid="75/1089">Leopoldo Ferreira</na></co>
+<co c="0" n="2"><na f="f/Filho:Fernando_Castor" pid="f/FCFilho">Fernando Castor Filho</na><na>Fernando Castor</na></co>
+<co c="0"><na f="g/Gasiunas:Vaidas" pid="53/4182">Vaidas Gasiunas</na></co>
+<co c="1"><na f="h/Hawblitzel:Chris" pid="22/3053">Chris Hawblitzel</na></co>
+<co c="0"><na f="h/Huisman:Marieke" pid="76/6612">Marieke Huisman</na></co>
+<co c="1"><na f="k/Kawaguchi:Ming" pid="92/2185">Ming Kawaguchi</na></co>
+<co c="0"><na f="k/Kulesza:Uir=aacute=" pid="78/6010">Uir&#225; Kulesza</na></co>
+<co c="1"><na f="l/Lahiri:Shuvendu_K=" pid="32/2903">Shuvendu K. Lahiri</na></co>
+<co c="0"><na f="l/Leavens:Gary_T=" pid="66/2755">Gary T. Leavens</na></co>
+<co c="0"><na f="l/Lima:Filipe" pid="13/9494">Filipe Lima</na></co>
+<co c="0" n="2"><na f="l/Lima:Ricardo_Massa_Ferreira" pid="34/3170">Ricardo Massa Ferreira Lima</na><na>Ricardo M. F. Lima</na></co>
+<co c="0"><na f="l/Lima:Tiago" pid="64/9492">Tiago Lima</na></co>
+<co c="0"><na f="l/Lucena:Juliana" pid="34/9494">Juliana Lucena</na></co>
+<co c="0"><na f="m/Maia:Pedro" pid="151/3289">Pedro Maia</na></co>
+<co c="0"><na f="m/Mendes_0001:Jorge" pid="92/10471">Jorge Mendes 0001</na></co>
+<co c="0"><na f="m/Miranda:Breno" pid="119/0420">Breno Miranda</na></co>
+<co c="0"><na f="m/Mota_0001:Alexandre" pid="m/AlexandreMota">Alexandre Mota 0001</na></co>
+<co c="0"><na f="o/Oliveira:C=eacute=sar_A=_L=_de" pid="90/3912">C&#233;sar A. L. de Oliveira</na></co>
+<co c="0"><na f="r/Rajan:Hridesh" pid="r/HrideshRajan">Hridesh Rajan</na></co>
+<co c="0"><na f="r/Ribeiro_0001:M=aacute=rcio" pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</na></co>
+<co c="0"><na f="s/Sant=Anna:Cl=aacute=udio" pid="64/4218">Cl&#225;udio Sant'Anna</na></co>
+<co c="0"><na f="s/Saraiva:Jo=atilde=o" pid="97/3668">Jo&#227;o Saraiva</na></co>
+<co c="0"><na f="s/Satabin:Lucas" pid="69/9383">Lucas Satabin</na></co>
+<co c="0"><na f="s/Soares:S=eacute=rgio" pid="58/232">S&#233;rgio Soares</na></co>
+<co c="0"><na f="t/Teixeira:Leopoldo" pid="62/8372">Leopoldo Teixeira</na></co>
+<co c="0"><na f="t/Th=uuml=m:Thomas" pid="04/7056">Thomas Th&#252;m</na></co>
+<co c="0"><na f="z/Zimmerman:Daniel_M=" pid="z/DMZimmerman">Daniel M. Zimmerman</na></co>
+</coauthors>
+</dblpperson>
+

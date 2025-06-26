@@ -1,0 +1,956 @@
+<?xml version="1.0"?>
+<dblpperson name="Eduardo Souto" pid="84/1320" n="55">
+<person key="homepages/84/1320" mdate="2018-10-01">
+<author pid="84/1320">Eduardo Souto</author>
+<author pid="84/1320">Eduardo J. Souto</author>
+<author pid="84/1320">Eduardo James Pereira Souto</author>
+</person>
+<r><article key="journals/computing/AssayagSBCPO25" mdate="2025-01-07">
+<author pid="281/6173">Yuri Assayag</author>
+<author pid="84/1320">Eduardo Souto</author>
+<author pid="04/562">Raimundo S. Barreto</author>
+<author pid="394/1053">Moises Carvalho</author>
+<author pid="44/164">Richard Werner Nelem Pazzi</author>
+<author pid="14/5675">Horacio A. B. F. de Oliveira</author>
+<title>Efficient exploration of indoor localization using genetic algorithm and signal propagation model.</title>
+<pages>30</pages>
+<year>2025</year>
+<month>January</month>
+<volume>107</volume>
+<journal>Computing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00607-024-01391-x</ee>
+<url>db/journals/computing/computing107.html#AssayagSBCPO25</url>
+<stream>streams/journals/computing</stream>
+</article>
+</r>
+<r><article key="journals/cmbbeiv/FreireLTGPSS24" mdate="2024-04-08">
+<author pid="372/5894">Natalia de Sousa Freire</author>
+<author pid="372/4734">Pedro Paulo de Souza Leo</author>
+<author pid="354/9772">Leonardo Albuquerque Tiago</author>
+<author pid="372/4779">Alberto de Almeida Campos Gonalves</author>
+<author pid="372/5066">Rafael Albuquerque Pinto</author>
+<author pid="45/2740">Eulanda Miranda dos Santos</author>
+<author pid="84/1320">Eduardo Souto</author>
+<title>Analysis of generalizability on predicting COVID-19 from chest X-ray images using pre-trained deep models.</title>
+<pages>2725-2735</pages>
+<year>2024</year>
+<month>January</month>
+<volume>11</volume>
+<journal>Comput. methods Biomech. Biomed. Eng. Imaging Vis.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1080/21681163.2023.2264408</ee>
+<url>db/journals/cmbbeiv/cmbbeiv11.html#FreireLTGPSS24</url>
+</article>
+</r>
+<r><article key="journals/esl/AlencarBOS24" mdate="2024-06-18">
+<author pid="152/1691">Marcio Aurelio dos Santos Alencar</author>
+<author orcid="0000-0001-8494-4225" pid="04/562">Raimundo S. Barreto</author>
+<author pid="14/5675">Hor&#225;cio A. B. F. Oliveira</author>
+<author orcid="0000-0003-0003-908X" pid="84/1320">Eduardo Souto</author>
+<title>Embedded Restricted Boltzmann Machine Approach for Adjustments of Repetitive Physical Activities Using IMU Data.</title>
+<pages>102-105</pages>
+<year>2024</year>
+<month>June</month>
+<volume>16</volume>
+<journal>IEEE Embed. Syst. Lett.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/LES.2023.3289810</ee>
+<url>db/journals/esl/esl16.html#AlencarBOS24</url>
+</article>
+</r>
+<r><article key="journals/sensors/PintoOSGV24" mdate="2024-10-22">
+<author orcid="0009-0009-9230-272X" pid="372/5066">Rafael Albuquerque Pinto</author>
+<author orcid="0009-0007-3082-4018" pid="388/3819">Hygo Sousa De Oliveira</author>
+<author orcid="0000-0003-0003-908X" pid="84/1320">Eduardo Souto</author>
+<author orcid="0000-0002-1288-7126" pid="67/1155">Rafael Giusti</author>
+<author orcid="0000-0001-8180-4032" pid="67/8105">Rodrigo Veras</author>
+<title>Inferring ECG Waveforms from PPG Signals with a Modified U-Net Neural Network.</title>
+<pages>6046</pages>
+<year>2024</year>
+<month>September</month>
+<volume>24</volume>
+<journal>Sensors</journal>
+<number>18</number>
+<ee type="oa">https://doi.org/10.3390/s24186046</ee>
+<url>db/journals/sensors/sensors24.html#PintoOSGV24</url>
+<stream>streams/journals/sensors</stream>
+</article>
+</r>
+<r><inproceedings key="conf/iccel/CostaLSS24" mdate="2024-03-08">
+<author pid="218/1654">Jeferson B. da Costa</author>
+<author pid="370/1548">Roberto G. E. Leyva</author>
+<author pid="370/1268">Pio H. Ordozgoith Da F. S</author>
+<author pid="84/1320">Eduardo James Pereira Souto</author>
+<title>Enhancing Virtual Reality Experiences through Embedded 3D Models in Video Content.</title>
+<pages>1-5</pages>
+<year>2024</year>
+<booktitle>ICCE</booktitle>
+<ee>https://doi.org/10.1109/ICCE59016.2024.10444434</ee>
+<crossref>conf/iccel/2024</crossref>
+<url>db/conf/iccel/icce2024.html#CostaLSS24</url>
+</inproceedings>
+</r>
+<r><article key="journals/iotj/AssayagOSBP23" mdate="2023-07-21">
+<author orcid="0000-0002-1612-306X" pid="281/6173">Yuri Assayag</author>
+<author pid="14/5675">Horacio A. B. F. de Oliveira</author>
+<author orcid="0000-0003-0003-908X" pid="84/1320">Eduardo Souto</author>
+<author orcid="0000-0001-8494-4225" pid="04/562">Raimundo S. Barreto</author>
+<author orcid="0000-0003-4308-6265" pid="44/164">Richard Werner Nelem Pazzi</author>
+<title>Adaptive Path Loss Model for BLE Indoor Positioning System.</title>
+<pages>12898-12907</pages>
+<year>2023</year>
+<month>July</month>
+<volume>10</volume>
+<journal>IEEE Internet Things J.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1109/JIOT.2023.3253660</ee>
+<url>db/journals/iotj/iotj10.html#AssayagOSBP23</url>
+</article>
+</r>
+<r><article key="journals/jsan/AlencarBSO23" mdate="2024-01-13">
+<author pid="152/1691">Marcio Aurelio dos Santos Alencar</author>
+<author orcid="0000-0001-8494-4225" pid="04/562">Raimundo S. Barreto</author>
+<author orcid="0000-0003-0003-908X" pid="84/1320">Eduardo Souto</author>
+<author pid="14/5675">Horacio A. B. F. de Oliveira</author>
+<title>An Online Method for Supporting and Monitoring Repetitive Physical Activities Based on Restricted Boltzmann Machines.</title>
+<pages>70</pages>
+<year>2023</year>
+<month>September</month>
+<volume>12</volume>
+<journal>J. Sens. Actuator Networks</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.3390/jsan12050070</ee>
+<url>db/journals/jsan/jsan12.html#AlencarBSO23</url>
+</article>
+</r>
+<r><article key="journals/rbie/CoelhoOPOCSPMLN23" mdate="2024-05-04">
+<author orcid="0000-0001-7558-9436" pid="255/5845">Fl&#225;vio Jos&#233; Mendes Coelho</author>
+<author orcid="0000-0003-2884-9359" pid="193/1016">Elaine H. T. Oliveira</author>
+<author orcid="0000-0003-4914-3347" pid="241/8680">Filipe D. Pereira</author>
+<author orcid="0000-0002-2887-2324" pid="269/7014">David B. F. Oliveira</author>
+<author orcid="0000-0003-2970-2084" pid="48/91">Leandro S. G. Carvalho</author>
+<author orcid="0000-0003-0003-908X" pid="84/1320">Eduardo James Pereira Souto</author>
+<author orcid="0000-0002-3064-5585" pid="91/10360">Marcela Pessoa</author>
+<author orcid="0000-0001-6198-8962" pid="248/4163">Rafaela Melo</author>
+<author orcid="0000-0002-4560-4946" pid="368/5105">Marcos A. P. Lima</author>
+<author orcid="0000-0001-8251-3202" pid="15/39">Fab&#237;ola G. Nakamura</author>
+<title>Learning Analytics in Introductory Programming Courses: A Showcase from the Federal University of Amazonas.</title>
+<pages>1089-1127</pages>
+<year>2023</year>
+<volume>31</volume>
+<journal>Revista Brasileira de Inform&#225;tica na Educ.</journal>
+<ee type="oa">https://doi.org/10.5753/rbie.2023.3334</ee>
+<url>db/journals/rbie/rbie31.html#CoelhoOPOCSPMLN23</url>
+</article>
+</r>
+<r><article key="journals/sensors/BragancaCOS22" mdate="2022-06-02">
+<author pid="231/6701">Hendrio L. de Souza Bragan&#231;a</author>
+<author orcid="0000-0002-1740-2618" pid="118/5111">Juan Gabriel Colonna</author>
+<author orcid="0000-0001-9777-3947" pid="14/5675">Hor&#225;cio A. B. F. Oliveira</author>
+<author orcid="0000-0003-0003-908X" pid="84/1320">Eduardo Souto</author>
+<title>How Validation Methodology Influences Human Activity Recognition Mobile Systems.</title>
+<pages>2360</pages>
+<year>2022</year>
+<volume>22</volume>
+<journal>Sensors</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.3390/s22062360</ee>
+<url>db/journals/sensors/sensors22.html#BragancaCOS22</url>
+</article>
+</r>
+<r><article key="journals/sensors/QuispeUSOS22" mdate="2023-02-10">
+<author orcid="0000-0002-0550-4748" pid="227/0630">Kevin G. Montero Quispe</author>
+<author pid="338/1215">Daniel M. S. Utyiama</author>
+<author orcid="0000-0002-5671-581X" pid="45/2740">Eulanda M. dos Santos</author>
+<author orcid="0000-0001-9777-3947" pid="14/5675">Hor&#225;cio A. B. F. Oliveira</author>
+<author orcid="0000-0003-0003-908X" pid="84/1320">Eduardo James Pereira Souto</author>
+<title>Applying Self-Supervised Representation Learning for Emotion Recognition Using Physiological Signals.</title>
+<pages>9102</pages>
+<year>2022</year>
+<volume>22</volume>
+<journal>Sensors</journal>
+<number>23</number>
+<ee type="oa">https://doi.org/10.3390/s22239102</ee>
+<url>db/journals/sensors/sensors22.html#QuispeUSOS22</url>
+</article>
+</r>
+<r><inproceedings key="conf/icce-tw/CostaS22" mdate="2023-08-05">
+<author pid="218/1654">Jeferson B. da Costa</author>
+<author pid="84/1320">Eduardo James Pereira Souto</author>
+<title>A IoT Device for Monitoring Particulate Matter and Gaseous Pollutants in Indoor Industrial Workstations.</title>
+<pages>517-518</pages>
+<year>2022</year>
+<booktitle>ICCE-TW</booktitle>
+<ee>https://doi.org/10.1109/ICCE-Taiwan55306.2022.9869034</ee>
+<crossref>conf/icce-tw/2022</crossref>
+<url>db/conf/icce-tw/icce-tw2022.html#CostaS22</url>
+</inproceedings>
+</r>
+<r><article key="journals/access/AssayagOSBP21" mdate="2021-09-01">
+<author orcid="0000-0002-1612-306X" pid="281/6173">Yuri Assayag</author>
+<author pid="14/5675">Horacio A. B. F. de Oliveira</author>
+<author orcid="0000-0003-0003-908X" pid="84/1320">Eduardo Souto</author>
+<author orcid="0000-0001-8494-4225" pid="04/562">Raimundo S. Barreto</author>
+<author orcid="0000-0003-4308-6265" pid="44/164">Richard W. Pazzi</author>
+<title>Indoor Positioning System Using Synthetic Training and Data Fusion.</title>
+<pages>115687-115699</pages>
+<year>2021</year>
+<volume>9</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2021.3105188</ee>
+<url>db/journals/access/access9.html#AssayagOSBP21</url>
+</article>
+</r>
+<r><article key="journals/eswa/LimaBS21" mdate="2020-12-18">
+<author pid="176/1005">Wesllen Sousa Lima</author>
+<author pid="231/6701">Hendrio L. de Souza Bragan&#231;a</author>
+<author pid="84/1320">Eduardo J. Souto</author>
+<title>NOHAR - NOvelty discrete data stream for Human Activity Recognition based on smartphones with inertial sensors.</title>
+<pages>114093</pages>
+<year>2021</year>
+<volume>166</volume>
+<journal>Expert Syst. Appl.</journal>
+<ee>https://doi.org/10.1016/j.eswa.2020.114093</ee>
+<url>db/journals/eswa/eswa166.html#LimaBS21</url>
+</article>
+</r>
+<r><article key="journals/jsan/PintoOS21" mdate="2023-08-28">
+<author orcid="0000-0001-8885-5609" pid="292/6649">Br&#225;ulio Henrique O. U. V. Pinto</author>
+<author orcid="0000-0001-9777-3947" pid="14/5675">Horacio A. B. F. de Oliveira</author>
+<author pid="84/1320">Eduardo James Pereira Souto</author>
+<title>Factor Optimization for the Design of Indoor Positioning Systems Using a Probability-Based Algorithm.</title>
+<pages>16</pages>
+<year>2021</year>
+<volume>10</volume>
+<journal>J. Sens. Actuator Networks</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.3390/jsan10010016</ee>
+<ee>https://www.wikidata.org/entity/Q114934110</ee>
+<url>db/journals/jsan/jsan10.html#PintoOS21</url>
+</article>
+</r>
+<r><article key="journals/jucs/HenkeSSS21" mdate="2023-09-07">
+<author orcid="0000-0003-1437-9309" pid="164/7977">Marcia Henke</author>
+<author pid="45/2740">Eulanda Miranda dos Santos</author>
+<author pid="84/1320">Eduardo Souto</author>
+<author orcid="0000-0002-2341-2177" pid="38/5417">Altair Olivo Santin</author>
+<title>Spam Detection Based on Feature Evolution to Deal with Concept Drift.</title>
+<pages>364-386</pages>
+<year>2021</year>
+<volume>27</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.3897/jucs.66284</ee>
+<ee>https://www.wikidata.org/entity/Q107468577</ee>
+<url>db/journals/jucs/jucs27.html#HenkeSSS21</url>
+</article>
+</r>
+<r><article key="journals/compsec/RochaSE20" mdate="2023-08-28">
+<author orcid="0000-0003-4358-7828" pid="152/8893">Thiago S. Rocha</author>
+<author pid="84/1320">Eduardo Souto</author>
+<author orcid="0000-0002-5960-6942" pid="02/3373">Khalil El-Khatib</author>
+<title>Functionality-based mobile application recommendation system with security and privacy awareness.</title>
+<pages>101972</pages>
+<year>2020</year>
+<volume>97</volume>
+<journal>Comput. Secur.</journal>
+<ee>https://doi.org/10.1016/j.cose.2020.101972</ee>
+<ee>https://www.wikidata.org/entity/Q115052696</ee>
+<url>db/journals/compsec/compsec97.html#RochaSE20</url>
+</article>
+</r>
+<r><article key="journals/ijdsn/AlencarBFSP20" mdate="2023-08-28">
+<author pid="152/1691">Marcio Aurelio dos Santos Alencar</author>
+<author pid="04/562">Raimundo S. Barreto</author>
+<author pid="14/5675">Hor&#225;cio Fernandes 0001</author>
+<author pid="84/1320">Eduardo Souto</author>
+<author orcid="0000-0003-4308-6265" pid="44/164">Richard W. Pazzi</author>
+<title>DARE: A decentralized association rules extraction scheme for embedded data sets in distributed IoT devices.</title>
+<pages>155014772096299</pages>
+<year>2020</year>
+<volume>16</volume>
+<journal>Int. J. Distributed Sens. Networks</journal>
+<number>10</number>
+<ee type="oa">https://doi.org/10.1177/1550147720962999</ee>
+<ee>https://www.wikidata.org/entity/Q114600643</ee>
+<url>db/journals/ijdsn/ijdsn16.html#AlencarBFSP20</url>
+</article>
+</r>
+<r><article key="journals/sensors/BragancaCLS20" mdate="2020-05-30">
+<author pid="231/6701">Hendrio L. de Souza Bragan&#231;a</author>
+<author orcid="0000-0002-1740-2618" pid="118/5111">Juan Gabriel Colonna</author>
+<author orcid="0000-0001-9669-1659" pid="176/1005">Wesllen Sousa Lima</author>
+<author orcid="0000-0003-0003-908X" pid="84/1320">Eduardo Souto</author>
+<title>A Smartphone Lightweight Method for Human Activity Recognition Based on Information Theory.</title>
+<pages>1856</pages>
+<year>2020</year>
+<volume>20</volume>
+<journal>Sensors</journal>
+<number>7</number>
+<ee type="oa">https://doi.org/10.3390/s20071856</ee>
+<ee>https://www.wikidata.org/entity/Q90773367</ee>
+<url>db/journals/sensors/sensors20.html#BragancaCLS20</url>
+</article>
+</r>
+<r><article key="journals/sensors/AssayagOSBP20" mdate="2022-01-03">
+<author orcid="0000-0002-1612-306X" pid="281/6173">Yuri Assayag</author>
+<author pid="14/5675">Hor&#225;cio A. B. F. Oliveira</author>
+<author pid="84/1320">Eduardo Souto</author>
+<author orcid="0000-0001-8494-4225" pid="04/562">Raimundo S. Barreto</author>
+<author orcid="0000-0003-4308-6265" pid="44/164">Richard W. Pazzi</author>
+<title>Indoor Positioning System Using Dynamic Model Estimation.</title>
+<pages>7003</pages>
+<year>2020</year>
+<volume>20</volume>
+<journal>Sensors</journal>
+<number>24</number>
+<ee type="oa">https://doi.org/10.3390/s20247003</ee>
+<ee>https://www.wikidata.org/entity/Q104272049</ee>
+<url>db/journals/sensors/sensors20.html#AssayagOSBP20</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccel/FariasFMS20" mdate="2024-09-27">
+<author pid="237/8433-1">Bruno Farias 0001</author>
+<author pid="25/6797">Eddie Batista de Lima Filho</author>
+<author pid="120/9099">Orlewilson Bentes Maia</author>
+<author pid="84/1320">Eduardo Souto</author>
+<title>Extensions to Middleware Ginga for Integration with IoT Environments.</title>
+<pages>1-5</pages>
+<year>2020</year>
+<booktitle>ICCE</booktitle>
+<ee>https://doi.org/10.1109/ICCE46568.2020.9043145</ee>
+<crossref>conf/iccel/2020</crossref>
+<url>db/conf/iccel/icce2020.html#FariasFMS20</url>
+</inproceedings>
+</r>
+<r><article key="journals/comcom/MonteiroSPN19" mdate="2020-02-20">
+<author pid="198/9547">Alex Monteiro</author>
+<author pid="84/1320">Eduardo Souto</author>
+<author orcid="0000-0003-4308-6265" pid="44/164">Richard W. Pazzi</author>
+<author pid="22/4022">Michele Nogueira</author>
+<title>Context-aware network selection in heterogeneous wireless networks.</title>
+<pages>1-15</pages>
+<year>2019</year>
+<volume>135</volume>
+<journal>Comput. Commun.</journal>
+<ee>https://doi.org/10.1016/j.comcom.2018.11.006</ee>
+<url>db/journals/comcom/comcom135.html#MonteiroSPN19</url>
+</article>
+</r>
+<r><article key="journals/ijsn/RochaSE19" mdate="2020-04-01">
+<author pid="152/8893">Thiago S. Rocha</author>
+<author pid="84/1320">Eduardo Souto</author>
+<author pid="02/3373">Khalil El-Khatib</author>
+<title>Techniques to detect data leakage in mobile applications.</title>
+<pages>146-157</pages>
+<year>2019</year>
+<volume>14</volume>
+<journal>Int. J. Secur. Networks</journal>
+<number>3</number>
+<ee>https://doi.org/10.1504/IJSN.2019.10022702</ee>
+<url>db/journals/ijsn/ijsn14.html#RochaSE19</url>
+</article>
+</r>
+<r><article key="journals/sensors/LimaSEJG19" mdate="2023-06-26">
+<author orcid="0000-0001-9669-1659" pid="176/1005">Wesllen Sousa Lima</author>
+<author pid="84/1320">Eduardo Souto</author>
+<author orcid="0000-0002-5960-6942" pid="02/3373">Khalil El-Khatib</author>
+<author pid="160/8381">Roozbeh Jalali</author>
+<author orcid="0000-0003-3357-1195" pid="g/JGama">Jo&#227;o Gama 0001</author>
+<title>Human Activity Recognition Using Inertial Sensors in a Smartphone: An Overview.</title>
+<pages>3213</pages>
+<year>2019</year>
+<volume>19</volume>
+<journal>Sensors</journal>
+<number>14</number>
+<ee type="oa">https://doi.org/10.3390/s19143213</ee>
+<ee>https://www.wikidata.org/entity/Q92082607</ee>
+<url>db/journals/sensors/sensors19.html#LimaSEJG19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icce-berlin/JuniorMOSB19" mdate="2020-02-05">
+<author pid="257/6716">Manoel Jos&#233; S. J&#250;nior</author>
+<author pid="120/9099">Orlewilson B. Maia</author>
+<author pid="14/5675">Hor&#225;cio A. B. F. Oliveira</author>
+<author pid="84/1320">Eduardo Souto</author>
+<author pid="04/562">Raimundo S. Barreto</author>
+<title>Assistive Technology through Internet of Things and Edge Computing.</title>
+<pages>330-332</pages>
+<year>2019</year>
+<booktitle>ICCE-Berlin</booktitle>
+<ee>https://doi.org/10.1109/ICCE-Berlin47944.2019.8966148</ee>
+<crossref>conf/icce-berlin/2019</crossref>
+<url>db/conf/icce-berlin/icce-berlin2019.html#JuniorMOSB19</url>
+</inproceedings>
+</r>
+<r><article key="journals/sensors/LimaBQS18" mdate="2019-06-02">
+<author orcid="0000-0001-9669-1659" pid="176/1005">Wesllen Sousa Lima</author>
+<author pid="231/6701">Hendrio L. de Souza Bragan&#231;a</author>
+<author orcid="0000-0002-0550-4748" pid="227/0630">Kevin G. Montero Quispe</author>
+<author pid="84/1320">Eduardo James Pereira Souto</author>
+<title>Human Activity Recognition Based on Symbolic Representation Algorithms for Inertial Sensors.</title>
+<pages>4045</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Sensors</journal>
+<number>11</number>
+<ee type="oa">https://doi.org/10.3390/s18114045</ee>
+<ee>https://www.wikidata.org/entity/Q59794124</ee>
+<url>db/journals/sensors/sensors18.html#LimaBQS18</url>
+</article>
+</r>
+<r><article key="journals/sensors/QuispeLBS18" mdate="2021-10-14">
+<author orcid="0000-0002-0550-4748" pid="227/0630">Kevin G. Montero Quispe</author>
+<author orcid="0000-0001-9669-1659" pid="176/1005">Wesllen Sousa Lima</author>
+<author orcid="0000-0002-4865-5896" pid="20/833">Daniel Mac&#234;do Batista</author>
+<author pid="84/1320">Eduardo Souto</author>
+<title>MBOSS: A Symbolic Representation of Human Activity Recognition Using Mobile Sensors.</title>
+<pages>4354</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Sensors</journal>
+<number>12</number>
+<ee type="oa">https://doi.org/10.3390/s18124354</ee>
+<ee>https://www.wikidata.org/entity/Q60907207</ee>
+<url>db/journals/sensors/sensors18.html#QuispeLBS18</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscc/RibeiroSB18" mdate="2023-03-24">
+<author orcid="0000-0002-8040-478X" pid="253/7725">Laura Michaella B. Ribeiro</author>
+<author pid="84/1320">Eduardo Souto</author>
+<author orcid="0000-0003-1872-4771" pid="24/3796">Leandro Buss Becker</author>
+<title>Multi-Factor Dynamic Channel Assignment approach for Wi-Fi networks.</title>
+<pages>1-7</pages>
+<year>2018</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2018.8538749</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2018.8538749</ee>
+<crossref>conf/iscc/2018</crossref>
+<url>db/conf/iscc/iscc2018.html#RibeiroSB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/QuispeLS18" mdate="2025-01-19">
+<author pid="227/0630">Kevin G. Montero Quispe</author>
+<author pid="176/1005">Wesllen Sousa Lima</author>
+<author pid="84/1320">Eduardo James Pereira Souto</author>
+<title>Human Activity Recognition on Smartphones using Symbolic Data Representation.</title>
+<pages>93-100</pages>
+<year>2018</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/3243082.3243116</ee>
+<ee>https://www.wikidata.org/entity/Q131116006</ee>
+<crossref>conf/webmedia/2018</crossref>
+<url>db/conf/webmedia/webmedia2018.html#QuispeLS18</url>
+</inproceedings>
+</r>
+<r><article key="journals/comcom/KamienskiJEKFRT17" mdate="2021-10-14">
+<author orcid="0000-0002-3087-9234" pid="74/2714">Carlos Kamienski</author>
+<author pid="85/3754">Marc Jentsch</author>
+<author pid="32/4701">Markus Eisenhauer</author>
+<author pid="75/8574">Jussi Kiljander</author>
+<author pid="129/0582">Enrico Ferrera</author>
+<author orcid="0000-0001-5690-1295" pid="19/6653">Peter Rosengren</author>
+<author orcid="0000-0003-4403-8927" pid="07/6839">Jesper Thestrup</author>
+<author pid="84/1320">Eduardo Souto</author>
+<author orcid="0000-0002-4942-984X" pid="199/0157">Walter S. Andrade</author>
+<author pid="s/DjamelSadok">Djamel Sadok</author>
+<title>Application development for the Internet of Things: A context-aware mixed criticality systems development platform.</title>
+<pages>1-16</pages>
+<year>2017</year>
+<volume>104</volume>
+<journal>Comput. Commun.</journal>
+<ee>https://doi.org/10.1016/j.comcom.2016.09.014</ee>
+<url>db/journals/comcom/comcom104.html#KamienskiJEKFRT17</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbrc/MonteiroSP17" mdate="2023-11-06">
+<author pid="198/9547">Alex Monteiro</author>
+<author pid="84/1320">Eduardo Souto</author>
+<author pid="44/164">Richard W. Pazzi</author>
+<title>Sele&#231;&#227;o Din&#226;mica de Interfaxes baseado em An&#225;lise de Contexto para Redes Sem fio Heter&#244;geneas.</title>
+<year>2017</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://sol.sbc.org.br/index.php/sbrc/article/view/2682</ee>
+<crossref>conf/sbrc/2017</crossref>
+<url>db/conf/sbrc/sbrc2017.html#MonteiroSP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/JuniorSSNA17" mdate="2018-12-30">
+<author pid="207/6955">Namedin Junior</author>
+<author pid="84/1320">Eduardo Souto</author>
+<author pid="176/1005">Wesllen Sousa</author>
+<author orcid="0000-0001-8760-3506" pid="13/3921">Rog&#233;rio P. C. do Nascimento</author>
+<author pid="48/10493">Rafael Aschoff</author>
+<title>A Visual Approach for the Definition of Behavior in Environments for Internet of Things.</title>
+<pages>381-388</pages>
+<year>2017</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/3126858.3126867</ee>
+<crossref>conf/webmedia/2017</crossref>
+<url>db/conf/webmedia/webmedia2017.html#JuniorSSNA17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/SousaSRSJE17" mdate="2018-11-06">
+<author pid="176/1005">Wesllen Sousa</author>
+<author pid="84/1320">Eduardo Souto</author>
+<author pid="207/6943">Jonatas Rodrigres</author>
+<author pid="207/7023">Pedro Sadarc</author>
+<author pid="160/8381">Roozbeh Jalali</author>
+<author pid="02/3373">Khalil El-Khatib</author>
+<title>A Comparative Analysis of the Impact of Features on Human Activity Recognition with Smartphone Sensors.</title>
+<pages>397-404</pages>
+<year>2017</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/3126858.3126859</ee>
+<crossref>conf/webmedia/2017</crossref>
+<url>db/conf/webmedia/webmedia2017.html#SousaSRSJE17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/SousaSRPKR16" mdate="2023-03-24">
+<author pid="176/1005">Wesllen Sousa</author>
+<author pid="84/1320">Eduardo Souto</author>
+<author pid="152/8893">Thiago S. Rocha</author>
+<author pid="184/5927">Namedin Pereira</author>
+<author pid="85/3145">Peeter Kool</author>
+<author pid="19/6653">Peter Rosengren</author>
+<title>Prediction of electrical energy consumption for Internet of Things in disaggregated databases.</title>
+<pages>429-434</pages>
+<year>2016</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2016.7543777</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2016.7543777</ee>
+<crossref>conf/iscc/2016</crossref>
+<url>db/conf/iscc/iscc2016.html#SousaSRPKR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pst/RochaSCAMBMS16" mdate="2017-05-21">
+<author pid="152/8893">Thiago S. Rocha</author>
+<author pid="84/1320">Eduardo Souto</author>
+<author pid="198/9657">Brandell Cassio</author>
+<author pid="198/9549">Diego Azulay</author>
+<author pid="198/9547">Alex Monteiro</author>
+<author pid="198/9723">Felipe Boeira</author>
+<author pid="198/9584">Pedro Minatel</author>
+<author pid="198/9628">Breno Silva</author>
+<title>Data leakage detection in Tizen Web applications.</title>
+<pages>608-614</pages>
+<year>2016</year>
+<booktitle>PST</booktitle>
+<ee>https://doi.org/10.1109/PST.2016.7906994</ee>
+<crossref>conf/pst/2016</crossref>
+<url>db/conf/pst/pst2016.html#RochaSCAMBMS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wf-iot/PramudiantoEKSS16" mdate="2023-03-23">
+<author pid="57/7371">Ferry Pramudianto</author>
+<author pid="32/4701">Markus Eisenhauer</author>
+<author orcid="0000-0002-3087-9234" pid="74/2714">Carlos Alberto Kamienski</author>
+<author pid="s/DjamelSadok">Djamel Sadok</author>
+<author pid="84/1320">Eduardo J. Souto</author>
+<title>Connecting the Internet of Things rapidly through a model driven approach.</title>
+<pages>135-140</pages>
+<year>2016</year>
+<booktitle>WF-IoT</booktitle>
+<ee>https://doi.org/10.1109/WF-IoT.2016.7845416</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WF-IoT.2016.7845416</ee>
+<crossref>conf/wf-iot/2016</crossref>
+<url>db/conf/wf-iot/wf-iot2016.html#PramudiantoEKSS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/IEEEcit/BarbosaSFE15" mdate="2023-06-26">
+<author pid="174/1608">Kaio R. S. Barbosa</author>
+<author pid="84/1320">Eduardo Souto</author>
+<author orcid="0000-0001-6401-3992" pid="37/8061">Eduardo Feitosa</author>
+<author orcid="0000-0002-5960-6942" pid="02/3373">Khalil El-Khatib</author>
+<title>Identifying and Classifying Suspicious Network Behavior Using Passive DNS Analysis.</title>
+<pages>160-167</pages>
+<year>2015</year>
+<booktitle>CIT/IUCC/DASC/PICom</booktitle>
+<ee>https://doi.org/10.1109/CIT/IUCC/DASC/PICOM.2015.25</ee>
+<crossref>conf/IEEEcit/2015</crossref>
+<url>db/conf/IEEEcit/cit-iucc-dasc-picom2015.html#BarbosaSFE15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/im/HenkeSS15" mdate="2020-01-13">
+<author pid="164/7977">Marcia Henke</author>
+<author pid="84/1320">Eduardo Souto</author>
+<author pid="45/2740">Eulanda Miranda dos Santos</author>
+<title>Analysis of the evolution of features in classification problems with concept drift: Application to spam detection.</title>
+<pages>874-877</pages>
+<year>2015</year>
+<booktitle>IM</booktitle>
+<ee>https://doi.org/10.1109/INM.2015.7140398</ee>
+<crossref>conf/im/2015</crossref>
+<url>db/conf/im/im2015.html#HenkeSS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/LimaSRPP15" mdate="2023-03-24">
+<author pid="176/1005">Wesllen S. Lima</author>
+<author pid="84/1320">Eduardo Souto</author>
+<author pid="152/8893">Thiago S. Rocha</author>
+<author orcid="0000-0003-4308-6265" pid="44/164">Richard W. Pazzi</author>
+<author pid="57/7371">Ferry Pramudianto</author>
+<title>User activity recognition for energy saving in smart home environment.</title>
+<pages>751-757</pages>
+<year>2015</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2015.7405604</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2015.7405604</ee>
+<crossref>conf/iscc/2015</crossref>
+<url>db/conf/iscc/iscc2015.html#LimaSRPP15</url>
+</inproceedings>
+</r>
+<r><article key="journals/csi/FariaKS14" mdate="2023-11-03">
+<author pid="140/1096-2">Bruno Faria 0002</author>
+<author pid="98/6978">Jouni Korhonen</author>
+<author pid="84/1320">Eduardo Souto</author>
+<title>A comparison study between the TLS-based security framework and IKEv2 when protecting DSMIPv6 signaling.</title>
+<pages>489-500</pages>
+<year>2014</year>
+<volume>36</volume>
+<journal>Comput. Stand. Interfaces</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.csi.2013.08.005</ee>
+<ee>https://www.wikidata.org/entity/Q115045061</ee>
+<url>db/journals/csi/csi36.html#FariaKS14</url>
+</article>
+</r>
+<r><inproceedings key="conf/aiccsa/FariaS14" mdate="2023-11-03">
+<author pid="140/1096-2">Bruno Faria 0002</author>
+<author pid="84/1320">Eduardo Souto</author>
+<title>Performance analysis of Mobile IPv6 support for Dual Stack hosts.</title>
+<pages>92-100</pages>
+<year>2014</year>
+<booktitle>AICCSA</booktitle>
+<ee>https://doi.org/10.1109/AICCSA.2014.7073184</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AICCSA.2014.7073184</ee>
+<crossref>conf/aiccsa/2014</crossref>
+<url>db/conf/aiccsa/aiccsa2014.html#FariaS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipccc/MartinsFS14" mdate="2023-09-30">
+<author orcid="0009-0004-8844-2651" pid="157/4395">Gilbert Breves Martins</author>
+<author pid="47/7842">Rosiane de Freitas</author>
+<author pid="84/1320">Eduardo Souto</author>
+<title>Virtual structures and heterogeneous nodes in dependency graphs for detecting metamorphic malware.</title>
+<pages>1-8</pages>
+<year>2014</year>
+<booktitle>IPCCC</booktitle>
+<ee>https://doi.org/10.1109/PCCC.2014.7017069</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PCCC.2014.7017069</ee>
+<crossref>conf/ipccc/2014</crossref>
+<url>db/conf/ipccc/ipccc2014.html#MartinsFS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nca/RochaS14" mdate="2023-03-23">
+<author pid="152/8893">Thiago S. Rocha</author>
+<author pid="84/1320">Eduardo Souto</author>
+<title>ETSSDetector: A Tool to Automatically Detect Cross-Site Scripting Vulnerabilities.</title>
+<pages>306-309</pages>
+<year>2014</year>
+<booktitle>NCA</booktitle>
+<ee>https://doi.org/10.1109/NCA.2014.53</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/NCA.2014.53</ee>
+<crossref>conf/nca/2014</crossref>
+<url>db/conf/nca/nca2014.html#RochaS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uic/PramudiantoKSBG14" mdate="2023-03-23">
+<author pid="57/7371">Ferry Pramudianto</author>
+<author orcid="0000-0002-3087-9234" pid="74/2714">Carlos Alberto Kamienski</author>
+<author pid="84/1320">Eduardo Souto</author>
+<author pid="59/11211">Fabrizio F. Borelli</author>
+<author pid="162/7147">Lucas L. Gomes</author>
+<author pid="s/DjamelSadok">Djamel Sadok</author>
+<author pid="j/MatthiasJarke">Matthias Jarke</author>
+<title>IoT Link: An Internet of Things Prototyping Toolkit.</title>
+<pages>1-9</pages>
+<year>2014</year>
+<booktitle>UIC/ATC/ScalCom</booktitle>
+<ee>https://doi.org/10.1109/UIC-ATC-ScalCom.2014.95</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/UIC-ATC-ScalCom.2014.95</ee>
+<crossref>conf/uic/2014</crossref>
+<url>db/conf/uic/uic2014.html#PramudiantoKSBG14</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijcomsys/SadokOGKRS13" mdate="2022-04-09">
+<author pid="s/DjamelSadok">Djamel Sadok</author>
+<author orcid="0000-0002-3375-3346" pid="99/9779">Luciana Pereira Oliveira</author>
+<author orcid="0000-0003-1341-5339" pid="55/7441">Glauco Est&#225;cio Gon&#231;alves</author>
+<author pid="10/1554">Judith Kelner</author>
+<author orcid="0000-0001-9374-6351" pid="r/NelsonSoutoRosa">Nelson Souto Rosa</author>
+<author pid="84/1320">Eduardo Souto</author>
+<title>Aspects for untangling cross-layer design and policy support.</title>
+<pages>1308-1326</pages>
+<year>2013</year>
+<volume>26</volume>
+<journal>Int. J. Commun. Syst.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1002/dac.1398</ee>
+<url>db/journals/ijcomsys/ijcomsys26.html#SadokOGKRS13</url>
+</article>
+</r>
+<r><article key="journals/cn/FeitosaSS12" mdate="2020-02-19">
+<author orcid="0000-0001-6401-3992" pid="37/8061">Eduardo Feitosa</author>
+<author pid="84/1320">Eduardo Souto</author>
+<author pid="s/DjamelSadok">Djamel Fawzi Hadj Sadok</author>
+<title>An orchestration approach for unwanted Internet traffic identification.</title>
+<pages>2805-2831</pages>
+<year>2012</year>
+<volume>56</volume>
+<journal>Comput. Networks</journal>
+<number>12</number>
+<ee>https://doi.org/10.1016/j.comnet.2012.04.018</ee>
+<url>db/journals/cn/cn56.html#FeitosaSS12</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccnc/SoutoAJMSK12" mdate="2017-05-24">
+<author pid="84/1320">Eduardo Souto</author>
+<author pid="48/10493">Rafael Aschoff</author>
+<author pid="93/11298">Josias Lima Junior</author>
+<author pid="64/11298">Rodrigo Melo</author>
+<author pid="s/DjamelSadok">Djamel Sadok</author>
+<author pid="10/1554">Judith Kelner</author>
+<title>HTR: A framework for interconnecting wireless heterogeneous devices.</title>
+<pages>645-649</pages>
+<year>2012</year>
+<booktitle>CCNC</booktitle>
+<ee>https://doi.org/10.1109/CCNC.2012.6180984</ee>
+<crossref>conf/ccnc/2012</crossref>
+<url>db/conf/ccnc/ccnc2012.html#SoutoAJMSK12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/NunanSSF12" mdate="2023-03-24">
+<author pid="119/9043">Angelo Eduardo Nunan</author>
+<author pid="84/1320">Eduardo Souto</author>
+<author pid="45/2740">Eulanda Miranda dos Santos</author>
+<author orcid="0000-0001-6401-3992" pid="37/8061">Eduardo Feitosa</author>
+<title>Automatic classification of cross-site scripting in web pages using document-based and URL-based features.</title>
+<pages>702-707</pages>
+<year>2012</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2012.6249380</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISCC.2012.6249380</ee>
+<crossref>conf/iscc/2012</crossref>
+<url>db/conf/iscc/iscc2012.html#NunanSSF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isspa/SantosSS12" mdate="2020-01-13">
+<author pid="119/2316">Clayton Santos</author>
+<author pid="45/2740">Eulanda Miranda dos Santos</author>
+<author pid="84/1320">Eduardo Souto</author>
+<title>Nudity detection based on image zoning.</title>
+<pages>1098-1103</pages>
+<year>2012</year>
+<booktitle>ISSPA</booktitle>
+<ee>https://doi.org/10.1109/ISSPA.2012.6310454</ee>
+<crossref>conf/isspa/2012</crossref>
+<url>db/conf/isspa/isspa2012.html#SantosSS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwcmc/JacintoVKSS10" mdate="2018-11-06">
+<author pid="85/8275">Breno Jacinto</author>
+<author pid="88/8276">Leonardo Vila&#231;a</author>
+<author pid="10/1554">Judith Kelner</author>
+<author pid="s/DjamelSadok">Djamel Sadok</author>
+<author pid="84/1320">Eduardo Souto</author>
+<title>3D routing: a protocol for emergency scenarios.</title>
+<pages>519-523</pages>
+<year>2010</year>
+<booktitle>IWCMC</booktitle>
+<ee>https://doi.org/10.1145/1815396.1815516</ee>
+<crossref>conf/iwcmc/2010</crossref>
+<url>db/conf/iwcmc/iwcmc2010.html#JacintoVKSS10</url>
+</inproceedings>
+</r>
+<r><article key="journals/compsec/SadokSFKW09" mdate="2023-08-28">
+<author pid="s/DjamelSadok">Djamel Fawzi Hadj Sadok</author>
+<author pid="84/1320">Eduardo Souto</author>
+<author orcid="0000-0001-6401-3992" pid="37/8061">Eduardo Feitosa</author>
+<author pid="10/1554">Judith Kelner</author>
+<author pid="00/5825">Lars Westberg</author>
+<title>RIP - A robust IP access architecture.</title>
+<pages>359-380</pages>
+<year>2009</year>
+<volume>28</volume>
+<journal>Comput. Secur.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/j.cose.2009.02.002</ee>
+<ee>https://www.wikidata.org/entity/Q115061797</ee>
+<url>db/journals/compsec/compsec28.html#SadokSFKW09</url>
+</article>
+</r>
+<r><phdthesis key="phd/ndltd/Souto07" mdate="2017-08-05">
+<author pid="84/1320">Eduardo James Pereira Souto</author>
+<title>Arquiteturas Cross-layer para Redes de Sensores sem Fio.</title>
+<year>2007</year>
+<school>Federal University of Pernambuco, Recife, Brazil</school>
+<ee>http://repositorio.ufpe.br/handle/123456789/2050</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:agregador.ibict.br.BDTD_UFPE:oai:repositorio.ufpe.br:123456789/2050</ee>
+<note type="source">ndltd.org (oai:agregador.ibict.br.BDTD_UFPE:oai:repositorio.ufpe.br:123456789/2050)</note>
+</phdthesis>
+</r>
+<r><article key="journals/puc/SoutoGVVRFK06" mdate="2023-08-28">
+<author pid="84/1320">Eduardo Souto</author>
+<author pid="20/4613">Germano Guimar&#227;es</author>
+<author pid="46/4863">Glauco Vasconcelos</author>
+<author pid="03/216">Mardoqueu Vieira</author>
+<author orcid="0000-0001-9374-6351" pid="r/NelsonSoutoRosa">Nelson S. Rosa</author>
+<author pid="31/2870">Carlos Andr&#233; Guimar&#227;es Ferraz</author>
+<author pid="10/1554">Judith Kelner</author>
+<title>Mires: a publish/subscribe middleware for sensor networks.</title>
+<pages>37-44</pages>
+<year>2006</year>
+<volume>10</volume>
+<journal>Pers. Ubiquitous Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00779-005-0038-3</ee>
+<ee>https://www.wikidata.org/entity/Q120628961</ee>
+<url>db/journals/puc/puc10.html#SoutoGVVRFK06</url>
+</article>
+</r>
+<r><inproceedings key="conf/sutc/SoutoGSK06" mdate="2023-03-24">
+<author pid="84/1320">Eduardo Souto</author>
+<author pid="35/4229">Reinaldo Gomes</author>
+<author pid="s/DjamelSadok">Djamel Sadok</author>
+<author pid="10/1554">Judith Kelner</author>
+<title>Sampling Energy Consumption in Wireless Sensor Networks.</title>
+<pages>284-287</pages>
+<year>2006</year>
+<crossref>conf/sutc/2006</crossref>
+<booktitle>SUTC (1)</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SUTC.2006.118</ee>
+<url>db/conf/sutc/sutc2006-1.html#SoutoGSK06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icw/GuimaraesSaK05" mdate="2023-03-23">
+<author pid="20/4613">Germano Guimar&#227;es</author>
+<author pid="84/1320">Eduardo Souto</author>
+<author pid="s/DjamelSadok">Djamel Fawzi Hadj Sadok</author>
+<author pid="10/1554">Judith Kelner</author>
+<title>Evaluation of Security Mechanisms in Wireless Sensor Networks.</title>
+<pages>428-433</pages>
+<year>2005</year>
+<crossref>conf/icw/2005</crossref>
+<booktitle>Systems Communications</booktitle>
+<ee>https://doi.org/10.1109/ICW.2005.47</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICW.2005.47</ee>
+<url>db/conf/icw/icw2005.html#GuimaraesSaK05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/SoutoGVVRF04" mdate="2018-11-06">
+<author pid="84/1320">Eduardo Souto</author>
+<author pid="20/4613">Germano Guimar&#227;es</author>
+<author pid="46/4863">Glauco Vasconcelos</author>
+<author pid="03/216">Mardoqueu Vieira</author>
+<author orcid="0000-0001-9374-6351" pid="r/NelsonSoutoRosa">Nelson S. Rosa</author>
+<author pid="31/2870">Carlos Andr&#233; Guimar&#227;es Ferraz</author>
+<title>A message-oriented middleware for sensor networks.</title>
+<pages>127-134</pages>
+<year>2004</year>
+<crossref>conf/middleware/2004w4</crossref>
+<booktitle>Middleware for Pervasive and Ad-hoc Computing</booktitle>
+<ee>https://doi.org/10.1145/1028509.1028514</ee>
+<url>db/conf/middleware/middleware2004-w4.html#SoutoGVVRF04</url>
+</inproceedings>
+</r>
+<coauthors n="95" nc="2">
+<co c="0"><na f="a/Alencar:Marcio_Aurelio_dos_Santos" pid="152/1691">Marcio Aurelio dos Santos Alencar</na></co>
+<co c="0"><na f="a/Andrade:Walter_S=" pid="199/0157">Walter S. Andrade</na></co>
+<co c="0" n="2"><na f="a/Aschoff:Rafael_Roque" pid="48/10493">Rafael Roque Aschoff</na><na>Rafael Aschoff</na></co>
+<co c="0"><na f="a/Assayag:Yuri" pid="281/6173">Yuri Assayag</na></co>
+<co c="0"><na f="a/Azulay:Diego" pid="198/9549">Diego Azulay</na></co>
+<co c="0"><na f="b/Barbosa:Kaio_R=_S=" pid="174/1608">Kaio R. S. Barbosa</na></co>
+<co c="0"><na f="b/Barreto:Raimundo_S=" pid="04/562">Raimundo S. Barreto</na></co>
+<co c="0" n="2"><na f="b/Batista:Daniel_M=" pid="20/833">Daniel M. Batista</na><na>Daniel Mac&#234;do Batista</na></co>
+<co c="0"><na f="b/Becker:Leandro_Buss" pid="24/3796">Leandro Buss Becker</na></co>
+<co c="0"><na f="b/Boeira:Felipe" pid="198/9723">Felipe Boeira</na></co>
+<co c="0"><na f="b/Borelli:Fabrizio_F=" pid="59/11211">Fabrizio F. Borelli</na></co>
+<co c="0"><na f="b/Bragan=ccedil=a:Hendrio_L=_de_Souza" pid="231/6701">Hendrio L. de Souza Bragan&#231;a</na></co>
+<co c="0"><na f="c/Carvalho:Leandro_S=_G=" pid="48/91">Leandro S. G. Carvalho</na></co>
+<co c="0"><na f="c/Carvalho:Moises" pid="394/1053">Moises Carvalho</na></co>
+<co c="0"><na f="c/Cassio:Brandell" pid="198/9657">Brandell Cassio</na></co>
+<co c="0"><na f="c/Coelho:Fl=aacute=vio_Jos=eacute=_Mendes" pid="255/5845">Fl&#225;vio Jos&#233; Mendes Coelho</na></co>
+<co c="0"><na f="c/Colonna:Juan_Gabriel" pid="118/5111">Juan Gabriel Colonna</na></co>
+<co c="0"><na f="c/Costa:Jeferson_B=_da" pid="218/1654">Jeferson B. da Costa</na></co>
+<co c="0"><na f="e/Eisenhauer:Markus" pid="32/4701">Markus Eisenhauer</na></co>
+<co c="0"><na f="e/El=Khatib:Khalil" pid="02/3373">Khalil El-Khatib</na></co>
+<co c="1"><na f="f/Faria_0002:Bruno" pid="140/1096-2">Bruno Faria 0002</na></co>
+<co c="0"><na f="f/Farias_0001:Bruno" pid="237/8433-1">Bruno Farias 0001</na></co>
+<co c="0"><na f="f/Feitosa:Eduardo" pid="37/8061">Eduardo Feitosa</na></co>
+<co c="0" n="2"><na f="f/Ferraz:Carlos_A=_G=" pid="31/2870">Carlos A. G. Ferraz</na><na>Carlos Andr&#233; Guimar&#227;es Ferraz</na></co>
+<co c="0"><na f="f/Ferrera:Enrico" pid="129/0582">Enrico Ferrera</na></co>
+<co c="0"><na f="f/Filho:Eddie_Batista_de_Lima" pid="25/6797">Eddie Batista de Lima Filho</na></co>
+<co c="0"><na f="f/Freire:Natalia_de_Sousa" pid="372/5894">Natalia de Sousa Freire</na></co>
+<co c="0"><na f="f/Freitas:Rosiane_de" pid="47/7842">Rosiane de Freitas</na></co>
+<co c="0"><na f="g/Gama_0001:Jo=atilde=o" pid="g/JGama">Jo&#227;o Gama 0001</na></co>
+<co c="0"><na f="g/Giusti:Rafael" pid="67/1155">Rafael Giusti</na></co>
+<co c="0"><na f="g/Gomes:Lucas_L=" pid="162/7147">Lucas L. Gomes</na></co>
+<co c="0"><na f="g/Gomes:Reinaldo" pid="35/4229">Reinaldo Gomes</na></co>
+<co c="0"><na f="g/Gonalves:Alberto_de_Almeida_Campos" pid="372/4779">Alberto de Almeida Campos Gonalves</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Glauco_Est=aacute=cio" pid="55/7441">Glauco Est&#225;cio Gon&#231;alves</na></co>
+<co c="0"><na f="g/Guimar=atilde=es:Germano" pid="20/4613">Germano Guimar&#227;es</na></co>
+<co c="0"><na f="h/Henke:Marcia" pid="164/7977">Marcia Henke</na></co>
+<co c="0"><na f="j/Jacinto:Breno" pid="85/8275">Breno Jacinto</na></co>
+<co c="0"><na f="j/Jalali:Roozbeh" pid="160/8381">Roozbeh Jalali</na></co>
+<co c="0"><na f="j/Jarke:Matthias" pid="j/MatthiasJarke">Matthias Jarke</na></co>
+<co c="0"><na f="j/Jentsch:Marc" pid="85/3754">Marc Jentsch</na></co>
+<co c="0"><na f="j/Junior:Josias_Lima" pid="93/11298">Josias Lima Junior</na></co>
+<co c="0"><na f="j/J=uacute=nior:Manoel_Jos=eacute=_S=" pid="257/6716">Manoel Jos&#233; S. J&#250;nior</na></co>
+<co c="0"><na f="j/Junior:Namedin" pid="207/6955">Namedin Junior</na></co>
+<co c="0" n="2"><na f="k/Kamienski:Carlos" pid="74/2714">Carlos Kamienski</na><na>Carlos Alberto Kamienski</na></co>
+<co c="0"><na f="k/Kelner:Judith" pid="10/1554">Judith Kelner</na></co>
+<co c="0"><na f="k/Kiljander:Jussi" pid="75/8574">Jussi Kiljander</na></co>
+<co c="0"><na f="k/Kool:Peeter" pid="85/3145">Peeter Kool</na></co>
+<co c="1"><na f="k/Korhonen:Jouni" pid="98/6978">Jouni Korhonen</na></co>
+<co c="0"><na f="l/Leo:Pedro_Paulo_de_Souza" pid="372/4734">Pedro Paulo de Souza Leo</na></co>
+<co c="0"><na f="l/Leyva:Roberto_G=_E=" pid="370/1548">Roberto G. E. Leyva</na></co>
+<co c="0"><na f="l/Lima:Marcos_A=_P=" pid="368/5105">Marcos A. P. Lima</na></co>
+<co c="0" n="2"><na f="l/Lima:Michele_Nogueira" pid="22/4022">Michele Nogueira Lima</na><na>Michele Nogueira</na></co>
+<co c="0" n="3"><na f="l/Lima:Wesllen_S=" pid="176/1005">Wesllen S. Lima</na><na>Wesllen Sousa Lima</na><na>Wesllen Sousa</na></co>
+<co c="0" n="2"><na f="m/Maia:Orlewilson_Bentes" pid="120/9099">Orlewilson Bentes Maia</na><na>Orlewilson B. Maia</na></co>
+<co c="0"><na f="m/Martins:Gilbert_Breves" pid="157/4395">Gilbert Breves Martins</na></co>
+<co c="0"><na f="m/Melo:Rafaela" pid="248/4163">Rafaela Melo</na></co>
+<co c="0"><na f="m/Melo:Rodrigo" pid="64/11298">Rodrigo Melo</na></co>
+<co c="0"><na f="m/Minatel:Pedro" pid="198/9584">Pedro Minatel</na></co>
+<co c="0"><na f="m/Monteiro:Alex" pid="198/9547">Alex Monteiro</na></co>
+<co c="0"><na f="n/Nakamura:Fab=iacute=ola_G=" pid="15/39">Fab&#237;ola G. Nakamura</na></co>
+<co c="0"><na f="n/Nascimento:Rog=eacute=rio_P=_C=_do" pid="13/3921">Rog&#233;rio P. C. do Nascimento</na></co>
+<co c="0"><na f="n/Nunan:Angelo_Eduardo" pid="119/9043">Angelo Eduardo Nunan</na></co>
+<co c="0"><na f="o/Oliveira:David_B=_F=" pid="269/7014">David B. F. Oliveira</na></co>
+<co c="0" n="2"><na f="o/Oliveira:Elaine_Harada_T=_de" pid="193/1016">Elaine Harada T. de Oliveira</na><na>Elaine H. T. Oliveira</na></co>
+<co c="0" n="3"><na f="o/Oliveira:Horacio_A=_B=_F=_de" pid="14/5675">Horacio A. B. F. de Oliveira</na><na>Hor&#225;cio A. B. F. Oliveira</na><na>Hor&#225;cio Fernandes 0001</na></co>
+<co c="0"><na f="o/Oliveira:Hygo_Sousa_De" pid="388/3819">Hygo Sousa De Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Luciana_Pereira" pid="99/9779">Luciana Pereira Oliveira</na></co>
+<co c="0" n="2"><na f="p/Pazzi:Richard_Werner_Nelem" pid="44/164">Richard Werner Nelem Pazzi</na><na>Richard W. Pazzi</na></co>
+<co c="0"><na f="p/Pereira:Filipe_D=" pid="241/8680">Filipe D. Pereira</na></co>
+<co c="0"><na f="p/Pereira:Namedin" pid="184/5927">Namedin Pereira</na></co>
+<co c="0"><na f="p/Pessoa:Marcela" pid="91/10360">Marcela Pessoa</na></co>
+<co c="0"><na f="p/Pinto:Br=aacute=ulio_Henrique_O=_U=_V=" pid="292/6649">Br&#225;ulio Henrique O. U. V. Pinto</na></co>
+<co c="0"><na f="p/Pinto:Rafael_Albuquerque" pid="372/5066">Rafael Albuquerque Pinto</na></co>
+<co c="0"><na f="p/Pramudianto:Ferry" pid="57/7371">Ferry Pramudianto</na></co>
+<co c="0"><na f="q/Quispe:Kevin_G=_Montero" pid="227/0630">Kevin G. Montero Quispe</na></co>
+<co c="0"><na f="r/Ribeiro:Laura_Michaella_B=" pid="253/7725">Laura Michaella B. Ribeiro</na></co>
+<co c="0"><na f="r/Rocha:Thiago_S=" pid="152/8893">Thiago S. Rocha</na></co>
+<co c="0"><na f="r/Rodrigres:Jonatas" pid="207/6943">Jonatas Rodrigres</na></co>
+<co c="0" n="2"><na f="r/Rosa:Nelson_Souto" pid="r/NelsonSoutoRosa">Nelson Souto Rosa</na><na>Nelson S. Rosa</na></co>
+<co c="0"><na f="r/Rosengren:Peter" pid="19/6653">Peter Rosengren</na></co>
+<co c="0"><na f="s/S:Pio_H=_Ordozgoith_Da_F=" pid="370/1268">Pio H. Ordozgoith Da F. S</na></co>
+<co c="0"><na f="s/Sadarc:Pedro" pid="207/7023">Pedro Sadarc</na></co>
+<co c="0" n="2"><na f="s/Sadok:Djamel_Fawzi_Hadj" pid="s/DjamelSadok">Djamel Fawzi Hadj Sadok</na><na>Djamel Sadok</na></co>
+<co c="0"><na f="s/Santin:Altair_Olivo" pid="38/5417">Altair Olivo Santin</na></co>
+<co c="0"><na f="s/Santos:Clayton" pid="119/2316">Clayton Santos</na></co>
+<co c="0" n="2"><na f="s/Santos:Eulanda_M=_dos" pid="45/2740">Eulanda M. dos Santos</na><na>Eulanda Miranda dos Santos</na></co>
+<co c="0"><na f="s/Silva:Breno" pid="198/9628">Breno Silva</na></co>
+<co c="0"><na f="t/Thestrup:Jesper" pid="07/6839">Jesper Thestrup</na></co>
+<co c="0" n="2"><na f="t/Tiago_0001:Leonardo" pid="354/9772">Leonardo Tiago 0001</na><na>Leonardo Albuquerque Tiago</na></co>
+<co c="0"><na f="u/Utyiama:Daniel_M=_S=" pid="338/1215">Daniel M. S. Utyiama</na></co>
+<co c="0"><na f="v/Vasconcelos:Glauco" pid="46/4863">Glauco Vasconcelos</na></co>
+<co c="0" n="2"><na f="v/Veras:Rodrigo_M=_S=" pid="67/8105">Rodrigo M. S. Veras</na><na>Rodrigo Veras</na></co>
+<co c="0"><na f="v/Vieira:Mardoqueu" pid="03/216">Mardoqueu Vieira</na></co>
+<co c="0"><na f="v/Vila=ccedil=a:Leonardo" pid="88/8276">Leonardo Vila&#231;a</na></co>
+<co c="0"><na f="w/Westberg:Lars" pid="00/5825">Lars Westberg</na></co>
+</coauthors>
+</dblpperson>
+

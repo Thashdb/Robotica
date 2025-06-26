@@ -1,0 +1,853 @@
+<?xml version="1.0"?>
+<dblpperson name="Cl&#225;udio Machado Diniz" pid="27/1742" n="50">
+<person key="homepages/27/1742" mdate="2009-06-09">
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+</person>
+<r><article key="journals/esticas/FreitasRMPDGC25" mdate="2025-04-08">
+<author orcid="0000-0002-1355-2782" pid="282/3934">Daiane Freitas</author>
+<author pid="400/6563">Patrick Rosa</author>
+<author pid="400/6367">Leonardo M&#252;ller</author>
+<author orcid="0000-0003-0409-8335" pid="49/7554">Daniel Palomino 0001</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0003-0600-7054" pid="29/9850">Mateus Grellert</author>
+<author orcid="0000-0002-2739-6194" pid="14/8181">Guilherme Corr&#234;a 0001</author>
+<title>Low-Power Multiversion Interpolation Filter Accelerator With Hardware Reuse for AV1 Codec.</title>
+<pages>133-142</pages>
+<year>2025</year>
+<month>March</month>
+<volume>15</volume>
+<journal>IEEE J. Emerg. Sel. Topics Circuits Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/JETCAS.2024.3523246</ee>
+<url>db/journals/esticas/esticas15.html#FreitasRMPDGC25</url>
+<stream>streams/journals/esticas</stream>
+</article>
+</r>
+<r><inproceedings key="conf/lascas/FerreiraADZ25" mdate="2025-05-12">
+<author pid="208/0149">Rafael Ferreira 0001</author>
+<author pid="80/5216">Luciano Agostini</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author pid="33/2753">Bruno Zatt</author>
+<title>Energy-Efficient Hardware Architecture for VVC TZS Using Approximate Subtractors.</title>
+<pages>1-5</pages>
+<year>2025</year>
+<booktitle>LASCAS</booktitle>
+<ee>https://doi.org/10.1109/LASCAS64004.2025.10966352</ee>
+<crossref>conf/lascas/2025</crossref>
+<url>db/conf/lascas/lascas2025.html#FerreiraADZ25</url>
+<stream>streams/conf/lascas</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lascas/GobattoSDZCA24" mdate="2024-05-08">
+<author pid="306/1076">Leonardo Gobatto</author>
+<author pid="206/4059">Mateus Saquetti</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author pid="33/2753">Bruno Zatt</author>
+<author pid="96/2183">Weverton Cordeiro</author>
+<author pid="21/1296">Jos&#233; Rodrigo Azambuja</author>
+<title>Improving Video Streaming Quality in Congested Networks with In-Network Computing.</title>
+<pages>1-5</pages>
+<year>2024</year>
+<booktitle>LASCAS</booktitle>
+<ee>https://doi.org/10.1109/LASCAS60203.2024.10506184</ee>
+<crossref>conf/lascas/2024</crossref>
+<url>db/conf/lascas/lascas2024.html#GobattoSDZCA24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/FreitasGD023" mdate="2024-10-06">
+<author pid="282/3934">Daiane Freitas</author>
+<author orcid="0000-0003-0600-7054" pid="29/9850">Mateus Grellert</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author pid="14/8181">Guilherme Corr&#234;a 0001</author>
+<title>Multiversion Low-Power Hardware Accelerator for the AV1 Interpolation Filters.</title>
+<pages>1-5</pages>
+<year>2023</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS46773.2023.10181588</ee>
+<crossref>conf/iscas/2023</crossref>
+<url>db/conf/iscas/iscas2023.html#FreitasGD023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lascas/GarciaSDPC23" mdate="2023-09-30">
+<author orcid="0009-0006-0167-0040" pid="347/3352">Bruna Garcia</author>
+<author pid="194/7183">Bianca Silveira</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author pid="49/7554">Daniel Palomino 0001</author>
+<author pid="14/8181">Guilherme Corr&#234;a 0001</author>
+<title>Multi-Size Inverse DCT-II Hardware Design for the VVC Decoder.</title>
+<pages>1-4</pages>
+<year>2023</year>
+<booktitle>LASCAS</booktitle>
+<ee>https://doi.org/10.1109/LASCAS56464.2023.10108348</ee>
+<crossref>conf/lascas/2023</crossref>
+<url>db/conf/lascas/lascas2023.html#GarciaSDPC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/FerreiraADZ23" mdate="2023-10-11">
+<author pid="208/0149">Rafael S. Ferreira</author>
+<author pid="80/5216">Luciano Agostini</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author pid="33/2753">Bruno Zatt</author>
+<title>Evaluation of Imprecise Subtractors into Test Zone Search for VVC Encoding.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1109/SBCCI60457.2023.10261956</ee>
+<crossref>conf/sbcci/2023</crossref>
+<url>db/conf/sbcci/sbcci2023.html#FerreiraADZ23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/SilveiraPDC23" mdate="2023-10-11">
+<author pid="194/7183">Bianca Silveira</author>
+<author pid="49/7554">Daniel Palomino 0001</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author pid="14/8181">Guilherme Corr&#234;a 0001</author>
+<title>A Hardware Design for the Multi-Transform Module of the Versatile Video Coding Standard.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1109/SBCCI60457.2023.10261970</ee>
+<crossref>conf/sbcci/2023</crossref>
+<url>db/conf/sbcci/sbcci2023.html#SilveiraPDC23</url>
+</inproceedings>
+</r>
+<r><article key="journals/cssp/SilveiraPAFDCB22" mdate="2022-04-09">
+<author pid="194/7183">Bianca Silveira</author>
+<author orcid="0000-0001-7809-9563" pid="170/1424">Guilherme Paim</author>
+<author pid="210/1357">Brunno Alves Abreu</author>
+<author pid="208/0149">Rafael dos Santos Ferreira</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0003-0521-5898" pid="39/451">Eduardo Ant&#244;nio C&#233;sar da Costa</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<title>The 4-2 Fused Adder-Subtractor Compressor for Low-Power Butterfly-Based Hardware Architectures.</title>
+<pages>1577-1595</pages>
+<year>2022</year>
+<volume>41</volume>
+<journal>Circuits Syst. Signal Process.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00034-021-01839-x</ee>
+<url>db/journals/cssp/cssp41.html#SilveiraPAFDCB22</url>
+</article>
+</r>
+<r><article key="journals/dt/DinizZ22" mdate="2022-12-05">
+<author orcid="0000-0002-5019-3715" pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0002-8045-957X" pid="33/2753">Bruno Zatt</author>
+<title>Guest Editors' Introduction: SBCCI 2021.</title>
+<pages>110</pages>
+<year>2022</year>
+<volume>39</volume>
+<journal>IEEE Des. Test</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/MDAT.2022.3195987</ee>
+<url>db/journals/dt/dt39.html#DinizZ22</url>
+</article>
+</r>
+<r><inproceedings key="conf/icecsys/FerreiraSADZ22" mdate="2022-12-23">
+<author pid="208/0149">Rafael S. Ferreira</author>
+<author pid="137/4274">Lucas Santos</author>
+<author pid="80/5216">Luciano Agostini</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author pid="33/2753">Bruno Zatt</author>
+<title>VVC Interpicture Prediction Using SAD with Imprecise Subtractors: A Quantitative Analysis.</title>
+<pages>1-4</pages>
+<year>2022</year>
+<booktitle>ICECS 2022</booktitle>
+<ee>https://doi.org/10.1109/ICECS202256217.2022.9971128</ee>
+<crossref>conf/icecsys/2022</crossref>
+<url>db/conf/icecsys/icecsys2022.html#FerreiraSADZ22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/SilveiraN0D022" mdate="2022-11-17">
+<author pid="194/7183">Bianca Silveira</author>
+<author pid="274/6318">Luiz Neto</author>
+<author pid="49/7554">Daniel Palomino 0001</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author pid="14/8181">Guilherme Corr&#234;a 0001</author>
+<title>Multiple Transform Selection Hardware Design for 4K@60fps Real-Time Versatile Video Coding.</title>
+<pages>1-5</pages>
+<year>2022</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS48785.2022.9937964</ee>
+<crossref>conf/iscas/2022</crossref>
+<url>db/conf/iscas/iscas2022.html#SilveiraN0D022</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/GobattoSDZCA22" mdate="2023-09-30">
+<author orcid="0000-0002-5631-3036" pid="306/1076">Leonardo Gobatto</author>
+<author pid="206/4059">Mateus Saquetti</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author pid="33/2753">Bruno Zatt</author>
+<author pid="96/2183">Weverton Cordeiro</author>
+<author pid="21/1296">Jos&#233; Rodrigo Azambuja</author>
+<title>Improving Content-Aware Video Streaming in Congested Networks with In-Network Computing.</title>
+<pages>1813-1817</pages>
+<year>2022</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS48785.2022.9937451</ee>
+<crossref>conf/iscas/2022</crossref>
+<url>db/conf/iscas/iscas2022.html#GobattoSDZCA22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/FreitasNGDC22" mdate="2024-10-06">
+<author pid="282/3934">Daiane Freitas</author>
+<author pid="330/3873">Bruna Nagai</author>
+<author orcid="0000-0003-0600-7054" pid="29/9850">Mateus Grellert</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author pid="14/8181">Guilherme Corr&#234;a 0001</author>
+<title>High-Throughput Multifilter VLSI Design for the AV1 Fractional Motion Estimation.</title>
+<pages>1-6</pages>
+<year>2022</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1109/SBCCI55532.2022.9893255</ee>
+<crossref>conf/sbcci/2022</crossref>
+<url>db/conf/sbcci/sbcci2022.html#FreitasNGDC22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2202-04703" mdate="2022-02-18">
+<author pid="306/1076">Leonardo Gobatto</author>
+<author pid="206/4059">Mateus Saquetti</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author pid="33/2753">Bruno Zatt</author>
+<author pid="96/2183">Weverton Cordeiro</author>
+<author pid="21/1296">Jos&#233; Rodrigo Azambuja</author>
+<title>Improving Content-Aware Video Streaming in Congested Networks with In-Network Computing.</title>
+<year>2022</year>
+<volume>abs/2202.04703</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2202.04703</ee>
+<url>db/journals/corr/corr2202.html#abs-2202-04703</url>
+</article>
+</r>
+<r><inproceedings key="conf/eusipco/FreitasSSDRG20" mdate="2025-03-03">
+<author pid="282/3934">Daiane Freitas</author>
+<author pid="249/8814">Rafael da Silva</author>
+<author pid="249/8823">&#205;caro Siqueira</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo A. L. Reis</author>
+<author orcid="0000-0003-0600-7054" pid="29/9850">Mateus Grellert</author>
+<title>Hardware Architecture for the Regular Interpolation Filter of the AV1 Video Coding Standard.</title>
+<pages>560-564</pages>
+<year>2020</year>
+<booktitle>EUSIPCO</booktitle>
+<ee>https://doi.org/10.23919/Eusipco47968.2020.9287551</ee>
+<crossref>conf/eusipco/2020</crossref>
+<url>db/conf/eusipco/eusipco2020.html#FreitasSSDRG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lascas/StiggerLSDB20" mdate="2022-04-09">
+<author pid="222/9386">Matheus F. Stigger</author>
+<author pid="257/5228">Victor H. S. Lima</author>
+<author pid="160/0562">Leonardo Bandeira Soares</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<title>Approximate SATD Hardware Accelerator Using the 8 &#215; 8 Hadamard Transform.</title>
+<pages>1-4</pages>
+<year>2020</year>
+<booktitle>LASCAS</booktitle>
+<ee>https://doi.org/10.1109/LASCAS45839.2020.9068987</ee>
+<crossref>conf/lascas/2020</crossref>
+<url>db/conf/lascas/lascas2020.html#StiggerLSDB20</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcas/SoaresRDCB19" mdate="2025-03-03">
+<author orcid="0000-0002-4678-9401" pid="160/0562">Leonardo Bandeira Soares</author>
+<author orcid="0000-0001-9582-9011" pid="222/9334">Morgana Macedo Azevedo da Rosa</author>
+<author orcid="0000-0002-5019-3715" pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0003-0521-5898" pid="39/451">Eduardo Antonio Cesar da Costa</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<title>Design Methodology to Explore Hybrid Approximate Adders for Energy-Efficient Image and Video Processing Accelerators.</title>
+<pages>2137-2150</pages>
+<year>2019</year>
+<volume>66-I</volume>
+<journal>IEEE Trans. Circuits Syst. I Regul. Pap.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TCSI.2019.2892588</ee>
+<ee>https://www.wikidata.org/entity/Q128467442</ee>
+<url>db/journals/tcas/tcasI66.html#SoaresRDCB19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icecsys/StiggerLSDB19" mdate="2022-04-09">
+<author pid="222/9386">Matheus F. Stigger</author>
+<author pid="257/5228">Victor H. S. Lima</author>
+<author pid="160/0562">Leonardo Bandeira Soares</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<title>Approximate Sum of Absolute Transformed Differences Hardware Accelerator.</title>
+<pages>53-56</pages>
+<year>2019</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS46596.2019.8964778</ee>
+<crossref>conf/icecsys/2019</crossref>
+<url>db/conf/icecsys/icecsys2019.html#StiggerLSDB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/FerreiraLCADZ19" mdate="2022-02-26">
+<author pid="208/0149">Rafael Ferreira 0001</author>
+<author pid="238/2198">Mateus Leme</author>
+<author pid="89/9119">Marcel Moscarelli Corr&#234;a</author>
+<author pid="80/5216">Luciano Agostini</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author pid="33/2753">Bruno Zatt</author>
+<title>Approximate Subtractor Operator for Low-Power Video Coding Hardware Accelerators.</title>
+<pages>426-429</pages>
+<year>2019</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS46596.2019.8964783</ee>
+<crossref>conf/icecsys/2019</crossref>
+<url>db/conf/icecsys/icecsys2019.html#FerreiraLCADZ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mwscas/FerreiraPADCB19" mdate="2022-04-09">
+<author pid="208/0149">Rafael S. Ferreira</author>
+<author orcid="0000-0001-7809-9563" pid="170/1424">Guilherme Paim</author>
+<author orcid="0000-0002-0467-0461" pid="210/1357">Brunno A. Abreu</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0003-0521-5898" pid="39/451">Eduardo A. C. da Costa</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<title>HEVC Interpolation Filter Architecture Using Hybrid Encoding Arithmetic Operators.</title>
+<pages>331-334</pages>
+<year>2019</year>
+<booktitle>MWSCAS</booktitle>
+<ee>https://doi.org/10.1109/MWSCAS.2019.8885370</ee>
+<crossref>conf/mwscas/2019</crossref>
+<url>db/conf/mwscas/mwscas2019.html#FerreiraPADCB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lascas/SoaresPSADNS18" mdate="2025-03-03">
+<author pid="241/1200">Aminadabe dos Santos Pires Soares</author>
+<author orcid="0000-0003-1896-0520" pid="241/1216">Wemerson Delcio Parreira</author>
+<author orcid="0000-0001-9884-6626" pid="241/1302">Everton Granemann Souza</author>
+<author pid="01/10049">S&#233;rgio Jose Melo de Almeida</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0001-6028-9852" pid="241/1203">Chiara das Dores do Nascimento</author>
+<author pid="222/9386">Matheus F. Stigger</author>
+<title>Energy-based voice activity detection algorithm using Gaussian and Cauchy kernels.</title>
+<pages>1-4</pages>
+<year>2018</year>
+<booktitle>LASCAS</booktitle>
+<ee>https://doi.org/10.1109/LASCAS.2018.8399936</ee>
+<crossref>conf/lascas/2018</crossref>
+<url>db/conf/lascas/lascas2018.html#SoaresPSADNS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lascas/SoaresRDCB18" mdate="2025-03-03">
+<author pid="160/0562">Leonardo Bandeira Soares</author>
+<author orcid="0000-0001-9582-9011" pid="222/9334">Morgana M. A. da Rosa</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0003-0521-5898" pid="39/451">Eduardo A. C. da Costa</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<title>Exploring power-performance-quality tradeoff of approximate adders for energy efficient sobel filtering.</title>
+<pages>1-4</pages>
+<year>2018</year>
+<booktitle>LASCAS</booktitle>
+<ee>https://doi.org/10.1109/LASCAS.2018.8399938</ee>
+<crossref>conf/lascas/2018</crossref>
+<url>db/conf/lascas/lascas2018.html#SoaresRDCB18</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcas/SilveiraPAGDCB17" mdate="2022-04-09">
+<author pid="194/7183">Bianca Silveira</author>
+<author orcid="0000-0001-7809-9563" pid="170/1424">Guilherme Paim</author>
+<author orcid="0000-0002-0467-0461" pid="210/1357">Brunno Abreu</author>
+<author orcid="0000-0003-0600-7054" pid="29/9850">Mateus Grellert</author>
+<author orcid="0000-0002-5019-3715" pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0003-0521-5898" pid="39/451">Eduardo A. C. da Costa</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<title>Power-Efficient Sum of Absolute Differences Hardware Architecture Using Adder Compressors for Integer Motion Estimation Design.</title>
+<pages>3126-3137</pages>
+<year>2017</year>
+<volume>64-I</volume>
+<journal>IEEE Trans. Circuits Syst. I Regul. Pap.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TCSI.2017.2728802</ee>
+<ee>https://www.wikidata.org/entity/Q57760064</ee>
+<url>db/journals/tcas/tcasI64.html#SilveiraPAGDCB17</url>
+</article>
+</r>
+<r><inproceedings key="conf/icecsys/MacedoSSDC17" mdate="2025-03-03">
+<author orcid="0000-0001-9582-9011" pid="222/9334">Morgana Macedo</author>
+<author pid="160/0562">Leonardo Bandeira Soares</author>
+<author pid="194/7183">Bianca Silveira</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0003-0521-5898" pid="39/451">Eduardo A. C. da Costa</author>
+<title>Exploring the use of parallel prefix adder topologies into approximate adder circuits.</title>
+<pages>298-301</pages>
+<year>2017</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2017.8292078</ee>
+<crossref>conf/icecsys/2017</crossref>
+<url>db/conf/icecsys/icecsys2017.html#MacedoSSDC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/SilveiraAPGFDCB17" mdate="2022-04-09">
+<author pid="194/7183">Bianca Silveira</author>
+<author pid="210/1357">Brunno Abreu</author>
+<author orcid="0000-0001-7809-9563" pid="170/1424">Guilherme Paim</author>
+<author pid="29/9850">Mateus Grellert</author>
+<author pid="208/0149">Rafael S. Ferreira</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0003-0521-5898" pid="39/451">Eduardo Costa 0001</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<title>Using adder and subtractor compressors to sum of absolute transformed differences architecture for low-power video encoding.</title>
+<pages>490-493</pages>
+<year>2017</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2017.8292076</ee>
+<crossref>conf/icecsys/2017</crossref>
+<url>db/conf/icecsys/icecsys2017.html#SilveiraAPGFDCB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/AbreuPGSDCB17" mdate="2022-04-09">
+<author pid="210/1357">Brunno Abreu</author>
+<author orcid="0000-0001-7809-9563" pid="170/1424">Guilherme Paim</author>
+<author orcid="0000-0003-0600-7054" pid="29/9850">Mateus Grellert</author>
+<author pid="194/7183">Bianca Silveira</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0003-0521-5898" pid="39/451">Eduardo Costa 0001</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<title>Exploiting absolute arithmetic for power-efficient sum of absolute differences.</title>
+<pages>522-525</pages>
+<year>2017</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2017.8292062</ee>
+<crossref>conf/icecsys/2017</crossref>
+<url>db/conf/icecsys/icecsys2017.html#AbreuPGSDCB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lascas/FerreiraSFDC17" mdate="2022-02-26">
+<author pid="208/0149">Rafael Ferreira 0001</author>
+<author pid="194/7183">Bianca Silveira</author>
+<author pid="177/8029">Mateus Beck Fonseca</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0003-0521-5898" pid="39/451">Eduardo A. C. da Costa</author>
+<title>Low power sum of absolute differences architecture using novel hybrid adder.</title>
+<pages>1-4</pages>
+<year>2017</year>
+<booktitle>LASCAS</booktitle>
+<ee>https://doi.org/10.1109/LASCAS.2017.7948092</ee>
+<crossref>conf/lascas/2017</crossref>
+<url>db/conf/lascas/lascas2017.html#FerreiraSFDC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/newcas/SilveiraFPDC17" mdate="2022-04-09">
+<author pid="194/7183">Bianca Silveira</author>
+<author pid="208/0149">Rafael S. Ferreira</author>
+<author orcid="0000-0001-7809-9563" pid="170/1424">Guilherme Paim</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0003-0521-5898" pid="39/451">Eduardo A. C. da Costa</author>
+<title>Low power SATD architecture employing multiple sizes Hadamard Transforms and adder compressors.</title>
+<pages>277-280</pages>
+<year>2017</year>
+<booktitle>NEWCAS</booktitle>
+<ee>https://doi.org/10.1109/NEWCAS.2017.8010159</ee>
+<crossref>conf/newcas/2017</crossref>
+<url>db/conf/newcas/newcas2017.html#SilveiraFPDC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/SilveiraPDC16" mdate="2022-04-09">
+<author pid="194/7183">Bianca Silveira</author>
+<author orcid="0000-0001-7809-9563" pid="170/1424">Guilherme Paim</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0003-0521-5898" pid="39/451">Eduardo A. C. da Costa</author>
+<title>Power-efficient sum of absolute differences architecture using adder compressors.</title>
+<pages>340-343</pages>
+<year>2016</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2016.7841202</ee>
+<crossref>conf/icecsys/2016</crossref>
+<url>db/conf/icecsys/icecsys2016.html#SilveiraPDC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/newcas/MalossiPDSB16" mdate="2022-04-09">
+<author pid="188/4624">Giovani Malossi</author>
+<author orcid="0000-0003-0409-8335" pid="49/7554">Daniel Palomino 0001</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author pid="00/4529">Altamiro Amadeu Susin</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<title>Adjusting video tiling to available resources in a per-frame basis in High Efficiency Video Coding.</title>
+<pages>1-4</pages>
+<year>2016</year>
+<booktitle>NEWCAS</booktitle>
+<ee>https://doi.org/10.1109/NEWCAS.2016.7604837</ee>
+<crossref>conf/newcas/2016</crossref>
+<url>db/conf/newcas/newcas2016.html#MalossiPDSB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/SoaresDCB16" mdate="2022-04-09">
+<author pid="160/0562">Leonardo Bandeira Soares</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0003-0521-5898" pid="39/451">Eduardo Antonio Cesar da Costa</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<title>A novel pruned-based algorithm for energy-efficient SATD operation in the HEVC coding.</title>
+<pages>1-6</pages>
+<year>2016</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1109/SBCCI.2016.7724049</ee>
+<crossref>conf/sbcci/2016</crossref>
+<url>db/conf/sbcci/sbcci2016.html#SoaresDCB16</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcad/DinizSBH15" mdate="2022-04-09">
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0002-2607-8135" pid="s/MuhammadShafique">Muhammad Shafique 0001</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<author pid="h/JorgHenkel">J&#246;rg Henkel</author>
+<title>A Reconfigurable Hardware Architecture for Fractional Pixel Interpolation in High Efficiency Video Coding.</title>
+<pages>238-251</pages>
+<year>2015</year>
+<volume>34</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCAD.2014.2384517</ee>
+<ee>https://www.wikidata.org/entity/Q57760083</ee>
+<url>db/journals/tcad/tcad34.html#DinizSBH15</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/DinizSDBH15" mdate="2021-08-09">
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author pid="s/MuhammadShafique">Muhammad Shafique 0001</author>
+<author pid="161/0856">Felipe Vogel Dalcin</author>
+<author pid="84/5693">Sergio Bampi</author>
+<author pid="h/JorgHenkel">J&#246;rg Henkel</author>
+<title>A deblocking filter hardware architecture for the high efficiency video coding standard.</title>
+<pages>1509-1514</pages>
+<year>2015</year>
+<booktitle>DATE</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2757160</ee>
+<ee>https://ieeexplore.ieee.org/document/7092628/</ee>
+<crossref>conf/date/2015</crossref>
+<url>db/conf/date/date2015.html#DinizSDBH15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/SilveiraDFC15" mdate="2022-01-03">
+<author pid="194/7183">Bianca Silveira</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author pid="177/8029">Mateus Fonseca</author>
+<author orcid="0000-0003-0521-5898" pid="39/451">Eduardo A. C. da Costa</author>
+<title>SATD hardware architecture based on 8&#215;8 Hadamard Transform for HEVC encoder.</title>
+<pages>576-579</pages>
+<year>2015</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2015.7440382</ee>
+<ee>https://www.wikidata.org/entity/Q57760079</ee>
+<crossref>conf/icecsys/2015</crossref>
+<url>db/conf/icecsys/icecsys2015.html#SilveiraDFC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/newcas/DinizFCB15" mdate="2022-04-09">
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author pid="177/8029">Mateus Beck Fonseca</author>
+<author orcid="0000-0003-0521-5898" pid="39/451">Eduardo A. C. da Costa</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<title>Enhancing a HEVC interpolation filter hardware architecture with efficient adder compressors.</title>
+<pages>1-4</pages>
+<year>2015</year>
+<booktitle>NEWCAS</booktitle>
+<ee>https://doi.org/10.1109/NEWCAS.2015.7182087</ee>
+<ee>https://www.wikidata.org/entity/Q57760087</ee>
+<crossref>conf/newcas/2015</crossref>
+<url>db/conf/newcas/newcas2015.html#DinizFCB15</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijpp/MonteiroVDMZB14" mdate="2025-03-03">
+<author pid="124/7197">Eduarda Monteiro</author>
+<author orcid="0009-0002-2911-9972" pid="119/0186">Bruno Boessio Vizzotto</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author pid="64/10196">Marilena Maule</author>
+<author pid="33/2753">Bruno Zatt</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<title>Parallelization of Full Search Motion Estimation Algorithm for Parallel and Distributed Platforms.</title>
+<pages>239-264</pages>
+<year>2014</year>
+<volume>42</volume>
+<journal>Int. J. Parallel Program.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10766-012-0216-7</ee>
+<ee>https://www.wikidata.org/entity/Q57760091</ee>
+<url>db/journals/ijpp/ijpp42.html#MonteiroVDMZB14</url>
+</article>
+</r>
+<r><inproceedings key="conf/fpl/DinizSBH14" mdate="2022-04-09">
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0002-2607-8135" pid="s/MuhammadShafique">Muhammad Shafique 0001</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<author pid="h/JorgHenkel">J&#246;rg Henkel</author>
+<title>Run-time accelerator binding for tile-based mixed-grained reconfigurable architectures.</title>
+<pages>1-4</pages>
+<year>2014</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2014.6927392</ee>
+<ee>https://www.wikidata.org/entity/Q57760095</ee>
+<crossref>conf/fpl/2014</crossref>
+<url>db/conf/fpl/fpl2014.html#DinizSBH14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/DinizSBH13" mdate="2022-04-09">
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0002-2607-8135" pid="s/MuhammadShafique">Muhammad Shafique 0001</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<author pid="h/JorgHenkel">J&#246;rg Henkel</author>
+<title>High-throughput interpolation hardware architecture with coarse-grained reconfigurable datapaths for HEVC.</title>
+<pages>2091-2095</pages>
+<year>2013</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2013.6738431</ee>
+<ee>https://www.wikidata.org/entity/Q57760100</ee>
+<crossref>conf/icip/2013</crossref>
+<url>db/conf/icip/icip2013.html#DinizSBH13</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijrc/PalominoCDBAS12" mdate="2022-04-09">
+<author orcid="0000-0003-0409-8335" pid="49/7554">Daniel Palomino 0001</author>
+<author orcid="0000-0002-2739-6194" pid="14/8181">Guilherme Corr&#234;a 0001</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<author orcid="0000-0002-3421-5830" pid="80/5216">Luciano Volcan Agostini</author>
+<author pid="00/4529">Altamiro Amadeu Susin</author>
+<title>Algorithm and Hardware Design of a Fast Intra Frame Mode Decision Module for H.264/AVC Encoders.</title>
+<year>2012</year>
+<volume>2012</volume>
+<journal>Int. J. Reconfigurable Comput.</journal>
+<ee type="oa">https://doi.org/10.1155/2012/813023</ee>
+<ee>https://www.wikidata.org/entity/Q57760104</ee>
+<url>db/journals/ijrc/ijrc2012.html#PalominoCDBAS12</url>
+<pages>813023:1-813023:10</pages>
+</article>
+</r>
+<r><article key="journals/vlsi/CorreaPDBA12" mdate="2022-04-09">
+<author orcid="0000-0002-2739-6194" pid="14/8181">Guilherme Corr&#234;a 0001</author>
+<author orcid="0000-0003-0409-8335" pid="49/7554">Daniel Palomino 0001</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<author orcid="0000-0002-3421-5830" pid="80/5216">Luciano Volcan Agostini</author>
+<title>Low-Complexity Hierarchical Mode Decision Algorithms Targeting VLSI Architecture Design for the H.264/AVC Video Encoder.</title>
+<year>2012</year>
+<volume>2012</volume>
+<journal>VLSI Design</journal>
+<ee type="oa">https://doi.org/10.1155/2012/748019</ee>
+<ee>https://www.wikidata.org/entity/Q57760109</ee>
+<url>db/journals/vlsi/vlsi2012.html#CorreaPDBA12</url>
+<pages>748019:1-748019:20</pages>
+</article>
+</r>
+<r><inproceedings key="conf/icip/MonteiroMSDZB12" mdate="2025-03-03">
+<author pid="124/7197">Eduarda Monteiro</author>
+<author pid="64/10196">Marilena Maule</author>
+<author orcid="0000-0002-5700-2221" pid="38/7554">Felipe Sampaio</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author pid="33/2753">Bruno Zatt</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<title>Real-time block matching motion estimation onto GPGPU.</title>
+<pages>1693-1696</pages>
+<year>2012</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2012.6467204</ee>
+<ee>https://www.wikidata.org/entity/Q57760119</ee>
+<crossref>conf/icip/2012</crossref>
+<url>db/conf/icip/icip2012.html#MonteiroMSDZB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/CorreaPDAB11" mdate="2023-03-24">
+<author orcid="0000-0002-2739-6194" pid="14/8181">Guilherme Corr&#234;a 0001</author>
+<author orcid="0000-0003-0409-8335" pid="49/7554">Daniel Palomino 0001</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0002-3421-5830" pid="80/5216">Luciano Volcan Agostini</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<title>SHBS: A heuristic for fast inter mode decision of H.264/AVC standard targeting VLSI design.</title>
+<pages>1-4</pages>
+<year>2011</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2011.6012097</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICME.2011.6012097</ee>
+<ee>https://www.wikidata.org/entity/Q57760145</ee>
+<crossref>conf/icmcs/2011</crossref>
+<url>db/conf/icmcs/icme2011.html#CorreaPDAB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/DinizZTSBSPA11" mdate="2025-03-03">
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author pid="33/2753">Bruno Zatt</author>
+<author pid="70/9850">Cristiano Thiele</author>
+<author pid="00/4529">Altamiro Amadeu Susin</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<author orcid="0000-0002-5700-2221" pid="38/7554">Felipe Sampaio</author>
+<author orcid="0000-0003-0409-8335" pid="49/7554">Daniel Palomino 0001</author>
+<author orcid="0000-0002-3421-5830" pid="80/5216">Luciano Volcan Agostini</author>
+<title>A high throughput H.264/AVC intra-frame encoding loop architecture for HD1080p.</title>
+<pages>579-582</pages>
+<year>2011</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2011.5937631</ee>
+<ee>https://www.wikidata.org/entity/Q57760128</ee>
+<crossref>conf/iscas/2011</crossref>
+<url>db/conf/iscas/iscas2011.html#DinizZTSBSPA11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/MonteiroVDZB11" mdate="2025-03-03">
+<author pid="124/7197">Eduarda Monteiro</author>
+<author orcid="0009-0002-2911-9972" pid="119/0186">Bruno Boessio Vizzotto</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author pid="33/2753">Bruno Zatt</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<title>Applying CUDA Architecture to Accelerate Full Search Block Matching Algorithm for High Performance Motion Estimation in Video Encoding.</title>
+<pages>128-135</pages>
+<year>2011</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2011.19</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2011.19</ee>
+<ee>https://www.wikidata.org/entity/Q57760139</ee>
+<crossref>conf/sbac-pad/2011</crossref>
+<url>db/conf/sbac-pad/sbac-pad2011.html#MonteiroVDZB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/PalominoCDBAS11" mdate="2022-04-09">
+<author orcid="0000-0003-0409-8335" pid="49/7554">Daniel Palomino 0001</author>
+<author orcid="0000-0002-2739-6194" pid="14/8181">Guilherme Corr&#234;a 0001</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<author orcid="0000-0002-3421-5830" pid="80/5216">Luciano Volcan Agostini</author>
+<author pid="00/4529">Altamiro Amadeu Susin</author>
+<title>Algorithm and hardware design of a fast intra-frame mode decision module for h.264/AVC encoders.</title>
+<pages>143-148</pages>
+<year>2011</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1145/2020876.2020909</ee>
+<ee>https://www.wikidata.org/entity/Q57760134</ee>
+<crossref>conf/sbcci/2011</crossref>
+<url>db/conf/sbcci/sbcci2011.html#PalominoCDBAS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/CorreaDBPPA10" mdate="2022-04-09">
+<author orcid="0000-0002-2739-6194" pid="14/8181">Guilherme Corr&#234;a 0001</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<author orcid="0000-0003-0409-8335" pid="49/7554">Daniel Palomino 0001</author>
+<author pid="19/5243">Roger Endrigo Carvalho Porto</author>
+<author orcid="0000-0002-3421-5830" pid="80/5216">Luciano Volcan Agostini</author>
+<title>Homogeneity and distortion-based intra mode decision architecture for H.264/AVC.</title>
+<pages>591-594</pages>
+<year>2010</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2010.5724581</ee>
+<ee>https://www.wikidata.org/entity/Q57760154</ee>
+<crossref>conf/icecsys/2010</crossref>
+<url>db/conf/icecsys/icecsys2010.html#CorreaDBPPA10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/DinizACB10" mdate="2022-04-09">
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author pid="43/8747">Jo&#227;o S. Altermann</author>
+<author orcid="0000-0003-0521-5898" pid="39/451">Eduardo A. C. da Costa</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<title>Performance enhancement of H.264/AVC intra frame prediction hardware using efficient 4-2 and 5-2 adder-compressors.</title>
+<pages>157-162</pages>
+<year>2010</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1145/1854153.1854193</ee>
+<ee>https://www.wikidata.org/entity/Q57760159</ee>
+<crossref>conf/sbcci/2010</crossref>
+<url>db/conf/sbcci/sbcci2010.html#DinizACB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi/ZattDAB10" mdate="2022-04-09">
+<author pid="33/2753">Bruno Zatt</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author orcid="0000-0002-3421-5830" pid="80/5216">Luciano Volcan Agostini</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<title>Timing and interface communication analysis of H.264/AVC encoder using SystemC model.</title>
+<pages>235-240</pages>
+<year>2010</year>
+<booktitle>VLSI-SoC</booktitle>
+<ee>https://doi.org/10.1109/VLSISOC.2010.5642666</ee>
+<ee>https://www.wikidata.org/entity/Q57760164</ee>
+<crossref>conf/vlsi/2010soc</crossref>
+<url>db/conf/vlsi/vlsisoc2010.html#ZattDAB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmcs/DinizZASB09" mdate="2022-04-09">
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author pid="33/2753">Bruno Zatt</author>
+<author orcid="0000-0002-3421-5830" pid="80/5216">Luciano Volcan Agostini</author>
+<author pid="00/4529">Altamiro Amadeu Susin</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<title>A real time H.264/AVC intra frame prediction hardware architecture for HDTV 1080P video.</title>
+<pages>1138-1141</pages>
+<year>2009</year>
+<booktitle>ICME</booktitle>
+<ee>https://doi.org/10.1109/ICME.2009.5202700</ee>
+<ee>https://www.wikidata.org/entity/Q57760168</ee>
+<crossref>conf/icmcs/2009</crossref>
+<url>db/conf/icmcs/icme2009.html#DinizZASB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/psivt/SilvaDVASB07" mdate="2022-04-09">
+<author orcid="0000-0002-5356-3398" pid="81/4115">Tha&#237;sa Leal da Silva</author>
+<author pid="27/1742">Cl&#225;udio Machado Diniz</author>
+<author pid="55/463">Jo&#227;o Alberto Vortmann</author>
+<author pid="80/5216">Luciano Volcan Agostini</author>
+<author pid="00/4529">Altamiro Amadeu Susin</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<title>A Pipelined 8x8 2-D Forward DCT Hardware Architecture for H.264/AVC High Profile Encoder.</title>
+<pages>5-15</pages>
+<year>2007</year>
+<crossref>conf/psivt/2007</crossref>
+<booktitle>PSIVT</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-77129-6_5</ee>
+<url>db/conf/psivt/psivt2007.html#SilvaDVASB07</url>
+</inproceedings>
+</r>
+<coauthors n="51" nc="1">
+<co c="0" n="3"><na f="a/Abreu:Brunno" pid="210/1357">Brunno Abreu</na><na>Brunno A. Abreu</na><na>Brunno Alves Abreu</na></co>
+<co c="0" n="2"><na f="a/Agostini:Luciano_Volcan" pid="80/5216">Luciano Volcan Agostini</na><na>Luciano Agostini</na></co>
+<co c="0" n="2"><na f="a/Almeida:S=eacute=rgio_J=_M=_de" pid="01/10049">S&#233;rgio J. M. de Almeida</na><na>S&#233;rgio Jose Melo de Almeida</na></co>
+<co c="0"><na f="a/Altermann:Jo=atilde=o_S=" pid="43/8747">Jo&#227;o S. Altermann</na></co>
+<co c="0"><na f="a/Azambuja:Jos=eacute=_Rodrigo" pid="21/1296">Jos&#233; Rodrigo Azambuja</na></co>
+<co c="0"><na f="b/Bampi:Sergio" pid="84/5693">Sergio Bampi</na></co>
+<co c="0" n="2"><na f="c/Cordeiro:Weverton_Luis_da_Costa" pid="96/2183">Weverton Luis da Costa Cordeiro</na><na>Weverton Cordeiro</na></co>
+<co c="0"><na f="c/Corr=ecirc=a_0001:Guilherme" pid="14/8181">Guilherme Corr&#234;a 0001</na></co>
+<co c="0"><na f="c/Corr=ecirc=a:Marcel_Moscarelli" pid="89/9119">Marcel Moscarelli Corr&#234;a</na></co>
+<co c="0" n="4"><na f="c/Costa:Eduardo_A=_C=_da" pid="39/451">Eduardo A. C. da Costa</na><na>Eduardo Antonio Cesar da Costa</na><na>Eduardo Ant&#244;nio C&#233;sar da Costa</na><na>Eduardo Costa 0001</na></co>
+<co c="0"><na f="d/Dalcin:Felipe_Vogel" pid="161/0856">Felipe Vogel Dalcin</na></co>
+<co c="0" n="3"><na f="f/Ferreira:Rafael_S=" pid="208/0149">Rafael S. Ferreira</na><na>Rafael Ferreira 0001</na><na>Rafael dos Santos Ferreira</na></co>
+<co c="0" n="2"><na f="f/Fonseca:Mateus" pid="177/8029">Mateus Fonseca</na><na>Mateus Beck Fonseca</na></co>
+<co c="0"><na f="f/Freitas:Daiane" pid="282/3934">Daiane Freitas</na></co>
+<co c="0"><na f="g/Garcia:Bruna" pid="347/3352">Bruna Garcia</na></co>
+<co c="0"><na f="g/Gobatto:Leonardo" pid="306/1076">Leonardo Gobatto</na></co>
+<co c="0"><na f="g/Grellert:Mateus" pid="29/9850">Mateus Grellert</na></co>
+<co c="0"><na f="h/Henkel:J=ouml=rg" pid="h/JorgHenkel">J&#246;rg Henkel</na></co>
+<co c="0"><na f="l/Leme:Mateus" pid="238/2198">Mateus Leme</na></co>
+<co c="0"><na f="l/Lima:Victor_H=_S=" pid="257/5228">Victor H. S. Lima</na></co>
+<co c="0"><na f="m/Malossi:Giovani" pid="188/4624">Giovani Malossi</na></co>
+<co c="0"><na f="m/Maule:Marilena" pid="64/10196">Marilena Maule</na></co>
+<co c="0"><na f="m/Monteiro:Eduarda" pid="124/7197">Eduarda Monteiro</na></co>
+<co c="0"><na f="m/M=uuml=ller:Leonardo" pid="400/6367">Leonardo M&#252;ller</na></co>
+<co c="0"><na f="n/Nagai:Bruna" pid="330/3873">Bruna Nagai</na></co>
+<co c="0"><na f="n/Nascimento:Chiara_das_Dores_do" pid="241/1203">Chiara das Dores do Nascimento</na></co>
+<co c="0"><na f="n/Neto:Luiz" pid="274/6318">Luiz Neto</na></co>
+<co c="0"><na f="p/Paim:Guilherme" pid="170/1424">Guilherme Paim</na></co>
+<co c="0"><na f="p/Palomino_0001:Daniel" pid="49/7554">Daniel Palomino 0001</na></co>
+<co c="0"><na f="p/Parreira:Wemerson_Delcio" pid="241/1216">Wemerson Delcio Parreira</na></co>
+<co c="0"><na f="p/Porto:Roger_Endrigo_Carvalho" pid="19/5243">Roger Endrigo Carvalho Porto</na></co>
+<co c="0" n="2"><na f="r/Reis:Ricardo_Augusto_da_Luz" pid="r/RAdaLuzReis">Ricardo Augusto da Luz Reis</na><na>Ricardo A. L. Reis</na></co>
+<co c="0" n="3"><na f="r/Rosa:Morgana_Macedo_Azevedo_da" pid="222/9334">Morgana Macedo Azevedo da Rosa</na><na>Morgana M. A. da Rosa</na><na>Morgana Macedo</na></co>
+<co c="0"><na f="r/Rosa:Patrick" pid="400/6563">Patrick Rosa</na></co>
+<co c="0"><na f="s/Sampaio:Felipe" pid="38/7554">Felipe Sampaio</na></co>
+<co c="0"><na f="s/Santos:Lucas" pid="137/4274">Lucas Santos</na></co>
+<co c="0"><na f="s/Saquetti:Mateus" pid="206/4059">Mateus Saquetti</na></co>
+<co c="0"><na f="s/Shafique_0001:Muhammad" pid="s/MuhammadShafique">Muhammad Shafique 0001</na></co>
+<co c="0"><na f="s/Silva:Rafael_da" pid="249/8814">Rafael da Silva</na></co>
+<co c="0"><na f="s/Silva:Tha=iacute=sa_Leal_da" pid="81/4115">Tha&#237;sa Leal da Silva</na></co>
+<co c="0"><na f="s/Silveira:Bianca" pid="194/7183">Bianca Silveira</na></co>
+<co c="0"><na f="s/Siqueira:=Iacute=caro" pid="249/8823">&#205;caro Siqueira</na></co>
+<co c="0"><na f="s/Soares:Aminadabe_dos_Santos_Pires" pid="241/1200">Aminadabe dos Santos Pires Soares</na></co>
+<co c="0"><na f="s/Soares:Leonardo_Bandeira" pid="160/0562">Leonardo Bandeira Soares</na></co>
+<co c="0"><na f="s/Souza:Everton_Granemann" pid="241/1302">Everton Granemann Souza</na></co>
+<co c="0"><na f="s/Stigger:Matheus_F=" pid="222/9386">Matheus F. Stigger</na></co>
+<co c="0"><na f="s/Susin:Altamiro_Amadeu" pid="00/4529">Altamiro Amadeu Susin</na></co>
+<co c="0"><na f="t/Thiele:Cristiano" pid="70/9850">Cristiano Thiele</na></co>
+<co c="0"><na f="v/Vizzotto:Bruno_Boessio" pid="119/0186">Bruno Boessio Vizzotto</na></co>
+<co c="0"><na f="v/Vortmann:Jo=atilde=o_Alberto" pid="55/463">Jo&#227;o Alberto Vortmann</na></co>
+<co c="0"><na f="z/Zatt:Bruno" pid="33/2753">Bruno Zatt</na></co>
+</coauthors>
+</dblpperson>
+

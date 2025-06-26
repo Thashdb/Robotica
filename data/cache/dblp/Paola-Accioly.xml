@@ -1,0 +1,303 @@
+<?xml version="1.0"?>
+<dblpperson name="Paola R. G. Accioly" pid="53/7000" n="17">
+<person key="homepages/53/7000" mdate="2009-06-10">
+<author pid="53/7000">Paola R. G. Accioly</author>
+</person>
+<r><article key="journals/ese/LucasNBCLSTAMS25" mdate="2025-06-11">
+<author orcid="0000-0001-7391-9622" pid="217/3743">Walter Lucas 0001</author>
+<author pid="374/7383">Rafael Campos Nunes</author>
+<author pid="21/824">Rodrigo Bonif&#225;cio</author>
+<author pid="171/5980">Fausto Carvalho</author>
+<author pid="36/8058">Ricardo Lima</author>
+<author pid="35/4635">Michael Silva</author>
+<author pid="344/1780">Adriano Torres</author>
+<author pid="53/7000">Paola R. G. Accioly</author>
+<author pid="200/9203">Eduardo Monteiro</author>
+<author pid="97/3668">Jo&#227;o Saraiva</author>
+<title>Understanding the adoption of modern Javascript features: An empirical study on open-source systems.</title>
+<pages>107</pages>
+<year>2025</year>
+<month>June</month>
+<volume>30</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10664-025-10663-9</ee>
+<url>db/journals/ese/ese30.html#LucasNBCLSTAMS25</url>
+<stream>streams/journals/ese</stream>
+</article>
+</r>
+<r><article key="journals/smr/LucasCNBSA24" mdate="2024-05-31">
+<author orcid="0000-0001-7391-9622" pid="217/3743">Walter Lucas 0001</author>
+<author orcid="0000-0002-6622-2330" pid="171/5980">Fausto Carvalho</author>
+<author orcid="0000-0003-3769-6171" pid="374/7383">Rafael Campos Nunes</author>
+<author orcid="0000-0002-2380-2829" pid="21/824">Rodrigo Bonif&#225;cio</author>
+<author orcid="0000-0002-5686-7151" pid="97/3668">Jo&#227;o Saraiva</author>
+<author orcid="0000-0002-4428-2543" pid="53/7000">Paola R. G. Accioly</author>
+<title>Embracing modern C++ features: An empirical assessment on the KDE community.</title>
+<year>2024</year>
+<month>May</month>
+<volume>36</volume>
+<journal>J. Softw. Evol. Process.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1002/smr.2605</ee>
+<url>db/journals/smr/smr36.html#LucasCNBSA24</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbes/CunhaAB22" mdate="2025-01-19">
+<author pid="329/4057">Marcela Cunha</author>
+<author pid="53/7000">Paola R. G. Accioly</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<title>The Private Life of Merge Conflicts.</title>
+<pages>353-362</pages>
+<year>2022</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3555228.3555240</ee>
+<ee>https://www.wikidata.org/entity/Q131119029</ee>
+<crossref>conf/sbes/2022</crossref>
+<url>db/conf/sbes/sbes2022.html#CunhaAB22</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/lareferencia/ACCIOLY18" mdate="2025-02-19">
+<author pid="53/7000">Paola R. G. Accioly</author>
+<title>Understanding collaboration conflicts characteristics</title>
+<school>Federal University of Pernambuco, Brazil</school>
+<year>2018</year>
+<note type="source">LaReferencia (lareferencia.info): oai:repositorio.ufpe.br:123456789/32361</note>
+<ee>https://repositorio.ufpe.br/handle/123456789/32361</ee>
+</phdthesis>
+</r>
+<r><article key="journals/ese/AcciolyBC18" mdate="2022-03-16">
+<author orcid="0000-0002-4428-2543" pid="53/7000">Paola R. G. Accioly</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<author pid="170/6113">Guilherme Cavalcanti</author>
+<title>Understanding semi-structured merge conflict characteristics in open-source Java projects.</title>
+<pages>2051-2085</pages>
+<year>2018</year>
+<volume>23</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10664-017-9586-1</ee>
+<ee>https://www.wikidata.org/entity/Q110510404</ee>
+<url>db/journals/ese/ese23.html#AcciolyBC18</url>
+</article>
+</r>
+<r><inproceedings key="conf/kbse/AcciolyBC18" mdate="2018-11-21">
+<author pid="53/7000">Paola R. G. Accioly</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<author pid="170/6113">Guilherme Cavalcanti</author>
+<title>Understanding Semi-structured merge conflict characteristics in open-source Java projects (journal-first abstract).</title>
+<pages>955</pages>
+<year>2018</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/3238147.3241983</ee>
+<crossref>conf/kbse/2018</crossref>
+<url>db/conf/kbse/ase2018.html#AcciolyBC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/msr/AcciolyBSC08" mdate="2021-08-11">
+<author pid="53/7000">Paola R. G. Accioly</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<author pid="183/9958">L&#233;uson M. P. da Silva</author>
+<author pid="170/6113">Guilherme Cavalcanti</author>
+<title>Analyzing conflict predictors in open-source Java projects.</title>
+<pages>576-586</pages>
+<year>2018</year>
+<booktitle>MSR</booktitle>
+<ee>https://doi.org/10.1145/3196398.3196437</ee>
+<ee>https://ieeexplore.ieee.org/document/8595241</ee>
+<crossref>conf/msr/2018</crossref>
+<url>db/conf/msr/msr2018.html#AcciolyBSC08</url>
+</inproceedings>
+</r>
+<r><article key="journals/pacmpl/CavalcantiBA17" mdate="2021-02-17">
+<author pid="170/6113">Guilherme Cavalcanti</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<author pid="53/7000">Paola R. G. Accioly</author>
+<title>Evaluating and improving semistructured merge.</title>
+<pages>59:1-59:27</pages>
+<year>2017</year>
+<volume>1</volume>
+<journal>Proc. ACM Program. Lang.</journal>
+<number>OOPSLA</number>
+<ee type="oa">https://doi.org/10.1145/3133883</ee>
+<url>db/journals/pacmpl/pacmpl1.html#CavalcantiBA17</url>
+</article>
+</r>
+<r><article key="journals/sosym/BonifacioBFA17" mdate="2020-09-18">
+<author orcid="0000-0002-2380-2829" pid="21/824">Rodrigo Bonif&#225;cio</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<author pid="59/8434">Cristiano Ferraz</author>
+<author pid="53/7000">Paola R. G. Accioly</author>
+<title>Empirical assessment of two approaches for specifying software product line use case scenarios.</title>
+<pages>97-123</pages>
+<year>2017</year>
+<volume>16</volume>
+<journal>Softw. Syst. Model.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10270-015-0471-3</ee>
+<url>db/journals/sosym/sosym16.html#BonifacioBFA17</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/CavalcantiBA17" mdate="2023-03-23">
+<author pid="170/6113">Guilherme Cavalcanti</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<author pid="53/7000">Paola R. G. Accioly</author>
+<title>Should we replace our merge tools?</title>
+<pages>325-327</pages>
+<year>2017</year>
+<booktitle>ICSE (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1109/ICSE-C.2017.103</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICSE-C.2017.103</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3098455</ee>
+<crossref>conf/icse/2017c</crossref>
+<url>db/conf/icse/icse2017c.html#CavalcantiBA17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esem/CavalcantiAB15" mdate="2023-03-24">
+<author pid="170/6113">Guilherme Cavalcanti</author>
+<author pid="53/7000">Paola R. G. Accioly</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<title>Assessing Semistructured Merge in Version Control Systems: A Replicated Experiment.</title>
+<pages>267-276</pages>
+<year>2015</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1109/ESEM.2015.7321191</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ESEM.2015.7321191</ee>
+<crossref>conf/esem/2015</crossref>
+<url>db/conf/esem/esem2015.html#CavalcantiAB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/Accioly15" mdate="2023-03-23">
+<author pid="53/7000">Paola R. G. Accioly</author>
+<title>Understanding Conflicts Arising from Collaborative Development.</title>
+<pages>775-777</pages>
+<year>2015</year>
+<booktitle>ICSE (2)</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2015.246</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICSE.2015.246</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2819164</ee>
+<crossref>conf/icse/2015-2</crossref>
+<url>db/conf/icse/icse2015-2.html#Accioly15</url>
+</inproceedings>
+</r>
+<r><article key="journals/jucs/AcciolyBB14" mdate="2021-02-17">
+<author pid="53/7000">Paola R. G. Accioly</author>
+<author pid="b/PauloBorba">Paulo Borba</author>
+<author pid="21/824">Rodrigo Bonif&#225;cio</author>
+<title>Controlled Experiments Comparing Black-box Testing Strategies for Software Product Lines.</title>
+<pages>615-639</pages>
+<year>2014</year>
+<volume>20</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.3217/jucs-020-05-0615</ee>
+<url>db/journals/jucs/jucs20.html#AcciolyBB14</url>
+</article>
+</r>
+<r><article key="journals/re/AlferezBTG14" mdate="2020-03-27">
+<author pid="77/6729">Mauricio Alf&#233;rez</author>
+<author orcid="0000-0002-2380-2829" pid="21/824">Rodrigo Bonif&#225;cio</author>
+<author pid="62/8372">Leopoldo Teixeira</author>
+<author pid="53/7000">Paola R. G. Accioly</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author orcid="0000-0003-2046-2766" pid="m/AnaMoreira">Ana Moreira 0001</author>
+<author orcid="0000-0001-5914-1631" pid="72/1322-1">Jo&#227;o Ara&#250;jo 0001</author>
+<author orcid="0000-0002-0381-2843" pid="b/PauloBorba">Paulo Borba</author>
+<title>Evaluating scenario-based SPL requirements approaches: the case for modularity, stability and expressiveness.</title>
+<pages>355-376</pages>
+<year>2014</year>
+<volume>19</volume>
+<journal>Requir. Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00766-013-0184-5</ee>
+<url>db/journals/re/re19.html#AlferezBTG14</url>
+</article>
+</r>
+<r><inproceedings key="conf/profes/FreireASNKAB13" mdate="2017-06-05">
+<author pid="41/8921">Mar&#237;lia Aranha Freire</author>
+<author pid="53/7000">Paola R. G. Accioly</author>
+<author pid="130/7589">Gustavo Siz&#237;lio</author>
+<author pid="117/6108">Edmilson Campos Neto</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author pid="31/1490">Eduardo Aranha</author>
+<author orcid="0000-0002-0381-2843" pid="b/PauloBorba">Paulo Borba</author>
+<title>A Model-Driven Approach to Specifying and Monitoring Controlled Experiments in Software Engineering.</title>
+<pages>65-79</pages>
+<year>2013</year>
+<booktitle>PROFES</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-39259-7_8</ee>
+<crossref>conf/profes/2013</crossref>
+<url>db/conf/profes/profes2013.html#FreireASNKAB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcars/AcciolyBB12" mdate="2023-03-23">
+<author pid="53/7000">Paola R. G. Accioly</author>
+<author orcid="0000-0002-0381-2843" pid="b/PauloBorba">Paulo Borba</author>
+<author orcid="0000-0002-2380-2829" pid="21/824">Rodrigo Bonif&#225;cio</author>
+<title>Comparing Two Black-Box Testing Strategies for Software Product Lines.</title>
+<pages>1-10</pages>
+<year>2012</year>
+<booktitle>SBCARS</booktitle>
+<ee>https://doi.org/10.1109/SBCARS.2012.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBCARS.2012.17</ee>
+<crossref>conf/sbcars/2012</crossref>
+<url>db/conf/sbcars/sbcars2012.html#AcciolyBB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/AlvesCFKMHZAGN08" mdate="2025-05-01">
+<author pid="73/2676">Higor A. V. Alves</author>
+<author pid="54/6445">Maocir A. Campos Jr.</author>
+<author pid="30/154">Francisco J. A. Fernandes</author>
+<author pid="26/2480">Marcia N. S. Kondo</author>
+<author pid="37/1103">Andr&#233; N. de Mello</author>
+<author pid="98/4016">Adilson Yuuji Hira</author>
+<author orcid="0000-0002-2973-4476" pid="31/690">Marcelo Kn&#246;rich Zuffo</author>
+<author pid="53/7000">Paola R. G. Accioly</author>
+<author pid="86/4898">Luiz Guimar&#227;es</author>
+<author orcid="0000-0002-5494-319X" pid="134/2471">Magdala A. Novaes</author>
+<title>Oncogrid: A proposal of grid infrastructure for the establishment of a national health information system on childhood cancer.</title>
+<pages>1-7</pages>
+<year>2008</year>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2008.4536213</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IPDPS.2008.4536213</ee>
+<crossref>conf/ipps/2008</crossref>
+<url>db/conf/ipps/ipdps2008.html#AlvesCFKMHZAGN08</url>
+</inproceedings>
+</r>
+<coauthors n="32" nc="2">
+<co c="0"><na f="a/Alf=eacute=rez:Mauricio" pid="77/6729">Mauricio Alf&#233;rez</na></co>
+<co c="1"><na f="a/Alves:Higor_A=_V=" pid="73/2676">Higor A. V. Alves</na></co>
+<co c="0"><na f="a/Aranha:Eduardo" pid="31/1490">Eduardo Aranha</na></co>
+<co c="0"><na f="a/Ara=uacute=jo_0001:Jo=atilde=o" pid="72/1322-1">Jo&#227;o Ara&#250;jo 0001</na></co>
+<co c="0"><na f="b/Bonif=aacute=cio:Rodrigo" pid="21/824">Rodrigo Bonif&#225;cio</na></co>
+<co c="0"><na f="b/Borba:Paulo" pid="b/PauloBorba">Paulo Borba</na></co>
+<co c="1"><na f="c/Campos_Jr=:Maocir_A=" pid="54/6445">Maocir A. Campos Jr.</na></co>
+<co c="0"><na f="c/Carvalho:Fausto" pid="171/5980">Fausto Carvalho</na></co>
+<co c="0"><na f="c/Cavalcanti:Guilherme" pid="170/6113">Guilherme Cavalcanti</na></co>
+<co c="0"><na f="c/Cunha:Marcela" pid="329/4057">Marcela Cunha</na></co>
+<co c="1"><na f="f/Fernandes:Francisco_J=_A=" pid="30/154">Francisco J. A. Fernandes</na></co>
+<co c="0"><na f="f/Ferraz:Cristiano" pid="59/8434">Cristiano Ferraz</na></co>
+<co c="0"><na f="f/Freire:Mar=iacute=lia_Aranha" pid="41/8921">Mar&#237;lia Aranha Freire</na></co>
+<co c="1"><na f="g/Guimar=atilde=es:Luiz" pid="86/4898">Luiz Guimar&#227;es</na></co>
+<co c="1"><na f="h/Hira:Adilson_Yuuji" pid="98/4016">Adilson Yuuji Hira</na></co>
+<co c="1"><na f="k/Kondo:Marcia_N=_S=" pid="26/2480">Marcia N. S. Kondo</na></co>
+<co c="0"><na f="k/Kulesza:Uir=aacute=" pid="78/6010">Uir&#225; Kulesza</na></co>
+<co c="0"><na f="l/Lima:Ricardo" pid="36/8058">Ricardo Lima</na></co>
+<co c="0"><na f="l/Lucas_0001:Walter" pid="217/3743">Walter Lucas 0001</na></co>
+<co c="1"><na f="m/Mello:Andr=eacute=_N=_de" pid="37/1103">Andr&#233; N. de Mello</na></co>
+<co c="0"><na f="m/Monteiro:Eduardo" pid="200/9203">Eduardo Monteiro</na></co>
+<co c="0"><na f="m/Moreira_0001:Ana" pid="m/AnaMoreira">Ana Moreira 0001</na></co>
+<co c="0"><na f="n/Neto:Edmilson_Campos" pid="117/6108">Edmilson Campos Neto</na></co>
+<co c="1" n="2"><na f="n/Novaes:Magdala_de_Ara=uacute=jo" pid="134/2471">Magdala de Ara&#250;jo Novaes</na><na>Magdala A. Novaes</na></co>
+<co c="0"><na f="n/Nunes:Rafael_Campos" pid="374/7383">Rafael Campos Nunes</na></co>
+<co c="0"><na f="s/Saraiva:Jo=atilde=o" pid="97/3668">Jo&#227;o Saraiva</na></co>
+<co c="0"><na f="s/Silva:L=eacute=uson_M=_P=_da" pid="183/9958">L&#233;uson M. P. da Silva</na></co>
+<co c="0"><na f="s/Silva:Michael" pid="35/4635">Michael Silva</na></co>
+<co c="0"><na f="s/Siz=iacute=lio:Gustavo" pid="130/7589">Gustavo Siz&#237;lio</na></co>
+<co c="0"><na f="t/Teixeira:Leopoldo" pid="62/8372">Leopoldo Teixeira</na></co>
+<co c="0"><na f="t/Torres:Adriano" pid="344/1780">Adriano Torres</na></co>
+<co c="1"><na f="z/Zuffo:Marcelo_Kn=ouml=rich" pid="31/690">Marcelo Kn&#246;rich Zuffo</na></co>
+</coauthors>
+</dblpperson>
+

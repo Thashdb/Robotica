@@ -1,0 +1,907 @@
+<?xml version="1.0"?>
+<dblpperson name="Ad&#237;n Ram&#237;rez Rivera" pid="85/9834" n="62">
+<person key="homepages/85/9834" mdate="2023-09-17">
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<note type="affiliation">University of Oslo, Department of Informatics, Norway</note>
+<url>https://www.mn.uio.no/ifi/english/people/aca/adinr/</url>
+<url>https://scholar.google.com/citations?user=p2aLoZAAAAAJ</url>
+<url>https://dl.acm.org/profile/99658672359</url>
+<url>https://orcid.org/0000-0002-4321-9075</url>
+<url>https://www.wikidata.org/entity/Q88521030</url>
+</person>
+<r><inproceedings key="conf/nais/AasanR25" mdate="2025-06-16">
+<author pid="358/5791">Marius Aasan</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<title>Pixel-Level Predictions with Embedded Lookup Tables.</title>
+<pages>49-59</pages>
+<year>2025</year>
+<booktitle>NAIS</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3975/paper5.pdf</ee>
+<crossref>conf/nais/2025</crossref>
+<url>db/conf/nais/nais2025.html#AasanR25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/AasanKSR24" mdate="2025-06-10">
+<author pid="358/5791">Marius Aasan</author>
+<author pid="284/8281">Odd Kolbj&#248;rnsen</author>
+<author pid="95/2304">Anne H. Schistad Solberg</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<title>A Spitting Image: Modular Superpixel Tokenization in Vision Transformers.</title>
+<pages>124-142</pages>
+<year>2024</year>
+<booktitle>ECCV Workshops (19)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-93806-1_11</ee>
+<crossref>conf/eccv/2024-w19</crossref>
+<url>db/conf/eccv/eccv2024-w19.html#AasanKSR24</url>
+<stream>streams/conf/eccv</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/0001PR24" mdate="2024-09-02">
+<author pid="309/8339">Thalles Silva 0001</author>
+<author pid="60/2361">H&#233;lio Pedrini</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<title>Learning from Memory: Non-Parametric Memory Augmented Self-Supervised Learning of Visual Features.</title>
+<year>2024</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">https://openreview.net/forum?id=Ed4KgHoKNe</ee>
+<crossref>conf/icml/2024</crossref>
+<url>db/conf/icml/icml2024.html#0001PR24</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/nldl/2024" mdate="2024-02-20">
+<editor pid="135/5532">Tetiana Lutchyn</editor>
+<editor pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</editor>
+<editor pid="120/7600">Benjamin Ricaud</editor>
+<title>Northern Lights Deep Learning Conference, NLDL 2024, 9-11 January 2024, UiT The Arctic University, Troms&#248;, Norway.</title>
+<booktitle>NLDL</booktitle>
+<publisher>PMLR</publisher>
+<year>2024</year>
+<series href="db/series/jmlr/index.html">Proceedings of Machine Learning Research</series>
+<volume>233</volume>
+<ee type="oa">http://proceedings.mlr.press/v233/</ee>
+<url>db/conf/nldl/nldl2024.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2407-17486" mdate="2024-08-24">
+<author pid="309/8339">Thalles Santos Silva</author>
+<author pid="60/2361">H&#233;lio Pedrini</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<title>Learning from Memory: Non-Parametric Memory Augmented Self-Supervised Learning of Visual Features.</title>
+<year>2024</year>
+<volume>abs/2407.17486</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2407.17486</ee>
+<url>db/journals/corr/corr2407.html#abs-2407-17486</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2408-07680" mdate="2024-09-23">
+<author pid="358/5791">Marius Aasan</author>
+<author pid="284/8281">Odd Kolbj&#248;rnsen</author>
+<author pid="95/2304">Anne H. Schistad Solberg</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<title>A Spitting Image: Modular Superpixel Tokenization in Vision Transformers.</title>
+<year>2024</year>
+<volume>abs/2408.07680</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2408.07680</ee>
+<url>db/journals/corr/corr2408.html#abs-2408-07680</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2412-16277" mdate="2025-01-27">
+<author pid="395/4488">Zeinab Dehghani</author>
+<author pid="217/9895">Koorosh Aslansefat</author>
+<author pid="55/6837-1">Adil Khan 0001</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="356/2129">Franky George</author>
+<author pid="39/8135">Muhammad Khalid</author>
+<title>Mapping the Mind of an Instruction-based Image Editing using SMILE.</title>
+<year>2024</year>
+<volume>abs/2412.16277</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2412.16277</ee>
+<url>db/journals/corr/corr2412.html#abs-2412-16277</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/iccvw/SilvaPR23" mdate="2024-08-30">
+<author pid="309/8339">Thalles Silva 0001</author>
+<author pid="60/2361">H&#233;lio Pedrini</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<title>Self-supervised Learning of Contextualized Local Visual Embeddings.</title>
+<pages>177-186</pages>
+<year>2023</year>
+<booktitle>ICCV (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/ICCVW60793.2023.00025</ee>
+<crossref>conf/iccvw/2023</crossref>
+<url>db/conf/iccvw/iccvw2023.html#SilvaPR23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccvw/SouzaAPR23" mdate="2025-05-01">
+<author pid="15/817">Bruno Souza</author>
+<author orcid="0000-0003-2353-9984" pid="358/5791">Marius Aasan</author>
+<author pid="60/2361">H&#233;lio Pedrini</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<title>SelfGraphVQA: A Self-Supervised Graph Neural Network for Scene-based Question Answering.</title>
+<pages>4642-4647</pages>
+<year>2023</year>
+<booktitle>ICCV (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/ICCVW60793.2023.00499</ee>
+<crossref>conf/iccvw/2023</crossref>
+<url>db/conf/iccvw/iccvw2023.html#SouzaAPR23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/SabbaghKRK23" mdate="2024-07-24">
+<author pid="324/8807">Kamil Sabbagh</author>
+<author pid="264/1806">Patrik Joslin Kenfack</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="55/6837-1">Adil Khan 0001</author>
+<title>RepFair-GAN: Mitigating Representation Bias in GANs Using Gradient Clipping.</title>
+<year>2023</year>
+<booktitle>Tiny Papers @ ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=frB4MiYGoD_</ee>
+<crossref>conf/iclr/2023tiny</crossref>
+<url>db/conf/iclr/iclr2023tiny.html#SabbaghKRK23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/SiniiRK23" mdate="2024-07-24">
+<author pid="351/7957">Viacheslav Sinii</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="55/6837-1">Adil Khan 0001</author>
+<title>Understanding the Effectiveness of Cross-Domain Contrastive Unsupervised Domain Adaptation.</title>
+<year>2023</year>
+<booktitle>Tiny Papers @ ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=0GpMf9UeI3G</ee>
+<crossref>conf/iclr/2023tiny</crossref>
+<url>db/conf/iclr/iclr2023tiny.html#SiniiRK23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/SilvaR23" mdate="2024-03-01">
+<author pid="309/8339">Thalles Santos Silva</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<title>Representation Learning via Consistent Assignment of Views over Random Partitions.</title>
+<year>2023</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2023/hash/7caf9d251b546bc78078b35b4a6f3b7e-Abstract-Conference.html</ee>
+<crossref>conf/nips/2023</crossref>
+<url>db/conf/nips/neurips2023.html#SilvaR23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/satml/KenfackRKM23" mdate="2024-05-17">
+<author pid="264/1806">Patrik Joslin Kenfack</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="55/6837-1">Adil Mehmood Khan</author>
+<author pid="45/2295">Manuel Mazzara</author>
+<title>Learning Fair Representations through Uniformly Distributed Sensitive Attributes.</title>
+<pages>58-67</pages>
+<year>2023</year>
+<booktitle>SaTML</booktitle>
+<ee>https://doi.org/10.1109/SaTML54575.2023.00014</ee>
+<crossref>conf/satml/2023</crossref>
+<url>db/conf/satml/satml2023.html#KenfackRKM23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-00527" mdate="2023-10-18">
+<author pid="309/8339">Thalles Santos Silva</author>
+<author pid="60/2361">H&#233;lio Pedrini</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<title>Self-supervised Learning of Contextualized Local Visual Embeddings.</title>
+<year>2023</year>
+<volume>abs/2310.00527</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.00527</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-00527</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-01842" mdate="2023-10-19">
+<author pid="15/817">Bruno Souza</author>
+<author pid="358/5791">Marius Aasan</author>
+<author pid="60/2361">H&#233;lio Pedrini</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<title>SelfGraphVQA: A Self-Supervised Graph Neural Network for Scene-based Question Answering.</title>
+<year>2023</year>
+<volume>abs/2310.01842</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.01842</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-01842</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-12692" mdate="2024-08-30">
+<author pid="309/8339">Thalles Silva 0001</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<title>Representation Learning via Consistent Assignment of Views over Random Partitions.</title>
+<year>2023</year>
+<volume>abs/2310.12692</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.12692</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-12692</url>
+</article>
+</r>
+<r><article key="journals/access/SaireR22" mdate="2022-08-25">
+<author orcid="0000-0001-9683-5405" pid="291/9409">Darwin Saire</author>
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<title>Global and Local Features Through Gaussian Mixture Models on Image Semantic Segmentation.</title>
+<pages>77323-77336</pages>
+<year>2022</year>
+<volume>10</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2022.3192605</ee>
+<url>db/journals/access/access10.html#SaireR22</url>
+</article>
+</r>
+<r><article key="journals/taffco/IqbalRRMCB22" mdate="2022-10-18">
+<author pid="178/6541">Md. Tauhid Bin Iqbal</author>
+<author orcid="0000-0003-0666-4855" pid="117/6398">Byungyong Ryu</author>
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author orcid="0000-0003-2594-8327" pid="207/6288">Farkhod Makhmudkhujaev</author>
+<author orcid="0000-0002-0471-8840" pid="36/4116">Oksam Chae</author>
+<author orcid="0000-0003-2677-3186" pid="76/2068">Sung-Ho Bae</author>
+<title>Facial Expression Recognition with Active Local Shape Pattern and Learned-Size Block Representations.</title>
+<pages>1322-1336</pages>
+<year>2022</year>
+<volume>13</volume>
+<journal>IEEE Trans. Affect. Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TAFFC.2020.2995432</ee>
+<url>db/journals/taffco/taffco13.html#IqbalRRMCB22</url>
+</article>
+</r>
+<r><article key="journals/tip/AlbarracinR22" mdate="2023-07-27">
+<author orcid="0000-0002-3997-4422" pid="193/5422">Juan Felipe Hern&#225;ndez Albarrac&#237;n</author>
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<title>Video Reenactment as Inductive Bias for Content-Motion Disentanglement.</title>
+<pages>2365-2374</pages>
+<year>2022</year>
+<volume>31</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<ee type="oa">https://doi.org/10.1109/TIP.2022.3153140</ee>
+<url>db/journals/tip/tip31.html#AlbarracinR22</url>
+</article>
+</r>
+<r><article key="journals/tnn/RiveraKBS22" mdate="2022-04-09">
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author orcid="0000-0003-2220-8518" pid="55/6837-1">Adil Khan 0001</author>
+<author orcid="0000-0003-1527-4314" pid="243/5158">Imad Eddine Ibrahim Bekkouch</author>
+<author orcid="0000-0002-8020-5203" pid="232/4975">Taimoor Shakeel Sheikh</author>
+<title>Anomaly Detection Based on Zero-Shot Outlier Synthesis and Hierarchical Feature Distillation.</title>
+<pages>281-291</pages>
+<year>2022</year>
+<volume>33</volume>
+<journal>IEEE Trans. Neural Networks Learn. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TNNLS.2020.3027667</ee>
+<ee>https://www.wikidata.org/entity/Q100677962</ee>
+<url>db/journals/tnn/tnn33.html#RiveraKBS22</url>
+</article>
+</r>
+<r><inproceedings key="conf/sac/SilvaR22" mdate="2024-08-30">
+<author pid="309/8339">Thalles Silva 0001</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<title>Representation learning via consistent assignment of views to clusters.</title>
+<pages>987-994</pages>
+<year>2022</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3477314.3507267</ee>
+<crossref>conf/sac/2022</crossref>
+<url>db/conf/sac/sac2022.html#SilvaR22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-15988" mdate="2023-09-30">
+<author pid="220/5352">Sandra Robles</author>
+<author pid="243/5976">Jonathan S. G&#243;mez</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author orcid="0000-0001-9850-9419" pid="243/6026">Nelson D. Padilla</author>
+<author pid="65/5975">Diego Dujovne</author>
+<title>A deep learning approach to halo merger tree construction.</title>
+<year>2022</year>
+<volume>abs/2205.15988</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.15988</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-15988</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-09162" mdate="2022-07-25">
+<author pid="291/9409">Darwin Saire</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<title>Global and Local Features through Gaussian Mixture Models on Image Semantic Segmentation.</title>
+<year>2022</year>
+<volume>abs/2207.09162</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.09162</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-09162</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-10653" mdate="2025-03-03">
+<author pid="264/1806">Patrik Joslin Kenfack</author>
+<author orcid="0009-0004-1003-8472" pid="324/8807">Kamil Sabbagh</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="55/6837-1">Adil Khan 0001</author>
+<title>RepFair-GAN: Mitigating Representation Bias in GANs Using Gradient Clipping.</title>
+<year>2022</year>
+<volume>abs/2207.10653</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.10653</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-10653</url>
+</article>
+</r>
+<r><article key="journals/access/SaireR21" mdate="2021-07-13">
+<author orcid="0000-0001-9683-5405" pid="291/9409">Darwin Saire</author>
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<title>Empirical Study of Multi-Task Hourglass Model for Semantic Segmentation Task.</title>
+<pages>80654-80670</pages>
+<year>2021</year>
+<volume>9</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2021.3085218</ee>
+<url>db/journals/access/access9.html#SaireR21</url>
+</article>
+</r>
+<r><article key="journals/eswa/SantanderAR21" mdate="2021-10-05">
+<author pid="289/7089">Miguel Rodr&#237;guez Santander</author>
+<author pid="193/5422">Juan Felipe Hern&#225;ndez Albarrac&#237;n</author>
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<title>On the pitfalls of learning with limited data: A facial expression recognition case study.</title>
+<pages>114991</pages>
+<year>2021</year>
+<volume>183</volume>
+<journal>Expert Syst. Appl.</journal>
+<ee>https://doi.org/10.1016/j.eswa.2021.114991</ee>
+<url>db/journals/eswa/eswa183.html#SantanderAR21</url>
+</article>
+</r>
+<r><inproceedings key="conf/vardial/KhusainovaKRR21" mdate="2021-08-25">
+<author pid="239/4370">Albina Khusainova</author>
+<author pid="55/6837-1">Adil Khan 0001</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="236/8158">Vitaly Romanov</author>
+<title>Hierarchical Transformer for Multilingual Machine Translation.</title>
+<pages>12-20</pages>
+<year>2021</year>
+<booktitle>VarDial@EACL</booktitle>
+<ee type="oa">https://aclanthology.org/2021.vardial-1.2/</ee>
+<crossref>conf/vardial/2021</crossref>
+<url>db/conf/vardial/vardial2021.html#KhusainovaKRR21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-00324" mdate="2021-09-29">
+<author pid="193/5422">Juan Felipe Hern&#225;ndez Albarrac&#237;n</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<title>Video Reenactment as Inductive Bias for Content-Motion Disentanglement.</title>
+<year>2021</year>
+<volume>abs/2102.00324</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.00324</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-00324</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-03589" mdate="2021-03-15">
+<author pid="239/4370">Albina Khusainova</author>
+<author pid="55/6837-1">Adil Khan 0001</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="236/8158">Vitaly Romanov</author>
+<title>Hierarchical Transformer for Multilingual Machine Translation.</title>
+<year>2021</year>
+<volume>abs/2103.03589</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.03589</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-03589</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-02653" mdate="2021-04-13">
+<author pid="289/7089">Miguel Rodr&#237;guez Santander</author>
+<author pid="193/5422">Juan Felipe Hern&#225;ndez Albarrac&#237;n</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<title>On the Pitfalls of Learning with Limited Data: A Facial Expression Recognition Case Study.</title>
+<year>2021</year>
+<volume>abs/2104.02653</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.02653</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-02653</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-13531" mdate="2021-06-01">
+<author pid="291/9409">Darwin Saire</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<title>Empirical Study of Multi-Task Hourglass Model for Semantic Segmentation Task.</title>
+<year>2021</year>
+<volume>abs/2105.13531</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.13531</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-13531</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-15421" mdate="2024-08-30">
+<author pid="309/8339">Thalles Silva 0001</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<title>Representation Learning via Consistent Assignment of Views to Clusters.</title>
+<year>2021</year>
+<volume>abs/2112.15421</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.15421</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-15421</url>
+</article>
+</r>
+<r><inproceedings key="conf/complexnetworks/NikolentzosTRV20" mdate="2025-03-03">
+<author orcid="0000-0002-0336-5879" pid="163/6278">Giannis Nikolentzos</author>
+<author pid="288/4757">Michalis Thomas</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="v/MVazirgiannis">Michalis Vazirgiannis</author>
+<title>Image Classification Using Graph-Based Representations and Graph Neural Networks.</title>
+<pages>142-153</pages>
+<year>2020</year>
+<booktitle>COMPLEX NETWORKS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-65351-4_12</ee>
+<crossref>conf/complexnetworks/2020-2</crossref>
+<url>db/conf/complexnetworks/complexnetworks2020-2.html#NikolentzosTRV20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-09951" mdate="2023-07-18">
+<author pid="223/4620">Rodolfo Quispe</author>
+<author pid="234/1495">Darwin Ttito Concha</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="60/2361">H&#233;lio Pedrini</author>
+<title>Multi-Stream Networks and Ground-Truth Generation for Crowd Counting.</title>
+<year>2020</year>
+<volume>abs/2002.09951</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.09951</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-09951</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-05119" mdate="2020-10-20">
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="55/6837-1">Adil Khan 0001</author>
+<author pid="243/5158">Imad Eddine Ibrahim Bekkouch</author>
+<author pid="232/4975">Taimoor Shakeel Sheikh</author>
+<title>Anomaly Detection based on Zero-Shot Outlier Synthesis and Hierarchical Feature Distillation.</title>
+<year>2020</year>
+<volume>abs/2010.05119</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.05119</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-05119</url>
+</article>
+</r>
+<r><inproceedings key="conf/cicling/KhusainovaKR19" mdate="2023-02-28">
+<author pid="239/4370">Albina Khusainova</author>
+<author pid="55/6837-1">Adil Khan 0001</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<title>SART - Similarity, Analogies, and Relatedness for Tatar Language: New Benchmark Datasets for Word Embeddings Evaluation.</title>
+<pages>380-390</pages>
+<year>2019</year>
+<booktitle>CICLing (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-24337-0_28</ee>
+<crossref>conf/cicling/2019-1</crossref>
+<url>db/conf/cicling/cicling2019-1.html#KhusainovaKR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvc/KimRCK19" mdate="2019-11-07">
+<author orcid="0000-0001-5120-0190" pid="154/2802">Byeongwoo Kim</author>
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author orcid="0000-0002-0471-8840" pid="36/4116">Oksam Chae</author>
+<author orcid="0000-0003-0636-3526" pid="133/3553">Jaemyun Kim</author>
+<title>Background Modeling Through Spatiotemporal Edge Feature and Color.</title>
+<pages>196-208</pages>
+<year>2019</year>
+<booktitle>ISVC (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-33723-0_16</ee>
+<crossref>conf/isvc/2019-2</crossref>
+<url>db/conf/isvc/isvc2019-2.html#KimRCK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwssip/ConchaQRP19" mdate="2019-10-19">
+<author pid="234/1495">Darwin Ttito Concha</author>
+<author pid="223/4620">Rodolfo Quispe</author>
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="60/2361">H&#233;lio Pedrini</author>
+<title>Where are the People? A Multi-Stream Convolutional Neural Network for Crowd Counting via Density Map from Complex Images.</title>
+<pages>241-246</pages>
+<year>2019</year>
+<booktitle>IWSSIP</booktitle>
+<ee>https://doi.org/10.1109/IWSSIP.2019.8787217</ee>
+<crossref>conf/iwssip/2019</crossref>
+<url>db/conf/iwssip/iwssip2019.html#ConchaQRP19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-00365" mdate="2019-06-27">
+<author pid="239/4370">Albina Khusainova</author>
+<author pid="55/6837-1">Adil Khan 0001</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<title>SART - Similarity, Analogies, and Relatedness for Tatar Language: New Benchmark Datasets for Word Embeddings Evaluation.</title>
+<year>2019</year>
+<volume>abs/1904.00365</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.00365</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-00365</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-12665" mdate="2019-06-03">
+<author pid="241/9577">Darwin Saire Pilco</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<title>Graph Learning Network: A Structure Learning Algorithm.</title>
+<year>2019</year>
+<volume>abs/1905.12665</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.12665</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-12665</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-09382" mdate="2021-01-23">
+<author orcid="0000-0002-6046-8217" pid="220/5352">Sandra Robles</author>
+<author pid="243/5976">Jonathan S. G&#243;mez</author>
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="243/5969">Jenny A. Gonz&#225;lez</author>
+<author pid="243/6026">Nelson D. Padilla</author>
+<author pid="65/5975">Diego Dujovne</author>
+<title>A Halo Merger Tree Generation and Evaluation Framework.</title>
+<year>2019</year>
+<volume>abs/1906.09382</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.09382</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-09382</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcnn/ZhdanovKRK18" mdate="2023-07-18">
+<author pid="228/1444">Pavel Zhdanov</author>
+<author pid="55/6837-1">Adil Khan 0001</author>
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="63/2017">Asad Masood Khattak</author>
+<title>Improving Human Action Recognition through Hierarchical Neural Network Classifiers.</title>
+<pages>1-7</pages>
+<year>2018</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2018.8489663</ee>
+<crossref>conf/ijcnn/2018</crossref>
+<url>db/conf/ijcnn/ijcnn2018.html#ZhdanovKRK18</url>
+</inproceedings>
+</r>
+<r><article key="journals/tip/RyuRKC17" mdate="2023-07-18">
+<author orcid="0000-0003-0666-4855" pid="117/6398">Byungyong Ryu</author>
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author orcid="0000-0003-0636-3526" pid="133/3553">Jaemyun Kim</author>
+<author pid="36/4116">Oksam Chae</author>
+<title>Local Directional Ternary Pattern for Facial Expression Recognition.</title>
+<pages>6006-6018</pages>
+<year>2017</year>
+<volume>26</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TIP.2017.2726010</ee>
+<ee>https://www.wikidata.org/entity/Q53162833</ee>
+<url>db/journals/tip/tip26.html#RyuRKC17</url>
+</article>
+</r>
+<r><inproceedings key="conf/avss/KimRKRC17" mdate="2023-07-18">
+<author pid="133/3553">Jaemyun Kim</author>
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="154/2802">Byeongwoo Kim</author>
+<author pid="183/5157-8">Kaushik Roy 0008</author>
+<author pid="36/4116">Oksam Chae</author>
+<title>Background modeling using adaptive properties of hybrid features.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>AVSS</booktitle>
+<ee>https://doi.org/10.1109/AVSS.2017.8078475</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AVSS.2017.8078475</ee>
+<crossref>conf/avss/2017</crossref>
+<url>db/conf/avss/avss2017.html#KimRKRC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cibcb/DobrenkiiKKRK17" mdate="2023-07-18">
+<author pid="206/9128">Anton Dobrenkii</author>
+<author pid="206/9052">Ramil Kuleev</author>
+<author pid="55/6837-1">Adil Khan 0001</author>
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="63/2017">Asad Masood Khattak</author>
+<title>Large residual multiple view 3D CNN for false positive reduction in pulmonary nodule detection.</title>
+<pages>1-6</pages>
+<year>2017</year>
+<booktitle>CIBCB</booktitle>
+<ee>https://doi.org/10.1109/CIBCB.2017.8058549</ee>
+<crossref>conf/cibcb/2017</crossref>
+<url>db/conf/cibcb/cibcb2017.html#DobrenkiiKKRK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cibcb/GusarevKKRK17" mdate="2023-07-18">
+<author pid="206/9124">Maxim Gusarev</author>
+<author pid="206/9052">Ramil Kuleev</author>
+<author pid="55/6837-1">Adil Khan 0001</author>
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="63/2017">Asad Masood Khattak</author>
+<title>Deep learning models for bone suppression in chest radiographs.</title>
+<pages>1-7</pages>
+<year>2017</year>
+<booktitle>CIBCB</booktitle>
+<ee>https://doi.org/10.1109/CIBCB.2017.8058543</ee>
+<crossref>conf/cibcb/2017</crossref>
+<url>db/conf/cibcb/cibcb2017.html#GusarevKKRK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/FigueroaR17" mdate="2023-07-18">
+<author pid="208/7461">Jhosimar Arias Figueroa</author>
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<title>Learning to Cluster with Auxiliary Tasks: A Semi-Supervised Approach.</title>
+<pages>141-148</pages>
+<year>2017</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2017.25</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRAPI.2017.25</ee>
+<crossref>conf/sibgrapi/2017</crossref>
+<url>db/conf/sibgrapi/sibgrapi2017.html#FigueroaR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/avss/HongKRSC16" mdate="2023-07-18">
+<author pid="28/4808">Seokjin Hong</author>
+<author orcid="0000-0003-0636-3526" pid="133/3553">Jaemyun Kim</author>
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="136/0539">Gihun Song</author>
+<author pid="36/4116">Oksam Chae</author>
+<title>Edge shape pattern for background modeling based on hybrid local codes.</title>
+<pages>1-7</pages>
+<year>2016</year>
+<booktitle>AVSS</booktitle>
+<ee>https://doi.org/10.1109/AVSS.2016.7738015</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AVSS.2016.7738015</ee>
+<crossref>conf/avss/2016</crossref>
+<url>db/conf/avss/avss2016.html#HongKRSC16</url>
+</inproceedings>
+</r>
+<r><article key="journals/pami/RiveraC15" mdate="2023-07-18">
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="36/4116">Oksam Chae</author>
+<title>Spatiotemporal Directional Number Transitional Graph for Dynamic Texture Recognition.</title>
+<pages>2146-2152</pages>
+<year>2015</year>
+<volume>37</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TPAMI.2015.2392774</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2015.2392774</ee>
+<ee>https://www.wikidata.org/entity/Q86073152</ee>
+<url>db/journals/pami/pami37.html#RiveraC15</url>
+</article>
+</r>
+<r><article key="journals/prl/RiveraCC15" mdate="2023-07-18">
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="126/4472">Jorge A. Rojas Castillo</author>
+<author pid="36/4116">Oksam Chae</author>
+<title>Local Directional Texture Pattern image descriptor.</title>
+<pages>94-100</pages>
+<year>2015</year>
+<volume>51</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2014.08.012</ee>
+<url>db/journals/prl/prl51.html#RiveraCC15</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccv/KimRRC15" mdate="2023-07-18">
+<author orcid="0000-0003-0636-3526" pid="133/3553">Jaemyun Kim</author>
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="117/6398">Byungyong Ryu</author>
+<author pid="36/4116">Oksam Chae</author>
+<title>Simultaneous Foreground Detection and Classification with Hybrid Features.</title>
+<pages>3307-3315</pages>
+<year>2015</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2015.378</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICCV.2015.378</ee>
+<crossref>conf/iccv/2015</crossref>
+<url>db/conf/iccv/iccv2015.html#KimRRC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/avss/KimRRAC14" mdate="2023-07-18">
+<author orcid="0000-0003-0636-3526" pid="133/3553">Jaemyun Kim</author>
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="117/6398">Byungyong Ryu</author>
+<author pid="63/4537">Kiok Ahn</author>
+<author pid="36/4116">Oksam Chae</author>
+<title>Unattended object detection based on edge-segment distributions.</title>
+<pages>283-288</pages>
+<year>2014</year>
+<booktitle>AVSS</booktitle>
+<ee>https://doi.org/10.1109/AVSS.2014.6918682</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AVSS.2014.6918682</ee>
+<crossref>conf/avss/2014</crossref>
+<url>db/conf/avss/avss2014.html#KimRRAC14</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcsv/RiveraMKC13" mdate="2023-07-18">
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="01/7463">Mahbub Murshed</author>
+<author orcid="0000-0003-0636-3526" pid="133/3553">Jaemyun Kim</author>
+<author pid="36/4116">Oksam Chae</author>
+<title>Background Modeling Through Statistical Edge-Segment Distributions.</title>
+<pages>1375-1387</pages>
+<year>2013</year>
+<volume>23</volume>
+<journal>IEEE Trans. Circuits Syst. Video Technol.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TCSVT.2013.2242551</ee>
+<url>db/journals/tcsv/tcsv23.html#RiveraMKC13</url>
+</article>
+</r>
+<r><article key="journals/tip/RiveraCC13" mdate="2023-07-18">
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="126/4472">Jorge A. Rojas Castillo</author>
+<author pid="36/4116">Oksam Chae</author>
+<title>Local Directional Number Pattern for Face Analysis: Face and Expression Recognition.</title>
+<pages>1740-1752</pages>
+<year>2013</year>
+<volume>22</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TIP.2012.2235848</ee>
+<ee>https://www.wikidata.org/entity/Q45244428</ee>
+<ee>https://orkg.org/resource/R31289</ee>
+<url>db/journals/tip/tip22.html#RiveraCC13</url>
+</article>
+</r>
+<r><inproceedings key="conf/avss/KimRSRC13" mdate="2023-07-18">
+<author orcid="0000-0003-0636-3526" pid="133/3553">Jaemyun Kim</author>
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="136/0539">Gihun Song</author>
+<author pid="117/6398">Byungyong Ryu</author>
+<author pid="36/4116">Oksam Chae</author>
+<title>Edge-segment-based Background Modeling: Non-parametric online background update.</title>
+<pages>214-219</pages>
+<year>2013</year>
+<booktitle>AVSS</booktitle>
+<ee>https://doi.org/10.1109/AVSS.2013.6636642</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AVSS.2013.6636642</ee>
+<crossref>conf/avss/2013</crossref>
+<url>db/conf/avss/avss2013.html#KimRSRC13</url>
+</inproceedings>
+</r>
+<r><article key="journals/tip/RiveraRC12" mdate="2023-07-18">
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="117/6398">Byungyong Ryu</author>
+<author pid="36/4116">Oksam Chae</author>
+<title>Content-Aware Dark Image Enhancement Through Channel Division.</title>
+<pages>3967-3980</pages>
+<year>2012</year>
+<volume>21</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TIP.2012.2198667</ee>
+<ee>https://www.wikidata.org/entity/Q51367719</ee>
+<url>db/journals/tip/tip21.html#RiveraRC12</url>
+</article>
+</r>
+<r><inproceedings key="conf/icip/RiveraCC12" mdate="2023-07-18">
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="126/4472">Jorge A. Rojas Castillo</author>
+<author pid="36/4116">Oksam Chae</author>
+<title>Recognition of face expressions using Local Principal Texture Pattern.</title>
+<pages>2609-2612</pages>
+<year>2012</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2012.6467433</ee>
+<crossref>conf/icip/2012</crossref>
+<url>db/conf/icip/icip2012.html#RiveraCC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/CastilloRC12" mdate="2023-07-18">
+<author pid="126/4472">Jorge A. Rojas Castillo</author>
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="36/4116">Oksam Chae</author>
+<title>Facial expression recognition based on Local Sign Directional Pattern.</title>
+<pages>2613-2616</pages>
+<year>2012</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2012.6467434</ee>
+<crossref>conf/icip/2012</crossref>
+<url>db/conf/icip/icip2012.html#CastilloRC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/RiveraRC12" mdate="2023-07-18">
+<author pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="126/4472">Jorge A. Rojas Castillo</author>
+<author pid="36/4116">Oksam Chae</author>
+<title>Local Gaussian Directional Pattern for face recognition.</title>
+<pages>1000-1003</pages>
+<year>2012</year>
+<booktitle>ICPR</booktitle>
+<ee>https://ieeexplore.ieee.org/document/6460304/</ee>
+<crossref>conf/icpr/2012</crossref>
+<url>db/conf/icpr/icpr2012.html#RiveraRC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/avss/RiveraMC11" mdate="2023-07-18">
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="01/7463">Mahbub Murshed</author>
+<author pid="36/4116">Oksam Chae</author>
+<title>Object detection through edge behavior modeling.</title>
+<pages>273-278</pages>
+<year>2011</year>
+<booktitle>AVSS</booktitle>
+<ee>https://doi.org/10.1109/AVSS.2011.6027336</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AVSS.2011.6027336</ee>
+<crossref>conf/avss/2011</crossref>
+<url>db/conf/avss/avss2011.html#RiveraMC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iciar/MurshedRC11" mdate="2023-07-18">
+<author pid="01/7463">Mahbub Murshed</author>
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="36/4116">Oksam Chae</author>
+<title>Moving Edge Segment Matching for the Detection of Moving Object.</title>
+<pages>274-283</pages>
+<year>2011</year>
+<booktitle>ICIAR (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21593-3_28</ee>
+<crossref>conf/iciar/2011-1</crossref>
+<url>db/conf/iciar/iciar2011-1.html#MurshedRC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/avss/MurshedRC10" mdate="2023-07-18">
+<author pid="01/7463">Mahbub Murshed</author>
+<author orcid="0000-0002-4321-9075" pid="85/9834">Ad&#237;n Ram&#237;rez Rivera</author>
+<author pid="36/4116">Oksam Chae</author>
+<title>Statistical Background Modeling: An Edge Segment Based Moving Object Detection Approach.</title>
+<pages>300-306</pages>
+<year>2010</year>
+<booktitle>AVSS</booktitle>
+<ee>https://doi.org/10.1109/AVSS.2010.18</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AVSS.2010.18</ee>
+<crossref>conf/avss/2010</crossref>
+<url>db/conf/avss/avss2010.html#MurshedRC10</url>
+</inproceedings>
+</r>
+<coauthors n="54" nc="7">
+<co c="2"><na f="a/Aasan:Marius" pid="358/5791">Marius Aasan</na></co>
+<co c="1"><na f="a/Ahn:Kiok" pid="63/4537">Kiok Ahn</na></co>
+<co c="5" n="2"><na f="a/Albarracin:Juan_Felipe_Hernandez" pid="193/5422">Juan Felipe Hernandez Albarracin</na><na>Juan Felipe Hern&#225;ndez Albarrac&#237;n</na></co>
+<co c="0"><na f="a/Aslansefat:Koorosh" pid="217/9895">Koorosh Aslansefat</na></co>
+<co c="1"><na f="b/Bae:Sung=Ho" pid="76/2068">Sung-Ho Bae</na></co>
+<co c="0"><na f="b/Bekkouch:Imad_Eddine_Ibrahim" pid="243/5158">Imad Eddine Ibrahim Bekkouch</na></co>
+<co c="1"><na f="c/Castillo:Jorge_A=_Rojas" pid="126/4472">Jorge A. Rojas Castillo</na></co>
+<co c="1"><na f="c/Chae:Oksam" pid="36/4116">Oksam Chae</na></co>
+<co c="2"><na f="c/Concha:Darwin_Ttito" pid="234/1495">Darwin Ttito Concha</na></co>
+<co c="0"><na f="d/Dehghani:Zeinab" pid="395/4488">Zeinab Dehghani</na></co>
+<co c="0"><na f="d/Dobrenkii:Anton" pid="206/9128">Anton Dobrenkii</na></co>
+<co c="3"><na f="d/Dujovne:Diego" pid="65/5975">Diego Dujovne</na></co>
+<co c="-1"><na f="f/Figueroa:Jhosimar_Arias" pid="208/7461">Jhosimar Arias Figueroa</na></co>
+<co c="0"><na f="g/George:Franky" pid="356/2129">Franky George</na></co>
+<co c="3"><na f="g/G=oacute=mez:Jonathan_S=" pid="243/5976">Jonathan S. G&#243;mez</na></co>
+<co c="3"><na f="g/Gonz=aacute=lez:Jenny_A=" pid="243/5969">Jenny A. Gonz&#225;lez</na></co>
+<co c="0"><na f="g/Gusarev:Maxim" pid="206/9124">Maxim Gusarev</na></co>
+<co c="1"><na f="h/Hong:Seokjin" pid="28/4808">Seokjin Hong</na></co>
+<co c="1"><na f="i/Iqbal:Md=_Tauhid_Bin" pid="178/6541">Md. Tauhid Bin Iqbal</na></co>
+<co c="0"><na f="k/Kenfack:Patrik_Joslin" pid="264/1806">Patrik Joslin Kenfack</na></co>
+<co c="0"><na f="k/Khalid:Muhammad" pid="39/8135">Muhammad Khalid</na></co>
+<co c="0" n="2"><na f="k/Khan_0001:Adil" pid="55/6837-1">Adil Khan 0001</na><na>Adil Mehmood Khan</na></co>
+<co c="0"><na f="k/Khattak:Asad_Masood" pid="63/2017">Asad Masood Khattak</na></co>
+<co c="0"><na f="k/Khusainova:Albina" pid="239/4370">Albina Khusainova</na></co>
+<co c="1"><na f="k/Kim:Byeongwoo" pid="154/2802">Byeongwoo Kim</na></co>
+<co c="1"><na f="k/Kim:Jaemyun" pid="133/3553">Jaemyun Kim</na></co>
+<co c="2"><na f="k/Kolbj=oslash=rnsen:Odd" pid="284/8281">Odd Kolbj&#248;rnsen</na></co>
+<co c="0"><na f="k/Kuleev:Ramil" pid="206/9052">Ramil Kuleev</na></co>
+<co c="6"><na f="l/Lutchyn:Tetiana" pid="135/5532">Tetiana Lutchyn</na></co>
+<co c="1"><na f="m/Makhmudkhujaev:Farkhod" pid="207/6288">Farkhod Makhmudkhujaev</na></co>
+<co c="0"><na f="m/Mazzara:Manuel" pid="45/2295">Manuel Mazzara</na></co>
+<co c="1"><na f="m/Murshed:Mahbub" pid="01/7463">Mahbub Murshed</na></co>
+<co c="4"><na f="n/Nikolentzos:Giannis" pid="163/6278">Giannis Nikolentzos</na></co>
+<co c="3"><na f="p/Padilla:Nelson_D=" pid="243/6026">Nelson D. Padilla</na></co>
+<co c="2"><na f="p/Pedrini:H=eacute=lio" pid="60/2361">H&#233;lio Pedrini</na></co>
+<co c="-1"><na f="p/Pilco:Darwin_Saire" pid="241/9577">Darwin Saire Pilco</na></co>
+<co c="2"><na f="q/Quispe:Rodolfo" pid="223/4620">Rodolfo Quispe</na></co>
+<co c="6"><na f="r/Ricaud:Benjamin" pid="120/7600">Benjamin Ricaud</na></co>
+<co c="3"><na f="r/Robles:Sandra" pid="220/5352">Sandra Robles</na></co>
+<co c="0"><na f="r/Romanov:Vitaly" pid="236/8158">Vitaly Romanov</na></co>
+<co c="1"><na f="r/Roy_0008:Kaushik" pid="183/5157-8">Kaushik Roy 0008</na></co>
+<co c="1"><na f="r/Ryu:Byungyong" pid="117/6398">Byungyong Ryu</na></co>
+<co c="0"><na f="s/Sabbagh:Kamil" pid="324/8807">Kamil Sabbagh</na></co>
+<co c="-1"><na f="s/Saire:Darwin" pid="291/9409">Darwin Saire</na></co>
+<co c="5"><na f="s/Santander:Miguel_Rodr=iacute=guez" pid="289/7089">Miguel Rodr&#237;guez Santander</na></co>
+<co c="0"><na f="s/Sheikh:Taimoor_Shakeel" pid="232/4975">Taimoor Shakeel Sheikh</na></co>
+<co c="2" n="2"><na f="s/Silva_0001:Thalles" pid="309/8339">Thalles Silva 0001</na><na>Thalles Santos Silva</na></co>
+<co c="0"><na f="s/Sinii:Viacheslav" pid="351/7957">Viacheslav Sinii</na></co>
+<co c="2"><na f="s/Solberg:Anne_H=_Schistad" pid="95/2304">Anne H. Schistad Solberg</na></co>
+<co c="1"><na f="s/Song:Gihun" pid="136/0539">Gihun Song</na></co>
+<co c="2"><na f="s/Souza:Bruno" pid="15/817">Bruno Souza</na></co>
+<co c="4"><na f="t/Thomas:Michalis" pid="288/4757">Michalis Thomas</na></co>
+<co c="4"><na f="v/Vazirgiannis:Michalis" pid="v/MVazirgiannis">Michalis Vazirgiannis</na></co>
+<co c="0"><na f="z/Zhdanov:Pavel" pid="228/1444">Pavel Zhdanov</na></co>
+</coauthors>
+</dblpperson>
+

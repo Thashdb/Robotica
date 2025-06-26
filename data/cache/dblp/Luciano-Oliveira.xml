@@ -1,0 +1,939 @@
+<?xml version="1.0"?>
+<dblpperson name="Luciano Oliveira" pid="79/3141" n="57">
+<person key="homepages/79/3141" mdate="2009-06-09">
+<author pid="79/3141">Luciano Oliveira</author>
+</person>
+<r><article key="journals/cstat/SantosSOdADV24" mdate="2024-04-27">
+<author orcid="0000-0003-0895-6712" pid="89/2282">Justino Santos</author>
+<author pid="152/7440">Romuere R. V. Silva</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<author orcid="0000-0002-5075-1254" pid="203/8588">Washington L. C. dos-Santos</author>
+<author pid="244/2408">Nayze Aldeman</author>
+<author pid="182/5198">Angelo Am&#226;ncio Duarte</author>
+<author pid="67/8105">Rodrigo Veras</author>
+<title>Glomerulosclerosis detection with pre-trained CNNs ensemble.</title>
+<pages>561-581</pages>
+<year>2024</year>
+<month>April</month>
+<volume>39</volume>
+<journal>Comput. Stat.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00180-022-01307-3</ee>
+<url>db/journals/cstat/cstat39.html#SantosSOdADV24</url>
+</article>
+</r>
+<r><inproceedings key="conf/visigrapp/PradoLLHPO24" mdate="2024-04-08">
+<author pid="372/4150">Igor Prado</author>
+<author pid="123/4097">David Lima</author>
+<author pid="372/3515">Julian Liang</author>
+<author pid="372/4105">Ana Hougaz</author>
+<author pid="372/3151">Bernardo Peters</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>Multi-Task Learning Based on Log Dynamic Loss Weighting for Sex Classification and Age Estimation on Panoramic Radiographs.</title>
+<pages>385-392</pages>
+<year>2024</year>
+<booktitle>VISIGRAPP (2): VISAPP</booktitle>
+<ee>https://doi.org/10.5220/0012317100003660</ee>
+<crossref>conf/visigrapp/2024-2</crossref>
+<url>db/conf/visigrapp/visigrapp2024-2.html#PradoLLHPO24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2406-17915" mdate="2024-07-23">
+<author pid="279/9702">Bernardo Silva</author>
+<author pid="253/1182">Jefferson Fontinele</author>
+<author pid="381/1500">Carolina Let&#237;cia Zilli Vieira</author>
+<author pid="t/JoaoManuelRSTavares">Jo&#227;o Manuel R. S. Tavares</author>
+<author pid="317/5031">Patr&#237;cia Ramos Cury</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>Semi-supervised classification of dental conditions in panoramic radiographs using large language model and instance segmentation: A real-world dataset evaluation.</title>
+<year>2024</year>
+<volume>abs/2406.17915</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2406.17915</ee>
+<url>db/journals/corr/corr2406.html#abs-2406-17915</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/cmbbeiv/ChagasSPCADdO23" mdate="2024-03-13">
+<author pid="187/5296">Paulo Chagas</author>
+<author pid="207/8149">Luiz Souza</author>
+<author pid="328/8155">Izabelle Pontes</author>
+<author pid="60/9003">Rodrigo Tripodi Calumby</author>
+<author pid="88/3105">Michele F. Angelo</author>
+<author pid="182/5198">Angelo Am&#226;ncio Duarte</author>
+<author pid="203/8588">Washington L. C. dos-Santos</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>Uncertainty-aware membranous nephropathy classification: A Monte-Carlo dropout approach to detect how certain is the model.</title>
+<pages>288-298</pages>
+<year>2023</year>
+<month>May</month>
+<volume>11</volume>
+<journal>Comput. methods Biomech. Biomed. Eng. Imaging Vis.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1080/21681163.2022.2029573</ee>
+<url>db/journals/cmbbeiv/cmbbeiv11.html#ChagasSPCADdO23</url>
+</article>
+</r>
+<r><article key="journals/cmbbeiv/SouzaSCDdO23" mdate="2023-09-23">
+<author pid="207/8149">Luiz Souza</author>
+<author pid="182/4054">Jefferson Silva</author>
+<author pid="187/5296">Paulo Chagas</author>
+<author pid="182/5198">Angelo Am&#226;ncio Duarte</author>
+<author pid="203/8588">Washington L. C. dos-Santos</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>Mouse-to-human transfer learning for glomerulus segmentation.</title>
+<pages>1996-2005</pages>
+<year>2023</year>
+<month>September</month>
+<volume>11</volume>
+<journal>Comput. methods Biomech. Biomed. Eng. Imaging Vis.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1080/21681163.2023.2204978</ee>
+<url>db/journals/cmbbeiv/cmbbeiv11.html#SouzaSCDdO23</url>
+</article>
+</r>
+<r><inproceedings key="conf/bmvc/SantosSO23" mdate="2025-06-11">
+<author pid="365/5094">Marcelo M. Santos</author>
+<author pid="253/1182">Jefferson Fontinele da Silva</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>SHLS: Superfeatures learned from still images for self-supervised VOS.</title>
+<pages>523-529</pages>
+<year>2023</year>
+<booktitle>BMVC</booktitle>
+<ee type="oa">http://proceedings.bmvc2023.org/523/</ee>
+<crossref>conf/bmvc/2023</crossref>
+<url>db/conf/bmvc/bmvc2023.html#SantosSO23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/LiangCO23" mdate="2024-04-22">
+<author pid="372/3515">Julian Liang</author>
+<author pid="317/5031">Patr&#237;cia Cury</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>Revisiting Age Estimation on Panoramic Dental Images.</title>
+<pages>205-210</pages>
+<year>2023</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI59091.2023.10347140</ee>
+<crossref>conf/sibgrapi/2023</crossref>
+<url>db/conf/sibgrapi/sibgrapi2023.html#LiangCO23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/siot/SobrinhoBCMMJQSCO23" mdate="2024-02-29">
+<author orcid="0000-0002-6381-3450" pid="311/1726">Osvaldo Gogliano Sobrinho</author>
+<author orcid="0000-0002-4768-0993" pid="311/0175">Liedi Ledi Mariani Bernucci</author>
+<author orcid="0000-0002-8743-4244" pid="83/8840">Pedro Luiz Pizzigatti Corr&#234;a</author>
+<author orcid="0000-0002-6005-8285" pid="311/0679">Ros&#226;ngela dos Santos Motta</author>
+<author orcid="0000-0002-1202-0194" pid="95/10669">Jeaneth Machicao</author>
+<author orcid="0000-0003-2098-2980" pid="311/1174">Angelo Samuel Junqueira</author>
+<author orcid="0000-0001-6876-3731" pid="311/0590">Wellingthon Dias de Queiroz</author>
+<author orcid="0000-0001-8411-8644" pid="311/0325">Thales Cesar Giriboni de Mello e Silva</author>
+<author pid="311/1187">Luciano Cassaro</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>IoT and Big Data Analytics: Under-Rail Maintenance Management at Vit&#243;ria - Minas Railway.</title>
+<pages>1-5</pages>
+<year>2023</year>
+<booktitle>SIoT</booktitle>
+<ee>https://doi.org/10.1109/SIoT60039.2023.10389944</ee>
+<crossref>conf/siot/2023</crossref>
+<url>db/conf/siot/siot2023.html#SobrinhoBCMMJQSCO23</url>
+</inproceedings>
+</r>
+<r><article key="journals/cmig/SilvaSCCSPDPdO22" mdate="2023-08-28">
+<author pid="182/4054">Jefferson Silva</author>
+<author pid="207/8149">Luiz Souza</author>
+<author pid="187/5296">Paulo Chagas</author>
+<author pid="60/9003">Rodrigo Tripodi Calumby</author>
+<author pid="328/7696">Bianca Souza</author>
+<author pid="328/8155">Izabelle Pontes</author>
+<author pid="182/5198">Angelo Am&#226;ncio Duarte</author>
+<author pid="328/8077">Nathanael Pinheiro</author>
+<author orcid="0000-0002-5075-1254" pid="203/8588">Washington L. C. dos-Santos</author>
+<author orcid="0000-0001-7183-8853" pid="79/3141">Luciano Oliveira</author>
+<title>Boundary-aware glomerulus segmentation: Toward one-to-many stain generalization.</title>
+<pages>102104</pages>
+<year>2022</year>
+<volume>100</volume>
+<journal>Comput. Medical Imaging Graph.</journal>
+<ee>https://doi.org/10.1016/j.compmedimag.2022.102104</ee>
+<ee>https://www.wikidata.org/entity/Q113877556</ee>
+<url>db/journals/cmig/cmig100.html#SilvaSCCSPDPdO22</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/SantosMOdADV22" mdate="2023-03-21">
+<author pid="89/2282">Justino Santos</author>
+<author pid="88/930">Vin&#237;cius P. Machado</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<author orcid="0000-0002-5075-1254" pid="203/8588">Washington L. C. dos-Santos</author>
+<author pid="244/2408">Nayze Aldeman</author>
+<author pid="182/5198">Angelo Am&#226;ncio Duarte</author>
+<author pid="67/8105">Rodrigo Veras</author>
+<title>Glomerulosclerosis Identification Using a Modified Dense Convolutional Network.</title>
+<pages>237-252</pages>
+<year>2022</year>
+<booktitle>BRACIS (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-21686-2_17</ee>
+<crossref>conf/bracis/2022-1</crossref>
+<url>db/conf/bracis/bracis2022-1.html#SantosMOdADV22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/SilvaSO22" mdate="2024-01-16">
+<author pid="253/1182">Jefferson Fontinele da Silva</author>
+<author pid="279/9702">Bernardo Silva</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>No boundary left behind in semantic segmentation.</title>
+<pages>115-120</pages>
+<year>2022</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI55357.2022.9991760</ee>
+<crossref>conf/sibgrapi/2022</crossref>
+<url>db/conf/sibgrapi/sibgrapi2022.html#SilvaSO22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-15856" mdate="2024-10-06">
+<author pid="279/9702">Bernardo Silva</author>
+<author pid="279/9499">La&#237;s Pinheiro</author>
+<author pid="317/4995">Brenda Sobrinho</author>
+<author pid="20/5847">Fernanda Lima</author>
+<author pid="317/5164">Bruna Sobrinho</author>
+<author pid="177/2387">Kalyf Abdalla Buzar Lima</author>
+<author pid="215/3883">Matheus Pithon</author>
+<author orcid="0000-0001-8907-0483" pid="317/5031">Patr&#237;cia Cury</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>OdontoAI: A human-in-the-loop labeled data set and an online platform to boost research on dental panoramic radiographs.</title>
+<year>2022</year>
+<volume>abs/2203.15856</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.15856</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-15856</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/SobrinhoBCMMJCQ21" mdate="2025-03-03">
+<author pid="311/1726">Osvaldo Gogliano Sobrinho</author>
+<author pid="311/0175">Liedi Ledi Mariani Bernucci</author>
+<author pid="83/8840">Pedro Luiz Pizzigatti Corr&#234;a</author>
+<author orcid="0000-0002-6005-8285" pid="311/0679">Ros&#226;ngela dos Santos Motta</author>
+<author orcid="0000-0002-1202-0194" pid="95/10669">Jeaneth Machicao</author>
+<author orcid="0000-0003-2098-2980" pid="311/1174">Angelo Samuel Junqueira</author>
+<author pid="311/0477">Robson Correia da Costa</author>
+<author pid="311/0590">Wellingthon Dias de Queiroz</author>
+<author pid="311/0325">Thales Cesar Giriboni de Mello e Silva</author>
+<author pid="311/0149">Pedro Lopes Ferraz</author>
+<author pid="311/1187">Luciano Cassaro</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>Big data analytics in support of the under-rail maintenance management at Vit&#243;ria - Minas Railway.</title>
+<pages>6026-6028</pages>
+<year>2021</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData52589.2021.9671739</ee>
+<crossref>conf/bigdataconf/2021</crossref>
+<url>db/conf/bigdataconf/bigdataconf2021.html#SobrinhoBCMMJCQ21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ivs/BarrosO21" mdate="2021-11-08">
+<author pid="91/1276">Jo&#227;o Barros</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>Deep speed estimation from synthetic and monocular data.</title>
+<pages>668-673</pages>
+<year>2021</year>
+<booktitle>IV</booktitle>
+<ee>https://doi.org/10.1109/IV48863.2021.9575291</ee>
+<crossref>conf/ivs/2021</crossref>
+<url>db/conf/ivs/ivs2021.html#BarrosO21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/VieiraO21" mdate="2021-12-28">
+<author pid="309/4281">Gabriel Lefundes Vieira</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>Gaze estimation via self-attention augmented convolutions.</title>
+<pages>49-56</pages>
+<year>2021</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI54419.2021.00016</ee>
+<crossref>conf/sibgrapi/2021</crossref>
+<url>db/conf/sibgrapi/sibgrapi2021.html#VieiraO21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-07917" mdate="2021-02-18">
+<author pid="275/7295">Nathalia Q. Ascen&#231;&#227;o</author>
+<author pid="208/7517">Luis C. S. Afonso</author>
+<author pid="249/7991">Danilo Colombo</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<author pid="96/3441">Jo&#227;o P. Papa</author>
+<title>Information Ranking Using Optimum-Path Forest.</title>
+<year>2021</year>
+<volume>abs/2102.07917</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.07917</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-07917</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2108-02840" mdate="2021-08-11">
+<author pid="253/1182">Jefferson Fontinele</author>
+<author pid="273/4270">Gabriel Lefundes</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>Attention-based fusion of semantic boundary and non-boundary information to improve semantic segmentation.</title>
+<year>2021</year>
+<volume>abs/2108.02840</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2108.02840</ee>
+<url>db/journals/corr/corr2108.html#abs-2108-02840</url>
+</article>
+</r>
+<r><article key="journals/artmed/ChagasSAADAdO20" mdate="2024-03-13">
+<author pid="187/5296">Paulo Chagas</author>
+<author pid="207/8149">Luiz Souza</author>
+<author pid="244/2197">Ikaro Ara&#250;jo</author>
+<author pid="244/2408">Nayze Aldeman</author>
+<author pid="182/5198">Angelo Am&#226;ncio Duarte</author>
+<author pid="88/3105">Michele F. Angelo</author>
+<author orcid="0000-0002-5075-1254" pid="203/8588">Washington L. C. dos-Santos</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>Classification of glomerular hypercellularity using convolutional features and support vector machine.</title>
+<pages>101808</pages>
+<year>2020</year>
+<volume>103</volume>
+<journal>Artif. Intell. Medicine</journal>
+<ee>https://doi.org/10.1016/j.artmed.2020.101808</ee>
+<ee>https://www.wikidata.org/entity/Q90115763</ee>
+<url>db/journals/artmed/artmed103.html#ChagasSAADAdO20</url>
+</article>
+</r>
+<r><article key="journals/cvgip/CerqueiraTAO20" mdate="2020-10-16">
+<author pid="66/6141">Romulo Cerqueira</author>
+<author pid="193/5429">Tiago Trocoli</author>
+<author pid="93/4601">Jan C. Albiez</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>A rasterized ray-tracer pipeline for real-time, multi-device sonar simulation.</title>
+<pages>101086</pages>
+<year>2020</year>
+<volume>111</volume>
+<journal>Graph. Model.</journal>
+<ee>https://doi.org/10.1016/j.gmod.2020.101086</ee>
+<url>db/journals/cvgip/cvgip111.html#CerqueiraTAO20</url>
+</article>
+</r>
+<r><article key="journals/eswa/NevesRFO20" mdate="2019-11-26">
+<author pid="142/4000">Gustavo Neves</author>
+<author pid="234/2330">Marco Ruiz</author>
+<author pid="253/1182">Jefferson Fontinele</author>
+<author orcid="0000-0001-7183-8853" pid="79/3141">Luciano Oliveira</author>
+<title>Rotated object detection with forward-looking sonar in underwater applications.</title>
+<year>2020</year>
+<volume>140</volume>
+<journal>Expert Syst. Appl.</journal>
+<ee>https://doi.org/10.1016/j.eswa.2019.112870</ee>
+<url>db/journals/eswa/eswa140.html#NevesRFO20</url>
+</article>
+</r>
+<r><article key="journals/lgrs/AraujoFO20" mdate="2020-08-06">
+<author orcid="0000-0002-5734-1805" pid="205/2138">Pompilio Araujo</author>
+<author pid="253/1182">Jefferson Fontinele</author>
+<author orcid="0000-0001-7183-8853" pid="79/3141">Luciano Oliveira</author>
+<title>Multi-Perspective Object Detection for Remote Criminal Analysis Using Drones.</title>
+<pages>1283-1286</pages>
+<year>2020</year>
+<volume>17</volume>
+<journal>IEEE Geosci. Remote. Sens. Lett.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/LGRS.2019.2940546</ee>
+<url>db/journals/lgrs/lgrs17.html#AraujoFO20</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcnn/AscencaoACOP20" mdate="2020-10-06">
+<author pid="275/7295">Nathalia Q. Ascen&#231;&#227;o</author>
+<author pid="208/7517">Luis C. S. Afonso</author>
+<author pid="249/7991">Danilo Colombo</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<author pid="96/3441">Jo&#227;o P. Papa</author>
+<title>Information Ranking Using Optimum-Path Forest.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN48605.2020.9207689</ee>
+<crossref>conf/ijcnn/2020</crossref>
+<url>db/conf/ijcnn/ijcnn2020.html#AscencaoACOP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/FontineleMRPO20" mdate="2020-10-06">
+<author pid="253/1182">Jefferson Fontinele</author>
+<author pid="233/0236">Marcelo Mendon&#231;a</author>
+<author pid="234/2330">Marco Ruiz</author>
+<author pid="96/3441">Jo&#227;o P. Papa</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>Faster &#945;-expansion via dynamic programming and image partitioning.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN48605.2020.9207032</ee>
+<crossref>conf/ijcnn/2020</crossref>
+<url>db/conf/ijcnn/ijcnn2020.html#FontineleMRPO20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/SilvaPOP20" mdate="2020-12-03">
+<author pid="279/9702">Bernardo Silva</author>
+<author pid="279/9499">La&#237;s Pinheiro</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<author pid="215/3883">Matheus Pithon</author>
+<title>A study on tooth segmentation and numbering using end-to-end deep neural networks.</title>
+<pages>164-171</pages>
+<year>2020</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI51738.2020.00030</ee>
+<crossref>conf/sibgrapi/2020</crossref>
+<url>db/conf/sibgrapi/sibgrapi2020.html#SilvaPOP20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-03539" mdate="2020-01-17">
+<author pid="66/6141">Romulo Cerqueira</author>
+<author pid="193/5429">Tiago Trocoli</author>
+<author pid="93/4601">Jan C. Albiez</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>A rasterized ray-tracer pipeline for real-time, multi-device sonar simulation.</title>
+<year>2020</year>
+<volume>abs/2001.03539</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2001.03539</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-03539</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-11055" mdate="2020-08-28">
+<author pid="273/4270">Gabriel Lefundes</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>On estimating gaze by self-attention augmented convolutions.</title>
+<year>2020</year>
+<volume>abs/2008.11055</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.11055</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-11055</url>
+</article>
+</r>
+<r><article key="journals/eswa/AbdallaMO19" mdate="2025-01-19">
+<author pid="234/2335">Kalyf Abdalla</author>
+<author orcid="0000-0002-0767-6535" pid="242/7619">Igor Menezes</author>
+<author orcid="0000-0001-7183-8853" pid="79/3141">Luciano Oliveira</author>
+<title>Modelling perceptions on the evaluation of video summarization.</title>
+<pages>254-265</pages>
+<year>2019</year>
+<volume>131</volume>
+<journal>Expert Syst. Appl.</journal>
+<ee>https://doi.org/10.1016/j.eswa.2019.04.065</ee>
+<ee>https://www.wikidata.org/entity/Q127954957</ee>
+<url>db/journals/eswa/eswa131.html#AbdallaMO19</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-00028" mdate="2024-03-13">
+<author pid="187/5296">Paulo Chagas</author>
+<author pid="207/8149">Luiz Souza</author>
+<author pid="244/2197">Ikaro Ara&#250;jo</author>
+<author pid="244/2408">Nayze Aldeman</author>
+<author pid="182/5198">Angelo Am&#226;ncio Duarte</author>
+<author pid="88/3105">Michele F. Angelo</author>
+<author pid="203/8588">Washington L. C. dos-Santos</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>Classification of glomerular hypercellularity using convolutional features and support vector machine.</title>
+<year>2019</year>
+<volume>abs/1907.00028</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.00028</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-00028</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-05374" mdate="2019-10-16">
+<author pid="142/4000">Gustavo Neves</author>
+<author pid="66/6141">Romulo Cerqueira</author>
+<author pid="93/4601">Jan C. Albiez</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>Rotation-invariant shipwreck recognition with forward-looking sonar.</title>
+<year>2019</year>
+<volume>abs/1910.05374</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.05374</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-05374</url>
+</article>
+</r>
+<r><article key="journals/eaai/SouzaOPP18" mdate="2025-01-19">
+<author pid="207/8149">Luiz Souza</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<author orcid="0000-0003-4529-5757" pid="85/6254">Mauricio Pamplona 0001</author>
+<author pid="96/3441">Jo&#227;o P. Papa</author>
+<title>How far did we get in face spoofing detection?</title>
+<pages>368-381</pages>
+<year>2018</year>
+<volume>72</volume>
+<journal>Eng. Appl. Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.engappai.2018.04.013</ee>
+<ee>https://www.wikidata.org/entity/Q129867423</ee>
+<url>db/journals/eaai/eaai72.html#SouzaOPP18</url>
+</article>
+</r>
+<r><article key="journals/eswa/SilvaOP18" mdate="2025-01-19">
+<author orcid="0000-0002-7820-6557" pid="215/3530">Gil Silva 0001</author>
+<author orcid="0000-0001-7294-9985" pid="79/3141">Luciano Oliveira</author>
+<author pid="215/3883">Matheus Pithon</author>
+<title>Automatic segmenting teeth in X-ray images: Trends, a novel data set, benchmarking and future perspectives.</title>
+<pages>15-31</pages>
+<year>2018</year>
+<volume>107</volume>
+<journal>Expert Syst. Appl.</journal>
+<ee>https://doi.org/10.1016/j.eswa.2018.04.001</ee>
+<ee>https://www.wikidata.org/entity/Q130041324</ee>
+<url>db/journals/eswa/eswa107.html#SilvaOP18</url>
+</article>
+</r>
+<r><article key="journals/eswa/SilvaOP18a" mdate="2023-09-11">
+<author pid="215/3530">Gil Silva 0001</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<author pid="215/3883">Matheus Pithon</author>
+<title>Corrigendum to &#34;Automatic segmenting teeth in X-ray images: Trends, a novel data set, benchmarking and future perspectives&#34; [Expert Systems with Applications, Vol. 107 (2018) 15-31].</title>
+<pages>61</pages>
+<year>2018</year>
+<volume>112</volume>
+<journal>Expert Syst. Appl.</journal>
+<url>db/journals/eswa/eswa112.html#SilvaOP18a</url>
+<ee>https://doi.org/10.1016/j.eswa.2018.06.030</ee>
+</article>
+</r>
+<r><article key="journals/ivc/MendoncaO18" mdate="2025-01-19">
+<author pid="233/0236">Marcelo Mendon&#231;a</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>ISEC: Iterative over-segmentation via edge clustering.</title>
+<pages>45-57</pages>
+<year>2018</year>
+<volume>80</volume>
+<journal>Image Vis. Comput.</journal>
+<ee>https://doi.org/10.1016/j.imavis.2018.09.015</ee>
+<ee>https://www.wikidata.org/entity/Q129194361</ee>
+<url>db/journals/ivc/ivc80.html#MendoncaO18</url>
+</article>
+</r>
+<r><inproceedings key="conf/sibgrapi/JaderFRAPO18" mdate="2023-03-24">
+<author pid="215/3530">Gil Jader</author>
+<author pid="234/2350">Jefferson Fontineli</author>
+<author pid="234/2330">Marco Ruiz</author>
+<author pid="234/2335">Kalyf Abdalla</author>
+<author pid="215/3883">Matheus Pithon</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>Deep Instance Segmentation of Teeth in Panoramic X-Ray Images.</title>
+<pages>400-407</pages>
+<year>2018</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2018.00058</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRAPI.2018.00058</ee>
+<crossref>conf/sibgrapi/2018</crossref>
+<url>db/conf/sibgrapi/sibgrapi2018.html#JaderFRAPO18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-03086" mdate="2018-08-13">
+<author pid="215/3530">Gil Jader</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<author pid="215/3883">Matheus Pithon</author>
+<title>Automatic segmenting teeth in X-ray images: Trends, a novel data set, benchmarking and future perspectives.</title>
+<year>2018</year>
+<volume>abs/1802.03086</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.03086</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-03086</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-05816" mdate="2024-01-16">
+<author pid="365/5094">Marcelo M. Santos</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>ISEC: Iterative over-Segmentation via Edge Clustering.</title>
+<year>2018</year>
+<volume>abs/1802.05816</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.05816</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-05816</url>
+</article>
+</r>
+<r><article key="journals/cg/CerqueiraTNJAO17" mdate="2025-03-03">
+<author pid="66/6141">Romulo Cerqueira</author>
+<author orcid="0000-0003-3211-526X" pid="193/5429">Tiago Trocoli</author>
+<author pid="142/4000">Gustavo Neves</author>
+<author pid="56/1330">Sylvain Joyeux</author>
+<author pid="93/4601">Jan C. Albiez</author>
+<author orcid="0000-0001-7294-9985" pid="79/3141">Luciano Oliveira</author>
+<title>A novel GPU-based sonar simulator for real-time applications.</title>
+<pages>66-76</pages>
+<year>2017</year>
+<volume>68</volume>
+<journal>Comput. Graph.</journal>
+<ee>https://doi.org/10.1016/j.cag.2017.08.008</ee>
+<url>db/journals/cg/cg68.html#CerqueiraTNJAO17</url>
+</article>
+</r>
+<r><article key="journals/lgrs/AraujoMCAO17" mdate="2023-11-12">
+<author pid="205/2138">Pompilio Araujo</author>
+<author pid="170/3605">Rodolfo Miranda</author>
+<author orcid="0000-0002-5922-9120" pid="205/2031">Diedre Carmo</author>
+<author pid="152/8254">Ra&#250;l Alves</author>
+<author orcid="0000-0001-7183-8853" pid="79/3141">Luciano Oliveira</author>
+<title>Air-SSLAM: A Visual Stereo Indoor SLAM for Aerial Quadrotors.</title>
+<pages>1643-1647</pages>
+<year>2017</year>
+<volume>14</volume>
+<journal>IEEE Geosci. Remote. Sens. Lett.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/LGRS.2017.2730883</ee>
+<url>db/journals/lgrs/lgrs14.html#AraujoMCAO17</url>
+</article>
+</r>
+<r><article key="journals/pr/FrancoO17" mdate="2020-02-24">
+<author pid="180/6330">Alexandre Franco</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>Convolutional covariance features: Conception, integration and performance in person re-identification.</title>
+<pages>593-609</pages>
+<year>2017</year>
+<volume>61</volume>
+<journal>Pattern Recognit.</journal>
+<ee>https://doi.org/10.1016/j.patcog.2016.07.013</ee>
+<url>db/journals/pr/pr61.html#FrancoO17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-09868" mdate="2022-09-07">
+<author pid="207/8149">Luiz Souza</author>
+<author pid="85/6254">Mauricio Pamplona 0001</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<author pid="96/3441">Jo&#227;o P. Papa</author>
+<title>How far did we get in face spoofing detection?</title>
+<year>2017</year>
+<volume>abs/1710.09868</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.09868</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-09868</url>
+</article>
+</r>
+<r><inproceedings key="conf/sibgrapi/TrocoliO16" mdate="2023-03-24">
+<author orcid="0000-0003-3211-526X" pid="193/5429">Tiago Trocoli</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>Using the Scene to Calibrate the Camera.</title>
+<pages>455-461</pages>
+<year>2016</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2016.069</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRAPI.2016.069</ee>
+<crossref>conf/sibgrapi/2016</crossref>
+<url>db/conf/sibgrapi/sibgrapi2016.html#TrocoliO16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wacv/FrancoO16" mdate="2023-03-24">
+<author pid="180/6330">Alexandre Franco</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>A coarse-to-fine deep learning for person re-identification.</title>
+<pages>1-7</pages>
+<year>2016</year>
+<booktitle>WACV</booktitle>
+<ee>https://doi.org/10.1109/WACV.2016.7477677</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WACV.2016.7477677</ee>
+<crossref>conf/wacv/2016</crossref>
+<url>db/conf/wacv/wacv2016.html#FrancoO16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ciarp/CanarioO15" mdate="2019-10-31">
+<author pid="169/7127">Jo&#227;o Paulo Can&#225;rio</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>Recognition of Facial Expressions Based on Deep Conspicuous Net.</title>
+<pages>255-262</pages>
+<year>2015</year>
+<booktitle>CIARP</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-25751-8_31</ee>
+<crossref>conf/ciarp/2015</crossref>
+<url>db/conf/ciarp/ciarp2015.html#CanarioO15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/MendoncaO15" mdate="2023-03-24">
+<author pid="233/0236">Marcelo Mendon&#231;a</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>Context-Supported Road Information for Background Modeling.</title>
+<pages>203-210</pages>
+<year>2015</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2015.22</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRAPI.2015.22</ee>
+<crossref>conf/sibgrapi/2015</crossref>
+<url>db/conf/sibgrapi/sibgrapi2015.html#MendoncaO15</url>
+</inproceedings>
+</r>
+<r><article key="journals/pr/OliveiraCNOJL14" mdate="2021-10-14">
+<author pid="79/3141">Luciano Oliveira</author>
+<author orcid="0000-0001-8807-8491" pid="142/3966">Victor Costa</author>
+<author pid="142/4000">Gustavo Neves</author>
+<author pid="01/9827">Talmai Oliveira</author>
+<author pid="115/4574">Eduardo Jorge</author>
+<author pid="63/1800">Miguel Gustavo Liz&#225;rraga</author>
+<title>A mobile, lightweight, poll-based food identification system.</title>
+<pages>1941-1952</pages>
+<year>2014</year>
+<volume>47</volume>
+<journal>Pattern Recognit.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/j.patcog.2013.12.006</ee>
+<url>db/journals/pr/pr47.html#OliveiraCNOJL14</url>
+</article>
+</r>
+<r><article key="journals/prl/SilvaSO14" mdate="2020-02-22">
+<author pid="123/7555">Grimaldo Silva</author>
+<author orcid="0000-0002-0399-6689" pid="21/4512">Leizer Schnitman</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>Constraining image object search by multi-scale spectral residue analysis.</title>
+<pages>31-38</pages>
+<year>2014</year>
+<volume>39</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2013.08.025</ee>
+<url>db/journals/prl/prl39.html#SilvaSO14</url>
+</article>
+</r>
+<r><inproceedings key="conf/ivs/OliveiraN13" mdate="2024-05-13">
+<author pid="79/3141">Luciano Oliveira</author>
+<author orcid="0000-0002-7750-5221" pid="88/3722">Urbano Nunes 0001</author>
+<title>Pedestrian detection based on LIDAR-driven sliding window and relational parts-based detection.</title>
+<pages>328-333</pages>
+<year>2013</year>
+<booktitle>Intelligent Vehicles Symposium</booktitle>
+<ee>https://doi.org/10.1109/IVS.2013.6629490</ee>
+<ee>https://www.wikidata.org/entity/Q57913173</ee>
+<crossref>conf/ivs/2013</crossref>
+<url>db/conf/ivs/ivs2013.html#OliveiraN13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ivs/SantosLSNO13" mdate="2024-05-13">
+<author pid="365/5094">Marcelo M. Santos</author>
+<author pid="135/9150">Marcelo Linder</author>
+<author orcid="0000-0002-0399-6689" pid="21/4512">Leizer Schnitman</author>
+<author orcid="0000-0002-7750-5221" pid="88/3722">Urbano Nunes 0001</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>Learning to segment roads for traffic analysis in urban images.</title>
+<pages>527-532</pages>
+<year>2013</year>
+<booktitle>Intelligent Vehicles Symposium</booktitle>
+<ee>https://doi.org/10.1109/IVS.2013.6629521</ee>
+<ee>https://www.wikidata.org/entity/Q57913171</ee>
+<crossref>conf/ivs/2013</crossref>
+<url>db/conf/ivs/ivs2013.html#SantosLSNO13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/DutraSSAO13" mdate="2023-03-24">
+<author pid="152/8447">Cristianne R. S. Dutra</author>
+<author orcid="0000-0003-1449-8834" pid="78/6398">William Robson Schwartz</author>
+<author pid="152/8474">Tiago Souza</author>
+<author pid="152/8254">Ra&#250;l Alves</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>Re-identifying People Based on Indexing Structure and Manifold Appearance Modeling.</title>
+<pages>218-225</pages>
+<year>2013</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2013.38</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRAPI.2013.38</ee>
+<crossref>conf/sibgrapi/2013</crossref>
+<url>db/conf/sibgrapi/sibgrapi2013.html#DutraSSAO13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/SilvaSO12" mdate="2023-03-24">
+<author pid="123/7555">Grimaldo Silva</author>
+<author orcid="0000-0002-0399-6689" pid="21/4512">Leizer Schnitman</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<title>Multi-Scale Spectral Residual Analysis to Speed up Image Object Detection.</title>
+<pages>79-86</pages>
+<year>2012</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2012.20</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRAPI.2012.20</ee>
+<crossref>conf/sibgrapi/2012</crossref>
+<url>db/conf/sibgrapi/sibgrapi2012.html#SilvaSO12</url>
+</inproceedings>
+</r>
+<r><article key="journals/pr/OliveiraNPSM10" mdate="2024-05-13">
+<author pid="79/3141">Luciano Oliveira</author>
+<author orcid="0000-0002-7750-5221" pid="88/3722">Urbano Nunes 0001</author>
+<author orcid="0000-0002-3680-564X" pid="03/3259">Paulo Peixoto</author>
+<author orcid="0000-0003-3142-1679" pid="47/1238-1">Marco Silva 0001</author>
+<author orcid="0000-0001-5582-8380" pid="10/2894">Fernando Moita</author>
+<title>Semantic fusion of laser and vision in pedestrian detection.</title>
+<pages>3648-3659</pages>
+<year>2010</year>
+<volume>43</volume>
+<journal>Pattern Recognit.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/j.patcog.2010.05.014</ee>
+<ee>https://www.wikidata.org/entity/Q57913246</ee>
+<url>db/journals/pr/pr43.html#OliveiraNPSM10</url>
+</article>
+</r>
+<r><article key="journals/tits/OliveiraNP10" mdate="2024-05-13">
+<author pid="79/3141">Luciano Oliveira</author>
+<author orcid="0000-0002-7750-5221" pid="88/3722">Urbano Nunes 0001</author>
+<author orcid="0000-0002-3680-564X" pid="03/3259">Paulo Peixoto</author>
+<title>On Exploration of Classifier Ensemble Synergism in Pedestrian Detection.</title>
+<pages>16-27</pages>
+<year>2010</year>
+<volume>11</volume>
+<journal>IEEE Trans. Intell. Transp. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TITS.2009.2026447</ee>
+<ee>https://www.wikidata.org/entity/Q57913238</ee>
+<url>db/journals/tits/tits11.html#OliveiraNP10</url>
+</article>
+</r>
+<r><inproceedings key="conf/ivs/OliveiraN10" mdate="2024-05-13">
+<author pid="79/3141">Luciano Oliveira</author>
+<author orcid="0000-0002-7750-5221" pid="88/3722">Urbano Nunes 0001</author>
+<title>Context-aware pedestrian detection using LIDAR.</title>
+<pages>773-778</pages>
+<year>2010</year>
+<booktitle>Intelligent Vehicles Symposium</booktitle>
+<ee>https://doi.org/10.1109/IVS.2010.5548069</ee>
+<ee>https://www.wikidata.org/entity/Q57913234</ee>
+<crossref>conf/ivs/2010</crossref>
+<url>db/conf/ivs/ivs2010.html#OliveiraN10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/OliveiraN08" mdate="2024-05-13">
+<author pid="79/3141">Luciano Oliveira</author>
+<author orcid="0000-0002-7750-5221" pid="88/3722">Urbano Nunes 0001</author>
+<title>On Integration of Features and Classifiers for Robust Vehicle Detection.</title>
+<pages>414-419</pages>
+<year>2008</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2008.4732545</ee>
+<ee>https://www.wikidata.org/entity/Q57913289</ee>
+<crossref>conf/itsc/2008</crossref>
+<url>db/conf/itsc/itsc2008.html#OliveiraN08</url>
+</inproceedings>
+</r>
+<r><incollection key="series/sci/AraujoNOSP08" mdate="2024-05-13">
+<author orcid="0000-0002-1007-8675" pid="75/1612">Rui Ara&#250;jo</author>
+<author orcid="0000-0002-7750-5221" pid="88/3722">Urbano Nunes 0001</author>
+<author pid="79/3141">Luciano Oliveira</author>
+<author pid="27/10142">Pedro Angelo Morais de Sousa</author>
+<author orcid="0000-0002-3680-564X" pid="03/3259">Paulo Peixoto</author>
+<title>Support Vector Machines and Features for Environment Perception in Mobile Robotics.</title>
+<pages>219-250</pages>
+<year>2008</year>
+<booktitle>Computational Intelligence Paradigms</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-79474-5_11</ee>
+<ee>https://www.wikidata.org/entity/Q57913296</ee>
+<crossref>series/sci/2008-137</crossref>
+<url>db/series/sci/sci137.html#AraujoNOSP08</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/eurocast/OliveiraMPN07" mdate="2024-05-14">
+<author pid="79/3141">Luciano Oliveira</author>
+<author pid="83/3464">Gon&#231;alo Monteiro</author>
+<author pid="03/3259">Paulo Peixoto</author>
+<author pid="88/3722">Urbano Nunes 0001</author>
+<title>Towards a Robust Vision-Based Obstacle Perception with Classifier Fusion in Cybercars.</title>
+<pages>1089-1096</pages>
+<year>2007</year>
+<crossref>conf/eurocast/2007</crossref>
+<booktitle>EUROCAST</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-75867-9_136</ee>
+<url>db/conf/eurocast/eurocast2007.html#OliveiraMPN07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/epia/OliveiraCSS05" mdate="2022-03-10">
+<author pid="79/3141">Luciano Oliveira</author>
+<author pid="40/10540">Augusto Loureiro da Costa</author>
+<author orcid="0000-0002-0399-6689" pid="21/4512">Leizer Schnitman</author>
+<author pid="88/2019">Jose A. M. Felippe de Souza</author>
+<title>An Architecture of Sensor Fusion for Spatial Location of Objects in Mobile Robotics.</title>
+<pages>462-473</pages>
+<year>2005</year>
+<crossref>conf/epia/2005</crossref>
+<booktitle>EPIA</booktitle>
+<ee>https://doi.org/10.1007/11595014_46</ee>
+<url>db/conf/epia/epia2005.html#OliveiraCSS05</url>
+</inproceedings>
+</r>
+<coauthors n="88" nc="2">
+<co c="0"><na f="a/Abdalla:Kalyf" pid="234/2335">Kalyf Abdalla</na></co>
+<co c="0"><na f="a/Afonso:Luis_C=_S=" pid="208/7517">Luis C. S. Afonso</na></co>
+<co c="0" n="2"><na f="a/Albiez:Jan_Christian" pid="93/4601">Jan Christian Albiez</na><na>Jan C. Albiez</na></co>
+<co c="0"><na f="a/Aldeman:Nayze" pid="244/2408">Nayze Aldeman</na></co>
+<co c="0"><na f="a/Alves:Ra=uacute=l" pid="152/8254">Ra&#250;l Alves</na></co>
+<co c="0"><na f="a/Angelo:Michele_F=" pid="88/3105">Michele F. Angelo</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Ikaro" pid="244/2197">Ikaro Ara&#250;jo</na></co>
+<co c="0"><na f="a/Araujo:Pompilio" pid="205/2138">Pompilio Araujo</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Rui" pid="75/1612">Rui Ara&#250;jo</na></co>
+<co c="0"><na f="a/Ascen=ccedil==atilde=o:Nathalia_Q=" pid="275/7295">Nathalia Q. Ascen&#231;&#227;o</na></co>
+<co c="-1"><na f="b/Barros:Jo=atilde=o" pid="91/1276">Jo&#227;o Barros</na></co>
+<co c="1"><na f="b/Bernucci:Liedi_Ledi_Mariani" pid="311/0175">Liedi Ledi Mariani Bernucci</na></co>
+<co c="0"><na f="c/Calumby:Rodrigo_Tripodi" pid="60/9003">Rodrigo Tripodi Calumby</na></co>
+<co c="-1"><na f="c/Can=aacute=rio:Jo=atilde=o_Paulo" pid="169/7127">Jo&#227;o Paulo Can&#225;rio</na></co>
+<co c="0"><na f="c/Carmo:Diedre" pid="205/2031">Diedre Carmo</na></co>
+<co c="1"><na f="c/Cassaro:Luciano" pid="311/1187">Luciano Cassaro</na></co>
+<co c="0"><na f="c/Cerqueira:Romulo" pid="66/6141">Romulo Cerqueira</na></co>
+<co c="0"><na f="c/Chagas:Paulo" pid="187/5296">Paulo Chagas</na></co>
+<co c="0"><na f="c/Colombo:Danilo" pid="249/7991">Danilo Colombo</na></co>
+<co c="1" n="2"><na f="c/Corr=ecirc=a:Pedro_L=_P=" pid="83/8840">Pedro L. P. Corr&#234;a</na><na>Pedro Luiz Pizzigatti Corr&#234;a</na></co>
+<co c="0"><na f="c/Costa:Augusto_Loureiro_da" pid="40/10540">Augusto Loureiro da Costa</na></co>
+<co c="1"><na f="c/Costa:Robson_Correia_da" pid="311/0477">Robson Correia da Costa</na></co>
+<co c="0"><na f="c/Costa:Victor" pid="142/3966">Victor Costa</na></co>
+<co c="0" n="2"><na f="c/Cury:Patr=iacute=cia" pid="317/5031">Patr&#237;cia Cury</na><na>Patr&#237;cia Ramos Cury</na></co>
+<co c="0"><na f="d/dos=Santos:Washington_L=_C=" pid="203/8588">Washington L. C. dos-Santos</na></co>
+<co c="0"><na f="d/Duarte:Angelo_Am=acirc=ncio" pid="182/5198">Angelo Am&#226;ncio Duarte</na></co>
+<co c="0"><na f="d/Dutra:Cristianne_R=_S=" pid="152/8447">Cristianne R. S. Dutra</na></co>
+<co c="1"><na f="f/Ferraz:Pedro_Lopes" pid="311/0149">Pedro Lopes Ferraz</na></co>
+<co c="0" n="2"><na f="f/Fontinele:Jefferson" pid="253/1182">Jefferson Fontinele</na><na>Jefferson Fontinele da Silva</na></co>
+<co c="0"><na f="f/Fontineli:Jefferson" pid="234/2350">Jefferson Fontineli</na></co>
+<co c="-1"><na f="f/Franco:Alexandre" pid="180/6330">Alexandre Franco</na></co>
+<co c="0"><na f="h/Hougaz:Ana" pid="372/4105">Ana Hougaz</na></co>
+<co c="0" n="2"><na f="j/Jader:Gil" pid="215/3530">Gil Jader</na><na>Gil Silva 0001</na></co>
+<co c="0"><na f="j/Jorge:Eduardo" pid="115/4574">Eduardo Jorge</na></co>
+<co c="0"><na f="j/Joyeux:Sylvain" pid="56/1330">Sylvain Joyeux</na></co>
+<co c="1"><na f="j/Junqueira:Angelo_Samuel" pid="311/1174">Angelo Samuel Junqueira</na></co>
+<co c="0"><na f="l/Lefundes:Gabriel" pid="273/4270">Gabriel Lefundes</na></co>
+<co c="0"><na f="l/Liang:Julian" pid="372/3515">Julian Liang</na></co>
+<co c="0"><na f="l/Lima:David" pid="123/4097">David Lima</na></co>
+<co c="0"><na f="l/Lima:Fernanda" pid="20/5847">Fernanda Lima</na></co>
+<co c="0"><na f="l/Lima:Kalyf_Abdalla_Buzar" pid="177/2387">Kalyf Abdalla Buzar Lima</na></co>
+<co c="0"><na f="l/Linder:Marcelo" pid="135/9150">Marcelo Linder</na></co>
+<co c="0"><na f="l/Liz=aacute=rraga:Miguel_Gustavo" pid="63/1800">Miguel Gustavo Liz&#225;rraga</na></co>
+<co c="0" n="2"><na f="m/Machado_0001:Vin=iacute=cius" pid="88/930">Vin&#237;cius Machado 0001</na><na>Vin&#237;cius P. Machado</na></co>
+<co c="1" n="2"><na f="m/Machicao:Marina_Jeaneth" pid="95/10669">Marina Jeaneth Machicao</na><na>Jeaneth Machicao</na></co>
+<co c="0"><na f="m/Mendon=ccedil=a:Marcelo" pid="233/0236">Marcelo Mendon&#231;a</na></co>
+<co c="0"><na f="m/Menezes:Igor" pid="242/7619">Igor Menezes</na></co>
+<co c="0"><na f="m/Miranda:Rodolfo" pid="170/3605">Rodolfo Miranda</na></co>
+<co c="0"><na f="m/Moita:Fernando" pid="10/2894">Fernando Moita</na></co>
+<co c="0"><na f="m/Monteiro:Gon=ccedil=alo" pid="83/3464">Gon&#231;alo Monteiro</na></co>
+<co c="1"><na f="m/Motta:Ros=acirc=ngela_dos_Santos" pid="311/0679">Ros&#226;ngela dos Santos Motta</na></co>
+<co c="0"><na f="n/Neves:Gustavo" pid="142/4000">Gustavo Neves</na></co>
+<co c="0"><na f="n/Nunes_0001:Urbano" pid="88/3722">Urbano Nunes 0001</na></co>
+<co c="0"><na f="o/Oliveira:Talmai" pid="01/9827">Talmai Oliveira</na></co>
+<co c="0" n="2"><na f="p/Papa:Jo=atilde=o_Paulo" pid="96/3441">Jo&#227;o Paulo Papa</na><na>Jo&#227;o P. Papa</na></co>
+<co c="0"><na f="p/Peixoto:Paulo" pid="03/3259">Paulo Peixoto</na></co>
+<co c="0"><na f="p/Peters:Bernardo" pid="372/3151">Bernardo Peters</na></co>
+<co c="0"><na f="p/Pinheiro:La=iacute=s" pid="279/9499">La&#237;s Pinheiro</na></co>
+<co c="0"><na f="p/Pinheiro:Nathanael" pid="328/8077">Nathanael Pinheiro</na></co>
+<co c="0"><na f="p/Pithon:Matheus" pid="215/3883">Matheus Pithon</na></co>
+<co c="0"><na f="p/Pontes:Izabelle" pid="328/8155">Izabelle Pontes</na></co>
+<co c="0"><na f="p/Prado:Igor" pid="372/4150">Igor Prado</na></co>
+<co c="1"><na f="q/Queiroz:Wellingthon_Dias_de" pid="311/0590">Wellingthon Dias de Queiroz</na></co>
+<co c="0"><na f="r/Ruiz:Marco" pid="234/2330">Marco Ruiz</na></co>
+<co c="0"><na f="s/Santos:Justino" pid="89/2282">Justino Santos</na></co>
+<co c="0"><na f="s/Santos:Marcelo_M=" pid="365/5094">Marcelo M. Santos</na></co>
+<co c="0"><na f="s/Schnitman:Leizer" pid="21/4512">Leizer Schnitman</na></co>
+<co c="0"><na f="s/Schwartz:William_Robson" pid="78/6398">William Robson Schwartz</na></co>
+<co c="0" n="2"><na f="s/Segundo:Maur=iacute=cio_Pamplona" pid="85/6254">Maur&#237;cio Pamplona Segundo</na><na>Mauricio Pamplona 0001</na></co>
+<co c="0"><na f="s/Silva:Bernardo" pid="279/9702">Bernardo Silva</na></co>
+<co c="0"><na f="s/Silva:Grimaldo" pid="123/7555">Grimaldo Silva</na></co>
+<co c="0"><na f="s/Silva:Jefferson" pid="182/4054">Jefferson Silva</na></co>
+<co c="0"><na f="s/Silva_0001:Marco" pid="47/1238-1">Marco Silva 0001</na></co>
+<co c="0" n="2"><na f="s/Silva:Romuere_R=ocirc=drigues_Veloso_e" pid="152/7440">Romuere R&#244;drigues Veloso e Silva</na><na>Romuere R. V. Silva</na></co>
+<co c="1"><na f="s/Silva:Thales_Cesar_Giriboni_de_Mello_e" pid="311/0325">Thales Cesar Giriboni de Mello e Silva</na></co>
+<co c="0"><na f="s/Sobrinho:Brenda" pid="317/4995">Brenda Sobrinho</na></co>
+<co c="0"><na f="s/Sobrinho:Bruna" pid="317/5164">Bruna Sobrinho</na></co>
+<co c="1"><na f="s/Sobrinho:Osvaldo_Gogliano" pid="311/1726">Osvaldo Gogliano Sobrinho</na></co>
+<co c="0"><na f="s/Sousa:Pedro_Angelo_Morais_de" pid="27/10142">Pedro Angelo Morais de Sousa</na></co>
+<co c="0"><na f="s/Souza:Bianca" pid="328/7696">Bianca Souza</na></co>
+<co c="0"><na f="s/Souza:Jose_A=_M=_Felippe_de" pid="88/2019">Jose A. M. Felippe de Souza</na></co>
+<co c="0"><na f="s/Souza:Luiz" pid="207/8149">Luiz Souza</na></co>
+<co c="0"><na f="s/Souza:Tiago" pid="152/8474">Tiago Souza</na></co>
+<co c="0"><na f="t/Tavares:Jo=atilde=o_Manuel_R=_S=" pid="t/JoaoManuelRSTavares">Jo&#227;o Manuel R. S. Tavares</na></co>
+<co c="0"><na f="t/Trocoli:Tiago" pid="193/5429">Tiago Trocoli</na></co>
+<co c="0" n="2"><na f="v/Veras:Rodrigo_M=_S=" pid="67/8105">Rodrigo M. S. Veras</na><na>Rodrigo Veras</na></co>
+<co c="0"><na f="v/Vieira:Carolina_Let=iacute=cia_Zilli" pid="381/1500">Carolina Let&#237;cia Zilli Vieira</na></co>
+<co c="-1"><na f="v/Vieira:Gabriel_Lefundes" pid="309/4281">Gabriel Lefundes Vieira</na></co>
+</coauthors>
+</dblpperson>
+

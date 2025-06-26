@@ -1,0 +1,3181 @@
+<?xml version="1.0"?>
+<dblpperson name="Antonio Carlos Schneider Beck" pid="02/7021" n="200">
+<person key="homepages/02/7021" mdate="2025-05-09">
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="02/7021">Antonio Carlos S. Beck</author>
+<author pid="02/7021">Antonio C. S. Beck</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck Filho</author>
+<note type="affiliation">Universidade Federal do Rio Grande do Sul (UFRGS), Institute of Informatics, Porto Alegre, Brazil</note>
+<url>http://www.inf.ufrgs.br/~caco/</url>
+<url>https://orcid.org/0000-0002-4492-1747</url>
+</person>
+<r><article key="journals/dafes/TonettoNB25" mdate="2025-01-07">
+<author pid="218/1106">Rafael Billig Tonetto</author>
+<author pid="18/9853">Gabriel L. Nazar</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>A variation-aware methodology for improved processor designs for the edge computing domain.</title>
+<pages>1</pages>
+<year>2025</year>
+<month>March</month>
+<volume>29</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10617-024-09291-1</ee>
+<url>db/journals/dafes/dafes29.html#TonettoNB25</url>
+<stream>streams/journals/dafes</stream>
+</article>
+</r>
+<r><inproceedings key="conf/lascas/AiresBKAKFB25" mdate="2025-05-12">
+<author pid="404/6527">Marcello A. Aires</author>
+<author pid="197/9574">Fabio Benevenuti</author>
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="21/1296">Jos&#233; Rodrigo Furlanetto Azambuja</author>
+<author pid="l/FGdLimaKastensmidt">Fernanda L. Kastensmidt</author>
+<author pid="96/3201">Edison P. de Freitas</author>
+<author pid="02/7021">Antonio Carlos S. Beck</author>
+<title>Exploring Hardware Alternatives for Smart Agriculture on the Edge.</title>
+<pages>1-5</pages>
+<year>2025</year>
+<booktitle>LASCAS</booktitle>
+<ee>https://doi.org/10.1109/LASCAS64004.2025.10966335</ee>
+<crossref>conf/lascas/2025</crossref>
+<url>db/conf/lascas/lascas2025.html#AiresBKAKFB25</url>
+<stream>streams/conf/lascas</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lascas/ElyKFBABK25" mdate="2025-05-12">
+<author pid="389/0076">Arthur F. Ely</author>
+<author pid="389/0035">Ian Kersz</author>
+<author pid="404/6464">Felipe Kalinski Ferreira</author>
+<author pid="197/9574">Fabio Benevenuti</author>
+<author pid="21/1296">Jos&#233; Rodrigo Azambuja</author>
+<author pid="02/7021">Antonio Carlos S. Beck</author>
+<author pid="l/FGdLimaKastensmidt">Fernanda L. Kastensmidt</author>
+<title>NEAT: A Scalable SoC Framework for Adaptive Neural Network Acceleration in Edge Computing.</title>
+<pages>1-5</pages>
+<year>2025</year>
+<booktitle>LASCAS</booktitle>
+<ee>https://doi.org/10.1109/LASCAS64004.2025.10966268</ee>
+<crossref>conf/lascas/2025</crossref>
+<url>db/conf/lascas/lascas2025.html#ElyKFBABK25</url>
+<stream>streams/conf/lascas</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lascas/KerszJRFAKB25" mdate="2025-05-12">
+<author pid="389/0035">Ian Kersz</author>
+<author pid="206/8272">Michael G. Jordan</author>
+<author pid="274/6042">Hiago Mayk G. de A. Rocha</author>
+<author pid="404/6464">Felipe Kalinski Ferreira</author>
+<author pid="21/1296">Jos&#233; Rodrigo Azambuja</author>
+<author pid="l/FGdLimaKastensmidt">Fernanda L. Kastensmidt</author>
+<author pid="02/7021">Antonio Carlos S. Beck</author>
+<title>Exploiting Design Flexibility in Multi-Tenant Multi-FPGA Edge Systems.</title>
+<pages>1-5</pages>
+<year>2025</year>
+<booktitle>LASCAS</booktitle>
+<ee>https://doi.org/10.1109/LASCAS64004.2025.10966290</ee>
+<crossref>conf/lascas/2025</crossref>
+<url>db/conf/lascas/lascas2025.html#KerszJRFAKB25</url>
+<stream>streams/conf/lascas</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lascas/KnorstKJRB25" mdate="2025-05-12">
+<author pid="230/1135">Tiago Knorst</author>
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="206/8272">Michael Guilherme Jordan</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Heterogeneity-Aware Offloading for the IoT-Edge-Cloud Continuum.</title>
+<pages>1-5</pages>
+<year>2025</year>
+<booktitle>LASCAS</booktitle>
+<ee>https://doi.org/10.1109/LASCAS64004.2025.10966362</ee>
+<crossref>conf/lascas/2025</crossref>
+<url>db/conf/lascas/lascas2025.html#KnorstKJRB25</url>
+<stream>streams/conf/lascas</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/supercomputer/LorenzonBNM25" mdate="2025-06-05">
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="02/7021">Antonio Carlos S. Beck</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<author pid="98/7514">Bronson Messer</author>
+<title>Energy-Efficient GPU Allocation and Frequency Management in Exascale Computing Systems.</title>
+<pages>1-11</pages>
+<year>2025</year>
+<booktitle>ISC</booktitle>
+<ee>https://ieeexplore.ieee.org/document/11018306</ee>
+<crossref>conf/supercomputer/2025</crossref>
+<url>db/conf/supercomputer/isc2025.html#LorenzonBNM25</url>
+</inproceedings>
+</r>
+<r><article key="journals/tjs/MooriRLB24" mdate="2024-08-02">
+<author pid="348/7524">Marcelo K. Moori</author>
+<author pid="274/6042">Hiago Mayk G. de A. Rocha</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="02/7021">Antonio C. S. Beck</author>
+<title>Allok: a machine learning approach for efficient graph execution on CPU-GPU clusters.</title>
+<pages>18838-18865</pages>
+<year>2024</year>
+<month>September</month>
+<volume>80</volume>
+<journal>J. Supercomput.</journal>
+<number>13</number>
+<ee>https://doi.org/10.1007/s11227-024-06079-9</ee>
+<url>db/journals/tjs/tjs80.html#MooriRLB24</url>
+<stream>streams/journals/tjs</stream>
+</article>
+</r>
+<r><article key="journals/tpds/SilvaLSRLBL24" mdate="2024-04-01">
+<author pid="316/4332">Vinicius S. da Silva</author>
+<author pid="352/7319">Everton Camargo de Lima</author>
+<author orcid="0000-0002-7070-1297" pid="210/3788">Janaina Schwarzrock</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio D. Rossi</author>
+<author orcid="0000-0003-0537-3052" pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author orcid="0000-0002-4492-1747" pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-2412-3027" pid="160/4663">Arthur Francisco Lorenzon</author>
+<title>Synergistically Rebalancing the EDP of Container-Based Parallel Applications.</title>
+<pages>484-498</pages>
+<year>2024</year>
+<month>March</month>
+<volume>35</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TPDS.2024.3357353</ee>
+<url>db/journals/tpds/tpds35.html#SilvaLSRLBL24</url>
+</article>
+</r>
+<r><inproceedings key="conf/closer/GoncalvesBL24" mdate="2024-06-03">
+<author pid="376/7991">Thiago Gon&#231;alves</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<title>Balancing Performance and Aging in Cloud Environments.</title>
+<pages>216-223</pages>
+<year>2024</year>
+<booktitle>CLOSER</booktitle>
+<ee>https://doi.org/10.5220/0012687700003711</ee>
+<crossref>conf/closer/2024</crossref>
+<url>db/conf/closer/closer2024.html#GoncalvesBL24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsd/VicenziKJRB24" mdate="2025-03-03">
+<author orcid="0000-0003-3235-9854" pid="274/5895">Julio Costella Vicenzi</author>
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="206/8272">Michael G. Jordan</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Exploiting Virtual Layers and Pruning for FPGA-Based Adaptive Traffic Classification.</title>
+<pages>194-201</pages>
+<year>2024</year>
+<booktitle>DSD</booktitle>
+<ee>https://doi.org/10.1109/DSD64264.2024.00034</ee>
+<crossref>conf/dsd/2024</crossref>
+<url>db/conf/dsd/dsd2024.html#VicenziKJRB24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/SchwarzrockLSB24" mdate="2024-10-06">
+<author pid="210/3788">Janaina Schwarzrock</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author orcid="0000-0001-8747-4580" pid="96/303">Samuel Xavier de Souza</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Integration Framework for Online Thread Throttling with Thread and Page Mapping on NUMA Systems.</title>
+<pages>1189-1192</pages>
+<year>2024</year>
+<booktitle>IPDPS (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/IPDPSW63119.2024.00202</ee>
+<crossref>conf/ipps/2024w</crossref>
+<url>db/conf/ipps/ipdps2024w.html#SchwarzrockLSB24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/KorolRB24" mdate="2024-10-01">
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="274/6042">Hiago Mayk G. de A. Rocha</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Adaptive and Offloaded CNNs for IoT-Edge FPGAs.</title>
+<pages>69-74</pages>
+<year>2024</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI61997.2024.00024</ee>
+<crossref>conf/isvlsi/2024</crossref>
+<url>db/conf/isvlsi/isvlsi2024.html#KorolRB24</url>
+<stream>streams/conf/isvlsi</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/RochaMKLB24" mdate="2024-10-01">
+<author pid="274/6042">Hiago Mayk G. de A. Rocha</author>
+<author pid="348/7524">Marcelo K. Moori</author>
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Enhancing Graph Execution for Performance and Energy Efficiency on NUMA Machines.</title>
+<pages>143-148</pages>
+<year>2024</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI61997.2024.00036</ee>
+<crossref>conf/isvlsi/2024</crossref>
+<url>db/conf/isvlsi/isvlsi2024.html#RochaMKLB24</url>
+<stream>streams/conf/isvlsi</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/ElyBKBAK24" mdate="2025-03-03">
+<author orcid="0009-0009-1353-2763" pid="389/0076">Arthur F. Ely</author>
+<author pid="197/9574">Fabio Benevenuti</author>
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="02/7021">Antonio Carlos S. Beck</author>
+<author pid="21/1296">Jos&#233; Rodrigo Azambuja</author>
+<author pid="l/FGdLimaKastensmidt">Fernanda Lima Kastensmidt</author>
+<title>Image Classification CNNs using the FINN Engine for SRAM-based APSoC in Satellite Applications.</title>
+<pages>1-5</pages>
+<year>2024</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1109/SBCCI62366.2024.10703997</ee>
+<crossref>conf/sbcci/2024</crossref>
+<url>db/conf/sbcci/sbcci2024.html#ElyBKBAK24</url>
+<stream>streams/conf/sbcci</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/GoncalvesBL24" mdate="2024-10-30">
+<author pid="389/0145">Thiago Dos Santos Gon&#231;alves</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<title>Investigating the Influence of Process Variability on Asymmetric Multicore Processors.</title>
+<pages>1-5</pages>
+<year>2024</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1109/SBCCI62366.2024.10703977</ee>
+<crossref>conf/sbcci/2024</crossref>
+<url>db/conf/sbcci/sbcci2024.html#GoncalvesBL24</url>
+<stream>streams/conf/sbcci</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/KerszPJAKB24" mdate="2025-02-05">
+<author pid="389/0035">Ian Kersz</author>
+<author pid="389/0236">Henry Piceni</author>
+<author pid="206/8272">Michael G. Jordan</author>
+<author pid="21/1296">Jos&#233; Rodrigo Azambuja</author>
+<author pid="l/FGdLimaKastensmidt">Fernanda Lima Kastensmidt</author>
+<author pid="02/7021">Antonio Carlos S. Beck</author>
+<title>ADARE: Adaptive Resource Provisioning in Multi-FPGA Edge Environments.</title>
+<pages>1-5</pages>
+<year>2024</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1109/SBCCI62366.2024.10704009</ee>
+<crossref>conf/sbcci/2024</crossref>
+<url>db/conf/sbcci/sbcci2024.html#KerszPJAKB24</url>
+<stream>streams/conf/sbcci</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/MooriRLB24" mdate="2024-10-30">
+<author pid="348/7524">Marcelo K. Moori</author>
+<author pid="274/6042">Hiago Mayk G. de A. Rocha</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Efficient Thread Tuning for Asymmetric Multicores.</title>
+<pages>1-5</pages>
+<year>2024</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1109/SBCCI62366.2024.10703981</ee>
+<crossref>conf/sbcci/2024</crossref>
+<url>db/conf/sbcci/sbcci2024.html#MooriRLB24</url>
+<stream>streams/conf/sbcci</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/SilvaSKBA24" mdate="2024-10-30">
+<author pid="381/1261">Anderson I. Silva</author>
+<author pid="381/0460">Altamiro Susin</author>
+<author pid="l/FGdLimaKastensmidt">Fernanda L. Kastensmidt</author>
+<author pid="02/7021">Antonio Carlos S. Beck</author>
+<author pid="21/1296">Jos&#233; Rodrigo Azambuja</author>
+<title>NoX: a Compact Open-Source RISC-V Processor for Multi-Processor Systems-on-Chip.</title>
+<pages>1-5</pages>
+<year>2024</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1109/SBCCI62366.2024.10703976</ee>
+<crossref>conf/sbcci/2024</crossref>
+<url>db/conf/sbcci/sbcci2024.html#SilvaSKBA24</url>
+<stream>streams/conf/sbcci</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/VicenziJKKRB24" mdate="2025-03-03">
+<author orcid="0000-0003-3235-9854" pid="274/5895">Julio Costella Vicenzi</author>
+<author pid="206/8272">Michael G. Jordan</author>
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="230/1135">Tiago Knorst</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>TARA: Enhancing Real-Time Network Traffic Classification with Hardware Virtual Layers.</title>
+<pages>1-5</pages>
+<year>2024</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1109/SBCCI62366.2024.10703988</ee>
+<crossref>conf/sbcci/2024</crossref>
+<url>db/conf/sbcci/sbcci2024.html#VicenziJKKRB24</url>
+<stream>streams/conf/sbcci</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/KnorstJKRB24" mdate="2024-12-18">
+<author pid="230/1135">Tiago Knorst</author>
+<author pid="206/8272">Michael Guilherme Jordan</author>
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>An Automatic Framework for Collaborative CPU Thread Throttling and FPGA HLS-Versioning.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC65055.2024.10771920</ee>
+<crossref>conf/sbesc/2024</crossref>
+<url>db/conf/sbesc/sbesc2024.html#KnorstJKRB24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/MachadoJBR24" mdate="2024-12-18">
+<author pid="392/7942">Lucas Rister Machado</author>
+<author pid="206/8272">Michael Guilherme Jordan</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<title>Exploration Tool for Collaborative Provisioning and DVFS in Heterogeneous Cloud Environments.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC65055.2024.10771928</ee>
+<crossref>conf/sbesc/2024</crossref>
+<url>db/conf/sbesc/sbesc2024.html#MachadoJBR24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2406-17878" mdate="2024-10-30">
+<author pid="381/1261">Anderson I. Silva</author>
+<author pid="381/0460">Altamiro Susin</author>
+<author pid="l/FGdLimaKastensmidt">Fernanda L. Kastensmidt</author>
+<author pid="02/7021">Antonio Carlos S. Beck</author>
+<author pid="21/1296">Jos&#233; Rodrigo Azambuja</author>
+<title>NoX: a Compact Open-Source RISC-V Processor for Multi-Processor Systems-on-Chip.</title>
+<year>2024</year>
+<volume>abs/2406.17878</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2406.17878</ee>
+<url>db/journals/corr/corr2406.html#abs-2406-17878</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/concurrency/SerpaCDLBN23" mdate="2023-08-05">
+<author orcid="0000-0001-5178-1036" pid="199/1097">Matheus S. Serpa</author>
+<author orcid="0000-0001-8413-795X" pid="89/10101">Eduardo H. M. Cruz</author>
+<author orcid="0000-0002-9064-7806" pid="09/8557">Matthias Diener</author>
+<author orcid="0000-0002-2412-3027" pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="02/7021">Antonio C. S. Beck</author>
+<author orcid="0000-0002-9957-5861" pid="74/1262">Philippe O. A. Navaux</author>
+<title>Mitigating execution unit contention in parallel applications using instruction-aware mapping.</title>
+<year>2023</year>
+<volume>35</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>17</number>
+<ee>https://doi.org/10.1002/cpe.6819</ee>
+<url>db/journals/concurrency/concurrency35.html#SerpaCDLBN23</url>
+</article>
+</r>
+<r><article key="journals/concurrency/SilvaNLRSLRNBL23" mdate="2024-05-07">
+<author pid="316/4332">Vinicius S. da Silva</author>
+<author pid="352/7476">Angelo Gaspar Diniz Nogueira</author>
+<author pid="352/7319">Everton Camargo de Lima</author>
+<author orcid="0000-0002-0827-0131" pid="274/6042">Hiago Mayk G. de A. Rocha</author>
+<author orcid="0000-0001-5178-1036" pid="199/1097">Matheus S. Serpa</author>
+<author pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio D. Rossi</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-2412-3027" pid="160/4663">Arthur Francisco Lorenzon</author>
+<title>Smart resource allocation of concurrent execution of parallel applications.</title>
+<year>2023</year>
+<volume>35</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>17</number>
+<ee>https://doi.org/10.1002/cpe.6600</ee>
+<url>db/journals/concurrency/concurrency35.html#SilvaNLRSLRNBL23</url>
+</article>
+</r>
+<r><article key="journals/concurrency/MooriRSLB23" mdate="2023-08-05">
+<author orcid="0000-0001-6011-610X" pid="348/7524">Marcelo K. Moori</author>
+<author orcid="0000-0002-0827-0131" pid="274/6042">Hiago Mayk G. de A. Rocha</author>
+<author orcid="0000-0002-7070-1297" pid="210/3788">Janaina Schwarzrock</author>
+<author orcid="0000-0002-2412-3027" pid="160/4663">Arthur Francisco Lorenzon</author>
+<author orcid="0000-0002-4492-1747" pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Improving the efficiency of graph algorithm executions on high-performance computing.</title>
+<year>2023</year>
+<volume>35</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1002/cpe.7419</ee>
+<url>db/journals/concurrency/concurrency35.html#MooriRSLB23</url>
+</article>
+</r>
+<r><article key="journals/dafes/RochaBKMP23" mdate="2024-05-07">
+<author orcid="0000-0002-0827-0131" pid="274/6042">Hiago Mayk G. de A. Rocha</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="94/2009">M&#225;rcio Eduardo Kreutz</author>
+<author pid="132/1589">S&#237;lvia Maria Diniz Monteiro Maia</author>
+<author pid="94/4881">Monica Magalh&#227;es Pereira</author>
+<title>Using evolutionary metaheuristics to solve the mapping and routing problem in networks on chip.</title>
+<pages>51-83</pages>
+<year>2023</year>
+<month>June</month>
+<volume>27</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1007/s10617-023-09269-5</ee>
+<url>db/journals/dafes/dafes27.html#RochaBKMP23</url>
+</article>
+</r>
+<r><article key="journals/dafes/JordanVKKBR23" mdate="2025-03-03">
+<author pid="206/8272">Michael G. Jordan</author>
+<author orcid="0000-0003-3235-9854" pid="274/5895">Julio Costella Vicenzi</author>
+<author pid="230/1135">Tiago Knorst</author>
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<title>Multiprovision: a Design Space Exploration tool for multi-tenant resource provisioning in CPU-GPU environments.</title>
+<pages>241-273</pages>
+<year>2023</year>
+<month>December</month>
+<volume>27</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10617-023-09279-3</ee>
+<url>db/journals/dafes/dafes27.html#JordanVKKBR23</url>
+</article>
+</r>
+<r><article key="journals/dt/MarquesRLBL23" mdate="2023-09-24">
+<author pid="254/9475">Sandro Matheus V. N. Marques</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio Diniz Rossi</author>
+<author orcid="0000-0003-0537-3052" pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author orcid="0000-0002-4492-1747" pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-2412-3027" pid="160/4663">Arthur Francisco Lorenzon</author>
+<title>Seamless Thermal Optimization of Parallel Workloads.</title>
+<pages>34-41</pages>
+<year>2023</year>
+<month>October</month>
+<volume>40</volume>
+<journal>IEEE Des. Test</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MDAT.2023.3286336</ee>
+<url>db/journals/dt/dt40.html#MarquesRLBL23</url>
+</article>
+</r>
+<r><article key="journals/integration/JordanLKRB23" mdate="2023-10-27">
+<author orcid="0000-0002-5776-2626" pid="206/8272">Michael Guilherme Jordan</author>
+<author pid="263/7317">Bernardo Neuhaus Lignati</author>
+<author orcid="0000-0002-9882-5072" pid="188/9062">Guilherme Korol</author>
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>MVSym: Efficient symbiotic exploitation of HLS-kernel multi-versioning for collaborative CPU-FPGA cloud systems.</title>
+<pages>102052</pages>
+<year>2023</year>
+<month>November</month>
+<volume>93</volume>
+<journal>Integr.</journal>
+<ee>https://doi.org/10.1016/j.vlsi.2023.102052</ee>
+<url>db/journals/integration/integration93.html#JordanLKRB23</url>
+</article>
+</r>
+<r><article key="journals/jpdc/JordanKKRB23" mdate="2023-04-24">
+<author pid="206/8272">Michael Guilherme Jordan</author>
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="230/1135">Tiago Knorst</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Energy-aware fully-adaptive resource provisioning in collaborative CPU-FPGA cloud environments.</title>
+<pages>55-69</pages>
+<year>2023</year>
+<month>June</month>
+<volume>176</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<ee>https://doi.org/10.1016/j.jpdc.2023.02.009</ee>
+<url>db/journals/jpdc/jpdc176.html#JordanKKRB23</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/VicenziKJRF23" mdate="2023-06-26">
+<author orcid="0000-0003-3235-9854" pid="274/5895">Julio Costella Vicenzi</author>
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="206/8272">Michael Guilherme Jordan</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck Filho</author>
+<title>Adaptive Inference on Reconfigurable SmartNICs for Traffic Classification.</title>
+<pages>137-148</pages>
+<year>2023</year>
+<booktitle>AINA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-28451-9_12</ee>
+<crossref>conf/aina/2023-2</crossref>
+<url>db/conf/aina/aina2023-2.html#VicenziKJRF23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasip/RubianoKB23" mdate="2023-05-02">
+<author pid="345/7548">Daniel de Oliveira Rubiano</author>
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Adaptive Inference for FPGA-Based 5G Automatic Modulation Classification.</title>
+<pages>95-106</pages>
+<year>2023</year>
+<booktitle>DASIP</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-29970-4_8</ee>
+<crossref>conf/dasip/2023</crossref>
+<url>db/conf/dasip/dasip2023.html#RubianoKB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/KorolJRCB23" mdate="2023-06-07">
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="206/8272">Michael Guilherme Jordan</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="04/5327">Jer&#243;nimo Castrill&#243;n</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Pruning and Early-Exit Co-Optimization for CNN Acceleration on FPGAs.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE56975.2023.10137244</ee>
+<crossref>conf/date/2023</crossref>
+<url>db/conf/date/date2023.html#KorolJRCB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/JordanKKRB23" mdate="2023-09-13">
+<author pid="206/8272">Michael Guilherme Jordan</author>
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="230/1135">Tiago Knorst</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Resource Provisioning for CPU-FPGA Environments with Adaptive HLS-Versioning and DVFS.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI59464.2023.10238639</ee>
+<crossref>conf/isvlsi/2023</crossref>
+<url>db/conf/isvlsi/isvlsi2023.html#JordanKKRB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/KorolJRCB23" mdate="2023-09-13">
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="206/8272">Michael Guilherme Jordan</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="04/5327">Jer&#243;nimo Castrill&#243;n</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Design Space Exploration for CNN Offloading to FPGAs at the Edge.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI59464.2023.10238644</ee>
+<crossref>conf/isvlsi/2023</crossref>
+<url>db/conf/isvlsi/isvlsi2023.html#KorolJRCB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/LorenzonKBB23" mdate="2023-09-13">
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="160/4598">Marcelo Brandalero</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Harnessing the Effects of Process Variability to Mitigate Aging in Cloud Servers.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI59464.2023.10238501</ee>
+<crossref>conf/isvlsi/2023</crossref>
+<url>db/conf/isvlsi/isvlsi2023.html#LorenzonKBB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/VicenziKJMAFRB23" mdate="2025-03-03">
+<author orcid="0000-0003-3235-9854" pid="274/5895">Julio Costella Vicenzi</author>
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="206/8272">Michael G. Jordan</author>
+<author pid="50/5691">Wagner Ourique de Morais</author>
+<author orcid="0000-0003-1342-4227" pid="141/0638">Hazem Ismail Ali</author>
+<author pid="96/3201">Edison Pignaton de Freitas</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Dynamic Offloading for Improved Performance and Energy Efficiency in Heterogeneous IoT-Edge-Cloud Continuum.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI59464.2023.10238564</ee>
+<crossref>conf/isvlsi/2023</crossref>
+<url>db/conf/isvlsi/isvlsi2023.html#VicenziKJMAFRB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/MooriRSSLB23" mdate="2024-05-07">
+<author pid="348/7524">Marcelo K. Moori</author>
+<author orcid="0000-0002-0827-0131" pid="274/6042">Hiago Mayk G. de A. Rocha</author>
+<author pid="348/7526">Matheus A. Silva</author>
+<author pid="210/3788">Janaina Schwarzrock</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Automatic CPU-GPU Allocation for Graph Execution.</title>
+<pages>27-34</pages>
+<year>2023</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP59025.2023.00013</ee>
+<crossref>conf/pdp/2023</crossref>
+<url>db/conf/pdp/pdp2023.html#MooriRSSLB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/MooriRLB23" mdate="2024-05-07">
+<author pid="348/7524">Marcelo K. Moori</author>
+<author orcid="0000-0002-0827-0131" pid="274/6042">Hiago Mayk G. de A. Rocha</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Searching for the Ideal Number of Threads on Asymmetric Multiprocessors.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC60926.2023.10324167</ee>
+<crossref>conf/sbesc/2023</crossref>
+<url>db/conf/sbesc/sbesc2023.html#MooriRLB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/RochaQLB23" mdate="2024-05-07">
+<author orcid="0000-0002-0827-0131" pid="274/6042">Hiago Mayk G. de A. Rocha</author>
+<author pid="08/2158">Vicen&#231; Beltran Querol</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Optimizing Single-Source Graph Execution on NUMA Machines.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC60926.2023.10324068</ee>
+<crossref>conf/sbesc/2023</crossref>
+<url>db/conf/sbesc/sbesc2023.html#RochaQLB23</url>
+</inproceedings>
+</r>
+<r><article key="journals/dafes/KnorstVJAKBR22" mdate="2025-02-05">
+<author orcid="0000-0002-6717-5660" pid="230/1135">Tiago Knorst</author>
+<author orcid="0000-0003-3235-9854" pid="274/5895">Julio Costella Vicenzi</author>
+<author pid="206/8272">Michael G. Jordan</author>
+<author pid="274/6092">Jonathan Homercher de Almeida</author>
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="02/7021">Antonio C. S. Beck</author>
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus B. Rutzig</author>
+<title>An energy efficient multi-target binary translator for instruction and data level parallelism exploitation.</title>
+<pages>55-82</pages>
+<year>2022</year>
+<volume>26</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10617-021-09258-6</ee>
+<url>db/journals/dafes/dafes26.html#KnorstVJAKBR22</url>
+</article>
+</r>
+<r><article key="journals/dt/JordanKKRB22" mdate="2022-12-05">
+<author orcid="0000-0002-5776-2626" pid="206/8272">Michael Guilherme Jordan</author>
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="230/1135">Tiago Knorst</author>
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus Beck Rutzig</author>
+<author orcid="0000-0002-4492-1747" pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>ERIN: Energy-Aware Resource-Provisioning Framework for CPU-FPGA Multitenant Environment.</title>
+<pages>138-146</pages>
+<year>2022</year>
+<volume>39</volume>
+<journal>IEEE Des. Test</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/MDAT.2022.3184634</ee>
+<url>db/journals/dt/dt39.html#JordanKKRB22</url>
+</article>
+</r>
+<r><article key="journals/jsa/MarquesSMRLNBL22" mdate="2025-03-03">
+<author orcid="0000-0001-9297-6729" pid="254/9475">Sandro Matheus V. N. Marques</author>
+<author orcid="0000-0001-5178-1036" pid="199/1097">Matheus S. Serpa</author>
+<author orcid="0000-0002-8317-6022" pid="303/3389">Antoni Navarro Mu&#241;oz</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio D. Rossi</author>
+<author pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author orcid="0000-0002-9957-5861" pid="74/1262">Philippe O. A. Navaux</author>
+<author orcid="0000-0002-4492-1747" pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-4061-1565" pid="160/4663">Arthur Francisco Lorenzon</author>
+<title>Optimizing the EDP of OpenMP applications via concurrency throttling and frequency boosting.</title>
+<pages>102379</pages>
+<year>2022</year>
+<volume>123</volume>
+<journal>J. Syst. Archit.</journal>
+<ee>https://doi.org/10.1016/j.sysarc.2021.102379</ee>
+<url>db/journals/jsa/jsa123.html#MarquesSMRLNBL22</url>
+</article>
+</r>
+<r><inproceedings key="conf/dac/RochaSLB22" mdate="2024-05-07">
+<author orcid="0000-0002-0827-0131" pid="274/6042">Hiago Mayk G. de A. Rocha</author>
+<author pid="210/3788">Janaina Schwarzrock</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Using machine learning to optimize graph execution on NUMA machines.</title>
+<pages>1027-1032</pages>
+<year>2022</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/3489517.3530581</ee>
+<crossref>conf/dac/2022</crossref>
+<url>db/conf/dac/dac2022.html#RochaSLB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/KorolJRB22" mdate="2022-05-25">
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="206/8272">Michael Guilherme Jordan</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>AdaFlow: A Framework for Adaptive Dataflow CNN Acceleration on FPGAs.</title>
+<pages>244-249</pages>
+<year>2022</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE54114.2022.9774727</ee>
+<crossref>conf/date/2022</crossref>
+<url>db/conf/date/date2022.html#KorolJRB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsd/TonettoBN22" mdate="2023-01-09">
+<author pid="218/1106">Rafael Billig Tonetto</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="18/9853">Gabriel L. Nazar</author>
+<title>SNAP: Selective NTV Heterogeneous Architectures for Power-Efficient Edge Computing.</title>
+<pages>357-364</pages>
+<year>2022</year>
+<booktitle>DSD</booktitle>
+<ee>https://doi.org/10.1109/DSD57027.2022.00055</ee>
+<crossref>conf/dsd/2022</crossref>
+<url>db/conf/dsd/dsd2022.html#TonettoBN22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/SchwarzrockRLB22" mdate="2024-05-07">
+<author pid="210/3788">Janaina Schwarzrock</author>
+<author orcid="0000-0002-0827-0131" pid="274/6042">Hiago Mayk G. de A. Rocha</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Smoothing on Dynamic Concurrency Throttling.</title>
+<pages>962-971</pages>
+<year>2022</year>
+<booktitle>IPDPS Workshops</booktitle>
+<ee>https://doi.org/10.1109/IPDPSW55747.2022.00154</ee>
+<crossref>conf/ipps/2022w</crossref>
+<url>db/conf/ipps/ipdps2022w.html#SchwarzrockRLB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/KorolJRB22" mdate="2022-11-17">
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="206/8272">Michael Guilherme Jordan</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>ConfAx: Exploiting Approximate Computing for Configurable FPGA CNN Acceleration at the Edge.</title>
+<pages>1650-1654</pages>
+<year>2022</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS48785.2022.9937676</ee>
+<crossref>conf/iscas/2022</crossref>
+<url>db/conf/iscas/iscas2022.html#KorolJRB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/KnorstKJVLRB22" mdate="2025-03-03">
+<author pid="230/1135">Tiago Knorst</author>
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="206/8272">Michael Guilherme Jordan</author>
+<author orcid="0000-0003-3235-9854" pid="274/5895">Julio Costella Vicenzi</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>On the benefits of Collaborative Thread Throttling and HLS-Versioning in CPU-FPGA Environments.</title>
+<pages>1-6</pages>
+<year>2022</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1109/SBCCI55532.2022.9893223</ee>
+<crossref>conf/sbcci/2022</crossref>
+<url>db/conf/sbcci/sbcci2022.html#KnorstKJVLRB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/MarquesRLBL22" mdate="2023-09-30">
+<author pid="254/9475">Sandro M. Marques</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio D. Rossi</author>
+<author pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<title>Thermal-Aware Thread and Turbo Frequency Throttling Optimization for Parallel Applications.</title>
+<pages>1-6</pages>
+<year>2022</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1109/SBCCI55532.2022.9893245</ee>
+<crossref>conf/sbcci/2022</crossref>
+<url>db/conf/sbcci/sbcci2022.html#MarquesRLBL22</url>
+</inproceedings>
+</r>
+<r><article key="journals/dafes/SchwarzrockJKOL21" mdate="2021-06-15">
+<author orcid="0000-0002-7070-1297" pid="210/3788">Janaina Schwarzrock</author>
+<author pid="206/8272">Michael Guilherme Jordan</author>
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="239/6802">Charles Cardoso De Oliveira</author>
+<author orcid="0000-0002-2412-3027" pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<author orcid="0000-0002-4492-1747" pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Dynamic concurrency throttling on NUMA systems and data migration impacts.</title>
+<pages>135-160</pages>
+<year>2021</year>
+<volume>25</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10617-020-09243-5</ee>
+<url>db/journals/dafes/dafes25.html#SchwarzrockJKOL21</url>
+</article>
+</r>
+<r><article key="journals/esl/MedeirosBNRLBHB21" mdate="2022-05-17">
+<author orcid="0000-0001-6326-1783" pid="254/9502">Thiarles S. Medeiros</author>
+<author pid="265/2461">Gustavo P. Berned</author>
+<author pid="291/5758">Antoni C. Navarro</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio D. Rossi</author>
+<author orcid="0000-0003-0537-3052" pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author pid="160/4598">Marcelo Brandalero</author>
+<author pid="56/2900">Michael H&#252;bner 0001</author>
+<author orcid="0000-0002-4492-1747" pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-2412-3027" pid="160/4663">Arthur Francisco Lorenzon</author>
+<title>Aging-Aware Parallel Execution.</title>
+<pages>122-125</pages>
+<year>2021</year>
+<volume>13</volume>
+<journal>IEEE Embed. Syst. Lett.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/LES.2020.3021854</ee>
+<url>db/journals/esl/esl13.html#MedeirosBNRLBHB21</url>
+</article>
+</r>
+<r><article key="journals/ijpp/SantosLMABC21" mdate="2021-04-09">
+<author orcid="0000-0001-8555-2637" pid="125/2570">Paulo C. Santos 0001</author>
+<author pid="156/5239">Jo&#227;o Paulo Cardoso de Lima</author>
+<author pid="175/5762">Rafael F&#227;o de Moura</author>
+<author orcid="0000-0003-2440-2664" pid="47/7939">Marco A. Z. Alves</author>
+<author pid="02/7021">Antonio C. S. Beck</author>
+<author pid="25/5214">Luigi Carro</author>
+<title>Enabling Near-Data Accelerators Adoption by Through Investigation of Datapath Solutions.</title>
+<pages>237-252</pages>
+<year>2021</year>
+<volume>49</volume>
+<journal>Int. J. Parallel Program.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10766-020-00674-y</ee>
+<url>db/journals/ijpp/ijpp49.html#SantosLMABC21</url>
+</article>
+</r>
+<r><article key="journals/jpdc/SouzaBB21" mdate="2021-06-15">
+<author orcid="0000-0003-4242-893X" pid="171/6262">Jeckson Dellagostin Souza</author>
+<author orcid="0000-0001-5947-1913" pid="210/3763">Pedro Henrique Exenberger Becker</author>
+<author orcid="0000-0002-4492-1747" pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Improving multitask performance and energy consumption with partial-ISA multicores.</title>
+<pages>1-14</pages>
+<year>2021</year>
+<volume>153</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<ee>https://doi.org/10.1016/j.jpdc.2021.02.007</ee>
+<url>db/journals/jpdc/jpdc153.html#SouzaBB21</url>
+</article>
+</r>
+<r><article key="journals/jpdc/MedeirosPRLBL21" mdate="2021-07-29">
+<author pid="254/9502">Thiarles S. Medeiros</author>
+<author pid="255/2776">Luan Pereira</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio Diniz Rossi</author>
+<author pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author orcid="0000-0002-4492-1747" pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-2412-3027" pid="160/4663">Arthur Francisco Lorenzon</author>
+<title>Mitigating the processor aging through dynamic concurrency throttling.</title>
+<pages>86-100</pages>
+<year>2021</year>
+<volume>156</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<ee>https://doi.org/10.1016/j.jpdc.2021.05.006</ee>
+<url>db/journals/jpdc/jpdc156.html#MedeirosPRLBL21</url>
+</article>
+</r>
+<r><article key="journals/jsa/BernedRLSBL21" mdate="2024-10-06">
+<author pid="265/2461">Gustavo Berned</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio Diniz Rossi</author>
+<author pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author orcid="0000-0001-8747-4580" pid="96/303">Samuel Xavier de Souza</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-4061-1565" pid="160/4663">Arthur Francisco Lorenzon</author>
+<title>Low learning-cost offline strategies for EDP optimization of parallel applications.</title>
+<pages>101959</pages>
+<year>2021</year>
+<volume>114</volume>
+<journal>J. Syst. Archit.</journal>
+<ee>https://doi.org/10.1016/j.sysarc.2020.101959</ee>
+<url>db/journals/jsa/jsa114.html#BernedRLSBL21</url>
+</article>
+</r>
+<r><article key="journals/tc/BrandaleroCBS21" mdate="2021-01-09">
+<author orcid="0000-0002-0012-7023" pid="160/4598">Marcelo Brandalero</author>
+<author pid="25/5214">Luigi Carro</author>
+<author orcid="0000-0002-4492-1747" pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-2607-8135" pid="s/MuhammadShafique">Muhammad Shafique 0001</author>
+<title>Multi-Target Adaptive Reconfigurable Acceleration for Low-Power IoT Processing.</title>
+<pages>83-98</pages>
+<year>2021</year>
+<volume>70</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TC.2020.2984736</ee>
+<url>db/journals/tc/tc70.html#BrandaleroCBS21</url>
+</article>
+</r>
+<r><article key="journals/tcasII/JordanKRB21" mdate="2021-05-16">
+<author orcid="0000-0002-5776-2626" pid="206/8272">Michael Guilherme Jordan</author>
+<author pid="188/9062">Guilherme Korol</author>
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus Beck Rutzig</author>
+<author orcid="0000-0002-4492-1747" pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Resource-Aware Collaborative Allocation for CPU-FPGA Cloud Environments.</title>
+<pages>1655-1659</pages>
+<year>2021</year>
+<volume>68</volume>
+<journal>IEEE Trans. Circuits Syst. II Express Briefs</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TCSII.2021.3066309</ee>
+<url>db/journals/tcasII/tcasII68.html#JordanKRB21</url>
+</article>
+</r>
+<r><article key="journals/tecs/KorolJRB21" mdate="2025-01-19">
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="206/8272">Michael Guilherme Jordan</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Synergistically Exploiting CNN Pruning and HLS Versioning for Adaptive Inference on Multi-FPGAs at the Edge.</title>
+<pages>59:1-59:26</pages>
+<year>2021</year>
+<volume>20</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>5s</number>
+<ee>https://doi.org/10.1145/3476990</ee>
+<ee>https://www.wikidata.org/entity/Q130957664</ee>
+<url>db/journals/tecs/tecs20.html#KorolJRB21</url>
+</article>
+</r>
+<r><article key="journals/tpds/SchwarzrockORLB21" mdate="2021-03-02">
+<author orcid="0000-0002-7070-1297" pid="210/3788">Janaina Schwarzrock</author>
+<author orcid="0000-0001-9724-616X" pid="239/6802">Charles Cardoso De Oliveira</author>
+<author pid="86/7006">Marcus Ritt</author>
+<author orcid="0000-0002-2412-3027" pid="160/4663">Arthur Francisco Lorenzon</author>
+<author orcid="0000-0002-4492-1747" pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>A Runtime and Non-Intrusive Approach to Optimize EDP by Tuning Threads and CPU Frequency for OpenMP Applications.</title>
+<pages>1713-1724</pages>
+<year>2021</year>
+<volume>32</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TPDS.2020.3046537</ee>
+<url>db/journals/tpds/tpds32.html#SchwarzrockORLB21</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/LignatiJKRB21" mdate="2025-01-19">
+<author pid="263/7317">Bernardo Neuhaus Lignati</author>
+<author pid="206/8272">Michael Guilherme Jordan</author>
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Exploiting HLS-Generated Multi-Version Kernels to Improve CPU-FPGA Cloud Systems.</title>
+<pages>536-541</pages>
+<year>2021</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1145/3394885.3431557</ee>
+<ee>https://www.wikidata.org/entity/Q130844472</ee>
+<crossref>conf/aspdac/2021</crossref>
+<url>db/conf/aspdac/aspdac2021.html#LignatiJKRB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/MarquesMRLBL21" mdate="2023-09-30">
+<author pid="254/9475">Sandro M. Marques</author>
+<author pid="254/9502">Thiarles S. Medeiros</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio Diniz Rossi</author>
+<author pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<title>Synergically Rebalancing Parallel Execution via DCT and Turbo Boosting.</title>
+<pages>277-282</pages>
+<year>2021</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1109/DAC18074.2021.9586201</ee>
+<crossref>conf/dac/2021</crossref>
+<url>db/conf/dac/dac2021.html#MarquesMRLBL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lascas/ToledoMMRLBL21" mdate="2023-09-30">
+<author pid="296/1425">Mariana C. Toledo</author>
+<author pid="254/9475">Sandro M. Marques</author>
+<author pid="254/9502">Thiarles S. Medeiros</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio Diniz Rossi</author>
+<author pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<title>EDP Optimization of Parallel Applications via CPU Frequency Scaling on AMD Processors.</title>
+<pages>1-4</pages>
+<year>2021</year>
+<booktitle>LASCAS</booktitle>
+<ee>https://doi.org/10.1109/LASCAS51355.2021.9459181</ee>
+<crossref>conf/lascas/2021</crossref>
+<url>db/conf/lascas/lascas2021.html#ToledoMMRLBL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/MarquesMSRLNBL21" mdate="2023-09-30">
+<author pid="254/9475">Sandro M. Marques</author>
+<author pid="254/9502">Thiarles S. Medeiros</author>
+<author pid="199/1097">Matheus S. Serpa</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio D. Rossi</author>
+<author pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<title>Optimizing Parallel Applications via Dynamic Concurrency Throttling and Turbo Boosting.</title>
+<pages>153-160</pages>
+<year>2021</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP52278.2021.00032</ee>
+<crossref>conf/pdp/2021</crossref>
+<url>db/conf/pdp/pdp2021.html#MarquesMSRLNBL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/RochaSLB21" mdate="2024-05-07">
+<author orcid="0000-0002-0827-0131" pid="274/6042">Hiago Mayk G. de A. Rocha</author>
+<author pid="210/3788">Janaina Schwarzrock</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Boosting Graph Analytics by Tuning Threads and Data Affinity on NUMA Systems.</title>
+<pages>161-168</pages>
+<year>2021</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP52278.2021.00033</ee>
+<crossref>conf/pdp/2021</crossref>
+<url>db/conf/pdp/pdp2021.html#RochaSLB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/BernedMSRLNBL21" mdate="2023-09-30">
+<author pid="265/2461">Gustavo P. Berned</author>
+<author pid="254/9502">Thiarles S. Medeiros</author>
+<author pid="199/1097">Matheus S. Serpa</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio D. Rossi</author>
+<author pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<title>Combining Thread Throttling and Mapping to Optimize the EDP of Parallel Applications.</title>
+<pages>177-180</pages>
+<year>2021</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP52278.2021.00035</ee>
+<crossref>conf/pdp/2021</crossref>
+<url>db/conf/pdp/pdp2021.html#BernedMSRLNBL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/JordanKRB21" mdate="2022-01-04">
+<author pid="206/8272">Michael Guilherme Jordan</author>
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>FAIR: Fully-Adaptive Framework for Improving Resource Provisioning in Collaborative CPU-FPGA Cloud Environments.</title>
+<pages>147-156</pages>
+<year>2021</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD53543.2021.00026</ee>
+<crossref>conf/sbac-pad/2021</crossref>
+<url>db/conf/sbac-pad/sbac-pad2021.html#JordanKRB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/KnorstJLRB21" mdate="2025-02-05">
+<author pid="230/1135">Tiago Knorst</author>
+<author pid="206/8272">Michael G. Jordan</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>ETCF - Energy-Aware CPU Thread Throttling and Workload Balancing Framework for CPU-FPGA Collaborative Environments.</title>
+<pages>1-8</pages>
+<year>2021</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC53686.2021.9628345</ee>
+<crossref>conf/sbesc/2021</crossref>
+<url>db/conf/sbesc/sbesc2021.html#KnorstJLRB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/SilvestreFB21" mdate="2023-09-30">
+<author orcid="0009-0008-6604-781X" pid="308/6160">Iago de Oliveira Silvestre</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck Filho</author>
+<author pid="24/3796">Leandro Buss Becker</author>
+<title>Using gem5 Simulator to Support Design Space Exploration Targeting ARM Architecture.</title>
+<pages>1-8</pages>
+<year>2021</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC53686.2021.9628199</ee>
+<crossref>conf/sbesc/2021</crossref>
+<url>db/conf/sbesc/sbesc2021.html#SilvestreFB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/VicenziKJKBR21" mdate="2025-02-05">
+<author orcid="0000-0003-3235-9854" pid="274/5895">Julio Costella Vicenzi</author>
+<author pid="230/1135">Tiago Knorst</author>
+<author pid="206/8272">Michael G. Jordan</author>
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<title>TRIPP: Transparent Resource Provisioning for Multi-Tenant CPU-GPU based Cloud Environments.</title>
+<pages>1-8</pages>
+<year>2021</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC53686.2021.9628223</ee>
+<crossref>conf/sbesc/2021</crossref>
+<url>db/conf/sbesc/sbesc2021.html#VicenziKJKBR21</url>
+</inproceedings>
+</r>
+<r><article key="journals/dafes/JordanBMOLSCRB20" mdate="2025-02-05">
+<author orcid="0000-0002-5776-2626" pid="206/8272">Michael G. Jordan</author>
+<author pid="160/4598">Marcelo Brandalero</author>
+<author pid="239/6838">Guilherme Meneguzzi Malfatti</author>
+<author pid="197/9584">Geraldo F. Oliveira</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="13/3791">Mateus B. Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Data clustering for efficient approximate computing.</title>
+<pages>3-22</pages>
+<year>2020</year>
+<volume>24</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10617-019-09228-z</ee>
+<ee>https://www.wikidata.org/entity/Q126827486</ee>
+<url>db/journals/dafes/dafes24.html#JordanBMOLSCRB20</url>
+</article>
+</r>
+<r><inproceedings key="conf/dac/BrandaleroLB0H20" mdate="2021-04-28">
+<author pid="160/4598">Marcelo Brandalero</author>
+<author pid="263/7317">Bernardo Neuhaus Lignati</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-2607-8135" pid="s/MuhammadShafique">Muhammad Shafique 0001</author>
+<author pid="56/2900">Michael H&#252;bner 0001</author>
+<title>Proactive Aging Mitigation in CGRAs through Utilization-Aware Allocation.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1109/DAC18072.2020.9218586</ee>
+<crossref>conf/dac/2020</crossref>
+<url>db/conf/dac/dac2020.html#BrandaleroLB0H20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/SouzaMPB20" mdate="2020-10-14">
+<author pid="171/6262">Jeckson Dellagostin Souza</author>
+<author pid="45/7618">Madhavan Manivannan</author>
+<author pid="29/5335">Miquel Peric&#224;s</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Enhancing Thread-Level Parallelism in Asymmetric Multicores using Transparent Instruction Offloading.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1109/DAC18072.2020.9218614</ee>
+<crossref>conf/dac/2020</crossref>
+<url>db/conf/dac/dac2020.html#SouzaMPB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/TonettoRNB20" mdate="2024-05-07">
+<author pid="218/1106">Rafael Billig Tonetto</author>
+<author orcid="0000-0002-0827-0131" pid="274/6042">Hiago Mayk G. de A. Rocha</author>
+<author pid="18/9853">Gabriel L. Nazar</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>A Machine Learning Approach for Reliability-Aware Application Mapping for Heterogeneous Multicores.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1109/DAC18072.2020.9218543</ee>
+<crossref>conf/dac/2020</crossref>
+<url>db/conf/dac/dac2020.html#TonettoRNB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/SouzaMPB20" mdate="2020-06-25">
+<author pid="171/6262">Jeckson Dellagostin Souza</author>
+<author pid="45/7618">Madhavan Manivannan</author>
+<author pid="29/5335">Miquel Peric&#224;s</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Enhancing Multithreaded Performance of Asymmetric Multicores with SIMD Offloading.</title>
+<pages>967-970</pages>
+<year>2020</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE48585.2020.9116466</ee>
+<crossref>conf/date/2020</crossref>
+<url>db/conf/date/date2020.html#SouzaMPB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/BeckerSB20" mdate="2020-06-25">
+<author pid="210/3763">Pedro Henrique Exenberger Becker</author>
+<author pid="171/6262">Jeckson Dellagostin Souza</author>
+<author pid="02/7021">Antonio C. S. Beck</author>
+<title>Tuning the ISA for increased heterogeneous computation in MPSoCs.</title>
+<pages>1722-1727</pages>
+<year>2020</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE48585.2020.9116547</ee>
+<crossref>conf/date/2020</crossref>
+<url>db/conf/date/date2020.html#BeckerSB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/KorolJBHRB20" mdate="2021-04-28">
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="206/8272">Michael Guilherme Jordan</author>
+<author pid="160/4598">Marcelo Brandalero</author>
+<author pid="56/2900">Michael H&#252;bner 0001</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>MCEA: A Resource-Aware Multicore CGRA Architecture for the Edge.</title>
+<pages>33-39</pages>
+<year>2020</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL50879.2020.00017</ee>
+<crossref>conf/fpl/2020</crossref>
+<url>db/conf/fpl/fpl2020.html#KorolJBHRB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpcc/MedeirosSNRLBL20" mdate="2023-09-30">
+<author pid="254/9502">Thiarles S. Medeiros</author>
+<author pid="210/3788">Janaina Schwarzrock</author>
+<author pid="291/5758">Antoni C. Navarro</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio Diniz Rossi</author>
+<author pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<title>An Application-Driven Approach to Mitigate Aging by Tuning the TLP and Allocation Strategies.</title>
+<pages>155-162</pages>
+<year>2020</year>
+<booktitle>HPCC/DSS/SmartCity</booktitle>
+<ee>https://doi.org/10.1109/HPCC-SmartCity-DSS50907.2020.00020</ee>
+<crossref>conf/hpcc/2020</crossref>
+<url>db/conf/hpcc/hpcc2020.html#MedeirosSNRLBL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpcc/SchwarzrockRBL20" mdate="2024-05-07">
+<author pid="210/3788">Janaina Schwarzrock</author>
+<author orcid="0000-0002-0827-0131" pid="274/6042">Hiago Mayk G. de A. Rocha</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<title>Effective Exploration of Thread Throttling and Thread/Page Mapping on NUMA Systems.</title>
+<pages>239-246</pages>
+<year>2020</year>
+<booktitle>HPCC/DSS/SmartCity</booktitle>
+<ee>https://doi.org/10.1109/HPCC-SmartCity-DSS50907.2020.00030</ee>
+<crossref>conf/hpcc/2020</crossref>
+<url>db/conf/hpcc/hpcc2020.html#SchwarzrockRBL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/TonettoRZBN20" mdate="2021-09-25">
+<author pid="218/1106">Rafael Billig Tonetto</author>
+<author pid="274/6042">Hiago Mayk G. de A. Rocha</author>
+<author pid="33/2753">Bruno Zatt</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="18/9853">Gabriel L. Nazar</author>
+<title>A Reliability-Oriented Machine Learning Strategy for Heterogeneous Multicore Application Mapping.</title>
+<pages>1-5</pages>
+<year>2020</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS45731.2020.9180472</ee>
+<crossref>conf/iscas/2020</crossref>
+<url>db/conf/iscas/iscas2020.html#TonettoRZBN20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/BernedRLBL20" mdate="2023-09-30">
+<author pid="265/2461">Gustavo Berned</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio Diniz Rossi</author>
+<author pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<title>Decreasing the Learning Cost of Offline Parallel Application Optimization Strategies.</title>
+<pages>144-151</pages>
+<year>2020</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP50117.2020.00028</ee>
+<crossref>conf/pdp/2020</crossref>
+<url>db/conf/pdp/pdp2020.html#BernedRLBL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/FaccendaGBR20" mdate="2023-12-17">
+<author orcid="0009-0005-9919-6369" pid="239/6825">Rafael Follmann Faccenda</author>
+<author orcid="0000-0002-3691-4264" pid="274/6062">Carlos Gabriel de Araujo Gewehr</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="13/3791">Mateus B. Rutzig</author>
+<title>Maximizing Throughput-per-Joule of a Hybrid Communication Infrastructure Through a Software-Hardware based DVFS Mechanism.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1109/SBCCI50935.2020.9189924</ee>
+<crossref>conf/sbcci/2020</crossref>
+<url>db/conf/sbcci/sbcci2020.html#FaccendaGBR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/KnorstVJAKBR20" mdate="2022-04-09">
+<author pid="230/1135">Tiago Knorst</author>
+<author orcid="0000-0003-3235-9854" pid="274/5895">Julio Costella Vicenzi</author>
+<author pid="206/8272">Michael Guilherme Jordan</author>
+<author pid="274/6092">Jonathan Homercher de Almeida</author>
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<title>Unlocking the Full Potential of Heterogeneous Accelerators by Using a Hybrid Multi-Target Binary Translator.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1109/SBCCI50935.2020.9189922</ee>
+<crossref>conf/sbcci/2020</crossref>
+<url>db/conf/sbcci/sbcci2020.html#KnorstVJAKBR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/RochaKJKSVNNCB20" mdate="2025-05-31">
+<author orcid="0000-0002-0827-0131" pid="274/6042">Hiago Rocha</author>
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="206/8272">Michael G. Jordan</author>
+<author pid="209/7028">Arthur M. Krause</author>
+<author pid="274/6096">Ronaldo Silveira</author>
+<author orcid="0000-0001-5581-5184" pid="265/3018">Caio Vieira</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<author pid="18/9853">Gabriel L. Nazar</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Firefly: An Open-source Rocket-based Intermittent Framework.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1109/SBCCI50935.2020.9189926</ee>
+<crossref>conf/sbcci/2020</crossref>
+<url>db/conf/sbcci/sbcci2020.html#RochaKJKSVNNCB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/SilvaKJBHPRB20" mdate="2021-04-28">
+<author pid="259/0236">Raul Silveira Silva</author>
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="206/8272">Michael Guilherme Jordan</author>
+<author pid="160/4598">Marcelo Brandalero</author>
+<author pid="56/2900">Michael H&#252;bner 0001</author>
+<author pid="94/4881">Monica Magalh&#227;es Pereira</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>A Management Technique for Concurrent Access to a Reconfigurable Accelerator.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1109/SBCCI50935.2020.9189927</ee>
+<crossref>conf/sbcci/2020</crossref>
+<url>db/conf/sbcci/sbcci2020.html#SilvaKJBHPRB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/RochaBMKP20" mdate="2024-05-07">
+<author orcid="0000-0002-0827-0131" pid="274/6042">Hiago Mayk G. de A. Rocha</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="132/1589">S&#237;lvia M. D. M. Maia</author>
+<author pid="94/2009">M&#225;rcio Eduardo Kreutz</author>
+<author pid="94/4881">Monica Magalh&#227;es Pereira</author>
+<title>A Routing based Genetic Algorithm for Task Mapping on MPSoC.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC51047.2020.9277843</ee>
+<crossref>conf/sbesc/2020</crossref>
+<url>db/conf/sbesc/sbesc2020.html#RochaBMKP20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-10470" mdate="2021-04-28">
+<author pid="160/4598">Marcelo Brandalero</author>
+<author pid="263/7317">Bernardo Neuhaus Lignati</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="s/MuhammadShafique">Muhammad Shafique 0001</author>
+<author pid="56/2900">Michael H&#252;bner 0001</author>
+<title>Proactive Aging Mitigation in CGRAs through Utilization-Aware Allocation.</title>
+<year>2020</year>
+<volume>abs/2004.10470</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.10470</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-10470</url>
+</article>
+</r>
+<r><book key="series/sbcs/LorenzonF19" mdate="2019-11-08">
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck Filho</author>
+<title>Parallel Computing Hits the Power Wall - Principles, Challenges, and a Survey of Solutions</title>
+<publisher>Springer</publisher>
+<year>2019</year>
+<pages>1-80</pages>
+<series href="db/series/sbcs/index.html">Springer Briefs in Computer Science</series>
+<isbn>978-3-030-28718-4</isbn>
+<ee>https://doi.org/10.1007/978-3-030-28719-1</ee>
+</book>
+</r>
+<r><article key="journals/dafes/SartorBB19" mdate="2025-01-19">
+<author orcid="0000-0003-1759-2762" pid="160/4673">Anderson Luiz Sartor</author>
+<author pid="210/3763">Pedro Henrique Exenberger Becker</author>
+<author pid="02/7021">Antonio C. S. Beck</author>
+<title>A fast and accurate hybrid fault injection platform for transient and permanent faults.</title>
+<pages>3-19</pages>
+<year>2019</year>
+<volume>23</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1007/s10617-018-9217-0</ee>
+<ee>https://www.wikidata.org/entity/Q128850230</ee>
+<url>db/journals/dafes/dafes23.html#SartorBB19</url>
+</article>
+</r>
+<r><article key="journals/jsa/BrandaleroSCB19" mdate="2025-01-19">
+<author orcid="0000-0002-0012-7023" pid="160/4598">Marcelo Brandalero</author>
+<author pid="251/7029">Thiago Dadalt Souto</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Predicting performance in multi-core systems with shared reconfigurable accelerators.</title>
+<pages>201-213</pages>
+<year>2019</year>
+<volume>98</volume>
+<journal>J. Syst. Archit.</journal>
+<ee>https://doi.org/10.1016/j.sysarc.2019.07.010</ee>
+<ee>https://www.wikidata.org/entity/Q127459512</ee>
+<url>db/journals/jsa/jsa98.html#BrandaleroSCB19</url>
+</article>
+</r>
+<r><article key="journals/mam/SantosLMAABC19" mdate="2025-01-19">
+<author pid="125/2570">Paulo Cesar Santos 0001</author>
+<author pid="156/5239">Jo&#227;o Paulo C. de Lima</author>
+<author pid="175/5762">Rafael Fao de Moura</author>
+<author pid="229/6444">Hameeza Ahmed</author>
+<author orcid="0000-0003-2440-2664" pid="47/7939">Marco A. Z. Alves</author>
+<author pid="02/7021">Antonio C. S. Beck</author>
+<author pid="25/5214">Luigi Carro</author>
+<title>A Technologically Agnostic Framework for Cyber-Physical and IoT Processing-in-Memory-based Systems Simulation.</title>
+<pages>101-111</pages>
+<year>2019</year>
+<volume>69</volume>
+<journal>Microprocess. Microsystems</journal>
+<ee>https://doi.org/10.1016/j.micpro.2019.06.002</ee>
+<ee>https://www.wikidata.org/entity/Q127714701</ee>
+<url>db/journals/mam/mam69.html#SantosLMAABC19</url>
+</article>
+</r>
+<r><article key="journals/tpds/LorenzonOSB19" mdate="2025-01-19">
+<author orcid="0000-0002-2412-3027" pid="160/4663">Arthur Francisco Lorenzon</author>
+<author orcid="0000-0001-9724-616X" pid="239/6802">Charles Cardoso De Oliveira</author>
+<author orcid="0000-0003-4242-893X" pid="171/6262">Jeckson Dellagostin Souza</author>
+<author orcid="0000-0002-4492-1747" pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Aurora: Seamless Optimization of OpenMP Applications.</title>
+<pages>1007-1021</pages>
+<year>2019</year>
+<volume>30</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TPDS.2018.2872992</ee>
+<ee>https://www.wikidata.org/entity/Q129106498</ee>
+<url>db/journals/tpds/tpds30.html#LorenzonOSB19</url>
+</article>
+</r>
+<r><inproceedings key="conf/arc/LimaSMABC19" mdate="2021-04-09">
+<author pid="156/5239">Jo&#227;o Paulo C. de Lima</author>
+<author pid="125/2570">Paulo C. Santos 0001</author>
+<author pid="175/5762">Rafael Fao de Moura</author>
+<author orcid="0000-0003-2440-2664" pid="47/7939">Marco A. Z. Alves</author>
+<author pid="02/7021">Antonio C. S. Beck</author>
+<author pid="25/5214">Luigi Carro</author>
+<title>Exploiting Reconfigurable Vector Processing for Energy-Efficient Computation in 3D-Stacked Memories.</title>
+<pages>262-276</pages>
+<year>2019</year>
+<booktitle>ARC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-17227-5_19</ee>
+<crossref>conf/arc/2019</crossref>
+<url>db/conf/arc/arc2019.html#LimaSMABC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/AhmedSLMABC19" mdate="2021-04-09">
+<author pid="229/6444">Hameeza Ahmed</author>
+<author pid="125/2570">Paulo C. Santos 0001</author>
+<author pid="156/5239">Jo&#227;o Paulo C. de Lima</author>
+<author pid="175/5762">Rafael F&#227;o de Moura</author>
+<author orcid="0000-0003-2440-2664" pid="47/7939">Marco A. Z. Alves</author>
+<author pid="02/7021">Antonio C. S. Beck</author>
+<author pid="25/5214">Luigi Carro</author>
+<title>A Compiler for Automatic Selection of Suitable Processing-in-Memory Instructions.</title>
+<pages>564-569</pages>
+<year>2019</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2019.8714956</ee>
+<crossref>conf/date/2019</crossref>
+<url>db/conf/date/date2019.html#AhmedSLMABC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/Brandalero0CB19" mdate="2020-12-29">
+<author orcid="0000-0002-0012-7023" pid="160/4598">Marcelo Brandalero</author>
+<author orcid="0000-0002-2607-8135" pid="s/MuhammadShafique">Muhammad Shafique 0001</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>TransRec: Improving Adaptability in Single-ISA Heterogeneous Systems with Transparent and Reconfigurable Acceleration.</title>
+<pages>582-585</pages>
+<year>2019</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2019.8715121</ee>
+<crossref>conf/date/2019</crossref>
+<url>db/conf/date/date2019.html#Brandalero0CB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/CardosoTBANAB19" mdate="2020-02-03">
+<author pid="254/9481">Douglas Maciel Cardoso</author>
+<author pid="218/1106">Rafael Billig Tonetto</author>
+<author pid="160/4598">Marcelo Brandalero</author>
+<author pid="80/5216">Luciano Agostini</author>
+<author pid="18/9853">Gabriel L. Nazar</author>
+<author pid="21/1296">Jos&#233; Rodrigo Azambuja</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Improving Software-based Techniques for Soft Error Mitigation in OoO Superscalar Processors.</title>
+<pages>201-204</pages>
+<year>2019</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS46596.2019.8964749</ee>
+<crossref>conf/icecsys/2019</crossref>
+<url>db/conf/icecsys/icecsys2019.html#CardosoTBANAB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/KorolJBRB19" mdate="2020-02-04">
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="206/8272">Michael Guilherme Jordan</author>
+<author pid="160/4598">Marcelo Brandalero</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Power-Aware Phase Oriented Reconfigurable Architecture.</title>
+<pages>626-629</pages>
+<year>2019</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS46596.2019.8965011</ee>
+<crossref>conf/icecsys/2019</crossref>
+<url>db/conf/icecsys/icecsys2019.html#KorolJBRB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/BraatzBZAPP19" mdate="2020-09-05">
+<author pid="257/5121">Luciano Almeida Braatz</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="33/2753">Bruno Zatt</author>
+<author pid="80/5216">Luciano Volcan Agostini</author>
+<author orcid="0000-0003-0409-8335" pid="49/7554">Daniel Munari Palomino</author>
+<author pid="44/1063">Marcelo Schiavon Porto</author>
+<title>A New Hardware Friendly 2D-DCT HEVC Compliant Algorithm and its High Throughput and Low Power Hardware Design.</title>
+<pages>654-657</pages>
+<year>2019</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS46596.2019.8965063</ee>
+<crossref>conf/icecsys/2019</crossref>
+<url>db/conf/icecsys/icecsys2019.html#BraatzBZAPP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/BeckerSB19" mdate="2020-02-03">
+<author pid="210/3763">Pedro Henrique Exenberger Becker</author>
+<author pid="171/6262">Jeckson Dellagostin Souza</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Increasing MPSoCs design space with partial-ISA processors.</title>
+<pages>678-681</pages>
+<year>2019</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS46596.2019.8964683</ee>
+<crossref>conf/icecsys/2019</crossref>
+<url>db/conf/icecsys/icecsys2019.html#BeckerSB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/VieiraSMCFLLFRN19" mdate="2022-06-23">
+<author pid="244/7699">&#194;ngelo Nery Crestani Vieira</author>
+<author pid="198/8009">Paulo Silas Severo de Souza</author>
+<author pid="198/8075">Wagner dos Santos Marques</author>
+<author pid="209/2930">Marcelo Da Silva Conterato</author>
+<author pid="78/3004">Tiago Coelho Ferreto</author>
+<author pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck Filho</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio Diniz Rossi</author>
+<author orcid="0000-0001-6809-6393" pid="19/510">Jorji Nonaka</author>
+<title>The Impact of Parallel Programming Interfaces on the Aging of a Multicore Embedded Processor.</title>
+<pages>1-5</pages>
+<year>2019</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2019.8702116</ee>
+<crossref>conf/iscas/2019</crossref>
+<url>db/conf/iscas/iscas2019.html#VieiraSMCFLLFRN19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/SartorBWMB19" mdate="2019-09-24">
+<author pid="160/4673">Anderson Luiz Sartor</author>
+<author pid="210/3763">Pedro Henrique Exenberger Becker</author>
+<author pid="12/4142">Stephan Wong</author>
+<author pid="88/3494">Radu Marculescu</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Machine Learning-Based Processor Adaptability Targeting Energy, Performance, and Reliability.</title>
+<pages>158-163</pages>
+<year>2019</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2019.00037</ee>
+<crossref>conf/isvlsi/2019</crossref>
+<url>db/conf/isvlsi/isvlsi2019.html#SartorBWMB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/KorolJSPBRB19" mdate="2020-02-27">
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="206/8272">Michael Guilherme Jordan</author>
+<author pid="259/0236">Raul Silveira Silva</author>
+<author pid="94/4881">Monica Magalh&#227;es Pereira</author>
+<author pid="160/4598">Marcelo Brandalero</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>A Runtime Power-Aware Phase Predictor for CGRAs.</title>
+<pages>1-8</pages>
+<year>2019</year>
+<booktitle>ReConFig</booktitle>
+<ee>https://doi.org/10.1109/ReConFig48160.2019.8994802</ee>
+<crossref>conf/reconfig/2019</crossref>
+<url>db/conf/reconfig/reconfig2019.html#KorolJSPBRB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/MouraSLABC19" mdate="2021-04-09">
+<author pid="175/5762">Rafael F&#227;o de Moura</author>
+<author pid="125/2570">Paulo C. Santos 0001</author>
+<author pid="156/5239">Jo&#227;o Paulo C. de Lima</author>
+<author orcid="0000-0003-2440-2664" pid="47/7939">Marco A. Z. Alves</author>
+<author pid="02/7021">Antonio C. S. Beck</author>
+<author pid="25/5214">Luigi Carro</author>
+<title>Skipping CNN Convolutions Through Efficient Memoization.</title>
+<pages>65-76</pages>
+<year>2019</year>
+<booktitle>SAMOS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-27562-4_5</ee>
+<crossref>conf/samos/2019</crossref>
+<url>db/conf/samos/samos2019.html#MouraSLABC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/MedeirosPRLBL19" mdate="2022-06-23">
+<author orcid="0000-0001-6326-1783" pid="254/9502">Thiarles S. Medeiros</author>
+<author pid="255/2776">Luan Pereira</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio D. Rossi</author>
+<author pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<title>Transparent Aging-Aware Thread Throttling.</title>
+<pages>1-8</pages>
+<year>2019</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2019.00014</ee>
+<crossref>conf/sbac-pad/2019</crossref>
+<url>db/conf/sbac-pad/sbac-pad2019.html#MedeirosPRLBL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/SouzaF19" mdate="2019-12-19">
+<author pid="171/6262">Jeckson Dellagostin Souza</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck Filho</author>
+<title>Trimming the ISA to Optimize Area and EDP in Heterogeneous CMPs.</title>
+<pages>17-24</pages>
+<year>2019</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2019.00016</ee>
+<crossref>conf/sbac-pad/2019</crossref>
+<url>db/conf/sbac-pad/sbac-pad2019.html#SouzaF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/LopesBBP19" mdate="2020-04-02">
+<author pid="121/0099">Alba Sandyra Bezerra Lopes</author>
+<author pid="160/4598">Marcelo Brandalero</author>
+<author pid="02/7021">Antonio C. S. Beck</author>
+<author pid="94/4881">Monica Magalh&#227;es Pereira</author>
+<title>Generating Optimized Multicore Accelerator Architectures.</title>
+<pages>1-8</pages>
+<year>2019</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC49506.2019.9046083</ee>
+<crossref>conf/sbesc/2019</crossref>
+<url>db/conf/sbesc/sbesc2019.html#LopesBBP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/SchwarzrockJKOL19" mdate="2020-04-02">
+<author pid="210/3788">Janaina Schwarzrock</author>
+<author pid="206/8272">Michael Guilherme Jordan</author>
+<author pid="188/9062">Guilherme Korol</author>
+<author pid="239/6802">Charles Cardoso De Oliveira</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>On the influence of Data Migration in Dynamic Thread Management of Parallel Applications.</title>
+<pages>1-8</pages>
+<year>2019</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC49506.2019.9046096</ee>
+<crossref>conf/sbesc/2019</crossref>
+<url>db/conf/sbesc/sbesc2019.html#SchwarzrockJKOL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi/MarquesMRLGBL19" mdate="2023-05-16">
+<author pid="254/9475">Sandro Matheus V. N. Marques</author>
+<author orcid="0000-0001-6326-1783" pid="254/9502">Thiarles S. Medeiros</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio Diniz Rossi</author>
+<author pid="140/8276">Marcelo Caggiani Luizelli</author>
+<author pid="56/3286">Alessandro Gon&#231;alves Girardi</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<title>The Impact of Turbo Frequency on the Energy, Performance, and Aging of Parallel Applications.</title>
+<pages>149-154</pages>
+<year>2019</year>
+<booktitle>VLSI-SoC</booktitle>
+<ee>https://doi.org/10.1109/VLSI-SoC.2019.8920389</ee>
+<crossref>conf/vlsi/2019</crossref>
+<url>db/conf/vlsi/vlsisoc2019.html#MarquesMRLGBL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi/TonettoCBANAB19" mdate="2019-12-13">
+<author pid="218/1106">Rafael Billig Tonetto</author>
+<author pid="254/9481">Douglas Maciel Cardoso</author>
+<author pid="160/4598">Marcelo Brandalero</author>
+<author pid="80/5216">Luciano Agostini</author>
+<author pid="18/9853">Gabriel L. Nazar</author>
+<author pid="21/1296">Jos&#233; Rodrigo Azambuja</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>A Knapsack Methodology for Hardware-based DMR Protection against Soft Errors in Superscalar Out-of-Order Processors.</title>
+<pages>287-292</pages>
+<year>2019</year>
+<booktitle>VLSI-SoC</booktitle>
+<ee>https://doi.org/10.1109/VLSI-SoC.2019.8920350</ee>
+<crossref>conf/vlsi/2019</crossref>
+<url>db/conf/vlsi/vlsisoc2019.html#TonettoCBANAB19</url>
+</inproceedings>
+</r>
+<r><article key="journals/mam/BeckerSBB18" mdate="2020-02-22">
+<author orcid="0000-0001-5947-1913" pid="210/3763">Pedro Henrique Exenberger Becker</author>
+<author pid="160/4673">Anderson Luiz Sartor</author>
+<author orcid="0000-0002-0012-7023" pid="160/4598">Marcelo Brandalero</author>
+<author orcid="0000-0002-4492-1747" pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>BRAM-based function reuse for multi-core architectures in FPGAs.</title>
+<pages>237-248</pages>
+<year>2018</year>
+<volume>63</volume>
+<journal>Microprocess. Microsystems</journal>
+<ee>https://doi.org/10.1016/j.micpro.2018.09.007</ee>
+<url>db/journals/mam/mam63.html#BeckerSBB18</url>
+</article>
+</r>
+<r><article key="journals/scp/BrandaleroSSB18" mdate="2018-10-03">
+<author orcid="0000-0002-0012-7023" pid="160/4598">Marcelo Brandalero</author>
+<author pid="193/9955">Leonardo Almeida da Silveira</author>
+<author pid="171/6262">Jeckson Dellagostin Souza</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Accelerating error-tolerant applications with approximate function reuse.</title>
+<pages>54-67</pages>
+<year>2018</year>
+<volume>165</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee>https://doi.org/10.1016/j.scico.2017.05.003</ee>
+<url>db/journals/scp/scp165.html#BrandaleroSSB18</url>
+</article>
+</r>
+<r><article key="journals/tmscs/SartorBHWB18" mdate="2020-09-02">
+<author orcid="0000-0003-1759-2762" pid="160/4673">Anderson Luiz Sartor</author>
+<author orcid="0000-0001-5947-1913" pid="210/3763">Pedro Henrique Exenberger Becker</author>
+<author pid="173/8964">Joost Hoozemans</author>
+<author pid="12/4142">Stephan Wong</author>
+<author pid="02/7021">Antonio C. S. Beck</author>
+<title>Dynamic Trade-off among Fault Tolerance, Energy Consumption, and Performance on a Multiple-Issue VLIW Processor.</title>
+<pages>327-339</pages>
+<year>2018</year>
+<volume>4</volume>
+<journal>IEEE Trans. Multi Scale Comput. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TMSCS.2017.2760299</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TMSCS.2017.2760299</ee>
+<url>db/journals/tmscs/tmscs4.html#SartorBHWB18</url>
+</article>
+</r>
+<r><inproceedings key="conf/arc/ErichsenSSPWB18" mdate="2018-05-05">
+<author orcid="0000-0001-5049-8159" pid="218/2801">Augusto G. Erichsen</author>
+<author orcid="0000-0003-1759-2762" pid="160/4673">Anderson Luiz Sartor</author>
+<author orcid="0000-0003-4242-893X" pid="171/6262">Jeckson Dellagostin Souza</author>
+<author orcid="0000-0002-6580-1250" pid="94/4881">Monica Magalh&#227;es Pereira</author>
+<author pid="12/4142">Stephan Wong</author>
+<author orcid="0000-0002-4492-1747" pid="02/7021">Antonio C. S. Beck</author>
+<title>ISA-DTMR: Selective Protection in Configurable Heterogeneous Multicores.</title>
+<pages>231-242</pages>
+<year>2018</year>
+<booktitle>ARC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-78890-6_19</ee>
+<crossref>conf/arc/2018</crossref>
+<url>db/conf/arc/arc2018.html#ErichsenSSPWB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arc/MouraJBR18" mdate="2019-09-25">
+<author pid="175/5762">Rafael F&#227;o de Moura</author>
+<author pid="206/8272">Michael Guilherme Jordan</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus Beck Rutzig</author>
+<title>Exploiting Partial Reconfiguration on a Dynamic Coarse Grained Reconfigurable Architecture.</title>
+<pages>355-366</pages>
+<year>2018</year>
+<booktitle>ARC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-78890-6_29</ee>
+<crossref>conf/arc/2018</crossref>
+<url>db/conf/arc/arc2018.html#MouraJBR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arc/SouzaSCRWB18" mdate="2019-09-25">
+<author orcid="0000-0003-4242-893X" pid="171/6262">Jeckson Dellagostin Souza</author>
+<author orcid="0000-0003-1759-2762" pid="160/4673">Anderson Luiz Sartor</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="12/4142">Stephan Wong</author>
+<author orcid="0000-0002-4492-1747" pid="02/7021">Antonio C. S. Beck</author>
+<title>DIM-VEX: Exploiting Design Time Configurability and Runtime Reconfigurability.</title>
+<pages>367-378</pages>
+<year>2018</year>
+<booktitle>ARC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-78890-6_30</ee>
+<crossref>conf/arc/2018</crossref>
+<url>db/conf/arc/arc2018.html#SouzaSCRWB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arc/BeckerSBJWCB18" mdate="2018-05-05">
+<author orcid="0000-0001-5947-1913" pid="210/3763">Pedro Henrique Exenberger Becker</author>
+<author orcid="0000-0003-1759-2762" pid="160/4673">Anderson Luiz Sartor</author>
+<author orcid="0000-0002-0012-7023" pid="160/4598">Marcelo Brandalero</author>
+<author orcid="0000-0002-0601-7247" pid="190/5124">Tiago Trevisan Jost</author>
+<author pid="12/4142">Stephan Wong</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<author orcid="0000-0002-4492-1747" pid="02/7021">Antonio C. S. Beck</author>
+<title>A Low-Cost BRAM-Based Function Reuse for Configurable Soft-Core Processors in FPGAs.</title>
+<pages>499-510</pages>
+<year>2018</year>
+<booktitle>ARC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-78890-6_40</ee>
+<crossref>conf/arc/2018</crossref>
+<url>db/conf/arc/arc2018.html#BeckerSBJWCB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cf/SartorLKKB18" mdate="2018-11-21">
+<author pid="160/4673">Anderson Luiz Sartor</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="84/1396">Sandip Kundu</author>
+<author pid="26/6860">Israel Koren</author>
+<author pid="02/7021">Antonio C. S. Beck</author>
+<title>Adaptive and polymorphic VLIW processor to optimize fault tolerance, energy consumption, and performance.</title>
+<pages>54-61</pages>
+<year>2018</year>
+<booktitle>CF</booktitle>
+<ee>https://doi.org/10.1145/3203217.3203238</ee>
+<crossref>conf/cf/2018</crossref>
+<url>db/conf/cf/cf2018.html#SartorLKKB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cf/LimaSABC18" mdate="2021-06-12">
+<author pid="156/5239">Jo&#227;o Paulo C. de Lima</author>
+<author pid="125/2570">Paulo C. Santos 0001</author>
+<author orcid="0000-0003-2440-2664" pid="47/7939">Marco A. Z. Alves</author>
+<author pid="02/7021">Antonio C. S. Beck</author>
+<author pid="25/5214">Luigi Carro</author>
+<title>Design space exploration for PIM architectures in 3D-stacked memories.</title>
+<pages>113-120</pages>
+<year>2018</year>
+<booktitle>CF</booktitle>
+<ee>https://doi.org/10.1145/3203217.3203280</ee>
+<crossref>conf/cf/2018</crossref>
+<url>db/conf/cf/cf2018.html#LimaSABC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/OliveiraGBBC18" mdate="2025-03-03">
+<author orcid="0000-0003-1557-4819" pid="197/9584">Geraldo F. Oliveira</author>
+<author pid="221/2862">Larissa Rozales Gon&#231;alves</author>
+<author orcid="0000-0002-0012-7023" pid="160/4598">Marcelo Brandalero</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="25/5214">Luigi Carro</author>
+<title>Employing classification-based algorithms for general-purpose approximate computing.</title>
+<pages>70:1-70:6</pages>
+<year>2018</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/3195970.3196043</ee>
+<ee>https://doi.org/10.1109/DAC.2018.8465822</ee>
+<crossref>conf/dac/2018</crossref>
+<url>db/conf/dac/dac2018.html#OliveiraGBBC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/BrandaleroCBS18" mdate="2020-12-29">
+<author orcid="0000-0002-0012-7023" pid="160/4598">Marcelo Brandalero</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-2607-8135" pid="s/MuhammadShafique">Muhammad Shafique 0001</author>
+<title>Approximate on-the-fly coarse-grained reconfigurable acceleration for general-purpose applications.</title>
+<pages>160:1-160:6</pages>
+<year>2018</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/3195970.3195993</ee>
+<ee>https://doi.org/10.1109/DAC.2018.8465930</ee>
+<crossref>conf/dac/2018</crossref>
+<url>db/conf/dac/dac2018.html#BrandaleroCBS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/TonettoNB18" mdate="2018-04-24">
+<author pid="218/1106">Rafael Billig Tonetto</author>
+<author pid="18/9853">Gabriel L. Nazar</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Precise evaluation of the fault sensitivity of OoO superscalar processors.</title>
+<pages>613-616</pages>
+<year>2018</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2018.8342082</ee>
+<crossref>conf/date/2018</crossref>
+<url>db/conf/date/date2018.html#TonettoNB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/SantosOLACB18" mdate="2021-04-09">
+<author pid="125/2570">Paulo C. Santos 0001</author>
+<author pid="197/9584">Geraldo F. Oliveira</author>
+<author pid="156/5239">Jo&#227;o Paulo C. de Lima</author>
+<author orcid="0000-0003-2440-2664" pid="47/7939">Marco A. Z. Alves</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="02/7021">Antonio C. S. Beck</author>
+<title>Processing in 3D memories to speed up operations on complex data structures.</title>
+<pages>897-900</pages>
+<year>2018</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2018.8342135</ee>
+<crossref>conf/date/2018</crossref>
+<url>db/conf/date/date2018.html#SantosOLACB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esweek/SantosLMAABC18" mdate="2022-10-28">
+<author pid="125/2570">Paulo Cesar Santos 0001</author>
+<author pid="156/5239">Jo&#227;o Paulo C. de Lima</author>
+<author pid="175/5762">Rafael F&#227;o de Moura</author>
+<author pid="229/6444">Hameeza Ahmed</author>
+<author orcid="0000-0003-2440-2664" pid="47/7939">Marco A. Z. Alves</author>
+<author pid="02/7021">Antonio C. S. Beck</author>
+<author pid="25/5214">Luigi Carro</author>
+<title>Exploring IoT platform with technologically agnostic processing-in-memory framework.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>INTESA@ESWEEK</booktitle>
+<ee>https://doi.org/10.1145/3285017.3285020</ee>
+<crossref>conf/esweek/2018intesa</crossref>
+<url>db/conf/esweek/intesa2018.html#SantosLMAABC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/BrandaleroMOSGS18" mdate="2019-04-30">
+<author pid="160/4598">Marcelo Brandalero</author>
+<author pid="239/6838">Guilherme Meneguzzi Malfatti</author>
+<author pid="197/9584">Geraldo Francisco Oliveira</author>
+<author pid="193/9955">Leonardo Almeida da Silveira</author>
+<author pid="221/2862">Larissa Rozales Gon&#231;alves</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Efficient Local Memory Support for Approximate Computing.</title>
+<pages>122-129</pages>
+<year>2018</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2018.00026</ee>
+<crossref>conf/sbesc/2018</crossref>
+<url>db/conf/sbesc/sbesc2018.html#BrandaleroMOSGS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/OliveiraLB18" mdate="2019-04-29">
+<author pid="239/6802">Charles Cardoso De Oliveira</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Automatic Tuning TLP and DVFS for EDP with a Non-intrusive Genetic Algorithm Framework.</title>
+<pages>146-153</pages>
+<year>2018</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2018.00029</ee>
+<crossref>conf/sbesc/2018</crossref>
+<url>db/conf/sbesc/sbesc2018.html#OliveiraLB18</url>
+</inproceedings>
+</r>
+<r><article key="journals/dafes/BritoF17" mdate="2024-02-29">
+<author pid="35/5746">Alisson Vasconcelos de Brito</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck Filho</author>
+<title>Special issue with selected papers from 2016 Brazilian Symposium on Computer Engineering (SBESC 2016).</title>
+<pages>137</pages>
+<year>2017</year>
+<volume>21</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>3-4</number>
+<ee type="oa">https://doi.org/10.1007/s10617-017-9194-8</ee>
+<url>db/journals/dafes/dafes21.html#BritoF17</url>
+</article>
+</r>
+<r><article key="journals/ijhpsa/SartorB17" mdate="2020-03-24">
+<author pid="160/4673">Anderson Luiz Sartor</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Multi-architecture profiler for Android.</title>
+<pages>41-55</pages>
+<year>2017</year>
+<volume>7</volume>
+<journal>Int. J. High Perform. Syst. Archit.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1504/IJHPSA.2017.10004517</ee>
+<url>db/journals/ijhpsa/ijhpsa7.html#SartorB17</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/LorenzonSB17" mdate="2017-08-14">
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="171/6262">Jeckson Dellagostin Souza</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>LAANT: A library to automatically optimize EDP for OpenMP applications.</title>
+<pages>1229-1232</pages>
+<year>2017</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2017.7927176</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3130668</ee>
+<crossref>conf/date/2017</crossref>
+<url>db/conf/date/date2017.html#LorenzonSB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/BrandaleroB17" mdate="2019-09-25">
+<author orcid="0000-0002-0012-7023" pid="160/4598">Marcelo Brandalero</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>A Mechanism for energy-efficient reuse of decoding and scheduling of x86 instruction streams.</title>
+<pages>1468-1473</pages>
+<year>2017</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2017.7927223</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3130724</ee>
+<crossref>conf/date/2017</crossref>
+<url>db/conf/date/date2017.html#BrandaleroB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/MarquesSLBRR17" mdate="2022-06-23">
+<author pid="198/8075">Wagner dos Santos Marques</author>
+<author pid="198/8009">Paulo Silas Severo de Souza</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus Beck Rutzig</author>
+<author orcid="0000-0002-2450-1024" pid="128/5117">F&#225;bio Diniz Rossi</author>
+<title>Improving EDP in multi-core embedded systems through multidimensional frequency scaling.</title>
+<pages>1-4</pages>
+<year>2017</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2017.8050515</ee>
+<crossref>conf/iscas/2017</crossref>
+<url>db/conf/iscas/iscas2017.html#MarquesSLBRR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/SfreddoMJSBR17" mdate="2019-09-25">
+<author pid="206/8070">Josimar Sfreddo</author>
+<author pid="175/5762">Rafael Fao de Moura</author>
+<author pid="206/8272">Michael Guilherme Jordan</author>
+<author pid="171/6262">Jeckson Dellagostin Souza</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus Beck Rutzig</author>
+<title>A framework to automatically generate heterogeneous organization reconfigurable multiprocessing.</title>
+<pages>1-4</pages>
+<year>2017</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2017.8050438</ee>
+<crossref>conf/iscas/2017</crossref>
+<url>db/conf/iscas/iscas2017.html#SfreddoMJSBR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/SchwarzrockLNBF17" mdate="2023-03-23">
+<author pid="210/3788">Janaina Schwarzrock</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0003-4655-8889" pid="96/3201">Edison Pignaton de Freitas</author>
+<title>Potential Gains in EDP by Dynamically Adapting the Number of Threads for OpenMP Applications in Embedded Systems.</title>
+<pages>79-85</pages>
+<year>2017</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2017.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2017.17</ee>
+<crossref>conf/sbesc/2017</crossref>
+<url>db/conf/sbesc/sbesc2017.html#SchwarzrockLNBF17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/SartorBB17" mdate="2023-03-23">
+<author pid="160/4673">Anderson Luiz Sartor</author>
+<author pid="210/3763">Pedro Henrique Exenberger Becker</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Simbah-FI: Simulation-Based Hybrid Fault Injector.</title>
+<pages>94-101</pages>
+<year>2017</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2017.19</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2017.19</ee>
+<crossref>conf/sbesc/2017</crossref>
+<url>db/conf/sbesc/sbesc2017.html#SartorBB17</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/arc/2017" mdate="2019-05-14">
+<editor pid="12/4142">Stephan Wong</editor>
+<editor pid="02/7021">Antonio Carlos Schneider Beck</editor>
+<editor pid="84/2198">Koen Bertels</editor>
+<editor pid="25/5214">Luigi Carro</editor>
+<title>Applied Reconfigurable Computing - 13th International Symposium, ARC 2017, Delft, The Netherlands, April 3-7, 2017, Proceedings</title>
+<booktitle>ARC</booktitle>
+<year>2017</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>10216</volume>
+<isbn>978-3-319-56257-5</isbn>
+<isbn>978-3-319-56258-2</isbn>
+<ee>https://doi.org/10.1007/978-3-319-56258-2</ee>
+<url>db/conf/arc/arc2017.html</url>
+</proceedings>
+</r>
+<r><article key="journals/dafes/BrandaleroB16" mdate="2020-10-02">
+<author orcid="0000-0002-0012-7023" pid="160/4598">Marcelo Brandalero</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Potential analysis of a superscalar core employing a reconfigurable array for improving instruction-level parallelism.</title>
+<pages>155-169</pages>
+<year>2016</year>
+<volume>20</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10617-016-9174-4</ee>
+<url>db/journals/dafes/dafes20.html#BrandaleroB16</url>
+</article>
+</r>
+<r><article key="journals/jetc/SartorLCKWB16" mdate="2020-06-08">
+<author pid="160/4673">Anderson L. Sartor</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="25/5214">Luigi Carro</author>
+<author orcid="0000-0001-5767-8582" pid="l/FGdLimaKastensmidt">Fernanda Lima Kastensmidt</author>
+<author pid="12/4142">Stephan Wong</author>
+<author pid="02/7021">Antonio C. S. Beck</author>
+<title>Exploiting Idle Hardware to Provide Low Overhead Fault Tolerance for VLIW Processors.</title>
+<pages>13:1-13:21</pages>
+<year>2016</year>
+<volume>13</volume>
+<journal>ACM J. Emerg. Technol. Comput. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3001935</ee>
+<url>db/journals/jetc/jetc13.html#SartorLCKWB16</url>
+</article>
+</r>
+<r><article key="journals/jpdc/LorenzonCB16" mdate="2020-02-22">
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="35/2207">M&#225;rcia Cristina Cera</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Investigating different general-purpose and embedded multicores to achieve optimal trade-offs between performance and energy.</title>
+<pages>107-123</pages>
+<year>2016</year>
+<volume>95</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<ee>https://doi.org/10.1016/j.jpdc.2016.04.003</ee>
+<url>db/journals/jpdc/jpdc95.html#LorenzonCB16</url>
+</article>
+</r>
+<r><inproceedings key="conf/arc/SouzaCCRB16" mdate="2019-09-25">
+<author pid="171/6262">Jeckson Dellagostin Souza</author>
+<author pid="177/3257">Jo&#227;o Victor Gomes Cachola</author>
+<author pid="25/5214">Luigi Carro</author>
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Evaluating Schedulers in a Reconfigurable Multicore Heterogeneous System.</title>
+<pages>261-272</pages>
+<year>2016</year>
+<booktitle>ARC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-30481-6_21</ee>
+<crossref>conf/arc/2016</crossref>
+<url>db/conf/arc/arc2016.html#SouzaCCRB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asap/SartorWB16" mdate="2023-03-24">
+<author pid="160/4673">Anderson Luiz Sartor</author>
+<author pid="12/4142">Stephan Wong</author>
+<author pid="02/7021">Antonio C. S. Beck</author>
+<title>Adaptive ILP control to increase fault tolerance for VLIW processors.</title>
+<pages>9-16</pages>
+<year>2016</year>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.2016.7760767</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ASAP.2016.7760767</ee>
+<crossref>conf/asap/2016</crossref>
+<url>db/conf/asap/asap2016.html#SartorWB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/SouzaCRB16" mdate="2021-08-09">
+<author pid="171/6262">Jeckson Dellagostin Souza</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>A reconfigurable heterogeneous multicore with a homogeneous ISA.</title>
+<pages>1598-1603</pages>
+<year>2016</year>
+<booktitle>DATE</booktitle>
+<ee>https://ieeexplore.ieee.org/document/7459568/</ee>
+<crossref>conf/date/2016</crossref>
+<url>db/conf/date/date2016.html#SouzaCRB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/GuoSBBZW16" mdate="2021-08-09">
+<author pid="67/398">Qi Guo</author>
+<author pid="160/4673">Anderson Luiz Sartor</author>
+<author pid="40/9035">Anthony Brandon</author>
+<author pid="02/7021">Antonio C. S. Beck</author>
+<author pid="53/2969">Xuehai Zhou</author>
+<author pid="12/4142">Stephan Wong</author>
+<title>Run-time phase prediction for a reconfigurable VLIW processor.</title>
+<pages>1634-1639</pages>
+<year>2016</year>
+<booktitle>DATE</booktitle>
+<ee>https://ieeexplore.ieee.org/document/7459574/</ee>
+<crossref>conf/date/2016</crossref>
+<url>db/conf/date/date2016.html#GuoSBBZW16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/GiraldoCWB16" mdate="2023-08-02">
+<author pid="176/6369">Juan Sebastian Piedrahita Giraldo</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="12/4142">Stephan Wong</author>
+<author pid="02/7021">Antonio C. S. Beck</author>
+<title>Leveraging Compiler Support on VLIW Processors for Efficient Power Gating.</title>
+<pages>502-507</pages>
+<year>2016</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2016.70</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISVLSI.2016.70</ee>
+<crossref>conf/isvlsi/2016</crossref>
+<url>db/conf/isvlsi/isvlsi2016.html#GiraldoCWB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/MouraSCBR16" mdate="2023-03-24">
+<author pid="175/5762">Rafael Fao de Moura</author>
+<author pid="171/6262">Jeckson Dellagostin Souza</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus Beck Rutzig</author>
+<title>The Impact of Heterogeneity on a Reconfigurable Multicore System.</title>
+<pages>701-706</pages>
+<year>2016</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2016.67</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISVLSI.2016.67</ee>
+<crossref>conf/isvlsi/2016</crossref>
+<url>db/conf/isvlsi/isvlsi2016.html#MouraSCBR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/MagalhaesSLNB16" mdate="2023-03-23">
+<author pid="193/9988">Guilherme Grunewald Magalhaes</author>
+<author pid="160/4673">Anderson Luiz Sartor</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>How Programming Languages and Paradigms Affect Performance and Energy in Multithreaded Applications.</title>
+<pages>71-78</pages>
+<year>2016</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2016.019</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2016.019</ee>
+<crossref>conf/sbesc/2016</crossref>
+<url>db/conf/sbesc/sbesc2016.html#MagalhaesSLNB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/SilveiraBSB16" mdate="2023-03-23">
+<author pid="193/9955">Leonardo Almeida da Silveira</author>
+<author orcid="0000-0002-0012-7023" pid="160/4598">Marcelo Brandalero</author>
+<author pid="171/6262">Jeckson Dellagostin de Souza</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>The Potential of Accelerating Image-Processing Applications by Using Approximate Function Reuse.</title>
+<pages>122-127</pages>
+<year>2016</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2016.026</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2016.026</ee>
+<crossref>conf/sbesc/2016</crossref>
+<url>db/conf/sbesc/sbesc2016.html#SilveiraBSB16</url>
+</inproceedings>
+</r>
+<r><article key="journals/dafes/CapellaBCB15" mdate="2020-10-02">
+<author pid="160/4622">Fernanda M. Capella</author>
+<author orcid="0000-0002-0012-7023" pid="160/4598">Marcelo Brandalero</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>A multiple-ISA reconfigurable architecture.</title>
+<pages>329-344</pages>
+<year>2015</year>
+<volume>19</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10617-015-9159-8</ee>
+<url>db/journals/dafes/dafes19.html#CapellaBCB15</url>
+</article>
+</r>
+<r><article key="journals/iet-cdt/RutzigBC15" mdate="2020-07-14">
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="25/5214">Luigi Carro</author>
+<title>Adaptive and dynamic reconfigurable multiprocessor system to improve software productivity.</title>
+<pages>63-72</pages>
+<year>2015</year>
+<volume>9</volume>
+<journal>IET Comput. Digit. Tech.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1049/iet-cdt.2014.0072</ee>
+<url>db/journals/iet-cdt/iet-cdt9.html#RutzigBC15</url>
+</article>
+</r>
+<r><article key="journals/vlsisp/LorenzonCB15" mdate="2020-03-12">
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="35/2207">M&#225;rcia Cristina Cera</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Performance and Energy Evaluation of Different Multi-Threading Interfaces in Embedded and General Purpose Systems.</title>
+<pages>295-307</pages>
+<year>2015</year>
+<volume>80</volume>
+<journal>J. Signal Process. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11265-014-0925-9</ee>
+<url>db/journals/vlsisp/vlsisp80.html#LorenzonCB15</url>
+</article>
+</r>
+<r><inproceedings key="conf/compsac/LorenzonSCB15" mdate="2023-03-24">
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="160/4673">Anderson Luiz Sartor</author>
+<author pid="35/2207">M&#225;rcia C. Cera</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>The Influence of Parallel Programming Interfaces on Multicore Embedded Systems.</title>
+<pages>617-625</pages>
+<year>2015</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2015.119</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/COMPSAC.2015.119</ee>
+<crossref>conf/compsac/2015</crossref>
+<url>db/conf/compsac/compsac2015.html#LorenzonSCB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/compsac/SartorLB15" mdate="2023-03-24">
+<author pid="160/4673">Anderson Luiz Sartor</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>The Impact of Virtual Machines on Embedded Systems.</title>
+<pages>626-631</pages>
+<year>2015</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2015.90</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/COMPSAC.2015.90</ee>
+<crossref>conf/compsac/2015</crossref>
+<url>db/conf/compsac/compsac2015.html#SartorLB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/LorenzonCB15" mdate="2017-05-26">
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="35/2207">M&#225;rcia C. Cera</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>On the influence of static power consumption in multicore embedded systems.</title>
+<pages>1374-1377</pages>
+<year>2015</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2015.7168898</ee>
+<crossref>conf/iscas/2015</crossref>
+<url>db/conf/iscas/iscas2015.html#LorenzonCB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/LorenzonSCB15" mdate="2023-03-24">
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="160/4673">Anderson Luiz Sartor</author>
+<author pid="35/2207">M&#225;rcia C. Cera</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Optimized Use of Parallel Programming Interfaces in Multithreaded Embedded Architectures.</title>
+<pages>410-415</pages>
+<year>2015</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2015.85</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISVLSI.2015.85</ee>
+<crossref>conf/isvlsi/2015</crossref>
+<url>db/conf/isvlsi/isvlsi2015.html#LorenzonSCB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/SartorLCKWB15" mdate="2023-03-24">
+<author pid="160/4673">Anderson Luiz Sartor</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="25/5214">Luigi Carro</author>
+<author orcid="0000-0001-5767-8582" pid="l/FGdLimaKastensmidt">Fernanda Gusm&#227;o de Lima Kastensmidt</author>
+<author pid="12/4142">Stephan Wong</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>A Novel Phase-Based Low Overhead Fault Tolerance Approach for VLIW Processors.</title>
+<pages>485-490</pages>
+<year>2015</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2015.19</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISVLSI.2015.19</ee>
+<crossref>conf/isvlsi/2015</crossref>
+<url>db/conf/isvlsi/isvlsi2015.html#SartorLCKWB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/LoKB15" mdate="2023-03-24">
+<author pid="66/7435">Thiago Berticelli Lo</author>
+<author orcid="0000-0001-5767-8582" pid="l/FGdLimaKastensmidt">Fernanda Lima Kastensmidt</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Using Configurable Bit-Width Voters to Mask Multiple Errors in Integrated Circuits.</title>
+<pages>533-538</pages>
+<year>2015</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2015.65</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISVLSI.2015.65</ee>
+<crossref>conf/isvlsi/2015</crossref>
+<url>db/conf/isvlsi/isvlsi2015.html#LoKB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/BrandonHSLSBW15" mdate="2020-10-25">
+<author pid="40/9035">Anthony Brandon</author>
+<author pid="173/8964">Joost Hoozemans</author>
+<author orcid="0000-0002-5610-2511" pid="175/4609">Jeroen van Straten</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="160/4673">Anderson Luiz Sartor</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="12/4142">Stephan Wong</author>
+<title>A sparse VLIW instruction encoding scheme compatible with generic binaries.</title>
+<pages>1-7</pages>
+<year>2015</year>
+<booktitle>ReConFig</booktitle>
+<ee>https://doi.org/10.1109/ReConFig.2015.7393361</ee>
+<crossref>conf/reconfig/2015</crossref>
+<url>db/conf/reconfig/reconfig2015.html#BrandonHSLSBW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/GiraldoSCWB15" mdate="2023-08-02">
+<author pid="176/6369">Juan Sebastian Piedrahita Giraldo</author>
+<author pid="160/4673">Anderson Luiz Sartor</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="12/4142">Stephan Wong</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Evaluation of energy savings on a VLIW processor through dynamic issue-width adaptation.</title>
+<pages>11-17</pages>
+<year>2015</year>
+<booktitle>RSP</booktitle>
+<ee>https://doi.org/10.1109/RSP.2015.7416540</ee>
+<crossref>conf/rsp/2015</crossref>
+<url>db/conf/rsp/rsp2015.html#GiraldoSCWB15</url>
+</inproceedings>
+</r>
+<r><article key="journals/mam/BeckRC14" mdate="2020-02-22">
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="25/5214">Luigi Carro</author>
+<title>A transparent and adaptive reconfigurable system.</title>
+<pages>509-524</pages>
+<year>2014</year>
+<volume>38</volume>
+<journal>Microprocess. Microsystems</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/j.micpro.2014.03.004</ee>
+<url>db/journals/mam/mam38.html#BeckRC14</url>
+</article>
+</r>
+<r><inproceedings key="conf/dft/LoKB14" mdate="2023-03-24">
+<author pid="66/7435">Thiago Berticelli Lo</author>
+<author orcid="0000-0001-5767-8582" pid="l/FGdLimaKastensmidt">Fernanda Lima Kastensmidt</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Towards an adaptable bit-width NMR voter for multiple error masking.</title>
+<pages>258-263</pages>
+<year>2014</year>
+<booktitle>DFT</booktitle>
+<ee>https://doi.org/10.1109/DFT.2014.6962095</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DFT.2014.6962095</ee>
+<crossref>conf/dft/2014</crossref>
+<url>db/conf/dft/dft2014.html#LoKB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/BrandaleroB14" mdate="2023-03-23">
+<author orcid="0000-0002-0012-7023" pid="160/4598">Marcelo Brandalero</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Potential of Using a Reconfigurable System on a Superscalar Core for ILP Improvements.</title>
+<pages>43-48</pages>
+<year>2014</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2014.19</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2014.19</ee>
+<crossref>conf/sbesc/2014</crossref>
+<url>db/conf/sbesc/sbesc2014.html#BrandaleroB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/LoCB14" mdate="2023-03-23">
+<author pid="66/7435">Thiago Berticelli Lo</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Hardware Virtualization on Coarse-Grained Reconfigurable Architectures.</title>
+<pages>55-60</pages>
+<year>2014</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2014.29</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2014.29</ee>
+<crossref>conf/sbesc/2014</crossref>
+<url>db/conf/sbesc/sbesc2014.html#LoCB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/SouzaCRB14" mdate="2023-03-23">
+<author pid="171/6262">Jeckson Dellagostin Souza</author>
+<author pid="25/5214">Luigi Carro</author>
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Towards a Dynamic and Reconfigurable Multicore Heterogeneous System.</title>
+<pages>73-78</pages>
+<year>2014</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2014.21</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2014.21</ee>
+<crossref>conf/sbesc/2014</crossref>
+<url>db/conf/sbesc/sbesc2014.html#SouzaCRB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/FilhoCDB14" mdate="2023-03-23">
+<author pid="171/6202">Heitor Boeira dos Reis Filho</author>
+<author pid="65/7445">Ulisses Brisolara Corr&#234;a</author>
+<author pid="53/6206">Lucio Mauro Duarte</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Analysis of the Impact of Refactorings on the Performance of Embedded Systems.</title>
+<pages>97-102</pages>
+<year>2014</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2014.22</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2014.22</ee>
+<crossref>conf/sbesc/2014</crossref>
+<url>db/conf/sbesc/sbesc2014.html#FilhoCDB14</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsa/JuniorRCB13" mdate="2020-02-24">
+<author pid="06/9299">Jair Fajardo Junior</author>
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus B. Rutzig</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Towards a multiple-ISA embedded system.</title>
+<pages>103-119</pages>
+<year>2013</year>
+<volume>59</volume>
+<journal>J. Syst. Archit.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.sysarc.2012.10.001</ee>
+<url>db/journals/jsa/jsa59.html#JuniorRCB13</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/RutzigBC13" mdate="2017-05-23">
+<author pid="13/3791">Mateus B. Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="25/5214">Luigi Carro</author>
+<title>A transparent and energy aware reconfigurable multiprocessor platform for simultaneous ILP and TLP exploitation.</title>
+<pages>1559-1564</pages>
+<year>2013</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.7873/DATE.2013.317</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2485659</ee>
+<crossref>conf/date/2013</crossref>
+<url>db/conf/date/date2013.html#RutzigBC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/RutzigBC13" mdate="2019-09-25">
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus Beck Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<title>A run-time adaptive multiprocessor system.</title>
+<pages>1664-1667</pages>
+<year>2013</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2013.6572183</ee>
+<crossref>conf/iscas/2013</crossref>
+<url>db/conf/iscas/iscas2013.html#RutzigBC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/SartorCF13" mdate="2023-03-23">
+<author pid="160/4673">Anderson Luiz Sartor</author>
+<author pid="65/7445">Ulisses Brisolara Corr&#234;a</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck Filho</author>
+<title>AndroProf: A Profiling Tool for the Android Platform.</title>
+<pages>23-28</pages>
+<year>2013</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2013.15</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2013.15</ee>
+<crossref>conf/sbesc/2013</crossref>
+<url>db/conf/sbesc/sbesc2013.html#SartorCF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/LorenzonCF13" mdate="2023-03-23">
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="35/2207">M&#225;rcia Cristina Cera</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck Filho</author>
+<title>The Impact of Different Multi-Threading Interfaces on Embedded Systems.</title>
+<pages>59-64</pages>
+<year>2013</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2013.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2013.17</ee>
+<crossref>conf/sbesc/2013</crossref>
+<url>db/conf/sbesc/sbesc2013.html#LorenzonCF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/CapellaBJBC13" mdate="2023-03-23">
+<author pid="160/4622">Fernanda M. Capella</author>
+<author orcid="0000-0002-0012-7023" pid="160/4598">Marcelo Brandalero</author>
+<author pid="06/9299">Jair Fajardo Junior</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<title>A Multiple-ISA Reconfigurable Architecture.</title>
+<pages>71-76</pages>
+<year>2013</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2013.23</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2013.23</ee>
+<crossref>conf/sbesc/2013</crossref>
+<url>db/conf/sbesc/sbesc2013.html#CapellaBJBC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/CorreaMBC13" mdate="2023-03-23">
+<author pid="65/7445">Ulisses Brisolara Corr&#234;a</author>
+<author pid="160/4489">Luis F. G. Millani</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="25/5214">Luigi Carro</author>
+<title>Quality Impact on Software Performance.</title>
+<pages>83-88</pages>
+<year>2013</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2013.30</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2013.30</ee>
+<crossref>conf/sbesc/2013</crossref>
+<url>db/conf/sbesc/sbesc2013.html#CorreaMBC13</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijhpsa/RutzigB12" mdate="2020-03-24">
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus B. Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Mixing static and dynamic strategies for high performance and low area reconfigurable systems.</title>
+<pages>13-24</pages>
+<year>2012</year>
+<volume>4</volume>
+<journal>Int. J. High Perform. Syst. Archit.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1504/IJHPSA.2012.047567</ee>
+<url>db/journals/ijhpsa/ijhpsa4.html#RutzigB12</url>
+</article>
+</r>
+<r><article key="journals/ijrc/RutzigBMAFMNC11" mdate="2023-09-30">
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus B. Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="37/7381">Felipe Lopes Madruga</author>
+<author orcid="0000-0003-2440-2664" pid="47/7939">Marco A. Z. Alves</author>
+<author orcid="0000-0001-9722-1093" pid="13/4670">Henrique C. Freitas</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<title>Boosting Parallel Applications Performance on Applying DIM Technique in a Multiprocessing Environment.</title>
+<year>2011</year>
+<volume>2011</volume>
+<journal>Int. J. Reconfigurable Comput.</journal>
+<ee type="oa">https://doi.org/10.1155/2011/546962</ee>
+<ee>https://www.wikidata.org/entity/Q58688481</ee>
+<url>db/journals/ijrc/ijrc2011.html#RutzigBMAFMNC11</url>
+<pages>546962:1-546962:13</pages>
+</article>
+</r>
+<r><inproceedings key="conf/arc/RutzigBC11" mdate="2019-09-25">
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus B. Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<title>CReAMS: An Embedded Multiprocessor Platform.</title>
+<pages>118-124</pages>
+<year>2011</year>
+<booktitle>ARC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-19475-7_14</ee>
+<crossref>conf/arc/2011</crossref>
+<url>db/conf/arc/arc2011.html#RutzigBC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arc/JuniorRBC11" mdate="2019-09-25">
+<author pid="06/9299">Jair Fajardo Junior</author>
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus B. Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<title>Towards an Adaptable Multiple-ISA Reconfigurable Processor.</title>
+<pages>157-168</pages>
+<year>2011</year>
+<booktitle>ARC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-19475-7_18</ee>
+<crossref>conf/arc/2011</crossref>
+<url>db/conf/arc/arc2011.html#JuniorRBC11</url>
+</inproceedings>
+</r>
+<r><book key="books/daglib/0024177" mdate="2017-05-16">
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="25/5214">Luigi Carro</author>
+<title>Dynamic Reconfigurable Architectures and Transparent Optimization Techniques - Automatic Acceleration of Software Execution.</title>
+<pages>I-XVII, 1-177</pages>
+<publisher>Springer</publisher>
+<year>2010</year>
+<isbn>978-90-481-3912-5</isbn>
+<ee>https://doi.org/10.1007/978-90-481-3913-2</ee>
+</book>
+</r>
+<r><inproceedings key="conf/ipps/LoBRC10" mdate="2023-03-24">
+<author pid="66/7435">Thiago Lo</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus B. Rutzig</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<title>A low-energy approach for context memory in reconfigurable systems.</title>
+<pages>1-8</pages>
+<year>2010</year>
+<booktitle>IPDPS Workshops</booktitle>
+<ee>https://doi.org/10.1109/IPDPSW.2010.5470745</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IPDPSW.2010.5470745</ee>
+<crossref>conf/ipps/2010w</crossref>
+<url>db/conf/ipps/ipdps2010w.html#LoBRC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/RutzigMAFBMNC10" mdate="2023-09-30">
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus B. Rutzig</author>
+<author pid="37/7381">Felipe Lopes Madruga</author>
+<author orcid="0000-0003-2440-2664" pid="47/7939">Marco A. Z. Alves</author>
+<author orcid="0000-0001-9722-1093" pid="13/4670">Henrique Cota de Freitas</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-4534-1250" pid="58/1754">Nicolas Maillard</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<title>TLP and ILP exploitation through a reconfigurable multiprocessor system.</title>
+<pages>1-8</pages>
+<year>2010</year>
+<booktitle>IPDPS Workshops</booktitle>
+<ee>https://doi.org/10.1109/IPDPSW.2010.5470743</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IPDPSW.2010.5470743</ee>
+<crossref>conf/ipps/2010w</crossref>
+<url>db/conf/ipps/ipdps2010w.html#RutzigMAFBMNC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arc/RutzigBC09" mdate="2019-09-25">
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus B. Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<title>Dynamically Adapted Low Power ASIPs.</title>
+<pages>110-122</pages>
+<year>2009</year>
+<booktitle>ARC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-00641-8_13</ee>
+<crossref>conf/arc/2009</crossref>
+<url>db/conf/arc/arc2009.html#RutzigBC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/FerreiraLBLRC09" mdate="2023-03-24">
+<author pid="12/10030">Ricardo S. Ferreira 0001</author>
+<author pid="43/479">Marcone Laure</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="66/7435">Thiago Lo</author>
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus B. Rutzig</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<title>A low cost and adaptable routing network for reconfigurable systems.</title>
+<pages>1-8</pages>
+<year>2009</year>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2009.5161217</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IPDPS.2009.5161217</ee>
+<crossref>conf/ipps/2009</crossref>
+<url>db/conf/ipps/ipdps2009.html#FerreiraLBLRC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arc/BeckRGC08" mdate="2019-09-25">
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus B. Rutzig</author>
+<author orcid="0000-0002-3678-7007" pid="g/GeorgiGaydadjiev">Georgi Gaydadjiev</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<title>Run-time Adaptable Architectures for Heterogeneous Behavior Embedded Systems.</title>
+<pages>111-123</pages>
+<year>2008</year>
+<booktitle>ARC</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-78610-8_13</ee>
+<crossref>conf/arc/2008</crossref>
+<url>db/conf/arc/arc2008.html#BeckRGC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/BeckRGC08" mdate="2023-03-24">
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus B. Rutzig</author>
+<author orcid="0000-0002-3678-7007" pid="g/GeorgiGaydadjiev">Georgi Gaydadjiev</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<title>Transparent Reconfigurable Acceleration for Heterogeneous Embedded Applications.</title>
+<pages>1208-1213</pages>
+<year>2008</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2008.4484843</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DATE.2008.4484843</ee>
+<ee>https://doi.org/10.1145/1403375.1403669</ee>
+<crossref>conf/date/2008</crossref>
+<url>db/conf/date/date2008.html#BeckRGC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/FerreiraLRBC08" mdate="2022-11-04">
+<author pid="12/10030">Ricardo S. Ferreira 0001</author>
+<author pid="43/479">Marcone Laure</author>
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus B. Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<title>Reducing interconnection cost in coarse-grained dynamic computing through multistage network.</title>
+<pages>47-52</pages>
+<year>2008</year>
+<booktitle>FPL</booktitle>
+<ee>https://doi.org/10.1109/FPL.2008.4629906</ee>
+<crossref>conf/fpl/2008</crossref>
+<url>db/conf/fpl/fpl2008.html#FerreiraLRBC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/RutzigBC08" mdate="2023-03-24">
+<author orcid="0000-0002-2836-2009" pid="13/3791">Mateus B. Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<title>Balancing reconfigurable data path resources according to application requirements.</title>
+<pages>1-8</pages>
+<year>2008</year>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2008.4536522</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IPDPS.2008.4536522</ee>
+<crossref>conf/ipps/2008</crossref>
+<url>db/conf/ipps/ipdps2008.html#RutzigBC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/RutzigBC07" mdate="2023-03-24">
+<author pid="13/3791">Mateus B. Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<title>Transparent Dataflow Execution for Embedded Applications.</title>
+<pages>47-54</pages>
+<year>2007</year>
+<crossref>conf/isvlsi/2007</crossref>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2007.98</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISVLSI.2007.98</ee>
+<url>db/conf/isvlsi/isvlsi2007.html#RutzigBC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/MattosBC07" mdate="2023-03-23">
+<author pid="78/5041">J&#250;lio C. B. de Mattos</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<title>Object-Oriented Reconfiguration.</title>
+<pages>69-74</pages>
+<year>2007</year>
+<crossref>conf/rsp/2007</crossref>
+<booktitle>IEEE International Workshop on Rapid System Prototyping</booktitle>
+<ee>https://doi.org/10.1109/RSP.2007.31</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RSP.2007.31</ee>
+<url>db/conf/rsp/rsp2007.html#MattosBC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi/BeckC07a" mdate="2018-06-26">
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<title>Reconfigurable Acceleration with Binary Compatibility for General Purpose Processors.</title>
+<pages>1-16</pages>
+<year>2007</year>
+<booktitle>VLSI-SoC (Selected Papers)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-0-387-89558-1_15</ee>
+<crossref>conf/vlsi/2007socs</crossref>
+<url>db/conf/vlsi/vlsisoc2007s.html#BeckC07a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi/BeckC07" mdate="2017-06-05">
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<title>Transparent acceleration of data dependent instructions for general purpose processors.</title>
+<pages>66-71</pages>
+<year>2007</year>
+<booktitle>VLSI-SoC</booktitle>
+<ee>https://doi.org/10.1109/VLSISOC.2007.4402474</ee>
+<crossref>conf/vlsi/2007soc</crossref>
+<url>db/conf/vlsi/vlsisoc2007.html#BeckC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arc/BeckGC06" mdate="2017-05-26">
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="96/3719">Victor F. Gomes</author>
+<author pid="25/5214">Luigi Carro</author>
+<title>Dynamic Instruction Merging and a Reconfigurable Array: Dataflow Execution with Software Compatibility.</title>
+<pages>449-454</pages>
+<year>2006</year>
+<crossref>conf/arc/2006</crossref>
+<booktitle>ARC</booktitle>
+<ee>https://doi.org/10.1007/11802839_54</ee>
+<url>db/conf/arc/arc2006.html#BeckGC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/BeckRC06" mdate="2017-05-25">
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="13/3791">Mateus B. Rutzig</author>
+<author pid="25/5214">Luigi Carro</author>
+<title>Advantages of Java Processors in Cache Performance and Power for Embedded Applications.</title>
+<pages>321-330</pages>
+<year>2006</year>
+<crossref>conf/samos/2006</crossref>
+<booktitle>SAMOS</booktitle>
+<ee>https://doi.org/10.1007/11796435_33</ee>
+<url>db/conf/samos/samos2006.html#BeckRC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/BeckRC06" mdate="2018-11-06">
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="13/3791">Mateus B. Rutzig</author>
+<author pid="25/5214">Luigi Carro</author>
+<title>Cache performance impacts for stack machines in embedded systems.</title>
+<pages>155-160</pages>
+<year>2006</year>
+<crossref>conf/sbcci/2006</crossref>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1145/1150343.1150385</ee>
+<url>db/conf/sbcci/sbcci2006.html#BeckRC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi/BeckGC06" mdate="2017-06-05">
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="96/3719">Victor F. Gomes</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<title>Automatic Dataflow Execution with Reconfiguration and Dynamic Instruction Merging.</title>
+<pages>30-35</pages>
+<year>2006</year>
+<crossref>conf/vlsi/2006soc</crossref>
+<booktitle>VLSI-SoC</booktitle>
+<ee>https://doi.org/10.1109/VLSISOC.2006.313268</ee>
+<url>db/conf/vlsi/vlsisoc2006.html#BeckGC06</url>
+</inproceedings>
+</r>
+<r><article key="journals/jolpe/GomesBC05" mdate="2020-05-22">
+<author pid="96/3719">Victor F. Gomes</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="25/5214">Luigi Carro</author>
+<title>Trading Time and Space on Low Power Embedded Architectures with Dynamic Instruction Merging.</title>
+<pages>249-258</pages>
+<year>2005</year>
+<volume>1</volume>
+<journal>J. Low Power Electron.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1166/jolpe.2005.055</ee>
+<url>db/journals/jolpe/jolpe1.html#GomesBC05</url>
+</article>
+</r>
+<r><inproceedings key="conf/dac/BeckC05" mdate="2018-11-06">
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="25/5214">Luigi Carro</author>
+<title>Dynamic reconfiguration with binary translation: breaking the ILP barrier with software compatibility.</title>
+<pages>732-737</pages>
+<year>2005</year>
+<crossref>conf/dac/2005</crossref>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/1065579.1065771</ee>
+<url>db/conf/dac/dac2005.html#BeckC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip10-5/FerreiraBCTS05" mdate="2022-11-04">
+<author pid="12/10030">Ricardo S. Ferreira 0001</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="17/137">Andre Toledo</author>
+<author pid="148/1580">Aroldo Silva</author>
+<title>A Java Framework to Teach Computer Architecture.</title>
+<pages>25-35</pages>
+<year>2005</year>
+<booktitle>EDUTECH</booktitle>
+<ee type="oa">https://doi.org/10.1007/0-387-30761-3_3</ee>
+<crossref>conf/ifip10-5/2005</crossref>
+<url>db/conf/ifip10-5/edutech2005.html#FerreiraBCTS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/BeckC05" mdate="2023-03-24">
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author orcid="0000-0002-7402-4780" pid="25/5214">Luigi Carro</author>
+<title>Application of Binary Translation to Java Reconfigurable Architectures.</title>
+<year>2005</year>
+<crossref>conf/ipps/2005</crossref>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2005.111</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IPDPS.2005.111</ee>
+<url>db/conf/ipps/ipdps2005.html#BeckC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/BeckGC05" mdate="2018-11-06">
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="96/3719">Victor F. Gomes</author>
+<author pid="25/5214">Luigi Carro</author>
+<title>Exploiting Java through binary translation for low power embedded reconfigurable systems.</title>
+<pages>92-97</pages>
+<year>2005</year>
+<crossref>conf/sbcci/2005</crossref>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1145/1081081.1081109</ee>
+<url>db/conf/sbcci/sbcci2005.html#BeckGC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/MattosBCW04" mdate="2017-05-25">
+<author pid="78/5041">J&#250;lio C. B. de Mattos</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="r/FlavioRechWagner">Fl&#225;vio Rech Wagner</author>
+<title>Design Space Exploration with Automatic Selection of SW and HW for Embedded Applications.</title>
+<pages>303-312</pages>
+<ee>https://doi.org/10.1007/978-3-540-27776-7_32</ee>
+<year>2004</year>
+<crossref>conf/samos/2004</crossref>
+<booktitle>SAMOS</booktitle>
+<url>db/conf/samos/samos2004.html#MattosBCW04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/BeckC04" mdate="2018-11-06">
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="25/5214">Luigi Carro</author>
+<title>A VLIW low power Java processor for embedded applications.</title>
+<pages>157-162</pages>
+<year>2004</year>
+<crossref>conf/sbcci/2004</crossref>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1145/1016568.1016614</ee>
+<url>db/conf/sbcci/sbcci2004.html#BeckC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/FilhoMWC03" mdate="2022-06-17">
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="78/5041">J&#250;lio C. B. de Mattos</author>
+<author orcid="0000-0003-2199-2785" pid="r/FlavioRechWagner">Fl&#225;vio Rech Wagner</author>
+<author pid="25/5214">Luigi Carro</author>
+<title>CACO-PS: A General Purpose Cycle-Accurate Configurable Power Simulator.</title>
+<pages>349-354</pages>
+<year>2003</year>
+<crossref>conf/sbcci/2003</crossref>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1109/SBCCI.2003.1232852</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBCCI.2003.1232852</ee>
+<ee>https://dl.acm.org/doi/10.5555/942808.943930</ee>
+<url>db/conf/sbcci/sbcci2003.html#FilhoMWC03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi/BeckC03a" mdate="2018-06-26">
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="25/5214">Luigi Carro</author>
+<title>Low Power Java Processor for Embedded Applications.</title>
+<pages>213-228</pages>
+<year>2003</year>
+<booktitle>VLSI-SoC (Selected Papers)</booktitle>
+<ee type="oa">https://doi.org/10.1007/0-387-33403-3_14</ee>
+<crossref>conf/vlsi/2003socs</crossref>
+<url>db/conf/vlsi/vlsisoc2003s.html#BeckC03a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi/BeckC03" mdate="2004-01-22">
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<author pid="25/5214">Luigi Carro</author>
+<title>Low Power Java Processor for Embedded Applications.</title>
+<pages>239-</pages>
+<year>2003</year>
+<crossref>conf/vlsi/2003soc</crossref>
+<booktitle>VLSI-SOC</booktitle>
+<url>db/conf/vlsi/vlsisoc2003.html#BeckC03</url>
+</inproceedings>
+</r>
+<coauthors n="134" nc="1">
+<co c="0" n="2"><na f="a/Agostini:Luciano_Volcan" pid="80/5216">Luciano Volcan Agostini</na><na>Luciano Agostini</na></co>
+<co c="0"><na f="a/Ahmed:Hameeza" pid="229/6444">Hameeza Ahmed</na></co>
+<co c="0"><na f="a/Aires:Marcello_A=" pid="404/6527">Marcello A. Aires</na></co>
+<co c="0" n="2"><na f="a/Ali:Hazem_Ismail_Abdel_Aziz" pid="141/0638">Hazem Ismail Abdel Aziz Ali</na><na>Hazem Ismail Ali</na></co>
+<co c="0"><na f="a/Almeida:Jonathan_Homercher_de" pid="274/6092">Jonathan Homercher de Almeida</na></co>
+<co c="0"><na f="a/Alves:Marco_A=_Z=" pid="47/7939">Marco A. Z. Alves</na></co>
+<co c="0" n="2"><na f="a/Azambuja:Jos=eacute=_Rodrigo" pid="21/1296">Jos&#233; Rodrigo Azambuja</na><na>Jos&#233; Rodrigo Furlanetto Azambuja</na></co>
+<co c="0"><na f="b/Becker:Leandro_Buss" pid="24/3796">Leandro Buss Becker</na></co>
+<co c="0"><na f="b/Becker:Pedro_Henrique_Exenberger" pid="210/3763">Pedro Henrique Exenberger Becker</na></co>
+<co c="0" n="2"><na f="b/Beltran_0001:Vicen=ccedil=" pid="08/2158">Vicen&#231; Beltran 0001</na><na>Vicen&#231; Beltran Querol</na></co>
+<co c="0"><na f="b/Benevenuti:Fabio" pid="197/9574">Fabio Benevenuti</na></co>
+<co c="0" n="2"><na f="b/Berned:Gustavo" pid="265/2461">Gustavo Berned</na><na>Gustavo P. Berned</na></co>
+<co c="0"><na f="b/Bertels:Koen" pid="84/2198">Koen Bertels</na></co>
+<co c="0"><na f="b/Braatz:Luciano_Almeida" pid="257/5121">Luciano Almeida Braatz</na></co>
+<co c="0"><na f="b/Brandalero:Marcelo" pid="160/4598">Marcelo Brandalero</na></co>
+<co c="0"><na f="b/Brandon:Anthony" pid="40/9035">Anthony Brandon</na></co>
+<co c="0"><na f="b/Brito:Alisson_Vasconcelos_de" pid="35/5746">Alisson Vasconcelos de Brito</na></co>
+<co c="0"><na f="c/Cachola:Jo=atilde=o_Victor_Gomes" pid="177/3257">Jo&#227;o Victor Gomes Cachola</na></co>
+<co c="0"><na f="c/Capella:Fernanda_M=" pid="160/4622">Fernanda M. Capella</na></co>
+<co c="0"><na f="c/Cardoso:Douglas_Maciel" pid="254/9481">Douglas Maciel Cardoso</na></co>
+<co c="0"><na f="c/Carro:Luigi" pid="25/5214">Luigi Carro</na></co>
+<co c="0"><na f="c/Castrill=oacute=n:Jer=oacute=nimo" pid="04/5327">Jer&#243;nimo Castrill&#243;n</na></co>
+<co c="0" n="2"><na f="c/Cera:M=aacute=rcia_C=" pid="35/2207">M&#225;rcia C. Cera</na><na>M&#225;rcia Cristina Cera</na></co>
+<co c="0"><na f="c/Conterato:Marcelo_Da_Silva" pid="209/2930">Marcelo Da Silva Conterato</na></co>
+<co c="0"><na f="c/Corr=ecirc=a:Ulisses_Brisolara" pid="65/7445">Ulisses Brisolara Corr&#234;a</na></co>
+<co c="0" n="2"><na f="c/Cruz:Eduardo_Henrique_Molina_da" pid="89/10101">Eduardo Henrique Molina da Cruz</na><na>Eduardo H. M. Cruz</na></co>
+<co c="0"><na f="d/Diener:Matthias" pid="09/8557">Matthias Diener</na></co>
+<co c="0"><na f="d/Duarte:Lucio_Mauro" pid="53/6206">Lucio Mauro Duarte</na></co>
+<co c="0"><na f="e/Ely:Arthur_F=" pid="389/0076">Arthur F. Ely</na></co>
+<co c="0"><na f="e/Erichsen:Augusto_G=" pid="218/2801">Augusto G. Erichsen</na></co>
+<co c="0"><na f="f/Faccenda:Rafael_Follmann" pid="239/6825">Rafael Follmann Faccenda</na></co>
+<co c="0"><na f="f/Ferreira:Felipe_Kalinski" pid="404/6464">Felipe Kalinski Ferreira</na></co>
+<co c="0"><na f="f/Ferreira_0001:Ricardo_S=" pid="12/10030">Ricardo S. Ferreira 0001</na></co>
+<co c="0" n="2"><na f="f/Ferreto:Tiago" pid="78/3004">Tiago Ferreto</na><na>Tiago Coelho Ferreto</na></co>
+<co c="0"><na f="f/Filho:Heitor_Boeira_dos_Reis" pid="171/6202">Heitor Boeira dos Reis Filho</na></co>
+<co c="0" n="2"><na f="f/Freitas:Edison_Pignaton_de" pid="96/3201">Edison Pignaton de Freitas</na><na>Edison P. de Freitas</na></co>
+<co c="0" n="2"><na f="f/Freitas:Henrique_Cota_de" pid="13/4670">Henrique Cota de Freitas</na><na>Henrique C. Freitas</na></co>
+<co c="0"><na f="g/Gaydadjiev:Georgi" pid="g/GeorgiGaydadjiev">Georgi Gaydadjiev</na></co>
+<co c="0"><na f="g/Gewehr:Carlos_Gabriel_de_Araujo" pid="274/6062">Carlos Gabriel de Araujo Gewehr</na></co>
+<co c="0"><na f="g/Giraldo:Juan_Sebastian_Piedrahita" pid="176/6369">Juan Sebastian Piedrahita Giraldo</na></co>
+<co c="0" n="2"><na f="g/Girardi:Alessandro" pid="56/3286">Alessandro Girardi</na><na>Alessandro Gon&#231;alves Girardi</na></co>
+<co c="0"><na f="g/Gomes:Victor_F=" pid="96/3719">Victor F. Gomes</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Larissa_Rozales" pid="221/2862">Larissa Rozales Gon&#231;alves</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Thiago" pid="376/7991">Thiago Gon&#231;alves</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Thiago_Dos_Santos" pid="389/0145">Thiago Dos Santos Gon&#231;alves</na></co>
+<co c="0"><na f="g/Guo:Qi" pid="67/398">Qi Guo</na></co>
+<co c="0"><na f="h/Hoozemans:Joost" pid="173/8964">Joost Hoozemans</na></co>
+<co c="0"><na f="h/H=uuml=bner_0001:Michael" pid="56/2900">Michael H&#252;bner 0001</na></co>
+<co c="0" n="2"><na f="j/Jordan:Michael_G=" pid="206/8272">Michael G. Jordan</na><na>Michael Guilherme Jordan</na></co>
+<co c="0" n="2"><na f="j/Jost:Tiago_T=" pid="190/5124">Tiago T. Jost</na><na>Tiago Trevisan Jost</na></co>
+<co c="0"><na f="j/Junior:Jair_Fajardo" pid="06/9299">Jair Fajardo Junior</na></co>
+<co c="0" n="3"><na f="k/Kastensmidt:Fernanda_Lima" pid="l/FGdLimaKastensmidt">Fernanda Lima Kastensmidt</na><na>Fernanda L. Kastensmidt</na><na>Fernanda Gusm&#227;o de Lima Kastensmidt</na></co>
+<co c="0"><na f="k/Kersz:Ian" pid="389/0035">Ian Kersz</na></co>
+<co c="0"><na f="k/Knorst:Tiago" pid="230/1135">Tiago Knorst</na></co>
+<co c="0"><na f="k/Koren:Israel" pid="26/6860">Israel Koren</na></co>
+<co c="0"><na f="k/Korol:Guilherme" pid="188/9062">Guilherme Korol</na></co>
+<co c="0"><na f="k/Krause:Arthur_M=" pid="209/7028">Arthur M. Krause</na></co>
+<co c="0"><na f="k/Kreutz:M=aacute=rcio_Eduardo" pid="94/2009">M&#225;rcio Eduardo Kreutz</na></co>
+<co c="0"><na f="k/Kundu:Sandip" pid="84/1396">Sandip Kundu</na></co>
+<co c="0"><na f="l/Laure:Marcone" pid="43/479">Marcone Laure</na></co>
+<co c="0"><na f="l/Lignati:Bernardo_Neuhaus" pid="263/7317">Bernardo Neuhaus Lignati</na></co>
+<co c="0"><na f="l/Lima:Everton_Camargo_de" pid="352/7319">Everton Camargo de Lima</na></co>
+<co c="0" n="2"><na f="l/Lima:Jo=atilde=o_Paulo_C=_de" pid="156/5239">Jo&#227;o Paulo C. de Lima</na><na>Jo&#227;o Paulo Cardoso de Lima</na></co>
+<co c="0" n="2"><na f="l/Lo:Thiago" pid="66/7435">Thiago Lo</na><na>Thiago Berticelli Lo</na></co>
+<co c="0"><na f="l/Lopes:Alba_Sandyra_Bezerra" pid="121/0099">Alba Sandyra Bezerra Lopes</na></co>
+<co c="0"><na f="l/Lorenzon:Arthur_Francisco" pid="160/4663">Arthur Francisco Lorenzon</na></co>
+<co c="0"><na f="l/Luizelli:Marcelo_Caggiani" pid="140/8276">Marcelo Caggiani Luizelli</na></co>
+<co c="0"><na f="m/Machado:Lucas_Rister" pid="392/7942">Lucas Rister Machado</na></co>
+<co c="0"><na f="m/Madruga:Felipe_Lopes" pid="37/7381">Felipe Lopes Madruga</na></co>
+<co c="0"><na f="m/Magalhaes:Guilherme_Grunewald" pid="193/9988">Guilherme Grunewald Magalhaes</na></co>
+<co c="0" n="2"><na f="m/Maia:S=iacute=lvia_M=_D=_M=" pid="132/1589">S&#237;lvia M. D. M. Maia</na><na>S&#237;lvia Maria Diniz Monteiro Maia</na></co>
+<co c="0"><na f="m/Maillard:Nicolas" pid="58/1754">Nicolas Maillard</na></co>
+<co c="0"><na f="m/Malfatti:Guilherme_Meneguzzi" pid="239/6838">Guilherme Meneguzzi Malfatti</na></co>
+<co c="0"><na f="m/Manivannan:Madhavan" pid="45/7618">Madhavan Manivannan</na></co>
+<co c="0"><na f="m/Marculescu:Radu" pid="88/3494">Radu Marculescu</na></co>
+<co c="0" n="2"><na f="m/Marques:Sandro_Matheus_V=_N=" pid="254/9475">Sandro Matheus V. N. Marques</na><na>Sandro M. Marques</na></co>
+<co c="0"><na f="m/Marques:Wagner_dos_Santos" pid="198/8075">Wagner dos Santos Marques</na></co>
+<co c="0"><na f="m/Mattos:J=uacute=lio_C=_B=_de" pid="78/5041">J&#250;lio C. B. de Mattos</na></co>
+<co c="0"><na f="m/Medeiros:Thiarles_S=" pid="254/9502">Thiarles S. Medeiros</na></co>
+<co c="0" n="2"><na f="m/Messer:O=_E=_Bronson" pid="98/7514">O. E. Bronson Messer</na><na>Bronson Messer</na></co>
+<co c="0"><na f="m/Millani:Luis_F=_G=" pid="160/4489">Luis F. G. Millani</na></co>
+<co c="0"><na f="m/Moori:Marcelo_K=" pid="348/7524">Marcelo K. Moori</na></co>
+<co c="0"><na f="m/Morais:Wagner_Ourique_de" pid="50/5691">Wagner Ourique de Morais</na></co>
+<co c="0" n="2"><na f="m/Moura:Rafael_Fao_de" pid="175/5762">Rafael Fao de Moura</na><na>Rafael F&#227;o de Moura</na></co>
+<co c="0"><na f="m/Mu=ntilde=oz:Antoni_Navarro" pid="303/3389">Antoni Navarro Mu&#241;oz</na></co>
+<co c="0"><na f="n/Navarro:Antoni_C=" pid="291/5758">Antoni C. Navarro</na></co>
+<co c="0" n="2"><na f="n/Navaux:Philippe_Olivier_Alexandre" pid="74/1262">Philippe Olivier Alexandre Navaux</na><na>Philippe O. A. Navaux</na></co>
+<co c="0"><na f="n/Nazar:Gabriel_L=" pid="18/9853">Gabriel L. Nazar</na></co>
+<co c="0"><na f="n/Nogueira:Angelo_Gaspar_Diniz" pid="352/7476">Angelo Gaspar Diniz Nogueira</na></co>
+<co c="0"><na f="n/Nonaka:Jorji" pid="19/510">Jorji Nonaka</na></co>
+<co c="0"><na f="o/Oliveira:Charles_Cardoso_De" pid="239/6802">Charles Cardoso De Oliveira</na></co>
+<co c="0" n="2"><na f="o/Oliveira:Geraldo_F=" pid="197/9584">Geraldo F. Oliveira</na><na>Geraldo Francisco Oliveira</na></co>
+<co c="0" n="2"><na f="p/Palomino_0001:Daniel" pid="49/7554">Daniel Palomino 0001</na><na>Daniel Munari Palomino</na></co>
+<co c="0"><na f="p/Pereira:Luan" pid="255/2776">Luan Pereira</na></co>
+<co c="0"><na f="p/Pereira:Monica_Magalh=atilde=es" pid="94/4881">Monica Magalh&#227;es Pereira</na></co>
+<co c="0"><na f="p/Peric=agrave=s:Miquel" pid="29/5335">Miquel Peric&#224;s</na></co>
+<co c="0"><na f="p/Piceni:Henry" pid="389/0236">Henry Piceni</na></co>
+<co c="0"><na f="p/Porto:Marcelo_Schiavon" pid="44/1063">Marcelo Schiavon Porto</na></co>
+<co c="0"><na f="r/Ritt:Marcus" pid="86/7006">Marcus Ritt</na></co>
+<co c="0" n="2"><na f="r/Rocha:Hiago" pid="274/6042">Hiago Rocha</na><na>Hiago Mayk G. de A. Rocha</na></co>
+<co c="0" n="2"><na f="r/Rossi:F=aacute=bio_D=" pid="128/5117">F&#225;bio D. Rossi</na><na>F&#225;bio Diniz Rossi</na></co>
+<co c="0"><na f="r/Rubiano:Daniel_de_Oliveira" pid="345/7548">Daniel de Oliveira Rubiano</na></co>
+<co c="0" n="2"><na f="r/Rutzig:Mateus_B=" pid="13/3791">Mateus B. Rutzig</na><na>Mateus Beck Rutzig</na></co>
+<co c="0" n="2"><na f="s/Santos_0001:Paulo_C=" pid="125/2570">Paulo C. Santos 0001</na><na>Paulo Cesar Santos 0001</na></co>
+<co c="0" n="2"><na f="s/Sartor:Anderson_Luiz" pid="160/4673">Anderson Luiz Sartor</na><na>Anderson L. Sartor</na></co>
+<co c="0"><na f="s/Schwarzrock:Janaina" pid="210/3788">Janaina Schwarzrock</na></co>
+<co c="0"><na f="s/Serpa:Matheus_S=" pid="199/1097">Matheus S. Serpa</na></co>
+<co c="0"><na f="s/Sfreddo:Josimar" pid="206/8070">Josimar Sfreddo</na></co>
+<co c="0"><na f="s/Shafique_0001:Muhammad" pid="s/MuhammadShafique">Muhammad Shafique 0001</na></co>
+<co c="0"><na f="s/Silva:Anderson_I=" pid="381/1261">Anderson I. Silva</na></co>
+<co c="0"><na f="s/Silva:Aroldo" pid="148/1580">Aroldo Silva</na></co>
+<co c="0" n="2"><na f="s/Silva_0001:Bruno_C=_da" pid="75/3139">Bruno C. da Silva 0001</na><na>Bruno Castro da Silva</na></co>
+<co c="0"><na f="s/Silva:Matheus_A=" pid="348/7526">Matheus A. Silva</na></co>
+<co c="0"><na f="s/Silva:Raul_Silveira" pid="259/0236">Raul Silveira Silva</na></co>
+<co c="0"><na f="s/Silva:Vinicius_S=_da" pid="316/4332">Vinicius S. da Silva</na></co>
+<co c="0"><na f="s/Silveira:Leonardo_Almeida_da" pid="193/9955">Leonardo Almeida da Silveira</na></co>
+<co c="0"><na f="s/Silveira:Ronaldo" pid="274/6096">Ronaldo Silveira</na></co>
+<co c="0"><na f="s/Silvestre:Iago_de_Oliveira" pid="308/6160">Iago de Oliveira Silvestre</na></co>
+<co c="0"><na f="s/Souto:Thiago_Dadalt" pid="251/7029">Thiago Dadalt Souto</na></co>
+<co c="0" n="2"><na f="s/Souza:Jeckson_Dellagostin" pid="171/6262">Jeckson Dellagostin Souza</na><na>Jeckson Dellagostin de Souza</na></co>
+<co c="0"><na f="s/Souza:Paulo_Silas_Severo_de" pid="198/8009">Paulo Silas Severo de Souza</na></co>
+<co c="0"><na f="s/Souza:Samuel_Xavier_de" pid="96/303">Samuel Xavier de Souza</na></co>
+<co c="0"><na f="s/Straten:Jeroen_van" pid="175/4609">Jeroen van Straten</na></co>
+<co c="0"><na f="s/Susin:Altamiro" pid="381/0460">Altamiro Susin</na></co>
+<co c="0"><na f="t/Toledo:Andre" pid="17/137">Andre Toledo</na></co>
+<co c="0"><na f="t/Toledo:Mariana_C=" pid="296/1425">Mariana C. Toledo</na></co>
+<co c="0"><na f="t/Tonetto:Rafael_Billig" pid="218/1106">Rafael Billig Tonetto</na></co>
+<co c="0"><na f="v/Vicenzi:Julio_Costella" pid="274/5895">Julio Costella Vicenzi</na></co>
+<co c="0" n="2"><na f="v/Vieira:=Acirc=ngelo" pid="244/7699">&#194;ngelo Vieira</na><na>&#194;ngelo Nery Crestani Vieira</na></co>
+<co c="0"><na f="v/Vieira:Caio" pid="265/3018">Caio Vieira</na></co>
+<co c="0"><na f="w/Wagner:Fl=aacute=vio_Rech" pid="r/FlavioRechWagner">Fl&#225;vio Rech Wagner</na></co>
+<co c="0"><na f="w/Wong:Stephan" pid="12/4142">Stephan Wong</na></co>
+<co c="0"><na f="z/Zatt:Bruno" pid="33/2753">Bruno Zatt</na></co>
+<co c="0"><na f="z/Zhou:Xuehai" pid="53/2969">Xuehai Zhou</na></co>
+</coauthors>
+</dblpperson>
+

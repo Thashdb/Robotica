@@ -1,0 +1,891 @@
+<?xml version="1.0"?>
+<dblpperson name="George Lima 0001" pid="07/2481" n="59">
+<person key="homepages/07/2481" mdate="2022-06-01">
+<author pid="07/2481">George Lima 0001</author>
+<author pid="07/2481">George Marconi de Araujo Lima</author>
+<note type="affiliation">Federal University of Bahia, Salvador, Brazil</note>
+<url>https://orcid.org/0000-0002-8468-5224</url>
+</person>
+<homonyms n="1">
+<h f="l/Lima:George"><name>George Lima</name>
+</h>
+</homonyms>
+<r><article key="journals/dafes/VasconcelosLKGC24" mdate="2024-05-19">
+<author pid="335/3350">Jamile de Barros Vasconcelos</author>
+<author pid="07/2481">George Lima 0001</author>
+<author pid="286/5311">Marwan Wehaiba el Khazen</author>
+<author pid="135/1065">Adriana Gogonel</author>
+<author pid="18/2956">Liliana Cucu-Grosjean</author>
+<title>On vulnerabilities in EVT-based timing analysis: an experimental investigation on a multi-core architecture.</title>
+<pages>1-21</pages>
+<year>2024</year>
+<month>March</month>
+<volume>28</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10617-023-09277-5</ee>
+<url>db/journals/dafes/dafes28.html#VasconcelosLKGC24</url>
+</article>
+</r>
+<r><inproceedings key="conf/rtss/Andrade0L24" mdate="2025-02-19">
+<author pid="308/6266">Tadeu Nogueira C. Andrade</author>
+<author pid="07/2481">George Lima 0001</author>
+<author pid="308/6018">Veronica Maria Cadena Lima</author>
+<title>Drawing Lines for Measurement-Based Probabilistic Timing Analysis.</title>
+<pages>243-255</pages>
+<year>2024</year>
+<booktitle>RTSS</booktitle>
+<ee>https://doi.org/10.1109/RTSS62706.2024.00029</ee>
+<crossref>conf/rtss/2024</crossref>
+<url>db/conf/rtss/rtss2024.html#Andrade0L24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/AlvesLF24" mdate="2024-12-23">
+<author pid="392/7946">Allan S. G. Alves</author>
+<author pid="07/2481">George Marconi de Araujo Lima</author>
+<author pid="250/5987">Islame F. C. Fernandes</author>
+<title>Fault Tolerance in Multiprocessor Real-Time Systems Under Partitioned EDF Scheduling.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC65055.2024.10771904</ee>
+<crossref>conf/sbesc/2024</crossref>
+<url>db/conf/sbesc/sbesc2024.html#AlvesLF24</url>
+</inproceedings>
+</r>
+<r><article key="journals/dafes/OliveiraL23" mdate="2023-08-02">
+<author pid="280/9982">Gess&#233; Oliveira</author>
+<author pid="07/2481">George Lima 0001</author>
+<title>Scheduling and energy savings for small scale embedded FreeRTOS-based real-time systems.</title>
+<pages>3-29</pages>
+<year>2023</year>
+<month>June</month>
+<volume>27</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1007/s10617-023-09267-7</ee>
+<url>db/journals/dafes/dafes27.html#OliveiraL23</url>
+</article>
+</r>
+<r><article key="journals/dafes/AndradeLLBHC23" mdate="2024-01-31">
+<author pid="308/6266">Tadeu Nogueira C. Andrade</author>
+<author pid="07/2481">George Lima 0001</author>
+<author pid="308/6018">Veronica Maria Cadena Lima</author>
+<author pid="367/0239">Slim Bem-Amor</author>
+<author pid="335/8812">Ismail Hawila</author>
+<author pid="18/2956">Liliana Cucu-Grosjean</author>
+<title>On the impact of hardware-related events on the execution of real-time programs.</title>
+<pages>275-302</pages>
+<year>2023</year>
+<month>December</month>
+<volume>27</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10617-023-09281-9</ee>
+<url>db/journals/dafes/dafes27.html#AndradeLLBHC23</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbesc/BarretoML23" mdate="2024-02-05">
+<author pid="362/1656">Jo&#227;o Barreto 0003</author>
+<author orcid="0000-0001-7266-2052" pid="53/8452">Ernesto Massa</author>
+<author pid="07/2481">George Lima 0001</author>
+<title>Partitioning and Server Shadowing for Scheduling Periodic Real-time Tasks on Multiprocessors.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC60926.2023.10324260</ee>
+<crossref>conf/sbesc/2023</crossref>
+<url>db/conf/sbesc/sbesc2023.html#BarretoML23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/NascimentoL23" mdate="2023-12-02">
+<author pid="296/4846">Fl&#225;via Maristela Santos Nascimento</author>
+<author pid="07/2481">George Lima 0001</author>
+<title>Dealing with Soft Aperiodic Tasks in RUN.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC60926.2023.10324231</ee>
+<crossref>conf/sbesc/2023</crossref>
+<url>db/conf/sbesc/sbesc2023.html#NascimentoL23</url>
+</inproceedings>
+</r>
+<r><article key="journals/rts/TeixeiraL22" mdate="2022-06-13">
+<author pid="321/3191">Ricardo Brasil Teixeira</author>
+<author orcid="0000-0002-8468-5224" pid="07/2481">George Lima 0001</author>
+<title>Shared resources in multiprocessor real-time systems scheduled by RUN.</title>
+<pages>153-188</pages>
+<year>2022</year>
+<volume>58</volume>
+<journal>Real Time Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11241-021-09374-3</ee>
+<url>db/journals/rts/rts58.html#TeixeiraL22</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbesc/VasconcelosL22" mdate="2022-12-12">
+<author pid="335/3350">Jamile de Barros Vasconcelos</author>
+<author pid="07/2481">George Lima 0001</author>
+<title>Possible risks with EVT-based timing analysis: an experimental study on a multi-core platform.</title>
+<pages>1-8</pages>
+<year>2022</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC56799.2022.9964853</ee>
+<crossref>conf/sbesc/2022</crossref>
+<url>db/conf/sbesc/sbesc2022.html#VasconcelosL22</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/22/0001MR22" mdate="2022-09-29">
+<author pid="07/2481">George Lima 0001</author>
+<author pid="53/8452">Ernesto Massa</author>
+<author pid="59/7129">Paul Regnier</author>
+<title>Practical Considerations in Optimal Multiprocessor Scheduling.</title>
+<pages>193-231</pages>
+<year>2022</year>
+<booktitle>Handbook of Real-Time Computing</booktitle>
+<ee>https://doi.org/10.1007/978-981-287-251-7_3</ee>
+<crossref>books/sp/22/TL2022</crossref>
+<url>db/books/collections/TL2022.html#0001MR22</url>
+</incollection>
+</r>
+<r><article key="journals/rts/BorinLCP21" mdate="2022-06-01">
+<author pid="210/3797">Lais Borin</author>
+<author orcid="0000-0002-8468-5224" pid="07/2481">George Lima 0001</author>
+<author pid="39/6633">M&#225;rcio Castro 0001</author>
+<author pid="83/1063">Patricia Della M&#233;a Plentz</author>
+<title>Dynamic power management under the RUN scheduling algorithm: a slack filling approach.</title>
+<pages>443-484</pages>
+<year>2021</year>
+<volume>57</volume>
+<journal>Real Time Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s11241-021-09367-2</ee>
+<url>db/journals/rts/rts57.html#BorinLCP21</url>
+</article>
+</r>
+<r><inproceedings key="conf/rtas/NascimentoL21" mdate="2022-06-01">
+<author pid="296/4846">Fl&#225;via Maristela Santos Nascimento</author>
+<author pid="07/2481">George Lima 0001</author>
+<title>Effectively Scheduling Hard and Soft Real-Time Tasks on Multiprocessors.</title>
+<pages>210-222</pages>
+<year>2021</year>
+<booktitle>RTAS</booktitle>
+<ee>https://doi.org/10.1109/RTAS52030.2021.00025</ee>
+<crossref>conf/rtas/2021</crossref>
+<url>db/conf/rtas/rtas2021.html#NascimentoL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtss/MassaLAP21" mdate="2022-07-25">
+<author orcid="0000-0001-7266-2052" pid="53/8452">Ernesto Massa</author>
+<author pid="07/2481">George Lima 0001</author>
+<author pid="39/4827">Bj&#246;rn Andersson</author>
+<author pid="80/2060">Vinicius Petrucci</author>
+<title>Heterogeneous Quasi-Partitioned Scheduling.</title>
+<pages>266-278</pages>
+<year>2021</year>
+<booktitle>RTSS</booktitle>
+<ee>https://doi.org/10.1109/RTSS52674.2021.00033</ee>
+<crossref>conf/rtss/2021</crossref>
+<url>db/conf/rtss/rtss2021.html#MassaLAP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/AndradeLLAC21" mdate="2022-06-01">
+<author pid="308/6266">Tadeu Nogueira C. Andrade</author>
+<author pid="07/2481">George Lima 0001</author>
+<author pid="308/6018">Veronica Maria Cadena Lima</author>
+<author pid="64/870">Yasmina Abdedda&#239;m</author>
+<author pid="18/2956">Liliana Cucu-Grosjean</author>
+<title>On the Selection of Relevant Hardware Events for Explaining Execution Time Behavior.</title>
+<pages>1-8</pages>
+<year>2021</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC53686.2021.9628374</ee>
+<crossref>conf/sbesc/2021</crossref>
+<url>db/conf/sbesc/sbesc2021.html#AndradeLLAC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/OliveiraL20" mdate="2022-06-01">
+<author pid="280/9982">Gess&#233; Oliveira</author>
+<author pid="07/2481">George Lima 0001</author>
+<title>Evaluation of Scheduling Algorithms for Embedded FreeRTOS-based Systems.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC51047.2020.9277851</ee>
+<crossref>conf/sbesc/2020</crossref>
+<url>db/conf/sbesc/sbesc2020.html#OliveiraL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/NascimentoL19" mdate="2023-02-10">
+<author pid="296/4846">Fl&#225;via Maristela Santos Nascimento</author>
+<author pid="07/2481">George Lima 0001</author>
+<title>A Flexible Framework to Schedule Soft Aperiodic Tasks in Hard Real-Time Systems.</title>
+<pages>1-8</pages>
+<year>2019</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC49506.2019.9046046</ee>
+<crossref>conf/sbesc/2019</crossref>
+<url>db/conf/sbesc/sbesc2019.html#NascimentoL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/TeixeiraL19" mdate="2022-06-01">
+<author pid="321/3191">Ricardo Brasil Teixeira</author>
+<author pid="07/2481">George Lima 0001</author>
+<title>Improved task packing for shared resources in multiprocessor real-time systems scheduled by RUN under SBLP.</title>
+<pages>1-8</pages>
+<year>2019</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC49506.2019.9046074</ee>
+<crossref>conf/sbesc/2019</crossref>
+<url>db/conf/sbesc/sbesc2019.html#TeixeiraL19</url>
+</inproceedings>
+</r>
+<r><article key="journals/esl/GilBLSGC17" mdate="2022-06-01">
+<author pid="205/4120">Samuel Jimenez Gil</author>
+<author orcid="0000-0003-2415-8219" pid="b/IainBate">Iain Bate</author>
+<author orcid="0000-0002-8468-5224" pid="07/2481">George Lima 0001</author>
+<author pid="65/7791">Luca Santinelli</author>
+<author pid="135/1065">Adriana Gogonel</author>
+<author pid="18/2956">Liliana Cucu-Grosjean</author>
+<title>Open Challenges for Probabilistic Measurement-Based Worst-Case Execution Time.</title>
+<pages>69-72</pages>
+<year>2017</year>
+<volume>9</volume>
+<journal>IEEE Embed. Syst. Lett.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/LES.2017.2712858</ee>
+<url>db/journals/esl/esl9.html#GilBLSGC17</url>
+</article>
+</r>
+<r><inproceedings key="conf/rtas/LimaB17" mdate="2023-03-23">
+<author pid="07/2481">George Lima 0001</author>
+<author pid="b/IainBate">Iain Bate</author>
+<title>Valid Application of EVT in Timing Analysis by Randomising Execution Time Measurements.</title>
+<pages>187-198</pages>
+<year>2017</year>
+<booktitle>RTAS</booktitle>
+<ee>https://doi.org/10.1109/RTAS.2017.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RTAS.2017.17</ee>
+<crossref>conf/rtas/2017</crossref>
+<url>db/conf/rtas/rtas2017.html#LimaB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtss/NascimentoLM17" mdate="2023-03-24">
+<author pid="296/4846">Fl&#225;via Maristela Santos Nascimento</author>
+<author pid="07/2481">George Lima 0001</author>
+<author orcid="0000-0001-7266-2052" pid="53/8452">Ernesto Massa</author>
+<title>Work-in-Progress: Dealing with Aperiodic Tasks on Quasi-Partitioning Scheduling.</title>
+<pages>381-383</pages>
+<year>2017</year>
+<booktitle>RTSS</booktitle>
+<ee>https://doi.org/10.1109/RTSS.2017.00048</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RTSS.2017.00048</ee>
+<crossref>conf/rtss/2017</crossref>
+<url>db/conf/rtss/rtss2017.html#NascimentoLM17</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijes/NassiffeCLM16" mdate="2022-06-01">
+<author pid="80/11063">R&#237;ad Nassiffe</author>
+<author pid="13/493">Eduardo Camponogara</author>
+<author pid="07/2481">George Lima 0001</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<title>Optimising QoS in adaptive real-time systems with energy constraint varying CPU frequency.</title>
+<pages>368-379</pages>
+<year>2016</year>
+<volume>8</volume>
+<journal>Int. J. Embed. Syst.</journal>
+<number>5/6</number>
+<ee>https://doi.org/10.1504/IJES.2016.10001303</ee>
+<url>db/journals/ijes/ijes8.html#NassiffeCLM16</url>
+</article>
+</r>
+<r><article key="journals/ijes/NicodemosSLS16" mdate="2022-06-01">
+<author pid="160/4685">Fernando Nicodemos</author>
+<author pid="70/2216">Osamu Saotome</author>
+<author pid="07/2481">George Lima 0001</author>
+<author pid="71/11333">Sandro S. Sato</author>
+<title>A minimally intrusive method for analysing the timing of RTEMS core characteristics.</title>
+<pages>391-411</pages>
+<year>2016</year>
+<volume>8</volume>
+<journal>Int. J. Embed. Syst.</journal>
+<number>5/6</number>
+<ee>https://doi.org/10.1504/IJES.2016.10001312</ee>
+<url>db/journals/ijes/ijes8.html#NicodemosSLS16</url>
+</article>
+</r>
+<r><article key="journals/ijes/MassaLR16" mdate="2022-06-01">
+<author orcid="0000-0001-7266-2052" pid="53/8452">Ernesto Massa</author>
+<author pid="07/2481">George Lima 0001</author>
+<author pid="59/7129">Paul Regnier</author>
+<title>From RUN to QPS: new trends for optimal real-time multiprocessor scheduling.</title>
+<pages>440-451</pages>
+<year>2016</year>
+<volume>8</volume>
+<journal>Int. J. Embed. Syst.</journal>
+<number>5/6</number>
+<ee>https://doi.org/10.1504/IJES.2016.10001367</ee>
+<url>db/journals/ijes/ijes8.html#MassaLR16</url>
+</article>
+</r>
+<r><article key="journals/rts/MassaLRLB16" mdate="2022-06-01">
+<author orcid="0000-0001-7266-2052" pid="53/8452">Ernesto Massa</author>
+<author orcid="0000-0002-8468-5224" pid="07/2481">George Lima 0001</author>
+<author pid="59/7129">Paul Regnier</author>
+<author pid="21/8375">Greg Levin</author>
+<author pid="b/ScottABrandt">Scott A. Brandt</author>
+<title>Quasi-partitioned scheduling: optimality and adaptation in multiprocessor real-time systems.</title>
+<pages>566-597</pages>
+<year>2016</year>
+<volume>52</volume>
+<journal>Real Time Syst.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s11241-016-9251-6</ee>
+<url>db/journals/rts/rts52.html#MassaLRLB16</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecrts/LimaDB16" mdate="2023-03-23">
+<author pid="07/2481">George Lima 0001</author>
+<author pid="185/1703">Dario Dias</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<title>Extreme Value Theory for Estimating Task Execution Time Bounds: A Careful Look.</title>
+<pages>200-211</pages>
+<year>2016</year>
+<booktitle>ECRTS</booktitle>
+<ee>https://doi.org/10.1109/ECRTS.2016.20</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ECRTS.2016.20</ee>
+<crossref>conf/ecrts/2016</crossref>
+<url>db/conf/ecrts/ecrts2016.html#LimaDB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/DiasLB16" mdate="2023-03-23">
+<author pid="185/1703">Dario Dias</author>
+<author pid="07/2481">George Lima 0001</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<title>A Cache Design Assessment Approach for Embedded Real-Time Systems Based on Execution Time Measurement.</title>
+<pages>168-173</pages>
+<year>2016</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2016.033</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2016.033</ee>
+<crossref>conf/sbesc/2016</crossref>
+<url>db/conf/sbesc/sbesc2016.html#DiasLB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/SantosLB15" mdate="2023-03-23">
+<author pid="140/7952">J. Augusto Santos Junior</author>
+<author pid="07/2481">George Lima 0001</author>
+<author orcid="0000-0002-3640-0239" pid="06/2780">Konstantinos Bletsas</author>
+<title>Considerations on the Least Upper Bound for Mixed-Criticality Real-Time Systems.</title>
+<pages>58-63</pages>
+<year>2015</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2015.18</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2015.18</ee>
+<crossref>conf/sbesc/2015</crossref>
+<url>db/conf/sbesc/sbesc2015.html#SantosLB15</url>
+</inproceedings>
+</r>
+<r><article key="journals/dafes/JuniorLB14" mdate="2022-06-01">
+<author pid="140/7952">J. Augusto Santos Junior</author>
+<author orcid="0000-0002-8468-5224" pid="07/2481">George Lima 0001</author>
+<author orcid="0000-0002-3640-0239" pid="06/2780">Konstantinos Bletsas</author>
+<title>Efficient schedulability tests for real-time embedded systems with urgent routines.</title>
+<pages>19-38</pages>
+<year>2014</year>
+<volume>18</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1007/s10617-013-9113-6</ee>
+<url>db/journals/dafes/dafes18.html#JuniorLB14</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecrts/MassaLRLB14" mdate="2023-03-23">
+<author orcid="0000-0001-7266-2052" pid="53/8452">Ernesto Massa</author>
+<author pid="07/2481">George Lima 0001</author>
+<author pid="59/7129">Paul Regnier</author>
+<author pid="21/8375">Greg Levin</author>
+<author pid="b/ScottABrandt">Scott A. Brandt</author>
+<title>OUTSTANDING PAPER: Optimal and Adaptive Multiprocessor Real-Time Scheduling: The Quasi-Partitioning Approach.</title>
+<pages>291-300</pages>
+<year>2014</year>
+<booktitle>ECRTS</booktitle>
+<ee>https://doi.org/10.1109/ECRTS.2014.19</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ECRTS.2014.19</ee>
+<crossref>conf/ecrts/2014</crossref>
+<url>db/conf/ecrts/ecrts2014.html#MassaLRLB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/MosseCL14" mdate="2023-03-23">
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<author orcid="0000-0002-0236-0689" pid="13/493">Eduardo Camponogara</author>
+<author pid="07/2481">George Lima 0001</author>
+<title>A Model Considering QoS for Real-Time Systems with Energy and Temperature Constraints.</title>
+<pages>115-120</pages>
+<year>2014</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2014.10</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2014.10</ee>
+<crossref>conf/sbesc/2014</crossref>
+<url>db/conf/sbesc/sbesc2014.html#MosseCL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/MassaLR14" mdate="2023-03-23">
+<author orcid="0000-0001-7266-2052" pid="53/8452">Ernesto Massa</author>
+<author pid="07/2481">George Lima 0001</author>
+<author pid="59/7129">Paul Regnier</author>
+<title>Revealing the Secrets of RUN and QPS: New Trends for Optimal Real-Time Multiprocessor Scheduling.</title>
+<pages>150-155</pages>
+<year>2014</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2014.32</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2014.32</ee>
+<crossref>conf/sbesc/2014</crossref>
+<url>db/conf/sbesc/sbesc2014.html#MassaLR14</url>
+</inproceedings>
+</r>
+<r><article key="journals/rts/RegnierLMLB13" mdate="2022-06-01">
+<author pid="59/7129">Paul Regnier</author>
+<author orcid="0000-0002-8468-5224" pid="07/2481">George Lima 0001</author>
+<author orcid="0000-0001-7266-2052" pid="53/8452">Ernesto Massa</author>
+<author pid="21/8375">Greg Levin</author>
+<author pid="b/ScottABrandt">Scott A. Brandt</author>
+<title>Multiprocessor scheduling by reduction to uniprocessor: an original optimal approach.</title>
+<pages>436-474</pages>
+<year>2013</year>
+<volume>49</volume>
+<journal>Real Time Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s11241-012-9165-x</ee>
+<url>db/journals/rts/rts49.html#RegnierLMLB13</url>
+</article>
+</r>
+<r><article key="journals/sigbed/NassiffeCL13" mdate="2022-06-01">
+<author pid="80/11063">R&#237;ad Nassiffe</author>
+<author pid="13/493">Eduardo Camponogara</author>
+<author orcid="0000-0002-8468-5224" pid="07/2481">George Lima 0001</author>
+<title>Optimizing QoS in energy-aware real-time systems.</title>
+<pages>25</pages>
+<year>2013</year>
+<volume>10</volume>
+<journal>SIGBED Rev.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2518148.2518163</ee>
+<url>db/journals/sigbed/sigbed10.html#NassiffeCL13</url>
+</article>
+</r>
+<r><inproceedings key="conf/rtss/JuniorLBK13" mdate="2023-03-24">
+<author pid="140/7952">J. Augusto Santos Junior</author>
+<author pid="07/2481">George Lima 0001</author>
+<author orcid="0000-0002-3640-0239" pid="06/2780">Konstantinos Bletsas</author>
+<author pid="87/7044">Shinpei Kato</author>
+<title>Multiprocessor Real-Time Scheduling with a Few Migrating Tasks.</title>
+<pages>170-181</pages>
+<year>2013</year>
+<booktitle>RTSS</booktitle>
+<ee>https://doi.org/10.1109/RTSS.2013.25</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RTSS.2013.25</ee>
+<crossref>conf/rtss/2013</crossref>
+<url>db/conf/rtss/rtss2013.html#JuniorLBK13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/CamponogaraLMN13" mdate="2023-03-23">
+<author orcid="0000-0002-0236-0689" pid="13/493">Eduardo Camponogara</author>
+<author pid="07/2481">George Lima 0001</author>
+<author pid="m/DanielMosse">Daniel Moss&#233;</author>
+<author orcid="0000-0003-4815-0430" pid="80/11063">R&#237;ad Nassiffe</author>
+<title>Optimizing QoS in Adaptive Real-Time Systems with Energy Constraint Varying CPU Frequency.</title>
+<pages>101-106</pages>
+<year>2013</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2013.9</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2013.9</ee>
+<crossref>conf/sbesc/2013</crossref>
+<url>db/conf/sbesc/sbesc2013.html#CamponogaraLMN13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/NicodemosSL13" mdate="2025-03-03">
+<author orcid="0000-0003-0350-5226" pid="160/4685">Fernando Nicodemos</author>
+<author orcid="0000-0002-1568-9299" pid="70/2216">Osamu Saotome</author>
+<author pid="07/2481">George Lima 0001</author>
+<title>RTEMS Core Analysis for Space Applications.</title>
+<pages>125-130</pages>
+<year>2013</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2013.22</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2013.22</ee>
+<crossref>conf/sbesc/2013</crossref>
+<url>db/conf/sbesc/sbesc2013.html#NicodemosSL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/MalheirosL13" mdate="2022-06-01">
+<author pid="121/2899">Yuri Malheiros</author>
+<author pid="07/2481">George Lima 0001</author>
+<title>Uma Ferramenta para An&#225;lise de Sentimentos em Redes Sociais Utilizando o SenticNet.</title>
+<pages>517-522</pages>
+<year>2013</year>
+<booktitle>SBSI</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbsi.2013.5717</ee>
+<crossref>conf/sbsi/2013</crossref>
+<url>db/conf/sbsi/sbsi2013.html#MalheirosL13</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigops/FrohlichBLPSB12" mdate="2022-06-01">
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="24/3796">Leandro Buss Becker</author>
+<author pid="07/2481">George Lima 0001</author>
+<author pid="17/11062">Stefan Petters</author>
+<author pid="03/6463">Dilma M. Da Silva</author>
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
+<title>Brazilian symposium on computing system engineering.</title>
+<pages>52</pages>
+<year>2012</year>
+<volume>46</volume>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2146382.2146393</ee>
+<url>db/journals/sigops/sigops46.html#FrohlichBLPSB12</url>
+</article>
+</r>
+<r><article key="journals/sigops/NassiffeCL12" mdate="2022-06-01">
+<author pid="80/11063">R&#237;ad Nassiffe</author>
+<author pid="13/493">Eduardo Camponogara</author>
+<author orcid="0000-0002-8468-5224" pid="07/2481">George Lima 0001</author>
+<title>Optimizing quality of service in real-time systems under energy constraints.</title>
+<pages>82-92</pages>
+<year>2012</year>
+<volume>46</volume>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2146382.2146397</ee>
+<url>db/journals/sigops/sigops46.html#NassiffeCL12</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbesc/JuniorL12" mdate="2023-03-23">
+<author pid="140/7952">J. Augusto Santos Junior</author>
+<author pid="07/2481">George Lima 0001</author>
+<title>Sufficient Schedulability Tests for EDF-Scheduled Real-Time Systems under Interference of a High Priority Task.</title>
+<pages>131-136</pages>
+<year>2012</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2012.33</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2012.33</ee>
+<crossref>conf/sbesc/2012</crossref>
+<url>db/conf/sbesc/sbesc2012.html#JuniorL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipccc/CarianhaBL11" mdate="2023-03-24">
+<author pid="82/11199">Antonio M. Carianha</author>
+<author pid="89/7803">Luciano Barreto</author>
+<author pid="07/2481">George Lima 0001</author>
+<title>Improving location privacy in mix-zones for VANETs.</title>
+<pages>1-6</pages>
+<year>2011</year>
+<booktitle>IPCCC</booktitle>
+<ee>https://doi.org/10.1109/PCCC.2011.6108111</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PCCC.2011.6108111</ee>
+<crossref>conf/ipccc/2011</crossref>
+<url>db/conf/ipccc/ipccc2011.html#CarianhaBL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rtss/RegnierLMLB11" mdate="2023-03-24">
+<author pid="59/7129">Paul Regnier</author>
+<author pid="07/2481">George Lima 0001</author>
+<author orcid="0000-0001-7266-2052" pid="53/8452">Ernesto Massa</author>
+<author pid="21/8375">Greg Levin</author>
+<author pid="b/ScottABrandt">Scott A. Brandt</author>
+<title>RUN: Optimal Multiprocessor Real-Time Scheduling via Reduction to Uniprocessor.</title>
+<pages>104-115</pages>
+<year>2011</year>
+<booktitle>RTSS</booktitle>
+<ee>https://doi.org/10.1109/RTSS.2011.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RTSS.2011.17</ee>
+<crossref>conf/rtss/2011</crossref>
+<url>db/conf/rtss/rtss2011.html#RegnierLMLB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/NassiffeCL11" mdate="2023-03-23">
+<author orcid="0000-0003-4815-0430" pid="80/11063">R&#237;ad Nassiffe</author>
+<author orcid="0000-0002-0236-0689" pid="13/493">Eduardo Camponogara</author>
+<author pid="07/2481">George Lima 0001</author>
+<title>A Model for Reconfiguration of Multi-Modal Real-Time Systems under Energy Constraints.</title>
+<pages>127-132</pages>
+<year>2011</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2011.9</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2011.9</ee>
+<crossref>conf/sbesc/2011</crossref>
+<url>db/conf/sbesc/sbesc2011.html#NassiffeCL11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1104-3523" mdate="2022-06-01">
+<author pid="59/7129">Paul Regnier</author>
+<author pid="07/2481">George Lima 0001</author>
+<author pid="53/8452">Ernesto Massa</author>
+<title>An Optimal Real-Time Scheduling Approach: From Multiprocessor to Uniprocessor</title>
+<ee type="oa">http://arxiv.org/abs/1104.3523</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1104.3523</volume>
+<url>db/journals/corr/corr1104.html#abs-1104-3523</url>
+</article>
+</r>
+<r><article key="journals/isse/MunizAL10" mdate="2022-06-01">
+<author pid="96/8682">Andr&#233; L. N. Muniz</author>
+<author pid="50/915">Aline Maria Santos Andrade</author>
+<author orcid="0000-0002-8468-5224" pid="07/2481">George Lima 0001</author>
+<title>Integrating UML and UPPAAL for designing, specifying and verifying component-based real-time systems.</title>
+<pages>29-37</pages>
+<year>2010</year>
+<volume>6</volume>
+<journal>Innov. Syst. Softw. Eng.</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1007/s11334-009-0103-6</ee>
+<url>db/journals/isse/isse6.html#MunizAL10</url>
+</article>
+</r>
+<r><article key="journals/tii/CamponogaraOL10" mdate="2022-06-01">
+<author orcid="0000-0002-0236-0689" pid="13/493">Eduardo Camponogara</author>
+<author pid="81/1753">Augusto Born de Oliveira</author>
+<author orcid="0000-0002-8468-5224" pid="07/2481">George Lima 0001</author>
+<title>Optimization-Based Dynamic Reconfiguration of Real-Time Schedulers with Support for Stochastic Processor Consumption.</title>
+<pages>594-609</pages>
+<year>2010</year>
+<volume>6</volume>
+<journal>IEEE Trans. Ind. Informatics</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TII.2010.2053937</ee>
+<url>db/journals/tii/tii6.html#CamponogaraOL10</url>
+</article>
+</r>
+<r><inproceedings key="conf/rtas/MassaL10" mdate="2023-03-23">
+<author orcid="0000-0001-7266-2052" pid="53/8452">Ernesto Massa</author>
+<author pid="07/2481">George Lima 0001</author>
+<title>A Bandwidth Reservation Strategy for Multiprocessor Real-Time Scheduling.</title>
+<pages>175-183</pages>
+<year>2010</year>
+<booktitle>IEEE Real-Time and Embedded Technology and Applications Symposium</booktitle>
+<ee>https://doi.org/10.1109/RTAS.2010.35</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RTAS.2010.35</ee>
+<crossref>conf/rtas/2010</crossref>
+<url>db/conf/rtas/rtas2010.html#MassaL10</url>
+</inproceedings>
+</r>
+<r><article key="journals/jucs/PerroneMLL09" mdate="2024-07-25">
+<author pid="67/7849">Ricardo Perrone</author>
+<author pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<author orcid="0000-0002-8468-5224" pid="07/2481">George Lima 0001</author>
+<author pid="95/7849">Veronica Lima</author>
+<title>An Approach for Estimating Execution Time Probability Distributions of Component-based Real-Time Systems.</title>
+<pages>2142-2165</pages>
+<year>2009</year>
+<volume>15</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>11</number>
+<ee type="oa">https://doi.org/10.3217/jucs-015-11-2142</ee>
+<url>db/journals/jucs/jucs15.html#PerroneMLL09</url>
+</article>
+</r>
+<r><inproceedings key="conf/rtas/OliveiraCL09" mdate="2023-03-23">
+<author pid="81/1753">Augusto Born de Oliveira</author>
+<author orcid="0000-0002-0236-0689" pid="13/493">Eduardo Camponogara</author>
+<author pid="07/2481">George Lima 0001</author>
+<title>Dynamic Reconfiguration in Reservation-Based Scheduling: An Optimization Approach.</title>
+<pages>173-182</pages>
+<year>2009</year>
+<booktitle>IEEE Real-Time and Embedded Technology and Applications Symposium</booktitle>
+<ee>https://doi.org/10.1109/RTAS.2009.14</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RTAS.2009.14</ee>
+<crossref>conf/rtas/2009</crossref>
+<url>db/conf/rtas/rtas2009.html#OliveiraCL09</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigops/RegnierLB08" mdate="2022-06-01">
+<author pid="59/7129">Paul Regnier</author>
+<author orcid="0000-0002-8468-5224" pid="07/2481">George Lima 0001</author>
+<author pid="89/7803">Luciano Barreto</author>
+<title>Evaluation of interrupt handling timeliness in real-time Linux operating systems.</title>
+<pages>52-63</pages>
+<year>2008</year>
+<volume>42</volume>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/1453775.1453787</ee>
+<url>db/journals/sigops/sigops42.html#RegnierLB08</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecrts/LimaCS08" mdate="2024-10-06">
+<author pid="07/2481">George Lima 0001</author>
+<author orcid="0000-0002-0236-0689" pid="13/493">Eduardo Camponogara</author>
+<author orcid="0000-0002-8027-273X" pid="78/4399">Ana Carolina Sokolonski</author>
+<title>Dynamic Reconfiguration for Adaptive Multiversion Real-Time Systems.</title>
+<pages>115-124</pages>
+<year>2008</year>
+<booktitle>ECRTS</booktitle>
+<ee>https://doi.org/10.1109/ECRTS.2008.24</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ECRTS.2008.24</ee>
+<crossref>conf/ecrts/2008</crossref>
+<url>db/conf/ecrts/ecrts2008.html#LimaCS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcars/PerroneMLL08" mdate="2024-11-27">
+<author pid="67/7849">Ricardo Perrone</author>
+<author pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</author>
+<author pid="07/2481">George Lima 0001</author>
+<author pid="95/7849">Veronica Lima</author>
+<title>Uma Abordagem para Estimar Tempos de Execu&#231;&#227;o em Sistemas de Tempo Real baseados em Componentes.</title>
+<pages>82-95</pages>
+<year>2008</year>
+<booktitle>SBCARS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbcars.2008.46203</ee>
+<crossref>conf/sbcars/2008</crossref>
+<url>db/conf/sbcars/sbcars2008.html#PerroneMLL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/RegnierLA09" mdate="2023-03-09">
+<author pid="59/7129">Paul Regnier</author>
+<author orcid="0000-0002-8468-5224" pid="07/2481">George Lima 0001</author>
+<author pid="50/915">Aline Maria Santos Andrade</author>
+<title>A TLA+ Formal Specification and Verification of a New Real-Time Communication Protocol.</title>
+<pages>221-238</pages>
+<year>2008</year>
+<crossref>conf/sbmf/2008</crossref>
+<booktitle>SBMF</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2009.05.054</ee>
+<url>db/journals/entcs/entcs240.html#RegnierLA09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/BarbozaASL08" mdate="2023-02-09">
+<author pid="90/2652">Frederico J. R. Barboza</author>
+<author pid="50/915">Aline Maria Santos Andrade</author>
+<author pid="49/9862">Fl&#225;vio Morais de Assis Silva</author>
+<author orcid="0000-0002-8468-5224" pid="07/2481">George Lima 0001</author>
+<title>Specification and Verification of the IEEE 802.11 Medium Access Control and an Analysis of its Applicability to Real-Time Systems.</title>
+<pages>3-20</pages>
+<year>2006</year>
+<crossref>conf/sbmf/2006</crossref>
+<booktitle>SBMF</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2007.08.024</ee>
+<url>db/journals/entcs/entcs195.html#BarbozaASL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ladc/LimaB05" mdate="2022-03-17">
+<author pid="07/2481">George Marconi de Araujo Lima</author>
+<author pid="b/AlanBurns">Alan Burns 0001</author>
+<title>Scheduling Fixed-Priority Hard Real-Time Tasks in the Presence of Faults.</title>
+<pages>154-173</pages>
+<year>2005</year>
+<crossref>conf/ladc/2005</crossref>
+<booktitle>LADC</booktitle>
+<ee>https://doi.org/10.1007/11572329_14</ee>
+<url>db/conf/ladc/ladc2005.html#LimaB05</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ethos/Lima03" mdate="2022-04-05">
+<author pid="07/2481">George Marconi de Araujo Lima</author>
+<title>Fault tolerance in fixed-priority hard real-time distributed systems.</title>
+<year>2003</year>
+<school>University of York, UK</school>
+<ee>https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.400278</ee>
+<note type="source">British Library, EThOS</note>
+</phdthesis>
+</r>
+<r><article key="journals/tc/LimaB03" mdate="2022-03-17">
+<author orcid="0000-0002-8468-5224" pid="07/2481">George Marconi de Araujo Lima</author>
+<author pid="b/AlanBurns">Alan Burns 0001</author>
+<title>An Optimal Fixed-Priority Assignment Algorithm for Supporting Fault-Tolerant Hard Real-Time Systems.</title>
+<pages>1332-1346</pages>
+<year>2003</year>
+<volume>52</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TC.2003.1234530</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2003.1234530</ee>
+<url>db/journals/tc/tc52.html#LimaB03</url>
+</article>
+</r>
+<r><inproceedings key="conf/rtss/LimaB03" mdate="2023-03-24">
+<author pid="07/2481">George Marconi de Araujo Lima</author>
+<author pid="b/AlanBurns">Alan Burns 0001</author>
+<title>A Consensus Protocol for CAN-Based Systems.</title>
+<pages>420-429</pages>
+<year>2003</year>
+<crossref>conf/rtss/2003</crossref>
+<booktitle>RTSS</booktitle>
+<ee>https://doi.org/10.1109/REAL.2003.1253289</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/REAL.2003.1253289</ee>
+<url>db/conf/rtss/rtss2003.html#LimaB03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecrts/LimaB01" mdate="2023-03-23">
+<author pid="07/2481">George Marconi de Araujo Lima</author>
+<author pid="b/AlanBurns">Alan Burns 0001</author>
+<title>An Effective Schedulability Analysis for Fault-Tolerant Hard Real-Time Systems.</title>
+<pages>209-216</pages>
+<year>2001</year>
+<crossref>conf/ecrts/2001</crossref>
+<booktitle>ECRTS</booktitle>
+<ee>https://doi.org/10.1109/EMRTS.2001.934034</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/EMRTS.2001.934034</ee>
+<url>db/conf/ecrts/ecrts2001.html#LimaB01</url>
+</inproceedings>
+</r>
+<coauthors n="55" nc="4">
+<co c="0"><na f="a/Abdedda=iuml=m:Yasmina" pid="64/870">Yasmina Abdedda&#239;m</na></co>
+<co c="3"><na f="a/Alves:Allan_S=_G=" pid="392/7946">Allan S. G. Alves</na></co>
+<co c="0"><na f="a/Andersson:Bj=ouml=rn" pid="39/4827">Bj&#246;rn Andersson</na></co>
+<co c="0" n="2"><na f="a/Andrade:Aline" pid="50/915">Aline Andrade</na><na>Aline Maria Santos Andrade</na></co>
+<co c="0"><na f="a/Andrade:Tadeu_Nogueira_C=" pid="308/6266">Tadeu Nogueira C. Andrade</na></co>
+<co c="0" n="2"><na f="a/Assis_0001:Fl=aacute=vio" pid="49/9862">Fl&#225;vio Assis 0001</na><na>Fl&#225;vio Morais de Assis Silva</na></co>
+<co c="0"><na f="b/Barboza:Frederico_J=_R=" pid="90/2652">Frederico J. R. Barboza</na></co>
+<co c="0"><na f="b/Barreto_0003:Jo=atilde=o" pid="362/1656">Jo&#227;o Barreto 0003</na></co>
+<co c="0"><na f="b/Barreto:Luciano" pid="89/7803">Luciano Barreto</na></co>
+<co c="0" n="2"><na f="b/Barros:Edna" pid="48/6034">Edna Barros</na><na>Edna Natividade da Silva Barros</na></co>
+<co c="0"><na f="b/Bate:Iain" pid="b/IainBate">Iain Bate</na></co>
+<co c="0"><na f="b/Becker:Leandro_Buss" pid="24/3796">Leandro Buss Becker</na></co>
+<co c="0"><na f="b/Bem=Amor:Slim" pid="367/0239">Slim Bem-Amor</na></co>
+<co c="0"><na f="b/Bletsas:Konstantinos" pid="06/2780">Konstantinos Bletsas</na></co>
+<co c="1"><na f="b/Borin:Lais" pid="210/3797">Lais Borin</na></co>
+<co c="0"><na f="b/Brandt:Scott_A=" pid="b/ScottABrandt">Scott A. Brandt</na></co>
+<co c="0"><na f="b/Burns_0001:Alan" pid="b/AlanBurns">Alan Burns 0001</na></co>
+<co c="0"><na f="c/Camponogara:Eduardo" pid="13/493">Eduardo Camponogara</na></co>
+<co c="0"><na f="c/Carianha:Antonio_M=" pid="82/11199">Antonio M. Carianha</na></co>
+<co c="1"><na f="c/Castro_0001:M=aacute=rcio" pid="39/6633">M&#225;rcio Castro 0001</na></co>
+<co c="0"><na f="c/Cucu=Grosjean:Liliana" pid="18/2956">Liliana Cucu-Grosjean</na></co>
+<co c="0"><na f="d/Dias:Dario" pid="185/1703">Dario Dias</na></co>
+<co c="3"><na f="f/Fernandes:Islame_F=_C=" pid="250/5987">Islame F. C. Fernandes</na></co>
+<co c="0"><na f="f/Fr=ouml=hlich:Ant=ocirc=nio_Augusto" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</na></co>
+<co c="0"><na f="g/Gil:Samuel_Jimenez" pid="205/4120">Samuel Jimenez Gil</na></co>
+<co c="0"><na f="g/Gogonel:Adriana" pid="135/1065">Adriana Gogonel</na></co>
+<co c="0"><na f="h/Hawila:Ismail" pid="335/8812">Ismail Hawila</na></co>
+<co c="0"><na f="j/Junior:J=_Augusto_Santos" pid="140/7952">J. Augusto Santos Junior</na></co>
+<co c="0"><na f="k/Kato:Shinpei" pid="87/7044">Shinpei Kato</na></co>
+<co c="0"><na f="k/Khazen:Marwan_Wehaiba_el" pid="286/5311">Marwan Wehaiba el Khazen</na></co>
+<co c="0"><na f="l/Levin:Greg" pid="21/8375">Greg Levin</na></co>
+<co c="0"><na f="l/Lima:Veronica" pid="95/7849">Veronica Lima</na></co>
+<co c="0"><na f="l/Lima:Veronica_Maria_Cadena" pid="308/6018">Veronica Maria Cadena Lima</na></co>
+<co c="0"><na f="m/Mac=ecirc=do:Raimundo_Jos=eacute=_de_Ara=uacute=jo" pid="m/RJdAMacedo">Raimundo Jos&#233; de Ara&#250;jo Mac&#234;do</na></co>
+<co c="-1"><na f="m/Malheiros:Yuri" pid="121/2899">Yuri Malheiros</na></co>
+<co c="0"><na f="m/Massa:Ernesto" pid="53/8452">Ernesto Massa</na></co>
+<co c="0"><na f="m/Moss=eacute=:Daniel" pid="m/DanielMosse">Daniel Moss&#233;</na></co>
+<co c="0"><na f="m/Muniz:Andr=eacute=_L=_N=" pid="96/8682">Andr&#233; L. N. Muniz</na></co>
+<co c="0"><na f="n/Nascimento:Fl=aacute=via_Maristela_Santos" pid="296/4846">Fl&#225;via Maristela Santos Nascimento</na></co>
+<co c="0"><na f="n/Nassiffe:R=iacute=ad" pid="80/11063">R&#237;ad Nassiffe</na></co>
+<co c="2"><na f="n/Nicodemos:Fernando" pid="160/4685">Fernando Nicodemos</na></co>
+<co c="0"><na f="o/Oliveira:Augusto_Born_de" pid="81/1753">Augusto Born de Oliveira</na></co>
+<co c="-1"><na f="o/Oliveira:Gess=eacute=" pid="280/9982">Gess&#233; Oliveira</na></co>
+<co c="0"><na f="p/Perrone:Ricardo" pid="67/7849">Ricardo Perrone</na></co>
+<co c="0"><na f="p/Petrucci:Vinicius" pid="80/2060">Vinicius Petrucci</na></co>
+<co c="0"><na f="p/Petters:Stefan" pid="17/11062">Stefan Petters</na></co>
+<co c="1"><na f="p/Plentz:Patricia_Della_M=eacute=a" pid="83/1063">Patricia Della M&#233;a Plentz</na></co>
+<co c="0"><na f="r/Regnier:Paul" pid="59/7129">Paul Regnier</na></co>
+<co c="0"><na f="s/Santinelli:Luca" pid="65/7791">Luca Santinelli</na></co>
+<co c="2"><na f="s/Saotome:Osamu" pid="70/2216">Osamu Saotome</na></co>
+<co c="2"><na f="s/Sato:Sandro_S=" pid="71/11333">Sandro S. Sato</na></co>
+<co c="0" n="2"><na f="s/Silva:Dilma_Da" pid="03/6463">Dilma Da Silva</na><na>Dilma M. Da Silva</na></co>
+<co c="0"><na f="s/Sokolonski:Ana_Carolina" pid="78/4399">Ana Carolina Sokolonski</na></co>
+<co c="-1"><na f="t/Teixeira:Ricardo_Brasil" pid="321/3191">Ricardo Brasil Teixeira</na></co>
+<co c="0"><na f="v/Vasconcelos:Jamile_de_Barros" pid="335/3350">Jamile de Barros Vasconcelos</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,1518 @@
+<?xml version="1.0"?>
+<dblpperson name="Heitor A. X. Costa" pid="42/7676" n="96">
+<person key="homepages/42/7676" mdate="2025-01-10">
+<author pid="42/7676">Heitor A. X. Costa</author>
+<author pid="42/7676">Heitor Augustus Xavier Costa</author>
+<note type="affiliation">Federal University of Lavras, MG, Brazil</note>
+<url>https://orcid.org/0000-0002-9903-7414</url>
+<url>https://www.wikidata.org/entity/Q130847176</url>
+</person>
+<r><article key="journals/ese/MartinsPCFPM25" mdate="2025-03-03">
+<author pid="232/9212">Luana Almeida Martins</author>
+<author orcid="0000-0001-6012-9947" pid="300/3376">Valeria Pontillo</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<author pid="68/6536">Filomena Ferrucci</author>
+<author pid="116/6732">Fabio Palomba</author>
+<author orcid="0000-0001-9027-2293" pid="33/9369">Ivan do Carmo Machado</author>
+<title>Test code refactoring unveiled: where and how does it affect test code quality and effectiveness?</title>
+<pages>27</pages>
+<year>2025</year>
+<month>February</month>
+<volume>30</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10664-024-10577-y</ee>
+<url>db/journals/ese/ese30.html#MartinsPCFPM25</url>
+<stream>streams/journals/ese</stream>
+</article>
+</r>
+<r><article key="journals/ese/ValeCA24" mdate="2024-03-08">
+<author orcid="0000-0002-8879-5797" pid="139/6584">Gustavo Vale</author>
+<author orcid="0000-0002-9903-7414" pid="42/7676">Heitor A. X. Costa</author>
+<author orcid="0000-0003-3687-2233" pid="a/SvenApel">Sven Apel</author>
+<title>Predicting merge conflicts considering social and technical assets.</title>
+<pages>24</pages>
+<year>2024</year>
+<month>February</month>
+<volume>29</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s10664-023-10395-8</ee>
+<url>db/journals/ese/ese29.html#ValeCA24</url>
+</article>
+</r>
+<r><article key="journals/scp/SantanaMVRCM24" mdate="2024-06-24">
+<author orcid="0000-0002-1153-8960" pid="249/1748">Railana Santana</author>
+<author pid="232/9212">Luana Almeida Martins</author>
+<author pid="249/1752">T&#225;ssio Virg&#237;nio</author>
+<author pid="155/7275">Larissa Rocha 0001</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<author pid="33/9369">Ivan Machado 0001</author>
+<title>An empirical evaluation of RAIDE: A semi-automated approach for test smells detection and refactoring.</title>
+<pages>103013</pages>
+<year>2024</year>
+<month>January</month>
+<volume>231</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee>https://doi.org/10.1016/j.scico.2023.103013</ee>
+<url>db/journals/scp/scp231.html#SantanaMVRCM24</url>
+</article>
+</r>
+<r><article key="journals/smr/MartinsCM24" mdate="2025-01-19">
+<author pid="232/9212">Luana Almeida Martins</author>
+<author orcid="0000-0002-9903-7414" pid="42/7676">Heitor A. X. Costa</author>
+<author orcid="0000-0001-9027-2293" pid="33/9369">Ivan Machado 0001</author>
+<title>On the diffusion of test smells and their relationship with test code quality of Java projects.</title>
+<year>2024</year>
+<month>April</month>
+<volume>36</volume>
+<journal>J. Softw. Evol. Process.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/smr.2532</ee>
+<ee>https://www.wikidata.org/entity/Q121177099</ee>
+<url>db/journals/smr/smr36.html#MartinsCM24</url>
+</article>
+</r>
+<r><article key="journals/sqj/MartinsGCM24" mdate="2024-06-24">
+<author pid="232/9212">Luana Almeida Martins</author>
+<author pid="177/7048">Taher Ahmed Ghaleb</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<author pid="33/9369">Ivan Machado 0001</author>
+<title>A comprehensive catalog of refactoring strategies to handle test smells in Java-based systems.</title>
+<pages>641-679</pages>
+<year>2024</year>
+<month>June</month>
+<volume>32</volume>
+<journal>Softw. Qual. J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11219-024-09663-7</ee>
+<url>db/journals/sqj/sqj32.html#MartinsGCM24</url>
+</article>
+</r>
+<r><inproceedings key="conf/iwpc/NunesS0C24" mdate="2025-01-19">
+<author orcid="0000-0003-0982-3014" pid="355/9953">Henrique Gomes Nunes</author>
+<author orcid="0000-0003-1969-3460" pid="276/3266">Amanda Santana</author>
+<author orcid="0000-0002-6004-2718" pid="03/335">Eduardo Figueiredo 0001</author>
+<author orcid="0000-0002-9903-7414" pid="42/7676">Heitor A. X. Costa</author>
+<title>Tuning Code Smell Prediction Models: A Replication Study.</title>
+<pages>316-327</pages>
+<year>2024</year>
+<booktitle>ICPC</booktitle>
+<ee>https://doi.org/10.1145/3643916.3644436</ee>
+<ee>https://ieeexplore.ieee.org/document/10556462</ee>
+<ee>https://www.wikidata.org/entity/Q130847177</ee>
+<crossref>conf/iwpc/2024</crossref>
+<url>db/conf/iwpc/icpc2024.html#NunesS0C24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/PereiraCP24" mdate="2025-01-25">
+<author orcid="0009-0006-4733-9484" pid="394/2091">F&#225;bio Rodrigues Pereira</author>
+<author orcid="0000-0002-9903-7414" pid="42/7676">Heitor Augustus Xavier Costa</author>
+<author orcid="0000-0002-8877-2931" pid="23/7677">Paulo Afonso Parreira</author>
+<title>A Comparative Study of Tools for Anomaly Detection in Software Requirements.</title>
+<pages>11-21</pages>
+<year>2024</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3701625.3701641</ee>
+<crossref>conf/sbqs/2024</crossref>
+<url>db/conf/sbqs/sbqs2024.html#PereiraCP24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/NascimentoCCMF24" mdate="2025-01-25">
+<author orcid="0009-0005-1836-8828" pid="394/3565">Iorrana Maria do Nascimento</author>
+<author orcid="0000-0002-9903-7414" pid="42/7676">Heitor Augustus Xavier Costa</author>
+<author orcid="0009-0008-2037-9691" pid="283/4144">Bruna Santana Capeleti</author>
+<author orcid="0000-0003-1995-3365" pid="394/2713">Neumar Costa Malheiros</author>
+<author pid="32/6218">Andr&#233; Pimenta Freire</author>
+<title>Prototyping of Geolocated Applications with Storyboarding - An Experience Report in the Case of the National Irrigation Information System.</title>
+<pages>488-497</pages>
+<year>2024</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3701625.3701634</ee>
+<crossref>conf/sbqs/2024</crossref>
+<url>db/conf/sbqs/sbqs2024.html#NascimentoCCMF24</url>
+</inproceedings>
+</r>
+<r><article key="journals/rbie/JuniorAFCW23" mdate="2024-02-10">
+<author orcid="0000-0002-8877-2931" pid="23/7677">Paulo Afonso Parreira J&#250;nior</author>
+<author orcid="0000-0002-4848-9453" pid="264/8886">J&#250;lio C&#233;sar Alves</author>
+<author orcid="0000-0001-7894-9740" pid="32/6218">Andr&#233; Pimenta Freire</author>
+<author orcid="0000-0002-9903-7414" pid="42/7676">Heitor Augustus Xavier Costa</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Scaliante Wiese</author>
+<title>Sobre o Ensino de Software Livre na Gradua&#231;&#227;o: Estrat&#233;gias e Li&#231;&#245;es Aprendidas.</title>
+<pages>1200-1224</pages>
+<year>2023</year>
+<volume>31</volume>
+<journal>Revista Brasileira de Inform&#225;tica na Educ.</journal>
+<ee type="oa">https://doi.org/10.5753/rbie.2023.3576</ee>
+<url>db/journals/rbie/rbie31.html#JuniorAFCW23</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse-chase/MartinsCSJCM23" mdate="2024-06-24">
+<author pid="232/9212">Luana Almeida Martins</author>
+<author pid="233/2582">Denivan Campos</author>
+<author pid="249/1748">Railana Santana</author>
+<author pid="250/4390">Joselito Mota J&#250;nior</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<author pid="33/9369">Ivan Machado 0001</author>
+<title>Hearing the voice of experts: Unveiling Stack Exchange communities' knowledge of test smells.</title>
+<pages>80-91</pages>
+<year>2023</year>
+<booktitle>CHASE</booktitle>
+<ee>https://doi.org/10.1109/CHASE58964.2023.00017</ee>
+<crossref>conf/icse-chase/2023</crossref>
+<url>db/conf/icse-chase/chase2023.html#MartinsCSJCM23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scam/MartinsCRPM23" mdate="2024-06-24">
+<author pid="232/9212">Luana Almeida Martins</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<author pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<author pid="116/6732">Fabio Palomba</author>
+<author pid="33/9369">Ivan Machado 0001</author>
+<title>Automating Test-Specific Refactoring Mining: A Mixed-Method Investigation.</title>
+<pages>13-24</pages>
+<year>2023</year>
+<booktitle>SCAM</booktitle>
+<ee>https://doi.org/10.1109/SCAM59687.2023.00013</ee>
+<crossref>conf/scam/2023</crossref>
+<url>db/conf/scam/scam2023.html#MartinsCRPM23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-03431" mdate="2024-06-24">
+<author pid="232/9212">Luana Almeida Martins</author>
+<author pid="233/2582">Denivan Campos</author>
+<author pid="249/1748">Railana Santana</author>
+<author pid="250/4390">Joselito Mota J&#250;nior</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<author pid="33/9369">Ivan Machado 0001</author>
+<title>Hearing the voice of experts: Unveiling Stack Exchange communities' knowledge of test smells.</title>
+<year>2023</year>
+<volume>abs/2305.03431</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.03431</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-03431</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2308-09547" mdate="2025-03-03">
+<author pid="232/9212">Luana Almeida Martins</author>
+<author orcid="0000-0001-6012-9947" pid="300/3376">Valeria Pontillo</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<author pid="68/6536">Filomena Ferrucci</author>
+<author pid="116/6732">Fabio Palomba</author>
+<author pid="33/9369">Ivan Machado 0001</author>
+<title>Test Code Refactoring Unveiled: Where and How Does It Affect Test Code Quality and Effectiveness?</title>
+<year>2023</year>
+<volume>abs/2308.09547</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2308.09547</ee>
+<url>db/journals/corr/corr2308.html#abs-2308-09547</url>
+</article>
+</r>
+<r><inproceedings key="conf/cibse/SantanaMVSCM22" mdate="2024-06-24">
+<author orcid="0000-0002-1153-8960" pid="249/1748">Railana Santana</author>
+<author pid="232/9212">Luana Almeida Martins</author>
+<author orcid="0000-0001-6259-4957" pid="249/1752">T&#225;ssio Virg&#237;nio</author>
+<author orcid="0000-0002-8069-5249" pid="155/7275">Larissa Rocha Soares</author>
+<author orcid="0000-0002-9903-7414" pid="42/7676">Heitor A. X. Costa</author>
+<author orcid="0000-0001-9027-2293" pid="33/9369">Ivan Machado 0001</author>
+<title>Refactoring Assertion Roulette and Duplicate Assert test smells: a controlled experiment.</title>
+<pages>263-277</pages>
+<year>2022</year>
+<booktitle>CIBSE</booktitle>
+<ee>https://doi.org/10.5753/cibse.2022.20977</ee>
+<crossref>conf/cibse/2022</crossref>
+<url>db/conf/cibse/cibse2022.html#SantanaMVSCM22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-05539" mdate="2024-06-24">
+<author pid="249/1748">Railana Santana</author>
+<author pid="232/9212">Luana Almeida Martins</author>
+<author pid="249/1752">T&#225;ssio Virg&#237;nio</author>
+<author pid="155/7275">Larissa Rocha Soares</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<author pid="33/9369">Ivan Machado 0001</author>
+<title>Refactoring Assertion Roulette and Duplicate Assert test smells: a controlled experiment.</title>
+<year>2022</year>
+<volume>abs/2207.05539</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.05539</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-05539</url>
+</article>
+</r>
+<r><article key="journals/jserd/VirginioMSC0CM21" mdate="2024-06-24">
+<author orcid="0000-0001-6259-4957" pid="249/1752">T&#225;ssio Virg&#237;nio</author>
+<author pid="232/9212">Luana Almeida Martins</author>
+<author orcid="0000-0002-1153-8960" pid="249/1748">Railana Santana</author>
+<author orcid="0000-0001-5196-6356" pid="194/3347">Adriana Cruz</author>
+<author orcid="0000-0002-8069-5249" pid="155/7275">Larissa Rocha 0001</author>
+<author orcid="0000-0002-9903-7414" pid="42/7676">Heitor A. X. Costa</author>
+<author orcid="0000-0001-9027-2293" pid="33/9369">Ivan Machado 0001</author>
+<title>On the test smells detection: an empirical study on the JNose Test accuracy.</title>
+<pages>8:1-8:14</pages>
+<year>2021</year>
+<volume>9</volume>
+<journal>J. Softw. Eng. Res. Dev.</journal>
+<ee type="oa">https://doi.org/10.5753/jserd.2021.1893</ee>
+<ee>https://www.wikidata.org/entity/Q111931106</ee>
+<url>db/journals/jserd/jserd9.html#VirginioMSC0CM21</url>
+</article>
+</r>
+<r><article key="journals/jserd/JuniorM0CM21" mdate="2024-06-24">
+<author orcid="0000-0003-1763-3421" pid="260/6678">Nildo Silva Junior</author>
+<author pid="232/9212">Luana Almeida Martins</author>
+<author orcid="0000-0002-8069-5249" pid="155/7275">Larissa Rocha 0001</author>
+<author orcid="0000-0002-9903-7414" pid="42/7676">Heitor A. X. Costa</author>
+<author orcid="0000-0001-9027-2293" pid="33/9369">Ivan Machado 0001</author>
+<title>How are test smells treated in the wild? A tale of two empirical studies.</title>
+<pages>9:1-9:16</pages>
+<year>2021</year>
+<volume>9</volume>
+<journal>J. Softw. Eng. Res. Dev.</journal>
+<ee type="oa">https://doi.org/10.5753/jserd.2021.1802</ee>
+<ee>https://www.wikidata.org/entity/Q111925552</ee>
+<url>db/journals/jserd/jserd9.html#JuniorM0CM21</url>
+</article>
+</r>
+<r><article key="journals/sbcjis/MateusSOCF21" mdate="2023-11-28">
+<author orcid="0000-0002-5832-3115" pid="249/9608">Delvani Ant&#244;nio Mateus</author>
+<author orcid="0000-0002-3535-0065" pid="142/6506">Carlos Alberto Silva</author>
+<author orcid="0000-0002-3828-4331" pid="233/8403">Arthur Floriano Barbosa Andrade de Oliveira</author>
+<author orcid="0000-0002-9903-7414" pid="42/7676">Heitor A. X. Costa</author>
+<author pid="32/6218">Andr&#233; Pimenta Freire</author>
+<title>A Systematic Mapping of Accessibility Problems Encountered on Websites and Mobile Apps: A Comparison Between Automated Tests, Manual Inspections and User Evaluations.</title>
+<pages>145-171</pages>
+<year>2021</year>
+<month>November</month>
+<volume>12</volume>
+<journal>J. Interact. Syst.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5753/jis.2021.1778</ee>
+<url>db/journals/sbcjis/sbcjis12.html#MateusSOCF21</url>
+</article>
+</r>
+<r><inproceedings key="conf/clei/SilvaCCJI21" mdate="2024-02-21">
+<author pid="309/7172">Alexandre J. C. Silva</author>
+<author pid="42/7676">Heitor Augustus Xavier Costa</author>
+<author pid="151/5285">Paula C. F. Cardoso</author>
+<author pid="23/7677">Paulo Afonso Parreira J&#250;nior</author>
+<author pid="266/2563">Ana Carolina Gondim Inoc&#234;ncio</author>
+<title>A Plugin for Analysis the Usage of Virtual Courses in the Moodle Platform.</title>
+<pages>1-5</pages>
+<year>2021</year>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI53233.2021.9640176</ee>
+<crossref>conf/clei/2021</crossref>
+<url>db/conf/clei/clei2021.html#SilvaCCJI21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ease/MartinsBF0CM21" mdate="2024-06-24">
+<author pid="232/9212">Luana Almeida Martins</author>
+<author pid="294/8642">Vinicius Brito</author>
+<author orcid="0000-0003-1562-2745" pid="357/5479">Daniela Soares Feitosa</author>
+<author pid="155/7275">Larissa Rocha 0001</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<author pid="33/9369">Ivan Machado 0001</author>
+<title>From Blackboard to the Office: A Look Into How Practitioners Perceive Software Testing Education.</title>
+<pages>211-220</pages>
+<year>2021</year>
+<booktitle>EASE</booktitle>
+<ee>https://doi.org/10.1145/3463274.3463338</ee>
+<crossref>conf/ease/2021</crossref>
+<url>db/conf/ease/ease2021.html#MartinsBF0CM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/FerreiraJC21" mdate="2022-08-18">
+<author pid="254/6414">Matheus Silva Ferreira</author>
+<author pid="23/7677">Paulo Afonso J&#250;nior</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Developer Tracker App: Uma Ferramenta para Visualizar o Trabalho dos Desenvolvedores.</title>
+<pages>27-32</pages>
+<year>2021</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3474624.3476009</ee>
+<crossref>conf/sbes/2021</crossref>
+<url>db/conf/sbes/sbes2021.html#FerreiraJC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/MartinsBCM21" mdate="2025-01-19">
+<author pid="232/9212">Luana Almeida Martins</author>
+<author pid="09/5610">Carla I. M. Bezerra</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<author pid="33/9369">Ivan Machado 0001</author>
+<title>Smart prediction for refactorings in the software test code.</title>
+<pages>115-120</pages>
+<year>2021</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3474624.3477070</ee>
+<ee>https://www.wikidata.org/entity/Q130868164</ee>
+<crossref>conf/sbes/2021</crossref>
+<url>db/conf/sbes/sbes2021.html#MartinsBCM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/JuniorCKM021" mdate="2025-01-19">
+<author pid="303/3920">Nailton Junior</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<author pid="233/2084">Leila Karita</author>
+<author pid="33/9369">Ivan Machado 0001</author>
+<author pid="155/7275">Larissa Soares 0001</author>
+<title>Experiences and Practices in GUI Functional Testing: A Software Practitioners' View.</title>
+<pages>195-204</pages>
+<year>2021</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3474624.3474640</ee>
+<ee>https://www.wikidata.org/entity/Q130877000</ee>
+<crossref>conf/sbes/2021</crossref>
+<url>db/conf/sbes/sbes2021.html#JuniorCKM021</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/FerreiraJC21" mdate="2024-03-08">
+<author pid="254/6414">Matheus Silva Ferreira</author>
+<author pid="23/7677">Paulo Afonso Parreira J&#250;nior</author>
+<author pid="42/7676">Heitor Augustus Xavier Costa</author>
+<title>Understanding Developers' Work - A Visual Approach for Project Managers.</title>
+<pages>16</pages>
+<year>2021</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3493244.3493256</ee>
+<ee type="oa">https://sol.sbc.org.br/index.php/sbqs/article/view/18578</ee>
+<crossref>conf/sbqs/2021</crossref>
+<url>db/conf/sbqs/sbqs2021.html#FerreiraJC21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2106-06422" mdate="2024-06-24">
+<author pid="232/9212">Luana Almeida Martins</author>
+<author pid="294/8642">Vinicius Brito</author>
+<author pid="357/5479">Daniela Soares Feitosa</author>
+<author pid="155/7275">Larissa Rocha 0001</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<author pid="33/9369">Ivan Machado 0001</author>
+<title>From Blackboard to the Office: A Look Into How Practitioners Perceive Software Testing Education.</title>
+<year>2021</year>
+<volume>abs/2106.06422</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2106.06422</ee>
+<url>db/journals/corr/corr2106.html#abs-2106-06422</url>
+</article>
+</r>
+<r><article key="journals/iet-sen/MartinsJFC20" mdate="2023-10-22">
+<author pid="232/9212">Luana Almeida Martins</author>
+<author pid="23/7677">Paulo Afonso J&#250;nior</author>
+<author pid="32/6218">Andr&#233; Pimenta Freire</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Evolution of quality assessment in SPL: a systematic mapping.</title>
+<pages>572-581</pages>
+<year>2020</year>
+<volume>14</volume>
+<journal>IET Softw.</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.1049/iet-sen.2020.0037</ee>
+<ee>https://www.wikidata.org/entity/Q122883916</ee>
+<url>db/journals/iet-sen/iet-sen14.html#MartinsJFC20</url>
+</article>
+</r>
+<r><article key="journals/jserd/FerreiraMJC20" mdate="2022-02-15">
+<author pid="254/6414">Matheus Silva Ferreira</author>
+<author pid="232/9212">Luana Almeida Martins</author>
+<author pid="23/7677">Paulo Afonso Parreira J&#250;nior</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>How is the Work of Developers Measured? An Industrial and Academic Exploratory View.</title>
+<year>2020</year>
+<volume>8</volume>
+<journal>J. Softw. Eng. Res. Dev.</journal>
+<ee type="oa">https://doi.org/10.5753/jserd.2020.544</ee>
+<url>db/journals/jserd/jserd8.html#FerreiraMJC20</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbes/VirginioMSSCM20" mdate="2024-06-24">
+<author pid="249/1752">T&#225;ssio Virg&#237;nio</author>
+<author pid="232/9212">Luana Almeida Martins</author>
+<author pid="155/7275">Larissa Rocha Soares</author>
+<author pid="249/1748">Railana Santana</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<author pid="33/9369">Ivan Machado 0001</author>
+<title>An empirical study of automatically-generated tests from the perspective of test smells.</title>
+<pages>92-96</pages>
+<year>2020</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3422392.3422412</ee>
+<crossref>conf/sbes/2020</crossref>
+<url>db/conf/sbes/sbes2020.html#VirginioMSSCM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/SantanaMRVCCM20" mdate="2024-06-24">
+<author pid="249/1748">Railana Santana</author>
+<author pid="232/9212">Luana Almeida Martins</author>
+<author pid="155/7275">Larissa Rocha 0001</author>
+<author pid="249/1752">T&#225;ssio Virg&#237;nio</author>
+<author pid="194/3347">Adriana Cruz</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<author pid="33/9369">Ivan Machado 0001</author>
+<title>RAIDE: a tool for Assertion Roulette and Duplicate Assert identification and refactoring.</title>
+<pages>374-379</pages>
+<year>2020</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3422392.3422510</ee>
+<crossref>conf/sbes/2020</crossref>
+<url>db/conf/sbes/sbes2020.html#SantanaMRVCCM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/VirginioMSSCCM20" mdate="2024-06-24">
+<author pid="249/1752">T&#225;ssio Virg&#237;nio</author>
+<author pid="232/9212">Luana Almeida Martins</author>
+<author pid="155/7275">Larissa Rocha Soares</author>
+<author pid="249/1748">Railana Santana</author>
+<author pid="194/3347">Adriana Cruz</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<author pid="33/9369">Ivan Machado 0001</author>
+<title>JNose: Java Test Smell Detector.</title>
+<pages>564-569</pages>
+<year>2020</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3422392.3422499</ee>
+<crossref>conf/sbes/2020</crossref>
+<url>db/conf/sbes/sbes2020.html#VirginioMSSCCM20</url>
+</inproceedings>
+</r>
+<r><article key="journals/isys/SilvaOCJ19" mdate="2024-02-15">
+<author pid="368/4746">&#193;lisson Vila&#231;a Silva</author>
+<author pid="266/2603">Paulo Henrique Lima Oliveira</author>
+<author pid="42/7676">Heitor Augustus Xavier Costa</author>
+<author pid="23/7677">Paulo Afonso Parreira J&#250;nior</author>
+<title>Conv&#234;nios e Contratos de Repasse do Governo Federal: Uma An&#225;lise Comparativa das Aplica&#231;&#245;es FiscalizaBR e SISCONV.</title>
+<pages>60-88</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Braz. J. Inf. Syst.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.5753/isys.2019.389</ee>
+<url>db/journals/isys/isys12.html#SilvaOCJ19</url>
+</article>
+</r>
+<r><inproceedings key="conf/clei/MachadoJC19" mdate="2022-02-15">
+<author pid="265/2605">Valeska Machado</author>
+<author pid="23/7677">Paulo Afonso J&#250;nior</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Risk Catalogs in Software Project Management.</title>
+<pages>1-10</pages>
+<year>2019</year>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI47609.2019.9089044</ee>
+<crossref>conf/clei/2019</crossref>
+<url>db/conf/clei/clei2019.html#MachadoJC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clei/MorenoJC19" mdate="2022-02-15">
+<author pid="265/2766">Wallace Moreno</author>
+<author pid="23/7677">Paulo Afonso J&#250;nior</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Challenges and Solutions of Project Management in Distributed Software Development.</title>
+<pages>1-10</pages>
+<year>2019</year>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI47609.2019.9089043</ee>
+<crossref>conf/clei/2019</crossref>
+<url>db/conf/clei/clei2019.html#MorenoJC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clei/OliveiraVJC19" mdate="2022-02-15">
+<author pid="265/3322">Patr&#237;cia Oliveira</author>
+<author pid="139/6584">Gustavo Vale</author>
+<author pid="23/7677">Paulo Afonso J&#250;nior</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Extraction of a Software Product Line Using Conditional Compilation - An Exploratory Study.</title>
+<pages>1-10</pages>
+<year>2019</year>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI47609.2019.9089045</ee>
+<crossref>conf/clei/2019</crossref>
+<url>db/conf/clei/clei2019.html#OliveiraVJC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ihc/SilvaOMCF19" mdate="2019-10-06">
+<author pid="142/6506">Carlos Alberto Silva</author>
+<author pid="233/8403">Arthur Floriano Barbosa Andrade de Oliveira</author>
+<author pid="249/9608">Delvani Ant&#244;nio Mateus</author>
+<author pid="42/7676">Heitor Augustus Xavier Costa</author>
+<author pid="32/6218">Andr&#233; Pimenta Freire</author>
+<title>Types of problems encountered by automated tool accessibility assessments, expert inspections and user testing: a systematic literature mapping.</title>
+<pages>52:1-52:11</pages>
+<year>2019</year>
+<booktitle>IHC</booktitle>
+<ee>https://doi.org/10.1145/3357155.3358479</ee>
+<crossref>conf/ihc/2019</crossref>
+<url>db/conf/ihc/ihc2019.html#SilvaOMCF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/VirginioSMSCM19" mdate="2024-06-24">
+<author pid="249/1752">T&#225;ssio Virg&#237;nio</author>
+<author pid="249/1748">Railana Santana</author>
+<author pid="232/9212">Luana Almeida Martins</author>
+<author pid="155/7275">Larissa Rocha Soares</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<author pid="33/9369">Ivan Machado 0001</author>
+<title>On the influence of Test Smells on Test Coverage.</title>
+<pages>467-471</pages>
+<year>2019</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3350768.3350775</ee>
+<crossref>conf/sbes/2019</crossref>
+<url>db/conf/sbes/sbes2019.html#VirginioSMSCM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/SilvaCJ19" mdate="2022-03-29">
+<author pid="254/6525">Nathalia Rezende Silva</author>
+<author pid="42/7676">Heitor Augustus Xavier Costa</author>
+<author pid="23/7677">Paulo Afonso Parreira J&#250;nior</author>
+<title>A Systematic Mapping of the Literature about Tools for Data Validation in Business Rules Tests.</title>
+<pages>1-9</pages>
+<year>2019</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3364641.3364642</ee>
+<ee type="oa">https://sol.sbc.org.br/index.php/sbqs/article/view/15014</ee>
+<crossref>conf/sbqs/2019</crossref>
+<url>db/conf/sbqs/sbqs2019.html#SilvaCJ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/FerreiraMJC19" mdate="2022-03-29">
+<author pid="254/6414">Matheus Silva Ferreira</author>
+<author pid="232/9212">Luana Almeida Martins</author>
+<author pid="23/7677">Paulo Afonso J&#250;nior</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Measuring Developer Work to Support the Software Project Manager: An Exploratory Study.</title>
+<pages>79-88</pages>
+<year>2019</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3364641.3364651</ee>
+<ee type="oa">https://sol.sbc.org.br/index.php/sbqs/article/view/15022</ee>
+<crossref>conf/sbqs/2019</crossref>
+<url>db/conf/sbqs/sbqs2019.html#FerreiraMJC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/BatistaJC19" mdate="2025-01-19">
+<author pid="246/8271">Mall&#250; Eduarda Batista</author>
+<author pid="23/7677">Paulo Afonso Parreira J&#250;nior</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>An Exploratory Study on Detection of Cloned Code in Information Systems.</title>
+<pages>67:1-67:8</pages>
+<year>2019</year>
+<booktitle>SBSI</booktitle>
+<ee>https://doi.org/10.1145/3330204.3330277</ee>
+<ee>https://www.wikidata.org/entity/Q130976522</ee>
+<crossref>conf/sbsi/2019</crossref>
+<url>db/conf/sbsi/sbsi2019.html#BatistaJC19</url>
+</inproceedings>
+</r>
+<r><article key="journals/infsof/SouzaVMFC18" mdate="2022-08-16">
+<author orcid="0000-0002-0182-8016" pid="128/4500">Maur&#237;cio Ronny de Almeida Souza</author>
+<author pid="180/3810">Lucas Veado</author>
+<author pid="202/8416">Renata Teles Moreira</author>
+<author pid="03/335">Eduardo Figueiredo 0001</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>A systematic mapping study on game-related methods for software engineering education.</title>
+<pages>201-218</pages>
+<year>2018</year>
+<volume>95</volume>
+<journal>Inf. Softw. Technol.</journal>
+<ee>https://doi.org/10.1016/j.infsof.2017.09.014</ee>
+<ee>https://www.wikidata.org/entity/Q113317045</ee>
+<url>db/journals/infsof/infsof95.html#SouzaVMFC18</url>
+</article>
+</r>
+<r><article key="journals/rbie/OliveiraICJ18" mdate="2024-02-21">
+<author pid="234/0940">Lucas Rodrigues de Oliveira</author>
+<author pid="266/2563">Ana Carolina Gondim Inoc&#234;ncio</author>
+<author pid="42/7676">Heitor Augustus Xavier Costa</author>
+<author pid="23/7677">Paulo Afonso Parreira J&#250;nior</author>
+<title>Desenvolvimento e Avalia&#231;&#227;o de um Perfil UML para Modelagem de Jogos Educacionais Digitais.</title>
+<pages>124-</pages>
+<year>2018</year>
+<volume>26</volume>
+<journal>Revista Brasileira de Inform&#225;tica na Educ.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.5753/rbie.2018.26.02.124</ee>
+<url>db/journals/rbie/rbie26.html#OliveiraICJ18</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsai/MartinsJFC18" mdate="2022-02-15">
+<author pid="232/9212">Luana Almeida Martins</author>
+<author pid="23/7677">Paulo Afonso Parreira J&#250;nior</author>
+<author pid="32/6218">Andr&#233; Pimenta Freire</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Exploratory Study on the Use of Software Product Lines in the Development of Quality Assistive Technology Software.</title>
+<pages>262-269</pages>
+<year>2018</year>
+<booktitle>DSAI</booktitle>
+<ee>https://doi.org/10.1145/3218585.3218670</ee>
+<crossref>conf/dsai/2018</crossref>
+<url>db/conf/dsai/dsai2018.html#MartinsJFC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/CoutoMCT18" mdate="2022-02-15">
+<author pid="212/6883">Christian Marlon Souza Couto</author>
+<author pid="232/9212">Luana Almeida Martins</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<author pid="23/5199">Ricardo Terra</author>
+<title>MCL: Metrics-based Constraint Language.</title>
+<pages>9:1-9:8</pages>
+<year>2018</year>
+<booktitle>SBSI</booktitle>
+<ee>https://doi.org/10.1145/3229345.3229355</ee>
+<crossref>conf/sbsi/2018</crossref>
+<url>db/conf/sbsi/sbsi2018.html#CoutoMCT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/SegundoCFJ18" mdate="2019-01-09">
+<author pid="232/9132">Tales Fernando Segundo</author>
+<author pid="42/7676">Heitor Augustus Xavier Costa</author>
+<author pid="32/6218">Andr&#233; Pimenta Freire</author>
+<author pid="23/7677">Paulo Afonso Parreira J&#250;nior</author>
+<title>A Systematic Mapping on CASE Tools Usability Assessment.</title>
+<pages>64:1-64:8</pages>
+<year>2018</year>
+<booktitle>SBSI</booktitle>
+<ee>https://doi.org/10.1145/3229345.3229412</ee>
+<crossref>conf/sbsi/2018</crossref>
+<url>db/conf/sbsi/sbsi2018.html#SegundoCFJ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/MartinsFJC18" mdate="2022-02-15">
+<author pid="232/9212">Luana Almeida Martins</author>
+<author pid="32/6218">Andr&#233; Pimenta Freire</author>
+<author pid="23/7677">Paulo Afonso Parreira J&#250;nior</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Analysis of Usability Practices in a Project of a Free Assistive Technology System.</title>
+<pages>65:1-65:8</pages>
+<year>2018</year>
+<booktitle>SBSI</booktitle>
+<ee>https://doi.org/10.1145/3229345.3229413</ee>
+<crossref>conf/sbsi/2018</crossref>
+<url>db/conf/sbsi/sbsi2018.html#MartinsFJC18</url>
+</inproceedings>
+</r>
+<r><article key="journals/cleiej/SantosRJC17" mdate="2023-08-28">
+<author pid="81/190">Danilo Santos</author>
+<author pid="161/1649">Ant&#244;nio Maria Pereira de Resende</author>
+<author pid="23/7677">Paulo Afonso Parreira J&#250;nior</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>External Quality Metrics for Object-Oriented Software: A Systematic Literature Review.</title>
+<year>2017</year>
+<volume>20</volume>
+<journal>CLEI Electron. J.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.19153/cleiej.20.3.3</ee>
+<ee>https://www.wikidata.org/entity/Q121432291</ee>
+<url>db/journals/cleiej/cleiej20.html#SantosRJC17</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/SouzaVMFC17" mdate="2023-03-23">
+<author orcid="0000-0002-0182-8016" pid="128/4500">Maur&#237;cio Ronny de Almeida Souza</author>
+<author pid="180/3810">Lucas Furtini Veado</author>
+<author pid="202/8416">Renata Teles Moreira</author>
+<author orcid="0000-0002-6004-2718" pid="03/335">Eduardo Magno Lages Figueiredo</author>
+<author pid="42/7676">Heitor Augustus Xavier Costa</author>
+<title>Games for Learning: Bridging Game-Related Education Methods to Software Engineering Knowledge Areas.</title>
+<pages>170-179</pages>
+<year>2017</year>
+<booktitle>ICSE-SEET</booktitle>
+<ee>https://doi.org/10.1109/ICSE-SEET.2017.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICSE-SEET.2017.17</ee>
+<ee>https://www.wikidata.org/entity/Q57790355</ee>
+<crossref>conf/icse/2017seet</crossref>
+<url>db/conf/icse/icse2017seet.html#SouzaVMFC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/DetomiJC17" mdate="2022-03-29">
+<author pid="316/9973">Thiago Detomi</author>
+<author pid="23/7677">Paulo Afonso J&#250;nior</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Utiliza&#231;&#227;o da Ferramenta Redmine para Auxiliar na Obten&#231;&#227;o da Certifica&#231;&#227;o MPS-BR N&#237;vel F.</title>
+<pages>60-73</pages>
+<year>2017</year>
+<booktitle>SBQS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbqs.2017.15114</ee>
+<crossref>conf/sbqs/2017</crossref>
+<url>db/conf/sbqs/sbqs2017.html#DetomiJC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/SilvaCOJ17" mdate="2024-02-15">
+<author pid="368/4746">&#193;lisson Vila&#231;a Silva</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<author pid="266/2603">Paulo Henrique Lima Oliveira</author>
+<author pid="23/7677">Paulo Afonso J&#250;nior</author>
+<title>FiscalizaBR: Um Aplicativo M&#243;vel para Acesso a Dados Abertos de Conv&#234;nios e Contratos.</title>
+<pages>285-292</pages>
+<year>2017</year>
+<booktitle>SBSI</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbsi.2017.6054</ee>
+<crossref>conf/sbsi/2017</crossref>
+<url>db/conf/sbsi/sbsi2017.html#SilvaCOJ17</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sbsi/2017" mdate="2022-02-15">
+<editor pid="42/7676">Heitor A. X. Costa</editor>
+<editor pid="61/566">Juliana Galvani Greghi</editor>
+<editor pid="63/4089">Jos&#233; Maria N. David</editor>
+<editor pid="32/6218">Andr&#233; Pimenta Freire</editor>
+<title>Proceedings of the 13th Brazilian Symposium on Information Systems, SBSI 2017, Lavras, Brazil, June 5-8, 2017.</title>
+<booktitle>SBSI</booktitle>
+<year>2017</year>
+<ee type="oa">https://doi.org/10.5753/sbsi.2017</ee>
+<url>db/conf/sbsi/sbsi2017.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/clei/CostaCP16" mdate="2022-02-15">
+<author pid="194/1629">Douglas Costa</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<author pid="23/7677">Paulo Afonso Parreira</author>
+<title>Heuristic evaluation of the visual accessibility of the moodle Virtual Learning Environment.</title>
+<pages>1-9</pages>
+<year>2016</year>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI.2016.7833393</ee>
+<crossref>conf/clei/2016</crossref>
+<url>db/conf/clei/clei2016.html#CostaCP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clei/SantosRJC16" mdate="2022-02-15">
+<author pid="81/190">Danilo Santos</author>
+<author pid="161/1649">Ant&#244;nio Maria Pereira de Resende</author>
+<author pid="23/7677">Paulo Afonso Parreira J&#250;nior</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Attributes and metrics of internal quality that impact the external quality of object-oriented software: A systematic literature review.</title>
+<pages>1-12</pages>
+<year>2016</year>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI.2016.7833322</ee>
+<crossref>conf/clei/2016</crossref>
+<url>db/conf/clei/clei2016.html#SantosRJC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/AbilioVFC16" mdate="2023-03-23">
+<author orcid="0000-0002-7197-5951" pid="119/0098">Ramon Ab&#237;lio</author>
+<author pid="139/6584">Gustavo Vale</author>
+<author pid="03/335">Eduardo Figueiredo 0001</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Metrics for feature-oriented programming.</title>
+<pages>36-42</pages>
+<year>2016</year>
+<booktitle>WETSoM@ICSE</booktitle>
+<ee>https://doi.org/10.1145/2897695.2897701</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WETSoM.2016.014</ee>
+<crossref>conf/icse/2016wetsom</crossref>
+<url>db/conf/icse/wetsom2016.html#AbilioVFC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/CunhaCJ16" mdate="2022-03-29">
+<author pid="250/4354">Warteruzannan Soyer Cunha</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<author pid="23/7677">Paulo Afonso Parreira J&#250;nior</author>
+<title>An&#225;lise de Ferramentas CASE quanto &#224;s Boas Pr&#225;ticas de Modelagem de Software com UML.</title>
+<pages>51-63</pages>
+<year>2016</year>
+<booktitle>SBQS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbqs.2016.15125</ee>
+<crossref>conf/sbqs/2016</crossref>
+<url>db/conf/sbqs/sbqs2016.html#CunhaCJ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/HernandezJC16" mdate="2022-03-29">
+<author pid="286/4225">Luisa Hern&#225;ndez</author>
+<author pid="23/7677">Paulo Afonso J&#250;nior</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>API Recommendation System for Software - Game Category.</title>
+<pages>64-78</pages>
+<year>2016</year>
+<booktitle>SBQS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbqs.2016.15126</ee>
+<crossref>conf/sbqs/2016</crossref>
+<url>db/conf/sbqs/sbqs2016.html#HernandezJC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/BastosJC16" mdate="2022-03-29">
+<author pid="194/3459">Camila Bastos</author>
+<author pid="23/7677">Paulo Afonso J&#250;nior</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Aplica&#231;&#227;o da T&#233;cnica An&#225;lise de Acessibilidade para Detec&#231;&#227;o de M&#233;todos Mortos em Software Orientado a Objetos.</title>
+<pages>79-93</pages>
+<year>2016</year>
+<booktitle>SBQS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbqs.2016.15127</ee>
+<crossref>conf/sbqs/2016</crossref>
+<url>db/conf/sbqs/sbqs2016.html#BastosJC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/SantosJC16" mdate="2022-03-29">
+<author pid="81/190">Danilo Santos</author>
+<author pid="23/7677">Paulo Afonso J&#250;nior</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Uma Abordagem Para Reestrutura&#231;&#227;o de Sistemas de Software Orientados a Objetos.</title>
+<pages>286-300</pages>
+<year>2016</year>
+<booktitle>SBQS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbqs.2016.15141</ee>
+<crossref>conf/sbqs/2016</crossref>
+<url>db/conf/sbqs/sbqs2016.html#SantosJC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/SantosBC16" mdate="2022-03-29">
+<author pid="127/7055">Mariana de Azevedo Santos</author>
+<author pid="64/9189">Paulo Henrique de Souza Bermejo</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>A Quantitative Study for the Characterization of Internal Quality of Open-Source Object-Oriented Software.</title>
+<pages>421-435</pages>
+<year>2016</year>
+<booktitle>SBQS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbqs.2016.15150</ee>
+<crossref>conf/sbqs/2016</crossref>
+<url>db/conf/sbqs/sbqs2016.html#SantosBC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/MarettiJC16" mdate="2022-05-04">
+<author pid="266/3582">Vinicius Maretti</author>
+<author pid="23/7677">Paulo Afonso J&#250;nior</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Uma Revis&#227;o Sistem&#225;tica da Literatura sobre Comunica&#231;&#227;o no Contexto da Ger&#234;ncia de Projetos de Sistemas de Informa&#231;&#227;o [A Systematic Literature Review on Communication in the Context of Project Management of Information Systems].</title>
+<pages>84-91</pages>
+<year>2016</year>
+<booktitle>SBSI</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbsi.2016.5949</ee>
+<ee>https://dl.acm.org/doi/10.5555/3021955.3021970</ee>
+<crossref>conf/sbsi/2016</crossref>
+<url>db/conf/sbsi/sbsi2016.html#MarettiJC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/BastosJC16" mdate="2022-05-04">
+<author pid="194/3459">Camila Bastos</author>
+<author pid="23/7677">Paulo Afonso J&#250;nior</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>T&#233;cnicas para Detec&#231;&#227;o de C&#243;digo Morto: Uma Revis&#227;o Sistem&#225;tica de Literatura [Detection Techniques of Dead Code: Systematic Literature Review].</title>
+<pages>255-262</pages>
+<year>2016</year>
+<booktitle>SBSI</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbsi.2016.5970</ee>
+<ee>https://dl.acm.org/doi/10.5555/3021955.3021998</ee>
+<crossref>conf/sbsi/2016</crossref>
+<url>db/conf/sbsi/sbsi2016.html#BastosJC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sccc/CostaCP16" mdate="2022-02-15">
+<author pid="194/3461">Renato Silva Costa</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<author pid="23/7677">Paulo Afonso Parreira</author>
+<title>AOLink - Automatic gerenation of refactoring suggestions for aspect-oriented anomalies.</title>
+<pages>1-11</pages>
+<year>2016</year>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.2016.7836059</ee>
+<crossref>conf/sccc/2016</crossref>
+<url>db/conf/sccc/sccc2016.html#CostaCP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sccc/CruzBPC16" mdate="2022-02-15">
+<author pid="194/3347">Adriana Cruz</author>
+<author pid="194/3459">Camila Bastos</author>
+<author pid="23/7677">Paulo Afonso Parreira</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Software visualization tools and techniques: A systematic review of the literature.</title>
+<pages>1-12</pages>
+<year>2016</year>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.2016.7836048</ee>
+<crossref>conf/sccc/2016</crossref>
+<url>db/conf/sccc/sccc2016.html#CruzBPC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sccc/OliveiraPC16" mdate="2022-02-15">
+<author pid="23/5280">Bruno Oliveira</author>
+<author pid="23/7677">Paulo Afonso Parreira</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>TestEG - A computational game for teaching of software testing.</title>
+<pages>1-10</pages>
+<year>2016</year>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.2016.7836022</ee>
+<crossref>conf/sccc/2016</crossref>
+<url>db/conf/sccc/sccc2016.html#OliveiraPC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sccc/SantosPBC16" mdate="2022-04-09">
+<author orcid="0000-0002-9327-358X" pid="127/7055">Mariana Santos 0001</author>
+<author pid="23/7677">Paulo Afonso Parreira</author>
+<author orcid="0000-0003-2680-8342" pid="64/9189">Paulo Henrique S. Bermejo</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Metrics and statistical techniques used to evaluate internal quality of object-oriented software: A systematic mapping.</title>
+<pages>1-11</pages>
+<year>2016</year>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.2016.7836021</ee>
+<crossref>conf/sccc/2016</crossref>
+<url>db/conf/sccc/sccc2016.html#SantosPBC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sccc/SantosPC16" mdate="2022-02-15">
+<author pid="81/190">Danilo Santos</author>
+<author pid="23/7677">Paulo Afonso Parreira</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>SRT - A computational tool for restructuring Java software.</title>
+<pages>1-12</pages>
+<year>2016</year>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.2016.7836051</ee>
+<crossref>conf/sccc/2016</crossref>
+<url>db/conf/sccc/sccc2016.html#SantosPC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sccc/SilvaVPC16" mdate="2022-02-15">
+<author pid="194/3329">Barbara Silva</author>
+<author pid="139/6584">Gustavo Vale</author>
+<author pid="23/7677">Paulo Afonso Parreira</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Comparative analysis of two algorithms of combinatorial techniques for testing SPLs - An exploratory study in six SPLs.</title>
+<pages>1-12</pages>
+<year>2016</year>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.2016.7835999</ee>
+<crossref>conf/sccc/2016</crossref>
+<url>db/conf/sccc/sccc2016.html#SilvaVPC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sccc/ValeAPFPC16" mdate="2025-03-03">
+<author pid="139/6584">Gustavo Vale</author>
+<author orcid="0000-0002-7197-5951" pid="119/0098">Ramon Ab&#237;lio</author>
+<author orcid="0000-0002-0799-2829" pid="139/6642">Juliana Alves Pereira</author>
+<author orcid="0000-0002-6004-2718" pid="03/335">Eduardo Figueiredo 0001</author>
+<author pid="23/7677">Paulo Afonso Parreira</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Identification and relationship between notation and tool for feature models with graphic representation.</title>
+<pages>1-12</pages>
+<year>2016</year>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.2016.7836024</ee>
+<ee>https://www.wikidata.org/entity/Q57790383</ee>
+<crossref>conf/sccc/2016</crossref>
+<url>db/conf/sccc/sccc2016.html#ValeAPFPC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sccc/ValentinoSHPC16" mdate="2022-04-09">
+<author pid="194/3352">Kamila Valentino</author>
+<author orcid="0000-0002-9327-358X" pid="127/7055">Mariana Santos 0001</author>
+<author pid="286/4225">Luisa Hern&#225;ndez</author>
+<author pid="23/7677">Paulo Afonso Parreira</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Characterization of the modularisation of open-source systems - A case study in domain of games.</title>
+<pages>1-12</pages>
+<year>2016</year>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.2016.7836056</ee>
+<crossref>conf/sccc/2016</crossref>
+<url>db/conf/sccc/sccc2016.html#ValentinoSHPC16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sbqs/2016" mdate="2022-03-29">
+<editor pid="78/2800">Gleison Santos</editor>
+<editor pid="42/7676">Heitor A. X. Costa</editor>
+<title>Proceedings of the 15th Brazilian Symposium on Software Quality, SBQS 2016, Macei&#243;, AL, Brazil, October 24-26, 2016</title>
+<publisher>SBC</publisher>
+<booktitle>SBQS</booktitle>
+<year>2016</year>
+<ee type="oa">https://doi.org/10.5753/sbqs.2016</ee>
+<url>db/conf/sbqs/sbqs2016.html</url>
+</proceedings>
+</r>
+<r><article key="journals/cleiej/AbilioMVOPC15" mdate="2022-02-15">
+<author pid="119/0098">Ramon Ab&#237;lio</author>
+<author pid="156/4497">Fl&#225;vio Morais</author>
+<author pid="139/6584">Gustavo Vale</author>
+<author pid="156/4609">Claudiane Oliveira</author>
+<author pid="156/4573">Denilson Alves Pereira</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Applying Information Retrieval Techniques to Detect Duplicates and to Rank References in the Preliminary Phases of Systematic Literature Reviews.</title>
+<year>2015</year>
+<volume>18</volume>
+<journal>CLEI Electron. J.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.19153/cleiej.18.2.2</ee>
+<url>db/journals/cleiej/cleiej18.html#AbilioMVOPC15</url>
+</article>
+</r>
+<r><inproceedings key="conf/clei/GoncalvesLC15" mdate="2022-02-15">
+<author pid="173/9209">Ramon Goncalves</author>
+<author pid="313/6111">Igor R. Lima</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Using TDD for developing object-oriented software - A case study.</title>
+<pages>1-11</pages>
+<year>2015</year>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI.2015.7360030</ee>
+<crossref>conf/clei/2015</crossref>
+<url>db/conf/clei/clei2015.html#GoncalvesLC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clei/SilvaC15" mdate="2022-02-15">
+<author pid="173/9227">Raul Silva</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Graphical and statistical analysis of the software evolution using coupling and cohesion metrics - An exploratory study.</title>
+<pages>1-9</pages>
+<year>2015</year>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI.2015.7359472</ee>
+<crossref>conf/clei/2015</crossref>
+<url>db/conf/clei/clei2015.html#SilvaC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itng/HernandezC15" mdate="2022-03-29">
+<author pid="286/4225">Luisa Hern&#225;ndez</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Identifying Similarity of Software in Apache Ecosystem - An Exploratory Study.</title>
+<pages>397-402</pages>
+<year>2015</year>
+<booktitle>ITNG</booktitle>
+<ee>https://doi.org/10.1109/ITNG.2015.70</ee>
+<crossref>conf/itng/2015</crossref>
+<url>db/conf/itng/itng2015.html#HernandezC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itng/ValeAFC15" mdate="2022-02-15">
+<author pid="139/6584">Gustavo Vale</author>
+<author orcid="0000-0002-7197-5951" pid="119/0098">Ramon Ab&#237;lio</author>
+<author pid="32/6218">Andr&#233; Pimenta Freire</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Criteria and Guidelines to Improve Software Maintainability in Software Product Lines.</title>
+<pages>427-432</pages>
+<year>2015</year>
+<booktitle>ITNG</booktitle>
+<ee>https://doi.org/10.1109/ITNG.2015.75</ee>
+<crossref>conf/itng/2015</crossref>
+<url>db/conf/itng/itng2015.html#ValeAFC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itng/AbilioPFC15" mdate="2022-03-16">
+<author orcid="0000-0002-7197-5951" pid="119/0098">Ramon Ab&#237;lio</author>
+<author pid="146/4573">Juliana Padilha</author>
+<author orcid="0000-0002-6004-2718" pid="03/335">Eduardo Figueiredo 0001</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Detecting Code Smells in Software Product Lines - An Exploratory Study.</title>
+<pages>433-438</pages>
+<year>2015</year>
+<booktitle>ITNG</booktitle>
+<ee>https://doi.org/10.1109/ITNG.2015.76</ee>
+<ee>https://www.wikidata.org/entity/Q57790431</ee>
+<crossref>conf/itng/2015</crossref>
+<url>db/conf/itng/itng2015.html#AbilioPFC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/ReisVC15" mdate="2022-03-30">
+<author pid="317/2591">Jos&#233; Natanael Reis</author>
+<author pid="139/6584">Gustavo Vale</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Manutenibilidade de Tecnologias para Programa&#231;&#227;o de Linhas de Produtos de Software: Um Estudo Comparativo.</title>
+<pages>64-78</pages>
+<year>2015</year>
+<booktitle>SBQS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbqs.2015.15214</ee>
+<crossref>conf/sbqs/2015</crossref>
+<url>db/conf/sbqs/sbqs2015.html#ReisVC15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clei/AbilioVPOMC14" mdate="2022-02-15">
+<author orcid="0000-0002-7197-5951" pid="119/0098">Ramon Ab&#237;lio</author>
+<author pid="139/6584">Gustavo Vale</author>
+<author orcid="0000-0001-7499-8828" pid="156/4573">Denilson Alves Pereira</author>
+<author pid="156/4609">Claudiane Oliveira</author>
+<author pid="156/4497">Fl&#225;vio Morais</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Systematic literature review supported by information retrieval techniques: A case study.</title>
+<pages>1-11</pages>
+<year>2014</year>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI.2014.6965144</ee>
+<crossref>conf/clei/2014</crossref>
+<url>db/conf/clei/clei2014.html#AbilioVPOMC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcars/ValeFAC14" mdate="2023-03-23">
+<author pid="139/6584">Gustavo Vale</author>
+<author orcid="0000-0002-6004-2718" pid="03/335">Eduardo Figueiredo 0001</author>
+<author orcid="0000-0002-7197-5951" pid="119/0098">Ramon Ab&#237;lio</author>
+<author pid="42/7676">Heitor Augustus Xavier Costa</author>
+<title>Bad Smells in Software Product Lines: A Systematic Review.</title>
+<pages>84-94</pages>
+<year>2014</year>
+<booktitle>SBCARS</booktitle>
+<ee>https://doi.org/10.1109/SBCARS.2014.21</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBCARS.2014.21</ee>
+<ee>https://www.wikidata.org/entity/Q57790467</ee>
+<crossref>conf/sbcars/2014</crossref>
+<url>db/conf/sbcars/sbcars2014.html#ValeFAC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/PintoC14" mdate="2022-03-31">
+<author pid="317/3223">Francielli Pinto</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Melhoria da Qualidade da Estrutura Interna de Sistemas de Software por Redu&#231;&#227;o do N&#237;vel de Acoplamento entre Pacotes.</title>
+<pages>195-209</pages>
+<year>2014</year>
+<booktitle>SBQS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbqs.2014.15253</ee>
+<crossref>conf/sbqs/2014</crossref>
+<url>db/conf/sbqs/sbqs2014.html#PintoC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/0001ABC14" mdate="2022-03-31">
+<author pid="127/7055">Mariana Santos 0001</author>
+<author pid="317/2730">Rodrigo Amador</author>
+<author pid="64/9189">Paulo Henrique de Souza Bermejo</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Similar Characteristics of Internal Software Quality Attributes for Object-Oriented Open-Source Software Projects.</title>
+<pages>210-224</pages>
+<year>2014</year>
+<booktitle>SBQS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbqs.2014.15254</ee>
+<crossref>conf/sbqs/2014</crossref>
+<url>db/conf/sbqs/sbqs2014.html#0001ABC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/JuniorVDCCP13" mdate="2017-05-17">
+<author pid="23/7677">Paulo Afonso Parreira J&#250;nior</author>
+<author pid="117/6071">Matheus Carvalho Viana</author>
+<author pid="121/2573">Rafael Serapilha Durelli</author>
+<author pid="37/1266">Valter Vieira de Camargo</author>
+<author pid="42/7676">Heitor Augustus Xavier Costa</author>
+<author pid="p/RosangelaPenteado">Ros&#226;ngela Aparecida Dellosso Penteado</author>
+<title>Concern-based Refactorings Supported by Class Models to Reengineer Object-Oriented Software into Aspect-Oriented Ones.</title>
+<pages>46-57</pages>
+<year>2013</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0004442200460057</ee>
+<crossref>conf/iceis/2013-2</crossref>
+<url>db/conf/iceis/iceis2013-2.html#JuniorVDCCP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/JuniorPVDCC13" mdate="2017-05-17">
+<author pid="23/7677">Paulo Afonso Parreira J&#250;nior</author>
+<author pid="p/RosangelaPenteado">Ros&#226;ngela Dellosso Penteado</author>
+<author pid="117/6071">Matheus Carvalho Viana</author>
+<author pid="121/2573">Rafael Serapilha Durelli</author>
+<author pid="37/1266">Valter Vieira de Camargo</author>
+<author pid="42/7676">Heitor Augustus Xavier Costa</author>
+<title>Reengineering of Object-Oriented Software into Aspect-Oriented Ones Supported by Class Models.</title>
+<pages>296-313</pages>
+<year>2013</year>
+<booktitle>ICEIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-09492-2_18</ee>
+<crossref>conf/iceis/2013</crossref>
+<url>db/conf/iceis/iceis2013.html#JuniorPVDCC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcars/PereiraSFAVC13" mdate="2023-03-23">
+<author pid="139/6642">Juliana Alves Pereira</author>
+<author pid="76/9619">Carlos Souza</author>
+<author orcid="0000-0002-6004-2718" pid="03/335">Eduardo Figueiredo 0001</author>
+<author orcid="0000-0002-7197-5951" pid="119/0098">Ramon Ab&#237;lio</author>
+<author pid="139/6584">Gustavo Vale</author>
+<author pid="42/7676">Heitor Augustus Xavier Costa</author>
+<title>Software Variability Management: An Exploratory Study with Two Feature Modeling Tools.</title>
+<pages>20-29</pages>
+<year>2013</year>
+<booktitle>SBCARS</booktitle>
+<ee>https://doi.org/10.1109/SBCARS.2013.13</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBCARS.2013.13</ee>
+<ee>https://www.wikidata.org/entity/Q57790508</ee>
+<crossref>conf/sbcars/2013</crossref>
+<url>db/conf/sbcars/sbcars2013.html#PereiraSFAVC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/CarvalhoLC13" mdate="2022-04-21">
+<author pid="317/4239">Anderson de Carvalho</author>
+<author pid="317/3986">Geovane Nogueira Lima</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Ger&#234;ncia &#193;gil de Projetos de Software Apoiada por uma Ferramenta Interativa Computacional com Suporte ao MPS.BR.</title>
+<pages>193-207</pages>
+<year>2013</year>
+<booktitle>SBQS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbqs.2013.15283</ee>
+<crossref>conf/sbqs/2013</crossref>
+<url>db/conf/sbqs/sbqs2013.html#CarvalhoLC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/OliveiraBVC13" mdate="2022-08-19">
+<author pid="142/9846">Paloma Oliveira</author>
+<author pid="119/0140">Hudson Borges</author>
+<author pid="o/MarcoTuliodeOliveiraValente">Marco T&#250;lio Valente</author>
+<author pid="42/7676">Heitor Augustus Xavier Costa</author>
+<title>Metrics-based Detection of Similar Software (S).</title>
+<pages>447-450</pages>
+<year>2013</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2013</crossref>
+<url>db/conf/seke/seke2013.html#OliveiraBVC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clei/JuniorMCPC12" mdate="2017-05-21">
+<author pid="23/7677">Paulo Afonso Parreira J&#250;nior</author>
+<author pid="132/7192">Wilian Mendes</author>
+<author pid="37/1266">Valter Vieira de Camargo</author>
+<author pid="p/RosangelaPenteado">Ros&#226;ngela Aparecida Dellosso Penteado</author>
+<author pid="42/7676">Heitor Augustus Xavier Costa</author>
+<title>Mining crosscutting concerns with ComSCId: A rule-based customizable mining tool.</title>
+<pages>1-9</pages>
+<year>2012</year>
+<crossref>conf/clei/2012</crossref>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI.2012.6427207</ee>
+<url>db/conf/clei/clei2012.html#JuniorMCPC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iri/SantosWCAB12" mdate="2022-03-29">
+<author orcid="0000-0003-4749-2551" pid="57/7989">Rodrigo Pereira dos Santos</author>
+<author orcid="0000-0002-4231-9621" pid="w/CMLWerner">Cl&#225;udia M. L. Werner</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<author orcid="0000-0002-7197-5951" pid="119/0098">Ramon Ab&#237;lio</author>
+<author pid="119/0140">Hudson Borges</author>
+<title>Managing reusable learning objects and experience reports in EduSE portal.</title>
+<pages>631-638</pages>
+<year>2012</year>
+<booktitle>IRI</booktitle>
+<ee>https://doi.org/10.1109/IRI.2012.6303068</ee>
+<crossref>conf/iri/2012</crossref>
+<url>db/conf/iri/iri2012.html#SantosWCAB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcars/AbilioTCF12" mdate="2023-03-23">
+<author orcid="0000-0002-7197-5951" pid="119/0098">Ramon Ab&#237;lio</author>
+<author pid="63/11281">Pedro Teles</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<author orcid="0000-0002-6004-2718" pid="03/335">Eduardo Figueiredo 0001</author>
+<title>A Systematic Review of Contemporary Metrics for Software Maintainability.</title>
+<pages>130-139</pages>
+<year>2012</year>
+<booktitle>SBCARS</booktitle>
+<ee>https://doi.org/10.1109/SBCARS.2012.15</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBCARS.2012.15</ee>
+<ee>https://www.wikidata.org/entity/Q57790527</ee>
+<crossref>conf/sbcars/2012</crossref>
+<url>db/conf/sbcars/sbcars2012.html#AbilioTCF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/OliveiraBVC12" mdate="2022-08-19">
+<author pid="142/9846">Paloma Oliveira</author>
+<author pid="119/0140">Hudson Silva Borges</author>
+<author pid="o/MarcoTuliodeOliveiraValente">Marco T&#250;lio Valente</author>
+<author pid="42/7676">Heitor Augustus Xavier Costa</author>
+<title>Uma Abordagem para Verifica&#231;&#227;o de Similaridade entre Sistemas Orientados a Objetos.</title>
+<pages>24-38</pages>
+<year>2012</year>
+<booktitle>SBQS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbqs.2012.15305</ee>
+<crossref>conf/sbqs/2012</crossref>
+<url>db/conf/sbqs/sbqs2012.html#OliveiraBVC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/FerreiraRC12" mdate="2022-04-04">
+<author pid="317/5270">Isaias Alves Ferreira</author>
+<author pid="161/1649">Ant&#244;nio Maria Pereira de Resende</author>
+<author pid="42/7676">Heitor Augustus Xavier Costa</author>
+<title>Analysis of the Impact of the Application of Design Patterns on the Maintainability of an Object Oriented System.</title>
+<pages>341-348</pages>
+<year>2012</year>
+<booktitle>SBQS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbqs.2012.15327</ee>
+<crossref>conf/sbqs/2012</crossref>
+<url>db/conf/sbqs/sbqs2012.html#FerreiraRC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/SantosWCV11" mdate="2022-03-29">
+<author pid="57/7989">Rodrigo Pereira dos Santos</author>
+<author pid="w/CMLWerner">Cl&#225;udia M. L. Werner</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<author pid="58/1349">Simone Vasconcelos</author>
+<title>Supporting Software Engineering Education through a Learning Objects and Experience Reports Repository.</title>
+<pages>272-275</pages>
+<year>2011</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2011</crossref>
+<url>db/conf/seke/seke2011.html#SantosWCV11</url>
+</inproceedings>
+</r>
+<r><article key="journals/rita/SantosCWAJRS09" mdate="2021-04-09">
+<author orcid="0000-0003-4749-2551" pid="57/7989">Rodrigo Pereira dos Santos</author>
+<author pid="42/7676">Heitor Augustus Xavier Costa</author>
+<author pid="w/CMLWerner">Cl&#225;udia Maria Lima Werner</author>
+<author pid="161/1741">Andr&#233; Fonseca Am&#226;ncio</author>
+<author pid="23/7677">Paulo Afonso Parreira J&#250;nior</author>
+<author pid="161/1649">Ant&#244;nio Maria Pereira de Resende</author>
+<author pid="11/8143">F&#225;bio Fagundes Silveira</author>
+<title>An Approach Based on Maintainability Criteria for Building Aspect-Oriented Software Design Model.</title>
+<pages>157-171</pages>
+<year>2009</year>
+<volume>16</volume>
+<journal>RITA</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.22456/2175-2745.12590</ee>
+<url>db/journals/rita/rita16.html#SantosCWAJRS09</url>
+</article>
+</r>
+<r><inproceedings key="conf/wcre/CostaJCP99a" mdate="2023-03-24">
+<author pid="42/7676">Heitor Augustus Xavier Costa</author>
+<author pid="23/7677">Paulo Afonso Parreira J&#250;nior</author>
+<author pid="37/1266">Valter Vieira de Camargo</author>
+<author pid="p/RosangelaPenteado">Ros&#226;ngela Aparecida Dellosso Penteado</author>
+<title>Recovering Class Models Stereotyped with Crosscutting Concerns.</title>
+<pages>311-312</pages>
+<year>2009</year>
+<booktitle>WCRE</booktitle>
+<ee>https://doi.org/10.1109/WCRE.2009.48</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WCRE.2009.48</ee>
+<crossref>conf/wcre/2009</crossref>
+<url>db/conf/wcre/wcre2009.html#CostaJCP99a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/LimaCC08" mdate="2022-02-15">
+<author pid="313/6111">Igor R. Lima</author>
+<author pid="313/6894">Maria do Carmo P. de T. Costa</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<title>Aprendizado de Geometria Anal&#237;tica e &#193;lgebra Linear Utilizando um Software Gr&#225;fico via Internet.</title>
+<pages>94-105</pages>
+<year>2008</year>
+<booktitle>SBSI</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbsi.2008.5916</ee>
+<crossref>conf/sbsi/2008</crossref>
+<url>db/conf/sbsi/sbsi2008.html#LimaCC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/BarcellosMSCR08" mdate="2022-02-15">
+<author pid="313/3631">Carla Barcellos</author>
+<author pid="313/4040">Daniela Musa</author>
+<author pid="11/8143">F&#225;bio F. Silveira</author>
+<author pid="42/7676">Heitor A. X. Costa</author>
+<author pid="161/1649">Ant&#244;nio Maria Pereira de Resende</author>
+<title>Uma proposta de sistema de recomenda&#231;&#227;o acad&#234;mico com defini&#231;&#227;o semi-autom&#225;tica de perfil.</title>
+<pages>143-145</pages>
+<year>2008</year>
+<booktitle>WebMedia (Companion)</booktitle>
+<ee>https://doi.org/10.1145/1809980.1810020</ee>
+<crossref>conf/webmedia/2008c</crossref>
+<url>db/conf/webmedia/webmedia2008c.html#BarcellosMSCR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/RochaC04" mdate="2022-02-18">
+<author pid="313/9479">Paulo Rog&#233;rio Souza Rocha</author>
+<author pid="42/7676">Heitor Augustus Xavier Costa</author>
+<title>Carteira de Trabalho On-Line: Uma Proposta.</title>
+<pages>83-91</pages>
+<year>2004</year>
+<booktitle>SBSI</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbsi.2004.6365</ee>
+<crossref>conf/sbsi/2004</crossref>
+<url>db/conf/sbsi/sbsi2004.html#RochaC04</url>
+</inproceedings>
+</r>
+<coauthors n="104" nc="2">
+<co c="0"><na f="a/Ab=iacute=lio:Ramon" pid="119/0098">Ramon Ab&#237;lio</na></co>
+<co c="0"><na f="a/Alves:J=uacute=lio_C=eacute=sar" pid="264/8886">J&#250;lio C&#233;sar Alves</na></co>
+<co c="0"><na f="a/Amador:Rodrigo" pid="317/2730">Rodrigo Amador</na></co>
+<co c="0"><na f="a/Am=acirc=ncio:Andr=eacute=_Fonseca" pid="161/1741">Andr&#233; Fonseca Am&#226;ncio</na></co>
+<co c="0"><na f="a/Apel:Sven" pid="a/SvenApel">Sven Apel</na></co>
+<co c="0"><na f="b/Barcellos:Carla" pid="313/3631">Carla Barcellos</na></co>
+<co c="0"><na f="b/Bastos:Camila" pid="194/3459">Camila Bastos</na></co>
+<co c="0"><na f="b/Batista:Mall=uacute=_Eduarda" pid="246/8271">Mall&#250; Eduarda Batista</na></co>
+<co c="0" n="2"><na f="b/Bermejo:Paulo_Henrique_S=" pid="64/9189">Paulo Henrique S. Bermejo</na><na>Paulo Henrique de Souza Bermejo</na></co>
+<co c="0"><na f="b/Bezerra:Carla_I=_M=" pid="09/5610">Carla I. M. Bezerra</na></co>
+<co c="0" n="2"><na f="b/Borges:Hudson" pid="119/0140">Hudson Borges</na><na>Hudson Silva Borges</na></co>
+<co c="0"><na f="b/Brito:Vinicius" pid="294/8642">Vinicius Brito</na></co>
+<co c="0"><na f="c/Camargo:Valter_Vieira_de" pid="37/1266">Valter Vieira de Camargo</na></co>
+<co c="0"><na f="c/Campos:Denivan" pid="233/2582">Denivan Campos</na></co>
+<co c="0"><na f="c/Capeleti:Bruna_Santana" pid="283/4144">Bruna Santana Capeleti</na></co>
+<co c="0" n="2"><na f="c/Cardoso:Paula_Christina_Figueira" pid="151/5285">Paula Christina Figueira Cardoso</na><na>Paula C. F. Cardoso</na></co>
+<co c="0"><na f="c/Carvalho:Anderson_de" pid="317/4239">Anderson de Carvalho</na></co>
+<co c="0"><na f="c/Costa:Douglas" pid="194/1629">Douglas Costa</na></co>
+<co c="1"><na f="c/Costa:Maria_do_Carmo_P=_de_T=" pid="313/6894">Maria do Carmo P. de T. Costa</na></co>
+<co c="0"><na f="c/Costa:Renato_Silva" pid="194/3461">Renato Silva Costa</na></co>
+<co c="0"><na f="c/Couto:Christian_Marlon_Souza" pid="212/6883">Christian Marlon Souza Couto</na></co>
+<co c="0"><na f="c/Cruz:Adriana" pid="194/3347">Adriana Cruz</na></co>
+<co c="0"><na f="c/Cunha:Warteruzannan_Soyer" pid="250/4354">Warteruzannan Soyer Cunha</na></co>
+<co c="0"><na f="d/David:Jos=eacute=_Maria_N=" pid="63/4089">Jos&#233; Maria N. David</na></co>
+<co c="0"><na f="d/Detomi:Thiago" pid="316/9973">Thiago Detomi</na></co>
+<co c="0" n="2"><na f="d/Durelli:Rafael_S=" pid="121/2573">Rafael S. Durelli</na><na>Rafael Serapilha Durelli</na></co>
+<co c="0"><na f="f/Feitosa:Daniela_Soares" pid="357/5479">Daniela Soares Feitosa</na></co>
+<co c="0"><na f="f/Ferreira:Isaias_Alves" pid="317/5270">Isaias Alves Ferreira</na></co>
+<co c="0"><na f="f/Ferreira:Matheus_Silva" pid="254/6414">Matheus Silva Ferreira</na></co>
+<co c="0"><na f="f/Ferrucci:Filomena" pid="68/6536">Filomena Ferrucci</na></co>
+<co c="0" n="2"><na f="f/Figueiredo_0001:Eduardo" pid="03/335">Eduardo Figueiredo 0001</na><na>Eduardo Magno Lages Figueiredo</na></co>
+<co c="0"><na f="f/Freire:Andr=eacute=_Pimenta" pid="32/6218">Andr&#233; Pimenta Freire</na></co>
+<co c="0"><na f="g/Ghaleb:Taher_Ahmed" pid="177/7048">Taher Ahmed Ghaleb</na></co>
+<co c="1"><na f="g/Goncalves:Ramon" pid="173/9209">Ramon Goncalves</na></co>
+<co c="0"><na f="g/Greghi:Juliana_Galvani" pid="61/566">Juliana Galvani Greghi</na></co>
+<co c="0"><na f="h/Hern=aacute=ndez:Luisa" pid="286/4225">Luisa Hern&#225;ndez</na></co>
+<co c="0"><na f="i/Inoc=ecirc=ncio:Ana_Carolina_Gondim" pid="266/2563">Ana Carolina Gondim Inoc&#234;ncio</na></co>
+<co c="0"><na f="j/J=uacute=nior:Joselito_Mota" pid="250/4390">Joselito Mota J&#250;nior</na></co>
+<co c="0"><na f="j/Junior:Nailton" pid="303/3920">Nailton Junior</na></co>
+<co c="0"><na f="j/Junior:Nildo_Silva" pid="260/6678">Nildo Silva Junior</na></co>
+<co c="0" n="3"><na f="j/J=uacute=nior:Paulo_Afonso_Parreira" pid="23/7677">Paulo Afonso Parreira J&#250;nior</na><na>Paulo Afonso Parreira</na><na>Paulo Afonso J&#250;nior</na></co>
+<co c="0"><na f="k/Karita:Leila" pid="233/2084">Leila Karita</na></co>
+<co c="0"><na f="l/Lima:Geovane_Nogueira" pid="317/3986">Geovane Nogueira Lima</na></co>
+<co c="1"><na f="l/Lima:Igor_R=" pid="313/6111">Igor R. Lima</na></co>
+<co c="0" n="2"><na f="m/Machado:Ivan_do_Carmo" pid="33/9369">Ivan do Carmo Machado</na><na>Ivan Machado 0001</na></co>
+<co c="0"><na f="m/Machado:Valeska" pid="265/2605">Valeska Machado</na></co>
+<co c="0"><na f="m/Malheiros:Neumar_Costa" pid="394/2713">Neumar Costa Malheiros</na></co>
+<co c="0"><na f="m/Maretti:Vinicius" pid="266/3582">Vinicius Maretti</na></co>
+<co c="0"><na f="m/Martins:Luana_Almeida" pid="232/9212">Luana Almeida Martins</na></co>
+<co c="0"><na f="m/Mateus:Delvani_Ant=ocirc=nio" pid="249/9608">Delvani Ant&#244;nio Mateus</na></co>
+<co c="0"><na f="m/Mendes:Wilian" pid="132/7192">Wilian Mendes</na></co>
+<co c="0"><na f="m/Morais:Fl=aacute=vio" pid="156/4497">Fl&#225;vio Morais</na></co>
+<co c="0"><na f="m/Moreira:Renata_Teles" pid="202/8416">Renata Teles Moreira</na></co>
+<co c="0"><na f="m/Moreno:Wallace" pid="265/2766">Wallace Moreno</na></co>
+<co c="0"><na f="m/Musa:Daniela" pid="313/4040">Daniela Musa</na></co>
+<co c="0"><na f="n/Nascimento:Iorrana_Maria_do" pid="394/3565">Iorrana Maria do Nascimento</na></co>
+<co c="0"><na f="n/Nunes:Henrique_Gomes" pid="355/9953">Henrique Gomes Nunes</na></co>
+<co c="0"><na f="o/Oliveira:Arthur_Floriano_Barbosa_Andrade_de" pid="233/8403">Arthur Floriano Barbosa Andrade de Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Bruno" pid="23/5280">Bruno Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Claudiane" pid="156/4609">Claudiane Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Lucas_Rodrigues_de" pid="234/0940">Lucas Rodrigues de Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Paloma" pid="142/9846">Paloma Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Patr=iacute=cia" pid="265/3322">Patr&#237;cia Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Paulo_Henrique_Lima" pid="266/2603">Paulo Henrique Lima Oliveira</na></co>
+<co c="0"><na f="p/Padilha:Juliana" pid="146/4573">Juliana Padilha</na></co>
+<co c="0"><na f="p/Palomba:Fabio" pid="116/6732">Fabio Palomba</na></co>
+<co c="0" n="3"><na f="p/Penteado:Ros=acirc=ngela_A=_D=" pid="p/RosangelaPenteado">Ros&#226;ngela A. D. Penteado</na><na>Ros&#226;ngela Dellosso Penteado</na><na>Ros&#226;ngela Aparecida Dellosso Penteado</na></co>
+<co c="0"><na f="p/Pereira:Denilson_Alves" pid="156/4573">Denilson Alves Pereira</na></co>
+<co c="0"><na f="p/Pereira:F=aacute=bio_Rodrigues" pid="394/2091">F&#225;bio Rodrigues Pereira</na></co>
+<co c="0"><na f="p/Pereira:Juliana_Alves" pid="139/6642">Juliana Alves Pereira</na></co>
+<co c="-1"><na f="p/Pinto:Francielli" pid="317/3223">Francielli Pinto</na></co>
+<co c="0"><na f="p/Pontillo:Valeria" pid="300/3376">Valeria Pontillo</na></co>
+<co c="0"><na f="r/Reis:Jos=eacute=_Natanael" pid="317/2591">Jos&#233; Natanael Reis</na></co>
+<co c="0"><na f="r/Resende:Ant=ocirc=nio_Maria_Pereira_de" pid="161/1649">Ant&#244;nio Maria Pereira de Resende</na></co>
+<co c="0"><na f="r/Ribeiro_0001:M=aacute=rcio" pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</na></co>
+<co c="-1"><na f="r/Rocha:Paulo_Rog=eacute=rio_Souza" pid="313/9479">Paulo Rog&#233;rio Souza Rocha</na></co>
+<co c="0"><na f="s/Santana:Amanda" pid="276/3266">Amanda Santana</na></co>
+<co c="0"><na f="s/Santana:Railana" pid="249/1748">Railana Santana</na></co>
+<co c="0"><na f="s/Santos:Danilo" pid="81/190">Danilo Santos</na></co>
+<co c="0"><na f="s/Santos:Gleison" pid="78/2800">Gleison Santos</na></co>
+<co c="0" n="2"><na f="s/Santos:Mariana_de_Azevedo" pid="127/7055">Mariana de Azevedo Santos</na><na>Mariana Santos 0001</na></co>
+<co c="0"><na f="s/Santos:Rodrigo_Pereira_dos" pid="57/7989">Rodrigo Pereira dos Santos</na></co>
+<co c="0"><na f="s/Segundo:Tales_Fernando" pid="232/9132">Tales Fernando Segundo</na></co>
+<co c="0"><na f="s/Silva:Alexandre_J=_C=" pid="309/7172">Alexandre J. C. Silva</na></co>
+<co c="0"><na f="s/Silva:=Aacute=lisson_Vila=ccedil=a" pid="368/4746">&#193;lisson Vila&#231;a Silva</na></co>
+<co c="0"><na f="s/Silva:Barbara" pid="194/3329">Barbara Silva</na></co>
+<co c="0"><na f="s/Silva:Carlos_Alberto" pid="142/6506">Carlos Alberto Silva</na></co>
+<co c="0"><na f="s/Silva:Nathalia_Rezende" pid="254/6525">Nathalia Rezende Silva</na></co>
+<co c="-1"><na f="s/Silva:Raul" pid="173/9227">Raul Silva</na></co>
+<co c="0" n="2"><na f="s/Silveira:F=aacute=bio_Fagundes" pid="11/8143">F&#225;bio Fagundes Silveira</na><na>F&#225;bio F. Silveira</na></co>
+<co c="0" n="3"><na f="s/Soares:Larissa_Rocha" pid="155/7275">Larissa Rocha Soares</na><na>Larissa Rocha 0001</na><na>Larissa Soares 0001</na></co>
+<co c="0"><na f="s/Souza:Carlos" pid="76/9619">Carlos Souza</na></co>
+<co c="0" n="2"><na f="s/Souza:Maur=iacute=cio_R=_de_A=" pid="128/4500">Maur&#237;cio R. de A. Souza</na><na>Maur&#237;cio Ronny de Almeida Souza</na></co>
+<co c="0"><na f="t/Teles:Pedro" pid="63/11281">Pedro Teles</na></co>
+<co c="0"><na f="t/Terra:Ricardo" pid="23/5199">Ricardo Terra</na></co>
+<co c="0"><na f="v/Vale:Gustavo" pid="139/6584">Gustavo Vale</na></co>
+<co c="0"><na f="v/Valente:Marco_T=uacute=lio" pid="o/MarcoTuliodeOliveiraValente">Marco T&#250;lio Valente</na></co>
+<co c="0"><na f="v/Valentino:Kamila" pid="194/3352">Kamila Valentino</na></co>
+<co c="0"><na f="v/Vasconcelos:Simone" pid="58/1349">Simone Vasconcelos</na></co>
+<co c="0" n="2"><na f="v/Veado:Lucas" pid="180/3810">Lucas Veado</na><na>Lucas Furtini Veado</na></co>
+<co c="0"><na f="v/Viana:Matheus_Carvalho" pid="117/6071">Matheus Carvalho Viana</na></co>
+<co c="0"><na f="v/Virg=iacute=nio:T=aacute=ssio" pid="249/1752">T&#225;ssio Virg&#237;nio</na></co>
+<co c="0" n="2"><na f="w/Werner:Cl=aacute=udia_M=_L=" pid="w/CMLWerner">Cl&#225;udia M. L. Werner</na><na>Cl&#225;udia Maria Lima Werner</na></co>
+<co c="0"><na f="w/Wiese:Igor_Scaliante" pid="06/10439">Igor Scaliante Wiese</na></co>
+</coauthors>
+</dblpperson>
+

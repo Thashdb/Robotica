@@ -1,0 +1,542 @@
+<?xml version="1.0"?>
+<dblpperson name="Anderson A. Ferreira" pid="76/5325" n="34">
+<person key="homepages/76/5325" mdate="2021-11-11">
+<author pid="76/5325">Anderson A. Ferreira</author>
+<author pid="76/5325">Anderson Almeida Ferreira</author>
+<url>https://scholar.google.com/citations?user=_t88Uy8AAAAJ</url>
+<url>https://dl.acm.org/profile/81372591714</url>
+<url>https://orcid.org/0000-0002-2487-6600</url>
+<note type="affiliation">Universidade Federal de Ouro Preto, Brazil</note>
+</person>
+<r><inproceedings key="conf/adbis/CaldeiraBF21" mdate="2021-09-01">
+<author orcid="0000-0001-7665-3559" pid="225/0618">La&#237;s Soares Caldeira</author>
+<author orcid="0000-0001-8753-765X" pid="35/9588">Guilherme Dal Bianco</author>
+<author orcid="0000-0002-2487-6600" pid="76/5325">Anderson A. Ferreira</author>
+<title>Experimental Evaluation Among Reblocking Techniques Applied to the Entity Resolution.</title>
+<pages>229-243</pages>
+<year>2021</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-82472-3_17</ee>
+<crossref>conf/adbis/2021</crossref>
+<url>db/conf/adbis/adbis2021.html#CaldeiraBF21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/EspiridiaoDF21" mdate="2022-03-07">
+<author pid="314/9573">Luciano V. B. Espiridi&#227;o</author>
+<author pid="315/0790">Laura L. Dias</author>
+<author pid="76/5325">Anderson A. Ferreira</author>
+<title>Applying Data Augmentation for Disambiguating Author Names.</title>
+<pages>109-120</pages>
+<year>2021</year>
+<booktitle>SBBD</booktitle>
+<ee>https://doi.org/10.5753/sbbd.2021.17870</ee>
+<crossref>conf/sbbd/2021</crossref>
+<url>db/conf/sbbd/sbbd2021.html#EspiridiaoDF21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/DiasEF21" mdate="2022-03-07">
+<author pid="315/0790">Laura L. Dias</author>
+<author pid="314/9573">Luciano V. B. Espiridi&#227;o</author>
+<author pid="76/5325">Anderson A. Ferreira</author>
+<title>Uma Abordagem de Anota&#231;&#227;o Sem&#226;ntica Autom&#225;tica Direcionada a Sistemas de Perguntas e Respostas.</title>
+<pages>145-156</pages>
+<year>2021</year>
+<booktitle>SBBD</booktitle>
+<ee>https://doi.org/10.5753/sbbd.2021.17873</ee>
+<crossref>conf/sbbd/2021</crossref>
+<url>db/conf/sbbd/sbbd2021.html#DiasEF21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/SouzaF21" mdate="2025-01-19">
+<author pid="279/5624">Luan Souza</author>
+<author pid="76/5325">Anderson A. Ferreira</author>
+<title>An Entity Resolution Approach Based on Word Embeddings and Knowledge Bases for Microblog Texts.</title>
+<pages>53:1-53:8</pages>
+<year>2021</year>
+<booktitle>SBSI</booktitle>
+<ee>https://doi.org/10.1145/3466933.3466989</ee>
+<ee>https://www.wikidata.org/entity/Q130840075</ee>
+<crossref>conf/sbsi/2021</crossref>
+<url>db/conf/sbsi/sbsi2021.html#SouzaF21</url>
+</inproceedings>
+</r>
+<r><book key="series/synthesis/2020Ferreira" mdate="2023-10-26">
+<author orcid="0000-0002-2487-6600" pid="76/5325">Anderson A. Ferreira</author>
+<author orcid="0000-0002-2075-3363" pid="45/1395">Marcos Andr&#233; Gon&#231;alves</author>
+<author pid="l/AHFLaender">Alberto H. F. Laender</author>
+<title>Automatic Disambiguation of Author Names in Bibliographic Repositories</title>
+<publisher>Morgan &#38; Claypool Publishers</publisher>
+<year>2020</year>
+<series href="db/series/synthesis-icr/index.html">Synthesis Lectures on Information Concepts, Retrieval, and Services</series>
+<isbn>978-3-031-01194-8</isbn>
+<isbn>978-3-031-02322-4</isbn>
+<ee>https://doi.org/10.2200/S01011ED1V01Y202005ICR070</ee>
+<ee>https://doi.org/10.1007/978-3-031-02322-4</ee>
+</book>
+</r>
+<r><article key="journals/tkdd/VelosoAFZ19" mdate="2022-01-08">
+<author orcid="0000-0002-7320-7681" pid="251/6185">Br&#225;ulio Miranda Veloso</author>
+<author pid="130/0513">Renato M. Assun&#231;&#227;o</author>
+<author orcid="0000-0002-2487-6600" pid="76/5325">Anderson A. Ferreira</author>
+<author pid="z/NZiviani">Nivio Ziviani</author>
+<title>In Search of a Stochastic Model for the E-News Reader.</title>
+<pages>65:1-65:27</pages>
+<year>2019</year>
+<volume>13</volume>
+<journal>ACM Trans. Knowl. Discov. Data</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/3362695</ee>
+<url>db/journals/tkdd/tkdd13.html#VelosoAFZ19</url>
+</article>
+</r>
+<r><inproceedings key="conf/webmedia/PereiraF19" mdate="2025-01-19">
+<author pid="250/3750">&#205;talo M. Pereira</author>
+<author orcid="0000-0002-2487-6600" pid="76/5325">Anderson A. Ferreira</author>
+<title>An item-item similarity approach based on linked open data semantic relationship.</title>
+<pages>425-432</pages>
+<year>2019</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/3323503.3349547</ee>
+<ee>https://www.wikidata.org/entity/Q130833190</ee>
+<crossref>conf/webmedia/2019</crossref>
+<url>db/conf/webmedia/webmedia2019.html#PereiraF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/CaldeiraF18" mdate="2020-03-12">
+<author pid="225/0618">La&#237;s Soares Caldeira</author>
+<author pid="76/5325">Anderson Almeida Ferreira</author>
+<title>Melhorias no Processo de Blocagem para Resolu&#231;&#227;o de Entidades Baseadas na Relev&#226;ncia dos Termos.</title>
+<pages>61-72</pages>
+<year>2018</year>
+<booktitle>SBBD</booktitle>
+<ee type="oa">http://sbbd.org.br/2018/wp-content/uploads/sites/5/2018/08/061-sbbd_2018-fp.pdf</ee>
+<crossref>conf/sbbd/2018</crossref>
+<url>db/conf/sbbd/sbbd2018.html#CaldeiraF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/SousaF18" mdate="2025-01-19">
+<author pid="227/0783">Priscila Sad de Sousa</author>
+<author orcid="0000-0002-2487-6600" pid="76/5325">Anderson A. Ferreira</author>
+<title>Estimating Similarity Among Entities Aided by the Web when Only the Entity Name is Available.</title>
+<pages>253-260</pages>
+<year>2018</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/3243082.3243118</ee>
+<ee>https://www.wikidata.org/entity/Q130874446</ee>
+<crossref>conf/webmedia/2018</crossref>
+<url>db/conf/webmedia/webmedia2018.html#SousaF18</url>
+</inproceedings>
+</r>
+<r><article key="journals/ipm/FigueiredoAF17" mdate="2021-09-23">
+<author pid="156/5275">Leandro Neiva Lopes Figueiredo</author>
+<author pid="123/6918">Guilherme Tavares de Assis</author>
+<author orcid="0000-0002-2487-6600" pid="76/5325">Anderson A. Ferreira</author>
+<title>DERIN: A data extraction method based on rendering information and n-gram.</title>
+<pages>1120-1138</pages>
+<year>2017</year>
+<volume>53</volume>
+<journal>Inf. Process. Manag.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1016/j.ipm.2017.04.007</ee>
+<url>db/journals/ipm/ipm53.html#FigueiredoAF17</url>
+</article>
+</r>
+<r><article key="journals/jasis/SantanaGLF17" mdate="2022-01-03">
+<author pid="155/2988">Alan Filipe Santana</author>
+<author orcid="0000-0002-2075-3363" pid="45/1395">Marcos Andr&#233; Gon&#231;alves</author>
+<author pid="l/AHFLaender">Alberto H. F. Laender</author>
+<author orcid="0000-0002-2487-6600" pid="76/5325">Anderson A. Ferreira</author>
+<title>Incremental author name disambiguation by exploiting domain-specific heuristics.</title>
+<pages>931-945</pages>
+<year>2017</year>
+<volume>68</volume>
+<journal>J. Assoc. Inf. Sci. Technol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/asi.23726</ee>
+<url>db/journals/jasis/jasis68.html#SantanaGLF17</url>
+</article>
+</r>
+<r><article key="journals/jodl/SantanaGLF15" mdate="2024-04-25">
+<author pid="155/2988">Alan Filipe Santana</author>
+<author orcid="0000-0002-2075-3363" pid="45/1395">Marcos Andr&#233; Gon&#231;alves</author>
+<author pid="l/AHFLaender">Alberto H. F. Laender</author>
+<author orcid="0000-0002-2487-6600" pid="76/5325">Anderson A. Ferreira</author>
+<title>On the combination of domain-specific heuristics for author name disambiguation: the nearest cluster method.</title>
+<pages>229-246</pages>
+<year>2015</year>
+<volume>16</volume>
+<journal>Int. J. Digit. Libr.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1007/s00799-015-0158-y</ee>
+<ee>https://orkg.org/orkg/resource/R6185</ee>
+<url>db/journals/jodl/jodl16.html#SantanaGLF15</url>
+</article>
+</r>
+<r><inproceedings key="conf/jcdl/SouzaFG15" mdate="2022-01-03">
+<author pid="163/6969">Em&#237;lia A. de Souza</author>
+<author orcid="0000-0002-2487-6600" pid="76/5325">Anderson A. Ferreira</author>
+<author orcid="0000-0002-2075-3363" pid="45/1395">Marcos Andr&#233; Gon&#231;alves</author>
+<title>Combining Classifiers and User Feedback for Disambiguating Author Names.</title>
+<pages>259-260</pages>
+<year>2015</year>
+<booktitle>JCDL</booktitle>
+<ee>https://doi.org/10.1145/2756406.2756964</ee>
+<crossref>conf/jcdl/2015</crossref>
+<url>db/conf/jcdl/jcdl2015.html#SouzaFG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jcdl/FerreiraGL15" mdate="2022-01-03">
+<author orcid="0000-0002-2487-6600" pid="76/5325">Anderson A. Ferreira</author>
+<author orcid="0000-0002-2075-3363" pid="45/1395">Marcos Andr&#233; Gon&#231;alves</author>
+<author pid="l/AHFLaender">Alberto H. F. Laender</author>
+<title>Automatic Methods for Disambiguating Author Names in Bibliographic Data Repositories.</title>
+<pages>297-298</pages>
+<year>2015</year>
+<booktitle>JCDL</booktitle>
+<ee>https://doi.org/10.1145/2756406.2756930</ee>
+<crossref>conf/jcdl/2015</crossref>
+<url>db/conf/jcdl/jcdl2015.html#FerreiraGL15</url>
+</inproceedings>
+</r>
+<r><article key="journals/jasis/FerreiraVGL14" mdate="2024-04-25">
+<author orcid="0000-0002-2487-6600" pid="76/5325">Anderson A. Ferreira</author>
+<author pid="12/919">Adriano Veloso</author>
+<author orcid="0000-0002-2075-3363" pid="45/1395">Marcos Andr&#233; Gon&#231;alves</author>
+<author pid="l/AHFLaender">Alberto H. F. Laender</author>
+<title>Self-training author name disambiguation for information scarce scenarios.</title>
+<pages>1257-1278</pages>
+<year>2014</year>
+<volume>65</volume>
+<journal>J. Assoc. Inf. Sci. Technol.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/asi.22992</ee>
+<ee>https://orkg.org/orkg/resource/R6139</ee>
+<url>db/journals/jasis/jasis65.html#FerreiraVGL14</url>
+</article>
+</r>
+<r><article key="journals/jidm/EsperidiaoFLGGTA14" mdate="2021-11-30">
+<author pid="151/7953">Luciano Vilas Boas Esperidi&#227;o</author>
+<author pid="76/5325">Anderson A. Ferreira</author>
+<author pid="l/AHFLaender">Alberto H. F. Laender</author>
+<author pid="45/1395">Marcos Andr&#233; Gon&#231;alves</author>
+<author pid="10/2834">David Menotti Gomes</author>
+<author pid="35/1991">Andr&#233;a Iabrudi Tavares</author>
+<author pid="123/6918">Guilherme Tavares de Assis</author>
+<title>Reducing Fragmentation in Incremental Author Name Disambiguation.</title>
+<pages>293-307</pages>
+<year>2014</year>
+<volume>5</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>3</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1545</ee>
+<url>db/journals/jidm/jidm5.html#EsperidiaoFLGGTA14</url>
+</article>
+</r>
+<r><article key="journals/wdl/FerreiraGL14" mdate="2020-06-04">
+<author pid="76/5325">Anderson A. Ferreira</author>
+<author pid="45/1395">Marcos Andr&#233; Gon&#231;alves</author>
+<author pid="l/AHFLaender">Alberto H. F. Laender</author>
+<title>Disambiguating Author Names using Minimum Bibliographic Information.</title>
+<pages>71-84</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>World Digit. Libr.</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/WDL-120115</ee>
+<url>db/journals/wdl/wdl7.html#FerreiraGL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/jcdl/SantanaGLF14" mdate="2023-03-23">
+<author pid="155/2988">Alan Filipe Santana</author>
+<author orcid="0000-0002-2075-3363" pid="45/1395">Marcos Andr&#233; Gon&#231;alves</author>
+<author pid="l/AHFLaender">Alberto H. F. Laender</author>
+<author orcid="0000-0002-2487-6600" pid="76/5325">Anderson A. Ferreira</author>
+<title>Combining domain-specific heuristics for author name disambiguation.</title>
+<pages>173-182</pages>
+<year>2014</year>
+<booktitle>JCDL</booktitle>
+<ee>https://doi.org/10.1109/JCDL.2014.6970165</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/JCDL.2014.6970165</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2740799</ee>
+<crossref>conf/jcdl/2014</crossref>
+<url>db/conf/jcdl/jcdl2014.html#SantanaGLF14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/la-web/FigueiredoFA14" mdate="2023-03-24">
+<author pid="156/5275">Leandro Neiva Lopes Figueiredo</author>
+<author orcid="0000-0002-2487-6600" pid="76/5325">Anderson Almeida Ferreira</author>
+<author pid="123/6918">Guilherme Tavares de Assis</author>
+<title>A Rendering-Based Method for Selecting the Main Data Region in Web Pages.</title>
+<pages>24-32</pages>
+<year>2014</year>
+<booktitle>LA-WEB</booktitle>
+<ee>https://doi.org/10.1109/LAWeb.2014.14</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LAWeb.2014.14</ee>
+<crossref>conf/la-web/2014</crossref>
+<url>db/conf/la-web/la-web2014.html#FigueiredoFA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/la-web/GoncalvesFAT14" mdate="2023-03-24">
+<author pid="156/5504">Gabriel Resende Gon&#231;alves</author>
+<author orcid="0000-0002-2487-6600" pid="76/5325">Anderson Almeida Ferreira</author>
+<author pid="123/6918">Guilherme Tavares de Assis</author>
+<author pid="35/1991">Andr&#233;a Iabrudi Tavares</author>
+<title>Gathering Alumni Information from a Web Social Network.</title>
+<pages>100-108</pages>
+<year>2014</year>
+<booktitle>LA-WEB</booktitle>
+<ee>https://doi.org/10.1109/LAWeb.2014.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LAWeb.2014.17</ee>
+<crossref>conf/la-web/2014</crossref>
+<url>db/conf/la-web/la-web2014.html#GoncalvesFAT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jcdl/GodoiTCGFFF13" mdate="2024-07-11">
+<author pid="132/5507">Thiago A. Godoi</author>
+<author pid="s/RicardodaSilvaTorres">Ricardo da Silva Torres</author>
+<author pid="05/4617">Ariadne Maria Brito Rizzoni Carvalho</author>
+<author orcid="0000-0002-2075-3363" pid="45/1395">Marcos Andr&#233; Gon&#231;alves</author>
+<author orcid="0000-0002-2487-6600" pid="76/5325">Anderson A. Ferreira</author>
+<author orcid="0000-0003-1272-5538" pid="f/WeiguoFan">Weiguo Fan</author>
+<author orcid="0000-0003-1447-6870" pid="f/EdwardAFox">Edward A. Fox</author>
+<title>A relevance feedback approach for the author name disambiguation problem.</title>
+<pages>209-218</pages>
+<year>2013</year>
+<booktitle>JCDL</booktitle>
+<ee>https://doi.org/10.1145/2467696.2467709</ee>
+<crossref>conf/jcdl/2013</crossref>
+<url>db/conf/jcdl/jcdl2013.html#GodoiTCGFFF13</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ndltd/Ferreira12c" mdate="2022-05-04">
+<author pid="76/5325">Anderson Almeida Ferreira</author>
+<title>Contributions for Solving the Author Name Ambiguity Problem in Bibliographic Citations.</title>
+<year>2012</year>
+<school>Federal University of Minas Gerais, Brazil</school>
+<ee>https://hdl.handle.net/1843/ESSA-998NKM</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:agregador.ibict.br.BDTD_UFMG:oai:bibliotecadigital.ufmg.br:MTD2BR-ESSA-998NKM</ee>
+<note type="source">ndltd.org (oai:agregador.ibict.br.BDTD_UFMG:oai:bibliotecadigital.ufmg.br:MTD2BR-ESSA-998NKM)</note>
+</phdthesis>
+</r>
+<r><article key="journals/ipm/VelosoFGLM12" mdate="2022-01-03">
+<author pid="12/919">Adriano Veloso</author>
+<author orcid="0000-0002-2487-6600" pid="76/5325">Anderson A. Ferreira</author>
+<author orcid="0000-0002-2075-3363" pid="45/1395">Marcos Andr&#233; Gon&#231;alves</author>
+<author pid="l/AHFLaender">Alberto H. F. Laender</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<title>Cost-effective on-demand associative author name disambiguation.</title>
+<pages>680-697</pages>
+<year>2012</year>
+<volume>48</volume>
+<journal>Inf. Process. Manag.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.ipm.2011.08.005</ee>
+<url>db/journals/ipm/ipm48.html#VelosoFGLM12</url>
+</article>
+</r>
+<r><article key="journals/isci/FerreiraGALV12" mdate="2022-01-03">
+<author orcid="0000-0002-2487-6600" pid="76/5325">Anderson A. Ferreira</author>
+<author orcid="0000-0002-2075-3363" pid="45/1395">Marcos Andr&#233; Gon&#231;alves</author>
+<author pid="34/5480">Jussara M. Almeida</author>
+<author pid="l/AHFLaender">Alberto H. F. Laender</author>
+<author pid="12/919">Adriano Veloso</author>
+<title>A tool for generating synthetic authorship records for evaluating author name disambiguation methods.</title>
+<pages>42-62</pages>
+<year>2012</year>
+<volume>206</volume>
+<journal>Inf. Sci.</journal>
+<ee>https://doi.org/10.1016/j.ins.2012.04.022</ee>
+<url>db/journals/isci/isci206.html#FerreiraGALV12</url>
+</article>
+</r>
+<r><article key="journals/jidm/FerreiraMG12" mdate="2021-11-30">
+<author pid="76/5325">Anderson A. Ferreira</author>
+<author pid="119/6798">Tales Mota Machado</author>
+<author pid="45/1395">Marcos Andr&#233; Gon&#231;alves</author>
+<title>Improving Author Name Disambiguation with User Relevance Feedback.</title>
+<pages>332-347</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>3</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1457</ee>
+<url>db/journals/jidm/jidm3.html#FerreiraMG12</url>
+</article>
+</r>
+<r><article key="journals/sigmod/FerreiraGL12" mdate="2022-01-03">
+<author orcid="0000-0002-2487-6600" pid="76/5325">Anderson A. Ferreira</author>
+<author orcid="0000-0002-2075-3363" pid="45/1395">Marcos Andr&#233; Gon&#231;alves</author>
+<author pid="l/AHFLaender">Alberto H. F. Laender</author>
+<title>A brief survey of automatic methods for author name disambiguation.</title>
+<pages>15-26</pages>
+<year>2012</year>
+<volume>41</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2350036.2350040</ee>
+<url>db/journals/sigmod/sigmod41.html#FerreiraGL12</url>
+</article>
+</r>
+<r><inproceedings key="conf/jcdl/FerreiraSGVL12" mdate="2022-01-03">
+<author orcid="0000-0002-2487-6600" pid="76/5325">Anderson A. Ferreira</author>
+<author pid="141/4296">Rodrigo M. Silva</author>
+<author orcid="0000-0002-2075-3363" pid="45/1395">Marcos Andr&#233; Gon&#231;alves</author>
+<author pid="12/919">Adriano Veloso</author>
+<author pid="l/AHFLaender">Alberto H. F. Laender</author>
+<title>Active associative sampling for author name disambiguation.</title>
+<pages>175-184</pages>
+<year>2012</year>
+<booktitle>JCDL</booktitle>
+<ee>https://doi.org/10.1145/2232817.2232851</ee>
+<crossref>conf/jcdl/2012</crossref>
+<url>db/conf/jcdl/jcdl2012.html#FerreiraSGVL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/la-web/MangaraviteAF12" mdate="2023-03-24">
+<author orcid="0000-0001-9824-5484" pid="123/6906">V&#237;tor Mangaravite</author>
+<author pid="123/6918">Guilherme Tavares de Assis</author>
+<author orcid="0000-0002-2487-6600" pid="76/5325">Anderson A. Ferreira</author>
+<title>Improving the Efficiency of a Genre-Aware Approach to Focused Crawling Based on Link Context.</title>
+<pages>17-23</pages>
+<year>2012</year>
+<booktitle>LA-WEB</booktitle>
+<ee>https://doi.org/10.1109/LA-WEB.2012.24</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LA-WEB.2012.24</ee>
+<crossref>conf/la-web/2012</crossref>
+<url>db/conf/la-web/la-web2012.html#MangaraviteAF12</url>
+</inproceedings>
+</r>
+<r><article key="journals/jidm/CarvalhoFLG11" mdate="2021-11-30">
+<author pid="53/4833">Ana Paula de Carvalho</author>
+<author pid="76/5325">Anderson A. Ferreira</author>
+<author pid="l/AHFLaender">Alberto H. F. Laender</author>
+<author pid="45/1395">Marcos Andr&#233; Gon&#231;alves</author>
+<title>Incremental Unsupervised Name Disambiguation in Cleaned Digital Libraries.</title>
+<pages>289-304</pages>
+<year>2011</year>
+<volume>2</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>3</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1410</ee>
+<url>db/journals/jidm/jidm2.html#CarvalhoFLG11</url>
+</article>
+</r>
+<r><article key="journals/jasis/CotaFNGL10" mdate="2022-01-03">
+<author pid="60/4536">Ricardo G. Cota</author>
+<author orcid="0000-0002-2487-6600" pid="76/5325">Anderson A. Ferreira</author>
+<author pid="90/7109">Cristiano Nascimento</author>
+<author orcid="0000-0002-2075-3363" pid="45/1395">Marcos Andr&#233; Gon&#231;alves</author>
+<author pid="l/AHFLaender">Alberto H. F. Laender</author>
+<title>An unsupervised heuristic-based hierarchical method for name disambiguation in bibliographic citations.</title>
+<pages>1853-1870</pages>
+<year>2010</year>
+<volume>61</volume>
+<journal>J. Assoc. Inf. Sci. Technol.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1002/asi.21363</ee>
+<url>db/journals/jasis/jasis61.html#CotaFNGL10</url>
+</article>
+</r>
+<r><inproceedings key="conf/jcdl/FerreiraVGL10" mdate="2022-01-03">
+<author orcid="0000-0002-2487-6600" pid="76/5325">Anderson A. Ferreira</author>
+<author pid="12/919">Adriano Veloso</author>
+<author orcid="0000-0002-2075-3363" pid="45/1395">Marcos Andr&#233; Gon&#231;alves</author>
+<author pid="l/AHFLaender">Alberto H. F. Laender</author>
+<title>Effective self-training author name disambiguation in scholarly digital libraries.</title>
+<pages>39-48</pages>
+<year>2010</year>
+<booktitle>JCDL</booktitle>
+<ee>https://doi.org/10.1145/1816123.1816130</ee>
+<crossref>conf/jcdl/2010</crossref>
+<url>db/conf/jcdl/jcdl2010.html#FerreiraVGL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ercimdl/FerreiraGALV09" mdate="2022-01-03">
+<author orcid="0000-0002-2487-6600" pid="76/5325">Anderson A. Ferreira</author>
+<author orcid="0000-0002-2075-3363" pid="45/1395">Marcos Andr&#233; Gon&#231;alves</author>
+<author pid="34/5480">Jussara M. Almeida</author>
+<author pid="l/AHFLaender">Alberto H. F. Laender</author>
+<author pid="12/919">Adriano Veloso</author>
+<title>SyGAR - A Synthetic Data Generator for Evaluating Name Disambiguation Methods.</title>
+<pages>437-441</pages>
+<year>2009</year>
+<booktitle>ECDL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04346-8_53</ee>
+<crossref>conf/ercimdl/2009</crossref>
+<url>db/conf/ercimdl/ecdl2009.html#FerreiraGALV09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jcdl/PereiraRZLGF09" mdate="2022-01-03">
+<author orcid="0000-0001-7499-8828" pid="156/4573">Denilson Alves Pereira</author>
+<author pid="r/BerthierARibeiroNeto">Berthier A. Ribeiro-Neto</author>
+<author pid="z/NZiviani">Nivio Ziviani</author>
+<author pid="l/AHFLaender">Alberto H. F. Laender</author>
+<author orcid="0000-0002-2075-3363" pid="45/1395">Marcos Andr&#233; Gon&#231;alves</author>
+<author orcid="0000-0002-2487-6600" pid="76/5325">Anderson A. Ferreira</author>
+<title>Using web information for author name disambiguation.</title>
+<pages>49-58</pages>
+<year>2009</year>
+<booktitle>JCDL</booktitle>
+<ee>https://doi.org/10.1145/1555400.1555409</ee>
+<crossref>conf/jcdl/2009</crossref>
+<url>db/conf/jcdl/jcdl2009.html#PereiraRZLGF09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/doceng/LaenderGCFSS08" mdate="2022-01-03">
+<author pid="l/AHFLaender">Alberto H. F. Laender</author>
+<author orcid="0000-0002-2075-3363" pid="45/1395">Marcos Andr&#233; Gon&#231;alves</author>
+<author pid="60/4536">Ricardo G. Cota</author>
+<author orcid="0000-0002-2487-6600" pid="76/5325">Anderson A. Ferreira</author>
+<author orcid="0000-0003-2921-8444" pid="36/1247">Rodrygo L. T. Santos</author>
+<author pid="85/6464">Allan J. C. Silva</author>
+<title>Keeping a digital library clean: new solutions to old problems.</title>
+<pages>257-262</pages>
+<year>2008</year>
+<booktitle>ACM Symposium on Document Engineering</booktitle>
+<ee>https://doi.org/10.1145/1410140.1410195</ee>
+<crossref>conf/doceng/2008</crossref>
+<url>db/conf/doceng/doceng2008.html#LaenderGCFSS08</url>
+</inproceedings>
+</r>
+<coauthors n="38" nc="2">
+<co c="0"><na f="a/Almeida:Jussara_M=" pid="34/5480">Jussara M. Almeida</na></co>
+<co c="0"><na f="a/Assis:Guilherme_Tavares_de" pid="123/6918">Guilherme Tavares de Assis</na></co>
+<co c="0" n="2"><na f="a/Assun=ccedil==atilde=o:Renato" pid="130/0513">Renato Assun&#231;&#227;o</na><na>Renato M. Assun&#231;&#227;o</na></co>
+<co c="0"><na f="b/Bianco:Guilherme_Dal" pid="35/9588">Guilherme Dal Bianco</na></co>
+<co c="0"><na f="c/Caldeira:La=iacute=s_Soares" pid="225/0618">La&#237;s Soares Caldeira</na></co>
+<co c="0"><na f="c/Carvalho:Ana_Paula_de" pid="53/4833">Ana Paula de Carvalho</na></co>
+<co c="0"><na f="c/Carvalho:Ariadne_Maria_Brito_Rizzoni" pid="05/4617">Ariadne Maria Brito Rizzoni Carvalho</na></co>
+<co c="0"><na f="c/Cota:Ricardo_G=" pid="60/4536">Ricardo G. Cota</na></co>
+<co c="1"><na f="d/Dias:Laura_L=" pid="315/0790">Laura L. Dias</na></co>
+<co c="0"><na f="e/Esperidi=atilde=o:Luciano_Vilas_Boas" pid="151/7953">Luciano Vilas Boas Esperidi&#227;o</na></co>
+<co c="1"><na f="e/Espiridi=atilde=o:Luciano_V=_B=" pid="314/9573">Luciano V. B. Espiridi&#227;o</na></co>
+<co c="0"><na f="f/Fan:Weiguo" pid="f/WeiguoFan">Weiguo Fan</na></co>
+<co c="0"><na f="f/Figueiredo:Leandro_Neiva_Lopes" pid="156/5275">Leandro Neiva Lopes Figueiredo</na></co>
+<co c="0"><na f="f/Fox:Edward_A=" pid="f/EdwardAFox">Edward A. Fox</na></co>
+<co c="0"><na f="g/Godoi:Thiago_A=" pid="132/5507">Thiago A. Godoi</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Gabriel_Resende" pid="156/5504">Gabriel Resende Gon&#231;alves</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Marcos_Andr=eacute=" pid="45/1395">Marcos Andr&#233; Gon&#231;alves</na></co>
+<co c="0"><na f="l/Laender:Alberto_H=_F=" pid="l/AHFLaender">Alberto H. F. Laender</na></co>
+<co c="0"><na f="m/Machado:Tales_Mota" pid="119/6798">Tales Mota Machado</na></co>
+<co c="0"><na f="m/Mangaravite:V=iacute=tor" pid="123/6906">V&#237;tor Mangaravite</na></co>
+<co c="0"><na f="m/Meira_Jr=:Wagner" pid="m/WagnerMeiraJr">Wagner Meira Jr.</na></co>
+<co c="0" n="2"><na f="m/Menotti:David" pid="10/2834">David Menotti</na><na>David Menotti Gomes</na></co>
+<co c="0"><na f="n/Nascimento:Cristiano" pid="90/7109">Cristiano Nascimento</na></co>
+<co c="0"><na f="p/Pereira:Denilson_Alves" pid="156/4573">Denilson Alves Pereira</na></co>
+<co c="-1"><na f="p/Pereira:=Iacute=talo_M=" pid="250/3750">&#205;talo M. Pereira</na></co>
+<co c="0"><na f="r/Ribeiro=Neto:Berthier_A=" pid="r/BerthierARibeiroNeto">Berthier A. Ribeiro-Neto</na></co>
+<co c="0"><na f="s/Santana:Alan_Filipe" pid="155/2988">Alan Filipe Santana</na></co>
+<co c="0"><na f="s/Santos:Rodrygo_L=_T=" pid="36/1247">Rodrygo L. T. Santos</na></co>
+<co c="0"><na f="s/Silva:Allan_J=_C=" pid="85/6464">Allan J. C. Silva</na></co>
+<co c="0"><na f="s/Silva:Rodrigo_M=" pid="141/4296">Rodrigo M. Silva</na></co>
+<co c="-1"><na f="s/Sousa:Priscila_Sad_de" pid="227/0783">Priscila Sad de Sousa</na></co>
+<co c="0"><na f="s/Souza:Em=iacute=lia_A=_de" pid="163/6969">Em&#237;lia A. de Souza</na></co>
+<co c="-1"><na f="s/Souza:Luan" pid="279/5624">Luan Souza</na></co>
+<co c="0"><na f="t/Tavares:Andr=eacute=a_Iabrudi" pid="35/1991">Andr&#233;a Iabrudi Tavares</na></co>
+<co c="0"><na f="t/Torres:Ricardo_da_Silva" pid="s/RicardodaSilvaTorres">Ricardo da Silva Torres</na></co>
+<co c="0"><na f="v/Veloso:Adriano" pid="12/919">Adriano Veloso</na></co>
+<co c="0"><na f="v/Veloso:Br=aacute=ulio_Miranda" pid="251/6185">Br&#225;ulio Miranda Veloso</na></co>
+<co c="0"><na f="z/Ziviani:Nivio" pid="z/NZiviani">Nivio Ziviani</na></co>
+</coauthors>
+</dblpperson>
+

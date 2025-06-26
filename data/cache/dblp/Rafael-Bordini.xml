@@ -1,0 +1,3014 @@
+<?xml version="1.0"?>
+<dblpperson name="Rafael H. Bordini" pid="b/RafaelHBordini" n="199">
+<person key="homepages/b/RafaelHBordini" mdate="2022-02-15">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="b/RafaelHBordini">Rafael Heitor Bordini</author>
+<url>http://www.inf.pucrs.br/r.bordini</url>
+<url>https://scholar.google.com/citations?user=8MYOqwgAAAAJ</url>
+<url>https://dl.acm.org/profile/81100596694</url>
+<url>https://orcid.org/0000-0001-8688-9901</url>
+<url>https://www.wikidata.org/entity/Q61862542</url>
+<url>http://lattes.cnpq.br/4589262718627942</url>
+<note type="affiliation">FACIN-PUCRS</note>
+</person>
+<r><article key="journals/amai/KrausburgBD24" mdate="2024-07-19">
+<author orcid="0000-0002-8252-4099" pid="225/2686">Tabajara Krausburg</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="d/JurgenDix">J&#252;rgen Dix</author>
+<title>Modelling a chain of command in the incident command system using sequential characteristic function games.</title>
+<pages>925-951</pages>
+<year>2024</year>
+<month>August</month>
+<volume>92</volume>
+<journal>Ann. Math. Artif. Intell.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10472-023-09878-7</ee>
+<url>db/journals/amai/amai92.html#KrausburgBD24</url>
+<stream>streams/journals/amai</stream>
+</article>
+</r>
+<r><article key="journals/lre/TrajanoBV24" mdate="2024-12-24">
+<author pid="307/8711">Douglas Trajano</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>OLID-BR: offensive language identification dataset for Brazilian Portuguese.</title>
+<pages>1263-1289</pages>
+<year>2024</year>
+<month>December</month>
+<volume>58</volume>
+<journal>Lang. Resour. Evaluation</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10579-023-09657-0</ee>
+<url>db/journals/lre/lre58.html#TrajanoBV24</url>
+<stream>streams/journals/lre</stream>
+</article>
+</r>
+<r><inproceedings key="conf/comma/TrajanoEBSMP24" mdate="2024-10-09">
+<author pid="372/1286">Guilherme Trajano</author>
+<author pid="225/2571">D&#233;bora C. Engelmann</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="222/7833">Stefan Sarkadi</author>
+<author pid="308/4178">Jack Mumford</author>
+<author pid="151/3594">Alison R. Panisson</author>
+<title>Translating Natural Language Arguments to Computational Arguments Using LLMs.</title>
+<pages>289-300</pages>
+<year>2024</year>
+<booktitle>COMMA</booktitle>
+<ee>https://doi.org/10.3233/FAIA240329</ee>
+<crossref>conf/comma/2024</crossref>
+<url>db/conf/comma/comma2024.html#TrajanoEBSMP24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/FerreiraEBCP24" mdate="2024-08-04">
+<author pid="331/3927">Carlos Eduardo A. Ferreira</author>
+<author pid="225/2571">D&#233;bora C. Engelmann</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="121/5033">Joel Luis Carbonera</author>
+<author orcid="0000-0002-9438-5508" pid="151/3594">Alison R. Panisson</author>
+<title>A Knowledge Base of Argumentation Schemes for Multi-Agent Systems.</title>
+<pages>587-594</pages>
+<year>2024</year>
+<booktitle>ICEIS (1)</booktitle>
+<ee>https://doi.org/10.5220/0012547800003690</ee>
+<crossref>conf/iceis/2024-1</crossref>
+<url>db/conf/iceis/iceis2024-1.html#FerreiraEBCP24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/woa/BordiniCMV24" mdate="2024-07-26">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="c/StefaniaCostantini">Stefania Costantini</author>
+<author pid="357/0631">Andrea Monaldini</author>
+<author pid="362/7818">Alina Vozna</author>
+<title>From pure Prolog to logic Agent-Oriented Programming Languages.</title>
+<pages>252-266</pages>
+<year>2024</year>
+<booktitle>WOA</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3735/paper_20.pdf</ee>
+<crossref>conf/woa/2024</crossref>
+<url>db/conf/woa/woa2024.html#BordiniCMV24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2409-04424" mdate="2024-10-21">
+<author pid="388/3668">Davide Clode da Silva</author>
+<author pid="388/2510">Marina Musse Bernardes</author>
+<author pid="388/2816">Nathalia Giacomini Ceretta</author>
+<author pid="388/3328">Gabriel Vaz de Souza</author>
+<author pid="278/2276">Gabriel Fonseca Silva</author>
+<author pid="b/RafaelHBordini">Rafael Heitor Bordini</author>
+<author pid="92/5311">Soraia Raupp Musse</author>
+<title>Exploring Foundation Models for Synthetic Medical Imaging: A Study on Chest X-Rays and Fine-Tuning Techniques.</title>
+<year>2024</year>
+<volume>abs/2409.04424</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2409.04424</ee>
+<url>db/journals/corr/corr2409.html#abs-2409-04424</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/robotics/EngelmannFPABM23" mdate="2023-06-02">
+<author orcid="0000-0002-6090-8294" pid="225/2571">D&#233;bora C. Engelmann</author>
+<author orcid="0000-0002-8711-4670" pid="134/9527">Angelo Ferrando 0001</author>
+<author orcid="0000-0002-9438-5508" pid="151/3594">Alison R. Panisson</author>
+<author orcid="0000-0002-6297-2011" pid="a/DAncona">Davide Ancona</author>
+<author orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0002-2261-9926" pid="m/VMascardi">Viviana Mascardi</author>
+<title>RV4JaCa - Towards Runtime Verification of Multi-Agent Systems and Robotic Applications.</title>
+<pages>49</pages>
+<year>2023</year>
+<month>April</month>
+<volume>12</volume>
+<journal>Robotics</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.3390/robotics12020049</ee>
+<url>db/journals/robotics/robotics12.html#EngelmannFPABM23</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/EngelmannPVHMB23" mdate="2023-05-23">
+<author pid="225/2571">D&#233;bora C. Engelmann</author>
+<author pid="151/3594">Alison R. Panisson</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="m/VMascardi">Viviana Mascardi</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>MAIDS - A Framework for the Development of Multi-Agent Intentional Dialogue Systems.</title>
+<pages>1209-1217</pages>
+<year>2023</year>
+<booktitle>AAMAS</booktitle>
+<ee>https://dl.acm.org/doi/10.5555/3545946.3598764</ee>
+<crossref>conf/atal/2023</crossref>
+<url>db/conf/atal/aamas2023.html#EngelmannPVHMB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/biostec/ConsoliVB23" mdate="2023-03-23">
+<author pid="241/3945">Bernardo Scapini Consoli</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Benchmarking the BRATECA Clinical Data Collection for Prediction Tasks.</title>
+<pages>338-345</pages>
+<year>2023</year>
+<booktitle>HEALTHINF</booktitle>
+<ee>https://doi.org/10.5220/0011671400003414</ee>
+<crossref>conf/biostec/2023hi</crossref>
+<url>db/conf/biostec/healthinf2023.html#ConsoliVB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbgames/LenhardKSBS23" mdate="2024-02-05">
+<author orcid="0009-0001-7299-074X" pid="366/2272">Christopher Lenhard</author>
+<author orcid="0000-0002-5791-5557" pid="352/9573">Henrique L. Krever</author>
+<author orcid="0009-0008-2569-122X" pid="366/2237">Ricardo K. Schlsener</author>
+<author orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0002-6025-5270" pid="15/2300">Lu&#237;s A. Lima Silva</author>
+<title>Deceptive Topographic Path Planning.</title>
+<pages>1</pages>
+<year>2023</year>
+<booktitle>SBGames</booktitle>
+<ee>https://doi.org/10.1145/3631085.3631334</ee>
+<crossref>conf/sbgames/2023</crossref>
+<url>db/conf/sbgames/sbgames2023.html#LenhardKSBS23</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijhci/OliveiraCPB22" mdate="2022-09-10">
+<author orcid="0000-0001-8915-285X" pid="165/2707">Juliana Damasio Oliveira</author>
+<author pid="152/4323">Julia M. Colleoni Couto</author>
+<author pid="189/8722">Vanessa Stangherlin Machado Paix&#227;o-Cortes</author>
+<author pid="b/RafaelHBordini">Rafael Heitor Bordini</author>
+<title>Improving the Design of Ambient Intelligence Systems: Guidelines Based on a Systematic Review.</title>
+<pages>19-27</pages>
+<year>2022</year>
+<volume>38</volume>
+<journal>Int. J. Hum. Comput. Interact.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1080/10447318.2021.1926114</ee>
+<url>db/journals/ijhci/ijhci37.html#OliveiraCPB22</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/PanissonMB22" mdate="2022-07-18">
+<author pid="151/3594">Alison R. Panisson</author>
+<author pid="m/PeterMcBurney">Peter McBurney</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Towards an Enthymeme-Based Communication Framework.</title>
+<pages>1708-1710</pages>
+<year>2022</year>
+<booktitle>AAMAS</booktitle>
+<ee type="oa">https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1708.pdf</ee>
+<ee>https://dl.acm.org/doi/10.5555/3535850.3536084</ee>
+<crossref>conf/atal/2022</crossref>
+<url>db/conf/atal/aamas2022.html#PanissonMB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kr/PanissonMB22" mdate="2022-07-27">
+<author pid="151/3594">Alison R. Panisson</author>
+<author pid="m/PeterMcBurney">Peter McBurney</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Towards an Enthymeme-Based Communication Framework in Multi-Agent Systems.</title>
+<year>2022</year>
+<booktitle>KR</booktitle>
+<ee>https://proceedings.kr.org/2022/27/</ee>
+<crossref>conf/kr/2022</crossref>
+<url>db/conf/kr/kr2022.html#PanissonMB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/ConsoliSUVB22" mdate="2022-10-10">
+<author pid="241/3945">Bernardo Scapini Consoli</author>
+<author pid="204/3810">Henrique D. P. dos Santos</author>
+<author pid="223/6991">Ana Helena D. P. S. Ulbrich</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>BRATECA (Brazilian Tertiary Care Dataset): a Clinical Information Dataset for the Portuguese Language.</title>
+<pages>5609-5616</pages>
+<year>2022</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">https://aclanthology.org/2022.lrec-1.602</ee>
+<crossref>conf/lrec/2022</crossref>
+<url>db/conf/lrec/lrec2022.html#ConsoliSUVB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/paams/FerreiraPEVMB22" mdate="2024-08-04">
+<author pid="331/3927">Carlos Eduardo A. Ferreira</author>
+<author orcid="0000-0002-9438-5508" pid="151/3594">Alison R. Panisson</author>
+<author pid="225/2571">D&#233;bora C. Engelmann</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="m/VMascardi">Viviana Mascardi</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Explaining Semantic Reasoning Using Argumentation.</title>
+<pages>153-165</pages>
+<year>2022</year>
+<booktitle>PAAMS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-18192-4_13</ee>
+<crossref>conf/paams/2022</crossref>
+<url>db/conf/paams/paams2022.html#FerreiraPEVMB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/prima/KrausburgDB22" mdate="2022-12-25">
+<author orcid="0000-0002-8252-4099" pid="225/2686">Tabajara Krausburg</author>
+<author orcid="0000-0002-8528-1440" pid="d/JurgenDix">J&#252;rgen Dix</author>
+<author orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>An MCTS-Based Algorithm to Solve Sequential CFGs on Valuation Structures.</title>
+<pages>399-416</pages>
+<year>2022</year>
+<booktitle>PRIMA</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-21203-1_24</ee>
+<crossref>conf/prima/2022</crossref>
+<url>db/conf/prima/prima2022.html#KrausburgDB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sai/CoutoDBR22" mdate="2023-02-02">
+<author pid="339/0542">J&#250;lia Colleoni Couto</author>
+<author pid="165/2707">Juliana Damasio</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="339/0493">Duncan Ruiz</author>
+<title>New Trends in Big Data Profiling.</title>
+<pages>808-825</pages>
+<year>2022</year>
+<booktitle>SAI (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-10461-9_55</ee>
+<crossref>conf/sai/2022-1</crossref>
+<url>db/conf/sai/sai2022-1.html#CoutoDBR22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/corr/abs-2207-09708" mdate="2024-08-04">
+<author pid="225/2571">D&#233;bora C. Engelmann</author>
+<author pid="134/9527">Angelo Ferrando 0001</author>
+<author orcid="0000-0002-9438-5508" pid="151/3594">Alison R. Panisson</author>
+<author pid="a/DAncona">Davide Ancona</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="m/VMascardi">Viviana Mascardi</author>
+<title>RV4JaCa - Runtime Verification for Multi-Agent Systems.</title>
+<booktitle>AREA@IJCAI-ECAI</booktitle>
+<year>2022</year>
+<pages>23-36</pages>
+<crossref>journals/corr/abs-2207-09058</crossref>
+<ee type="oa">https://doi.org/10.4204/EPTCS.362.5</ee>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.09708</ee>
+<url>db/series/eptcs/eptcs362.html#abs-2207-09708</url>
+</inproceedings>
+</r>
+<r><article key="journals/argcom/PanissonMB21" mdate="2024-08-04">
+<author orcid="0000-0002-9438-5508" pid="151/3594">Alison R. Panisson</author>
+<author orcid="0000-0001-5547-5239" pid="m/PeterMcBurney">Peter McBurney</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>A computational model of argumentation schemes for multi-agent systems.</title>
+<pages>357-395</pages>
+<year>2021</year>
+<volume>12</volume>
+<journal>Argument Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.3233/AAC-210555</ee>
+<url>db/journals/argcom/argcom12.html#PanissonMB21</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/KrausburgDB21" mdate="2022-07-20">
+<author pid="225/2686">Tabajara Krausburg</author>
+<author pid="d/JurgenDix">J&#252;rgen Dix</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Feasible Coalition Sequences.</title>
+<pages>719-727</pages>
+<year>2021</year>
+<booktitle>AAMAS</booktitle>
+<ee type="oa">https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p719.pdf</ee>
+<ee>https://dl.acm.org/doi/10.5555/3463952.3464039</ee>
+<crossref>conf/atal/2021</crossref>
+<url>db/conf/atal/aamas2021.html#KrausburgDB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/BordiniSHLR21" mdate="2022-07-20">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="f/AEFallahSeghrouchni">Amal El Fallah Seghrouchni</author>
+<author pid="67/2212">Koen V. Hindriks</author>
+<author pid="81/6813">Brian Logan 0001</author>
+<author pid="26/6718">Alessandro Ricci</author>
+<title>Agent Programming in the Cognitive Era.</title>
+<pages>1718-1720</pages>
+<year>2021</year>
+<booktitle>AAMAS</booktitle>
+<ee type="oa">https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1718.pdf</ee>
+<ee>https://dl.acm.org/doi/10.5555/3463952.3464213</ee>
+<crossref>conf/atal/2021</crossref>
+<url>db/conf/atal/aamas2021.html#BordiniSHLR21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/EngelmannCPB21" mdate="2021-12-25">
+<author orcid="0000-0002-6090-8294" pid="225/2571">D&#233;bora C. Engelmann</author>
+<author orcid="0000-0001-6312-1529" pid="302/6392">Lucca Dornelles Cezar</author>
+<author orcid="0000-0002-9438-5508" pid="151/3594">Alison R. Panisson</author>
+<author orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>A Conversational Agent to Support Hospital Bed Allocation.</title>
+<pages>3-17</pages>
+<year>2021</year>
+<booktitle>BRACIS (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-91702-9_1</ee>
+<crossref>conf/bracis/2021-1</crossref>
+<url>db/conf/bracis/bracis2021-1.html#EngelmannCPB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/ReyesTMVB21" mdate="2025-04-01">
+<author orcid="0000-0003-0495-5982" pid="283/4235">Daniel De Los Reyes</author>
+<author orcid="0000-0001-7801-8938" pid="307/8711">Douglas Trajano</author>
+<author orcid="0000-0001-9446-6757" pid="38/6192">Isabel Harb Manssour</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Entity Relation Extraction from News Articles in Portuguese for Competitive Intelligence Based on BERT.</title>
+<pages>449-464</pages>
+<year>2021</year>
+<booktitle>BRACIS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-91699-2_31</ee>
+<crossref>conf/bracis/2021-2</crossref>
+<url>db/conf/bracis/bracis2021-2.html#ReyesTMVB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emas/PanissonEB21" mdate="2024-08-04">
+<author orcid="0000-0002-9438-5508" pid="151/3594">Alison R. Panisson</author>
+<author pid="225/2571">D&#233;bora C. Engelmann</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Engineering Explainable Agents: An Argumentation-Based Approach.</title>
+<pages>273-291</pages>
+<year>2021</year>
+<booktitle>EMAS@AAMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-97457-2_16</ee>
+<crossref>conf/emas/2021</crossref>
+<url>db/conf/emas/emas2021.html#PanissonEB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hci/ColissiVMB21" mdate="2021-07-29">
+<author orcid="0000-0002-3710-1185" pid="297/5939">Mateus da Silveira Colissi</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author orcid="0000-0002-2261-9926" pid="m/VMascardi">Viviana Mascardi</author>
+<author orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>A Chatbot that Uses a Multi-agent Organization to Support Collaborative Learning.</title>
+<pages>31-38</pages>
+<year>2021</year>
+<booktitle>HCI (39)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-78645-8_4</ee>
+<crossref>conf/hci/2021-39</crossref>
+<url>db/conf/hci/hci2021-39.html#ColissiVMB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/paams/EngelmannDKBCPB21" mdate="2022-06-23">
+<author orcid="0000-0002-6090-8294" pid="225/2571">D&#233;bora C. Engelmann</author>
+<author orcid="0000-0001-8915-285X" pid="165/2707">Juliana Damasio</author>
+<author orcid="0000-0002-8252-4099" pid="225/2686">Tabajara Krausburg</author>
+<author orcid="0000-0002-2567-2570" pid="201/9789">Olimar Teixeira Borges</author>
+<author orcid="0000-0002-3710-1185" pid="297/5939">Mateus da Silveira Colissi</author>
+<author orcid="0000-0002-9438-5508" pid="151/3594">Alison R. Panisson</author>
+<author orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Dial4JaCa - A Communication Interface Between Multi-agent Systems and Chatbots.</title>
+<pages>77-88</pages>
+<year>2021</year>
+<booktitle>PAAMS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-85739-4_7</ee>
+<crossref>conf/paams/2021</crossref>
+<url>db/conf/paams/paams2021.html#EngelmannDKBCPB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/paams/EngelmannDKBCPB21a" mdate="2022-06-23">
+<author orcid="0000-0002-6090-8294" pid="225/2571">D&#233;bora C. Engelmann</author>
+<author orcid="0000-0001-8915-285X" pid="165/2707">Juliana Damasio</author>
+<author orcid="0000-0002-8252-4099" pid="225/2686">Tabajara Krausburg</author>
+<author orcid="0000-0002-2567-2570" pid="201/9789">Olimar Teixeira Borges</author>
+<author orcid="0000-0001-6312-1529" pid="302/6392">Lucca Dornelles Cezar</author>
+<author orcid="0000-0002-9438-5508" pid="151/3594">Alison R. Panisson</author>
+<author orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Dial4JaCa - A Demonstration.</title>
+<pages>346-350</pages>
+<year>2021</year>
+<booktitle>PAAMS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-85739-4_29</ee>
+<crossref>conf/paams/2021</crossref>
+<url>db/conf/paams/paams2021.html#EngelmannDKBCPB21a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssci/KrausburgDB21" mdate="2022-04-09">
+<author orcid="0000-0002-8252-4099" pid="225/2686">Tabajara Krausburg</author>
+<author pid="d/JurgenDix">J&#252;rgen Dix</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Computing Sequences of Coalition Structures.</title>
+<pages>1-7</pages>
+<year>2021</year>
+<booktitle>SSCI</booktitle>
+<ee>https://doi.org/10.1109/SSCI50451.2021.9660127</ee>
+<crossref>conf/ssci/2021</crossref>
+<url>db/conf/ssci/ssci2021.html#KrausburgDB21</url>
+</inproceedings>
+</r>
+<r><article key="journals/aamas/BordiniSHLR20" mdate="2022-04-09">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="f/AEFallahSeghrouchni">Amal El Fallah Seghrouchni</author>
+<author orcid="0000-0002-5707-5236" pid="67/2212">Koen V. Hindriks</author>
+<author pid="81/6813">Brian Logan 0001</author>
+<author orcid="0000-0002-9222-5092" pid="26/6718">Alessandro Ricci</author>
+<title>Agent programming in the cognitive era.</title>
+<pages>37</pages>
+<year>2020</year>
+<volume>34</volume>
+<journal>Auton. Agents Multi Agent Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10458-020-09453-y</ee>
+<url>db/journals/aamas/aamas34.html#BordiniSHLR20</url>
+</article>
+</r>
+<r><article key="journals/tcs/GabrielPBAB20" mdate="2025-01-19">
+<author pid="233/5371">V&#225;gner de Oliveira Gabriel</author>
+<author orcid="0000-0002-9438-5508" pid="151/3594">Alison R. Panisson</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="87/4374">Diana Francisca Adamatti</author>
+<author pid="50/2400">Cl&#233;o Zanella Billa</author>
+<title>Reasoning in BDI agents using Toulmin's argumentation model.</title>
+<pages>76-91</pages>
+<year>2020</year>
+<volume>805</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2019.10.026</ee>
+<ee>https://www.wikidata.org/entity/Q127010517</ee>
+<url>db/journals/tcs/tcs805.html#GabrielPBAB20</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/BordiniCHR20" mdate="2022-07-26">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="c/RemWCollier">Rem W. Collier</author>
+<author pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="26/6718">Alessandro Ricci</author>
+<title>Encapsulating Reactive Behaviour in Goal-Based Plans for Programming BDI Agents: Extended Abstract.</title>
+<pages>1783-1785</pages>
+<year>2020</year>
+<booktitle>AAMAS</booktitle>
+<ee>https://dl.acm.org/doi/10.5555/3398761.3398981</ee>
+<ee type="oa">https://www.ifaamas.org/Proceedings/aamas2020/pdfs/p1783.pdf</ee>
+<crossref>conf/atal/2020</crossref>
+<url>db/conf/atal/aamas2020.html#BordiniCHR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/PanissonBC20" mdate="2024-08-04">
+<author orcid="0000-0002-9438-5508" pid="151/3594">Alison R. Panisson</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="36/5618">Ant&#244;nio Carlos da Rocha Costa</author>
+<title>A Multi-level Approach to the Formal Semantics of Agent Societies.</title>
+<pages>3-17</pages>
+<year>2020</year>
+<booktitle>BRACIS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-61380-8_1</ee>
+<crossref>conf/bracis/2020-2</crossref>
+<url>db/conf/bracis/bracis2020-2.html#PanissonBC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emas/RicciCBHB20" mdate="2022-10-02">
+<author orcid="0000-0002-9222-5092" pid="26/6718">Alessandro Ricci</author>
+<author orcid="0000-0001-5369-7444" pid="169/6192">Angelo Croatti</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author orcid="0000-0002-2956-0533" pid="44/5374">Olivier Boissier</author>
+<title>Exploiting Simulation for MAS Development and Execution - The JaCaMo-Sim Approach.</title>
+<pages>42-60</pages>
+<year>2020</year>
+<booktitle>EMAS@AAMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-66534-0_3</ee>
+<crossref>conf/emas/2020</crossref>
+<url>db/conf/emas/emas2020.html#RicciCBHB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eumas/KrausburgCBD20" mdate="2021-04-07">
+<author orcid="0000-0002-8252-4099" pid="225/2686">Tabajara Krausburg</author>
+<author orcid="0000-0001-9620-0493" pid="268/7185">Vinicius Chrisosthemos</author>
+<author orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0002-8528-1440" pid="d/JurgenDix">J&#252;rgen Dix</author>
+<title>Disaster Response Simulation as a Testbed for Multi-Agent Systems.</title>
+<pages>67-81</pages>
+<year>2020</year>
+<booktitle>EUMAS/AT</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-66412-1_5</ee>
+<crossref>conf/eumas/2020</crossref>
+<url>db/conf/eumas/eumas2020.html#KrausburgCBD20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/paams/KrausburgCBD20" mdate="2020-08-06">
+<author orcid="0000-0002-8252-4099" pid="225/2686">Tabajara Krausburg</author>
+<author orcid="0000-0001-9620-0493" pid="268/7185">Vinicius Chrisosthemos</author>
+<author orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0002-8528-1440" pid="d/JurgenDix">J&#252;rgen Dix</author>
+<title>Disaster Response Simulation.</title>
+<pages>434-438</pages>
+<year>2020</year>
+<booktitle>PAAMS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-49778-1_42</ee>
+<crossref>conf/paams/2020</crossref>
+<url>db/conf/paams/paams2020.html#KrausburgCBD20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/PanissonB20" mdate="2024-08-04">
+<author orcid="0000-0002-9438-5508" pid="151/3594">Alison R. Panisson</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Towards a Computational Model of Argumentation Schemes in Agent-Oriented Programming Languages.</title>
+<pages>9-16</pages>
+<year>2020</year>
+<booktitle>WI/IAT</booktitle>
+<ee>https://doi.org/10.1109/WIIAT50758.2020.00007</ee>
+<crossref>conf/webi/2020</crossref>
+<url>db/conf/webi/webi2020.html#PanissonB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/woa/BordiniMCSLR20" mdate="2023-03-10">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="m/VMascardi">Viviana Mascardi</author>
+<author pid="c/StefaniaCostantini">Stefania Costantini</author>
+<author pid="f/AEFallahSeghrouchni">Amal El Fallah Seghrouchni</author>
+<author pid="74/5003">Yves Lesp&#233;rance</author>
+<author pid="26/6718">Alessandro Ricci</author>
+<title>Transcultural Health-Aware Guides for the Elderly.</title>
+<pages>135-146</pages>
+<year>2020</year>
+<booktitle>WOA</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2706/paper8.pdf</ee>
+<crossref>conf/woa/2020</crossref>
+<url>db/conf/woa/woa2020.html#BordiniMCSLR20</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/emas/2019" mdate="2020-07-17">
+<editor orcid="0000-0003-1426-1896" pid="58/1750">Louise A. Dennis</editor>
+<editor orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</editor>
+<editor pid="74/5003">Yves Lesp&#233;rance</editor>
+<title>Engineering Multi-Agent Systems - 7th International Workshop, EMAS 2019, Montreal, QC, Canada, May 13-14, 2019, Revised Selected Papers</title>
+<booktitle>EMAS@AAMAS</booktitle>
+<publisher>Springer</publisher>
+<year>2020</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>12058</volume>
+<isbn>978-3-030-51416-7</isbn>
+<isbn>978-3-030-51417-4</isbn>
+<ee>https://doi.org/10.1007/978-3-030-51417-4</ee>
+<url>db/conf/emas/emas2019.html</url>
+</proceedings>
+</r>
+<r><article key="journals/aicom/SarkadiPBMPC19" mdate="2024-08-04">
+<author orcid="0000-0003-3999-528X" pid="222/7833">Stefan Sarkadi</author>
+<author orcid="0000-0002-9438-5508" pid="151/3594">Alison R. Panisson</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0001-5547-5239" pid="m/PeterMcBurney">Peter McBurney</author>
+<author orcid="0000-0002-8425-9065" pid="65/1416">Simon Parsons</author>
+<author orcid="0000-0002-5242-9701" pid="134/7646">Martin Chapman</author>
+<title>Modelling deception using theory of mind in multi-agent systems.</title>
+<pages>287-302</pages>
+<year>2019</year>
+<volume>32</volume>
+<journal>AI Commun.</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/AIC-190615</ee>
+<url>db/journals/aicom/aicom32.html#SarkadiPBMPC19</url>
+</article>
+</r>
+<r><article key="journals/ci/BasegioB19" mdate="2025-01-19">
+<author orcid="0000-0002-0964-9354" pid="214/1750">T&#250;lio L. Bas&#233;gio</author>
+<author orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Allocating structured tasks in heterogeneous agent teams.</title>
+<pages>124-155</pages>
+<year>2019</year>
+<volume>35</volume>
+<journal>Comput. Intell.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1111/coin.12194</ee>
+<ee>https://www.wikidata.org/entity/Q128987511</ee>
+<url>db/journals/ci/ci35.html#BasegioB19</url>
+</article>
+</r>
+<r><article key="journals/ker/BoissierBHR19" mdate="2025-01-19">
+<author orcid="0000-0002-2956-0533" pid="44/5374">Olivier Boissier</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author orcid="0000-0002-9222-5092" pid="26/6718">Alessandro Ricci</author>
+<title>Dimensions in programming multi-agent systems.</title>
+<pages>e2</pages>
+<year>2019</year>
+<volume>34</volume>
+<journal>Knowl. Eng. Rev.</journal>
+<ee>https://doi.org/10.1017/S026988891800005X</ee>
+<ee>https://www.wikidata.org/entity/Q128595519</ee>
+<url>db/journals/ker/ker34.html#BoissierBHR19</url>
+</article>
+</r>
+<r><inproceedings key="conf/assets/OliveiraCAB19" mdate="2025-01-19">
+<author pid="165/2707">Juliana Damasio Oliveira</author>
+<author pid="131/8247">M&#225;rcia de Borba Campos</author>
+<author pid="41/1314">Alexandre M. Amory</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>GoDonnie: A Robot Programming Language to Improve Orientation and Mobility Skills in People Who are Visually Impaired.</title>
+<pages>679-681</pages>
+<year>2019</year>
+<booktitle>ASSETS</booktitle>
+<ee>https://doi.org/10.1145/3308561.3354599</ee>
+<ee>https://www.wikidata.org/entity/Q130970713</ee>
+<crossref>conf/assets/2019</crossref>
+<url>db/conf/assets/assets2019.html#OliveiraCAB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/RicciCMBBH19" mdate="2019-05-29">
+<author pid="26/6718">Alessandro Ricci</author>
+<author pid="17/11537">Andrei Ciortea</author>
+<author pid="16/9863">Simon Mayer</author>
+<author pid="44/5374">Olivier Boissier</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<title>Engineering Scalable Distributed Environments and Organizations for MAS.</title>
+<pages>790-798</pages>
+<year>2019</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3331770</ee>
+<crossref>conf/atal/2019</crossref>
+<url>db/conf/atal/aamas2019.html#RicciCMBBH19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/CardosoB19" mdate="2022-09-28">
+<author pid="131/5387">Rafael C. Cardoso 0001</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Decentralised Planning for Multi-Agent Programming Platforms.</title>
+<pages>799-807</pages>
+<year>2019</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3331771</ee>
+<crossref>conf/atal/2019</crossref>
+<url>db/conf/atal/aamas2019.html#CardosoB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icaart/KrausburgB19" mdate="2020-10-25">
+<author orcid="0000-0002-8252-4099" pid="225/2686">Tabajara Krausburg</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Constrained Coalition Formation among Heterogeneous Agents for the Multi-Agent Programming Contest.</title>
+<pages>162-169</pages>
+<year>2019</year>
+<booktitle>ICAART (1)</booktitle>
+<ee>https://doi.org/10.5220/0007374501620169</ee>
+<crossref>conf/icaart/2019-1</crossref>
+<url>db/conf/icaart/icaart2019-1.html#KrausburgB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/prima/CaponeBMDFGG19" mdate="2022-12-07">
+<author pid="251/6030">Chiara Capone</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="m/VMascardi">Viviana Mascardi</author>
+<author pid="d/GDelzanno">Giorgio Delzanno</author>
+<author orcid="0000-0002-8711-4670" pid="134/9527">Angelo Ferrando 0001</author>
+<author pid="247/9078">Luca Gelati</author>
+<author pid="g/GiovannaGuerrini">Giovanna Guerrini</author>
+<title>Smart RogAgent: Where Agents and Humans Team Up.</title>
+<pages>541-549</pages>
+<year>2019</year>
+<booktitle>PRIMA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-33792-6_39</ee>
+<crossref>conf/prima/2019</crossref>
+<url>db/conf/prima/prima2019.html#CaponeBMDFGG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/EngelmannCGVB19" mdate="2021-04-09">
+<author pid="225/2571">D&#233;bora C. Engelmann</author>
+<author orcid="0000-0002-4022-0142" pid="152/4323">Julia Couto 0002</author>
+<author pid="233/5371">V&#225;gner de Oliveira Gabriel</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Towards an Ontology to Support Decision-making in Hospital Bed Allocation (S).</title>
+<pages>71-74</pages>
+<year>2019</year>
+<booktitle>SEKE</booktitle>
+<ee type="oa">https://doi.org/10.18293/SEKE2019-130</ee>
+<crossref>conf/seke/2019</crossref>
+<url>db/conf/seke/seke2019.html#EngelmannCGVB19</url>
+</inproceedings>
+</r>
+<r><article key="journals/amai/CardosoKBEHB18" mdate="2025-01-19">
+<author orcid="0000-0001-6666-6954" pid="131/5387">Rafael C. Cardoso 0001</author>
+<author orcid="0000-0002-8252-4099" pid="225/2686">Tabajara Krausburg</author>
+<author pid="214/1750">T&#250;lio L. Bas&#233;gio</author>
+<author pid="225/2571">D&#233;bora C. Engelmann</author>
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>SMART-JaCaMo: an organization-based team for the multi-agent programming contest.</title>
+<pages>75-93</pages>
+<year>2018</year>
+<volume>84</volume>
+<journal>Ann. Math. Artif. Intell.</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1007/s10472-018-9584-z</ee>
+<ee>https://www.wikidata.org/entity/Q129888217</ee>
+<url>db/journals/amai/amai84.html#CardosoKBEHB18</url>
+</article>
+</r>
+<r><inproceedings key="conf/at/SarkadiPBMP18" mdate="2024-08-04">
+<author orcid="0000-0003-3999-528X" pid="222/7833">Stefan Sarkadi</author>
+<author orcid="0000-0002-9438-5508" pid="151/3594">Alison R. Panisson</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="m/PeterMcBurney">Peter McBurney</author>
+<author pid="65/1416">Simon Parsons</author>
+<title>Towards an Approach for Modelling Uncertain Theory of Mind in Multi-Agent Systems.</title>
+<pages>3-17</pages>
+<year>2018</year>
+<booktitle>AT</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-17294-7_1</ee>
+<crossref>conf/at/2018</crossref>
+<url>db/conf/at/at2018.html#SarkadiPBMP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/at/PanissonSMPB18" mdate="2024-08-04">
+<author orcid="0000-0002-9438-5508" pid="151/3594">Alison R. Panisson</author>
+<author orcid="0000-0003-3999-528X" pid="222/7833">Stefan Sarkadi</author>
+<author pid="m/PeterMcBurney">Peter McBurney</author>
+<author pid="65/1416">Simon Parsons</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>On the Formal Semantics of Theory of Mind in Agent Communication.</title>
+<pages>18-32</pages>
+<year>2018</year>
+<booktitle>AT</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-17294-7_2</ee>
+<crossref>conf/at/2018</crossref>
+<url>db/conf/at/at2018.html#PanissonSMPB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/PanissonSMPB18" mdate="2023-03-10">
+<author pid="151/3594">Alison R. Panisson</author>
+<author pid="222/7833">Stefan Sarkadi</author>
+<author pid="m/PeterMcBurney">Peter McBurney</author>
+<author pid="65/1416">Simon Parsons</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Lies, Bullshit, and Deception in Agent-Oriented Programming Languages.</title>
+<pages>50-61</pages>
+<year>2018</year>
+<booktitle>TRUST@AAMAS</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2154/paper5.pdf</ee>
+<crossref>conf/atal/2018trust</crossref>
+<url>db/conf/atal/trust2018.html#PanissonSMPB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/RicciBHC18" mdate="2021-08-24">
+<author pid="26/6718">Alessandro Ricci</author>
+<author pid="b/RafaelHBordini">Rafael Heitor Bordini</author>
+<author pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="c/RemWCollier">Rem W. Collier</author>
+<title>AgentSpeak(ER): An Extension of AgentSpeak(L) improving Encapsulation and Reasoning about Goals.</title>
+<pages>2054-2056</pages>
+<year>2018</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3238069</ee>
+<crossref>conf/atal/2018</crossref>
+<url>db/conf/atal/aamas2018.html#RicciBHC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/GabrielAPBB18" mdate="2024-08-04">
+<author pid="233/5371">V&#225;gner de Oliveira Gabriel</author>
+<author pid="87/4374">Diana Francisca Adamatti</author>
+<author orcid="0000-0002-9438-5508" pid="151/3594">Alison R. Panisson</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="50/2400">Cl&#233;o Zanella Billa</author>
+<title>Argumentation-Based Reasoning in BDI Agents Using Toulmin's Model.</title>
+<pages>378-383</pages>
+<year>2018</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2018.00072</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2018.00072</ee>
+<crossref>conf/bracis/2018</crossref>
+<url>db/conf/bracis/bracis2018.html#GabrielAPBB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/comma/PanissonPMB18" mdate="2024-08-04">
+<author orcid="0000-0002-9438-5508" pid="151/3594">Alison R. Panisson</author>
+<author orcid="0000-0002-8425-9065" pid="65/1416">Simon Parsons</author>
+<author orcid="0000-0001-5547-5239" pid="m/PeterMcBurney">Peter McBurney</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Choosing Appropriate Arguments from Trustworthy Sources.</title>
+<pages>345-352</pages>
+<year>2018</year>
+<booktitle>COMMA</booktitle>
+<ee type="oa">https://doi.org/10.3233/978-1-61499-906-5-345</ee>
+<crossref>conf/comma/2018</crossref>
+<url>db/conf/comma/comma2018.html#PanissonPMB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/comma/PanissonAMB18" mdate="2024-08-04">
+<author orcid="0000-0002-9438-5508" pid="151/3594">Alison R. Panisson</author>
+<author orcid="0000-0001-8470-2971" pid="34/8817-1">Asad Ali 0001</author>
+<author pid="m/PeterMcBurney">Peter McBurney</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Argumentation Schemes for Data Access Control.</title>
+<pages>361-368</pages>
+<year>2018</year>
+<booktitle>COMMA</booktitle>
+<ee type="oa">https://doi.org/10.3233/978-1-61499-906-5-361</ee>
+<crossref>conf/comma/2018</crossref>
+<url>db/conf/comma/comma2018.html#PanissonAMB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emas/RicciBHC18" mdate="2022-04-09">
+<author orcid="0000-0002-9222-5092" pid="26/6718">Alessandro Ricci</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="c/RemWCollier">Rem W. Collier</author>
+<title>AgentSpeak(ER): Enhanced Encapsulation in Agent Plans.</title>
+<pages>34-51</pages>
+<year>2018</year>
+<booktitle>EMAS@AAMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-25693-7_3</ee>
+<crossref>conf/emas/2018</crossref>
+<url>db/conf/emas/emas2018.html#RicciBHC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emas/FreitasBV18" mdate="2021-04-09">
+<author pid="146/4045">Artur Freitas</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Designing Multi-Agent Systems from Ontology Models.</title>
+<pages>76-95</pages>
+<year>2018</year>
+<booktitle>EMAS@AAMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-25693-7_5</ee>
+<crossref>conf/emas/2018</crossref>
+<url>db/conf/emas/emas2018.html#FreitasBV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/MachadoFBS18" mdate="2021-02-03">
+<author pid="157/0348">Nielsen Luiz Rechia Machado</author>
+<author pid="57/1983">Lisandra Manzoni Fontoura</author>
+<author pid="b/RafaelHBordini">Rafael Heitor Bordini</author>
+<author pid="15/2300">Lu&#237;s Alvaro de Lima Silva</author>
+<title>Explanation Templates for Case-based Reasoning in Collaborative Risk Management.</title>
+<pages>74-79</pages>
+<year>2018</year>
+<booktitle>SEKE</booktitle>
+<ee type="oa">https://doi.org/10.18293/SEKE2018-098</ee>
+<crossref>conf/seke/2018</crossref>
+<url>db/conf/seke/seke2018.html#MachadoFBS18</url>
+</inproceedings>
+</r>
+<r><incollection key="series/lncs/KrausburgCDPFEHB18" mdate="2022-09-28">
+<author orcid="0000-0002-8252-4099" pid="225/2686">Tabajara Krausburg</author>
+<author pid="131/5387">Rafael Cau&#234; Cardoso 0001</author>
+<author pid="165/2707">Juliana Damasio</author>
+<author pid="265/0245">Vitor Peres</author>
+<author pid="264/8929">Giovani Parente Farias</author>
+<author pid="225/2571">D&#233;bora Cristina Engelmann</author>
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>SMART-JaCaMo: An Organisation-Based Team for the Multi-Agent Programming Contest.</title>
+<pages>72-100</pages>
+<year>2018</year>
+<booktitle>The Multi-Agent Programming Contest</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-37959-9_4</ee>
+<crossref>series/lncs/11957</crossref>
+<url>db/series/lncs/lncs11957.html#KrausburgCDPFEHB18</url>
+</incollection>
+</r>
+<r><article key="journals/ao/FreitasBV17" mdate="2020-07-14">
+<author pid="146/4045">Artur Freitas</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Model-driven engineering of multi-agent systems based on ontologies.</title>
+<pages>157-188</pages>
+<year>2017</year>
+<volume>12</volume>
+<journal>Appl. Ontology</journal>
+<number>2</number>
+<ee>https://doi.org/10.3233/AO-170182</ee>
+<ee>https://www.wikidata.org/entity/Q57763505</ee>
+<url>db/journals/ao/ao12.html#FreitasBV17</url>
+</article>
+</r>
+<r><article key="journals/ijseke/SiqueiraFBS17" mdate="2023-10-22">
+<author pid="204/7779">Denise da Luz Siqueira</author>
+<author pid="57/1983">Lisandra M. Fontoura</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="15/2300">Lu&#237;s A. Lima Silva</author>
+<title>Argumentation Schemes for Collaborative Debate of Requirement Risks in Software Projects.</title>
+<pages>1613-1636</pages>
+<year>2017</year>
+<volume>27</volume>
+<journal>Int. J. Softw. Eng. Knowl. Eng.</journal>
+<number>9-10</number>
+<ee>https://doi.org/10.1142/S0218194017400150</ee>
+<ee>https://www.wikidata.org/entity/Q123025765</ee>
+<url>db/journals/ijseke/ijseke27.html#SiqueiraFBS17</url>
+</article>
+</r>
+<r><article key="journals/isys/MeloPB17" mdate="2025-01-19">
+<author pid="180/1400">Victor S. Melo</author>
+<author orcid="0000-0002-9438-5508" pid="151/3594">Alison R. Panisson</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Meta-Information and Argumentation in Multi-Agent Systems.</title>
+<pages>74-97</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Braz. J. Inf. Syst.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.5753/isys.2017.347</ee>
+<ee>https://www.wikidata.org/entity/Q125059768</ee>
+<url>db/journals/isys/isys10.html#MeloPB17</url>
+</article>
+</r>
+<r><article key="journals/wias/FreitasPHMVB17" mdate="2024-08-04">
+<author pid="146/4045">Artur Freitas</author>
+<author orcid="0000-0002-9438-5508" pid="151/3594">Alison R. Panisson</author>
+<author pid="121/5091">Lucas Hilgert</author>
+<author pid="10/985">Felipe Meneguzzi</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Applying ontologies to the development and execution of Multi-Agent Systems.</title>
+<pages>291-302</pages>
+<year>2017</year>
+<volume>15</volume>
+<journal>Web Intell.</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/WEB-170366</ee>
+<url>db/journals/wias/wias15.html#FreitasPHMVB17</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/BasegioMZB17" mdate="2018-08-27">
+<author pid="214/1750">T&#250;lio L. Bas&#233;gio</author>
+<author pid="171/6327">Regio A. Michelin</author>
+<author pid="z/AvelinoFZorzo">Avelino F. Zorzo</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>A Decentralised Approach to Task Allocation Using Blockchain.</title>
+<pages>75-91</pages>
+<year>2017</year>
+<booktitle>EMAS@AAMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-91899-0_5</ee>
+<crossref>conf/atal/2017emas</crossref>
+<url>db/conf/atal/emas2017.html#BasegioMZB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/PanissonB17a" mdate="2024-08-04">
+<author orcid="0000-0002-9438-5508" pid="151/3594">Alison R. Panisson</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Argumentation Schemes in Multi-agent Systems: A Social Perspective.</title>
+<pages>92-108</pages>
+<year>2017</year>
+<booktitle>EMAS@AAMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-91899-0_6</ee>
+<crossref>conf/atal/2017emas</crossref>
+<url>db/conf/atal/emas2017.html#PanissonB17a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/CardosoB17" mdate="2022-09-28">
+<author pid="131/5387">Rafael C. Cardoso 0001</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>A Modular Framework for Decentralised Multi-Agent Planning.</title>
+<pages>1487-1489</pages>
+<year>2017</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3091338</ee>
+<crossref>conf/atal/2017</crossref>
+<url>db/conf/atal/aamas2017.html#CardosoB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/PanissonB17" mdate="2017-05-11">
+<author pid="151/3594">Alison R. Panisson</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Uttering Only What is Needed: Enthymemes in Multi-Agent Systems.</title>
+<pages>1670-1672</pages>
+<year>2017</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3091399</ee>
+<crossref>conf/atal/2017</crossref>
+<url>db/conf/atal/aamas2017.html#PanissonB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/BrezolinFCB17" mdate="2023-03-24">
+<author pid="169/6039">Jo&#227;o Mario Lopes Brezolin</author>
+<author pid="05/8694">Sandro Rama Fiorini</author>
+<author pid="131/8247">M&#225;rcia de Borba Campos</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Use of Conceptual Representations Based on Conceptual Spaces Theory Applied to BDI Agents.</title>
+<pages>157-162</pages>
+<year>2017</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2017.55</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2017.55</ee>
+<crossref>conf/bracis/2017</crossref>
+<url>db/conf/bracis/bracis2017.html#BrezolinFCB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kesamsta/BasegioB17" mdate="2020-06-16">
+<author pid="214/1750">T&#250;lio L. Bas&#233;gio</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>An Algorithm for Allocating Structured Tasks in Multi-Robot Scenarios.</title>
+<pages>99-109</pages>
+<year>2017</year>
+<booktitle>KES-AMSTA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-59394-4_10</ee>
+<crossref>conf/kesamsta/2017</crossref>
+<url>db/conf/kesamsta/kesamsta2017.html#BasegioB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/SiqueiraFBS17" mdate="2021-02-03">
+<author pid="204/7779">Denise da Luz Siqueira</author>
+<author pid="57/1983">Lisandra M. Fontoura</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="15/2300">Lu&#237;s A. Lima Silva</author>
+<title>A Knowledge Engineering Process for the Development of Argumentation Schemes for Risk Management in Software Projects.</title>
+<pages>36-41</pages>
+<year>2017</year>
+<booktitle>SEKE</booktitle>
+<ee type="oa">https://doi.org/10.18293/SEKE2017-064</ee>
+<crossref>conf/seke/2017</crossref>
+<url>db/conf/seke/seke2017.html#SiqueiraFBS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/SiqueiraFBS17a" mdate="2021-02-03">
+<author pid="204/7779">Denise da Luz Siqueira</author>
+<author pid="57/1983">Lisandra M. Fontoura</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="15/2300">Lu&#237;s A. Lima Silva</author>
+<title>Argumentation Schemes for the Collaborative Debate of Requirement Risks in Software Projects.</title>
+<pages>42-47</pages>
+<year>2017</year>
+<booktitle>SEKE</booktitle>
+<ee type="oa">https://doi.org/10.18293/SEKE2017-065</ee>
+<crossref>conf/seke/2017</crossref>
+<url>db/conf/seke/seke2017.html#SiqueiraFBS17a</url>
+</inproceedings>
+</r>
+<r><article key="journals/informaticaSI/MitrovicIBB16" mdate="2021-02-16">
+<author pid="09/440">Dejan Mitrovic</author>
+<author pid="97/1941">Mirjana Ivanovic</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="54/2323">Costin Badica</author>
+<title>Jason Interpreter, Enterprise Edition.</title>
+<year>2016</year>
+<volume>40</volume>
+<journal>Informatica (Slovenia)</journal>
+<number>1</number>
+<ee type="oa">http://www.informatica.si/index.php/informatica/article/view/1167</ee>
+<url>db/journals/informaticaSI/informaticaSI40.html#MitrovicIBB16</url>
+</article>
+</r>
+<r><inproceedings key="conf/agere/ZatelliHRB16" mdate="2022-04-09">
+<author pid="130/2937">Maicon Rafael Zatelli</author>
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author orcid="0000-0002-9222-5092" pid="26/6718">Alessandro Ricci</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Conflicting goals in agent-oriented programming.</title>
+<pages>21-30</pages>
+<year>2016</year>
+<booktitle>AGERE!@SPLASH</booktitle>
+<ee>https://doi.org/10.1145/3001886.3001889</ee>
+<crossref>conf/agere/2016</crossref>
+<url>db/conf/agere/agere2016.html#ZatelliHRB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/MeloPB16a" mdate="2023-03-10">
+<author pid="180/1400">Victor S. Melo</author>
+<author pid="151/3594">Alison R. Panisson</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Trust on Beliefs: Source, Time and Expertise.</title>
+<pages>31-42</pages>
+<year>2016</year>
+<booktitle>TRUST@AAMAS</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1578/paper6.pdf</ee>
+<crossref>conf/atal/2016trust</crossref>
+<url>db/conf/atal/trust2016.html#MeloPB16a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/Ortiz-Hernandez16" mdate="2020-12-29">
+<author pid="191/8335">Gustavo Ortiz-Hern&#225;ndez</author>
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0002-4856-4011" pid="73/1235">Alejandro Guerra-Hern&#225;ndez</author>
+<author pid="73/2766">Guillermo de Jes&#250;s Hoyos-Rivera</author>
+<author pid="84/1496">Nicandro Cruz-Ram&#237;rez</author>
+<title>A Namespace Approach for Modularity in BDI Programming Languages.</title>
+<pages>117-135</pages>
+<year>2016</year>
+<booktitle>EMAS@AAMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-50983-9_7</ee>
+<crossref>conf/atal/2016emas</crossref>
+<url>db/conf/atal/emas2016.html#Ortiz-Hernandez16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/MeloPB16" mdate="2016-05-20">
+<author pid="180/1400">Victor S. Melo</author>
+<author pid="151/3594">Alison R. Panisson</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Argumentation-Based Reasoning Using Preferences over Sources of Information: (Extended Abstract).</title>
+<pages>1337-1338</pages>
+<year>2016</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2937148</ee>
+<crossref>conf/atal/2016</crossref>
+<url>db/conf/atal/aamas2016.html#MeloPB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/PanissonB16" mdate="2023-03-24">
+<author pid="151/3594">Alison R. Panisson</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Knowledge Representation for Argumentation in Agent-Oriented Programming Languages.</title>
+<pages>13-18</pages>
+<year>2016</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2016.014</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2016.014</ee>
+<crossref>conf/bracis/2016</crossref>
+<url>db/conf/bracis/bracis2016.html#PanissonB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/PanissonMB16" mdate="2023-03-24">
+<author pid="151/3594">Alison R. Panisson</author>
+<author pid="180/1400">Victor S. Melo</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Using Preferences over Sources of Information in Argumentation-Based Reasoning.</title>
+<pages>31-36</pages>
+<year>2016</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2016.017</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2016.017</ee>
+<crossref>conf/bracis/2016</crossref>
+<url>db/conf/bracis/bracis2016.html#PanissonMB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/CardosoB16" mdate="2023-03-24">
+<author pid="131/5387">Rafael C. Cardoso 0001</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Allocating Social Goals Using the Contract Net Protocol in Online Multi-agent Planning.</title>
+<pages>199-204</pages>
+<year>2016</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2016.045</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2016.045</ee>
+<crossref>conf/bracis/2016</crossref>
+<url>db/conf/bracis/bracis2016.html#CardosoB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/FariasHMB16" mdate="2025-02-06">
+<author pid="264/8929">Giovani Farias</author>
+<author pid="121/5091">Lucas Hilgert</author>
+<author pid="10/985">Felipe Meneguzzi</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Evaluating the SBR Algorithm Using Automatically Generated Plan Libraries.</title>
+<pages>205-210</pages>
+<year>2016</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2016.046</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2016.046</ee>
+<crossref>conf/bracis/2016</crossref>
+<url>db/conf/bracis/bracis2016.html#FariasHMB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/PanissonBC16" mdate="2025-01-15">
+<author pid="151/3594">Alison R. Panisson</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="36/5618">Ant&#244;nio Carlos da Rocha Costa</author>
+<title>Multi-Level Semantics with Vertical Integrity Constraints.</title>
+<pages>1708-1709</pages>
+<year>2016</year>
+<booktitle>ECAI</booktitle>
+<ee type="oa">https://doi.org/10.3233/978-1-61499-672-9-1708</ee>
+<crossref>conf/ecai/2016</crossref>
+<url>db/conf/ecai/ecai2016.html#PanissonBC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/SchmidtPFBMV16" mdate="2022-10-26">
+<author pid="20/3363">Daniela Schmidt</author>
+<author pid="151/3594">Alison R. Panisson</author>
+<author pid="146/4045">Artur Freitas</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="10/985">Felipe Meneguzzi</author>
+<author pid="05/465">Renata Vieira</author>
+<title>An Ontology-Based Mobile Application for Task Managing in Collaborative Groups.</title>
+<pages>522-526</pages>
+<year>2016</year>
+<booktitle>FLAIRS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS16/paper/view/12956</ee>
+<crossref>conf/flairs/2016</crossref>
+<url>db/conf/flairs/flairs2016.html#SchmidtPFBMV16</url>
+</inproceedings>
+</r>
+<r><article key="journals/scp/RicciABM15" mdate="2022-04-09">
+<author orcid="0000-0002-9222-5092" pid="26/6718">Alessandro Ricci</author>
+<author orcid="0000-0002-0580-4206" pid="a/GulAAgha">Gul A. Agha</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="98/5121">Assaf Marron</author>
+<title>Special issue on programming based on actors, agents and decentralized control.</title>
+<pages>117-119</pages>
+<year>2015</year>
+<volume>98</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee type="oa">https://doi.org/10.1016/j.scico.2014.10.003</ee>
+<ee>https://www.wikidata.org/entity/Q59690352</ee>
+<url>db/journals/scp/scp98.html#RicciABM15</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/PanissonMVB15" mdate="2023-03-24">
+<author pid="151/3594">Alison R. Panisson</author>
+<author pid="10/985">Felipe Meneguzzi</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Towards Practical Argumentation in Multi-agent Systems.</title>
+<pages>98-103</pages>
+<year>2015</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2015.30</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2015.30</ee>
+<ee>https://www.wikidata.org/entity/Q57763538</ee>
+<crossref>conf/bracis/2015</crossref>
+<url>db/conf/bracis/bracis2015.html#PanissonMVB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icar/MoraisMBA15" mdate="2019-09-25">
+<author pid="168/3128">Marcio G. Morais</author>
+<author pid="10/985">Felipe Rech Meneguzzi</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0001-8432-3162" pid="41/1314">Alexandre M. Amory</author>
+<title>Distributed fault diagnosis for multiple mobile robots using an agent programming language.</title>
+<pages>395-400</pages>
+<year>2015</year>
+<booktitle>ICAR</booktitle>
+<ee>https://doi.org/10.1109/ICAR.2015.7251486</ee>
+<crossref>conf/icar/2015</crossref>
+<url>db/conf/icar/icar2015.html#MoraisMBA15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ontobras/SchmidtBMV15" mdate="2023-03-10">
+<author pid="20/3363">Daniela Schmidt</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="10/985">Felipe Meneguzzi</author>
+<author pid="05/465">Renata Vieira</author>
+<title>An Ontology for Collaborative Tasks in Multi-agent Systems.</title>
+<year>2015</year>
+<booktitle>ONTOBRAS</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1442/paper_4.pdf</ee>
+<crossref>conf/ontobras/2015</crossref>
+<url>db/conf/ontobras/ontobras2015.html#SchmidtBMV15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/prima/BrezolinFCB15" mdate="2017-06-05">
+<author pid="169/6039">Jo&#227;o Mario Lopes Brezolin</author>
+<author orcid="0000-0003-1499-3173" pid="05/8694">Sandro Rama Fiorini</author>
+<author pid="131/8247">M&#225;rcia de Borba Campos</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Using Conceptual Spaces for Object Recognition in Multi-agent Systems.</title>
+<pages>697-705</pages>
+<year>2015</year>
+<booktitle>PRIMA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-25524-8_53</ee>
+<crossref>conf/prima/2015</crossref>
+<url>db/conf/prima/prima2015.html#BrezolinFCB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/FariasHMVB15" mdate="2023-03-24">
+<author pid="264/8929">Giovani Parente Farias</author>
+<author pid="121/5091">Lucas Welter Hilgert</author>
+<author pid="10/985">Felipe Rech Meneguzzi</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael Heitor Bordini</author>
+<title>Automatic Generation of Plan Libraries for Plan Recognition Performance Evaluation.</title>
+<pages>129-132</pages>
+<year>2015</year>
+<booktitle>WI-IAT (2)</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2015.55</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2015.55</ee>
+<ee>https://www.wikidata.org/entity/Q57763513</ee>
+<crossref>conf/webi/2015-2</crossref>
+<url>db/conf/webi/webi2015-2.html#FariasHMVB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/FreitasPHMVB15" mdate="2023-03-24">
+<author pid="146/4045">Artur Freitas</author>
+<author pid="151/3594">Alison R. Panisson</author>
+<author pid="121/5091">Lucas Hilgert</author>
+<author pid="10/985">Felipe Meneguzzi</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Integrating Ontologies with Multi-Agent Systems through CArtAgO Artifacts.</title>
+<pages>143-150</pages>
+<year>2015</year>
+<booktitle>WI-IAT (2)</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2015.116</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2015.116</ee>
+<ee>https://www.wikidata.org/entity/Q57763526</ee>
+<crossref>conf/webi/2015-2</crossref>
+<url>db/conf/webi/webi2015-2.html#FreitasPHMVB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/PanissonMVB15" mdate="2023-03-24">
+<author pid="151/3594">Alison R. Panisson</author>
+<author pid="10/985">Felipe Meneguzzi</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Towards Practical Argumentation-Based Dialogues in Multi-agent Systems.</title>
+<pages>151-158</pages>
+<year>2015</year>
+<booktitle>WI-IAT (2)</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2015.208</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2015.208</ee>
+<ee>https://www.wikidata.org/entity/Q57763541</ee>
+<crossref>conf/webi/2015-2</crossref>
+<url>db/conf/webi/webi2015-2.html#PanissonMVB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/BrezolinFCB15" mdate="2023-03-24">
+<author pid="169/6039">Jo&#227;o Mario Lopes Brezolin</author>
+<author orcid="0000-0003-1499-3173" pid="05/8694">Sandro Rama Fiorini</author>
+<author pid="131/8247">M&#225;rcia de Borba Campos</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Using Conceptual Spaces for Belief Update in Multi-agent Systems.</title>
+<pages>178-181</pages>
+<year>2015</year>
+<booktitle>WI-IAT (2)</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2015.214</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2015.214</ee>
+<crossref>conf/webi/2015-2</crossref>
+<url>db/conf/webi/webi2015-2.html#BrezolinFCB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webi/FreitasBMV15" mdate="2023-03-24">
+<author pid="146/4045">Artur Freitas</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="10/985">Felipe Meneguzzi</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Towards Integrating Ontologies in Multi-agent Programming Platforms.</title>
+<pages>225-226</pages>
+<year>2015</year>
+<booktitle>WI-IAT (3)</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2015.207</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2015.207</ee>
+<ee>https://www.wikidata.org/entity/Q57763535</ee>
+<crossref>conf/webi/2015-3</crossref>
+<url>db/conf/webi/webi2015-3.html#FreitasBMV15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/PanissonBC16" mdate="2022-11-10">
+<author pid="151/3594">Alison R. Panisson</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="36/5618">Ant&#244;nio Carlos da Rocha Costa</author>
+<title>Towards Multi-Level Semantics for Multi-Agent Systems.</title>
+<pages>123-134</pages>
+<year>2015</year>
+<crossref>conf/weit/2015</crossref>
+<booktitle>WEIT</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2016.09.011</ee>
+<ee>https://www.wikidata.org/entity/Q113317662</ee>
+<url>db/journals/entcs/entcs324.html#PanissonBC16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/atal/2015" mdate="2022-03-08">
+<editor pid="07/2055">Gerhard Weiss 0001</editor>
+<editor pid="31/4750">Pinar Yolum</editor>
+<editor pid="b/RafaelHBordini">Rafael H. Bordini</editor>
+<editor pid="31/2621">Edith Elkind</editor>
+<title>Proceedings of the 2015 International Conference on Autonomous Agents and Multiagent Systems, AAMAS 2015, Istanbul, Turkey, May 4-8, 2015</title>
+<publisher>ACM</publisher>
+<booktitle>AAMAS</booktitle>
+<year>2015</year>
+<isbn>978-1-4503-3413-6</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=2772879</ee>
+<url>db/conf/atal/aamas2015.html</url>
+</proceedings>
+</r>
+<r><article key="journals/wias/MascardiABBR14" mdate="2022-04-09">
+<author pid="m/VMascardi">Viviana Mascardi</author>
+<author pid="a/DAncona">Davide Ancona</author>
+<author pid="98/9854">Matteo Barbieri</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0002-9222-5092" pid="26/6718">Alessandro Ricci</author>
+<title>CooL-AgentSpeak: Endowing AgentSpeak-DL agents with plan exchange and ontology services.</title>
+<pages>83-107</pages>
+<year>2014</year>
+<volume>12</volume>
+<journal>Web Intell. Agent Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/WIA-140287</ee>
+<url>db/journals/wias/wias12.html#MascardiABBR14</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/FreitasSPBMV14" mdate="2023-03-21">
+<author pid="146/4045">Artur Freitas</author>
+<author orcid="0000-0002-0076-1462" pid="20/3363">Daniela Schmidt</author>
+<author pid="151/3594">Alison R. Panisson</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="10/985">Felipe Meneguzzi</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Applying Ontologies and Agent Technologies to Generate Ambient Intelligence Applications.</title>
+<pages>22-33</pages>
+<year>2014</year>
+<booktitle>ARE/AVSA@AAMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-46241-6_3</ee>
+<crossref>conf/atal/2014care</crossref>
+<url>db/conf/atal/care2014.html#FreitasSPBMV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/FagundesMBV14" mdate="2014-09-25">
+<author pid="11/2749">Moser Silva Fagundes</author>
+<author pid="10/985">Felipe Meneguzzi</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Dealing with ambiguity in plan recognition under time constraints.</title>
+<pages>389-396</pages>
+<year>2014</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2615796</ee>
+<crossref>conf/atal/2014</crossref>
+<url>db/conf/atal/aamas2014.html#FagundesMBV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/PanissonMFVB14" mdate="2014-09-25">
+<author pid="151/3594">Alison R. Panisson</author>
+<author pid="10/985">Felipe Meneguzzi</author>
+<author pid="11/2749">Moser Silva Fagundes</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Formal semantics of speech acts for argumentative dialogues.</title>
+<pages>1437-1438</pages>
+<year>2014</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2617511</ee>
+<crossref>conf/atal/2014</crossref>
+<url>db/conf/atal/aamas2014.html#PanissonMFVB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dalt/FreitasSPMVB14" mdate="2023-03-21">
+<author pid="146/4045">Artur Freitas</author>
+<author orcid="0000-0002-0076-1462" pid="20/3363">Daniela Schmidt</author>
+<author pid="151/3594">Alison R. Panisson</author>
+<author pid="10/985">Felipe Meneguzzi</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Semantic Representations of Agent Plans and Planning Problem Domains.</title>
+<pages>351-366</pages>
+<year>2014</year>
+<booktitle>EMAS@AAMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-14484-9_18</ee>
+<crossref>conf/dalt/2014</crossref>
+<url>db/conf/dalt/emas2014.html#FreitasSPMVB14</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/14/BoissierBHR14" mdate="2022-10-02">
+<author pid="44/5374">Olivier Boissier</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author orcid="0000-0002-9222-5092" pid="26/6718">Alessandro Ricci</author>
+<title>Unravelling Multi-agent-Oriented Programming.</title>
+<pages>259-272</pages>
+<year>2014</year>
+<booktitle>Agent-Oriented Software Engineering</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-54432-3_13</ee>
+<crossref>books/sp/SS2014</crossref>
+<url>db/books/collections/SS2014.html#BoissierBHR14</url>
+</incollection>
+</r>
+<r><article key="journals/logcom/OkuyamaBC13" mdate="2024-10-06">
+<author orcid="0000-0001-7427-2525" pid="66/4907">Fabio Yoshimitsu Okuyama</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="36/5618">Ant&#244;nio Carlos da Rocha Costa</author>
+<title>Situated normative infrastructures: the normative object approach.</title>
+<pages>397-424</pages>
+<year>2013</year>
+<volume>23</volume>
+<journal>J. Log. Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1093/logcom/exr029</ee>
+<url>db/journals/logcom/logcom23.html#OkuyamaBC13</url>
+</article>
+</r>
+<r><article key="journals/scp/BoissierBHRS13" mdate="2022-10-02">
+<author orcid="0000-0002-2956-0533" pid="44/5374">Olivier Boissier</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author orcid="0000-0002-9222-5092" pid="26/6718">Alessandro Ricci</author>
+<author pid="63/7737">Andrea Santi</author>
+<title>Multi-agent oriented programming with JaCaMo.</title>
+<pages>747-761</pages>
+<year>2013</year>
+<volume>78</volume>
+<journal>Sci. Comput. Program.</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.1016/j.scico.2011.10.004</ee>
+<url>db/journals/scp/scp78.html#BoissierBHRS13</url>
+</article>
+</r>
+<r><inproceedings key="conf/agere/CardosoZHB13" mdate="2022-09-28">
+<author pid="131/5387">Rafael C. Cardoso 0001</author>
+<author pid="130/2937">Maicon Rafael Zatelli</author>
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Towards benchmarking actor- and agent-based programming languages.</title>
+<pages>115-126</pages>
+<year>2013</year>
+<booktitle>AGERE!@SPLASH</booktitle>
+<ee>https://doi.org/10.1145/2541329.2541339</ee>
+<crossref>conf/agere/2013</crossref>
+<url>db/conf/agere/agere2013.html#CardosoZHB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/CardosoHB13a" mdate="2022-09-28">
+<author pid="131/5387">Rafael C. Cardoso 0001</author>
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Benchmarking Communication in Actor- and Agent-Based Languages.</title>
+<pages>58-77</pages>
+<year>2013</year>
+<booktitle>EMAS@AAMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-45343-4_4</ee>
+<crossref>conf/atal/2013emas</crossref>
+<url>db/conf/atal/emas2013.html#CardosoHB13a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/BritoHB13" mdate="2022-06-23">
+<author orcid="0000-0003-4650-7416" pid="135/0912">Maiquel de Brito</author>
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Analysis of the Use of Events and States as Brute Facts in Modelling of Institutional Facts.</title>
+<pages>177-192</pages>
+<year>2013</year>
+<booktitle>COIN@AAMAS/PRIMA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-07314-9_10</ee>
+<crossref>conf/atal/2013coin</crossref>
+<url>db/conf/atal/coin2013.html#BritoHB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/CardosoHB13" mdate="2022-09-28">
+<author pid="131/5387">Rafael C. Cardoso 0001</author>
+<author pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Benchmarking communication in actor- and agent-based languages.</title>
+<pages>1267-1268</pages>
+<year>2013</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2485176</ee>
+<crossref>conf/atal/2013</crossref>
+<url>db/conf/atal/aamas2013.html#CardosoHB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/context/FagundesMVB13" mdate="2018-11-14">
+<author pid="11/2749">Moser Silva Fagundes</author>
+<author orcid="0000-0003-3549-6168" pid="10/985">Felipe Meneguzzi</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Interaction Patterns in a Multi-Agent Organisation to Support Shared Tasks.</title>
+<pages>364-370</pages>
+<year>2013</year>
+<booktitle>CONTEXT</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-40972-1_30</ee>
+<ee>https://www.wikidata.org/entity/Q57763572</ee>
+<crossref>conf/context/2013</crossref>
+<url>db/conf/context/context2013.html#FagundesMVB13</url>
+</inproceedings>
+</r>
+<r><article key="journals/ase/DennisFWB12" mdate="2020-12-25">
+<author orcid="0000-0003-1426-1896" pid="58/1750">Louise A. Dennis</author>
+<author orcid="0000-0002-0875-3862" pid="f/MichaelFisher">Michael Fisher 0001</author>
+<author orcid="0000-0002-8817-6881" pid="06/10709">Matthew P. Webster</author>
+<author orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Model checking agent programming languages.</title>
+<pages>5-63</pages>
+<year>2012</year>
+<volume>19</volume>
+<journal>Autom. Softw. Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10515-011-0088-x</ee>
+<ee>https://www.wikidata.org/entity/Q98283476</ee>
+<url>db/journals/ase/ase19.html#DennisFWB12</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/BritoHB12" mdate="2022-06-23">
+<author orcid="0000-0003-4650-7416" pid="135/0912">Maiquel de Brito</author>
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Programming Institutional Facts in Multi-Agent Systems.</title>
+<pages>158-173</pages>
+<year>2012</year>
+<booktitle>COIN@AAMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-37756-3_10</ee>
+<crossref>conf/atal/2012coin</crossref>
+<url>db/conf/atal/coin2012.html#BritoHB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/RicciMBA12" mdate="2022-04-09">
+<author orcid="0000-0002-9222-5092" pid="26/6718">Alessandro Ricci</author>
+<author pid="98/5121">Assaf Marron</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="a/GulAAgha">Gul Agha</author>
+<title>AGERE!: programming based on actors, agents, and decentralized control.</title>
+<pages>215-216</pages>
+<year>2012</year>
+<booktitle>SPLASH</booktitle>
+<ee>https://doi.org/10.1145/2384716.2384776</ee>
+<crossref>conf/oopsla/2012s</crossref>
+<url>db/conf/oopsla/splash2012.html#RicciMBA12</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/agere/2012" mdate="2021-03-11">
+<editor pid="a/GulAAgha">Gul A. Agha</editor>
+<editor pid="b/RafaelHBordini">Rafael H. Bordini</editor>
+<editor pid="98/5121">Assaf Marron</editor>
+<editor pid="26/6718">Alessandro Ricci</editor>
+<title>Proceedings of the 2nd edition on Programming systems, languages and applications based on actors, agents, and decentralized control abstractions, AGERE! 2012, October 21-22, 2012, Tucson, Arizona, USA</title>
+<publisher>ACM</publisher>
+<booktitle>AGERE!@SPLASH</booktitle>
+<year>2012</year>
+<isbn>978-1-4503-1630-9</isbn>
+<ee>https://doi.org/10.1145/2414639</ee>
+<url>db/conf/agere/agere2012.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/promas/2011" mdate="2019-05-14">
+<editor orcid="0000-0003-1426-1896" pid="58/1750">Louise A. Dennis</editor>
+<editor pid="44/5374">Olivier Boissier</editor>
+<editor pid="b/RafaelHBordini">Rafael H. Bordini</editor>
+<title>Programming Multi-Agent Systems - 9th International Workshop, ProMAS 2011, Taipei, Taiwan, May 3, 2011, Revised Selected Papers</title>
+<volume>7217</volume>
+<year>2012</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<ee>https://doi.org/10.1007/978-3-642-31915-0</ee>
+<isbn>978-3-642-31914-3</isbn>
+<booktitle>ProMAS</booktitle>
+<url>db/conf/promas/promas2011.html</url>
+</proceedings>
+</r>
+<r><article key="journals/aamas/BordiniDDF11" mdate="2020-08-12">
+<author orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="d/MehdiDastani">Mehdi Dastani</author>
+<author pid="d/JurgenDix">J&#252;rgen Dix</author>
+<author pid="f/AEFallahSeghrouchni">Amal El Fallah Seghrouchni</author>
+<title>Preface.</title>
+<pages>155-157</pages>
+<year>2011</year>
+<volume>23</volume>
+<journal>Auton. Agents Multi Agent Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10458-010-9162-1</ee>
+<url>db/journals/aamas/aamas23.html#BordiniDDF11</url>
+</article>
+</r>
+<r><article key="journals/amai/HubnerBB11" mdate="2022-10-02">
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author orcid="0000-0002-2956-0533" pid="44/5374">Olivier Boissier</author>
+<author orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>A normative programming language for multi-agent organisations.</title>
+<pages>27-53</pages>
+<year>2011</year>
+<volume>62</volume>
+<journal>Ann. Math. Artif. Intell.</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1007/s10472-011-9251-0</ee>
+<url>db/journals/amai/amai62.html#HubnerBB11</url>
+</article>
+</r>
+<r><inproceedings key="conf/dalt/MoreiraVB11" mdate="2018-11-14">
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Speech-Act Based Communication: Progress in the Formal Semantics and in the Implementation of Multi-agent Oriented Programming Languages.</title>
+<pages>111-116</pages>
+<year>2011</year>
+<booktitle>DALT</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-29113-5_11</ee>
+<ee>https://www.wikidata.org/entity/Q57763585</ee>
+<crossref>conf/dalt/2011</crossref>
+<url>db/conf/dalt/dalt2011.html#MoreiraVB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dalt/Bordini11" mdate="2017-05-19">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Agent and Multi-Agent Software Engineering: Modelling, Programming, and Verification - Extended Abstract for a Course at DALT Spring School 2011.</title>
+<pages>149-151</pages>
+<year>2011</year>
+<booktitle>DALT</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-29113-5_15</ee>
+<crossref>conf/dalt/2011</crossref>
+<url>db/conf/dalt/dalt2011.html#Bordini11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/MascardiABR11" mdate="2023-03-24">
+<author pid="m/VMascardi">Viviana Mascardi</author>
+<author pid="a/DAncona">Davide Ancona</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0002-9222-5092" pid="26/6718">Alessandro Ricci</author>
+<title>CooL-AgentSpeak: Enhancing AgentSpeak-DL Agents with Plan Exchange and Ontology Services.</title>
+<pages>109-116</pages>
+<year>2011</year>
+<booktitle>IAT</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2011.255</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WI-IAT.2011.255</ee>
+<crossref>conf/iat/2011</crossref>
+<url>db/conf/iat/iat2011.html#MascardiABR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/RicciAB11" mdate="2022-04-09">
+<author orcid="0000-0002-9222-5092" pid="26/6718">Alessandro Ricci</author>
+<author pid="a/GulAAgha">Gul Agha</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Agere! (actors and agents reloaded): splash 2011 workshop on programming systems, languages and applications based on actors, agents and decentralized control.</title>
+<pages>143-146</pages>
+<year>2011</year>
+<booktitle>SPLASH Workshops</booktitle>
+<ee>https://doi.org/10.1145/2095050.2095076</ee>
+<crossref>conf/oopsla/2011w</crossref>
+<url>db/conf/oopsla/splash2011w.html#RicciAB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/RicciBA11" mdate="2022-04-09">
+<author orcid="0000-0002-9222-5092" pid="26/6718">Alessandro Ricci</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="a/GulAAgha">Gul A. Agha</author>
+<title>AGERE! (actors and agents reloaded): splash 2011 workshop on programming systems, languages and applications based on actors, agents and decentralized control.</title>
+<pages>325-326</pages>
+<year>2011</year>
+<booktitle>OOPSLA Companion</booktitle>
+<ee>https://doi.org/10.1145/2048147.2048231</ee>
+<crossref>conf/oopsla/2011c</crossref>
+<url>db/conf/oopsla/oopsla2011c.html#RicciBA11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/promas/ToledoBCG11" mdate="2018-11-02">
+<author pid="116/1315">Carlos Manuel Toledo</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0003-2499-8998" pid="44/5367">Omar Chiotti</author>
+<author pid="11/32">Mar&#237;a Rosa Galli</author>
+<title>Developing a Knowledge Management Multi-Agent System Using JaCaMo.</title>
+<pages>41-57</pages>
+<year>2011</year>
+<booktitle>ProMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-31915-0_3</ee>
+<crossref>conf/promas/2011</crossref>
+<url>db/conf/promas/promas2011.html#ToledoBCG11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1111-0041" mdate="2019-04-26">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<title>On the Formal Semantics of Speech-Act Based Communication in an Agent-Oriented Programming Language</title>
+<ee type="oa">http://arxiv.org/abs/1111.0041</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1111.0041</volume>
+<url>db/journals/corr/corr1111.html#abs-1111-0041</url>
+</article>
+</r>
+<r><article key="journals/aamas/BordiniD10" mdate="2020-03-13">
+<author orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="d/MehdiDastani">Mehdi Dastani</author>
+<title>Guest editorial: Special issue on the European Workshop on Multi-Agent Systems (EUMAS).</title>
+<pages>305-307</pages>
+<year>2010</year>
+<volume>20</volume>
+<journal>Auton. Agents Multi Agent Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10458-009-9091-z</ee>
+<url>db/journals/aamas/aamas20.html#BordiniD10</url>
+</article>
+</r>
+<r><article key="journals/amai/HubnerB10" mdate="2020-12-29">
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Using agent- and organisation-oriented programming to develop a team of agents for a competitive game.</title>
+<pages>351-372</pages>
+<year>2010</year>
+<volume>59</volume>
+<journal>Ann. Math. Artif. Intell.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1007/s10472-010-9179-9</ee>
+<url>db/journals/amai/amai59.html#HubnerB10</url>
+</article>
+</r>
+<r><inproceedings key="conf/clima/HubnerBB10" mdate="2022-10-02">
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author orcid="0000-0002-2956-0533" pid="44/5374">Olivier Boissier</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>From Organisation Specification to Normative Programming in Multi-Agent Organisations.</title>
+<pages>117-134</pages>
+<year>2010</year>
+<booktitle>CLIMA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-14977-1_11</ee>
+<crossref>conf/clima/2010</crossref>
+<url>db/conf/clima/clima2010.html#HubnerBB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BordiniH10" mdate="2020-12-29">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<title>Semantics for the Jason Variant of AgentSpeak (Plan Failure and some Internal Actions).</title>
+<pages>635-640</pages>
+<year>2010</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-60750-606-5-635</ee>
+<crossref>conf/ecai/2010</crossref>
+<url>db/conf/ecai/ecai2010.html#BordiniH10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/ShawB10" mdate="2017-05-24">
+<author pid="35/4291">Patricia H. Shaw</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>An Alternative Approach for Reasoning about the Goal-Plan Tree Problem.</title>
+<pages>1035-1036</pages>
+<year>2010</year>
+<booktitle>ECAI</booktitle>
+<ee>https://doi.org/10.3233/978-1-60750-606-5-1035</ee>
+<crossref>conf/ecai/2010</crossref>
+<url>db/conf/ecai/ecai2010.html#ShawB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lads/ShawB10" mdate="2017-05-19">
+<author pid="35/4291">Patricia H. Shaw</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>An Alternative Approach for Reasoning about the Goal-Plan Tree Problem.</title>
+<pages>115-135</pages>
+<year>2010</year>
+<booktitle>LADS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-22723-3_7</ee>
+<crossref>conf/lads/2010</crossref>
+<url>db/conf/lads/lads2010.html#ShawB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/promas/BehrensHBBDDHP10" mdate="2020-12-29">
+<author pid="66/2896">Tristan M. Behrens</author>
+<author orcid="0000-0002-5707-5236" pid="67/2212">Koen V. Hindriks</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="94/4499">Lars Braubach</author>
+<author pid="d/MehdiDastani">Mehdi Dastani</author>
+<author pid="d/JurgenDix">J&#252;rgen Dix</author>
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author orcid="0000-0001-6476-6994" pid="45/808">Alexander Pokahr</author>
+<title>An Interface for Agent-Environment Interaction.</title>
+<pages>139-158</pages>
+<year>2010</year>
+<booktitle>ProMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-28939-2_8</ee>
+<crossref>conf/promas/2010</crossref>
+<url>db/conf/promas/promas2010.html#BehrensHBBDDHP10</url>
+</inproceedings>
+</r>
+<r><article key="journals/logcom/BordiniFWV09" mdate="2020-12-25">
+<author orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0002-0875-3862" pid="f/MichaelFisher">Michael Fisher 0001</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<author pid="54/5019">Willem Visser</author>
+<title>Property-based Slicing for Agent Verification.</title>
+<pages>1385-1425</pages>
+<year>2009</year>
+<volume>19</volume>
+<journal>J. Log. Comput.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1093/logcom/exp029</ee>
+<ee>https://www.wikidata.org/entity/Q98283654</ee>
+<url>db/journals/logcom/logcom19.html#BordiniFWV09</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/HubnerBB09" mdate="2022-10-02">
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author orcid="0000-0002-2956-0533" pid="44/5374">Olivier Boissier</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>A Normative Organisation Programming Language for Organisation Management Infrastructures.</title>
+<pages>114-129</pages>
+<year>2009</year>
+<booktitle>COIN@AAMAS&#38;IJCAI&#38;MALLOW</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-14962-7_8</ee>
+<crossref>conf/atal/2009coin</crossref>
+<url>db/conf/atal/coin2009.html#HubnerBB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hri/BordiniFS09" mdate="2020-12-25">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0002-0875-3862" pid="f/MichaelFisher">Michael Fisher 0001</author>
+<author pid="65/1780">Maarten Sierhuis</author>
+<title>Formal verification of human-robot teamwork.</title>
+<pages>267-268</pages>
+<year>2009</year>
+<booktitle>HRI</booktitle>
+<ee>https://doi.org/10.1145/1514095.1514169</ee>
+<ee>https://www.wikidata.org/entity/Q98283732</ee>
+<crossref>conf/hri/2009</crossref>
+<url>db/conf/hri/hri2009.html#BordiniFS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mallow/HubnerBB09" mdate="2023-03-10">
+<author pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="44/5374">Olivier Boissier</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Normative Programming for Organisation Management Infrastructures.</title>
+<year>2009</year>
+<booktitle>MALLOW</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-494/coinpaper1.pdf</ee>
+<crossref>conf/mallow/2009</crossref>
+<url>db/conf/mallow/mallow2009.html#HubnerBB09</url>
+</inproceedings>
+</r>
+<r><incollection key="books/tf/09/HubnerB09" mdate="2019-07-15">
+<author pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Agent-Based Simulation Using BDI Programming in Jason.</title>
+<pages>451-476</pages>
+<year>2009</year>
+<booktitle>Multi-Agent Systems</booktitle>
+<ee>https://doi.org/10.1201/9781420070248.ch15</ee>
+<crossref>books/tf/09/UW2009</crossref>
+<url>db/books/collections/UW2009.html#HubnerB09</url>
+</incollection>
+</r>
+<r><book key="books/sp/FDDB2009" mdate="2020-08-12">
+<editor pid="b/RafaelHBordini">Rafael H. Bordini</editor>
+<editor pid="d/MehdiDastani">Mehdi Dastani</editor>
+<editor pid="d/JurgenDix">J&#252;rgen Dix</editor>
+<editor pid="f/AEFallahSeghrouchni">Amal El Fallah Seghrouchni</editor>
+<title>Multi-Agent Programming, Languages, Tools and Applications.</title>
+<publisher>Springer</publisher>
+<year>2009</year>
+<isbn>978-0-387-89298-6</isbn>
+<isbn>978-0-387-89299-3</isbn>
+<ee>https://doi.org/10.1007/978-0-387-89299-3</ee>
+<url>db/books/collections/FDDB2009.html</url>
+</book>
+</r>
+<r><inproceedings key="conf/atal/RicciPABHD08" mdate="2018-11-30">
+<author pid="26/6718">Alessandro Ricci</author>
+<author pid="33/3217">Michele Piunti</author>
+<author pid="12/5583">Daghan L. Acay</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="d/MehdiDastani">Mehdi Dastani</author>
+<title>Integrating heterogeneous agent programming platforms within artifact-based environments.</title>
+<pages>225-232</pages>
+<year>2008</year>
+<booktitle>AAMAS (1)</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=1402419</ee>
+<crossref>conf/atal/2008-1</crossref>
+<url>db/conf/atal/aamas2008-1.html#RicciPABHD08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/DennisFBF08" mdate="2018-11-30">
+<author pid="58/1750">Louise A. Dennis</author>
+<author pid="134/4889">Berndt Farwer</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="f/MichaelFisher">Michael Fisher 0001</author>
+<title>A flexible framework for verifying agent programs.</title>
+<pages>1303-1306</pages>
+<year>2008</year>
+<booktitle>AAMAS (3)</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=1402857</ee>
+<crossref>conf/atal/2008-3</crossref>
+<url>db/conf/atal/aamas2008-3.html#DennisFBF08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/ShawFB08" mdate="2018-11-30">
+<author pid="35/4291">Patricia H. Shaw</author>
+<author pid="134/4889">Berndt Farwer</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Theoretical and experimental results on the goal-plan tree problem.</title>
+<pages>1379-1382</pages>
+<year>2008</year>
+<booktitle>AAMAS (3)</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=1402877</ee>
+<crossref>conf/atal/2008-3</crossref>
+<url>db/conf/atal/aamas2008-3.html#ShawFB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/OkuyamaBC08" mdate="2018-11-30">
+<author pid="66/4907">Fabio Y. Okuyama</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="36/5618">Ant&#244;nio Carlos da Rocha Costa</author>
+<title>A distributed normative infrastructure for situated multi-agent organisations.</title>
+<pages>1501-1504</pages>
+<year>2008</year>
+<booktitle>AAMAS (3)</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=1402909</ee>
+<crossref>conf/atal/2008-3</crossref>
+<url>db/conf/atal/aamas2008-3.html#OkuyamaBC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dalt/OkuyamaBC08" mdate="2024-10-06">
+<author orcid="0000-0001-7427-2525" pid="66/4907">Fabio Y. Okuyama</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="36/5618">Ant&#244;nio Carlos da Rocha Costa</author>
+<title>A Distributed Normative Infrastructure for Situated Multi-agent Organisations.</title>
+<pages>29-46</pages>
+<year>2008</year>
+<booktitle>DALT</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-93920-7_3</ee>
+<crossref>conf/dalt/2008</crossref>
+<url>db/conf/dalt/dalt2008.html#OkuyamaBC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dalt/KlapiscakB08" mdate="2017-05-19">
+<author pid="31/4532">Thomas Klapiscak</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>JASDL: A Practical Programming Approach Combining Agent and Semantic Web Technologies.</title>
+<pages>91-110</pages>
+<year>2008</year>
+<booktitle>DALT</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-93920-7_7</ee>
+<crossref>conf/dalt/2008</crossref>
+<url>db/conf/dalt/dalt2008.html#KlapiscakB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/BordiniDFF08" mdate="2023-03-24">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0003-1426-1896" pid="58/1750">Louise A. Dennis</author>
+<author orcid="0000-0002-9590-4517" pid="134/4889">Berndt Farwer</author>
+<author orcid="0000-0002-0875-3862" pid="f/MichaelFisher">Michael Fisher 0001</author>
+<title>Automated Verification of Multi-Agent Programs.</title>
+<pages>69-78</pages>
+<year>2008</year>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1109/ASE.2008.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ASE.2008.17</ee>
+<ee>https://www.wikidata.org/entity/Q98283714</ee>
+<crossref>conf/kbse/2008</crossref>
+<url>db/conf/kbse/ase2008.html#BordiniDFF08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/promas/HubnerBP08" mdate="2020-12-29">
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="33/3637">Gauthier Picard</author>
+<title>Using <i>Jason</i> and <i>M</i>\mathcal{M}oise<sup> + </sup> to Develop a Team of Cowboys.</title>
+<pages>238-242</pages>
+<year>2008</year>
+<booktitle>ProMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-03278-3_18</ee>
+<crossref>conf/promas/2008</crossref>
+<url>db/conf/promas/promas2008.html#HubnerBP08</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dagstuhl/2008P8361" mdate="2021-06-10">
+<editor pid="b/RafaelHBordini">Rafael H. Bordini</editor>
+<editor pid="d/MehdiDastani">Mehdi Dastani</editor>
+<editor pid="d/JurgenDix">J&#252;rgen Dix</editor>
+<editor pid="f/AEFallahSeghrouchni">Amal El Fallah Seghrouchni</editor>
+<title>Programming Multi-Agent Systems, 31.08. - 05.09.2008</title>
+<booktitle>Programming Multi-Agent Systems</booktitle>
+<volume>08361</volume>
+<year>2008</year>
+<publisher>Schloss Dagstuhl - Leibniz-Zentrum f&#252;r Informatik, Germany</publisher>
+<series href="db/series/dagstuhl/index.html">Dagstuhl Seminar Proceedings</series>
+<url>db/conf/dagstuhl/P8361.html</url>
+<ee type="oa">http://drops.dagstuhl.de/portals/08361/</ee>
+</proceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/BordiniDDF08" mdate="2020-08-12">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="d/MehdiDastani">Mehdi Dastani</author>
+<author pid="d/JurgenDix">J&#252;rgen Dix</author>
+<author pid="f/AEFallahSeghrouchni">Amal El Fallah Seghrouchni</author>
+<title>08361 Abstracts Collection - Programming Multi-Agent Systems.</title>
+<year>2008</year>
+<booktitle>Programming Multi-Agent Systems</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2008/1647/</ee>
+<crossref>conf/dagstuhl/2008P8361</crossref>
+<url>db/conf/dagstuhl/P8361.html#BordiniDDF08</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/BordiniDDF08a" mdate="2020-08-12">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="d/MehdiDastani">Mehdi Dastani</author>
+<author pid="d/JurgenDix">J&#252;rgen Dix</author>
+<author pid="f/AEFallahSeghrouchni">Amal El Fallah Seghrouchni</author>
+<title>08361 Executive Summary - Programming Multi-Agent Systems.</title>
+<year>2008</year>
+<booktitle>Programming Multi-Agent Systems</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2008/1646/</ee>
+<crossref>conf/dagstuhl/2008P8361</crossref>
+<url>db/conf/dagstuhl/P8361.html#BordiniDDF08a</url>
+</inproceedings>
+</r>
+<r><article key="journals/ci/FisherBHT07" mdate="2020-03-15">
+<author orcid="0000-0002-0875-3862" pid="f/MichaelFisher">Michael Fisher 0001</author>
+<author orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0003-3893-1591" pid="16/951">Benjamin Hirsch</author>
+<author orcid="0000-0002-9253-8638" pid="t/PaoloTorroni">Paolo Torroni</author>
+<title>Computational Logics and Agents: A Road Map of Current Technologies and Future Trends.</title>
+<pages>61-91</pages>
+<year>2007</year>
+<volume>23</volume>
+<journal>Comput. Intell.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1111/j.1467-8640.2007.00295.x</ee>
+<ee>https://www.wikidata.org/entity/Q57977966</ee>
+<url>db/journals/ci/ci23.html#FisherBHT07</url>
+</article>
+</r>
+<r><article key="journals/jair/VieiraMWB07" mdate="2019-04-26">
+<author pid="05/465">Renata Vieira</author>
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>On the Formal Semantics of Speech-Act Based Communication in an Agent-Oriented Programming Language.</title>
+<pages>221-267</pages>
+<year>2007</year>
+<volume>29</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.2221</ee>
+<url>db/journals/jair/jair29.html#VieiraMWB07</url>
+</article>
+</r>
+<r><inproceedings key="conf/dalt/ShawB07" mdate="2023-06-26">
+<author orcid="0000-0002-6994-8647" pid="35/4291">Patricia H. Shaw</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Towards Alternative Approaches to Reasoning About Goals.</title>
+<pages>104-121</pages>
+<year>2007</year>
+<crossref>conf/dalt/2007</crossref>
+<booktitle>DALT</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-77564-5_7</ee>
+<url>db/conf/dalt/dalt2007.html#ShawB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/promas/DennisFBFW07" mdate="2020-12-25">
+<author orcid="0000-0003-1426-1896" pid="58/1750">Louise A. Dennis</author>
+<author orcid="0000-0002-9590-4517" pid="134/4889">Berndt Farwer</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0002-0875-3862" pid="f/MichaelFisher">Michael Fisher 0001</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<title>A Common Semantic Basis for BDI Languages.</title>
+<pages>124-139</pages>
+<year>2007</year>
+<booktitle>PROMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-79043-3_8</ee>
+<ee>https://www.wikidata.org/entity/Q98283703</ee>
+<crossref>conf/promas/2007</crossref>
+<url>db/conf/promas/promas2007.html#DennisFBFW07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/promas/HubnerB07" mdate="2020-12-29">
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Developing a Team of Gold Miners Using Jason.</title>
+<pages>241-245</pages>
+<year>2007</year>
+<booktitle>PROMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-79043-3_15</ee>
+<crossref>conf/promas/2007</crossref>
+<url>db/conf/promas/promas2007.html#HubnerB07</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dagstuhl/2006P6261" mdate="2021-06-10">
+<editor pid="b/RafaelHBordini">Rafael H. Bordini</editor>
+<editor pid="d/MehdiDastani">Mehdi Dastani</editor>
+<editor pid="m/JJCMeyer">John-Jules Ch. Meyer</editor>
+<title>Foundations and Practice of Programming Multi-Agent Systems, 25.06. - 30.06.2006</title>
+<booktitle>Foundations and Practice of Programming Multi-Agent Systems</booktitle>
+<publisher>Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI), Schloss Dagstuhl, Germany</publisher>
+<volume>06261</volume>
+<year>2007</year>
+<url>db/conf/dagstuhl/P6261.html</url>
+<ee type="oa">http://drops.dagstuhl.de/portals/06261/</ee>
+<series href="db/series/dagstuhl/index.html">Dagstuhl Seminar Proceedings</series>
+</proceedings>
+</r>
+<r><proceedings key="conf/promas/2006" mdate="2020-08-12">
+<editor pid="b/RafaelHBordini">Rafael H. Bordini</editor>
+<editor pid="d/MehdiDastani">Mehdi Dastani</editor>
+<editor pid="d/JurgenDix">J&#252;rgen Dix</editor>
+<editor pid="f/AEFallahSeghrouchni">Amal El Fallah Seghrouchni</editor>
+<title>Programming Multi-Agent Systems, 4th International Workshop, ProMAS 2006, Hakodate, Japan, May 9, 2006, Revised and Invited Papers</title>
+<booktitle>ProMAS</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>4411</volume>
+<publisher>Springer</publisher>
+<year>2007</year>
+<isbn>978-3-540-71955-7</isbn>
+<ee>https://doi.org/10.1007/978-3-540-71956-4</ee>
+<url>db/conf/promas/promas2006.html</url>
+</proceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/OkuyamaBC07" mdate="2018-08-23">
+<author pid="66/4907">Fabio Y. Okuyama</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="36/5618">Ant&#244;nio Carlos da Rocha Costa</author>
+<title>Spatially Distributed Normative Objects.</title>
+<year>2007</year>
+<crossref>conf/dagstuhl/2007P7122</crossref>
+<booktitle>Normative Multi-agent Systems</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2007/903</ee>
+<url>db/conf/dagstuhl/P7122.html#OkuyamaBC07</url>
+</inproceedings>
+</r>
+<r><article key="journals/aamas/BordiniFVW06" mdate="2020-12-25">
+<author orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0002-0875-3862" pid="f/MichaelFisher">Michael Fisher 0001</author>
+<author pid="54/5019">Willem Visser</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<title>Verifying Multi-agent Programs by Model Checking.</title>
+<pages>239-256</pages>
+<year>2006</year>
+<volume>12</volume>
+<journal>Auton. Agents Multi Agent Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10458-006-5955-7</ee>
+<ee>https://www.wikidata.org/entity/Q98283859</ee>
+<url>db/journals/aamas/aamas12.html#BordiniFVW06</url>
+</article>
+</r>
+<r><article key="journals/informaticaSI/BordiniBDFGLOPR06" mdate="2021-02-16">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="94/4499">Lars Braubach</author>
+<author pid="d/MehdiDastani">Mehdi Dastani</author>
+<author pid="f/AEFallahSeghrouchni">Amal El Fallah Seghrouchni</author>
+<author pid="69/281">Jorge J. G&#243;mez-Sanz</author>
+<author pid="l/JoaoAlexandreLeite">Jo&#227;o Leite 0001</author>
+<author pid="o/GregoryMPOHare">Gregory M. P. O'Hare</author>
+<author pid="45/808">Alexander Pokahr</author>
+<author pid="26/6718">Alessandro Ricci</author>
+<title>A Survey of Programming Languages and Platforms for Multi-Agent Systems.</title>
+<pages>33-44</pages>
+<year>2006</year>
+<volume>30</volume>
+<journal>Informatica (Slovenia)</journal>
+<number>1</number>
+<ee type="oa">http://www.informatica.si/index.php/informatica/article/view/71</ee>
+<url>db/journals/informaticaSI/informaticaSI30.html#BordiniBDFGLOPR06</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/OkuyamaBC06" mdate="2024-10-06">
+<author orcid="0000-0001-7427-2525" pid="66/4907">Fabio Y. Okuyama</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="36/5618">Ant&#244;nio Carlos da Rocha Costa</author>
+<title>Spatially Distributed Normative Objects.</title>
+<pages>133-146</pages>
+<year>2006</year>
+<booktitle>COIN@AAMAS/ECAI</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74459-7_9</ee>
+<crossref>conf/atal/2006coin</crossref>
+<url>db/conf/atal/coin2006.html#OkuyamaBC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/AlechinaBHJL06" mdate="2021-12-08">
+<author pid="a/NatashaAlechina">Natasha Alechina</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="75/3546">Mark Jago</author>
+<author pid="81/6813">Brian Logan 0001</author>
+<title>Belief revision for AgentSpeak agents.</title>
+<pages>1288-1290</pages>
+<year>2006</year>
+<crossref>conf/atal/2006</crossref>
+<booktitle>AAMAS</booktitle>
+<ee>https://doi.org/10.1145/1160633.1160868</ee>
+<url>db/conf/atal/aamas2006.html#AlechinaBHJL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/HubnerBW06" mdate="2020-12-29">
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<title>Plan patterns for declarative goals in AgentSpeak.</title>
+<pages>1291-1293</pages>
+<year>2006</year>
+<crossref>conf/atal/2006</crossref>
+<booktitle>AAMAS</booktitle>
+<ee>https://doi.org/10.1145/1160633.1160869</ee>
+<url>db/conf/atal/aamas2006.html#HubnerBW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clima/BordiniHT06" mdate="2020-12-29">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="94/6091">Daniel M. Tralamazza</author>
+<title>Using <i>Jason</i> to Implement a Team of Gold Miners.</title>
+<pages>304-313</pages>
+<year>2006</year>
+<crossref>conf/clima/2006</crossref>
+<booktitle>CLIMA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-69619-3_18</ee>
+<url>db/conf/clima/climaVII2006.html#BordiniHT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dalt/AlechinaBHJL06" mdate="2021-12-08">
+<author pid="a/NatashaAlechina">Natasha Alechina</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="75/3546">Mark Jago</author>
+<author pid="81/6813">Brian Logan 0001</author>
+<title>Automating Belief Revision for AgentSpeak.</title>
+<pages>61-77</pages>
+<year>2006</year>
+<crossref>conf/dalt/2006</crossref>
+<booktitle>DALT</booktitle>
+<ee>https://doi.org/10.1007/11961536_5</ee>
+<url>db/conf/dalt/dalt2006.html#AlechinaBHJL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dalt/HubnerBW06" mdate="2020-12-29">
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<title>Programming Declarative Goals Using Plan Patterns.</title>
+<pages>123-140</pages>
+<year>2006</year>
+<crossref>conf/dalt/2006</crossref>
+<booktitle>DALT</booktitle>
+<ee>https://doi.org/10.1007/11961536_9</ee>
+<url>db/conf/dalt/dalt2006.html#HubnerBW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/e4mas/OkuyamaBC06" mdate="2024-10-06">
+<author orcid="0000-0001-7427-2525" pid="66/4907">Fabio Y. Okuyama</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="36/5618">Ant&#244;nio Carlos da Rocha Costa</author>
+<title>Spatially Distributed Normative Infrastructure.</title>
+<pages>203-220</pages>
+<year>2006</year>
+<crossref>conf/e4mas/2006</crossref>
+<booktitle>E4MAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-71103-2_12</ee>
+<url>db/conf/e4mas/e4mas2006.html#OkuyamaBC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esaw/BordiniDW06" mdate="2017-05-21">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="d/MehdiDastani">Mehdi Dastani</author>
+<author pid="w/MichaelWinikoff">Michael Winikoff</author>
+<title>Current Issues in Multi-Agent Systems Development.</title>
+<pages>38-61</pages>
+<year>2006</year>
+<crossref>conf/esaw/2006</crossref>
+<booktitle>ESAW</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-75524-1_3</ee>
+<url>db/conf/esaw/esaw2006.html#BordiniDW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip12/VieiraMBH06" mdate="2020-12-29">
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<title>An Agent-Oriented Programming Language for Computing in Context.</title>
+<pages>61-70</pages>
+<year>2006</year>
+<crossref>conf/clor/2006</crossref>
+<booktitle>IFIP PPAI</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-0-387-34749-3_7</ee>
+<ee>https://www.wikidata.org/entity/Q57763619</ee>
+<url>db/conf/ifip12/ppai2006.html#VieiraMBH06</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/promas/2005" mdate="2020-08-12">
+<editor pid="b/RafaelHBordini">Rafael H. Bordini</editor>
+<editor pid="d/MehdiDastani">Mehdi Dastani</editor>
+<editor pid="d/JurgenDix">J&#252;rgen Dix</editor>
+<editor pid="f/AEFallahSeghrouchni">Amal El Fallah Seghrouchni</editor>
+<title>Programming Multi-Agent Systems, Third International Workshop, ProMAS 2005, Utrecht, The Netherlands, July 26, 2005, Revised and Invited Papers</title>
+<volume>3862</volume>
+<year>2006</year>
+<isbn>3-540-32616-2</isbn>
+<booktitle>PROMAS</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<ee>https://doi.org/10.1007/11678823</ee>
+<url>db/conf/promas/promas2005.html</url>
+</proceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/DastaniMB06" mdate="2018-08-23">
+<author pid="d/MehdiDastani">Mehdi Dastani</author>
+<author pid="m/JJCMeyer">John-Jules Ch. Meyer</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>06261 Executive Summary -- Foundations and Practice of Programming Multi-Agent Systems.</title>
+<year>2006</year>
+<booktitle>Foundations and Practice of Programming Multi-Agent Systems</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2007/846</ee>
+<crossref>conf/dagstuhl/2006P6261</crossref>
+<url>db/conf/dagstuhl/P6261.html#DastaniMB06</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/DastaniMB06a" mdate="2018-08-23">
+<author pid="d/MehdiDastani">Mehdi Dastani</author>
+<author pid="m/JJCMeyer">John-Jules Ch. Meyer</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>06261 Abstracts Collection -- Foundations and Practice of Programming Multi-Agent Systems.</title>
+<year>2006</year>
+<booktitle>Foundations and Practice of Programming Multi-Agent Systems</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2007/847</ee>
+<crossref>conf/dagstuhl/2006P6261</crossref>
+<url>db/conf/dagstuhl/P6261.html#DastaniMB06a</url>
+</inproceedings>
+</r>
+<r><article key="journals/jasss/BordiniCHMOV05" mdate="2020-07-09">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="36/5618">Ant&#244;nio Carlos da Rocha Costa</author>
+<author pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author pid="66/4907">Fabio Y. Okuyama</author>
+<author pid="05/465">Renata Vieira</author>
+<title>MAS-SOC: a Social Simulation Platform Based on Agent-Oriented Programming.</title>
+<year>2005</year>
+<volume>8</volume>
+<journal>J. Artif. Soc. Soc. Simul.</journal>
+<number>3</number>
+<ee type="oa">http://jasss.soc.surrey.ac.uk/8/3/7.html</ee>
+<url>db/journals/jasss/jasss8.html#BordiniCHMOV05</url>
+</article>
+</r>
+<r><inproceedings key="conf/clima/BordiniH05" mdate="2020-12-29">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<title>BDI Agent Programming in AgentSpeak Using <i>Jason</i> (Tutorial Paper).</title>
+<pages>143-164</pages>
+<year>2005</year>
+<crossref>conf/clima/2005</crossref>
+<booktitle>CLIMA</booktitle>
+<ee>https://doi.org/10.1007/11750734_9</ee>
+<url>db/conf/clima/climaVI2005.html#BordiniH05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dalt/MoreiraVBH05" mdate="2020-12-29">
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<title>Agent-Oriented Programming with Underlying Ontological Reasoning.</title>
+<pages>155-170</pages>
+<year>2005</year>
+<crossref>conf/dalt/2005</crossref>
+<booktitle>DALT</booktitle>
+<ee>https://doi.org/10.1007/11691792_10</ee>
+<ee>https://www.wikidata.org/entity/Q57763618</ee>
+<url>db/conf/dalt/dalt2005.html#MoreiraVBH05</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/map2005/BordiniHV05" mdate="2006-03-07">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Jason and the Golden Fleece of Agent-Oriented Programming.</title>
+<pages>3-37</pages>
+<year>2005</year>
+<crossref>books/sp/map05</crossref>
+<booktitle>Multi-Agent Programming</booktitle>
+<url>db/books/collections/map2005.html#BordiniHV05</url>
+</incollection>
+</r>
+<r><book key="books/sp/map05" mdate="2020-08-12">
+<editor pid="b/RafaelHBordini">Rafael H. Bordini</editor>
+<editor pid="d/MehdiDastani">Mehdi Dastani</editor>
+<editor pid="d/JurgenDix">J&#252;rgen Dix</editor>
+<editor pid="f/AEFallahSeghrouchni">Amal El Fallah Seghrouchni</editor>
+<title>Multi-Agent Programming: Languages, Platforms and Applications</title>
+<publisher>Springer</publisher>
+<booktitle>Multi-Agent Programming</booktitle>
+<year>2005</year>
+<volume>15</volume>
+<series>Multiagent Systems, Artificial Societies, and Simulated Organizations</series>
+<isbn>0-387-24568-5</isbn>
+<url>db/books/collections/map2005.html</url>
+</book>
+</r>
+<r><proceedings key="conf/promas/2004" mdate="2020-08-12">
+<editor pid="b/RafaelHBordini">Rafael H. Bordini</editor>
+<editor pid="d/MehdiDastani">Mehdi Dastani</editor>
+<editor pid="d/JurgenDix">J&#252;rgen Dix</editor>
+<editor pid="f/AEFallahSeghrouchni">Amal El Fallah Seghrouchni</editor>
+<title>Programming Multi-Agent Systems, Second International Workshop ProMAS 2004, New York, NY, USA, July 20, 2004 Selected Revised and Invited Papers</title>
+<volume>3346</volume>
+<year>2005</year>
+<isbn>3-540-24559-6</isbn>
+<booktitle>PROMAS</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<ee>https://doi.org/10.1007/b105887</ee>
+<url>db/conf/promas/promas2004.html</url>
+</proceedings>
+</r>
+<r><article key="journals/amai/BordiniM04" mdate="2019-09-16">
+<author orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<title>Proving BDI Properties of Agent-Oriented Programming Languages.</title>
+<pages>197-226</pages>
+<year>2004</year>
+<volume>42</volume>
+<journal>Ann. Math. Artif. Intell.</journal>
+<number>1-3</number>
+<ee>https://doi.org/10.1023/B:AMAI.0000034527.45635.e5</ee>
+<url>db/journals/amai/amai42.html#BordiniM04</url>
+</article>
+</r>
+<r><article key="journals/expert/BordiniFVW04" mdate="2020-12-25">
+<author orcid="0000-0001-8688-9901" pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author orcid="0000-0002-0875-3862" pid="f/MichaelFisher">Michael Fisher 0001</author>
+<author pid="54/5019">Willem Visser</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<title>Model Checking Rational Agents.</title>
+<pages>46-52</pages>
+<year>2004</year>
+<volume>19</volume>
+<journal>IEEE Intell. Syst.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MIS.2004.47</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIS.2004.47</ee>
+<ee>https://www.wikidata.org/entity/Q98283928</ee>
+<url>db/journals/expert/expert19.html#BordiniFVW04</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/AnconaMHB04" mdate="2023-03-24">
+<author pid="a/DAncona">Davide Ancona</author>
+<author pid="m/VMascardi">Viviana Mascardi</author>
+<author pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Coo-AgentSpeak: Cooperation in AgentSpeak through Plan Exchange.</title>
+<pages>696-705</pages>
+<year>2004</year>
+<crossref>conf/atal/2004</crossref>
+<booktitle>AAMAS</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AAMAS.2004.10077</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1018819</ee>
+<url>db/conf/atal/aamas2004.html#AnconaMHB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/BordiniFVW04" mdate="2023-03-24">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="f/MichaelFisher">Michael Fisher 0001</author>
+<author pid="54/5019">Willem Visser</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<title>State-Space Reduction Techniques in Agent Verification.</title>
+<pages>896-903</pages>
+<year>2004</year>
+<crossref>conf/atal/2004</crossref>
+<booktitle>AAMAS</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AAMAS.2004.10118</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1018842</ee>
+<url>db/conf/atal/aamas2004.html#BordiniFVW04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/e4mas/OkuyamaBC04" mdate="2024-10-06">
+<author orcid="0000-0001-7427-2525" pid="66/4907">Fabio Y. Okuyama</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="36/5618">Ant&#244;nio Carlos da Rocha Costa</author>
+<title>ELMS: An Environment Description Language for Multi-agent Simulation.</title>
+<pages>91-108</pages>
+<ee>https://doi.org/10.1007/978-3-540-32259-7_5</ee>
+<year>2004</year>
+<crossref>conf/e4mas/2004</crossref>
+<booktitle>E4MAS</booktitle>
+<url>db/conf/e4mas/e4mas2004.html#OkuyamaBC04</url>
+</inproceedings>
+</r>
+<r><article key="journals/rita/BordiniV03" mdate="2004-05-24">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Linguagens de Programa&#231;&#227;o Orientadas a Agentes: Uma Introdu&#231;&#227;o Baseada em AgentSpeak(L).</title>
+<pages>7-38</pages>
+<year>2003</year>
+<volume>10</volume>
+<journal>RITA</journal>
+<number>1</number>
+<url>db/journals/rita/rita10.html#BordiniV03</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/RodriguesCB03" mdate="2018-11-06">
+<author pid="45/4090">Ma&#237;ra Ribeiro Rodrigues</author>
+<author pid="36/5618">Ant&#244;nio Carlos da Rocha Costa</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>A system of exchange values to support social interactions in artificial societies.</title>
+<pages>81-88</pages>
+<year>2003</year>
+<crossref>conf/atal/2003</crossref>
+<booktitle>AAMAS</booktitle>
+<ee>https://doi.org/10.1145/860575.860589</ee>
+<url>db/conf/atal/aamas2003.html#RodriguesCB03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/BordiniFPW03" mdate="2019-04-26">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="f/MichaelFisher">Michael Fisher 0001</author>
+<author pid="94/6543">Carmen Pardavila</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<title>Model checking agentspeak.</title>
+<pages>409-416</pages>
+<year>2003</year>
+<crossref>conf/atal/2003</crossref>
+<booktitle>AAMAS</booktitle>
+<ee>https://doi.org/10.1145/860575.860641</ee>
+<url>db/conf/atal/aamas2003.html#BordiniFPW03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cav/BordiniFPVW03" mdate="2019-04-26">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="f/MichaelFisher">Michael Fisher 0001</author>
+<author pid="94/6543">Carmen Pardavila</author>
+<author pid="54/5019">Willem Visser</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<title>Model Checking Multi-Agent Programs with CASP.</title>
+<pages>110-113</pages>
+<ee>https://doi.org/10.1007/978-3-540-45069-6_10</ee>
+<year>2003</year>
+<crossref>conf/cav/2003</crossref>
+<booktitle>CAV</booktitle>
+<url>db/conf/cav/cav2003.html#BordiniFPVW03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dalt/MoreiraVB03" mdate="2017-05-19">
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Extending the Operational Semantics of a BDI Agent-Oriented Programming Language for Introducing Speech-Act Based Communication.</title>
+<pages>135-154</pages>
+<ee>https://doi.org/10.1007/978-3-540-25932-9_8</ee>
+<year>2003</year>
+<crossref>conf/dalt/2003</crossref>
+<booktitle>DALT</booktitle>
+<url>db/conf/dalt/dalt2003.html#MoreiraVB03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iva/TorresNB03" mdate="2024-02-05">
+<author pid="89/961">Jorge A. Torres</author>
+<author orcid="0000-0002-2390-1392" pid="60/2597">Luciana Porcher Nedel</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Using the BDI Architecture to Produce Autonomous Characters in Virtual Worlds.</title>
+<pages>197-201</pages>
+<ee>https://doi.org/10.1007/978-3-540-39396-2_32</ee>
+<year>2003</year>
+<crossref>conf/iva/2003</crossref>
+<booktitle>IVA</booktitle>
+<url>db/conf/iva/iva2003.html#TorresNB03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/promas/BordiniFVW03" mdate="2019-04-26">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="f/MichaelFisher">Michael Fisher 0001</author>
+<author pid="54/5019">Willem Visser</author>
+<author pid="w/MichaelWooldridge">Michael J. Wooldridge</author>
+<title>Verifiable Multi-agent Programs.</title>
+<pages>72-89</pages>
+<ee>https://doi.org/10.1007/978-3-540-25936-7_4</ee>
+<year>2003</year>
+<crossref>conf/promas/2003</crossref>
+<booktitle>PROMAS</booktitle>
+<url>db/conf/promas/promas2003.html#BordiniFVW03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/BordiniBJBVL02" mdate="2018-11-06">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="89/4869">Rafael de Oliveira Jannone</author>
+<author pid="95/1438">Daniel M. Basso</author>
+<author pid="v/RosaMariaVicari">Rosa Maria Vicari</author>
+<author pid="l/VRLesser">Victor R. Lesser</author>
+<title>AgentSpeak(XL): efficient intention selection in BDI agents via decision-theoretic task scheduling.</title>
+<pages>1294-1302</pages>
+<year>2002</year>
+<crossref>conf/atal/2002</crossref>
+<booktitle>AAMAS</booktitle>
+<ee>https://doi.org/10.1145/545056.545122</ee>
+<url>db/conf/atal/aamas2002.html#BordiniBJBVL02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cscl/JaquesAJBV02" mdate="2021-04-28">
+<author pid="j/PatriciaAugustinJaques">Patr&#237;cia Augustin Jaques</author>
+<author pid="09/1220">Adja Ferreira de Andrade</author>
+<author pid="35/4480">Jo&#227;o Luiz Jung</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="v/RosaMariaVicari">Rosa Vicari</author>
+<title>Using pedagogical agents to support collaborative distance learning.</title>
+<pages>546-547</pages>
+<year>2002</year>
+<booktitle>CSCL</booktitle>
+<ee type="oa">https://repository.isls.org/handle/1/3840</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1658713</ee>
+<crossref>conf/cscl/2002</crossref>
+<url>db/conf/cscl/cscl2002.html#JaquesAJBV02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rasta/BordiniOODK02" mdate="2017-05-23">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="66/4907">Fabio Y. Okuyama</author>
+<author pid="40/362">Denise de Oliveira</author>
+<author pid="81/5954">Guilherme Drehmer</author>
+<author pid="07/2285">Romulo C. Krafta</author>
+<title>The MAS-SOC Approach to Multi-agent Based Simulation.</title>
+<pages>70-91</pages>
+<ee>https://doi.org/10.1007/978-3-540-25867-4_5</ee>
+<year>2002</year>
+<crossref>conf/rasta/2002</crossref>
+<booktitle>RASTA</booktitle>
+<url>db/conf/rasta/rasta2002.html#BordiniOODK02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbia/BazzanAB02" mdate="2020-09-28">
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="87/4374">Diana Francisca Adamatti</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Extending the Computational Study of Social Norms with a Systematic Model of Emotions.</title>
+<pages>108-117</pages>
+<year>2002</year>
+<crossref>conf/sbia/2002</crossref>
+<booktitle>SBIA</booktitle>
+<ee>https://doi.org/10.1007/3-540-36127-8_11</ee>
+<url>db/conf/sbia/sbia2002.html#BazzanAB02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ukmas/BordiniVC02" mdate="2017-05-21">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="05/465">Renata Vieira</author>
+<author pid="25/3161">John A. Campbell</author>
+<title>An Anthropological Approach to the Discovery of Ontologies in Multi-agent Societies.</title>
+<pages>89-109</pages>
+<year>2002</year>
+<crossref>conf/ukmas/2002LNCS</crossref>
+<booktitle>Foundations and Applications of Multi-Agent Systems</booktitle>
+<ee>https://doi.org/10.1007/3-540-45634-1_7</ee>
+<url>db/conf/ukmas/ukmasLNCS2002.html#BordiniVC02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/BordiniM02" mdate="2022-12-06">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="50/3403">&#193;lvaro F. Moreira</author>
+<title>Proving the Asymmetry Thesis Principles for a BDI Agent-Oriented Programming Language.</title>
+<year>2002</year>
+<crossref>conf/clima/2002</crossref>
+<booktitle>CLIMA</booktitle>
+<ee type="oa">https://doi.org/10.1016/S1571-0661(04)80591-7</ee>
+<url>db/conf/clima/clima2002.html#BordiniM02</url>
+<pages>108-125</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/agents/BazzanB01" mdate="2018-11-06">
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>A framework for the simulation of agents with emotions.</title>
+<pages>292-299</pages>
+<year>2001</year>
+<crossref>conf/agents/2001</crossref>
+<booktitle>Agents</booktitle>
+<ee>https://doi.org/10.1145/375735.376313</ee>
+<url>db/conf/agents/agents2001.html#BazzanB01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/MachadoB01" mdate="2017-05-23">
+<author pid="33/4758">Rodrigo Machado</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<title>Running AgentSpeak(L) Agents on SIM_AGENT.</title>
+<pages>158-174</pages>
+<year>2001</year>
+<crossref>conf/atal/2001</crossref>
+<booktitle>ATAL</booktitle>
+<ee>https://doi.org/10.1007/3-540-45448-9_12</ee>
+<url>db/conf/atal/atal2001.html#MachadoB01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmas/BazzanBAVW00" mdate="2023-03-23">
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="44/1371">G. Andrioti</author>
+<author pid="v/RosaMariaVicari">Rosa Maria Vicari</author>
+<author pid="73/4066">Joachim Wahle</author>
+<title>Wayward Agents in a Commuting Scenario (Personalities in the Minority Game).</title>
+<pages>55-62</pages>
+<year>2000</year>
+<crossref>conf/icmas/2000</crossref>
+<booktitle>ICMAS</booktitle>
+<ee>https://doi.org/10.1109/ICMAS.2000.858431</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICMAS.2000.858431</ee>
+<url>db/conf/icmas/icmas2000.html#BazzanBAVW00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbia/BazzanBVW00" mdate="2017-05-17">
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="v/RosaMariaVicari">Rosa Maria Vicari</author>
+<author pid="73/4066">Joachim Wahle</author>
+<title>Evolving Populations of Agents with Personalities in the Minority Game.</title>
+<pages>166-175</pages>
+<ee>https://doi.org/10.1007/3-540-44399-1_18</ee>
+<year>2000</year>
+<crossref>conf/sbia/2000</crossref>
+<booktitle>IBERAMIA-SBIA</booktitle>
+<url>db/conf/sbia/sbia2000.html#BazzanBVW00</url>
+</inproceedings>
+</r>
+<r><article key="journals/jasss/BordiniCV98" mdate="2020-07-09">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="25/3161">John A. Campbell</author>
+<author pid="05/465">Renata Vieira</author>
+<title>Extending Ascribed Intensional Ontologies with Taxonomical Relations in Anthropological Descriptions of Multi-Agent Systems.</title>
+<year>1998</year>
+<volume>1</volume>
+<journal>J. Artif. Soc. Soc. Simul.</journal>
+<number>4</number>
+<ee type="oa">http://jasss.soc.surrey.ac.uk/1/4/3.html</ee>
+<url>db/journals/jasss/jasss1.html#BordiniCV98</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/BazzanBC98" mdate="2017-05-23">
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="25/3161">John A. Campbell</author>
+<title>Moral Sentiments in Multi-Agent Systems.</title>
+<pages>113-131</pages>
+<year>1998</year>
+<crossref>conf/atal/1998</crossref>
+<booktitle>ATAL</booktitle>
+<url>db/conf/atal/atal1998.html#BazzanBC98</url>
+<ee>https://doi.org/10.1007/3-540-49057-4_8</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cia/BordiniCV97" mdate="2018-11-14">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="25/3161">John A. Campbell</author>
+<author orcid="0000-0003-2449-5477" pid="05/465">Renata Vieira</author>
+<title>Ascription of Intensional Ontologies in Anthropological Descriptions of Mult-Agent Systems.</title>
+<pages>235-247</pages>
+<year>1997</year>
+<crossref>conf/cia/1997</crossref>
+<booktitle>CIA</booktitle>
+<url>db/conf/cia/cia97.html#BordiniCV97</url>
+<ee>https://doi.org/10.1007/3-540-62591-7_37</ee>
+<ee>https://www.wikidata.org/entity/Q57763628</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmas/BordiniCHV95" mdate="2004-11-16">
+<author pid="b/RafaelHBordini">Rafael H. Bordini</author>
+<author pid="36/5618">Ant&#244;nio Carlos da Rocha Costa</author>
+<author pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<author pid="v/RosaMariaVicari">Rosa Maria Viccari</author>
+<title>Linguistic Support for Agent Migration.</title>
+<pages>441</pages>
+<year>1995</year>
+<crossref>conf/icmas/1995</crossref>
+<booktitle>ICMAS</booktitle>
+<url>db/conf/icmas/icmas1995.html#BordiniCHV95</url>
+</inproceedings>
+</r>
+<coauthors n="150" nc="2">
+<co c="0"><na f="a/Acay:Daghan_L=" pid="12/5583">Daghan L. Acay</na></co>
+<co c="0"><na f="a/Adamatti:Diana_Francisca" pid="87/4374">Diana Francisca Adamatti</na></co>
+<co c="0" n="2"><na f="a/Agha:Gul_A=" pid="a/GulAAgha">Gul A. Agha</na><na>Gul Agha</na></co>
+<co c="0"><na f="a/Alechina:Natasha" pid="a/NatashaAlechina">Natasha Alechina</na></co>
+<co c="0"><na f="a/Ali_0001:Asad" pid="34/8817-1">Asad Ali 0001</na></co>
+<co c="0"><na f="a/Amory:Alexandre_M=" pid="41/1314">Alexandre M. Amory</na></co>
+<co c="0"><na f="a/Ancona:Davide" pid="a/DAncona">Davide Ancona</na></co>
+<co c="0"><na f="a/Andrade:Adja_Ferreira_de" pid="09/1220">Adja Ferreira de Andrade</na></co>
+<co c="0"><na f="a/Andrioti:G=" pid="44/1371">G. Andrioti</na></co>
+<co c="0"><na f="b/Badica:Costin" pid="54/2323">Costin Badica</na></co>
+<co c="0"><na f="b/Barbieri:Matteo" pid="98/9854">Matteo Barbieri</na></co>
+<co c="0"><na f="b/Bas=eacute=gio:T=uacute=lio_L=" pid="214/1750">T&#250;lio L. Bas&#233;gio</na></co>
+<co c="0"><na f="b/Basso:Daniel_M=" pid="95/1438">Daniel M. Basso</na></co>
+<co c="0"><na f="b/Bazzan:Ana_L=_C=" pid="b/AnaLCBazzan">Ana L. C. Bazzan</na></co>
+<co c="0"><na f="b/Behrens:Tristan_M=" pid="66/2896">Tristan M. Behrens</na></co>
+<co c="0"><na f="b/Bernardes:Marina_Musse" pid="388/2510">Marina Musse Bernardes</na></co>
+<co c="0"><na f="b/Billa:Cl=eacute=o_Zanella" pid="50/2400">Cl&#233;o Zanella Billa</na></co>
+<co c="0"><na f="b/Boissier:Olivier" pid="44/5374">Olivier Boissier</na></co>
+<co c="0"><na f="b/Borges:Olimar_Teixeira" pid="201/9789">Olimar Teixeira Borges</na></co>
+<co c="0"><na f="b/Braubach:Lars" pid="94/4499">Lars Braubach</na></co>
+<co c="0"><na f="b/Brezolin:Jo=atilde=o_Mario_Lopes" pid="169/6039">Jo&#227;o Mario Lopes Brezolin</na></co>
+<co c="0"><na f="b/Brito:Maiquel_de" pid="135/0912">Maiquel de Brito</na></co>
+<co c="0"><na f="c/Campbell:John_A=" pid="25/3161">John A. Campbell</na></co>
+<co c="0"><na f="c/Campos:M=aacute=rcia_de_Borba" pid="131/8247">M&#225;rcia de Borba Campos</na></co>
+<co c="0"><na f="c/Capone:Chiara" pid="251/6030">Chiara Capone</na></co>
+<co c="0"><na f="c/Carbonera:Joel_Luis" pid="121/5033">Joel Luis Carbonera</na></co>
+<co c="0" n="2"><na f="c/Cardoso_0001:Rafael_C=" pid="131/5387">Rafael C. Cardoso 0001</na><na>Rafael Cau&#234; Cardoso 0001</na></co>
+<co c="0"><na f="c/Ceretta:Nathalia_Giacomini" pid="388/2816">Nathalia Giacomini Ceretta</na></co>
+<co c="0"><na f="c/Cezar:Lucca_Dornelles" pid="302/6392">Lucca Dornelles Cezar</na></co>
+<co c="0"><na f="c/Chapman:Martin" pid="134/7646">Martin Chapman</na></co>
+<co c="1"><na f="c/Chiotti:Omar" pid="44/5367">Omar Chiotti</na></co>
+<co c="0"><na f="c/Chrisosthemos:Vinicius" pid="268/7185">Vinicius Chrisosthemos</na></co>
+<co c="0"><na f="c/Ciortea:Andrei" pid="17/11537">Andrei Ciortea</na></co>
+<co c="0"><na f="c/Colissi:Mateus_da_Silveira" pid="297/5939">Mateus da Silveira Colissi</na></co>
+<co c="0"><na f="c/Collier:Rem_W=" pid="c/RemWCollier">Rem W. Collier</na></co>
+<co c="0"><na f="c/Consoli:Bernardo_Scapini" pid="241/3945">Bernardo Scapini Consoli</na></co>
+<co c="0"><na f="c/Costa:Ant=ocirc=nio_Carlos_da_Rocha" pid="36/5618">Ant&#244;nio Carlos da Rocha Costa</na></co>
+<co c="0"><na f="c/Costantini:Stefania" pid="c/StefaniaCostantini">Stefania Costantini</na></co>
+<co c="0" n="2"><na f="c/Couto_0002:Julia" pid="152/4323">Julia Couto 0002</na><na>Julia M. Colleoni Couto</na></co>
+<co c="0"><na f="c/Couto:J=uacute=lia_Colleoni" pid="339/0542">J&#250;lia Colleoni Couto</na></co>
+<co c="0"><na f="c/Croatti:Angelo" pid="169/6192">Angelo Croatti</na></co>
+<co c="0"><na f="c/Cruz=Ram=iacute=rez:Nicandro" pid="84/1496">Nicandro Cruz-Ram&#237;rez</na></co>
+<co c="0" n="2"><na f="d/Damasio:Juliana" pid="165/2707">Juliana Damasio</na><na>Juliana Damasio Oliveira</na></co>
+<co c="0"><na f="d/Dastani:Mehdi" pid="d/MehdiDastani">Mehdi Dastani</na></co>
+<co c="0"><na f="d/Delzanno:Giorgio" pid="d/GDelzanno">Giorgio Delzanno</na></co>
+<co c="0"><na f="d/Dennis:Louise_A=" pid="58/1750">Louise A. Dennis</na></co>
+<co c="0"><na f="d/Dix:J=uuml=rgen" pid="d/JurgenDix">J&#252;rgen Dix</na></co>
+<co c="0"><na f="d/Drehmer:Guilherme" pid="81/5954">Guilherme Drehmer</na></co>
+<co c="0"><na f="e/Elkind:Edith" pid="31/2621">Edith Elkind</na></co>
+<co c="0" n="2"><na f="e/Engelmann:D=eacute=bora_C=" pid="225/2571">D&#233;bora C. Engelmann</na><na>D&#233;bora Cristina Engelmann</na></co>
+<co c="0"><na f="f/Fagundes:Moser_Silva" pid="11/2749">Moser Silva Fagundes</na></co>
+<co c="0" n="2"><na f="f/Farias:Giovani" pid="264/8929">Giovani Farias</na><na>Giovani Parente Farias</na></co>
+<co c="0"><na f="f/Ferrando_0001:Angelo" pid="134/9527">Angelo Ferrando 0001</na></co>
+<co c="0"><na f="f/Ferreira:Carlos_Eduardo_A=" pid="331/3927">Carlos Eduardo A. Ferreira</na></co>
+<co c="0"><na f="f/Fiorini:Sandro_Rama" pid="05/8694">Sandro Rama Fiorini</na></co>
+<co c="0"><na f="f/Fisher_0001:Michael" pid="f/MichaelFisher">Michael Fisher 0001</na></co>
+<co c="0" n="2"><na f="f/Fontoura:Lisandra_M=" pid="57/1983">Lisandra M. Fontoura</na><na>Lisandra Manzoni Fontoura</na></co>
+<co c="0"><na f="f/Freitas:Artur" pid="146/4045">Artur Freitas</na></co>
+<co c="0"><na f="g/Gabriel:V=aacute=gner_de_Oliveira" pid="233/5371">V&#225;gner de Oliveira Gabriel</na></co>
+<co c="1"><na f="g/Galli:Mar=iacute=a_Rosa" pid="11/32">Mar&#237;a Rosa Galli</na></co>
+<co c="0"><na f="g/Gelati:Luca" pid="247/9078">Luca Gelati</na></co>
+<co c="0"><na f="g/G=oacute=mez=Sanz:Jorge_J=" pid="69/281">Jorge J. G&#243;mez-Sanz</na></co>
+<co c="0"><na f="g/Guerra=Hern=aacute=ndez:Alejandro" pid="73/1235">Alejandro Guerra-Hern&#225;ndez</na></co>
+<co c="0"><na f="g/Guerrini:Giovanna" pid="g/GiovannaGuerrini">Giovanna Guerrini</na></co>
+<co c="0" n="2"><na f="h/Hilgert:Lucas_Welter" pid="121/5091">Lucas Welter Hilgert</na><na>Lucas Hilgert</na></co>
+<co c="0"><na f="h/Hindriks:Koen_V=" pid="67/2212">Koen V. Hindriks</na></co>
+<co c="0"><na f="h/Hirsch:Benjamin" pid="16/951">Benjamin Hirsch</na></co>
+<co c="0"><na f="h/Hoyos=Rivera:Guillermo_de_Jes=uacute=s" pid="73/2766">Guillermo de Jes&#250;s Hoyos-Rivera</na></co>
+<co c="0"><na f="h/H=uuml=bner:Jomi_Fred" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</na></co>
+<co c="0"><na f="i/Ivanovic:Mirjana" pid="97/1941">Mirjana Ivanovic</na></co>
+<co c="0"><na f="j/Jago:Mark" pid="75/3546">Mark Jago</na></co>
+<co c="0"><na f="j/Jannone:Rafael_de_Oliveira" pid="89/4869">Rafael de Oliveira Jannone</na></co>
+<co c="0" n="2"><na f="j/Jaques:Patr=iacute=cia_A=" pid="j/PatriciaAugustinJaques">Patr&#237;cia A. Jaques</na><na>Patr&#237;cia Augustin Jaques</na></co>
+<co c="0"><na f="j/Jung:Jo=atilde=o_Luiz" pid="35/4480">Jo&#227;o Luiz Jung</na></co>
+<co c="-1"><na f="k/Klapiscak:Thomas" pid="31/4532">Thomas Klapiscak</na></co>
+<co c="0"><na f="k/Krafta:Romulo_C=" pid="07/2285">Romulo C. Krafta</na></co>
+<co c="0"><na f="k/Krausburg:Tabajara" pid="225/2686">Tabajara Krausburg</na></co>
+<co c="0"><na f="k/Krever:Henrique_L=" pid="352/9573">Henrique L. Krever</na></co>
+<co c="0"><na f="l/Leite_0001:Jo=atilde=o" pid="l/JoaoAlexandreLeite">Jo&#227;o Leite 0001</na></co>
+<co c="0"><na f="l/Lenhard:Christopher" pid="366/2272">Christopher Lenhard</na></co>
+<co c="0"><na f="l/Lesp=eacute=rance:Yves" pid="74/5003">Yves Lesp&#233;rance</na></co>
+<co c="0"><na f="l/Lesser:Victor_R=" pid="l/VRLesser">Victor R. Lesser</na></co>
+<co c="0"><na f="l/Logan_0001:Brian" pid="81/6813">Brian Logan 0001</na></co>
+<co c="0" n="2"><na f="m/Machado:Nielsen_L=_R=" pid="157/0348">Nielsen L. R. Machado</na><na>Nielsen Luiz Rechia Machado</na></co>
+<co c="0"><na f="m/Machado:Rodrigo" pid="33/4758">Rodrigo Machado</na></co>
+<co c="0" n="2"><na f="m/Machado:Vanessa_Stangherlin" pid="189/8722">Vanessa Stangherlin Machado</na><na>Vanessa Stangherlin Machado Paix&#227;o-Cortes</na></co>
+<co c="0" n="2"><na f="m/Manssour:Isabel_H=" pid="38/6192">Isabel H. Manssour</na><na>Isabel Harb Manssour</na></co>
+<co c="0"><na f="m/Marron:Assaf" pid="98/5121">Assaf Marron</na></co>
+<co c="0"><na f="m/Mascardi:Viviana" pid="m/VMascardi">Viviana Mascardi</na></co>
+<co c="0"><na f="m/Mayer:Simon" pid="16/9863">Simon Mayer</na></co>
+<co c="0"><na f="m/McBurney:Peter" pid="m/PeterMcBurney">Peter McBurney</na></co>
+<co c="0"><na f="m/Melo:Victor_S=" pid="180/1400">Victor S. Melo</na></co>
+<co c="0" n="2"><na f="m/Meneguzzi:Felipe" pid="10/985">Felipe Meneguzzi</na><na>Felipe Rech Meneguzzi</na></co>
+<co c="0"><na f="m/Meyer:John=Jules_Ch=" pid="m/JJCMeyer">John-Jules Ch. Meyer</na></co>
+<co c="0"><na f="m/Michelin:Regio_A=" pid="171/6327">Regio A. Michelin</na></co>
+<co c="0"><na f="m/Mitrovic:Dejan" pid="09/440">Dejan Mitrovic</na></co>
+<co c="0"><na f="m/Monaldini:Andrea" pid="357/0631">Andrea Monaldini</na></co>
+<co c="0"><na f="m/Morais:Marcio_G=" pid="168/3128">Marcio G. Morais</na></co>
+<co c="0"><na f="m/Moreira:=Aacute=lvaro_F=" pid="50/3403">&#193;lvaro F. Moreira</na></co>
+<co c="0" n="2"><na f="m/M=uuml=ller:Berndt" pid="134/4889">Berndt M&#252;ller</na><na>Berndt Farwer</na></co>
+<co c="0"><na f="m/Mumford:Jack" pid="308/4178">Jack Mumford</na></co>
+<co c="0"><na f="m/Musse:Soraia_Raupp" pid="92/5311">Soraia Raupp Musse</na></co>
+<co c="0"><na f="n/Nedel:Luciana_Porcher" pid="60/2597">Luciana Porcher Nedel</na></co>
+<co c="0"><na f="o/O=Hare:Gregory_M=_P=" pid="o/GregoryMPOHare">Gregory M. P. O'Hare</na></co>
+<co c="0" n="2"><na f="o/Okuyama:Fabio_Y=" pid="66/4907">Fabio Y. Okuyama</na><na>Fabio Yoshimitsu Okuyama</na></co>
+<co c="0"><na f="o/Oliveira:Denise_de" pid="40/362">Denise de Oliveira</na></co>
+<co c="0"><na f="o/Ortiz=Hern=aacute=ndez:Gustavo" pid="191/8335">Gustavo Ortiz-Hern&#225;ndez</na></co>
+<co c="0"><na f="p/Panisson:Alison_R=" pid="151/3594">Alison R. Panisson</na></co>
+<co c="0"><na f="p/Pardavila:Carmen" pid="94/6543">Carmen Pardavila</na></co>
+<co c="0"><na f="p/Parsons:Simon" pid="65/1416">Simon Parsons</na></co>
+<co c="0"><na f="p/Peres:Vitor" pid="265/0245">Vitor Peres</na></co>
+<co c="0"><na f="p/Picard:Gauthier" pid="33/3637">Gauthier Picard</na></co>
+<co c="0"><na f="p/Piunti:Michele" pid="33/3217">Michele Piunti</na></co>
+<co c="0"><na f="p/Pokahr:Alexander" pid="45/808">Alexander Pokahr</na></co>
+<co c="0"><na f="r/Reyes:Daniel_De_Los" pid="283/4235">Daniel De Los Reyes</na></co>
+<co c="0"><na f="r/Ricci:Alessandro" pid="26/6718">Alessandro Ricci</na></co>
+<co c="0"><na f="r/Rodrigues:Ma=iacute=ra_Ribeiro" pid="45/4090">Ma&#237;ra Ribeiro Rodrigues</na></co>
+<co c="0"><na f="r/Ruiz:Duncan" pid="339/0493">Duncan Ruiz</na></co>
+<co c="0"><na f="s/Santi:Andrea" pid="63/7737">Andrea Santi</na></co>
+<co c="0"><na f="s/Santos:Henrique_D=_P=_dos" pid="204/3810">Henrique D. P. dos Santos</na></co>
+<co c="0"><na f="s/Sarkadi:Stefan" pid="222/7833">Stefan Sarkadi</na></co>
+<co c="0"><na f="s/Schlsener:Ricardo_K=" pid="366/2237">Ricardo K. Schlsener</na></co>
+<co c="0"><na f="s/Schmidt:Daniela" pid="20/3363">Daniela Schmidt</na></co>
+<co c="0"><na f="s/Seghrouchni:Amal_El_Fallah" pid="f/AEFallahSeghrouchni">Amal El Fallah Seghrouchni</na></co>
+<co c="0"><na f="s/Shaw:Patricia_H=" pid="35/4291">Patricia H. Shaw</na></co>
+<co c="0"><na f="s/Sierhuis:Maarten" pid="65/1780">Maarten Sierhuis</na></co>
+<co c="0"><na f="s/Silva:Davide_Clode_da" pid="388/3668">Davide Clode da Silva</na></co>
+<co c="0"><na f="s/Silva:Gabriel_Fonseca" pid="278/2276">Gabriel Fonseca Silva</na></co>
+<co c="0" n="2"><na f="s/Silva:Lu=iacute=s_A=_Lima" pid="15/2300">Lu&#237;s A. Lima Silva</na><na>Lu&#237;s Alvaro de Lima Silva</na></co>
+<co c="0"><na f="s/Siqueira:Denise_da_Luz" pid="204/7779">Denise da Luz Siqueira</na></co>
+<co c="0"><na f="s/Souza:Gabriel_Vaz_de" pid="388/3328">Gabriel Vaz de Souza</na></co>
+<co c="1"><na f="t/Toledo:Carlos_Manuel" pid="116/1315">Carlos Manuel Toledo</na></co>
+<co c="0"><na f="t/Torres:Jorge_A=" pid="89/961">Jorge A. Torres</na></co>
+<co c="0"><na f="t/Torroni:Paolo" pid="t/PaoloTorroni">Paolo Torroni</na></co>
+<co c="0"><na f="t/Trajano:Douglas" pid="307/8711">Douglas Trajano</na></co>
+<co c="0"><na f="t/Trajano:Guilherme" pid="372/1286">Guilherme Trajano</na></co>
+<co c="0"><na f="t/Tralamazza:Daniel_M=" pid="94/6091">Daniel M. Tralamazza</na></co>
+<co c="0"><na f="u/Ulbrich:Ana_Helena_D=_P=_S=" pid="223/6991">Ana Helena D. P. S. Ulbrich</na></co>
+<co c="0" n="3"><na f="v/Vicari:Rosa_Maria" pid="v/RosaMariaVicari">Rosa Maria Vicari</na><na>Rosa Vicari</na><na>Rosa Maria Viccari</na></co>
+<co c="0"><na f="v/Vieira:Renata" pid="05/465">Renata Vieira</na></co>
+<co c="0"><na f="v/Visser:Willem" pid="54/5019">Willem Visser</na></co>
+<co c="0"><na f="v/Vozna:Alina" pid="362/7818">Alina Vozna</na></co>
+<co c="0"><na f="w/Wahle:Joachim" pid="73/4066">Joachim Wahle</na></co>
+<co c="0"><na f="w/Webster:Matthew_P=" pid="06/10709">Matthew P. Webster</na></co>
+<co c="0"><na f="w/Weiss_0001:Gerhard" pid="07/2055">Gerhard Weiss 0001</na></co>
+<co c="0"><na f="w/Winikoff:Michael" pid="w/MichaelWinikoff">Michael Winikoff</na></co>
+<co c="0"><na f="w/Wooldridge:Michael_J=" pid="w/MichaelWooldridge">Michael J. Wooldridge</na></co>
+<co c="0"><na f="y/Yolum:Pinar" pid="31/4750">Pinar Yolum</na></co>
+<co c="0"><na f="z/Zatelli:Maicon_Rafael" pid="130/2937">Maicon Rafael Zatelli</na></co>
+<co c="0" n="2"><na f="z/Zorzo:Avelino_Francisco" pid="z/AvelinoFZorzo">Avelino Francisco Zorzo</na><na>Avelino F. Zorzo</na></co>
+</coauthors>
+</dblpperson>
+

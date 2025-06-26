@@ -1,0 +1,691 @@
+<?xml version="1.0"?>
+<dblpperson name="Ot&#225;vio Augusto Lazzarini Lemos" pid="80/3784" n="36">
+<person key="homepages/80/3784" mdate="2021-07-24">
+<author pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="80/3784">Ot&#225;vio Lemos</author>
+<url>https://dl.acm.org/profile/81315490138</url>
+<url>https://orcid.org/0000-0001-6481-5311</url>
+<url>https://www.wikidata.org/entity/Q58284850</url>
+</person>
+<r><article key="journals/sqj/LemosSFSGG24" mdate="2025-02-27">
+<author pid="80/3784">Ot&#225;vio Lemos</author>
+<author pid="11/8143">F&#225;bio F. Silveira</author>
+<author pid="48/5007">Fabiano Cutigi Ferrari</author>
+<author pid="78/3343">Tiago Silva da Silva</author>
+<author pid="65/1205">Eduardo Guerra 0001</author>
+<author pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</author>
+<title>Unraveling the code: an in-depth empirical study on the impact of development practices in auxiliary functions implementation.</title>
+<pages>1137-1174</pages>
+<year>2024</year>
+<month>September</month>
+<volume>32</volume>
+<journal>Softw. Qual. J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11219-024-09682-4</ee>
+<url>db/journals/sqj/sqj32.html#LemosSFSGG24</url>
+<stream>streams/journals/sqj</stream>
+</article>
+</r>
+<r><inproceedings key="conf/sac/LemosSPG20" mdate="2020-04-02">
+<author pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="208/0776">Marcelo Suzuki</author>
+<author pid="139/6640">Adriano Carvalho de Paula</author>
+<author pid="262/0705">Claire Le Goes</author>
+<title>Comparing identifiers and comments in engineered and non-engineered code: a large-scale empirical study.</title>
+<pages>100-109</pages>
+<year>2020</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3341105.3373972</ee>
+<crossref>conf/sac/2020</crossref>
+<url>db/conf/sac/sac2020.html#LemosSPG20</url>
+</inproceedings>
+</r>
+<r><article key="journals/jss/LemosSFG18" mdate="2024-12-24">
+<author pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author orcid="0000-0002-2063-2959" pid="11/8143">F&#225;bio Fagundes Silveira</author>
+<author orcid="0000-0002-7339-8529" pid="48/5007">Fabiano Cutigi Ferrari</author>
+<author pid="g/AlessandroFGarcia">Alessandro Garcia 0001</author>
+<title>The impact of Software Testing education on code reliability: An empirical assessment.</title>
+<pages>497-511</pages>
+<year>2018</year>
+<volume>137</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2017.02.042</ee>
+<url>db/journals/jss/jss137.html#LemosSFG18</url>
+</article>
+</r>
+<r><inproceedings key="conf/scam/SuzukiPGLL17" mdate="2023-03-24">
+<author pid="208/0776">Marcelo Suzuki</author>
+<author pid="139/6640">Adriano Carvalho de Paula</author>
+<author orcid="0000-0001-5555-3487" pid="65/1205">Eduardo Guerra 0001</author>
+<author pid="l/CristinaVideiraLopes">Cristina V. Lopes</author>
+<author pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<title>An Exploratory Study of Functional Redundancy in Code Repositories.</title>
+<pages>31-40</pages>
+<year>2017</year>
+<booktitle>SCAM</booktitle>
+<ee>https://doi.org/10.1109/SCAM.2017.21</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCAM.2017.21</ee>
+<crossref>conf/scam/2017</crossref>
+<url>db/conf/scam/scam2017.html#SuzukiPGLL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scam/PaulaGLSL16" mdate="2023-03-24">
+<author pid="139/6640">Adriano Carvalho de Paula</author>
+<author orcid="0000-0001-5555-3487" pid="65/1205">Eduardo Guerra 0001</author>
+<author pid="l/CristinaVideiraLopes">Cristina V. Lopes</author>
+<author pid="77/10504">Hitesh Sajnani</author>
+<author pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<title>An Exploratory Study of Interface Redundancy in Code Repositories.</title>
+<pages>107-116</pages>
+<year>2016</year>
+<booktitle>SCAM</booktitle>
+<ee>https://doi.org/10.1109/SCAM.2016.31</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCAM.2016.31</ee>
+<crossref>conf/scam/2016</crossref>
+<url>db/conf/scam/scam2016.html#PaulaGLSL16</url>
+</inproceedings>
+</r>
+<r><article key="journals/jbcs/FerrariCLLLMM15" mdate="2024-12-24">
+<author orcid="0000-0002-7339-8529" pid="48/5007">Fabiano Cutigi Ferrari</author>
+<author pid="46/10082">Bruno Barbieri Pontes Cafeo</author>
+<author pid="174/0840">Thiago G. Levin</author>
+<author pid="174/0786">J&#233;sus T. S. Lacerda</author>
+<author pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<author pid="79/216">Paulo C&#233;sar Masiero</author>
+<title>Testing of aspect-oriented programs: difficulties and lessons learned based on theoretical and practical experience.</title>
+<pages>20:1-20:25</pages>
+<year>2015</year>
+<volume>21</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s13173-015-0040-1</ee>
+<ee>https://www.wikidata.org/entity/Q59427558</ee>
+<url>db/journals/jbcs/jbcs21.html#FerrariCLLLMM15</url>
+</article>
+</r>
+<r><inproceedings key="conf/issre/LemosFSG15" mdate="2023-03-24">
+<author pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="48/5007">Fabiano Cutigi Ferrari</author>
+<author orcid="0000-0002-2063-2959" pid="11/8143">F&#225;bio Fagundes Silveira</author>
+<author pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</author>
+<title>Experience report: Can software testing education lead to more reliable code?</title>
+<pages>359-369</pages>
+<year>2015</year>
+<booktitle>ISSRE</booktitle>
+<ee>https://doi.org/10.1109/ISSRE.2015.7381829</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISSRE.2015.7381829</ee>
+<crossref>conf/issre/2015</crossref>
+<url>db/conf/issre/issre2015.html#LemosFSG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scam/LemosPSL15" mdate="2023-03-24">
+<author pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="139/6640">Adriano Carvalho de Paula</author>
+<author pid="77/10504">Hitesh Sajnani</author>
+<author pid="l/CristinaVideiraLopes">Cristina V. Lopes</author>
+<title>Can the use of types and query expansion help improve large-scale code search?</title>
+<pages>41-50</pages>
+<year>2015</year>
+<booktitle>SCAM</booktitle>
+<ee>https://doi.org/10.1109/SCAM.2015.7335400</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCAM.2015.7335400</ee>
+<crossref>conf/scam/2015</crossref>
+<url>db/conf/scam/scam2015.html#LemosPSL15</url>
+</inproceedings>
+</r>
+<r><article key="journals/jucs/LemosPKBOL14" mdate="2021-02-17">
+<author pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="139/6640">Adriano Carvalho de Paula</author>
+<author pid="139/6660">Gustavo Konishi</author>
+<author pid="62/4016">Sushil Krishna Bajracharya</author>
+<author pid="95/4745">Joel Ossher</author>
+<author pid="l/CristinaVideiraLopes">Cristina Videira Lopes</author>
+<title>Thesaurus-Based Tag Clouds for Test-Driven Code Search.</title>
+<pages>772-796</pages>
+<year>2014</year>
+<volume>20</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.3217/jucs-020-05-0772</ee>
+<url>db/journals/jucs/jucs20.html#LemosPKBOL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/msr/LemosPZL14" mdate="2018-11-06">
+<author pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="139/6640">Adriano Carvalho de Paula</author>
+<author pid="144/8319">Felipe Capodifoglio Zanichelli</author>
+<author pid="l/CristinaVideiraLopes">Cristina Videira Lopes</author>
+<title>Thesaurus-based automatic query expansion for interface-driven code search.</title>
+<pages>212-221</pages>
+<year>2014</year>
+<booktitle>MSR</booktitle>
+<ee>https://doi.org/10.1145/2597073.2597087</ee>
+<crossref>conf/msr/2014</crossref>
+<url>db/conf/msr/msr2014.html#LemosPZL14</url>
+</inproceedings>
+</r>
+<r><article key="journals/jss/KuleszaSCCBLMSFACFPDPSCBLLMBBCSSSVACRPR13" mdate="2025-03-03">
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author orcid="0000-0002-4428-2535" pid="58/232">S&#233;rgio Soares</author>
+<author orcid="0000-0001-5172-9641" pid="c/ChristinavonFlachGChavez">Christina Chavez</author>
+<author orcid="0000-0002-6389-3630" pid="f/FCFilho">Fernando Castor</author>
+<author orcid="0000-0002-0381-2843" pid="b/PauloBorba">Paulo Borba</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<author pid="79/216">Paulo C&#233;sar Masiero</author>
+<author pid="64/4218">Cl&#225;udio Sant'Anna</author>
+<author orcid="0000-0002-7339-8529" pid="48/5007">Fabiano Cutigi Ferrari</author>
+<author orcid="0000-0003-1573-048X" pid="15/5448">Vander Alves</author>
+<author pid="61/561">Roberta Coelho</author>
+<author pid="03/335">Eduardo Figueiredo 0001</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0002-0092-4495" pid="93/1270">Eduardo Piveta</author>
+<author pid="06/4462">Carla T. L. L. Silva</author>
+<author pid="37/1266">Valter Vieira de Camargo</author>
+<author orcid="0000-0003-4259-0785" pid="07/4304">Rosana T. V. Braga</author>
+<author pid="l/JCSdoPradoLeite">Julio Leite</author>
+<author orcid="0000-0001-6481-5311" pid="80/3784">Ot&#225;vio Lemos</author>
+<author orcid="0000-0002-2972-9423" pid="79/4708">Nabor C. Mendon&#231;a</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author orcid="0000-0002-2380-2829" pid="21/824">Rodrigo Bonif&#225;cio</author>
+<author orcid="0000-0002-4706-5616" pid="39/2172">N&#233;lio Cacho</author>
+<author orcid="0000-0003-1772-6062" pid="f/LyreneFernandesdS">Lyrene Fernandes da Silva</author>
+<author pid="58/3312">Arndt von Staa</author>
+<author pid="11/8143">F&#225;bio Fagundes Silveira</author>
+<author orcid="0000-0002-8180-7548" pid="o/MarcoTuliodeOliveiraValente">Marco T&#250;lio Valente</author>
+<author orcid="0000-0002-7988-7008" pid="31/5316">Fernanda M. R. Alencar</author>
+<author orcid="0000-0002-4635-7297" pid="c/JBdCastro">Jaelson Castro</author>
+<author orcid="0000-0002-9688-719X" pid="17/200">Ricardo Argenton Ramos</author>
+<author pid="p/RosangelaPenteado">Ros&#226;ngela A. D. Penteado</author>
+<author orcid="0000-0003-4549-7105" pid="80/5752">Cec&#237;lia M. F. Rubira</author>
+<title>The crosscutting impact of the AOSD Brazilian research community.</title>
+<pages>905-933</pages>
+<year>2013</year>
+<volume>86</volume>
+<journal>J. Syst. Softw.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.jss.2012.08.031</ee>
+<ee>https://www.wikidata.org/entity/Q57495904</ee>
+<url>db/journals/jss/jss86.html#KuleszaSCCBLMSFACFPDPSCBLLMBBCSSSVACRPR13</url>
+</article>
+</r>
+<r><article key="journals/jss/LemosFEMM13" mdate="2024-12-24">
+<author orcid="0000-0001-6481-5311" pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author orcid="0000-0002-7339-8529" pid="48/5007">Fabiano Cutigi Ferrari</author>
+<author orcid="0000-0001-5872-0607" pid="89/6957">Marcelo Medeiros Eler</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<author pid="79/216">Paulo C&#233;sar Masiero</author>
+<title>Evaluation studies of software testing research in Brazil and in the world: A survey of two premier software engineering conferences.</title>
+<pages>951-969</pages>
+<year>2013</year>
+<volume>86</volume>
+<journal>J. Syst. Softw.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.jss.2012.11.040</ee>
+<url>db/journals/jss/jss86.html#LemosFEMM13</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbcars/LemosPKOBL13" mdate="2023-03-23">
+<author pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="139/6640">Adriano Carvalho de Paula</author>
+<author pid="139/6660">Gustavo Konishi</author>
+<author pid="95/4745">Joel Ossher</author>
+<author pid="62/4016">Sushil Krishna Bajracharya</author>
+<author pid="l/CristinaVideiraLopes">Cristina Videira Lopes</author>
+<title>Using Thesaurus-Based Tag Clouds to Improve Test-Driven Code Search.</title>
+<pages>99-108</pages>
+<year>2013</year>
+<booktitle>SBCARS</booktitle>
+<ee>https://doi.org/10.1109/SBCARS.2013.21</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBCARS.2013.21</ee>
+<crossref>conf/sbcars/2013</crossref>
+<url>db/conf/sbcars/sbcars2013.html#LemosPKOBL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/LemosZRFG13" mdate="2024-06-26">
+<author pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="144/8319">Felipe Capodifoglio Zanichelli</author>
+<author pid="144/8262">Robson Rigatto</author>
+<author pid="48/5007">Fabiano Cutigi Ferrari</author>
+<author pid="244/6021-1">Sudipto Ghosh 0001</author>
+<title>Visualization, Analysis, and Testing of Java and AspectJ Programs with Multi-level System Graphs.</title>
+<pages>49-58</pages>
+<year>2013</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1109/SBES.2013.7</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBES.2013.7</ee>
+<crossref>conf/sbes/2013</crossref>
+<url>db/conf/sbes/sbes2013.html#LemosZRFG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/LemosFSG12" mdate="2023-03-23">
+<author orcid="0000-0001-6481-5311" pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="48/5007">Fabiano Cutigi Ferrari</author>
+<author orcid="0000-0002-2063-2959" pid="11/8143">F&#225;bio Fagundes Silveira</author>
+<author pid="g/AlessandroFGarcia">Alessandro Garcia 0001</author>
+<title>Development of auxiliary functions: Should you be agile? An empirical assessment of pair programming and test-first programming.</title>
+<pages>529-539</pages>
+<year>2012</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE.2012.6227163</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICSE.2012.6227163</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2337285</ee>
+<crossref>conf/icse/2012</crossref>
+<url>db/conf/icse/icse2012.html#LemosFSG12</url>
+</inproceedings>
+</r>
+<r><article key="journals/infsof/LemosBOML11" mdate="2022-08-18">
+<author orcid="0000-0001-6481-5311" pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="62/4016">Sushil Krishna Bajracharya</author>
+<author pid="95/4745">Joel Ossher</author>
+<author pid="79/216">Paulo C&#233;sar Masiero</author>
+<author pid="l/CristinaVideiraLopes">Cristina Videira Lopes</author>
+<title>A test-driven approach to code search and its application to the reuse of auxiliary functionality.</title>
+<pages>294-306</pages>
+<year>2011</year>
+<volume>53</volume>
+<journal>Inf. Softw. Technol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.infsof.2010.11.009</ee>
+<url>db/journals/infsof/infsof53.html#LemosBOML11</url>
+</article>
+</r>
+<r><article key="journals/isci/LemosM11" mdate="2022-08-18">
+<author orcid="0000-0001-6481-5311" pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="79/216">Paulo C&#233;sar Masiero</author>
+<title>A pointcut-based coverage analysis approach for aspect-oriented programs.</title>
+<pages>2721-2746</pages>
+<year>2011</year>
+<volume>181</volume>
+<journal>Inf. Sci.</journal>
+<number>13</number>
+<ee>https://doi.org/10.1016/j.ins.2010.06.003</ee>
+<url>db/journals/isci/isci181.html#LemosM11</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbes/LemosFEMM11" mdate="2023-03-24">
+<author orcid="0000-0001-6481-5311" pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="48/5007">Fabiano Cutigi Ferrari</author>
+<author orcid="0000-0001-5872-0607" pid="89/6957">Marcelo Medeiros Eler</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<author pid="79/216">Paulo C&#233;sar Masiero</author>
+<title>Evaluation Studies of Software Testing Research in the Brazilian Symposium on Software Engineering.</title>
+<pages>56-65</pages>
+<year>2011</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1109/SBES.2011.30</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBES.2011.30</ee>
+<crossref>conf/sbes/2011</crossref>
+<url>db/conf/sbes/sbes2011.html#LemosFEMM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/ChavezKSBLMSPFCCSAMFCSPBCSLSLPDBVRBAC11" mdate="2025-03-03">
+<author orcid="0000-0001-5172-9641" pid="c/ChristinavonFlachGChavez">Christina Chavez</author>
+<author pid="78/6010">Uir&#225; Kulesza</author>
+<author orcid="0000-0002-4428-2535" pid="58/232">S&#233;rgio Soares</author>
+<author orcid="0000-0002-0381-2843" pid="b/PauloBorba">Paulo Borba</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<author pid="79/216">Paulo C&#233;sar Masiero</author>
+<author pid="64/4218">Cl&#225;udio Sant'Anna</author>
+<author orcid="0000-0002-0092-4495" pid="93/1270">Eduardo Piveta</author>
+<author pid="48/5007">Fabiano Cutigi Ferrari</author>
+<author orcid="0000-0002-6389-3630" pid="f/FCFilho">Fernando Castor</author>
+<author pid="61/561">Roberta Coelho</author>
+<author orcid="0000-0003-1772-6062" pid="f/LyreneFernandesdS">Lyrene Fernandes da Silva</author>
+<author orcid="0000-0003-1573-048X" pid="15/5448">Vander Alves</author>
+<author orcid="0000-0002-2972-9423" pid="79/4708">Nabor C. Mendon&#231;a</author>
+<author pid="03/335">Eduardo Figueiredo 0001</author>
+<author pid="37/1266">Valter Vieira de Camargo</author>
+<author pid="06/4462">Carla T. L. L. Silva</author>
+<author orcid="0000-0001-5064-4793" pid="69/1904">Paulo F. Pires</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author orcid="0000-0002-4706-5616" pid="39/2172">N&#233;lio Cacho</author>
+<author pid="58/3312">Arndt von Staa</author>
+<author orcid="0000-0002-0355-0265" pid="l/JCSdoPradoLeite">Julio C&#233;sar Sampaio do Prado Leite</author>
+<author pid="11/8143">F&#225;bio Fagundes Silveira</author>
+<author orcid="0000-0001-6481-5311" pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="p/RosangelaPenteado">Ros&#226;ngela A. D. Penteado</author>
+<author pid="88/4289">Fl&#225;via Coimbra Delicato</author>
+<author orcid="0000-0003-4259-0785" pid="07/4304">Rosana T. V. Braga</author>
+<author orcid="0000-0002-8180-7548" pid="o/MarcoTuliodeOliveiraValente">Marco T&#250;lio Valente</author>
+<author orcid="0000-0002-9688-719X" pid="17/200">Ricardo Argenton Ramos</author>
+<author orcid="0000-0002-2380-2829" pid="21/824">Rodrigo Bonif&#225;cio</author>
+<author orcid="0000-0002-7988-7008" pid="31/5316">Fernanda M. R. Alencar</author>
+<author orcid="0000-0002-4635-7297" pid="c/JBdCastro">Jaelson Castro</author>
+<title>The AOSD Research Community in Brazil and Its Crosscutting Impact.</title>
+<pages>72-81</pages>
+<year>2011</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1109/SBES.2011.10</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBES.2011.10</ee>
+<ee>https://www.wikidata.org/entity/Q57495937</ee>
+<crossref>conf/sbes/2011</crossref>
+<url>db/conf/sbes/sbes2011.html#ChavezKSBLMSPFCCSAMFCSPBCSLSLPDBVRBAC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/FerrariBLGFCLTSSRMBM10" mdate="2022-08-18">
+<author pid="48/5007">Fabiano Cutigi Ferrari</author>
+<author pid="71/8164">Rachel Burrows</author>
+<author orcid="0000-0001-6481-5311" pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="g/AlessandroFGarcia">Alessandro Garcia 0001</author>
+<author pid="03/335">Eduardo Figueiredo 0001</author>
+<author orcid="0000-0002-4706-5616" pid="39/2172">N&#233;lio Cacho</author>
+<author orcid="0000-0002-1108-8875" pid="39/1923">Frederico Lopes</author>
+<author pid="35/8164">Nathalia Temudo</author>
+<author pid="57/5268">Liana Silva</author>
+<author orcid="0000-0002-4428-2535" pid="58/232">S&#233;rgio Soares</author>
+<author orcid="0000-0002-0109-1341" pid="26/3330">Awais Rashid</author>
+<author pid="79/216">Paulo C&#233;sar Masiero</author>
+<author orcid="0000-0003-3558-1450" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<title>An exploratory study of fault-proneness in evolving aspect-oriented programs.</title>
+<pages>65-74</pages>
+<year>2010</year>
+<booktitle>ICSE (1)</booktitle>
+<ee>https://doi.org/10.1145/1806799.1806813</ee>
+<crossref>conf/icse/2010-1</crossref>
+<url>db/conf/icse/icse2010-1.html#FerrariBLGFCLTSSRMBM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issre/BurrowsFLGT10" mdate="2023-03-24">
+<author pid="71/8164">Rachel Burrows</author>
+<author pid="48/5007">Fabiano Cutigi Ferrari</author>
+<author orcid="0000-0001-6481-5311" pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="g/AlessandroFGarcia">Alessandro Garcia 0001</author>
+<author orcid="0000-0002-9692-5678" pid="97/1881">Fran&#231;ois Ta&#239;ani</author>
+<title>The Impact of Coupling on the Fault-Proneness of Aspect-Oriented Programs: An Empirical Study.</title>
+<pages>329-338</pages>
+<year>2010</year>
+<booktitle>ISSRE</booktitle>
+<ee>https://doi.org/10.1109/ISSRE.2010.33</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISSRE.2010.33</ee>
+<crossref>conf/issre/2010</crossref>
+<url>db/conf/issre/issre2010.html#BurrowsFLGT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/FerrariBLGM10" mdate="2023-03-24">
+<author pid="48/5007">Fabiano Cutigi Ferrari</author>
+<author pid="71/8164">Rachel Burrows</author>
+<author orcid="0000-0001-6481-5311" pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<title>Characterising Faults in Aspect-Oriented Programs: Towards Filling the Gap Between Theory and Practice.</title>
+<pages>50-59</pages>
+<year>2010</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1109/SBES.2010.11</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBES.2010.11</ee>
+<crossref>conf/sbes/2010</crossref>
+<url>db/conf/sbes/sbes2010.html#FerrariBLGM10</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ndltd/Lemos09" mdate="2017-08-09">
+<author pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<title>Structural integration testing of aspect-oriented programs: a pointcut-based approach for AspectJ.</title>
+<year>2009</year>
+<school>University of S&#227;o Paulo, Brazil</school>
+<ee>http://www.teses.usp.br/teses/disponiveis/55/55134/tde-20052009-095641/</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:agregador.ibict.br.BDTD_USP:oai:teses.usp.br:tde-20052009-095641</ee>
+<note type="source">ndltd.org (oai:agregador.ibict.br.BDTD_USP:oai:teses.usp.br:tde-20052009-095641)</note>
+</phdthesis>
+</r>
+<r><article key="journals/scp/LemosFM09" mdate="2022-08-18">
+<author orcid="0000-0001-6481-5311" pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="22/7420">Ivan Gustavo Franchin</author>
+<author pid="79/216">Paulo C&#233;sar Masiero</author>
+<title>Integration testing of Object-Oriented and Aspect-Oriented programs: A structural pairwise approach for Java.</title>
+<pages>861-878</pages>
+<year>2009</year>
+<volume>74</volume>
+<journal>Sci. Comput. Program.</journal>
+<number>10</number>
+<ee type="oa">https://doi.org/10.1016/j.scico.2009.05.001</ee>
+<url>db/journals/scp/scp74.html#LemosFM09</url>
+</article>
+</r>
+<r><inproceedings key="conf/sac/LemosBOML09" mdate="2022-08-18">
+<author orcid="0000-0001-6481-5311" pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="62/4016">Sushil Krishna Bajracharya</author>
+<author pid="95/4745">Joel Ossher</author>
+<author pid="79/216">Paulo C&#233;sar Masiero</author>
+<author pid="l/CristinaVideiraLopes">Cristina Videira Lopes</author>
+<title>Applying test-driven code search to the reuse of auxiliary functionality.</title>
+<pages>476-482</pages>
+<year>2009</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1529282.1529384</ee>
+<crossref>conf/sac/2009</crossref>
+<url>db/conf/sac/sac2009.html#LemosBOML09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/LemosM08" mdate="2024-01-08">
+<author pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="79/216">Paulo C&#233;sar Masiero</author>
+<title>Integration Testing of Aspect-Oriented Programs: a Structural Pointcut-Based Approach.</title>
+<pages>49-64</pages>
+<year>2008</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2008.21323</ee>
+<crossref>conf/sbes/2008</crossref>
+<url>db/conf/sbes/sbes2008.html#LemosM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sew/LemosM08" mdate="2023-03-24">
+<author orcid="0000-0001-6481-5311" pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="79/216">Paulo C&#233;sar Masiero</author>
+<title>Using Structural Testing to Identify Unintended Join Points Selected by Pointcuts in Aspect-Oriented Programs.</title>
+<pages>84-93</pages>
+<year>2008</year>
+<booktitle>SEW</booktitle>
+<ee>https://doi.org/10.1109/SEW.2008.11</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SEW.2008.11</ee>
+<crossref>conf/sew/2008</crossref>
+<url>db/conf/sew/sew2008.html#LemosM08</url>
+</inproceedings>
+</r>
+<r><article key="journals/jss/LemosVMM07" mdate="2022-08-18">
+<author orcid="0000-0001-6481-5311" pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author orcid="0000-0001-5902-1672" pid="05/4141">Auri Marcelo Rizzo Vincenzi</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<author pid="79/216">Paulo C&#233;sar Masiero</author>
+<title>Control and data flow structural testing criteria for aspect-oriented programs.</title>
+<pages>862-882</pages>
+<year>2007</year>
+<volume>80</volume>
+<journal>J. Syst. Softw.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/j.jss.2006.08.022</ee>
+<url>db/journals/jss/jss80.html#LemosVMM07</url>
+</article>
+</r>
+<r><inproceedings key="conf/aosd/ReLM07" mdate="2022-08-18">
+<author orcid="0000-0001-6452-3466" pid="121/2210">Reginaldo R&#233;</author>
+<author orcid="0000-0001-6481-5311" pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="79/216">Paulo C&#233;sar Masiero</author>
+<title>Minimizing stub creation during integration test of aspect-oriented programs.</title>
+<pages>1-6</pages>
+<year>2007</year>
+<booktitle>WTAOP@AOSD</booktitle>
+<ee>https://doi.org/10.1145/1229384.1229385</ee>
+<crossref>conf/aosd/2007wtaop</crossref>
+<url>db/conf/aosd/wtaop2007.html#ReLM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/LemosBOMMBL07" mdate="2022-08-18">
+<author orcid="0000-0001-6481-5311" pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="62/4016">Sushil Krishna Bajracharya</author>
+<author pid="95/4745">Joel Ossher</author>
+<author orcid="0000-0002-5162-3019" pid="65/3466">Ricardo Santos Morla</author>
+<author pid="79/216">Paulo C&#233;sar Masiero</author>
+<author pid="54/1564">Pierre Baldi</author>
+<author pid="l/CristinaVideiraLopes">Cristina Videira Lopes</author>
+<title>CodeGenie: using test-cases to search and reuse source code.</title>
+<pages>525-526</pages>
+<year>2007</year>
+<crossref>conf/kbse/2007</crossref>
+<booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/1321631.1321726</ee>
+<url>db/conf/kbse/ase2007.html#LemosBOMMBL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/LemosBO07" mdate="2018-11-06">
+<author orcid="0000-0001-6481-5311" pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="62/4016">Sushil Krishna Bajracharya</author>
+<author pid="95/4745">Joel Ossher</author>
+<title>CodeGenie: : a tool for test-driven source code search.</title>
+<pages>917-918</pages>
+<year>2007</year>
+<crossref>conf/oopsla/2007c</crossref>
+<booktitle>OOPSLA Companion</booktitle>
+<ee>https://doi.org/10.1145/1297846.1297944</ee>
+<url>db/conf/oopsla/oopsla2007c.html#LemosBO07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/DelamaroNLMSMV07" mdate="2024-01-08">
+<author pid="84/3153">M&#225;rcio E. Delamaro</author>
+<author pid="141/0652">Paulo Augusto Nardi</author>
+<author pid="80/3784">Ot&#225;vio Lemos</author>
+<author pid="79/216">Paulo C&#233;sar Masiero</author>
+<author pid="24/3056">Edmundo S&#233;rgio Spoto</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<author pid="05/4141">Auri M. R. Vincenzi</author>
+<title>Static Analysis of Java Bytecode for Domain-specific Software Testing.</title>
+<pages>325-341</pages>
+<year>2007</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2007.21314</ee>
+<crossref>conf/sbes/2007</crossref>
+<url>db/conf/sbes/sbes2007.html#DelamaroNLMSMV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/FranchinLM07" mdate="2024-01-08">
+<author pid="22/7420">Ivan Gustavo Franchin</author>
+<author pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="79/216">Paulo C&#233;sar Masiero</author>
+<title>Pairwise structural testing of object and aspect-oriented Java programs.</title>
+<pages>377-393</pages>
+<year>2007</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2007.21317</ee>
+<crossref>conf/sbes/2007</crossref>
+<url>db/conf/sbes/sbes2007.html#FranchinLM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issta/LemosFML06" mdate="2022-08-18">
+<author orcid="0000-0001-6481-5311" pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="48/5007">Fabiano Cutigi Ferrari</author>
+<author pid="79/216">Paulo C&#233;sar Masiero</author>
+<author pid="l/CristinaVideiraLopes">Cristina Videira Lopes</author>
+<title>Testing aspect-oriented programming Pointcut Descriptors.</title>
+<pages>33-38</pages>
+<year>2006</year>
+<booktitle>WTAOP</booktitle>
+<ee>https://doi.org/10.1145/1146374.1146380</ee>
+<crossref>conf/issta/2006w</crossref>
+<url>db/conf/issta/wtaop2006.html#LemosFML06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigdoc/LemosJSFS06" mdate="2018-11-06">
+<author pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="14/2576">Daniel Carnio Junqueira</author>
+<author orcid="0000-0002-1737-8240" pid="26/693">Marco Aur&#233;lio Graciotto Silva</author>
+<author orcid="0000-0001-9994-8923" pid="48/6369">Renata Pontin de Mattos Fortes</author>
+<author pid="26/2503">John W. Stamey</author>
+<title>Using aspect-oriented PHP to implement crosscutting concerns in a collaborative web system.</title>
+<pages>134-141</pages>
+<year>2006</year>
+<crossref>conf/sigdoc/2006</crossref>
+<booktitle>SIGDOC</booktitle>
+<ee>https://doi.org/10.1145/1166324.1166358</ee>
+<url>db/conf/sigdoc/sigdoc2006.html#LemosJSFS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/LemosVMM04" mdate="2024-01-08">
+<author pid="80/3784">Ot&#225;vio Augusto Lazzarini Lemos</author>
+<author pid="05/4141">Auri Marcelo Rizzo Vincenzi</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<author pid="79/216">Paulo C&#233;sar Masiero</author>
+<title>Teste de Unidade de Programas Orientados a Aspectos.</title>
+<pages>55-70</pages>
+<year>2004</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2004.23833</ee>
+<crossref>conf/sbes/2004</crossref>
+<url>db/conf/sbes/sbes2004.html#LemosVMM04</url>
+</inproceedings>
+</r>
+<coauthors n="69" nc="1">
+<co c="0"><na f="a/Alencar:Fernanda_M=_R=" pid="31/5316">Fernanda M. R. Alencar</na></co>
+<co c="0"><na f="a/Alves:Vander" pid="15/5448">Vander Alves</na></co>
+<co c="0"><na f="b/Bajracharya:Sushil_Krishna" pid="62/4016">Sushil Krishna Bajracharya</na></co>
+<co c="0"><na f="b/Baldi:Pierre" pid="54/1564">Pierre Baldi</na></co>
+<co c="0"><na f="b/Batista:Tha=iacute=s_Vasconcelos" pid="b/TVBatista">Tha&#237;s Vasconcelos Batista</na></co>
+<co c="0"><na f="b/Bonif=aacute=cio:Rodrigo" pid="21/824">Rodrigo Bonif&#225;cio</na></co>
+<co c="0"><na f="b/Borba:Paulo" pid="b/PauloBorba">Paulo Borba</na></co>
+<co c="0"><na f="b/Braga:Rosana_T=_V=" pid="07/4304">Rosana T. V. Braga</na></co>
+<co c="0"><na f="b/Burrows:Rachel" pid="71/8164">Rachel Burrows</na></co>
+<co c="0"><na f="c/Cacho:N=eacute=lio" pid="39/2172">N&#233;lio Cacho</na></co>
+<co c="0" n="2"><na f="c/Cafeo:Bruno_B=_P=" pid="46/10082">Bruno B. P. Cafeo</na><na>Bruno Barbieri Pontes Cafeo</na></co>
+<co c="0"><na f="c/Camargo:Valter_Vieira_de" pid="37/1266">Valter Vieira de Camargo</na></co>
+<co c="0" n="2"><na f="c/Castro:Jaelson_Brelaz_de" pid="c/JBdCastro">Jaelson Brelaz de Castro</na><na>Jaelson Castro</na></co>
+<co c="0" n="2"><na f="c/Chavez:Christina_von_Flach_G=" pid="c/ChristinavonFlachGChavez">Christina von Flach G. Chavez</na><na>Christina Chavez</na></co>
+<co c="0"><na f="c/Coelho:Roberta" pid="61/561">Roberta Coelho</na></co>
+<co c="0" n="2"><na f="d/Delamaro:M=aacute=rcio_Eduardo" pid="84/3153">M&#225;rcio Eduardo Delamaro</na><na>M&#225;rcio E. Delamaro</na></co>
+<co c="0"><na f="d/Delicato:Fl=aacute=via_Coimbra" pid="88/4289">Fl&#225;via Coimbra Delicato</na></co>
+<co c="0"><na f="e/Eler:Marcelo_Medeiros" pid="89/6957">Marcelo Medeiros Eler</na></co>
+<co c="0"><na f="f/Ferrari:Fabiano_Cutigi" pid="48/5007">Fabiano Cutigi Ferrari</na></co>
+<co c="0"><na f="f/Figueiredo_0001:Eduardo" pid="03/335">Eduardo Figueiredo 0001</na></co>
+<co c="0" n="2"><na f="f/Filho:Fernando_Castor" pid="f/FCFilho">Fernando Castor Filho</na><na>Fernando Castor</na></co>
+<co c="0"><na f="f/Fortes:Renata_Pontin_de_Mattos" pid="48/6369">Renata Pontin de Mattos Fortes</na></co>
+<co c="0"><na f="f/Franchin:Ivan_Gustavo" pid="22/7420">Ivan Gustavo Franchin</na></co>
+<co c="0" n="2"><na f="g/Garcia_0001:Alessandro_F=" pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</na><na>Alessandro Garcia 0001</na></co>
+<co c="0"><na f="g/Ghosh_0001:Sudipto" pid="244/6021-1">Sudipto Ghosh 0001</na></co>
+<co c="0"><na f="g/Goes:Claire_Le" pid="262/0705">Claire Le Goes</na></co>
+<co c="0"><na f="g/Guerra_0001:Eduardo" pid="65/1205">Eduardo Guerra 0001</na></co>
+<co c="0"><na f="j/Junqueira:Daniel_Carnio" pid="14/2576">Daniel Carnio Junqueira</na></co>
+<co c="0"><na f="k/Konishi:Gustavo" pid="139/6660">Gustavo Konishi</na></co>
+<co c="0"><na f="k/Kulesza:Uir=aacute=" pid="78/6010">Uir&#225; Kulesza</na></co>
+<co c="0"><na f="l/Lacerda:J=eacute=sus_T=_S=" pid="174/0786">J&#233;sus T. S. Lacerda</na></co>
+<co c="0" n="2"><na f="l/Leite:Julio_C=eacute=sar_Sampaio_do_Prado" pid="l/JCSdoPradoLeite">Julio C&#233;sar Sampaio do Prado Leite</na><na>Julio Leite</na></co>
+<co c="0"><na f="l/Levin:Thiago_G=" pid="174/0840">Thiago G. Levin</na></co>
+<co c="0" n="2"><na f="l/Lopes:Cristina_V=" pid="l/CristinaVideiraLopes">Cristina V. Lopes</na><na>Cristina Videira Lopes</na></co>
+<co c="0"><na f="l/Lopes:Frederico" pid="39/1923">Frederico Lopes</na></co>
+<co c="0"><na f="l/Lucena:Carlos_Jos=eacute=_Pereira_de" pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</na></co>
+<co c="0"><na f="m/Maldonado:Jos=eacute=_Carlos" pid="28/2292">Jos&#233; Carlos Maldonado</na></co>
+<co c="0"><na f="m/Masiero:Paulo_C=eacute=sar" pid="79/216">Paulo C&#233;sar Masiero</na></co>
+<co c="0" n="2"><na f="m/Mendon=ccedil=a:Nabor_das_Chagas" pid="79/4708">Nabor das Chagas Mendon&#231;a</na><na>Nabor C. Mendon&#231;a</na></co>
+<co c="0" n="2"><na f="m/Morla:Ricardo" pid="65/3466">Ricardo Morla</na><na>Ricardo Santos Morla</na></co>
+<co c="0"><na f="n/Nardi:Paulo_Augusto" pid="141/0652">Paulo Augusto Nardi</na></co>
+<co c="0"><na f="o/Ossher:Joel" pid="95/4745">Joel Ossher</na></co>
+<co c="0"><na f="p/Paula:Adriano_Carvalho_de" pid="139/6640">Adriano Carvalho de Paula</na></co>
+<co c="0"><na f="p/Penteado:Ros=acirc=ngela_A=_D=" pid="p/RosangelaPenteado">Ros&#226;ngela A. D. Penteado</na></co>
+<co c="0"><na f="p/Pires:Paulo_F=" pid="69/1904">Paulo F. Pires</na></co>
+<co c="0"><na f="p/Piveta:Eduardo" pid="93/1270">Eduardo Piveta</na></co>
+<co c="0"><na f="r/Ramos:Ricardo_Argenton" pid="17/200">Ricardo Argenton Ramos</na></co>
+<co c="0"><na f="r/Rashid:Awais" pid="26/3330">Awais Rashid</na></co>
+<co c="0"><na f="r/R=eacute=:Reginaldo" pid="121/2210">Reginaldo R&#233;</na></co>
+<co c="0"><na f="r/Rigatto:Robson" pid="144/8262">Robson Rigatto</na></co>
+<co c="0"><na f="r/Rubira:Cec=iacute=lia_M=_F=" pid="80/5752">Cec&#237;lia M. F. Rubira</na></co>
+<co c="0"><na f="s/Sajnani:Hitesh" pid="77/10504">Hitesh Sajnani</na></co>
+<co c="0"><na f="s/Sant=Anna:Cl=aacute=udio" pid="64/4218">Cl&#225;udio Sant'Anna</na></co>
+<co c="0"><na f="s/Silva:Carla_T=_L=_L=" pid="06/4462">Carla T. L. L. Silva</na></co>
+<co c="0"><na f="s/Silva:Liana" pid="57/5268">Liana Silva</na></co>
+<co c="0"><na f="s/Silva:Lyrene_Fernandes_da" pid="f/LyreneFernandesdS">Lyrene Fernandes da Silva</na></co>
+<co c="0"><na f="s/Silva:Marco_Aur=eacute=lio_Graciotto" pid="26/693">Marco Aur&#233;lio Graciotto Silva</na></co>
+<co c="0"><na f="s/Silva:Tiago_Silva_da" pid="78/3343">Tiago Silva da Silva</na></co>
+<co c="0" n="2"><na f="s/Silveira:F=aacute=bio_Fagundes" pid="11/8143">F&#225;bio Fagundes Silveira</na><na>F&#225;bio F. Silveira</na></co>
+<co c="0"><na f="s/Soares:S=eacute=rgio" pid="58/232">S&#233;rgio Soares</na></co>
+<co c="0"><na f="s/Spoto:Edmundo_S=eacute=rgio" pid="24/3056">Edmundo S&#233;rgio Spoto</na></co>
+<co c="0"><na f="s/Staa:Arndt_von" pid="58/3312">Arndt von Staa</na></co>
+<co c="0" n="2"><na f="s/Stamey_Jr=:John_W=" pid="26/2503">John W. Stamey Jr.</na><na>John W. Stamey</na></co>
+<co c="0"><na f="s/Suzuki:Marcelo" pid="208/0776">Marcelo Suzuki</na></co>
+<co c="0"><na f="t/Ta=iuml=ani:Fran=ccedil=ois" pid="97/1881">Fran&#231;ois Ta&#239;ani</na></co>
+<co c="0"><na f="t/Temudo:Nathalia" pid="35/8164">Nathalia Temudo</na></co>
+<co c="0"><na f="v/Valente:Marco_T=uacute=lio" pid="o/MarcoTuliodeOliveiraValente">Marco T&#250;lio Valente</na></co>
+<co c="0" n="2"><na f="v/Vincenzi:Auri_M=_R=" pid="05/4141">Auri M. R. Vincenzi</na><na>Auri Marcelo Rizzo Vincenzi</na></co>
+<co c="0"><na f="z/Zanichelli:Felipe_Capodifoglio" pid="144/8319">Felipe Capodifoglio Zanichelli</na></co>
+</coauthors>
+</dblpperson>
+

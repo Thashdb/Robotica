@@ -1,0 +1,428 @@
+<?xml version="1.0"?>
+<dblpperson name="Ricardo Fabbri" pid="74/6892" n="25">
+<person key="homepages/74/6892" mdate="2009-06-10">
+<author pid="74/6892">Ricardo Fabbri</author>
+</person>
+<r><inproceedings key="conf/wacv/ZhengCFK25" mdate="2025-04-23">
+<author pid="123/7102">Yilin Zheng</author>
+<author pid="192/6994">Chiang-Heng Chien</author>
+<author pid="74/6892">Ricardo Fabbri</author>
+<author pid="90/2917">Benjamin B. Kimia</author>
+<title>3D Edge Sketch from Multiview Images.</title>
+<pages>3196-3205</pages>
+<year>2025</year>
+<booktitle>WACV</booktitle>
+<ee>https://doi.org/10.1109/WACV61041.2025.00316</ee>
+<crossref>conf/wacv/2025</crossref>
+<url>db/conf/wacv/wacv2025.html#ZhengCFK25</url>
+</inproceedings>
+</r>
+<r><article key="journals/pami/FabbriDFRPTWHGKLP23" mdate="2023-11-12">
+<author orcid="0000-0001-7949-6309" pid="74/6892">Ricardo Fabbri</author>
+<author orcid="0000-0003-2065-6309" pid="186/8372">Timothy Duff</author>
+<author pid="226/3332">Hongyi Fan</author>
+<author orcid="0000-0003-0880-7768" pid="218/4706">Margaret H. Regan</author>
+<author orcid="0000-0003-1399-3200" pid="238/0547">David da Costa de Pinho</author>
+<author pid="77/4694">Elias P. Tsigaridas</author>
+<author orcid="0000-0002-9790-1600" pid="85/2653">Charles W. Wampler</author>
+<author orcid="0000-0002-9252-8210" pid="59/8717">Jonathan D. Hauenstein</author>
+<author pid="59/1833">Peter J. Giblin</author>
+<author pid="90/2917">Benjamin B. Kimia</author>
+<author orcid="0000-0002-9216-3514" pid="80/3926">Anton Leykin</author>
+<author pid="p/TomasPajdla">Tom&#225;s Pajdla</author>
+<title>Trifocal Relative Pose From Lines at Points.</title>
+<pages>7870-7884</pages>
+<year>2023</year>
+<month>June</month>
+<volume>45</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TPAMI.2022.3226165</ee>
+<ee>https://www.wikidata.org/entity/Q115996783</ee>
+<url>db/journals/pami/pami45.html#FabbriDFRPTWHGKLP23</url>
+</article>
+</r>
+<r><article key="journals/gandc/PereiraVFBPS21" mdate="2024-10-06">
+<author orcid="0000-0003-0701-9946" pid="286/8837">Henrique P. P. Pereira</author>
+<author orcid="0000-0002-9980-971X" pid="254/5850">Nelson Violante-Carvalho</author>
+<author pid="74/6892">Ricardo Fabbri</author>
+<author pid="286/8798">Alex Babanin</author>
+<author pid="286/8073">Uggo Pinho</author>
+<author pid="18/8056">Alex Skvortsov</author>
+<title>An algorithm for tracking drifters dispersion induced by wave turbulence using optical cameras.</title>
+<pages>104654</pages>
+<year>2021</year>
+<volume>148</volume>
+<journal>Comput. Geosci.</journal>
+<ee>https://doi.org/10.1016/j.cageo.2020.104654</ee>
+<url>db/journals/gandc/gandc148.html#PereiraVFBPS21</url>
+</article>
+</r>
+<r><article key="journals/pami/FabbriGK21" mdate="2022-03-16">
+<author orcid="0000-0001-7949-6309" pid="74/6892">Ricardo Fabbri</author>
+<author pid="59/1833">Peter J. Giblin</author>
+<author pid="90/2917">Benjamin B. Kimia</author>
+<title>Camera Pose Estimation Using First-Order Curve Differential Geometry.</title>
+<pages>3321-3332</pages>
+<year>2021</year>
+<volume>43</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TPAMI.2020.2985310</ee>
+<ee>https://www.wikidata.org/entity/Q91804945</ee>
+<url>db/journals/pami/pami43.html#FabbriGK21</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/FabbriDFRPTWHGK20" mdate="2024-02-05">
+<author pid="74/6892">Ricardo Fabbri</author>
+<author orcid="0000-0003-2065-6309" pid="186/8372">Timothy Duff</author>
+<author pid="226/3332">Hongyi Fan</author>
+<author orcid="0000-0003-0880-7768" pid="218/4706">Margaret H. Regan</author>
+<author pid="238/0547">David da Costa de Pinho</author>
+<author pid="77/4694">Elias P. Tsigaridas</author>
+<author orcid="0000-0002-9790-1600" pid="85/2653">Charles W. Wampler</author>
+<author pid="59/8717">Jonathan D. Hauenstein</author>
+<author pid="59/1833">Peter J. Giblin</author>
+<author pid="90/2917">Benjamin B. Kimia</author>
+<author pid="80/3926">Anton Leykin</author>
+<author pid="p/TomasPajdla">Tom&#225;s Pajdla</author>
+<title>TRPLP - Trifocal Relative Pose From Lines at Points.</title>
+<pages>12070-12080</pages>
+<year>2020</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">https://openaccess.thecvf.com/content_CVPR_2020/html/Fabbri_TRPLP_-_Trifocal_Relative_Pose_From_Lines_at_Points_CVPR_2020_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR42600.2020.01209</ee>
+<crossref>conf/cvpr/2020</crossref>
+<url>db/conf/cvpr/cvpr2020.html#FabbriDFRPTWHGK20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-09755" mdate="2019-11-27">
+<author pid="74/6892">Ricardo Fabbri</author>
+<author pid="186/8372">Timothy Duff</author>
+<author pid="226/3332">Hongyi Fan</author>
+<author pid="218/4706">Margaret H. Regan</author>
+<author pid="238/0547">David da Costa de Pinho</author>
+<author pid="77/4694">Elias P. Tsigaridas</author>
+<author pid="238/0454">Charles Wrampler</author>
+<author pid="59/8717">Jonathan D. Hauenstein</author>
+<author pid="90/2917">Benjamin B. Kimia</author>
+<author pid="80/3926">Anton Leykin</author>
+<author pid="p/TomasPajdla">Tom&#225;s Pajdla</author>
+<title>Trifocal Relative Pose from Lines at Points and its Efficient Solution.</title>
+<year>2019</year>
+<volume>abs/1903.09755</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.09755</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-09755</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/UsumezbasFK17" mdate="2023-03-24">
+<author pid="122/8710">Anil Usumezbas</author>
+<author pid="74/6892">Ricardo Fabbri</author>
+<author pid="90/2917">Benjamin B. Kimia</author>
+<title>The Surfacing of Multiview 3D Drawings via Lofting and Occlusion Reasoning.</title>
+<pages>4560-4569</pages>
+<year>2017</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2017.485</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2017.485</ee>
+<crossref>conf/cvpr/2017</crossref>
+<url>db/conf/cvpr/cvpr2017.html#UsumezbasFK17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/UsumezbasFK17" mdate="2018-08-13">
+<author pid="122/8710">Anil Usumezbas</author>
+<author pid="74/6892">Ricardo Fabbri</author>
+<author pid="90/2917">Benjamin B. Kimia</author>
+<title>The Surfacing of Multiview 3D Drawings via Lofting and Occlusion Reasoning.</title>
+<year>2017</year>
+<volume>abs/1707.03946</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1707.03946</ee>
+<url>db/journals/corr/corr1707.html#UsumezbasFK17</url>
+</article>
+</r>
+<r><article key="journals/ijcv/FabbriK16" mdate="2023-08-28">
+<author pid="74/6892">Ricardo Fabbri</author>
+<author pid="90/2917">Benjamin B. Kimia</author>
+<title>Multiview Differential Geometry of Curves.</title>
+<pages>324-346</pages>
+<year>2016</year>
+<volume>120</volume>
+<journal>Int. J. Comput. Vis.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11263-016-0912-7</ee>
+<ee>https://www.wikidata.org/entity/Q115379785</ee>
+<url>db/journals/ijcv/ijcv120.html#FabbriK16</url>
+</article>
+</r>
+<r><inproceedings key="conf/eccv/UsumezbasFK16" mdate="2017-05-19">
+<author pid="122/8710">Anil Usumezbas</author>
+<author pid="74/6892">Ricardo Fabbri</author>
+<author pid="90/2917">Benjamin B. Kimia</author>
+<title>From Multiview Image Curves to 3D Drawings.</title>
+<pages>70-87</pages>
+<year>2016</year>
+<booktitle>ECCV (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-46493-0_5</ee>
+<crossref>conf/eccv/2016-4</crossref>
+<url>db/conf/eccv/eccv2016-4.html#UsumezbasFK16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/FabbriFVPSMNZT16" mdate="2018-08-13">
+<author pid="92/10263">Renato Fabbri</author>
+<author pid="74/6892">Ricardo Fabbri</author>
+<author pid="48/10262">Vilson Vieira</author>
+<author pid="159/1829">Daniel Penalva</author>
+<author pid="179/2495">Danilo Shiga</author>
+<author pid="179/2123">Marcos Mendonca</author>
+<author pid="179/2698">Alexandre Negrao</author>
+<author pid="179/2386">Lucas Zambianchi</author>
+<author pid="179/2167">Gabriela Thume</author>
+<title>The Algorithmic Autoregulation Software Development Methodology.</title>
+<year>2016</year>
+<volume>abs/1604.08255</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1604.08255</ee>
+<url>db/journals/corr/corr1604.html#FabbriFVPSMNZT16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/FabbriK16" mdate="2018-08-13">
+<author pid="74/6892">Ricardo Fabbri</author>
+<author pid="90/2917">Benjamin B. Kimia</author>
+<title>Multiview Differential Geometry of Curves.</title>
+<year>2016</year>
+<volume>abs/1604.08256</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1604.08256</ee>
+<url>db/journals/corr/corr1604.html#FabbriK16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/UsumezbasFK16" mdate="2018-08-13">
+<author pid="122/8710">Anil Usumezbas</author>
+<author pid="74/6892">Ricardo Fabbri</author>
+<author pid="90/2917">Benjamin B. Kimia</author>
+<title>From Multiview Image Curves to 3D Drawings.</title>
+<year>2016</year>
+<volume>abs/1609.05561</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1609.05561</ee>
+<url>db/journals/corr/corr1609.html#UsumezbasFK16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/VieiraLJLPFF15" mdate="2018-08-13">
+<author pid="48/10262">Vilson Vieira</author>
+<author pid="159/2017">Guilherme Lunhani</author>
+<author pid="159/1825">Geraldo Magela de Castro Rocha Junior</author>
+<author pid="159/1742">Caleb Mascarenhas Luporini</author>
+<author pid="159/1829">Daniel Penalva</author>
+<author pid="74/6892">Ricardo Fabbri</author>
+<author pid="92/10263">Renato Fabbri</author>
+<title>Vivace: A Collaborative Live Coding Language.</title>
+<year>2015</year>
+<volume>abs/1502.01312</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1502.01312</ee>
+<url>db/journals/corr/corr1502.html#VieiraLJLPFF15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1305-2876" mdate="2018-08-13">
+<author pid="74/6892">Ricardo Fabbri</author>
+<author pid="130/3792">Ivan N. Bastos</author>
+<author pid="02/5124">Francisco Duarte Moura Neto</author>
+<author pid="42/10672">Francisco J. P. Lopes</author>
+<author pid="59/1925">Wesley Nunes Gon&#231;alves</author>
+<author pid="17/6770">Odemir Martinez Bruno</author>
+<title>Multi-q Pattern Classification of Polarization Curves</title>
+<ee type="oa">http://arxiv.org/abs/1305.2876</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1305.2876</volume>
+<url>db/journals/corr/corr1305.html#abs-1305-2876</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/AmorimFPN13" mdate="2018-08-13">
+<author pid="135/6343">Mauro de Amorim</author>
+<author pid="74/6892">Ricardo Fabbri</author>
+<author pid="135/6265">Lucia Maria dos Santos Pinto</author>
+<author pid="02/5124">Francisco Duarte Moura Neto</author>
+<title>An Image-Based Fluid Surface Pattern Model.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1309.7912</ee>
+<volume>abs/1309.7912</volume>
+<url>db/journals/corr/corr1309.html#AmorimFPN13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/FabbriJFAPCO13" mdate="2018-08-13">
+<author pid="92/10263">Renato Fabbri</author>
+<author pid="48/10262">Vilson Vieira da Silva Junior</author>
+<author pid="74/6892">Ricardo Fabbri</author>
+<author pid="136/5981">Deborah Christina Antunes</author>
+<author pid="136/5726">Marilia Mello Pisani</author>
+<author pid="76/1098">Luciano da Fontoura Costa</author>
+<author pid="85/811">Osvaldo N. Oliveira Jr.</author>
+<title>On the evolution of interaction networks: primitive typology of vertex and prominence of measures.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1310.7769</ee>
+<volume>abs/1310.7769</volume>
+<url>db/journals/corr/corr1310.html#FabbriJFAPCO13</url>
+</article>
+</r>
+<r><inproceedings key="conf/eccv/FabbriKG12" mdate="2023-07-27">
+<author pid="74/6892">Ricardo Fabbri</author>
+<author pid="90/2917">Benjamin B. Kimia</author>
+<author pid="59/1833">Peter J. Giblin</author>
+<title>Camera Pose Estimation Using First-Order Curve Differential Geometry.</title>
+<pages>231-244</pages>
+<year>2012</year>
+<booktitle>ECCV (4)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-33765-9_17</ee>
+<crossref>conf/eccv/2012-4</crossref>
+<url>db/conf/eccv/eccv2012-4.html#FabbriKG12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1203-4009" mdate="2018-08-13">
+<author pid="74/6892">Ricardo Fabbri</author>
+<author pid="17/6770">Odemir Martinez Bruno</author>
+<author pid="76/1098">Luciano da Fontoura Costa</author>
+<title>Scilab and SIP for Image Processing</title>
+<ee type="oa">http://arxiv.org/abs/1203.4009</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1203.4009</volume>
+<url>db/journals/corr/corr1203.html#abs-1203-4009</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1112-6371" mdate="2018-08-13">
+<author pid="74/6892">Ricardo Fabbri</author>
+<author pid="59/1925">Wesley Nunes Gon&#231;alves</author>
+<author pid="42/10672">Francisco J. P. Lopes</author>
+<author pid="17/6770">Odemir Martinez Bruno</author>
+<title>Multi-q Analysis of Image Patterns</title>
+<ee type="oa">http://arxiv.org/abs/1112.6371</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1112.6371</volume>
+<url>db/journals/corr/corr1112.html#abs-1112-6371</url>
+</article>
+</r>
+<r><article key="journals/ijprai/TorelliFTB10" mdate="2020-10-26">
+<author pid="26/2217">Julio C. Torelli</author>
+<author pid="74/6892">Ricardo Fabbri</author>
+<author orcid="0000-0002-1841-9075" pid="10/1957">Gonzalo Travieso</author>
+<author orcid="0000-0002-2945-1556" pid="17/6770">Odemir Martinez Bruno</author>
+<title>A High Performance 3D Exact Euclidean Distance Transform Algorithm for Distributed Computing.</title>
+<pages>897-915</pages>
+<year>2010</year>
+<volume>24</volume>
+<journal>Int. J. Pattern Recognit. Artif. Intell.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1142/S0218001410008202</ee>
+<url>db/journals/ijprai/ijprai24.html#TorelliFTB10</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/FabbriK10" mdate="2023-03-24">
+<author pid="74/6892">Ricardo Fabbri</author>
+<author pid="90/2917">Benjamin B. Kimia</author>
+<title>3D curve sketch: Flexible curve-based stereo reconstruction and calibration.</title>
+<pages>1538-1545</pages>
+<year>2010</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2010.5539787</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2010.5539787</ee>
+<crossref>conf/cvpr/2010</crossref>
+<url>db/conf/cvpr/cvpr2010.html#FabbriK10</url>
+</inproceedings>
+</r>
+<r><article key="journals/csur/FabbriCTB08" mdate="2018-11-06">
+<author pid="74/6892">Ricardo Fabbri</author>
+<author pid="76/1098">Luciano da Fontoura Costa</author>
+<author pid="26/2217">Julio C. Torelli</author>
+<author orcid="0000-0002-2945-1556" pid="17/6770">Odemir Martinez Bruno</author>
+<title>2D Euclidean distance transform algorithms: A comparative survey.</title>
+<year>2008</year>
+<volume>40</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1322432.1322434</ee>
+<url>db/journals/csur/csur40.html#FabbriCTB08</url>
+<pages>2:1-2:44</pages>
+</article>
+</r>
+<r><inproceedings key="conf/emmcvpr/FabbriK05" mdate="2017-05-23">
+<author pid="74/6892">Ricardo Fabbri</author>
+<author pid="90/2917">Benjamin B. Kimia</author>
+<title>High-Order Differential Geometry of Curves for Multiview Reconstruction and Matching.</title>
+<pages>645-660</pages>
+<year>2005</year>
+<crossref>conf/emmcvpr/2005</crossref>
+<booktitle>EMMCVPR</booktitle>
+<ee>https://doi.org/10.1007/11585978_42</ee>
+<url>db/conf/emmcvpr/emmcvpr2005.html#FabbriK05</url>
+</inproceedings>
+</r>
+<r><article key="journals/jmiv/FabbriEC02" mdate="2020-06-08">
+<author pid="74/6892">Ricardo Fabbri</author>
+<author pid="86/3230">Leandro Farias Estrozi</author>
+<author pid="76/1098">Luciano da F. Costa</author>
+<title>On Voronoi Diagrams and Medial Axes.</title>
+<pages>27-40</pages>
+<year>2002</year>
+<volume>17</volume>
+<journal>J. Math. Imaging Vis.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1023/A:1020722624682</ee>
+<url>db/journals/jmiv/jmiv17.html#FabbriEC02</url>
+</article>
+</r>
+<coauthors n="45" nc="3">
+<co c="0"><na f="a/Amorim:Mauro_de" pid="135/6343">Mauro de Amorim</na></co>
+<co c="0"><na f="a/Antunes:Deborah_Christina" pid="136/5981">Deborah Christina Antunes</na></co>
+<co c="2"><na f="b/Babanin:Alex" pid="286/8798">Alex Babanin</na></co>
+<co c="0"><na f="b/Bastos:Ivan_N=" pid="130/3792">Ivan N. Bastos</na></co>
+<co c="0"><na f="b/Bruno:Odemir_Martinez" pid="17/6770">Odemir Martinez Bruno</na></co>
+<co c="1"><na f="c/Chien:Chiang=Heng" pid="192/6994">Chiang-Heng Chien</na></co>
+<co c="0" n="2"><na f="c/Costa:Luciano_da_Fontoura" pid="76/1098">Luciano da Fontoura Costa</na><na>Luciano da F. Costa</na></co>
+<co c="1"><na f="d/Duff:Timothy" pid="186/8372">Timothy Duff</na></co>
+<co c="0"><na f="e/Estrozi:Leandro_Farias" pid="86/3230">Leandro Farias Estrozi</na></co>
+<co c="0"><na f="f/Fabbri:Renato" pid="92/10263">Renato Fabbri</na></co>
+<co c="1"><na f="f/Fan:Hongyi" pid="226/3332">Hongyi Fan</na></co>
+<co c="1"><na f="g/Giblin:Peter_J=" pid="59/1833">Peter J. Giblin</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Wesley_Nunes" pid="59/1925">Wesley Nunes Gon&#231;alves</na></co>
+<co c="1"><na f="h/Hauenstein:Jonathan_D=" pid="59/8717">Jonathan D. Hauenstein</na></co>
+<co c="0"><na f="j/Junior:Geraldo_Magela_de_Castro_Rocha" pid="159/1825">Geraldo Magela de Castro Rocha Junior</na></co>
+<co c="0" n="2"><na f="j/Junior:Vilson_Vieira_da_Silva" pid="48/10262">Vilson Vieira da Silva Junior</na><na>Vilson Vieira</na></co>
+<co c="1"><na f="k/Kimia:Benjamin_B=" pid="90/2917">Benjamin B. Kimia</na></co>
+<co c="1"><na f="l/Leykin:Anton" pid="80/3926">Anton Leykin</na></co>
+<co c="0"><na f="l/Lopes:Francisco_J=_P=" pid="42/10672">Francisco J. P. Lopes</na></co>
+<co c="0"><na f="l/Lunhani:Guilherme" pid="159/2017">Guilherme Lunhani</na></co>
+<co c="0"><na f="l/Luporini:Caleb_Mascarenhas" pid="159/1742">Caleb Mascarenhas Luporini</na></co>
+<co c="0"><na f="m/Mendonca:Marcos" pid="179/2123">Marcos Mendonca</na></co>
+<co c="0"><na f="n/Negrao:Alexandre" pid="179/2698">Alexandre Negrao</na></co>
+<co c="0"><na f="n/Neto:Francisco_Duarte_Moura" pid="02/5124">Francisco Duarte Moura Neto</na></co>
+<co c="0"><na f="o/Oliveira_Jr=:Osvaldo_N=" pid="85/811">Osvaldo N. Oliveira Jr.</na></co>
+<co c="1"><na f="p/Pajdla:Tom=aacute=s" pid="p/TomasPajdla">Tom&#225;s Pajdla</na></co>
+<co c="0"><na f="p/Penalva:Daniel" pid="159/1829">Daniel Penalva</na></co>
+<co c="2"><na f="p/Pereira:Henrique_P=_P=" pid="286/8837">Henrique P. P. Pereira</na></co>
+<co c="1"><na f="p/Pinho:David_da_Costa_de" pid="238/0547">David da Costa de Pinho</na></co>
+<co c="2"><na f="p/Pinho:Uggo" pid="286/8073">Uggo Pinho</na></co>
+<co c="0"><na f="p/Pinto:Lucia_Maria_dos_Santos" pid="135/6265">Lucia Maria dos Santos Pinto</na></co>
+<co c="0"><na f="p/Pisani:Marilia_Mello" pid="136/5726">Marilia Mello Pisani</na></co>
+<co c="1"><na f="r/Regan:Margaret_H=" pid="218/4706">Margaret H. Regan</na></co>
+<co c="0"><na f="s/Shiga:Danilo" pid="179/2495">Danilo Shiga</na></co>
+<co c="2"><na f="s/Skvortsov:Alex" pid="18/8056">Alex Skvortsov</na></co>
+<co c="0"><na f="t/Thume:Gabriela" pid="179/2167">Gabriela Thume</na></co>
+<co c="0"><na f="t/Torelli:Julio_C=" pid="26/2217">Julio C. Torelli</na></co>
+<co c="0"><na f="t/Travieso:Gonzalo" pid="10/1957">Gonzalo Travieso</na></co>
+<co c="1"><na f="t/Tsigaridas:Elias_P=" pid="77/4694">Elias P. Tsigaridas</na></co>
+<co c="1"><na f="u/Usumezbas:Anil" pid="122/8710">Anil Usumezbas</na></co>
+<co c="2"><na f="v/Violante=Carvalho:Nelson" pid="254/5850">Nelson Violante-Carvalho</na></co>
+<co c="1"><na f="w/Wampler:Charles_W=" pid="85/2653">Charles W. Wampler</na></co>
+<co c="1"><na f="w/Wrampler:Charles" pid="238/0454">Charles Wrampler</na></co>
+<co c="0"><na f="z/Zambianchi:Lucas" pid="179/2386">Lucas Zambianchi</na></co>
+<co c="1"><na f="z/Zheng:Yilin" pid="123/7102">Yilin Zheng</na></co>
+</coauthors>
+</dblpperson>
+

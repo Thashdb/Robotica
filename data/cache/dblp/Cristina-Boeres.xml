@@ -1,0 +1,929 @@
+<?xml version="1.0"?>
+<dblpperson name="Cristina Boeres" pid="89/6061" n="59">
+<person key="homepages/89/6061" mdate="2023-09-17">
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="89/6061">Maria Cristina Silva Boeres</author>
+<note type="affiliation">Universidade Federal Fluminense, Niter&#243;i, Brazil</note>
+<url>https://sites.google.com/a/ic.uff.br/cristina-boeres/</url>
+<url>https://scholar.google.com/citations?user=h_AmAEYAAAAJ</url>
+<url>http://lattes.cnpq.br/0306766365983082</url>
+<url>https://ieeexplore.ieee.org/author/37266667700</url>
+</person>
+<r><inproceedings key="conf/ic2e/NunesSBVDRTPEM24" mdate="2024-11-26">
+<author pid="298/8600">Alan L. Nunes</author>
+<author pid="390/9324">Daniel B. Sodr&#233;</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="15/374">Jos&#233; Viterbo</author>
+<author pid="41/2824">L&#250;cia M. A. Drummond</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<author pid="204/8978">Luan Teylo</author>
+<author pid="283/5933">Felipe Albuquerque Portella</author>
+<author pid="372/8990">Paulo J. B. Estrela</author>
+<author pid="372/9071">Renzo Q. Malini</author>
+<title>A Framework for Executing Long Simulation Jobs Cheaply in the Cloud.</title>
+<pages>233-244</pages>
+<year>2024</year>
+<booktitle>IC2E</booktitle>
+<ee>https://doi.org/10.1109/IC2E61754.2024.00033</ee>
+<crossref>conf/ic2e/2024</crossref>
+<url>db/conf/ic2e/ic2e2024.html#NunesSBVDRTPEM24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/NunesBDP24" mdate="2025-01-02">
+<author pid="298/8600">Alan L. Nunes</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="41/2824">L&#250;cia M. A. Drummond</author>
+<author pid="75/2582">La&#233;rcio Lima Pilla</author>
+<title>Optimal Time and Energy-Aware Client Selection Algorithms for Federated Learning on Heterogeneous Resources.</title>
+<pages>148-158</pages>
+<year>2024</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD63648.2024.00021</ee>
+<crossref>conf/sbac-pad/2024</crossref>
+<url>db/conf/sbac-pad/sbac-pad2024.html#NunesBDP24</url>
+<stream>streams/conf/sbac-pad</stream>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/NunesMTBOD23" mdate="2023-08-18">
+<author orcid="0000-0002-9384-862X" pid="298/8600">Alan L. Nunes</author>
+<author orcid="0000-0001-5191-5209" pid="m/AlbaCMAMelo">Alba C. M. A. Melo</author>
+<author orcid="0000-0003-1194-6400" pid="75/1189">Claude Tadonki</author>
+<author orcid="0000-0002-1679-6643" pid="89/6061">Cristina Boeres</author>
+<author orcid="0000-0001-9346-7651" pid="68/7553-1">Daniel de Oliveira 0001</author>
+<author orcid="0000-0002-3831-5230" pid="41/2824">L&#250;cia Maria de Assump&#231;&#227;o Drummond</author>
+<title>Optimizing computational costs of Spark for SARS-CoV-2 sequences comparisons on a commercial cloud.</title>
+<year>2023</year>
+<volume>35</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1002/cpe.7678</ee>
+<url>db/journals/concurrency/concurrency35.html#NunesMTBOD23</url>
+</article>
+</r>
+<r><inproceedings key="conf/carla/LopesNBD023" mdate="2024-02-29">
+<author orcid="0009-0008-9426-6286" pid="307/4510">Camila R. Lopes</author>
+<author orcid="0000-0002-9384-862X" pid="298/8600">Alan L. Nunes</author>
+<author orcid="0000-0002-1679-6643" pid="89/6061">Cristina Boeres</author>
+<author orcid="0000-0002-3831-5230" pid="41/2824">L&#250;cia M. A. Drummond</author>
+<author orcid="0000-0001-9346-7651" pid="68/7553-1">Daniel de Oliveira 0001</author>
+<title>Provenance-Based Dynamic Fine-Tuning of Cross-Silo Federated Learning.</title>
+<pages>113-127</pages>
+<year>2023</year>
+<booktitle>CARLA</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-52186-7_8</ee>
+<crossref>conf/carla/2023</crossref>
+<url>db/conf/carla/carla2023.html#LopesNBD023</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/OliveiraPBO21" mdate="2022-03-04">
+<author pid="54/8935">Douglas E. M. de Oliveira</author>
+<author pid="p/FabioPorto">F&#225;bio Porto 0001</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="68/7553-1">Daniel de Oliveira 0001</author>
+<title>Towards optimizing the execution of spark scientific workflows using machine learning-based parameter tuning.</title>
+<year>2021</year>
+<volume>33</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1002/cpe.5972</ee>
+<url>db/journals/concurrency/concurrency33.html#OliveiraPBO21</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccgrid/TeyloNMBDM21" mdate="2023-08-06">
+<author pid="204/8978">Luan Teylo</author>
+<author orcid="0000-0002-9384-862X" pid="298/8600">Alan L. Nunes</author>
+<author orcid="0000-0001-5191-5209" pid="m/AlbaCMAMelo">Alba C. M. A. Melo</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="41/2824">L&#250;cia Maria de A. Drummond</author>
+<author pid="80/3485">Nat&#225;lia Florencio Martins</author>
+<title>Comparing SARS-CoV-2 Sequences using a Commercial Cloud with a Spot Instance Based Dynamic Scheduler.</title>
+<pages>247-256</pages>
+<year>2021</year>
+<booktitle>CCGRID</booktitle>
+<ee>https://doi.org/10.1109/CCGrid51090.2021.00034</ee>
+<crossref>conf/ccgrid/2021</crossref>
+<url>db/conf/ccgrid/ccgrid2021.html#TeyloNMBDM21</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/KlohRBSF20" mdate="2022-04-09">
+<author pid="118/2701">Henrique Kloh</author>
+<author orcid="0000-0003-2715-6796" pid="79/2476">Vinod E. F. Rebello</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="27/729">Bruno Schulze</author>
+<author orcid="0000-0003-0191-582X" pid="09/10314">Mariza Ferro</author>
+<title>Static job scheduling for environments with vertical elasticity.</title>
+<year>2020</year>
+<volume>32</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>19</number>
+<ee>https://doi.org/10.1002/cpe.5761</ee>
+<url>db/journals/concurrency/concurrency32.html#KlohRBSF20</url>
+</article>
+</r>
+<r><inproceedings key="conf/ucc/NicodemusBR20" mdate="2022-04-09">
+<author pid="282/8560">Carlos H. Z. Nicodemus</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author orcid="0000-0003-2715-6796" pid="79/2476">Vinod E. F. Rebello</author>
+<title>Managing Vertical Memory Elasticity in Containers.</title>
+<pages>132-142</pages>
+<year>2020</year>
+<booktitle>UCC</booktitle>
+<ee>https://doi.org/10.1109/UCC48980.2020.00032</ee>
+<crossref>conf/ucc/2020</crossref>
+<url>db/conf/ucc/ucc2020.html#NicodemusBR20</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/BoeresBM19" mdate="2025-01-19">
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="b/CristianaBentes">Cristiana Bentes</author>
+<author pid="m/EdwardDMoreno">Edward D. Moreno</author>
+<title>New advances in high-performance computing systems.</title>
+<year>2019</year>
+<volume>31</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1002/cpe.5172</ee>
+<ee>https://www.wikidata.org/entity/Q128286539</ee>
+<url>db/journals/concurrency/concurrency31.html#BoeresBM19</url>
+</article>
+</r>
+<r><article key="journals/jpdc/RiosOBCCF18" mdate="2020-02-22">
+<author orcid="0000-0002-6094-0550" pid="80/2639">Eyder Rios</author>
+<author orcid="0000-0002-5007-4513" pid="o/LuizSatoruOchi">Luiz Satoru Ochi</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author orcid="0000-0001-6616-8947" pid="151/4334">Vitor Naz&#225;rio Coelho</author>
+<author orcid="0000-0001-6373-4907" pid="89/8466">Igor Machado Coelho</author>
+<author pid="f/RicardoCFarias">Ricardo C. Farias</author>
+<title>Exploring parallel multi-GPU local search strategies in a metaheuristic framework.</title>
+<pages>39-55</pages>
+<year>2018</year>
+<volume>111</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<ee>https://doi.org/10.1016/j.jpdc.2017.06.011</ee>
+<url>db/journals/jpdc/jpdc111.html#RiosOBCCF18</url>
+</article>
+</r>
+<r><inproceedings key="conf/ucc/ValenciaBR18" mdate="2023-03-23">
+<author pid="167/8267">Jose Valencia</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<title>Combining VM Preemption Schemes to Improve Vertical Memory Elasticity Scheduling in Clouds.</title>
+<pages>53-62</pages>
+<year>2018</year>
+<booktitle>UCC</booktitle>
+<ee>https://doi.org/10.1109/UCC.2018.00014</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/UCC.2018.00014</ee>
+<crossref>conf/ucc/2018</crossref>
+<url>db/conf/ucc/ucc2018.html#ValenciaBR18</url>
+</inproceedings>
+</r>
+<r><article key="journals/endm/RiosOBCCM17" mdate="2020-02-20">
+<author pid="80/2639">Eyder Rios</author>
+<author orcid="0000-0002-5007-4513" pid="o/LuizSatoruOchi">Luiz Satoru Ochi</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="89/8466">Igor Machado Coelho</author>
+<author pid="151/4334">Vitor Naz&#225;rio Coelho</author>
+<author orcid="0000-0001-6655-0409" pid="11/1904">Nenad Mladenovic</author>
+<title>A performance study on multi improvement neighborhood search strategy.</title>
+<pages>199-206</pages>
+<year>2017</year>
+<volume>58</volume>
+<journal>Electron. Notes Discret. Math.</journal>
+<ee>https://doi.org/10.1016/j.endm.2017.03.026</ee>
+<url>db/journals/endm/endm58.html#RiosOBCCM17</url>
+</article>
+</r>
+<r><inproceedings key="conf/hipc/SawamuraBR16" mdate="2023-03-24">
+<author pid="174/4141">Roberto Sawamura</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author orcid="0000-0003-2715-6796" pid="79/2476">Vinod E. F. Rebello</author>
+<title>MEC: The Memory Elasticity Controller.</title>
+<pages>111-120</pages>
+<year>2016</year>
+<booktitle>HiPC</booktitle>
+<ee>https://doi.org/10.1109/HiPC.2016.022</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/HiPC.2016.022</ee>
+<crossref>conf/hipc/2016</crossref>
+<url>db/conf/hipc/hipc2016.html#SawamuraBR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/RiosCOBF16" mdate="2023-03-23">
+<author pid="80/2639">Eyder Rios</author>
+<author pid="89/8466">Igor Machado Coelho</author>
+<author orcid="0000-0002-5007-4513" pid="o/LuizSatoruOchi">Luiz Satoru Ochi</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="f/RicardoCFarias">Ricardo C. Farias</author>
+<title>A Benchmark on Multi Improvement Neighborhood Search Strategies in CPU/GPU Systems.</title>
+<pages>49-54</pages>
+<year>2016</year>
+<booktitle>SBAC-PAD (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PADW.2016.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PADW.2016.17</ee>
+<crossref>conf/sbac-pad/2016w</crossref>
+<url>db/conf/sbac-pad/sbac-pad2016w.html#RiosCOBF16</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/SilvaBDP15" mdate="2022-04-09">
+<author pid="55/5086">Juliana M. N. Silva</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author orcid="0000-0002-3831-5230" pid="41/2824">L&#250;cia M. A. Drummond</author>
+<author orcid="0000-0002-7421-4744" pid="40/1704">Artur Alves Pessoa</author>
+<title>Memory aware load balance strategy on a parallel branch-and-bound application.</title>
+<pages>1122-1144</pages>
+<year>2015</year>
+<volume>27</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1002/cpe.3276</ee>
+<url>db/journals/concurrency/concurrency27.html#SilvaBDP15</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbac-pad/ZamithSDBB15" mdate="2023-03-23">
+<author pid="177/2485">Juliana Zamith</author>
+<author pid="177/2477">Thiago Silva</author>
+<author orcid="0000-0002-3831-5230" pid="41/2824">L&#250;cia M. A. Drummond</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="b/CristianaBentes">Cristiana Bentes</author>
+<title>On the Evaluation of Contention-Aware List Schedulers on Multicore Cluster.</title>
+<pages>61-67</pages>
+<year>2015</year>
+<booktitle>SBAC-PAD (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PADW.2015.19</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PADW.2015.19</ee>
+<crossref>conf/sbac-pad/2015w</crossref>
+<url>db/conf/sbac-pad/sbac-pad2015w.html#ZamithSDBB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/SawamuraBR15" mdate="2023-03-23">
+<author pid="174/4141">Roberto Sawamura</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author orcid="0000-0003-2715-6796" pid="79/2476">Vinod E. F. Rebello</author>
+<title>Evaluating the Impact of Memory Allocation and Swap for Vertical Memory Elasticity in VMs.</title>
+<pages>186-193</pages>
+<year>2015</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2015.32</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2015.32</ee>
+<crossref>conf/sbac-pad/2015</crossref>
+<url>db/conf/sbac-pad/sbac-pad2015.html#SawamuraBR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/OliveiraBFP15" mdate="2022-03-07">
+<author pid="54/8935">Douglas E. M. de Oliveira</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="181/9027">Angelo Fausti</author>
+<author pid="p/FabioPorto">F&#225;bio Porto 0001</author>
+<title>Avalia&#231;&#227;o da Localidade de Dados Intermedi&#225;rios na Execu&#231;&#227;o Paralela de Workflows Bigdata.</title>
+<pages>29-40</pages>
+<year>2015</year>
+<booktitle>SBBD</booktitle>
+<ee type="archive">http://www.lbd.dcc.ufmg.br/colecoes/sbbd/2015/002.pdf</ee>
+<crossref>conf/sbbd/2015</crossref>
+<url>db/conf/sbbd/sbbd2015.html#OliveiraBFP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/OliveiraBP14" mdate="2022-03-07">
+<author pid="54/8935">Douglas E. M. de Oliveira</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="p/FabioPorto">F&#225;bio Porto 0001</author>
+<title>An&#225;lise de Estrat&#233;gias de Acesso a Grandes Volumes de Dados.</title>
+<pages>27-36</pages>
+<year>2014</year>
+<booktitle>SBBD</booktitle>
+<ee type="archive">http://www.lbd.dcc.ufmg.br/colecoes/sbbd/2014/002.pdf</ee>
+<crossref>conf/sbbd/2014</crossref>
+<url>db/conf/sbbd/sbbd2014.html#OliveiraBP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/SenaRRNB13" mdate="2024-03-26">
+<author pid="73/1177">Alexandre da Costa Sena</author>
+<author pid="140/0935">Felipe Ribeiro</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<author pid="50/3811">Aline de Paula Nascimento</author>
+<author pid="89/6061">Cristina Boeres</author>
+<title>Autonomic Malleability in Iterative MPI Applications.</title>
+<pages>192-199</pages>
+<year>2013</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2013.4</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2013.4</ee>
+<crossref>conf/sbac-pad/2013</crossref>
+<url>db/conf/sbac-pad/sbac-pad2013.html#SenaRRNB13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1302-5679" mdate="2022-01-04">
+<author pid="55/5086">Juliana M. N. Silva</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="41/2824">L&#250;cia M. A. Drummond</author>
+<author pid="40/1704">Artur Alves Pessoa</author>
+<title>Memory Aware Load Balance Strategy on a Parallel Branch-and-Bound Application</title>
+<ee type="oa">http://arxiv.org/abs/1302.5679</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1302.5679</volume>
+<url>db/journals/corr/corr1302.html#abs-1302-5679</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/SenaNBRB13" mdate="2024-03-26">
+<author pid="73/1177">Alexandre da Costa Sena</author>
+<author pid="50/3811">Aline de Paula Nascimento</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<author pid="03/10107">Andr&#233; Bulc&#227;o</author>
+<title>Improving Memory Hierarchy Utilisation for Stencil Computations on Multicore Machines.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1310.8232</ee>
+<volume>abs/1310.8232</volume>
+<url>db/journals/corr/corr1310.html#SenaNBRB13</url>
+</article>
+</r>
+<r><article key="journals/itor/AraujoBRR11" mdate="2022-04-09">
+<author orcid="0000-0003-4645-6700" pid="38/2179">Alet&#233;ia P. F. Ara&#250;jo</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<author orcid="0000-0002-9478-2351" pid="26/4167">Celso C. Ribeiro</author>
+<title>A distributed and hierarchical strategy for autonomic grid-enabled cooperative metaheuristics with applications.</title>
+<pages>679-705</pages>
+<year>2011</year>
+<volume>18</volume>
+<journal>Int. Trans. Oper. Res.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1111/j.1475-3995.2011.00823.x</ee>
+<url>db/journals/itor/itor18.html#AraujoBRR11</url>
+</article>
+</r>
+<r><article key="journals/pc/BoeresSD11" mdate="2022-04-09">
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="68/8239">Idalmis Mili&#225;n Sardi&#241;a</author>
+<author orcid="0000-0002-3831-5230" pid="41/2824">L&#250;cia M. A. Drummond</author>
+<title>An efficient weighted bi-objective scheduling algorithm for heterogeneous systems.</title>
+<pages>349-364</pages>
+<year>2011</year>
+<volume>37</volume>
+<journal>Parallel Comput.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/j.parco.2010.10.003</ee>
+<url>db/journals/pc/pc37.html#BoeresSD11</url>
+</article>
+</r>
+<r><inproceedings key="conf/eScience/SenaNBRB11" mdate="2024-03-26">
+<author pid="73/1177">Alexandre da Costa Sena</author>
+<author pid="50/3811">Aline de Paula Nascimento</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<author pid="03/10107">Andr&#233; Bulc&#227;o</author>
+<title>An Approach to Optimise the Execution of RTM Algorithm in Multicore Machines.</title>
+<pages>403-410</pages>
+<year>2011</year>
+<booktitle>eScience</booktitle>
+<ee>https://doi.org/10.1109/eScience.2011.62</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/eScience.2011.62</ee>
+<crossref>conf/eScience/2011</crossref>
+<url>db/conf/eScience/eScience2011.html#SenaNBRB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pvm/GoncalvesBBBDR11" mdate="2022-04-09">
+<author pid="18/4900">Alexandre D. Gon&#231;alves</author>
+<author pid="55/10105">Matheus Bersot</author>
+<author pid="03/10107">Andr&#233; Bulc&#227;o</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author orcid="0000-0002-3831-5230" pid="41/2824">L&#250;cia M. A. Drummond</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<title>Fault Tolerance in an Industrial Seismic Processing Application for Multicore Clusters.</title>
+<pages>264-271</pages>
+<year>2011</year>
+<booktitle>EuroMPI</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-24449-0_30</ee>
+<crossref>conf/pvm/2011</crossref>
+<url>db/conf/pvm/eurompi2011.html#GoncalvesBBBDR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/SilvaDB10" mdate="2023-03-23">
+<author pid="55/5086">Juliana M. N. Silva</author>
+<author orcid="0000-0002-3831-5230" pid="41/2824">L&#250;cia M. A. Drummond</author>
+<author pid="89/6061">Cristina Boeres</author>
+<title>On Modelling Multicore Clusters.</title>
+<pages>25-30</pages>
+<year>2010</year>
+<booktitle>SBAC-PAD (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PADW.2010.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PADW.2010.17</ee>
+<crossref>conf/sbac-pad/2010w</crossref>
+<url>db/conf/sbac-pad/sbac-pad2010w.html#SilvaDB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/SardinaBD09" mdate="2017-05-24">
+<author pid="68/8239">Idalmis Mili&#225;n Sardi&#241;a</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="41/2824">L&#250;cia Maria de A. Drummond</author>
+<title>An Efficient Weighted Bi-objective Scheduling Algorithm for Heterogeneous Systems.</title>
+<pages>102-111</pages>
+<year>2009</year>
+<booktitle>Euro-Par Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-14122-5_14</ee>
+<crossref>conf/europar/2009w</crossref>
+<url>db/conf/europar/europar2009w.html#SardinaBD09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/NascimentoSBR09" mdate="2024-03-26">
+<author pid="50/3811">Aline de Paula Nascimento</author>
+<author pid="73/1177">Alexandre da Costa Sena</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<title>On the Feasibility of Dynamically Scheduling DAG Applications on Shared Heterogeneous Systems.</title>
+<pages>191-202</pages>
+<year>2009</year>
+<booktitle>Euro-Par</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-03869-3_21</ee>
+<crossref>conf/europar/2009</crossref>
+<url>db/conf/europar/europar2009.html#NascimentoSBR09</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijhpcn/NascimentoSSVBR08" mdate="2024-03-26">
+<author pid="50/3811">Aline de Paula Nascimento</author>
+<author pid="73/1177">Alexandre da Costa Sena</author>
+<author pid="85/5474">Jacques Alves da Silva</author>
+<author pid="89/4325">Daniela Q. C. Vianna</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<title>Autonomic application management for large scale MPI programs.</title>
+<pages>227-240</pages>
+<year>2008</year>
+<volume>5</volume>
+<journal>Int. J. High Perform. Comput. Netw.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1504/IJHPCN.2008.022299</ee>
+<url>db/journals/ijhpcn/ijhpcn5.html#NascimentoSSVBR08</url>
+</article>
+</r>
+<r><inproceedings key="conf/ispa/SenaNBR08" mdate="2024-03-26">
+<author pid="73/1177">Alexandre da Costa Sena</author>
+<author pid="50/3811">Aline de Paula Nascimento</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<title>EasyGrid Enabling of Iterative Tightly-Coupled Parallel MPI Applications.</title>
+<pages>199-206</pages>
+<year>2008</year>
+<booktitle>ISPA</booktitle>
+<ee>https://doi.org/10.1109/ISPA.2008.122</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISPA.2008.122</ee>
+<crossref>conf/ispa/2008</crossref>
+<url>db/conf/ispa/ispa2008.html#SenaNBR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/NascimentoBR08" mdate="2024-03-26">
+<author pid="50/3811">Aline de Paula Nascimento</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<title>Dynamic self-scheduling for parallel applications with task dependencies.</title>
+<pages>1</pages>
+<year>2008</year>
+<booktitle>MGC</booktitle>
+<ee>https://doi.org/10.1145/1462704.1462705</ee>
+<crossref>conf/middleware/2008mgc</crossref>
+<url>db/conf/middleware/mgc2008.html#NascimentoBR08</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/NascimentoSBR07" mdate="2024-03-26">
+<author pid="50/3811">Aline de Paula Nascimento</author>
+<author pid="73/1177">Alexandre da Costa Sena</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<title>Distributed and dynamic self-scheduling of parallel MPI Grid applications.</title>
+<pages>1955-1974</pages>
+<year>2007</year>
+<volume>19</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1002/cpe.1139</ee>
+<url>db/journals/concurrency/concurrency19.html#NascimentoSBR07</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccgrid/SenaNSVBR07" mdate="2024-03-26">
+<author pid="73/1177">Alexandre da Costa Sena</author>
+<author pid="50/3811">Aline de Paula Nascimento</author>
+<author pid="85/5474">Jacques Alves da Silva</author>
+<author pid="89/4325">Daniela Q. C. Vianna</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<title>On the Advantages of an Alternative MPI Execution Model for Grids.</title>
+<pages>575-582</pages>
+<year>2007</year>
+<crossref>conf/ccgrid/2007</crossref>
+<booktitle>CCGRID</booktitle>
+<ee>https://doi.org/10.1109/CCGRID.2007.74</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CCGRID.2007.74</ee>
+<url>db/conf/ccgrid/ccgrid2007.html#SenaNSVBR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/MouraVARB07" mdate="2018-11-02">
+<author pid="21/4894">Nilmax Teones Moura</author>
+<author pid="85/399">Bruno A. Vianna</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<author pid="89/6061">Cristina Boeres</author>
+<title>MOS-Based Rate Adaption for VoIP Sources.</title>
+<pages>628-633</pages>
+<year>2007</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2007.108</ee>
+<crossref>conf/icc/2007</crossref>
+<url>db/conf/icc/icc2007.html#MouraVARB07</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/07/AraujoBRRU07" mdate="2022-04-09">
+<author pid="38/2179">Alet&#233;ia P. F. Ara&#250;jo</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<author orcid="0000-0002-9478-2351" pid="26/4167">Celso C. Ribeiro</author>
+<author pid="u/SebastianUrrutia">Sebasti&#225;n Urrutia</author>
+<title>Exploring Grid Implementations of Parallel Cooperative Metaheuristics.</title>
+<pages>297-322</pages>
+<year>2007</year>
+<booktitle>Metaheuristics</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-71921-4_16</ee>
+<crossref>books/sp/07/DGGGHR2007</crossref>
+<url>db/books/collections/DGGGHR2007.html#AraujoBRRU07</url>
+</incollection>
+</r>
+<r><article key="journals/concurrency/BoeresFMMMSVR06" mdate="2020-03-02">
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="18/6105">Ariel Alves Fonseca</author>
+<author pid="86/6838">Helder de Amorim Mendes</author>
+<author pid="50/5870">Luiz Toscano Menezes</author>
+<author pid="21/4894">Nilmax Teones Moura</author>
+<author pid="85/5474">Jacques Alves da Silva</author>
+<author pid="14/520">Bruno de Azevedo Vianna</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<title>An EasyGrid portal for scheduling system-aware applications on computational Grids.</title>
+<pages>553-566</pages>
+<year>2006</year>
+<volume>18</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/cpe.965</ee>
+<url>db/journals/concurrency/concurrency18.html#BoeresFMMMSVR06</url>
+</article>
+</r>
+<r><inproceedings key="conf/webmedia/ViannaMARB06" mdate="2018-11-06">
+<author pid="14/520">Bruno de Azevedo Vianna</author>
+<author pid="21/4894">Nilmax Teones Moura</author>
+<author orcid="0000-0002-7959-6569" pid="40/809">C&#233;lio Vinicius Neves de Albuquerque</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<author pid="89/6061">Cristina Boeres</author>
+<title>adaMOS: MOS-adaptive VoIP sources.</title>
+<pages>223-232</pages>
+<year>2006</year>
+<crossref>conf/webmedia/2006</crossref>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/1186595.1186622</ee>
+<url>db/conf/webmedia/webmedia2006.html#ViannaMARB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cec/BoeresRO05" mdate="2017-05-21">
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="80/2639">Eyder Rios</author>
+<author pid="o/LuizSatoruOchi">Luiz Satoru Ochi</author>
+<title>Hybrid evolutionary static scheduling for heterogeneous systems.</title>
+<pages>1929-1935</pages>
+<year>2005</year>
+<crossref>conf/cec/2005</crossref>
+<booktitle>Congress on Evolutionary Computation</booktitle>
+<ee>https://doi.org/10.1109/CEC.2005.1554931</ee>
+<url>db/conf/cec/cec2005.html#BoeresRO05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/BoeresNRS05" mdate="2024-03-26">
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="50/3811">Aline de Paula Nascimento</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<author pid="73/1177">Alexandre da Costa Sena</author>
+<title>Efficient hierarchical self-scheduling for MPI applications executing in computational Grids.</title>
+<pages>12:1-12:6</pages>
+<year>2005</year>
+<booktitle>MGC@Middleware</booktitle>
+<ee>https://doi.org/10.1145/1101499.1101512</ee>
+<crossref>conf/middleware/2005mgc</crossref>
+<url>db/conf/middleware/mgc2005.html#BoeresNRS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/NascimentoSSVBR05" mdate="2024-03-26">
+<author pid="50/3811">Aline de Paula Nascimento</author>
+<author pid="73/1177">Alexandre da Costa Sena</author>
+<author pid="85/5474">Jacques Alves da Silva</author>
+<author pid="89/4325">Daniela Q. C. Vianna</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<title>Managing the Execution of Large Scale MPI Applications on Computational Grids.</title>
+<pages>69-76</pages>
+<year>2005</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/CAHPC.2005.30</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CAHPC.2005.30</ee>
+<crossref>conf/sbac-pad/2005</crossref>
+<url>db/conf/sbac-pad/sbac-pad2005.html#NascimentoSSVBR05</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/BoeresR04" mdate="2020-05-21">
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<title>EasyGrid: towards a framework for the automatic Grid enabling of legacy MPI applications.</title>
+<pages>425-432</pages>
+<year>2004</year>
+<volume>16</volume>
+<journal>Concurr. Pract. Exp.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1002/cpe.821</ee>
+<url>db/journals/concurrency/concurrency16.html#BoeresR04</url>
+</article>
+</r>
+<r><inproceedings key="conf/middleware/ViannaFMMMSBR04" mdate="2018-11-06">
+<author pid="14/520">Bruno de Azevedo Vianna</author>
+<author pid="18/6105">Ariel Alves Fonseca</author>
+<author pid="21/4894">Nilmax Teones Moura</author>
+<author pid="50/5870">Luiz Toscano Menezes</author>
+<author pid="86/6838">Helder de Amorim Mendes</author>
+<author pid="85/5474">Jacques Alves da Silva</author>
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<title>A tool for the design and evaluation of hybrid scheduling algorithms for computational grids.</title>
+<pages>41-46</pages>
+<year>2004</year>
+<crossref>conf/middleware/2004w1</crossref>
+<booktitle>Middleware for Grid Computing</booktitle>
+<ee>https://doi.org/10.1145/1028493.1028500</ee>
+<url>db/conf/middleware/middleware2004-w1.html#ViannaFMMMSBR04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/BoeresFR04" mdate="2023-03-23">
+<author pid="89/6061">Cristina Boeres</author>
+<author orcid="0000-0002-0339-6624" pid="15/374">Jos&#233; Viterbo Filho</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<title>A Cluster-based Strategy for Scheduling Task on Heterogeneous Processors.</title>
+<pages>214-221</pages>
+<year>2004</year>
+<crossref>conf/sbac-pad/2004</crossref>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2004.1</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CAHPC.2004.1</ee>
+<ee>https://www.wikidata.org/entity/Q57608333</ee>
+<url>db/conf/sbac-pad/sbac-pad2004.html#BoeresFR04</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijhpca/BoeresR03" mdate="2020-03-12">
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<title>Towards Optimal Static Task Scheduling for Realistic Machine Models: Theory and Practice.</title>
+<pages>173-189</pages>
+<year>2003</year>
+<volume>17</volume>
+<journal>Int. J. High Perform. Comput. Appl.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1177/1094342003017002007</ee>
+<url>db/journals/ijhpca/ijhpca17.html#BoeresR03</url>
+</article>
+</r>
+<r><inproceedings key="conf/middleware/BoeresR03" mdate="2003-07-17">
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<title>EasyGrid: Towards a Framework for the Automatic Grid Enabling of MPI Applications.</title>
+<pages>256-260</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#BoeresR03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/BoeresLR03" mdate="2023-03-23">
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="49/4631">Alexandre Lima</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<title>Hybrid Task Scheduling: Integrating Static and Dynamic Heuristics.</title>
+<pages>199-206</pages>
+<year>2003</year>
+<crossref>conf/sbac-pad/2003</crossref>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/CAHPC.2003.1250339</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CAHPC.2003.1250339</ee>
+<url>db/conf/sbac-pad/sbac-pad2003.html#BoeresLR03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/BoeresR02" mdate="2023-03-23">
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<title>Cluster-Based Static Scheduling: Theory and Practice.</title>
+<pages>133-140</pages>
+<year>2002</year>
+<crossref>conf/sbac-pad/2002</crossref>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/CAHPC.2002.1180769</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CAHPC.2002.1180769</ee>
+<url>db/conf/sbac-pad/sbac-pad2002.html#BoeresR02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/BoeresCR01" mdate="2017-05-24">
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="62/2578">Gerson N. da Cunha</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<title>On Minimising the Processor Requirements of LogP Schedules.</title>
+<pages>156-165</pages>
+<year>2001</year>
+<crossref>conf/europar/2001</crossref>
+<booktitle>Euro-Par</booktitle>
+<ee>https://doi.org/10.1007/3-540-44681-8_24</ee>
+<url>db/conf/europar/europar2001.html#BoeresCR01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/BoeresR01" mdate="2023-03-24">
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<title>On the Design of Clustering-based Scheduling Algorithms for Realistic Machine Models.</title>
+<pages>46</pages>
+<year>2001</year>
+<crossref>conf/ipps/2001</crossref>
+<booktitle>IPDPS</booktitle>
+<url>db/conf/ipps/ipdps2001.html#BoeresR01</url>
+<ee>https://doi.org/10.1109/IPDPS.2001.924984</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IPDPS.2001.924984</ee>
+</inproceedings>
+</r>
+<r><article key="journals/ijfcs/BoeresNR99" mdate="2024-03-26">
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="50/3811">Aline de Paula Nascimento</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<title>Cluster-Based Task Scheduling for the LOGP Model.</title>
+<pages>405-424</pages>
+<year>1999</year>
+<volume>10</volume>
+<journal>Int. J. Found. Comput. Sci.</journal>
+<number>4</number>
+<url>db/journals/ijfcs/ijfcs10.html#BoeresNR99</url>
+<ee>https://doi.org/10.1142/S0129054199000290</ee>
+</article>
+</r>
+<r><article key="journals/pc/BoeresR99" mdate="2020-02-22">
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<title>A versatile cost modelling approach for multicomputer task scheduling.</title>
+<pages>63-86</pages>
+<year>1999</year>
+<volume>25</volume>
+<journal>Parallel Comput.</journal>
+<number>1</number>
+<url>db/journals/pc/pc25.html#BoeresR99</url>
+<ee>https://doi.org/10.1016/S0167-8191(98)00103-3</ee>
+</article>
+</r>
+<r><inproceedings key="conf/europar/BoeresNR99" mdate="2024-03-26">
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="50/3811">Aline de Paula Nascimento</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<title>Scheduling Arbitrary Task Graphs on LogP Machines.</title>
+<pages>340-349</pages>
+<year>1999</year>
+<crossref>conf/europar/1999</crossref>
+<booktitle>Euro-Par</booktitle>
+<ee>https://doi.org/10.1007/3-540-48311-X_44</ee>
+<url>db/conf/europar/europar99.html#BoeresNR99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/BoeresNR99" mdate="2024-03-26">
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="50/3811">Aline de Paula Nascimento</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<title>Towards an Effective Task Clustering Heuristic for LogP Machines.</title>
+<pages>1065-1074</pages>
+<year>1999</year>
+<crossref>conf/ipps/1999w</crossref>
+<booktitle>IPPS/SPDP Workshops</booktitle>
+<url>db/conf/ipps/ippsw1999.html#BoeresNR99</url>
+<ee>https://doi.org/10.1007/BFb0097992</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/BoeresRS98" mdate="2021-02-19">
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<author orcid="0000-0003-0605-4029" pid="s/DavidBSkillicorn">David B. Skillicorn</author>
+<title>Static Scheduling Using Task Replication for LogP and BSP Models.</title>
+<pages>337-346</pages>
+<ee>https://doi.org/10.1007/BFb0057871</ee>
+<year>1998</year>
+<crossref>conf/europar/1998</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar98.html#BoeresRS98</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ethos/Boeres97" mdate="2022-05-04">
+<author pid="89/6061">Cristina Boeres</author>
+<title>Versatile communication cost modelling for multicomputer task scheduling.</title>
+<year>1997</year>
+<school>University of Edinburgh, UK</school>
+<ee>https://hdl.handle.net/1842/422</ee>
+<ee>https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.561693</ee>
+<note type="source">British Library, EThOS</note>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/europar/BoeresR97" mdate="2017-05-23">
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="79/2476">Vinod E. F. Rebello</author>
+<title>Versatile Task Scheduling of Binary Trees for Realistic Machines.</title>
+<pages>913-921</pages>
+<year>1997</year>
+<crossref>conf/europar/1997</crossref>
+<booktitle>Euro-Par</booktitle>
+<url>db/conf/europar/europar97.html#BoeresR97</url>
+<ee>https://doi.org/10.1007/BFb0002834</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/irregular/BoeresCT95" mdate="2017-05-20">
+<author pid="89/6061">Cristina Boeres</author>
+<author pid="51/1241">George Chochia</author>
+<author pid="t/PeterThanisch">Peter Thanisch</author>
+<title>On the Scope of Applicability of the ETF Algorithm.</title>
+<pages>159-164</pages>
+<year>1995</year>
+<crossref>conf/irregular/1995</crossref>
+<booktitle>IRREGULAR</booktitle>
+<url>db/conf/irregular/irregular95.html#BoeresCT95</url>
+<ee>https://doi.org/10.1007/3-540-60321-2_13</ee>
+</inproceedings>
+</r>
+<r><article key="journals/jsa/BarbosaB90" mdate="2023-05-10">
+<author orcid="0000-0003-1010-7170" pid="b/ValmirCBarbosa">Valmir C. Barbosa</author>
+<author pid="89/6061">Maria Cristina Silva Boeres</author>
+<title>An Occam-based evaluation of a parallel version of simulated annealing.</title>
+<pages>85-92</pages>
+<year>1990</year>
+<volume>30</volume>
+<journal>Microprocessing and Microprogramming</journal>
+<number>1-5</number>
+<ee>https://doi.org/10.1016/0165-6074(90)90222-U</ee>
+<url>db/journals/jsa/jsa30.html#BarbosaB90</url>
+</article>
+</r>
+<coauthors n="61" nc="2">
+<co c="0" n="2"><na f="a/Albuquerque:C=eacute=lio_Vinicius_N=_de" pid="40/809">C&#233;lio Vinicius N. de Albuquerque</na><na>C&#233;lio Vinicius Neves de Albuquerque</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Alet=eacute=ia_P=_F=" pid="38/2179">Alet&#233;ia P. F. Ara&#250;jo</na></co>
+<co c="0"><na f="b/Barbosa:Valmir_C=" pid="b/ValmirCBarbosa">Valmir C. Barbosa</na></co>
+<co c="0"><na f="b/Bentes:Cristiana" pid="b/CristianaBentes">Cristiana Bentes</na></co>
+<co c="0"><na f="b/Bersot:Matheus" pid="55/10105">Matheus Bersot</na></co>
+<co c="0"><na f="b/Bulc=atilde=o:Andr=eacute=" pid="03/10107">Andr&#233; Bulc&#227;o</na></co>
+<co c="1"><na f="c/Chochia:George" pid="51/1241">George Chochia</na></co>
+<co c="0"><na f="c/Coelho:Igor_Machado" pid="89/8466">Igor Machado Coelho</na></co>
+<co c="0"><na f="c/Coelho:Vitor_Naz=aacute=rio" pid="151/4334">Vitor Naz&#225;rio Coelho</na></co>
+<co c="0"><na f="c/Cunha:Gerson_N=_da" pid="62/2578">Gerson N. da Cunha</na></co>
+<co c="0" n="3"><na f="d/Drummond:L=uacute=cia_M=_A=" pid="41/2824">L&#250;cia M. A. Drummond</na><na>L&#250;cia Maria de A. Drummond</na><na>L&#250;cia Maria de Assump&#231;&#227;o Drummond</na></co>
+<co c="0"><na f="e/Estrela:Paulo_J=_B=" pid="372/8990">Paulo J. B. Estrela</na></co>
+<co c="0"><na f="f/Farias:Ricardo_C=" pid="f/RicardoCFarias">Ricardo C. Farias</na></co>
+<co c="0"><na f="f/Fausti:Angelo" pid="181/9027">Angelo Fausti</na></co>
+<co c="0"><na f="f/Ferro:Mariza" pid="09/10314">Mariza Ferro</na></co>
+<co c="0"><na f="f/Fonseca:Ariel_Alves" pid="18/6105">Ariel Alves Fonseca</na></co>
+<co c="0" n="2"><na f="g/Gon=ccedil=alves:Alexandre_Domingues" pid="18/4900">Alexandre Domingues Gon&#231;alves</na><na>Alexandre D. Gon&#231;alves</na></co>
+<co c="0"><na f="k/Kloh:Henrique" pid="118/2701">Henrique Kloh</na></co>
+<co c="0"><na f="l/Lima:Alexandre" pid="49/4631">Alexandre Lima</na></co>
+<co c="0"><na f="l/Lopes:Camila_R=" pid="307/4510">Camila R. Lopes</na></co>
+<co c="0"><na f="m/Malini:Renzo_Q=" pid="372/9071">Renzo Q. Malini</na></co>
+<co c="0"><na f="m/Martins:Nat=aacute=lia_Florencio" pid="80/3485">Nat&#225;lia Florencio Martins</na></co>
+<co c="0" n="2"><na f="m/Melo:Alba_Cristina_Magalhaes_Alves_de" pid="m/AlbaCMAMelo">Alba Cristina Magalhaes Alves de Melo</na><na>Alba C. M. A. Melo</na></co>
+<co c="0"><na f="m/Mendes:Helder_de_Amorim" pid="86/6838">Helder de Amorim Mendes</na></co>
+<co c="0"><na f="m/Menezes:Luiz_Toscano" pid="50/5870">Luiz Toscano Menezes</na></co>
+<co c="0"><na f="m/Mladenovic:Nenad" pid="11/1904">Nenad Mladenovic</na></co>
+<co c="0"><na f="m/Moreno:Edward_D=" pid="m/EdwardDMoreno">Edward D. Moreno</na></co>
+<co c="0"><na f="m/Moura:Nilmax_Teones" pid="21/4894">Nilmax Teones Moura</na></co>
+<co c="0"><na f="n/Nascimento:Aline_de_Paula" pid="50/3811">Aline de Paula Nascimento</na></co>
+<co c="0"><na f="n/Nicodemus:Carlos_H=_Z=" pid="282/8560">Carlos H. Z. Nicodemus</na></co>
+<co c="0"><na f="n/Nunes:Alan_L=" pid="298/8600">Alan L. Nunes</na></co>
+<co c="0"><na f="o/Ochi:Luiz_Satoru" pid="o/LuizSatoruOchi">Luiz Satoru Ochi</na></co>
+<co c="0"><na f="o/Oliveira_0001:Daniel_de" pid="68/7553-1">Daniel de Oliveira 0001</na></co>
+<co c="0"><na f="o/Oliveira:Douglas_E=_M=_de" pid="54/8935">Douglas E. M. de Oliveira</na></co>
+<co c="0"><na f="p/Pessoa:Artur_Alves" pid="40/1704">Artur Alves Pessoa</na></co>
+<co c="0"><na f="p/Pilla:La=eacute=rcio_Lima" pid="75/2582">La&#233;rcio Lima Pilla</na></co>
+<co c="0"><na f="p/Portella:Felipe_Albuquerque" pid="283/5933">Felipe Albuquerque Portella</na></co>
+<co c="0"><na f="p/Porto_0001:F=aacute=bio" pid="p/FabioPorto">F&#225;bio Porto 0001</na></co>
+<co c="0"><na f="r/Rebello:Vinod_E=_F=" pid="79/2476">Vinod E. F. Rebello</na></co>
+<co c="0"><na f="r/Ribeiro:Celso_C=" pid="26/4167">Celso C. Ribeiro</na></co>
+<co c="0"><na f="r/Ribeiro:Felipe" pid="140/0935">Felipe Ribeiro</na></co>
+<co c="0"><na f="r/Rios:Eyder" pid="80/2639">Eyder Rios</na></co>
+<co c="0"><na f="s/Sardi=ntilde=a:Idalmis_Mili=aacute=n" pid="68/8239">Idalmis Mili&#225;n Sardi&#241;a</na></co>
+<co c="0"><na f="s/Sawamura:Roberto" pid="174/4141">Roberto Sawamura</na></co>
+<co c="0"><na f="s/Schulze:Bruno" pid="27/729">Bruno Schulze</na></co>
+<co c="0"><na f="s/Sena:Alexandre_da_Costa" pid="73/1177">Alexandre da Costa Sena</na></co>
+<co c="0"><na f="s/Silva:Jacques_Alves_da" pid="85/5474">Jacques Alves da Silva</na></co>
+<co c="0"><na f="s/Silva:Juliana_M=_N=" pid="55/5086">Juliana M. N. Silva</na></co>
+<co c="0"><na f="s/Silva:Thiago" pid="177/2477">Thiago Silva</na></co>
+<co c="0"><na f="s/Skillicorn:David_B=" pid="s/DavidBSkillicorn">David B. Skillicorn</na></co>
+<co c="0"><na f="s/Sodr=eacute=:Daniel_B=" pid="390/9324">Daniel B. Sodr&#233;</na></co>
+<co c="0"><na f="t/Tadonki:Claude" pid="75/1189">Claude Tadonki</na></co>
+<co c="0"><na f="t/Teylo:Luan" pid="204/8978">Luan Teylo</na></co>
+<co c="1"><na f="t/Thanisch:Peter" pid="t/PeterThanisch">Peter Thanisch</na></co>
+<co c="0"><na f="u/Urrutia:Sebasti=aacute=n" pid="u/SebastianUrrutia">Sebasti&#225;n Urrutia</na></co>
+<co c="0"><na f="v/Valencia:Jose" pid="167/8267">Jose Valencia</na></co>
+<co c="0"><na f="v/Vianna:Bruno_A=" pid="85/399">Bruno A. Vianna</na></co>
+<co c="0"><na f="v/Vianna:Bruno_de_Azevedo" pid="14/520">Bruno de Azevedo Vianna</na></co>
+<co c="0" n="2"><na f="v/Vianna_0001:Daniela" pid="89/4325">Daniela Vianna 0001</na><na>Daniela Q. C. Vianna</na></co>
+<co c="0" n="2"><na f="v/Viterbo:Jos=eacute=" pid="15/374">Jos&#233; Viterbo</na><na>Jos&#233; Viterbo Filho</na></co>
+<co c="0"><na f="z/Zamith:Juliana" pid="177/2485">Juliana Zamith</na></co>
+</coauthors>
+</dblpperson>
+

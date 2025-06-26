@@ -1,0 +1,469 @@
+<?xml version="1.0"?>
+<dblpperson name="Daniel Weingaertner" pid="94/5519" n="25">
+<person key="homepages/94/5519" mdate="2009-06-10">
+<author pid="94/5519">Daniel Weingaertner</author>
+</person>
+<r><article key="journals/soco/MartinsOWBOL21" mdate="2024-10-06">
+<author orcid="0000-0003-0480-6573" pid="282/5629">Jefferson G. Martins</author>
+<author pid="o/LuizSOliveira">Luiz E. S. Oliveira</author>
+<author pid="94/5519">Daniel Weingaertner</author>
+<author pid="287/8794">Andersson Barison</author>
+<author orcid="0000-0002-7936-5429" pid="287/8927">Gerlon A. R. Oliveira</author>
+<author orcid="0000-0001-9985-2980" pid="287/8887">Luciano M. Li&#227;o</author>
+<title>A database for automatic classification of gender in Araucaria angustifolia plants.</title>
+<pages>5503-5517</pages>
+<year>2021</year>
+<volume>25</volume>
+<journal>Soft Comput.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1007/s00500-020-05551-x</ee>
+<url>db/journals/soco/soco25.html#MartinsOWBOL21</url>
+</article>
+</r>
+<r><article key="journals/swevo/PerroniDW21" mdate="2021-10-14">
+<author orcid="0000-0002-9458-5219" pid="177/2432">Peter Frank Perroni</author>
+<author pid="80/3289">Myriam Regattieri Delgado</author>
+<author pid="94/5519">Daniel Weingaertner</author>
+<title>Treasure Hunt Framework: Distributing Metaheuristics on High Performance Computing Systems.</title>
+<pages>100906</pages>
+<year>2021</year>
+<volume>65</volume>
+<journal>Swarm Evol. Comput.</journal>
+<ee>https://doi.org/10.1016/j.swevo.2021.100906</ee>
+<url>db/journals/swevo/swevo65.html#PerroniDW21</url>
+</article>
+</r>
+<r><article key="journals/vlc/MachadoEMW21" mdate="2021-12-07">
+<author pid="250/3388">Rafael Ravedutti L. Machado</author>
+<author pid="163/2189">Jan Eitzinger</author>
+<author pid="98/1959">Andr&#233; Murbach Maidl</author>
+<author pid="94/5519">Daniel Weingaertner</author>
+<title>An instrumentation framework for performance analysis of Halide schedules.</title>
+<pages>101065</pages>
+<year>2021</year>
+<volume>67</volume>
+<journal>J. Comput. Lang.</journal>
+<ee>https://doi.org/10.1016/j.cola.2021.101065</ee>
+<url>db/journals/vlc/vlc67.html#MachadoEMW21</url>
+</article>
+</r>
+<r><inproceedings key="conf/bdc/EhrenfriedTWBSF19" mdate="2022-04-09">
+<author orcid="0000-0003-4922-5510" pid="233/8968">Henrique Varella Ehrenfried</author>
+<author orcid="0000-0001-6045-1274" pid="91/2657">Eduardo Todt</author>
+<author pid="94/5519">Daniel Weingaertner</author>
+<author pid="78/3197">Luis Carlos Erpen De Bona</author>
+<author pid="78/6175">Fabiano Silva</author>
+<author pid="15/5866">Marcos Didonet Del Fabro</author>
+<title>Managing Open Data Evolution through Bi-dimensional Mappings.</title>
+<pages>159-162</pages>
+<year>2019</year>
+<booktitle>BDCAT</booktitle>
+<ee>https://doi.org/10.1145/3365109.3368774</ee>
+<crossref>conf/bdc/2019</crossref>
+<url>db/conf/bdc/bdcat2019.html#EhrenfriedTWBSF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/MarcondesZPW19" mdate="2021-10-14">
+<author pid="256/0224">Eduardo J. Marcondes</author>
+<author pid="256/0262">Bruno Nocera Zanette</author>
+<author orcid="0000-0002-9458-5219" pid="177/2432">Peter Frank Perroni</author>
+<author pid="94/5519">Daniel Weingaertner</author>
+<title>Evolutionary Algorithms with Constraint Handling for the Hydroelectric Dispatch Planning.</title>
+<pages>527-532</pages>
+<year>2019</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2019.00098</ee>
+<crossref>conf/bracis/2019</crossref>
+<url>db/conf/bracis/bracis2019.html#MarcondesZPW19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/EhrenfriedEITWF19" mdate="2022-04-09">
+<author orcid="0000-0003-4922-5510" pid="233/8968">Henrique V. Ehrenfried</author>
+<author pid="219/8309">Rudolf Eckelberg</author>
+<author pid="237/3480">Hamer Iboshi</author>
+<author orcid="0000-0001-6045-1274" pid="91/2657">Eduardo Todt</author>
+<author pid="94/5519">Daniel Weingaertner</author>
+<author pid="15/5866">Marcos Didonet Del Fabro</author>
+<title>HOTMapper: Historical Open Data Table Mapper.</title>
+<pages>550-553</pages>
+<year>2019</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2019.53</ee>
+<crossref>conf/edbt/2019</crossref>
+<url>db/conf/edbt/edbt2019.html#EhrenfriedEITWF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/Risso0CRW19" mdate="2020-06-15">
+<author pid="255/2778">Jo&#227;o Victor Tozatti Risso</author>
+<author pid="62/4807-3">Martin Bauer 0003</author>
+<author pid="262/4542">Paulo Roberto de Carvalho</author>
+<author orcid="0000-0001-8796-8599" pid="75/2928">Ulrich R&#252;de</author>
+<author pid="94/5519">Daniel Weingaertner</author>
+<title>Scalable GPU Communication with Code Generation on Stencil Applications.</title>
+<pages>88-95</pages>
+<year>2019</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2019.00026</ee>
+<crossref>conf/sbac-pad/2019</crossref>
+<url>db/conf/sbac-pad/sbac-pad2019.html#Risso0CRW19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/MachadoMW19" mdate="2019-10-09">
+<author pid="250/3388">Rafael Ravedutti L. Machado</author>
+<author pid="98/1959">Andr&#233; Murbach Maidl</author>
+<author pid="94/5519">Daniel Weingaertner</author>
+<title>Profiling Halide DSL with CPU Performance Events for Schedule Optimization.</title>
+<pages>38-45</pages>
+<year>2019</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3355378.3355381</ee>
+<crossref>conf/sblp/2019</crossref>
+<url>db/conf/sblp/sblp2019.html#MachadoMW19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/SeveroLBZWMM18" mdate="2019-10-19">
+<author pid="215/5287">Evair Severo</author>
+<author orcid="0000-0003-1943-2711" pid="215/5013">Rayson Laroca</author>
+<author pid="217/1460">Cides S. Bezerra</author>
+<author pid="215/5119">Luiz A. Zanlorensi</author>
+<author pid="94/5519">Daniel Weingaertner</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston Moreira</author>
+<author pid="10/2834">David Menotti</author>
+<title>A Benchmark for Iris Location and a Deep Learning Detector Evaluation.</title>
+<pages>1-7</pages>
+<year>2018</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2018.8489638</ee>
+<crossref>conf/ijcnn/2018</crossref>
+<url>db/conf/ijcnn/ijcnn2018.html#SeveroLBZWMM18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-01250" mdate="2018-08-13">
+<author pid="215/5287">Evair Severo</author>
+<author pid="215/5013">Rayson Laroca</author>
+<author pid="217/1460">Cides S. Bezerra</author>
+<author pid="215/5119">Luiz A. Zanlorensi</author>
+<author pid="94/5519">Daniel Weingaertner</author>
+<author pid="52/9358">Gladston Moreira</author>
+<author pid="10/2834">David Menotti</author>
+<title>A Benchmark for Iris Location and a Deep Learning Detector Evaluation.</title>
+<year>2018</year>
+<volume>abs/1803.01250</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.01250</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-01250</url>
+</article>
+</r>
+<r><inproceedings key="conf/aiccsa/TroisWPMASTBCFS17" mdate="2023-03-24">
+<author pid="115/5972">Celio Trois</author>
+<author pid="94/5519">Daniel Weingaertner</author>
+<author pid="144/4659">Diego Pasqualin</author>
+<author pid="216/4336">Edemir Maciel</author>
+<author orcid="0000-0002-6644-956X" pid="53/2190">Eduardo C. de Almeida</author>
+<author pid="78/6175">Fabiano Silva</author>
+<author pid="139/3208">Hegler Tissot</author>
+<author orcid="0000-0001-6339-499X" pid="78/3197">Luis C. E. Bona</author>
+<author pid="27/5056">Marcos A. Castilho</author>
+<author pid="15/5866">Marcos Didonet Del Fabro</author>
+<author pid="21/3766">Marcos Sfair Sunye</author>
+<title>Transparency Meets Management: A Monitoring and Evaluating Tool for Governmental Projects.</title>
+<pages>1429-1435</pages>
+<year>2017</year>
+<booktitle>AICCSA</booktitle>
+<ee>https://doi.org/10.1109/AICCSA.2017.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AICCSA.2017.17</ee>
+<crossref>conf/aiccsa/2017</crossref>
+<url>db/conf/aiccsa/aiccsa2017.html#TroisWPMASTBCFS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/PerroniWD17" mdate="2019-10-19">
+<author orcid="0000-0002-9458-5219" pid="177/2432">Peter Frank Perroni</author>
+<author pid="94/5519">Daniel Weingaertner</author>
+<author pid="80/3289">Myriam Regattieri Delgado</author>
+<title>Estimating stop conditions of swarm based stochastic metaheuristic algorithms.</title>
+<pages>43-50</pages>
+<year>2017</year>
+<booktitle>GECCO</booktitle>
+<ee>https://doi.org/10.1145/3071178.3071326</ee>
+<crossref>conf/gecco/2017</crossref>
+<url>db/conf/gecco/gecco2017.html#PerroniWD17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eups/DireneJCTPWPMAT16" mdate="2022-04-09">
+<author pid="89/3659">Alexandre Ibrahim Direne</author>
+<author pid="294/1775">Bruno Muller Junior</author>
+<author pid="93/9666-2">Carlos Alberto Martins de Carvalho</author>
+<author pid="115/5972">Celio Trois</author>
+<author pid="144/4474">Cleide Luzia Bonfim Possamai</author>
+<author pid="94/5519">Daniel Weingaertner</author>
+<author pid="144/4659">Diego Giovane Pasqualin</author>
+<author pid="294/1786">Edemir Reginaldo Maciel</author>
+<author pid="53/2190">Eduardo Cunha de Almeida</author>
+<author pid="91/2657">Eduardo Todt</author>
+<author pid="78/6175">Fabiano Silva</author>
+<author pid="139/3208">Hegler Correa Tissot</author>
+<author pid="58/488">Laura S&#225;nchez Garc&#237;a</author>
+<author orcid="0000-0002-8922-6975" pid="72/593">Leticia Mara Peres</author>
+<author pid="78/3197">Luis Carlos Erpen De Bona</author>
+<author pid="27/5056">Marcos Alexandre Castilho</author>
+<author pid="15/5866">Marcos Didonet Del Fabro</author>
+<author pid="21/3766">Marcos Sfair Sunye</author>
+<author pid="218/4822">Marina Assako Hoshiba Pimentel</author>
+<title>C3SL - From Education to Public Transparency, Fifteen Years Developing Computer Systems for the Brazilian Society.</title>
+<year>2016</year>
+<booktitle>EPS</booktitle>
+<ee>https://doi.org/10.5220/0007902900500072</ee>
+<crossref>conf/eups/2016-1</crossref>
+<url>db/conf/eups/eups2016-1.html#DireneJCTPWPMAT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ideas/PasqualinSBAFW16" mdate="2019-09-16">
+<author pid="144/4659">Diego Pasqualin</author>
+<author pid="185/5282">Giovanni Souza</author>
+<author pid="185/5200">Eduardo Luis Buratti</author>
+<author orcid="0000-0002-6644-956X" pid="53/2190">Eduardo Cunha de Almeida</author>
+<author pid="15/5866">Marcos Didonet Del Fabro</author>
+<author pid="94/5519">Daniel Weingaertner</author>
+<title>A Case Study of the Aggregation Query Model in Read-Mostly NoSQL Document Stores.</title>
+<pages>224-229</pages>
+<year>2016</year>
+<booktitle>IDEAS</booktitle>
+<ee>https://doi.org/10.1145/2938503.2938546</ee>
+<crossref>conf/ideas/2016</crossref>
+<url>db/conf/ideas/ideas2016.html#PasqualinSBAFW16</url>
+</inproceedings>
+</r>
+<r><article key="journals/jbi/PahlZNBWDSI15" mdate="2021-10-14">
+<author pid="118/7828">Christina Pahl</author>
+<author pid="163/5479">Mojtaba Zare</author>
+<author orcid="0000-0003-0099-8299" pid="00/10223">Mehrbakhsh Nilashi</author>
+<author pid="163/5462">Marco Aur&#233;lio de Faria Borges</author>
+<author pid="94/5519">Daniel Weingaertner</author>
+<author pid="13/10224">Vesselin Detschew</author>
+<author orcid="0000-0002-2142-8351" pid="09/7751">Eko Supriyanto</author>
+<author orcid="0000-0002-9910-0962" pid="99/3453">Othman Ibrahim</author>
+<title>Role of OpenEHR as an open source solution for the regional modelling of patient data in obstetrics.</title>
+<pages>174-187</pages>
+<year>2015</year>
+<volume>55</volume>
+<journal>J. Biomed. Informatics</journal>
+<ee type="oa">https://doi.org/10.1016/j.jbi.2015.04.004</ee>
+<ee>https://www.wikidata.org/entity/Q30938406</ee>
+<url>db/journals/jbi/jbi55.html#PahlZNBWDSI15</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/PerroniWD15" mdate="2023-03-24">
+<author orcid="0000-0002-9458-5219" pid="177/2432">Peter Frank Perroni</author>
+<author pid="94/5519">Daniel Weingaertner</author>
+<author pid="80/3289">Myriam Regattieri Delgado</author>
+<title>Automated Iterative Partitioning for Cooperatively Coevolving Particle Swarms in Large Scale Optimization.</title>
+<pages>19-24</pages>
+<year>2015</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2015.51</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2015.51</ee>
+<crossref>conf/bracis/2015</crossref>
+<url>db/conf/bracis/bracis2015.html#PerroniWD15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cbms/BragesteiroOW15" mdate="2023-03-24">
+<author pid="165/9364">Luiza Dri Bagesteiro</author>
+<author orcid="0000-0002-8198-0877" pid="165/9092">Lucas F. Oliveira</author>
+<author pid="94/5519">Daniel Weingaertner</author>
+<title>Blockwise Classification of Lung Patterns in Unsegmented CT Images.</title>
+<pages>177-182</pages>
+<year>2015</year>
+<booktitle>CBMS</booktitle>
+<ee>https://doi.org/10.1109/CBMS.2015.32</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CBMS.2015.32</ee>
+<crossref>conf/cbms/2015</crossref>
+<url>db/conf/cbms/cbms2015.html#BragesteiroOW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oss/PossamaiPWTCBA14" mdate="2021-10-14">
+<author pid="144/4474">Cleide L. B. Possamai</author>
+<author pid="144/4659">Diego Pasqualin</author>
+<author pid="94/5519">Daniel Weingaertner</author>
+<author orcid="0000-0001-6045-1274" pid="91/2657">Eduardo Todt</author>
+<author pid="27/5056">Marcos A. Castilho</author>
+<author orcid="0000-0001-6339-499X" pid="78/3197">Luis Carlos Erpen De Bona</author>
+<author orcid="0000-0002-6644-956X" pid="53/2190">Eduardo Cunha de Almeida</author>
+<title>PROINFODATA: Monitoring a Large Park of Computational Laboratories.</title>
+<pages>226-229</pages>
+<year>2014</year>
+<booktitle>OSS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-55128-4_34</ee>
+<crossref>conf/oss/2014</crossref>
+<url>db/conf/oss/oss2014.html#PossamaiPWTCBA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/PorfirioWOW13" mdate="2024-02-15">
+<author pid="141/7985">Andres Jess&#233; Porfirio</author>
+<author pid="141/8272">Kelly Lais Wiggers</author>
+<author pid="o/LuizSOliveira">Luiz E. S. Oliveira</author>
+<author pid="94/5519">Daniel Weingaertner</author>
+<title>LIBRAS Sign Language Hand Configuration Recognition Based on 3D Meshes.</title>
+<pages>1588-1593</pages>
+<year>2013</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/SMC.2013.274</ee>
+<crossref>conf/smc/2013</crossref>
+<url>db/conf/smc/smc2013.html#PorfirioWOW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wscad/LourencoWT12" mdate="2023-03-24">
+<author pid="258/4125">Luis H. A. Lourenco</author>
+<author pid="94/5519">Daniel Weingaertner</author>
+<author orcid="0000-0001-6045-1274" pid="91/2657">Eduardo Todt</author>
+<title>Efficient Implementation of Canny Edge Detection Filter for ITK Using CUDA.</title>
+<pages>33-40</pages>
+<year>2012</year>
+<booktitle>WSCAD-SSC</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WSCAD-SSC.2012.21</ee>
+<crossref>conf/wscad/2012</crossref>
+<url>db/conf/wscad/wscad2012.html#LourencoWT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lanoms/SchmelzerSSWBC11" mdate="2023-09-30">
+<author pid="57/10647">Sebastian Schmelzer</author>
+<author orcid="0000-0002-4382-5104" pid="69/4991">Dirk von Suchodoletz</author>
+<author pid="57/4242-1">Gerhard Schneider 0001</author>
+<author pid="94/5519">Daniel Weingaertner</author>
+<author orcid="0000-0001-6339-499X" pid="78/3197">Luis Carlos Erpen De Bona</author>
+<author pid="93/9666-2">Carlos Carvalho 0002</author>
+<title>Universal remote boot and administration service.</title>
+<pages>1-6</pages>
+<year>2011</year>
+<booktitle>LANOMS</booktitle>
+<ee>https://doi.org/10.1109/LANOMS.2011.6102270</ee>
+<crossref>conf/lanoms/2011</crossref>
+<url>db/conf/lanoms/lanoms2011.html#SchmelzerSSWBC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/visapp/WeingaertnerBSC08" mdate="2008-04-07">
+<author pid="94/5519">Daniel Weingaertner</author>
+<author pid="26/3892">Olga Regina Pereira Bellon</author>
+<author pid="69/2301">Luciano Silva</author>
+<author pid="32/919">M&#244;nica N. L. Cat</author>
+<title>Newborn's Biometric Identification: Can it be done?</title>
+<pages>200-205</pages>
+<year>2008</year>
+<booktitle>VISAPP (1)</booktitle>
+<crossref>conf/visapp/2008-1</crossref>
+<url>db/conf/visapp/visapp2008-1.html#WeingaertnerBSC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cec/WeingaertnerTGZ02" mdate="2022-01-03">
+<author pid="94/5519">Daniel Weingaertner</author>
+<author pid="308/9310">Victor K. Tatai</author>
+<author orcid="0000-0002-9666-3954" pid="20/6092">Ricardo R. Gudwin</author>
+<author pid="308/9367">Femando J J. Von Zuben</author>
+<title>Hierarchical evolution of heterogeneous neural networks.</title>
+<pages>1775-1780</pages>
+<year>2002</year>
+<booktitle>IEEE Congress on Evolutionary Computation</booktitle>
+<ee>https://doi.org/10.1109/CEC.2002.1004511</ee>
+<crossref>conf/cec/2002</crossref>
+<url>db/conf/cec/cec2002.html#WeingaertnerTGZ02</url>
+</inproceedings>
+</r>
+<r><article key="journals/cg/CoelhoWGR01" mdate="2021-10-14">
+<author orcid="0000-0003-3527-9091" pid="c/AndreLVCoelho">Andr&#233; Lu&#237;s Vasconcelos Coelho</author>
+<author pid="94/5519">Daniel Weingaertner</author>
+<author orcid="0000-0002-9666-3954" pid="20/6092">Ricardo R. Gudwin</author>
+<author orcid="0000-0003-4832-9318" pid="53/6067">Ivan Luiz Marques Ricarte</author>
+<title>Emergence of multiagent spatial coordination strategies through artificial coevolution.</title>
+<pages>1013-1023</pages>
+<year>2001</year>
+<volume>25</volume>
+<journal>Comput. Graph.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/S0097-8493(01)00155-8</ee>
+<url>db/journals/cg/cg25.html#CoelhoWGR01</url>
+</article>
+</r>
+<r><inproceedings key="conf/agents/CoelhoW01" mdate="2018-11-06">
+<author pid="c/AndreLVCoelho">Andr&#233; Lu&#237;s Vasconcelos Coelho</author>
+<author pid="94/5519">Daniel Weingaertner</author>
+<title>Evolving coordination strategies in simulated robot soccer.</title>
+<pages>147-148</pages>
+<year>2001</year>
+<crossref>conf/agents/2001</crossref>
+<booktitle>Agents</booktitle>
+<ee>https://doi.org/10.1145/375735.376030</ee>
+<url>db/conf/agents/agents2001.html#CoelhoW01</url>
+</inproceedings>
+</r>
+<coauthors n="69" nc="5">
+<co c="0" n="2"><na f="a/Almeida:Eduardo_C=_de" pid="53/2190">Eduardo C. de Almeida</na><na>Eduardo Cunha de Almeida</na></co>
+<co c="0"><na f="b/Bagesteiro:Luiza_Dri" pid="165/9364">Luiza Dri Bagesteiro</na></co>
+<co c="0"><na f="b/Barison:Andersson" pid="287/8794">Andersson Barison</na></co>
+<co c="1"><na f="b/Bauer_0003:Martin" pid="62/4807-3">Martin Bauer 0003</na></co>
+<co c="0" n="2"><na f="b/Bellon:Olga_R=_P=" pid="26/3892">Olga R. P. Bellon</na><na>Olga Regina Pereira Bellon</na></co>
+<co c="0"><na f="b/Bezerra:Cides_S=" pid="217/1460">Cides S. Bezerra</na></co>
+<co c="0" n="2"><na f="b/Bona:Luis_C=_E=" pid="78/3197">Luis C. E. Bona</na><na>Luis Carlos Erpen De Bona</na></co>
+<co c="2"><na f="b/Borges:Marco_Aur=eacute=lio_de_Faria" pid="163/5462">Marco Aur&#233;lio de Faria Borges</na></co>
+<co c="0"><na f="b/Buratti:Eduardo_Luis" pid="185/5200">Eduardo Luis Buratti</na></co>
+<co c="0" n="2"><na f="c/Carvalho_0002:Carlos" pid="93/9666-2">Carlos Carvalho 0002</na><na>Carlos Alberto Martins de Carvalho</na></co>
+<co c="1"><na f="c/Carvalho:Paulo_Roberto_de" pid="262/4542">Paulo Roberto de Carvalho</na></co>
+<co c="0" n="2"><na f="c/Castilho:Marcos_A=" pid="27/5056">Marcos A. Castilho</na><na>Marcos Alexandre Castilho</na></co>
+<co c="0"><na f="c/Cat:M=ocirc=nica_N=_L=" pid="32/919">M&#244;nica N. L. Cat</na></co>
+<co c="3" n="2"><na f="c/Coelho:Andr=eacute=_L=_V=" pid="c/AndreLVCoelho">Andr&#233; L. V. Coelho</na><na>Andr&#233; Lu&#237;s Vasconcelos Coelho</na></co>
+<co c="4"><na f="d/Delgado:Myriam_Regattieri" pid="80/3289">Myriam Regattieri Delgado</na></co>
+<co c="2"><na f="d/Detschew:Vesselin" pid="13/10224">Vesselin Detschew</na></co>
+<co c="0"><na f="d/Direne:Alexandre_Ibrahim" pid="89/3659">Alexandre Ibrahim Direne</na></co>
+<co c="0"><na f="e/Eckelberg:Rudolf" pid="219/8309">Rudolf Eckelberg</na></co>
+<co c="0" n="2"><na f="e/Ehrenfried:Henrique_V=" pid="233/8968">Henrique V. Ehrenfried</na><na>Henrique Varella Ehrenfried</na></co>
+<co c="1"><na f="e/Eitzinger:Jan" pid="163/2189">Jan Eitzinger</na></co>
+<co c="0"><na f="f/Fabro:Marcos_Didonet_Del" pid="15/5866">Marcos Didonet Del Fabro</na></co>
+<co c="0"><na f="g/Garc=iacute=a:Laura_S=aacute=nchez" pid="58/488">Laura S&#225;nchez Garc&#237;a</na></co>
+<co c="3"><na f="g/Gudwin:Ricardo_R=" pid="20/6092">Ricardo R. Gudwin</na></co>
+<co c="0"><na f="i/Iboshi:Hamer" pid="237/3480">Hamer Iboshi</na></co>
+<co c="2"><na f="i/Ibrahim:Othman" pid="99/3453">Othman Ibrahim</na></co>
+<co c="0"><na f="j/Junior:Bruno_Muller" pid="294/1775">Bruno Muller Junior</na></co>
+<co c="0"><na f="l/Laroca:Rayson" pid="215/5013">Rayson Laroca</na></co>
+<co c="0"><na f="l/Li=atilde=o:Luciano_M=" pid="287/8887">Luciano M. Li&#227;o</na></co>
+<co c="0"><na f="l/Lourenco:Luis_H=_A=" pid="258/4125">Luis H. A. Lourenco</na></co>
+<co c="1"><na f="m/Machado:Rafael_Ravedutti_L=" pid="250/3388">Rafael Ravedutti L. Machado</na></co>
+<co c="0"><na f="m/Maciel:Edemir" pid="216/4336">Edemir Maciel</na></co>
+<co c="0"><na f="m/Maciel:Edemir_Reginaldo" pid="294/1786">Edemir Reginaldo Maciel</na></co>
+<co c="1"><na f="m/Maidl:Andr=eacute=_Murbach" pid="98/1959">Andr&#233; Murbach Maidl</na></co>
+<co c="4"><na f="m/Marcondes:Eduardo_J=" pid="256/0224">Eduardo J. Marcondes</na></co>
+<co c="0"><na f="m/Martins:Jefferson_G=" pid="282/5629">Jefferson G. Martins</na></co>
+<co c="0"><na f="m/Menotti:David" pid="10/2834">David Menotti</na></co>
+<co c="0" n="2"><na f="m/Moreira:Gladston_J=_P=" pid="52/9358">Gladston J. P. Moreira</na><na>Gladston Moreira</na></co>
+<co c="2"><na f="n/Nilashi:Mehrbakhsh" pid="00/10223">Mehrbakhsh Nilashi</na></co>
+<co c="0"><na f="o/Oliveira:Gerlon_A=_R=" pid="287/8927">Gerlon A. R. Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Lucas_F=" pid="165/9092">Lucas F. Oliveira</na></co>
+<co c="0" n="2"><na f="o/Oliveira:Luiz_Eduardo_Soares_de" pid="o/LuizSOliveira">Luiz Eduardo Soares de Oliveira</na><na>Luiz E. S. Oliveira</na></co>
+<co c="2"><na f="p/Pahl:Christina" pid="118/7828">Christina Pahl</na></co>
+<co c="0" n="2"><na f="p/Pasqualin:Diego" pid="144/4659">Diego Pasqualin</na><na>Diego Giovane Pasqualin</na></co>
+<co c="0" n="2"><na f="p/Peres:Let=iacute=cia_M=" pid="72/593">Let&#237;cia M. Peres</na><na>Leticia Mara Peres</na></co>
+<co c="4"><na f="p/Perroni:Peter_Frank" pid="177/2432">Peter Frank Perroni</na></co>
+<co c="0" n="2"><na f="p/Pimentel:Marina_A=_Hoshiba" pid="218/4822">Marina A. Hoshiba Pimentel</na><na>Marina Assako Hoshiba Pimentel</na></co>
+<co c="0"><na f="p/Porfirio:Andres_Jess=eacute=" pid="141/7985">Andres Jess&#233; Porfirio</na></co>
+<co c="0" n="2"><na f="p/Possamai:Cleide_L=_B=" pid="144/4474">Cleide L. B. Possamai</na><na>Cleide Luzia Bonfim Possamai</na></co>
+<co c="3"><na f="r/Ricarte:Ivan_Luiz_Marques" pid="53/6067">Ivan Luiz Marques Ricarte</na></co>
+<co c="1"><na f="r/Risso:Jo=atilde=o_Victor_Tozatti" pid="255/2778">Jo&#227;o Victor Tozatti Risso</na></co>
+<co c="1"><na f="r/R=uuml=de:Ulrich" pid="75/2928">Ulrich R&#252;de</na></co>
+<co c="0"><na f="s/Schmelzer:Sebastian" pid="57/10647">Sebastian Schmelzer</na></co>
+<co c="0"><na f="s/Schneider_0001:Gerhard" pid="57/4242-1">Gerhard Schneider 0001</na></co>
+<co c="0"><na f="s/Severo:Evair" pid="215/5287">Evair Severo</na></co>
+<co c="0"><na f="s/Silva:Fabiano" pid="78/6175">Fabiano Silva</na></co>
+<co c="0"><na f="s/Silva:Luciano" pid="69/2301">Luciano Silva</na></co>
+<co c="0"><na f="s/Souza:Giovanni" pid="185/5282">Giovanni Souza</na></co>
+<co c="0"><na f="s/Suchodoletz:Dirk_von" pid="69/4991">Dirk von Suchodoletz</na></co>
+<co c="0" n="2"><na f="s/Suny=eacute=:Marcos_Sfair" pid="21/3766">Marcos Sfair Suny&#233;</na><na>Marcos Sfair Sunye</na></co>
+<co c="2"><na f="s/Supriyanto:Eko" pid="09/7751">Eko Supriyanto</na></co>
+<co c="3"><na f="t/Tatai:Victor_K=" pid="308/9310">Victor K. Tatai</na></co>
+<co c="0" n="2"><na f="t/Tissot:Hegler" pid="139/3208">Hegler Tissot</na><na>Hegler Correa Tissot</na></co>
+<co c="0"><na f="t/Todt:Eduardo" pid="91/2657">Eduardo Todt</na></co>
+<co c="0"><na f="t/Trois:Celio" pid="115/5972">Celio Trois</na></co>
+<co c="0"><na f="w/Wiggers:Kelly_Lais" pid="141/8272">Kelly Lais Wiggers</na></co>
+<co c="4"><na f="z/Zanette:Bruno_Nocera" pid="256/0262">Bruno Nocera Zanette</na></co>
+<co c="0"><na f="z/Zanlorensi:Luiz_A=" pid="215/5119">Luiz A. Zanlorensi</na></co>
+<co c="2"><na f="z/Zare:Mojtaba" pid="163/5479">Mojtaba Zare</na></co>
+<co c="3"><na f="z/Zuben:Femando_J_J=_Von" pid="308/9367">Femando J J. Von Zuben</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Joel Luis Carbonera" pid="121/5033" n="79">
+<dblpperson name="Joel Luis Carbonera" pid="121/5033" n="78">
 <person key="homepages/121/5033" mdate="2020-09-18">
 <author pid="121/5033">Joel Luis Carbonera</author>
 <author pid="121/5033">Joel Lu&#237;s Carbonera</author>
@@ -38,20 +38,6 @@
 <ee type="oa">http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6666</ee>
 <url>db/journals/pdln/pdln74.html#NunesSFBC25</url>
 <stream>streams/journals/pdln</stream>
-</article>
-</r>
-<r><article publtype="informal" key="journals/corr/abs-2505-12581" mdate="2025-06-25">
-<author pid="408/1452">Lucas M. Dorneles</author>
-<author pid="135/0951">Luan Fonseca Garcia</author>
-<author pid="121/5033">Joel Lu&#237;s Carbonera</author>
-<title>An approach based on class activation maps for investigating the effects of data augmentation on neural networks for image classification.</title>
-<year>2025</year>
-<month>May</month>
-<volume>abs/2505.12581</volume>
-<journal>CoRR</journal>
-<ee type="oa">https://doi.org/10.48550/arXiv.2505.12581</ee>
-<url>db/journals/corr/corr2505.html#abs-2505-12581</url>
-<stream>streams/journals/corr</stream>
 </article>
 </r>
 <r><article key="journals/eswa/TodescatoGBC24" mdate="2023-11-09">
@@ -1185,7 +1171,7 @@
 <url>db/conf/ontobras/ontobras2011.html#CarboneraASB11</url>
 </inproceedings>
 </r>
-<coauthors n="95" nc="1">
+<coauthors n="94" nc="1">
 <co c="0"><na f="a/Abel:Mara" pid="a/MaraAbel">Mara Abel</na></co>
 <co c="0"><na f="a/Alarcos:Alberto_Olivares" pid="198/1611">Alberto Olivares Alarcos</na></co>
 <co c="0"><na f="a/Amirat:Yacine" pid="75/2685">Yacine Amirat</na></co>
@@ -1202,7 +1188,6 @@
 <co c="0"><na f="c/Chibani:Abdelghani" pid="12/6611">Abdelghani Chibani</na></co>
 <co c="0"><na f="c/Cicconeto:Fernando" pid="278/1413">Fernando Cicconeto</na></co>
 <co c="0"><na f="c/Costa:Matheus_M=" pid="364/7802">Matheus M. Costa</na></co>
-<co c="0"><na f="d/Dorneles:Lucas_M=" pid="408/1452">Lucas M. Dorneles</na></co>
 <co c="0"><na f="e/Engelmann:D=eacute=bora_C=" pid="225/2571">D&#233;bora C. Engelmann</na></co>
 <co c="0"><na f="f/Fabiano:Nicola" pid="213/8856">Nicola Fabiano</na></co>
 <co c="0"><na f="f/Facchinetti:Tullio" pid="91/5825">Tullio Facchinetti</na></co>

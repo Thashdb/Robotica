@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Paulo L. J. Drews-Jr" pid="76/7747" n="180">
+<dblpperson name="Paulo L. J. Drews-Jr" pid="76/7747" n="179">
 <person key="homepages/76/7747" mdate="2025-01-10">
 <author pid="76/7747">Paulo L. J. Drews-Jr</author>
 <author pid="76/7747">Paulo Drews Jr.</author>
@@ -67,20 +67,6 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2501.16211</ee>
 <url>db/journals/corr/corr2501.html#abs-2501-16211</url>
-<stream>streams/journals/corr</stream>
-</article>
-</r>
-<r><article publtype="informal" key="journals/corr/abs-2505-15465" mdate="2025-06-25">
-<author pid="175/7320">Guilherme de Oliveira</author>
-<author pid="210/2050">Matheus Machado dos Santos</author>
-<author pid="76/7747">Paulo L. J. Drews-Jr</author>
-<title>Synthetic Enclosed Echoes: A New Dataset to Mitigate the Gap Between Simulated and Real-World Sonar Data.</title>
-<year>2025</year>
-<month>May</month>
-<volume>abs/2505.15465</volume>
-<journal>CoRR</journal>
-<ee type="oa">https://doi.org/10.48550/arXiv.2505.15465</ee>
-<url>db/journals/corr/corr2505.html#abs-2505-15465</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>
@@ -2842,7 +2828,7 @@
 <url>db/conf/iros/iros2009.html#TrujilloDRCD09</url>
 </inproceedings>
 </r>
-<coauthors n="233" nc="3">
+<coauthors n="232" nc="3">
 <co c="0"><na f="a/Aliakbarpour:Hadi" pid="29/8124">Hadi Aliakbarpour</na></co>
 <co c="0"><na f="a/Almeida:Felipe" pid="21/4807">Felipe Almeida</na></co>
 <co c="0"><na f="a/Almeida:Gabrielle" pid="356/4209">Gabrielle Almeida</na></co>
@@ -2999,7 +2985,6 @@
 <co c="0" n="2"><na f="o/Oliveira:Gabriel_L=" pid="117/2073">Gabriel L. Oliveira</na><na>Gabriel Leivas Oliveira</na></co>
 <co c="0"><na f="o/Oliveira:Guilherme_C=" pid="178/7923">Guilherme C. Oliveira</na></co>
 <co c="0"><na f="o/Oliveira:Guilherme_Camargo_de" pid="353/0551">Guilherme Camargo de Oliveira</na></co>
-<co c="0"><na f="o/Oliveira:Guilherme_de" pid="175/7320">Guilherme de Oliveira</na></co>
 <co c="0" n="2"><na f="o/Oliveira:Vinicius_Menezes_de" pid="08/2829">Vinicius Menezes de Oliveira</na><na>Vin&#237;cius Menezes de Oliveira</na></co>
 <co c="0"><na f="o/Otani:Mario" pid="298/0184">Mario Otani</na></co>
 <co c="0"><na f="p/Palmeira:Eduardo_Silva" pid="68/10789">Eduardo Silva Palmeira</na></co>

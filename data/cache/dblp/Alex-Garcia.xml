@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<dblpperson name="Alex Garcia" pid="149/2580" n="2">
+<person key="homepages/149/2580" mdate="2014-08-01">
+<author pid="149/2580">Alex Garcia</author>
+</person>
+<r><inproceedings key="conf/metroi/PachecoGMS18" mdate="2024-05-07">
+<author pid="65/5698">Carla Pacheco</author>
+<author pid="149/2580">Alex Garcia</author>
+<author pid="83/1163">Raphael Machado</author>
+<author orcid="0000-0002-3916-5086" pid="47/3461">Ronaldo M. Salles</author>
+<title>Building Reference Datasets to Support Socialbots Detection.</title>
+<pages>198-202</pages>
+<year>2018</year>
+<booktitle>MetroInd4.0&#38;IoT</booktitle>
+<ee>https://doi.org/10.1109/METROI4.2018.8428331</ee>
+<crossref>conf/metroi/2018</crossref>
+<url>db/conf/metroi/metroi2018.html#PachecoGMS18</url>
+</inproceedings>
+</r>
+<r><article key="journals/dam/PereiraGM14" mdate="2024-10-06">
+<author pid="54/2087">Paulo Renato da Costa Pereira</author>
+<author orcid="0000-0002-2649-1106" pid="149/2580">Alex Garcia</author>
+<author pid="21/3703">Lilian Markenzon</author>
+<title>Generating and counting unlabeled k-path graphs.</title>
+<pages>297-303</pages>
+<year>2014</year>
+<volume>164</volume>
+<journal>Discret. Appl. Math.</journal>
+<ee type="oa">https://doi.org/10.1016/j.dam.2011.11.015</ee>
+<url>db/journals/dam/dam164.html#PereiraGM14</url>
+</article>
+</r>
+<coauthors n="5" nc="2">
+<co c="0"><na f="m/Machado:Raphael" pid="83/1163">Raphael Machado</na></co>
+<co c="1"><na f="m/Markenzon:Lilian" pid="21/3703">Lilian Markenzon</na></co>
+<co c="0"><na f="p/Pacheco:Carla" pid="65/5698">Carla Pacheco</na></co>
+<co c="1"><na f="p/Pereira:Paulo_Renato_da_Costa" pid="54/2087">Paulo Renato da Costa Pereira</na></co>
+<co c="0"><na f="s/Salles:Ronaldo_M=" pid="47/3461">Ronaldo M. Salles</na></co>
+</coauthors>
+</dblpperson>
+

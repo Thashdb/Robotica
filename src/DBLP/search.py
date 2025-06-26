@@ -44,8 +44,8 @@ def init_manual_files():
         m_area, _, _, _, m_url = row  # Extrai a área e a URL do jornal
         Global.manual_classification[m_url] = m_area  # Associa a URL à área correspondente
 
-# Registra falhas de classificação de jornais multi-área
 def output_mc_failed(year, dblp_venue, title, url):
+    # Registra falhas de classificação de jornais multi-área
     if url in Global.multi_area_journal_list:
         return  # Se o URL já estiver na lista, não faz nada
     Global.multi_area_journal_list.append(url)  # Adiciona o URL à lista
@@ -61,8 +61,8 @@ def output_mc_failed(year, dblp_venue, title, url):
     file.write(str(url))
     file.write("\n")
 
-# Exibe uma mensagem e fecha o arquivo de falhas
-def output_multi_area_journal():
+def outuput_multi_area_journal():
+    # Exibe uma mensagem e fecha o arquivo de falhas
     if Global.multi_area_journal_list:
         print('\033[94m' + "Found papers in MULTI-AREA journals" + '\033[0m')
     Global.mc_failed_file.close()
@@ -126,10 +126,32 @@ def outuput_everything():
     output_profs_list()
     output_arxiv_cache()
     output_search_box_list()
-    output_multi_area_journal()
+    outuput_multi_area_journal()
+
+def output_venues_confs(result):
+    # Exibe as conferências em um arquivo CSV
+    if len(result) > 0:
+        f = open("../../data/" + Global.area_prefix + '-out-confs.csv', 'w', encoding="utf-8", newline='')
+        for conf in result:
+            f.write(conf[0])
+            f.write(',')
+            f.write(str(conf[1]))
+            f.write('\n')
+        f.close()
+
+def output_venues_journals(result):
+    # Exibe os jornais em um arquivo CSV
+    if len(result) > 0:
+        f = open("../../data/" + Global.area_prefix + '-out-journals.csv', 'w', encoding="utf-8", newline='')
+        for journal in result:
+            f.write(journal[0])
+            f.write(',')
+            f.write(str(journal[1]))
+            f.write('\n')
+        f.close()
 
 def output_venues():
-    # Separa conferências e periódicos
+    # Organiza e escreve as conferências e jornais nos arquivos apropriados
     confs = []
     journals = []
     for p in Global.out.items():
@@ -144,35 +166,10 @@ def output_venues():
     output_venues_confs(result1)
     output_venues_journals(result2)
 
-# lista de conferencias e a quatidade de artigos em cada uma
-def output_venues_confs(result):
-    if len(result) > 0:
-        f = open("../../data/" + Global.area_prefix + '-out-confs.csv', 'w', encoding="utf-8", newline='')
-        for conf in result:
-            # nome_da_conferencia,quantidade
-            f.write(conf[0])
-            f.write(',')
-            f.write(str(conf[1]))
-            f.write('\n')
-        f.close()
-
-# lista de conferencias e a quatidade de artigos em cada uma
-def output_venues_journals(result):
-    if len(result) > 0:
-        f = open("../../data/" + Global.area_prefix + '-out-journals.csv', 'w', encoding="utf-8", newline='')
-        for journal in result:
-            f.write(journal[0])
-            f.write(',')
-            f.write(str(journal[1]))
-            f.write('\n')
-        f.close()
 
 # Função que escreve os detalhes de um artigo no arquivo   
     # coloca as infos em um csv
 def write_paper(f, is_prof_tab, paper):
-    # f -> arquivo para escrita
-    # is_prof_tab -> Se True, inclui o departamento do professor
-    # paper -> Lista (ou com os campos do artigo
     f.write(str(paper[0]))      # Ano do artigo
     f.write(',')
     f.write(str(paper[1]))      # Local de publicação (Conferência/Jornal)
@@ -192,7 +189,7 @@ def write_paper(f, is_prof_tab, paper):
     f.write(',')
     f.write(str(paper[6]))      # Tipo de conferência/jornal
     f.write(',')
-    f.write(str(paper[7]))      # Tipo de publicação (C/J)
+    f.write(str(paper[7]))      # Tipo de publicação
     f.write(',')
     f.write(str(paper[8]))  # Link arxiv
     f.write(',')
@@ -216,7 +213,6 @@ def output_papers():
         write_paper(f, True, paper)
     f.close()
 
-#  gera csv contendo todos os artigos de um professor em determinada área
 def output_prof_papers(prof):
     # Substitui espaços no nome do professor por hífens para formar o nome do arquivo
     prof = prof.replace(" ", "-")
@@ -230,14 +226,13 @@ def output_prof_papers(prof):
         write_paper(f, False, paper)
     f.close()
 
-#  CSV das pontuações de desempenho dos departamentos
 def write_scores(sorted_scores):
+    # Abre um arquivo CSV para salvar as pontuações dos departamentos
     f = open("../../data/" + Global.area_prefix + '-out-scores.csv', 'w', encoding="utf-8", newline='')
 
     # Escreve as pontuações dos departamentos no arquivo
     for i in range(0, len(sorted_scores)):
-        # NomeDoDepartamento,Pontuação
-        dept = sorted_scores[i][0]  
+        dept = sorted_scores[i][0]  # Departamento
         f.write(str(dept))
         f.write(',')
         s = round(sorted_scores[i][1], 2)   # Pontuação arredondada para 2 casas decimais
@@ -308,7 +303,6 @@ def output_profs_list():
         f.write('\n')
     f.close()
 
-# merge todos os arquivos CSV de artigos de um professor em um unico csv
 def merge_output_prof_papers(prof):
     # Muda o diretório para o local onde estão armazenados os artigos dos professores
     os.chdir("../../data/configs/profs/search/")
@@ -334,8 +328,6 @@ def merge_output_prof_papers(prof):
             outfile.write(infile.read())
     os.chdir("../../")
 
-#  gera all-authors.csv com o nome de todos os professores presentes na pasta confg/profs/search
-    # usado pora a busca por professores em profs.html
 def output_search_box_list():
     # Muda o diretório para a pasta onde os arquivos de pesquisa dos professores estão localizados
     os.chdir("../../data/configs/profs/search/")
@@ -350,18 +342,16 @@ def output_search_box_list():
         profs.append(file)
 
     # Remove o item "empty" da lista, se existir
-    profs.remove("empty")
+    # profs.remove("empty")
 
     # Ordena os professores em ordem alfabética
     profs.sort()
 
-    # Gera o arquivo all-authors.csv
     f = open("../all-authors.csv", 'w', encoding="utf-8", newline='')
     for p in profs:
         f.write(p)
         f.write('\n')
     f.close()
-
 
 # dblp parsing auxiliary functions
 
@@ -413,13 +403,12 @@ def get_authors(author_list):
             authors.append(name)
     return authors
 
-# Extrai o título de um artigo, removendo as aspas
 def get_title(title):
+    # Extrai o título de um artigo, removendo as aspas
     if isinstance(title, dict):
         return title["#text"]
     return title.replace("\"", "")  # Remove aspas do título
 
-## mantido do original
 def get_min_paper_size(weight):
     if weight == 6:  # magazine
         return 6  # Artigos em revistas (com peso 6) têm tamanho mínimo de 6 páginas
@@ -462,10 +451,7 @@ def get_paper_size(url, dblp, dblp_venue):
     
     if (dblp_venue == "CoRR") or \
         (dblp_venue == "J. Intell. Robotic Syst.") or \
-        (dblp_venue == "Robotics & Autonomous Syst.") or \
-        (dblp_venue == "Robotica") or \
-        (dblp_venue == "Mechatronics") or \
-        (dblp_venue == "IEEE Robotics & Automation Mag."):  # Para conferências específicas, o tamanho é fixo de 10
+        (dblp_venue == "NeurIPS"):  # Para conferências específicas, o tamanho é fixo de 10
         return 10  # Devido à falta de campos de página em alguns artigos
     return 0  # Retorna 0 se não houver informações suficientes sobre o tamanho do artigo
 
@@ -497,7 +483,6 @@ def has_dept(dept_str, dept):
             return True
     return False  # Retorna False se o departamento não for encontrado
 
-# lista manual?
 def is_manual_journal(year, dblp_venue, title, url):
     # Verifica se o jornal está na lista manual de jornais classificados
     if dblp_venue in Global.manual_journals:

@@ -1,0 +1,762 @@
+<?xml version="1.0"?>
+<dblpperson name="Marcelo O. Johann" pid="j/MarceloOJohann" n="48">
+<person key="homepages/j/MarceloOJohann" mdate="2019-10-11">
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author pid="j/MarceloOJohann">Marcelo de Oliveira Johann</author>
+<note type="affiliation">Federal University of Rio Grande do Sul, Porto Alegre, Brazil</note>
+<url>http://www.inf.ufrgs.br/~johann/</url>
+<url>https://scholar.google.com/citations?user=waKbEzsAAAAJ</url>
+</person>
+<r><article key="journals/todaes/MonteiroJB19" mdate="2025-01-19">
+<author pid="78/10782">Jucemar Monteiro</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author orcid="0000-0002-8122-0990" pid="41/1836">Laleh Behjat</author>
+<title>An Optimized Cost Flow Algorithm to Spread Cells in Detailed Placement.</title>
+<pages>35:1-35:16</pages>
+<year>2019</year>
+<volume>24</volume>
+<journal>ACM Trans. Design Autom. Electr. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3317575</ee>
+<ee>https://www.wikidata.org/entity/Q128121702</ee>
+<url>db/journals/todaes/todaes24.html#MonteiroJB19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/LinsJBS19" mdate="2020-09-05">
+<author pid="243/6671">Filipe Lins</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author orcid="0000-0002-6820-6764" pid="23/5543">Emmanouil Benetos</author>
+<author pid="13/3981">Rodrigo Schramm</author>
+<title>Automatic Transcription of Diatonic Harmonica Recordings.</title>
+<pages>256-260</pages>
+<year>2019</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2019.8682334</ee>
+<crossref>conf/icassp/2019</crossref>
+<url>db/conf/icassp/icassp2019.html#LinsJBS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nime/SchrammVBJ18" mdate="2023-04-04">
+<author pid="13/3981">Rodrigo Schramm</author>
+<author pid="147/4471">Federico Visi</author>
+<author pid="250/4558">Andr&#233; Brasil</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<title>A polyphonic pitch tracking embedded system for rapid instrument augmentation.</title>
+<pages>120-125</pages>
+<year>2018</year>
+<booktitle>NIME</booktitle>
+<ee type="oa">https://doi.org/10.5281/zenodo.1302650</ee>
+<crossref>conf/nime/2018</crossref>
+<url>db/conf/nime/nime2018.html#SchrammVBJ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispd/FlachFMJR17" mdate="2025-01-19">
+<author pid="18/606">Guilherme Flach</author>
+<author orcid="0000-0002-0258-4033" pid="170/4170">Mateus Foga&#231;a</author>
+<author pid="78/10782">Jucemar Monteiro</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Augusto da Luz Reis</author>
+<title>Rsyn: An Extensible Physical Synthesis Framework.</title>
+<pages>33-40</pages>
+<year>2017</year>
+<booktitle>ISPD</booktitle>
+<ee>https://doi.org/10.1145/3036669.3038249</ee>
+<ee>https://www.wikidata.org/entity/Q131135756</ee>
+<crossref>conf/ispd/2017</crossref>
+<url>db/conf/ispd/ispd2017.html#FlachFMJR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/FogacaFMJR16" mdate="2020-10-25">
+<author orcid="0000-0002-0258-4033" pid="170/4170">Mateus Foga&#231;a</author>
+<author pid="18/606">Guilherme Flach</author>
+<author pid="78/10782">Jucemar Monteiro</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Reis 0001</author>
+<title>Quadratic timing objectives for incremental timing-driven placement optimization.</title>
+<pages>620-623</pages>
+<year>2016</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2016.7841278</ee>
+<crossref>conf/icecsys/2016</crossref>
+<url>db/conf/icecsys/icecsys2016.html#FogacaFMJR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispd/FlachFMJR16" mdate="2020-10-25">
+<author pid="18/606">Guilherme Flach</author>
+<author orcid="0000-0002-0258-4033" pid="170/4170">Mateus Foga&#231;a</author>
+<author pid="78/10782">Jucemar Monteiro</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Augusto da Luz Reis</author>
+<title>Drive Strength Aware Cell Movement Techniques for Timing Driven Placement.</title>
+<pages>73-80</pages>
+<year>2016</year>
+<booktitle>ISPD</booktitle>
+<ee>https://doi.org/10.1145/2872334.2872359</ee>
+<crossref>conf/ispd/2016</crossref>
+<url>db/conf/ispd/ispd2016.html#FlachFMJR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/MonteiroDFFRKJB16" mdate="2023-09-30">
+<author pid="78/10782">Jucemar Monteiro</author>
+<author pid="149/2685">Nima Karimpour Darav</author>
+<author pid="18/606">Guilherme Flach</author>
+<author orcid="0000-0002-0258-4033" pid="170/4170">Mateus Foga&#231;a</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Augusto da Luz Reis</author>
+<author pid="16/2587">Andrew A. Kennings</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author orcid="0000-0002-8122-0990" pid="41/1836">Laleh Behjat</author>
+<title>Routing-Aware Incremental Timing-Driven Placement.</title>
+<pages>290-295</pages>
+<year>2016</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2016.23</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISVLSI.2016.23</ee>
+<crossref>conf/isvlsi/2016</crossref>
+<url>db/conf/isvlsi/isvlsi2016.html#MonteiroDFFRKJB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/newcas/FogacaFJR16" mdate="2020-10-25">
+<author orcid="0000-0002-0258-4033" pid="170/4170">Mateus Foga&#231;a</author>
+<author pid="18/606">Guilherme Flach</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Augusto da Luz Reis</author>
+<title>Improving placement algorithms by using visualization tools.</title>
+<pages>1-4</pages>
+<year>2016</year>
+<booktitle>NEWCAS</booktitle>
+<ee>https://doi.org/10.1109/NEWCAS.2016.7604793</ee>
+<crossref>conf/newcas/2016</crossref>
+<url>db/conf/newcas/newcas2016.html#FogacaFJR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lascas/MonteiroFJG15" mdate="2019-10-11">
+<author pid="78/10782">Jucemar Monteiro</author>
+<author pid="18/606">Guilherme Flach</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author pid="04/3287">Jos&#233; Lu&#237;s Almada G&#252;ntzel</author>
+<title>An analytical timing-driven algorithm for detailed placement.</title>
+<pages>1-4</pages>
+<year>2015</year>
+<booktitle>LASCAS</booktitle>
+<ee>https://doi.org/10.1109/LASCAS.2015.7250495</ee>
+<crossref>conf/lascas/2015</crossref>
+<url>db/conf/lascas/lascas2015.html#MonteiroFJG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/patmos/LlanosSTBRJ15" mdate="2020-11-02">
+<author orcid="0000-0003-0694-0434" pid="262/8551">Roger Caputo-Llanos</author>
+<author pid="172/6205">Diego Sousa</author>
+<author pid="159/7920">Marco Terres</author>
+<author pid="91/2498">Guilherme Bontorin</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Reis 0001</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<title>Energy-efficient Level Shifter topology.</title>
+<pages>148-151</pages>
+<year>2015</year>
+<booktitle>PATMOS</booktitle>
+<ee>https://doi.org/10.1109/PATMOS.2015.7347600</ee>
+<crossref>conf/patmos/2015</crossref>
+<url>db/conf/patmos/patmos2015.html#LlanosSTBRJ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/PugetFJR15" mdate="2019-10-11">
+<author pid="166/3146">Julia Casarin Puget</author>
+<author pid="18/606">Guilherme Flach</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Augusto da Luz Reis</author>
+<title>Jezz: An Effective Legalization Algorithm for Minimum Displacement.</title>
+<pages>19:1-19:5</pages>
+<year>2015</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1145/2800986.2801013</ee>
+<crossref>conf/sbcci/2015</crossref>
+<url>db/conf/sbcci/sbcci2015.html#PugetFJR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi/FlachMFPBJR15" mdate="2021-10-14">
+<author pid="18/606">Guilherme Flach</author>
+<author pid="78/10782">Jucemar Monteiro</author>
+<author orcid="0000-0002-0258-4033" pid="170/4170">Mateus Foga&#231;a</author>
+<author pid="166/3146">Julia Casarin Puget</author>
+<author orcid="0000-0003-1587-7596" pid="93/5285">Paulo F. Butzen</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Augusto da Luz Reis</author>
+<title>An Incremental Timing-Driven flow using quadratic formulation for detailed placement.</title>
+<pages>1-6</pages>
+<year>2015</year>
+<booktitle>VLSI-SoC</booktitle>
+<ee>https://doi.org/10.1109/VLSI-SoC.2015.7314382</ee>
+<crossref>conf/vlsi/2015soc</crossref>
+<url>db/conf/vlsi/vlsisoc2015.html#FlachMFPBJR15</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/15/KellerOLPLJC15" mdate="2023-09-30">
+<author orcid="0000-0002-0866-3066" pid="28/8694">Dami&#225;n Keller</author>
+<author orcid="0000-0003-2446-8727" pid="05/3672">Nuno Otero</author>
+<author pid="41/8052">Victor Lazzarini</author>
+<author pid="p/MarceloSoaresPimenta">Marcelo Soares Pimenta</author>
+<author pid="154/6270">Maria Helena de Lima</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author pid="10/2406">Leandro Lesqueves Costalonga</author>
+<title>Interaction Aesthetics and Ubiquitous Music.</title>
+<pages>91-105</pages>
+<year>2015</year>
+<booktitle>Creativity in the Digital Age</booktitle>
+<ee>https://doi.org/10.1007/978-1-4471-6681-8_6</ee>
+<crossref>books/sp/2015ZB</crossref>
+<url>db/books/collections/ZB2015.html#KellerOLPLJC15</url>
+</incollection>
+</r>
+<r><article key="journals/tcad/FlachRPJR14" mdate="2020-09-24">
+<author pid="18/606">Guilherme Flach</author>
+<author pid="58/9640">Tiago Reimann</author>
+<author pid="70/9978">Gracieli Posser</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Reis 0001</author>
+<title>Effective Method for Simultaneous Gate Sizing and $V$ th Assignment Using Lagrangian Relaxation.</title>
+<pages>546-557</pages>
+<year>2014</year>
+<volume>33</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCAD.2014.2305847</ee>
+<url>db/journals/tcad/tcad33.html#FlachRPJR14</url>
+</article>
+</r>
+<r><article key="journals/todaes/LivramentoGGJ14" mdate="2019-10-11">
+<author pid="78/9849">Vinicius S. Livramento</author>
+<author pid="129/7581">Chrystian Guth</author>
+<author pid="04/3287">Jos&#233; Lu&#237;s Almada G&#252;ntzel</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<title>A Hybrid Technique for Discrete Gate Sizing Based on Lagrangian Relaxation.</title>
+<pages>40:1-40:25</pages>
+<year>2014</year>
+<volume>19</volume>
+<journal>ACM Trans. Design Autom. Electr. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2647956</ee>
+<url>db/journals/todaes/todaes19.html#LivramentoGGJ14</url>
+</article>
+</r>
+<r><inproceedings key="conf/eva/KellerOLPLJC14" mdate="2020-02-04">
+<author pid="28/8694">Dami&#225;n Keller</author>
+<author orcid="0000-0003-2446-8727" pid="05/3672">Nuno Otero</author>
+<author pid="41/8052">Victor Lazzarini</author>
+<author pid="p/MarceloSoaresPimenta">Marcelo Soares Pimenta</author>
+<author pid="154/6270">Maria Helena de Lima</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author pid="10/2406">Leandro Lesqueves Costalonga</author>
+<title>Relational Properties in Interaction Aesthetics: The Ubiquitous Music Turn.</title>
+<year>2014</year>
+<booktitle>EVA</booktitle>
+<ee type="oa">https://doi.org/10.14236/ewic/eva2014.25</ee>
+<ee>https://www.wikidata.org/entity/Q59589421</ee>
+<crossref>conf/eva/2014</crossref>
+<url>db/conf/eva/eva2014.html#KellerOLPLJC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmc/KellerTCCTLPLJ14" mdate="2022-05-04">
+<author pid="28/8694">Dami&#225;n Keller</author>
+<author pid="30/4950">Joseph Timoney</author>
+<author pid="10/2406">Leandro Lesqueves Costalonga</author>
+<author pid="175/0392">Ariadna Capasso</author>
+<author pid="175/0492">Patricia Tinajero</author>
+<author pid="41/8052">Victor Lazzarini</author>
+<author pid="p/MarceloSoaresPimenta">Marcelo Soares Pimenta</author>
+<author pid="154/6270">Maria Helena de Lima</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<title>Ecologically grounded multimodal design: The Palafito 1.0 study.</title>
+<year>2014</year>
+<booktitle>ICMC</booktitle>
+<ee type="oa">https://hdl.handle.net/2027/spo.bbp2372.2014.255</ee>
+<crossref>conf/icmc/2014</crossref>
+<url>db/conf/icmc/icmc2014.html#KellerTCCTLPLJ14</url>
+</inproceedings>
+</r>
+<r><incollection key="series/music/ZawackiJ14" mdate="2017-05-16">
+<author pid="154/6282">Lucas Fialho Zawacki</author>
+<author pid="j/MarceloOJohann">Marcelo de Oliveira Johann</author>
+<title>Analogue Audio Recording Using Remote Servers.</title>
+<pages>83-107</pages>
+<year>2014</year>
+<booktitle>Ubiquitous Music</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-11152-0_5</ee>
+<crossref>series/music/2014um</crossref>
+<url>db/series/music/um2014.html#ZawackiJ14</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/date/LivramentoGGJ13" mdate="2017-05-23">
+<author pid="78/9849">Vinicius S. Livramento</author>
+<author pid="129/7581">Chrystian Guth</author>
+<author pid="04/3287">Jos&#233; Lu&#237;s G&#252;ntzel</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<title>Fast and efficient lagrangian relaxation-based discrete gate sizing.</title>
+<pages>1855-1860</pages>
+<year>2013</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.7873/DATE.2013.370</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2485725</ee>
+<crossref>conf/date/2013</crossref>
+<url>db/conf/date/date2013.html#LivramentoGGJ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/ReimannPFJR13" mdate="2019-10-22">
+<author pid="58/9640">Tiago Reimann</author>
+<author pid="70/9978">Gracieli Posser</author>
+<author pid="18/606">Guilherme Flach</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Reis 0001</author>
+<title>Simultaneous gate sizing and Vt assignment using Fanin/Fanout ratio and Simulated Annealing.</title>
+<pages>2549-2552</pages>
+<year>2013</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2013.6572398</ee>
+<crossref>conf/iscas/2013</crossref>
+<url>db/conf/iscas/iscas2013.html#ReimannPFJR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/FlachRPJR13" mdate="2023-03-24">
+<author pid="18/606">Guilherme Flach</author>
+<author pid="58/9640">Tiago Reimann</author>
+<author pid="70/9978">Gracieli Posser</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Reis 0001</author>
+<title>Simultaneous gate sizing and Vth assignment using Lagrangian Relaxation and delay sensitivities.</title>
+<pages>84-89</pages>
+<year>2013</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2013.6654627</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISVLSI.2013.6654627</ee>
+<crossref>conf/isvlsi/2013</crossref>
+<url>db/conf/isvlsi/isvlsi2013.html#FlachRPJR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/Johann13" mdate="2023-03-24">
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<title>Recent advances and challenges in physical design automation.</title>
+<pages>223</pages>
+<year>2013</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2013.6654613</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISVLSI.2013.6654613</ee>
+<crossref>conf/isvlsi/2013</crossref>
+<url>db/conf/isvlsi/isvlsi2013.html#Johann13</url>
+</inproceedings>
+</r>
+<r><article key="journals/rita/HentschkeJR12" mdate="2025-01-19">
+<author pid="17/1684">Renato Fernandes Hentschke</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author pid="r/RAdaLuzReis">Ricardo Reis 0001</author>
+<title>Posicionamento de Circuitos 3D Considerando o Planejamento de 3D-Vias.</title>
+<pages>28-45</pages>
+<year>2012</year>
+<volume>19</volume>
+<journal>RITA</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.22456/2175-2745.7386</ee>
+<ee>https://www.wikidata.org/entity/Q128009620</ee>
+<url>db/journals/rita/rita19.html#HentschkeJR12</url>
+</article>
+</r>
+<r><inproceedings key="conf/icecsys/LivramentoGGJ12" mdate="2017-05-23">
+<author pid="78/9849">Vinicius dos S. Livramento</author>
+<author pid="129/7581">Chrystian Guth</author>
+<author pid="04/3287">Jos&#233; Lu&#237;s G&#252;ntzel</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<title>Lagrangian relaxation-based Discrete Gate Sizing for leakage power minimization.</title>
+<pages>468-471</pages>
+<year>2012</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2012.6463706</ee>
+<crossref>conf/icecsys/2012</crossref>
+<url>db/conf/icecsys/icecsys2012.html#LivramentoGGJ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmc/JohannZ12" mdate="2022-05-04">
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author pid="154/6282">Lucas Fialho Zawacki</author>
+<title>A System for recording analog synthesizers with the Web.</title>
+<year>2012</year>
+<booktitle>ICMC</booktitle>
+<ee type="oa">https://hdl.handle.net/2027/spo.bbp2372.2012.024</ee>
+<crossref>conf/icmc/2012</crossref>
+<url>db/conf/icmc/icmc2012.html#JohannZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/FlachJR11" mdate="2019-10-22">
+<author pid="18/606">Guilherme Flach</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Reis 0001</author>
+<title>Quadratic placement with single-iteration linear system solver.</title>
+<pages>109-112</pages>
+<year>2011</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1145/2020876.2020902</ee>
+<crossref>conf/sbcci/2011</crossref>
+<url>db/conf/sbcci/sbcci2011.html#FlachJR11</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/vlsi/2009soc" mdate="2019-10-22">
+<editor pid="b/JurgenBecker">J&#252;rgen Becker 0001</editor>
+<editor pid="j/MarceloOJohann">Marcelo O. Johann</editor>
+<editor orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Reis 0001</editor>
+<title>VLSI-SoC: Technologies for Systems Integration - 17th IFIP WG 10.5/IEEE International Conference on Very Large Scale Integration, VLSI-SoC 2009, Florian&#243;polis, Brazil, October 12-14, 2009, Revised Selected Papers</title>
+<volume>360</volume>
+<year>2011</year>
+<publisher>Springer</publisher>
+<series href="db/series/ifip/index.html">IFIP Advances in Information and Communication Technology</series>
+<ee>https://doi.org/10.1007/978-3-642-23120-9</ee>
+<isbn>978-3-642-23119-3</isbn>
+<booktitle>VLSI-SoC</booktitle>
+<url>db/conf/vlsi/vlsisoc2009.html</url>
+</proceedings>
+</r>
+<r><article key="journals/cleiej/SawickiWJR10" mdate="2025-01-19">
+<author pid="63/5943">Sandro Sawicki</author>
+<author pid="80/1104">Gustavo Wilke</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author pid="r/RAdaLuzReis">Ricardo Reis 0001</author>
+<title>3D-Via Driven Partitioning for 3D VLSI Integrated Circuits.</title>
+<year>2010</year>
+<volume>13</volume>
+<journal>CLEI Electron. J.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.19153/cleiej.13.3.1</ee>
+<ee>https://www.wikidata.org/entity/Q128947364</ee>
+<url>db/journals/cleiej/cleiej13.html#SawickiWJR10</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccd/SantosRJR10" mdate="2023-03-23">
+<author pid="70/6879">Glauco Borges Valim dos Santos</author>
+<author pid="58/9640">Tiago Reimann</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Reis 0001</author>
+<title>The Fidelity Property of the Elmore Delay Model in actual comparison of routing algorithms.</title>
+<pages>195-202</pages>
+<year>2010</year>
+<booktitle>ICCD</booktitle>
+<ee>https://doi.org/10.1109/ICCD.2010.5647789</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICCD.2010.5647789</ee>
+<crossref>conf/iccd/2010</crossref>
+<url>db/conf/iccd/iccd2010.html#SantosRJR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/PintoCJR10" mdate="2023-03-24">
+<author pid="38/1381">Felipe Pinto</author>
+<author pid="03/9350">Lucas Cavalheiro</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Reis 0001</author>
+<title>Logical Core Algorithm: Improving Global Placement.</title>
+<pages>69-73</pages>
+<year>2010</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2010.114</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISVLSI.2010.114</ee>
+<crossref>conf/isvlsi/2010</crossref>
+<url>db/conf/isvlsi/isvlsi2010.html#PintoCJR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/FlachWJR10" mdate="2023-03-24">
+<author pid="18/606">Guilherme Flach</author>
+<author pid="80/1104">Gustavo Wilke</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Reis 0001</author>
+<title>A Mesh-Buffer Displacement Optimization Strategy.</title>
+<pages>282-287</pages>
+<year>2010</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2010.108</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISVLSI.2010.108</ee>
+<crossref>conf/isvlsi/2010</crossref>
+<url>db/conf/isvlsi/isvlsi2010.html#FlachWJR10</url>
+</inproceedings>
+</r>
+<r><article key="journals/tvlsi/HentschkeNJR09" mdate="2025-03-03">
+<author pid="17/1684">Renato Fernandes Hentschke</author>
+<author pid="42/5198">Jagannathan Narasimhan</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Reis 0001</author>
+<title>Maze Routing Steiner Trees With Delay Versus Wire Length Tradeoff.</title>
+<pages>1073-1086</pages>
+<year>2009</year>
+<volume>17</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TVLSI.2009.2019798</ee>
+<url>db/journals/tvlsi/tvlsi17.html#HentschkeNJR09</url>
+</article>
+</r>
+<r><inproceedings key="conf/icecsys/SantosRJR09" mdate="2025-03-03">
+<author pid="70/6879">Glauco B. V. dos Santos</author>
+<author pid="58/9640">Tiago Reimann</author>
+<author pid="j/MarceloOJohann">Marcelo de Oliveira Johann</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Augusto da Luz Reis</author>
+<title>On the accuracy of Elmore-based Delay Models.</title>
+<pages>447-450</pages>
+<year>2009</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2009.5410894</ee>
+<crossref>conf/icecsys/2009</crossref>
+<url>db/conf/icecsys/icecsys2009.html#SantosRJR09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/SawickiWJR09" mdate="2025-03-03">
+<author orcid="0000-0002-7960-0775" pid="63/5943">Sandro Sawicki</author>
+<author pid="80/1104">Gustavo Wilke</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Reis 0001</author>
+<title>A cells and I/O pins partitioning refinement algorithm for 3D VLSI circuits.</title>
+<pages>852-855</pages>
+<year>2009</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2009.5410761</ee>
+<crossref>conf/icecsys/2009</crossref>
+<url>db/conf/icecsys/icecsys2009.html#SawickiWJR09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispd/HentschkeNJR07" mdate="2025-03-03">
+<author pid="17/1684">Renato Fernandes Hentschke</author>
+<author pid="76/4452">Jaganathan Narasimham</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Augusto da Luz Reis</author>
+<title>Maze routing steiner trees with effective critical sink optimization.</title>
+<pages>135-142</pages>
+<year>2007</year>
+<crossref>conf/ispd/2007</crossref>
+<booktitle>ISPD</booktitle>
+<ee>https://doi.org/10.1145/1231996.1232024</ee>
+<url>db/conf/ispd/ispd2007.html#HentschkeNJR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/FlachJHR07" mdate="2025-03-03">
+<author pid="18/606">Guilherme Flach</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author pid="17/1684">Renato Fernandes Hentschke</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Reis 0001</author>
+<title>Cell placement on graphics processing units.</title>
+<pages>87-92</pages>
+<year>2007</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1145/1284480.1284510</ee>
+<crossref>conf/sbcci/2007</crossref>
+<url>db/conf/sbcci/sbcci2007.html#FlachJHR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/SawickiHJR06" mdate="2025-03-03">
+<author orcid="0000-0002-7960-0775" pid="63/5943">Sandro Sawicki</author>
+<author pid="17/1684">Renato Fernandes Hentschke</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Reis 0001</author>
+<title>Unbalacing the I/O Pins Partitioning for Minimizing Inter-Tier Vias in 3D VLSI Circuits.</title>
+<pages>399-402</pages>
+<year>2006</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2006.379809</ee>
+<crossref>conf/icecsys/2006</crossref>
+<url>db/conf/icecsys/icecsys2006.html#SawickiHJR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/SantosJR06" mdate="2017-05-26">
+<author pid="70/6879">Glauco Borges Valim dos Santos</author>
+<author pid="j/MarceloOJohann">Marcelo de Oliveira Johann</author>
+<author pid="r/RAdaLuzReis">Ricardo Augusto da Luz Reis</author>
+<title>Channel based routing in channel-less circuits.</title>
+<year>2006</year>
+<crossref>conf/iscas/2006</crossref>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2006.1692591</ee>
+<url>db/conf/iscas/iscas2006.html#SantosJR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi/HentschkeSJR06" mdate="2025-03-03">
+<author pid="17/1684">Renato Fernandes Hentschke</author>
+<author orcid="0000-0002-7960-0775" pid="63/5943">Sandro Sawicki</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Augusto da Luz Reis</author>
+<title>An Algorithm for I/O Partitioning Targeting 3D Circuits and Its Impact on 3D-Vias.</title>
+<pages>128-133</pages>
+<year>2006</year>
+<crossref>conf/vlsi/2006soc</crossref>
+<booktitle>VLSI-SoC</booktitle>
+<ee>https://doi.org/10.1109/VLSISOC.2006.313216</ee>
+<url>db/conf/vlsi/vlsisoc2006.html#HentschkeSJR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi/HentschkeSJR06a" mdate="2025-03-03">
+<author pid="17/1684">Renato Fernandes Hentschke</author>
+<author orcid="0000-0002-7960-0775" pid="63/5943">Sandro Sawicki</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Reis 0001</author>
+<title>A Method for I/O Pins Partitioning Targeting 3D VLSI Circuits.</title>
+<pages>259-279</pages>
+<year>2006</year>
+<booktitle>VLSI-SoC (Selected Papers)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-0-387-74909-9_15</ee>
+<crossref>conf/vlsi/2006socs</crossref>
+<url>db/conf/vlsi/vlsisoc2006s.html#HentschkeSJR06a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip10-5/HentschkeJR05" mdate="2025-03-03">
+<author pid="17/1684">Renato Fernandes Hentschke</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Reis 0001</author>
+<title>Blue Macaw: A Didactic Placement Tool Using Simulated Annealing.</title>
+<pages>37-47</pages>
+<year>2005</year>
+<booktitle>EDUTECH</booktitle>
+<ee type="oa">https://doi.org/10.1007/0-387-30761-3_4</ee>
+<crossref>conf/ifip10-5/2005</crossref>
+<url>db/conf/ifip10-5/edutech2005.html#HentschkeJR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/PanatoSWJRB04" mdate="2025-03-03">
+<author pid="18/4592">Alex Panato</author>
+<author pid="19/3661">Sandro V. Silva</author>
+<author pid="r/FlavioRechWagner">Fl&#225;vio Rech Wagner</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Reis 0001</author>
+<author orcid="0000-0002-9018-6309" pid="84/5693">Sergio Bampi</author>
+<title>Design of Very Deep Pipelined Multipliers for FPGAs.</title>
+<pages>52-57</pages>
+<year>2004</year>
+<crossref>conf/date/2004</crossref>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2004.1269200</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DATE.2004.1269200</ee>
+<ee>http://dl.acm.org/citation.cfm?id=969265</ee>
+<url>db/conf/date/date2004-df.html#PanatoSWJRB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi/HentschkeJR03" mdate="2004-01-22">
+<author pid="17/1684">Renato Fernandes Hentschke</author>
+<author pid="j/MarceloOJohann">Marcelo de Oliveira Johann</author>
+<author pid="r/RAdaLuzReis">Ricardo Augusto da Luz Reis</author>
+<title>A study on the performance of fast initial placement algorithms.</title>
+<pages>204-</pages>
+<year>2003</year>
+<crossref>conf/vlsi/2003soc</crossref>
+<booktitle>VLSI-SOC</booktitle>
+<url>db/conf/vlsi/vlsisoc2003.html#HentschkeJR03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/JohannSR02" mdate="2022-06-10">
+<author pid="j/MarceloOJohann">Marcelo de Oliveira Johann</author>
+<author pid="70/6879">Glauco Borges Valim dos Santos</author>
+<author pid="r/RAdaLuzReis">Ricardo Augusto da Luz Reis</author>
+<title>A LEGAL Algorithm Following Global Routing.</title>
+<pages>271-276</pages>
+<year>2002</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://dl.acm.org/doi/10.5555/827246.827350</ee>
+<crossref>conf/sbcci/2002</crossref>
+<url>db/conf/sbcci/sbcci2002.html#JohannSR02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/JohannR01" mdate="2022-06-03">
+<author pid="j/MarceloOJohann">Marcelo de Oliveira Johann</author>
+<author pid="r/RAdaLuzReis">Ricardo Augusto da Luz Reis</author>
+<title>LEGAL: An Algorithm for Simultaneous Net Routing.</title>
+<pages>180-185</pages>
+<year>2001</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://dl.acm.org/doi/10.5555/882483.883926</ee>
+<crossref>conf/sbcci/2001</crossref>
+<url>db/conf/sbcci/sbcci2001.html#JohannR01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/Johann000" mdate="2022-06-02">
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author pid="r/RAdaLuzReis">Ricardo Reis 0001</author>
+<title>Net by Net Routing with a New Path Search Algorithm.</title>
+<pages>144-149</pages>
+<year>2000</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://dl.acm.org/doi/10.5555/827245.827331</ee>
+<crossref>conf/sbcci/2000</crossref>
+<url>db/conf/sbcci/sbcci2000.html#Johann000</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbia/JohannCRK00" mdate="2025-03-03">
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author pid="78/5902">Andrew E. Caldwell</author>
+<author orcid="0000-0001-5781-5858" pid="r/RAdaLuzReis">Ricardo Augusto da Luz Reis</author>
+<author pid="k/AndrewBKahng">Andrew B. Kahng</author>
+<title>Admissibility Proofs for the LCS* Algorithm.</title>
+<pages>236-244</pages>
+<ee>https://doi.org/10.1007/3-540-44399-1_25</ee>
+<year>2000</year>
+<crossref>conf/sbia/2000</crossref>
+<booktitle>IBERAMIA-SBIA</booktitle>
+<url>db/conf/sbia/sbia2000.html#JohannCRK00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip10-5/LimaJGDCR99" mdate="2023-07-24">
+<author pid="l/FGdLimaKastensmidt">Fernanda Lima 0001</author>
+<author pid="j/MarceloOJohann">Marcelo O. Johann</author>
+<author pid="04/3287">Jos&#233; Lu&#237;s Almada G&#252;ntzel</author>
+<author pid="18/2534">Eduardo D'Avila</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="r/RAdaLuzReis">Ricardo Augusto da Luz Reis</author>
+<title>Designing a Mask Programmable Matrix for Sequential Circuits.</title>
+<pages>439-446</pages>
+<year>1999</year>
+<crossref>conf/ifip10-5/1999</crossref>
+<booktitle>VLSI</booktitle>
+<url>db/conf/ifip10-5/ifip10-5-1999.html#LimaJGDCR99</url>
+</inproceedings>
+</r>
+<coauthors n="51" nc="3">
+<co c="0"><na f="b/Bampi:Sergio" pid="84/5693">Sergio Bampi</na></co>
+<co c="0"><na f="b/Becker_0001:J=uuml=rgen" pid="b/JurgenBecker">J&#252;rgen Becker 0001</na></co>
+<co c="0"><na f="b/Behjat:Laleh" pid="41/1836">Laleh Behjat</na></co>
+<co c="2"><na f="b/Benetos:Emmanouil" pid="23/5543">Emmanouil Benetos</na></co>
+<co c="0"><na f="b/Bontorin:Guilherme" pid="91/2498">Guilherme Bontorin</na></co>
+<co c="2"><na f="b/Brasil:Andr=eacute=" pid="250/4558">Andr&#233; Brasil</na></co>
+<co c="0"><na f="b/Butzen:Paulo_F=" pid="93/5285">Paulo F. Butzen</na></co>
+<co c="0"><na f="c/Caldwell:Andrew_E=" pid="78/5902">Andrew E. Caldwell</na></co>
+<co c="1"><na f="c/Capasso:Ariadna" pid="175/0392">Ariadna Capasso</na></co>
+<co c="0"><na f="c/Caputo=Llanos:Roger" pid="262/8551">Roger Caputo-Llanos</na></co>
+<co c="0"><na f="c/Carro:Luigi" pid="25/5214">Luigi Carro</na></co>
+<co c="0"><na f="c/Cavalheiro:Lucas" pid="03/9350">Lucas Cavalheiro</na></co>
+<co c="1"><na f="c/Costalonga:Leandro_Lesqueves" pid="10/2406">Leandro Lesqueves Costalonga</na></co>
+<co c="0"><na f="d/Darav:Nima_Karimpour" pid="149/2685">Nima Karimpour Darav</na></co>
+<co c="0"><na f="d/D=Avila:Eduardo" pid="18/2534">Eduardo D'Avila</na></co>
+<co c="0"><na f="f/Flach:Guilherme" pid="18/606">Guilherme Flach</na></co>
+<co c="0"><na f="f/Foga=ccedil=a:Mateus" pid="170/4170">Mateus Foga&#231;a</na></co>
+<co c="0" n="2"><na f="g/G=uuml=ntzel:Jos=eacute=_Lu=iacute=s" pid="04/3287">Jos&#233; Lu&#237;s G&#252;ntzel</na><na>Jos&#233; Lu&#237;s Almada G&#252;ntzel</na></co>
+<co c="0"><na f="g/Guth:Chrystian" pid="129/7581">Chrystian Guth</na></co>
+<co c="0"><na f="h/Hentschke:Renato_Fernandes" pid="17/1684">Renato Fernandes Hentschke</na></co>
+<co c="0"><na f="k/Kahng:Andrew_B=" pid="k/AndrewBKahng">Andrew B. Kahng</na></co>
+<co c="0" n="2"><na f="k/Kastensmidt:Fernanda_Lima" pid="l/FGdLimaKastensmidt">Fernanda Lima Kastensmidt</na><na>Fernanda Lima 0001</na></co>
+<co c="1"><na f="k/Keller:Dami=aacute=n" pid="28/8694">Dami&#225;n Keller</na></co>
+<co c="0"><na f="k/Kennings:Andrew_A=" pid="16/2587">Andrew A. Kennings</na></co>
+<co c="1"><na f="l/Lazzarini:Victor" pid="41/8052">Victor Lazzarini</na></co>
+<co c="1"><na f="l/Lima:Maria_Helena_de" pid="154/6270">Maria Helena de Lima</na></co>
+<co c="2"><na f="l/Lins:Filipe" pid="243/6671">Filipe Lins</na></co>
+<co c="0" n="2"><na f="l/Livramento:Vinicius_S=" pid="78/9849">Vinicius S. Livramento</na><na>Vinicius dos S. Livramento</na></co>
+<co c="0"><na f="m/Monteiro:Jucemar" pid="78/10782">Jucemar Monteiro</na></co>
+<co c="0"><na f="n/Narasimham:Jaganathan" pid="76/4452">Jaganathan Narasimham</na></co>
+<co c="0"><na f="n/Narasimhan:Jagannathan" pid="42/5198">Jagannathan Narasimhan</na></co>
+<co c="1"><na f="o/Otero:Nuno" pid="05/3672">Nuno Otero</na></co>
+<co c="0"><na f="p/Panato:Alex" pid="18/4592">Alex Panato</na></co>
+<co c="1"><na f="p/Pimenta:Marcelo_Soares" pid="p/MarceloSoaresPimenta">Marcelo Soares Pimenta</na></co>
+<co c="0"><na f="p/Pinto:Felipe" pid="38/1381">Felipe Pinto</na></co>
+<co c="0"><na f="p/Posser:Gracieli" pid="70/9978">Gracieli Posser</na></co>
+<co c="0"><na f="p/Puget:Julia_Casarin" pid="166/3146">Julia Casarin Puget</na></co>
+<co c="0"><na f="r/Reimann:Tiago" pid="58/9640">Tiago Reimann</na></co>
+<co c="0" n="2"><na f="r/Reis:Ricardo_Augusto_da_Luz" pid="r/RAdaLuzReis">Ricardo Augusto da Luz Reis</na><na>Ricardo Reis 0001</na></co>
+<co c="0" n="2"><na f="s/Santos:Glauco_B=_V=_dos" pid="70/6879">Glauco B. V. dos Santos</na><na>Glauco Borges Valim dos Santos</na></co>
+<co c="0"><na f="s/Sawicki:Sandro" pid="63/5943">Sandro Sawicki</na></co>
+<co c="2"><na f="s/Schramm:Rodrigo" pid="13/3981">Rodrigo Schramm</na></co>
+<co c="0"><na f="s/Silva:Sandro_V=" pid="19/3661">Sandro V. Silva</na></co>
+<co c="0"><na f="s/Sousa:Diego" pid="172/6205">Diego Sousa</na></co>
+<co c="0"><na f="t/Terres:Marco" pid="159/7920">Marco Terres</na></co>
+<co c="1"><na f="t/Timoney:Joseph" pid="30/4950">Joseph Timoney</na></co>
+<co c="1"><na f="t/Tinajero:Patricia" pid="175/0492">Patricia Tinajero</na></co>
+<co c="2"><na f="v/Visi:Federico" pid="147/4471">Federico Visi</na></co>
+<co c="0"><na f="w/Wagner:Fl=aacute=vio_Rech" pid="r/FlavioRechWagner">Fl&#225;vio Rech Wagner</na></co>
+<co c="0"><na f="w/Wilke:Gustavo" pid="80/1104">Gustavo Wilke</na></co>
+<co c="-1"><na f="z/Zawacki:Lucas_Fialho" pid="154/6282">Lucas Fialho Zawacki</na></co>
+</coauthors>
+</dblpperson>
+

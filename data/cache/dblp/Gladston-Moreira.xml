@@ -1,0 +1,843 @@
+<?xml version="1.0"?>
+<dblpperson name="Gladston J. P. Moreira" pid="52/9358" n="50">
+<person key="homepages/52/9358" mdate="2024-03-21">
+<author pid="52/9358">Gladston J. P. Moreira</author>
+<author pid="52/9358">Gladston Moreira</author>
+<author pid="52/9358">Gladston Juliano Prates Moreira</author>
+<url>https://orcid.org/0000-0001-7747-5926</url>
+<url>https://www.wikidata.org/entity/Q83934825</url>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2501-11711" mdate="2025-02-21">
+<author pid="296/0180">Fernando H. O. Duarte</author>
+<author pid="52/9358">Gladston J. P. Moreira</author>
+<author pid="126/6191">Eduardo Jos&#233; da S. Luz</author>
+<author pid="122/4736">Leonardo B. L. Santos</author>
+<author pid="199/9438">Vander L. S. Freitas</author>
+<title>Leveraging graph neural networks and mobility data for COVID-19 forecasting.</title>
+<year>2025</year>
+<month>January</month>
+<volume>abs/2501.11711</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2501.11711</ee>
+<url>db/journals/corr/corr2501.html#abs-2501-11711</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2503-07276" mdate="2025-04-14">
+<author pid="320/5272">Guilherme Silva 0006</author>
+<author pid="48/8156-4">Pedro Silva 0004</author>
+<author pid="52/9358">Gladston Moreira</author>
+<author pid="199/9438">Vander L. S. Freitas</author>
+<author pid="222/8035">Jadson Castro Gertrudes</author>
+<author pid="126/6191">Eduardo Jos&#233; da S. Luz</author>
+<title>A Systematic Review of ECG Arrhythmia Classification: Adherence to Standards, Fair Evaluation, and Embedded Feasibility.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.07276</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.07276</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-07276</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/arc/SilvaSML24" mdate="2024-04-01">
+<author orcid="0000-0002-4964-5710" pid="320/5272">Guilherme Silva 0006</author>
+<author orcid="0000-0002-5525-6121" pid="48/8156-4">Pedro Silva 0004</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston Moreira</author>
+<author orcid="0000-0001-5249-1559" pid="126/6191">Eduardo Luz 0001</author>
+<title>Bridging the Gap in ECG Classification: Integrating Self-supervised Learning with Human-in-the-Loop Amid Medical Equipment Hardware Constraints.</title>
+<pages>63-74</pages>
+<year>2024</year>
+<booktitle>ARC</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-55673-9_5</ee>
+<crossref>conf/arc/2024</crossref>
+<url>db/conf/arc/arc2024.html#SilvaSML24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lacci/AndradeSSOML24" mdate="2025-01-30">
+<author pid="396/0273">Adriano F. Andrade</author>
+<author pid="320/5272">Guilherme Silva 0006</author>
+<author pid="48/8156-4">Pedro Silva 0004</author>
+<author pid="333/9634">D&#234;nis Oliveira</author>
+<author pid="52/9358">Gladston Moreira</author>
+<author pid="126/6191">Eduardo Luz 0001</author>
+<title>Exploring Remote Cardiac Signals for Biometric Verification: A Study Using Eulerian Video Magnification.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>LA-CCI</booktitle>
+<ee>https://doi.org/10.1109/LA-CCI62337.2024.10814755</ee>
+<crossref>conf/lacci/2024</crossref>
+<url>db/conf/lacci/lacci2024.html#AndradeSSOML24</url>
+<stream>streams/conf/lacci</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lacci/CoelhoSOMLS24" mdate="2025-01-30">
+<author pid="224/5140">Pablo Coelho</author>
+<author pid="320/5272">Guilherme Silva 0006</author>
+<author pid="333/9634">D&#234;nis Oliveira</author>
+<author pid="52/9358">Gladston Moreira</author>
+<author pid="126/6191">Eduardo Luz 0001</author>
+<author pid="48/8156-4">Pedro Silva 0004</author>
+<title>Periocular EfficientNet: A Deep Model for Periocular Recognition.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>LA-CCI</booktitle>
+<ee>https://doi.org/10.1109/LA-CCI62337.2024.10814790</ee>
+<crossref>conf/lacci/2024</crossref>
+<url>db/conf/lacci/lacci2024.html#CoelhoSOMLS24</url>
+<stream>streams/conf/lacci</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lacci/OliveiraDLM24" mdate="2025-01-29">
+<author pid="333/9634">D&#234;nis Oliveira</author>
+<author pid="302/5760">Anderson Ribeiro Duarte</author>
+<author pid="126/6191">Eduardo Jos&#233; da S. Luz</author>
+<author pid="52/9358">Gladston Moreira</author>
+<title>Reinforcement Learning for the Detection of Arbitrary Shaped Spatial Clusters.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>LA-CCI</booktitle>
+<ee>https://doi.org/10.1109/LA-CCI62337.2024.10814900</ee>
+<crossref>conf/lacci/2024</crossref>
+<url>db/conf/lacci/lacci2024.html#OliveiraDLM24</url>
+<stream>streams/conf/lacci</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2404-15367" mdate="2024-05-29">
+<author pid="376/5173">Rafael F. Oliveira</author>
+<author pid="52/9358">Gladston J. P. Moreira</author>
+<author pid="199/9438">Vander L. S. Freitas</author>
+<author pid="126/6191">Eduardo Jos&#233; da S. Luz</author>
+<title>Leveraging Visibility Graphs for Enhanced Arrhythmia Classification with Graph Convolutional Networks.</title>
+<year>2024</year>
+<volume>abs/2404.15367</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2404.15367</ee>
+<url>db/journals/corr/corr2404.html#abs-2404-15367</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/CastroFSBML23" mdate="2023-10-27">
+<author pid="348/4862">Pedro Henrique Nascimento Castro</author>
+<author pid="348/5186">Gabriel C&#225;ssia Fortuna</author>
+<author orcid="0000-0002-5525-6121" pid="48/8156-4">Pedro Silva 0004</author>
+<author orcid="0000-0001-7949-1188" pid="56/8906">Andrea G. C. Bianchi</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston Moreira</author>
+<author orcid="0000-0001-5249-1559" pid="126/6191">Eduardo Jos&#233; da S. Luz</author>
+<title>Merging Traditional Feature Extraction and Deep Learning for Enhanced Hop Variety Classification: A Comparative Study Using the UFOP-HVD Dataset.</title>
+<pages>307-322</pages>
+<year>2023</year>
+<booktitle>BRACIS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-45389-2_21</ee>
+<crossref>conf/bracis/2023-2</crossref>
+<url>db/conf/bracis/bracis2023-2.html#CastroFSBML23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/DuarteMLSF23" mdate="2023-11-09">
+<author orcid="0009-0003-0228-0712" pid="296/0180">Fernando Henrique Oliveira Duarte</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston J. P. Moreira</author>
+<author orcid="0000-0001-5249-1559" pid="126/6191">Eduardo Jos&#233; da S. Luz</author>
+<author orcid="0000-0002-3129-772X" pid="122/4736">Leonardo B. L. Santos</author>
+<author orcid="0000-0001-7989-0816" pid="199/9438">Vander L. S. Freitas</author>
+<title>Time Series Forecasting of COVID-19 Cases in Brazil with GNN and Mobility Networks.</title>
+<pages>361-375</pages>
+<year>2023</year>
+<booktitle>BRACIS (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-45392-2_24</ee>
+<crossref>conf/bracis/2023-3</crossref>
+<url>db/conf/bracis/bracis2023-3.html#DuarteMLSF23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/MoraesLM23" mdate="2023-10-27">
+<author orcid="0000-0002-3688-3162" pid="248/0197">Lauro Moraes</author>
+<author orcid="0000-0001-5249-1559" pid="126/6191">Eduardo Jos&#233; da S. Luz</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston Moreira</author>
+<title>Physicochemical Properties for Promoter Classification.</title>
+<pages>368-382</pages>
+<year>2023</year>
+<booktitle>BRACIS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-45389-2_25</ee>
+<crossref>conf/bracis/2023-2</crossref>
+<url>db/conf/bracis/bracis2023-2.html#MoraesLM23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/geoinfo/DuarteFM0S23" mdate="2024-01-05">
+<author pid="296/0180">Fernando H. O. Duarte</author>
+<author pid="199/9438">Vander L. S. Freitas</author>
+<author pid="52/9358">Gladston Moreira</author>
+<author pid="126/6191">Eduardo Luz 0001</author>
+<author pid="122/4736">Leonardo B. L. Santos</author>
+<title>Correlations Between Epidemiological Time Series Forecasting and Influence Regions of Brazilian Cities.</title>
+<pages>340-345</pages>
+<year>2023</year>
+<booktitle>GEOINFO</booktitle>
+<ee>http://urlib.net/ibi/8JMKD3MGPDW34P/4ADCD28?ibiurl.backgroundlanguage=en</ee>
+<crossref>conf/geoinfo/2023</crossref>
+<url>db/conf/geoinfo/geoinfo2023.html#DuarteFM0S23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/ZenobioSLMGG23" mdate="2023-10-25">
+<author pid="359/1084">Jo&#227;o Gabriel Fernandes Zen&#243;bio</author>
+<author pid="48/8156-4">Pedro Henrique Lopes Silva</author>
+<author pid="126/6191">Eduardo Jos&#233; da Silva Luz</author>
+<author pid="52/9358">Gladston Juliano Prates Moreira</author>
+<author pid="359/0859">Conrado Aleksander Barbosa Galdino</author>
+<author pid="222/8035">Jadson Castro Gertrudes</author>
+<title>Reptilerecon: Um Arcabou&#231;o para Extra&#231;&#227;o e An&#225;lise de Sinais de Lagartos.</title>
+<pages>154-166</pages>
+<year>2023</year>
+<booktitle>SBBD</booktitle>
+<ee>https://sol.sbc.org.br/index.php/sbbd/article/view/25524</ee>
+<crossref>conf/sbbd/2023</crossref>
+<url>db/conf/sbbd/sbbd2023.html#ZenobioSLMGG23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-13447" mdate="2023-06-06">
+<author pid="348/4862">Pedro Henrique Nascimento Castro</author>
+<author pid="348/5186">Gabriel C&#225;ssia Fortuna</author>
+<author pid="348/4884">Rafael Alves Bonfim de Queiroz</author>
+<author pid="52/9358">Gladston Juliano Prates Moreira</author>
+<author pid="126/6191">Eduardo Jos&#233; da Silva Luz</author>
+<title>Regularization Through Simultaneous Learning: A Case Study for Hop Classification.</title>
+<year>2023</year>
+<volume>abs/2305.13447</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.13447</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-13447</url>
+</article>
+</r>
+<r><article key="journals/cbm/MoraesSLM22" mdate="2022-08-25">
+<author orcid="0000-0002-3688-3162" pid="248/0197">Lauro Moraes</author>
+<author orcid="0000-0002-5525-6121" pid="48/8156-4">Pedro Silva 0004</author>
+<author pid="126/6191">Eduardo Luz 0001</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston Moreira</author>
+<title>CapsProm: a capsule network for promoter prediction.</title>
+<pages>105627</pages>
+<year>2022</year>
+<volume>147</volume>
+<journal>Comput. Biol. Medicine</journal>
+<ee>https://doi.org/10.1016/j.compbiomed.2022.105627</ee>
+<url>db/journals/cbm/cbm147.html#MoraesSLM22</url>
+</article>
+</r>
+<r><article key="journals/cssc/BodevanDDSM22" mdate="2022-09-10">
+<author pid="328/2610">Emerson C. Bodevan</author>
+<author pid="34/2256">Luiz Henrique Duczmal</author>
+<author pid="302/5760">Anderson Ribeiro Duarte</author>
+<author pid="48/8156-4">Pedro H. L. Silva</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston J. P. Moreira</author>
+<title>Multi-objective approach for multiple clusters detection in data points events.</title>
+<pages>1313-1332</pages>
+<year>2022</year>
+<volume>51</volume>
+<journal>Commun. Stat. Simul. Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1080/03610918.2019.1667392</ee>
+<url>db/journals/cssc/cssc51.html#BodevanDDSM22</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/SilvaLSGOSM22" mdate="2025-02-07">
+<author orcid="0000-0002-5525-6121" pid="48/8156-4">Pedro Silva 0004</author>
+<author orcid="0000-0001-5249-1559" pid="126/6191">Eduardo Luz 0001</author>
+<author pid="333/9146">Larissa Silva</author>
+<author pid="333/9099">Caio Gon&#231;alves</author>
+<author pid="333/9634">D&#234;nis Oliveira</author>
+<author orcid="0000-0003-2547-3835" pid="71/9081">Rodrigo Silva 0001</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston Moreira</author>
+<title>Deep Learning-Based COVID-19 Screening Using Photographs of Chest X-Rays Displayed in Computer Monitors.</title>
+<pages>510-522</pages>
+<year>2022</year>
+<booktitle>BRACIS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-21689-3_36</ee>
+<crossref>conf/bracis/2022-2</crossref>
+<url>db/conf/bracis/bracis2022-2.html#SilvaLSGOSM22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/SilvaSM0M22" mdate="2022-05-20">
+<author pid="320/5272">Guilherme Silva 0006</author>
+<author pid="48/8156-4">Pedro H. L. Silva</author>
+<author pid="294/9006">Mariana R. F. Mota</author>
+<author pid="126/6191">Eduardo Luz 0001</author>
+<author pid="52/9358">Gladston Moreira</author>
+<title>An Efficient Contact Lens Spoofing Classification.</title>
+<pages>441-448</pages>
+<year>2022</year>
+<booktitle>ICEIS (1)</booktitle>
+<ee>https://doi.org/10.5220/0010868500003179</ee>
+<crossref>conf/iceis/2022-1</crossref>
+<url>db/conf/iceis/iceis2022-1.html#SilvaSM0M22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/SilvaMFSML22" mdate="2025-02-07">
+<author pid="48/8156-4">Pedro Silva 0004</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston Moreira</author>
+<author pid="199/9438">Vander L. S. Freitas</author>
+<author pid="71/9081">Rodrigo Silva 0001</author>
+<author pid="10/2834">David Menotti</author>
+<author pid="126/6191">Eduardo Luz 0001</author>
+<title>A Decidability-Based Loss Function.</title>
+<pages>1-8</pages>
+<year>2022</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN55064.2022.9891934</ee>
+<crossref>conf/ijcnn/2022</crossref>
+<url>db/conf/ijcnn/ijcnn2022.html#SilvaMFSML22</url>
+</inproceedings>
+</r>
+<r><article key="journals/cssc/CoutoDBAM21" mdate="2021-01-21">
+<author pid="206/2741">Ricardo F. Couto</author>
+<author pid="34/2256">Luiz Henrique Duczmal</author>
+<author pid="115/4455">Denise Burgarelli</author>
+<author pid="283/0691">Felipe &#193;lvares</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston J. P. Moreira</author>
+<title>Nonparametric dependence modeling via cluster analysis: A financial contagion application.</title>
+<pages>537-556</pages>
+<year>2021</year>
+<volume>50</volume>
+<journal>Commun. Stat. Simul. Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1080/03610918.2018.1563152</ee>
+<url>db/journals/cssc/cssc50.html#CoutoDBAM21</url>
+</article>
+</r>
+<r><article key="journals/cssc/OliveiraMDCL21" mdate="2025-01-19">
+<author pid="302/5920">D&#234;nis Ricardo Xavier de Oliveira</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston Moreira</author>
+<author pid="302/5760">Anderson Ribeiro Duarte</author>
+<author orcid="0000-0002-7019-8521" pid="69/1220">Andr&#233; Luiz Fernandes Can&#231;ado</author>
+<author orcid="0000-0001-5249-1559" pid="126/6191">Eduardo Luz 0001</author>
+<title>Spatial cluster analysis using particle swarm optimization and dispersion function.</title>
+<pages>2368-2385</pages>
+<year>2021</year>
+<volume>50</volume>
+<journal>Commun. Stat. Simul. Comput.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1080/03610918.2019.1602731</ee>
+<ee>https://www.wikidata.org/entity/Q128036079</ee>
+<url>db/journals/cssc/cssc50.html#OliveiraMDCL21</url>
+</article>
+</r>
+<r><article key="journals/jimaging/DinizRBCLMUMS21" mdate="2021-11-03">
+<author orcid="0000-0002-1951-8868" pid="242/2469">D&#233;bora Nasser Diniz</author>
+<author orcid="0000-0002-9514-9312" pid="236/7915">Mariana T. Rezende</author>
+<author orcid="0000-0001-7949-1188" pid="56/8906">Andrea G. C. Bianchi</author>
+<author orcid="0000-0002-6002-857X" pid="254/4751">Cl&#225;udia M. Carneiro</author>
+<author orcid="0000-0001-5249-1559" pid="126/6191">Eduardo Jos&#233; da Silva Luz</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston J. P. Moreira</author>
+<author orcid="0000-0002-7363-9468" pid="79/5182">Daniela M. Ushizima</author>
+<author orcid="0000-0003-3075-8771" pid="47/8106">F&#225;tima N. S. de Medeiros</author>
+<author orcid="0000-0002-7141-357X" pid="26/4">Marcone J. F. Souza</author>
+<title>A Deep Learning Ensemble Method to Assist Cytopathologists in Pap Test Image Classification.</title>
+<pages>111</pages>
+<year>2021</year>
+<volume>7</volume>
+<journal>J. Imaging</journal>
+<number>7</number>
+<ee type="oa">https://doi.org/10.3390/jimaging7070111</ee>
+<url>db/journals/jimaging/jimaging7.html#DinizRBCLMUMS21</url>
+</article>
+</r>
+<r><article key="journals/peerj-cs/MotaSLMSMM21" mdate="2022-03-16">
+<author pid="294/9006">Mariana R. F. Mota</author>
+<author orcid="0000-0002-5525-6121" pid="48/8156-4">Pedro H. L. Silva</author>
+<author orcid="0000-0001-5249-1559" pid="126/6191">Eduardo Jos&#233; da S. Luz</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston J. P. Moreira</author>
+<author pid="182/2874">Thiago Schons</author>
+<author orcid="0000-0002-3688-3162" pid="248/0197">Lauro Moraes</author>
+<author orcid="0000-0003-2430-2030" pid="10/2834">David Menotti</author>
+<title>A deep descriptor for cross-tasking EEG-based recognition.</title>
+<pages>e549</pages>
+<year>2021</year>
+<volume>7</volume>
+<journal>PeerJ Comput. Sci.</journal>
+<ee type="oa">https://doi.org/10.7717/peerj-cs.549</ee>
+<ee>https://www.wikidata.org/entity/Q110949856</ee>
+<url>db/journals/peerj-cs/peerj-cs7.html#MotaSLMSMM21</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2109-05524" mdate="2025-02-07">
+<author pid="48/8156-4">Pedro Silva 0004</author>
+<author pid="52/9358">Gladston Moreira</author>
+<author pid="199/9438">Vander L. S. Freitas</author>
+<author pid="71/9081">Rodrigo Silva 0001</author>
+<author pid="10/2834">David Menotti</author>
+<author pid="126/6191">Eduardo Luz 0001</author>
+<title>A Decidability-Based Loss Function.</title>
+<year>2021</year>
+<volume>abs/2109.05524</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2109.05524</ee>
+<url>db/journals/corr/corr2109.html#abs-2109-05524</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-03710" mdate="2021-12-13">
+<author pid="248/0197">Lauro Moraes</author>
+<author pid="48/8156-4">Pedro Silva 0004</author>
+<author pid="126/6191">Eduardo Luz 0001</author>
+<author pid="52/9358">Gladston Moreira</author>
+<title>CapsProm: A Capsule Network For Promoter Prediction.</title>
+<year>2021</year>
+<volume>abs/2112.03710</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.03710</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-03710</url>
+</article>
+</r>
+<r><inproceedings key="conf/cec/SouzaDMC20" mdate="2023-09-30">
+<author orcid="0000-0002-9603-3311" pid="273/8366">Gabriel L. Souza</author>
+<author pid="302/5760">Anderson Ribeiro Duarte</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston J. P. Moreira</author>
+<author orcid="0000-0001-5842-5544" pid="27/1436">Frederico R. B. Cruz</author>
+<title>A Novel Formulation for Multi-objective optimization of General Finite Single-Server Queueing Networks.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>CEC</booktitle>
+<ee>https://doi.org/10.1109/CEC48606.2020.9185827</ee>
+<crossref>conf/cec/2020</crossref>
+<url>db/conf/cec/cec2020.html#SouzaDMC20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-05717" mdate="2025-02-07">
+<author orcid="0000-0001-5249-1559" pid="126/6191">Eduardo Jos&#233; da S. Luz</author>
+<author pid="48/8156-4">Pedro Henrique Lopes Silva</author>
+<author pid="71/9081">Rodrigo Silva 0001</author>
+<author pid="263/9742">Ludmila Silva</author>
+<author pid="52/9358">Gladston Moreira</author>
+<author pid="10/2834">David Menotti</author>
+<title>Towards an Effective and Efficient Deep Learning Model for COVID-19 Patterns Detection in X-ray Images.</title>
+<year>2020</year>
+<volume>abs/2004.05717</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.05717</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-05717</url>
+</article>
+</r>
+<r><article key="journals/sensors/SilvaLMMM19" mdate="2022-05-23">
+<author orcid="0000-0002-5525-6121" pid="48/8156-4">Pedro Henrique Lopes Silva</author>
+<author orcid="0000-0001-5249-1559" pid="126/6191">Eduardo Luz 0001</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston Moreira</author>
+<author orcid="0000-0002-3688-3162" pid="248/0197">Lauro Moraes</author>
+<author orcid="0000-0003-2430-2030" pid="10/2834">David Menotti</author>
+<title>Chimerical Dataset Creation Protocol Based on <i>Doddington Zoo</i>: A Biometric Application with Face, Eye, and ECG.</title>
+<pages>2968</pages>
+<year>2019</year>
+<volume>19</volume>
+<journal>Sensors</journal>
+<number>13</number>
+<ee type="oa">https://doi.org/10.3390/s19132968</ee>
+<ee>https://www.wikidata.org/entity/Q91714238</ee>
+<url>db/journals/sensors/sensors19.html#SilvaLMMM19</url>
+</article>
+</r>
+<r><inproceedings key="conf/lacci/MoreiraP19" mdate="2022-04-09">
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston Moreira</author>
+<author orcid="0000-0001-7525-8901" pid="96/7060">Lu&#237;s Paquete</author>
+<title>Guiding under uniformity measure in the decision space.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>LA-CCI</booktitle>
+<ee>https://doi.org/10.1109/LA-CCI47412.2019.9037034</ee>
+<crossref>conf/lacci/2019</crossref>
+<url>db/conf/lacci/lacci2019.html#MoreiraP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/LucioLZMM19" mdate="2020-06-15">
+<author pid="173/9085">Diego Rafael Lucio</author>
+<author orcid="0000-0003-1943-2711" pid="215/5013">Rayson Laroca</author>
+<author pid="215/5119">Luiz A. Zanlorensi</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston Moreira</author>
+<author pid="10/2834">David Menotti</author>
+<title>Simultaneous Iris and Periocular Region Detection Using Coarse Annotations.</title>
+<pages>178-185</pages>
+<year>2019</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2019.00032</ee>
+<crossref>conf/sibgrapi/2019</crossref>
+<url>db/conf/sibgrapi/sibgrapi2019.html#LucioLZMM19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-00069" mdate="2020-03-03">
+<author pid="173/9085">Diego Rafael Lucio</author>
+<author pid="215/5013">Rayson Laroca</author>
+<author pid="215/5119">Luiz A. Zanlorensi</author>
+<author pid="52/9358">Gladston Moreira</author>
+<author pid="10/2834">David Menotti</author>
+<title>Simultaneous Iris and Periocular Region Detection Using Coarse Annotations.</title>
+<year>2019</year>
+<volume>abs/1908.00069</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.00069</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-00069</url>
+</article>
+</r>
+<r><article key="journals/endm/MotaWLM18" mdate="2020-06-15">
+<author pid="218/7085">Felipe O. Mota</author>
+<author orcid="0000-0001-6450-3043" pid="63/1340">Elizabeth F. Wanner</author>
+<author orcid="0000-0001-5249-1559" pid="126/6191">Eduardo Jos&#233; da S. Luz</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston J. P. Moreira</author>
+<title>VND-based Local Search Operator for Equality Constraint Problems in PSO Algorithm.</title>
+<pages>111-118</pages>
+<year>2018</year>
+<volume>66</volume>
+<journal>Electron. Notes Discret. Math.</journal>
+<ee>https://doi.org/10.1016/j.endm.2018.03.015</ee>
+<url>db/journals/endm/endm66.html#MotaWLM18</url>
+</article>
+</r>
+<r><article key="journals/prl/LuzMZM18" mdate="2020-06-15">
+<author orcid="0000-0001-5249-1559" pid="126/6191">Eduardo Jos&#233; da S. Luz</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston Moreira</author>
+<author pid="215/5119">Luiz A. Zanlorensi</author>
+<author orcid="0000-0003-2430-2030" pid="10/2834">David Menotti</author>
+<title>Deep periocular representation aiming video surveillance.</title>
+<pages>2-12</pages>
+<year>2018</year>
+<volume>114</volume>
+<journal>Pattern Recognit. Lett.</journal>
+<ee>https://doi.org/10.1016/j.patrec.2017.12.009</ee>
+<url>db/journals/prl/prl114.html#LuzMZM18</url>
+</article>
+</r>
+<r><article key="journals/tifs/LuzMOSM18" mdate="2020-08-06">
+<author orcid="0000-0001-5249-1559" pid="126/6191">Eduardo Jos&#233; da S. Luz</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston J. P. Moreira</author>
+<author pid="o/LuizSOliveira">Luiz S. Oliveira</author>
+<author orcid="0000-0003-1449-8834" pid="78/6398">William Robson Schwartz</author>
+<author orcid="0000-0003-2430-2030" pid="10/2834">David Menotti</author>
+<title>Learning Deep Off-the-Person Heart Biometrics Representations.</title>
+<pages>1258-1270</pages>
+<year>2018</year>
+<volume>13</volume>
+<journal>IEEE Trans. Inf. Forensics Secur.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TIFS.2017.2784362</ee>
+<url>db/journals/tifs/tifs13.html#LuzMOSM18</url>
+</article>
+</r>
+<r><inproceedings key="conf/cec/MotaAWM18" mdate="2019-09-25">
+<author pid="218/7085">Felipe O. Mota</author>
+<author pid="227/5937">Vinicius Almeida</author>
+<author orcid="0000-0001-6450-3043" pid="63/1340">Elizabeth F. Wanner</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston Moreira</author>
+<title>Hybrid PSO Algorithm with Iterated Local Search Operator for Equality Constraints Problems.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>CEC</booktitle>
+<ee>https://doi.org/10.1109/CEC.2018.8477884</ee>
+<crossref>conf/cec/2018</crossref>
+<url>db/conf/cec/cec2018.html#MotaAWM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cec/SilvaLZMM18" mdate="2020-06-15">
+<author pid="48/8156-4">Pedro H. L. Silva</author>
+<author orcid="0000-0001-5249-1559" pid="126/6191">Eduardo Luz 0001</author>
+<author pid="215/5119">Luiz A. Zanlorensi</author>
+<author pid="10/2834">David Menotti</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston Moreira</author>
+<title>Multimodal Feature Level Fusion based on Particle Swarm Optimization with Deep Transfer Learning.</title>
+<pages>1-8</pages>
+<year>2018</year>
+<booktitle>CEC</booktitle>
+<ee>https://doi.org/10.1109/CEC.2018.8477817</ee>
+<crossref>conf/cec/2018</crossref>
+<url>db/conf/cec/cec2018.html#SilvaLZMM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ciarp/SilvaLWMM18" mdate="2020-09-17">
+<author pid="48/8156-4">Pedro Silva 0004</author>
+<author orcid="0000-0001-5249-1559" pid="126/6191">Eduardo Luz 0001</author>
+<author orcid="0000-0001-6450-3043" pid="63/1340">Elizabeth F. Wanner</author>
+<author pid="10/2834">David Menotti</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston Moreira</author>
+<title>QRS Detection in ECG Signal with Convolutional Network.</title>
+<pages>802-809</pages>
+<year>2018</year>
+<booktitle>CIARP</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-13469-3_93</ee>
+<crossref>conf/ciarp/2018</crossref>
+<url>db/conf/ciarp/ciarp2018.html#SilvaLWMM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/SeveroLBZWMM18" mdate="2019-10-19">
+<author pid="215/5287">Evair Severo</author>
+<author orcid="0000-0003-1943-2711" pid="215/5013">Rayson Laroca</author>
+<author pid="217/1460">Cides S. Bezerra</author>
+<author pid="215/5119">Luiz A. Zanlorensi</author>
+<author pid="94/5519">Daniel Weingaertner</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston Moreira</author>
+<author pid="10/2834">David Menotti</author>
+<title>A Benchmark for Iris Location and a Deep Learning Detector Evaluation.</title>
+<pages>1-7</pages>
+<year>2018</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2018.8489638</ee>
+<crossref>conf/ijcnn/2018</crossref>
+<url>db/conf/ijcnn/ijcnn2018.html#SeveroLBZWMM18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-01250" mdate="2018-08-13">
+<author pid="215/5287">Evair Severo</author>
+<author pid="215/5013">Rayson Laroca</author>
+<author pid="217/1460">Cides S. Bezerra</author>
+<author pid="215/5119">Luiz A. Zanlorensi</author>
+<author pid="94/5519">Daniel Weingaertner</author>
+<author pid="52/9358">Gladston Moreira</author>
+<author pid="10/2834">David Menotti</author>
+<title>A Benchmark for Iris Location and a Deep Learning Detector Evaluation.</title>
+<year>2018</year>
+<volume>abs/1803.01250</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.01250</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-01250</url>
+</article>
+</r>
+<r><article key="journals/ijbra/LuzMMM17" mdate="2020-09-11">
+<author pid="126/6191">Eduardo Jos&#233; da S. Luz</author>
+<author pid="80/1853">Luiz H. C. Merschmann</author>
+<author pid="10/2834">David Menotti</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston J. P. Moreira</author>
+<title>Evaluating a hierarchical approach for heartbeat classification from ECG.</title>
+<pages>146-160</pages>
+<year>2017</year>
+<volume>13</volume>
+<journal>Int. J. Bioinform. Res. Appl.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1504/IJBRA.2017.10003488</ee>
+<url>db/journals/ijbra/ijbra13.html#LuzMMM17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cec/BernardoMLOG17" mdate="2020-06-15">
+<author pid="202/8296">Fernando Bernardo</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston Moreira</author>
+<author orcid="0000-0001-5249-1559" pid="126/6191">Eduardo Jos&#233; da S. Luz</author>
+<author pid="202/8283">Paulo H. C. Oliveira</author>
+<author pid="202/8260">Alvaro Gaurda</author>
+<title>Exploring the scalability of multiple signatures in iris recognition using GA on the acceptance frontier search.</title>
+<pages>1843-1847</pages>
+<year>2017</year>
+<booktitle>CEC</booktitle>
+<ee>https://doi.org/10.1109/CEC.2017.7969525</ee>
+<crossref>conf/cec/2017</crossref>
+<url>db/conf/cec/cec2017.html#BernardoMLOG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cec/OliveiraMUCMASB17" mdate="2025-03-03">
+<author pid="202/8283">Paulo H. C. Oliveira</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston Moreira</author>
+<author pid="79/5182">Daniela Mayumi Ushizima</author>
+<author orcid="0000-0002-6002-857X" pid="254/4751">Cl&#225;udia M. Carneiro</author>
+<author pid="47/8106">F&#225;tima N. S. de Medeiros</author>
+<author pid="135/8565">Fl&#225;vio Henrique Duarte de Ara&#250;jo</author>
+<author orcid="0000-0002-7163-7469" pid="152/7440">Romuere R. V. e Silva</author>
+<author orcid="0000-0001-7949-1188" pid="56/8906">Andrea G. C. Bianchi</author>
+<title>A multi-objective approach for calibration and detection of cervical cells nuclei.</title>
+<pages>2321-2327</pages>
+<year>2017</year>
+<booktitle>CEC</booktitle>
+<ee>https://doi.org/10.1109/CEC.2017.7969586</ee>
+<crossref>conf/cec/2017</crossref>
+<url>db/conf/cec/cec2017.html#OliveiraMUCMASB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ciarp/SchonsMSCL17" mdate="2020-06-15">
+<author pid="182/2874">Thiago Schons</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston J. P. Moreira</author>
+<author pid="48/8156-4">Pedro H. L. Silva</author>
+<author pid="151/4334">Vitor Naz&#225;rio Coelho</author>
+<author orcid="0000-0001-5249-1559" pid="126/6191">Eduardo Jos&#233; da S. Luz</author>
+<title>Convolutional Network for EEG-Based Biometric.</title>
+<pages>601-608</pages>
+<year>2017</year>
+<booktitle>CIARP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-75193-1_72</ee>
+<crossref>conf/ciarp/2017</crossref>
+<url>db/conf/ciarp/ciarp2017.html#SchonsMSCL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cec/XavierMLS16" mdate="2020-10-25">
+<author pid="190/2733">Denis Xavier</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston Moreira</author>
+<author orcid="0000-0001-5249-1559" pid="126/6191">Eduardo Jos&#233; da S. Luz</author>
+<author orcid="0000-0002-7141-357X" pid="26/4">Marcone J. F. Souza</author>
+<title>A new irregular spatial cluster detection through multi-objective particle swarm optimization.</title>
+<pages>403-407</pages>
+<year>2016</year>
+<booktitle>CEC</booktitle>
+<ee>https://doi.org/10.1109/CEC.2016.7743822</ee>
+<crossref>conf/cec/2016</crossref>
+<url>db/conf/cec/cec2016.html#XavierMLS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cec/MoreiraLM16" mdate="2020-06-15">
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston J. P. Moreira</author>
+<author orcid="0000-0001-5249-1559" pid="126/6191">Eduardo Jos&#233; da S. Luz</author>
+<author pid="10/2834">David Menotti</author>
+<title>Optimizing acceptance frontier using PSO and GA for multiple signature iris recognition.</title>
+<pages>4592-4598</pages>
+<year>2016</year>
+<booktitle>CEC</booktitle>
+<ee>https://doi.org/10.1109/CEC.2016.7744375</ee>
+<crossref>conf/cec/2016</crossref>
+<url>db/conf/cec/cec2016.html#MoreiraLM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/GarciaMLM16" mdate="2020-06-15">
+<author pid="99/8240">Gabriel Garcia</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston J. P. Moreira</author>
+<author orcid="0000-0001-5249-1559" pid="126/6191">Eduardo Jos&#233; da S. Luz</author>
+<author pid="10/2834">David Menotti</author>
+<title>Improving automatic cardiac arrhythmia classification: Joining temporal-VCG, complex networks and SVM classifier.</title>
+<pages>3896-3900</pages>
+<year>2016</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2016.7727704</ee>
+<crossref>conf/ijcnn/2016</crossref>
+<url>db/conf/ijcnn/ijcnn2016.html#GarciaMLM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/embc/QueirozLMGM15" mdate="2022-10-04">
+<author orcid="0000-0003-2158-3260" pid="308/9921">Vin&#237;cius A. P. Queiroz</author>
+<author orcid="0000-0001-5249-1559" pid="126/6191">Eduardo Jos&#233; da S. Luz</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston J. P. Moreira</author>
+<author pid="171/8459">Alvaro Guarda</author>
+<author pid="10/2834">David Menotti</author>
+<title>Automatic cardiac arrhythmia detection and classification using vectorcardiograms and complex networks.</title>
+<pages>5203-5206</pages>
+<year>2015</year>
+<booktitle>EMBC</booktitle>
+<ee>https://doi.org/10.1109/EMBC.2015.7319564</ee>
+<ee>https://www.wikidata.org/entity/Q87026039</ee>
+<crossref>conf/embc/2015</crossref>
+<url>db/conf/embc/embc2015.html#QueirozLMGM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emo/TinocoMSM15" mdate="2019-03-19">
+<author pid="142/6051">Sandro Luiz Jailson Lopes Tin&#244;co</author>
+<author pid="10/2834">David Menotti</author>
+<author pid="53/900">Jefersson A. dos Santos</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston J. P. Moreira</author>
+<title>A Multi-objective Approach for Building Hyperspectral Remote Sensed Image Classifier Combiners.</title>
+<pages>544-556</pages>
+<year>2015</year>
+<booktitle>EMO (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-15892-1_37</ee>
+<crossref>conf/emo/2015-2</crossref>
+<url>db/conf/emo/emo2015-2.html#TinocoMSM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cec/SantosTM12" mdate="2017-06-15">
+<author orcid="0000-0002-2435-2786" pid="75/5821">Thiago Santos</author>
+<author orcid="0000-0003-0814-6314" pid="17/4068">Ricardo H. C. Takahashi</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston J. P. Moreira</author>
+<title>A CMA stochastic differential equation approach for many-objective optimization.</title>
+<pages>1-6</pages>
+<year>2012</year>
+<booktitle>IEEE Congress on Evolutionary Computation</booktitle>
+<ee>https://doi.org/10.1109/CEC.2012.6253014</ee>
+<crossref>conf/cec/2012</crossref>
+<url>db/conf/cec/cec2012.html#SantosTM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emo/OnetyMNT11" mdate="2017-06-15">
+<author pid="62/9358">Renata E. Onety</author>
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston J. P. Moreira</author>
+<author pid="35/6538">Oriane M. Neto</author>
+<author pid="17/4068">Ricardo H. C. Takahashi</author>
+<title>Variable Neighborhood Multiobjective Genetic Algorithm for the Optimization of Routes on IP Networks.</title>
+<pages>433-447</pages>
+<year>2011</year>
+<booktitle>EMO</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-19893-9_30</ee>
+<crossref>conf/emo/2011</crossref>
+<url>db/conf/emo/emo2011.html#OnetyMNT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/MoreiraWGDT10" mdate="2024-08-04">
+<author orcid="0000-0001-7747-5926" pid="52/9358">Gladston J. P. Moreira</author>
+<author orcid="0000-0001-6450-3043" pid="63/1340">Elizabeth F. Wanner</author>
+<author orcid="0000-0001-9238-8839" pid="04/4216">Frederico G. Guimar&#227;es</author>
+<author pid="34/2256">Luiz Duczmal</author>
+<author pid="17/4068">Ricardo H. C. Takahashi</author>
+<title>LMI formulation for multiobjective learning in Radial Basis Function neural networks.</title>
+<pages>1-7</pages>
+<year>2010</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2010.5596964</ee>
+<crossref>conf/ijcnn/2010</crossref>
+<url>db/conf/ijcnn/ijcnn2010.html#MoreiraWGDT10</url>
+</inproceedings>
+</r>
+<coauthors n="71" nc="1">
+<co c="0"><na f="a/Almeida:Vinicius" pid="227/5937">Vinicius Almeida</na></co>
+<co c="0"><na f="=/=Aacute=lvares:Felipe" pid="283/0691">Felipe &#193;lvares</na></co>
+<co c="0"><na f="a/Andrade:Adriano_F=" pid="396/0273">Adriano F. Andrade</na></co>
+<co c="0" n="2"><na f="a/Ara=uacute=jo:Fl=aacute=vio_H=_D=" pid="135/8565">Fl&#225;vio H. D. Ara&#250;jo</na><na>Fl&#225;vio Henrique Duarte de Ara&#250;jo</na></co>
+<co c="0"><na f="b/Bernardo:Fernando" pid="202/8296">Fernando Bernardo</na></co>
+<co c="0"><na f="b/Bezerra:Cides_S=" pid="217/1460">Cides S. Bezerra</na></co>
+<co c="0"><na f="b/Bianchi:Andrea_G=_C=" pid="56/8906">Andrea G. C. Bianchi</na></co>
+<co c="0"><na f="b/Bodevan:Emerson_C=" pid="328/2610">Emerson C. Bodevan</na></co>
+<co c="0"><na f="b/Burgarelli:Denise" pid="115/4455">Denise Burgarelli</na></co>
+<co c="0"><na f="c/Can=ccedil=ado:Andr=eacute=_Luiz_Fernandes" pid="69/1220">Andr&#233; Luiz Fernandes Can&#231;ado</na></co>
+<co c="0"><na f="c/Carneiro:Cl=aacute=udia_M=" pid="254/4751">Cl&#225;udia M. Carneiro</na></co>
+<co c="0"><na f="c/Castro:Pedro_Henrique_Nascimento" pid="348/4862">Pedro Henrique Nascimento Castro</na></co>
+<co c="0"><na f="c/Coelho:Pablo" pid="224/5140">Pablo Coelho</na></co>
+<co c="0"><na f="c/Coelho:Vitor_Naz=aacute=rio" pid="151/4334">Vitor Naz&#225;rio Coelho</na></co>
+<co c="0"><na f="c/Couto:Ricardo_F=" pid="206/2741">Ricardo F. Couto</na></co>
+<co c="0"><na f="c/Cruz:Frederico_R=_B=" pid="27/1436">Frederico R. B. Cruz</na></co>
+<co c="0"><na f="d/Diniz:D=eacute=bora_Nasser" pid="242/2469">D&#233;bora Nasser Diniz</na></co>
+<co c="0"><na f="d/Duarte:Anderson_Ribeiro" pid="302/5760">Anderson Ribeiro Duarte</na></co>
+<co c="0" n="2"><na f="d/Duarte:Fernando_H=_O=" pid="296/0180">Fernando H. O. Duarte</na><na>Fernando Henrique Oliveira Duarte</na></co>
+<co c="0" n="2"><na f="d/Duczmal:Luiz" pid="34/2256">Luiz Duczmal</na><na>Luiz Henrique Duczmal</na></co>
+<co c="0"><na f="f/Fortuna:Gabriel_C=aacute=ssia" pid="348/5186">Gabriel C&#225;ssia Fortuna</na></co>
+<co c="0"><na f="f/Freitas:Vander_L=_S=" pid="199/9438">Vander L. S. Freitas</na></co>
+<co c="0"><na f="g/Galdino:Conrado_Aleksander_Barbosa" pid="359/0859">Conrado Aleksander Barbosa Galdino</na></co>
+<co c="0"><na f="g/Garcia:Gabriel" pid="99/8240">Gabriel Garcia</na></co>
+<co c="0"><na f="g/Gaurda:Alvaro" pid="202/8260">Alvaro Gaurda</na></co>
+<co c="0"><na f="g/Gertrudes:Jadson_Castro" pid="222/8035">Jadson Castro Gertrudes</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Caio" pid="333/9099">Caio Gon&#231;alves</na></co>
+<co c="0"><na f="g/Guarda:Alvaro" pid="171/8459">Alvaro Guarda</na></co>
+<co c="0"><na f="g/Guimar=atilde=es:Frederico_G=" pid="04/4216">Frederico G. Guimar&#227;es</na></co>
+<co c="0"><na f="l/Laroca:Rayson" pid="215/5013">Rayson Laroca</na></co>
+<co c="0"><na f="l/Lucio:Diego_Rafael" pid="173/9085">Diego Rafael Lucio</na></co>
+<co c="0" n="3"><na f="l/Luz:Eduardo_Jos=eacute=_da_S=" pid="126/6191">Eduardo Jos&#233; da S. Luz</na><na>Eduardo Luz 0001</na><na>Eduardo Jos&#233; da Silva Luz</na></co>
+<co c="0"><na f="m/Medeiros:F=aacute=tima_N=_S=_de" pid="47/8106">F&#225;tima N. S. de Medeiros</na></co>
+<co c="0"><na f="m/Menotti:David" pid="10/2834">David Menotti</na></co>
+<co c="0"><na f="m/Merschmann:Luiz_H=_C=" pid="80/1853">Luiz H. C. Merschmann</na></co>
+<co c="0"><na f="m/Moraes:Lauro" pid="248/0197">Lauro Moraes</na></co>
+<co c="0"><na f="m/Mota:Felipe_O=" pid="218/7085">Felipe O. Mota</na></co>
+<co c="0"><na f="m/Mota:Mariana_R=_F=" pid="294/9006">Mariana R. F. Mota</na></co>
+<co c="0"><na f="n/Neto:Oriane_M=" pid="35/6538">Oriane M. Neto</na></co>
+<co c="0"><na f="o/Oliveira:D=ecirc=nis" pid="333/9634">D&#234;nis Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:D=ecirc=nis_Ricardo_Xavier_de" pid="302/5920">D&#234;nis Ricardo Xavier de Oliveira</na></co>
+<co c="0" n="2"><na f="o/Oliveira:Luiz_Eduardo_Soares_de" pid="o/LuizSOliveira">Luiz Eduardo Soares de Oliveira</na><na>Luiz S. Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Paulo_H=_C=" pid="202/8283">Paulo H. C. Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Rafael_F=" pid="376/5173">Rafael F. Oliveira</na></co>
+<co c="0"><na f="o/Onety:Renata_E=" pid="62/9358">Renata E. Onety</na></co>
+<co c="-1"><na f="p/Paquete:Lu=iacute=s" pid="96/7060">Lu&#237;s Paquete</na></co>
+<co c="0"><na f="q/Queiroz:Rafael_Alves_Bonfim_de" pid="348/4884">Rafael Alves Bonfim de Queiroz</na></co>
+<co c="0"><na f="q/Queiroz:Vin=iacute=cius_A=_P=" pid="308/9921">Vin&#237;cius A. P. Queiroz</na></co>
+<co c="0"><na f="r/Rezende:Mariana_T=" pid="236/7915">Mariana T. Rezende</na></co>
+<co c="0"><na f="s/Santos:Jefersson_A=_dos" pid="53/900">Jefersson A. dos Santos</na></co>
+<co c="0"><na f="s/Santos:Leonardo_B=_L=" pid="122/4736">Leonardo B. L. Santos</na></co>
+<co c="0"><na f="s/Santos:Thiago" pid="75/5821">Thiago Santos</na></co>
+<co c="0"><na f="s/Schons:Thiago" pid="182/2874">Thiago Schons</na></co>
+<co c="0"><na f="s/Schwartz:William_Robson" pid="78/6398">William Robson Schwartz</na></co>
+<co c="0"><na f="s/Severo:Evair" pid="215/5287">Evair Severo</na></co>
+<co c="0"><na f="s/Silva_0006:Guilherme" pid="320/5272">Guilherme Silva 0006</na></co>
+<co c="0"><na f="s/Silva:Larissa" pid="333/9146">Larissa Silva</na></co>
+<co c="0"><na f="s/Silva:Ludmila" pid="263/9742">Ludmila Silva</na></co>
+<co c="0" n="3"><na f="s/Silva_0004:Pedro" pid="48/8156-4">Pedro Silva 0004</na><na>Pedro H. L. Silva</na><na>Pedro Henrique Lopes Silva</na></co>
+<co c="0"><na f="s/Silva_0001:Rodrigo" pid="71/9081">Rodrigo Silva 0001</na></co>
+<co c="0" n="2"><na f="s/Silva:Romuere_R=ocirc=drigues_Veloso_e" pid="152/7440">Romuere R&#244;drigues Veloso e Silva</na><na>Romuere R. V. e Silva</na></co>
+<co c="0"><na f="s/Souza:Gabriel_L=" pid="273/8366">Gabriel L. Souza</na></co>
+<co c="0"><na f="s/Souza:Marcone_J=_F=" pid="26/4">Marcone J. F. Souza</na></co>
+<co c="0"><na f="t/Takahashi:Ricardo_H=_C=" pid="17/4068">Ricardo H. C. Takahashi</na></co>
+<co c="0"><na f="t/Tin=ocirc=co:Sandro_Luiz_Jailson_Lopes" pid="142/6051">Sandro Luiz Jailson Lopes Tin&#244;co</na></co>
+<co c="0" n="3"><na f="u/Ushizima:Daniela" pid="79/5182">Daniela Ushizima</na><na>Daniela M. Ushizima</na><na>Daniela Mayumi Ushizima</na></co>
+<co c="0"><na f="w/Wanner:Elizabeth_F=" pid="63/1340">Elizabeth F. Wanner</na></co>
+<co c="0"><na f="w/Weingaertner:Daniel" pid="94/5519">Daniel Weingaertner</na></co>
+<co c="0"><na f="x/Xavier:Denis" pid="190/2733">Denis Xavier</na></co>
+<co c="0"><na f="z/Zanlorensi:Luiz_A=" pid="215/5119">Luiz A. Zanlorensi</na></co>
+<co c="0"><na f="z/Zen=oacute=bio:Jo=atilde=o_Gabriel_Fernandes" pid="359/1084">Jo&#227;o Gabriel Fernandes Zen&#243;bio</na></co>
+</coauthors>
+</dblpperson>
+

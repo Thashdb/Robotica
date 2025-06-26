@@ -1,0 +1,1108 @@
+<?xml version="1.0"?>
+<dblpperson name="Roberto Ierusalimschy" pid="90/4557" n="79">
+<person key="homepages/90/4557" mdate="2024-05-01">
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<note type="affiliation">Pontifical Catholic University of Rio de Janeiro, Brazil</note>
+<url>https://scholar.google.com/citations?user=_pZgPlIAAAAJ</url>
+<url>https://dl.acm.org/profile/81100362484</url>
+<url>https://zbmath.org/authors/?q=ai:ierusalimschy.roberto</url>
+<url>https://mathgenealogy.org/id.php?id=301988</url>
+<url>https://en.wikipedia.org/wiki/Roberto_Ierusalimschy</url>
+<url>https://orcid.org/0000-0003-2263-4955</url>
+<url>https://www.wikidata.org/entity/Q1840472</url>
+<url>http://isni.org/isni/0000000117292896</url>
+<url>https://id.loc.gov/authorities/names/no2005083990</url>
+<url>https://d-nb.info/gnd/132209101</url>
+</person>
+<r><article key="journals/vlc/IerusalimschyFC25" mdate="2025-05-31">
+<author orcid="0000-0003-2263-4955" pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="92/7002">Luiz Henrique de Figueiredo</author>
+<author pid="c/WaldemarCelesFilho">Waldemar Celes 0001</author>
+<title>The evolution of Lua, continued.</title>
+<pages>101326</pages>
+<year>2025</year>
+<volume>83</volume>
+<journal>J. Comput. Lang.</journal>
+<ee>https://doi.org/10.1016/j.cola.2025.101326</ee>
+<url>db/journals/vlc/vlc83.html#IerusalimschyFC25</url>
+<stream>streams/journals/vlc</stream>
+</article>
+</r>
+<r><article key="journals/vlc/GualandiI22" mdate="2023-08-28">
+<author orcid="0000-0003-2444-1209" pid="228/5983">Hugo Musso Gualandi</author>
+<author orcid="0000-0003-2263-4955" pid="90/4557">Roberto Ierusalimschy</author>
+<title>A surprisingly simple Lua compiler - Extended version.</title>
+<pages>101151</pages>
+<year>2022</year>
+<volume>72</volume>
+<journal>J. Comput. Lang.</journal>
+<ee>https://doi.org/10.1016/j.cola.2022.101151</ee>
+<ee>https://www.wikidata.org/entity/Q121357217</ee>
+<url>db/journals/vlc/vlc72.html#GualandiI22</url>
+</article>
+</r>
+<r><inproceedings key="conf/sblp/AlegriaIR22" mdate="2025-01-19">
+<author pid="330/2395">Anna Leticia Alegria</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<title>EventManager - a tool to help students analyse concurrent programs.</title>
+<pages>24-31</pages>
+<year>2022</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3561320.3561324</ee>
+<ee>https://www.wikidata.org/entity/Q130887778</ee>
+<crossref>conf/sblp/2022</crossref>
+<url>db/conf/sblp/sblp2022.html#AlegriaIR22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/PaulaI22" mdate="2022-10-06">
+<author pid="330/3559">Gabriel Coutinho De Paula</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>A Foreign Function Interface for Pallene.</title>
+<pages>32-40</pages>
+<year>2022</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3561320.3561321</ee>
+<crossref>conf/sblp/2022</crossref>
+<url>db/conf/sblp/sblp2022.html#PaulaI22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/GualandiI21" mdate="2022-03-16">
+<author orcid="0000-0003-2444-1209" pid="228/5983">Hugo Musso Gualandi</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>A Surprisingly Simple Lua Compiler.</title>
+<pages>1-8</pages>
+<year>2021</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3475061.3475077</ee>
+<ee>https://www.wikidata.org/entity/Q109524346</ee>
+<crossref>conf/sblp/2021</crossref>
+<url>db/conf/sblp/sblp2021.html#GualandiI21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/KaplanI21" mdate="2021-10-26">
+<author pid="304/5677">Leonardo Kaplan</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Evaluating Optimizations for a High-Level Language.</title>
+<pages>25-32</pages>
+<year>2021</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3475061.3475088</ee>
+<crossref>conf/sblp/2021</crossref>
+<url>db/conf/sblp/sblp2021.html#KaplanI21</url>
+</inproceedings>
+</r>
+<r><article key="journals/scp/GualandiI20" mdate="2025-01-19">
+<author orcid="0000-0003-2444-1209" pid="228/5983">Hugo Musso Gualandi</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Pallene: A companion language for Lua.</title>
+<pages>102393</pages>
+<year>2020</year>
+<volume>189</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee>https://doi.org/10.1016/j.scico.2020.102393</ee>
+<ee>https://www.wikidata.org/entity/Q126343907</ee>
+<url>db/journals/scp/scp189.html#GualandiI20</url>
+</article>
+</r>
+<r><article key="journals/scp/SantosRI20" mdate="2020-11-17">
+<author pid="228/5900">Renan Santos</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Revisiting monitors.</title>
+<pages>102491</pages>
+<year>2020</year>
+<volume>196</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee>https://doi.org/10.1016/j.scico.2020.102491</ee>
+<url>db/journals/scp/scp196.html#SantosRI20</url>
+</article>
+</r>
+<r><article key="journals/jsa/LimaSIHS19" mdate="2023-09-30">
+<author orcid="0000-0002-7660-9256" pid="143/5652">Guilherme F. Lima</author>
+<author pid="123/7975">Rodrigo C. M. Santos</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="93/6371">Edward Hermann Haeusler</author>
+<author orcid="0000-0003-2182-4167" pid="16/7375">Francisco Sant'Anna</author>
+<title>A memory-bounded, deterministic and terminating semantics for the synchronous programming language C&#233;u.</title>
+<pages>239-257</pages>
+<year>2019</year>
+<volume>97</volume>
+<journal>J. Syst. Archit.</journal>
+<ee>https://doi.org/10.1016/j.sysarc.2019.01.014</ee>
+<url>db/journals/jsa/jsa97.html#LimaSIHS19</url>
+</article>
+</r>
+<r><article key="journals/cacm/IerusalimschyFF18" mdate="2024-10-06">
+<author orcid="0000-0003-2263-4955" pid="90/4557">Roberto Ierusalimschy</author>
+<author orcid="0000-0001-5683-693X" pid="92/7002">Luiz Henrique de Figueiredo</author>
+<author pid="c/WaldemarCelesFilho">Waldemar Celes Filho</author>
+<title>A look at the design of Lua.</title>
+<pages>114-123</pages>
+<year>2018</year>
+<volume>61</volume>
+<journal>Commun. ACM</journal>
+<number>11</number>
+<ee>https://doi.org/10.1145/3186277</ee>
+<ee>https://www.wikidata.org/entity/Q60162582</ee>
+<url>db/journals/cacm/cacm61.html#IerusalimschyFF18</url>
+</article>
+</r>
+<r><inproceedings key="conf/lctrts/SantosLSIH18" mdate="2023-09-30">
+<author pid="123/7975">Rodrigo C. M. Santos</author>
+<author orcid="0000-0002-7660-9256" pid="143/5652">Guilherme F. Lima</author>
+<author orcid="0000-0003-2182-4167" pid="16/7375">Francisco Sant'Anna</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="93/6371">Edward Hermann Haeusler</author>
+<title>A memory-bounded, deterministic and terminating semantics for the synchronous programming language C&#233;u.</title>
+<pages>1-18</pages>
+<year>2018</year>
+<booktitle>LCTES</booktitle>
+<ee>https://doi.org/10.1145/3211332.3211334</ee>
+<ee>https://doi.org/10.1145/3299710.3211334</ee>
+<crossref>conf/lctrts/2018</crossref>
+<url>db/conf/lctrts/lctes2018.html#SantosLSIH18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/GualandiI18" mdate="2022-01-03">
+<author orcid="0000-0003-2444-1209" pid="228/5983">Hugo Musso Gualandi</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Pallene: a statically typed companion language for lua.</title>
+<pages>19-26</pages>
+<year>2018</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3264637.3264640</ee>
+<crossref>conf/sblp/2018</crossref>
+<url>db/conf/sblp/sblp2018.html#GualandiI18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/SantosRI18" mdate="2018-11-21">
+<author pid="228/5900">Renan Santos</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Revisiting monitors.</title>
+<pages>75-82</pages>
+<year>2018</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1145/3264637.3264647</ee>
+<crossref>conf/sblp/2018</crossref>
+<url>db/conf/sblp/sblp2018.html#SantosRI18</url>
+</inproceedings>
+</r>
+<r><article key="journals/jucs/Ierusalimschy17" mdate="2021-02-17">
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>First-Class Functions in an Imperative World.</title>
+<pages>112-126</pages>
+<year>2017</year>
+<volume>23</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>1</number>
+<ee type="oa">http://www.jucs.org/jucs_23_1/first_class_functions_in</ee>
+<url>db/journals/jucs/jucs23.html#Ierusalimschy17</url>
+</article>
+</r>
+<r><article key="journals/tecs/SantAnnaIRRB17" mdate="2021-10-14">
+<author orcid="0000-0003-2182-4167" pid="16/7375">Francisco Sant'Anna</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author pid="52/618">Silvana Rossetto</author>
+<author orcid="0000-0002-5200-5212" pid="137/0622">Adriano Branco</author>
+<title>The Design and Implementation of the Synchronous Language C&#201;U.</title>
+<pages>98:1-98:26</pages>
+<year>2017</year>
+<volume>16</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3035544</ee>
+<url>db/journals/tecs/tecs16.html#SantAnnaIRRB17</url>
+</article>
+</r>
+<r><article key="journals/scp/MaidlMMI16" mdate="2023-09-24">
+<author pid="98/1959">Andr&#233; Murbach Maidl</author>
+<author pid="80/5193">Fabio Mascarenhas</author>
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Error reporting in Parsing Expression Grammars.</title>
+<pages>129-140</pages>
+<year>2016</year>
+<volume>132</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee type="oa">https://doi.org/10.1016/j.scico.2016.08.004</ee>
+<url>db/journals/scp/scp132.html#MaidlMMI16</url>
+</article>
+</r>
+<r><proceedings key="conf/dls/2016" mdate="2021-06-23">
+<editor pid="90/4557">Roberto Ierusalimschy</editor>
+<title>Proceedings of the 12th Symposium on Dynamic Languages, DLS 2016, Amsterdam, The Netherlands, November 1, 2016</title>
+<booktitle>DLS</booktitle>
+<publisher>ACM</publisher>
+<year>2016</year>
+<isbn>978-1-4503-4445-6</isbn>
+<ee>https://doi.org/10.1145/2989225</ee>
+<ee>https://doi.org/10.1145/3093334</ee>
+<url>db/conf/dls/dls2016.html</url>
+</proceedings>
+</r>
+<r><article key="journals/tosn/BrancoSIRR15" mdate="2021-10-14">
+<author orcid="0000-0002-5200-5212" pid="137/0622">Adriano Branco</author>
+<author orcid="0000-0003-2182-4167" pid="16/7375">Francisco Sant'Anna</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author pid="52/618">Silvana Rossetto</author>
+<title>Terra: Flexibility and Safety in Wireless Sensor Networks.</title>
+<pages>59:1-59:27</pages>
+<year>2015</year>
+<volume>11</volume>
+<journal>ACM Trans. Sens. Networks</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2811267</ee>
+<url>db/journals/tosn/tosn11.html#BrancoSIRR15</url>
+</article>
+</r>
+<r><inproceedings key="conf/aosd/SantAnnaIR15" mdate="2021-10-14">
+<author orcid="0000-0003-2182-4167" pid="16/7375">Francisco Sant'Anna</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<title>Structured synchronous reactive programming with C&#253;u.</title>
+<pages>29-40</pages>
+<year>2015</year>
+<booktitle>MODULARITY</booktitle>
+<ee>https://doi.org/10.1145/2724525.2724571</ee>
+<crossref>conf/aosd/2015</crossref>
+<url>db/conf/aosd/modularity2015.html#SantAnnaIR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dls/MaidlMI15" mdate="2021-06-23">
+<author pid="98/1959">Andr&#233; Murbach Maidl</author>
+<author pid="80/5193">Fabio Mascarenhas</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>A formalization of typed lua.</title>
+<pages>13-25</pages>
+<year>2015</year>
+<booktitle>DLS</booktitle>
+<ee>https://doi.org/10.1145/2816707.2816709</ee>
+<ee>https://doi.org/10.1145/2936313.2816709</ee>
+<crossref>conf/dls/2015</crossref>
+<url>db/conf/dls/dls2015.html#MaidlMI15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/RibeiroMMI15" mdate="2017-05-26">
+<author pid="169/2294">F&#233;lix Ribeiro</author>
+<author pid="64/4649">Hisham Muhammad</author>
+<author pid="98/1959">Andr&#233; Murbach Maidl</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Preserving Lexical Scoping When Dynamically Embedding Languages.</title>
+<pages>31-43</pages>
+<year>2015</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-24012-1_3</ee>
+<crossref>conf/sblp/2015</crossref>
+<url>db/conf/sblp/sblp2015.html#RibeiroMMI15</url>
+</inproceedings>
+</r>
+<r><article key="journals/jpdc/SkyrmeRI14" mdate="2020-02-22">
+<author pid="93/7849">Alexandre Skyrme</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>A survey of support for structured communication in concurrency control models.</title>
+<pages>2266-2285</pages>
+<year>2014</year>
+<volume>74</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.jpdc.2013.11.005</ee>
+<url>db/journals/jpdc/jpdc74.html#SkyrmeRI14</url>
+</article>
+</r>
+<r><article key="journals/scp/MascarenhasMI14" mdate="2023-09-24">
+<author orcid="0000-0002-2970-7160" pid="80/5193">Fabio Mascarenhas</author>
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>On the relation between context-free grammars and parsing expression grammars.</title>
+<pages>235-250</pages>
+<year>2014</year>
+<volume>89</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee type="oa">https://doi.org/10.1016/j.scico.2014.01.012</ee>
+<url>db/journals/scp/scp89.html#MascarenhasMI14</url>
+</article>
+</r>
+<r><article key="journals/scp/MedeirosMI14" mdate="2023-09-24">
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<author orcid="0000-0002-2970-7160" pid="80/5193">Fabio Mascarenhas</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>From regexes to parsing expression grammars.</title>
+<pages>3-18</pages>
+<year>2014</year>
+<volume>93</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee type="oa">https://doi.org/10.1016/j.scico.2012.11.006</ee>
+<url>db/journals/scp/scp93.html#MedeirosMI14</url>
+</article>
+</r>
+<r><article key="journals/scp/MedeirosMI14a" mdate="2023-09-24">
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<author pid="80/5193">Fabio Mascarenhas</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Left recursion in Parsing Expression Grammars.</title>
+<pages>177-190</pages>
+<year>2014</year>
+<volume>96</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee type="oa">https://doi.org/10.1016/j.scico.2014.01.013</ee>
+<url>db/journals/scp/scp96.html#MedeirosMI14a</url>
+</article>
+</r>
+<r><article key="journals/software/SkyrmeRI14" mdate="2020-06-08">
+<author pid="93/7849">Alexandre Skyrme</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Scripting Multiple CPUs with Safe Data Sharing.</title>
+<pages>44-51</pages>
+<year>2014</year>
+<volume>31</volume>
+<journal>IEEE Softw.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MS.2014.102</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MS.2014.102</ee>
+<url>db/journals/software/software31.html#SkyrmeRI14</url>
+</article>
+</r>
+<r><inproceedings key="conf/dls/NetoIMB14" mdate="2025-01-19">
+<author pid="152/5512">Lourival Vieira Neto</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="82/6280">Ana L&#250;cia de Moura</author>
+<author pid="152/5456">Marc Balmer</author>
+<title>Scriptable operating systems with Lua.</title>
+<pages>2-10</pages>
+<year>2014</year>
+<booktitle>DLS</booktitle>
+<ee>https://doi.org/10.1145/2661088.2661096</ee>
+<ee>https://doi.org/10.1145/2775052.2661096</ee>
+<ee>https://www.wikidata.org/entity/Q130976355</ee>
+<crossref>conf/dls/2014</crossref>
+<url>db/conf/dls/dls2014.html#NetoIMB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pldi/MaidlMI14" mdate="2018-11-06">
+<author pid="98/1959">Andr&#233; Murbach Maidl</author>
+<author pid="80/5193">Fabio Mascarenhas</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Typed Lua: An Optional Type System for Lua.</title>
+<pages>3:1-3:10</pages>
+<year>2014</year>
+<booktitle>Dyla@PLDI</booktitle>
+<ee>https://doi.org/10.1145/2617548.2617553</ee>
+<crossref>conf/pldi/2014dyla</crossref>
+<url>db/conf/pldi/dyla2014.html#MaidlMI14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/MilanesRI14" mdate="2023-03-24">
+<author pid="14/152">Anolan Milan&#233;s</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Reflection-Based Heterogeneous Migration of Computations.</title>
+<pages>223-230</pages>
+<year>2014</year>
+<booktitle>SBRC</booktitle>
+<ee>https://doi.org/10.1109/SBRC.2014.27</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBRC.2014.27</ee>
+<crossref>conf/sbrc/2014</crossref>
+<url>db/conf/sbrc/sbrc2014.html#MilanesRI14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/MaidlMMI14" mdate="2023-09-24">
+<author pid="98/1959">Andr&#233; Murbach Maidl</author>
+<author pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<author pid="80/5193">Fabio Mascarenhas</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Error Reporting in Parsing Expression Grammars.</title>
+<year>2014</year>
+<volume>abs/1405.6646</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1405.6646</ee>
+<url>db/journals/corr/corr1405.html#MaidlMMI14</url>
+</article>
+</r>
+<r><inproceedings key="conf/sblp/MaidlMI13" mdate="2017-05-26">
+<author pid="98/1959">Andr&#233; Murbach Maidl</author>
+<author pid="80/5193">Fabio Mascarenhas</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Exception Handling for Error Reporting in Parsing Expression Grammars.</title>
+<pages>1-15</pages>
+<year>2013</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-40922-6_1</ee>
+<crossref>conf/sblp/2013</crossref>
+<url>db/conf/sblp/sblp2013.html#MaidlMI13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sblp/MuhammadMI13" mdate="2017-05-26">
+<author pid="64/4649">Hisham Muhammad</author>
+<author pid="80/5193">Fabio Mascarenhas</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>LuaRocks - A Declarative and Extensible Package Management System for Lua.</title>
+<pages>16-30</pages>
+<year>2013</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-40922-6_2</ee>
+<crossref>conf/sblp/2013</crossref>
+<url>db/conf/sblp/sblp2013.html#MuhammadMI13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/SantAnnaRILT13" mdate="2021-10-14">
+<author orcid="0000-0003-2182-4167" pid="16/7375">Francisco Sant'Anna</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="27/481">Olaf Landsiedel</author>
+<author orcid="0000-0001-9635-9154" pid="t/PhilippasTsigas">Philippas Tsigas</author>
+<title>Safe system-level concurrency on resource-constrained nodes.</title>
+<pages>11:1-11:14</pages>
+<year>2013</year>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/2517351.2517360</ee>
+<crossref>conf/sensys/2013</crossref>
+<url>db/conf/sensys/sensys2013.html#SantAnnaRILT13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1304-3177" mdate="2023-09-24">
+<author pid="80/5193">Fabio Mascarenhas</author>
+<author pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>On the Relation between Context-Free Grammars and Parsing Expression Grammars</title>
+<ee type="oa">http://arxiv.org/abs/1304.3177</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1304.3177</volume>
+<url>db/journals/corr/corr1304.html#abs-1304-3177</url>
+</article>
+</r>
+<r><inproceedings key="conf/sblp/MedeirosMI12" mdate="2023-09-24">
+<author pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<author pid="80/5193">Fabio Mascarenhas</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Left Recursion in Parsing Expression Grammars.</title>
+<pages>27-41</pages>
+<year>2012</year>
+<booktitle>SBLP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33182-4_4</ee>
+<crossref>conf/sblp/2012</crossref>
+<url>db/conf/sblp/sblp2012.html#MedeirosMI12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1207-0443" mdate="2023-09-24">
+<author pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<author pid="80/5193">Fabio Mascarenhas</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Left Recursion in Parsing Expression Grammars</title>
+<ee type="oa">http://arxiv.org/abs/1207.0443</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1207.0443</volume>
+<url>db/journals/corr/corr1207.html#abs-1207-0443</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1210-4992" mdate="2023-09-24">
+<author pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<author pid="80/5193">Fabio Mascarenhas</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>From Regexes to Parsing Expression Grammars</title>
+<ee type="oa">http://arxiv.org/abs/1210.4992</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1210.4992</volume>
+<url>db/journals/corr/corr1210.html#abs-1210-4992</url>
+</article>
+</r>
+<r><article key="journals/cacm/IerusalimschyFF11" mdate="2025-01-19">
+<author orcid="0000-0003-2263-4955" pid="90/4557">Roberto Ierusalimschy</author>
+<author orcid="0000-0001-5683-693X" pid="92/7002">Luiz Henrique de Figueiredo</author>
+<author pid="c/WaldemarCelesFilho">Waldemar Celes Filho</author>
+<title>Passing a language through the eye of a needle.</title>
+<pages>38-43</pages>
+<year>2011</year>
+<volume>54</volume>
+<journal>Commun. ACM</journal>
+<number>7</number>
+<ee>https://doi.org/10.1145/1965724.1965739</ee>
+<ee>https://www.wikidata.org/entity/Q130977873</ee>
+<url>db/journals/cacm/cacm54.html#IerusalimschyFF11</url>
+</article>
+</r>
+<r><article key="journals/queue/IerusalimschyFF11" mdate="2025-01-19">
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author orcid="0000-0001-5683-693X" pid="92/7002">Luiz Henrique de Figueiredo</author>
+<author pid="c/WaldemarCelesFilho">Waldemar Celes Filho</author>
+<title>Passing a Language through the Eye of a Needle.</title>
+<pages>20</pages>
+<year>2011</year>
+<volume>9</volume>
+<journal>ACM Queue</journal>
+<number>5</number>
+<ee>https://doi.org/10.1145/1978862.1983083</ee>
+<ee>https://www.wikidata.org/entity/Q130991262</ee>
+<url>db/journals/queue/queue9.html#IerusalimschyFF11</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1010-0371" mdate="2018-08-13">
+<author pid="14/152">Anolan Milan&#233;s</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Reflection-based language support for the heterogeneous capture and restoration of running computations</title>
+<ee type="oa">http://arxiv.org/abs/1010.0371</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1010.0371</volume>
+<url>db/journals/corr/corr1010.html#abs-1010-0371</url>
+</article>
+</r>
+<r><article key="journals/spe/Ierusalimschy09" mdate="2020-04-09">
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>A text pattern-matching tool based on Parsing Expression Grammars.</title>
+<pages>221-258</pages>
+<year>2009</year>
+<volume>39</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/spe.892</ee>
+<ee>https://www.wikidata.org/entity/Q56555476</ee>
+<url>db/journals/spe/spe39.html#Ierusalimschy09</url>
+</article>
+</r>
+<r><article key="journals/toplas/MouraI09" mdate="2018-11-14">
+<author pid="82/6280">Ana L&#250;cia de Moura</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Revisiting coroutines.</title>
+<year>2009</year>
+<volume>31</volume>
+<journal>ACM Trans. Program. Lang. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1462166.1462167</ee>
+<ee>https://www.wikidata.org/entity/Q56209713</ee>
+<url>db/journals/toplas/toplas31.html#MouraI09</url>
+<pages>6:1-6:31</pages>
+</article>
+</r>
+<r><inproceedings key="conf/wflp/Ierusalimschy09" mdate="2017-05-24">
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Programming with Multiple Paradigms in Lua.</title>
+<pages>1-12</pages>
+<year>2009</year>
+<booktitle>WFLP</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11999-6_1</ee>
+<crossref>conf/wflp/2009</crossref>
+<url>db/conf/wflp/wflp2009.html#Ierusalimschy09</url>
+</inproceedings>
+</r>
+<r><article key="journals/jucs/BarrosI08" mdate="2023-09-07">
+<author pid="97/7849">Alexandra Barros</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Eliminating Cycles in Weak Tables.</title>
+<pages>3481-3497</pages>
+<year>2008</year>
+<volume>14</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>21</number>
+<ee type="oa">https://doi.org/10.3217/jucs-014-21-3481</ee>
+<url>db/journals/jucs/jucs14.html#BarrosI08</url>
+</article>
+</r>
+<r><article key="journals/jucs/SkyrmeRI08" mdate="2023-09-07">
+<author pid="93/7849">Alexandre Skyrme</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Exploring Lua for Concurrent Programming.</title>
+<pages>3556-3572</pages>
+<year>2008</year>
+<volume>14</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>21</number>
+<ee type="oa">https://doi.org/10.3217/jucs-014-21-3556</ee>
+<url>db/journals/jucs/jucs14.html#SkyrmeRI08</url>
+</article>
+</r>
+<r><inproceedings key="conf/dls/MedeirosI08" mdate="2023-09-24">
+<author orcid="0000-0002-0759-0926" pid="64/4850">S&#233;rgio Medeiros 0001</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>A parsing machine for PEGs.</title>
+<pages>2</pages>
+<year>2008</year>
+<booktitle>DLS</booktitle>
+<ee>https://doi.org/10.1145/1408681.1408683</ee>
+<ee>https://www.wikidata.org/entity/Q56582251</ee>
+<crossref>conf/dls/2008</crossref>
+<url>db/conf/dls/dls2008.html#MedeirosI08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/MascarenhasI08" mdate="2018-11-06">
+<author pid="80/5193">Fabio Mascarenhas</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Efficient compilation of Lua for the CLR.</title>
+<pages>217-221</pages>
+<year>2008</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1363686.1363743</ee>
+<crossref>conf/sac/2008</crossref>
+<url>db/conf/sac/sac2008.html#MascarenhasI08</url>
+</inproceedings>
+</r>
+<r><article key="journals/jucs/MuhammadI07" mdate="2023-09-07">
+<author pid="64/4649">Hisham Muhammad</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>C APIs in Extension and Extensible Languages.</title>
+<pages>839-853</pages>
+<year>2007</year>
+<volume>13</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.3217/jucs-013-06-0839</ee>
+<url>db/journals/jucs/jucs13.html#MuhammadI07</url>
+</article>
+</r>
+<r><inproceedings key="conf/hopl/IerusalimschyFF07" mdate="2019-09-16">
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author orcid="0000-0001-5683-693X" pid="92/7002">Luiz Henrique de Figueiredo</author>
+<author pid="c/WaldemarCelesFilho">Waldemar Celes Filho</author>
+<title>The evolution of Lua.</title>
+<pages>1-26</pages>
+<year>2007</year>
+<crossref>conf/hopl/2007</crossref>
+<booktitle>HOPL</booktitle>
+<ee>https://doi.org/10.1145/1238844.1238846</ee>
+<ee>https://www.wikidata.org/entity/Q54164851</ee>
+<url>db/conf/hopl/hopl2007.html#IerusalimschyFF07</url>
+</inproceedings>
+</r>
+<r><book key="books/daglib/0016033" mdate="2011-03-23">
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Programming in Lua (2. ed.).</title>
+<pages>I-XVII, 1-307</pages>
+<publisher>Lua.org</publisher>
+<year>2006</year>
+<isbn>978-85-903798-2-9</isbn>
+</book>
+</r>
+<r><article key="journals/jucs/IerusalimschyFF05" mdate="2025-01-19">
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="92/7002">Luiz Henrique de Figueiredo</author>
+<author pid="c/WaldemarCelesFilho">Waldemar Celes Filho</author>
+<title>The Implementation of Lua 5.0.</title>
+<pages>1159-1176</pages>
+<year>2005</year>
+<volume>11</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>7</number>
+<ee type="oa">https://doi.org/10.3217/jucs-011-07-1159</ee>
+<ee>https://www.wikidata.org/entity/Q126371538</ee>
+<url>db/journals/jucs/jucs11.html#IerusalimschyFF05</url>
+</article>
+</r>
+<r><article key="journals/jucs/LealI05" mdate="2023-09-07">
+<author pid="74/3880">Marcus Amorim Leal</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>A Formal Semantics for Finalizers.</title>
+<pages>1198-1214</pages>
+<year>2005</year>
+<volume>11</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>7</number>
+<ee type="oa">https://doi.org/10.3217/jucs-011-07-1198</ee>
+<url>db/journals/jucs/jucs11.html#LealI05</url>
+</article>
+</r>
+<r><article key="journals/jucs/MascarenhasI05" mdate="2023-09-07">
+<author pid="80/5193">Fabio Mascarenhas</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Running Lua Scripts on the CLR through Bytecode Translation.</title>
+<pages>1275-1290</pages>
+<year>2005</year>
+<volume>11</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>7</number>
+<ee type="oa">https://doi.org/10.3217/jucs-011-07-1275</ee>
+<url>db/journals/jucs/jucs11.html#MascarenhasI05</url>
+</article>
+</r>
+<r><book key="books/daglib/0015640" mdate="2011-04-14">
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Programming in Lua.</title>
+<publisher>Lua.org</publisher>
+<year>2003</year>
+<isbn>978-85-903798-1-2</isbn>
+</book>
+</r>
+<r><article key="journals/jucs/LealRI03" mdate="2021-02-17">
+<author pid="74/3880">Marcus Amorim Leal</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>LuaTS - A Reactive Event-Driven Tuple Space.</title>
+<pages>730-744</pages>
+<year>2003</year>
+<volume>9</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>8</number>
+<ee type="oa">http://www.jucs.org/jucs_9_8/luats_a_reactive_event</ee>
+<url>db/journals/jucs/jucs9.html#LealRI03</url>
+</article>
+</r>
+<r><article key="journals/cl/UrurahyRI02" mdate="2020-02-11">
+<author pid="63/1442">Cristina D. Ururahy</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>ALua: flexibility for parallel programming.</title>
+<pages>155-180</pages>
+<year>2002</year>
+<volume>28</volume>
+<journal>Comput. Lang. Syst. Struct.</journal>
+<number>2</number>
+<url>db/journals/cl/cl28.html#UrurahyRI02</url>
+<ee>https://doi.org/10.1016/S0096-0551(02)00011-5</ee>
+</article>
+</r>
+<r><inproceedings key="conf/icdcsw/PfeiferURI02" mdate="2023-03-24">
+<author pid="34/4183">Al&#233;sio Pfeifer</author>
+<author pid="63/1442">Cristina D. Ururahy</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>An Event-Driven System for Distributed Multimedia Applications.</title>
+<pages>583-584</pages>
+<year>2002</year>
+<crossref>conf/icdcsw/2002</crossref>
+<booktitle>ICDCS Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDCSW.2002.1030832</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDCSW.2002.1030832</ee>
+<url>db/conf/icdcsw/icdcsw2002.html#PfeiferURI02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/doa/CerqueiraCI99" mdate="2023-03-23">
+<author pid="165/3587">Renato Cerqueira</author>
+<author pid="80/1111">Carlos Cassino</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Dynamic Component Gluing Across Different Componentware Systems.</title>
+<pages>362-371</pages>
+<year>1999</year>
+<crossref>conf/doa/1999</crossref>
+<booktitle>DOA</booktitle>
+<ee>https://doi.org/10.1109/DOA.1999.794064</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DOA.1999.794064</ee>
+<url>db/conf/doa/doa1999.html#CerqueiraCI99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/CatundaRI99" mdate="2019-08-28">
+<author pid="68/1116">Marco Catunda</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Dynamic Extension of CORBA Servers.</title>
+<pages>1369-1376</pages>
+<year>1999</year>
+<crossref>conf/europar/1999</crossref>
+<booktitle>Euro-Par</booktitle>
+<ee>https://doi.org/10.1007/3-540-48311-X_192</ee>
+<url>db/conf/europar/europar99.html#CatundaRI99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sofsem/RodrigeuzI99" mdate="2017-05-23">
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Dynamic Reconfiguration of CORBA-Based Applications.</title>
+<pages>95-111</pages>
+<ee>https://doi.org/10.1007/3-540-47849-3_6</ee>
+<year>1999</year>
+<crossref>conf/sofsem/1999</crossref>
+<booktitle>SOFSEM</booktitle>
+<url>db/conf/sofsem/sofsem1999.html#RodrigeuzI99</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-SE-9903018" mdate="2020-01-10">
+<author pid="80/1111">Carlos Cassino</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<title>LuaJava - A Scripting Tool for Java</title>
+<ee type="oa">https://arxiv.org/abs/cs/9903018</ee>
+<year>1999</year>
+<journal>CoRR</journal>
+<volume>cs.SE/9903018</volume>
+<url>db/journals/corr/corr9903.html#cs-SE-9903018</url>
+</article>
+</r>
+<r><article key="journals/jucs/HesterBI98" mdate="2024-01-16">
+<author pid="68/132">Anna M. Hester</author>
+<author pid="99/329">Renato Borges</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Building Flexible and Extensible Web Applications with Lua.</title>
+<pages>748-762</pages>
+<year>1998</year>
+<volume>4</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>9</number>
+<url>db/journals/jucs/jucs4.html#HesterBI98</url>
+<ee type="oa">https://doi.org/10.3217/jucs-004-09-0748</ee>
+</article>
+</r>
+<r><inproceedings key="conf/cds/RodriguezIC98" mdate="2023-03-23">
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="165/3587">Renato Cerqueira</author>
+<title>Dynamic configuration with CORBA components.</title>
+<pages>27-34</pages>
+<year>1998</year>
+<booktitle>CDS</booktitle>
+<ee>https://doi.org/10.1109/CDS.1998.675755</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CDS.1998.675755</ee>
+<crossref>conf/cds/1998</crossref>
+<url>db/conf/cds/cds1998.html#RodriguezIC98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccl/IerusalimschyCR98" mdate="2023-03-23">
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="165/3587">Renato Cerqueira</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<title>Using Reflexivity to Interface with CORBA.</title>
+<pages>39-47</pages>
+<year>1998</year>
+<crossref>conf/iccl/1998</crossref>
+<booktitle>ICCL</booktitle>
+<ee>https://doi.org/10.1109/ICCL.1998.674155</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICCL.1998.674155</ee>
+<url>db/conf/iccl/iccl1998.html#IerusalimschyCR98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webnet/HesterBI98" mdate="2024-01-16">
+<author pid="68/132">Anna M. Hester</author>
+<author pid="99/329">Renato Borges</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Building Flexible and Extensible Web Applications with Lua.</title>
+<year>1998</year>
+<crossref>conf/webnet/1998</crossref>
+<booktitle>WebNet</booktitle>
+<url>db/conf/webnet/webnet1998.html#HesterBI98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/HesterBI97" mdate="2024-01-16">
+<author pid="68/132">Anna M. Hester</author>
+<author pid="99/329">Renato Borges</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>CGILua: A Multi-Paradigmatic Tool for Creating Dynamic WWW Pages.</title>
+<pages>347-360</pages>
+<year>1997</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.1997.24058</ee>
+<crossref>conf/sbes/1997</crossref>
+<url>db/conf/sbes/sbes1997.html#HesterBI97</url>
+</inproceedings>
+</r>
+<r><article key="journals/spe/IerusalimschyFF96" mdate="2025-03-03">
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author orcid="0000-0001-5683-693X" pid="92/7002">Luiz Henrique de Figueiredo</author>
+<author pid="c/WaldemarCelesFilho">Waldemar Celes Filho</author>
+<title>Lua-An Extensible Extension Language.</title>
+<pages>635-652</pages>
+<year>1996</year>
+<volume>26</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>6</number>
+<url>db/journals/spe/spe26.html#IerusalimschyFF96</url>
+<ee>https://doi.org/10.1002/(SICI)1097-024X(199606)26:6&#60;635::AID-SPE26&#62;3.0.CO;2-P</ee>
+</article>
+</r>
+<r><inproceedings key="conf/europar/RodriguezUIC96" mdate="2017-05-22">
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author pid="63/1442">Cristina D. Ururahy</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="165/3587">Renato Cerqueira</author>
+<title>The Use of Interpreted Languages for Implementing Parallel Algorithms on Distributed Systems.</title>
+<pages>597-600</pages>
+<year>1996</year>
+<crossref>conf/europar/1996-1</crossref>
+<booktitle>Euro-Par, Vol. I</booktitle>
+<url>db/conf/europar/europar96-1.html#RodriguezUIC96</url>
+<ee>https://doi.org/10.1007/3-540-61626-8_80</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/CerqueiraI96" mdate="2024-01-17">
+<author pid="165/3587">Renato Cerqueira</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>Uma Avalia&#231;&#227;o das Arquiteturas para Interoperabilidade entre Objetos.</title>
+<pages>371-386</pages>
+<year>1996</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.1996.24454</ee>
+<crossref>conf/sbes/1996</crossref>
+<url>db/conf/sbes/sbes1996.html#CerqueiraI96</url>
+</inproceedings>
+</r>
+<r><article key="journals/cl/IerusalimschyR95" mdate="2017-05-18">
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<title>Side-Effect Free Functions in Object-Oriented Languages.</title>
+<pages>129-146</pages>
+<year>1995</year>
+<volume>21</volume>
+<journal>Comput. Lang.</journal>
+<number>3/4</number>
+<url>db/journals/cl/cl21.html#IerusalimschyR95</url>
+<ee>https://doi.org/10.1016/0096-0551(95)00008-9</ee>
+</article>
+</r>
+<r><inproceedings key="conf/sbes/RodriguezIR95" mdate="2024-01-16">
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="89/6881">Jos&#233; Lucas Rangel</author>
+<title>Exception Handling in a Strongly Typed Object Oriented Language.</title>
+<pages>161-174</pages>
+<year>1995</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.1995.24082</ee>
+<crossref>conf/sbes/1995</crossref>
+<url>db/conf/sbes/sbes1995.html#RodriguezIR95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/BorgesCCI94" mdate="2024-01-16">
+<author pid="99/329">Renato Borges</author>
+<author pid="80/1111">Carlos Cassino</author>
+<author pid="165/3587">Renato Cerqueira</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>UAI - Um Framework para Suporte a Objetos Visuais.</title>
+<pages>79-89</pages>
+<year>1994</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.1994.24461</ee>
+<crossref>conf/sbes/1994</crossref>
+<url>db/conf/sbes/sbes1994.html#BorgesCCI94</url>
+</inproceedings>
+</r>
+<r><article key="journals/cl/Ierusalimschy93" mdate="2017-05-18">
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>A Denotational Approach for Type-Checking in Object-Oriented Programming Languages.</title>
+<pages>19-40</pages>
+<year>1993</year>
+<volume>19</volume>
+<journal>Comput. Lang.</journal>
+<number>1</number>
+<url>db/journals/cl/cl19.html#Ierusalimschy93</url>
+<ee>https://doi.org/10.1016/0096-0551(93)90037-2</ee>
+</article>
+</r>
+<r><article key="journals/iee/Ierusalimschy93" mdate="2020-03-11">
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<title>A formal specification for a hierarchy of collections.</title>
+<pages>237-245</pages>
+<year>1993</year>
+<volume>8</volume>
+<journal>Softw. Eng. J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1049/sej.1993.0029</ee>
+<url>db/journals/iee/iee-sej8.html#Ierusalimschy93</url>
+</article>
+</r>
+<r><article key="journals/sigplan/RodriguezIR93" mdate="2020-05-26">
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="89/6881">Jos&#233; Lucas Rangel</author>
+<title>Types in School.</title>
+<pages>81-89</pages>
+<year>1993</year>
+<volume>28</volume>
+<journal>ACM SIGPLAN Notices</journal>
+<number>8</number>
+<url>db/journals/sigplan/sigplan28.html#RodriguezIR93</url>
+<ee>https://doi.org/10.1145/163114.163125</ee>
+</article>
+</r>
+<r><article key="journals/spe/CowanSIL93" mdate="2020-04-09">
+<author pid="c/DonaldDCowan">Donald D. Cowan</author>
+<author pid="53/4718">Terry M. Stepien</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>Application Integration: Constructing Composite Applications from Interactive Components.</title>
+<pages>255-275</pages>
+<year>1993</year>
+<volume>23</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>3</number>
+<url>db/journals/spe/spe23.html#CowanSIL93</url>
+<ee>https://doi.org/10.1002/spe.4380230304</ee>
+</article>
+</r>
+<r><article key="journals/stp/CowanILS93" mdate="2020-05-26">
+<author pid="c/DonaldDCowan">Donald D. Cowan</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<author pid="53/4718">Terry M. Stepien</author>
+<title>Abstract Data Views.</title>
+<pages>1-14</pages>
+<year>1993</year>
+<volume>14</volume>
+<journal>Struct. Program.</journal>
+<number>1</number>
+<url>db/journals/stp/stp14.html#CowanILS93</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbes/RodriguezIR93" mdate="2024-01-16">
+<author pid="95/2066">Noemi de La Rocque Rodriguez</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="89/6881">Jos&#233; Lucas Rangel</author>
+<title>Concilia&#231;&#227;o de Flexibilidade e Verifica&#231;&#227;o Est&#225;tica em Linguagens Orientadas a Objetos.</title>
+<pages>282-294</pages>
+<year>1993</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.1993.24411</ee>
+<crossref>conf/sbes/1993</crossref>
+<url>db/conf/sbes/sbes1993.html#RodriguezIR93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip/CowanIS92" mdate="2002-08-14">
+<author pid="c/DonaldDCowan">Donald D. Cowan</author>
+<author pid="90/4557">Roberto Ierusalimschy</author>
+<author pid="53/4718">Terry M. Stepien</author>
+<title>Programming Environments for End-Users.</title>
+<pages>54-60</pages>
+<year>1992</year>
+<crossref>conf/ifip/1992-3</crossref>
+<booktitle>IFIP Congress (3)</booktitle>
+<url>db/conf/ifip/ifip92-3.html#CowanIS92</url>
+</inproceedings>
+</r>
+<coauthors n="39" nc="1">
+<co c="0"><na f="a/Alegria:Anna_Leticia" pid="330/2395">Anna Leticia Alegria</na></co>
+<co c="0"><na f="b/Balmer:Marc" pid="152/5456">Marc Balmer</na></co>
+<co c="-1"><na f="b/Barros:Alexandra" pid="97/7849">Alexandra Barros</na></co>
+<co c="0"><na f="b/Borges:Renato" pid="99/329">Renato Borges</na></co>
+<co c="0"><na f="b/Branco:Adriano" pid="137/0622">Adriano Branco</na></co>
+<co c="0"><na f="c/Cassino:Carlos" pid="80/1111">Carlos Cassino</na></co>
+<co c="0"><na f="c/Catunda:Marco" pid="68/1116">Marco Catunda</na></co>
+<co c="0"><na f="c/Cerqueira:Renato" pid="165/3587">Renato Cerqueira</na></co>
+<co c="0"><na f="c/Cowan:Donald_D=" pid="c/DonaldDCowan">Donald D. Cowan</na></co>
+<co c="0"><na f="f/Figueiredo:Luiz_Henrique_de" pid="92/7002">Luiz Henrique de Figueiredo</na></co>
+<co c="0" n="2"><na f="f/Filho:Waldemar_Celes" pid="c/WaldemarCelesFilho">Waldemar Celes Filho</na><na>Waldemar Celes 0001</na></co>
+<co c="-1"><na f="g/Gualandi:Hugo_Musso" pid="228/5983">Hugo Musso Gualandi</na></co>
+<co c="0"><na f="h/Haeusler:Edward_Hermann" pid="93/6371">Edward Hermann Haeusler</na></co>
+<co c="0"><na f="h/Hester:Anna_M=" pid="68/132">Anna M. Hester</na></co>
+<co c="-1"><na f="k/Kaplan:Leonardo" pid="304/5677">Leonardo Kaplan</na></co>
+<co c="0"><na f="l/Landsiedel:Olaf" pid="27/481">Olaf Landsiedel</na></co>
+<co c="0"><na f="l/Leal:Marcus_Amorim" pid="74/3880">Marcus Amorim Leal</na></co>
+<co c="0"><na f="l/Lima:Guilherme_F=" pid="143/5652">Guilherme F. Lima</na></co>
+<co c="0"><na f="l/Lucena:Carlos_Jos=eacute=_Pereira_de" pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</na></co>
+<co c="0"><na f="m/Maidl:Andr=eacute=_Murbach" pid="98/1959">Andr&#233; Murbach Maidl</na></co>
+<co c="0"><na f="m/Mascarenhas:Fabio" pid="80/5193">Fabio Mascarenhas</na></co>
+<co c="0"><na f="m/Medeiros_0001:S=eacute=rgio" pid="64/4850">S&#233;rgio Medeiros 0001</na></co>
+<co c="0"><na f="m/Milan=eacute=s:Anolan" pid="14/152">Anolan Milan&#233;s</na></co>
+<co c="0"><na f="m/Moura:Ana_L=uacute=cia_de" pid="82/6280">Ana L&#250;cia de Moura</na></co>
+<co c="0"><na f="m/Muhammad:Hisham" pid="64/4649">Hisham Muhammad</na></co>
+<co c="0"><na f="n/Neto:Lourival_Vieira" pid="152/5512">Lourival Vieira Neto</na></co>
+<co c="-1"><na f="p/Paula:Gabriel_Coutinho_De" pid="330/3559">Gabriel Coutinho De Paula</na></co>
+<co c="0"><na f="p/Pfeifer:Al=eacute=sio" pid="34/4183">Al&#233;sio Pfeifer</na></co>
+<co c="0"><na f="r/Rangel:Jos=eacute=_Lucas" pid="89/6881">Jos&#233; Lucas Rangel</na></co>
+<co c="0"><na f="r/Ribeiro:F=eacute=lix" pid="169/2294">F&#233;lix Ribeiro</na></co>
+<co c="0"><na f="r/Rodriguez:Noemi_de_La_Rocque" pid="95/2066">Noemi de La Rocque Rodriguez</na></co>
+<co c="0"><na f="r/Rossetto:Silvana" pid="52/618">Silvana Rossetto</na></co>
+<co c="0"><na f="s/Sant=Anna:Francisco" pid="16/7375">Francisco Sant'Anna</na></co>
+<co c="0"><na f="s/Santos:Renan" pid="228/5900">Renan Santos</na></co>
+<co c="0"><na f="s/Santos:Rodrigo_C=_M=" pid="123/7975">Rodrigo C. M. Santos</na></co>
+<co c="0"><na f="s/Skyrme:Alexandre" pid="93/7849">Alexandre Skyrme</na></co>
+<co c="0"><na f="s/Stepien:Terry_M=" pid="53/4718">Terry M. Stepien</na></co>
+<co c="0"><na f="t/Tsigas:Philippas" pid="t/PhilippasTsigas">Philippas Tsigas</na></co>
+<co c="0"><na f="u/Ururahy:Cristina_D=" pid="63/1442">Cristina D. Ururahy</na></co>
+</coauthors>
+</dblpperson>
+

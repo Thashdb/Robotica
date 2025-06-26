@@ -1,0 +1,469 @@
+<?xml version="1.0"?>
+<dblpperson name="Lo&#239;c Cerf" pid="43/3578" n="30">
+<person key="homepages/43/3578" mdate="2009-06-10">
+<author pid="43/3578">Lo&#239;c Cerf</author>
+</person>
+<r><inproceedings key="conf/sac/RibeiroC23" mdate="2025-01-19">
+<author orcid="0000-0002-8103-7133" pid="351/6190">Victor Henrique Silva Ribeiro</author>
+<author orcid="0000-0002-3597-0264" pid="43/3578">Lo&#239;c Cerf</author>
+<title>Summarizing Fuzzy Tensors with Sub-Tensors.</title>
+<pages>362-364</pages>
+<year>2023</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3555776.3578570</ee>
+<ee>https://www.wikidata.org/entity/Q130909607</ee>
+<crossref>conf/sac/2023</crossref>
+<url>db/conf/sac/sac2023.html#RibeiroC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/Cerf23" mdate="2025-01-19">
+<author orcid="0000-0002-3597-0264" pid="43/3578">Lo&#239;c Cerf</author>
+<title>Enforcement of Minimal Size and Area Constraints before and while Mining Patterns in Fuzzy Tensors.</title>
+<pages>369-376</pages>
+<year>2023</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3555776.3577690</ee>
+<ee>https://www.wikidata.org/entity/Q130910322</ee>
+<crossref>conf/sac/2023</crossref>
+<url>db/conf/sac/sac2023.html#Cerf23</url>
+</inproceedings>
+</r>
+<r><article key="journals/datamine/AbreuMC22" mdate="2023-08-28">
+<author orcid="0000-0002-2505-9338" pid="209/8783">Bernardo A. Abreu</author>
+<author orcid="0000-0002-1036-5965" pid="141/0289">Jo&#227;o Paulo Ataide Martins</author>
+<author orcid="0000-0002-3597-0264" pid="43/3578">Lo&#239;c Cerf</author>
+<title>Developing Biceps to completely compute in subquadratic time a new generic type of bicluster in dense and sparse matrices.</title>
+<pages>1451-1497</pages>
+<year>2022</year>
+<volume>36</volume>
+<journal>Data Min. Knowl. Discov.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10618-022-00834-3</ee>
+<ee>https://www.wikidata.org/entity/Q114226913</ee>
+<url>db/journals/datamine/datamine36.html#AbreuMC22</url>
+</article>
+</r>
+<r><article key="journals/ijcisys/0002ASC20" mdate="2023-08-28">
+<author pid="264/9209">Lucas Maciel 0002</author>
+<author pid="264/9281">J&#244;natas Alves</author>
+<author pid="244/2005">Vin&#237;cius Fernandes dos Santos</author>
+<author pid="43/3578">Lo&#239;c Cerf</author>
+<title>Climbing the Hill with ILP to Grow Patterns in Fuzzy Tensors.</title>
+<pages>1036-1047</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Int. J. Comput. Intell. Syst.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.2991/ijcis.d.200715.002</ee>
+<ee>https://www.wikidata.org/entity/Q114039666</ee>
+<url>db/journals/ijcisys/ijcisys13.html#0002ASC20</url>
+</article>
+</r>
+<r><article key="journals/datamine/NadisicCC19" mdate="2023-08-28">
+<author orcid="0000-0002-5993-7194" pid="231/5408">Nicolas Nadisic</author>
+<author orcid="0000-0002-8336-7056" pid="231/5674">Aur&#233;lien Coussat</author>
+<author orcid="0000-0002-3597-0264" pid="43/3578">Lo&#239;c Cerf</author>
+<title>Mining skypatterns in fuzzy tensors.</title>
+<pages>1298-1322</pages>
+<year>2019</year>
+<volume>33</volume>
+<journal>Data Min. Knowl. Discov.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s10618-019-00640-4</ee>
+<ee>https://www.wikidata.org/entity/Q114226930</ee>
+<url>db/journals/datamine/datamine33.html#NadisicCC19</url>
+</article>
+</r>
+<r><inproceedings key="conf/eusflat/MacielASC19" mdate="2021-01-29">
+<author pid="264/9209">Lucas Jos&#233; Carneiro Maciel</author>
+<author pid="264/9281">J&#244;natas Alves</author>
+<author pid="244/2005">Vin&#237;cius Fernandes dos Santos</author>
+<author pid="43/3578">Lo&#239;c Cerf</author>
+<title>Bigfoot Climbing the Hill with ILP to Grow Patterns in Fuzzy Tensors.</title>
+<year>2019</year>
+<booktitle>EUSFLAT Conf.</booktitle>
+<ee type="oa">https://doi.org/10.2991/eusflat-19.2019.83</ee>
+<crossref>conf/eusflat/2019</crossref>
+<url>db/conf/eusflat/eusflat2019.html#MacielASC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kes/CoussatNC18" mdate="2023-08-28">
+<author pid="231/5674">Aur&#233;lien Coussat</author>
+<author pid="231/5408">Nicolas Nadisic</author>
+<author pid="43/3578">Lo&#239;c Cerf</author>
+<title>Mining High-Utility Patterns in Uncertain Tensors.</title>
+<pages>403-412</pages>
+<year>2018</year>
+<booktitle>KES</booktitle>
+<ee>https://doi.org/10.1016/j.procs.2018.07.274</ee>
+<ee>https://www.wikidata.org/entity/Q114138101</ee>
+<crossref>conf/kes/2018</crossref>
+<url>db/conf/kes/kes2018.html#CoussatNC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/VelosoCJZ14" mdate="2024-10-06">
+<author pid="62/5848">Ren&#234; Rodrigues Veloso</author>
+<author pid="43/3578">Lo&#239;c Cerf</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author orcid="0000-0003-4711-0234" pid="z/MohammedJaveedZaki">Mohammed J. Zaki</author>
+<title>Reachability Queries in Very Large Graphs: A Fast Refined Online Search Approach.</title>
+<pages>511-522</pages>
+<year>2014</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2014.46</ee>
+<crossref>conf/edbt/2014</crossref>
+<url>db/conf/edbt/edbt2014.html#VelosoCJZ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/CerfM14" mdate="2023-03-23">
+<author pid="43/3578">Lo&#239;c Cerf</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<title>Complete discovery of high-quality patterns in large numerical tensors.</title>
+<pages>448-459</pages>
+<year>2014</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2014.6816672</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2014.6816672</ee>
+<crossref>conf/icde/2014</crossref>
+<url>db/conf/icde/icde2014.html#CerfM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/la-web/NascimentoRCCKRVM14" mdate="2024-06-14">
+<author pid="132/1715">Gustavo Nascimento</author>
+<author pid="193/5425">Manoel Horta Ribeiro</author>
+<author pid="43/3578">Lo&#239;c Cerf</author>
+<author pid="156/5464">Natalia Cesario</author>
+<author pid="00/6831">Mehdi Kaytoue</author>
+<author pid="76/1132">Chedy Ra&#239;ssi</author>
+<author pid="156/5264">Thiago Vasconcelos</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<title>Modeling and Analyzing the Video Game Live-Streaming Community.</title>
+<pages>1-9</pages>
+<year>2014</year>
+<booktitle>LA-WEB</booktitle>
+<ee>https://doi.org/10.1109/LAWeb.2014.9</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LAWeb.2014.9</ee>
+<crossref>conf/la-web/2014</crossref>
+<url>db/conf/la-web/la-web2014.html#NascimentoRCCKRVM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/PoesiaC14" mdate="2019-10-31">
+<author pid="150/2695">Gabriel Poesia</author>
+<author pid="43/3578">Lo&#239;c Cerf</author>
+<title>A Lossless Data Reduction for Mining Constrained Patterns in n-ary Relations.</title>
+<pages>581-596</pages>
+<year>2014</year>
+<booktitle>ECML/PKDD (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-662-44851-9_37</ee>
+<crossref>conf/pkdd/2014-2</crossref>
+<url>db/conf/pkdd/pkdd2014-2.html#PoesiaC14</url>
+</inproceedings>
+</r>
+<r><article key="journals/datamine/CerfBNB13" mdate="2017-05-20">
+<author pid="43/3578">Lo&#239;c Cerf</author>
+<author pid="b/JeremyBesson">J&#233;r&#233;my Besson</author>
+<author pid="71/9841">Kim-Ngan Nguyen</author>
+<author pid="b/JFBoulicaut">Jean-Fran&#231;ois Boulicaut</author>
+<title>Closed and noise-tolerant patterns in n-ary relations.</title>
+<pages>574-619</pages>
+<year>2013</year>
+<volume>26</volume>
+<journal>Data Min. Knowl. Discov.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10618-012-0284-8</ee>
+<url>db/journals/datamine/datamine26.html#CerfBNB13</url>
+</article>
+</r>
+<r><article key="journals/dke/CerfGSCB13" mdate="2021-10-14">
+<author pid="43/3578">Lo&#239;c Cerf</author>
+<author orcid="0000-0002-0671-4616" pid="30/2311">Dominique Gay</author>
+<author orcid="0000-0003-1667-3819" pid="13/3368">Nazha Selmaoui-Folcher</author>
+<author pid="c/BrunoCremilleux">Bruno Cr&#233;milleux</author>
+<author pid="b/JFBoulicaut">Jean-Fran&#231;ois Boulicaut</author>
+<title>Parameter-free classification in multi-class imbalanced data sets.</title>
+<pages>109-129</pages>
+<year>2013</year>
+<volume>87</volume>
+<journal>Data Knowl. Eng.</journal>
+<ee>https://doi.org/10.1016/j.datak.2013.06.001</ee>
+<url>db/journals/dke/dke87.html#CerfGSCB13</url>
+</article>
+</r>
+<r><article key="journals/ida/NguyenCPB13" mdate="2025-01-19">
+<author pid="71/9841">Kim-Ngan Nguyen</author>
+<author pid="43/3578">Lo&#239;c Cerf</author>
+<author orcid="0000-0003-4636-5753" pid="46/2965">Marc Plantevit</author>
+<author pid="b/JFBoulicaut">Jean-Fran&#231;ois Boulicaut</author>
+<title>Discovering descriptive rules in relational dynamic graphs.</title>
+<pages>49-69</pages>
+<year>2013</year>
+<volume>17</volume>
+<journal>Intell. Data Anal.</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/IDA-120567</ee>
+<ee>https://www.wikidata.org/entity/Q129068787</ee>
+<url>db/journals/ida/ida17.html#NguyenCPB13</url>
+</article>
+</r>
+<r><article key="journals/jidm/GuerraCFBM13" mdate="2021-11-30">
+<author pid="133/1711">Israel Guerra</author>
+<author pid="43/3578">Lo&#239;c Cerf</author>
+<author pid="133/1848">Jo&#227;o Foscarini</author>
+<author pid="133/1754">Michel Boaventura</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<title>Constraint-Based Search of Straddling Biclusters and Discriminative Patterns.</title>
+<pages>114-123</pages>
+<year>2013</year>
+<volume>4</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>2</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1484</ee>
+<url>db/journals/jidm/jidm4.html#GuerraCFBM13</url>
+</article>
+</r>
+<r><inproceedings key="conf/flairs/CerfFGBM13" mdate="2022-10-26">
+<author pid="43/3578">Lo&#239;c Cerf</author>
+<author pid="133/1848">Jo&#227;o Foscarini</author>
+<author pid="133/1711">Israel Guerra</author>
+<author pid="133/1754">Michel Boaventura</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<title>Constraint-Based Search of Different Kinds of Discriminative Patterns.</title>
+<year>2013</year>
+<booktitle>FLAIRS</booktitle>
+<ee type="oa">http://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS13/paper/view/5927</ee>
+<crossref>conf/flairs/2013</crossref>
+<url>db/conf/flairs/flairs2013.html#CerfFGBM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/GuerraCFBM12" mdate="2022-03-07">
+<author pid="133/1711">Israel Guerra</author>
+<author pid="43/3578">Lo&#239;c Cerf</author>
+<author pid="133/1848">Jo&#227;o Foscarini</author>
+<author pid="133/1754">Michel Boaventura</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<title>Descoberta de n-conjuntos Fechados Eficiente e Restrita a Grupos de Interesse.</title>
+<pages>248-255</pages>
+<year>2012</year>
+<booktitle>SBBD (Short Papers)</booktitle>
+<ee type="archive">http://www.lbd.dcc.ufmg.br/colecoes/sbbd/2012/0032.pdf</ee>
+<crossref>conf/sbbd/2012s</crossref>
+<url>db/conf/sbbd/sbbd2012s.html#GuerraCFBM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/KaytoueSCMR12" mdate="2018-11-06">
+<author pid="00/6831">Mehdi Kaytoue</author>
+<author pid="19/2546">Arlei Silva</author>
+<author pid="43/3578">Lo&#239;c Cerf</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author pid="76/1132">Chedy Ra&#239;ssi</author>
+<title>Watch me playing, i am a professional: a first study on video game live streaming.</title>
+<pages>1181-1188</pages>
+<year>2012</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2187980.2188259</ee>
+<crossref>conf/www/2012c</crossref>
+<url>db/conf/www/www2012c.html#KaytoueSCMR12</url>
+</inproceedings>
+</r>
+<r><article key="journals/jidm/GuerraCPVMA11" mdate="2021-11-30">
+<author pid="21/9989">Pedro Henrique Calais Guerra</author>
+<author pid="43/3578">Lo&#239;c Cerf</author>
+<author pid="37/2851">Thiago C. Porto</author>
+<author pid="12/919">Adriano Veloso</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author pid="a/VirgilioAlmeida">Virg&#237;lio A. F. Almeida</author>
+<title>Exploiting Temporal Locality to Determine User Bias in Microblogging Platforms.</title>
+<pages>273-288</pages>
+<year>2011</year>
+<volume>2</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>3</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1409</ee>
+<url>db/journals/jidm/jidm2.html#GuerraCPVMA11</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbac-pad/VelosoCRM11" mdate="2023-03-23">
+<author pid="62/5848">Ren&#234; Rodrigues Veloso</author>
+<author pid="43/3578">Lo&#239;c Cerf</author>
+<author pid="76/1132">Chedy Ra&#239;ssi</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<title>Distributed Skycube Computation with Anthill.</title>
+<pages>33-40</pages>
+<year>2011</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2011.29</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2011.29</ee>
+<crossref>conf/sbac-pad/2011</crossref>
+<url>db/conf/sbac-pad/sbac-pad2011.html#VelosoCRM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sdm/NguyenCPB11" mdate="2017-05-17">
+<author pid="71/9841">Kim-Ngan Nguyen</author>
+<author pid="43/3578">Lo&#239;c Cerf</author>
+<author pid="46/2965">Marc Plantevit</author>
+<author pid="b/JFBoulicaut">Jean-Fran&#231;ois Boulicaut</author>
+<title>Multidimensional Association Rules in Boolean Tensors.</title>
+<pages>570-581</pages>
+<year>2011</year>
+<booktitle>SDM</booktitle>
+<ee>https://doi.org/10.1137/1.9781611972818.49</ee>
+<crossref>conf/sdm/2011</crossref>
+<url>db/conf/sdm/sdm2011.html#NguyenCPB11</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Cerf10" mdate="2020-07-21">
+<author pid="43/3578">Lo&#239;c Cerf</author>
+<title>Constraint-Based Mining of Closed Patterns in Noisy n-ary Relations. (Fouille Sous Contraintes de Motifs Ferm&#233;s dans des Relations n-aires Bruit&#233;es).</title>
+<year>2010</year>
+<school>INSA de Lyon, Lyon - Villeurbanne, France</school>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-00508534</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/pkdd/NguyenCPB10" mdate="2023-03-10">
+<author pid="71/9841">Kim-Ngan Nguyen</author>
+<author pid="43/3578">Lo&#239;c Cerf</author>
+<author pid="46/2965">Marc Plantevit</author>
+<author pid="b/JFBoulicaut">Jean-Fran&#231;ois Boulicaut</author>
+<title>Discovering Inter-Dimensional Rules in Dynamic Graphs.</title>
+<year>2010</year>
+<booktitle>NyNaK</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-655/dynak2010_paper1.pdf</ee>
+<crossref>conf/pkdd/2010dynak</crossref>
+<url>db/conf/pkdd/dynak2010.html#NguyenCPB10</url>
+</inproceedings>
+</r>
+<r><incollection key="books/daglib/p/CerfNB10" mdate="2017-05-16">
+<author pid="43/3578">Lo&#239;c Cerf</author>
+<author pid="45/7414">Tran Bao Nhan Nguyen</author>
+<author pid="b/JFBoulicaut">Jean-Fran&#231;ois Boulicaut</author>
+<title>Mining Constrained Cross-Graph Cliques in Dynamic Networks.</title>
+<pages>199-228</pages>
+<year>2010</year>
+<booktitle>Inductive Databases and Constraint-Based Data Mining</booktitle>
+<ee>https://doi.org/10.1007/978-1-4419-7738-0_9</ee>
+<crossref>books/daglib/0025640</crossref>
+<url>db/books/collections/DGP2010.html#CerfNB10</url>
+</incollection>
+</r>
+<r><article key="journals/tkdd/CerfBRB09" mdate="2020-04-16">
+<author pid="43/3578">Lo&#239;c Cerf</author>
+<author pid="b/JeremyBesson">J&#233;r&#233;my Besson</author>
+<author pid="r/CRobardet">C&#233;line Robardet</author>
+<author pid="b/JFBoulicaut">Jean-Fran&#231;ois Boulicaut</author>
+<title>Closed patterns meet <i>n</i>-ary relations.</title>
+<year>2009</year>
+<volume>3</volume>
+<journal>ACM Trans. Knowl. Discov. Data</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1497577.1497580</ee>
+<url>db/journals/tkdd/tkdd3.html#CerfBRB09</url>
+<pages>3:1-3:36</pages>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/CerfMB09" mdate="2018-11-06">
+<author pid="43/3578">Lo&#239;c Cerf</author>
+<author pid="87/7536">Pierre-Nicolas Mougel</author>
+<author pid="b/JFBoulicaut">Jean-Fran&#231;ois Boulicaut</author>
+<title>Agglomerating local patterns hierarchically with ALPHA.</title>
+<pages>1753-1756</pages>
+<year>2009</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1645953.1646222</ee>
+<crossref>conf/cikm/2009</crossref>
+<url>db/conf/cikm/cikm2009.html#CerfMB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/f-egc/CerfBB09" mdate="2024-11-06">
+<author pid="43/3578">Lo&#239;c Cerf</author>
+<author pid="b/JeremyBesson">J&#233;r&#233;my Besson</author>
+<author pid="b/JFBoulicaut">Jean-Fran&#231;ois Boulicaut</author>
+<title>Extraction de motifs ferm&#233;s dans des relations n-aires bruit&#233;es.</title>
+<pages>163-168</pages>
+<year>2009</year>
+<booktitle>EGC</booktitle>
+<crossref>conf/f-egc/2009</crossref>
+<url>db/conf/f-egc/egc2009.html#CerfBB09</url>
+<ee type="oa">https://editions-rnti.fr/?inprocid=1000748</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ismis/CerfNB09" mdate="2017-05-25">
+<author pid="43/3578">Lo&#239;c Cerf</author>
+<author pid="45/7414">Tran Bao Nhan Nguyen</author>
+<author pid="b/JFBoulicaut">Jean-Fran&#231;ois Boulicaut</author>
+<title>Discovering Relevant Cross-Graph Cliques in Dynamic Networks.</title>
+<pages>513-522</pages>
+<year>2009</year>
+<booktitle>ISMIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04125-9_54</ee>
+<crossref>conf/ismis/2009</crossref>
+<url>db/conf/ismis/ismis2009.html#CerfNB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dawak/CerfGSB08" mdate="2021-09-23">
+<author pid="43/3578">Lo&#239;c Cerf</author>
+<author pid="30/2311">Dominique Gay</author>
+<author orcid="0000-0003-1667-3819" pid="13/3368">Nazha Selmaoui</author>
+<author pid="b/JFBoulicaut">Jean-Fran&#231;ois Boulicaut</author>
+<title>A Parameter-Free Associative Classification Method.</title>
+<pages>293-304</pages>
+<year>2008</year>
+<booktitle>DaWaK</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85836-2_28</ee>
+<crossref>conf/dawak/2008</crossref>
+<url>db/conf/dawak/dawak2008.html#CerfGSB08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sdm/CerfBRB08" mdate="2017-05-17">
+<author pid="43/3578">Lo&#239;c Cerf</author>
+<author pid="b/JeremyBesson">J&#233;r&#233;my Besson</author>
+<author pid="r/CRobardet">C&#233;line Robardet</author>
+<author pid="b/JFBoulicaut">Jean-Fran&#231;ois Boulicaut</author>
+<title>Data Peeler: Contraint-Based Closed Pattern Mining in n-ary Relations.</title>
+<pages>37-48</pages>
+<year>2008</year>
+<booktitle>SDM</booktitle>
+<ee>https://doi.org/10.1137/1.9781611972788.4</ee>
+<crossref>conf/sdm/2008</crossref>
+<url>db/conf/sdm/sdm2008.html#CerfBRB08</url>
+</inproceedings>
+</r>
+<coauthors n="36" nc="3">
+<co c="0"><na f="a/Abreu:Bernardo_A=" pid="209/8783">Bernardo A. Abreu</na></co>
+<co c="0"><na f="a/Almeida:Virg=iacute=lio_A=_F=" pid="a/VirgilioAlmeida">Virg&#237;lio A. F. Almeida</na></co>
+<co c="1"><na f="a/Alves:J=ocirc=natas" pid="264/9281">J&#244;natas Alves</na></co>
+<co c="0"><na f="b/Besson:J=eacute=r=eacute=my" pid="b/JeremyBesson">J&#233;r&#233;my Besson</na></co>
+<co c="0"><na f="b/Boaventura:Michel" pid="133/1754">Michel Boaventura</na></co>
+<co c="0"><na f="b/Boulicaut:Jean=Fran=ccedil=ois" pid="b/JFBoulicaut">Jean-Fran&#231;ois Boulicaut</na></co>
+<co c="0"><na f="c/Cesario:Natalia" pid="156/5464">Natalia Cesario</na></co>
+<co c="2"><na f="c/Coussat:Aur=eacute=lien" pid="231/5674">Aur&#233;lien Coussat</na></co>
+<co c="0"><na f="c/Cr=eacute=milleux:Bruno" pid="c/BrunoCremilleux">Bruno Cr&#233;milleux</na></co>
+<co c="0"><na f="f/Foscarini:Jo=atilde=o" pid="133/1848">Jo&#227;o Foscarini</na></co>
+<co c="0"><na f="g/Gay:Dominique" pid="30/2311">Dominique Gay</na></co>
+<co c="0"><na f="g/Guerra:Israel" pid="133/1711">Israel Guerra</na></co>
+<co c="0"><na f="g/Guerra:Pedro_Henrique_Calais" pid="21/9989">Pedro Henrique Calais Guerra</na></co>
+<co c="0" n="2"><na f="k/Kaytoue=Uberall:Mehdi" pid="00/6831">Mehdi Kaytoue-Uberall</na><na>Mehdi Kaytoue</na></co>
+<co c="1" n="2"><na f="m/Maciel_0002:Lucas" pid="264/9209">Lucas Maciel 0002</na><na>Lucas Jos&#233; Carneiro Maciel</na></co>
+<co c="0"><na f="m/Martins:Jo=atilde=o_Paulo_Ataide" pid="141/0289">Jo&#227;o Paulo Ataide Martins</na></co>
+<co c="0"><na f="m/Meira_Jr=:Wagner" pid="m/WagnerMeiraJr">Wagner Meira Jr.</na></co>
+<co c="0"><na f="m/Mougel:Pierre=Nicolas" pid="87/7536">Pierre-Nicolas Mougel</na></co>
+<co c="2"><na f="n/Nadisic:Nicolas" pid="231/5408">Nicolas Nadisic</na></co>
+<co c="0"><na f="n/Nascimento:Gustavo" pid="132/1715">Gustavo Nascimento</na></co>
+<co c="0"><na f="n/Nguyen:Kim=Ngan" pid="71/9841">Kim-Ngan Nguyen</na></co>
+<co c="0"><na f="n/Nguyen:Tran_Bao_Nhan" pid="45/7414">Tran Bao Nhan Nguyen</na></co>
+<co c="0"><na f="p/Plantevit:Marc" pid="46/2965">Marc Plantevit</na></co>
+<co c="-1"><na f="p/Poesia:Gabriel" pid="150/2695">Gabriel Poesia</na></co>
+<co c="0"><na f="p/Porto:Thiago_C=" pid="37/2851">Thiago C. Porto</na></co>
+<co c="0"><na f="r/Ra=iuml=ssi:Chedy" pid="76/1132">Chedy Ra&#239;ssi</na></co>
+<co c="0"><na f="r/Ribeiro:Manoel_Horta" pid="193/5425">Manoel Horta Ribeiro</na></co>
+<co c="-1"><na f="r/Ribeiro:Victor_Henrique_Silva" pid="351/6190">Victor Henrique Silva Ribeiro</na></co>
+<co c="0"><na f="r/Robardet:C=eacute=line" pid="r/CRobardet">C&#233;line Robardet</na></co>
+<co c="1"><na f="s/Santos:Vin=iacute=cius_Fernandes_dos" pid="244/2005">Vin&#237;cius Fernandes dos Santos</na></co>
+<co c="0" n="2"><na f="s/Selmaoui=Folcher:Nazha" pid="13/3368">Nazha Selmaoui-Folcher</na><na>Nazha Selmaoui</na></co>
+<co c="0"><na f="s/Silva:Arlei" pid="19/2546">Arlei Silva</na></co>
+<co c="0"><na f="v/Vasconcelos:Thiago" pid="156/5264">Thiago Vasconcelos</na></co>
+<co c="0"><na f="v/Veloso:Adriano" pid="12/919">Adriano Veloso</na></co>
+<co c="0"><na f="v/Veloso:Ren=ecirc=_Rodrigues" pid="62/5848">Ren&#234; Rodrigues Veloso</na></co>
+<co c="0"><na f="z/Zaki:Mohammed_J=" pid="z/MohammedJaveedZaki">Mohammed J. Zaki</na></co>
+</coauthors>
+</dblpperson>
+

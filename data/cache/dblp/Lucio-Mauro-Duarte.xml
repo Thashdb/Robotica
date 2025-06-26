@@ -1,0 +1,322 @@
+<?xml version="1.0"?>
+<dblpperson name="Lucio Mauro Duarte" pid="53/6206" n="20">
+<person key="homepages/53/6206" mdate="2009-06-10">
+<author pid="53/6206">Lucio Mauro Duarte</author>
+</person>
+<r><article key="journals/rita/AlvesFDSM20" mdate="2021-02-17">
+<author pid="249/1725">Danilo da Silva Alves</author>
+<author orcid="0000-0001-9050-9908" pid="269/6970">Oseias Ayres Ferreira</author>
+<author orcid="0000-0001-7935-9865" pid="53/6206">Lucio Mauro Duarte</author>
+<author pid="249/1701">Davi Silva</author>
+<author orcid="0000-0002-6683-6869" pid="27/2208">Paulo Henrique M. Maia</author>
+<title>Experiments on Model-Based Software Energy Consumption Analysis Involving Sorting Algorithms.</title>
+<pages>72-83</pages>
+<year>2020</year>
+<volume>27</volume>
+<journal>RITA</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.22456/2175-2745.98904</ee>
+<url>db/journals/rita/rita27.html#AlvesFDSM20</url>
+</article>
+</r>
+<r><article key="journals/scp/0001DMCCB20" mdate="2021-12-25">
+<author pid="r/LeilaRibeiro">Leila Ribeiro 0001</author>
+<author pid="53/6206">Lucio Mauro Duarte</author>
+<author pid="33/4758">Rodrigo Machado</author>
+<author orcid="0000-0003-0590-8205" pid="143/6780">Andrei Costa</author>
+<author orcid="0000-0001-7431-7738" pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="187/9585">Jonas Santos Bezerra</author>
+<title>Use case evolution analysis based on graph transformation with negative application conditions.</title>
+<pages>102495</pages>
+<year>2020</year>
+<volume>198</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee>https://doi.org/10.1016/j.scico.2020.102495</ee>
+<url>db/journals/scp/scp198.html#0001DMCCB20</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbes/AlvesFDM20" mdate="2025-01-19">
+<author pid="249/1725">Danilo da Silva Alves</author>
+<author pid="269/6970">Oseias Ayres Ferreira</author>
+<author pid="53/6206">Lucio Mauro Duarte</author>
+<author pid="27/2208">Paulo Henrique M. Maia</author>
+<title>Probabilistic Model-Based Analysis to Improve Software Energy Efficiency.</title>
+<pages>132-136</pages>
+<year>2020</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3422392.3422422</ee>
+<ee>https://www.wikidata.org/entity/Q130865896</ee>
+<crossref>conf/sbes/2020</crossref>
+<url>db/conf/sbes/sbes2020.html#AlvesFDM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/DuarteATMS19" mdate="2022-08-18">
+<author pid="53/6206">Lucio Mauro Duarte</author>
+<author pid="249/1725">Danilo da Silva Alves</author>
+<author pid="249/1723">Bruno Ramos Toresan</author>
+<author pid="27/2208">Paulo Henrique M. Maia</author>
+<author pid="249/1701">Davi Silva</author>
+<title>A Model-based Framework for the Analysis of Software Energy Consumption.</title>
+<pages>67-72</pages>
+<year>2019</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3350768.3353813</ee>
+<crossref>conf/sbes/2019</crossref>
+<url>db/conf/sbes/sbes2019.html#DuarteATMS19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-13592" mdate="2019-12-02">
+<author pid="r/LeilaRibeiro">Leila Ribeiro 0001</author>
+<author pid="53/6206">Lucio Mauro Duarte</author>
+<author pid="33/4758">Rodrigo Machado</author>
+<author pid="143/6780">Andrei Costa</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="187/9585">Jonas Santos Bezerra</author>
+<title>Use Case Evolution Analysis based on Graph Transformation with Negative Application Conditions.</title>
+<year>2019</year>
+<volume>abs/1910.13592</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.13592</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-13592</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/DuarteMS18" mdate="2021-08-10">
+<author pid="53/6206">Lucio Mauro Duarte</author>
+<author pid="27/2208">Paulo Henrique Mendes Maia</author>
+<author pid="225/3560">Ana Carolina Sanchotene Silva</author>
+<title>Extraction of probabilistic behaviour models based on contexts.</title>
+<pages>25-32</pages>
+<year>2018</year>
+<booktitle>MiSE@ICSE</booktitle>
+<ee>https://doi.org/10.1145/3193954.3193963</ee>
+<ee>https://ieeexplore.ieee.org/document/8445455</ee>
+<crossref>conf/icse/2018mise</crossref>
+<url>db/conf/icse/mise2018.html#DuarteMS18</url>
+</inproceedings>
+</r>
+<r><article key="journals/sosym/DuarteKU17" mdate="2020-09-18">
+<author pid="53/6206">Lucio Mauro Duarte</author>
+<author pid="k/JeffKramer">Jeff Kramer</author>
+<author orcid="0000-0001-9352-1478" pid="21/1391">Sebasti&#225;n Uchitel</author>
+<title>Using contexts to extract models from code.</title>
+<pages>523-557</pages>
+<year>2017</year>
+<volume>16</volume>
+<journal>Softw. Syst. Model.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10270-015-0466-0</ee>
+<url>db/journals/sosym/sosym16.html#DuarteKU17</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbmf/DuarteR17" mdate="2019-12-02">
+<author pid="53/6206">Lucio Mauro Duarte</author>
+<author pid="r/LeilaRibeiro">Leila Ribeiro 0001</author>
+<title>Graph Grammar Extraction from Source Code.</title>
+<pages>52-69</pages>
+<year>2017</year>
+<booktitle>SBMF</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-70848-5_5</ee>
+<crossref>conf/sbmf/2017</crossref>
+<url>db/conf/sbmf/sbmf2017.html#DuarteR17</url>
+</inproceedings>
+</r>
+<r><article key="journals/vlc/LumertzRD16" mdate="2019-12-02">
+<author pid="175/1776">Paulo Roberto Lumertz</author>
+<author pid="r/LeilaRibeiro">Leila Ribeiro 0001</author>
+<author pid="53/6206">Lucio Mauro Duarte</author>
+<title>User interfaces metamodel based on graphs.</title>
+<pages>1-34</pages>
+<year>2016</year>
+<volume>32</volume>
+<journal>J. Vis. Lang. Comput.</journal>
+<ee>https://doi.org/10.1016/j.jvlc.2015.10.026</ee>
+<url>db/journals/vlc/vlc32.html#LumertzRD16</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbesc/FilhoCDB14" mdate="2023-03-23">
+<author pid="171/6202">Heitor Boeira dos Reis Filho</author>
+<author pid="65/7445">Ulisses Brisolara Corr&#234;a</author>
+<author pid="53/6206">Lucio Mauro Duarte</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Analysis of the Impact of Refactorings on the Performance of Embedded Systems.</title>
+<pages>97-102</pages>
+<year>2014</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2014.22</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2014.22</ee>
+<crossref>conf/sbesc/2014</crossref>
+<url>db/conf/sbesc/sbesc2014.html#FilhoCDB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wadt/OliveiraRCDNR14" mdate="2019-12-02">
+<author pid="185/0387">Marcos Oliveira Jr.</author>
+<author pid="r/LeilaRibeiro">Leila Ribeiro 0001</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<author pid="53/6206">Lucio Mauro Duarte</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="185/0374">Filipe Reis</author>
+<title>Use Case Analysis Based on Formal Methods: An Empirical Study.</title>
+<pages>110-130</pages>
+<year>2014</year>
+<booktitle>WADT</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-28114-8_7</ee>
+<crossref>conf/wadt/2014</crossref>
+<url>db/conf/wadt/wadt2014.html#OliveiraRCDNR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/weit/Duarte13" mdate="2023-03-24">
+<author pid="53/6206">Lucio Mauro Duarte</author>
+<title>Behaviour Model Extraction from Software.</title>
+<pages>1-8</pages>
+<year>2013</year>
+<booktitle>WEIT</booktitle>
+<ee>https://doi.org/10.1109/WEIT.2013.19</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WEIT.2013.19</ee>
+<crossref>conf/weit/2013</crossref>
+<url>db/conf/weit/weit2013.html#Duarte13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/weit/JuniorRDC13" mdate="2023-03-24">
+<author orcid="0000-0001-7160-3720" pid="143/6766">Marcos Antonio de Oliveira Junior</author>
+<author pid="r/LeilaRibeiro">Leila Ribeiro 0001</author>
+<author pid="53/6206">Lucio Mauro Duarte</author>
+<author pid="c/ErikaFCota">&#201;rika F. Cota</author>
+<title>Specification of Models Based on Contexts using Graph Grammars.</title>
+<pages>129-134</pages>
+<year>2013</year>
+<booktitle>WEIT</booktitle>
+<ee>https://doi.org/10.1109/WEIT.2013.36</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WEIT.2013.36</ee>
+<crossref>conf/weit/2013</crossref>
+<url>db/conf/weit/weit2013.html#JuniorRDC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip10-3/DuarteFWH10" mdate="2018-06-26">
+<author pid="53/6206">Lucio Mauro Duarte</author>
+<author pid="24/37">Luciana Foss</author>
+<author pid="r/FlavioRechWagner">Fl&#225;vio Rech Wagner</author>
+<author pid="32/967">Tales Heimfarth</author>
+<title>Model Checking the Ant Colony Optimisation.</title>
+<pages>221-232</pages>
+<year>2010</year>
+<booktitle>DIPES/BICC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-15234-4_22</ee>
+<crossref>conf/ifip10-3/2010dipes</crossref>
+<url>db/conf/ifip10-3/dipes2010.html#DuarteFWH10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fase/DuarteKU08" mdate="2018-11-02">
+<author pid="53/6206">Lucio Mauro Duarte</author>
+<author pid="k/JeffKramer">Jeff Kramer</author>
+<author orcid="0000-0001-9352-1478" pid="21/1391">Sebasti&#225;n Uchitel</author>
+<title>Towards Faithful Model Extraction Based on Contexts.</title>
+<pages>101-115</pages>
+<year>2008</year>
+<booktitle>FASE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-78743-3_9</ee>
+<crossref>conf/fase/2008</crossref>
+<url>db/conf/fase/fase2008.html#DuarteKU08</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ethos/Duarte07" mdate="2022-04-05">
+<author pid="53/6206">Lucio Mauro Duarte</author>
+<title>Behaviour Model Extraction Using Context Information.</title>
+<year>2007</year>
+<school>Imperial College London, UK</school>
+<ee>https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.498466</ee>
+<note type="source">British Library, EThOS</note>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/models/DuarteKU06" mdate="2017-05-25">
+<author pid="53/6206">Lucio Mauro Duarte</author>
+<author pid="k/JeffKramer">Jeff Kramer</author>
+<author pid="21/1391">Sebasti&#225;n Uchitel</author>
+<title>Model Extraction Using Context Information.</title>
+<pages>380-394</pages>
+<year>2006</year>
+<crossref>conf/models/2006</crossref>
+<booktitle>MoDELS</booktitle>
+<ee>https://doi.org/10.1007/11880240_27</ee>
+<url>db/conf/models/models2006.html#DuarteKU06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/entcs/DottiDFRRS05" mdate="2022-12-12">
+<author orcid="0000-0001-9061-4695" pid="22/512">Fernando Lu&#237;s Dotti</author>
+<author pid="53/6206">Lucio Mauro Duarte</author>
+<author pid="24/37">Luciana Foss</author>
+<author pid="r/LeilaRibeiro">Leila Ribeiro 0001</author>
+<author pid="19/8933">Daniela Russi</author>
+<author pid="69/3625">Osmar Marchi dos Santos</author>
+<title>An Environment for the Development of Concurrent Object-Based Applications.</title>
+<pages>3-13</pages>
+<year>2004</year>
+<crossref>conf/grabats/2004</crossref>
+<booktitle>GraBaTs</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.entcs.2004.12.026</ee>
+<url>db/conf/grabats/grabats2004.html#DottiDFRRS05</url>
+</inproceedings>
+</r>
+<r><article key="journals/cbsn/PinhoDMKBD02" mdate="2020-05-30">
+<author pid="68/6771">M&#225;rcio Serolli Pinho</author>
+<author pid="123/1621">Leandro Lu&#237;s Dias</author>
+<author pid="123/1210">Carlos G. Antunes Moreira</author>
+<author pid="123/1666">Emmanuel Gonz&#225;lez Khodjaoghlanian</author>
+<author pid="123/1545">Gustavo Pizzini Becker</author>
+<author pid="53/6206">Lucio Mauro Duarte</author>
+<title>A User Interface Model for Navigation in Virtual Environments.</title>
+<pages>443-449</pages>
+<year>2002</year>
+<volume>5</volume>
+<journal>Cyberpsychology Behav. Soc. Netw.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1089/109493102761022869</ee>
+<ee>https://www.wikidata.org/entity/Q78564139</ee>
+<url>db/journals/cbsn/cbsn5.html#PinhoDMKBD02</url>
+</article>
+</r>
+<r><inproceedings key="conf/pdpta/DottiD00" mdate="2003-12-05">
+<author pid="22/512">Fernando Lu&#237;s Dotti</author>
+<author pid="53/6206">Lucio Mauro Duarte</author>
+<title>Monitoring Mobile Code.</title>
+<year>2000</year>
+<crossref>conf/pdpta/2000</crossref>
+<booktitle>PDPTA</booktitle>
+<url>db/conf/pdpta/pdpta2000.html#DottiD00</url>
+</inproceedings>
+</r>
+<coauthors n="32" nc="3">
+<co c="1"><na f="a/Alves:Danilo_da_Silva" pid="249/1725">Danilo da Silva Alves</na></co>
+<co c="0"><na f="b/Beck:Antonio_Carlos_Schneider" pid="02/7021">Antonio Carlos Schneider Beck</na></co>
+<co c="2"><na f="b/Becker:Gustavo_Pizzini" pid="123/1545">Gustavo Pizzini Becker</na></co>
+<co c="0"><na f="b/Bezerra:Jonas_Santos" pid="187/9585">Jonas Santos Bezerra</na></co>
+<co c="0"><na f="c/Corr=ecirc=a:Ulisses_Brisolara" pid="65/7445">Ulisses Brisolara Corr&#234;a</na></co>
+<co c="0"><na f="c/Costa:Andrei" pid="143/6780">Andrei Costa</na></co>
+<co c="0"><na f="c/Cota:=Eacute=rika_F=" pid="c/ErikaFCota">&#201;rika F. Cota</na></co>
+<co c="2"><na f="d/Dias:Leandro_Lu=iacute=s" pid="123/1621">Leandro Lu&#237;s Dias</na></co>
+<co c="0"><na f="d/Dotti:Fernando_Lu=iacute=s" pid="22/512">Fernando Lu&#237;s Dotti</na></co>
+<co c="1"><na f="f/Ferreira:Oseias_Ayres" pid="269/6970">Oseias Ayres Ferreira</na></co>
+<co c="0"><na f="f/Filho:Heitor_Boeira_dos_Reis" pid="171/6202">Heitor Boeira dos Reis Filho</na></co>
+<co c="0"><na f="f/Foss:Luciana" pid="24/37">Luciana Foss</na></co>
+<co c="0"><na f="h/Heimfarth:Tales" pid="32/967">Tales Heimfarth</na></co>
+<co c="0"><na f="j/Junior:Marcos_Antonio_de_Oliveira" pid="143/6766">Marcos Antonio de Oliveira Junior</na></co>
+<co c="2"><na f="k/Khodjaoghlanian:Emmanuel_Gonz=aacute=lez" pid="123/1666">Emmanuel Gonz&#225;lez Khodjaoghlanian</na></co>
+<co c="1"><na f="k/Kramer:Jeff" pid="k/JeffKramer">Jeff Kramer</na></co>
+<co c="0"><na f="l/Lumertz:Paulo_Roberto" pid="175/1776">Paulo Roberto Lumertz</na></co>
+<co c="0"><na f="m/Machado:Rodrigo" pid="33/4758">Rodrigo Machado</na></co>
+<co c="1" n="2"><na f="m/Maia:Paulo_Henrique_M=" pid="27/2208">Paulo Henrique M. Maia</na><na>Paulo Henrique Mendes Maia</na></co>
+<co c="2"><na f="m/Moreira:Carlos_G=_Antunes" pid="123/1210">Carlos G. Antunes Moreira</na></co>
+<co c="0"><na f="n/Nunes:Ingrid" pid="48/5352">Ingrid Nunes</na></co>
+<co c="0"><na f="o/Oliveira_Jr=:Marcos" pid="185/0387">Marcos Oliveira Jr.</na></co>
+<co c="2"><na f="p/Pinho:M=aacute=rcio_Serolli" pid="68/6771">M&#225;rcio Serolli Pinho</na></co>
+<co c="0"><na f="r/Reis:Filipe" pid="185/0374">Filipe Reis</na></co>
+<co c="0"><na f="r/Ribeiro_0001:Leila" pid="r/LeilaRibeiro">Leila Ribeiro 0001</na></co>
+<co c="0"><na f="r/Russi:Daniela" pid="19/8933">Daniela Russi</na></co>
+<co c="0"><na f="s/Santos:Osmar_Marchi_dos" pid="69/3625">Osmar Marchi dos Santos</na></co>
+<co c="1"><na f="s/Silva:Ana_Carolina_Sanchotene" pid="225/3560">Ana Carolina Sanchotene Silva</na></co>
+<co c="1"><na f="s/Silva:Davi" pid="249/1701">Davi Silva</na></co>
+<co c="1"><na f="t/Toresan:Bruno_Ramos" pid="249/1723">Bruno Ramos Toresan</na></co>
+<co c="1"><na f="u/Uchitel:Sebasti=aacute=n" pid="21/1391">Sebasti&#225;n Uchitel</na></co>
+<co c="0"><na f="w/Wagner:Fl=aacute=vio_Rech" pid="r/FlavioRechWagner">Fl&#225;vio Rech Wagner</na></co>
+</coauthors>
+</dblpperson>
+

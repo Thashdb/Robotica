@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<dblpperson name="Bruno Jefferson de S. Pessoa" pid="128/5727" n="4">
+<person key="homepages/128/5727" mdate="2013-04-20">
+<author pid="128/5727">Bruno Jefferson de S. Pessoa</author>
+</person>
+<r><article key="journals/itor/RochaPAC24" mdate="2024-02-29">
+<author pid="65/6703">Caroline T. M. Rocha</author>
+<author pid="128/5727">Bruno Jefferson de S. Pessoa</author>
+<author orcid="0000-0002-9876-2921" pid="29/6167">Daniel Aloise</author>
+<author pid="92/2618">Luc&#237;dio A. F. Cabral</author>
+<title>An efficient implementation of a VNS heuristic for the weighted fair sequences problem.</title>
+<pages>1720-1735</pages>
+<year>2024</year>
+<month>May</month>
+<volume>31</volume>
+<journal>Int. Trans. Oper. Res.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1111/itor.13197</ee>
+<url>db/journals/itor/itor31.html#RochaPAC24</url>
+</article>
+</r>
+<r><article key="journals/cor/PessoaAC18" mdate="2024-10-06">
+<author pid="128/5727">Bruno Jefferson de S. Pessoa</author>
+<author orcid="0000-0002-9876-2921" pid="29/6167">Daniel Aloise</author>
+<author pid="92/2618">Luc&#237;dio dos Anjos F. Cabral</author>
+<title>The Weighted Fair Sequences Problem.</title>
+<pages>121-131</pages>
+<year>2018</year>
+<volume>91</volume>
+<journal>Comput. Oper. Res.</journal>
+<ee>https://doi.org/10.1016/j.cor.2017.11.008</ee>
+<url>db/journals/cor/cor91.html#PessoaAC18</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbsi/FilhoPDC12" mdate="2022-02-03">
+<author pid="121/8737">Gilberto Farias de Sousa Filho</author>
+<author pid="128/5727">Bruno Jefferson de S. Pessoa</author>
+<author pid="97/7096">Jos&#233; Jorge Lima Dias Jr.</author>
+<author pid="92/2618">Luc&#237;dio dos Anjos Formiga Cabral</author>
+<title>Uma Arquitetura e Ferramentas para Problemas de Localiza&#231;&#227;o de Facilidades no Setor P&#250;blico.</title>
+<pages>459-470</pages>
+<year>2012</year>
+<booktitle>SBSI</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbsi.2012.14428</ee>
+<crossref>conf/sbsi/2012</crossref>
+<url>db/conf/sbsi/sbsi2012.html#FilhoPDC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/PessoaFC08" mdate="2018-11-06">
+<author pid="128/5727">Bruno Jefferson de S. Pessoa</author>
+<author pid="40/2408">Guido Lemos de Souza Filho</author>
+<author pid="92/2618">Luc&#237;dio dos Anjos F. Cabral</author>
+<title>Metaheur&#237;sticas aplicadas &#224; gera&#231;ao de carrossel no sistema brasileiro de TV Digital.</title>
+<pages>91-98</pages>
+<year>2008</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/1666091.1666108</ee>
+<crossref>conf/webmedia/2008</crossref>
+<url>db/conf/webmedia/webmedia2008.html#PessoaFC08</url>
+</inproceedings>
+</r>
+<coauthors n="6" nc="1">
+<co c="0"><na f="a/Aloise:Daniel" pid="29/6167">Daniel Aloise</na></co>
+<co c="0" n="3"><na f="c/Cabral:Luc=iacute=dio_A=_F=" pid="92/2618">Luc&#237;dio A. F. Cabral</na><na>Luc&#237;dio dos Anjos F. Cabral</na><na>Luc&#237;dio dos Anjos Formiga Cabral</na></co>
+<co c="0" n="2"><na f="d/Dias:Jos=eacute=_Jorge_L=" pid="97/7096">Jos&#233; Jorge L. Dias</na><na>Jos&#233; Jorge Lima Dias Jr.</na></co>
+<co c="0" n="2"><na f="f/Filho:Gilberto_F=_de_S=" pid="121/8737">Gilberto F. de S. Filho</na><na>Gilberto Farias de Sousa Filho</na></co>
+<co c="0"><na f="f/Filho:Guido_Lemos_de_Souza" pid="40/2408">Guido Lemos de Souza Filho</na></co>
+<co c="0"><na f="r/Rocha:Caroline_T=_M=" pid="65/6703">Caroline T. M. Rocha</na></co>
+</coauthors>
+</dblpperson>
+

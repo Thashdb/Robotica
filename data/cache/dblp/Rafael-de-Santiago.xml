@@ -1,0 +1,464 @@
+<?xml version="1.0"?>
+<dblpperson name="Rafael de Santiago" pid="79/8300" n="32">
+<person key="homepages/79/8300" mdate="2010-07-13">
+<author pid="79/8300">Rafael de Santiago</author>
+</person>
+<r><article key="journals/quantum/RosaDS25" mdate="2025-04-01">
+<author orcid="0000-0002-8197-9454" pid="266/9701">Evandro Chagas Ribeiro da Rosa</author>
+<author pid="292/2093">Eduardo Inacio Duzzioni</author>
+<author orcid="0000-0001-7033-125X" pid="79/8300">Rafael de Santiago</author>
+<title>Optimizing Gate Decomposition for High-Level Quantum Programming.</title>
+<pages>1659</pages>
+<year>2025</year>
+<volume>9</volume>
+<journal>Quantum</journal>
+<ee type="oa">https://doi.org/10.22331/q-2025-03-12-1659</ee>
+<url>db/journals/quantum/quantum9.html#RosaDS25</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2504-20291" mdate="2025-05-25">
+<author pid="266/9701">Evandro Chagas Ribeiro da Rosa</author>
+<author pid="67/3037">Jerusa Marchi</author>
+<author pid="292/2093">Eduardo Inacio Duzzioni</author>
+<author pid="79/8300">Rafael de Santiago</author>
+<title>Quantum Gate Decomposition: A Study of Compilation Time vs. Execution Time Trade-offs.</title>
+<year>2025</year>
+<month>April</month>
+<volume>abs/2504.20291</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2504.20291</ee>
+<url>db/journals/corr/corr2504.html#abs-2504-20291</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/eswa/MelloSSG24" mdate="2023-12-10">
+<author orcid="0009-0003-0452-9403" pid="208/6895">Rodrigo Rodrigues Pires de Mello</author>
+<author orcid="0000-0001-7033-125X" pid="79/8300">Rafael de Santiago</author>
+<author pid="48/5786">Ricardo Azambuja Silveira</author>
+<author pid="162/5979">Thiago &#194;ngelo Gelaim</author>
+<title>Neural-symbolic BDI-Agent as a Multi-Context System: A case study with negotiating agent.</title>
+<pages>121656</pages>
+<year>2024</year>
+<month>March</month>
+<volume>238</volume>
+<journal>Expert Syst. Appl.</journal>
+<number>Part A</number>
+<ee>https://doi.org/10.1016/j.eswa.2023.121656</ee>
+<url>db/journals/eswa/eswa238.html#MelloSSG24</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2412-06977" mdate="2025-01-26">
+<author pid="395/8364">Eduardo Willwock Lussi</author>
+<author pid="395/8234">Lucas Cavalcante de Sousa</author>
+<author pid="67/3037">Jerusa Marchi</author>
+<author pid="79/8300">Rafael de Santiago</author>
+<author pid="292/2093">Eduardo Inacio Duzzioni</author>
+<title>Implementing a Quantum Finite Automaton in IBMQ using Custom Control Pulses.</title>
+<year>2024</year>
+<volume>abs/2412.06977</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2412.06977</ee>
+<url>db/journals/corr/corr2412.html#abs-2412-06977</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2412-18533" mdate="2025-01-26">
+<author pid="395/8364">Eduardo Willwock Lussi</author>
+<author pid="79/8300">Rafael de Santiago</author>
+<author pid="292/2093">Eduardo Inacio Duzzioni</author>
+<title>A Time Optimization Framework for the Implementation of Robust and Low-latency Quantum Circuits.</title>
+<year>2024</year>
+<volume>abs/2412.18533</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2412.18533</ee>
+<url>db/journals/corr/corr2412.html#abs-2412-18533</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2412-20543" mdate="2025-01-26">
+<author pid="266/9701">Evandro Chagas Ribeiro da Rosa</author>
+<author pid="67/3037">Jerusa Marchi</author>
+<author pid="292/2093">Eduardo Inacio Duzzioni</author>
+<author pid="79/8300">Rafael de Santiago</author>
+<title>Automated Auxiliary Qubit Allocation in High-Level Quantum Programming.</title>
+<year>2024</year>
+<volume>abs/2412.20543</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2412.20543</ee>
+<url>db/journals/corr/corr2412.html#abs-2412-20543</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/jetc/RosaS22" mdate="2025-01-19">
+<author orcid="0000-0002-8197-9454" pid="266/9701">Evandro Chagas Ribeiro da Rosa</author>
+<author orcid="0000-0001-7033-125X" pid="79/8300">Rafael de Santiago</author>
+<title>Ket Quantum Programming.</title>
+<pages>12:1-12:25</pages>
+<year>2022</year>
+<volume>18</volume>
+<journal>ACM J. Emerg. Technol. Comput. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3474224</ee>
+<ee>https://www.wikidata.org/entity/Q130849040</ee>
+<url>db/journals/jetc/jetc18.html#RosaS22</url>
+</article>
+</r>
+<r><inproceedings key="conf/icaart/MelloSS22" mdate="2022-03-15">
+<author pid="208/6895">Rodrigo Rodrigues Pires de Mello</author>
+<author pid="48/5786">Ricardo Azambuja Silveira</author>
+<author pid="79/8300">Rafael de Santiago</author>
+<title>A Mediator Agent based on Multi-Context System and Information Retrieval.</title>
+<pages>78-87</pages>
+<year>2022</year>
+<booktitle>ICAART (2)</booktitle>
+<ee>https://doi.org/10.5220/0010781400003116</ee>
+<crossref>conf/icaart/2022-2</crossref>
+<url>db/conf/icaart/icaart2022-2.html#MelloSS22</url>
+</inproceedings>
+</r>
+<r><article key="journals/aepia/PiresDMS21" mdate="2024-10-06">
+<author orcid="0000-0001-5051-7241" pid="291/4317">Otto Menegasso Pires</author>
+<author orcid="0000-0002-8971-2033" pid="292/2093">Eduardo Inacio Duzzioni</author>
+<author orcid="0000-0002-4864-3764" pid="67/3037">Jerusa Marchi</author>
+<author pid="79/8300">Rafael de Santiago</author>
+<title>Quantum Circuit Synthesis Using Projective Simulation.</title>
+<pages>90-101</pages>
+<year>2021</year>
+<volume>24</volume>
+<journal>Inteligencia Artif.</journal>
+<number>67</number>
+<ee type="oa">https://doi.org/10.4114/intartif.vol24iss67pp90-101</ee>
+<url>db/journals/aepia/aepia24.html#PiresDMS21</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/SantosSPSARB21" mdate="2021-12-25">
+<author orcid="0000-0001-9371-427X" pid="247/7592">Yuri Santa Rosa Nassar dos Santos</author>
+<author orcid="0000-0001-7033-125X" pid="79/8300">Rafael de Santiago</author>
+<author orcid="0000-0001-7189-4724" pid="p/RaffaelePerego">Raffaele Perego 0001</author>
+<author pid="307/8564">Matheus Henrique Schaly</author>
+<author orcid="0000-0003-2372-4995" pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
+<author orcid="0000-0002-1763-2966" pid="84/4085">Chiara Renso</author>
+<author orcid="0000-0002-0159-4643" pid="16/2965">Vania Bogorny</author>
+<title>A Co-occurrence Based Approach for Mining Overlapped Co-clusters in Binary Data.</title>
+<pages>375-389</pages>
+<year>2021</year>
+<booktitle>BRACIS (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-91702-9_25</ee>
+<crossref>conf/bracis/2021-1</crossref>
+<url>db/conf/bracis/bracis2021-1.html#SantosSPSARB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cec/PiresSM21" mdate="2024-10-06">
+<author orcid="0000-0001-5051-7241" pid="291/4317">Otto Menegasso Pires</author>
+<author pid="79/8300">Rafael de Santiago</author>
+<author orcid="0000-0002-4864-3764" pid="67/3037">Jerusa Marchi</author>
+<title>Two Stage Quantum Optimization for the School Timetabling Problem.</title>
+<pages>2347-2353</pages>
+<year>2021</year>
+<booktitle>CEC</booktitle>
+<ee>https://doi.org/10.1109/CEC45853.2021.9504701</ee>
+<crossref>conf/cec/2021</crossref>
+<url>db/conf/cec/cec2021.html#PiresSM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/epia/HerchonviczS21" mdate="2021-09-09">
+<author pid="301/3120">Andrey Lucas Herchonvicz</author>
+<author pid="79/8300">Rafael de Santiago</author>
+<title>Deep Neural Network Architectures for Speech Deception Detection: A Brief Survey.</title>
+<pages>301-312</pages>
+<year>2021</year>
+<booktitle>EPIA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-86230-5_24</ee>
+<crossref>conf/epia/2021</crossref>
+<url>db/conf/epia/epia2021.html#HerchonviczS21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-13297" mdate="2021-05-11">
+<author pid="291/4317">Otto Menegasso Pires</author>
+<author pid="292/2093">Eduardo Inacio Duzzioni</author>
+<author pid="67/3037">Jerusa Marchi</author>
+<author pid="79/8300">Rafael de Santiago</author>
+<title>Quantum circuit synthesis of Bell and GHZ states using projective simulation in the NISQ era.</title>
+<year>2021</year>
+<volume>abs/2104.13297</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.13297</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-13297</url>
+</article>
+</r>
+<r><article key="journals/air/SantiagoL20" mdate="2025-01-19">
+<author orcid="0000-0001-7033-125X" pid="79/8300">Rafael de Santiago</author>
+<author pid="l/LCLamb">Lu&#237;s C. Lamb</author>
+<title>A ground truth contest between modularity maximization and modularity density maximization.</title>
+<pages>4575-4599</pages>
+<year>2020</year>
+<volume>53</volume>
+<journal>Artif. Intell. Rev.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s10462-019-09802-8</ee>
+<ee>https://www.wikidata.org/entity/Q126457000</ee>
+<url>db/journals/air/air53.html#SantiagoL20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cec/SantiagoL20" mdate="2020-09-11">
+<author pid="79/8300">Rafael de Santiago</author>
+<author pid="l/LCLamb">Lu&#237;s C. Lamb</author>
+<title>Exact Signed Modularity Density Maximization Solutions and Their Real Meaning<sup>*</sup>.</title>
+<pages>1-7</pages>
+<year>2020</year>
+<booktitle>CEC</booktitle>
+<ee>https://doi.org/10.1109/CEC48606.2020.9185736</ee>
+<crossref>conf/cec/2020</crossref>
+<url>db/conf/cec/cec2020.html#SantiagoL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icaart/MarcollaSD20" mdate="2020-04-14">
+<author pid="262/6252">Felipe Mateus Marcolla</author>
+<author pid="79/8300">Rafael de Santiago</author>
+<author pid="31/5579">Rudimar L. S. Dazzi</author>
+<title>Novel Lie Speech Classification by using Voice Stress.</title>
+<pages>742-749</pages>
+<year>2020</year>
+<booktitle>ICAART (2)</booktitle>
+<crossref>conf/icaart/2020-2</crossref>
+<url>db/conf/icaart/icaart2020-2.html#MarcollaSD20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-00131" mdate="2020-06-09">
+<author pid="266/9701">Evandro Chagas Ribeiro da Rosa</author>
+<author pid="79/8300">Rafael de Santiago</author>
+<title>Classical and Quantum Data Interaction in Programming Languages: A Runtime Architecture.</title>
+<year>2020</year>
+<volume>abs/2006.00131</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.00131</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-00131</url>
+</article>
+</r>
+<r><inproceedings key="conf/icaart/SantiagoCL19" mdate="2019-12-27">
+<author pid="79/8300">Rafael de Santiago</author>
+<author pid="186/6852">Fernando Concatto</author>
+<author orcid="0000-0003-1571-165X" pid="l/LCLamb">Lu&#237;s C. Lamb</author>
+<title>On the Role of Central Individuals in Influence Propagation.</title>
+<pages>103-111</pages>
+<year>2019</year>
+<booktitle>ICAART (2)</booktitle>
+<ee>https://doi.org/10.5220/0007358101030111</ee>
+<crossref>conf/icaart/2019-2</crossref>
+<url>db/conf/icaart/icaart2019-2.html#SantiagoCL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cec/MendesSL18" mdate="2019-10-19">
+<author pid="227/5970">Rudson Francisco Da Silva Mendes</author>
+<author pid="79/8300">Rafael de Santiago</author>
+<author orcid="0000-0003-1571-165X" pid="l/LCLamb">Lu&#237;s C. Lamb</author>
+<title>Novel Parallel Anytime A* for Graph and Network Clustering.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>CEC</booktitle>
+<ee>https://doi.org/10.1109/CEC.2018.8477840</ee>
+<crossref>conf/cec/2018</crossref>
+<url>db/conf/cec/cec2018.html#MendesSL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictai/MartinsSSL18" mdate="2023-03-24">
+<author pid="231/9106">Willian Heitor Martins</author>
+<author pid="231/8849">Lucia Helena Souza Alves de Santiago</author>
+<author pid="79/8300">Rafael de Santiago</author>
+<author orcid="0000-0003-1571-165X" pid="l/LCLamb">Lu&#237;s C. Lamb</author>
+<title>Effective Ant Colony Optimization Solution for the Brazilian Family Health Team Scheduling Problem.</title>
+<pages>493-497</pages>
+<year>2018</year>
+<booktitle>ICTAI</booktitle>
+<ee>https://doi.org/10.1109/ICTAI.2018.00082</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICTAI.2018.00082</ee>
+<crossref>conf/ictai/2018</crossref>
+<url>db/conf/ictai/ictai2018.html#MartinsSSL18</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ndltd/Santiago17" mdate="2022-05-04">
+<author pid="79/8300">Rafael de Santiago</author>
+<title>Efficient modularity density heuristics in graph clustering and their applications.</title>
+<year>2017</year>
+<school>Universidade Federal do Rio Grande do Sul, Porto Alegre, Brazil</school>
+<ee>https://hdl.handle.net/10183/164066</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:lume56.ufrgs.br:10183/164066</ee>
+<note type="source">ndltd.org (oai:lume56.ufrgs.br:10183/164066)</note>
+</phdthesis>
+</r>
+<r><article key="journals/cor/SantiagoL17" mdate="2020-02-18">
+<author pid="79/8300">Rafael de Santiago</author>
+<author orcid="0000-0003-1571-165X" pid="l/LCLamb">Lu&#237;s C. Lamb</author>
+<title>Exact computational solution of Modularity Density Maximization by effective column generation.</title>
+<pages>18-29</pages>
+<year>2017</year>
+<volume>86</volume>
+<journal>Comput. Oper. Res.</journal>
+<ee>https://doi.org/10.1016/j.cor.2017.04.013</ee>
+<url>db/journals/cor/cor86.html#SantiagoL17</url>
+</article>
+</r>
+<r><article key="journals/eor/SantiagoL17" mdate="2020-02-21">
+<author pid="79/8300">Rafael de Santiago</author>
+<author orcid="0000-0003-1571-165X" pid="l/LCLamb">Lu&#237;s C. Lamb</author>
+<title>Efficient modularity density heuristics for large graphs.</title>
+<pages>844-865</pages>
+<year>2017</year>
+<volume>258</volume>
+<journal>Eur. J. Oper. Res.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.ejor.2016.10.033</ee>
+<url>db/journals/eor/eor258.html#SantiagoL17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cec/SchmittRSL17" mdate="2018-11-30">
+<author pid="202/8299">Rafael Schmitt</author>
+<author pid="166/4205">Pedro Ramos</author>
+<author pid="79/8300">Rafael de Santiago</author>
+<author orcid="0000-0003-1571-165X" pid="l/LCLamb">Lu&#237;s C. Lamb</author>
+<title>Novel Clique enumeration heuristic for detecting overlapping clusters.</title>
+<pages>1390-1397</pages>
+<year>2017</year>
+<booktitle>CEC</booktitle>
+<ee>https://doi.org/10.1109/CEC.2017.7969466</ee>
+<crossref>conf/cec/2017</crossref>
+<url>db/conf/cec/cec2017.html#SchmittRSL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/SantiagoL17" mdate="2018-11-06">
+<author pid="79/8300">Rafael de Santiago</author>
+<author orcid="0000-0003-1571-165X" pid="l/LCLamb">Lu&#237;s C. Lamb</author>
+<title>Efficient quantitative heuristics for graph clustering.</title>
+<pages>117-118</pages>
+<year>2017</year>
+<booktitle>GECCO (Companion)</booktitle>
+<ee>https://doi.org/10.1145/3067695.3075995</ee>
+<crossref>conf/gecco/2017c</crossref>
+<url>db/conf/gecco/gecco2017c.html#SantiagoL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/ConcattoZGSL17" mdate="2018-11-06">
+<author pid="186/6852">Fernando Concatto</author>
+<author pid="186/6926">Wellington Zunino</author>
+<author pid="202/9098">Luigi A. Giancoli</author>
+<author pid="79/8300">Rafael de Santiago</author>
+<author orcid="0000-0003-1571-165X" pid="l/LCLamb">Lu&#237;s C. Lamb</author>
+<title>Genetic algorithm for epidemic mitigation by removing relationships.</title>
+<pages>761-768</pages>
+<year>2017</year>
+<booktitle>GECCO</booktitle>
+<ee>https://doi.org/10.1145/3071178.3071218</ee>
+<crossref>conf/gecco/2017</crossref>
+<url>db/conf/gecco/gecco2017.html#ConcattoZGSL17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/ConcattoZGSL17" mdate="2018-08-13">
+<author pid="186/6852">Fernando Concatto</author>
+<author pid="186/6926">Wellington Zunino</author>
+<author pid="202/9098">Luigi A. Giancoli</author>
+<author pid="79/8300">Rafael de Santiago</author>
+<author pid="l/LCLamb">Lu&#237;s C. Lamb</author>
+<title>Genetic Algorithm for Epidemic Mitigation by Removing Relationships.</title>
+<year>2017</year>
+<volume>abs/1707.05377</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1707.05377</ee>
+<url>db/journals/corr/corr1707.html#ConcattoZGSL17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cec/SantiagoL16" mdate="2018-11-30">
+<author pid="79/8300">Rafael de Santiago</author>
+<author orcid="0000-0003-1571-165X" pid="l/LCLamb">Lu&#237;s C. Lamb</author>
+<title>On the role of degree influence in suboptimal modularity maximization.</title>
+<pages>4618-4625</pages>
+<year>2016</year>
+<booktitle>CEC</booktitle>
+<ee>https://doi.org/10.1109/CEC.2016.7744379</ee>
+<crossref>conf/cec/2016</crossref>
+<url>db/conf/cec/cec2016.html#SantiagoL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/SantiagoL16" mdate="2018-11-06">
+<author pid="79/8300">Rafael de Santiago</author>
+<author orcid="0000-0003-1571-165X" pid="l/LCLamb">Lu&#237;s C. Lamb</author>
+<title>Efficient Stochastic Local Search for Modularity Maximization.</title>
+<pages>51-52</pages>
+<year>2016</year>
+<booktitle>GECCO (Companion)</booktitle>
+<ee>https://doi.org/10.1145/2908961.2909003</ee>
+<crossref>conf/gecco/2016c</crossref>
+<url>db/conf/gecco/gecco2016c.html#SantiagoL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iconip/SantiagoZCL16" mdate="2018-11-02">
+<author pid="79/8300">Rafael de Santiago</author>
+<author pid="186/6926">Wellington Zunino</author>
+<author pid="186/6852">Fernando Concatto</author>
+<author orcid="0000-0003-1571-165X" pid="l/LCLamb">Lu&#237;s C. Lamb</author>
+<title>A New Model and Heuristic for Infection Minimization by Cutting Relationships.</title>
+<pages>500-508</pages>
+<year>2016</year>
+<booktitle>ICONIP (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-46672-9_56</ee>
+<crossref>conf/iconip/2016-2</crossref>
+<url>db/conf/iconip/iconip2016-2.html#SantiagoZCL16</url>
+</inproceedings>
+</r>
+<r><article key="journals/rbie/SantiagoR11" mdate="2024-02-07">
+<author pid="79/8300">Rafael de Santiago</author>
+<author pid="85/2030">Andr&#233; Lu&#237;s Alice Raabe</author>
+<title>Arquitetura para Compartilhamento de Objetos de Aprendizagem entre Institui&#231;&#245;es de Ensino.</title>
+<year>2011</year>
+<volume>19</volume>
+<journal>Revista Brasileira de Inform&#225;tica na Educ.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5753/rbie.2011.19.01.18</ee>
+<url>db/journals/rbie/rbie19.html#SantiagoR11</url>
+</article>
+</r>
+<r><article key="journals/tlt/SantiagoR10" mdate="2024-02-07">
+<author pid="79/8300">Rafael de Santiago</author>
+<author orcid="0000-0002-8093-2507" pid="85/2030">Andr&#233; Lu&#237;s Alice Raabe</author>
+<title>Architecture for Learning Objects Sharing among Learning Institutions&#8212;LOP2P.</title>
+<pages>91-95</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>IEEE Trans. Learn. Technol.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TLT.2010.9</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TLT.2010.9</ee>
+<url>db/journals/tlt/tlt3.html#SantiagoR10</url>
+</article>
+</r>
+<coauthors n="28" nc="3">
+<co c="2"><na f="a/Alvares:Luis_Ot=aacute=vio" pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</na></co>
+<co c="2"><na f="b/Bogorny:Vania" pid="16/2965">Vania Bogorny</na></co>
+<co c="0"><na f="c/Concatto:Fernando" pid="186/6852">Fernando Concatto</na></co>
+<co c="0"><na f="d/Dazzi:Rudimar_L=_S=" pid="31/5579">Rudimar L. S. Dazzi</na></co>
+<co c="1"><na f="d/Duzzioni:Eduardo_Inacio" pid="292/2093">Eduardo Inacio Duzzioni</na></co>
+<co c="1"><na f="g/Gelaim:Thiago_=Acirc=ngelo" pid="162/5979">Thiago &#194;ngelo Gelaim</na></co>
+<co c="0"><na f="g/Giancoli:Luigi_A=" pid="202/9098">Luigi A. Giancoli</na></co>
+<co c="-1"><na f="h/Herchonvicz:Andrey_Lucas" pid="301/3120">Andrey Lucas Herchonvicz</na></co>
+<co c="0"><na f="l/Lamb:Lu=iacute=s_C=" pid="l/LCLamb">Lu&#237;s C. Lamb</na></co>
+<co c="1"><na f="l/Lussi:Eduardo_Willwock" pid="395/8364">Eduardo Willwock Lussi</na></co>
+<co c="1"><na f="m/Marchi:Jerusa" pid="67/3037">Jerusa Marchi</na></co>
+<co c="0"><na f="m/Marcolla:Felipe_Mateus" pid="262/6252">Felipe Mateus Marcolla</na></co>
+<co c="0"><na f="m/Martins:Willian_Heitor" pid="231/9106">Willian Heitor Martins</na></co>
+<co c="1"><na f="m/Mello:Rodrigo_Rodrigues_Pires_de" pid="208/6895">Rodrigo Rodrigues Pires de Mello</na></co>
+<co c="0"><na f="m/Mendes:Rudson_Francisco_Da_Silva" pid="227/5970">Rudson Francisco Da Silva Mendes</na></co>
+<co c="2"><na f="p/Perego_0001:Raffaele" pid="p/RaffaelePerego">Raffaele Perego 0001</na></co>
+<co c="1"><na f="p/Pires:Otto_Menegasso" pid="291/4317">Otto Menegasso Pires</na></co>
+<co c="0" n="2"><na f="r/Raabe:Andr=eacute=_L=_A=" pid="85/2030">Andr&#233; L. A. Raabe</na><na>Andr&#233; Lu&#237;s Alice Raabe</na></co>
+<co c="0"><na f="r/Ramos:Pedro" pid="166/4205">Pedro Ramos</na></co>
+<co c="2"><na f="r/Renso:Chiara" pid="84/4085">Chiara Renso</na></co>
+<co c="1"><na f="r/Rosa:Evandro_Chagas_Ribeiro_da" pid="266/9701">Evandro Chagas Ribeiro da Rosa</na></co>
+<co c="0"><na f="s/Santiago:Lucia_Helena_Souza_Alves_de" pid="231/8849">Lucia Helena Souza Alves de Santiago</na></co>
+<co c="2"><na f="s/Santos:Yuri_Santa_Rosa_Nassar_dos" pid="247/7592">Yuri Santa Rosa Nassar dos Santos</na></co>
+<co c="2"><na f="s/Schaly:Matheus_Henrique" pid="307/8564">Matheus Henrique Schaly</na></co>
+<co c="0"><na f="s/Schmitt:Rafael" pid="202/8299">Rafael Schmitt</na></co>
+<co c="1"><na f="s/Silveira:Ricardo_Azambuja" pid="48/5786">Ricardo Azambuja Silveira</na></co>
+<co c="1"><na f="s/Sousa:Lucas_Cavalcante_de" pid="395/8234">Lucas Cavalcante de Sousa</na></co>
+<co c="0"><na f="z/Zunino:Wellington" pid="186/6926">Wellington Zunino</na></co>
+</coauthors>
+</dblpperson>
+

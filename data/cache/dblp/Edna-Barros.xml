@@ -1,0 +1,1816 @@
+<?xml version="1.0"?>
+<dblpperson name="Edna Barros" pid="48/6034" n="109">
+<person key="homepages/48/6034" mdate="2019-07-30">
+<author pid="48/6034">Edna Barros</author>
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
+<url>http://www.cin.ufpe.br/~ensb/</url>
+<url>https://orcid.org/0000-0001-6479-3052</url>
+<url>http://lattes.cnpq.br/6291354144339437</url>
+<note type="affiliation">Federal University of Pernambuco, Computer Science Department</note>
+</person>
+<r><proceedings key="conf/robocup/2024" mdate="2025-05-07">
+<editor orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</editor>
+<editor orcid="0000-0002-7411-0398" pid="135/6336">Josiah P. Hanna</editor>
+<editor orcid="0000-0003-4217-1548" pid="24/2307">Hiroyuki Okada</editor>
+<editor orcid="0000-0001-9198-1374" pid="34/9255">Elena Torta</editor>
+<title>RoboCup 2024: Robot World Cup XXVII</title>
+<booktitle>RoboCup</booktitle>
+<publisher>Springer</publisher>
+<year>2025</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>15570</volume>
+<isbn>978-3-031-85858-1</isbn>
+<isbn>978-3-031-85859-8</isbn>
+<ee>https://doi.org/10.1007/978-3-031-85859-8</ee>
+<url>db/conf/robocup/robocup2024.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/larc/AcruchiNSCFMB24" mdate="2025-01-17">
+<author pid="395/0381">Clara Acruchi</author>
+<author pid="395/0404">Geovany Icaro L. Nunes</author>
+<author pid="395/0357">Thiago Jos&#233; A. Souza</author>
+<author pid="395/0654">Breno Cavalcanti</author>
+<author pid="395/0612">Adiel Teixeira de A. Filho</author>
+<author pid="274/0872">Mateus G. Machado</author>
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
+<title>Reinforcement Learning-driven automatic calibration for color segmentation-based robot detection.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>LARS</booktitle>
+<ee>https://doi.org/10.1109/LARS64411.2024.10786410</ee>
+<crossref>conf/larc/2024</crossref>
+<url>db/conf/larc/lars2024.html#AcruchiNSCFMB24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/RodriguesCLMNB24" mdate="2025-01-17">
+<author pid="261/9334">Walber M. Rodrigues</author>
+<author pid="376/9045">Pedro V. Cunha</author>
+<author pid="395/0766">Rafael R. De Labio</author>
+<author pid="274/0872">Mateus G. Machado</author>
+<author pid="21/8284">Paulo Salgado Gomes de Mattos Neto</author>
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
+<title>SPO: Single Pass Optimization for Soccer Simulation 2D.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>LARS</booktitle>
+<ee>https://doi.org/10.1109/LARS64411.2024.10786402</ee>
+<crossref>conf/larc/2024</crossref>
+<url>db/conf/larc/lars2024.html#RodriguesCLMNB24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robocup/MachadoMZBCBB24" mdate="2025-05-07">
+<author pid="274/0872">Mateus G. Machado</author>
+<author pid="352/5356">Jo&#227;o G. Melo</author>
+<author pid="75/5629">Cleber Zanchettin</author>
+<author pid="222/3933">Pedro H. M. Braga</author>
+<author pid="376/9045">Pedro V. Cunha</author>
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
+<author pid="93/6335">Hansenclever F. Bassani</author>
+<title>Planning the Path with Reinforcement Learning: Optimal Robot Motion Planning in RoboCup Small Size League Environments.</title>
+<pages>68-79</pages>
+<year>2024</year>
+<booktitle>RoboCup</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-85859-8_6</ee>
+<crossref>conf/robocup/2024</crossref>
+<url>db/conf/robocup/robocup2024.html#MachadoMZBCBB24</url>
+<stream>streams/conf/robocup</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robocup/RodriguesCMBB24" mdate="2025-05-07">
+<author pid="352/5548">Riei Joaquim Matos Rodrigues</author>
+<author pid="295/9940">Lucas Cavalcanti</author>
+<author pid="352/5356">Jo&#227;o G. Melo</author>
+<author pid="48/6034">Edna Barros</author>
+<author pid="93/6335">Hansenclever F. Bassani</author>
+<title>Analysis of the Introduction Trajectory Planning in Control Applied in Small Size League Robots.</title>
+<pages>140-151</pages>
+<year>2024</year>
+<booktitle>RoboCup</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-85859-8_12</ee>
+<crossref>conf/robocup/2024</crossref>
+<url>db/conf/robocup/robocup2024.html#RodriguesCMBB24</url>
+<stream>streams/conf/robocup</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2404-15410" mdate="2024-06-03">
+<author pid="274/0872">Mateus G. Machado</author>
+<author pid="352/5356">Jo&#227;o G. Melo</author>
+<author pid="75/5629">Cleber Zanchettin</author>
+<author pid="222/3933">Pedro H. M. Braga</author>
+<author pid="376/9045">Pedro V. Cunha</author>
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
+<author pid="93/6335">Hansenclever F. Bassani</author>
+<title>Planning the path with Reinforcement Learning: Optimal Robot Motion Planning in RoboCup Small Size League Environments.</title>
+<year>2024</year>
+<volume>abs/2404.15410</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2404.15410</ee>
+<url>db/journals/corr/corr2404.html#abs-2404-15410</url>
+</article>
+</r>
+<r><article key="journals/rbie/EsmeraldoFBPMLB23" mdate="2024-03-16">
+<author pid="128/2854">Guilherme &#193;lvaro R. M. Esmeraldo</author>
+<author orcid="0000-0002-0880-0956" pid="79/9991">Robson Gon&#231;alves Fechine Feitosa</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Natividade da Silva Barros</author>
+<author orcid="0009-0001-3402-820X" pid="367/5495">Eduardo Carlos P. da S. Proto</author>
+<author orcid="0000-0003-1177-5533" pid="367/5791">Harley Macedo de Mello</author>
+<author orcid="0009-0002-4231-1299" pid="235/0907">Edson Barbosa Lisboa</author>
+<author orcid="0000-0002-6373-6045" pid="62/5187">Esdras L. Bispo Jr.</author>
+<author orcid="0000-0001-7175-9071" pid="84/9319">Gustavo Augusto Lima de Campos</author>
+<title>Uma Abordagem para Ensino-Aprendizado de Projetos de Sistemas Computacionais com Utiliza&#231;&#227;o do Simulador CompSim com Suporte &#224; Arquitetura RISC-V.</title>
+<pages>271-288</pages>
+<year>2023</year>
+<volume>31</volume>
+<journal>Revista Brasileira de Inform&#225;tica na Educ.</journal>
+<ee type="oa">https://doi.org/10.5753/rbie.2023.2951</ee>
+<url>db/journals/rbie/rbie31.html#EsmeraldoFBPMLB23</url>
+</article>
+</r>
+<r><inproceedings key="conf/larc/MeloCJAB23" mdate="2024-01-04">
+<author pid="352/5356">Jo&#227;o G. Melo</author>
+<author pid="295/9940">Lucas Cavalcanti</author>
+<author pid="295/9704">Riei Joaquim</author>
+<author pid="316/8073">Victor Ara&#250;jo</author>
+<author pid="48/6034">Edna Barros</author>
+<title>Dataset and Baseline Experiments for Self-Localization and Tracking in the RoboCup Small Size League.</title>
+<pages>520-525</pages>
+<year>2023</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE59448.2023.10333068</ee>
+<crossref>conf/larc/2023</crossref>
+<url>db/conf/larc/lars2023.html#MeloCJAB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robocup/CavalcantiMJB23" mdate="2024-04-11">
+<author pid="295/9940">Lucas Cavalcanti</author>
+<author pid="352/5356">Jo&#227;o G. Melo</author>
+<author pid="295/9704">Riei Joaquim</author>
+<author pid="48/6034">Edna Barros</author>
+<title>Improving Inertial Odometry Through Particle Swarm Optimization in the RoboCup Small Size League.</title>
+<pages>93-104</pages>
+<year>2023</year>
+<booktitle>RoboCup</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-55015-7_8</ee>
+<crossref>conf/robocup/2023</crossref>
+<url>db/conf/robocup/robocup2023.html#CavalcantiMJB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robocup/AraujoRCCASMOMB23" mdate="2024-04-11">
+<author pid="316/8073">Victor Ara&#250;jo</author>
+<author pid="352/5548">Riei Joaquim Matos Rodrigues</author>
+<author pid="352/5346">Jos&#233; Victor Silva Cruz</author>
+<author pid="295/9940">Lucas Cavalcanti</author>
+<author pid="352/5341">Matheus Vin&#237;cius Teotonio do Nascimento Andrade</author>
+<author pid="352/5398">Matheus Paix&#227;o Gumercindo dos Santos</author>
+<author pid="352/5356">Jo&#227;o G. Melo</author>
+<author pid="352/5748">Pedro Paulo Salman de Oliveira</author>
+<author pid="352/5331">Ryan Vinicius Santos Morais</author>
+<author pid="48/6034">Edna Barros</author>
+<title>Rob&#244;CIn SSL-Unification: A Modular Software Architecture for Dynamic Multi-robot Systems.</title>
+<pages>313-324</pages>
+<year>2023</year>
+<booktitle>RoboCup</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-55015-7_26</ee>
+<crossref>conf/robocup/2023</crossref>
+<url>db/conf/robocup/robocup2023.html#AraujoRCCASMOMB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/AguiarB23" mdate="2023-12-02">
+<author pid="362/1798">Saulo Aguiar</author>
+<author pid="48/6034">Edna Barros</author>
+<title>A Soil pH Sensor and a Based on Time-Series Prediction IoT System for Agriculture.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC60926.2023.10324263</ee>
+<crossref>conf/sbesc/2023</crossref>
+<url>db/conf/sbesc/sbesc2023.html#AguiarB23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-10018" mdate="2025-05-05">
+<author pid="352/5566">Aline Lima de Oliveira</author>
+<author pid="352/5279">Cau&#234; Addae da Silva Gomes</author>
+<author pid="352/5505">Cec&#237;lia Virginia Santos da Silva</author>
+<author pid="352/5192">Charles Matheus de Sousa Alves</author>
+<author pid="352/5157">Danilo Andrade Martins de Souza</author>
+<author pid="352/5871">Driele Pires Ferreira Ara&#250;jo Xavier</author>
+<author pid="352/5597">Edgleyson Pereira da Silva</author>
+<author pid="352/5322">Felipe Bezerra Martins</author>
+<author pid="295/9940">Lucas Cavalcanti</author>
+<author pid="352/5431">Lucas Dias Maciel</author>
+<author pid="352/5398">Matheus Paix&#227;o Gumercindo dos Santos</author>
+<author pid="352/5453">Matheus Lafayette Vasconcelos</author>
+<author pid="352/5341">Matheus Vin&#237;cius Teotonio do Nascimento Andrade</author>
+<author pid="352/5356">Jo&#227;o Guilherme Oliveira Carvalho de Melo</author>
+<author pid="352/5172">Jo&#227;o Pedro Souza Pereira de Moura</author>
+<author pid="352/5718">Jos&#233; Ronald da Silva</author>
+<author pid="352/5346">Jos&#233; Victor Silva Cruz</author>
+<author pid="352/5793">Pedro Henrique Santana de Morais</author>
+<author pid="352/5748">Pedro Paulo Salman de Oliveira</author>
+<author pid="352/5548">Riei Joaquim Matos Rodrigues</author>
+<author pid="352/5507">Roberto Costa Fernandes</author>
+<author pid="352/5331">Ryan Vinicius Santos Morais</author>
+<author pid="352/5219">Tamara Mayara Ramos Teobaldo</author>
+<author pid="352/5744">Washington Igor dos Santos Silva</author>
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
+<title>Rob&#244;CIn Small Size League Extended Team Description Paper for RoboCup 2023.</title>
+<year>2023</year>
+<volume>abs/2307.10018</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.10018</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-10018</url>
+</article>
+</r>
+<r><article key="journals/sensors/CambuimB22" mdate="2022-09-26">
+<author orcid="0000-0001-5577-7368" pid="123/2600">Lucas F. S. Cambuim</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<title>FPGA-Based Pedestrian Detection for Collision Prediction System.</title>
+<pages>4421</pages>
+<year>2022</year>
+<volume>22</volume>
+<journal>Sensors</journal>
+<number>12</number>
+<ee type="oa">https://doi.org/10.3390/s22124421</ee>
+<url>db/journals/sensors/sensors22.html#CambuimB22</url>
+</article>
+</r>
+<r><inproceedings key="conf/larc/MeloMCFAJMB22" mdate="2023-09-13">
+<author pid="352/5356">Jo&#227;o G. Melo</author>
+<author pid="295/9716">Felipe B. Martins</author>
+<author pid="295/9940">Lucas Cavalcanti</author>
+<author pid="295/9707">Roberto Fernandes</author>
+<author pid="316/8073">Victor Ara&#250;jo</author>
+<author pid="295/9704">Riei Joaquim</author>
+<author pid="356/4301">Jo&#227;o Guilherme Monteiro</author>
+<author pid="48/6034">Edna Barros</author>
+<title>Towards an Autonomous RoboCup Small Size League Robot.</title>
+<pages>1-6</pages>
+<year>2022</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE56824.2022.9996004</ee>
+<crossref>conf/larc/2022</crossref>
+<url>db/conf/larc/lars2022.html#MeloMCFAJMB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robocup/MeloB22" mdate="2023-05-24">
+<author pid="352/5356">Jo&#227;o G. Melo</author>
+<author pid="48/6034">Edna Barros</author>
+<title>An Embedded Monocular Vision Approach for Ground-Aware Objects Detection and Position Estimation.</title>
+<pages>100-111</pages>
+<year>2022</year>
+<booktitle>RoboCup</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-28469-4_9</ee>
+<crossref>conf/robocup/2022</crossref>
+<url>db/conf/robocup/robocup2022.html#MeloB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robocup/PereiraSRAGSRNB22" mdate="2023-05-24">
+<author pid="283/9585">Felipe N. A. Pereira</author>
+<author pid="284/0044">Mateus F. B. Soares</author>
+<author pid="138/9876">Concei&#231;&#227;o Rocha</author>
+<author pid="347/8624">Tales T. Alves</author>
+<author pid="347/8914">Tiago H. R. P. Gon&#231;alves</author>
+<author pid="347/9117">Jos&#233; R. da Silva</author>
+<author pid="98/5344">Tsang Ing Ren</author>
+<author pid="21/8284">Paulo S. G. de Mattos Neto</author>
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
+<title>A Library and Web Platform for RoboCup Soccer Matches Data Analysis.</title>
+<pages>177-189</pages>
+<year>2022</year>
+<booktitle>RoboCup</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-28469-4_15</ee>
+<crossref>conf/robocup/2022</crossref>
+<url>db/conf/robocup/robocup2022.html#PereiraSRAGSRNB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robocup/SoaresRNB22" mdate="2023-05-24">
+<author pid="284/0044">Mateus F. B. Soares</author>
+<author pid="98/5344">Tsang Ing Ren</author>
+<author pid="21/8284">Paulo S. G. de Mattos Neto</author>
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
+<title>Web Soccer Monitor: An Open-Source 2D Soccer Simulation Monitor for the Web and the Foundation for a New Ecosystem.</title>
+<pages>190-199</pages>
+<year>2022</year>
+<booktitle>RoboCup</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-28469-4_16</ee>
+<crossref>conf/robocup/2022</crossref>
+<url>db/conf/robocup/robocup2022.html#SoaresRNB22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-09851" mdate="2022-07-25">
+<author pid="352/5356">Jo&#227;o G. Melo</author>
+<author pid="48/6034">Edna Barros</author>
+<title>An Embedded Monocular Vision Approach for Ground-Aware Objects Detection and Position Estimation.</title>
+<year>2022</year>
+<volume>abs/2207.09851</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.09851</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-09851</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/BarrosPSNBBB21" mdate="2023-09-30">
+<author pid="307/9339">Mariana da Silva Barros</author>
+<author pid="307/9242">Igor de Moura Philippini</author>
+<author pid="307/9026">Ladson Gomes Silva</author>
+<author pid="307/8747">Antonio Barros da Silva Netto</author>
+<author orcid="0000-0003-1001-7191" pid="307/8453">Rosana Blawid</author>
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
+<author orcid="0000-0001-6982-4575" pid="220/2308">Stefan Blawid</author>
+<title>Supervised Training of a Simple Digital Assistant for a Free Crop Clinic.</title>
+<pages>162-176</pages>
+<year>2021</year>
+<booktitle>BRACIS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-91699-2_12</ee>
+<crossref>conf/bracis/2021-2</crossref>
+<url>db/conf/bracis/bracis2021-2.html#BarrosPSNBBB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/MeloCB21" mdate="2023-09-13">
+<author pid="356/4983">Mirella Pessoa de Melo</author>
+<author pid="123/2600">Lucas F. S. Cambuim</author>
+<author pid="48/6034">Edna Barros</author>
+<title>Occupancy Grid Map Estimation Based on Visual SLAM and Ground Segmentation.</title>
+<pages>288-293</pages>
+<year>2021</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE54079.2021.9605417</ee>
+<crossref>conf/larc/2021</crossref>
+<url>db/conf/larc/lars2021.html#MeloCB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/AraujoSMSSMB21" mdate="2023-09-13">
+<author pid="316/8073">Victor Ara&#250;jo</author>
+<author pid="352/5597">Edgleyson Silva</author>
+<author pid="356/4301">Jo&#227;o Guilherme Monteiro</author>
+<author pid="356/4817">Rebecca Sousa</author>
+<author pid="352/5505">Cec&#237;lia Virginia Santos da Silva</author>
+<author pid="352/5793">Pedro Henrique Santana de Morais</author>
+<author pid="48/6034">Edna Barros</author>
+<title>Mechanical and Dynamic Analysis for Design and Development of a RoboCup SSL Dribbling Mechanism<sup>*</sup>.</title>
+<pages>312-317</pages>
+<year>2021</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE54079.2021.9605377</ee>
+<crossref>conf/larc/2021</crossref>
+<url>db/conf/larc/lars2021.html#AraujoSMSSMB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robocup/FernandesRB21" mdate="2022-03-23">
+<author pid="295/9707">Roberto Fernandes</author>
+<author pid="261/9334">Walber M. Rodrigues</author>
+<author pid="48/6034">Edna Barros</author>
+<title>Dataset and Benchmarking of Real-Time Embedded Object Detection for RoboCup SSL.</title>
+<pages>53-64</pages>
+<year>2021</year>
+<booktitle>RoboCup</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-98682-7_5</ee>
+<crossref>conf/robocup/2021</crossref>
+<url>db/conf/robocup/robocup2021.html#FernandesRB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robocup/MartinsMBBB21" mdate="2022-03-23">
+<author pid="295/9716">Felipe B. Martins</author>
+<author pid="274/0872">Mateus G. Machado</author>
+<author pid="93/6335">Hansenclever F. Bassani</author>
+<author pid="222/3933">Pedro H. M. Braga</author>
+<author pid="48/6034">Edna Barros</author>
+<title>rSoccer: A Framework for Studying Reinforcement Learning in Small and Very Small Size Robot Soccer.</title>
+<pages>165-176</pages>
+<year>2021</year>
+<booktitle>RoboCup</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-98682-7_14</ee>
+<crossref>conf/robocup/2021</crossref>
+<url>db/conf/robocup/robocup2021.html#MartinsMBBB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robocup/CavalcantiJB21" mdate="2022-03-23">
+<author pid="295/9940">Lucas Cavalcanti</author>
+<author pid="295/9704">Riei Joaquim</author>
+<author pid="48/6034">Edna Barros</author>
+<title>Optimized Wireless Control and Telemetry Network for Mobile Soccer Robots.</title>
+<pages>177-188</pages>
+<year>2021</year>
+<booktitle>RoboCup</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-98682-7_15</ee>
+<crossref>conf/robocup/2021</crossref>
+<url>db/conf/robocup/robocup2021.html#CavalcantiJB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robocup/AraujoMFB21" mdate="2022-03-23">
+<author pid="316/8073">Victor Ara&#250;jo</author>
+<author pid="295/9716">Felipe B. Martins</author>
+<author pid="295/9707">Roberto Fernandes</author>
+<author pid="48/6034">Edna Barros</author>
+<title>A Telemetry-Based PI Tuning Strategy for Low-Level Control of an Omnidirectional Mobile Robot.</title>
+<pages>189-201</pages>
+<year>2021</year>
+<booktitle>RoboCup</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-98682-7_16</ee>
+<crossref>conf/robocup/2021</crossref>
+<url>db/conf/robocup/robocup2021.html#AraujoMFB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/visapp/CambuimB21" mdate="2021-03-02">
+<author pid="123/2600">Lucas F. S. Cambuim</author>
+<author pid="48/6034">Edna Barros</author>
+<title>Supporting Detection of Near and Far Pedestrians in a Collision Prediction System.</title>
+<pages>669-676</pages>
+<year>2021</year>
+<booktitle>VISIGRAPP (4: VISAPP)</booktitle>
+<ee>https://doi.org/10.5220/0010253706690676</ee>
+<crossref>conf/visapp/2021-1</crossref>
+<url>db/conf/visapp/visapp2021-1.html#CambuimB21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2106-12895" mdate="2021-12-03">
+<author pid="295/9716">Felipe B. Martins</author>
+<author pid="274/0872">Mateus G. Machado</author>
+<author pid="93/6335">Hansenclever F. Bassani</author>
+<author pid="222/3933">Pedro H. M. Braga</author>
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
+<title>rSoccer: A Framework for Studying Reinforcement Learning in Small and Very Small Size Robot Soccer.</title>
+<year>2021</year>
+<volume>abs/2106.12895</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2106.12895</ee>
+<url>db/journals/corr/corr2106.html#abs-2106-12895</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2106-14597" mdate="2021-06-30">
+<author pid="295/9707">Roberto Fernandes</author>
+<author pid="261/9334">Walber M. Rodrigues</author>
+<author pid="48/6034">Edna Barros</author>
+<title>Dataset and Benchmarking of Real-Time Embedded Object Detection for RoboCup SSL.</title>
+<year>2021</year>
+<volume>abs/2106.14597</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2106.14597</ee>
+<url>db/journals/corr/corr2106.html#abs-2106-14597</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2106-14617" mdate="2021-06-30">
+<author pid="295/9940">Lucas Cavalcanti</author>
+<author pid="295/9704">Riei Joaquim</author>
+<author pid="48/6034">Edna Barros</author>
+<title>Optimized Wireless Control and Telemetry Network for Mobile Soccer Robots.</title>
+<year>2021</year>
+<volume>abs/2106.14617</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2106.14617</ee>
+<url>db/journals/corr/corr2106.html#abs-2106-14617</url>
+</article>
+</r>
+<r><article key="journals/dafes/IzidioFMB20" mdate="2025-01-19">
+<author orcid="0000-0002-4501-9501" pid="239/6791">Diogo M. F. Izidio</author>
+<author pid="49/10956">Antonyus P. A. Ferreira</author>
+<author pid="228/1830">Heitor R. Medeiros</author>
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
+<title>An embedded automatic license plate recognition system using deep learning.</title>
+<pages>23-43</pages>
+<year>2020</year>
+<volume>24</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10617-019-09230-5</ee>
+<ee>https://www.wikidata.org/entity/Q126808517</ee>
+<url>db/journals/dafes/dafes24.html#IzidioFMB20</url>
+</article>
+</r>
+<r><article key="journals/jrtip/CambuimOBF20" mdate="2020-09-02">
+<author pid="123/2600">Lucas F. S. Cambuim</author>
+<author pid="171/6264">Luiz A. Oliveira</author>
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
+<author pid="49/10956">Antonyus P. A. Ferreira</author>
+<title>An FPGA-based real-time occlusion robust stereo vision system using semi-global matching.</title>
+<pages>1447-1468</pages>
+<year>2020</year>
+<volume>17</volume>
+<journal>J. Real Time Image Process.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s11554-019-00902-w</ee>
+<url>db/journals/jrtip/jrtip17.html#CambuimOBF20</url>
+</article>
+</r>
+<r><inproceedings key="conf/larc/PenaMBSMRBBB20" mdate="2021-12-03">
+<author pid="279/4164">Carlos H. C. Pena</author>
+<author pid="274/0872">Mateus G. Machado</author>
+<author pid="279/4143">Mariana S. Barros</author>
+<author pid="279/4251">Jos&#233; D. P. Silva</author>
+<author pid="279/4216">Lucas D. Maciel</author>
+<author pid="98/5344">Tsang Ing Ren</author>
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
+<author pid="222/3933">Pedro H. M. Braga</author>
+<author pid="93/6335">Hansenclever F. Bassani</author>
+<title>An Analysis of Reinforcement Learning Applied to Coach Task in IEEE Very Small Size Soccer.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE51543.2020.9307069</ee>
+<crossref>conf/larc/2020</crossref>
+<url>db/conf/larc/lars2020.html#PenaMBSMRBBB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/PereiraSB20" mdate="2021-12-03">
+<author pid="283/9585">Felipe N. A. Pereira</author>
+<author pid="284/0044">Mateus F. B. Soares</author>
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
+<title>A Data Analysis Graphical user Interface for RoboCup 2D Soccer Simulation League.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE51543.2020.9307104</ee>
+<crossref>conf/larc/2020</crossref>
+<url>db/conf/larc/lars2020.html#PereiraSB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/newcas/CambuimJB20" mdate="2020-08-12">
+<author pid="123/2600">Lucas F. S. Cambuim</author>
+<author pid="272/2510">Severino J. B. J&#250;nior</author>
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
+<title>A Strategy to Support Streaming Communication using the Intel HARPv2 Platform: A Case Study in Stereo Vision Application.</title>
+<pages>250-253</pages>
+<year>2020</year>
+<booktitle>NEWCAS</booktitle>
+<ee>https://doi.org/10.1109/NEWCAS49341.2020.9159771</ee>
+<crossref>conf/newcas/2020</crossref>
+<url>db/conf/newcas/newcas2020.html#CambuimJB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/CardosoBBAN20" mdate="2021-12-03">
+<author pid="279/9145">Victor G. Cardoso</author>
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
+<author pid="279/9506">Jos&#233; A. Barbosa</author>
+<author pid="279/9078">Antonio D. Antonino</author>
+<author pid="279/9602">Abra&#227;o V. Nova</author>
+<title>An Efficient Method for Porosity Properties Extraction of Carbonate Rocks.</title>
+<pages>188-194</pages>
+<year>2020</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI51738.2020.00033</ee>
+<crossref>conf/sibgrapi/2020</crossref>
+<url>db/conf/sibgrapi/sibgrapi2020.html#CardosoBBAN20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-11785" mdate="2021-12-03">
+<author pid="279/4164">Carlos H. C. Pena</author>
+<author pid="274/0872">Mateus G. Machado</author>
+<author pid="279/4143">Mariana S. Barros</author>
+<author pid="279/4251">Jos&#233; D. P. Silva</author>
+<author pid="279/4216">Lucas D. Maciel</author>
+<author pid="98/5344">Tsang Ing Ren</author>
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
+<author pid="222/3933">Pedro H. M. Braga</author>
+<author pid="93/6335">Hansenclever F. Bassani</author>
+<title>An analysis of Reinforcement Learning applied to Coach task in IEEE Very Small Size Soccer.</title>
+<year>2020</year>
+<volume>abs/2011.11785</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.11785</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-11785</url>
+</article>
+</r>
+<r><inproceedings key="conf/gecco/MedeirosIFB19" mdate="2019-07-11">
+<author pid="228/1830">Heitor R. Medeiros</author>
+<author pid="239/6791">Diogo M. F. Izidio</author>
+<author pid="49/10956">Antonyus P. do A. Ferreira</author>
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
+<title>Latin hypercube initialization strategy for design space exploration of deep neural network architectures.</title>
+<pages>295-296</pages>
+<year>2019</year>
+<booktitle>GECCO (Companion)</booktitle>
+<ee>https://doi.org/10.1145/3319619.3321922</ee>
+<crossref>conf/gecco/2019c</crossref>
+<url>db/conf/gecco/gecco2019c.html#MedeirosIFB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/IzidioFB19" mdate="2019-07-04">
+<author pid="239/6791">Diogo M. F. Izidio</author>
+<author pid="49/10956">Antonyus P. do A. Ferreira</author>
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
+<title>Towards better generalization in WLAN positioning systems with genetic algorithms and neural networks.</title>
+<pages>1206-1213</pages>
+<year>2019</year>
+<booktitle>GECCO</booktitle>
+<ee>https://doi.org/10.1145/3321707.3321712</ee>
+<crossref>conf/gecco/2019</crossref>
+<url>db/conf/gecco/gecco2019.html#IzidioFB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/RosaCB19" mdate="2019-10-02">
+<author pid="65/8393">Rog&#233;rio S. Rosa</author>
+<author pid="123/2600">Lucas F. S. Cambuim</author>
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
+<title>An ensemble strategy for Haplotype Inference based on the internal variability of algorithms.</title>
+<pages>1-8</pages>
+<year>2019</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2019.8851693</ee>
+<crossref>conf/ijcnn/2019</crossref>
+<url>db/conf/ijcnn/ijcnn2019.html#RosaCB19</url>
+</inproceedings>
+</r>
+<r><article key="journals/iet-cps/MacieiraB18" mdate="2019-05-22">
+<author pid="160/4649">Rafael Melo Macieira</author>
+<author pid="48/6034">Edna Barros</author>
+<title>Towards a greater reliability of driver/device communication around the system life cycle through a contract-based protocol specification.</title>
+<pages>11-23</pages>
+<year>2018</year>
+<volume>3</volume>
+<journal>IET Cyper-Phys. Syst.: Theory &#38; Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1049/iet-cps.2017.0001</ee>
+<url>db/journals/iet-cps/iet-cps3.html#MacieiraB18</url>
+</article>
+</r>
+<r><inproceedings key="conf/latw/MacieiraB18" mdate="2018-04-27">
+<author pid="160/4649">Rafael Melo Macieira</author>
+<author pid="48/6034">Edna Barros</author>
+<title>TDevCGen: A synthesis toolset of HW/SW communication protocol monitors from high-level specifications.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>LATS</booktitle>
+<ee>https://doi.org/10.1109/LATW.2018.8349686</ee>
+<crossref>conf/latw/2018</crossref>
+<url>db/conf/latw/lats2018.html#MacieiraB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/IshimaruFOMB18" mdate="2022-10-02">
+<author pid="230/1138">Pedro J. A. Ishimaru</author>
+<author pid="49/10956">Antonyus P. A. Ferreira</author>
+<author pid="230/1151">Vanessa O. Ogg</author>
+<author orcid="0000-0003-2985-2293" pid="121/4431">Cecil Accetti R. de A. Melo</author>
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
+<title>An FPGA-Based RFID Baseband Processor Using a RISC-V Platform.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1109/SBCCI.2018.8533242</ee>
+<crossref>conf/sbcci/2018</crossref>
+<url>db/conf/sbcci/sbcci2018.html#IshimaruFOMB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/IzidioFB18" mdate="2019-04-29">
+<author pid="239/6791">Diogo M. F. Izidio</author>
+<author pid="49/10956">Antonyus P. A. Ferreira</author>
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
+<title>An Embedded Automatic License Plate Recognition System Using Deep Learning.</title>
+<pages>38-45</pages>
+<year>2018</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2018.00015</ee>
+<crossref>conf/sbesc/2018</crossref>
+<url>db/conf/sbesc/sbesc2018.html#IzidioFB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi/JuniorB18" mdate="2019-02-26">
+<author pid="171/6264">Luiz Antonio de Oliveira Junior</author>
+<author pid="48/6034">Edna Barros</author>
+<title>An FPGA-based Hardware Accelerator for Scene Text Character Recognition.</title>
+<pages>125-130</pages>
+<year>2018</year>
+<booktitle>VLSI-SoC</booktitle>
+<ee>https://doi.org/10.1109/VLSI-SoC.2018.8644776</ee>
+<crossref>conf/vlsi/2018soc</crossref>
+<url>db/conf/vlsi/vlsisoc2018.html#JuniorB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/CambuimBB17" mdate="2025-01-19">
+<author pid="123/2600">Lucas F. S. Cambuim</author>
+<author pid="91/5193">Jo&#227;o Paulo Fernandes Barbosa</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Natividade da Silva Barros</author>
+<title>Hardware module for low-resource and real-time stereo vision engine using semi-global matching approach.</title>
+<pages>53-58</pages>
+<year>2017</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1145/3109984.3109992</ee>
+<ee>https://www.wikidata.org/entity/Q130881173</ee>
+<crossref>conf/sbcci/2017</crossref>
+<url>db/conf/sbcci/sbcci2017.html#CambuimBB17</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsa/CambuimMNBLZ16" mdate="2020-02-24">
+<author pid="123/2600">Lucas F. S. Cambuim</author>
+<author pid="160/4649">Rafael M. Macieira</author>
+<author orcid="0000-0003-4264-1124" pid="174/3576">Fernando M. de Paula Neto</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<author pid="00/6226">Teresa Bernarda Ludermir</author>
+<author orcid="0000-0001-6421-9747" pid="75/5629">Cleber Zanchettin</author>
+<title>An efficient static gesture recognizer embedded system based on ELM pattern recognition algorithm.</title>
+<pages>1-16</pages>
+<year>2016</year>
+<volume>68</volume>
+<journal>J. Syst. Archit.</journal>
+<ee>https://doi.org/10.1016/j.sysarc.2016.06.002</ee>
+<ee>https://www.wikidata.org/entity/Q61771297</ee>
+<url>db/journals/jsa/jsa68.html#CambuimMNBLZ16</url>
+</article>
+</r>
+<r><inproceedings key="conf/asap/SantosBA16" mdate="2024-07-18">
+<author pid="231/4396">Marcus Vinicius Duarte dos Santos</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<author pid="16/957">Andre Aziz</author>
+<title>A MPSoC cache design space exploration approach based on ABC algorithm to optimize energy consumption and performance.</title>
+<pages>153-158</pages>
+<year>2016</year>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.2016.7760785</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ASAP.2016.7760785</ee>
+<crossref>conf/asap/2016</crossref>
+<url>db/conf/asap/asap2016.html#SantosBA16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asap/FerreiraSAFBLM16" mdate="2024-03-04">
+<author pid="49/10956">Antonyus P. A. Ferreira</author>
+<author pid="188/8996">Joao G. M. Silva</author>
+<author pid="188/9058">Jefferson R. L. Anjos</author>
+<author pid="188/9044">Luiz H. A. Figueiroa</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Natividade da Silva Barros</author>
+<author pid="63/3816">Manoel Eus&#233;bio de Lima</author>
+<author pid="04/1611">Victor Wanderley Costa de Medeiros</author>
+<title>A hardware accelerator for the alignment of multiple DNA sequences in forensic identification.</title>
+<pages>186-190</pages>
+<year>2016</year>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.2016.7760791</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ASAP.2016.7760791</ee>
+<crossref>conf/asap/2016</crossref>
+<url>db/conf/asap/asap2016.html#FerreiraSAFBLM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asap/CirenoAB16" mdate="2023-03-24">
+<author pid="153/2073">Maria Cireno</author>
+<author pid="16/957">Andre Aziz</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<title>Temporized data prefetching algorithm for NoC-based multiprocessor systems.</title>
+<pages>235-236</pages>
+<year>2016</year>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.2016.7760805</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ASAP.2016.7760805</ee>
+<crossref>conf/asap/2016</crossref>
+<url>db/conf/asap/asap2016.html#CirenoAB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asap/MeloB16" mdate="2023-03-24">
+<author orcid="0000-0003-2985-2293" pid="121/4431">Cecil Accetti R. de A. Melo</author>
+<author pid="48/6034">Edna Barros</author>
+<title>Oolong: A Baseband processor extension to the RISC-V ISA.</title>
+<pages>241-242</pages>
+<year>2016</year>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.2016.7760808</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ASAP.2016.7760808</ee>
+<crossref>conf/asap/2016</crossref>
+<url>db/conf/asap/asap2016.html#MeloB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecrts/LimaDB16" mdate="2023-03-23">
+<author pid="07/2481">George Lima 0001</author>
+<author pid="185/1703">Dario Dias</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<title>Extreme Value Theory for Estimating Task Execution Time Bounds: A Careful Look.</title>
+<pages>200-211</pages>
+<year>2016</year>
+<booktitle>ECRTS</booktitle>
+<ee>https://doi.org/10.1109/ECRTS.2016.20</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ECRTS.2016.20</ee>
+<crossref>conf/ecrts/2016</crossref>
+<url>db/conf/ecrts/ecrts2016.html#LimaDB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/AlbuquerqueFSBC16" mdate="2018-11-02">
+<author pid="173/2096">Erika S. Albuquerque</author>
+<author pid="49/10956">Antonyus Pyetro do Amaral Ferreira</author>
+<author pid="188/8996">Joao G. M. Silva</author>
+<author pid="91/5193">Jo&#227;o Paulo Fernandes Barbosa</author>
+<author pid="188/9022">Renato L. M. Carlos</author>
+<author pid="173/2068">Djeefther S. Albuquerque</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Natividade da Silva Barros</author>
+<title>An FPGA-based accelerator for multiple real-time template matching.</title>
+<pages>1-6</pages>
+<year>2016</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1109/SBCCI.2016.7724071</ee>
+<crossref>conf/sbcci/2016</crossref>
+<url>db/conf/sbcci/sbcci2016.html#AlbuquerqueFSBC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/FerreiraSAFBLM16" mdate="2024-03-04">
+<author pid="49/10956">Antonyus Pyetro do Amaral Ferreira</author>
+<author pid="188/8996">Joao G. M. Silva</author>
+<author pid="188/9058">Jefferson R. L. Anjos</author>
+<author pid="188/9044">Luiz H. A. Figueiroa</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Natividade da Silva Barros</author>
+<author pid="63/3816">Manoel Eus&#233;bio de Lima</author>
+<author pid="04/1611">Victor Wanderley Costa de Medeiros</author>
+<title>A hardware accelerator for the alignment of multiple DNA sequences.</title>
+<pages>1-6</pages>
+<year>2016</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1109/SBCCI.2016.7724069</ee>
+<crossref>conf/sbcci/2016</crossref>
+<url>db/conf/sbcci/sbcci2016.html#FerreiraSAFBLM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/DiasLB16" mdate="2023-03-23">
+<author pid="185/1703">Dario Dias</author>
+<author pid="07/2481">George Lima 0001</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<title>A Cache Design Assessment Approach for Embedded Real-Time Systems Based on Execution Time Measurement.</title>
+<pages>168-173</pages>
+<year>2016</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2016.033</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2016.033</ee>
+<crossref>conf/sbesc/2016</crossref>
+<url>db/conf/sbesc/sbesc2016.html#DiasLB16</url>
+</inproceedings>
+</r>
+<r><article key="journals/jsa/BarbosaFRARAB15" mdate="2020-02-24">
+<author pid="91/5193">Jo&#227;o Paulo Fernandes Barbosa</author>
+<author orcid="0000-0002-1401-0643" pid="49/10956">Antonyus Pyetro do Amaral Ferreira</author>
+<author pid="06/10958">Rodrigo Camarotti Ferreira da Rocha</author>
+<author pid="173/2096">Erika S. Albuquerque</author>
+<author pid="123/2528">Josivan R. Reis</author>
+<author pid="173/2068">Djeefther S. Albuquerque</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Natividade da Silva Barros</author>
+<title>A high performance hardware accelerator for dynamic texture segmentation.</title>
+<pages>639-645</pages>
+<year>2015</year>
+<volume>61</volume>
+<journal>J. Syst. Archit.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/j.sysarc.2015.09.005</ee>
+<url>db/journals/jsa/jsa61.html#BarbosaFRARAB15</url>
+</article>
+</r>
+<r><inproceedings key="conf/smc/NetoCMLZB15" mdate="2019-06-02">
+<author orcid="0000-0003-4264-1124" pid="174/3576">Fernando M. de Paula Neto</author>
+<author pid="123/2600">Lucas F. S. Cambuim</author>
+<author pid="160/4649">Rafael M. Macieira</author>
+<author pid="00/6226">Teresa Bernarda Ludermir</author>
+<author orcid="0000-0001-6421-9747" pid="75/5629">Cleber Zanchettin</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Natividade da Silva Barros</author>
+<title>Extreme Learning Machine for Real Time Recognition of Brazilian Sign Language.</title>
+<pages>1464-1469</pages>
+<year>2015</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/SMC.2015.259</ee>
+<ee>https://www.wikidata.org/entity/Q61771326</ee>
+<crossref>conf/smc/2015</crossref>
+<url>db/conf/smc/smc2015.html#NetoCMLZB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isqed/MadeiraBA14" mdate="2018-11-02">
+<author pid="144/2475">Rafael M. Madeira</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<author pid="144/2544">Camila Ascendina</author>
+<title>Towards more reliable embedded systems through a mechanism for monitoring driver devices communication.</title>
+<pages>420-427</pages>
+<year>2014</year>
+<booktitle>ISQED</booktitle>
+<ee>https://doi.org/10.1109/ISQED.2014.6783355</ee>
+<crossref>conf/isqed/2014</crossref>
+<url>db/conf/isqed/isqed2014.html#MadeiraBA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mwscas/FariasBA14" mdate="2020-10-25">
+<author orcid="0000-0001-8434-9135" pid="159/8004">Max Farias</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<author pid="75/11283">Andr&#233; Ara&#250;jo</author>
+<title>An approach for multi-task and multi-application mapping onto NoC-based MPSoC.</title>
+<pages>205-208</pages>
+<year>2014</year>
+<booktitle>MWSCAS</booktitle>
+<ee>https://doi.org/10.1109/MWSCAS.2014.6908388</ee>
+<crossref>conf/mwscas/2014</crossref>
+<url>db/conf/mwscas/mwscas2014.html#FariasBA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/AzizCBP14" mdate="2021-06-01">
+<author pid="16/957">Andre Aziz</author>
+<author pid="153/2073">Maria Cireno</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<author pid="217/1793">Bruno O. Prado</author>
+<title>Balanced Prefetching Aggressiveness Controller for NoC-based Multiprocessor.</title>
+<pages>1:1-1:7</pages>
+<year>2014</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1145/2660540.2660541</ee>
+<crossref>conf/sbcci/2014</crossref>
+<url>db/conf/sbcci/sbcci2014.html#AzizCBP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/MacieiraCSORB14" mdate="2023-03-23">
+<author pid="160/4649">Rafael M. Macieira</author>
+<author pid="123/2600">Lucas F. S. Cambuim</author>
+<author pid="171/6193">Luiz L. Souza</author>
+<author pid="171/6264">Luiz A. Oliveira</author>
+<author pid="171/6191">Marcus F. R. Rios</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<title>The Design of an Image Converting and Thresholding Hardware Accelerator.</title>
+<pages>103-108</pages>
+<year>2014</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2014.24</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2014.24</ee>
+<crossref>conf/sbesc/2014</crossref>
+<url>db/conf/sbesc/sbesc2014.html#MacieiraCSORB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/FariasBSASM13" mdate="2024-04-11">
+<author orcid="0000-0001-8434-9135" pid="159/8004">Max Farias</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<author pid="90/4151">Abel G. Silva-Filho</author>
+<author pid="75/11283">Andr&#233; Ara&#250;jo</author>
+<author pid="11/4638">Andr&#233; Silva</author>
+<author pid="352/5356">Jo&#227;o G. Melo</author>
+<title>An Ant Colony metaheuristic for energy aware application mapping on NoCs.</title>
+<pages>365-368</pages>
+<year>2013</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2013.6815430</ee>
+<crossref>conf/icecsys/2013</crossref>
+<url>db/conf/icecsys/icecsys2013.html#FariasBSASM13</url>
+</inproceedings>
+</r>
+<r><article key="journals/jece/SantosCSAALB12" mdate="2024-03-04">
+<author pid="65/7443">Rodolfo P. dos Santos</author>
+<author orcid="0000-0001-7118-1740" pid="05/7443">Gabriela S. Clemente</author>
+<author orcid="0000-0002-7876-2756" pid="90/4151">Abel Guilhermino Silva-Filho</author>
+<author pid="03/3991">Cristiano C. de Ara&#250;jo</author>
+<author orcid="0000-0001-6060-0591" pid="18/787">Adriano Sarmento</author>
+<author pid="63/3816">Manoel Eus&#233;bio de Lima</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<title>An Optimization Mechanism Intended for Static Power Reduction Using Dual-VthTechnique.</title>
+<year>2012</year>
+<volume>2012</volume>
+<journal>J. Electr. Comput. Eng.</journal>
+<ee type="oa">https://doi.org/10.1155/2012/561580</ee>
+<ee>https://www.wikidata.org/entity/Q58908598</ee>
+<url>db/journals/jece/jece2012.html#SantosCSAALB12</url>
+<pages>561580:1-561580:12</pages>
+</article>
+</r>
+<r><article key="journals/sigops/FrohlichBLPSB12" mdate="2022-06-01">
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="24/3796">Leandro Buss Becker</author>
+<author pid="07/2481">George Lima 0001</author>
+<author pid="17/11062">Stefan Petters</author>
+<author pid="03/6463">Dilma M. Da Silva</author>
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
+<title>Brazilian symposium on computing system engineering.</title>
+<pages>52</pages>
+<year>2012</year>
+<volume>46</volume>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2146382.2146393</ee>
+<url>db/journals/sigops/sigops46.html#FrohlichBLPSB12</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbcci/CardosoBPA12" mdate="2021-06-01">
+<author pid="30/9791">Thiago N. C. Cardoso</author>
+<author pid="48/6034">Edna Barros</author>
+<author pid="217/1793">Bruno O. Prado</author>
+<author pid="16/957">Andre Aziz</author>
+<title>Communication software synthesis from UML-ESL models.</title>
+<pages>1-6</pages>
+<year>2012</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1109/SBCCI.2012.6344449</ee>
+<crossref>conf/sbcci/2012</crossref>
+<url>db/conf/sbcci/sbcci2012.html#CardosoBPA12</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijrc/Silva-FilhoCAAGBL11" mdate="2025-03-03">
+<author pid="90/4151">Abel Guilhermino Silva-Filho</author>
+<author orcid="0000-0001-5582-8436" pid="75/6833">Filipe R. Cordeiro</author>
+<author pid="03/3991">Cristiano C. de Ara&#250;jo</author>
+<author orcid="0000-0001-6060-0591" pid="18/787">Adriano Sarmento</author>
+<author orcid="0009-0000-6048-4893" pid="77/10532">Millena Gomes</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<author pid="63/3816">Manoel Eus&#233;bio de Lima</author>
+<title>An ESL Approach for Energy Consumption Analysis of Cache Memories in SoC Platforms.</title>
+<year>2011</year>
+<volume>2011</volume>
+<journal>Int. J. Reconfigurable Comput.</journal>
+<ee type="oa">https://doi.org/10.1155/2011/219497</ee>
+<ee>https://www.wikidata.org/entity/Q58688439</ee>
+<url>db/journals/ijrc/ijrc2011.html#Silva-FilhoCAAGBL11</url>
+<pages>219497:1-219497:12</pages>
+</article>
+</r>
+<r><article key="journals/sensors/SouzaNSFLBML11" mdate="2024-03-04">
+<author pid="188/8915">Elaine Souza</author>
+<author pid="132/1715">Gustavo Nascimento</author>
+<author pid="192/8463">Nataly Santana</author>
+<author pid="188/8882">Danielly Ferreira</author>
+<author pid="63/3816">Manoel Eus&#233;bio de Lima</author>
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
+<author pid="188/8877">Danyelly Martins</author>
+<author pid="188/8760">Jos&#233; Lima-Filho</author>
+<title>Label-Free Electrochemical Detection of the Specific Oligonucleotide Sequence of Dengue Virus Type 1 on Pencil Graphite Electrodes.</title>
+<pages>5616-5629</pages>
+<year>2011</year>
+<volume>11</volume>
+<journal>Sensors</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.3390/s110605616</ee>
+<ee>https://www.wikidata.org/entity/Q35594558</ee>
+<url>db/journals/sensors/sensors11.html#SouzaNSFLBML11</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbcci/PradoBFA11" mdate="2021-06-01">
+<author pid="217/1793">Bruno O. Prado</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<author pid="121/4427">Thiago Figueiredo</author>
+<author pid="16/957">Andre Aziz</author>
+<title>HdSC: a fast and preemptive modeling for on host HdS development.</title>
+<pages>179-184</pages>
+<year>2011</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1145/2020876.2020917</ee>
+<crossref>conf/sbcci/2011</crossref>
+<url>db/conf/sbcci/sbcci2011.html#PradoBFA11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/MacieiraLB11" mdate="2023-03-23">
+<author pid="160/4649">Rafael M. Macieira</author>
+<author pid="45/11335">Edson B. Lisboa</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<title>Device Driver Generation and Checking Approach.</title>
+<pages>72-77</pages>
+<year>2011</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2011.24</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2011.24</ee>
+<crossref>conf/sbesc/2011</crossref>
+<url>db/conf/sbesc/sbesc2011.html#MacieiraLB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/FerreiraB10" mdate="2019-10-19">
+<author orcid="0000-0002-1401-0643" pid="49/10956">Antonyus Pyetro do Amaral Ferreira</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Natividade da Silva Barros</author>
+<title>A high performance full pipelined arquitecture of MLP Neural Networks in FPGA.</title>
+<pages>742-745</pages>
+<year>2010</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2010.5724619</ee>
+<crossref>conf/icecsys/2010</crossref>
+<url>db/conf/icecsys/icecsys2010.html#FerreiraB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/AlvesB09" mdate="2018-11-06">
+<author pid="23/3576">Diogo Jos&#233; Costa Alves</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<title>A logic built-in self-test architecture that reuses manufacturing compressed scan test patterns.</title>
+<year>2009</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1145/1601896.1601923</ee>
+<crossref>conf/sbcci/2009</crossref>
+<url>db/conf/sbcci/sbcci2009.html#AlvesB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scopes/LisboaSCLB09" mdate="2015-03-23">
+<author pid="45/11335">Edson B. Lisboa</author>
+<author pid="69/2301">Luciano Silva</author>
+<author pid="47/11335">Igino Chaves</author>
+<author pid="63/10089">Thiago Lima</author>
+<author pid="48/6034">Edna Barros</author>
+<title>A design flow based on a domain specific language to concurrent development of device drivers and device controller simulation models.</title>
+<pages>53-60</pages>
+<year>2009</year>
+<booktitle>SCOPES</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1543830</ee>
+<crossref>conf/scopes/2009</crossref>
+<url>db/conf/scopes/scopes2009.html#LisboaSCLB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/VianaGBV08" mdate="2018-11-06">
+<author pid="42/291">Pablo Viana</author>
+<author pid="47/5909">Ann Gordon-Ross</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<author pid="v/FrankVahid">Frank Vahid</author>
+<title>A table-based method for single-pass cache optimization.</title>
+<pages>71-76</pages>
+<year>2008</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/1366110.1366129</ee>
+<crossref>conf/glvlsi/2008</crossref>
+<url>db/conf/glvlsi/glvlsi2008.html#VianaGBV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/codes/AlbertiniRAABA07" mdate="2022-06-10">
+<author orcid="0000-0003-3738-6448" pid="177/2509">Bruno C. Albertini</author>
+<author pid="79/2208">Sandro Rigo</author>
+<author pid="a/GuidoAraujo">Guido Araujo</author>
+<author pid="03/3991">Cristiano C. de Ara&#250;jo</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<author pid="94/1251">Willians Azevedo</author>
+<title>A computational reflection mechanism to support platform debugging in SystemC.</title>
+<pages>81-86</pages>
+<year>2007</year>
+<booktitle>CODES+ISSS</booktitle>
+<ee>https://doi.org/10.1145/1289816.1289838</ee>
+<crossref>conf/codes/2007</crossref>
+<url>db/conf/codes/codes2007.html#AlbertiniRAABA07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/Gordon-RossVVNB07" mdate="2023-03-24">
+<author pid="47/5909">Ann Gordon-Ross</author>
+<author pid="42/291">Pablo Viana</author>
+<author pid="v/FrankVahid">Frank Vahid</author>
+<author orcid="0000-0001-6761-6801" pid="n/WalidANajjar">Walid A. Najjar</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<title>A one-shot configurable-cache tuner for improved energy and performance.</title>
+<pages>755-760</pages>
+<year>2007</year>
+<crossref>conf/date/2007</crossref>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2007.364686</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DATE.2007.364686</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1266528</ee>
+<url>db/conf/date/date2007.html#Gordon-RossVVNB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/SilvaEBV07" mdate="2024-02-02">
+<author pid="11/4638">Andr&#233; Silva</author>
+<author pid="128/2854">Guilherme &#193;lvaro R. M. Esmeraldo</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<author pid="42/291">Pablo Viana</author>
+<title>Cache-Analyzer: Design Space Evaluation of Configurable-Caches in a Single-Pass.</title>
+<pages>3-9</pages>
+<year>2007</year>
+<crossref>conf/rsp/2007</crossref>
+<booktitle>IEEE International Workshop on Rapid System Prototyping</booktitle>
+<ee>https://doi.org/10.1109/RSP.2007.15</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RSP.2007.15</ee>
+<url>db/conf/rsp/rsp2007.html#SilvaEBV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/SeixasBSNKSBL07" mdate="2024-03-04">
+<author pid="92/5508">Jordana L. Seixas</author>
+<author pid="17/2362">Edson Barbosa</author>
+<author pid="82/979">Stelita M. da Silva</author>
+<author pid="05/72">Paulo S&#233;rgio B. do Nascimento</author>
+<author pid="19/1487">Vin&#237;cius Kursancew</author>
+<author pid="44/1300">Remy Eskinazi Sant'Anna</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<author pid="63/3816">Manoel Eus&#233;bio de Lima</author>
+<title>Aquarius: a dynamically reconfigurable computing platform.</title>
+<pages>171-176</pages>
+<year>2007</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1145/1284480.1284530</ee>
+<crossref>conf/sbcci/2007</crossref>
+<url>db/conf/sbcci/sbcci2007.html#SeixasBSNKSBL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/VianaGKBV06" mdate="2018-11-06">
+<author pid="42/291">Pablo Viana</author>
+<author pid="47/5909">Ann Gordon-Ross</author>
+<author pid="k/EamonnJKeogh">Eamonn J. Keogh</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<author pid="v/FrankVahid">Frank Vahid</author>
+<title>Configurable cache subsetting for fast cache tuning.</title>
+<pages>695-700</pages>
+<year>2006</year>
+<crossref>conf/dac/2006</crossref>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/1146909.1147085</ee>
+<url>db/conf/dac/dac2006.html#VianaGKBV06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/FilhoVBL06" mdate="2024-03-04">
+<author pid="90/4151">Abel Guilhermino Silva-Filho</author>
+<author pid="42/291">Pablo Viana</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<author pid="63/3816">Manoel Eus&#233;bio de Lima</author>
+<title>Tuning Mechanism for Two-Level Cache Hierarchy Intended for Instruction Caches and Low Energy Consumption.</title>
+<pages>125-132</pages>
+<year>2006</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2006.30</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2006.30</ee>
+<crossref>conf/sbac-pad/2006</crossref>
+<url>db/conf/sbac-pad/sbac-pad2006.html#FilhoVBL06</url>
+</inproceedings>
+</r>
+<r><article key="journals/dafes/AraujoBMASPL05" mdate="2024-03-04">
+<author pid="a/GuidoAraujo">Guido Araujo</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<author pid="60/6732">Elmar U. K. Melcher</author>
+<author orcid="0000-0002-8803-0401" pid="73/1601">Rodolfo Azevedo</author>
+<author pid="30/5488">Karina R. G. da Silva</author>
+<author pid="217/1793">Bruno O. Prado</author>
+<author pid="63/3816">Manoel Eus&#233;bio de Lima</author>
+<title>A SystemC-only design methodology and the CINE-IP multimedia platform.</title>
+<pages>181-202</pages>
+<year>2005</year>
+<volume>10</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>2-3</number>
+<ee type="oa">https://doi.org/10.1007/s10617-006-9585-8</ee>
+<url>db/journals/dafes/dafes10.html#AraujoBMASPL05</url>
+</article>
+</r>
+<r><article key="journals/dafes/AraujoGBRAA05" mdate="2025-03-03">
+<author pid="03/3991">Cristiano C. de Ara&#250;jo</author>
+<author orcid="0009-0000-6048-4893" pid="77/10532">Millena Gomes</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<author pid="79/2208">Sandro Rigo</author>
+<author orcid="0000-0002-8803-0401" pid="73/1601">Rodolfo Azevedo</author>
+<author pid="a/GuidoAraujo">Guido Araujo</author>
+<title>Platform designer: An approach for modeling multiprocessor platforms based on SystemC.</title>
+<pages>253-283</pages>
+<year>2005</year>
+<volume>10</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10617-006-0654-9</ee>
+<url>db/journals/dafes/dafes10.html#AraujoGBRAA05</url>
+</article>
+</r>
+<r><article key="journals/ijpp/AzevedoRBAAB05" mdate="2022-06-10">
+<author orcid="0000-0002-8803-0401" pid="73/1601">Rodolfo Azevedo</author>
+<author pid="79/2208">Sandro Rigo</author>
+<author pid="34/2296">Marcus Bartholomeu</author>
+<author pid="a/GuidoAraujo">Guido Araujo</author>
+<author pid="03/3991">Cristiano C. de Ara&#250;jo</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<title>The ArchC Architecture Description Language and Tools.</title>
+<pages>453-484</pages>
+<year>2005</year>
+<volume>33</volume>
+<journal>Int. J. Parallel Program.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s10766-005-7301-0</ee>
+<url>db/journals/ijpp/ijpp33.html#AzevedoRBAAB05</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsd/CruzB05" mdate="2023-03-23">
+<author pid="27/1135">Danielly Cruz</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<title>Vital Signs Remote Management System for PDAs.</title>
+<pages>170-175</pages>
+<year>2005</year>
+<crossref>conf/dsd/2005</crossref>
+<booktitle>DSD</booktitle>
+<ee>https://doi.org/10.1109/DSD.2005.76</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DSD.2005.76</ee>
+<url>db/conf/dsd/dsd2005.html#CruzB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/AraujoBAA05" mdate="2022-06-10">
+<author pid="03/3991">Cristiano C. de Ara&#250;jo</author>
+<author pid="48/6034">Edna Barros</author>
+<author pid="73/1601">Rodolfo Azevedo</author>
+<author pid="a/GuidoAraujo">Guido Araujo</author>
+<title>Processor Centric Specification and Modelling of MPSoCs.</title>
+<pages>303-315</pages>
+<year>2005</year>
+<booktitle>FDL</booktitle>
+<ee type="archive">http://www.ecsi-association.org/ecsi/main.asp?l1=library&#38;fn=def&#38;id=480</ee>
+<crossref>conf/fdl/2005</crossref>
+<url>db/conf/fdl/fdl2005.html#AraujoBAA05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/LimaSBLB05" mdate="2022-09-02">
+<author pid="289/6909">Mar&#237;lia Lima</author>
+<author pid="303/4012">Francielle Santos</author>
+<author pid="328/0582">Jo&#227;o Bione</author>
+<author pid="328/0858">Tiago Lins</author>
+<author pid="48/6034">Edna Barros</author>
+<title>IpPROCESS: a Development Process for Soft IP-Cord.</title>
+<pages>487-499</pages>
+<year>2005</year>
+<booktitle>FDL</booktitle>
+<ee type="archive">http://www.ecsi-association.org/ecsi/main.asp?l1=library&#38;fn=def&#38;id=502</ee>
+<crossref>conf/fdl/2005</crossref>
+<url>db/conf/fdl/fdl2005.html#LimaSBLB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mse/LimaAALSB05" mdate="2023-03-24">
+<author pid="289/6909">Mar&#237;lia Lima</author>
+<author pid="16/957">Andre Aziz</author>
+<author pid="23/3576">Diogo Jos&#233; Costa Alves</author>
+<author pid="42/2853">Patricia Lira</author>
+<author pid="09/5230">V&#237;tor Schwambach</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<title>ipPROCESS: Using a Process to Teach IP-Core Development.</title>
+<pages>27-28</pages>
+<year>2005</year>
+<crossref>conf/mse/2005</crossref>
+<booktitle>MSE</booktitle>
+<ee>https://doi.org/10.1109/MSE.2005.38</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MSE.2005.38</ee>
+<url>db/conf/mse/mse2005.html#LimaAALSB05</url>
+</inproceedings>
+</r>
+<r><article key="journals/fmsd/SilvaSB04" mdate="2024-06-12">
+<author pid="26/5446">Leila Silva</author>
+<author pid="s/AugustoSampaio">Augusto Sampaio 0001</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<title>A Constructive Approach to Hardware/Software Partitioning.</title>
+<pages>45-90</pages>
+<year>2004</year>
+<volume>24</volume>
+<journal>Formal Methods Syst. Des.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1023/B:FORM.0000004787.52329.98</ee>
+<url>db/journals/fmsd/fmsd24.html#SilvaSB04</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/VianaBRAA04" mdate="2023-03-24">
+<author pid="42/291">Pablo Viana</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<author pid="79/2208">Sandro Rigo</author>
+<author orcid="0000-0002-8803-0401" pid="73/1601">Rodolfo Azevedo</author>
+<author pid="a/GuidoAraujo">Guido Araujo</author>
+<title>Modeling and Simulating Memory Hierarchies in a Platform-Based Design Methodology.</title>
+<pages>734-735</pages>
+<year>2004</year>
+<crossref>conf/date/2004</crossref>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2004.1268953</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DATE.2004.1268953</ee>
+<ee>http://dl.acm.org/citation.cfm?id=969012</ee>
+<url>db/conf/date/date2004-1.html#VianaBRAA04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/MachadoMB04" mdate="2018-11-02">
+<author pid="55/1204">Albano Portela Machado</author>
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<title>A Petri net based method for functional and interconnect units estimation.</title>
+<pages>4983-4988</pages>
+<year>2004</year>
+<crossref>conf/smc/2004</crossref>
+<booktitle>SMC (5)</booktitle>
+<ee>https://doi.org/10.1109/ICSMC.2004.1401321</ee>
+<url>db/conf/smc/smc2004-5.html#MachadoMB04</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sbcci/2004" mdate="2022-06-03">
+<editor pid="48/6034">Edna Natividade da Silva Barros</editor>
+<editor pid="r/FlavioRechWagner">Fl&#225;vio Rech Wagner</editor>
+<editor pid="25/5214">Luigi Carro</editor>
+<editor pid="r/FranzJosefRammig">Franz-Josef Rammig</editor>
+<title>Proceedings of the 17th Annual Symposium on Integrated Circuits and Systems Design, SBCCI 2004, Pernambuco, Brazil, September 7-11, 2004</title>
+<booktitle>SBCCI</booktitle>
+<publisher>ACM</publisher>
+<year>2004</year>
+<ee>https://doi.org/10.1145/1016568</ee>
+<ee>https://www.computer.org/csdl/proceedings/sbcci/2004/12OmNBqdr6Z</ee>
+<url>db/conf/sbcci/sbcci2004.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/VianaBRAA03" mdate="2023-03-23">
+<author pid="42/291">Pablo Viana</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<author pid="79/2208">Sandro Rigo</author>
+<author orcid="0000-0002-8803-0401" pid="73/1601">Rodolfo Azevedo</author>
+<author pid="a/GuidoAraujo">Guido Araujo</author>
+<title>Exploring Memory Hierarchy with ArchC.</title>
+<pages>2-9</pages>
+<year>2003</year>
+<crossref>conf/sbac-pad/2003</crossref>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/CAHPC.2003.1250315</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CAHPC.2003.1250315</ee>
+<url>db/conf/sbac-pad/sbac-pad2003.html#VianaBRAA03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/AraujoB02" mdate="2022-06-10">
+<author pid="03/3991">Cristiano C. de Ara&#250;jo</author>
+<author pid="48/6034">Edna Barros</author>
+<title>Interface Generation for Concurrent Processes During Hardware/Software Co-synthesis.</title>
+<pages>109-114</pages>
+<year>2002</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://dl.acm.org/doi/10.5555/827246.827372</ee>
+<crossref>conf/sbcci/2002</crossref>
+<url>db/conf/sbcci/sbcci2002.html#AraujoB02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/VanspauwenBCV02" mdate="2022-06-10">
+<author pid="321/9233">Niels Vanspauwen</author>
+<author pid="48/6034">Edna Barros</author>
+<author pid="37/2399">S&#233;rgio Cavalcante</author>
+<author pid="09/7792">Carlos Valderrama</author>
+<title>On the Importance, Problems and Solutions of Pointer Synthesis.</title>
+<pages>317-322</pages>
+<year>2002</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://dl.acm.org/doi/10.5555/827246.827354</ee>
+<crossref>conf/sbcci/2002</crossref>
+<url>db/conf/sbcci/sbcci2002.html#VanspauwenBCV02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip10-5/AraujoB01" mdate="2022-06-10">
+<author pid="03/3991">Cristiano C. de Ara&#250;jo</author>
+<author pid="48/6034">Edna Barros</author>
+<title>Abstract Communication Model and Automatic Interface generation for IP integration in Hardware/Software Co-design.</title>
+<pages>145-156</pages>
+<year>2001</year>
+<crossref>conf/ifip10-5/2001</crossref>
+<booktitle>VLSI-SOC</booktitle>
+<url>db/conf/ifip10-5/ifip10-5-2001.html#AraujoB01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/Filho0B01" mdate="2022-06-03">
+<author pid="210/8005">Fred Cruz Filho</author>
+<author pid="m/PRMartinsMaciel">Paulo Maciel 0001</author>
+<author pid="48/6034">Edna Barros</author>
+<title>A Petri Net Based Approach for Hardware/Software Partitioning.</title>
+<pages>72-77</pages>
+<year>2001</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://dl.acm.org/doi/10.5555/882483.883904</ee>
+<crossref>conf/sbcci/2001</crossref>
+<url>db/conf/sbcci/sbcci2001.html#Filho0B01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/0001FB01" mdate="2022-06-03">
+<author pid="m/PRMartinsMaciel">Paulo Maciel 0001</author>
+<author pid="210/8005">Fred Cruz Filho</author>
+<author pid="48/6034">Edna Barros</author>
+<title>A Petri Net Based Method for Resource Estimation: An Approach Considering Data-Dependency, Casual and Temporal Precedences.</title>
+<pages>78-84</pages>
+<year>2001</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://dl.acm.org/doi/10.5555/882483.883901</ee>
+<crossref>conf/sbcci/2001</crossref>
+<url>db/conf/sbcci/sbcci2001.html#0001FB01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/0001FBR00" mdate="2022-06-02">
+<author pid="m/PRMartinsMaciel">Paulo Maciel 0001</author>
+<author pid="210/8005">Fred Cruz Filho</author>
+<author pid="48/6034">Edna Barros</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Methods Based on Petri Net for Resource Sharing Estimation.</title>
+<pages>75-82</pages>
+<year>2000</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://dl.acm.org/doi/10.5555/827245.827333</ee>
+<crossref>conf/sbcci/2000</crossref>
+<url>db/conf/sbcci/sbcci2000.html#0001FBR00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/FilhoMB00" mdate="2019-12-04">
+<author pid="210/8005">Fred Cruz Filho</author>
+<author pid="m/PRMartinsMaciel">Paulo R. M. Maciel</author>
+<author pid="48/6034">Edna Barros</author>
+<title>Using Petri nets for data dependency analysis.</title>
+<pages>2998-3003</pages>
+<year>2000</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/ICSMC.2000.884457</ee>
+<crossref>conf/smc/2000</crossref>
+<url>db/conf/smc/smc2000.html#FilhoMB00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/MacielBSF00" mdate="2017-12-14">
+<author pid="210/7931">Pado Maciel</author>
+<author pid="48/6034">Edna Barros</author>
+<author pid="30/6500">Mauro Silva</author>
+<author pid="210/8005">Fred Cruz Filho</author>
+<title>Resource sharing estimation by Petri nets in PISH hardware/software co-design system.</title>
+<pages>3165-3170</pages>
+<year>2000</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/ICSMC.2000.886483</ee>
+<crossref>conf/smc/2000</crossref>
+<url>db/conf/smc/smc2000.html#MacielBSF00</url>
+</inproceedings>
+</r>
+<r><article key="journals/dafes/MacielBR99" mdate="2020-10-02">
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>A Petri Net Model for Hardware/Software Codesign.</title>
+<pages>243-310</pages>
+<year>1999</year>
+<volume>4</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1023/A:1008969621405</ee>
+<url>db/journals/dafes/dafes4.html#MacielBR99</url>
+</article>
+</r>
+<r><article key="journals/micro/BarrosS98" mdate="2018-11-02">
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<author pid="63/588">Marcus V. D. dos Santos</author>
+<title>A safe, accurate intravenous infusion control system.</title>
+<pages>12-21</pages>
+<year>1998</year>
+<volume>18</volume>
+<journal>IEEE Micro</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/40.735940</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/40.735940</ee>
+<url>db/journals/micro/micro18.html#BarrosS98</url>
+</article>
+</r>
+<r><inproceedings key="conf/amast/SilvaSBI98" mdate="2024-06-12">
+<author pid="26/5446">Leila Silva</author>
+<author pid="s/AugustoSampaio">Augusto Sampaio 0001</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<author pid="72/4526">Juliano Iyoda</author>
+<title>An Algebraic Approach to Combining Processes in a Hardware/Software Partitioning Environment.</title>
+<pages>308-324</pages>
+<year>1998</year>
+<crossref>conf/amast/1998</crossref>
+<booktitle>AMAST</booktitle>
+<ee>https://doi.org/10.1007/3-540-49253-4_23</ee>
+<url>db/conf/amast/amast98.html#SilvaSBI98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smc/MacielBR98" mdate="2019-12-04">
+<author pid="m/PRMartinsMaciel">Paulo R. M. Maciel</author>
+<author pid="48/6034">Edna Barros</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>A Petri net based approach for performing the initial allocation in hardware/software codesign.</title>
+<pages>505-510</pages>
+<year>1998</year>
+<booktitle>SMC</booktitle>
+<ee>https://doi.org/10.1109/ICSMC.1998.725462</ee>
+<crossref>conf/smc/1998</crossref>
+<url>db/conf/smc/smc1998.html#MacielBR98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asap/AraujoSB97" mdate="2023-03-24">
+<author pid="03/3991">Cristiano C. de Ara&#250;jo</author>
+<author pid="63/588">Marcus V. D. dos Santos</author>
+<author pid="48/6034">Edna Barros</author>
+<title>A FPGA-based Implementation of an Intravenous Infusion Controller System.</title>
+<pages>402-411</pages>
+<year>1997</year>
+<crossref>conf/asap/1997</crossref>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP.1997.606845</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ASAP.1997.606845</ee>
+<url>db/conf/asap/asap1997.html#AraujoSB97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fm/SilvaSB97" mdate="2024-06-12">
+<author pid="26/5446">Leila Silva</author>
+<author pid="s/AugustoSampaio">Augusto Sampaio 0001</author>
+<author orcid="0000-0001-6479-3052" pid="48/6034">Edna Barros</author>
+<title>A Normal Form Reduction Strategy for Hardware/Software Partitioning.</title>
+<pages>624-643</pages>
+<year>1997</year>
+<crossref>conf/fm/1997</crossref>
+<booktitle>FME</booktitle>
+<url>db/conf/fm/fme1997.html#SilvaSB97</url>
+<ee>https://doi.org/10.1007/3-540-63533-5_33</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/MacielBR97" mdate="2023-03-23">
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<author pid="48/6034">Edna Barros</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Computing communication cost by Petri nets for hardware/software codesign.</title>
+<pages>44-56</pages>
+<year>1997</year>
+<booktitle>IEEE International Workshop on Rapid System Prototyping</booktitle>
+<ee>https://doi.org/10.1109/IWRSP.1997.618823</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IWRSP.1997.618823</ee>
+<crossref>conf/rsp/1997</crossref>
+<url>db/conf/rsp/rsp1997.html#MacielBR97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/MacielB96" mdate="2023-03-23">
+<author pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</author>
+<author pid="48/6034">Edna Barros</author>
+<title>Capturing Time Constraints by Using Petri-nets in the Context of Hardware/Software Codesign.</title>
+<pages>36-43</pages>
+<year>1996</year>
+<booktitle>RSP</booktitle>
+<ee>https://doi.org/10.1109/IWRSP.1996.506724</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IWRSP.1996.506724</ee>
+<crossref>conf/rsp/1996</crossref>
+<url>db/conf/rsp/rsp1996.html#MacielB96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/codes/BarrosS94" mdate="2024-06-12">
+<author pid="48/6034">Edna Barros</author>
+<author pid="s/AugustoSampaio">Augusto Sampaio 0001</author>
+<title>Towards provably correct hardware/software partitioning using occam.</title>
+<pages>210-217</pages>
+<year>1994</year>
+<crossref>conf/codes/1994</crossref>
+<booktitle>CODES</booktitle>
+<ee>https://doi.org/10.1109/HSC.1994.336704</ee>
+<ee>http://dl.acm.org/citation.cfm?id=947219</ee>
+<url>db/conf/codes/codes1994.html#BarrosS94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurodac/XiongBR94" mdate="2015-11-11">
+<author pid="96/6479">Xun Xiong</author>
+<author pid="48/6034">Edna Barros</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>A method for partitioning UNITY language in hardware and software.</title>
+<pages>220-225</pages>
+<year>1994</year>
+<booktitle>EURO-DAC</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=198247</ee>
+<crossref>conf/eurodac/1994</crossref>
+<url>db/conf/eurodac/euro-dac1994.html#XiongBR94</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/dnb/Barros93" mdate="2021-07-17">
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
+<title>Hardware/software partitioning using UNITY.</title>
+<year>1993</year>
+<pages>1-222</pages>
+<school>University of T&#252;bingen, Germany</school>
+<ee>https://d-nb.info/931662583</ee>
+</phdthesis>
+</r>
+<coauthors n="180" nc="3">
+<co c="0" n="2"><na f="a/Accetti:Cecil" pid="121/4431">Cecil Accetti</na><na>Cecil Accetti R. de A. Melo</na></co>
+<co c="0"><na f="a/Acruchi:Clara" pid="395/0381">Clara Acruchi</na></co>
+<co c="-1"><na f="a/Aguiar:Saulo" pid="362/1798">Saulo Aguiar</na></co>
+<co c="0" n="2"><na f="a/Albertini:Bruno_de_Carvalho" pid="177/2509">Bruno de Carvalho Albertini</na><na>Bruno C. Albertini</na></co>
+<co c="0"><na f="a/Albuquerque:Djeefther_S=" pid="173/2068">Djeefther S. Albuquerque</na></co>
+<co c="0"><na f="a/Albuquerque:Erika_S=" pid="173/2096">Erika S. Albuquerque</na></co>
+<co c="0"><na f="a/Alves:Charles_Matheus_de_Sousa" pid="352/5192">Charles Matheus de Sousa Alves</na></co>
+<co c="0"><na f="a/Alves:Diogo_Jos=eacute=_Costa" pid="23/3576">Diogo Jos&#233; Costa Alves</na></co>
+<co c="0"><na f="a/Alves:Tales_T=" pid="347/8624">Tales T. Alves</na></co>
+<co c="0"><na f="a/Andrade:Matheus_Vin=iacute=cius_Teotonio_do_Nascimento" pid="352/5341">Matheus Vin&#237;cius Teotonio do Nascimento Andrade</na></co>
+<co c="0"><na f="a/Anjos:Jefferson_R=_L=" pid="188/9058">Jefferson R. L. Anjos</na></co>
+<co c="1"><na f="a/Antonino:Antonio_D=" pid="279/9078">Antonio D. Antonino</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Andr=eacute=" pid="75/11283">Andr&#233; Ara&#250;jo</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Cristiano_C=_de" pid="03/3991">Cristiano C. de Ara&#250;jo</na></co>
+<co c="0"><na f="a/Araujo:Guido" pid="a/GuidoAraujo">Guido Araujo</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Victor" pid="316/8073">Victor Ara&#250;jo</na></co>
+<co c="0"><na f="a/Ascendina:Camila" pid="144/2544">Camila Ascendina</na></co>
+<co c="0"><na f="a/Azevedo:Rodolfo" pid="73/1601">Rodolfo Azevedo</na></co>
+<co c="0"><na f="a/Azevedo:Willians" pid="94/1251">Willians Azevedo</na></co>
+<co c="0"><na f="a/Aziz:Andre" pid="16/957">Andre Aziz</na></co>
+<co c="0"><na f="b/Barbosa:Edson" pid="17/2362">Edson Barbosa</na></co>
+<co c="0"><na f="b/Barbosa:Jo=atilde=o_Paulo_Fernandes" pid="91/5193">Jo&#227;o Paulo Fernandes Barbosa</na></co>
+<co c="1"><na f="b/Barbosa:Jos=eacute=_A=" pid="279/9506">Jos&#233; A. Barbosa</na></co>
+<co c="0"><na f="b/Barros:Mariana_da_Silva" pid="307/9339">Mariana da Silva Barros</na></co>
+<co c="0"><na f="b/Barros:Mariana_S=" pid="279/4143">Mariana S. Barros</na></co>
+<co c="0"><na f="b/Bartholomeu:Marcus" pid="34/2296">Marcus Bartholomeu</na></co>
+<co c="0" n="2"><na f="b/Bassani:Hansenclever_de_F=" pid="93/6335">Hansenclever de F. Bassani</na><na>Hansenclever F. Bassani</na></co>
+<co c="0"><na f="b/Becker:Leandro_Buss" pid="24/3796">Leandro Buss Becker</na></co>
+<co c="0"><na f="b/Bione:Jo=atilde=o" pid="328/0582">Jo&#227;o Bione</na></co>
+<co c="0"><na f="b/Bispo_Jr=:Esdras_L=" pid="62/5187">Esdras L. Bispo Jr.</na></co>
+<co c="0"><na f="b/Blawid:Rosana" pid="307/8453">Rosana Blawid</na></co>
+<co c="0"><na f="b/Blawid:Stefan" pid="220/2308">Stefan Blawid</na></co>
+<co c="0"><na f="b/Braga:Pedro_H=_M=" pid="222/3933">Pedro H. M. Braga</na></co>
+<co c="0"><na f="c/Cambuim:Lucas_F=_S=" pid="123/2600">Lucas F. S. Cambuim</na></co>
+<co c="0" n="2"><na f="c/Campos:Gustavo_A=_L=_de" pid="84/9319">Gustavo A. L. de Campos</na><na>Gustavo Augusto Lima de Campos</na></co>
+<co c="0"><na f="c/Cardoso:Thiago_N=_C=" pid="30/9791">Thiago N. C. Cardoso</na></co>
+<co c="1"><na f="c/Cardoso:Victor_G=" pid="279/9145">Victor G. Cardoso</na></co>
+<co c="0"><na f="c/Carlos:Renato_L=_M=" pid="188/9022">Renato L. M. Carlos</na></co>
+<co c="0"><na f="c/Carro:Luigi" pid="25/5214">Luigi Carro</na></co>
+<co c="0"><na f="c/Cavalcante:S=eacute=rgio" pid="37/2399">S&#233;rgio Cavalcante</na></co>
+<co c="0"><na f="c/Cavalcanti:Breno" pid="395/0654">Breno Cavalcanti</na></co>
+<co c="0"><na f="c/Cavalcanti:Lucas" pid="295/9940">Lucas Cavalcanti</na></co>
+<co c="0"><na f="c/Chaves:Igino" pid="47/11335">Igino Chaves</na></co>
+<co c="0"><na f="c/Cireno:Maria" pid="153/2073">Maria Cireno</na></co>
+<co c="0"><na f="c/Clemente:Gabriela_S=" pid="05/7443">Gabriela S. Clemente</na></co>
+<co c="0"><na f="c/Cordeiro:Filipe_R=" pid="75/6833">Filipe R. Cordeiro</na></co>
+<co c="-1"><na f="c/Cruz:Danielly" pid="27/1135">Danielly Cruz</na></co>
+<co c="0"><na f="c/Cruz:Jos=eacute=_Victor_Silva" pid="352/5346">Jos&#233; Victor Silva Cruz</na></co>
+<co c="0"><na f="c/Cunha:Pedro_V=" pid="376/9045">Pedro V. Cunha</na></co>
+<co c="0"><na f="d/Dias:Dario" pid="185/1703">Dario Dias</na></co>
+<co c="0"><na f="e/Esmeraldo:Guilherme_=Aacute=lvaro_R=_M=" pid="128/2854">Guilherme &#193;lvaro R. M. Esmeraldo</na></co>
+<co c="0"><na f="f/Farias:Max" pid="159/8004">Max Farias</na></co>
+<co c="0" n="2"><na f="f/Feitosa:Robson_G=_F=" pid="79/9991">Robson G. F. Feitosa</na><na>Robson Gon&#231;alves Fechine Feitosa</na></co>
+<co c="0"><na f="f/Fernandes:Roberto" pid="295/9707">Roberto Fernandes</na></co>
+<co c="0"><na f="f/Fernandes:Roberto_Costa" pid="352/5507">Roberto Costa Fernandes</na></co>
+<co c="0" n="3"><na f="f/Ferreira:Antonyus_Pyetro_do_Amaral" pid="49/10956">Antonyus Pyetro do Amaral Ferreira</na><na>Antonyus P. A. Ferreira</na><na>Antonyus P. do A. Ferreira</na></co>
+<co c="0"><na f="f/Ferreira:Danielly" pid="188/8882">Danielly Ferreira</na></co>
+<co c="0"><na f="f/Figueiredo:Thiago" pid="121/4427">Thiago Figueiredo</na></co>
+<co c="0"><na f="f/Figueiroa:Luiz_H=_A=" pid="188/9044">Luiz H. A. Figueiroa</na></co>
+<co c="0"><na f="f/Filho:Adiel_Teixeira_de_A=" pid="395/0612">Adiel Teixeira de A. Filho</na></co>
+<co c="0"><na f="f/Filho:Fred_Cruz" pid="210/8005">Fred Cruz Filho</na></co>
+<co c="0"><na f="f/Fr=ouml=hlich:Ant=ocirc=nio_Augusto" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</na></co>
+<co c="0"><na f="g/Gomes:Cau=ecirc=_Addae_da_Silva" pid="352/5279">Cau&#234; Addae da Silva Gomes</na></co>
+<co c="0"><na f="g/Gomes:Millena" pid="77/10532">Millena Gomes</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Tiago_H=_R=_P=" pid="347/8914">Tiago H. R. P. Gon&#231;alves</na></co>
+<co c="0"><na f="g/Gordon=Ross:Ann" pid="47/5909">Ann Gordon-Ross</na></co>
+<co c="2" n="2"><na f="h/Hanna:Josiah" pid="135/6336">Josiah Hanna</na><na>Josiah P. Hanna</na></co>
+<co c="0"><na f="i/Ishimaru:Pedro_J=_A=" pid="230/1138">Pedro J. A. Ishimaru</na></co>
+<co c="0"><na f="i/Iyoda:Juliano" pid="72/4526">Juliano Iyoda</na></co>
+<co c="0"><na f="i/Izidio:Diogo_M=_F=" pid="239/6791">Diogo M. F. Izidio</na></co>
+<co c="0"><na f="j/Joaquim:Riei" pid="295/9704">Riei Joaquim</na></co>
+<co c="0"><na f="j/J=uacute=nior:Severino_J=_B=" pid="272/2510">Severino J. B. J&#250;nior</na></co>
+<co c="0"><na f="k/Keogh:Eamonn_J=" pid="k/EamonnJKeogh">Eamonn J. Keogh</na></co>
+<co c="0"><na f="k/Kursancew:Vin=iacute=cius" pid="19/1487">Vin&#237;cius Kursancew</na></co>
+<co c="0"><na f="l/Labio:Rafael_R=_De" pid="395/0766">Rafael R. De Labio</na></co>
+<co c="0"><na f="l/Lima_0001:George" pid="07/2481">George Lima 0001</na></co>
+<co c="0"><na f="l/Lima:Manoel_Eus=eacute=bio_de" pid="63/3816">Manoel Eus&#233;bio de Lima</na></co>
+<co c="0"><na f="l/Lima:Mar=iacute=lia" pid="289/6909">Mar&#237;lia Lima</na></co>
+<co c="0"><na f="l/Lima:Thiago" pid="63/10089">Thiago Lima</na></co>
+<co c="0"><na f="l/Lima=Filho:Jos=eacute=" pid="188/8760">Jos&#233; Lima-Filho</na></co>
+<co c="0"><na f="l/Lins:Tiago" pid="328/0858">Tiago Lins</na></co>
+<co c="0"><na f="l/Lira:Patricia" pid="42/2853">Patricia Lira</na></co>
+<co c="0"><na f="l/Lisboa:Edson_B=" pid="45/11335">Edson B. Lisboa</na></co>
+<co c="0"><na f="l/Lisboa:Edson_Barbosa" pid="235/0907">Edson Barbosa Lisboa</na></co>
+<co c="0"><na f="l/Ludermir:Teresa_Bernarda" pid="00/6226">Teresa Bernarda Ludermir</na></co>
+<co c="0"><na f="m/Machado:Albano_Portela" pid="55/1204">Albano Portela Machado</na></co>
+<co c="0"><na f="m/Machado:Mateus_G=" pid="274/0872">Mateus G. Machado</na></co>
+<co c="0" n="2"><na f="m/Macieira:Rafael_M=" pid="160/4649">Rafael M. Macieira</na><na>Rafael Melo Macieira</na></co>
+<co c="0"><na f="m/Maciel:Lucas_D=" pid="279/4216">Lucas D. Maciel</na></co>
+<co c="0"><na f="m/Maciel:Lucas_Dias" pid="352/5431">Lucas Dias Maciel</na></co>
+<co c="0"><na f="m/Maciel:Pado" pid="210/7931">Pado Maciel</na></co>
+<co c="0" n="3"><na f="m/Maciel:Paulo_Romero_Martins" pid="m/PRMartinsMaciel">Paulo Romero Martins Maciel</na><na>Paulo R. M. Maciel</na><na>Paulo Maciel 0001</na></co>
+<co c="0"><na f="m/Madeira:Rafael_M=" pid="144/2475">Rafael M. Madeira</na></co>
+<co c="0"><na f="m/Martins:Danyelly" pid="188/8877">Danyelly Martins</na></co>
+<co c="0"><na f="m/Martins:Felipe_B=" pid="295/9716">Felipe B. Martins</na></co>
+<co c="0"><na f="m/Martins:Felipe_Bezerra" pid="352/5322">Felipe Bezerra Martins</na></co>
+<co c="0"><na f="m/Medeiros:Heitor_R=" pid="228/1830">Heitor R. Medeiros</na></co>
+<co c="0"><na f="m/Medeiros:Victor_Wanderley_Costa_de" pid="04/1611">Victor Wanderley Costa de Medeiros</na></co>
+<co c="0"><na f="m/Melcher:Elmar_U=_K=" pid="60/6732">Elmar U. K. Melcher</na></co>
+<co c="0"><na f="m/Mello:Harley_Macedo_de" pid="367/5791">Harley Macedo de Mello</na></co>
+<co c="0" n="2"><na f="m/Melo:Jo=atilde=o_G=" pid="352/5356">Jo&#227;o G. Melo</na><na>Jo&#227;o Guilherme Oliveira Carvalho de Melo</na></co>
+<co c="0"><na f="m/Melo:Mirella_Pessoa_de" pid="356/4983">Mirella Pessoa de Melo</na></co>
+<co c="0"><na f="m/Monteiro:Jo=atilde=o_Guilherme" pid="356/4301">Jo&#227;o Guilherme Monteiro</na></co>
+<co c="0"><na f="m/Morais:Pedro_Henrique_Santana_de" pid="352/5793">Pedro Henrique Santana de Morais</na></co>
+<co c="0"><na f="m/Morais:Ryan_Vinicius_Santos" pid="352/5331">Ryan Vinicius Santos Morais</na></co>
+<co c="0"><na f="m/Moura:Jo=atilde=o_Pedro_Souza_Pereira_de" pid="352/5172">Jo&#227;o Pedro Souza Pereira de Moura</na></co>
+<co c="0"><na f="n/Najjar:Walid_A=" pid="n/WalidANajjar">Walid A. Najjar</na></co>
+<co c="0"><na f="n/Nascimento:Gustavo" pid="132/1715">Gustavo Nascimento</na></co>
+<co c="0"><na f="n/Nascimento:Paulo_S=eacute=rgio_B=_do" pid="05/72">Paulo S&#233;rgio B. do Nascimento</na></co>
+<co c="0"><na f="n/Neto:Fernando_M=_de_Paula" pid="174/3576">Fernando M. de Paula Neto</na></co>
+<co c="0" n="2"><na f="n/Neto:Paulo_S=_G=_de_Mattos" pid="21/8284">Paulo S. G. de Mattos Neto</na><na>Paulo Salgado Gomes de Mattos Neto</na></co>
+<co c="0"><na f="n/Netto:Antonio_Barros_da_Silva" pid="307/8747">Antonio Barros da Silva Netto</na></co>
+<co c="1"><na f="n/Nova:Abra=atilde=o_V=" pid="279/9602">Abra&#227;o V. Nova</na></co>
+<co c="0"><na f="n/Nunes:Geovany_Icaro_L=" pid="395/0404">Geovany Icaro L. Nunes</na></co>
+<co c="0"><na f="o/Ogg:Vanessa_O=" pid="230/1151">Vanessa O. Ogg</na></co>
+<co c="2"><na f="o/Okada:Hiroyuki" pid="24/2307">Hiroyuki Okada</na></co>
+<co c="0"><na f="o/Oliveira:Aline_Lima_de" pid="352/5566">Aline Lima de Oliveira</na></co>
+<co c="0" n="2"><na f="o/Oliveira:Luiz_A=" pid="171/6264">Luiz A. Oliveira</na><na>Luiz Antonio de Oliveira Junior</na></co>
+<co c="0"><na f="o/Oliveira:Pedro_Paulo_Salman_de" pid="352/5748">Pedro Paulo Salman de Oliveira</na></co>
+<co c="0"><na f="p/Pena:Carlos_H=_C=" pid="279/4164">Carlos H. C. Pena</na></co>
+<co c="0"><na f="p/Pereira:Felipe_N=_A=" pid="283/9585">Felipe N. A. Pereira</na></co>
+<co c="0"><na f="p/Petters:Stefan" pid="17/11062">Stefan Petters</na></co>
+<co c="0"><na f="p/Philippini:Igor_de_Moura" pid="307/9242">Igor de Moura Philippini</na></co>
+<co c="0"><na f="p/Prado:Bruno_O=" pid="217/1793">Bruno O. Prado</na></co>
+<co c="0"><na f="p/Proto:Eduardo_Carlos_P=_da_S=" pid="367/5495">Eduardo Carlos P. da S. Proto</na></co>
+<co c="0"><na f="r/Rammig:Franz=Josef" pid="r/FranzJosefRammig">Franz-Josef Rammig</na></co>
+<co c="0"><na f="r/Reis:Josivan_R=" pid="123/2528">Josivan R. Reis</na></co>
+<co c="0"><na f="r/Rigo:Sandro" pid="79/2208">Sandro Rigo</na></co>
+<co c="0"><na f="r/Rios:Marcus_F=_R=" pid="171/6191">Marcus F. R. Rios</na></co>
+<co c="0"><na f="r/Rocha:Concei=ccedil==atilde=o" pid="138/9876">Concei&#231;&#227;o Rocha</na></co>
+<co c="0"><na f="r/Rocha:Rodrigo_Camarotti_Ferreira_da" pid="06/10958">Rodrigo Camarotti Ferreira da Rocha</na></co>
+<co c="0"><na f="r/Rodrigues:Riei_Joaquim_Matos" pid="352/5548">Riei Joaquim Matos Rodrigues</na></co>
+<co c="0"><na f="r/Rodrigues:Walber_M=" pid="261/9334">Walber M. Rodrigues</na></co>
+<co c="0"><na f="r/Rosa:Rog=eacute=rio_S=" pid="65/8393">Rog&#233;rio S. Rosa</na></co>
+<co c="0"><na f="r/Rosenstiel:Wolfgang" pid="r/WRosenstiel">Wolfgang Rosenstiel</na></co>
+<co c="0"><na f="s/Sampaio_0001:Augusto" pid="s/AugustoSampaio">Augusto Sampaio 0001</na></co>
+<co c="0"><na f="s/Santana:Nataly" pid="192/8463">Nataly Santana</na></co>
+<co c="0"><na f="s/Sant=Anna:Remy_Eskinazi" pid="44/1300">Remy Eskinazi Sant'Anna</na></co>
+<co c="0"><na f="s/Santos:Francielle" pid="303/4012">Francielle Santos</na></co>
+<co c="0"><na f="s/Santos:Marcus_V=_D=_dos" pid="63/588">Marcus V. D. dos Santos</na></co>
+<co c="0"><na f="s/Santos:Marcus_Vinicius_Duarte_dos" pid="231/4396">Marcus Vinicius Duarte dos Santos</na></co>
+<co c="0"><na f="s/Santos:Matheus_Paix=atilde=o_Gumercindo_dos" pid="352/5398">Matheus Paix&#227;o Gumercindo dos Santos</na></co>
+<co c="0"><na f="s/Santos:Rodolfo_P=_dos" pid="65/7443">Rodolfo P. dos Santos</na></co>
+<co c="0"><na f="s/Sarmento:Adriano" pid="18/787">Adriano Sarmento</na></co>
+<co c="0"><na f="s/Schwambach:V=iacute=tor" pid="09/5230">V&#237;tor Schwambach</na></co>
+<co c="0"><na f="s/Seixas:Jordana_L=" pid="92/5508">Jordana L. Seixas</na></co>
+<co c="0"><na f="s/Silva:Andr=eacute=" pid="11/4638">Andr&#233; Silva</na></co>
+<co c="0"><na f="s/Silva:Cec=iacute=lia_Virginia_Santos_da" pid="352/5505">Cec&#237;lia Virginia Santos da Silva</na></co>
+<co c="0" n="2"><na f="s/Silva:Dilma_Da" pid="03/6463">Dilma Da Silva</na><na>Dilma M. Da Silva</na></co>
+<co c="0" n="2"><na f="s/Silva:Edgleyson_Pereira_da" pid="352/5597">Edgleyson Pereira da Silva</na><na>Edgleyson Silva</na></co>
+<co c="0"><na f="s/Silva:Joao_G=_M=" pid="188/8996">Joao G. M. Silva</na></co>
+<co c="0"><na f="s/Silva:Jos=eacute=_D=_P=" pid="279/4251">Jos&#233; D. P. Silva</na></co>
+<co c="0"><na f="s/Silva:Jos=eacute=_R=_da" pid="347/9117">Jos&#233; R. da Silva</na></co>
+<co c="0"><na f="s/Silva:Jos=eacute=_Ronald_da" pid="352/5718">Jos&#233; Ronald da Silva</na></co>
+<co c="0"><na f="s/Silva:Karina_R=_G=_da" pid="30/5488">Karina R. G. da Silva</na></co>
+<co c="0"><na f="s/Silva:Ladson_Gomes" pid="307/9026">Ladson Gomes Silva</na></co>
+<co c="0"><na f="s/Silva:Leila" pid="26/5446">Leila Silva</na></co>
+<co c="0"><na f="s/Silva:Luciano" pid="69/2301">Luciano Silva</na></co>
+<co c="0"><na f="s/Silva:Mauro" pid="30/6500">Mauro Silva</na></co>
+<co c="0"><na f="s/Silva:Stelita_M=_da" pid="82/979">Stelita M. da Silva</na></co>
+<co c="0"><na f="s/Silva:Washington_Igor_dos_Santos" pid="352/5744">Washington Igor dos Santos Silva</na></co>
+<co c="0" n="2"><na f="s/Silva=Filho:Abel_G=" pid="90/4151">Abel G. Silva-Filho</na><na>Abel Guilhermino Silva-Filho</na></co>
+<co c="0"><na f="s/Soares:Mateus_F=_B=" pid="284/0044">Mateus F. B. Soares</na></co>
+<co c="0"><na f="s/Sousa:Rebecca" pid="356/4817">Rebecca Sousa</na></co>
+<co c="0"><na f="s/Souza:Danilo_Andrade_Martins_de" pid="352/5157">Danilo Andrade Martins de Souza</na></co>
+<co c="0"><na f="s/Souza:Elaine" pid="188/8915">Elaine Souza</na></co>
+<co c="0"><na f="s/Souza:Luiz_L=" pid="171/6193">Luiz L. Souza</na></co>
+<co c="0"><na f="s/Souza:Thiago_Jos=eacute=_A=" pid="395/0357">Thiago Jos&#233; A. Souza</na></co>
+<co c="0"><na f="t/Teobaldo:Tamara_Mayara_Ramos" pid="352/5219">Tamara Mayara Ramos Teobaldo</na></co>
+<co c="2"><na f="t/Torta:Elena" pid="34/9255">Elena Torta</na></co>
+<co c="0" n="2"><na f="t/Tsang:Ing_Ren" pid="98/5344">Ing Ren Tsang</na><na>Tsang Ing Ren</na></co>
+<co c="0"><na f="v/Vahid:Frank" pid="v/FrankVahid">Frank Vahid</na></co>
+<co c="0"><na f="v/Valderrama:Carlos" pid="09/7792">Carlos Valderrama</na></co>
+<co c="0"><na f="v/Vanspauwen:Niels" pid="321/9233">Niels Vanspauwen</na></co>
+<co c="0"><na f="v/Vasconcelos:Matheus_Lafayette" pid="352/5453">Matheus Lafayette Vasconcelos</na></co>
+<co c="0"><na f="v/Viana:Pablo" pid="42/291">Pablo Viana</na></co>
+<co c="0"><na f="w/Wagner:Fl=aacute=vio_Rech" pid="r/FlavioRechWagner">Fl&#225;vio Rech Wagner</na></co>
+<co c="0"><na f="x/Xavier:Driele_Pires_Ferreira_Ara=uacute=jo" pid="352/5871">Driele Pires Ferreira Ara&#250;jo Xavier</na></co>
+<co c="0"><na f="x/Xiong:Xun" pid="96/6479">Xun Xiong</na></co>
+<co c="0"><na f="z/Zanchettin:Cleber" pid="75/5629">Cleber Zanchettin</na></co>
+</coauthors>
+</dblpperson>
+

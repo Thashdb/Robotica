@@ -1,0 +1,1124 @@
+<?xml version="1.0"?>
+<dblpperson name="Bruno C. da Silva 0001" pid="75/3139" n="70">
+<person key="homepages/75/3139" mdate="2025-06-07">
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<note type="affiliation">University of Massachusetts, Amherst, MA, USA</note>
+<note label="former" type="affiliation">Federal University of Rio Grande do Sul (UFRGS), Institute of Informatics, Porto Alegre, Brazil</note>
+<url>https://people.cs.umass.edu/~bsilva/</url>
+<url>https://scholar.google.com/citations?user=eskJDVUAAAAJ</url>
+<url>https://orcid.org/0000-0002-3708-5728</url>
+</person>
+<homonyms n="2">
+<h f="s/Silva:Bruno_C=_da"><name>Bruno C. da Silva</name>
+</h>
+<h f="s/Silva_0002:Bruno_C=_da"><person key="homepages/06/299" mdate="2025-05-29">
+<author pid="06/299">Bruno da Silva 0002</author>
+<author pid="06/299">Bruno Carreiro da Silva</author>
+<author pid="06/299">Bruno C. da Silva 0002</author>
+<note type="affiliation">California Polytechnic State University, San Luis Obispo, CA, USA</note>
+<note label="PhD 2015" type="affiliation">Federal University of Bahia, Salvador, Brazil</note>
+<url>https://dl.acm.org/profile/81315488457</url>
+<url>https://orcid.org/0000-0002-6467-9943</url>
+</person>
+</h>
+</homonyms>
+<r><article publtype="informal" key="journals/corr/abs-2505-00787" mdate="2025-06-18">
+<author pid="250/5118">Lucas N. Alegre</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="407/7248">Andr&#233; Barreto</author>
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<title>Constructing an Optimal Behavior Basis for the Option Keyboard.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.00787</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.00787</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-00787</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="conf/rlc/AyoubSZCGSS24" mdate="2025-03-26">
+<author pid="266/8071">Alex Ayoub</author>
+<author pid="191/6739">David Szepesvari</author>
+<author pid="48/7129">Francesco Zanini</author>
+<author pid="45/2096">Bryan Chan</author>
+<author pid="231/0618">Dhawal Gupta</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="96/6660">Dale Schuurmans</author>
+<title>Mitigating the Curse of Horizon in Monte-Carlo Returns.</title>
+<pages>563-572</pages>
+<year>2024</year>
+<journal>RLJ</journal>
+<volume>2</volume>
+<url>db/journals/rlj/rlj2.html#AyoubSZCGSS24</url>
+<ee type="oa">https://rlj.cs.umass.edu/2024/papers/Paper80.html</ee>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/GuptaJCLTS24" mdate="2024-08-01">
+<author pid="231/0618">Dhawal Gupta</author>
+<author pid="222/1982">Scott M. Jordan</author>
+<author pid="209/9835">Shreyas Chaudhari</author>
+<author pid="58/2670-6">Bo Liu 0006</author>
+<author pid="46/11107">Philip S. Thomas</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<title>From Past to Future: Rethinking Eligibility Traces.</title>
+<pages>12253-12260</pages>
+<year>2024</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v38i11.29115</ee>
+<crossref>conf/aaai/2024</crossref>
+<url>db/conf/aaai/aaai2024.html#GuptaJCLTS24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/Jordan0SWT24" mdate="2024-09-02">
+<author pid="222/1982">Scott M. Jordan</author>
+<author pid="05/3110">Adam White 0001</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="60/7057">Martha White</author>
+<author pid="46/11107">Philip S. Thomas</author>
+<title>Position: Benchmarking is Limited in Reinforcement Learning Research.</title>
+<year>2024</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">https://openreview.net/forum?id=Xe7n2ZqpBP</ee>
+<crossref>conf/icml/2024</crossref>
+<url>db/conf/icml/icml2024.html#Jordan0SWT24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/ChaudhariD0T24" mdate="2025-02-13">
+<author pid="209/9835">Shreyas Chaudhari</author>
+<author pid="220/4337">Ameet Deshpande</author>
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<author pid="46/11107">Philip S. Thomas</author>
+<title>Abstract Reward Processes: Leveraging State Abstraction for Consistent Off-Policy Evaluation.</title>
+<year>2024</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2024/hash/1e6dcc16ffa7ced2228d1f2fdc8b5adf-Abstract-Conference.html</ee>
+<crossref>conf/nips/2024</crossref>
+<url>db/conf/nips/neurips2024.html#ChaudhariD0T24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2404-08555" mdate="2024-05-16">
+<author pid="209/9835">Shreyas Chaudhari</author>
+<author pid="163/0764">Pranjal Aggarwal</author>
+<author pid="249/5621">Vishvak Murahari</author>
+<author pid="119/9714">Tanmay Rajpurohit</author>
+<author pid="222/3348">Ashwin Kalyan</author>
+<author pid="147/0322">Karthik Narasimhan</author>
+<author pid="220/4337">Ameet Deshpande</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<title>RLHF Deciphered: A Critical Analysis of Reinforcement Learning from Human Feedback for LLMs.</title>
+<year>2024</year>
+<volume>abs/2404.08555</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2404.08555</ee>
+<url>db/journals/corr/corr2404.html#abs-2404-08555</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2406-16241" mdate="2024-07-16">
+<author pid="222/1982">Scott M. Jordan</author>
+<author pid="05/3110">Adam White 0001</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="60/7057">Martha White</author>
+<author pid="46/11107">Philip S. Thomas</author>
+<title>Position: Benchmarking is Limited in Reinforcement Learning Research.</title>
+<year>2024</year>
+<volume>abs/2406.16241</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2406.16241</ee>
+<url>db/journals/corr/corr2406.html#abs-2406-16241</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2410-02172" mdate="2024-11-07">
+<author pid="209/9835">Shreyas Chaudhari</author>
+<author pid="220/4337">Ameet Deshpande</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="46/11107">Philip S. Thomas</author>
+<title>Abstract Reward Processes: Leveraging State Abstraction for Consistent Off-Policy Evaluation.</title>
+<year>2024</year>
+<volume>abs/2410.02172</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2410.02172</ee>
+<url>db/journals/corr/corr2410.html#abs-2410-02172</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/atal/AlegreBRN023" mdate="2023-05-23">
+<author pid="250/5118">Lucas Nunes Alegre</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="116/9425">Diederik M. Roijers</author>
+<author pid="95/232">Ann Now&#233;</author>
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<title>Sample-Efficient Multi-Objective Learning via Generalized Policy Improvement Prioritization.</title>
+<pages>2003-2012</pages>
+<year>2023</year>
+<booktitle>AAMAS</booktitle>
+<ee>https://dl.acm.org/doi/10.5555/3545946.3598872</ee>
+<crossref>conf/atal/2023</crossref>
+<url>db/conf/atal/aamas2023.html#AlegreBRN023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/HoagKSTB23" mdate="2025-01-19">
+<author pid="351/8458">Austin Hoag</author>
+<author pid="236/4207">James E. Kostas</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="46/11107">Philip S. Thomas</author>
+<author orcid="0000-0003-3027-7986" pid="51/1518">Yuriy Brun</author>
+<title>Seldonian Toolkit: Building Software with Safe and Fair Machine Learning.</title>
+<pages>107-111</pages>
+<year>2023</year>
+<booktitle>ICSE Companion</booktitle>
+<ee>https://doi.org/10.1109/ICSE-Companion58688.2023.00035</ee>
+<ee>https://www.wikidata.org/entity/Q130862018</ee>
+<crossref>conf/icse/2023c</crossref>
+<url>db/conf/icse/icse2023c.html#HoagKSTB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/AlegreBNS23" mdate="2024-03-01">
+<author pid="250/5118">Lucas Nunes Alegre</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="95/232">Ann Now&#233;</author>
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<title>Multi-Step Generalized Policy Improvement by Leveraging Approximate Models.</title>
+<year>2023</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2023/hash/77c7faab15002432ba1151e8d5cc389a-Abstract-Conference.html</ee>
+<crossref>conf/nips/2023</crossref>
+<url>db/conf/nips/neurips2023.html#AlegreBNS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/FeltenANBTDS23" mdate="2024-03-01">
+<author pid="315/7185">Florian Felten</author>
+<author pid="250/5118">Lucas N. Alegre</author>
+<author pid="95/232">Ann Now&#233;</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="74/3045">El-Ghazali Talbi</author>
+<author pid="76/5031">Gr&#233;goire Danoy</author>
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<title>A Toolkit for Reliable Benchmarking and Research in Multi-Objective Reinforcement Learning.</title>
+<year>2023</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2023/hash/4aa8891583f07ae200ba07843954caeb-Abstract-Datasets_and_Benchmarks.html</ee>
+<crossref>conf/nips/2023</crossref>
+<url>db/conf/nips/neurips2023.html#FeltenANBTDS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/GuptaCJT023" mdate="2024-03-01">
+<author pid="231/0618">Dhawal Gupta</author>
+<author pid="168/8450">Yash Chandak</author>
+<author pid="222/1982">Scott M. Jordan</author>
+<author pid="46/11107">Philip S. Thomas</author>
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<title>Behavior Alignment via Reward Function Optimization.</title>
+<year>2023</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2023/hash/a5357781c204d4412e44ed9cbcdb08d5-Abstract-Conference.html</ee>
+<crossref>conf/nips/2023</crossref>
+<url>db/conf/nips/neurips2023.html#GuptaCJT023</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2301-07784" mdate="2023-01-26">
+<author pid="250/5118">Lucas Nunes Alegre</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="116/9425">Diederik M. Roijers</author>
+<author pid="95/232">Ann Now&#233;</author>
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<title>Sample-Efficient Multi-Objective Learning via Generalized Policy Improvement Prioritization.</title>
+<year>2023</year>
+<volume>abs/2301.07784</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2301.07784</ee>
+<url>db/journals/corr/corr2301.html#abs-2301-07784</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2301-10330" mdate="2023-01-26">
+<author pid="168/8450">Yash Chandak</author>
+<author pid="203/9123">Shiv Shankar</author>
+<author pid="132/5837">Nathaniel D. Bastian</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="27/1277">Emma Brunskill</author>
+<author pid="46/11107">Philip S. Thomas</author>
+<title>Off-Policy Evaluation for Action-Dependent Non-Stationary Environments.</title>
+<year>2023</year>
+<volume>abs/2301.10330</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2301.10330</ee>
+<url>db/journals/corr/corr2301.html#abs-2301-10330</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-09838" mdate="2023-05-24">
+<author pid="236/4207">James E. Kostas</author>
+<author pid="222/1982">Scott M. Jordan</author>
+<author pid="168/8450">Yash Chandak</author>
+<author pid="90/508">Georgios Theocharous</author>
+<author pid="231/0618">Dhawal Gupta</author>
+<author pid="60/7057">Martha White</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="46/11107">Philip S. Thomas</author>
+<title>Coagent Networks: Generalized and Scaled.</title>
+<year>2023</year>
+<volume>abs/2305.09838</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.09838</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-09838</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-19007" mdate="2023-11-02">
+<author pid="231/0618">Dhawal Gupta</author>
+<author pid="168/8450">Yash Chandak</author>
+<author pid="222/1982">Scott M. Jordan</author>
+<author pid="46/11107">Philip S. Thomas</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<title>Behavior Alignment via Reward Function Optimization.</title>
+<year>2023</year>
+<volume>abs/2310.19007</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.19007</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-19007</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-12972" mdate="2024-08-01">
+<author pid="231/0618">Dhawal Gupta</author>
+<author pid="222/1982">Scott M. Jordan</author>
+<author pid="209/9835">Shreyas Chaudhari</author>
+<author pid="58/2670-6">Bo Liu 0006</author>
+<author pid="46/11107">Philip S. Thomas</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<title>From Past to Future: Rethinking Eligibility Traces.</title>
+<year>2023</year>
+<volume>abs/2312.12972</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.12972</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-12972</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdl/StrandRWSTE22" mdate="2022-12-09">
+<author pid="335/2034">&#216;rjan Strand</author>
+<author pid="335/1556">Didrik Spanne Reilstad</author>
+<author pid="335/1768">Zhenying Wu</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="06/2570">Jim Torresen</author>
+<author pid="01/10086">Kai Olav Ellefsen</author>
+<title>RADAR: Reactive and Deliberative Adaptive Reasoning - Learning When to Think Fast and When to Think Slow.</title>
+<pages>184-189</pages>
+<year>2022</year>
+<booktitle>ICDL</booktitle>
+<ee>https://doi.org/10.1109/ICDL53763.2022.9962202</ee>
+<crossref>conf/icdl/2022</crossref>
+<url>db/conf/icdl/icdl2022.html#StrandRWSTE22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/0001MSBTN22" mdate="2022-08-20">
+<author pid="14/8174">Stephen Giguere 0001</author>
+<author pid="234/4694">Blossom Metevier</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="51/1518">Yuriy Brun</author>
+<author pid="46/11107">Philip S. Thomas</author>
+<author pid="62/8399">Scott Niekum</author>
+<title>Fairness Guarantees under Demographic Shift.</title>
+<year>2022</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=wbPObLm6ueA</ee>
+<crossref>conf/iclr/2022</crossref>
+<url>db/conf/iclr/iclr2022.html#0001MSBTN22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/AlegreB022" mdate="2022-07-12">
+<author pid="250/5118">Lucas Nunes Alegre</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<title>Optimistic Linear Support and Successor Features as a Basis for Optimal Policy Transfer.</title>
+<pages>394-413</pages>
+<year>2022</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v162/alegre22a.html</ee>
+<crossref>conf/icml/2022</crossref>
+<url>db/conf/icml/icml2022.html#AlegreB022</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/PoloskySFJ22" mdate="2023-04-21">
+<author pid="224/0888">Nicholas Polosky</author>
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<author pid="05/8090">Madalina Fiterau</author>
+<author pid="141/9732">Jithin Jagannath</author>
+<title>Constrained Offline Policy Optimization.</title>
+<pages>17801-17810</pages>
+<year>2022</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v162/polosky22a.html</ee>
+<crossref>conf/icml/2022</crossref>
+<url>db/conf/icml/icml2022.html#PoloskySFJ22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/PossebonSS22" mdate="2022-12-09">
+<author pid="257/5567">Isadora P. Possebon</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="89/1649">Alberto E. Schaeffer-Filho</author>
+<title>Look-Ahead Reinforcement Learning for Load Balancing Network Traffic.</title>
+<pages>1-6</pages>
+<year>2022</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC55528.2022.9912828</ee>
+<crossref>conf/iscc/2022</crossref>
+<url>db/conf/iscc/iscc2022.html#PossebonSS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/ChandakSB0BT22" mdate="2024-01-08">
+<author pid="168/8450">Yash Chandak</author>
+<author pid="203/9123">Shiv Shankar</author>
+<author pid="132/5837">Nathaniel D. Bastian</author>
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<author pid="27/1277">Emma Brunskill</author>
+<author pid="46/11107">Philip S. Thomas</author>
+<title>Off-Policy Evaluation for Action-Dependent Non-stationary Environments.</title>
+<year>2022</year>
+<crossref>conf/nips/2022</crossref>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2022/hash/3bf80b34f731313b8292f4578e820c90-Abstract-Conference.html</ee>
+<url>db/conf/nips/neurips2022.html#ChandakSB0BT22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-11326" mdate="2022-10-02">
+<author orcid="0000-0001-5465-4390" pid="250/5118">Lucas Nunes Alegre</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<title>Optimistic Linear Support and Successor Features as a Basis for Optimal Policy Transfer.</title>
+<year>2022</year>
+<volume>abs/2206.11326</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.11326</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-11326</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2208-11744" mdate="2022-08-30">
+<author pid="228/0689">Aline Weber</author>
+<author pid="234/4694">Blossom Metevier</author>
+<author pid="51/1518">Yuriy Brun</author>
+<author pid="46/11107">Philip S. Thomas</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<title>Enforcing Delayed-Impact Fairness Guarantees.</title>
+<year>2022</year>
+<volume>abs/2208.11744</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2208.11744</ee>
+<url>db/journals/corr/corr2208.html#abs-2208-11744</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2208-14501" mdate="2022-09-01">
+<author pid="327/9087">Rushiv Arora</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="m/JEliotBMoss">Eliot Moss</author>
+<title>Model-Based Reinforcement Learning with SINDy.</title>
+<year>2022</year>
+<volume>abs/2208.14501</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2208.14501</ee>
+<url>db/journals/corr/corr2208.html#abs-2208-14501</url>
+</article>
+</r>
+<r><article key="journals/cbm/MarconPZSDPM21" mdate="2022-10-02">
+<author pid="302/1361">Grasiela Marcon</author>
+<author pid="302/2244">Fl&#225;via de &#193;vila Pereira</author>
+<author pid="302/1833">Aline Zimerman</author>
+<author orcid="0000-0002-3708-5728" pid="75/3139">Bruno Castro da Silva</author>
+<author orcid="0000-0001-9228-7114" pid="302/1902">Lisia von Diemen</author>
+<author orcid="0000-0001-6407-8219" pid="302/1529">Ives Cavalcante Passos</author>
+<author orcid="0000-0003-2800-1032" pid="81/9882">Mariana Recamonde Mendoza</author>
+<title>Patterns of high-risk drinking among medical students: A web-based survey with machine learning.</title>
+<pages>104747</pages>
+<year>2021</year>
+<volume>136</volume>
+<journal>Comput. Biol. Medicine</journal>
+<ee>https://doi.org/10.1016/j.compbiomed.2021.104747</ee>
+<url>db/journals/cbm/cbm136.html#MarconPZSDPM21</url>
+</article>
+</r>
+<r><article key="journals/peerj-cs/AlegreBS21" mdate="2022-03-16">
+<author orcid="0000-0001-5465-4390" pid="250/5118">Lucas Nunes Alegre</author>
+<author orcid="0000-0002-2803-9607" pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<title>Quantifying the impact of non-stationarity in reinforcement learning-based traffic signal control.</title>
+<pages>e575</pages>
+<year>2021</year>
+<volume>7</volume>
+<journal>PeerJ Comput. Sci.</journal>
+<ee type="oa">https://doi.org/10.7717/peerj-cs.575</ee>
+<ee>https://www.wikidata.org/entity/Q110949882</ee>
+<url>db/journals/peerj-cs/peerj-cs7.html#AlegreBS21</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/AlegreB021" mdate="2022-07-20">
+<author pid="250/5118">Lucas Nunes Alegre</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<title>Minimum-Delay Adaptation in Non-Stationary Reinforcement Learning via Online High-Confidence Change-Point Detection.</title>
+<pages>97-105</pages>
+<year>2021</year>
+<booktitle>AAMAS</booktitle>
+<ee type="oa">https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p97.pdf</ee>
+<ee>https://dl.acm.org/doi/10.5555/3463952.3463970</ee>
+<crossref>conf/atal/2021</crossref>
+<url>db/conf/atal/aamas2021.html#AlegreB021</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/NotaTS21" mdate="2023-04-21">
+<author pid="236/4989">Chris Nota</author>
+<author pid="46/11107">Philip S. Thomas</author>
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<title>Posterior Value Functions: Hindsight Baselines for Policy Gradient Methods.</title>
+<pages>8238-8247</pages>
+<year>2021</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v139/nota21a.html</ee>
+<crossref>conf/icml/2021</crossref>
+<url>db/conf/icml/icml2021.html#NotaTS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/ChandakNSLBT21" mdate="2022-05-03">
+<author pid="168/8450">Yash Chandak</author>
+<author pid="62/8399">Scott Niekum</author>
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<author pid="l/ErikGLearnedMiller">Erik G. Learned-Miller</author>
+<author pid="27/1277">Emma Brunskill</author>
+<author pid="46/11107">Philip S. Thomas</author>
+<title>Universal Off-Policy Evaluation.</title>
+<pages>27475-27490</pages>
+<year>2021</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2021/hash/e71e5cd119bbc5797164fb0cd7fd94a4-Abstract.html</ee>
+<crossref>conf/nips/2021</crossref>
+<url>db/conf/nips/neurips2021.html#ChandakNSLBT21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-12820" mdate="2021-05-03">
+<author pid="168/8450">Yash Chandak</author>
+<author pid="62/8399">Scott Niekum</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="l/ErikGLearnedMiller">Erik G. Learned-Miller</author>
+<author pid="27/1277">Emma Brunskill</author>
+<author pid="46/11107">Philip S. Thomas</author>
+<title>Universal Off-Policy Evaluation.</title>
+<year>2021</year>
+<volume>abs/2104.12820</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.12820</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-12820</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-09452" mdate="2021-05-31">
+<author pid="250/5118">Lucas Nunes Alegre</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<title>Minimum-Delay Adaptation in Non-Stationary Reinforcement Learning via Online High-Confidence Change-Point Detection.</title>
+<year>2021</year>
+<volume>abs/2105.09452</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.09452</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-09452</url>
+</article>
+</r>
+<r><article key="journals/dafes/JordanBMOLSCRB20" mdate="2025-02-05">
+<author orcid="0000-0002-5776-2626" pid="206/8272">Michael G. Jordan</author>
+<author pid="160/4598">Marcelo Brandalero</author>
+<author pid="239/6838">Guilherme Meneguzzi Malfatti</author>
+<author pid="197/9584">Geraldo F. Oliveira</author>
+<author pid="160/4663">Arthur Francisco Lorenzon</author>
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="13/3791">Mateus B. Rutzig</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Data clustering for efficient approximate computing.</title>
+<pages>3-22</pages>
+<year>2020</year>
+<volume>24</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10617-019-09228-z</ee>
+<ee>https://www.wikidata.org/entity/Q126827486</ee>
+<url>db/journals/dafes/dafes24.html#JordanBMOLSCRB20</url>
+</article>
+</r>
+<r><article key="journals/ker/RamosSRBN20" mdate="2024-08-04">
+<author orcid="0000-0002-6488-7654" pid="133/2299">Gabriel de Oliveira Ramos</author>
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<author orcid="0000-0003-1446-5514" pid="180/3142">Roxana Radulescu</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author orcid="0000-0001-6346-4564" pid="95/232">Ann Now&#233;</author>
+<title>Toll-based reinforcement learning for efficient equilibria in route choice.</title>
+<pages>e8</pages>
+<year>2020</year>
+<volume>35</volume>
+<journal>Knowl. Eng. Rev.</journal>
+<ee>https://doi.org/10.1017/S0269888920000119</ee>
+<url>db/journals/ker/ker35.html#RamosSRBN20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-01620" mdate="2020-01-10">
+<author pid="256/1046">Manuel Del Verme</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="58/3851">Gianluca Baldassarre</author>
+<title>Optimal Options for Multi-Task Reinforcement Learning Under Time Constraints.</title>
+<year>2020</year>
+<volume>abs/2001.01620</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/2001.01620</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-01620</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-04778" mdate="2020-04-14">
+<author pid="250/5118">Lucas Nunes Alegre</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<title>Quantifying the Impact of Non-Stationarity in Reinforcement Learning-Based Traffic Signal Control.</title>
+<year>2020</year>
+<volume>abs/2004.04778</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.04778</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-04778</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-13847" mdate="2021-10-14">
+<author orcid="0000-0002-8748-9632" pid="124/0229">Vieri Giuliano Santucci</author>
+<author pid="279/6260">Davide Montella</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="58/3851">Gianluca Baldassarre</author>
+<title>Autonomous learning of multiple, context-dependent tasks.</title>
+<year>2020</year>
+<volume>abs/2011.13847</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.13847</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-13847</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/GarciaST19" mdate="2019-10-11">
+<author pid="19/10396">Francisco M. Garcia</author>
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<author pid="46/11107">Philip S. Thomas</author>
+<title>A Compression-Inspired Framework for Macro Discovery.</title>
+<pages>1973-1975</pages>
+<year>2019</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3331981</ee>
+<crossref>conf/atal/2019</crossref>
+<url>db/conf/atal/aamas2019.html#GarciaST19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdl-epirob/WeberMTS19" mdate="2020-03-27">
+<author pid="228/0689">Aline Weber</author>
+<author orcid="0000-0001-5683-7529" pid="208/2413">Charles P. Martin</author>
+<author pid="06/2570">Jim T&#248;rresen</author>
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<title>Identifying Reusable Early-Life Options.</title>
+<pages>335-340</pages>
+<year>2019</year>
+<booktitle>ICDL-EPIROB</booktitle>
+<ee>https://doi.org/10.1109/DEVLRN.2019.8850725</ee>
+<crossref>conf/icdl-epirob/2019</crossref>
+<url>db/conf/icdl-epirob/icdl-epirob2019.html#WeberMTS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/GarciaFTSTC19" mdate="2021-04-09">
+<author pid="210/9955">Rafael Garcia</author>
+<author orcid="0000-0002-2914-5380" pid="f/AlexandreXFalcao">Alexandre Xavier Falc&#227;o</author>
+<author pid="t/AlexandruTelea">Alexandru C. Telea</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="06/2570">Jim T&#248;rresen</author>
+<author pid="c/JoaoLuizDihlComba">Jo&#227;o Luiz Dihl Comba</author>
+<title>A Methodology for Neural Network Architectural Tuning Using Activation Occurrence Maps.</title>
+<pages>1-10</pages>
+<year>2019</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2019.8852223</ee>
+<crossref>conf/ijcnn/2019</crossref>
+<url>db/conf/ijcnn/ijcnn2019.html#GarciaFTSTC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nime/WeberATS19" mdate="2023-04-04">
+<author pid="228/0689">Aline Weber</author>
+<author pid="250/5118">Lucas Nunes Alegre</author>
+<author pid="06/2570">Jim T&#248;rresen</author>
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<title>Parameterized Melody Generation with Autoencoders and Temporally-Consistent Noise.</title>
+<pages>174-179</pages>
+<year>2019</year>
+<booktitle>NIME</booktitle>
+<ee type="oa">https://doi.org/10.5281/zenodo.3672914</ee>
+<crossref>conf/nime/2019</crossref>
+<url>db/conf/nime/nime2019.html#WeberATS19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-02690" mdate="2021-01-23">
+<author orcid="0000-0002-8748-9632" pid="124/0229">Vieri Giuliano Santucci</author>
+<author pid="220/4043">Emilio Cartoni</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="58/3851">Gianluca Baldassarre</author>
+<title>Autonomous Open-Ended Learning of Interdependent Tasks.</title>
+<year>2019</year>
+<volume>abs/1905.02690</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.02690</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-02690</url>
+</article>
+</r>
+<r><article key="journals/cg/GarciaTSTC18" mdate="2025-01-19">
+<author pid="210/9955">Rafael Garcia</author>
+<author pid="t/AlexandruTelea">Alexandru C. Telea</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="06/2570">Jim T&#248;rresen</author>
+<author pid="c/JoaoLuizDihlComba">Jo&#227;o Luiz Dihl Comba</author>
+<title>A task-and-technique centered survey on visual analytics for deep learning model engineering.</title>
+<pages>30-49</pages>
+<year>2018</year>
+<volume>77</volume>
+<journal>Comput. Graph.</journal>
+<ee>https://doi.org/10.1016/j.cag.2018.09.018</ee>
+<ee>https://www.wikidata.org/entity/Q129139476</ee>
+<url>db/journals/cg/cg77.html#GarciaTSTC18</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcnn/GrunitzkiSB18" mdate="2018-10-22">
+<author pid="156/3611">Ricardo Grunitzki</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<title>Towards Designing Optimal Reward Functions in Multi-Agent Reinforcement Learning Problems.</title>
+<pages>1-8</pages>
+<year>2018</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2018.8489029</ee>
+<crossref>conf/ijcnn/2018</crossref>
+<url>db/conf/ijcnn/ijcnn2018.html#GrunitzkiSB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/OliveiraBSG18" mdate="2023-08-09">
+<author pid="157/1462">Thiago Bell Felix de Oliveira</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<author pid="156/3611">Ricardo Grunitzki</author>
+<title>Comparing Multi-Armed Bandit Algorithms and Q-learning for Multiagent Action Selection: a Case Study in Route Choice.</title>
+<pages>1-8</pages>
+<year>2018</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2018.8489655</ee>
+<crossref>conf/ijcnn/2018</crossref>
+<url>db/conf/ijcnn/ijcnn2018.html#OliveiraBSG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/BrandaleroMOSGS18" mdate="2019-04-30">
+<author pid="160/4598">Marcelo Brandalero</author>
+<author pid="239/6838">Guilherme Meneguzzi Malfatti</author>
+<author pid="197/9584">Geraldo Francisco Oliveira</author>
+<author pid="193/9955">Leonardo Almeida da Silveira</author>
+<author pid="221/2862">Larissa Rozales Gon&#231;alves</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="25/5214">Luigi Carro</author>
+<author pid="02/7021">Antonio Carlos Schneider Beck</author>
+<title>Efficient Local Memory Support for Approximate Computing.</title>
+<pages>122-129</pages>
+<year>2018</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2018.00026</ee>
+<crossref>conf/sbesc/2018</crossref>
+<url>db/conf/sbesc/sbesc2018.html#BrandaleroMOSGS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/RamosSB17" mdate="2017-05-11">
+<author pid="133/2299">Gabriel de Oliveira Ramos</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<title>Learning to Minimise Regret in Route Choice.</title>
+<pages>846-855</pages>
+<year>2017</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3091244</ee>
+<crossref>conf/atal/2017</crossref>
+<url>db/conf/atal/aamas2017.html#RamosSB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/GarantSLZ17" mdate="2017-05-11">
+<author pid="131/5173">Daniel Garant</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="l/VRLesser">Victor R. Lesser</author>
+<author pid="29/6693">Chongjie Zhang</author>
+<title>Context-Based Concurrent Experience Sharing in Multiagent Systems.</title>
+<pages>1544-1546</pages>
+<year>2017</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3091356</ee>
+<crossref>conf/atal/2017</crossref>
+<url>db/conf/atal/aamas2017.html#GarantSLZ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/GrunitzkiSB17" mdate="2017-05-11">
+<author pid="156/3611">Ricardo Grunitzki</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<title>A Flexible Approach for Designing Optimal Reward Functions.</title>
+<pages>1559-1561</pages>
+<year>2017</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3091361</ee>
+<crossref>conf/atal/2017</crossref>
+<url>db/conf/atal/aamas2017.html#GrunitzkiSB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/GarciaSC17" mdate="2019-10-01">
+<author pid="210/9955">Rafael Garcia</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="c/JoaoLuizDihlComba">Jo&#227;o Luiz Dihl Comba</author>
+<title>Task-based behavior generalization via manifold clustering.</title>
+<pages>6047-6052</pages>
+<year>2017</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2017.8206503</ee>
+<crossref>conf/iros/2017</crossref>
+<url>db/conf/iros/iros2017.html#GarciaSC17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/GarantSLZ17" mdate="2018-08-13">
+<author pid="131/5173">Daniel Garant</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="l/VRLesser">Victor R. Lesser</author>
+<author pid="29/6693">Chongjie Zhang</author>
+<title>Context-Based Concurrent Experience Sharing in Multiagent Systems.</title>
+<year>2017</year>
+<volume>abs/1703.01931</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1703.01931</ee>
+<url>db/journals/corr/corr1703.html#GarantSLZ17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1708-05448" mdate="2018-08-13">
+<author pid="46/11107">Philip S. Thomas</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="a/AndrewGBarto">Andrew G. Barto</author>
+<author pid="27/1277">Emma Brunskill</author>
+<title>On Ensuring that Intelligent Machines Are Well-Behaved.</title>
+<year>2017</year>
+<volume>abs/1708.05448</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1708.05448</ee>
+<url>db/journals/corr/corr1708.html#abs-1708-05448</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-09048" mdate="2019-10-11">
+<author pid="19/10396">Francisco M. Garcia</author>
+<author pid="75/3139">Bruno C. da Silva 0001</author>
+<title>Identifying Reusable Macros for Efficient Exploration via Policy Compression.</title>
+<year>2017</year>
+<volume>abs/1711.09048</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.09048</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-09048</url>
+</article>
+</r>
+<r><inproceedings key="conf/icml/ThomasSDB16" mdate="2019-05-29">
+<author pid="46/11107">Philip S. Thomas</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="117/5869">Christoph Dann</author>
+<author pid="27/1277">Emma Brunskill</author>
+<title>Energetic Natural Gradient Descent.</title>
+<pages>2887-2895</pages>
+<year>2016</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v48/thomasb16.html</ee>
+<crossref>conf/icml/2016</crossref>
+<url>db/conf/icml/icml2016.html#ThomasSDB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/StefanelloSB16" mdate="2023-03-10">
+<author pid="164/9050">Fernando Stefanello</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<title>Using Topological Statistics to Bias and Accelerate Route Choice: Preliminary Findings in Synthetic and Real-World Road Networks.</title>
+<year>2016</year>
+<booktitle>ATT@IJCAI</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1678/paper11.pdf</ee>
+<crossref>conf/ijcai/2016att</crossref>
+<url>db/conf/ijcai/att2016.html#StefanelloSB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/SilvaKB14" mdate="2019-11-19">
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="56/6762">George Dimitri Konidaris</author>
+<author pid="a/AndrewGBarto">Andrew G. Barto</author>
+<title>Active Learning of Parameterized Skills.</title>
+<pages>1737-1745</pages>
+<year>2014</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v32/silva14.html</ee>
+<crossref>conf/icml/2014</crossref>
+<url>db/conf/icml/icml2014.html#SilvaKB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/SilvaBKB14" mdate="2020-12-29">
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author orcid="0000-0002-1277-4447" pid="58/3851">Gianluca Baldassarre</author>
+<author pid="56/6762">George Dimitri Konidaris</author>
+<author pid="a/AndrewGBarto">Andrew G. Barto</author>
+<title>Learning parameterized motor skills on a humanoid robot.</title>
+<pages>5239-5244</pages>
+<year>2014</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA.2014.6907629</ee>
+<crossref>conf/icra/2014</crossref>
+<url>db/conf/icra/icra2014.html#SilvaBKB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/CorkillZSKGLZ13" mdate="2021-01-28">
+<author pid="28/5577">Daniel D. Corkill</author>
+<author pid="29/6693">Chongjie Zhang</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="07/2501">Yoonheui Kim</author>
+<author pid="131/5173">Daniel Garant</author>
+<author pid="l/VRLesser">Victor R. Lesser</author>
+<author pid="z/XiaoqinZhang">Xiaoqin Zhang 0001</author>
+<title>Biasing the behavior of organizationally adept agents: (extended abstract).</title>
+<pages>1309-1310</pages>
+<year>2013</year>
+<booktitle>AAMAS</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2485198</ee>
+<crossref>conf/atal/2013</crossref>
+<url>db/conf/atal/aamas2013.html#CorkillZSKGLZ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/SilvaB12" mdate="2023-09-04">
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="a/AndrewGBarto">Andrew G. Barto</author>
+<title>TD-DeltaPi: A Model-Free Algorithm for Efficient Exploration.</title>
+<year>2012</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v26i1.8286</ee>
+<crossref>conf/aaai/2012</crossref>
+<url>db/conf/aaai/aaai2012.html#SilvaB12</url>
+<pages>886-892</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/SilvaKB12" mdate="2019-11-19">
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="56/6762">George Dimitri Konidaris</author>
+<author pid="a/AndrewGBarto">Andrew G. Barto</author>
+<title>Learning Parameterized Skills.</title>
+<year>2012</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://icml.cc/2012/papers/826.pdf</ee>
+<crossref>conf/icml/2012</crossref>
+<url>db/conf/icml/icml2012.html#SilvaKB12</url>
+</inproceedings>
+</r>
+<r><article key="journals/eaai/BazzanOS10" mdate="2020-02-20">
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="40/362">Denise de Oliveira</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<title>Learning in groups of traffic signals.</title>
+<pages>560-568</pages>
+<year>2010</year>
+<volume>23</volume>
+<journal>Eng. Appl. Artif. Intell.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.engappai.2009.11.009</ee>
+<url>db/journals/eaai/eaai23.html#BazzanOS10</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/BazzanS07" mdate="2018-11-06">
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<title>Distributed constraint propagation for diagnosis of faults in physical processes.</title>
+<pages>119</pages>
+<year>2007</year>
+<crossref>conf/atal/2007</crossref>
+<booktitle>AAMAS</booktitle>
+<ee>https://doi.org/10.1145/1329125.1329271</ee>
+<url>db/conf/atal/aamas2007.html#BazzanS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/SilvaBBE06" mdate="2023-09-05">
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="99/6575">Eduardo W. Basso</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="e/PauloMartinsEngel">Paulo Martins Engel</author>
+<title>RL-CD: Dealing with Non-Stationarity in Reinforcement Learning.</title>
+<year>2006</year>
+<crossref>conf/aaai/2006</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai2006.html#SilvaBBE06</url>
+<ee type="archive">http://www.aaai.org/Library/AAAI/2006/aaai06-310.php</ee>
+<pages>1863-1864</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/SilvaBPBE06" mdate="2020-10-25">
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="99/6575">Eduardo W. Basso</author>
+<author orcid="0000-0003-2283-4703" pid="73/6452">Filipo Studzinski Perotto</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="e/PauloMartinsEngel">Paulo Martins Engel</author>
+<title>Improving reinforcement learning with context detection.</title>
+<pages>810-812</pages>
+<year>2006</year>
+<crossref>conf/atal/2006</crossref>
+<booktitle>AAMAS</booktitle>
+<ee>https://doi.org/10.1145/1160633.1160779</ee>
+<url>db/conf/atal/aamas2006.html#SilvaBPBE06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/SilvaJOB06" mdate="2018-11-06">
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="75/2058">Robert Junges</author>
+<author pid="40/362">Denise de Oliveira</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<title>ITSUMO: an Intelligent Transportation System for Urban Mobility.</title>
+<pages>1471-1472</pages>
+<year>2006</year>
+<crossref>conf/atal/2006</crossref>
+<booktitle>AAMAS</booktitle>
+<ee>https://doi.org/10.1145/1160633.1160920</ee>
+<url>db/conf/atal/aamas2006.html#SilvaJOB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eumas/OliveiraBSBN06" mdate="2023-03-10">
+<author pid="40/362">Denise de Oliveira</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="99/6575">Eduardo W. Basso</author>
+<author pid="44/4882">Lu&#237;s Nunes</author>
+<title>Reinforcement Learning based Control of Traffic Lights in Non-stationary Environments: A Case Study in a Microscopic Simulator.</title>
+<year>2006</year>
+<booktitle>EUMAS</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-223/53.pdf</ee>
+<crossref>conf/eumas/2006</crossref>
+<url>db/conf/eumas/eumas2006.html#OliveiraBSBN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/SilvaBBE06" mdate="2018-11-06">
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="99/6575">Eduardo W. Basso</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="e/PauloMartinsEngel">Paulo Martins Engel</author>
+<title>Dealing with non-stationary environments using context detection.</title>
+<pages>217-224</pages>
+<year>2006</year>
+<crossref>conf/icml/2006</crossref>
+<booktitle>ICML</booktitle>
+<ee>https://doi.org/10.1145/1143844.1143872</ee>
+<url>db/conf/icml/icml2006.html#SilvaBBE06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iics/SilvaBALO04" mdate="2017-05-24">
+<author pid="75/3139">Bruno Castro da Silva</author>
+<author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author>
+<author pid="41/2644">Gustavo Kuhn Andriotti</author>
+<author pid="50/5588">Filipe Lopes</author>
+<author pid="40/362">Denise de Oliveira</author>
+<title>ITSUMO: An Intelligent Transportation System for Urban Mobility.</title>
+<pages>224-235</pages>
+<year>2004</year>
+<crossref>conf/iics/2004</crossref>
+<booktitle>IICS</booktitle>
+<ee>https://doi.org/10.1007/11553762_22</ee>
+<url>db/conf/iics/iics2004.html#SilvaBALO04</url>
+</inproceedings>
+</r>
+<coauthors n="101" nc="1">
+<co c="0"><na f="a/Aggarwal:Pranjal" pid="163/0764">Pranjal Aggarwal</na></co>
+<co c="0" n="2"><na f="a/Alegre:Lucas_Nunes" pid="250/5118">Lucas Nunes Alegre</na><na>Lucas N. Alegre</na></co>
+<co c="0"><na f="a/Andriotti:Gustavo_Kuhn" pid="41/2644">Gustavo Kuhn Andriotti</na></co>
+<co c="0"><na f="a/Arora:Rushiv" pid="327/9087">Rushiv Arora</na></co>
+<co c="0"><na f="a/Ayoub:Alex" pid="266/8071">Alex Ayoub</na></co>
+<co c="0"><na f="b/Baldassarre:Gianluca" pid="58/3851">Gianluca Baldassarre</na></co>
+<co c="0"><na f="b/Barreto:Andr=eacute=" pid="407/7248">Andr&#233; Barreto</na></co>
+<co c="0"><na f="b/Barto:Andrew_G=" pid="a/AndrewGBarto">Andrew G. Barto</na></co>
+<co c="0"><na f="b/Basso:Eduardo_W=" pid="99/6575">Eduardo W. Basso</na></co>
+<co c="0"><na f="b/Bastian:Nathaniel_D=" pid="132/5837">Nathaniel D. Bastian</na></co>
+<co c="0"><na f="b/Bazzan:Ana_L=_C=" pid="b/AnaLCBazzan">Ana L. C. Bazzan</na></co>
+<co c="0"><na f="b/Beck:Antonio_Carlos_Schneider" pid="02/7021">Antonio Carlos Schneider Beck</na></co>
+<co c="0"><na f="b/Brandalero:Marcelo" pid="160/4598">Marcelo Brandalero</na></co>
+<co c="0"><na f="b/Brun:Yuriy" pid="51/1518">Yuriy Brun</na></co>
+<co c="0"><na f="b/Brunskill:Emma" pid="27/1277">Emma Brunskill</na></co>
+<co c="0"><na f="c/Carro:Luigi" pid="25/5214">Luigi Carro</na></co>
+<co c="0"><na f="c/Cartoni:Emilio" pid="220/4043">Emilio Cartoni</na></co>
+<co c="0"><na f="c/Chan:Bryan" pid="45/2096">Bryan Chan</na></co>
+<co c="0"><na f="c/Chandak:Yash" pid="168/8450">Yash Chandak</na></co>
+<co c="0"><na f="c/Chaudhari:Shreyas" pid="209/9835">Shreyas Chaudhari</na></co>
+<co c="0"><na f="c/Comba:Jo=atilde=o_Luiz_Dihl" pid="c/JoaoLuizDihlComba">Jo&#227;o Luiz Dihl Comba</na></co>
+<co c="0"><na f="c/Corkill:Daniel_D=" pid="28/5577">Daniel D. Corkill</na></co>
+<co c="0"><na f="d/Dann:Christoph" pid="117/5869">Christoph Dann</na></co>
+<co c="0"><na f="d/Danoy:Gr=eacute=goire" pid="76/5031">Gr&#233;goire Danoy</na></co>
+<co c="0"><na f="d/Deshpande:Ameet" pid="220/4337">Ameet Deshpande</na></co>
+<co c="0"><na f="d/Diemen:Lisia_von" pid="302/1902">Lisia von Diemen</na></co>
+<co c="0"><na f="e/Ellefsen:Kai_Olav" pid="01/10086">Kai Olav Ellefsen</na></co>
+<co c="0"><na f="e/Engel:Paulo_Martins" pid="e/PauloMartinsEngel">Paulo Martins Engel</na></co>
+<co c="0" n="2"><na f="f/Falc=atilde=o:Alexandre_X=" pid="f/AlexandreXFalcao">Alexandre X. Falc&#227;o</na><na>Alexandre Xavier Falc&#227;o</na></co>
+<co c="0"><na f="f/Felten:Florian" pid="315/7185">Florian Felten</na></co>
+<co c="0" n="2"><na f="f/Filho:Alberto_E=_Schaeffer" pid="89/1649">Alberto E. Schaeffer Filho</na><na>Alberto E. Schaeffer-Filho</na></co>
+<co c="0"><na f="f/Fiterau:Madalina" pid="05/8090">Madalina Fiterau</na></co>
+<co c="0"><na f="g/Garant:Daniel" pid="131/5173">Daniel Garant</na></co>
+<co c="0"><na f="g/Garcia:Francisco_M=" pid="19/10396">Francisco M. Garcia</na></co>
+<co c="0"><na f="g/Garcia:Rafael" pid="210/9955">Rafael Garcia</na></co>
+<co c="0"><na f="g/Giguere_0001:Stephen" pid="14/8174">Stephen Giguere 0001</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Larissa_Rozales" pid="221/2862">Larissa Rozales Gon&#231;alves</na></co>
+<co c="0"><na f="g/Grunitzki:Ricardo" pid="156/3611">Ricardo Grunitzki</na></co>
+<co c="0"><na f="g/Gupta:Dhawal" pid="231/0618">Dhawal Gupta</na></co>
+<co c="0"><na f="h/Hoag:Austin" pid="351/8458">Austin Hoag</na></co>
+<co c="0"><na f="j/Jagannath:Jithin" pid="141/9732">Jithin Jagannath</na></co>
+<co c="0"><na f="j/Jordan:Michael_G=" pid="206/8272">Michael G. Jordan</na></co>
+<co c="0"><na f="j/Jordan:Scott_M=" pid="222/1982">Scott M. Jordan</na></co>
+<co c="0"><na f="j/Junges:Robert" pid="75/2058">Robert Junges</na></co>
+<co c="0"><na f="k/Kalyan:Ashwin" pid="222/3348">Ashwin Kalyan</na></co>
+<co c="0"><na f="k/Kim:Yoonheui" pid="07/2501">Yoonheui Kim</na></co>
+<co c="0"><na f="k/Konidaris:George_Dimitri" pid="56/6762">George Dimitri Konidaris</na></co>
+<co c="0"><na f="k/Kostas:James_E=" pid="236/4207">James E. Kostas</na></co>
+<co c="0"><na f="l/Learned=Miller:Erik_G=" pid="l/ErikGLearnedMiller">Erik G. Learned-Miller</na></co>
+<co c="0"><na f="l/Lesser:Victor_R=" pid="l/VRLesser">Victor R. Lesser</na></co>
+<co c="0"><na f="l/Liu_0006:Bo" pid="58/2670-6">Bo Liu 0006</na></co>
+<co c="0"><na f="l/Lopes:Filipe" pid="50/5588">Filipe Lopes</na></co>
+<co c="0"><na f="l/Lorenzon:Arthur_Francisco" pid="160/4663">Arthur Francisco Lorenzon</na></co>
+<co c="0"><na f="m/Malfatti:Guilherme_Meneguzzi" pid="239/6838">Guilherme Meneguzzi Malfatti</na></co>
+<co c="0"><na f="m/Marcon:Grasiela" pid="302/1361">Grasiela Marcon</na></co>
+<co c="0"><na f="m/Martin:Charles_P=" pid="208/2413">Charles P. Martin</na></co>
+<co c="0"><na f="m/Mendoza:Mariana_Recamonde" pid="81/9882">Mariana Recamonde Mendoza</na></co>
+<co c="0"><na f="m/Metevier:Blossom" pid="234/4694">Blossom Metevier</na></co>
+<co c="0"><na f="m/Montella:Davide" pid="279/6260">Davide Montella</na></co>
+<co c="0" n="2"><na f="m/Moss:J=_Eliot_B=" pid="m/JEliotBMoss">J. Eliot B. Moss</na><na>Eliot Moss</na></co>
+<co c="0"><na f="m/Murahari:Vishvak" pid="249/5621">Vishvak Murahari</na></co>
+<co c="0"><na f="n/Narasimhan:Karthik" pid="147/0322">Karthik Narasimhan</na></co>
+<co c="0"><na f="n/Niekum:Scott" pid="62/8399">Scott Niekum</na></co>
+<co c="0"><na f="n/Nota:Chris" pid="236/4989">Chris Nota</na></co>
+<co c="0"><na f="n/Now=eacute=:Ann" pid="95/232">Ann Now&#233;</na></co>
+<co c="0"><na f="n/Nunes:Lu=iacute=s" pid="44/4882">Lu&#237;s Nunes</na></co>
+<co c="0"><na f="o/Oliveira:Denise_de" pid="40/362">Denise de Oliveira</na></co>
+<co c="0" n="2"><na f="o/Oliveira:Geraldo_F=" pid="197/9584">Geraldo F. Oliveira</na><na>Geraldo Francisco Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Thiago_Bell_Felix_de" pid="157/1462">Thiago Bell Felix de Oliveira</na></co>
+<co c="0"><na f="p/Passos:Ives_Cavalcante" pid="302/1529">Ives Cavalcante Passos</na></co>
+<co c="0"><na f="p/Pereira:Fl=aacute=via_de_=Aacute=vila" pid="302/2244">Fl&#225;via de &#193;vila Pereira</na></co>
+<co c="0"><na f="p/Perotto:Filipo_Studzinski" pid="73/6452">Filipo Studzinski Perotto</na></co>
+<co c="0"><na f="p/Polosky:Nicholas" pid="224/0888">Nicholas Polosky</na></co>
+<co c="0"><na f="p/Possebon:Isadora_P=" pid="257/5567">Isadora P. Possebon</na></co>
+<co c="0"><na f="r/Radulescu:Roxana" pid="180/3142">Roxana Radulescu</na></co>
+<co c="0"><na f="r/Rajpurohit:Tanmay" pid="119/9714">Tanmay Rajpurohit</na></co>
+<co c="0"><na f="r/Ramos:Gabriel_de_Oliveira" pid="133/2299">Gabriel de Oliveira Ramos</na></co>
+<co c="0"><na f="r/Reilstad:Didrik_Spanne" pid="335/1556">Didrik Spanne Reilstad</na></co>
+<co c="0"><na f="r/Roijers:Diederik_M=" pid="116/9425">Diederik M. Roijers</na></co>
+<co c="0"><na f="r/Rutzig:Mateus_B=" pid="13/3791">Mateus B. Rutzig</na></co>
+<co c="0" n="2"><na f="s/Santucci:Vieri_G=" pid="124/0229">Vieri G. Santucci</na><na>Vieri Giuliano Santucci</na></co>
+<co c="0"><na f="s/Schuurmans:Dale" pid="96/6660">Dale Schuurmans</na></co>
+<co c="0"><na f="s/Shankar:Shiv" pid="203/9123">Shiv Shankar</na></co>
+<co c="0"><na f="s/Silveira:Leonardo_Almeida_da" pid="193/9955">Leonardo Almeida da Silveira</na></co>
+<co c="0"><na f="s/Stefanello:Fernando" pid="164/9050">Fernando Stefanello</na></co>
+<co c="0"><na f="s/Strand:=Oslash=rjan" pid="335/2034">&#216;rjan Strand</na></co>
+<co c="0"><na f="s/Szepesvari:David" pid="191/6739">David Szepesvari</na></co>
+<co c="0"><na f="t/Talbi:El=Ghazali" pid="74/3045">El-Ghazali Talbi</na></co>
+<co c="0"><na f="t/Telea:Alexandru_C=" pid="t/AlexandruTelea">Alexandru C. Telea</na></co>
+<co c="0"><na f="t/Theocharous:Georgios" pid="90/508">Georgios Theocharous</na></co>
+<co c="0"><na f="t/Thomas:Philip_S=" pid="46/11107">Philip S. Thomas</na></co>
+<co c="0" n="2"><na f="t/T=oslash=rresen:Jim" pid="06/2570">Jim T&#248;rresen</na><na>Jim Torresen</na></co>
+<co c="0"><na f="v/Verme:Manuel_Del" pid="256/1046">Manuel Del Verme</na></co>
+<co c="0"><na f="w/Weber:Aline" pid="228/0689">Aline Weber</na></co>
+<co c="0"><na f="w/White_0001:Adam" pid="05/3110">Adam White 0001</na></co>
+<co c="0"><na f="w/White:Martha" pid="60/7057">Martha White</na></co>
+<co c="0"><na f="w/Wu:Zhenying" pid="335/1768">Zhenying Wu</na></co>
+<co c="0"><na f="z/Zanini:Francesco" pid="48/7129">Francesco Zanini</na></co>
+<co c="0"><na f="z/Zhang:Chongjie" pid="29/6693">Chongjie Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Xiaoqin" pid="z/XiaoqinZhang">Xiaoqin Zhang 0001</na></co>
+<co c="0"><na f="z/Zimerman:Aline" pid="302/1833">Aline Zimerman</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,2478 @@
+<?xml version="1.0"?>
+<dblpperson name="Jos&#233; Palazzo M. de Oliveira" pid="o/JosePalazzoMoreiradeOliveira" n="159">
+<person key="homepages/o/JosePalazzoMoreiradeOliveira" mdate="2022-02-15">
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<url>http://www.inf.ufrgs.br/~palazzo</url>
+<url>https://scholar.google.com/citations?user=8Xw1b6oAAAAJ</url>
+<url>https://dl.acm.org/profile/81318498184</url>
+<url>https://twitter.com/prof_palazzo</url>
+<url>https://orcid.org/0000-0002-9166-8801</url>
+<url>https://www.wikidata.org/entity/Q56461951</url>
+<url>http://lattes.cnpq.br/5558354805733623</url>
+<note type="affiliation">Federal University of Rio Grande do Sul, Institute of Informatics</note>
+</person>
+<r><article key="journals/fgcs/NascimentoO25" mdate="2025-06-11">
+<author orcid="0000-0002-2197-3106" pid="45/3567">Leonardo Vianna do Nascimento</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>A multi-agent architecture for context sources integration in smart cities.</title>
+<pages>107862</pages>
+<year>2025</year>
+<volume>172</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2025.107862</ee>
+<url>db/journals/fgcs/fgcs172.html#NascimentoO25</url>
+<stream>streams/journals/fgcs</stream>
+</article>
+</r>
+<r><article key="journals/kais/MaruyamaSJCOM25" mdate="2025-05-02">
+<author orcid="0000-0002-2606-581X" pid="348/5782">Martin Hideki Mensch Maruyama</author>
+<author orcid="0000-0002-0187-3554" pid="348/6333">Luan Willig Silveira</author>
+<author orcid="0000-0001-8783-9578" pid="296/0961">Elvandi da Silva J&#250;nior</author>
+<author orcid="0009-0009-5420-7334" pid="376/4583">Gabriel Vieira Casanova</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<author orcid="0000-0003-1916-8893" pid="157/0431">Vin&#237;cius Maran</author>
+<title>Recommender systems in smart campus: a systematic mapping.</title>
+<pages>2063-2089</pages>
+<year>2025</year>
+<month>March</month>
+<volume>67</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10115-024-02240-1</ee>
+<url>db/journals/kais/kais67.html#MaruyamaSJCOM25</url>
+<stream>streams/journals/kais</stream>
+</article>
+</r>
+<r><inproceedings key="conf/iceis/LichtnowFNMO25" mdate="2025-05-02">
+<author pid="82/449">Daniel Lichtnow</author>
+<author pid="92/4826">Ana Marilza Pernas Fleischmann</author>
+<author pid="45/3567">Leonardo Vianna do Nascimento</author>
+<author pid="151/0952">Guilherme Medeiros Machado</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Pipeline for Ontology Construction Using a Large Language Model: A Smart Campus Use Case.</title>
+<pages>97-104</pages>
+<year>2025</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0013096000003929</ee>
+<crossref>conf/iceis/2025-2</crossref>
+<url>db/conf/iceis/iceis2025-2.html#LichtnowFNMO25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csedu/JuniorCLDPOM24" mdate="2025-05-02">
+<author pid="296/0961">Elvandi da Silva J&#250;nior</author>
+<author pid="376/4583">Gabriel Vieira Casanova</author>
+<author orcid="0009-0006-4189-3812" pid="376/4170">Daniel Youssef de Hollanda Lopes</author>
+<author pid="376/4406">Ana Paula Militz Dorneles</author>
+<author pid="376/4491">Renan Bordignon Poy</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<author pid="157/0431">Vin&#237;cius Maran</author>
+<title>Optimizing Academic Pairings in Smart Campuses: A Recommendation System for Academic Communities.</title>
+<pages>124-134</pages>
+<year>2024</year>
+<booktitle>CSEDU (1)</booktitle>
+<ee>https://doi.org/10.5220/0012630200003693</ee>
+<crossref>conf/csedu/2024-1</crossref>
+<url>db/conf/csedu/csedu2024-1.html#JuniorCLDPOM24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/CezarGLLO24" mdate="2024-06-05">
+<author pid="296/6247">Nath&#225;lia Locatelli Cezar</author>
+<author pid="83/667">Isabela Gasparini</author>
+<author pid="82/449">Daniel Lichtnow</author>
+<author pid="224/7031">Gabriel Machado Lunardi</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Exploring Strategies to Mitigate Cold Start in Recommender Systems: A Systematic Literature Mapping.</title>
+<pages>965-972</pages>
+<year>2024</year>
+<booktitle>ICEIS (1)</booktitle>
+<ee>https://doi.org/10.5220/0012550700003690</ee>
+<crossref>conf/iceis/2024-1</crossref>
+<url>db/conf/iceis/iceis2024-1.html#CezarGLLO24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csedu/SantosGO23" mdate="2023-06-26">
+<author pid="348/6263">Diego Alessandro Pereira dos Santos</author>
+<author pid="83/667">Isabela Gasparini</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Recommendation of Educational Resources in a Blended Learning Environment.</title>
+<pages>15-24</pages>
+<year>2023</year>
+<booktitle>CSEDU (1)</booktitle>
+<ee>https://doi.org/10.5220/0011689500003470</ee>
+<crossref>conf/csedu/2023-1</crossref>
+<url>db/conf/csedu/csedu2023-1.html#SantosGO23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csedu/MaruyamaSOGM23" mdate="2023-06-26">
+<author pid="348/5782">Martin Hideki Mensch Maruyama</author>
+<author pid="348/6333">Luan Willig Silveira</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<author pid="83/667">Isabela Gasparini</author>
+<author pid="157/0431">Vin&#237;cius Maran</author>
+<title>Hybrid Recommender System for Educational Resources to the Smart University Campus Domain.</title>
+<pages>47-56</pages>
+<year>2023</year>
+<booktitle>CSEDU (1)</booktitle>
+<ee>https://doi.org/10.5220/0011841900003470</ee>
+<crossref>conf/csedu/2023-1</crossref>
+<url>db/conf/csedu/csedu2023-1.html#MaruyamaSOGM23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/NascimentoO23" mdate="2023-11-09">
+<author orcid="0000-0002-2197-3106" pid="45/3567">Leonardo Vianna do Nascimento</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>An Ontology for Context Modeling in Smart Spaces.</title>
+<pages>354-371</pages>
+<year>2023</year>
+<booktitle>ER</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-47262-6_19</ee>
+<crossref>conf/er/2023</crossref>
+<url>db/conf/er/er2023.html#NascimentoO23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bpmds/CamargoBDOSPT22" mdate="2023-06-26">
+<author pid="321/1524">Jo&#227;o Vitor de Camargo</author>
+<author pid="300/5266">Nicolas Mauro de Moreira Bohnenberger</author>
+<author orcid="0000-0002-0827-3711" pid="224/6323">Vinicius Stein Dani</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<author pid="91/430">Encarna Sosa S&#225;nchez</author>
+<author pid="35/4242">Gregor Polancic</author>
+<author orcid="0000-0002-0620-9302" pid="29/181">Lucin&#233;ia Heloisa Thom</author>
+<title>A Complementary Analysis of the Behavior of BPMN Tools Regarding Process Modeling Problems.</title>
+<pages>43-59</pages>
+<year>2022</year>
+<booktitle>BPMDS/EMMSAD@CAiSE</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-07475-2_4</ee>
+<crossref>conf/bpmds/2022</crossref>
+<url>db/conf/bpmds/bpmds2022.html#CamargoBDOSPT22</url>
+</inproceedings>
+</r>
+<r><article key="journals/computing/MachadoMLWO21" mdate="2021-04-29">
+<author orcid="0000-0001-5283-9228" pid="151/0952">Guilherme Medeiros Machado</author>
+<author orcid="0000-0003-1916-8893" pid="157/0431">Vin&#237;cius Maran</author>
+<author orcid="0000-0001-6655-184X" pid="224/7031">Gabriel Machado Lunardi</author>
+<author orcid="0000-0002-8391-446X" pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>AwARE: a framework for adaptive recommendation of educational resources.</title>
+<pages>675-705</pages>
+<year>2021</year>
+<volume>103</volume>
+<journal>Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00607-021-00903-3</ee>
+<url>db/journals/computing/computing103.html#MachadoMLWO21</url>
+</article>
+</r>
+<r><article key="journals/computing/NascimentoMMO21" mdate="2021-05-16">
+<author orcid="0000-0002-2197-3106" pid="45/3567">Leonardo Vianna do Nascimento</author>
+<author pid="151/0952">Guilherme Medeiros Machado</author>
+<author pid="157/0431">Vin&#237;cius Maran</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>Context recognition and ubiquitous computing in smart cities: a systematic mapping.</title>
+<pages>801-825</pages>
+<year>2021</year>
+<volume>103</volume>
+<journal>Computing</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s00607-020-00878-7</ee>
+<url>db/journals/computing/computing103.html#NascimentoMMO21</url>
+</article>
+</r>
+<r><inproceedings key="conf/iceis/MaieronO21" mdate="2021-05-31">
+<author pid="293/7245">Mcdonnell Ara&#250;jo Maieron</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Open Data Integration in 3D CityGML-based Models Generation.</title>
+<pages>167-174</pages>
+<year>2021</year>
+<booktitle>ICEIS (1)</booktitle>
+<ee>https://doi.org/10.5220/0010383201670174</ee>
+<crossref>conf/iceis/2021-1</crossref>
+<url>db/conf/iceis/iceis2021-1.html#MaieronO21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/um/MachadoBO21" mdate="2021-06-24">
+<author pid="151/0952">Guilherme Medeiros Machado</author>
+<author pid="19/4358">Anne Boyer</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>1st International Workshop on Learning Path Recommender Systems.</title>
+<pages>88-89</pages>
+<year>2021</year>
+<booktitle>UMAP (Adjunct Publication)</booktitle>
+<ee>https://doi.org/10.1145/3450614.3461455</ee>
+<crossref>conf/um/2021a</crossref>
+<url>db/conf/um/umap2021a.html#MachadoBO21</url>
+</inproceedings>
+</r>
+<r><article key="journals/asc/LunardiMMO20" mdate="2021-12-25">
+<author orcid="0000-0001-6655-184X" pid="224/7031">Gabriel Machado Lunardi</author>
+<author orcid="0000-0001-5283-9228" pid="151/0952">Guilherme Medeiros Machado</author>
+<author orcid="0000-0003-1916-8893" pid="157/0431">Vin&#237;cius Maran</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>A metric for Filter Bubble measurement in recommender algorithms considering the news domain.</title>
+<pages>106771</pages>
+<year>2020</year>
+<volume>97</volume>
+<journal>Appl. Soft Comput.</journal>
+<number>Part</number>
+<ee>https://doi.org/10.1016/j.asoc.2020.106771</ee>
+<url>db/journals/asc/asc97.html#LunardiMMO20</url>
+</article>
+</r>
+<r><article key="journals/dke/LimaLMO20" mdate="2024-05-07">
+<author pid="178/7719">Lucas Henrique C. Lima</author>
+<author pid="l/AHFLaender">Alberto H. F. Laender</author>
+<author orcid="0000-0002-0545-2001" pid="m/MirellaMouraMoro">Mirella M. Moro</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>An analysis of the collaboration network of the International Conference on Conceptual Modeling at the Age of 40.</title>
+<pages>101866</pages>
+<year>2020</year>
+<volume>130</volume>
+<journal>Data Knowl. Eng.</journal>
+<ee>https://doi.org/10.1016/j.datak.2020.101866</ee>
+<url>db/journals/dke/dke130.html#LimaLMO20</url>
+</article>
+</r>
+<r><inproceedings key="conf/caise/BarrosOR20" mdate="2023-03-10">
+<author pid="281/3280">Rhuan Paulo Lopes Barros</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<author pid="281/3252">Lucian Rocha</author>
+<title>Programming the Nationality Identity in the Federal Constitution of Brazil.</title>
+<pages>48-53</pages>
+<year>2020</year>
+<booktitle>COUrT@CAiSE</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2690/COUrT-paper5.pdf</ee>
+<crossref>conf/caise/2020court</crossref>
+<url>db/conf/caise/court2020.html#BarrosOR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csedu/CarvalhoGMWO20" mdate="2022-12-07">
+<author pid="266/4819">Guilherme Xavier de Carvalho</author>
+<author pid="83/667">Isabela Gasparini</author>
+<author pid="151/0952">Guilherme Medeiros Machado</author>
+<author orcid="0000-0002-8391-446X" pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>POI-based Recommender System for the Support of Academics in a Smart Campus.</title>
+<pages>398-405</pages>
+<year>2020</year>
+<booktitle>CSEDU (2)</booktitle>
+<ee>https://doi.org/10.5220/0009514003980405</ee>
+<crossref>conf/csedu/2020-2</crossref>
+<url>db/conf/csedu/csedu2020-2.html#CarvalhoGMWO20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/SantosFOT20" mdate="2021-04-09">
+<author pid="166/2221">Carlos Francisco Habekost dos Santos</author>
+<author orcid="0000-0001-6261-1497" pid="83/468">Marcelo Fantinato</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<author pid="29/181">Lucin&#233;ia Heloisa Thom</author>
+<title>Evaluating Support for Implementing BPMN 2.0 Elements in Business Process Management Systems.</title>
+<pages>193-200</pages>
+<year>2020</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0009356501930200</ee>
+<crossref>conf/iceis/2020-2</crossref>
+<url>db/conf/iceis/iceis2020-2.html#SantosFOT20</url>
+</inproceedings>
+</r>
+<r><article key="journals/asc/TeixeiraMOWM19" mdate="2025-01-19">
+<author orcid="0000-0002-7373-991X" pid="168/4745">Milene Santos Teixeira</author>
+<author orcid="0000-0003-1916-8893" pid="157/0431">Vin&#237;cius Maran</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<author orcid="0000-0003-0847-0448" pid="43/5128-1">Michael Winter 0001</author>
+<author orcid="0000-0003-2462-7353" pid="117/6139">Alencar Machado</author>
+<title>Situation-aware model for multi-objective decision making in ambient intelligence.</title>
+<year>2019</year>
+<volume>81</volume>
+<journal>Appl. Soft Comput.</journal>
+<ee>https://doi.org/10.1016/j.asoc.2019.105532</ee>
+<ee>https://www.wikidata.org/entity/Q127761109</ee>
+<url>db/journals/asc/asc81.html#TeixeiraMOWM19</url>
+</article>
+</r>
+<r><article key="journals/isys/SchiefelbeinSMO19" mdate="2024-02-15">
+<author pid="218/4841">Un Hee Schiefelbein</author>
+<author pid="232/9160">Diovane Soligo</author>
+<author pid="157/0431">Vin&#237;cius Maran</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<author pid="53/8821">Jo&#227;o Carlos Damasceno Lima</author>
+<author pid="117/6139">Alencar Machado</author>
+<title>Internet of Things Based on Situation-Awareness for Energy Efficiency.</title>
+<pages>28-53</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Braz. J. Inf. Syst.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5753/isys.2019.382</ee>
+<url>db/journals/isys/isys12.html#SchiefelbeinSMO19</url>
+</article>
+</r>
+<r><inproceedings key="conf/dexa/BiazusSTOFMT19" mdate="2019-08-21">
+<author orcid="0000-0003-2098-3502" pid="247/1358">Miller Biazus</author>
+<author orcid="0000-0003-3291-5208" pid="166/2221">Carlos Habekost dos Santos</author>
+<author orcid="0000-0002-4035-7368" pid="247/1368">Larissa Narumi Takeda</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<author orcid="0000-0001-6261-1497" pid="83/468">Marcelo Fantinato</author>
+<author orcid="0000-0002-7260-524X" pid="m/JanMendling">Jan Mendling</author>
+<author orcid="0000-0002-0620-9302" pid="29/181">Lucin&#233;ia Heloisa Thom</author>
+<title>Software Resource Recommendation for Process Execution Based on the Organization's Profile.</title>
+<pages>118-128</pages>
+<year>2019</year>
+<booktitle>DEXA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-27618-8_9</ee>
+<crossref>conf/dexa/2019-2</crossref>
+<url>db/conf/dexa/dexa2019-2.html#BiazusSTOFMT19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/er/2019" mdate="2020-03-27">
+<editor pid="l/AHFLaender">Alberto H. F. Laender</editor>
+<editor orcid="0000-0002-2034-9774" pid="p/BarbaraPernici">Barbara Pernici</editor>
+<editor orcid="0000-0003-0065-8665" pid="l/EePengLim">Ee-Peng Lim</editor>
+<editor pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</editor>
+<title>Conceptual Modeling - 38th International Conference, ER 2019, Salvador, Brazil, November 4-7, 2019, Proceedings</title>
+<booktitle>ER</booktitle>
+<publisher>Springer</publisher>
+<year>2019</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>11788</volume>
+<isbn>978-3-030-33222-8</isbn>
+<isbn>978-3-030-33223-5</isbn>
+<ee>https://doi.org/10.1007/978-3-030-33223-5</ee>
+<url>db/conf/er/er2019.html</url>
+</proceedings>
+</r>
+<r><article key="journals/computing/MachadoMDGTO18" mdate="2023-06-26">
+<author orcid="0000-0001-5283-9228" pid="151/0952">Guilherme Medeiros Machado</author>
+<author orcid="0000-0003-1916-8893" pid="157/0431">Vin&#237;cius Maran</author>
+<author pid="215/5811">Lorayne P. Dornelles</author>
+<author orcid="0000-0002-8094-9261" pid="83/667">Isabela Gasparini</author>
+<author orcid="0000-0002-0620-9302" pid="29/181">Lucin&#233;ia Heloisa Thom</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>A systematic mapping on adaptive recommender approaches for ubiquitous environments.</title>
+<pages>183-209</pages>
+<year>2018</year>
+<volume>100</volume>
+<journal>Computing</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00607-017-0572-7</ee>
+<url>db/journals/computing/computing100.html#MachadoMDGTO18</url>
+</article>
+</r>
+<r><article key="journals/dke/MaranMMAO18" mdate="2025-03-03">
+<author orcid="0000-0003-1916-8893" pid="157/0431">Vin&#237;cius Maran</author>
+<author pid="117/6139">Alencar Machado</author>
+<author pid="151/0952">Guilherme Medeiros Machado</author>
+<author pid="64/3911">Iara Augustin</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>Domain content querying using ontology-based context-awareness in information systems.</title>
+<pages>152-173</pages>
+<year>2018</year>
+<volume>115</volume>
+<journal>Data Knowl. Eng.</journal>
+<ee>https://doi.org/10.1016/j.datak.2018.03.003</ee>
+<ee>https://www.wikidata.org/entity/Q130114163</ee>
+<url>db/journals/dke/dke115.html#MaranMMAO18</url>
+</article>
+</r>
+<r><article key="journals/information/MaranMMAO18" mdate="2024-06-18">
+<author orcid="0000-0003-1916-8893" pid="157/0431">Vin&#237;cius Maran</author>
+<author pid="151/0952">Guilherme Medeiros Machado</author>
+<author pid="117/6139">Alencar Machado</author>
+<author pid="64/3911">Iara Augustin</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>UPCaD: A Methodology of Integration Between Ontology-Based Context-Awareness Modeling and Relational Domain Data.</title>
+<pages>30</pages>
+<year>2018</year>
+<volume>9</volume>
+<journal>Inf.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.3390/info9020030</ee>
+<url>db/journals/information/information9.html#MaranMMAO18</url>
+</article>
+</r>
+<r><article key="journals/iot/LunardiMSMMMMO18" mdate="2025-01-19">
+<author pid="224/7031">Gabriel Machado Lunardi</author>
+<author pid="66/9202">Fadi Al Machot</author>
+<author orcid="0000-0003-0227-5000" pid="21/6084">Vladimir A. Shekhovtsov</author>
+<author orcid="0000-0003-1916-8893" pid="157/0431">Vin&#237;cius Maran</author>
+<author pid="151/0952">Guilherme Medeiros Machado</author>
+<author pid="117/6139">Alencar Machado</author>
+<author pid="89/200">Heinrich C. Mayr</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>IoT-based human action prediction and support.</title>
+<pages>52-68</pages>
+<year>2018</year>
+<volume>3-4</volume>
+<journal>Internet Things</journal>
+<ee>https://doi.org/10.1016/j.iot.2018.09.007</ee>
+<ee>https://www.wikidata.org/entity/Q129189117</ee>
+<url>db/journals/iot/iot3.html#LunardiMSMMMMO18</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/LunardiMMMMMSO18" mdate="2023-03-24">
+<author orcid="0000-0001-6655-184X" pid="224/7031">Gabriel Machado Lunardi</author>
+<author pid="151/0952">Guilherme Medeiros Machado</author>
+<author pid="66/9202">Fadi Al Machot</author>
+<author orcid="0000-0003-1916-8893" pid="157/0431">Vin&#237;cius Maran</author>
+<author pid="117/6139">Alencar Machado</author>
+<author pid="89/200">Heinrich C. Mayr</author>
+<author pid="21/6084">Vladimir A. Shekhovtsov</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>Probabilistic Ontology Reasoning in Ambient Assistance: Predicting Human Actions.</title>
+<pages>593-600</pages>
+<year>2018</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2018.00092</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AINA.2018.00092</ee>
+<crossref>conf/aina/2018</crossref>
+<url>db/conf/aina/aina2018.html#LunardiMMMMMSO18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ontobras/LunardiMMO18" mdate="2023-03-10">
+<author pid="224/7031">Gabriel Machado Lunardi</author>
+<author pid="151/0952">Guilherme Medeiros Machado</author>
+<author pid="117/6139">Alencar Machado</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>Um Modelo Ontol&#243;gico Probabil&#237;stico para Assistir Pessoas com Decl&#237;nio Cognitivo(A Probabilistic Ontological Model to Support People with Cognitive Limitations).</title>
+<pages>185-196</pages>
+<year>2018</year>
+<booktitle>ONTOBRAS</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2228/paper13.pdf</ee>
+<crossref>conf/ontobras/2018</crossref>
+<url>db/conf/ontobras/ontobras2018.html#LunardiMMO18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/SilvaTWOF18" mdate="2018-11-02">
+<author orcid="0000-0003-0347-5573" pid="181/9035">Thanner Soares Silva</author>
+<author orcid="0000-0002-0620-9302" pid="29/181">Lucin&#233;ia Heloisa Thom</author>
+<author orcid="0000-0001-8196-794X" pid="228/0689">Aline Weber</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<author orcid="0000-0001-6261-1497" pid="83/468">Marcelo Fantinato</author>
+<title>Empirical Analysis of Sentence Templates and Ambiguity Issues for Business Process Descriptions.</title>
+<pages>279-297</pages>
+<year>2018</year>
+<booktitle>OTM Conferences (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-02610-3_16</ee>
+<crossref>conf/otm/2018-1</crossref>
+<url>db/conf/otm/otm2018-1.html#SilvaTWOF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/SchiefelbeinSMO18" mdate="2020-03-27">
+<author pid="218/4841">Un Hee Schiefelbein</author>
+<author pid="232/9160">Diovane Soligo</author>
+<author orcid="0000-0003-1916-8893" pid="157/0431">Vin&#237;cius Maran</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<author pid="53/8821">Jo&#227;o Carlos Damasceno Lima</author>
+<author pid="117/6139">Alencar Machado</author>
+<title>Pervasive System Based on Situation-Awareness for Feedback of Energy Efficiency.</title>
+<pages>17:1-17:8</pages>
+<year>2018</year>
+<booktitle>SBSI</booktitle>
+<ee>https://doi.org/10.1145/3229345.3229365</ee>
+<crossref>conf/sbsi/2018</crossref>
+<url>db/conf/sbsi/sbsi2018.html#SchiefelbeinSMO18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1807-00303" mdate="2018-08-13">
+<author pid="204/3806">Vinicius Woloszyn</author>
+<author pid="151/0952">Guilherme Medeiros Machado</author>
+<author pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Modeling, comprehending and summarizing textual content by graphs.</title>
+<year>2018</year>
+<volume>abs/1807.00303</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1807.00303</ee>
+<url>db/journals/corr/corr1807.html#abs-1807-00303</url>
+</article>
+</r>
+<r><article key="journals/emisa/GassenMBTO17" mdate="2020-09-15">
+<author pid="117/6115">Jonas Bulegon Gassen</author>
+<author pid="m/JanMendling">Jan Mendling</author>
+<author pid="88/5898">Amel Bouzeghoub</author>
+<author pid="29/181">Lucin&#233;ia Heloisa Thom</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>An experiment on an ontology-based support approach for process modeling.</title>
+<pages>28-29</pages>
+<year>2017</year>
+<volume>37</volume>
+<journal>EMISA Forum</journal>
+<number>1</number>
+<url>db/journals/emisa/emisa37.html#GassenMBTO17</url>
+</article>
+</r>
+<r><article key="journals/eswa/MachadoMAWO17" mdate="2018-11-14">
+<author pid="117/6139">Alencar Machado</author>
+<author orcid="0000-0003-1916-8893" pid="157/0431">Vin&#237;cius Maran</author>
+<author pid="64/3911">Iara Augustin</author>
+<author orcid="0000-0002-8391-446X" pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Reactive, proactive, and extensible situation-awareness in ambient assisted living.</title>
+<pages>21-35</pages>
+<year>2017</year>
+<volume>76</volume>
+<journal>Expert Syst. Appl.</journal>
+<ee>https://doi.org/10.1016/j.eswa.2017.01.033</ee>
+<ee>https://www.wikidata.org/entity/Q56461949</ee>
+<url>db/journals/eswa/eswa76.html#MachadoMAWO17</url>
+</article>
+</r>
+<r><article key="journals/infsof/GassenMBTO17" mdate="2023-06-26">
+<author orcid="0000-0001-8384-7132" pid="117/6115">Jonas Bulegon Gassen</author>
+<author pid="m/JanMendling">Jan Mendling</author>
+<author pid="88/5898">Amel Bouzeghoub</author>
+<author orcid="0000-0002-0620-9302" pid="29/181">Lucin&#233;ia Heloisa Thom</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>An experiment on an ontology-based support approach for process modeling.</title>
+<pages>94-115</pages>
+<year>2017</year>
+<volume>83</volume>
+<journal>Inf. Softw. Technol.</journal>
+<ee>https://doi.org/10.1016/j.infsof.2016.11.005</ee>
+<ee>https://www.wikidata.org/entity/Q113317145</ee>
+<url>db/journals/infsof/infsof83.html#GassenMBTO17</url>
+</article>
+</r>
+<r><article key="journals/jbcs/LimaPRMSLO17" mdate="2024-05-07">
+<author pid="178/7719">Lucas Henrique C. Lima</author>
+<author pid="179/8273">Gustavo Penha</author>
+<author pid="203/7096">La&#237;s Mota de Alencar Rocha</author>
+<author orcid="0000-0002-0545-2001" pid="m/MirellaMouraMoro">Mirella M. Moro</author>
+<author orcid="0000-0001-5951-3562" pid="47/2795">Ana Paula Couto da Silva</author>
+<author pid="l/AHFLaender">Alberto H. F. Laender</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>The collaboration network of the Brazilian Symposium on Databases - 30 editions of history.</title>
+<pages>10:1-10:16</pages>
+<year>2017</year>
+<volume>23</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s13173-017-0059-6</ee>
+<ee>https://www.wikidata.org/entity/Q59515248</ee>
+<url>db/journals/jbcs/jbcs23.html#LimaPRMSLO17</url>
+</article>
+</r>
+<r><inproceedings key="conf/er/FerreiraTOASF17" mdate="2023-06-26">
+<author pid="201/2450">Renato C&#233;sar Borges Ferreira</author>
+<author orcid="0000-0002-0620-9302" pid="29/181">Lucin&#233;ia Heloisa Thom</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<author pid="201/2461">Diego Toralles Avila</author>
+<author pid="208/0313">Rubens Ideron dos Santos</author>
+<author orcid="0000-0001-6261-1497" pid="83/468">Marcelo Fantinato</author>
+<title>Assisting Process Modeling by Identifying Business Process Elements in Natural Language Texts.</title>
+<pages>154-163</pages>
+<year>2017</year>
+<booktitle>ER Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-70625-2_15</ee>
+<crossref>conf/er/2017w</crossref>
+<url>db/conf/er/erw2017.html#FerreiraTOASF17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hefa/GaspariniPOM17" mdate="2018-09-13">
+<author orcid="0000-0002-8094-9261" pid="83/667">Isabela Gasparini</author>
+<author orcid="0000-0002-4712-089X" pid="p/MarceloSoaresPimenta">Marcelo Soares Pimenta</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<author orcid="0000-0002-1333-4857" pid="225/0650">Ricardo Miranda</author>
+<title>Coupling Cultural Context to a User Model of Adaptive E-Learning: Fundamentals, Approach and Experiment.</title>
+<pages>107-123</pages>
+<year>2017</year>
+<booktitle>HEFA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-97934-2_7</ee>
+<crossref>conf/hefa/2017</crossref>
+<url>db/conf/hefa/hefa2017.html#GaspariniPOM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/JuniorTOFA17" mdate="2023-06-26">
+<author pid="201/2454">Valter Helmuth Goldberg J&#250;nior</author>
+<author orcid="0000-0002-0620-9302" pid="29/181">Lucin&#233;ia Heloisa Thom</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<author orcid="0000-0001-6261-1497" pid="83/468">Marcelo Fantinato</author>
+<author pid="201/2461">Diego Toralles Avila</author>
+<title>A Semiautomatic Process Model Verification Method based on Process Modeling Guidelines.</title>
+<pages>274-281</pages>
+<year>2017</year>
+<booktitle>ICEIS (3)</booktitle>
+<ee>https://doi.org/10.5220/0006316602740281</ee>
+<crossref>conf/iceis/2017-3</crossref>
+<url>db/conf/iceis/iceis2017-3.html#JuniorTOFA17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/JuniorDATOF17" mdate="2023-06-26">
+<author pid="201/2454">Valter Helmuth Goldberg J&#250;nior</author>
+<author orcid="0000-0002-0827-3711" pid="224/6323">Vinicius Stein Dani</author>
+<author pid="201/2461">Diego Toralles Avila</author>
+<author orcid="0000-0002-0620-9302" pid="29/181">Lucin&#233;ia Heloisa Thom</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<author orcid="0000-0001-6261-1497" pid="83/468">Marcelo Fantinato</author>
+<title>An Interface Prototype Proposal to a Semiautomatic Process Model Verification Method Based on Process Modeling Guidelines.</title>
+<pages>611-629</pages>
+<year>2017</year>
+<booktitle>ICEIS (Revised Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93375-7_28</ee>
+<crossref>conf/iceis/2017sp</crossref>
+<url>db/conf/iceis/iceis2017sp.html#JuniorDATOF17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/MaranMMALO17" mdate="2025-01-19">
+<author orcid="0000-0003-1916-8893" pid="157/0431">Vin&#237;cius Maran</author>
+<author pid="151/0952">Guilherme Medeiros Machado</author>
+<author pid="117/6139">Alencar Machado</author>
+<author pid="64/3911">Iara Augustin</author>
+<author pid="53/8821">Jo&#227;o Carlos Damasceno Lima</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>Database Ontology-Supported Query for Ubiquitous Environments.</title>
+<pages>185-188</pages>
+<year>2017</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/3126858.3131575</ee>
+<ee>https://www.wikidata.org/entity/Q130860963</ee>
+<crossref>conf/webmedia/2017</crossref>
+<url>db/conf/webmedia/webmedia2017.html#MaranMMALO17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/MaranMAO16" mdate="2017-06-15">
+<author orcid="0000-0003-1916-8893" pid="157/0431">Vin&#237;cius Maran</author>
+<author pid="117/6139">Alencar Machado</author>
+<author pid="64/3911">Iara Augustin</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>Semantic Integration between Context-awareness and Domain Data to Bring Personalized Queries to Legacy Relational Databases.</title>
+<pages>238-243</pages>
+<year>2016</year>
+<booktitle>ICEIS (1)</booktitle>
+<ee>https://doi.org/10.5220/0005911902380243</ee>
+<crossref>conf/iceis/2016-1</crossref>
+<url>db/conf/iceis/iceis2016-1.html#MaranMAO16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/MachadoMALWO16" mdate="2017-06-15">
+<author pid="117/6139">Alencar Machado</author>
+<author orcid="0000-0003-1916-8893" pid="157/0431">Vin&#237;cius Maran</author>
+<author pid="64/3911">Iara Augustin</author>
+<author pid="53/8821">Jo&#227;o Carlos D. Lima</author>
+<author pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Reasoning on Uncertainty in Smart Environments.</title>
+<pages>240-250</pages>
+<year>2016</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0005866502400250</ee>
+<crossref>conf/iceis/2016-2</crossref>
+<url>db/conf/iceis/iceis2016-2.html#MachadoMALWO16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/MachadoMALWO16a" mdate="2020-06-15">
+<author pid="117/6139">Alencar Machado</author>
+<author orcid="0000-0003-1916-8893" pid="157/0431">Vin&#237;cius Maran</author>
+<author pid="64/3911">Iara Augustin</author>
+<author pid="53/8821">Jo&#227;o Carlos D. Lima</author>
+<author orcid="0000-0002-8391-446X" pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Ambient Assisted Living Systems: A Model for Reasoning Under Uncertainty.</title>
+<pages>338-363</pages>
+<year>2016</year>
+<booktitle>ICEIS (Revised Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-62386-3_16</ee>
+<crossref>conf/iceis/2016sp</crossref>
+<url>db/conf/iceis/iceis2016sp.html#MachadoMALWO16a</url>
+</inproceedings>
+</r>
+<r><article key="journals/ieee-rita/PernasGPLYO15" mdate="2022-06-23">
+<author pid="92/4826">Ana Marilza Pernas</author>
+<author orcid="0000-0002-8094-9261" pid="83/667">Isabela Gasparini</author>
+<author pid="170/0925">Lucas Vaz Pires</author>
+<author orcid="0000-0001-8975-3110" pid="128/2765">Jo&#227;o Ladislau Barbar&#225; Lopes</author>
+<author pid="y/AdenauerCYamin">Adenauer Corr&#234;a Yamin</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Integrated Infrastructure for Ubiquitous Learning.</title>
+<pages>92-99</pages>
+<year>2015</year>
+<volume>10</volume>
+<journal>Rev. Iberoam. de Tecnol. del Aprendiz.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/RITA.2015.2452533</ee>
+<url>db/journals/ieee-rita/ieee-rita10.html#PernasGPLYO15</url>
+</article>
+</r>
+<r><inproceedings key="conf/caise/GassenMTO15" mdate="2023-06-26">
+<author pid="117/6115">Jonas Bulegon Gassen</author>
+<author pid="m/JanMendling">Jan Mendling</author>
+<author orcid="0000-0002-0620-9302" pid="29/181">Lucin&#233;ia Heloisa Thom</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Towards Guiding Process Modelers Depending upon Their Expertise Levels.</title>
+<pages>69-80</pages>
+<year>2015</year>
+<booktitle>CAiSE Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-19243-7_6</ee>
+<crossref>conf/caise/2015w</crossref>
+<url>db/conf/caise/caisews2015.html#GassenMTO15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cbms/MaranOPA15" mdate="2023-03-24">
+<author orcid="0000-0003-1916-8893" pid="157/0431">Vin&#237;cius Maran</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<author pid="45/3609">Ricardo Pietrobon</author>
+<author pid="64/3911">Iara Augustin</author>
+<title>Ontology Network Definition for Motivational Interviewing Learning Driven by Semantic Context-Awareness.</title>
+<pages>264-269</pages>
+<year>2015</year>
+<booktitle>CBMS</booktitle>
+<ee>https://doi.org/10.1109/CBMS.2015.22</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CBMS.2015.22</ee>
+<crossref>conf/cbms/2015</crossref>
+<url>db/conf/cbms/cbms2015.html#MaranOPA15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/MachadoWO15" mdate="2020-06-15">
+<author pid="117/6139">Alencar Machado</author>
+<author orcid="0000-0002-8391-446X" pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>A Semantic Model for Proactive Home Care Systems.</title>
+<pages>14-25</pages>
+<year>2015</year>
+<booktitle>ER Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-25747-1_2</ee>
+<crossref>conf/er/2015w</crossref>
+<url>db/conf/er/erw2015.html#MachadoWO15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/MaranMAWO15" mdate="2017-06-15">
+<author orcid="0000-0003-1916-8893" pid="157/0431">Vin&#237;cius Maran</author>
+<author pid="117/6139">Alencar Machado</author>
+<author pid="64/3911">Iara Augustin</author>
+<author pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>Proactive Domain Data Querying based on Context Information in Ambient Assisted Living Environments.</title>
+<pages>610-617</pages>
+<year>2015</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0005365006100617</ee>
+<crossref>conf/iceis/2015-2</crossref>
+<url>db/conf/iceis/iceis2015-2.html#MaranMAWO15</url>
+</inproceedings>
+</r>
+<r><article key="journals/jidm/WerenKMMOW14" mdate="2021-11-30">
+<author pid="150/5087">Edson R. D. Weren</author>
+<author pid="151/7980">Anderson Uilian Kauer</author>
+<author pid="151/7929">Lucas Mizusaki</author>
+<author pid="o/VivianeMoreiraOrengo">Viviane Pereira Moreira</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<author pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<title>Examining Multiple Features for Author Profiling.</title>
+<pages>266-279</pages>
+<year>2014</year>
+<volume>5</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>3</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1543</ee>
+<url>db/journals/jidm/jidm5.html#WerenKMMOW14</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/PernasYLO14" mdate="2023-03-24">
+<author pid="92/4826">Ana Marilza Pernas</author>
+<author pid="y/AdenauerCYamin">Adenauer C. Yamin</author>
+<author pid="128/2765">Jo&#227;o Ladislau Barbar&#225; Lopes</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>A Semantic Approach for Learning Situation Detection.</title>
+<pages>1119-1126</pages>
+<year>2014</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2014.136</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AINA.2014.136</ee>
+<crossref>conf/aina/2014</crossref>
+<url>db/conf/aina/aina2014.html#PernasYLO14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/WerenMO14" mdate="2023-03-10">
+<author pid="150/5087">Edson R. D. Weren</author>
+<author pid="o/VivianeMoreiraOrengo">Viviane Pereira Moreira</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>Exploring Information Retrieval Features for Author Profiling.</title>
+<pages>1164-1171</pages>
+<year>2014</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1180/CLEF2014wn-Pan-WerenEt2014.pdf</ee>
+<crossref>conf/clef/2014w</crossref>
+<url>db/conf/clef/clef2014w.html#WerenMO14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccS/WeitzelOQ14" mdate="2022-05-13">
+<author orcid="0000-0002-3090-3556" pid="19/11233">Leila Weitzel</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<author orcid="0000-0002-5086-059X" pid="73/4272">Paulo Quaresma</author>
+<title>Measuring the Reputation in User-generated-content Systems Based on Health Information.</title>
+<pages>364-378</pages>
+<year>2014</year>
+<booktitle>ICCS</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.procs.2014.05.033</ee>
+<ee>https://www.wikidata.org/entity/Q62612266</ee>
+<crossref>conf/iccS/2014</crossref>
+<url>db/conf/iccS/iccS2014.html#WeitzelOQ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/MachadoLPBAWO14" mdate="2020-06-15">
+<author pid="117/6139">Alencar Machado</author>
+<author pid="82/449">Daniel Lichtnow</author>
+<author pid="92/4826">Ana Marilza Pernas</author>
+<author pid="88/5898">Amel Bouzeghoub</author>
+<author pid="64/3911">Iara Augustin</author>
+<author orcid="0000-0002-8391-446X" pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>A Framework Reactive and Proactive for Pervasive Homecare Environments.</title>
+<pages>320-338</pages>
+<year>2014</year>
+<booktitle>ICEIS (Revised Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-22348-3_18</ee>
+<crossref>conf/iceis/2014sp</crossref>
+<url>db/conf/iceis/iceis2014sp.html#MachadoLPBAWO14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/MachadoLPWO14" mdate="2017-05-17">
+<author pid="117/6139">Alencar Machado</author>
+<author pid="82/449">Daniel Lichtnow</author>
+<author pid="92/4826">Ana Marilza Pernas</author>
+<author pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>A Reactive and Proactive Approach for Ambient Intelligence.</title>
+<pages>501-512</pages>
+<year>2014</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0004884205010512</ee>
+<crossref>conf/iceis/2014-2</crossref>
+<url>db/conf/iceis/iceis2014-2.html#MachadoLPWO14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/MachadoO14" mdate="2022-03-07">
+<author pid="151/0952">Guilherme Medeiros Machado</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>CARLO: Modelo Ontol&#243;gico de Contexto para Recomenda&#231;&#227;o de Objetos de Aprendizagem em Ambientes Pervasivos.</title>
+<pages>47-56</pages>
+<year>2014</year>
+<booktitle>SBBD</booktitle>
+<ee type="archive">http://www.lbd.dcc.ufmg.br/colecoes/sbbd/2014/004.pdf</ee>
+<crossref>conf/sbbd/2014</crossref>
+<url>db/conf/sbbd/sbbd2014.html#MachadoO14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/MaranAO14" mdate="2015-01-19">
+<author pid="157/0431">Vin&#237;cius Maran</author>
+<author pid="64/3911">Iara Augustin</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>Are The Integrations Between Ontologies and Databases Really Opening the Closed World in Ubiquitous Computing ?.</title>
+<pages>453-458</pages>
+<year>2014</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2014</crossref>
+<url>db/conf/seke/seke2014.html#MaranAO14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigdoc/GassenMTO14" mdate="2023-06-26">
+<author pid="117/6115">Jonas Bulegon Gassen</author>
+<author orcid="0000-0002-7260-524X" pid="m/JanMendling">Jan Mendling</author>
+<author orcid="0000-0002-0620-9302" pid="29/181">Lucin&#233;ia Heloisa Thom</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Business process modeling: Vocabulary problem and requirements specification.</title>
+<pages>2:1-2:10</pages>
+<year>2014</year>
+<booktitle>SIGDOC</booktitle>
+<ee>https://doi.org/10.1145/2666216.2666217</ee>
+<crossref>conf/sigdoc/2014</crossref>
+<url>db/conf/sigdoc/sigdoc2014.html#GassenMTO14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wimob/MachadoO14" mdate="2023-03-24">
+<author pid="151/0952">Guilherme Medeiros Machado</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Context-aware adaptive recommendation of resources for mobile users in a university campus.</title>
+<pages>427-433</pages>
+<year>2014</year>
+<booktitle>WiMob</booktitle>
+<ee>https://doi.org/10.1109/WiMOB.2014.6962206</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WiMOB.2014.6962206</ee>
+<crossref>conf/wimob/2014</crossref>
+<url>db/conf/wimob/wimob2014.html#MachadoO14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wob/LichtnowAPBO14" mdate="2021-01-18">
+<author pid="82/449">Daniel Lichtnow</author>
+<author orcid="0000-0003-4139-0562" pid="83/953">Ronnie Alves</author>
+<author pid="p/OscarPastor">Oscar Pastor 0001</author>
+<author pid="90/9502">Ver&#243;nica Burriel</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>BION2SEL: An Ontology-Based Approach for the Selection of Molecular Biology Databases.</title>
+<pages>83-90</pages>
+<year>2014</year>
+<booktitle>BSB</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-12418-6_11</ee>
+<ee>https://www.wikidata.org/entity/Q62717972</ee>
+<crossref>conf/wob/2014</crossref>
+<url>db/conf/wob/bsb2014.html#LichtnowAPBO14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aied/GaspariniKMPO13" mdate="2023-03-10">
+<author pid="83/667">Isabela Gasparini</author>
+<author pid="123/3026">Marcos Hideshi Kimura</author>
+<author pid="132/4076">Sergio De Moraes</author>
+<author pid="p/MarceloSoaresPimenta">Marcelo Soares Pimenta</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Is the Brazilian HCI Community Researching Cultural Issues? An Analysis of 15 years of the Brazilian HCI Conference.</title>
+<year>2013</year>
+<booktitle>AIED Workshops</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1009/0502.pdf</ee>
+<crossref>conf/aied/2013w</crossref>
+<url>db/conf/aied/aied2013w.html#GaspariniKMPO13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/WerenMO13" mdate="2023-03-10">
+<author pid="150/5087">Edson R. D. Weren</author>
+<author pid="o/VivianeMoreiraOrengo">Viviane Pereira Moreira</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>Using Simple Content Features for the Author Profiling Task Notebook for PAN at CLEF 2013.</title>
+<year>2013</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1179/CLEF2013wn-PAN-WerenEt2013.pdf</ee>
+<crossref>conf/clef/2013w</crossref>
+<url>db/conf/clef/clef2013w.html#WerenMO13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cse/CerviGO13" mdate="2023-03-24">
+<author pid="143/6441">Cristiano R. Cervi</author>
+<author pid="37/2418">Renata Galante</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Comparing the Reputation of Researchers Using a Profile Model and Scientific Metrics.</title>
+<pages>353-359</pages>
+<year>2013</year>
+<booktitle>CSE</booktitle>
+<ee>https://doi.org/10.1109/CSE.2013.61</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CSE.2013.61</ee>
+<crossref>conf/cse/2013</crossref>
+<url>db/conf/cse/cse2013.html#CerviGO13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/WeitzelOQ13" mdate="2019-06-02">
+<author orcid="0000-0002-3090-3556" pid="19/11233">Leila Weitzel</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<author orcid="0000-0002-5086-059X" pid="73/4272">Paulo Quaresma</author>
+<title>Exploring Trust to Rank Reputation in Microblogging.</title>
+<pages>434-441</pages>
+<year>2013</year>
+<booktitle>DEXA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-40173-2_36</ee>
+<ee>https://www.wikidata.org/entity/Q62612270</ee>
+<crossref>conf/dexa/2013-2</crossref>
+<url>db/conf/dexa/dexa2013-2.html#WeitzelOQ13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/MachadoPWO13" mdate="2020-06-15">
+<author pid="117/6139">Alencar Machado</author>
+<author pid="92/4826">Ana Marilza Pernas</author>
+<author orcid="0000-0002-8391-446X" pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Situation-Aware Smart Environment Modeling.</title>
+<pages>139-149</pages>
+<year>2013</year>
+<booktitle>ER Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-14139-8_16</ee>
+<crossref>conf/er/2013w</crossref>
+<url>db/conf/er/erw2013.html#MachadoPWO13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/MachadoPATWO13" mdate="2017-05-17">
+<author pid="117/6139">Alencar Machado</author>
+<author pid="92/4826">Ana Marilza Pernas</author>
+<author pid="64/3911">Iara Augustin</author>
+<author pid="29/181">Lucin&#233;ia Heloisa Thom</author>
+<author pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Situation-awareness as a Key for Proactive Actions in Ambient Assisted Living.</title>
+<pages>418-426</pages>
+<year>2013</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0004418004180426</ee>
+<crossref>conf/iceis/2013-2</crossref>
+<url>db/conf/iceis/iceis2013-2.html#MachadoPATWO13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/BrandaoMLO13" mdate="2024-05-07">
+<author pid="116/1426">Michele A. Brand&#227;o</author>
+<author orcid="0000-0002-0545-2001" pid="m/MirellaMouraMoro">Mirella M. Moro</author>
+<author pid="21/8385">Giseli Rabello Lopes</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Using link semantics to recommend collaborations in academic social networks.</title>
+<pages>833-840</pages>
+<year>2013</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2487788.2488058</ee>
+<crossref>conf/www/2013c</crossref>
+<url>db/conf/www/www2013c.html#BrandaoMLO13</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/www/2013c" mdate="2013-05-27">
+<editor pid="c/LesCarr">Leslie Carr</editor>
+<editor pid="l/AHFLaender">Alberto H. F. Laender</editor>
+<editor pid="51/6689">Bernadette Farias L&#243;scio</editor>
+<editor pid="k/IrwinKing">Irwin King</editor>
+<editor pid="54/3895">Marcus Fontoura</editor>
+<editor pid="59/5618">Denny Vrandecic</editor>
+<editor pid="42/6100">Lora Aroyo</editor>
+<editor pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</editor>
+<editor pid="20/5847">Fernanda Lima</editor>
+<editor pid="w/EWilde">Erik Wilde</editor>
+<title>22nd International World Wide Web Conference, WWW '13, Rio de Janeiro, Brazil, May 13-17, 2013, Companion Volume</title>
+<publisher>International World Wide Web Conferences Steering Committee / ACM</publisher>
+<booktitle>WWW (Companion Volume)</booktitle>
+<year>2013</year>
+<isbn>978-1-4503-2038-2</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=2487788</ee>
+<url>db/conf/www/www2013c.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ieee-rita/LimaO12" mdate="2020-05-25">
+<author pid="l/JVdeLima">Jos&#233; Valdeni de Lima</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Edi&#231;&#227;o Especial: Computa&#231;&#227;o Social Aplicada a E-learning.</title>
+<pages>171-172</pages>
+<year>2012</year>
+<volume>7</volume>
+<journal>Rev. Iberoam. de Tecnol. del Aprendiz.</journal>
+<number>4</number>
+<ee type="oa">http://rita.det.uvigo.es/201211/uploads/IEEE-RITA.2012.V7.N4.A1.pdf</ee>
+<url>db/journals/ieee-rita/ieee-rita7.html#LimaO12</url>
+</article>
+</r>
+<r><article key="journals/ieee-rita/KimuraKGPPO12" mdate="2020-05-25">
+<author pid="123/3026">Marcos Hideshi Kimura</author>
+<author pid="28/11442">Avanilde Kemczinski</author>
+<author pid="83/667">Isabela Gasparini</author>
+<author pid="92/4826">Ana Marilza Pernas</author>
+<author pid="p/MarceloSoaresPimenta">Marcelo Soares Pimenta</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Aumentando a Flexibilidade de um Sistema e-learning Adaptativo atrav&#233;s da Abordagem Responsive Webdesign.</title>
+<pages>203-210</pages>
+<year>2012</year>
+<volume>7</volume>
+<journal>Rev. Iberoam. de Tecnol. del Aprendiz.</journal>
+<number>4</number>
+<ee type="oa">http://rita.det.uvigo.es/201211/uploads/IEEE-RITA.2012.V7.N4.A6.pdf</ee>
+<url>db/journals/ieee-rita/ieee-rita7.html#KimuraKGPPO12</url>
+</article>
+</r>
+<r><article key="journals/ijcsa/LopesSMO12" mdate="2021-12-07">
+<author pid="21/8385">Giseli Rabello Lopes</author>
+<author pid="91/2103">Roberto da Silva</author>
+<author pid="m/MirellaMouraMoro">Mirella M. Moro</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Scientific Collaboration in Research Networks: A Quantification Method by Using Gini Coefficient.</title>
+<pages>15-31</pages>
+<year>2012</year>
+<volume>9</volume>
+<journal>Int. J. Comput. Sci. Appl.</journal>
+<number>2</number>
+<ee type="archive">http://www.tmrfindia.org/ijcsa/v9i22.pdf</ee>
+<url>db/journals/ijcsa/ijcsa9.html#LopesSMO12</url>
+</article>
+</r>
+<r><article key="journals/itse/PernasDMO12" mdate="2021-10-14">
+<author pid="92/4826">Ana Marilza Pernas</author>
+<author pid="d/AliciaDiaz">Alicia D&#237;az</author>
+<author orcid="0000-0002-1426-562X" pid="02/5335">Regina Motz</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>Enriching adaptation in e-learning systems through a situation-aware ontology network.</title>
+<year>2012</year>
+<volume>9</volume>
+<journal>Interact. Technol. Smart Educ.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1108/17415651211242215</ee>
+<url>db/journals/itse/itse9.html#PernasDMO12</url>
+<pages>60-73</pages>
+</article>
+</r>
+<r><inproceedings key="conf/aina/WeitzelQO12" mdate="2023-03-24">
+<author orcid="0000-0003-4524-7800" pid="19/11233">Leila Weitzel</author>
+<author orcid="0000-0002-5086-059X" pid="73/4272">Paulo Quaresma</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>Evaluating Quality of Health Information Sources.</title>
+<pages>655-662</pages>
+<year>2012</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2012.41</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/AINA.2012.41</ee>
+<ee>https://www.wikidata.org/entity/Q62612273</ee>
+<crossref>conf/aina/2012</crossref>
+<url>db/conf/aina/aina2012.html#WeitzelQO12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csedu/GaspariniPPOKC12" mdate="2012-05-29">
+<author pid="83/667">Isabela Gasparini</author>
+<author pid="92/4826">Ana Marilza Pernas</author>
+<author pid="p/MarceloSoaresPimenta">Marcelo Soares Pimenta</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<author pid="28/11442">Avanilde Kemczinski</author>
+<author pid="c/GGHCavalheiro">Gerson Geraldo Homrich Cavalheiro</author>
+<title>m-AdaptWeb&#174;: An Adaptive e-Learning Environment Facing Mobility - Adaptation and Recomendation Processes based on Context.</title>
+<pages>395-400</pages>
+<year>2012</year>
+<booktitle>CSEDU (2)</booktitle>
+<crossref>conf/csedu/2012-2</crossref>
+<url>db/conf/csedu/csedu2012-2.html#GaspariniPPOKC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/GassenMTO12" mdate="2012-08-21">
+<author pid="117/6115">Jonas Bulegon Gassen</author>
+<author pid="117/6139">Alencar Machado</author>
+<author pid="29/181">Lucin&#233;ia Heloisa Thom</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>Ontology Support for Home Care Process Design.</title>
+<pages>84-89</pages>
+<year>2012</year>
+<booktitle>ICEIS (2)</booktitle>
+<crossref>conf/iceis/2012-2</crossref>
+<url>db/conf/iceis/iceis2012-2.html#GassenMTO12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ontobras/ThomOGA12" mdate="2023-03-10">
+<author pid="29/181">Lucin&#233;ia Heloisa Thom</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<author pid="117/6115">Jonas Bulegon Gassen</author>
+<author pid="a/MaraAbel">Mara Abel</author>
+<title>Towards an Ontological Process Modeling Approach.</title>
+<pages>242-247</pages>
+<year>2012</year>
+<booktitle>ONTOBRAS-MOST</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-938/ontobras-most2012_paper26.pdf</ee>
+<crossref>conf/ontobras/2012</crossref>
+<url>db/conf/ontobras/ontobras2012.html#ThomOGA12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BarbosaMLO12" mdate="2018-11-06">
+<author pid="84/9790">Eduardo M. Barbosa</author>
+<author orcid="0000-0002-0545-2001" pid="m/MirellaMouraMoro">Mirella M. Moro</author>
+<author pid="21/8385">Giseli Rabello Lopes</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>VRRC: web based tool for visualization and recommendation on co-authorship network (abstract only).</title>
+<pages>865</pages>
+<year>2012</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2213836.2213975</ee>
+<crossref>conf/sigmod/2012</crossref>
+<url>db/conf/sigmod/sigmod2012.html#BarbosaMLO12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/SantosWO12" mdate="2012-05-25">
+<author pid="86/9655">P&#233;dro Bispo dos Santos</author>
+<author pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>An Improved Approach for Measuring Similarity among Semantic Web Services.</title>
+<pages>83-88</pages>
+<year>2012</year>
+<booktitle>WEBIST</booktitle>
+<crossref>conf/webist/2012</crossref>
+<url>db/conf/webist/webist2012.html#SantosWO12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/KlingerLO12" mdate="2012-05-25">
+<author pid="10/11427">Augusto Klinger</author>
+<author pid="l/JVdeLima">Jos&#233; Valdeni de Lima</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Smart Web Visibility of Organizations.</title>
+<pages>671-676</pages>
+<year>2012</year>
+<booktitle>WEBIST</booktitle>
+<crossref>conf/webist/2012</crossref>
+<url>db/conf/webist/webist2012.html#KlingerLO12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/LichtnowWO12" mdate="2012-05-25">
+<author pid="82/449">Daniel Lichtnow</author>
+<author pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Towards an Approach based on Verifiability Aspects to Help in the Quality Evaluation of Textual Web Pages.</title>
+<pages>689-694</pages>
+<year>2012</year>
+<booktitle>WEBIST</booktitle>
+<crossref>conf/webist/2012</crossref>
+<url>db/conf/webist/webist2012.html#LichtnowWO12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wims/WeitzelQO12" mdate="2019-06-02">
+<author orcid="0000-0003-4524-7800" pid="19/11233">Leila Weitzel</author>
+<author orcid="0000-0002-5086-059X" pid="73/4272">Paulo Quaresma</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>Measuring node importance on Twitter microblogging.</title>
+<pages>11:1-11:7</pages>
+<year>2012</year>
+<booktitle>WIMS</booktitle>
+<ee>https://doi.org/10.1145/2254129.2254145</ee>
+<ee>https://www.wikidata.org/entity/Q62612276</ee>
+<crossref>conf/wims/2012</crossref>
+<url>db/conf/wims/wims2012.html#WeitzelQO12</url>
+</inproceedings>
+</r>
+<r><article key="journals/internet/MaamarSWBFO11" mdate="2022-10-02">
+<author orcid="0000-0003-4462-8337" pid="11/6673">Zakaria Maamar</author>
+<author pid="86/9655">P&#233;dro Bispo dos Santos</author>
+<author orcid="0000-0002-8391-446X" pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author orcid="0000-0002-8976-7894" pid="93/521">Youakim Badr</author>
+<author pid="51/6922">Noura Faci</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Using Social Networks for Web Services Discovery.</title>
+<pages>48-54</pages>
+<year>2011</year>
+<volume>15</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/MIC.2011.27</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.2011.27</ee>
+<url>db/journals/internet/internet15.html#MaamarSWBFO11</url>
+</article>
+</r>
+<r><article key="journals/jidm/Oliveira11" mdate="2021-11-30">
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Editorial.</title>
+<pages>239-242</pages>
+<year>2011</year>
+<volume>2</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>3</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1406</ee>
+<url>db/journals/jidm/jidm2.html#Oliveira11</url>
+</article>
+</r>
+<r><inproceedings key="conf/csedu/GaspariniPBOLP11" mdate="2011-09-30">
+<author pid="83/667">Isabela Gasparini</author>
+<author pid="92/4826">Ana Marilza Pernas</author>
+<author pid="88/5898">Amel Bouzeghoub</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<author pid="l/JVdeLima">Jos&#233; Valdeni de Lima</author>
+<author pid="p/MarceloSoaresPimenta">Marcelo Soares Pimenta</author>
+<title>Taking Rich Context and Situation in Account for Improving an Adaptive e-Learning System.</title>
+<pages>165-172</pages>
+<year>2011</year>
+<booktitle>CSEDU (1)</booktitle>
+<crossref>conf/csedu/2011-1</crossref>
+<url>db/conf/csedu/csedu2011-1.html#GaspariniPBOLP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/OliveiraLM11" mdate="2017-11-06">
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<author pid="21/8385">Giseli Rabello Lopes</author>
+<author orcid="0000-0002-0545-2001" pid="m/MirellaMouraMoro">Mirella Moura Moro</author>
+<title>Academic Social Networks.</title>
+<pages>2-3</pages>
+<year>2011</year>
+<booktitle>ER Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-24574-9_2</ee>
+<crossref>conf/er/2011w</crossref>
+<url>db/conf/er/erw2011.html#OliveiraLM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ihc/GaspariniPO11" mdate="2012-06-18">
+<author pid="83/667">Isabela Gasparini</author>
+<author pid="p/MarceloSoaresPimenta">Marcelo Soares Pimenta</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Vive la diff&#233;rence!: a survey of cultural-aware issues in HCI.</title>
+<pages>13-22</pages>
+<year>2011</year>
+<booktitle>IHC+CLIHC</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2254442</ee>
+<crossref>conf/ihc/2011</crossref>
+<url>db/conf/ihc/ihc2011.html#GaspariniPO11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sccc/LichtnowAOLPCD11" mdate="2023-03-23">
+<author pid="82/449">Daniel Lichtnow</author>
+<author pid="83/953">Ronnie Alves</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<author pid="12/8583">Ana M. Levin</author>
+<author orcid="0000-0002-1320-8471" pid="p/OscarPastor">Oscar Pastor 0001</author>
+<author pid="11/5649">Ignacio Medina Castello</author>
+<author orcid="0000-0003-3318-120X" pid="04/3812">Joaqu&#237;n Dopazo</author>
+<title>Using Papers Citations for Selecting the Best Genomic Databases.</title>
+<pages>33-42</pages>
+<year>2011</year>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.2011.6</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCCC.2011.6</ee>
+<ee>https://www.wikidata.org/entity/Q57837762</ee>
+<crossref>conf/sccc/2011</crossref>
+<url>db/conf/sccc/sccc2011.html#LichtnowAOLPCD11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sccc/PernasO11" mdate="2023-03-23">
+<author pid="92/4826">Ana Marilza Pernas</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Enabling Situation-Aware Behavior in Web-Based Learning Systems.</title>
+<pages>153-160</pages>
+<year>2011</year>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.2011.21</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCCC.2011.21</ee>
+<crossref>conf/sccc/2011</crossref>
+<url>db/conf/sccc/sccc2011.html#PernasO11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sccc/GaspariniPO11" mdate="2023-03-23">
+<author orcid="0000-0002-8094-9261" pid="83/667">Isabela Gasparini</author>
+<author pid="p/MarceloSoaresPimenta">Marcelo Soares Pimenta</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>How to Apply Context-Awareness in an Adaptive e-Learning Environment to Improve Personalization Capabilities?</title>
+<pages>161-170</pages>
+<year>2011</year>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.2011.22</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCCC.2011.22</ee>
+<crossref>conf/sccc/2011</crossref>
+<url>db/conf/sccc/sccc2011.html#GaspariniPO11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wims/MaamarFBWSBO11" mdate="2022-10-02">
+<author orcid="0000-0003-4462-8337" pid="11/6673">Zakaria Maamar</author>
+<author pid="51/6922">Noura Faci</author>
+<author orcid="0000-0002-8976-7894" pid="93/521">Youakim Badr</author>
+<author orcid="0000-0002-8391-446X" pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author pid="86/9655">P&#233;dro Bispo dos Santos</author>
+<author pid="b/DjamalBenslimane">Djamal Benslimane</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Towards a framework for weaving social networks principles into web services discovery.</title>
+<pages>51</pages>
+<year>2011</year>
+<booktitle>WIMS</booktitle>
+<ee>https://doi.org/10.1145/1988688.1988748</ee>
+<crossref>conf/wims/2011</crossref>
+<url>db/conf/wims/wims2011.html#MaamarFBWSBO11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wims/LopesSO11" mdate="2018-11-06">
+<author pid="21/8385">Giseli Rabello Lopes</author>
+<author pid="91/2103">Roberto da Silva</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Applying Gini coefficient to quantify scientific collaboration in researchers network.</title>
+<pages>68</pages>
+<year>2011</year>
+<booktitle>WIMS</booktitle>
+<ee>https://doi.org/10.1145/1988688.1988767</ee>
+<crossref>conf/wims/2011</crossref>
+<url>db/conf/wims/wims2011.html#LopesSO11</url>
+</inproceedings>
+</r>
+<r><incollection key="series/sci/LichtnowGBOP11" mdate="2022-06-23">
+<author pid="82/449">Daniel Lichtnow</author>
+<author orcid="0000-0002-8094-9261" pid="83/667">Isabela Gasparini</author>
+<author pid="88/5898">Amel Bouzeghoub</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<author pid="p/MarceloSoaresPimenta">Marcelo Soares Pimenta</author>
+<title>Recommendation of Learning Material through Students' Collaboration and User Modeling in an Adaptive E-Learning Environment.</title>
+<pages>257-278</pages>
+<year>2011</year>
+<booktitle>Technology-Enhanced Systems and Tools for Collaborative Learning Scaffolding</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-19814-4_12</ee>
+<crossref>series/sci/2011-350</crossref>
+<url>db/series/sci/sci350.html#LichtnowGBOP11</url>
+</incollection>
+</r>
+<r><proceedings key="conf/sbbd/2011s" mdate="2016-06-21">
+<editor pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</editor>
+<title>XXVI Simp&#243;sio Brasileiro de Banco de Dados - Short Papers, Florian&#243;polis, Santa Catarina, Brasil, October 3-6, 2011.</title>
+<booktitle>SBBD (Short Papers)</booktitle>
+<publisher>SBC</publisher>
+<year>2011</year>
+<url>db/conf/sbbd/sbbd2011s.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1111-2829" mdate="2018-08-13">
+<author pid="91/2103">Roberto da Silva</author>
+<author pid="28/8923">Fahad Kalil</author>
+<author pid="25/123">Alexandre Souto Martinez</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Universality in Bibliometrics</title>
+<ee type="oa">http://arxiv.org/abs/1111.2829</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1111.2829</volume>
+<url>db/journals/corr/corr1111.html#abs-1111-2829</url>
+</article>
+</r>
+<r><inproceedings key="conf/amw/LopesMWO10" mdate="2023-03-10">
+<author pid="21/8385">Giseli Rabello Lopes</author>
+<author pid="m/MirellaMouraMoro">Mirella M. Moro</author>
+<author pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Cooperative Authorship Social Network.</title>
+<year>2010</year>
+<booktitle>AMW</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-619/paper1.pdf</ee>
+<crossref>conf/amw/2010</crossref>
+<url>db/conf/amw/amw2010.html#LopesMWO10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csedu/PernasGBPWO10" mdate="2011-01-04">
+<author pid="92/4826">Ana Marilza Pernas</author>
+<author pid="83/667">Isabela Gasparini</author>
+<author pid="88/5898">Amel Bouzeghoub</author>
+<author pid="p/MarceloSoaresPimenta">Marcelo Soares Pimenta</author>
+<author pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>From an e-Learning to an u-Learning Environment.</title>
+<pages>180-185</pages>
+<year>2010</year>
+<booktitle>CSEDU (1)</booktitle>
+<crossref>conf/csedu/2010-1</crossref>
+<url>db/conf/csedu/csedu2010-1.html#PernasGBPWO10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/LopesMWO10" mdate="2020-06-15">
+<author pid="21/8385">Giseli Rabello Lopes</author>
+<author orcid="0000-0002-0545-2001" pid="m/MirellaMouraMoro">Mirella M. Moro</author>
+<author orcid="0000-0002-8391-446X" pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Collaboration Recommendation on Academic Social Networks.</title>
+<pages>190-199</pages>
+<year>2010</year>
+<booktitle>ER Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-16385-2_24</ee>
+<crossref>conf/er/2010w</crossref>
+<url>db/conf/er/erw2010.html#LopesMWO10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/PernasOB10" mdate="2023-03-23">
+<author pid="92/4826">Ana Marilza Pernas</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<author pid="88/5898">Amel Bouzeghoub</author>
+<title>Modeling Adaptive Situations According with Context and Learning Scenarios.</title>
+<pages>435-437</pages>
+<year>2010</year>
+<booktitle>ICALT</booktitle>
+<ee>https://doi.org/10.1109/ICALT.2010.126</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICALT.2010.126</ee>
+<crossref>conf/icalt/2010</crossref>
+<url>db/conf/icalt/icalt2010.html#PernasOB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigdoc/GaspariniPOB10" mdate="2018-11-06">
+<author pid="83/667">Isabela Gasparini</author>
+<author pid="p/MarceloSoaresPimenta">Marcelo Soares Pimenta</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<author pid="88/5898">Amel Bouzeghoub</author>
+<title>Combining ontologies and scenarios for context-aware e-learning environments.</title>
+<pages>229-236</pages>
+<year>2010</year>
+<booktitle>SIGDOC</booktitle>
+<ee>https://doi.org/10.1145/1878450.1878489</ee>
+<crossref>conf/sigdoc/2010</crossref>
+<url>db/conf/sigdoc/sigdoc2010.html#GaspariniPOB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/WivesOMTS10" mdate="2011-01-04">
+<author pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<author pid="11/6673">Zakaria Maamar</author>
+<author pid="t/SamirTata">Samir Tata</author>
+<author pid="08/7210">Mohamed Sellami</author>
+<title>Web Services &#38; Recommender Systems - A Research Roadmap.</title>
+<pages>119-124</pages>
+<year>2010</year>
+<booktitle>WEBIST (1)</booktitle>
+<crossref>conf/webist/2010-1</crossref>
+<url>db/conf/webist/webist2010-1.html#WivesOMTS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/LichtnowPMKOL10" mdate="2011-01-04">
+<author pid="82/449">Daniel Lichtnow</author>
+<author pid="92/4826">Ana Marilza Pernas</author>
+<author pid="84/8654">Edimar Manica</author>
+<author pid="28/8923">Fahad Kalil</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<author pid="75/11123">Valderi Reis Quietinho Leithardt</author>
+<title>Automatic Collection of Authorship Information for Web Publications.</title>
+<pages>339-344</pages>
+<year>2010</year>
+<booktitle>WEBIST (1)</booktitle>
+<crossref>conf/webist/2010-1</crossref>
+<url>db/conf/webist/webist2010-1.html#LichtnowPMKOL10</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/er/2009phd" mdate="2023-03-10">
+<editor pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</editor>
+<title>Proceedings of the ER 2009 PhD Colloquium, affiliated to the 28th International Conference on Conceptual Modeling (ER-2009), Gramado, Brazil, November 9, 2009.</title>
+<volume>597</volume>
+<year>2010</year>
+<booktitle>ER PhD Colloquium</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<ee type="oa">https://ceur-ws.org/Vol-597/</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-597-7</ee>
+<url>db/conf/er/phd2009.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1002-1060" mdate="2018-08-13">
+<author pid="91/2103">Roberto da Silva</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<author pid="l/JVdeLima">Jos&#233; Valdeni de Lima</author>
+<author pid="o/VivianeMoreiraOrengo">Viviane Pereira Moreira</author>
+<title>Statistics for Ranking Program Committees and Editorial Boards</title>
+<ee type="oa">http://arxiv.org/abs/1002.1060</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1002.1060</volume>
+<url>db/journals/corr/corr1002.html#abs-1002-1060</url>
+</article>
+</r>
+<r><inproceedings key="conf/csedu/SimoesWO09" mdate="2009-09-14">
+<author pid="82/6103">Gabriel Sim&#245;es</author>
+<author pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Open Publication System: Evaluating Users Qualification and Reputation.</title>
+<pages>200-205</pages>
+<year>2009</year>
+<booktitle>CSEDU (1)</booktitle>
+<crossref>conf/csedu/2009-1</crossref>
+<url>db/conf/csedu/csedu2009-1.html#SimoesWO09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/incos/GaspariniLPO09" mdate="2023-03-24">
+<author pid="83/667">Isabela Gasparini</author>
+<author pid="82/449">Daniel Lichtnow</author>
+<author pid="p/MarceloSoaresPimenta">Marcelo Soares Pimenta</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>Quality Ontology for Recommendation in an Adaptive Educational System.</title>
+<pages>329-334</pages>
+<year>2009</year>
+<booktitle>INCoS</booktitle>
+<ee>https://doi.org/10.1109/INCOS.2009.11</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/INCOS.2009.11</ee>
+<crossref>conf/incos/2009</crossref>
+<url>db/conf/incos/incos2009.html#GaspariniLPO09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/LohLGLWO09a" mdate="2020-06-15">
+<author pid="01/2348">Stanley Loh</author>
+<author pid="19/6140">Fabiana Lorenzi</author>
+<author pid="94/473">Roger Granada</author>
+<author pid="82/449">Daniel Lichtnow</author>
+<author orcid="0000-0002-8391-446X" pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Using Scientific Publications to Identify People with Similar Interests.</title>
+<pages>229-241</pages>
+<year>2009</year>
+<booktitle>WEBIST (Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-12436-5_17</ee>
+<crossref>conf/webist/2009sp</crossref>
+<url>db/conf/webist/webist2009sp.html#LohLGLWO09a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/LohLGLWO09" mdate="2009-05-19">
+<author pid="01/2348">Stanley Loh</author>
+<author pid="19/6140">Fabiana Lorenzi</author>
+<author pid="94/473">Roger Granada</author>
+<author pid="82/449">Daniel Lichtnow</author>
+<author pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Identifying Similar Users by their Scientific Publications to Reduce Cold Start in Recommender Systems.</title>
+<pages>593-600</pages>
+<year>2009</year>
+<booktitle>WEBIST</booktitle>
+<crossref>conf/webist/2009</crossref>
+<url>db/conf/webist/webist2009.html#LohLGLWO09</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/er/2009" mdate="2019-05-14">
+<editor pid="l/AHFLaender">Alberto H. F. Laender</editor>
+<editor pid="c/SilvanaCastano">Silvana Castano</editor>
+<editor pid="76/2198">Umeshwar Dayal</editor>
+<editor pid="c/FabioCasati">Fabio Casati</editor>
+<editor pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</editor>
+<title>Conceptual Modeling - ER 2009, 28th International Conference on Conceptual Modeling, Gramado, Brazil, November 9-12, 2009. Proceedings</title>
+<volume>5829</volume>
+<year>2009</year>
+<ee>https://doi.org/10.1007/978-3-642-04840-1</ee>
+<isbn>978-3-642-04839-5</isbn>
+<booktitle>ER</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/er/er2009.html</url>
+</proceedings>
+</r>
+<r><article key="journals/isys/RigoSO08" mdate="2024-02-07">
+<author pid="48/4922">Sandro Jos&#233; Rigo</author>
+<author pid="313/6265">&#201;verton Eckert Schneider</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>Uma arquitetura para Hiperm&#237;dia Adaptativa baseada em recursos da Web Sem&#226;ntica.</title>
+<year>2008</year>
+<volume>1</volume>
+<journal>Braz. J. Inf. Syst.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5753/isys.2008.118</ee>
+<url>db/journals/isys/isys1.html#RigoSO08</url>
+</article>
+</r>
+<r><article key="journals/jwe/MunozMMBO08" mdate="2020-03-12">
+<author pid="48/4658">Lydia Silva Mu&#241;oz</author>
+<author pid="58/8121">Karina Medina</author>
+<author pid="71/8121">Marcos Marsicano</author>
+<author pid="99/8121">Mario Bonjour</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Reasoning on the Semantic Web for Adaptive Hypermedia.</title>
+<pages>25-41</pages>
+<year>2008</year>
+<volume>7</volume>
+<journal>J. Web Eng.</journal>
+<number>1</number>
+<ee type="oa">http://www.rintonpress.com/xjwe7/jwe-7-1/025-041.pdf</ee>
+<url>db/journals/jwe/jwe7.html#MunozMMBO08</url>
+</article>
+</r>
+<r><article key="journals/rita/Oliveira08" mdate="2020-02-03">
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Revisores.</title>
+<pages>219-220</pages>
+<year>2008</year>
+<volume>15</volume>
+<journal>RITA</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.22456/2175-2745.7146</ee>
+<url>db/journals/rita/rita15.html#Oliveira08</url>
+</article>
+</r>
+<r><inproceedings key="conf/er/RigoO08" mdate="2017-06-02">
+<author pid="48/4922">Sandro Jos&#233; Rigo</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Identifying Users Stereotypes with Semantic Web Mining.</title>
+<pages>447-456</pages>
+<year>2008</year>
+<booktitle>ER Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-87991-6_52</ee>
+<crossref>conf/er/2008w</crossref>
+<url>db/conf/er/erw2008.html#RigoO08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/WivesDOLP08" mdate="2023-09-30">
+<author orcid="0000-0002-8391-446X" pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author orcid="0000-0001-7637-973X" pid="d/BrunoDefude">Bruno Defude</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<author pid="l/JVdeLima">Jos&#233; Valdeni de Lima</author>
+<author orcid="0000-0002-1145-357X" pid="71/984">Yvan Peter</author>
+<title>Providing Information in an Augmented Campus.</title>
+<pages>712-716</pages>
+<year>2008</year>
+<booktitle>ICALT</booktitle>
+<ee>https://doi.org/10.1109/ICALT.2008.15</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICALT.2008.15</ee>
+<crossref>conf/icalt/2008</crossref>
+<url>db/conf/icalt/icalt2008.html#WivesDOLP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pris/WivesLO08" mdate="2008-08-18">
+<author pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author pid="01/2348">Stanley Loh</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>A Comparative Study of Clustering versus Classification over Reuter's Collection.</title>
+<pages>231-236</pages>
+<year>2008</year>
+<booktitle>PRIS</booktitle>
+<crossref>conf/pris/2008</crossref>
+<url>db/conf/pris/pris2008.html#WivesLO08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/LohLSWO08" mdate="2020-06-15">
+<author pid="01/2348">Stanley Loh</author>
+<author pid="19/6140">Fabiana Lorenzi</author>
+<author pid="82/6103">Gabriel Sim&#245;es</author>
+<author orcid="0000-0002-8391-446X" pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Comparing keywords and taxonomies in the representation of users profiles in a content-based recommender system.</title>
+<pages>2030-2034</pages>
+<year>2008</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1363686.1364177</ee>
+<crossref>conf/sac/2008</crossref>
+<url>db/conf/sac/sac2008.html#LohLSWO08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/RigoSO08" mdate="2022-02-15">
+<author pid="48/4922">Sandro Jos&#233; Rigo</author>
+<author pid="313/6265">&#201;verton Eckert Schneider</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>Arquitetura baseada em Web Sem&#226;ntica para aplica&#231;&#245;es de Hiperm&#237;dia Adaptativa.</title>
+<pages>60-69</pages>
+<year>2008</year>
+<booktitle>SBSI</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbsi.2008.5934</ee>
+<crossref>conf/sbsi/2008</crossref>
+<url>db/conf/sbsi/sbsi2008.html#RigoSO08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/LopesSWO08" mdate="2020-06-15">
+<author pid="21/8385">Giseli Rabello Lopes</author>
+<author pid="128/5715">Maria Aparecida Martins Souto</author>
+<author orcid="0000-0002-8391-446X" pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>A personalized recommender system for digital libraries.</title>
+<pages>59-66</pages>
+<year>2008</year>
+<booktitle>WebMedia</booktitle>
+<ee>https://doi.org/10.1145/1666091.1666103</ee>
+<crossref>conf/webmedia/2008</crossref>
+<url>db/conf/webmedia/webmedia2008.html#LopesSWO08</url>
+</inproceedings>
+</r>
+<r><article key="journals/rita/Oliveira07" mdate="2020-02-03">
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Revisores da RITA no JEMS.</title>
+<pages>221-224</pages>
+<year>2007</year>
+<volume>14</volume>
+<journal>RITA</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.22456/2175-2745.5956</ee>
+<url>db/journals/rita/rita14.html#Oliveira07</url>
+</article>
+</r>
+<r><inproceedings key="conf/er/SoutoWO07" mdate="2017-05-25">
+<author pid="23/757">Maria Aparecida M. Souto</author>
+<author pid="77/3594">Mariusa Warpechowski</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>An Ontological Approach for the Quality Assessment of Computer Science Conferences.</title>
+<pages>202-212</pages>
+<year>2007</year>
+<crossref>conf/er/2007w</crossref>
+<booktitle>ER Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-76292-8_24</ee>
+<url>db/conf/er/erw2007.html#SoutoWO07</url>
+</inproceedings>
+</r>
+<r><article key="journals/rita/LambO06" mdate="2007-03-02">
+<author pid="l/LCLamb">Lu&#237;s C. Lamb</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>Editorial.</title>
+<pages>5-6</pages>
+<year>2006</year>
+<volume>13</volume>
+<journal>RITA</journal>
+<number>1</number>
+<url>db/journals/rita/rita13.html#LambO06</url>
+</article>
+</r>
+<r><article key="journals/rita/LambO06a" mdate="2007-03-02">
+<author pid="l/LCLamb">Lu&#237;s C. Lamb</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>Editorial.</title>
+<pages>5</pages>
+<year>2006</year>
+<volume>13</volume>
+<journal>RITA</journal>
+<number>2</number>
+<url>db/journals/rita/rita13.html#LambO06a</url>
+</article>
+</r>
+<r><inproceedings key="conf/caise/MusaGWO06" mdate="2023-03-10">
+<author pid="61/1183">Daniela Leal Musa</author>
+<author pid="37/2418">Renata de Matos Galante</author>
+<author pid="77/3594">Mariusa Warpechowski</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>User Profile Interchange in a Service-oriented Architecture.</title>
+<year>2006</year>
+<booktitle>DISWEB</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-238/paper4.pdf</ee>
+<crossref>conf/caise/2006disweb</crossref>
+<url>db/conf/caise/disweb2006.html#MusaGWO06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/doceng/ContessaO06" mdate="2018-11-06">
+<author pid="48/1841">Diego Fraga Contessa</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>An OAI data provider for JEMS.</title>
+<pages>218-220</pages>
+<year>2006</year>
+<crossref>conf/doceng/2006</crossref>
+<booktitle>ACM Symposium on Document Engineering</booktitle>
+<ee>https://doi.org/10.1145/1166160.1166216</ee>
+<url>db/conf/doceng/doceng2006.html#ContessaO06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/GarciaLLO06" mdate="2017-06-02">
+<author pid="44/1644">Lu&#237;s Fernando Fortes Garcia</author>
+<author pid="l/JVdeLima">Jos&#233; Valdeni de Lima</author>
+<author pid="01/2348">Stanley Loh</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Using Ontological Modeling in a Context-Aware Summarization System to Adapt Text for Mobile Devices.</title>
+<pages>144-154</pages>
+<year>2006</year>
+<booktitle>Active Conceptual Modeling of Learning</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-77503-4_12</ee>
+<crossref>conf/er/2006acml</crossref>
+<url>db/conf/er/acml2006.html#GarciaLLO06</url>
+</inproceedings>
+</r>
+<r><article key="journals/eswa/BastosOO05" mdate="2017-06-06">
+<author pid="b/RicardoMeloBastos">Ricardo Melo Bastos</author>
+<author pid="27/5304">Fl&#225;vio Moreira Oliveira</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Autonomic computing approach for resource allocation.</title>
+<pages>9-19</pages>
+<year>2005</year>
+<volume>28</volume>
+<journal>Expert Syst. Appl.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.eswa.2004.08.014</ee>
+<url>db/journals/eswa/eswa28.html#BastosOO05</url>
+</article>
+</r>
+<r><article key="journals/jwe/MusaO05" mdate="2020-03-12">
+<author pid="61/1183">Daniela Leal Musa</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Sharing Learner Information through a Web Services-based Learning Architecture.</title>
+<pages>263-278</pages>
+<year>2005</year>
+<volume>4</volume>
+<journal>J. Web Eng.</journal>
+<number>3</number>
+<url>db/journals/jwe/jwe4.html#MusaO05</url>
+<ee type="oa">http://www.rintonpress.com/xjwe4/jwe-4-3/263-278.pdf</ee>
+</article>
+</r>
+<r><article key="journals/rita/LambO05" mdate="2007-03-02">
+<author pid="l/LCLamb">Lu&#237;s C. Lamb</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Editorial.</title>
+<pages>5-6</pages>
+<year>2005</year>
+<volume>12</volume>
+<journal>RITA</journal>
+<number>1</number>
+<url>db/journals/rita/rita12.html#LambO05</url>
+</article>
+</r>
+<r><inproceedings key="conf/caise/MusaWO05" mdate="2023-03-10">
+<author pid="61/1183">Daniela Leal Musa</author>
+<author pid="226/7920">Marcel Weschenfelder</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Developing an Alarm Manager Based on Web Services.</title>
+<year>2005</year>
+<booktitle>IWWOST@CAiSE</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-153/paper8.pdf</ee>
+<crossref>conf/caise/2005iwwost</crossref>
+<url>db/conf/caise/iwwost2005.html#MusaWO05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/la-web/SoutoVO05" mdate="2023-03-24">
+<author pid="23/757">Maria Aparecida M. Souto</author>
+<author pid="39/5083">Regina Verdin</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>Discovering Web Usage Patterns for Modeling Learner's Cognitive Abilities.</title>
+<pages>279-285</pages>
+<year>2005</year>
+<crossref>conf/la-web/2005</crossref>
+<booktitle>LA-WEB</booktitle>
+<ee>https://doi.org/10.1109/LAWEB.2005.15</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/LAWEB.2005.15</ee>
+<url>db/conf/la-web/la-web2005.html#SoutoVO05</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="books/idea/encyclopedia2005/PradoOFWSL05" mdate="2019-06-05">
+<author pid="69/4082">H&#233;rcules Ant&#244;nio do Prado</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<author pid="01/5579">Edilson Ferneda</author>
+<author pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author pid="81/1000">Edilberto Magalh&#227;es Silva</author>
+<author pid="01/2348">Stanley Loh</author>
+<title>Text Mining in the Context of Business Intelligence.</title>
+<pages>2793-2798</pages>
+<year>2005</year>
+<crossref>books/idea/Ency05</crossref>
+<booktitle>Encyclopedia of Information Science and Technology (V)</booktitle>
+<url>db/books/collections/encyclopedia2005.html#PradoOFWSL05</url>
+<ee>http://www.igi-global.com/Bookstore/Chapter.aspx?TitleId=14695</ee>
+</incollection>
+</r>
+<r><article key="journals/rita/OliveiraL04" mdate="2020-02-03">
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<author pid="l/LCLamb">Lu&#237;s C. Lamb</author>
+<title>A Revista de Inform&#225;tica Te&#243;rica e Aplicada e as Tecnologias de Informa&#231;&#227;o.</title>
+<pages>5-8</pages>
+<year>2004</year>
+<volume>11</volume>
+<journal>RITA</journal>
+<number>2</number>
+<url>db/journals/rita/rita11.html#OliveiraL04</url>
+<ee type="oa">https://doi.org/10.22456/2175-2745.5978</ee>
+</article>
+</r>
+<r><inproceedings key="conf/caise/MusaO04" mdate="2004-09-28">
+<author pid="61/1183">Daniela Leal Musa</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Sharing Learner Information through a Web Services-based Learning Architecture.</title>
+<pages>122-131</pages>
+<year>2004</year>
+<crossref>conf/caise/2004ws1</crossref>
+<booktitle>CAiSE Workshops (1)</booktitle>
+<url>db/conf/caise/caisews2004-1.html#MusaO04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/caise/MunozO04" mdate="2017-06-01">
+<author pid="48/4658">Lydia Silva Mu&#241;oz</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Adaptive Web-Based Courseware Development Using Metadata Standards and Ontologies.</title>
+<pages>414-428</pages>
+<ee>https://doi.org/10.1007/978-3-540-25975-6_30</ee>
+<year>2004</year>
+<crossref>conf/caise/2004</crossref>
+<booktitle>CAiSE</booktitle>
+<url>db/conf/caise/caise2004.html#MunozO04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexaw/MusaMO04" mdate="2023-03-24">
+<author pid="61/1183">Daniela Leal Musa</author>
+<author pid="48/4658">Lydia Silva Mu&#241;oz</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Sharing Learner Profile through an Ontology and Web Services.</title>
+<pages>415-419</pages>
+<year>2004</year>
+<crossref>conf/dexaw/2004</crossref>
+<booktitle>DEXA Workshops</booktitle>
+<ee>https://doi.org/10.1109/DEXA.2004.1333509</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DEXA.2004.1333509</ee>
+<url>db/conf/dexaw/dexaw2004.html#MusaMO04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecweb/OliveiraLWSMMZ04" mdate="2020-06-15">
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<author pid="01/2348">Stanley Loh</author>
+<author orcid="0000-0002-8391-446X" pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author pid="78/1950">Rui Gureghian Scarinci</author>
+<author pid="61/1183">Daniela Leal Musa</author>
+<author pid="48/4658">Lydia Silva Mu&#241;oz</author>
+<author pid="66/6336">Christian Zambenedetti</author>
+<title>Applying Text Mining on Electronic Messages for Competitive Intelligence.</title>
+<pages>277-286</pages>
+<ee>https://doi.org/10.1007/978-3-540-30077-9_28</ee>
+<year>2004</year>
+<crossref>conf/ecweb/2004</crossref>
+<booktitle>EC-Web</booktitle>
+<url>db/conf/ecweb/ecweb2004.html#OliveiraLWSMMZ04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsnw/HessIO04" mdate="2017-06-04">
+<author pid="10/1962">Guillermo Nudelman Hess</author>
+<author pid="74/6730">Cirano Iochpe</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Analysis Patterns for the Geographic Database Conceptual Schema: An Ontology Aided Approach.</title>
+<pages>323-324</pages>
+<ee>https://doi.org/10.1007/978-3-540-30145-5_25</ee>
+<year>2004</year>
+<crossref>conf/icsnw/2004</crossref>
+<booktitle>ICSNW</booktitle>
+<url>db/conf/icsnw/icsnw2004.html#HessIO04</url>
+</inproceedings>
+</r>
+<r><article key="journals/apin/LohOG03" mdate="2017-05-17">
+<author pid="01/2348">Stanley Loh</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<author pid="64/4332">Mauricio A. Gameiro</author>
+<title>Knowledge Discovery in Texts for Constructing Decision Support Systems.</title>
+<pages>357-366</pages>
+<year>2003</year>
+<volume>18</volume>
+<journal>Appl. Intell.</journal>
+<number>3</number>
+<url>db/journals/apin/apin18.html#LohOG03</url>
+<ee>https://doi.org/10.1023/A:1023258306854</ee>
+</article>
+</r>
+<r><inproceedings key="conf/ah/SoutoVWMWBZCVO02" mdate="2017-05-26">
+<author pid="23/757">Maria Aparecida M. Souto</author>
+<author pid="39/5083">Regina Verdin</author>
+<author pid="73/6325">Ricardo Wainer</author>
+<author pid="04/5483">Milton Madeira</author>
+<author pid="77/3594">Mariusa Warpechowski</author>
+<author pid="26/1119">Karine Beschoren</author>
+<author pid="22/6465">Renata Zanella</author>
+<author pid="91/4956">Juarez Sagebin Correa</author>
+<author pid="v/RosaMariaVicari">Rosa Maria Vicari</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>Towards an Adaptive Web Training Environment Based on Cognitive Style of Learning: An Empirical Approach.</title>
+<pages>338-347</pages>
+<year>2002</year>
+<crossref>conf/ah/2002</crossref>
+<booktitle>AH</booktitle>
+<ee>https://doi.org/10.1007/3-540-47952-X_35</ee>
+<url>db/conf/ah/ah2002.html#SoutoVWMWBZCVO02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/ScarinciWLZO02" mdate="2020-06-15">
+<author pid="78/1950">Rui Gureghian Scarinci</author>
+<author orcid="0000-0002-8391-446X" pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author pid="01/2348">Stanley Loh</author>
+<author pid="66/6336">Christian Zambenedetti</author>
+<author orcid="0000-0002-9166-8801" pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Managing Unstructured E-commerce Information.</title>
+<pages>414-426</pages>
+<ee>https://doi.org/10.1007/978-3-540-45275-1_36</ee>
+<year>2002</year>
+<crossref>conf/er/2002w</crossref>
+<booktitle>ER (Workshops)</booktitle>
+<url>db/conf/er/erw2002.html#ScarinciWLZO02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip3/SoutoNVOVBMZ02" mdate="2004-05-24">
+<author pid="23/757">Maria Aparecida M. Souto</author>
+<author pid="08/5061">Mariano Nicolao</author>
+<author pid="v/RosaMariaVicari">Rosa Maria Vicari</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<author pid="39/5083">Regina Verdin</author>
+<author pid="26/1119">Karine Beschoren</author>
+<author pid="04/5483">Milton Madeira</author>
+<author pid="22/6465">Renata Zanella</author>
+<title>Web-adaptive training system based on cognitive student style.</title>
+<pages>281-288</pages>
+<year>2002</year>
+<crossref>conf/ifip3/2002</crossref>
+<booktitle>TelE-Learning</booktitle>
+<url>db/conf/ifip3/ifip3-2002.html#SoutoNVOVBMZ02</url>
+</inproceedings>
+</r>
+<r><article key="journals/jd/LohOG01" mdate="2020-09-06">
+<author pid="01/2348">Stanley Loh</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<author pid="170/6400">F&#225;bio Leite Gastal</author>
+<title>Knowledge discovery in textual documentation: qualitative and quantitative analyses.</title>
+<pages>577-590</pages>
+<year>2001</year>
+<volume>57</volume>
+<journal>J. Documentation</journal>
+<number>5</number>
+<ee>https://doi.org/10.1108/EUM0000000007094</ee>
+<ee>https://www.wikidata.org/entity/Q58628297</ee>
+<url>db/journals/jd/jd57.html#LohOG01</url>
+</article>
+</r>
+<r><article key="journals/sigkdd/LohWO00" mdate="2020-09-29">
+<author pid="01/2348">Stanley Loh</author>
+<author orcid="0000-0002-8391-446X" pid="w/LeandroKrugWives">Leandro Krug Wives</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Concept-Based Knowledge Discovery in Texts Extracted from the Web.</title>
+<pages>29-39</pages>
+<year>2000</year>
+<volume>2</volume>
+<journal>SIGKDD Explor.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/360402.360414</ee>
+<url>db/journals/sigkdd/sigkdd2.html#LohWO00</url>
+</article>
+</r>
+<r><inproceedings key="conf/er/BastosO00" mdate="2017-05-24">
+<author pid="b/RicardoMeloBastos">Ricardo Melo Bastos</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>A Conceptual Modeling Framework for Multi-agent Information Systems.</title>
+<pages>295-308</pages>
+<ee>https://doi.org/10.1007/3-540-45393-8_22</ee>
+<year>2000</year>
+<crossref>conf/er/2000</crossref>
+<booktitle>ER</booktitle>
+<url>db/conf/er/er2000.html#BastosO00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tools/GimenesTO00" mdate="2023-03-23">
+<author pid="87/4940">Itana Maria de Souza Gimenes</author>
+<author pid="58/6295">Sergio A. Tanaka</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>An Object Oriented Framework for Task Scheduling.</title>
+<pages>383-</pages>
+<year>2000</year>
+<crossref>conf/tools/33-2000</crossref>
+<booktitle>TOOLS (33)</booktitle>
+<ee>https://doi.org/10.1109/TOOLS.2000.848777</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/TOOLS.2000.848777</ee>
+<url>db/conf/tools/tools33-2000.html#GimenesTO00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/OliveiraO99" mdate="2024-01-13">
+<author pid="52/2242">Andr&#233; Luis Costa de Oliveira</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Uma Arquitetura para Reduzir a Complexidade e Aumentar a Produtividade do Ciclo de Vida do Desenvolvimento de Sistemas.</title>
+<pages>158-171</pages>
+<year>1999</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.1999.23921</ee>
+<crossref>conf/sbes/1999</crossref>
+<url>db/conf/sbes/sbes1999.html#OliveiraO99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip3/OliveiraNE98" mdate="2019-08-03">
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<author pid="08/5061">Mariano Nicolao</author>
+<author pid="e/NinaEdelweiss">Nina Edelweiss</author>
+<title>Conceptual Workflow Modelling for Remote Courses.</title>
+<pages>789-798</pages>
+<year>1998</year>
+<crossref>conf/ifip3/1998</crossref>
+<booktitle>Teleteaching</booktitle>
+<url>db/conf/ifip3/ifip3-1998.html#OliveiraNE98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-3/BastosOO98" mdate="2008-05-24">
+<author pid="b/RicardoMeloBastos">Ricardo Melo Bastos</author>
+<author pid="27/5304">Fl&#225;vio Moreira Oliveira</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Decentralised resource allocation planning through negotiation.</title>
+<pages>67-76</pages>
+<year>1998</year>
+<crossref>conf/ifip5-3/1998basys</crossref>
+<booktitle>BASYS</booktitle>
+<url>db/conf/ifip5-3/basys1998.html#BastosOO98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adbis/EdelweissO97" mdate="2017-03-29">
+<author pid="e/NinaEdelweiss">Nina Edelweiss</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>Multidimensional Enterprise Modelling using a Temporal Object-oriented Model with Roles.</title>
+<pages>394-398</pages>
+<cdrom>adbis97/P394.pdf</cdrom>
+<year>1997</year>
+<crossref>conf/adbis/97</crossref>
+<booktitle>ADBIS</booktitle>
+<url>db/conf/adbis/adbis97.html#EdelweissO97</url>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/caise/EdelweissOP93</cite>
+<cite>...</cite>
+<cite>conf/dexa/EdelweissOP94</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/dexaw/OliveiraEALC95</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/tse/RossS77</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexaw/OliveiraEALC95" mdate="2014-11-24">
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<author pid="e/NinaEdelweiss">Nina Edelweiss</author>
+<author pid="16/5732">Eduardo Arruda</author>
+<author pid="l/AHFLaender">Alberto H. F. Laender</author>
+<author pid="29/1174">Jo&#227;o M. B. Cavalcanti</author>
+<title>Implementation of an Object-Oriented Temporal Model.</title>
+<pages>35-44</pages>
+<year>1995</year>
+<crossref>conf/dexaw/1995</crossref>
+<booktitle>DEXA Workshop</booktitle>
+<url>db/conf/dexaw/dexaw95.html#OliveiraEALC95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/EdelweissOP94" mdate="2017-05-20">
+<author pid="e/NinaEdelweiss">Nina Edelweiss</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<author pid="p/BarbaraPernici">Barbara Pernici</author>
+<title>An Object-Oriented Approach to a Temporal Query Language.</title>
+<pages>225-235</pages>
+<year>1994</year>
+<crossref>conf/dexa/1994</crossref>
+<booktitle>DEXA</booktitle>
+<url>db/conf/dexa/dexa94.html#EdelweissOP94</url>
+<ee>https://doi.org/10.1007/3-540-58435-8_187</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip/OliveiraH94" mdate="2016-03-15">
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<author pid="11/1511">Norberto Hoppen</author>
+<title>E-mail as an Enabling Technology in Brazil: The CNPq/ProTeM-CC Experience.</title>
+<pages>366-371</pages>
+<year>1994</year>
+<crossref>conf/ifip/1994-2</crossref>
+<booktitle>IFIP Congress (2)</booktitle>
+<url>db/conf/ifip/ifip94-2.html#OliveiraH94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/orm/EdelweissOCPMP94" mdate="2022-06-23">
+<author pid="e/NinaEdelweiss">Nina Edelweiss</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<author pid="13/1417">Jos&#233; Mauro Volkmer de Castilho</author>
+<author pid="84/3591">Elisa Peressi</author>
+<author pid="68/27">Angelo Montanari</author>
+<author pid="p/BarbaraPernici">Barbara Pernici</author>
+<title>T-ORM: Temporal Aspects in Objects and Roles.</title>
+<pages>18-27</pages>
+<year>1994</year>
+<crossref>conf/orm/1994</crossref>
+<booktitle>ORM</booktitle>
+<url>db/conf/orm/orm1994.html#EdelweissOCPMP94</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ifip5-7/1994" mdate="2003-01-20">
+<editor pid="92/2858">Cl&#225;udio Walter</editor>
+<editor pid="89/6555">Francisco J. Kliemann</editor>
+<editor pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</editor>
+<title>Production Management Methods, Proceedings of the IFIP WG5.7 Working Conference on Evaluation of Production Management Methods, Gramado, Brazil, 21-24 March, 1994</title>
+<booktitle>Production Management Methods</booktitle>
+<series href="db/series/ifip/transactions.html">IFIP Transactions</series>
+<volume>B-19</volume>
+<publisher>North-Holland</publisher>
+<year>1994</year>
+<isbn>0-444-81910-X</isbn>
+<url>db/conf/ifip5-7/ifip5-7-1994.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/caise/EdelweissOP93" mdate="2019-12-27">
+<author pid="e/NinaEdelweiss">Nina Edelweiss</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<author orcid="0000-0002-2034-9774" pid="p/BarbaraPernici">Barbara Pernici</author>
+<title>An Object-Oriented Temporal Model</title>
+<pages>397-415</pages>
+<crossref>conf/caise/93</crossref>
+<booktitle>CAiSE</booktitle>
+<year>1993</year>
+<url>db/conf/caise/caise93.html#EdelweissOP93</url>
+<ee>https://doi.org/10.1007/3-540-56777-1_21</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-7/WalterOS93" mdate="2002-10-24">
+<author pid="92/2858">Cl&#225;udio Walter</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<author pid="11/4621">Aldo Sani Jr.</author>
+<title>Plant Engineering: Conceptual Modeling and Modular Design of a Computer Aided Environment.</title>
+<pages>275-283</pages>
+<year>1993</year>
+<crossref>conf/ifip5-7/1993</crossref>
+<booktitle>APMS</booktitle>
+<url>db/conf/ifip5-7/ifip5-7-1993.html#WalterOS93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/EdelweissOCP92" mdate="2024-01-11">
+<author pid="e/NinaEdelweiss">Nina Edelweiss</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<author pid="13/1417">Jos&#233; Mauro Volkmer de Castilho</author>
+<author pid="p/BarbaraPernici">Barbara Pernici</author>
+<title>Especifica&#231;&#227;o de Requisitos: Utilizando um Modelo Temporal Orientado a Objetos.</title>
+<pages>213-228</pages>
+<year>1992</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.1992.25185</ee>
+<crossref>conf/sbes/1992</crossref>
+<url>db/conf/sbes/sbes1992.html#EdelweissOCP92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/OliveiraRH89" mdate="2024-01-10">
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<author pid="22/1939">Duncan Dubugras A. Ruiz</author>
+<author pid="11/1511">Norberto Hoppen</author>
+<title>Especifica&#231;&#227;o de Sistemas de Informa&#231;&#227;o de Escrit&#243;rios: a metodologia T.A.&#38; A.</title>
+<pages>86-97</pages>
+<year>1989</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.1989.25252</ee>
+<crossref>conf/sbes/1989</crossref>
+<url>db/conf/sbes/sbes1989.html#OliveiraRH89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acm/AdibaQO85" mdate="2018-11-06">
+<author pid="a/MEAdiba">Michel E. Adiba</author>
+<author pid="24/5694">N. Bui Quang</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>Time concept in generalized data bases: TIGRE project.</title>
+<pages>214-223</pages>
+<year>1985</year>
+<booktitle>ACM Annual Conference</booktitle>
+<ee>https://doi.org/10.1145/320435.320501</ee>
+<crossref>conf/acm/1985ac</crossref>
+<url>db/conf/acm/acm85.html#AdibaQO85</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/AdibaQO85" mdate="2004-05-03">
+<author pid="a/MEAdiba">Michel E. Adiba</author>
+<author pid="24/5694">N. Bui Quang</author>
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo M. de Oliveira</author>
+<title>Notions de temps dans les Bases de Donn&#233;es g&#233;n&#233;ralis&#233;es.</title>
+<year>1985</year>
+<crossref>conf/bda/1985</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda1985.html#AdibaQO85</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/PalazzoMoreiraDeOliveira84" mdate="2020-07-21">
+<author pid="o/JosePalazzoMoreiradeOliveira">Jos&#233; Palazzo Moreira de Oliveira</author>
+<title>Le mod&#232;le de donn&#233;es et sa repr&#233;sentation relationnelle dans un syst&#232;me de gestion de base de donn&#233;es g&#233;n&#233;ralis&#233;es : projet TIGRE. (The data model and its relational representation in a generalized data base system: TIGRE project).</title>
+<year>1984</year>
+<school>Grenoble Institute of Technology, France</school>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-00311838</ee>
+</phdthesis>
+</r>
+<coauthors n="171" nc="3">
+<co c="0"><na f="a/Abel:Mara" pid="a/MaraAbel">Mara Abel</na></co>
+<co c="0"><na f="a/Adiba:Michel_E=" pid="a/MEAdiba">Michel E. Adiba</na></co>
+<co c="0"><na f="a/Alves:Ronnie" pid="83/953">Ronnie Alves</na></co>
+<co c="0"><na f="a/Aroyo:Lora" pid="42/6100">Lora Aroyo</na></co>
+<co c="0"><na f="a/Arruda:Eduardo" pid="16/5732">Eduardo Arruda</na></co>
+<co c="0"><na f="a/Augustin:Iara" pid="64/3911">Iara Augustin</na></co>
+<co c="0"><na f="a/Avila:Diego_Toralles" pid="201/2461">Diego Toralles Avila</na></co>
+<co c="0"><na f="b/Badr:Youakim" pid="93/521">Youakim Badr</na></co>
+<co c="0"><na f="b/Barbosa:Eduardo_M=" pid="84/9790">Eduardo M. Barbosa</na></co>
+<co c="2"><na f="b/Barros:Rhuan_Paulo_Lopes" pid="281/3280">Rhuan Paulo Lopes Barros</na></co>
+<co c="0"><na f="b/Bastos:Ricardo_Melo" pid="b/RicardoMeloBastos">Ricardo Melo Bastos</na></co>
+<co c="0"><na f="b/Benslimane:Djamal" pid="b/DjamalBenslimane">Djamal Benslimane</na></co>
+<co c="0"><na f="b/Beschoren:Karine" pid="26/1119">Karine Beschoren</na></co>
+<co c="0"><na f="b/Biazus:Miller" pid="247/1358">Miller Biazus</na></co>
+<co c="0"><na f="b/Bohnenberger:Nicolas_Mauro_de_Moreira" pid="300/5266">Nicolas Mauro de Moreira Bohnenberger</na></co>
+<co c="0"><na f="b/Bonjour:Mario" pid="99/8121">Mario Bonjour</na></co>
+<co c="0"><na f="b/Bouzeghoub:Amel" pid="88/5898">Amel Bouzeghoub</na></co>
+<co c="0"><na f="b/Boyer:Anne" pid="19/4358">Anne Boyer</na></co>
+<co c="0"><na f="b/Brand=atilde=o:Michele_A=" pid="116/1426">Michele A. Brand&#227;o</na></co>
+<co c="0"><na f="b/Burriel:Ver=oacute=nica" pid="90/9502">Ver&#243;nica Burriel</na></co>
+<co c="0"><na f="c/Camargo:Jo=atilde=o_Vitor_de" pid="321/1524">Jo&#227;o Vitor de Camargo</na></co>
+<co c="0" n="2"><na f="c/Carr:Les" pid="c/LesCarr">Les Carr</na><na>Leslie Carr</na></co>
+<co c="0"><na f="c/Carvalho:Guilherme_Xavier_de" pid="266/4819">Guilherme Xavier de Carvalho</na></co>
+<co c="0"><na f="c/Casanova:Gabriel_Vieira" pid="376/4583">Gabriel Vieira Casanova</na></co>
+<co c="0"><na f="c/Casati:Fabio" pid="c/FabioCasati">Fabio Casati</na></co>
+<co c="0"><na f="c/Castano:Silvana" pid="c/SilvanaCastano">Silvana Castano</na></co>
+<co c="0" n="2"><na f="c/Castilho:Jos=eacute=_M=_V=_de" pid="13/1417">Jos&#233; M. V. de Castilho</na><na>Jos&#233; Mauro Volkmer de Castilho</na></co>
+<co c="0"><na f="c/Cavalcanti:Jo=atilde=o_M=_B=" pid="29/1174">Jo&#227;o M. B. Cavalcanti</na></co>
+<co c="0" n="2"><na f="c/Cavalheiro:Gerson_G=_H=" pid="c/GGHCavalheiro">Gerson G. H. Cavalheiro</na><na>Gerson Geraldo Homrich Cavalheiro</na></co>
+<co c="0"><na f="c/Cervi:Cristiano_R=" pid="143/6441">Cristiano R. Cervi</na></co>
+<co c="0"><na f="c/Cezar:Nath=aacute=lia_Locatelli" pid="296/6247">Nath&#225;lia Locatelli Cezar</na></co>
+<co c="-1"><na f="c/Contessa:Diego_Fraga" pid="48/1841">Diego Fraga Contessa</na></co>
+<co c="0"><na f="c/Correa:Juarez_Sagebin" pid="91/4956">Juarez Sagebin Correa</na></co>
+<co c="0"><na f="d/Dani:Vinicius_Stein" pid="224/6323">Vinicius Stein Dani</na></co>
+<co c="0"><na f="d/Dayal:Umeshwar" pid="76/2198">Umeshwar Dayal</na></co>
+<co c="0"><na f="d/Defude:Bruno" pid="d/BrunoDefude">Bruno Defude</na></co>
+<co c="0"><na f="d/D=iacute=az:Alicia" pid="d/AliciaDiaz">Alicia D&#237;az</na></co>
+<co c="0"><na f="d/Dopazo:Joaqu=iacute=n" pid="04/3812">Joaqu&#237;n Dopazo</na></co>
+<co c="0"><na f="d/Dorneles:Ana_Paula_Militz" pid="376/4406">Ana Paula Militz Dorneles</na></co>
+<co c="0"><na f="d/Dornelles:Lorayne_P=" pid="215/5811">Lorayne P. Dornelles</na></co>
+<co c="0"><na f="e/Edelweiss:Nina" pid="e/NinaEdelweiss">Nina Edelweiss</na></co>
+<co c="0"><na f="f/Faci:Noura" pid="51/6922">Noura Faci</na></co>
+<co c="0"><na f="f/Fantinato:Marcelo" pid="83/468">Marcelo Fantinato</na></co>
+<co c="0"><na f="f/Ferneda:Edilson" pid="01/5579">Edilson Ferneda</na></co>
+<co c="0"><na f="f/Ferreira:Renato_C=eacute=sar_Borges" pid="201/2450">Renato C&#233;sar Borges Ferreira</na></co>
+<co c="0"><na f="f/Fontoura:Marcus" pid="54/3895">Marcus Fontoura</na></co>
+<co c="0" n="2"><na f="g/Galante:Renata" pid="37/2418">Renata Galante</na><na>Renata de Matos Galante</na></co>
+<co c="0"><na f="g/Gameiro:Mauricio_A=" pid="64/4332">Mauricio A. Gameiro</na></co>
+<co c="0"><na f="g/Garcia:Lu=iacute=s_Fernando_Fortes" pid="44/1644">Lu&#237;s Fernando Fortes Garcia</na></co>
+<co c="0"><na f="g/Gasparini:Isabela" pid="83/667">Isabela Gasparini</na></co>
+<co c="0"><na f="g/Gassen:Jonas_Bulegon" pid="117/6115">Jonas Bulegon Gassen</na></co>
+<co c="0"><na f="g/Gastal:F=aacute=bio_Leite" pid="170/6400">F&#225;bio Leite Gastal</na></co>
+<co c="0"><na f="g/Gimenes:Itana_Maria_de_Souza" pid="87/4940">Itana Maria de Souza Gimenes</na></co>
+<co c="0"><na f="g/Granada:Roger" pid="94/473">Roger Granada</na></co>
+<co c="0"><na f="h/Hess:Guillermo_Nudelman" pid="10/1962">Guillermo Nudelman Hess</na></co>
+<co c="0"><na f="h/Hoppen:Norberto" pid="11/1511">Norberto Hoppen</na></co>
+<co c="0"><na f="i/Iochpe:Cirano" pid="74/6730">Cirano Iochpe</na></co>
+<co c="0"><na f="j/J=uacute=nior:Elvandi_da_Silva" pid="296/0961">Elvandi da Silva J&#250;nior</na></co>
+<co c="0"><na f="j/J=uacute=nior:Valter_Helmuth_Goldberg" pid="201/2454">Valter Helmuth Goldberg J&#250;nior</na></co>
+<co c="0"><na f="k/Kalil:Fahad" pid="28/8923">Fahad Kalil</na></co>
+<co c="0"><na f="k/Kauer:Anderson_Uilian" pid="151/7980">Anderson Uilian Kauer</na></co>
+<co c="0"><na f="k/Kemczinski:Avanilde" pid="28/11442">Avanilde Kemczinski</na></co>
+<co c="0"><na f="k/Kimura:Marcos_Hideshi" pid="123/3026">Marcos Hideshi Kimura</na></co>
+<co c="0"><na f="k/King:Irwin" pid="k/IrwinKing">Irwin King</na></co>
+<co c="1"><na f="k/Kliemann:Francisco_J=" pid="89/6555">Francisco J. Kliemann</na></co>
+<co c="0"><na f="k/Klinger:Augusto" pid="10/11427">Augusto Klinger</na></co>
+<co c="0"><na f="l/Laender:Alberto_H=_F=" pid="l/AHFLaender">Alberto H. F. Laender</na></co>
+<co c="0"><na f="l/Lamb:Lu=iacute=s_C=" pid="l/LCLamb">Lu&#237;s C. Lamb</na></co>
+<co c="0" n="2"><na f="l/Leithardt:Valderi_R=_Q=" pid="75/11123">Valderi R. Q. Leithardt</na><na>Valderi Reis Quietinho Leithardt</na></co>
+<co c="0"><na f="l/Levin:Ana_M=" pid="12/8583">Ana M. Levin</na></co>
+<co c="0"><na f="l/Lichtnow:Daniel" pid="82/449">Daniel Lichtnow</na></co>
+<co c="0"><na f="l/Lim:Ee=Peng" pid="l/EePengLim">Ee-Peng Lim</na></co>
+<co c="0"><na f="l/Lima:Fernanda" pid="20/5847">Fernanda Lima</na></co>
+<co c="0" n="2"><na f="l/Lima:Jo=atilde=o_Carlos_D=" pid="53/8821">Jo&#227;o Carlos D. Lima</na><na>Jo&#227;o Carlos Damasceno Lima</na></co>
+<co c="0"><na f="l/Lima:Jos=eacute=_Valdeni_de" pid="l/JVdeLima">Jos&#233; Valdeni de Lima</na></co>
+<co c="0"><na f="l/Lima:Lucas_Henrique_C=" pid="178/7719">Lucas Henrique C. Lima</na></co>
+<co c="0"><na f="l/Loh:Stanley" pid="01/2348">Stanley Loh</na></co>
+<co c="0"><na f="l/Lopes:Daniel_Youssef_de_Hollanda" pid="376/4170">Daniel Youssef de Hollanda Lopes</na></co>
+<co c="0"><na f="l/Lopes:Giseli_Rabello" pid="21/8385">Giseli Rabello Lopes</na></co>
+<co c="0" n="2"><na f="l/Lopes:Jo=atilde=o_Ladislau" pid="128/2765">Jo&#227;o Ladislau Lopes</na><na>Jo&#227;o Ladislau Barbar&#225; Lopes</na></co>
+<co c="0"><na f="l/Lorenzi:Fabiana" pid="19/6140">Fabiana Lorenzi</na></co>
+<co c="0"><na f="l/L=oacute=scio:Bernadette_Farias" pid="51/6689">Bernadette Farias L&#243;scio</na></co>
+<co c="0"><na f="l/Lunardi:Gabriel_Machado" pid="224/7031">Gabriel Machado Lunardi</na></co>
+<co c="0"><na f="m/Maamar:Zakaria" pid="11/6673">Zakaria Maamar</na></co>
+<co c="0"><na f="m/Machado:Alencar" pid="117/6139">Alencar Machado</na></co>
+<co c="0"><na f="m/Machado:Guilherme_Medeiros" pid="151/0952">Guilherme Medeiros Machado</na></co>
+<co c="0"><na f="m/Machot:Fadi_Al" pid="66/9202">Fadi Al Machot</na></co>
+<co c="0"><na f="m/Madeira:Milton" pid="04/5483">Milton Madeira</na></co>
+<co c="-1"><na f="m/Maieron:Mcdonnell_Ara=uacute=jo" pid="293/7245">Mcdonnell Ara&#250;jo Maieron</na></co>
+<co c="0"><na f="m/Manica:Edimar" pid="84/8654">Edimar Manica</na></co>
+<co c="0"><na f="m/Maran:Vin=iacute=cius" pid="157/0431">Vin&#237;cius Maran</na></co>
+<co c="0"><na f="m/Marsicano:Marcos" pid="71/8121">Marcos Marsicano</na></co>
+<co c="0"><na f="m/Martinez:Alexandre_Souto" pid="25/123">Alexandre Souto Martinez</na></co>
+<co c="0"><na f="m/Maruyama:Martin_Hideki_Mensch" pid="348/5782">Martin Hideki Mensch Maruyama</na></co>
+<co c="0"><na f="m/Mayr:Heinrich_C=" pid="89/200">Heinrich C. Mayr</na></co>
+<co c="0" n="2"><na f="m/Medina:Ignacio" pid="11/5649">Ignacio Medina</na><na>Ignacio Medina Castello</na></co>
+<co c="0"><na f="m/Medina:Karina" pid="58/8121">Karina Medina</na></co>
+<co c="0"><na f="m/Mendling:Jan" pid="m/JanMendling">Jan Mendling</na></co>
+<co c="0"><na f="m/Miranda:Ricardo" pid="225/0650">Ricardo Miranda</na></co>
+<co c="0"><na f="m/Mizusaki:Lucas" pid="151/7929">Lucas Mizusaki</na></co>
+<co c="0"><na f="m/Montanari:Angelo" pid="68/27">Angelo Montanari</na></co>
+<co c="0"><na f="m/Moraes:Sergio_De" pid="132/4076">Sergio De Moraes</na></co>
+<co c="0"><na f="m/Moreira:Viviane_Pereira" pid="o/VivianeMoreiraOrengo">Viviane Pereira Moreira</na></co>
+<co c="0" n="2"><na f="m/Moro:Mirella_M=" pid="m/MirellaMouraMoro">Mirella M. Moro</na><na>Mirella Moura Moro</na></co>
+<co c="0"><na f="m/Motz:Regina" pid="02/5335">Regina Motz</na></co>
+<co c="0"><na f="m/Mu=ntilde=oz:Lydia_Silva" pid="48/4658">Lydia Silva Mu&#241;oz</na></co>
+<co c="0"><na f="m/Musa:Daniela_Leal" pid="61/1183">Daniela Leal Musa</na></co>
+<co c="0"><na f="n/Nascimento:Leonardo_Vianna_do" pid="45/3567">Leonardo Vianna do Nascimento</na></co>
+<co c="0"><na f="n/Nicolao:Mariano" pid="08/5061">Mariano Nicolao</na></co>
+<co c="-1"><na f="o/Oliveira:Andr=eacute=_Luis_Costa_de" pid="52/2242">Andr&#233; Luis Costa de Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Fl=aacute=vio_Moreira" pid="27/5304">Fl&#225;vio Moreira Oliveira</na></co>
+<co c="0"><na f="p/Pastor_0001:Oscar" pid="p/OscarPastor">Oscar Pastor 0001</na></co>
+<co c="0"><na f="p/Penha:Gustavo" pid="179/8273">Gustavo Penha</na></co>
+<co c="0"><na f="p/Peressi:Elisa" pid="84/3591">Elisa Peressi</na></co>
+<co c="0" n="2"><na f="p/Pernas:Ana_Marilza" pid="92/4826">Ana Marilza Pernas</na><na>Ana Marilza Pernas Fleischmann</na></co>
+<co c="0"><na f="p/Pernici:Barbara" pid="p/BarbaraPernici">Barbara Pernici</na></co>
+<co c="0"><na f="p/Peter:Yvan" pid="71/984">Yvan Peter</na></co>
+<co c="0"><na f="p/Pietrobon:Ricardo" pid="45/3609">Ricardo Pietrobon</na></co>
+<co c="0"><na f="p/Pimenta:Marcelo_Soares" pid="p/MarceloSoaresPimenta">Marcelo Soares Pimenta</na></co>
+<co c="0"><na f="p/Pires:Lucas_Vaz" pid="170/0925">Lucas Vaz Pires</na></co>
+<co c="0"><na f="p/Polancic:Gregor" pid="35/4242">Gregor Polancic</na></co>
+<co c="0"><na f="p/Poy:Renan_Bordignon" pid="376/4491">Renan Bordignon Poy</na></co>
+<co c="0"><na f="p/Prado:H=eacute=rcules_Ant=ocirc=nio_do" pid="69/4082">H&#233;rcules Ant&#244;nio do Prado</na></co>
+<co c="0"><na f="q/Quang:N=_Bui" pid="24/5694">N. Bui Quang</na></co>
+<co c="0"><na f="q/Quaresma:Paulo" pid="73/4272">Paulo Quaresma</na></co>
+<co c="0"><na f="r/Rigo:Sandro_Jos=eacute=" pid="48/4922">Sandro Jos&#233; Rigo</na></co>
+<co c="0"><na f="r/Rocha:La=iacute=s_Mota_de_Alencar" pid="203/7096">La&#237;s Mota de Alencar Rocha</na></co>
+<co c="2"><na f="r/Rocha:Lucian" pid="281/3252">Lucian Rocha</na></co>
+<co c="0" n="2"><na f="r/Ruiz:Duncan_Dubugras_Alcoba" pid="22/1939">Duncan Dubugras Alcoba Ruiz</na><na>Duncan Dubugras A. Ruiz</na></co>
+<co c="0"><na f="s/S=aacute=nchez:Encarna_Sosa" pid="91/430">Encarna Sosa S&#225;nchez</na></co>
+<co c="1"><na f="s/Sani_Jr=:Aldo" pid="11/4621">Aldo Sani Jr.</na></co>
+<co c="0" n="2"><na f="s/Santos:Carlos_Habekost_dos" pid="166/2221">Carlos Habekost dos Santos</na><na>Carlos Francisco Habekost dos Santos</na></co>
+<co c="0"><na f="s/Santos:Diego_Alessandro_Pereira_dos" pid="348/6263">Diego Alessandro Pereira dos Santos</na></co>
+<co c="0"><na f="s/Santos:P=eacute=dro_Bispo_dos" pid="86/9655">P&#233;dro Bispo dos Santos</na></co>
+<co c="0"><na f="s/Santos:Rubens_Ideron_dos" pid="208/0313">Rubens Ideron dos Santos</na></co>
+<co c="0"><na f="s/Scarinci:Rui_Gureghian" pid="78/1950">Rui Gureghian Scarinci</na></co>
+<co c="0"><na f="s/Schiefelbein:Un_Hee" pid="218/4841">Un Hee Schiefelbein</na></co>
+<co c="0"><na f="s/Schneider:=Eacute=verton_Eckert" pid="313/6265">&#201;verton Eckert Schneider</na></co>
+<co c="0"><na f="s/Sellami:Mohamed" pid="08/7210">Mohamed Sellami</na></co>
+<co c="0"><na f="s/Shekhovtsov:Vladimir_A=" pid="21/6084">Vladimir A. Shekhovtsov</na></co>
+<co c="0"><na f="s/Silva:Ana_Paula_Couto_da" pid="47/2795">Ana Paula Couto da Silva</na></co>
+<co c="0"><na f="s/Silva:Edilberto_Magalh=atilde=es" pid="81/1000">Edilberto Magalh&#227;es Silva</na></co>
+<co c="0"><na f="s/Silva:Roberto_da" pid="91/2103">Roberto da Silva</na></co>
+<co c="0"><na f="s/Silva:Thanner_Soares" pid="181/9035">Thanner Soares Silva</na></co>
+<co c="0"><na f="s/Silveira:Luan_Willig" pid="348/6333">Luan Willig Silveira</na></co>
+<co c="0"><na f="s/Sim=otilde=es:Gabriel" pid="82/6103">Gabriel Sim&#245;es</na></co>
+<co c="0"><na f="s/Soligo:Diovane" pid="232/9160">Diovane Soligo</na></co>
+<co c="0"><na f="s/Souto:Maria_Aparecida_M=" pid="23/757">Maria Aparecida M. Souto</na></co>
+<co c="0"><na f="s/Souto:Maria_Aparecida_Martins" pid="128/5715">Maria Aparecida Martins Souto</na></co>
+<co c="0"><na f="t/Takeda:Larissa_Narumi" pid="247/1368">Larissa Narumi Takeda</na></co>
+<co c="0"><na f="t/Tanaka:Sergio_A=" pid="58/6295">Sergio A. Tanaka</na></co>
+<co c="0"><na f="t/Tata:Samir" pid="t/SamirTata">Samir Tata</na></co>
+<co c="0"><na f="t/Teixeira:Milene_Santos" pid="168/4745">Milene Santos Teixeira</na></co>
+<co c="0"><na f="t/Thom:Lucin=eacute=ia_Heloisa" pid="29/181">Lucin&#233;ia Heloisa Thom</na></co>
+<co c="0"><na f="v/Verdin:Regina" pid="39/5083">Regina Verdin</na></co>
+<co c="0"><na f="v/Vicari:Rosa_Maria" pid="v/RosaMariaVicari">Rosa Maria Vicari</na></co>
+<co c="0"><na f="v/Vrandecic:Denny" pid="59/5618">Denny Vrandecic</na></co>
+<co c="0"><na f="w/Wainer:Ricardo" pid="73/6325">Ricardo Wainer</na></co>
+<co c="1"><na f="w/Walter:Cl=aacute=udio" pid="92/2858">Cl&#225;udio Walter</na></co>
+<co c="0"><na f="w/Warpechowski:Mariusa" pid="77/3594">Mariusa Warpechowski</na></co>
+<co c="0"><na f="w/Weber:Aline" pid="228/0689">Aline Weber</na></co>
+<co c="0"><na f="w/Weitzel:Leila" pid="19/11233">Leila Weitzel</na></co>
+<co c="0"><na f="w/Weren:Edson_R=_D=" pid="150/5087">Edson R. D. Weren</na></co>
+<co c="0"><na f="w/Weschenfelder:Marcel" pid="226/7920">Marcel Weschenfelder</na></co>
+<co c="0"><na f="w/Wilde:Erik" pid="w/EWilde">Erik Wilde</na></co>
+<co c="0"><na f="w/Winter_0001:Michael" pid="43/5128-1">Michael Winter 0001</na></co>
+<co c="0"><na f="w/Wives:Leandro_Krug" pid="w/LeandroKrugWives">Leandro Krug Wives</na></co>
+<co c="0"><na f="w/Woloszyn:Vinicius" pid="204/3806">Vinicius Woloszyn</na></co>
+<co c="0" n="2"><na f="y/Yamin:Adenauer_C=" pid="y/AdenauerCYamin">Adenauer C. Yamin</na><na>Adenauer Corr&#234;a Yamin</na></co>
+<co c="0"><na f="z/Zambenedetti:Christian" pid="66/6336">Christian Zambenedetti</na></co>
+<co c="0"><na f="z/Zanella:Renata" pid="22/6465">Renata Zanella</na></co>
+</coauthors>
+</dblpperson>
+

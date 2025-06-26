@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<dblpperson name="Marcos Augusto dos Santos" pid="62/10225" n="7">
+<person key="homepages/62/10225" mdate="2011-09-28">
+<author pid="62/10225">Marcos Augusto dos Santos</author>
+</person>
+<r><article key="journals/bioinformatics/Silverio-Machado15" mdate="2020-03-02">
+<author pid="161/2899">Rita Silv&#233;rio-Machado</author>
+<author pid="24/9017">Br&#225;ulio Roberto Gon&#231;alves Marinho Couto</author>
+<author pid="62/10225">Marcos Augusto dos Santos</author>
+<title>Retrieval of <i>Enterobacteriaceae</i> drug targets using singular value decomposition.</title>
+<pages>1267-1273</pages>
+<year>2015</year>
+<volume>31</volume>
+<journal>Bioinform.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1093/bioinformatics/btu792</ee>
+<ee>https://www.wikidata.org/entity/Q41722339</ee>
+<url>db/journals/bioinformatics/bioinformatics31.html#Silverio-Machado15</url>
+</article>
+</r>
+<r><inproceedings key="conf/biostec/CoutoSLS13" mdate="2013-10-01">
+<author pid="24/9017">Br&#225;ulio Roberto Gon&#231;alves Marinho Couto</author>
+<author pid="27/10226">Marcelo Matos Santoro</author>
+<author pid="135/3494">Ana Paula Ladeira</author>
+<author pid="62/10225">Marcos Augusto dos Santos</author>
+<title>A Predictive Alignment-free Method based on Logistic Regression for Feature Selection and Classification of Protein Sequences.</title>
+<pages>171-177</pages>
+<year>2013</year>
+<booktitle>BIOINFORMATICS</booktitle>
+<crossref>conf/biostec/2013bi</crossref>
+<url>db/conf/biostec/bioinformatics2013.html#CoutoSLS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/biostec/SantosSCL13" mdate="2013-10-01">
+<author pid="37/11445">Eduardo Campos dos Santos</author>
+<author pid="62/10225">Marcos Augusto dos Santos</author>
+<author pid="24/9017">Br&#225;ulio Roberto Gon&#231;alves Marinho Couto</author>
+<author pid="79/4938">Julio Cesar Dias Lopes</author>
+<title>A Semantic-based Similarity of Human Drug Target Proteins.</title>
+<pages>300-303</pages>
+<year>2013</year>
+<booktitle>BIOINFORMATICS</booktitle>
+<crossref>conf/biostec/2013bi</crossref>
+<url>db/conf/biostec/bioinformatics2013.html#SantosSCL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/biostec/SantosCSL12" mdate="2013-01-28">
+<author pid="37/11445">Eduardo Campos dos Santos</author>
+<author pid="24/9017">Br&#225;ulio Roberto Gon&#231;alves Marinho Couto</author>
+<author pid="62/10225">Marcos Augusto dos Santos</author>
+<author pid="79/4938">Julio Cesar Dias Lopes</author>
+<title>Predicting New Human Drug Targets by using Feature Selection Techniques.</title>
+<pages>137-142</pages>
+<year>2012</year>
+<booktitle>BIOINFORMATICS</booktitle>
+<crossref>conf/biostec/2012bi</crossref>
+<url>db/conf/biostec/bioinformatics2012.html#SantosCSL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/biostec/CoutoSS11" mdate="2013-02-28">
+<author pid="24/9017">Br&#225;ulio Roberto Gon&#231;alves Marinho Couto</author>
+<author pid="27/10226">Marcelo Matos Santoro</author>
+<author pid="62/10225">Marcos Augusto dos Santos</author>
+<title>Singular Value Decomposition (SVD) and BLAST - Quite Different Methods Achieving Similar Results.</title>
+<pages>189-195</pages>
+<year>2011</year>
+<booktitle>BIOINFORMATICS</booktitle>
+<crossref>conf/biostec/2011bi</crossref>
+<url>db/conf/biostec/bioinformatics2011.html#CoutoSS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/biostec/CoutoSS11a" mdate="2011-09-28">
+<author pid="24/9017">Br&#225;ulio Roberto Gon&#231;alves Marinho Couto</author>
+<author pid="27/10226">Marcelo Matos Santoro</author>
+<author pid="62/10225">Marcos Augusto dos Santos</author>
+<title>Unrevealing Biological Process with Linear Algebra - Extracting Patterns from Noisy Data.</title>
+<pages>313-317</pages>
+<year>2011</year>
+<booktitle>BIOINFORMATICS</booktitle>
+<crossref>conf/biostec/2011bi</crossref>
+<url>db/conf/biostec/bioinformatics2011.html#CoutoSS11a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isami/MarcolinoCS10" mdate="2020-01-04">
+<author orcid="0000-0002-3337-8611" pid="35/1126">Leandro Soriano Marcolino</author>
+<author pid="24/9017">Br&#225;ulio Roberto Gon&#231;alves Marinho Couto</author>
+<author pid="62/10225">Marcos Augusto dos Santos</author>
+<title>Genome Visualization in Space.</title>
+<pages>225-232</pages>
+<year>2010</year>
+<booktitle>IWPACBB</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-13214-8_29</ee>
+<crossref>conf/isami/2010iwpacbb</crossref>
+<url>db/conf/isami/iwpacbb2010.html#MarcolinoCS10</url>
+</inproceedings>
+</r>
+<coauthors n="7" nc="1">
+<co c="0"><na f="c/Couto:Br=aacute=ulio_Roberto_Gon=ccedil=alves_Marinho" pid="24/9017">Br&#225;ulio Roberto Gon&#231;alves Marinho Couto</na></co>
+<co c="0"><na f="l/Ladeira:Ana_Paula" pid="135/3494">Ana Paula Ladeira</na></co>
+<co c="0"><na f="l/Lopes:Julio_Cesar_Dias" pid="79/4938">Julio Cesar Dias Lopes</na></co>
+<co c="0"><na f="m/Marcolino:Leandro_Soriano" pid="35/1126">Leandro Soriano Marcolino</na></co>
+<co c="0"><na f="s/Santoro:Marcelo_Matos" pid="27/10226">Marcelo Matos Santoro</na></co>
+<co c="0"><na f="s/Santos:Eduardo_Campos_dos" pid="37/11445">Eduardo Campos dos Santos</na></co>
+<co c="0"><na f="s/Silv=eacute=rio=Machado:Rita" pid="161/2899">Rita Silv&#233;rio-Machado</na></co>
+</coauthors>
+</dblpperson>
+

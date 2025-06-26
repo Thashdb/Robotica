@@ -1,0 +1,1879 @@
+<?xml version="1.0"?>
+<dblpperson name="Renato Ferreira 0001" pid="f/RACFerreira" n="99">
+<person key="homepages/f/RACFerreira" mdate="2025-05-13">
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="f/RACFerreira">Renato Ant&#244;nio Celso Ferreira</author>
+<author pid="f/RACFerreira">Renato A. C. Ferreira</author>
+<author pid="f/RACFerreira">Renato C. Ferreira</author>
+<note type="affiliation">Federal University of Minas Gerais, Belo Horizonte, Brazil</note>
+<note label="former" type="affiliation">Ohio State University, Department of Biomedical Informatics, Columbus, OH, USA</note>
+<note label="PhD 2001" type="affiliation">University of Maryland, College Park, MD, USA</note>
+<url>http://www2.dcc.ufmg.br/~renato/</url>
+<url>https://orcid.org/0000-0002-4372-8996</url>
+<url>https://www.wikidata.org/entity/Q113047996</url>
+</person>
+<homonyms n="2">
+<h f="f/Ferreira:Renato"><person publtype="disambiguation" key="homepages/234/5964" mdate="2019-02-01">
+<author pid="234/5964">Renato Ferreira</author>
+</person>
+</h>
+<h f="f/Ferreira_0002:Renato"><person key="homepages/234/5964-2" mdate="2021-11-24">
+<author pid="234/5964-2">Renato Ferreira 0002</author>
+<author pid="234/5964-2">Renato Pina Ferreira</author>
+<note type="affiliation">Federal University of Par&#225;, Vale Institute of Technology, Brazil</note>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/cluster/BarreirosKFT25" mdate="2025-05-16">
+<author orcid="0009-0004-2870-4859" pid="230/7988">Willian Barreiros</author>
+<author pid="95/203-2">Jun Kong 0002</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="78/87">George Teodoro</author>
+<title>A hierarchical data partitioning strategy for irregular applications: a case study in digital pathology.</title>
+<pages>12</pages>
+<year>2025</year>
+<month>February</month>
+<volume>28</volume>
+<journal>Clust. Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10586-024-04728-5</ee>
+<url>db/journals/cluster/cluster28.html#BarreirosKFT25</url>
+<stream>streams/journals/cluster</stream>
+</article>
+</r>
+<r><article key="journals/jpdc/AraujoBKFT25" mdate="2025-05-16">
+<author pid="402/3001">Alan Araujo</author>
+<author orcid="0009-0004-2870-4859" pid="230/7988">Willian Barreiros</author>
+<author pid="95/203-2">Jun Kong 0002</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="78/87">George Teodoro</author>
+<title>IMI-GPU: Inverted multi-index for billion-scale approximate nearest neighbor search with GPUs.</title>
+<pages>105066</pages>
+<year>2025</year>
+<volume>200</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<ee>https://doi.org/10.1016/j.jpdc.2025.105066</ee>
+<url>db/journals/jpdc/jpdc200.html#AraujoBKFT25</url>
+<stream>streams/journals/jpdc</stream>
+</article>
+</r>
+<r><article key="journals/cluster/AndradeBRFT24" mdate="2024-10-06">
+<author pid="117/4708">Guilherme Andrade</author>
+<author orcid="0009-0004-2870-4859" pid="230/7988">Willian Barreiros</author>
+<author orcid="0000-0002-4913-4902" pid="89/1792">Leonardo Rocha 0001</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="78/87">George Teodoro</author>
+<title>Large-scale response-aware online ANN search in dynamic datasets.</title>
+<pages>3499-3519</pages>
+<year>2024</year>
+<month>June</month>
+<volume>27</volume>
+<journal>Clust. Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10586-023-04159-8</ee>
+<url>db/journals/cluster/cluster27.html#AndradeBRFT24</url>
+</article>
+</r>
+<r><article key="journals/ijhci/CarvalhoBSFP24" mdate="2024-08-22">
+<author orcid="0000-0002-4492-9239" pid="53/4833">Ana Paula de Carvalho</author>
+<author orcid="0000-0002-9238-5395" pid="331/4851">Camila Santana Braz</author>
+<author orcid="0009-0009-9633-1042" pid="223/0404">Sibele M. dos Santos</author>
+<author orcid="0000-0002-4372-8996" pid="f/RACFerreira">Renato A. C. Ferreira</author>
+<author orcid="0000-0002-7128-4974" pid="51/3637">Raquel O. Prates</author>
+<title>Serious Games for Children with Autism Spectrum Disorder: A Systematic Literature Review.</title>
+<pages>3655-3682</pages>
+<year>2024</year>
+<month>July</month>
+<volume>40</volume>
+<journal>Int. J. Hum. Comput. Interact.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1080/10447318.2023.2194051</ee>
+<url>db/journals/ijhci/ijhci40.html#CarvalhoBSFP24</url>
+<stream>streams/journals/ijhci</stream>
+</article>
+</r>
+<r><inproceedings key="conf/iccsa/AndradePAFVSRSMTRF24" mdate="2024-08-07">
+<author pid="351/2515">Yan Andrade</author>
+<author pid="235/3514">Matheus Pimenta</author>
+<author pid="380/9850">Gabriel Amarante</author>
+<author pid="381/0246">Ant&#244;nio Hot Faria</author>
+<author pid="380/9981">Marcelo Vilas-Boas</author>
+<author pid="272/2151">Jo&#227;o Paulo da Silva</author>
+<author pid="260/7970">Felipe Rocha</author>
+<author pid="380/9677">Jamicel da Silva</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author pid="78/87">George Teodoro</author>
+<author orcid="0000-0002-4913-4902" pid="89/1792">Leonardo Rocha 0001</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>A Descriptive and Predictive Analysis Tool for Criminal Data: A Case Study from Brazil.</title>
+<pages>151-169</pages>
+<year>2024</year>
+<booktitle>ICCSA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-64608-9_10</ee>
+<crossref>conf/iccsa/2024-2</crossref>
+<url>db/conf/iccsa/iccsa2024-2.html#AndradePAFVSRSMTRF24</url>
+<stream>streams/conf/iccsa</stream>
+</inproceedings>
+</r>
+<r><article key="journals/bioinformatics/MeirellesKKFST23" mdate="2025-05-14">
+<author pid="321/8424">Andr&#233; L. S. Meirelles</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<author orcid="0000-0001-8757-8339" pid="95/203-2">Jun Kong 0002</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<author orcid="0000-0001-6289-3914" pid="78/87">George Teodoro</author>
+<title>Effective and efficient active learning for deep learning-based tissue image analysis.</title>
+<year>2023</year>
+<month>April</month>
+<volume>39</volume>
+<journal>Bioinform.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1093/bioinformatics/btad138</ee>
+<url>db/journals/bioinformatics/bioinformatics39.html#MeirellesKKFST23</url>
+</article>
+</r>
+<r><article key="journals/pc/AndradeFT23" mdate="2023-04-01">
+<author pid="117/4708">Guilherme Andrade</author>
+<author orcid="0000-0002-4372-8996" pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="78/87">George Teodoro</author>
+<title>Spatial-aware data partition for distributed memory parallelization of ANN search in multimedia retrieval.</title>
+<pages>102992</pages>
+<year>2023</year>
+<month>February</month>
+<volume>115</volume>
+<journal>Parallel Comput.</journal>
+<ee>https://doi.org/10.1016/j.parco.2022.102992</ee>
+<url>db/journals/pc/pc115.html#AndradeFT23</url>
+</article>
+</r>
+<r><article key="journals/jpdc/BarreirosMKFKST22" mdate="2025-05-14">
+<author orcid="0009-0004-2870-4859" pid="230/7988">Willian Barreiros Jr.</author>
+<author pid="m/AlbaCMAMelo">Alba C. M. A. Melo</author>
+<author pid="95/203-2">Jun Kong 0002</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<author orcid="0000-0002-3451-2165" pid="s/JoelHSaltz">Joel H. Saltz</author>
+<author orcid="0000-0001-6289-3914" pid="78/87">George Teodoro</author>
+<title>Efficient microscopy image analysis on CPU-GPU systems with cost-aware irregular data partitioning.</title>
+<pages>40-54</pages>
+<year>2022</year>
+<volume>164</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<ee>https://doi.org/10.1016/j.jpdc.2022.02.004</ee>
+<url>db/journals/jpdc/jpdc164.html#BarreirosMKFKST22</url>
+</article>
+</r>
+<r><article key="journals/cmpb/GomesKKMFST21" mdate="2025-05-14">
+<author orcid="0000-0002-7203-0167" pid="174/4091">Jeremias M. Gomes</author>
+<author pid="95/203-2">Jun Kong 0002</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<author orcid="0000-0001-5191-5209" pid="m/AlbaCMAMelo">Alba C. M. A. Melo</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<author orcid="0000-0001-6289-3914" pid="78/87">George Teodoro</author>
+<title>Building robust pathology image analyses with uncertainty quantification.</title>
+<pages>106291</pages>
+<year>2021</year>
+<volume>208</volume>
+<journal>Comput. Methods Programs Biomed.</journal>
+<ee>https://doi.org/10.1016/j.cmpb.2021.106291</ee>
+<ee>https://www.wikidata.org/entity/Q113320666</ee>
+<url>db/journals/cmpb/cmpb208.html#GomesKKMFST21</url>
+</article>
+</r>
+<r><article key="journals/jpdc/SouzaFTTF21" mdate="2021-07-29">
+<author orcid="0000-0002-9089-9333" pid="43/7668">Rafael Souza</author>
+<author orcid="0000-0002-3764-0859" pid="233/4292">Andr&#233; Fernandes</author>
+<author pid="136/6047">Thiago S. F. X. Teixeira</author>
+<author pid="78/87">George Teodoro</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>Online multimedia retrieval on CPU-GPU platforms with adaptive work partition.</title>
+<pages>31-45</pages>
+<year>2021</year>
+<volume>148</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<ee>https://doi.org/10.1016/j.jpdc.2020.10.001</ee>
+<url>db/journals/jpdc/jpdc148.html#SouzaFTTF21</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbac-pad/AndradeT020" mdate="2020-10-29">
+<author pid="117/4708">Guilherme Andrade</author>
+<author pid="78/87">George Teodoro</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>Scalable and Efficient Spatial-Aware Parallelization Strategies for Multimedia Retrieval.</title>
+<pages>124-131</pages>
+<year>2020</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD49847.2020.00027</ee>
+<crossref>conf/sbac-pad/2020</crossref>
+<url>db/conf/sbac-pad/sbac-pad2020.html#AndradeT020</url>
+</inproceedings>
+</r>
+<r><article key="journals/information/RossiPSF19" mdate="2022-08-16">
+<author orcid="0000-0001-9811-9656" pid="223/0268">Henrique S. Rossi</author>
+<author orcid="0000-0002-7128-4974" pid="51/3637">Raquel Oliveira Prates</author>
+<author pid="223/0404">Sibele M. dos Santos</author>
+<author orcid="0000-0002-4372-8996" pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>Development of a Virtual Reality-Based Game Approach for Supporting Sensory Processing Disorders Treatment.</title>
+<pages>177</pages>
+<year>2019</year>
+<volume>10</volume>
+<journal>Inf.</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.3390/info10050177</ee>
+<ee>https://www.wikidata.org/entity/Q113047997</ee>
+<url>db/journals/information/information10.html#RossiPSF19</url>
+</article>
+</r>
+<r><article key="journals/jpdc/AndradeFGFT19" mdate="2025-01-19">
+<author pid="117/4708">Guilherme Andrade</author>
+<author orcid="0000-0002-3764-0859" pid="233/4292">Andr&#233; Fernandes</author>
+<author pid="174/4091">Jeremias M. Gomes</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author orcid="0000-0001-6289-3914" pid="78/87">George Teodoro</author>
+<title>Large-scale parallel similarity search with Product Quantization for online multimedia services.</title>
+<pages>81-92</pages>
+<year>2019</year>
+<volume>125</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<ee>https://doi.org/10.1016/j.jpdc.2018.11.009</ee>
+<ee>https://www.wikidata.org/entity/Q128845609</ee>
+<url>db/journals/jpdc/jpdc125.html#AndradeFGFT19</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccS/PiresSRMF19" mdate="2023-09-30">
+<author orcid="0000-0002-1343-1331" pid="242/4967">Michel Pires</author>
+<author orcid="0000-0003-4393-3348" pid="207/7016">N&#237;collas Silva</author>
+<author orcid="0000-0002-4913-4902" pid="89/1792">Leonardo Rocha 0001</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>Efficient Parallel Associative Classification Based on Rules Memoization.</title>
+<pages>31-44</pages>
+<year>2019</year>
+<booktitle>ICCS (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-22747-0_3</ee>
+<crossref>conf/iccS/2019-4</crossref>
+<url>db/conf/iccS/iccS2019-4.html#PiresSRMF19</url>
+</inproceedings>
+</r>
+<r><article key="journals/cg/JuniorCFN18" mdate="2025-01-19">
+<author pid="230/6583">Sergio N. Silva Junior</author>
+<author orcid="0000-0003-1707-5984" pid="209/9905">Felipe C. Chamone</author>
+<author pid="f/RACFerreira">Renato C. Ferreira</author>
+<author orcid="0000-0003-2973-2232" pid="92/7785">Erickson R. Nascimento</author>
+<title>A 3D modeling methodology based on a concavity-aware geometric test to create 3D textured coarse models from concept art and orthographic projections.</title>
+<pages>73-83</pages>
+<year>2018</year>
+<volume>76</volume>
+<journal>Comput. Graph.</journal>
+<ee>https://doi.org/10.1016/j.cag.2018.09.002</ee>
+<ee>https://www.wikidata.org/entity/Q129265304</ee>
+<url>db/journals/cg/cg76.html#JuniorCFN18</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccS/GomesCSDTFR18" mdate="2021-07-07">
+<author pid="220/9860">Christian Gomes</author>
+<author pid="29/10010">Alan Cardoso</author>
+<author pid="148/4318">Thiago Silveira</author>
+<author orcid="0000-0001-9619-2171" pid="122/5974">Diego Dias 0001</author>
+<author pid="132/7734">Elisa Tuler</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author orcid="0000-0002-4913-4902" pid="89/1792">Leonardo Rocha 0001</author>
+<title>Combining Data Mining Techniques to Enhance Cardiac Arrhythmia Detection.</title>
+<pages>321-333</pages>
+<year>2018</year>
+<booktitle>ICCS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93701-4_24</ee>
+<crossref>conf/iccS/2018-2</crossref>
+<url>db/conf/iccS/iccS2018-2.html#GomesCSDTFR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccS/CarvalhoASSMOFR18" mdate="2021-12-22">
+<author pid="117/0622-2">Rodrigo Carvalho 0002</author>
+<author pid="117/4708">Guilherme Andrade</author>
+<author pid="116/6740">Diogo Santana</author>
+<author pid="148/4318">Thiago Silveira</author>
+<author pid="117/4652">Daniel Madeira</author>
+<author orcid="0000-0003-0800-5984" pid="54/727">Rafael Sachetto Oliveira</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author orcid="0000-0002-4913-4902" pid="89/1792">Leonardo Rocha 0001</author>
+<title>Evaluating Dynamic Scheduling of Tasks in Mobile Architectures Using ParallelME Framework.</title>
+<pages>744-751</pages>
+<year>2018</year>
+<booktitle>ICCS (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-93713-7_72</ee>
+<crossref>conf/iccS/2018-3</crossref>
+<url>db/conf/iccS/iccS2018-3.html#CarvalhoASSMOFR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/AlbuquerqueAFVZ18" mdate="2019-01-31">
+<author pid="228/1542">Alberto Albuquerque</author>
+<author pid="228/1800">Tiago Amador</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="12/919">Adriano Veloso</author>
+<author pid="z/NZiviani">Nivio Ziviani</author>
+<title>Learning to Rank with Deep Autoencoder Features.</title>
+<pages>1-8</pages>
+<year>2018</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2018.8489646</ee>
+<crossref>conf/ijcnn/2018</crossref>
+<url>db/conf/ijcnn/ijcnn2018.html#AlbuquerqueAFVZ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/CaldeiraPBFNFP18" mdate="2023-04-01">
+<author pid="184/0766">Pedro Caldeira</author>
+<author orcid="0000-0002-8422-1999" pid="233/2401">Jeronimo Costa Penha</author>
+<author orcid="0000-0002-9626-0274" pid="214/1143">Lucas Bragan&#231;a</author>
+<author pid="12/10030">Ricardo Ferreira 0001</author>
+<author pid="81/1449">Jos&#233; Augusto Miranda Nacif</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="p/FMQPereira">Fernando Magno Quint&#227;o Pereira</author>
+<title>From Java to FPGA: An Experience with the Intel HARP System.</title>
+<pages>17-24</pages>
+<year>2018</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/CAHPC.2018.8645951</ee>
+<crossref>conf/sbac-pad/2018</crossref>
+<url>db/conf/sbac-pad/sbac-pad2018.html#CaldeiraPBFNFP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/segah/RossiSPF18" mdate="2018-07-16">
+<author pid="223/0268">Henrique S. Rossi</author>
+<author pid="223/0404">Sibele M. dos Santos</author>
+<author pid="51/3637">Raquel O. Prates</author>
+<author pid="f/RACFerreira">Renato A. C. Ferreira</author>
+<title>Imaginator: A virtual reality based game for the treatment of sensory processing disorders.</title>
+<pages>1-8</pages>
+<year>2018</year>
+<booktitle>SeGAH</booktitle>
+<ee>https://doi.org/10.1109/SeGAH.2018.8401355</ee>
+<crossref>conf/segah/2018</crossref>
+<url>db/conf/segah/segah2018.html#RossiSPF18</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijhpca/TeodoroKAKFS17" mdate="2025-05-14">
+<author pid="78/87">George Teodoro</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<author pid="117/4708">Guilherme Andrade</author>
+<author pid="95/203-2">Jun Kong 0002</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<title>Application performance analysis and efficient execution on systems with multi-core CPUs, GPUs and MICs: a case study with microscopy image analysis.</title>
+<pages>32-51</pages>
+<year>2017</year>
+<volume>31</volume>
+<journal>Int. J. High Perform. Comput. Appl.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1177/1094342015594519</ee>
+<ee>https://www.wikidata.org/entity/Q37656528</ee>
+<url>db/journals/ijhpca/ijhpca31.html#TeodoroKAKFS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccS/RamosAOMCFMR17" mdate="2021-07-07">
+<author pid="130/5787">Gabriel Spada Ramos</author>
+<author pid="117/4708">Guilherme Andrade</author>
+<author orcid="0000-0003-0800-5984" pid="54/727">Rafael Sachetto Oliveira</author>
+<author pid="117/4652">Daniel Madeira</author>
+<author pid="201/6334">Renan Carvalho</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="69/4337">Fernando Mour&#227;o</author>
+<author orcid="0000-0002-4913-4902" pid="89/1792">Leonardo Rocha 0001</author>
+<title>A Framework for Direct and Transparent Data Exchange of Filter-stream Applications in Multi-GPUs Architectures.</title>
+<pages>1642-1651</pages>
+<year>2017</year>
+<booktitle>ICCS</booktitle>
+<ee>https://doi.org/10.1016/j.procs.2017.05.144</ee>
+<crossref>conf/iccS/2017</crossref>
+<url>db/conf/iccS/iccS2017.html#RamosAOMCFMR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/MoreiraACGFRSA17" mdate="2023-03-23">
+<author pid="208/8530">Wilson de Carvalho Moreira</author>
+<author pid="117/4708">Guilherme Andrade</author>
+<author pid="208/8369">Pedro Henrique Moreira Caldeira</author>
+<author pid="208/8297">Renato Utsch Goncalves</author>
+<author pid="f/RACFerreira">Renato Ant&#244;nio Celso Ferreira</author>
+<author orcid="0000-0002-4913-4902" pid="89/1792">Leonardo C. da Rocha</author>
+<author pid="208/8347">Renan de Carvalho Sousa</author>
+<author pid="208/8254">Millas Nasser Ramsses Avelar</author>
+<title>Exploring Heterogeneous Mobile Architectures with a High-Level Programming Model.</title>
+<pages>25-32</pages>
+<year>2017</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2017.11</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2017.11</ee>
+<crossref>conf/sbac-pad/2017</crossref>
+<url>db/conf/sbac-pad/sbac-pad2017.html#MoreiraACGFRSA17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/AndradeTF17" mdate="2023-03-23">
+<author pid="117/4708">Guilherme Andrade</author>
+<author pid="78/87">George Teodoro</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>Online Multimedia Similarity Search with Response Time-Aware Parallelism and Task Granularity Auto-Tuning.</title>
+<pages>153-160</pages>
+<year>2017</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2017.27</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2017.27</ee>
+<crossref>conf/sbac-pad/2017</crossref>
+<url>db/conf/sbac-pad/sbac-pad2017.html#AndradeTF17</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/RochaHDFMG16" mdate="2025-01-19">
+<author pid="156/4621">Rodrigo Caetano Rocha</author>
+<author orcid="0000-0002-8684-8576" pid="180/5282">Bruno Hott</author>
+<author pid="156/4548">Vin&#237;cius Vitor dos Santos Dias</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author orcid="0000-0003-0865-1417" pid="n/DorgivalOlavoGuedesNeto">Dorgival O. Guedes</author>
+<title>Watershed-ng: an extensible distributed stream processing framework.</title>
+<pages>2487-2502</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1002/cpe.3779</ee>
+<ee>https://www.wikidata.org/entity/Q126023293</ee>
+<url>db/journals/concurrency/concurrency28.html#RochaHDFMG16</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsaa/RochaMVNCBPF16" mdate="2021-10-14">
+<author orcid="0000-0002-4913-4902" pid="89/1792">Leonardo Rocha 0001</author>
+<author pid="69/4337">Fernando Mour&#227;o</author>
+<author pid="164/9623">Ramon Vieira</author>
+<author pid="164/9816">Alan Neves</author>
+<author orcid="0000-0003-3844-0178" pid="25/9066">D&#225;rlinton B. F. Carvalho</author>
+<author pid="185/1313">Bortik Bandyopadhyay</author>
+<author orcid="0000-0002-6062-6449" pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>Connecting Opinions to Opinion-Leaders: A Case Study on Brazilian Political Protests.</title>
+<pages>716-725</pages>
+<year>2016</year>
+<booktitle>DSAA</booktitle>
+<ee>https://doi.org/10.1109/DSAA.2016.77</ee>
+<crossref>conf/dsaa/2016</crossref>
+<url>db/conf/dsaa/dsaa2016.html#RochaMVNCBPF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/AndradeCUCAFRFG16" mdate="2021-07-07">
+<author pid="117/4708">Guilherme Andrade</author>
+<author pid="184/0747">Wilson de Carvalho</author>
+<author pid="184/0927">Renato Utsch</author>
+<author pid="184/0766">Pedro Caldeira</author>
+<author pid="228/1542">Alberto Albuquerque</author>
+<author pid="184/0751">Fabricio Ferracioli</author>
+<author orcid="0000-0002-4913-4902" pid="89/1792">Leonardo Rocha 0001</author>
+<author pid="42/4902-8">Michael Frank 0008</author>
+<author orcid="0000-0003-0865-1417" pid="n/DorgivalOlavoGuedesNeto">Dorgival O. Guedes</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>ParallelME: A Parallel Mobile Engine to Explore Heterogeneity in Mobile Computing Architectures.</title>
+<pages>447-459</pages>
+<year>2016</year>
+<booktitle>Euro-Par</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-43659-3_33</ee>
+<crossref>conf/europar/2016</crossref>
+<url>db/conf/europar/europar2016.html#AndradeCUCAFRFG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccS/RochaMAFPMTC16" mdate="2021-10-14">
+<author orcid="0000-0002-4913-4902" pid="89/1792">Leonardo Rocha 0001</author>
+<author pid="69/4337">Fernando Mour&#227;o</author>
+<author pid="117/4708">Guilherme Andrade</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author orcid="0000-0002-6062-6449" pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author>
+<author pid="182/0175">Danilo Melo</author>
+<author pid="182/0233">S&#225;vyo Toledo</author>
+<author pid="145/2034">Aniket Chakrabarti</author>
+<title>D-STHARk: Evaluating Dynamic Scheduling of Tasks in Hybrid Simulated Architectures.</title>
+<pages>428-438</pages>
+<year>2016</year>
+<booktitle>ICCS</booktitle>
+<ee>https://doi.org/10.1016/j.procs.2016.05.395</ee>
+<crossref>conf/iccS/2016</crossref>
+<url>db/conf/iccS/iccS2016.html#RochaMAFPMTC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccS/DouglasLY16a" mdate="2021-10-14">
+<author pid="182/0175">Danilo Melo</author>
+<author pid="182/0233">S&#225;vyo Toledo</author>
+<author pid="69/4337">Fernando Mour&#227;o</author>
+<author orcid="0000-0003-0800-5984" pid="54/727">Rafael Sachetto Oliveira</author>
+<author pid="117/4708">Guilherme Andrade</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author orcid="0000-0002-6062-6449" pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author>
+<author orcid="0000-0002-4913-4902" pid="89/1792">Leonardo Rocha 0001</author>
+<title>Hierarchical Density-Based Clustering based on GPU Accelerated Data Indexing Strategy.</title>
+<pages>951-961</pages>
+<year>2016</year>
+<booktitle>ICCS</booktitle>
+<ee>https://doi.org/10.1016/j.procs.2016.05.389</ee>
+<crossref>conf/iccS/2016</crossref>
+<url>db/conf/iccS/iccS2016.html#DouglasLY16a</url>
+</inproceedings>
+</r>
+<r><article key="journals/ws/RochaMSCSTVF15" mdate="2021-07-07">
+<author orcid="0000-0002-4913-4902" pid="89/1792">Leonardo Rocha 0001</author>
+<author pid="69/4337">Fernando Mour&#227;o</author>
+<author pid="148/4318">Thiago Silveira</author>
+<author pid="148/4417">Rodrigo Chaves</author>
+<author pid="148/4421">Giovanni S&#225;</author>
+<author pid="148/4380">Felipe Teixeira</author>
+<author pid="164/9623">Ramon Vieira</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>SACI: Sentiment analysis by collective inspection on social media content.</title>
+<pages>27-39</pages>
+<year>2015</year>
+<volume>34</volume>
+<journal>J. Web Semant.</journal>
+<ee>https://doi.org/10.1016/j.websem.2015.05.006</ee>
+<url>db/journals/ws/ws34.html#RochaMSCSTVF15</url>
+</article>
+</r>
+<r><inproceedings key="conf/sac/RochaRCOMVADGF15" mdate="2022-01-03">
+<author orcid="0000-0002-4913-4902" pid="89/1792">Leonardo Rocha 0001</author>
+<author pid="130/5787">Gabriel Spada Ramos</author>
+<author pid="148/4417">Rodrigo Chaves</author>
+<author orcid="0000-0003-0800-5984" pid="54/727">Rafael Sachetto Oliveira</author>
+<author pid="117/4652">Daniel Madeira</author>
+<author pid="117/4613">Felipe Viegas</author>
+<author pid="117/4708">Guilherme Andrade</author>
+<author pid="165/3688">S&#233;rgio Daniel</author>
+<author orcid="0000-0002-2075-3363" pid="45/1395">Marcos Andr&#233; Gon&#231;alves</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>G-KNN: an efficient document classification algorithm for sparse datasets on GPUs using KNN.</title>
+<pages>1335-1338</pages>
+<year>2015</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2695664.2695967</ee>
+<crossref>conf/sac/2015</crossref>
+<url>db/conf/sac/sac2015.html#RochaRCOMVADGF15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/TeodoroKAKFS15" mdate="2025-05-14">
+<author pid="78/87">George Teodoro</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<author pid="117/4708">Guilherme Andrade</author>
+<author pid="95/203-2">Jun Kong 0002</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<title>Performance Analysis and Efficient Execution on Systems with multi-core CPUs, GPUs and MICs.</title>
+<year>2015</year>
+<volume>abs/1505.03819</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1505.03819</ee>
+<url>db/journals/corr/corr1505.html#TeodoroKAKFS15</url>
+</article>
+</r>
+<r><article key="journals/pc/MilanezCPMF14" mdate="2022-11-18">
+<author pid="122/9941">Teo Milanez</author>
+<author pid="251/2068">Caroline Collange</author>
+<author pid="p/FMQPereira">Fernando Magno Quint&#227;o Pereira</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>Thread scheduling and memory coalescing for dynamic vectorization of SPMD workloads.</title>
+<pages>548-558</pages>
+<year>2014</year>
+<volume>40</volume>
+<journal>Parallel Comput.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1016/j.parco.2014.03.006</ee>
+<url>db/journals/pc/pc40.html#MilanezCPMF14</url>
+</article>
+</r>
+<r><inproceedings key="conf/ciarp/NazareFS14" mdate="2019-09-25">
+<author pid="147/2729">Antonio C. Nazare</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author orcid="0000-0003-1449-8834" pid="78/6398">William Robson Schwartz</author>
+<title>Scalable Feature Extraction for Visual Surveillance.</title>
+<pages>375-382</pages>
+<year>2014</year>
+<booktitle>CIARP</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-12568-8_46</ee>
+<crossref>conf/ciarp/2014</crossref>
+<url>db/conf/ciarp/ciarp2014.html#NazareFS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/AndradeRMOCFR14" mdate="2021-07-07">
+<author pid="117/4708">Guilherme Andrade</author>
+<author pid="130/5787">Gabriel Spada Ramos</author>
+<author pid="117/4652">Daniel Madeira</author>
+<author orcid="0000-0003-0800-5984" pid="54/727">Rafael Sachetto Oliveira</author>
+<author orcid="0000-0001-5650-1718" pid="59/5772">Esteban Clua</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author orcid="0000-0002-4913-4902" pid="89/1792">Leonardo Rocha 0001</author>
+<title>Efficient dynamic scheduling of heterogeneous applications in hybrid architectures.</title>
+<pages>866-871</pages>
+<year>2014</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2554850.2554922</ee>
+<crossref>conf/sac/2014</crossref>
+<url>db/conf/sac/sac2014.html#AndradeRMOCFR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/AndradeFTRSK14" mdate="2023-03-23">
+<author pid="117/4708">Guilherme Andrade</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="78/87">George Teodoro</author>
+<author orcid="0000-0002-4913-4902" pid="89/1792">Leonardo Rocha 0001</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<title>Efficient Execution of Microscopy Image Analysis on CPU, GPU, and MIC Equipped Cluster Systems.</title>
+<pages>89-96</pages>
+<year>2014</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2014.15</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2014.15</ee>
+<ee>https://www.wikidata.org/entity/Q40239297</ee>
+<crossref>conf/sbac-pad/2014</crossref>
+<url>db/conf/sbac-pad/sbac-pad2014.html#AndradeFTRSK14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/Las-CasasDFMG14" mdate="2023-03-23">
+<author pid="127/9211">Pedro Henrique B. Las-Casas</author>
+<author pid="156/4548">Vin&#237;cius Vitor dos Santos Dias</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author orcid="0000-0003-0865-1417" pid="n/DorgivalOlavoGuedesNeto">Dorgival O. Guedes</author>
+<title>A Hadoop Extension to Process Mail Folders and its Application to a Spam Dataset.</title>
+<pages>108-113</pages>
+<year>2014</year>
+<booktitle>SBAC-PAD (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PADW.2014.25</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PADW.2014.25</ee>
+<crossref>conf/sbac-pad/2014w</crossref>
+<url>db/conf/sbac-pad/sbac-pad2014w.html#Las-CasasDFMG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/RochaFMG14" mdate="2023-03-23">
+<author pid="156/4621">Rodrigo Caetano Rocha</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author orcid="0000-0003-0865-1417" pid="n/DorgivalOlavoGuedesNeto">Dorgival O. Guedes</author>
+<title>Watershed reengineering: Making Streams Programmable.</title>
+<pages>120-125</pages>
+<year>2014</year>
+<booktitle>SBAC-PAD (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PADW.2014.31</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PADW.2014.31</ee>
+<crossref>conf/sbac-pad/2014w</crossref>
+<url>db/conf/sbac-pad/sbac-pad2014w.html#RochaFMG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/LourencoVPMFP14" mdate="2023-11-12">
+<author pid="163/3940">Roberto Louren&#231;o de Oliveira Jr.</author>
+<author pid="12/919">Adriano Veloso</author>
+<author orcid="0000-0003-2389-0512" pid="73/6430">Adriano C. M. Pereira</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author orcid="0000-0002-6062-6449" pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author>
+<title>Economically-efficient sentiment stream analysis.</title>
+<pages>637-646</pages>
+<year>2014</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2600428.2609612</ee>
+<crossref>conf/sigir/2014</crossref>
+<url>db/conf/sigir/sigir2014.html#LourencoVPMFP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wacv/NazareSFS14" mdate="2023-03-24">
+<author pid="147/2729">Antonio C. Nazare</author>
+<author pid="147/2709">Cassio E. dos Santos</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author orcid="0000-0003-1449-8834" pid="78/6398">William Robson Schwartz</author>
+<title>Smart surveillance framework: A versatile tool for video analysis.</title>
+<pages>753-760</pages>
+<year>2014</year>
+<booktitle>WACV</booktitle>
+<ee>https://doi.org/10.1109/WACV.2014.6836027</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/WACV.2014.6836027</ee>
+<crossref>conf/wacv/2014</crossref>
+<url>db/conf/wacv/wacv2014.html#NazareSFS14</url>
+</inproceedings>
+</r>
+<r><article key="journals/jidm/GuimaraesAAMF13" mdate="2021-11-30">
+<author pid="83/9909">Dilson Almeida Guimar&#227;es</author>
+<author pid="87/8657">Filipe de Lima Arcanjo</author>
+<author pid="130/7199">Laura R. Antu&#241;a</author>
+<author pid="m/MirellaMouraMoro">Mirella M. Moro</author>
+<author pid="f/RACFerreira">Renato C. Ferreira</author>
+<title>Processing XPath Structural Constraints on GPU.</title>
+<pages>47-56</pages>
+<year>2013</year>
+<volume>4</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>1</number>
+<ee>https://sol.sbc.org.br/journals/index.php/jidm/article/view/1469</ee>
+<url>db/journals/jidm/jidm4.html#GuimaraesAAMF13</url>
+</article>
+</r>
+<r><article key="journals/scp/MataPF13" mdate="2021-02-17">
+<author pid="130/5100">Leonardo Luiz Padovani da Mata</author>
+<author pid="p/FMQPereira">Fernando Magno Quint&#227;o Pereira</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>Automatic parallelization of canonical loops.</title>
+<pages>1193-1206</pages>
+<year>2013</year>
+<volume>78</volume>
+<journal>Sci. Comput. Program.</journal>
+<number>8</number>
+<ee type="oa">https://doi.org/10.1016/j.scico.2012.09.006</ee>
+<url>db/journals/scp/scp78.html#MataPF13</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccS/AndradeRMOFR13" mdate="2021-07-07">
+<author pid="117/4708">Guilherme Andrade</author>
+<author pid="130/5787">Gabriel Spada Ramos</author>
+<author pid="117/4652">Daniel Madeira</author>
+<author orcid="0000-0003-0800-5984" pid="54/727">Rafael Sachetto Oliveira</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author orcid="0000-0002-4913-4902" pid="89/1792">Leonardo Rocha 0001</author>
+<title>G-DBSCAN: A GPU Accelerated Algorithm for Density-based Clustering.</title>
+<pages>369-378</pages>
+<year>2013</year>
+<booktitle>ICCS</booktitle>
+<ee>https://doi.org/10.1016/j.procs.2013.05.200</ee>
+<crossref>conf/iccS/2013</crossref>
+<url>db/conf/iccS/iccS2013.html#AndradeRMOFR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/AndradeVRARGF13" mdate="2023-03-23">
+<author pid="117/4708">Guilherme Andrade</author>
+<author orcid="0000-0001-8121-8607" pid="117/4613">Felipe Viegas</author>
+<author pid="130/5787">Gabriel Spada Ramos</author>
+<author pid="34/5480">Jussara M. Almeida</author>
+<author orcid="0000-0002-4913-4902" pid="89/1792">Leonardo Chaves Dutra da Rocha</author>
+<author orcid="0000-0002-2075-3363" pid="45/1395">Marcos Andr&#233; Gon&#231;alves</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>GPU-NB: A Fast CUDA-Based Implementation of Na&#239;ve Bayes.</title>
+<pages>168-175</pages>
+<year>2013</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2013.16</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2013.16</ee>
+<crossref>conf/sbac-pad/2013</crossref>
+<url>db/conf/sbac-pad/sbac-pad2013.html#AndradeVRARGF13</url>
+</inproceedings>
+</r>
+<r><article key="journals/cluster/TeodoroHCF12" mdate="2020-09-29">
+<author pid="78/87">George Teodoro</author>
+<author pid="11/1261">Timothy D. R. Hartley</author>
+<author orcid="0000-0002-5625-3758" pid="c/UmitVCatalyurek">&#220;mit V. &#199;ataly&#252;rek</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>Optimizing dataflow applications on heterogeneous environments.</title>
+<pages>125-144</pages>
+<year>2012</year>
+<volume>15</volume>
+<journal>Clust. Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10586-010-0151-6</ee>
+<url>db/journals/cluster/cluster15.html#TeodoroHCF12</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbac-pad/MilanezCPMF12" mdate="2023-03-23">
+<author pid="122/9941">Teo Milanez</author>
+<author pid="251/2068">Caroline Collange</author>
+<author pid="p/FMQPereira">Fernando Magno Quint&#227;o Pereira</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>Data and Instruction Uniformity in Minimal Multi-threading.</title>
+<pages>270-277</pages>
+<year>2012</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2012.21</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2012.21</ee>
+<crossref>conf/sbac-pad/2012</crossref>
+<url>db/conf/sbac-pad/sbac-pad2012.html#MilanezCPMF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/GuimaraesAAMF12" mdate="2022-03-07">
+<author pid="83/9909">Dilson Almeida Guimar&#227;es</author>
+<author pid="87/8657">Filipe de Lima Arcanjo</author>
+<author pid="130/7199">Laura R. Antu&#241;a</author>
+<author pid="m/MirellaMouraMoro">Mirella M. Moro</author>
+<author pid="f/RACFerreira">Renato C. Ferreira</author>
+<title>Processamento de Consultas XPath em GPU.</title>
+<pages>25-32</pages>
+<year>2012</year>
+<booktitle>SBBD (Short Papers)</booktitle>
+<ee type="archive">http://www.lbd.dcc.ufmg.br/colecoes/sbbd/2012/004.pdf</ee>
+<crossref>conf/sbbd/2012s</crossref>
+<url>db/conf/sbbd/sbbd2012s.html#GuimaraesAAMF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/MarquesCF11" mdate="2023-03-23">
+<author pid="72/3445">Vin&#237;cius Marques</author>
+<author orcid="0000-0001-8156-9941" pid="c/LuizChaimowicz">Luiz Chaimowicz</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>Speeding Up Learning in Real-Time Search through Parallel Computing.</title>
+<pages>176-182</pages>
+<year>2011</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2011.30</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2011.30</ee>
+<crossref>conf/sbac-pad/2011</crossref>
+<url>db/conf/sbac-pad/sbac-pad2011.html#MarquesCF11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/RamosOCFM11" mdate="2023-03-23">
+<author pid="124/7055">Thatyene Louise Alves de Souza Ramos</author>
+<author pid="06/7786">Rodrigo Silva Oliveira</author>
+<author pid="53/4833">Ana Paula de Carvalho</author>
+<author pid="f/RACFerreira">Renato Ant&#244;nio Celso Ferreira</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<title>Watershed: A High Performance Distributed Stream Processing System.</title>
+<pages>191-198</pages>
+<year>2011</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2011.31</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2011.31</ee>
+<crossref>conf/sbac-pad/2011</crossref>
+<url>db/conf/sbac-pad/sbac-pad2011.html#RamosOCFM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/SilvaBVMF11" mdate="2022-03-07">
+<author pid="81/9907">Ismael Santana Silva</author>
+<author pid="141/9509">Gl&#237;via A. R. Barbosa</author>
+<author pid="12/919">Adriano Veloso</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>An&#225;lise Adaptativa de Fluxo de Sentimento Baseada em Janela Deslizante Ativa.</title>
+<pages>49-56</pages>
+<year>2011</year>
+<booktitle>SBBD (Short Papers)</booktitle>
+<ee type="archive">http://www.lbd.dcc.ufmg.br/colecoes/sbbd/2011/006.pdf</ee>
+<crossref>conf/sbbd/2011s</crossref>
+<url>db/conf/sbbd/sbbd2011s.html#SilvaBVMF11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/SilvaGVMF11" mdate="2023-09-30">
+<author pid="81/9907">Ismael Santana Silva</author>
+<author orcid="0000-0003-3310-4669" pid="90/9899">Jana&#237;na Gomide</author>
+<author pid="12/919">Adriano Veloso</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>Effective sentiment stream analysis with self-augmenting training and demand-driven projection.</title>
+<pages>475-484</pages>
+<year>2011</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2009916.2009981</ee>
+<crossref>conf/sigir/2011</crossref>
+<url>db/conf/sigir/sigir2011.html#SilvaGVMF11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpdc/TeodoroHCF10" mdate="2019-01-31">
+<author pid="78/87">George Teodoro</author>
+<author pid="11/1261">Timothy D. R. Hartley</author>
+<author orcid="0000-0002-5625-3758" pid="c/UmitVCatalyurek">&#220;mit V. &#199;ataly&#252;rek</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>Run-time optimizations for replicated dataflows on heterogeneous environments.</title>
+<pages>13-24</pages>
+<year>2010</year>
+<booktitle>HPDC</booktitle>
+<ee>https://doi.org/10.1145/1851476.1851479</ee>
+<crossref>conf/hpdc/2010</crossref>
+<url>db/conf/hpdc/hpdc2010.html#TeodoroHCF10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/TeodoroMMF10" mdate="2023-03-23">
+<author pid="78/87">George Teodoro</author>
+<author pid="44/10440">Nathan Mariano</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>Tree Projection-Based Frequent Itemset Mining on Multicore CPUs and GPUs.</title>
+<pages>47-54</pages>
+<year>2010</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2010.15</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2010.15</ee>
+<crossref>conf/sbac-pad/2010</crossref>
+<url>db/conf/sbac-pad/sbac-pad2010.html#TeodoroMMF10</url>
+</inproceedings>
+</r>
+<r><incollection key="books/tf/10/Catalyurek0HTO10" mdate="2025-03-03">
+<author pid="c/UmitVCatalyurek">&#220;mit V. &#199;ataly&#252;rek</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="11/1261">Timothy D. R. Hartley</author>
+<author pid="78/87">George Teodoro</author>
+<author orcid="0000-0003-0800-5984" pid="54/727">Rafael Sachetto Oliveira</author>
+<title>Data Flow Frameworks for Emerging Heterogeneous Architectures and Their Application to Biomedicine.</title>
+<pages>375-392</pages>
+<year>2010</year>
+<booktitle>Scientific Computing with Multicore and Accelerators</booktitle>
+<ee>https://doi.org/10.1201/b10376-27</ee>
+<crossref>books/tf/10/KBD2010</crossref>
+<url>db/books/collections/KBD2010.html#Catalyurek0HTO10</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/cluster/TeodoroOSGMCF09" mdate="2023-03-23">
+<author pid="78/87">George Teodoro</author>
+<author orcid="0000-0003-0800-5984" pid="54/727">Rafael Sachetto Oliveira</author>
+<author pid="77/6766">Olcay Sertel</author>
+<author orcid="0000-0002-2421-8229" pid="46/4420">Metin N. Gurcan</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author orcid="0000-0002-5625-3758" pid="c/UmitVCatalyurek">&#220;mit V. &#199;ataly&#252;rek</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>Coordinating the use of GPU and CPU for improving performance of compute intensive applications.</title>
+<pages>1-10</pages>
+<year>2009</year>
+<booktitle>CLUSTER</booktitle>
+<ee>https://doi.org/10.1109/CLUSTR.2009.5289193</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CLUSTR.2009.5289193</ee>
+<crossref>conf/cluster/2009</crossref>
+<url>db/conf/cluster/cluster2009.html#TeodoroOSGMCF09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isbi/ForanYTCHKFS09" mdate="2024-08-07">
+<author pid="32/5582">David J. Foran</author>
+<author pid="20/2970-2">Lin Yang 0002</author>
+<author pid="73/2943">Oncel Tuzel</author>
+<author pid="56/6438">Wenjin Chen</author>
+<author pid="28/441">Jun Hu</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<title>A caGrid-Enabled, Learning Based Image Segmentation Method for Histopathology Specimens.</title>
+<pages>1306-1309</pages>
+<year>2009</year>
+<booktitle>ISBI</booktitle>
+<ee>https://doi.org/10.1109/ISBI.2009.5193304</ee>
+<ee>https://www.wikidata.org/entity/Q28750079</ee>
+<crossref>conf/isbi/2009</crossref>
+<url>db/conf/isbi/isbi2009.html#ForanYTCHKFS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/CoutinhoTONF09" mdate="2023-03-23">
+<author pid="16/1230">Bruno Rocha Coutinho</author>
+<author pid="78/87">George Luiz Medeiros Teodoro</author>
+<author orcid="0000-0003-0800-5984" pid="54/727">Rafael Sachetto Oliveira</author>
+<author orcid="0000-0003-0865-1417" pid="n/DorgivalOlavoGuedesNeto">Dorgival Olavo Guedes Neto</author>
+<author pid="f/RACFerreira">Renato Ant&#244;nio Celso Ferreira</author>
+<title>Profiling General Purpose GPU Applications.</title>
+<pages>11-18</pages>
+<year>2009</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2009.26</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2009.26</ee>
+<crossref>conf/sbac-pad/2009</crossref>
+<url>db/conf/sbac-pad/sbac-pad2009.html#CoutinhoTONF09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/TeodoroOFGF09" mdate="2023-03-23">
+<author pid="78/87">George Teodoro</author>
+<author orcid="0000-0003-0800-5984" pid="54/727">Rafael Sachetto Oliveira</author>
+<author orcid="0000-0003-2283-0913" pid="45/6617">Daniel Fireman</author>
+<author orcid="0000-0003-0865-1417" pid="n/DorgivalOlavoGuedesNeto">Dorgival O. Guedes</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>Exploiting Computational Resources in Distributed Heterogeneous Platforms.</title>
+<pages>83-90</pages>
+<year>2009</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2009.14</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2009.14</ee>
+<crossref>conf/sbac-pad/2009</crossref>
+<url>db/conf/sbac-pad/sbac-pad2009.html#TeodoroOFGF09</url>
+</inproceedings>
+</r>
+<r><article key="journals/computer/SaltzKHLOESPGPFPCCLOMFMBSS08" mdate="2023-11-12">
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<author pid="50/3809">Shannon Hastings</author>
+<author pid="54/2369">Stephen Langella</author>
+<author pid="33/1264">Scott Oster</author>
+<author pid="34/6724">David Ervin</author>
+<author pid="02/99-1">Ashish Sharma 0001</author>
+<author orcid="0000-0001-7945-6534" pid="83/1498">Tony Pan</author>
+<author orcid="0000-0002-2421-8229" pid="46/4420">Metin N. Gurcan</author>
+<author pid="24/6481">Justin Permar</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author orcid="0000-0002-9532-2998" pid="96/6655">Philip R. O. Payne</author>
+<author orcid="0000-0002-5625-3758" pid="c/UmitVCatalyurek">&#220;mit V. &#199;ataly&#252;rek</author>
+<author pid="23/115">Enrico Caserta</author>
+<author pid="29/5074">Gustavo Leone</author>
+<author orcid="0000-0003-2948-6297" pid="02/3531">Michael C. Ostrowski</author>
+<author orcid="0000-0003-2130-2887" pid="02/1272">Ravi K. Madduri</author>
+<author pid="f/IanTFoster">Ian T. Foster</author>
+<author pid="97/5865">Subhasree Madhavan</author>
+<author pid="02/6932">Kenneth H. Buetow</author>
+<author pid="80/6277">Krishnakant Shanbhag</author>
+<author pid="22/5169">Eliot L. Siegel</author>
+<title>e-Science, caGrid, and Translational Biomedical Research.</title>
+<pages>58-66</pages>
+<year>2008</year>
+<volume>41</volume>
+<journal>Computer</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/MC.2008.459</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MC.2008.459</ee>
+<ee>https://www.wikidata.org/entity/Q34558454</ee>
+<url>db/journals/computer/computer41.html#SaltzKHLOESPGPFPCCLOMFMBSS08</url>
+</article>
+</r>
+<r><article key="journals/ijpp/AraujoFOMFNZ08" mdate="2020-04-01">
+<author pid="59/5158">Renata Braga Ara&#250;jo</author>
+<author pid="34/5070">Guilherme Henrique Trielli Ferreira</author>
+<author pid="49/147">Gustavo Henrique Orair</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author pid="f/RACFerreira">Renato Ant&#244;nio Celso Ferreira</author>
+<author pid="n/DorgivalOlavoGuedesNeto">Dorgival Olavo Guedes Neto</author>
+<author orcid="0000-0003-4711-0234" pid="z/MohammedJaveedZaki">Mohammed Javeed Zaki</author>
+<title>The ParTriCluster Algorithm for Gene Expression Analysis.</title>
+<pages>226-249</pages>
+<year>2008</year>
+<volume>36</volume>
+<journal>Int. J. Parallel Program.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10766-007-0067-9</ee>
+<url>db/journals/ijpp/ijpp36.html#AraujoFOMFNZ08</url>
+</article>
+</r>
+<r><article key="journals/ijpp/TeodoroTFKMNPS08" mdate="2023-11-12">
+<author pid="78/87">George Teodoro</author>
+<author pid="74/4390">Tulio Tavares</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author orcid="0000-0003-0865-1417" pid="n/DorgivalOlavoGuedesNeto">Dorgival Olavo Guedes Neto</author>
+<author orcid="0000-0001-7945-6534" pid="83/1498">Tony Pan</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<title>A Run-time System for Efficient Execution of Scientific Workflows on Distributed Environments.</title>
+<pages>250-266</pages>
+<year>2008</year>
+<volume>36</volume>
+<journal>Int. J. Parallel Program.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10766-007-0068-8</ee>
+<ee>https://www.wikidata.org/entity/Q35947691</ee>
+<url>db/journals/ijpp/ijpp36.html#TeodoroTFKMNPS08</url>
+</article>
+</r>
+<r><inproceedings key="conf/healthgrid/SaltzHLOKPFPGESPPBSMFSMH08" mdate="2021-01-04">
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<author pid="50/3809">Shannon Hastings</author>
+<author pid="54/2369">Stephen Langella</author>
+<author pid="33/1264">Scott Oster</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<author pid="96/6655">Philip R. O. Payne</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="54/6437">Beth Plale</author>
+<author pid="g/CaroleAGoble">Carole A. Goble</author>
+<author pid="34/6724">David Ervin</author>
+<author pid="02/99-1">Ashish Sharma 0001</author>
+<author pid="83/1498">Tony Pan</author>
+<author pid="24/6481">Justin Permar</author>
+<author pid="04/5126">Peter Brezany</author>
+<author pid="07/1864">Frank Siebenlist</author>
+<author pid="02/1272">Ravi K. Madduri</author>
+<author pid="f/IanTFoster">Ian T. Foster</author>
+<author pid="80/6277">Krishnakant Shanbhag</author>
+<author pid="152/2980">Charlie Mead</author>
+<author pid="74/3319">Neil P. Chue Hong</author>
+<title>A Roadmap for caGrid, an Enterprise Grid Architecture for Biomedical Research.</title>
+<pages>224-237</pages>
+<year>2008</year>
+<booktitle>HealthGrid</booktitle>
+<ee>http://www.booksonline.iospress.nl/Content/View.aspx?piid=9174</ee>
+<crossref>conf/healthgrid/2008</crossref>
+<url>db/conf/healthgrid/healthgrid2008.html#SaltzHLOKPFPGESPPBSMFSMH08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/TeodoroFNMF08" mdate="2023-03-24">
+<author pid="78/87">George Teodoro</author>
+<author orcid="0000-0003-2283-0913" pid="45/6617">Daniel Fireman</author>
+<author orcid="0000-0003-0865-1417" pid="n/DorgivalOlavoGuedesNeto">Dorgival Olavo Guedes Neto</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>Achieving Multi-Level Parallelism in the Filter-Labeled Stream Programming Model.</title>
+<pages>287-294</pages>
+<year>2008</year>
+<booktitle>ICPP</booktitle>
+<ee>https://doi.org/10.1109/ICPP.2008.72</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICPP.2008.72</ee>
+<crossref>conf/icpp/2008</crossref>
+<url>db/conf/icpp/icpp2008.html#TeodoroFNMF08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/SaltzOHLFPSEPCK08" mdate="2023-11-12">
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<author pid="33/1264">Scott Oster</author>
+<author pid="50/3809">Shannon Hastings</author>
+<author pid="54/2369">Stephen Langella</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="24/6481">Justin Permar</author>
+<author pid="02/99-1">Ashish Sharma 0001</author>
+<author pid="34/6724">David Ervin</author>
+<author orcid="0000-0001-7945-6534" pid="83/1498">Tony Pan</author>
+<author orcid="0000-0002-5625-3758" pid="c/UmitVCatalyurek">&#220;mit V. &#199;ataly&#252;rek</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<title>Translational research design templates, Grid computing, and HPC.</title>
+<pages>1-15</pages>
+<year>2008</year>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2008.4536089</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IPDPS.2008.4536089</ee>
+<ee>https://www.wikidata.org/entity/Q83396076</ee>
+<crossref>conf/ipps/2008</crossref>
+<url>db/conf/ipps/ipdps2008.html#SaltzOHLFPSEPCK08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/FiremanTCF08" mdate="2023-03-23">
+<author orcid="0000-0003-2283-0913" pid="45/6617">Daniel Fireman</author>
+<author pid="78/87">George Teodoro</author>
+<author pid="77/4745">Andr&#233; Cardoso</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>A Reconfigurable Run-Time System for Filter-Stream Applications.</title>
+<pages>149-156</pages>
+<year>2008</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2008.28</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2008.28</ee>
+<crossref>conf/sbac-pad/2008</crossref>
+<url>db/conf/sbac-pad/sbac-pad2008.html#FiremanTCF08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccgrid/TavaresTKFNMCHOLS07" mdate="2023-03-24">
+<author pid="74/4390">Tulio Tavares</author>
+<author pid="78/87">George Teodoro</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author orcid="0000-0003-0865-1417" pid="n/DorgivalOlavoGuedesNeto">Dorgival Olavo Guedes Neto</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author pid="c/UmitVCatalyurek">&#220;mit V. &#199;ataly&#252;rek</author>
+<author pid="50/3809">Shannon Hastings</author>
+<author pid="33/1264">Scott Oster</author>
+<author pid="54/2369">Stephen Langella</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<title>An Efficient and Reliable Scientific Workflow System.</title>
+<pages>445-452</pages>
+<year>2007</year>
+<crossref>conf/ccgrid/2007</crossref>
+<booktitle>CCGRID</booktitle>
+<ee>https://doi.org/10.1109/CCGRID.2007.20</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CCGRID.2007.20</ee>
+<url>db/conf/ccgrid/ccgrid2007.html#TavaresTKFNMCHOLS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/SantosTMMFNS07" mdate="2023-10-13">
+<author pid="18/2496">Walter Santos</author>
+<author pid="12/6785">Thiago Teixeira</author>
+<author pid="10/4696">Carla Machado</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author orcid="0000-0003-0865-1417" pid="n/DorgivalOlavoGuedesNeto">Dorgival Olavo Guedes Neto</author>
+<author pid="s/ASdaSilva">Altigran Soares da Silva</author>
+<title>A Scalable Parallel Deduplication Algorithm.</title>
+<pages>79-86</pages>
+<year>2007</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2007.32</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2007.32</ee>
+<crossref>conf/sbac-pad/2007</crossref>
+<url>db/conf/sbac-pad/sbac-pad2007.html#SantosTMMFNS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/CoutinhoNMF07" mdate="2023-10-13">
+<author pid="16/1230">Bruno Coutinho</author>
+<author orcid="0000-0003-0865-1417" pid="n/DorgivalOlavoGuedesNeto">Dorgival Olavo Guedes Neto</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>Fault-tolerance in filter-labeled-stream applications.</title>
+<pages>229-236</pages>
+<year>2007</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2007.31</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2007.31</ee>
+<crossref>conf/sbac-pad/2007</crossref>
+<url>db/conf/sbac-pad/sbac-pad2007.html#CoutinhoNMF07</url>
+</inproceedings>
+</r>
+<r><article key="journals/internet/GuedesMF06" mdate="2020-03-13">
+<author orcid="0000-0003-0865-1417" pid="n/DorgivalOlavoGuedesNeto">Dorgival Olavo Guedes Neto</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>Anteater: A Service-Oriented Architecture for High-Performance Data Mining.</title>
+<pages>36-43</pages>
+<year>2006</year>
+<volume>10</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/MIC.2006.69</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.2006.69</ee>
+<url>db/journals/internet/internet10.html#GuedesMF06</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccgrid/DinizNCFNM06" mdate="2023-03-24">
+<author pid="49/5595">Bruno Diniz</author>
+<author pid="55/6432">Diego L. Nogueira</author>
+<author pid="77/4745">Andr&#233; Cardoso</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author orcid="0000-0003-0865-1417" pid="n/DorgivalOlavoGuedesNeto">Dorgival Olavo Guedes Neto</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<title>Assessing Data Virtualization for Irregularly Replicated Large Datasets.</title>
+<pages>505-512</pages>
+<year>2006</year>
+<crossref>conf/ccgrid/2006</crossref>
+<booktitle>CCGRID</booktitle>
+<ee>https://doi.org/10.1109/CCGRID.2006.21</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CCGRID.2006.21</ee>
+<url>db/conf/ccgrid/ccgrid2006.html#DinizNCFNM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/AraujoTOMFN06" mdate="2023-03-23">
+<author pid="59/5158">Renata Braga Ara&#250;jo</author>
+<author pid="34/5070">Guilherme Henrique Trielli Ferreira</author>
+<author pid="49/147">Gustavo Henrique Orair</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author orcid="0000-0003-0865-1417" pid="n/DorgivalOlavoGuedesNeto">Dorgival Olavo Guedes Neto</author>
+<title>ParTriCluster: A Scalable Parallel Algorithm for Gene Expression Analysis.</title>
+<pages>3-10</pages>
+<year>2006</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2006.20</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2006.20</ee>
+<crossref>conf/sbac-pad/2006</crossref>
+<url>db/conf/sbac-pad/sbac-pad2006.html#AraujoTOMFN06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/TeodoroTFKMNPS06" mdate="2023-11-12">
+<author pid="78/87">George Teodoro</author>
+<author pid="74/4390">Tulio Tavares</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author orcid="0000-0003-0865-1417" pid="n/DorgivalOlavoGuedesNeto">Dorgival Olavo Guedes Neto</author>
+<author orcid="0000-0001-7945-6534" pid="83/1498">Tony Pan</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<title>A Run-time System for Efficient Execution of Scientific Workflows on Distributed Environments.</title>
+<pages>81-90</pages>
+<year>2006</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2006.6</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2006.6</ee>
+<crossref>conf/sbac-pad/2006</crossref>
+<url>db/conf/sbac-pad/sbac-pad2006.html#TeodoroTFKMNPS06</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/HastingsRLOCPHFSK05" mdate="2023-11-12">
+<author pid="50/3809">Shannon Hastings</author>
+<author pid="57/789">Matheus Ribeiro</author>
+<author pid="54/2369">Stephen Langella</author>
+<author pid="33/1264">Scott Oster</author>
+<author orcid="0000-0002-5625-3758" pid="c/UmitVCatalyurek">&#220;mit V. &#199;ataly&#252;rek</author>
+<author orcid="0000-0001-7945-6534" pid="83/1498">Tony Pan</author>
+<author pid="10/4151-1">Kun Huang 0001</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<title>XML database support for distributed execution of data-intensive scientific workflows.</title>
+<pages>50-55</pages>
+<year>2005</year>
+<volume>34</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1084805.1084815</ee>
+<url>db/journals/sigmod/sigmod34.html#HastingsRLOCPHFSK05</url>
+</article>
+</r>
+<r><inproceedings key="conf/icpp/NascimentoFMN05" mdate="2023-03-24">
+<author pid="65/2081">Luiz Thomaz do Nascimento</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author orcid="0000-0003-0865-1417" pid="n/DorgivalOlavoGuedesNeto">Dorgival Olavo Guedes Neto</author>
+<title>Scheduling Data Flow Applications Using Linear Programming.</title>
+<pages>638-645</pages>
+<year>2005</year>
+<crossref>conf/icpp/2005</crossref>
+<booktitle>ICPP</booktitle>
+<ee>https://doi.org/10.1109/ICPP.2005.70</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICPP.2005.70</ee>
+<url>db/conf/icpp/icpp2005.html#NascimentoFMN05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jsspp/GoesGCRMFNC05" mdate="2021-07-07">
+<author orcid="0000-0003-1801-9917" pid="49/3151">Lu&#237;s Fabr&#237;cio Wanderley G&#243;es</author>
+<author pid="21/9989">Pedro Henrique Calais Guerra</author>
+<author pid="16/1230">Bruno Coutinho</author>
+<author pid="89/1792">Leonardo Rocha 0001</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="n/DorgivalOlavoGuedesNeto">Dorgival Olavo Guedes Neto</author>
+<author pid="20/2031">Walfredo Cirne</author>
+<title>AnthillSched: A Scheduling Strategy for Irregular and Iterative I/O-Intensive Parallel Jobs.</title>
+<pages>108-122</pages>
+<year>2005</year>
+<crossref>conf/jsspp/2005</crossref>
+<booktitle>JSSPP</booktitle>
+<ee>https://doi.org/10.1007/11605300_5</ee>
+<url>db/conf/jsspp/jsspp2005.html#GoesGCRMFNC05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/FerreiraMNDCTTAF05" mdate="2023-03-23">
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author orcid="0000-0003-0865-1417" pid="n/DorgivalOlavoGuedesNeto">Dorgival Olavo Guedes Neto</author>
+<author orcid="0000-0002-3831-5230" pid="41/2824">L&#250;cia M. A. Drummond</author>
+<author pid="16/1230">Bruno Coutinho</author>
+<author pid="78/87">George Teodoro</author>
+<author pid="74/4390">Tulio Tavares</author>
+<author pid="59/5158">Renata Braga Ara&#250;jo</author>
+<author pid="77/6459">Guilherme T. Ferreira</author>
+<title>Anthill: A Scalable Run-Time Environment for Data Mining Applications.</title>
+<pages>159-167</pages>
+<year>2005</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/CAHPC.2005.12</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CAHPC.2005.12</ee>
+<crossref>conf/sbac-pad/2005</crossref>
+<url>db/conf/sbac-pad/sbac-pad2005.html#FerreiraMNDCTTAF05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpc/RibeiroKPHCZLHOFS04" mdate="2023-11-12">
+<author pid="57/789">Matheus Ribeiro</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<author orcid="0000-0001-7945-6534" pid="83/1498">Tony Pan</author>
+<author pid="10/4151-1">Kun Huang 0001</author>
+<author orcid="0000-0002-5625-3758" pid="c/UmitVCatalyurek">&#220;mit V. &#199;ataly&#252;rek</author>
+<author pid="87/1222">Xi Zhang</author>
+<author pid="54/2369">Stephen Langella</author>
+<author pid="50/3809">Shannon Hastings</author>
+<author pid="33/1264">Scott Oster</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<title>Tools for efficient subsetting and pipelined processing of large scale, distributed biomedical image data.</title>
+<pages>403-422</pages>
+<year>2004</year>
+<booktitle>High Performance Computing Workshop</booktitle>
+<ee>https://doi.org/10.1016/S0927-5452(05)80020-6</ee>
+<crossref>conf/hpc/2004</crossref>
+<url>db/conf/hpc/hpc2004.html#RibeiroKPHCZLHOFS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/VelosoMFNP04" mdate="2021-10-14">
+<author pid="12/919">Adriano Veloso</author>
+<author pid="m/WagnerMeiraJr">Wagner Meira Jr.</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="n/DorgivalOlavoGuedesNeto">Dorgival Olavo Guedes Neto</author>
+<author orcid="0000-0002-6062-6449" pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author>
+<title>Asynchronous and Anticipatory Filter-Stream Based Parallel Algorithm for Frequent Itemset Mining.</title>
+<pages>422-433</pages>
+<ee>https://doi.org/10.1007/978-3-540-30116-5_39</ee>
+<year>2004</year>
+<crossref>conf/pkdd/2004</crossref>
+<booktitle>PKDD</booktitle>
+<url>db/conf/pkdd/pkdd2004.html#VelosoMFNP04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ics/LiFA03" mdate="2025-01-19">
+<author pid="03/2078-1">Xiaogang Li 0001</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="a/GAgrawal">Gagan Agrawal</author>
+<title>Compiler support for efficient processing of XML datasets.</title>
+<pages>42-52</pages>
+<year>2003</year>
+<crossref>conf/ics/2003</crossref>
+<booktitle>ICS</booktitle>
+<ee>https://doi.org/10.1145/782814.782823</ee>
+<ee>https://www.wikidata.org/entity/Q130896541</ee>
+<url>db/conf/ics/ics2003.html#LiFA03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/CatalyurekGKSSF03" mdate="2019-01-31">
+<author pid="c/UmitVCatalyurek">&#220;mit V. &#199;ataly&#252;rek</author>
+<author pid="47/5126">Mike Gray</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<author pid="73/5650">Eric Stahlberg</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<title>A Component-based Implementation of Multiple Sequence Alignment.</title>
+<pages>122-126</pages>
+<year>2003</year>
+<crossref>conf/sac/2003</crossref>
+<booktitle>SAC</booktitle>
+<url>db/conf/sac/sac2003.html#CatalyurekGKSSF03</url>
+<ee>https://doi.org/10.1145/952532.952559</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sc/DuFA03" mdate="2025-01-19">
+<author pid="69/870">Wei Du</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="a/GAgrawal">Gagan Agrawal</author>
+<title>Compiler Support for Exploiting Coarse-Grained Pipelined Parallelism.</title>
+<pages>8</pages>
+<year>2003</year>
+<crossref>conf/sc/2003</crossref>
+<booktitle>SC</booktitle>
+<ee>https://doi.org/10.1145/1048935.1050159</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SC.2003.10008</ee>
+<ee>https://www.wikidata.org/entity/Q130897276</ee>
+<url>db/conf/sc/sc2003.html#DuFA03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sc/KurcLACFS03" mdate="2023-03-24">
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<author pid="89/2854">Feng Lee</author>
+<author pid="a/GAgrawal">Gagan Agrawal</author>
+<author orcid="0000-0002-5625-3758" pid="c/UmitVCatalyurek">&#220;mit V. &#199;ataly&#252;rek</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<title>Optimizing Reduction Computations In a Distributed Environment.</title>
+<pages>9</pages>
+<year>2003</year>
+<crossref>conf/sc/2003</crossref>
+<booktitle>SC</booktitle>
+<ee>https://doi.org/10.1145/1048935.1050160</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SC.2003.10029</ee>
+<url>db/conf/sc/sc2003.html#KurcLACFS03</url>
+</inproceedings>
+</r>
+<r><article key="journals/pc/FerreiraAS02" mdate="2025-01-19">
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="a/GAgrawal">Gagan Agrawal</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<title>Data parallel language and compiler support for data intensive applications.</title>
+<pages>725-748</pages>
+<year>2002</year>
+<volume>28</volume>
+<journal>Parallel Comput.</journal>
+<number>5</number>
+<url>db/journals/pc/pc28.html#FerreiraAS02</url>
+<ee>https://doi.org/10.1016/S0167-8191(02)00093-5</ee>
+<ee>https://www.wikidata.org/entity/Q123126561</ee>
+</article>
+</r>
+<r><article key="journals/pc/BeynonCCKSAFS02" mdate="2023-03-21">
+<author pid="72/1526">Michael D. Beynon</author>
+<author pid="41/3181">Chialin Chang</author>
+<author orcid="0000-0002-5625-3758" pid="c/UmitVCatalyurek">&#220;mit V. &#199;ataly&#252;rek</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<author orcid="0000-0003-1672-2879" pid="s/AlanSussman">Alan Sussman</author>
+<author pid="a/HAndrade">Henrique Andrade</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<title>Processing large-scale multi-dimensional data in parallel and distributed environments.</title>
+<pages>827-859</pages>
+<year>2002</year>
+<volume>28</volume>
+<journal>Parallel Comput.</journal>
+<number>5</number>
+<url>db/journals/pc/pc28.html#BeynonCCKSAFS02</url>
+<ee>https://doi.org/10.1016/S0167-8191(02)00097-2</ee>
+</article>
+</r>
+<r><inproceedings key="conf/ics/FerreiraAS02" mdate="2019-01-31">
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="a/GAgrawal">Gagan Agrawal</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<title>Compiler supported high-level abstractions for sparse disk-resident datasets.</title>
+<pages>241-251</pages>
+<year>2002</year>
+<crossref>conf/ics/2002</crossref>
+<booktitle>ICS</booktitle>
+<ee>https://doi.org/10.1145/514191.514226</ee>
+<url>db/conf/ics/ics2002.html#FerreiraAS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/CatalyurekSFKS02" mdate="2023-03-24">
+<author pid="c/UmitVCatalyurek">&#220;mit V. &#199;ataly&#252;rek</author>
+<author pid="73/5650">Eric Stahlberg</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<title>Improving Performance of Multiple Sequence Alignment Analysis in Multi-Client Environments.</title>
+<year>2002</year>
+<crossref>conf/ipps/2002</crossref>
+<booktitle>IPDPS</booktitle>
+<ee>https://doi.org/10.1109/IPDPS.2002.1016584</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IPDPS.2002.1016584</ee>
+<url>db/conf/ipps/ipdps2002.html#CatalyurekSFKS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sc/SpencerFBKCSS02" mdate="2023-03-24">
+<author pid="65/250">Matthew Spencer</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="72/1526">Michael D. Beynon</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<author pid="c/UmitVCatalyurek">&#220;mit V. &#199;ataly&#252;rek</author>
+<author orcid="0000-0003-1672-2879" pid="s/AlanSussman">Alan Sussman</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<title>Executing multiple pipelined data analysis operations in the grid.</title>
+<pages>66:1-66:18</pages>
+<year>2002</year>
+<crossref>conf/sc/2002</crossref>
+<booktitle>SC</booktitle>
+<ee>https://doi.org/10.1109/SC.2002.10015</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SC.2002.10015</ee>
+<ee>http://dl.acm.org/citation.cfm?id=762803</ee>
+<url>db/conf/sc/sc2002.html#SpencerFBKCSS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/IEEEpact/FerreiraSA01" mdate="2022-05-31">
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<author pid="a/GAgrawal">Gagan Agrawal</author>
+<title>Compiler and Runtime Analysis for Efficient Communication in Data Intensive Applications.</title>
+<pages>231-242</pages>
+<year>2001</year>
+<crossref>conf/IEEEpact/2001</crossref>
+<booktitle>IEEE PACT</booktitle>
+<ee>https://doi.org/10.1109/PACT.2001.953303</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PACT.2001.953303</ee>
+<ee>https://dl.acm.org/doi/10.5555/645988.674174</ee>
+<url>db/conf/IEEEpact/IEEEpact2001.html#FerreiraSA01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ics/FerreiraAS00" mdate="2025-01-19">
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="a/GAgrawal">Gagan Agrawal</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<title>Compiling object-oriented data intensive applications.</title>
+<pages>11-21</pages>
+<year>2000</year>
+<crossref>conf/ics/2000</crossref>
+<booktitle>ICS</booktitle>
+<ee>https://doi.org/10.1145/335231.335233</ee>
+<ee>https://www.wikidata.org/entity/Q130965055</ee>
+<url>db/conf/ics/ics2000.html#FerreiraAS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lcpc/FerreiraAJS00" mdate="2019-01-31">
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="a/GAgrawal">Gagan Agrawal</author>
+<author pid="72/4662">Ruoming Jin</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<title>Compiling Data Intensive Applications with Spatial Coordinates.</title>
+<pages>339-354</pages>
+<year>2000</year>
+<crossref>conf/lcpc/2000</crossref>
+<booktitle>LCPC</booktitle>
+<ee>https://doi.org/10.1007/3-540-45574-4_22</ee>
+<url>db/conf/lcpc/lcpc2000.html#FerreiraAJS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lcr/AgrawalFJS00" mdate="2019-01-31">
+<author pid="a/GAgrawal">Gagan Agrawal</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="72/4662">Ruoming Jin</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<title>High Level Programming Methodologies for Data Intensive Computations.</title>
+<pages>32-43</pages>
+<ee>https://doi.org/10.1007/3-540-40889-4_3</ee>
+<year>2000</year>
+<crossref>conf/lcr/2000</crossref>
+<booktitle>LCR</booktitle>
+<url>db/conf/lcr/lcr2000.html#AgrawalFJS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mss/BeynonFKSS00" mdate="2019-01-31">
+<author pid="72/1526">Michael D. Beynon</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<author pid="s/AlanSussman">Alan Sussman</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<title>DataCutter: Middleware for Filtering Very Large Scientific Datasets on Archival Storage Systems.</title>
+<pages>119-134</pages>
+<year>2000</year>
+<crossref>conf/mss/2000</crossref>
+<booktitle>IEEE Symposium on Mass Storage Systems</booktitle>
+<url>db/conf/mss/mss2000.html#BeynonFKSS00</url>
+</inproceedings>
+</r>
+<r><article key="journals/ppl/FerreiraKBCSS99" mdate="2020-03-24">
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<author pid="72/1526">Michael D. Beynon</author>
+<author pid="41/3181">Chialin Chang</author>
+<author pid="s/AlanSussman">Alan Sussman</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<title>Object-Relational Queries into Multidimensional Databases with the Active Data Repository.</title>
+<pages>173-195</pages>
+<year>1999</year>
+<volume>9</volume>
+<journal>Parallel Process. Lett.</journal>
+<number>2</number>
+<url>db/journals/ppl/ppl9.html#FerreiraKBCSS99</url>
+<ee>https://doi.org/10.1142/S0129626499000190</ee>
+</article>
+</r>
+<r><inproceedings key="conf/amia/KurcBCFBSS99" mdate="2024-04-17">
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<author pid="72/1526">Michael D. Beynon</author>
+<author pid="41/3181">Chialin Chang</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="b/BenBederson">Ben Bederson</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<author pid="s/AlanSussman">Alan Sussman</author>
+<title>A High-Performance Database System for Managing Large Multi-resolution Medical Images.</title>
+<year>1999</year>
+<booktitle>AMIA</booktitle>
+<ee type="archive">https://knowledge.amia.org/amia-55142-a1999a-1.591078/t-002-1.592771/f-001-1.592772/a-298-1.593069/a-299-1.593066</ee>
+<crossref>conf/amia/1999</crossref>
+<url>db/conf/amia/amia1999.html#KurcBCFBSS99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipps/ChangFSS99" mdate="2023-03-24">
+<author pid="41/3181">Chialin Chang</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="s/AlanSussman">Alan Sussman</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<title>Infrastructure for Building Parallel Database Systems for Multi-Dimensional Data.</title>
+<pages>582-587</pages>
+<year>1999</year>
+<crossref>conf/ipps/1999</crossref>
+<booktitle>IPPS/SPDP</booktitle>
+<ee>https://doi.org/10.1109/IPPS.1999.760536</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IPPS.1999.760536</ee>
+<url>db/conf/ipps/ipps1999.html#ChangFSS99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdpta/FerreiraSS99" mdate="2019-01-31">
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="s/AlanSussman">Alan Sussman</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<title>Database Methods for Efficient Manipulation of Very Large Datasets.</title>
+<pages>460-466</pages>
+<year>1999</year>
+<crossref>conf/pdpta/1999</crossref>
+<booktitle>PDPTA</booktitle>
+<url>db/conf/pdpta/pdpta1999-1.html#FerreiraSS99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sc/KurcCFSS99" mdate="2023-03-24">
+<author pid="26/6088">Tahsin M. Kur&#231;</author>
+<author pid="41/3181">Chialin Chang</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author orcid="0000-0003-1672-2879" pid="s/AlanSussman">Alan Sussman</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<title>Querying Very Large Multi-dimensional Datasets in ADR.</title>
+<pages>12</pages>
+<year>1999</year>
+<booktitle>SC</booktitle>
+<ee>https://doi.org/10.1145/331532.331544</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SC.1999.10046</ee>
+<crossref>conf/sc/1999</crossref>
+<url>db/conf/sc/sc1999.html#KurcCFSS99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/amia/AfeworkBBCDFMSSST98" mdate="2024-04-17">
+<author pid="149/8733">Asmara Afework</author>
+<author pid="72/1526">Michael D. Beynon</author>
+<author pid="b/FabianEBustamante">Fabian E. Bustamante</author>
+<author pid="149/8770">Soon Cho</author>
+<author pid="149/8730">Angelo Demarzo</author>
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="64/1134">Robert Miller</author>
+<author pid="149/8882">Mark Silberman</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<author pid="s/AlanSussman">Alan Sussman</author>
+<author pid="149/8767">Hubert Tsang</author>
+<title>Digital dynamic telepathology-the Virtual Microscope.</title>
+<year>1998</year>
+<booktitle>AMIA</booktitle>
+<ee type="archive">https://knowledge.amia.org/amia-55142-a1998a-1.588514/t-001-1.590475/f-001-1.590476/a-176-1.590507/a-177-1.590504</ee>
+<crossref>conf/amia/1998</crossref>
+<url>db/conf/amia/amia1998.html#AfeworkBBCDFMSSST98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/amia/FerreiraMHSSMD97" mdate="2024-04-17">
+<author pid="f/RACFerreira">Renato Ferreira 0001</author>
+<author pid="20/6358">Bongki Moon</author>
+<author pid="80/6107">Jim Humphries</author>
+<author pid="s/AlanSussman">Alan Sussman</author>
+<author pid="s/JoelHSaltz">Joel H. Saltz</author>
+<author pid="64/1134">Robert Miller</author>
+<author pid="149/8730">Angelo Demarzo</author>
+<title>The Virtual Microscope.</title>
+<year>1997</year>
+<booktitle>AMIA</booktitle>
+<ee type="archive">https://knowledge.amia.org/amia-55142-a1997a-1.585351/t-001-1.587519/f-001-1.587520/a-089-1.587749/a-090-1.587746</ee>
+<crossref>conf/amia/1997</crossref>
+<url>db/conf/amia/amia1997.html#FerreiraMHSSMD97</url>
+</inproceedings>
+</r>
+<coauthors n="182" nc="1">
+<co c="0"><na f="a/Afework:Asmara" pid="149/8733">Asmara Afework</na></co>
+<co c="0"><na f="a/Agrawal:Gagan" pid="a/GAgrawal">Gagan Agrawal</na></co>
+<co c="0" n="2"><na f="a/Albergaria:Elisa_Tuler_de" pid="132/7734">Elisa Tuler de Albergaria</na><na>Elisa Tuler</na></co>
+<co c="0"><na f="a/Albuquerque:Alberto" pid="228/1542">Alberto Albuquerque</na></co>
+<co c="0"><na f="a/Almeida:Jussara_M=" pid="34/5480">Jussara M. Almeida</na></co>
+<co c="0"><na f="a/Amador:Tiago" pid="228/1800">Tiago Amador</na></co>
+<co c="0"><na f="a/Amarante:Gabriel" pid="380/9850">Gabriel Amarante</na></co>
+<co c="0"><na f="a/Andrade:Guilherme" pid="117/4708">Guilherme Andrade</na></co>
+<co c="0"><na f="a/Andrade:Henrique" pid="a/HAndrade">Henrique Andrade</na></co>
+<co c="0"><na f="a/Andrade:Yan" pid="351/2515">Yan Andrade</na></co>
+<co c="0"><na f="a/Antu=ntilde=a:Laura_R=" pid="130/7199">Laura R. Antu&#241;a</na></co>
+<co c="0"><na f="a/Araujo:Alan" pid="402/3001">Alan Araujo</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Renata_Braga" pid="59/5158">Renata Braga Ara&#250;jo</na></co>
+<co c="0"><na f="a/Arcanjo:Filipe_de_Lima" pid="87/8657">Filipe de Lima Arcanjo</na></co>
+<co c="0"><na f="a/Avelar:Millas_Nasser_Ramsses" pid="208/8254">Millas Nasser Ramsses Avelar</na></co>
+<co c="0"><na f="b/Bandyopadhyay:Bortik" pid="185/1313">Bortik Bandyopadhyay</na></co>
+<co c="0"><na f="b/Barbosa:Gl=iacute=via_A=_R=" pid="141/9509">Gl&#237;via A. R. Barbosa</na></co>
+<co c="0" n="2"><na f="b/Bederson:Benjamin_B=" pid="b/BenBederson">Benjamin B. Bederson</na><na>Ben Bederson</na></co>
+<co c="0"><na f="b/Beynon:Michael_D=" pid="72/1526">Michael D. Beynon</na></co>
+<co c="0"><na f="b/Braz:Camila_Santana" pid="331/4851">Camila Santana Braz</na></co>
+<co c="0"><na f="b/Brezany:Peter" pid="04/5126">Peter Brezany</na></co>
+<co c="0"><na f="b/Buetow:Kenneth_H=" pid="02/6932">Kenneth H. Buetow</na></co>
+<co c="0" n="2"><na f="b/Bustamante:Fabi=aacute=n_E=" pid="b/FabianEBustamante">Fabi&#225;n E. Bustamante</na><na>Fabian E. Bustamante</na></co>
+<co c="0"><na f="c/Caldeira:Pedro" pid="184/0766">Pedro Caldeira</na></co>
+<co c="0"><na f="c/Caldeira:Pedro_Henrique_Moreira" pid="208/8369">Pedro Henrique Moreira Caldeira</na></co>
+<co c="0"><na f="c/Cardoso:Alan" pid="29/10010">Alan Cardoso</na></co>
+<co c="0"><na f="c/Cardoso:Andr=eacute=" pid="77/4745">Andr&#233; Cardoso</na></co>
+<co c="0"><na f="c/Carvalho:Ana_Paula_de" pid="53/4833">Ana Paula de Carvalho</na></co>
+<co c="0" n="2"><na f="c/Carvalho:D=aacute=rlinton_Barbosa_Feres" pid="25/9066">D&#225;rlinton Barbosa Feres Carvalho</na><na>D&#225;rlinton B. F. Carvalho</na></co>
+<co c="0"><na f="c/Carvalho:Renan" pid="201/6334">Renan Carvalho</na></co>
+<co c="0"><na f="c/Carvalho_0002:Rodrigo" pid="117/0622-2">Rodrigo Carvalho 0002</na></co>
+<co c="0"><na f="c/Carvalho:Wilson_de" pid="184/0747">Wilson de Carvalho</na></co>
+<co c="0"><na f="c/Caserta:Enrico" pid="23/115">Enrico Caserta</na></co>
+<co c="0"><na f="=/=Ccedil=ataly=uuml=rek:=Uuml=mit_V=" pid="c/UmitVCatalyurek">&#220;mit V. &#199;ataly&#252;rek</na></co>
+<co c="0"><na f="c/Chaimowicz:Luiz" pid="c/LuizChaimowicz">Luiz Chaimowicz</na></co>
+<co c="0"><na f="c/Chakrabarti:Aniket" pid="145/2034">Aniket Chakrabarti</na></co>
+<co c="0"><na f="c/Chamone:Felipe_C=" pid="209/9905">Felipe C. Chamone</na></co>
+<co c="0"><na f="c/Chang:Chialin" pid="41/3181">Chialin Chang</na></co>
+<co c="0"><na f="c/Chaves:Rodrigo" pid="148/4417">Rodrigo Chaves</na></co>
+<co c="0"><na f="c/Chen:Wenjin" pid="56/6438">Wenjin Chen</na></co>
+<co c="0"><na f="c/Cho:Soon" pid="149/8770">Soon Cho</na></co>
+<co c="0"><na f="c/Cirne:Walfredo" pid="20/2031">Walfredo Cirne</na></co>
+<co c="0" n="2"><na f="c/Clua:Esteban_Walter_Gonzalez" pid="59/5772">Esteban Walter Gonzalez Clua</na><na>Esteban Clua</na></co>
+<co c="0"><na f="c/Collange:Caroline" pid="251/2068">Caroline Collange</na></co>
+<co c="0" n="2"><na f="c/Coutinho:Bruno" pid="16/1230">Bruno Coutinho</na><na>Bruno Rocha Coutinho</na></co>
+<co c="0"><na f="d/Daniel:S=eacute=rgio" pid="165/3688">S&#233;rgio Daniel</na></co>
+<co c="0"><na f="d/Demarzo:Angelo" pid="149/8730">Angelo Demarzo</na></co>
+<co c="0" n="2"><na f="d/Dias:Diego_R=_C=" pid="122/5974">Diego R. C. Dias</na><na>Diego Dias 0001</na></co>
+<co c="0"><na f="d/Dias:Vin=iacute=cius_Vitor_dos_Santos" pid="156/4548">Vin&#237;cius Vitor dos Santos Dias</na></co>
+<co c="0"><na f="d/Diniz:Bruno" pid="49/5595">Bruno Diniz</na></co>
+<co c="0"><na f="d/Drummond:L=uacute=cia_M=_A=" pid="41/2824">L&#250;cia M. A. Drummond</na></co>
+<co c="0"><na f="d/Du:Wei" pid="69/870">Wei Du</na></co>
+<co c="0"><na f="e/Ervin:David" pid="34/6724">David Ervin</na></co>
+<co c="0"><na f="f/Faria:Ant=ocirc=nio_Hot" pid="381/0246">Ant&#244;nio Hot Faria</na></co>
+<co c="0"><na f="f/Fernandes:Andr=eacute=" pid="233/4292">Andr&#233; Fernandes</na></co>
+<co c="0"><na f="f/Ferracioli:Fabricio" pid="184/0751">Fabricio Ferracioli</na></co>
+<co c="0"><na f="f/Ferreira:Guilherme_Henrique_Trielli" pid="34/5070">Guilherme Henrique Trielli Ferreira</na></co>
+<co c="0"><na f="f/Ferreira:Guilherme_T=" pid="77/6459">Guilherme T. Ferreira</na></co>
+<co c="0" n="2"><na f="f/Ferreira_0001:Ricardo_S=" pid="12/10030">Ricardo S. Ferreira 0001</na><na>Ricardo Ferreira 0001</na></co>
+<co c="0"><na f="f/Fireman:Daniel" pid="45/6617">Daniel Fireman</na></co>
+<co c="0"><na f="f/Foran:David_J=" pid="32/5582">David J. Foran</na></co>
+<co c="0"><na f="f/Foster:Ian_T=" pid="f/IanTFoster">Ian T. Foster</na></co>
+<co c="0"><na f="f/Frank_0008:Michael" pid="42/4902-8">Michael Frank 0008</na></co>
+<co c="0"><na f="g/Goble:Carole_A=" pid="g/CaroleAGoble">Carole A. Goble</na></co>
+<co c="0" n="2"><na f="g/G=oacute=es:Fabr=iacute=cio" pid="49/3151">Fabr&#237;cio G&#243;es</na><na>Lu&#237;s Fabr&#237;cio Wanderley G&#243;es</na></co>
+<co c="0"><na f="g/Gomes:Christian" pid="220/9860">Christian Gomes</na></co>
+<co c="0"><na f="g/Gomes:Jeremias_M=" pid="174/4091">Jeremias M. Gomes</na></co>
+<co c="0"><na f="g/Gomide:Jana=iacute=na" pid="90/9899">Jana&#237;na Gomide</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Marcos_Andr=eacute=" pid="45/1395">Marcos Andr&#233; Gon&#231;alves</na></co>
+<co c="0"><na f="g/Goncalves:Renato_Utsch" pid="208/8297">Renato Utsch Goncalves</na></co>
+<co c="0"><na f="g/Gray:Mike" pid="47/5126">Mike Gray</na></co>
+<co c="0" n="2"><na f="g/Guedes:Dorgival_O=" pid="n/DorgivalOlavoGuedesNeto">Dorgival O. Guedes</na><na>Dorgival Olavo Guedes Neto</na></co>
+<co c="0"><na f="g/Guerra:Pedro_Henrique_Calais" pid="21/9989">Pedro Henrique Calais Guerra</na></co>
+<co c="0"><na f="g/Guimar=atilde=es:Dilson_Almeida" pid="83/9909">Dilson Almeida Guimar&#227;es</na></co>
+<co c="0" n="2"><na f="g/G=uuml=rcan:Metin_Nafi" pid="46/4420">Metin Nafi G&#252;rcan</na><na>Metin N. Gurcan</na></co>
+<co c="0"><na f="h/Hartley:Timothy_D=_R=" pid="11/1261">Timothy D. R. Hartley</na></co>
+<co c="0"><na f="h/Hastings:Shannon" pid="50/3809">Shannon Hastings</na></co>
+<co c="0"><na f="h/Hong:Neil_P=_Chue" pid="74/3319">Neil P. Chue Hong</na></co>
+<co c="0"><na f="h/Hott:Bruno" pid="180/5282">Bruno Hott</na></co>
+<co c="0"><na f="h/Hu:Jun" pid="28/441">Jun Hu</na></co>
+<co c="0"><na f="h/Huang_0001:Kun" pid="10/4151-1">Kun Huang 0001</na></co>
+<co c="0"><na f="h/Humphries:Jim" pid="80/6107">Jim Humphries</na></co>
+<co c="0"><na f="j/Jin:Ruoming" pid="72/4662">Ruoming Jin</na></co>
+<co c="0"><na f="j/Junior:Sergio_N=_Silva" pid="230/6583">Sergio N. Silva Junior</na></co>
+<co c="0" n="3"><na f="j/Junior:Willian_de_Oliveira_Barreiros" pid="230/7988">Willian de Oliveira Barreiros Junior</na><na>Willian Barreiros Jr.</na><na>Willian Barreiros</na></co>
+<co c="0"><na f="k/Kong_0002:Jun" pid="95/203-2">Jun Kong 0002</na></co>
+<co c="0"><na f="k/Kur=ccedil=:Tahsin_M=" pid="26/6088">Tahsin M. Kur&#231;</na></co>
+<co c="0"><na f="l/Langella:Stephen" pid="54/2369">Stephen Langella</na></co>
+<co c="0"><na f="l/Las=Casas:Pedro_Henrique_B=" pid="127/9211">Pedro Henrique B. Las-Casas</na></co>
+<co c="0"><na f="l/Lee:Feng" pid="89/2854">Feng Lee</na></co>
+<co c="0"><na f="l/Leone:Gustavo" pid="29/5074">Gustavo Leone</na></co>
+<co c="0"><na f="l/Li_0001:Xiaogang" pid="03/2078-1">Xiaogang Li 0001</na></co>
+<co c="0"><na f="m/Machado:Carla" pid="10/4696">Carla Machado</na></co>
+<co c="0"><na f="m/Madduri:Ravi_K=" pid="02/1272">Ravi K. Madduri</na></co>
+<co c="0"><na f="m/Madeira:Daniel" pid="117/4652">Daniel Madeira</na></co>
+<co c="0"><na f="m/Madhavan:Subhasree" pid="97/5865">Subhasree Madhavan</na></co>
+<co c="0"><na f="m/Mariano:Nathan" pid="44/10440">Nathan Mariano</na></co>
+<co c="0"><na f="m/Marques:Vin=iacute=cius" pid="72/3445">Vin&#237;cius Marques</na></co>
+<co c="0"><na f="m/Mata:Leonardo_Luiz_Padovani_da" pid="130/5100">Leonardo Luiz Padovani da Mata</na></co>
+<co c="0"><na f="m/Mead:Charlie" pid="152/2980">Charlie Mead</na></co>
+<co c="0"><na f="m/Meira_Jr=:Wagner" pid="m/WagnerMeiraJr">Wagner Meira Jr.</na></co>
+<co c="0"><na f="m/Meirelles:Andr=eacute=_L=_S=" pid="321/8424">Andr&#233; L. S. Meirelles</na></co>
+<co c="0" n="2"><na f="m/Melo:Alba_Cristina_Magalhaes_Alves_de" pid="m/AlbaCMAMelo">Alba Cristina Magalhaes Alves de Melo</na><na>Alba C. M. A. Melo</na></co>
+<co c="0"><na f="m/Melo:Danilo" pid="182/0175">Danilo Melo</na></co>
+<co c="0"><na f="m/Milanez:Teo" pid="122/9941">Teo Milanez</na></co>
+<co c="0"><na f="m/Miller:Robert" pid="64/1134">Robert Miller</na></co>
+<co c="0"><na f="m/Moon:Bongki" pid="20/6358">Bongki Moon</na></co>
+<co c="0"><na f="m/Moreira:Wilson_de_Carvalho" pid="208/8530">Wilson de Carvalho Moreira</na></co>
+<co c="0"><na f="m/Moro:Mirella_M=" pid="m/MirellaMouraMoro">Mirella M. Moro</na></co>
+<co c="0"><na f="m/Mour=atilde=o:Fernando" pid="69/4337">Fernando Mour&#227;o</na></co>
+<co c="0" n="2"><na f="n/Nacif:Jos=eacute=_A=_M=" pid="81/1449">Jos&#233; A. M. Nacif</na><na>Jos&#233; Augusto Miranda Nacif</na></co>
+<co c="0"><na f="n/Nascimento:Erickson_R=" pid="92/7785">Erickson R. Nascimento</na></co>
+<co c="0"><na f="n/Nascimento:Luiz_Thomaz_do" pid="65/2081">Luiz Thomaz do Nascimento</na></co>
+<co c="0"><na f="n/Nazare:Antonio_C=" pid="147/2729">Antonio C. Nazare</na></co>
+<co c="0"><na f="n/Neves:Alan" pid="164/9816">Alan Neves</na></co>
+<co c="0"><na f="n/Nogueira:Diego_L=" pid="55/6432">Diego L. Nogueira</na></co>
+<co c="0"><na f="o/Oliveira:Rafael_Sachetto" pid="54/727">Rafael Sachetto Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Rodrigo_Silva" pid="06/7786">Rodrigo Silva Oliveira</na></co>
+<co c="0" n="2"><na f="o/Oliveira_Jr=:Roberto_L=_de" pid="163/3940">Roberto L. de Oliveira Jr.</na><na>Roberto Louren&#231;o de Oliveira Jr.</na></co>
+<co c="0"><na f="o/Orair:Gustavo_Henrique" pid="49/147">Gustavo Henrique Orair</na></co>
+<co c="0"><na f="o/Oster:Scott" pid="33/1264">Scott Oster</na></co>
+<co c="0"><na f="o/Ostrowski:Michael_C=" pid="02/3531">Michael C. Ostrowski</na></co>
+<co c="0"><na f="p/Pan:Tony" pid="83/1498">Tony Pan</na></co>
+<co c="0"><na f="p/Parthasarathy_0001:Srinivasan" pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</na></co>
+<co c="0"><na f="p/Payne:Philip_R=_O=" pid="96/6655">Philip R. O. Payne</na></co>
+<co c="0"><na f="p/Penha:Jeronimo_Costa" pid="233/2401">Jeronimo Costa Penha</na></co>
+<co c="0"><na f="p/Pereira:Adriano_C=_M=" pid="73/6430">Adriano C. M. Pereira</na></co>
+<co c="0"><na f="p/Pereira:Fernando_Magno_Quint=atilde=o" pid="p/FMQPereira">Fernando Magno Quint&#227;o Pereira</na></co>
+<co c="0"><na f="p/Permar:Justin" pid="24/6481">Justin Permar</na></co>
+<co c="0"><na f="p/Pimenta:Matheus" pid="235/3514">Matheus Pimenta</na></co>
+<co c="0"><na f="p/Pires:Michel" pid="242/4967">Michel Pires</na></co>
+<co c="0"><na f="p/Plale:Beth" pid="54/6437">Beth Plale</na></co>
+<co c="0" n="2"><na f="p/Prates:Raquel_Oliveira" pid="51/3637">Raquel Oliveira Prates</na><na>Raquel O. Prates</na></co>
+<co c="0"><na f="r/Ramos:Gabriel_Spada" pid="130/5787">Gabriel Spada Ramos</na></co>
+<co c="0"><na f="r/Ramos:Thatyene_Louise_Alves_de_Souza" pid="124/7055">Thatyene Louise Alves de Souza Ramos</na></co>
+<co c="0"><na f="r/Ribeiro:Matheus" pid="57/789">Matheus Ribeiro</na></co>
+<co c="0"><na f="r/Rocha:Felipe" pid="260/7970">Felipe Rocha</na></co>
+<co c="0" n="3"><na f="r/Rocha_0001:Leonardo" pid="89/1792">Leonardo Rocha 0001</na><na>Leonardo C. da Rocha</na><na>Leonardo Chaves Dutra da Rocha</na></co>
+<co c="0"><na f="r/Rocha:Rodrigo_Caetano" pid="156/4621">Rodrigo Caetano Rocha</na></co>
+<co c="0"><na f="r/Rossi:Henrique_S=" pid="223/0268">Henrique S. Rossi</na></co>
+<co c="0"><na f="s/S=aacute=:Giovanni" pid="148/4421">Giovanni S&#225;</na></co>
+<co c="0"><na f="s/Saltz:Joel_H=" pid="s/JoelHSaltz">Joel H. Saltz</na></co>
+<co c="0"><na f="s/Santana:Diogo" pid="116/6740">Diogo Santana</na></co>
+<co c="0"><na f="s/Santos:Cassio_E=_dos" pid="147/2709">Cassio E. dos Santos</na></co>
+<co c="0"><na f="s/Santos:Sibele_M=_dos" pid="223/0404">Sibele M. dos Santos</na></co>
+<co c="0"><na f="s/Santos:Walter" pid="18/2496">Walter Santos</na></co>
+<co c="0"><na f="s/Schwartz:William_Robson" pid="78/6398">William Robson Schwartz</na></co>
+<co c="0"><na f="s/Sertel:Olcay" pid="77/6766">Olcay Sertel</na></co>
+<co c="0"><na f="s/Shanbhag:Krishnakant" pid="80/6277">Krishnakant Shanbhag</na></co>
+<co c="0"><na f="s/Sharma_0001:Ashish" pid="02/99-1">Ashish Sharma 0001</na></co>
+<co c="0"><na f="s/Siebenlist:Frank" pid="07/1864">Frank Siebenlist</na></co>
+<co c="0"><na f="s/Siegel:Eliot_L=" pid="22/5169">Eliot L. Siegel</na></co>
+<co c="0"><na f="s/Silberman:Mark" pid="149/8882">Mark Silberman</na></co>
+<co c="0" n="2"><na f="s/Silva:Altigran_S=_da" pid="s/ASdaSilva">Altigran S. da Silva</na><na>Altigran Soares da Silva</na></co>
+<co c="0" n="2"><na f="s/Silva:Ismael_S=" pid="81/9907">Ismael S. Silva</na><na>Ismael Santana Silva</na></co>
+<co c="0"><na f="s/Silva:Jamicel_da" pid="380/9677">Jamicel da Silva</na></co>
+<co c="0"><na f="s/Silva:Jo=atilde=o_Paulo_da" pid="272/2151">Jo&#227;o Paulo da Silva</na></co>
+<co c="0" n="2"><na f="s/Silva:Lucas_B=_da" pid="214/1143">Lucas B. da Silva</na><na>Lucas Bragan&#231;a</na></co>
+<co c="0"><na f="s/Silva:N=iacute=collas" pid="207/7016">N&#237;collas Silva</na></co>
+<co c="0"><na f="s/Silveira:Thiago" pid="148/4318">Thiago Silveira</na></co>
+<co c="0"><na f="s/Sousa:Renan_de_Carvalho" pid="208/8347">Renan de Carvalho Sousa</na></co>
+<co c="0"><na f="s/Souza:Rafael" pid="43/7668">Rafael Souza</na></co>
+<co c="0"><na f="s/Spencer:Matthew" pid="65/250">Matthew Spencer</na></co>
+<co c="0"><na f="s/Stahlberg:Eric" pid="73/5650">Eric Stahlberg</na></co>
+<co c="0"><na f="s/Sussman:Alan" pid="s/AlanSussman">Alan Sussman</na></co>
+<co c="0"><na f="t/Tavares:Tulio" pid="74/4390">Tulio Tavares</na></co>
+<co c="0"><na f="t/Teixeira:Felipe" pid="148/4380">Felipe Teixeira</na></co>
+<co c="0"><na f="t/Teixeira:Thiago" pid="12/6785">Thiago Teixeira</na></co>
+<co c="0"><na f="t/Teixeira:Thiago_S=_F=_X=" pid="136/6047">Thiago S. F. X. Teixeira</na></co>
+<co c="0" n="2"><na f="t/Teodoro:George" pid="78/87">George Teodoro</na><na>George Luiz Medeiros Teodoro</na></co>
+<co c="0"><na f="t/Toledo:S=aacute=vyo" pid="182/0233">S&#225;vyo Toledo</na></co>
+<co c="0"><na f="t/Tsang:Hubert" pid="149/8767">Hubert Tsang</na></co>
+<co c="0"><na f="t/Tuzel:Oncel" pid="73/2943">Oncel Tuzel</na></co>
+<co c="0"><na f="u/Utsch:Renato" pid="184/0927">Renato Utsch</na></co>
+<co c="0"><na f="v/Veloso:Adriano" pid="12/919">Adriano Veloso</na></co>
+<co c="0"><na f="v/Viegas:Felipe" pid="117/4613">Felipe Viegas</na></co>
+<co c="0"><na f="v/Vieira:Ramon" pid="164/9623">Ramon Vieira</na></co>
+<co c="0"><na f="v/Vilas=Boas:Marcelo" pid="380/9981">Marcelo Vilas-Boas</na></co>
+<co c="0"><na f="y/Yang_0002:Lin" pid="20/2970-2">Lin Yang 0002</na></co>
+<co c="0" n="2"><na f="z/Zaki:Mohammed_J=" pid="z/MohammedJaveedZaki">Mohammed J. Zaki</na><na>Mohammed Javeed Zaki</na></co>
+<co c="0"><na f="z/Zhang:Xi" pid="87/1222">Xi Zhang</na></co>
+<co c="0"><na f="z/Ziviani:Nivio" pid="z/NZiviani">Nivio Ziviani</na></co>
+</coauthors>
+</dblpperson>
+

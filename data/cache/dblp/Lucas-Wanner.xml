@@ -1,0 +1,837 @@
+<?xml version="1.0"?>
+<dblpperson name="Lucas Francisco Wanner" pid="w/LucasFranciscoWanner" n="50">
+<person key="homepages/w/LucasFranciscoWanner" mdate="2025-05-13">
+<author pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author pid="w/LucasFranciscoWanner">Lucas Wanner 0001</author>
+<note type="affiliation">University of Campinas (UNICAMP), Brazil</note>
+<note label="former" type="affiliation">University of California, Los Angeles, USA</note>
+<url>https://www.ic.unicamp.br/~lucas/</url>
+<url>http://nesl.ee.ucla.edu/people/lucas</url>
+<url>https://dl.acm.org/profile/81381597234</url>
+<url>https://orcid.org/0000-0002-5564-698X</url>
+</person>
+<homonyms n="1">
+<h f="w/Wanner:Lucas"><name>Lucas Wanner</name>
+</h>
+</homonyms>
+<r><article key="journals/iot/OliveiraJFALW25" mdate="2025-04-01">
+<author orcid="0000-0002-0630-3083" pid="303/6353">Juliane Regina de Oliveira</author>
+<author pid="355/4827">German Efrain Caste&#241;eda Jimenez</author>
+<author pid="16/9379">Janito Vaqueiro Ferreira</author>
+<author orcid="0000-0003-3567-5131" pid="303/6021">Larissa Medeiros de Almeida</author>
+<author pid="253/2651">Eduardo Rodrigues de Lima</author>
+<author pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<title>Noise-resilient feature selection for accelerometer-based guyed tower monitoring.</title>
+<pages>101563</pages>
+<year>2025</year>
+<volume>31</volume>
+<journal>Internet Things</journal>
+<ee>https://doi.org/10.1016/j.iot.2025.101563</ee>
+<url>db/journals/iot/iot31.html#OliveiraJFALW25</url>
+<stream>streams/journals/iot</stream>
+</article>
+</r>
+<r><article key="journals/esl/CastroSZAGLAW24" mdate="2024-06-18">
+<author orcid="0000-0002-5840-3115" pid="278/1942">Lucas Castro</author>
+<author pid="309/6685">Jonathas Silveira</author>
+<author pid="218/3065">Rodrigo Zeli</author>
+<author pid="316/8073">Victor Ara&#250;jo</author>
+<author pid="123/2195">Marcelo Guedes</author>
+<author pid="346/4183">Daniel Lazari</author>
+<author pid="73/1601">Rodolfo Azevedo</author>
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Wanner 0001</author>
+<title>Exploring Dynamic Duty Cycling for Energy Efficiency in Coherent DSP ASIC.</title>
+<pages>202-205</pages>
+<year>2024</year>
+<month>June</month>
+<volume>16</volume>
+<journal>IEEE Embed. Syst. Lett.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/LES.2023.3322301</ee>
+<url>db/journals/esl/esl16.html#CastroSZAGLAW24</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2409-20536" mdate="2024-10-21">
+<author pid="341/1469">Giovani Valdrighi</author>
+<author pid="388/3657">Athyrson M. Ribeiro</author>
+<author pid="388/2202">Jansen S. B. Pereira</author>
+<author pid="354/9238">Vit&#243;ria Guardieiro</author>
+<author pid="50/10849">Arthur Hendricks</author>
+<author pid="388/2529">D&#233;cio Miranda Filho</author>
+<author pid="388/2645">Juan David Nieto Garcia</author>
+<author pid="388/2514">Felipe F. Bocca</author>
+<author pid="388/3758">Thalita B. Veronese</author>
+<author pid="w/LucasFranciscoWanner">Lucas Wanner 0001</author>
+<author pid="214/2368">Marcos M. Raimundo</author>
+<title>Best Practices for Responsible Machine Learning in Credit Scoring.</title>
+<year>2024</year>
+<volume>abs/2409.20536</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2409.20536</ee>
+<url>db/journals/corr/corr2409.html#abs-2409-20536</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/fusion/OliveiraJDLFAW23" mdate="2023-09-03">
+<author pid="303/6353">Juliane Regina de Oliveira</author>
+<author pid="355/4827">German Efrain Caste&#241;eda Jimenez</author>
+<author pid="154/6202">Claudio Ferreira Dias</author>
+<author pid="253/2651">Eduardo Rodrigues de Lima</author>
+<author pid="16/9379">Janito Vaqueiro Ferreira</author>
+<author pid="303/6021">Larissa Medeiros de Almeida</author>
+<author pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<title>Enhancing Disaster Management of Guyed Towers through Machine Learning-Based Data Fusion.</title>
+<pages>1-8</pages>
+<year>2023</year>
+<booktitle>FUSION</booktitle>
+<ee>https://doi.org/10.23919/FUSION52260.2023.10224106</ee>
+<crossref>conf/fusion/2023</crossref>
+<url>db/conf/fusion/fusion2023.html#OliveiraJDLFAW23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/AlmeidaW23" mdate="2023-09-13">
+<author pid="234/7531">Tiago da Silva Almeida</author>
+<author pid="w/LucasFranciscoWanner">Lucas Wanner 0001</author>
+<title>Efficient Accelerator Design in High-Level Synthesis Using Approximate Logic Components.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI59464.2023.10238558</ee>
+<crossref>conf/isvlsi/2023</crossref>
+<url>db/conf/isvlsi/isvlsi2023.html#AlmeidaW23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/AlmeidaFW23" mdate="2023-12-02">
+<author pid="234/7531">Tiago da Silva Almeida</author>
+<author pid="236/3925">Isa&#237;as B. Felzmann</author>
+<author pid="w/LucasFranciscoWanner">Lucas Wanner 0001</author>
+<title>Experimental analysis of the symmetry of approximate adder designs in FPGA and ASIC.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC60926.2023.10324275</ee>
+<crossref>conf/sbesc/2023</crossref>
+<url>db/conf/sbesc/sbesc2023.html#AlmeidaFW23</url>
+</inproceedings>
+</r>
+<r><article key="journals/micro/AraujoW22" mdate="2022-09-20">
+<author pid="a/GuidoAraujo">Guido Araujo</author>
+<author pid="w/LucasFranciscoWanner">Lucas Wanner 0001</author>
+<title>Special Issue on Compiling for Accelerators.</title>
+<pages>6-8</pages>
+<year>2022</year>
+<volume>42</volume>
+<journal>IEEE Micro</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MM.2022.3193765</ee>
+<url>db/journals/micro/micro42.html#AraujoW22</url>
+</article>
+</r>
+<r><article key="journals/suscom/FilhoFW22" mdate="2022-09-20">
+<author orcid="0000-0001-6036-4031" pid="181/1380">Jo&#227;o Fabr&#237;cio Filho</author>
+<author orcid="0000-0003-3048-8310" pid="236/3925">Isa&#237;as B. Felzmann</author>
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Wanner 0001</author>
+<title>SmartApprox: Learning-based configuration of approximate memories for energy-efficient execution.</title>
+<pages>100701</pages>
+<year>2022</year>
+<volume>34</volume>
+<journal>Sustain. Comput. Informatics Syst.</journal>
+<ee>https://doi.org/10.1016/j.suscom.2022.100701</ee>
+<url>db/journals/suscom/suscom34.html#FilhoFW22</url>
+</article>
+</r>
+<r><inproceedings key="conf/fusion/OliveiraDLAW22" mdate="2022-09-20">
+<author pid="303/6353">Juliane Regina de Oliveira</author>
+<author pid="154/6202">Claudio Ferreira Dias</author>
+<author pid="253/2651">Eduardo Rodrigues de Lima</author>
+<author pid="303/6021">Larissa Medeiros de Almeida</author>
+<author pid="w/LucasFranciscoWanner">Lucas Wanner 0001</author>
+<title>Data fusion strategies for improving resilience to sensor noise in cable-stayed tower monitoring.</title>
+<pages>1-7</pages>
+<year>2022</year>
+<booktitle>FUSION</booktitle>
+<ee>https://ieeexplore.ieee.org/document/9841236</ee>
+<crossref>conf/fusion/2022</crossref>
+<url>db/conf/fusion/fusion2022.html#OliveiraDLAW22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/FilhoF022" mdate="2023-05-10">
+<author pid="181/1380">Jo&#227;o Fabr&#237;cio Filho</author>
+<author pid="236/3925">Isa&#237;as B. Felzmann</author>
+<author pid="w/LucasFranciscoWanner">Lucas Wanner 0001</author>
+<title>Approximate Memory with Protected Static Allocation.</title>
+<pages>51-59</pages>
+<year>2022</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD55451.2022.00016</ee>
+<crossref>conf/sbac-pad/2022</crossref>
+<url>db/conf/sbac-pad/sbac-pad2022.html#FilhoF022</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/SilveiraCAZLGA022" mdate="2023-05-10">
+<author pid="309/6685">Jonathas Silveira</author>
+<author pid="278/1942">Lucas Castro</author>
+<author pid="316/8073">Victor Ara&#250;jo</author>
+<author pid="218/3065">Rodrigo Zeli</author>
+<author pid="346/4183">Daniel Lazari</author>
+<author pid="123/2195">Marcelo Guedes</author>
+<author pid="73/1601">Rodolfo Azevedo</author>
+<author pid="w/LucasFranciscoWanner">Lucas Wanner 0001</author>
+<title>Prof5: A RISC-V profiler tool.</title>
+<pages>201-210</pages>
+<year>2022</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD55451.2022.00031</ee>
+<crossref>conf/sbac-pad/2022</crossref>
+<url>db/conf/sbac-pad/sbac-pad2022.html#SilveiraCAZLGA022</url>
+</inproceedings>
+</r>
+<r><article key="journals/sensors/DiasOMALW21" mdate="2023-01-09">
+<author orcid="0000-0003-0490-3330" pid="154/6202">Claudio Ferreira Dias</author>
+<author orcid="0000-0002-0630-3083" pid="303/6353">Juliane Regina de Oliveira</author>
+<author pid="303/6566">Lucas Diogo de Mendon&#231;a</author>
+<author pid="303/6021">Larissa Medeiros de Almeida</author>
+<author orcid="0000-0003-4268-9726" pid="253/2651">Eduardo Rodrigues de Lima</author>
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Wanner 0001</author>
+<title>An IoT-Based System for Monitoring the Health of Guyed Towers in Overhead Power Lines.</title>
+<pages>6173</pages>
+<year>2021</year>
+<volume>21</volume>
+<journal>Sensors</journal>
+<number>18</number>
+<ee type="oa">https://doi.org/10.3390/s21186173</ee>
+<url>db/journals/sensors/sensors21.html#DiasOMALW21</url>
+</article>
+</r>
+<r><inproceedings key="conf/arcs/FilhoFW21" mdate="2022-01-03">
+<author orcid="0000-0001-6036-4031" pid="181/1380">Jo&#227;o Fabr&#237;cio Filho</author>
+<author orcid="0000-0003-3048-8310" pid="236/3925">Isa&#237;as B. Felzmann</author>
+<author pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<title>Transparent Resilience for Approximate DRAM.</title>
+<pages>35-50</pages>
+<year>2021</year>
+<booktitle>ARCS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-81682-7_3</ee>
+<crossref>conf/arcs/2021</crossref>
+<url>db/conf/arcs/arcs2021.html#FilhoFW21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/FelzmannFW21" mdate="2022-01-03">
+<author pid="236/3925">Isa&#237;as B. Felzmann</author>
+<author orcid="0000-0001-6036-4031" pid="181/1380">Jo&#227;o Fabr&#237;cio Filho</author>
+<author pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<title>AxPIKE: Instruction-level Injection and Evaluation of Approximate Computing.</title>
+<pages>491-494</pages>
+<year>2021</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE51398.2021.9474258</ee>
+<crossref>conf/date/2021</crossref>
+<url>db/conf/date/date2021.html#FelzmannFW21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccd/FelzmannFOW21" mdate="2022-09-20">
+<author orcid="0000-0003-3048-8310" pid="236/3925">Isa&#237;as B. Felzmann</author>
+<author orcid="0000-0001-6036-4031" pid="181/1380">Jo&#227;o Fabr&#237;cio Filho</author>
+<author pid="303/6353">Juliane Regina de Oliveira</author>
+<author pid="w/LucasFranciscoWanner">Lucas Wanner 0001</author>
+<title>Special Session: How much quality is enough quality? A case for acceptability in approximate designs.</title>
+<pages>5-8</pages>
+<year>2021</year>
+<booktitle>ICCD</booktitle>
+<ee>https://doi.org/10.1109/ICCD53106.2021.00013</ee>
+<crossref>conf/iccd/2021</crossref>
+<url>db/conf/iccd/iccd2021.html#FelzmannFOW21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/SilveiraW21" mdate="2022-09-20">
+<author pid="309/6685">Jonathas Silveira</author>
+<author pid="w/LucasFranciscoWanner">Lucas Wanner 0001</author>
+<title>Design and evaluation of associative processing kernels.</title>
+<pages>64-73</pages>
+<year>2021</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD53543.2021.00018</ee>
+<crossref>conf/sbac-pad/2021</crossref>
+<url>db/conf/sbac-pad/sbac-pad2021.html#SilveiraW21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/ReisW21" mdate="2022-09-20">
+<author pid="184/0773">Lucas Reis</author>
+<author pid="w/LucasFranciscoWanner">Lucas Wanner 0001</author>
+<title>Functional Approximation and Approximate Parallelization with the ACCEPT compiler.</title>
+<pages>188-197</pages>
+<year>2021</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD53543.2021.00030</ee>
+<crossref>conf/sbac-pad/2021</crossref>
+<url>db/conf/sbac-pad/sbac-pad2021.html#ReisW21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wf-iot/OliveiraLAW21" mdate="2022-09-20">
+<author pid="303/6353">Juliane Regina de Oliveira</author>
+<author pid="253/2651">Eduardo Rodrigues de Lima</author>
+<author pid="303/6021">Larissa Medeiros de Almeida</author>
+<author pid="w/LucasFranciscoWanner">Lucas Wanner 0001</author>
+<title>Improving sensor data quality with predictive models.</title>
+<pages>735-740</pages>
+<year>2021</year>
+<booktitle>WF-IoT</booktitle>
+<ee>https://doi.org/10.1109/WF-IoT51360.2021.9595020</ee>
+<crossref>conf/wf-iot/2021</crossref>
+<url>db/conf/wf-iot/wf-iot2021.html#OliveiraLAW21</url>
+</inproceedings>
+</r>
+<r><article key="journals/fgcs/FelzmannSDAW20" mdate="2023-07-27">
+<author orcid="0000-0003-3048-8310" pid="236/3925">Isa&#237;as B. Felzmann</author>
+<author pid="210/3809">Matheus Martins Susin</author>
+<author pid="133/5881">Liana Dessandre Duenha</author>
+<author pid="73/1601">Rodolfo Azevedo</author>
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<title>ADeLe: A description language for approximate hardware.</title>
+<pages>245-258</pages>
+<year>2020</year>
+<volume>102</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2019.07.073</ee>
+<url>db/journals/fgcs/fgcs102.html#FelzmannSDAW20</url>
+</article>
+</r>
+<r><article key="journals/fgcs/FilhoFAW20" mdate="2023-08-28">
+<author orcid="0000-0001-6036-4031" pid="181/1380">Jo&#227;o Fabr&#237;cio Filho</author>
+<author orcid="0000-0003-3048-8310" pid="236/3925">Isa&#237;as B. Felzmann</author>
+<author pid="73/1601">Rodolfo Azevedo</author>
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<title>AxRAM: A lightweight implicit interface for approximate data access.</title>
+<pages>556-570</pages>
+<year>2020</year>
+<volume>113</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2020.07.029</ee>
+<ee>https://www.wikidata.org/entity/Q114668147</ee>
+<url>db/journals/fgcs/fgcs113.html#FilhoFAW20</url>
+</article>
+</r>
+<r><article key="journals/tcad/FelzmannFW20" mdate="2022-09-22">
+<author orcid="0000-0003-3048-8310" pid="236/3925">Isa&#237;as B. Felzmann</author>
+<author orcid="0000-0001-6036-4031" pid="181/1380">Jo&#227;o Fabr&#237;cio Filho</author>
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<title>Risk-5: Controlled Approximations for RISC-V.</title>
+<pages>4052-4063</pages>
+<year>2020</year>
+<volume>39</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TCAD.2020.3012312</ee>
+<url>db/journals/tcad/tcad39.html#FelzmannFW20</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbesc/BonottoWPA20" mdate="2021-04-09">
+<author orcid="0000-0002-6672-7398" pid="241/1235">Bruno Bonotto</author>
+<author pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author pid="20/2982">Ricardo Pannain</author>
+<author pid="73/1601">Rodolfo Azevedo</author>
+<title>Bringing Energy Information to the Instruction Set.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC51047.2020.9277842</ee>
+<crossref>conf/sbesc/2020</crossref>
+<url>db/conf/sbesc/sbesc2020.html#BonottoWPA20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/FilhoFAW19" mdate="2022-12-07">
+<author orcid="0000-0001-6036-4031" pid="181/1380">Jo&#227;o Fabr&#237;cio Filho</author>
+<author orcid="0000-0003-3048-8310" pid="236/3925">Isa&#237;as B. Felzmann</author>
+<author pid="73/1601">Rodolfo Jardim de Azevedo</author>
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<title>A Resilient Interface for Approximate Data Access.</title>
+<pages>1-8</pages>
+<year>2019</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC49506.2019.9046069</ee>
+<crossref>conf/sbesc/2019</crossref>
+<url>db/conf/sbesc/sbesc2019.html#FilhoFAW19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/FelzmannSDAW18" mdate="2023-07-27">
+<author orcid="0000-0003-3048-8310" pid="236/3925">Isa&#237;as B. Felzmann</author>
+<author pid="210/3809">Matheus Martins Susin</author>
+<author pid="133/5881">Liana Dessandre Duenha</author>
+<author pid="73/1601">Rodolfo Azevedo</author>
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<title>ADeLe: Rapid Architectural Simulation for Approximate Hardware.</title>
+<pages>9-16</pages>
+<year>2018</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/CAHPC.2018.8645875</ee>
+<crossref>conf/sbac-pad/2018</crossref>
+<url>db/conf/sbac-pad/sbac-pad2018.html#FelzmannSDAW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/CastroW18" mdate="2022-12-07">
+<author pid="239/6762">Roberto Alejandro Hidalgo Castro</author>
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<title>A Framework for Variable Quality in Applications through Context-Aware Approximate Computing.</title>
+<pages>138-145</pages>
+<year>2018</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2018.00028</ee>
+<crossref>conf/sbesc/2018</crossref>
+<url>db/conf/sbesc/sbesc2018.html#CastroW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wscad/FelzmannFAW18" mdate="2022-12-07">
+<author orcid="0000-0003-3048-8310" pid="236/3925">Isa&#237;as B. Felzmann</author>
+<author orcid="0000-0001-6036-4031" pid="181/1380">Jo&#227;o Fabr&#237;cio Filho</author>
+<author pid="73/1601">Rodolfo Azevedo</author>
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<title>Impact of Memory Approximation on Energy Efficiency.</title>
+<pages>53-60</pages>
+<year>2018</year>
+<booktitle>WSCAD</booktitle>
+<ee>https://doi.org/10.1109/WSCAD.2018.00018</ee>
+<crossref>conf/wscad/2018</crossref>
+<url>db/conf/wscad/wscad2018.html#FelzmannFAW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/SusinWRF17" mdate="2023-03-23">
+<author pid="210/3809">Matheus Martins Susin</author>
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author pid="166/4127">Davi Resner</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<title>Time Synchronization under Temperature and Distance Variations.</title>
+<pages>167-172</pages>
+<year>2017</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2017.29</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBESC.2017.29</ee>
+<crossref>conf/sbesc/2017</crossref>
+<url>db/conf/sbesc/sbesc2017.html#SusinWRF17</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmobile/ElmalakiWS16" mdate="2021-08-23">
+<author pid="245/2432">Salma Elmalaki 0001</author>
+<author pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author pid="s/ManiBSrivastava">Mani B. Srivastava</author>
+<title>CAreDroid: Adaptation Framework for Android Context-Aware Applications.</title>
+<pages>35-38</pages>
+<year>2016</year>
+<volume>20</volume>
+<journal>GetMobile Mob. Comput. Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3009808.3009820</ee>
+<url>db/journals/sigmobile/sigmobile20.html#ElmalakiWS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/etfa/ResnerFW16" mdate="2022-12-07">
+<author pid="166/4127">Davi Resner</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<title>Speculative Precision Time Protocol: Submicrosecond clock synchronization for the IoT.</title>
+<pages>1-8</pages>
+<year>2016</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2016.7733533</ee>
+<crossref>conf/etfa/2016</crossref>
+<url>db/conf/etfa/etfa2016.html#ResnerFW16</url>
+</inproceedings>
+</r>
+<r><article key="journals/it/WannerLRGMHSADD15" mdate="2024-08-14">
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author pid="96/11241">Liangzhen Lai</author>
+<author orcid="0000-0003-3141-4970" pid="48/9350">Abbas Rahimi</author>
+<author pid="115/9136">Mark Gottscho</author>
+<author orcid="0000-0003-2842-7201" pid="130/1383">Pietro Mercati</author>
+<author pid="94/8197">Chu-Hsiang Huang</author>
+<author pid="133/3602">Frederic Sala</author>
+<author pid="84/1053">Yuvraj Agarwal</author>
+<author pid="35/3690">Lara Dolecek</author>
+<author orcid="0000-0002-3060-8119" pid="d/NikilDDutt">Nikil D. Dutt</author>
+<author orcid="0000-0002-6188-1134" pid="06/1383-1">Puneet Gupta 0001</author>
+<author pid="213/9138-1">Rajesh K. Gupta 0001</author>
+<author pid="47/4244">Ranjit Jhala</author>
+<author pid="98/4371-2">Rakesh Kumar 0002</author>
+<author pid="11/3644">Sorin Lerner</author>
+<author orcid="0000-0002-5572-5194" pid="30/4561">Subhasish Mitra</author>
+<author pid="n/AlexandruNicolau">Alexandru Nicolau</author>
+<author pid="s/TajanaSimunic">Tajana Simunic Rosing</author>
+<author pid="s/ManiBSrivastava">Mani B. Srivastava</author>
+<author orcid="0000-0002-5896-1037" pid="97/3886">Steven Swanson</author>
+<author pid="83/6040">Dennis Sylvester</author>
+<author pid="99/2747-1">Yuanyuan Zhou 0001</author>
+<title>NSF expedition on variability-aware software: Recent results and contributions.</title>
+<pages>181-198</pages>
+<year>2015</year>
+<volume>57</volume>
+<journal>it Inf. Technol.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1515/itit-2014-1085</ee>
+<ee>https://www.wikidata.org/entity/Q115723236</ee>
+<url>db/journals/it/it57.html#WannerLRGMHSADD15</url>
+</article>
+</r>
+<r><article key="journals/tecs/MartinWS15" mdate="2025-01-19">
+<author pid="92/2442-8">Paul Martin 0008</author>
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author orcid="0000-0002-3782-9192" pid="s/ManiBSrivastava">Mani B. Srivastava</author>
+<title>Runtime Optimization of System Utility with Variable Hardware.</title>
+<pages>24:1-24:25</pages>
+<year>2015</year>
+<volume>14</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2656338</ee>
+<ee>https://www.wikidata.org/entity/Q131128730</ee>
+<url>db/journals/tecs/tecs14.html#MartinWS15</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsd/ReisWF15" mdate="2023-03-23">
+<author pid="162/3438">Joao Gabriel Reis</author>
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<title>A Framework for Dynamic Real-Time Reconfiguration.</title>
+<pages>255-258</pages>
+<year>2015</year>
+<booktitle>DSD</booktitle>
+<ee>https://doi.org/10.1109/DSD.2015.22</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DSD.2015.22</ee>
+<crossref>conf/dsd/2015</crossref>
+<url>db/conf/dsd/dsd2015.html#ReisWF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobicom/ElmalakiWS15" mdate="2022-12-07">
+<author pid="245/2432">Salma Elmalaki 0001</author>
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author orcid="0000-0002-3782-9192" pid="s/ManiBSrivastava">Mani B. Srivastava</author>
+<title>CAreDroid: Adaptation Framework for Android Context-Aware Applications.</title>
+<pages>386-399</pages>
+<year>2015</year>
+<booktitle>MobiCom</booktitle>
+<ee>https://doi.org/10.1145/2789168.2790108</ee>
+<ee>https://www.wikidata.org/entity/Q28601913</ee>
+<crossref>conf/mobicom/2015</crossref>
+<url>db/conf/mobicom/mobicom2015.html#ElmalakiWS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/ReisFW15" mdate="2022-12-07">
+<author pid="162/3438">Joao Gabriel Reis</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<title>X-Ware: mutant computing substrates.</title>
+<pages>25-31</pages>
+<year>2015</year>
+<booktitle>RSP</booktitle>
+<ee>https://doi.org/10.1109/RSP.2015.7416542</ee>
+<crossref>conf/rsp/2015</crossref>
+<url>db/conf/rsp/rsp2015.html#ReisFW15</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/us/Wanner14" mdate="2022-06-22">
+<author pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<title>Hardware Variability-Aware Embedded Software Adaptation.</title>
+<school>University of California, Los Angeles, USA</school>
+<year>2014</year>
+<ee>https://www.escholarship.org/uc/item/6wg2g0t9</ee>
+</phdthesis>
+</r>
+<r><article key="journals/tecs/BalaniWS14" mdate="2022-12-07">
+<author pid="73/4678">Rahul Balani</author>
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author orcid="0000-0002-3782-9192" pid="s/ManiBSrivastava">Mani B. Srivastava</author>
+<title>Distributed programming framework for fast iterative optimization in networked cyber-physical systems.</title>
+<pages>66:1-66:26</pages>
+<year>2014</year>
+<volume>13</volume>
+<journal>ACM Trans. Embed. Comput. Syst.</journal>
+<number>2s</number>
+<ee>https://doi.org/10.1145/2544375.2544386</ee>
+<url>db/journals/tecs/tecs13.html#BalaniWS14</url>
+</article>
+</r>
+<r><inproceedings key="conf/hotpower/WannerS14" mdate="2021-02-02">
+<author pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author pid="s/ManiBSrivastava">Mani B. Srivastava</author>
+<title>ViRUS: Virtual Function Replacement Under Stress.</title>
+<year>2014</year>
+<booktitle>HotPower</booktitle>
+<ee type="oa">https://www.usenix.org/conference/hotpower14/workshop-program/presentation/wanner</ee>
+<crossref>conf/hotpower/2014</crossref>
+<url>db/conf/hotpower/hotpower2014.html#WannerS14</url>
+</inproceedings>
+</r>
+<r><article key="journals/tvlsi/WannerABGS13" mdate="2022-12-07">
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author pid="01/10050">Charwak Apte</author>
+<author pid="73/4678">Rahul Balani</author>
+<author orcid="0000-0002-6188-1134" pid="06/1383-1">Puneet Gupta 0001</author>
+<author orcid="0000-0002-3782-9192" pid="s/ManiBSrivastava">Mani B. Srivastava</author>
+<title>Hardware Variability-Aware Duty Cycling for Embedded Sensors.</title>
+<pages>1000-1012</pages>
+<year>2013</year>
+<volume>21</volume>
+<journal>IEEE Trans. Very Large Scale Integr. Syst.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TVLSI.2012.2203325</ee>
+<url>db/journals/tvlsi/tvlsi21.html#WannerABGS13</url>
+</article>
+</r>
+<r><inproceedings key="conf/codes/WannerELGS13" mdate="2024-05-07">
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author orcid="0000-0002-0969-0197" pid="245/2432">Salma Elmalaki 0001</author>
+<author pid="96/11241">Liangzhen Lai</author>
+<author orcid="0000-0002-6188-1134" pid="06/1383-1">Puneet Gupta 0001</author>
+<author orcid="0000-0002-3782-9192" pid="s/ManiBSrivastava">Mani B. Srivastava</author>
+<title>VarEMU: An emulation testbed for variability-aware software.</title>
+<pages>27:1-27:10</pages>
+<year>2013</year>
+<booktitle>CODES+ISSS</booktitle>
+<ee>https://doi.org/10.1109/CODES-ISSS.2013.6659014</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2555719</ee>
+<crossref>conf/codes/2013</crossref>
+<url>db/conf/codes/codes2013.html#WannerELGS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccd/SharmaSWESG13" mdate="2023-03-23">
+<author pid="132/8249">Ankur Sharma</author>
+<author pid="24/7454">Joseph Sloan</author>
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author pid="245/2432">Salma Elmalaki 0001</author>
+<author orcid="0000-0002-3782-9192" pid="s/ManiBSrivastava">Mani B. Srivastava</author>
+<author orcid="0000-0002-6188-1134" pid="06/1383-1">Puneet Gupta 0001</author>
+<title>Towards analyzing and improving robustness of software applications to intermittent and permanent faults in hardware.</title>
+<pages>435-438</pages>
+<year>2013</year>
+<booktitle>ICCD</booktitle>
+<ee>https://doi.org/10.1109/ICCD.2013.6657076</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICCD.2013.6657076</ee>
+<crossref>conf/iccd/2013</crossref>
+<url>db/conf/iccd/iccd2013.html#SharmaSWESG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/green/SunWS12" mdate="2023-03-24">
+<author pid="84/442">Yuwen Sun</author>
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author orcid="0000-0002-3782-9192" pid="s/ManiBSrivastava">Mani B. Srivastava</author>
+<title>Low-cost estimation of sub-system power.</title>
+<pages>1-10</pages>
+<year>2012</year>
+<booktitle>IGCC</booktitle>
+<ee>https://doi.org/10.1109/IGCC.2012.6322270</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IGCC.2012.6322270</ee>
+<crossref>conf/green/2012</crossref>
+<url>db/conf/green/green2012.html#SunWS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/WannerBZAGS11" mdate="2023-03-24">
+<author pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author pid="73/4678">Rahul Balani</author>
+<author pid="65/1845">Sadaf Zahedi</author>
+<author pid="01/10050">Charwak Apte</author>
+<author pid="06/1383-1">Puneet Gupta 0001</author>
+<author pid="s/ManiBSrivastava">Mani B. Srivastava</author>
+<title>Variability-aware duty cycle scheduling in long running embedded sensing systems.</title>
+<pages>131-136</pages>
+<year>2011</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2011.5763031</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DATE.2011.5763031</ee>
+<crossref>conf/date/2011</crossref>
+<url>db/conf/date/date2011.html#WannerBZAGS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccps/BalaniWFSLG11" mdate="2023-03-24">
+<author pid="73/4678">Rahul Balani</author>
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author pid="26/5901">Jonathan Friedman</author>
+<author orcid="0000-0002-3782-9192" pid="s/ManiBSrivastava">Mani B. Srivastava</author>
+<author pid="51/6194">Kaisen Lin</author>
+<author pid="213/9138-1">Rajesh K. Gupta 0001</author>
+<title>Programming Support for Distributed Optimization and Control in Cyber-Physical Systems.</title>
+<pages>109-118</pages>
+<year>2011</year>
+<booktitle>ICCPS</booktitle>
+<ee>https://doi.org/10.1109/ICCPS.2011.11</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICCPS.2011.11</ee>
+<crossref>conf/iccps/2011</crossref>
+<url>db/conf/iccps/iccps2011.html#BalaniWFSLG11</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigops/WiedenhoftWGF08" mdate="2022-12-07">
+<author pid="23/618">Geovani Ricardo Wiedenhoft</author>
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author pid="40/3248">Giovani Gracioli</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<title>Power management in the EPOS system.</title>
+<pages>71-80</pages>
+<year>2008</year>
+<volume>42</volume>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/1453775.1453789</ee>
+<url>db/journals/sigops/sigops42.html#WiedenhoftWGF08</url>
+</article>
+</r>
+<r><inproceedings key="conf/sccc/GracioliSMWF08" mdate="2023-03-23">
+<author pid="40/3248">Giovani Gracioli</author>
+<author pid="08/6300">Danillo Moura Santos</author>
+<author pid="67/1636">Roberto de Matos</author>
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<title>One-Shot Time Management Analysis in EPOS.</title>
+<pages>92-99</pages>
+<year>2008</year>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.2008.13</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCCC.2008.13</ee>
+<crossref>conf/sccc/2008</crossref>
+<url>db/conf/sccc/sccc2008.html#GracioliSMWF08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iess/WannerOF07" mdate="2022-12-07">
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author pid="81/1753">Augusto Born de Oliveira</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<title>Configurable Medium Access Control for Wireless Sensor Networks.</title>
+<pages>401-410</pages>
+<year>2007</year>
+<crossref>conf/iess/2007</crossref>
+<booktitle>IESS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-0-387-72258-0_34</ee>
+<url>db/conf/iess/iess2007.html#WannerOF07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iess/OliveiraWKF07" mdate="2022-12-07">
+<author pid="81/1753">Augusto Born de Oliveira</author>
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author pid="09/2514">Pierre Kuonen</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<title>Integrating Wireless Sensor Networks and the Grid through POP-C++.</title>
+<pages>411-420</pages>
+<year>2007</year>
+<crossref>conf/iess/2007</crossref>
+<booktitle>IESS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-0-387-72258-0_35</ee>
+<url>db/conf/iess/iess2007.html#OliveiraWKF07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etfa/MarcondesHWF06" mdate="2022-12-07">
+<author pid="17/6221">Hugo Marcondes</author>
+<author orcid="0000-0002-8883-8523" pid="222/8241">Arliones Stevert Hoeller</author>
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<title>Operating Systems Portability: 8 bits and beyond.</title>
+<pages>124-130</pages>
+<year>2006</year>
+<crossref>conf/etfa/2006</crossref>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2006.355371</ee>
+<url>db/conf/etfa/etfa2006.html#MarcondesHWF06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etfa/WannerHOF06" mdate="2022-12-07">
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author orcid="0000-0002-8883-8523" pid="222/8241">Arliones Stevert Hoeller</author>
+<author pid="81/1753">Augusto Born de Oliveira</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<title>Operating System Support for Data Acquisition in Sensor Networks.</title>
+<pages>582-585</pages>
+<year>2006</year>
+<crossref>conf/etfa/2006</crossref>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2006.355355</ee>
+<url>db/conf/etfa/etfa2006.html#WannerHOF06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip10-3/HoellerWF06" mdate="2022-12-07">
+<author pid="222/8241">Arliones Stevert Hoeller</author>
+<author orcid="0000-0002-5564-698X" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<title>A Hierarchical Approach for Power Management on Mobile Embedded Systems.</title>
+<pages>265-274</pages>
+<year>2006</year>
+<crossref>conf/ifip10-3/2006dipes</crossref>
+<booktitle>DIPES</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-0-387-39362-9_28</ee>
+<url>db/conf/ifip10-3/dipes2006.html#HoellerWF06</url>
+</inproceedings>
+</r>
+<coauthors n="76" nc="2">
+<co c="0"><na f="a/Agarwal:Yuvraj" pid="84/1053">Yuvraj Agarwal</na></co>
+<co c="0"><na f="a/Almeida:Larissa_Medeiros_de" pid="303/6021">Larissa Medeiros de Almeida</na></co>
+<co c="0"><na f="a/Almeida:Tiago_da_Silva" pid="234/7531">Tiago da Silva Almeida</na></co>
+<co c="0"><na f="a/Apte:Charwak" pid="01/10050">Charwak Apte</na></co>
+<co c="0"><na f="a/Araujo:Guido" pid="a/GuidoAraujo">Guido Araujo</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Victor" pid="316/8073">Victor Ara&#250;jo</na></co>
+<co c="0" n="2"><na f="a/Azevedo:Rodolfo" pid="73/1601">Rodolfo Azevedo</na><na>Rodolfo Jardim de Azevedo</na></co>
+<co c="0"><na f="b/Balani:Rahul" pid="73/4678">Rahul Balani</na></co>
+<co c="1"><na f="b/Bocca:Felipe_F=" pid="388/2514">Felipe F. Bocca</na></co>
+<co c="0"><na f="b/Bonotto:Bruno" pid="241/1235">Bruno Bonotto</na></co>
+<co c="0"><na f="c/Castro:Lucas" pid="278/1942">Lucas Castro</na></co>
+<co c="-1"><na f="c/Castro:Roberto_Alejandro_Hidalgo" pid="239/6762">Roberto Alejandro Hidalgo Castro</na></co>
+<co c="0"><na f="d/Dias:Claudio_Ferreira" pid="154/6202">Claudio Ferreira Dias</na></co>
+<co c="0"><na f="d/Dolecek:Lara" pid="35/3690">Lara Dolecek</na></co>
+<co c="0"><na f="d/Duenha:Liana_Dessandre" pid="133/5881">Liana Dessandre Duenha</na></co>
+<co c="0"><na f="d/Dutt:Nikil_D=" pid="d/NikilDDutt">Nikil D. Dutt</na></co>
+<co c="0" n="2"><na f="e/Elmalaki:Salma_Hosni_Emam_Mohamed" pid="245/2432">Salma Hosni Emam Mohamed Elmalaki</na><na>Salma Elmalaki 0001</na></co>
+<co c="0"><na f="f/Felzmann:Isa=iacute=as_B=" pid="236/3925">Isa&#237;as B. Felzmann</na></co>
+<co c="0"><na f="f/Ferreira:Janito_Vaqueiro" pid="16/9379">Janito Vaqueiro Ferreira</na></co>
+<co c="1"><na f="f/Filho:D=eacute=cio_Miranda" pid="388/2529">D&#233;cio Miranda Filho</na></co>
+<co c="0"><na f="f/Filho:Jo=atilde=o_Fabr=iacute=cio" pid="181/1380">Jo&#227;o Fabr&#237;cio Filho</na></co>
+<co c="0"><na f="f/Friedman:Jonathan" pid="26/5901">Jonathan Friedman</na></co>
+<co c="0"><na f="f/Fr=ouml=hlich:Ant=ocirc=nio_Augusto" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</na></co>
+<co c="1"><na f="g/Garcia:Juan_David_Nieto" pid="388/2645">Juan David Nieto Garcia</na></co>
+<co c="0"><na f="g/Gottscho:Mark" pid="115/9136">Mark Gottscho</na></co>
+<co c="0"><na f="g/Gracioli:Giovani" pid="40/3248">Giovani Gracioli</na></co>
+<co c="1"><na f="g/Guardieiro:Vit=oacute=ria" pid="354/9238">Vit&#243;ria Guardieiro</na></co>
+<co c="0"><na f="g/Guedes:Marcelo" pid="123/2195">Marcelo Guedes</na></co>
+<co c="0"><na f="g/Gupta_0001:Puneet" pid="06/1383-1">Puneet Gupta 0001</na></co>
+<co c="0"><na f="g/Gupta_0001:Rajesh_K=" pid="213/9138-1">Rajesh K. Gupta 0001</na></co>
+<co c="1"><na f="h/Hendricks:Arthur" pid="50/10849">Arthur Hendricks</na></co>
+<co c="0" n="2"><na f="h/Hoeller:Arliones" pid="222/8241">Arliones Hoeller</na><na>Arliones Stevert Hoeller</na></co>
+<co c="0"><na f="h/Huang:Chu=Hsiang" pid="94/8197">Chu-Hsiang Huang</na></co>
+<co c="0"><na f="j/Jhala:Ranjit" pid="47/4244">Ranjit Jhala</na></co>
+<co c="0"><na f="j/Jimenez:German_Efrain_Caste=ntilde=eda" pid="355/4827">German Efrain Caste&#241;eda Jimenez</na></co>
+<co c="0"><na f="k/Kumar_0002:Rakesh" pid="98/4371-2">Rakesh Kumar 0002</na></co>
+<co c="0"><na f="k/Kuonen:Pierre" pid="09/2514">Pierre Kuonen</na></co>
+<co c="0"><na f="l/Lai:Liangzhen" pid="96/11241">Liangzhen Lai</na></co>
+<co c="0"><na f="l/Lazari:Daniel" pid="346/4183">Daniel Lazari</na></co>
+<co c="0"><na f="l/Lerner:Sorin" pid="11/3644">Sorin Lerner</na></co>
+<co c="0"><na f="l/Lima:Eduardo_Rodrigues_de" pid="253/2651">Eduardo Rodrigues de Lima</na></co>
+<co c="0"><na f="l/Lin:Kaisen" pid="51/6194">Kaisen Lin</na></co>
+<co c="0"><na f="m/Marcondes:Hugo" pid="17/6221">Hugo Marcondes</na></co>
+<co c="0"><na f="m/Martin_0008:Paul" pid="92/2442-8">Paul Martin 0008</na></co>
+<co c="0"><na f="m/Matos:Roberto_de" pid="67/1636">Roberto de Matos</na></co>
+<co c="0"><na f="m/Mendon=ccedil=a:Lucas_Diogo_de" pid="303/6566">Lucas Diogo de Mendon&#231;a</na></co>
+<co c="0"><na f="m/Mercati:Pietro" pid="130/1383">Pietro Mercati</na></co>
+<co c="0"><na f="m/Mitra:Subhasish" pid="30/4561">Subhasish Mitra</na></co>
+<co c="0"><na f="n/Nicolau:Alexandru" pid="n/AlexandruNicolau">Alexandru Nicolau</na></co>
+<co c="0"><na f="o/Oliveira:Augusto_Born_de" pid="81/1753">Augusto Born de Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Juliane_Regina_de" pid="303/6353">Juliane Regina de Oliveira</na></co>
+<co c="0"><na f="p/Pannain:Ricardo" pid="20/2982">Ricardo Pannain</na></co>
+<co c="1"><na f="p/Pereira:Jansen_S=_B=" pid="388/2202">Jansen S. B. Pereira</na></co>
+<co c="0"><na f="r/Rahimi:Abbas" pid="48/9350">Abbas Rahimi</na></co>
+<co c="1"><na f="r/Raimundo:Marcos_M=" pid="214/2368">Marcos M. Raimundo</na></co>
+<co c="0"><na f="r/Reis:Joao_Gabriel" pid="162/3438">Joao Gabriel Reis</na></co>
+<co c="-1"><na f="r/Reis:Lucas" pid="184/0773">Lucas Reis</na></co>
+<co c="0"><na f="r/Resner:Davi" pid="166/4127">Davi Resner</na></co>
+<co c="1"><na f="r/Ribeiro:Athyrson_M=" pid="388/3657">Athyrson M. Ribeiro</na></co>
+<co c="0" n="2"><na f="r/Rosing:Tajana" pid="s/TajanaSimunic">Tajana Rosing</na><na>Tajana Simunic Rosing</na></co>
+<co c="0"><na f="s/Sala:Frederic" pid="133/3602">Frederic Sala</na></co>
+<co c="0"><na f="s/Santos:Danillo_Moura" pid="08/6300">Danillo Moura Santos</na></co>
+<co c="0"><na f="s/Sharma:Ankur" pid="132/8249">Ankur Sharma</na></co>
+<co c="0"><na f="s/Silveira:Jonathas" pid="309/6685">Jonathas Silveira</na></co>
+<co c="0"><na f="s/Sloan:Joseph" pid="24/7454">Joseph Sloan</na></co>
+<co c="0" n="2"><na f="s/Srivastava_0001:Mani" pid="s/ManiBSrivastava">Mani Srivastava 0001</na><na>Mani B. Srivastava</na></co>
+<co c="0"><na f="s/Sun:Yuwen" pid="84/442">Yuwen Sun</na></co>
+<co c="0"><na f="s/Susin:Matheus_Martins" pid="210/3809">Matheus Martins Susin</na></co>
+<co c="0"><na f="s/Swanson:Steven" pid="97/3886">Steven Swanson</na></co>
+<co c="0"><na f="s/Sylvester:Dennis" pid="83/6040">Dennis Sylvester</na></co>
+<co c="1"><na f="v/Valdrighi:Giovani" pid="341/1469">Giovani Valdrighi</na></co>
+<co c="1"><na f="v/Veronese:Thalita_B=" pid="388/3758">Thalita B. Veronese</na></co>
+<co c="0"><na f="w/Wiedenhoft:Geovani_Ricardo" pid="23/618">Geovani Ricardo Wiedenhoft</na></co>
+<co c="0"><na f="z/Zahedi:Sadaf" pid="65/1845">Sadaf Zahedi</na></co>
+<co c="0"><na f="z/Zeli:Rodrigo" pid="218/3065">Rodrigo Zeli</na></co>
+<co c="0"><na f="z/Zhou_0001:Yuanyuan" pid="99/2747-1">Yuanyuan Zhou 0001</na></co>
+</coauthors>
+</dblpperson>
+

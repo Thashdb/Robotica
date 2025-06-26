@@ -1,0 +1,650 @@
+<?xml version="1.0"?>
+<dblpperson name="David Correa Martins Jr." pid="89/3723" n="40">
+<person key="homepages/89/3723" mdate="2016-02-12">
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author pid="89/3723">David Correa Martins</author>
+<note type="affiliation">University of Sao Paulo, Institute of Mathematics and Statistics, Brazil</note>
+</person>
+<r><inproceedings key="conf/wob/BoniniM23" mdate="2023-09-10">
+<author pid="195/8207">Rodrigo Cesar Bonini</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<title>Gene Networks Inference by Reinforcement Learning.</title>
+<pages>136-147</pages>
+<year>2023</year>
+<booktitle>BSB</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-42715-2_13</ee>
+<crossref>conf/wob/2023</crossref>
+<url>db/conf/wob/bsb2023.html#BoniniM23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bibe/TovarMRA22" mdate="2023-01-02">
+<author pid="255/8469">Carlos Reynaldo Portocarrero Tovar</author>
+<author pid="89/3723">David Correa Martins</author>
+<author pid="50/5026">Luiz C. S. Rozante</author>
+<author pid="139/5711">Eloi Araujo</author>
+<title>A Method for Computing Attractor Fields in Coupled Boolean Networks.</title>
+<pages>315-320</pages>
+<year>2022</year>
+<booktitle>BIBE</booktitle>
+<ee>https://doi.org/10.1109/BIBE55377.2022.00071</ee>
+<crossref>conf/bibe/2022</crossref>
+<url>db/conf/bibe/bibe2022.html#TovarMRA22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccabs/FonsecaMWPS21" mdate="2024-01-04">
+<author pid="364/0956">Alexandre Babilone Fonseca</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author pid="364/1614">Zofia Wicik</author>
+<author pid="364/1617">Marek Postula</author>
+<author pid="121/1278">S&#233;rgio Nery Sim&#245;es</author>
+<title>Addressing Classification on Highly Imbalanced Clinical Datasets.</title>
+<pages>103-114</pages>
+<year>2021</year>
+<booktitle>ICCABS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17531-2_9</ee>
+<crossref>conf/iccabs/2021</crossref>
+<url>db/conf/iccabs/iccabs2021.html#FonsecaMWPS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccsa/SiqueiraSRMSA21" mdate="2021-09-20">
+<author orcid="0000-0002-0193-5188" pid="301/6495">Rodrigo A. de O. Siqueira</author>
+<author orcid="0000-0002-7155-6597" pid="220/7354">Marco Aurelio Stefanes</author>
+<author orcid="0000-0002-5472-6670" pid="50/5026">Luiz C. S. Rozante</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author orcid="0000-0003-2347-042X" pid="00/2860">Jorge Estefano Santana de Souza</author>
+<author orcid="0000-0002-8015-6237" pid="139/5711">Eloi Araujo</author>
+<title>Multi-GPU Approach for Large-Scale Multiple Sequence Alignment.</title>
+<pages>560-575</pages>
+<year>2021</year>
+<booktitle>ICCSA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-86653-2_41</ee>
+<crossref>conf/iccsa/2021-1</crossref>
+<url>db/conf/iccsa/iccsa2021-1.html#SiqueiraSRMSA21</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/Carastan-Santos19" mdate="2020-03-02">
+<author orcid="0000-0002-1878-8137" pid="165/2057">Danilo Carastan-Santos</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<author pid="50/5026">Luiz C. S. Rozante</author>
+<author pid="31/4450">Raphael Y. de Camargo</author>
+<title>A hybrid CPU-GPU-MIC algorithm for minimal hitting set enumeration.</title>
+<year>2019</year>
+<volume>31</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1002/cpe.5087</ee>
+<url>db/journals/concurrency/concurrency31.html#Carastan-Santos19</url>
+</article>
+</r>
+<r><inproceedings key="conf/bibe/TovarACMR19" mdate="2020-01-07">
+<author pid="255/8469">Carlos Reynaldo Portocarrero Tovar</author>
+<author pid="139/5711">Eloi Araujo</author>
+<author pid="165/2057">Danilo Carastan-Santos</author>
+<author pid="89/3723">David Correa Martins</author>
+<author pid="50/5026">Luiz C. S. Rozante</author>
+<title>Finding Attractors in Biological Models Based on Boolean Dynamical Systems Using Hitting Set.</title>
+<pages>235-239</pages>
+<year>2019</year>
+<booktitle>BIBE</booktitle>
+<ee>https://doi.org/10.1109/BIBE.2019.00049</ee>
+<crossref>conf/bibe/2019</crossref>
+<url>db/conf/bibe/bibe2019.html#TovarACMR19</url>
+</inproceedings>
+</r>
+<r><article key="journals/fgcs/Carastan-Santos17" mdate="2020-02-19">
+<author orcid="0000-0002-1878-8137" pid="165/2057">Danilo Carastan-Santos</author>
+<author pid="31/4450">Raphael Y. de Camargo</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author pid="s/SiangWunSong">Siang W. Song</author>
+<author orcid="0000-0002-5472-6670" pid="50/5026">Luiz C. S. Rozante</author>
+<title>Finding exact hitting set solutions for systems biology applications using heterogeneous GPU clusters.</title>
+<pages>418-429</pages>
+<year>2017</year>
+<volume>67</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2016.02.009</ee>
+<url>db/journals/fgcs/fgcs67.html#Carastan-Santos17</url>
+</article>
+</r>
+<r><article key="journals/jcb/JacominiMSC17" mdate="2020-03-12">
+<author pid="117/3004">Ricardo de Souza Jacomini</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author pid="177/9513">Felipe Leno da Silva</author>
+<author orcid="0000-0001-7309-4528" pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</author>
+<title>GeNICE: A Novel Framework for Gene Network Inference by Clustering, Exhaustive Search, and Multivariate Analysis.</title>
+<pages>809-830</pages>
+<year>2017</year>
+<volume>24</volume>
+<journal>J. Comput. Biol.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1089/cmb.2017.0022</ee>
+<ee>https://www.wikidata.org/entity/Q38715645</ee>
+<url>db/journals/jcb/jcb24.html#JacominiMSC17</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcai/JacominiMSC16" mdate="2023-03-10">
+<author pid="117/3004">Ricardo de Souza Jacomini</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author pid="177/9513">Felipe Leno da Silva</author>
+<author pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</author>
+<title>A Framework for Scalable Inference of Temporal Gene Regulatory Networks based on Clustering and Multivariate Analysis.</title>
+<pages>7-13</pages>
+<year>2016</year>
+<booktitle>BAI@IJCAI</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1718/paper1.pdf</ee>
+<crossref>conf/ijcai/2016bai</crossref>
+<url>db/conf/ijcai/bai2016.html#JacominiMSC16</url>
+</inproceedings>
+</r>
+<r><article key="journals/bmcbi/SimoesMPHB15" mdate="2023-12-19">
+<author pid="121/1278">S&#233;rgio Nery Sim&#245;es</author>
+<author pid="89/3723">David Correa Martins</author>
+<author orcid="0000-0001-6315-7484" pid="122/0921">Carlos A. de B. Pereira</author>
+<author orcid="0000-0002-6399-8790" pid="72/2665">Ronaldo Fumio Hashimoto</author>
+<author orcid="0000-0001-5192-4682" pid="191/5072">Helena Paula Brentani</author>
+<title>NERI: network-medicine based integrative approach for disease gene prioritization by relative importance.</title>
+<pages>S9</pages>
+<year>2015</year>
+<month>December</month>
+<volume>16</volume>
+<journal>BMC Bioinform.</journal>
+<number>S19</number>
+<ee type="oa">https://doi.org/10.1186/1471-2105-16-s19-s9</ee>
+<ee>https://www.wikidata.org/entity/Q35876261</ee>
+<url>db/journals/bmcbi/bmcbi16S.html#SimoesMPHB15</url>
+</article>
+</r>
+<r><article key="journals/netmahib/JimenezMS15" mdate="2023-09-30">
+<author orcid="0000-0003-4725-6380" pid="159/0819">Ray Duenas Jimenez</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author pid="42/792">Carlos Silva Santos</author>
+<title>One genetic algorithm per gene to infer gene networks from expression data.</title>
+<pages>19</pages>
+<year>2015</year>
+<volume>4</volume>
+<journal>Netw. Model. Anal. Health Informatics Bioinform.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s13721-015-0092-3</ee>
+<url>db/journals/netmahib/netmahib4.html#JimenezMS15</url>
+</article>
+</r>
+<r><article key="journals/netmahib/SwarnkarSABCHMM15" mdate="2024-10-06">
+<author orcid="0000-0002-1853-4874" pid="126/7801">Tripti Swarnkar</author>
+<author pid="121/1278">S&#233;rgio Nery Sim&#245;es</author>
+<author orcid="0000-0002-2395-9113" pid="159/0830">Anji Anurak</author>
+<author orcid="0000-0001-5192-4682" pid="191/5072">Helena Paula Brentani</author>
+<author pid="51/11311">Jyotirmoy Chatterjee</author>
+<author orcid="0000-0002-6399-8790" pid="72/2665">Ronaldo Fumio Hashimoto</author>
+<author pid="89/3723">David Correa Martins</author>
+<author pid="m/PabitraMitra">Pabitra Mitra</author>
+<title>Identifying dense subgraphs in protein-protein interaction network for gene selection from microarray data.</title>
+<pages>33</pages>
+<year>2015</year>
+<volume>4</volume>
+<journal>Netw. Model. Anal. Health Informatics Bioinform.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s13721-015-0104-3</ee>
+<url>db/journals/netmahib/netmahib4.html#SwarnkarSABCHMM15</url>
+</article>
+</r>
+<r><article key="journals/netmahib/Montoya-CubasMS15" mdate="2024-05-07">
+<author orcid="0000-0003-2394-690X" pid="159/0784">Carlos Fernando Montoya-Cubas</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author pid="42/792">Carlos Silva Santos</author>
+<author orcid="0000-0003-0439-0475" pid="96/271">Junior Barrera</author>
+<title>Linear grouping of predictor instances to infer gene networks.</title>
+<pages>34</pages>
+<year>2015</year>
+<volume>4</volume>
+<journal>Netw. Model. Anal. Health Informatics Bioinform.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s13721-015-0105-2</ee>
+<url>db/journals/netmahib/netmahib4.html#Montoya-CubasMS15</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccgrid/Carastan-Santos15" mdate="2025-01-19">
+<author orcid="0000-0002-1878-8137" pid="165/2057">Danilo Carastan-Santos</author>
+<author pid="31/4450">Raphael Yokoingawa de Camargo</author>
+<author pid="89/3723">David Correa Martins</author>
+<author pid="s/SiangWunSong">Siang Wun Song</author>
+<author orcid="0000-0002-5472-6670" pid="50/5026">Luiz Carlos Silva Rozante</author>
+<author pid="59/11211">Fabrizio Ferreira Borelli</author>
+<title>A Multi-GPU Hitting Set Algorithm for GRNs Inference.</title>
+<pages>313-322</pages>
+<year>2015</year>
+<booktitle>CCGRID</booktitle>
+<ee>https://doi.org/10.1109/CCGrid.2015.29</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CCGrid.2015.29</ee>
+<ee>https://www.wikidata.org/entity/Q131117575</ee>
+<crossref>conf/ccgrid/2015</crossref>
+<url>db/conf/ccgrid/ccgrid2015.html#Carastan-Santos15</url>
+</inproceedings>
+</r>
+<r><article key="journals/isci/LopesMBC14" mdate="2024-05-07">
+<author pid="32/4623">Fabr&#237;cio Martins Lopes</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author orcid="0000-0003-0439-0475" pid="96/271">Junior Barrera</author>
+<author orcid="0000-0003-2701-4288" pid="c/RobertoMarcondesCesarJunior">Roberto Marcondes Cesar Jr.</author>
+<title>A feature selection technique for inference of graphs from their known topological properties: Revealing scale-free gene regulatory networks.</title>
+<pages>1-15</pages>
+<year>2014</year>
+<volume>272</volume>
+<journal>Inf. Sci.</journal>
+<ee>https://doi.org/10.1016/j.ins.2014.02.096</ee>
+<url>db/journals/isci/isci272.html#LopesMBC14</url>
+</article>
+</r>
+<r><inproceedings key="conf/bibe/JimenezMS14" mdate="2023-09-30">
+<author orcid="0000-0003-4725-6380" pid="159/0819">Ray Duenas Jimenez</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author pid="42/792">Carlos Silva Santos</author>
+<title>Gene Networks Inference through One Genetic Algorithm Per Gene.</title>
+<pages>1-8</pages>
+<year>2014</year>
+<booktitle>BIBE</booktitle>
+<ee>https://doi.org/10.1109/BIBE.2014.9</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BIBE.2014.9</ee>
+<crossref>conf/bibe/2014</crossref>
+<url>db/conf/bibe/bibe2014.html#JimenezMS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bibe/LimaSHJBM14" mdate="2025-03-03">
+<author pid="159/0778">Leandro de A. Lima</author>
+<author orcid="0000-0002-1094-7682" pid="121/1278">S&#233;rgio Nery Sim&#245;es</author>
+<author orcid="0000-0002-6399-8790" pid="72/2665">Ronaldo Fumio Hashimoto</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author orcid="0000-0001-5192-4682" pid="191/5072">Helena Paula Brentani</author>
+<author orcid="0000-0001-9722-1819" pid="204/5903">Guilherme Oliveira Mota</author>
+<title>Network-Based Disease Gene Prioritization by Hitting Time Analysis.</title>
+<pages>9-14</pages>
+<year>2014</year>
+<booktitle>BIBE</booktitle>
+<ee>https://doi.org/10.1109/BIBE.2014.22</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BIBE.2014.22</ee>
+<ee>https://www.wikidata.org/entity/Q60689521</ee>
+<crossref>conf/bibe/2014</crossref>
+<url>db/conf/bibe/bibe2014.html#LimaSHJBM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bibe/SwarnkarSMABHM14" mdate="2025-03-03">
+<author orcid="0000-0002-1853-4874" pid="126/7801">Tripti Swarnkar</author>
+<author orcid="0000-0002-1094-7682" pid="121/1278">S&#233;rgio Nery Sim&#245;es</author>
+<author pid="89/3723">David Correa Martins</author>
+<author pid="159/0830">Anji Anurak</author>
+<author orcid="0000-0001-5192-4682" pid="191/5072">Helena Paula Brentani</author>
+<author orcid="0000-0002-6399-8790" pid="72/2665">Ronaldo Fumio Hashimoto</author>
+<author pid="m/PabitraMitra">Pabitra Mitra</author>
+<title>Multiview Clustering on PPI Network for Gene Selection and Enrichment from Microarray Data.</title>
+<pages>15-22</pages>
+<year>2014</year>
+<booktitle>BIBE</booktitle>
+<ee>https://doi.org/10.1109/BIBE.2014.33</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BIBE.2014.33</ee>
+<ee>https://www.wikidata.org/entity/Q60689517</ee>
+<crossref>conf/bibe/2014</crossref>
+<url>db/conf/bibe/bibe2014.html#SwarnkarSMABHM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bibe/Montoya-CubasMS14" mdate="2024-05-07">
+<author orcid="0000-0003-2394-690X" pid="159/0784">Carlos Fernando Montoya-Cubas</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author pid="42/792">Carlos Silva Santos</author>
+<author orcid="0000-0003-0439-0475" pid="96/271">Junior Barrera</author>
+<title>Gene Networks Inference through Linear Grouping of Variables.</title>
+<pages>243-250</pages>
+<year>2014</year>
+<booktitle>BIBE</booktitle>
+<ee>https://doi.org/10.1109/BIBE.2014.10</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BIBE.2014.10</ee>
+<crossref>conf/bibe/2014</crossref>
+<url>db/conf/bibe/bibe2014.html#Montoya-CubasMS14</url>
+</inproceedings>
+</r>
+<r><article key="journals/bmcbi/BorelliCMR13" mdate="2020-03-15">
+<author pid="59/11211">Fabrizio F. Borelli</author>
+<author pid="31/4450">Raphael Y. de Camargo</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author orcid="0000-0002-5472-6670" pid="50/5026">Luiz C. S. Rozante</author>
+<title>Gene regulatory networks inference using a multi-GPU exhaustive search algorithm.</title>
+<pages>S5</pages>
+<year>2013</year>
+<volume>14</volume>
+<journal>BMC Bioinform.</journal>
+<number>S-18</number>
+<ee type="oa">https://doi.org/10.1186/1471-2105-14-S18-S5</ee>
+<ee>https://www.wikidata.org/entity/Q35101378</ee>
+<url>db/journals/bmcbi/bmcbi14S.html#BorelliCMR13</url>
+</article>
+</r>
+<r><article key="journals/isci/MartinsONHC13" mdate="2021-09-08">
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author pid="37/2807">Evaldo Ara&#250;jo de Oliveira</author>
+<author pid="13/3565">Ulisses M. Braga-Neto</author>
+<author orcid="0000-0002-6399-8790" pid="72/2665">Ronaldo Fumio Hashimoto</author>
+<author orcid="0000-0003-2701-4288" pid="c/RobertoMarcondesCesarJunior">Roberto Marcondes Cesar Jr.</author>
+<title>Signal propagation in Bayesian networks and its relationship with intrinsically multivariate predictive variables.</title>
+<pages>18-34</pages>
+<year>2013</year>
+<volume>225</volume>
+<journal>Inf. Sci.</journal>
+<ee>https://doi.org/10.1016/j.ins.2012.10.027</ee>
+<url>db/journals/isci/isci225.html#MartinsONHC13</url>
+</article>
+</r>
+<r><inproceedings key="conf/bcb/SimoesMBF12" mdate="2023-12-19">
+<author pid="121/1278">S&#233;rgio Nery Sim&#245;es</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author orcid="0000-0001-5192-4682" pid="191/5072">Helena Paula Brentani</author>
+<author orcid="0000-0002-6399-8790" pid="72/2665">Ronaldo Fumio Hashimoto</author>
+<title>Shortest paths ranking methodology to identify alterations in PPI networks of complex diseases.</title>
+<pages>561-563</pages>
+<year>2012</year>
+<booktitle>BCB</booktitle>
+<ee>https://doi.org/10.1145/2382936.2383021</ee>
+<ee>https://www.wikidata.org/entity/Q60689798</ee>
+<crossref>conf/bcb/2012</crossref>
+<url>db/conf/bcb/bcb2012.html#SimoesMBF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccabs/BorelliCMSR12" mdate="2023-03-23">
+<author pid="59/11211">Fabrizio F. Borelli</author>
+<author pid="31/4450">Raphael Y. de Camargo</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author pid="85/6495">Beatriz Stransky</author>
+<author orcid="0000-0002-5472-6670" pid="50/5026">Luiz C. S. Rozante</author>
+<title>Accelerating gene regulatory networks inference through GPU/CUDA programming.</title>
+<pages>1-6</pages>
+<year>2012</year>
+<booktitle>ICCABS</booktitle>
+<ee>https://doi.org/10.1109/ICCABS.2012.6182628</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICCABS.2012.6182628</ee>
+<crossref>conf/iccabs/2012</crossref>
+<url>db/conf/iccabs/iccabs2012.html#BorelliCMSR12</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1107-5000" mdate="2018-08-13">
+<author pid="32/4623">Fabr&#237;cio Martins Lopes</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author pid="96/271">Junior Barrera</author>
+<author pid="c/RobertoMarcondesCesarJunior">Roberto Marcondes Cesar Jr.</author>
+<title>An iterative feature selection method for GRNs inference by exploring topological properties</title>
+<ee type="oa">http://arxiv.org/abs/1107.5000</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1107.5000</volume>
+<url>db/journals/corr/corr1107.html#abs-1107-5000</url>
+</article>
+</r>
+<r><article key="journals/pr/RisBM10" mdate="2024-05-07">
+<author orcid="0000-0002-8366-849X" pid="69/7134">Marcelo Ris</author>
+<author orcid="0000-0003-0439-0475" pid="96/271">Junior Barrera</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<title>U-curve: A branch-and-bound optimization algorithm for U-shaped cost functions on Boolean lattices applied to the feature selection problem.</title>
+<pages>557-568</pages>
+<year>2010</year>
+<volume>43</volume>
+<journal>Pattern Recognit.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.patcog.2009.08.018</ee>
+<url>db/journals/pr/pr43.html#RisBM10</url>
+</article>
+</r>
+<r><inproceedings key="conf/ciarp/MartinsOLH10" mdate="2020-03-27">
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author pid="37/2807">Evaldo Ara&#250;jo de Oliveira</author>
+<author pid="86/8069">Vitor H. P. Louzada</author>
+<author orcid="0000-0002-6399-8790" pid="72/2665">Ronaldo Fumio Hashimoto</author>
+<title>Inference of Restricted Stochastic Boolean GRN's by Bayesian Error and Entropy Based Criteria.</title>
+<pages>144-152</pages>
+<year>2010</year>
+<booktitle>CIARP</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-16687-7_23</ee>
+<crossref>conf/ciarp/2010</crossref>
+<url>db/conf/ciarp/ciarp2010.html#MartinsOLH10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/prib/LopesMBC10" mdate="2018-11-02">
+<author pid="32/4623">Fabr&#237;cio Martins Lopes</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author pid="96/271">Junior Barrera</author>
+<author orcid="0000-0003-2701-4288" pid="c/RobertoMarcondesCesarJunior">Roberto M. Cesar</author>
+<title>SFFS-MR: A Floating Search Strategy for GRNs Inference.</title>
+<pages>407-418</pages>
+<year>2010</year>
+<booktitle>PRIB</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-16001-1_35</ee>
+<crossref>conf/prib/2010</crossref>
+<url>db/conf/prib/prib2010.html#LopesMBC10</url>
+</inproceedings>
+</r>
+<r><article key="journals/bmcbi/LopesMC09" mdate="2020-03-15">
+<author pid="32/4623">Fabr&#237;cio Martins Lopes</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author orcid="0000-0003-2701-4288" pid="c/RobertoMarcondesCesarJunior">Roberto Marcondes Cesar Junior</author>
+<title>Feature selection environment for genomic applications.</title>
+<pages>285</pages>
+<year>2009</year>
+<volume>10</volume>
+<journal>BMC Bioinform.</journal>
+<ee type="oa">https://doi.org/10.1186/1471-2105-10-285</ee>
+<ee>https://www.wikidata.org/entity/Q59638012</ee>
+<url>db/journals/bmcbi/bmcbi10.html#LopesMC09</url>
+</article>
+</r>
+<r><article key="journals/jvcir/LizierMCCN09" mdate="2020-02-22">
+<author pid="45/1785">Mario Augusto de Souza Lizier</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author orcid="0000-0001-7358-9002" pid="92/3372">Alex Jes&#250;s Cuadros-Vargas</author>
+<author orcid="0000-0003-2701-4288" pid="c/RobertoMarcondesCesarJunior">Roberto Marcondes Cesar Junior</author>
+<author pid="59/17">Luis Gustavo Nonato</author>
+<title>Generating segmented meshes from textured color images.</title>
+<pages>190-203</pages>
+<year>2009</year>
+<volume>20</volume>
+<journal>J. Vis. Commun. Image Represent.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.jvcir.2009.01.002</ee>
+<url>db/journals/jvcir/jvcir20.html#LizierMCCN09</url>
+</article>
+</r>
+<r><inproceedings key="conf/gensips/LopesMC09" mdate="2018-11-02">
+<author pid="32/4623">Fabr&#237;cio Martins Lopes</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author orcid="0000-0003-2701-4288" pid="c/RobertoMarcondesCesarJunior">Roberto Marcondes Cesar Jr.</author>
+<title>Comparative study of GRNS inference methods based on feature selection by mutual information.</title>
+<pages>1-4</pages>
+<year>2009</year>
+<booktitle>GENSiPS</booktitle>
+<ee>https://doi.org/10.1109/GENSIPS.2009.5174334</ee>
+<crossref>conf/gensips/2009</crossref>
+<url>db/conf/gensips/gensips2009.html#LopesMC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gensips/MartinsOSHC09" mdate="2021-09-08">
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author pid="37/2807">Evaldo Ara&#250;jo de Oliveira</author>
+<author orcid="0000-0003-1340-965X" pid="66/6061">Paulo J. S. Silva</author>
+<author orcid="0000-0002-6399-8790" pid="72/2665">Ronaldo Fumio Hashimoto</author>
+<author orcid="0000-0003-2701-4288" pid="c/RobertoMarcondesCesarJunior">Roberto Marcondes Cesar Jr.</author>
+<title>Revealing temporal genetic regulatory networks from steady-state distributions.</title>
+<pages>1-4</pages>
+<year>2009</year>
+<booktitle>GENSiPS</booktitle>
+<ee>https://doi.org/10.1109/GENSIPS.2009.5174335</ee>
+<crossref>conf/gensips/2009</crossref>
+<url>db/conf/gensips/gensips2009.html#MartinsOSHC09</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ndltd/Junior08h" mdate="2017-08-06">
+<author pid="89/3723">David Correa Martins Jr.</author>
+<title>Feature selection and intrinsically multivariate prediction in gene regulatory networks identification.</title>
+<year>2008</year>
+<school>University of S&#227;o Paulo, Brazil</school>
+<ee>http://www.teses.usp.br/teses/disponiveis/45/45134/tde-04012010-175308/</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:agregador.ibict.br.BDTD_USP:oai:teses.usp.br:tde-04012010-175308</ee>
+<note type="source">ndltd.org (oai:agregador.ibict.br.BDTD_USP:oai:teses.usp.br:tde-04012010-175308)</note>
+</phdthesis>
+</r>
+<r><article key="journals/bmcbi/LopesMC08" mdate="2020-03-15">
+<author pid="32/4623">Fabr&#237;cio Martins Lopes</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author orcid="0000-0003-2701-4288" pid="c/RobertoMarcondesCesarJunior">Roberto Marcondes Cesar Junior</author>
+<title>Feature selection environment for genomic applications.</title>
+<year>2008</year>
+<volume>9</volume>
+<journal>BMC Bioinform.</journal>
+<ee type="oa">https://doi.org/10.1186/1471-2105-9-451</ee>
+<ee>https://www.wikidata.org/entity/Q33378821</ee>
+<url>db/journals/bmcbi/bmcbi9.html#LopesMC08</url>
+</article>
+</r>
+<r><article key="journals/jstsp/MartinsNHBD08" mdate="2020-07-24">
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author pid="13/3565">Ulisses M. Braga-Neto</author>
+<author orcid="0000-0002-6399-8790" pid="72/2665">Ronaldo Fumio Hashimoto</author>
+<author pid="46/5858">Michael L. Bittner</author>
+<author pid="90/3909">Edward R. Dougherty</author>
+<title>Intrinsically Multivariate Predictive Genes.</title>
+<pages>424-439</pages>
+<year>2008</year>
+<volume>2</volume>
+<journal>IEEE J. Sel. Top. Signal Process.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/JSTSP.2008.923841</ee>
+<ee>https://www.wikidata.org/entity/Q57532581</ee>
+<url>db/journals/jstsp/jstsp2.html#MartinsNHBD08</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0805-3964" mdate="2018-08-13">
+<author pid="32/4623">Fabr&#237;cio Martins Lopes</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author pid="c/RobertoMarcondesCesarJunior">Roberto M. Cesar</author>
+<title>DimReduction - Interactive Graphic Environment for Dimensionality Reduction</title>
+<ee type="oa">http://arxiv.org/abs/0805.3964</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0805.3964</volume>
+<url>db/journals/corr/corr0805.html#abs-0805-3964</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0810-5573" mdate="2018-08-13">
+<author pid="69/7134">Marcelo Ris</author>
+<author pid="96/271">Junior Barrera</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<title>A branch-and-bound feature selection algorithm for U-shaped cost functions</title>
+<ee type="oa">http://arxiv.org/abs/0810.5573</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0810.5573</volume>
+<url>db/journals/corr/corr0810.html#abs-0810-5573</url>
+</article>
+</r>
+<r><article key="journals/bmcbi/BarreraCHMPSB07" mdate="2024-05-07">
+<author orcid="0000-0003-0439-0475" pid="96/271">Junior Barrera</author>
+<author orcid="0000-0003-2701-4288" pid="c/RobertoMarcondesCesarJunior">Roberto Marcondes Cesar Junior</author>
+<author pid="86/4600">Carlos Humes Jr.</author>
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author orcid="0000-0002-1129-4337" pid="239/1216">Diogo F. C. Patr&#227;o</author>
+<author orcid="0000-0003-1340-965X" pid="66/6061">Paulo J. S. Silva</author>
+<author orcid="0000-0001-5192-4682" pid="191/5072">Helena Paula Brentani</author>
+<title>A feature selection approach for identification of signature genes from SAGE data.</title>
+<year>2007</year>
+<volume>8</volume>
+<journal>BMC Bioinform.</journal>
+<ee type="oa">https://doi.org/10.1186/1471-2105-8-169</ee>
+<ee>https://www.wikidata.org/entity/Q31113441</ee>
+<url>db/journals/bmcbi/bmcbi8.html#BarreraCHMPSB07</url>
+</article>
+</r>
+<r><article key="journals/paa/MartinsCB06" mdate="2024-05-07">
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author orcid="0000-0003-2701-4288" pid="c/RobertoMarcondesCesarJunior">Roberto M. Cesar</author>
+<author orcid="0000-0003-0439-0475" pid="96/271">Junior Barrera</author>
+<title>W-operator window design by minimization of mean conditional entropy.</title>
+<pages>139-153</pages>
+<year>2006</year>
+<volume>9</volume>
+<journal>Pattern Anal. Appl.</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.1007/s10044-006-0031-0</ee>
+<url>db/journals/paa/paa9.html#MartinsCB06</url>
+</article>
+</r>
+<r><inproceedings key="conf/ciarp/MartinsCB05" mdate="2024-05-07">
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author orcid="0000-0003-2701-4288" pid="c/RobertoMarcondesCesarJunior">Roberto M. Cesar</author>
+<author orcid="0000-0003-0439-0475" pid="96/271">Junior Barrera</author>
+<title>Automatic Window Design for Gray-Scale Image Processing Based on Entropy Minimization.</title>
+<pages>813-824</pages>
+<year>2005</year>
+<crossref>conf/ciarp/2005</crossref>
+<booktitle>CIARP</booktitle>
+<ee type="oa">https://doi.org/10.1007/11578079_85</ee>
+<url>db/conf/ciarp/ciarp2005.html#MartinsCB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/MartinsJB04" mdate="2024-05-07">
+<author pid="89/3723">David Correa Martins Jr.</author>
+<author orcid="0000-0003-2701-4288" pid="c/RobertoMarcondesCesarJunior">Roberto Marcondes Cesar Junior</author>
+<author orcid="0000-0003-0439-0475" pid="96/271">Junior Barrera</author>
+<title>W-Operator Window Design by Maximization of Training Data Information.</title>
+<pages>162-169</pages>
+<year>2004</year>
+<crossref>conf/sibgrapi/2004</crossref>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRA.2004.1352957</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SIBGRA.2004.1352957</ee>
+<url>db/conf/sibgrapi/sibgrapi2004.html#MartinsJB04</url>
+</inproceedings>
+</r>
+<coauthors n="46" nc="2">
+<co c="0"><na f="a/Anurak:Anji" pid="159/0830">Anji Anurak</na></co>
+<co c="0"><na f="a/Araujo:Eloi" pid="139/5711">Eloi Araujo</na></co>
+<co c="0"><na f="b/Barrera:Junior" pid="96/271">Junior Barrera</na></co>
+<co c="0"><na f="b/Bittner:Michael_L=" pid="46/5858">Michael L. Bittner</na></co>
+<co c="1"><na f="b/Bonini:Rodrigo_Cesar" pid="195/8207">Rodrigo Cesar Bonini</na></co>
+<co c="0" n="2"><na f="b/Borelli:Fabrizio_F=" pid="59/11211">Fabrizio F. Borelli</na><na>Fabrizio Ferreira Borelli</na></co>
+<co c="0" n="2"><na f="b/Braga=Neto:Ulisses" pid="13/3565">Ulisses Braga-Neto</na><na>Ulisses M. Braga-Neto</na></co>
+<co c="0"><na f="b/Brentani:Helena_Paula" pid="191/5072">Helena Paula Brentani</na></co>
+<co c="0" n="2"><na f="c/Camargo:Raphael_Y=_de" pid="31/4450">Raphael Y. de Camargo</na><na>Raphael Yokoingawa de Camargo</na></co>
+<co c="0"><na f="c/Carastan=Santos:Danilo" pid="165/2057">Danilo Carastan-Santos</na></co>
+<co c="0"><na f="c/Chatterjee:Jyotirmoy" pid="51/11311">Jyotirmoy Chatterjee</na></co>
+<co c="1"><na f="c/Costa:Anna_Helena_Reali" pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</na></co>
+<co c="0" n="2"><na f="c/Cuadros=Vargas:Alex_J=" pid="92/3372">Alex J. Cuadros-Vargas</na><na>Alex Jes&#250;s Cuadros-Vargas</na></co>
+<co c="0"><na f="d/Dougherty:Edward_R=" pid="90/3909">Edward R. Dougherty</na></co>
+<co c="0"><na f="f/Fonseca:Alexandre_Babilone" pid="364/0956">Alexandre Babilone Fonseca</na></co>
+<co c="0"><na f="h/Hashimoto:Ronaldo_Fumio" pid="72/2665">Ronaldo Fumio Hashimoto</na></co>
+<co c="0"><na f="h/Humes_Jr=:Carlos" pid="86/4600">Carlos Humes Jr.</na></co>
+<co c="1"><na f="j/Jacomini:Ricardo_de_Souza" pid="117/3004">Ricardo de Souza Jacomini</na></co>
+<co c="0"><na f="j/Jimenez:Ray_Duenas" pid="159/0819">Ray Duenas Jimenez</na></co>
+<co c="0" n="3"><na f="j/Junior:Roberto_Marcondes_Cesar" pid="c/RobertoMarcondesCesarJunior">Roberto Marcondes Cesar Junior</na><na>Roberto Marcondes Cesar Jr.</na><na>Roberto M. Cesar</na></co>
+<co c="0"><na f="l/Lima:Leandro_de_A=" pid="159/0778">Leandro de A. Lima</na></co>
+<co c="0"><na f="l/Lizier:Mario_Augusto_de_Souza" pid="45/1785">Mario Augusto de Souza Lizier</na></co>
+<co c="0"><na f="l/Lopes:Fabr=iacute=cio_Martins" pid="32/4623">Fabr&#237;cio Martins Lopes</na></co>
+<co c="0"><na f="l/Louzada:Vitor_H=_P=" pid="86/8069">Vitor H. P. Louzada</na></co>
+<co c="0"><na f="m/Mitra:Pabitra" pid="m/PabitraMitra">Pabitra Mitra</na></co>
+<co c="0"><na f="m/Montoya=Cubas:Carlos_Fernando" pid="159/0784">Carlos Fernando Montoya-Cubas</na></co>
+<co c="0"><na f="m/Mota:Guilherme_Oliveira" pid="204/5903">Guilherme Oliveira Mota</na></co>
+<co c="0"><na f="n/Nonato:Luis_Gustavo" pid="59/17">Luis Gustavo Nonato</na></co>
+<co c="0"><na f="o/Oliveira:Evaldo_Ara=uacute=jo_de" pid="37/2807">Evaldo Ara&#250;jo de Oliveira</na></co>
+<co c="0"><na f="p/Patr=atilde=o:Diogo_F=_C=" pid="239/1216">Diogo F. C. Patr&#227;o</na></co>
+<co c="0" n="2"><na f="p/Pereira:Carlos_Alberto_De_Bragan=ccedil=a" pid="122/0921">Carlos Alberto De Bragan&#231;a Pereira</na><na>Carlos A. de B. Pereira</na></co>
+<co c="0"><na f="p/Postula:Marek" pid="364/1617">Marek Postula</na></co>
+<co c="0"><na f="r/Ris:Marcelo" pid="69/7134">Marcelo Ris</na></co>
+<co c="0" n="2"><na f="r/Rozante:Luiz_C=_S=" pid="50/5026">Luiz C. S. Rozante</na><na>Luiz Carlos Silva Rozante</na></co>
+<co c="0"><na f="s/Santos:Carlos_Silva" pid="42/792">Carlos Silva Santos</na></co>
+<co c="1"><na f="s/Silva:Felipe_Leno_da" pid="177/9513">Felipe Leno da Silva</na></co>
+<co c="0"><na f="s/Silva:Paulo_J=_S=" pid="66/6061">Paulo J. S. Silva</na></co>
+<co c="0"><na f="s/Sim=otilde=es:S=eacute=rgio_Nery" pid="121/1278">S&#233;rgio Nery Sim&#245;es</na></co>
+<co c="0"><na f="s/Siqueira:Rodrigo_A=_de_O=" pid="301/6495">Rodrigo A. de O. Siqueira</na></co>
+<co c="0" n="2"><na f="s/Song:Siang_Wun" pid="s/SiangWunSong">Siang Wun Song</na><na>Siang W. Song</na></co>
+<co c="0" n="2"><na f="s/Souza:Jorge_Estefano_de" pid="00/2860">Jorge Estefano de Souza</na><na>Jorge Estefano Santana de Souza</na></co>
+<co c="0"><na f="s/Stefanes:Marco_Aurelio" pid="220/7354">Marco Aurelio Stefanes</na></co>
+<co c="0"><na f="s/Stransky:Beatriz" pid="85/6495">Beatriz Stransky</na></co>
+<co c="0"><na f="s/Swarnkar:Tripti" pid="126/7801">Tripti Swarnkar</na></co>
+<co c="0"><na f="t/Tovar:Carlos_Reynaldo_Portocarrero" pid="255/8469">Carlos Reynaldo Portocarrero Tovar</na></co>
+<co c="0"><na f="w/Wicik:Zofia" pid="364/1614">Zofia Wicik</na></co>
+</coauthors>
+</dblpperson>
+
